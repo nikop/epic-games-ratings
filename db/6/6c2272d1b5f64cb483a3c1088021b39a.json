@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -4574,6 +4574,11 @@
       "Time": "2023-12-23T14:10:29.4802167+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T19:10:11.2350697+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4703,9 +4708,9 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 142
     },
     {
       "ID": "conqueror_2",
@@ -4753,7 +4758,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "elemental_stones_2",
@@ -5112,14 +5117,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:10:01.8406639+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:10:11.2350694+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.237449+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:27.6421222+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:10:01.8407202+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:15.2548149+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:10:11.2351247+00:00"
 }

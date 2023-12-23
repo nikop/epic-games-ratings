@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,927 |
-| Alt+F4 | 10.00% | ~24,424 |
-| Where's that freaking Dwarf? | 9.00% | ~21,982 |
-| Déjà vu | 7.00% | ~17,097 |
+| Sowwy! | 36.00% | ~87,932 |
+| Alt+F4 | 10.00% | ~24,426 |
+| Where's that freaking Dwarf? | 9.00% | ~21,983 |
+| Déjà vu | 7.00% | ~17,098 |
 | Sock! SOCK! | 6.00% | ~14,655 |
-| A beer, two curses, three companions | 5.00% | ~12,212 |
-| GG EZ | 5.00% | ~12,212 |
-| Speedrun | 5.00% | ~12,212 |
+| A beer, two curses, three companions | 5.00% | ~12,213 |
+| GG EZ | 5.00% | ~12,213 |
+| Speedrun | 5.00% | ~12,213 |
 | DM intervention | 4.00% | ~9,770 |
 | Fireproof Wizardess | 4.00% | ~9,770 |
-| Livin' in a dwarven paradise | 3.00% | ~7,327 |
-| Way of the Wimp | 3.00% | ~7,327 |
-| The plot thickens... At the tavern | 3.00% | ~7,327 |
-| The demons' feast | 3.00% | ~7,327 |
-| The Great Library | 3.00% | ~7,327 |
-| The Woman in the High Castle | 3.00% | ~7,327 |
-| Oh, when I'll be level 10... | 3.00% | ~7,327 |
+| Livin' in a dwarven paradise | 3.00% | ~7,328 |
+| Way of the Wimp | 3.00% | ~7,328 |
+| The plot thickens... At the tavern | 3.00% | ~7,328 |
+| The demons' feast | 3.00% | ~7,328 |
+| The Great Library | 3.00% | ~7,328 |
+| The Woman in the High Castle | 3.00% | ~7,328 |
+| Oh, when I'll be level 10... | 3.00% | ~7,328 |
 | Shiny and Crôm | 2.00% | ~4,885 |
 | Torture and Sensibility | 2.00% | ~4,885 |
 | Urik's Depths | 2.00% | ~4,885 |
@@ -39,37 +39,37 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,885 |
 | Thieves' Guild Accreditation | 2.00% | ~4,885 |
 | Team Building Exercise | 2.00% | ~4,885 |
-| %#*!$*! | 1.00% | ~2,442 |
-| Dead for good | 1.00% | ~2,442 |
-| Gargantua | 1.00% | ~2,442 |
-| In Navalu's footsteps | 1.00% | ~2,442 |
-| Lust and Debauchery | 1.00% | ~2,442 |
-| Material Girl | 1.00% | ~2,442 |
+| %#*!$*! | 1.00% | ~2,443 |
+| Dead for good | 1.00% | ~2,443 |
+| Gargantua | 1.00% | ~2,443 |
+| In Navalu's footsteps | 1.00% | ~2,443 |
+| Lust and Debauchery | 1.00% | ~2,443 |
+| Material Girl | 1.00% | ~2,443 |
 | Lëgal Legend | 0.90% | ~2,198 |
 | We come in peace | 0.80% | ~1,954 |
 | Holistic Adventuring Party | 0.70% | ~1,710 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,710 |
-| Law and Order | 0.60% | ~1,465 |
+| Law and Order | 0.60% | ~1,466 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,221 |
 | It's been a hard day's night | 0.50% | ~1,221 |
 | Friendly fire | 0.40% | ~977 |
 | I'd rather... Just... Sing! | 0.40% | ~977 |
 | Inception | 0.40% | ~977 |
 | The number of the counting shalt be 7 | 0.30% | ~733 |
-| Cursed die | 0.20% | ~488 |
-| The Blood Countess | 0.20% | ~488 |
-| He’s alive! Aliiiive! | 0.20% | ~488 |
-| Free customer service | 0.20% | ~488 |
-| Imposture and Trowels | 0.20% | ~488 |
-| Deep changes | 0.20% | ~488 |
-| A broken clock… | 0.20% | ~488 |
-| Living legends of the Lands of Fangh | 0.20% | ~488 |
-| Kudos from your DM | 0.20% | ~488 |
-| Insult to injury | 0.20% | ~488 |
-| 100% satisfaction guarantee | 0.20% | ~488 |
-| Death is for wimps | 0.20% | ~488 |
-| Super-Ultra-Lydian | 0.20% | ~488 |
-| Demisemiquaver | 0.20% | ~488 |
+| Cursed die | 0.20% | ~489 |
+| The Blood Countess | 0.20% | ~489 |
+| He’s alive! Aliiiive! | 0.20% | ~489 |
+| Free customer service | 0.20% | ~489 |
+| Imposture and Trowels | 0.20% | ~489 |
+| Deep changes | 0.20% | ~489 |
+| A broken clock… | 0.20% | ~489 |
+| Living legends of the Lands of Fangh | 0.20% | ~489 |
+| Kudos from your DM | 0.20% | ~489 |
+| Insult to injury | 0.20% | ~489 |
+| 100% satisfaction guarantee | 0.20% | ~489 |
+| Death is for wimps | 0.20% | ~489 |
+| Super-Ultra-Lydian | 0.20% | ~489 |
+| Demisemiquaver | 0.20% | ~489 |
 | Necrophilia | 0.10% | ~244 |
 | Restless night | 0.10% | ~244 |
 | King of the Arena | 0.10% | ~244 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,242 (Ranked 65)  
+Progressed: 244,256 (Ranked 65)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-20 | 243,748 | 7 |
 | 2023-12-21 | 243,905 | 7 |
 | 2023-12-22 | 244,079 | 7 |
-| 2023-12-23 | 244,242 | 7 |
+| 2023-12-23 | 244,256 | 7 |
 ## Awards
 Max (Character Customization): 250  (Ranked 274)  
 Sum: 530 (Ranked 327)  

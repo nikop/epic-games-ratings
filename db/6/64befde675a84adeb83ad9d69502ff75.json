@@ -2,10 +2,10 @@
   "ID": "64befde675a84adeb83ad9d69502ff75",
   "Name": "CyberPunk:AI and Neon",
   "ProductSlug": "cyberpunkai-and-neon-726408",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
     "PcReleaseDate": "2024-01-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-21T23:57:02.7449648+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:00.8502239+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:04:10.8367328+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:48.37469+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:03:53.5402711+00:00"
 }

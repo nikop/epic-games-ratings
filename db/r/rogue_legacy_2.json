@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26458,
+  "EOS_Progressed": 26463,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1710,
+  "EOS_NewPlayers": 1707,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11592,6 +11592,11 @@
       "Time": "2023-12-23T18:09:42.7587083+00:00",
       "NumProgressed": 26458,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-23T19:09:50.9279+00:00",
+      "NumProgressed": 26463,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11667,7 +11672,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11795,7 +11800,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "EndTimerFail",
@@ -11914,21 +11919,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26458,
+      "Progressed": 26463,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5388,
+      "Progressed": 5393,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:42.7587081+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:50.9278996+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:57.9059597+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:42.7587615+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:44.1124646+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:50.9279735+00:00"
 }

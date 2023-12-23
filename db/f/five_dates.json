@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1485,
+  "EOS_Progressed": 1492,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2695,6 +2695,11 @@
       "Time": "2023-12-23T18:09:48.3356174+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-23T19:09:56.6577731+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2706,7 +2711,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1462
     },
     {
       "ID": "booty_call",
@@ -2714,7 +2719,7 @@
       "Name": "Booty Call",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "crash_and_burn",
@@ -2730,7 +2735,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1432
     },
     {
       "ID": "hold_my_beer",
@@ -2738,7 +2743,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 936
+      "UsersEstimate": 940
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2746,7 +2751,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "interrogation",
@@ -2754,7 +2759,7 @@
       "Name": "Interrogation",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "light_sleepers",
@@ -2768,9 +2773,9 @@
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 328
     },
     {
       "ID": "nueva_beginnings",
@@ -2778,15 +2783,15 @@
       "Name": "Nueva Beginnings",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 431
+      "UsersEstimate": 433
     },
     {
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 388
     },
     {
       "ID": "planting_the_seed",
@@ -2794,7 +2799,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "smooth_criminal",
@@ -2802,7 +2807,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "sore_loser",
@@ -2810,7 +2815,7 @@
       "Name": "Sore Loser",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "we_go_again",
@@ -2818,14 +2823,14 @@
       "Name": "We Go Again",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 386
+      "UsersEstimate": 388
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1485,
+      "Progressed": 1492,
       "Completed": 11
     }
   ],
@@ -2833,8 +2838,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:48.3356172+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:56.6577728+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:19.1097914+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:48.3356379+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:06.6155085+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:56.657793+00:00"
 }

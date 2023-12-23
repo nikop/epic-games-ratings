@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 45.00% | ~30 |
-| You have three wishes left | 40.00% | ~27 |
+| Master trainee | 46.00% | ~31 |
+| You have three wishes left | 42.00% | ~28 |
+| Jung's dream | 31.00% | ~21 |
 | The battle of Great Britain | 31.00% | ~21 |
-| Jung's dream | 30.00% | ~20 |
 | Pulp! Where Monsters Dwell | 25.00% | ~17 |
 | A continent with chemistry | 19.00% | ~13 |
 | Giant | 18.00% | ~12 |
 | The happy farmer girl | 18.00% | ~12 |
 | Pulp! Terror Tales in the Night | 16.00% | ~11 |
+| A rival with no options | 15.00% | ~10 |
 | Pulp! Out of this World | 15.00% | ~10 |
 | Pulp! Adventures into the Unknown | 15.00% | ~10 |
-| A rival with no options | 13.00% | ~9 |
 | The artist | 13.00% | ~9 |
 | Diagnosis: fear | 13.00% | ~9 |
 | Ambition is... blind | 13.00% | ~9 |
@@ -23,12 +23,12 @@
 | The seer | 12.00% | ~8 |
 | You had one wish left | 10.00% | ~7 |
 | Et in arcadia ego | 10.00% | ~7 |
+| Kirlian's best disciple | 10.00% | ~7 |
 | You've awakened the beast | 9.00% | ~6 |
 | Hate is... addictive | 9.00% | ~6 |
 | Bread and bocaua | 9.00% | ~6 |
 | Fanatacism is... poisonous | 9.00% | ~6 |
 | The bully | 9.00% | ~6 |
-| Kirlian's best disciple | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
 | Welcome to Hellville | 9.00% | ~6 |
 | Blood Red Island | 7.00% | ~5 |

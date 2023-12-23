@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1405,18 +1405,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 766,
       "NumberOfAwardsMax": 528
+    },
+    {
+      "Time": "2023-12-23T18:57:18.4493669+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 768,
+      "NumberOfAwardsMax": 530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 766,
-  "NumberOfAwardsMax": 528,
+  "NumberOfAwards": 768,
+  "NumberOfAwardsMax": 530,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 528
+      "Count": 530
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1473,9 +1479,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24931,
+  "EOS_Progressed": 24932,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28108,6 +28114,11 @@
       "Time": "2023-12-23T18:06:30.3251173+00:00",
       "NumProgressed": 24931,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-23T19:06:11.7329429+00:00",
+      "NumProgressed": 24932,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -28135,7 +28146,7 @@
       "Name": "Artificial selection",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "BackToHell",
@@ -28143,7 +28154,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 8975
+      "UsersEstimate": 8976
     },
     {
       "ID": "CantRunCantHide",
@@ -28215,7 +28226,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10720
+      "UsersEstimate": 10721
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -28263,7 +28274,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "Neuromancer",
@@ -28271,7 +28282,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6731
+      "UsersEstimate": 6732
     },
     {
       "ID": "ObedientMachine",
@@ -28343,7 +28354,7 @@
       "Name": "Running out of breath",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13213
+      "UsersEstimate": 13214
     },
     {
       "ID": "RunningWild",
@@ -28391,7 +28402,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 15208
+      "UsersEstimate": 15209
     },
     {
       "ID": "SwordToAGunfight",
@@ -28439,7 +28450,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 13213
+      "UsersEstimate": 13214
     },
     {
       "ID": "WaveOfMutilation",
@@ -28455,7 +28466,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9972
+      "UsersEstimate": 9973
     },
     {
       "ID": "WhereHeStood",
@@ -28478,21 +28489,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24931,
+      "Progressed": 24932,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24931,
+      "Progressed": 24932,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "LastChanged": "2023-12-19T15:59:23.7611453+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:06:30.325117+00:00",
+  "LastChanged": "2023-12-23T18:57:18.4493667+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:06:11.7329426+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.3617776+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:57:30.0959976+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:06:30.3252384+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:18.4493672+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:06:11.7330615+00:00"
 }

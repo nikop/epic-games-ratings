@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2053,
+  "EOS_Progressed": 2058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5984,6 +5984,11 @@
       "Time": "2023-12-23T18:10:02.8038258+00:00",
       "NumProgressed": 2053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T19:10:11.9391434+00:00",
+      "NumProgressed": 2058,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6068,7 +6073,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_19",
@@ -6090,9 +6095,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_21",
@@ -6140,7 +6145,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_27",
@@ -6188,7 +6193,7 @@
       "Name": "Scrap collector",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_32",
@@ -6196,7 +6201,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_33",
@@ -6212,7 +6217,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_35",
@@ -6220,7 +6225,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1811
     },
     {
       "ID": "achievement_36",
@@ -6236,7 +6241,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1317
     },
     {
       "ID": "achievement_38",
@@ -6244,7 +6249,7 @@
       "Name": "Survivor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_39",
@@ -6268,7 +6273,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1070
     },
     {
       "ID": "achievement_41",
@@ -6282,9 +6287,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_43",
@@ -6300,7 +6305,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 554
+      "UsersEstimate": 556
     },
     {
       "ID": "achievement_45",
@@ -6330,9 +6335,9 @@
       "ID": "achievement_48",
       "SetID": "cemm4l8",
       "Name": "No such thing as luck",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_49",
@@ -6348,7 +6353,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_50",
@@ -6364,7 +6369,7 @@
       "Name": "You have your moments",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_52",
@@ -6436,7 +6441,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_60",
@@ -6499,13 +6504,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2053,
+      "Progressed": 2058,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2053,
+      "Progressed": 2058,
       "Completed": 1
     }
   ],
@@ -6513,8 +6518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:10:02.8038229+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:10:11.9391432+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:19.9265034+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:10:02.8038898+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:07.452144+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:10:11.939205+00:00"
 }

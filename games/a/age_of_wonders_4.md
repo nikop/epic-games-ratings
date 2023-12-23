@@ -9,14 +9,14 @@ Rating: 4.62 (Ranked 373)
 | Realm Estate | 7.00% | ~424 |
 | A Wonderful Discovery | 7.00% | ~424 |
 | Walls Cannot Stop Us | 7.00% | ~424 |
-| From Friends to Family | 6.00% | ~363 |
+| From Friends to Family | 6.00% | ~364 |
 | Bone Peddler | 5.00% | ~303 |
 | But this one is mine | 5.00% | ~303 |
-| There Can Only Be One! | 4.00% | ~242 |
-| Full Ascension | 4.00% | ~242 |
-| Stronger Together | 4.00% | ~242 |
-| Magical Synergy | 4.00% | ~242 |
-| Seat of Power | 4.00% | ~242 |
+| There Can Only Be One! | 4.00% | ~243 |
+| Full Ascension | 4.00% | ~243 |
+| Stronger Together | 4.00% | ~243 |
+| Magical Synergy | 4.00% | ~243 |
+| Seat of Power | 4.00% | ~243 |
 | Valley of Wonders | 3.00% | ~182 |
 | In a Liege of Your Own | 3.00% | ~182 |
 | Intimidation Tactics | 3.00% | ~182 |
@@ -48,10 +48,10 @@ Rating: 4.62 (Ranked 373)
 | God Emperor | 0.90% | ~55 |
 | Lord of Chaos | 0.90% | ~55 |
 | The Goddess of Nature | 0.90% | ~55 |
-| I've Got Everything I Need Right Here | 0.80% | ~48 |
-| Pruning for Progress | 0.80% | ~48 |
-| Grexolis | 0.80% | ~48 |
-| One for All, All for One | 0.80% | ~48 |
+| I've Got Everything I Need Right Here | 0.80% | ~49 |
+| Pruning for Progress | 0.80% | ~49 |
+| Grexolis | 0.80% | ~49 |
+| One for All, All for One | 0.80% | ~49 |
 | Manufactured War | 0.70% | ~42 |
 | Duality | 0.70% | ~42 |
 | Betrayal Most Foul | 0.50% | ~30 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,058 (Ranked 193)  
+Progressed: 6,064 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 7 (0.12%) (Ranked 296)
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
-| 2023-12-23 | 6,058 | 7 |
+| 2023-12-23 | 6,064 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 483)  
 Sum: 113 (Ranked 449)  

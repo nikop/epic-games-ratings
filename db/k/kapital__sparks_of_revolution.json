@@ -2,10 +2,10 @@
   "ID": "667b2b35c7bc46678a2bb58525dd2281",
   "Name": "Kapital: Sparks of Revolution",
   "ProductSlug": "kapital-sparks-of-revolution-70f07b",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-28T17:00:00+00:00",
     "PcReleaseDate": "2022-04-28T17:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.664008+00:00",
   "LastChanged": "2023-03-31T05:57:10.6640081+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:39.8075938+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:02:34.3958014+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:31.2067714+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:00:19.1268257+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:39.8717099+00:00"
 }

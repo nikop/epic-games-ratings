@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 974,
+  "EOS_Progressed": 977,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2332,6 +2332,11 @@
       "Time": "2023-12-23T18:03:48.0344098+00:00",
       "NumProgressed": 974,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T19:03:30.8796813+00:00",
+      "NumProgressed": 977,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2398,9 +2403,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 752
     },
     {
       "ID": "CompleteChapter10",
@@ -2446,9 +2451,9 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 78
     },
     {
       "ID": "CompleteChapter16",
@@ -2488,7 +2493,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 586
     },
     {
       "ID": "CompleteChapter3",
@@ -2496,7 +2501,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "CompleteChapter4",
@@ -2504,7 +2509,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "CompleteChapter5",
@@ -2528,7 +2533,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "CompleteChapter8",
@@ -2544,7 +2549,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -2592,7 +2597,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2639,14 +2644,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 974,
+      "Progressed": 977,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:03:48.0344096+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:03:30.8796811+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:01.3064117+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:03:48.0344362+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:48.8393643+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:03:30.8797288+00:00"
 }

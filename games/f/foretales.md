@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 63.00% | ~180 |
-| Gorilla warfare | 58.00% | ~165 |
+| Gorilla warfare | 58.00% | ~166 |
 | Isenburg's fall | 49.00% | ~140 |
 | Pieces of eight! | 42.00% | ~120 |
-| Aboard the Sea Bird | 31.00% | ~88 |
-| Elephant in the room | 31.00% | ~88 |
+| Aboard the Sea Bird | 31.00% | ~89 |
+| Elephant in the room | 31.00% | ~89 |
 | Dark and stinky | 30.00% | ~86 |
-| Is this the end? | 25.00% | ~71 |
-| Sneak in, sneak out | 25.00% | ~71 |
-| A gift horse | 25.00% | ~71 |
-| You sssaved me | 24.00% | ~68 |
+| Is this the end? | 25.00% | ~72 |
+| Sneak in, sneak out | 25.00% | ~72 |
+| A gift horse | 25.00% | ~72 |
+| You sssaved me | 24.00% | ~69 |
 | Say hello to my little friends | 21.00% | ~60 |
 | Heal thyself | 20.00% | ~57 |
 | Gotcha | 19.00% | ~54 |
@@ -23,7 +23,7 @@
 | Double trouble | 15.00% | ~43 |
 | Welcome to Forte Ailes | 14.00% | ~40 |
 | Super Moth Boy | 13.00% | ~37 |
-| The Bad Place | 10.00% | ~28 |
+| The Bad Place | 10.00% | ~29 |
 | Meet your maker | 9.00% | ~26 |
 | The pelican brief | 8.00% | ~23 |
 | Pacifist fanatic | 8.00% | ~23 |
@@ -41,12 +41,12 @@
 | One shot blade | 1.00% | ~3 |
 | The Medium Place | 1.00% | ~3 |
 | Done negotiating | 0.70% | ~2 |
-| Invulnerable | 0.40% | ~1 |
+| Invulnerable | 0.30% | ~1 |
 | Blind as a bat | 0.00% | ~0 |
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 380)  
+Progressed: 286 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-11-19 | 280 | 0 |
 | 2023-12-21 | 281 | 0 |
 | 2023-12-22 | 283 | 0 |
-| 2023-12-23 | 285 | 0 |
+| 2023-12-23 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

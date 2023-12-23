@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 77.00% | ~171 |
-| Purification Pioneer | 73.00% | ~162 |
-| Mechanical Buddy | 68.00% | ~151 |
-| Dicesmithing Time! | 60.00% | ~133 |
+| Meissa's Savior | 77.00% | ~172 |
+| Purification Pioneer | 73.00% | ~163 |
+| Mechanical Buddy | 68.00% | ~152 |
+| Dicesmithing Time! | 60.00% | ~134 |
 | Sanctuary Guardian | 54.00% | ~120 |
 | Endless Tricks | 48.00% | ~107 |
-| Wild's Keeper | 45.00% | ~100 |
-| Mind Illuminator | 43.00% | ~95 |
-| Noctuan Champion | 36.00% | ~80 |
-| Stellar Dismantler | 34.00% | ~75 |
+| Wild's Keeper | 46.00% | ~103 |
+| Mind Illuminator | 43.00% | ~96 |
+| Noctuan Champion | 35.00% | ~78 |
+| Stellar Dismantler | 34.00% | ~76 |
 | Anomaly Destroyer | 31.00% | ~69 |
 | Astral Adventurer | 30.00% | ~67 |
 | Star Killer | 27.00% | ~60 |
 | Eridanian Champion | 25.00% | ~56 |
-| Loyal Partner | 23.00% | ~51 |
 | Lacertian Champion | 23.00% | ~51 |
+| Loyal Partner | 22.00% | ~49 |
 | Apian Champion | 21.00% | ~47 |
 | Shard Spender | 18.00% | ~40 |
-| Unbeatable | 18.00% | ~40 |
+| Unbeatable | 17.00% | ~38 |
 | Behenian Champion | 17.00% | ~38 |
 | Sadistic Plan | 15.00% | ~33 |
 | Astral Seeker | 10.00% | ~22 |
@@ -37,16 +37,16 @@
 | Anomaly Control | 6.00% | ~13 |
 | Can't touch this | 6.00% | ~13 |
 | Artificer | 5.00% | ~11 |
-| Denying Destiny | 5.00% | ~11 |
-| Prestidigitation | 5.00% | ~11 |
 | The Dark Moon | 5.00% | ~11 |
-| The Distorted Sage | 5.00% | ~11 |
 | Apian Hero | 5.00% | ~11 |
-| Lacertian Hero | 5.00% | ~11 |
+| Denying Destiny | 4.00% | ~9 |
 | If I Had Failed... | 4.00% | ~9 |
+| Prestidigitation | 4.00% | ~9 |
 | Purification Avatar | 4.00% | ~9 |
 | The Chaos Artisan | 4.00% | ~9 |
+| The Distorted Sage | 4.00% | ~9 |
 | Behenian Hero | 4.00% | ~9 |
+| Lacertian Hero | 4.00% | ~9 |
 | Noctuan Hero | 4.00% | ~9 |
 | Astrarium of Holding | 3.00% | ~7 |
 | The Abyssal Terror | 3.00% | ~7 |
@@ -74,11 +74,11 @@
 | Plague Doctor | 0.90% | ~2 |
 | Six-Sided Mastery | 0.90% | ~2 |
 | This is Fine | 0.90% | ~2 |
-| Arch-Oracle | 0.50% | ~1 |
-| Dice Specialist | 0.50% | ~1 |
-| Gotta tinker'em all! | 0.50% | ~1 |
-| The world goes round... | 0.50% | ~1 |
-| Virtuous Warrior | 0.50% | ~1 |
+| Arch-Oracle | 0.40% | ~1 |
+| Dice Specialist | 0.40% | ~1 |
+| Gotta tinker'em all! | 0.40% | ~1 |
+| The world goes round... | 0.40% | ~1 |
+| Virtuous Warrior | 0.40% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 404)  
+Progressed: 223 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,4 +161,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 201 | 0 |
 | 2023-12-21 | 206 | 0 |
 | 2023-12-22 | 214 | 0 |
-| 2023-12-23 | 222 | 0 |
+| 2023-12-23 | 223 | 0 |

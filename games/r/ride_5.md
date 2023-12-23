@@ -18,7 +18,7 @@
 | Legendary!!! | 19.00% | ~552 |
 | Go-Faster Stripes | 17.00% | ~494 |
 | I'm Here Too! | 15.00% | ~436 |
-| We've Just Begun | 12.00% | ~348 |
+| We've Just Begun | 12.00% | ~349 |
 | Is It the Right Size? | 9.00% | ~261 |
 | Stamina Star | 8.00% | ~232 |
 | Evangelist | 6.00% | ~174 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,904 (Ranked 220)  
+Progressed: 2,905 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,4 +167,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 2,787 | 0 |
 | 2023-12-21 | 2,825 | 0 |
 | 2023-12-22 | 2,873 | 0 |
-| 2023-12-23 | 2,904 | 0 |
+| 2023-12-23 | 2,905 | 0 |

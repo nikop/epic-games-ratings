@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1437,9 +1437,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 73579,
+  "EOS_Progressed": 73638,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 3791,
+  "EOS_NewPlayers": 3814,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13777,6 +13777,11 @@
       "Time": "2023-12-23T18:05:30.6121018+00:00",
       "NumProgressed": 73579,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-23T19:05:12.0328149+00:00",
+      "NumProgressed": 73638,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -13789,7 +13794,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 28696
+      "UsersEstimate": 28719
     },
     {
       "ID": "10",
@@ -13805,7 +13810,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2209
     },
     {
       "ID": "12",
@@ -13813,7 +13818,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2209
     },
     {
       "ID": "13",
@@ -13821,7 +13826,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "14",
@@ -13829,7 +13834,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4418
     },
     {
       "ID": "15",
@@ -13845,7 +13850,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "2",
@@ -13853,7 +13858,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 13980
+      "UsersEstimate": 13991
     },
     {
       "ID": "3",
@@ -13861,7 +13866,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 9565
+      "UsersEstimate": 9573
     },
     {
       "ID": "4",
@@ -13869,7 +13874,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7358
+      "UsersEstimate": 7364
     },
     {
       "ID": "5",
@@ -13877,7 +13882,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5891
     },
     {
       "ID": "6",
@@ -13885,7 +13890,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4418
     },
     {
       "ID": "7",
@@ -13893,7 +13898,7 @@
       "Name": "More Power to You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 6622
+      "UsersEstimate": 6627
     },
     {
       "ID": "8",
@@ -13916,7 +13921,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 73579,
+      "Progressed": 73638,
       "Completed": 60
     }
   ],
@@ -13924,8 +13929,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-23T18:00:25.0871108+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:05:30.6121015+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:05:12.0328146+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:09.497208+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:00:25.0871114+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:05:30.6121627+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:00:10.840032+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:12.0328776+00:00"
 }

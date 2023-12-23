@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6058,
+  "EOS_Progressed": 6064,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8907,6 +8907,11 @@
       "Time": "2023-12-23T18:06:35.4924695+00:00",
       "NumProgressed": 6058,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T19:08:16.0289743+00:00",
+      "NumProgressed": 6064,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8934,7 +8939,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "12",
@@ -8942,7 +8947,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "13",
@@ -8958,7 +8963,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "15",
@@ -9078,7 +9083,7 @@
       "Name": "From Friends to Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "29",
@@ -9086,7 +9091,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "3",
@@ -9110,7 +9115,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "32",
@@ -9126,7 +9131,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "34",
@@ -9222,7 +9227,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "5",
@@ -9230,7 +9235,7 @@
       "Name": "Grexolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "6",
@@ -9238,7 +9243,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "7",
@@ -9397,13 +9402,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6058,
+      "Progressed": 6064,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6058,
+      "Progressed": 6064,
       "Completed": 7
     }
   ],
@@ -9411,8 +9416,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:06:35.4924692+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:08:16.0289737+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:22.2168605+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:06:35.4925393+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:10.0386086+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:08:16.0290429+00:00"
 }

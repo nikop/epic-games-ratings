@@ -5,10 +5,10 @@
   "Ranking_Rating": 173,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 18,
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -9169,18 +9169,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 98866,
       "NumberOfAwardsMax": 24702
+    },
+    {
+      "Time": "2023-12-23T18:57:08.4493181+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 99031,
+      "NumberOfAwardsMax": 24835
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98866,
-  "NumberOfAwardsMax": 24702,
+  "NumberOfAwards": 99031,
+  "NumberOfAwardsMax": 24835,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24702
+      "Count": 24835
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9192,7 +9198,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6667
+      "Count": 6699
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -9261,8 +9267,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-12-23T16:57:26.7309497+00:00",
+  "LastChanged": "2023-12-23T18:57:08.4493179+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9753095+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:57:20.1599985+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:03:38.5347024+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:08.4493185+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:03:21.7901346+00:00"
 }

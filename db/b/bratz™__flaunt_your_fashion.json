@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-12-23T13:07:27.9279248+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T19:05:11.6832858+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -417,7 +422,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "10",
@@ -463,7 +468,7 @@
       "ID": "15",
       "SetID": "41h3j82",
       "Name": "Talented Photographer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -487,7 +492,7 @@
       "ID": "18",
       "SetID": "41h3j82",
       "Name": "Exclusive Photoshoot",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -568,7 +573,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -576,8 +581,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:05:30.1795318+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:05:11.6832855+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:21.6585239+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:45.5622818+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:05:30.1795493+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:32.3164457+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:11.6832974+00:00"
 }

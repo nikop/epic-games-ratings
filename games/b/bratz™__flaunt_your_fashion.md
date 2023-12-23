@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 95.00% | ~100 |
+| Welcome to Stilesville | 95.00% | ~101 |
 | Talented Performer | 57.00% | ~60 |
 | Welcome to Barcelona | 56.00% | ~59 |
 | We will need a bigger wardrobe | 41.00% | ~43 |
@@ -21,10 +21,10 @@
 | Hoverboard Race | 6.00% | ~6 |
 | Trendy Selfies | 3.00% | ~3 |
 | Xtremely Cool Pictures | 2.00% | ~2 |
-| Talented Photographer | 1.00% | ~1 |
-| Exclusive Photoshoot | 1.00% | ~1 |
+| Talented Photographer | 0.90% | ~1 |
+| Exclusive Photoshoot | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 470)  
+Progressed: 106 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-18 | 98 | 0 |
 | 2023-12-21 | 100 | 0 |
 | 2023-12-22 | 101 | 0 |
-| 2023-12-23 | 105 | 0 |
+| 2023-12-23 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

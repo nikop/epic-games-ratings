@@ -2,10 +2,10 @@
   "ID": "a7722186eef74d2291599308b18a89c2",
   "Name": "Detective Solitaire. Butler Story",
   "ProductSlug": "detective-solitaire-butler-story-a24413",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-02-19T21:00:00+00:00",
     "PcReleaseDate": "2019-10-14T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-20T05:56:53.9362248+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:47.690083+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:04:39.8640044+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:35.1041101+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:04:21.7968737+00:00"
 }

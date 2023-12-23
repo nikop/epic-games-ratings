@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 86.00% | ~393 |
-| Vanquisher of Robots | 77.00% | ~352 |
-| Party | 50.00% | ~228 |
-| Impossible Cube | 46.00% | ~210 |
-| Knowledge is Power | 44.00% | ~201 |
-| Through the Darkness | 44.00% | ~201 |
+| Good start! | 86.00% | ~394 |
+| Vanquisher of Robots | 78.00% | ~357 |
+| Party | 50.00% | ~229 |
+| Impossible Cube | 47.00% | ~215 |
+| Knowledge is Power | 44.00% | ~202 |
+| Through the Darkness | 44.00% | ~202 |
 | No Mercy | 43.00% | ~197 |
-| The Return of a Rat | 42.00% | ~192 |
-| Fat of the Earth | 37.00% | ~169 |
-| Last Man Standing | 32.00% | ~146 |
+| The Return of a Rat | 41.00% | ~188 |
+| Fat of the Earth | 36.00% | ~165 |
+| Last Man Standing | 32.00% | ~147 |
 | He's Seen It All | 28.00% | ~128 |
 | Great Hero | 28.00% | ~128 |
-| Campaigning | 27.00% | ~123 |
-| Rookie | 27.00% | ~123 |
+| Campaigning | 27.00% | ~124 |
+| Rookie | 27.00% | ~124 |
 | Assemble a Meganewbie | 26.00% | ~119 |
 | Catch Jonathan_tostar | 26.00% | ~119 |
 | Frugal | 22.00% | ~101 |
@@ -26,7 +26,7 @@ Rating: 4.50 (Ranked 603)
 | To the Moon and Back | 21.00% | ~96 |
 | Great Flight | 19.00% | ~87 |
 | Holy Vengeance | 17.00% | ~78 |
-| Honorary Cultist | 13.00% | ~59 |
+| Honorary Cultist | 13.00% | ~60 |
 | Brain and Brawn | 11.00% | ~50 |
 | Strength and Sorcery | 10.00% | ~46 |
 | Omae Wa Mou Shindeiru | 8.00% | ~37 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 603)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 337)  
+Progressed: 458 (Ranked 337)  
 Completed: 1 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 1 (0.22%) (Ranked 266)
 | 2023-12-20 | 453 | 1 |
 | 2023-12-21 | 454 | 1 |
 | 2023-12-22 | 455 | 1 |
-| 2023-12-23 | 457 | 1 |
+| 2023-12-23 | 458 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

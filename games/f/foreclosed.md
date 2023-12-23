@@ -29,7 +29,7 @@
 | No Place to Hide | 2.00% | ~2 |
 | A Voice in the Dark | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 456)  
+Progressed: 121 (Ranked 457)  
 Completed: 3 (2.48%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |

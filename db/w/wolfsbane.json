@@ -2,10 +2,10 @@
   "ID": "df65448fcc8342639c170554bc8356eb",
   "Name": "Wolfsbane",
   "ProductSlug": "wolfsbane-c8bb3a",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.6795597+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:57:07.6545087+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:08:48.0777299+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:56:56.4640988+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:08:57.5190755+00:00"
 }

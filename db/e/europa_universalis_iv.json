@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13635,9 +13635,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 482244,
+  "EOS_Progressed": 482304,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5451,
+  "EOS_NewPlayers": 5450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42095,6 +42095,11 @@
       "Time": "2023-12-23T18:06:22.723805+00:00",
       "NumProgressed": 482244,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T19:06:03.7167218+00:00",
+      "NumProgressed": 482304,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42546,7 +42551,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -42626,7 +42631,7 @@
       "Name": "Cold War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achievement_colonial_management",
@@ -43322,7 +43327,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -44698,7 +44703,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -45009,21 +45014,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 482244,
+      "Progressed": 482304,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 482244,
+      "Progressed": 482304,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-23T17:59:06.6279351+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:06:22.7238048+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:06:03.7167215+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:06.6279357+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:06:22.7248231+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:54.0559027+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:06:03.7177637+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "49c5373cd1a34f398764a94dce5953a0",
   "Name": "Dirt Bike Racer Simulator",
   "ProductSlug": "dirt-bike-racer-simulator-4c49b5",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-19T08:30:00+00:00",
     "PcReleaseDate": "2023-08-31T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-19T20:57:06.7101318+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.651168+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:06.3366166+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:05:26.1588358+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:53.6869822+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:07.7426015+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 39.00% | ~420 |
+| Time Heals All Wounds | 40.00% | ~431 |
 | Rail Rat | 30.00% | ~323 |
 | The Mysterious Stranger | 29.00% | ~312 |
 | Immaculate Aim | 25.00% | ~269 |
 | Make Up For Lost Time | 24.00% | ~258 |
-| The Prince in Heels | 24.00% | ~258 |
 | The Brass Boss | 24.00% | ~258 |
-| Time Flies | 23.00% | ~247 |
-| No, Thanks! | 23.00% | ~247 |
-| Honest Mistake | 23.00% | ~247 |
-| Immaculate Aim | 23.00% | ~247 |
+| Time Flies | 23.00% | ~248 |
+| No, Thanks! | 23.00% | ~248 |
+| The Prince in Heels | 23.00% | ~248 |
+| Honest Mistake | 23.00% | ~248 |
+| Immaculate Aim | 23.00% | ~248 |
 | The Steel Shadow | 22.00% | ~237 |
 | The Harder They Fall | 22.00% | ~237 |
 | Breaking Down Barriers | 22.00% | ~237 |
@@ -26,11 +26,11 @@ Rating: 4.65 (Ranked 320)
 | Right On Time | 20.00% | ~215 |
 | Like Clockwork | 20.00% | ~215 |
 | Check Your Pulse | 20.00% | ~215 |
-| The Loose Cannon | 19.00% | ~204 |
+| The Loose Cannon | 19.00% | ~205 |
 | The Man Who Shattered Time | 18.00% | ~194 |
 | The Family Fortune | 18.00% | ~194 |
 | Street Style | 17.00% | ~183 |
-| Whiz Kid | 15.00% | ~161 |
+| Whiz Kid | 15.00% | ~162 |
 | Cartographer | 14.00% | ~151 |
 | Good Neighbor | 14.00% | ~151 |
 | Treasure Trove | 13.00% | ~140 |
@@ -56,10 +56,10 @@ Rating: 4.65 (Ranked 320)
 | No Time to Waste | 1.00% | ~11 |
 | A Lesson in Precision | 0.90% | ~10 |
 | Wildlife Protection | 0.70% | ~8 |
-| Raw Talent | 0.70% | ~8 |
 | Going to Live Forever | 0.60% | ~6 |
+| Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 278)  
+Progressed: 1,077 (Ranked 278)  
 Completed: 6 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 6 (0.56%) (Ranked 204)
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
-| 2023-12-23 | 1,076 | 6 |
+| 2023-12-23 | 1,077 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

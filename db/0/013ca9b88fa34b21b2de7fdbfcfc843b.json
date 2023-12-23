@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8608,
+  "EOS_Progressed": 8609,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8945,6 +8945,11 @@
       "Time": "2023-12-23T18:09:59.9831743+00:00",
       "NumProgressed": 8608,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T19:10:09.4578973+00:00",
+      "NumProgressed": 8609,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -8963,9 +8968,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 172
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -8987,9 +8992,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 60
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9300,13 +9305,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8608,
+      "Progressed": 8609,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 1050
     }
   ],
@@ -9314,8 +9319,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:59.9831742+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:10:09.4578966+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:03:17.1122308+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:59.9832256+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:02:59.6422288+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:10:09.4579578+00:00"
 }

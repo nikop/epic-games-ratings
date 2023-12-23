@@ -5,10 +5,10 @@
   "Ranking_Rating": 353,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 519,
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -910,9 +910,9 @@
       "ID": "ACH_INVADE_AREA42",
       "SetID": "cefn62b",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -1006,9 +1006,9 @@
       "ID": "ACH_UPGRADE_TOPTIER",
       "SetID": "cefn62b",
       "Name": "Trans-Siberian Express",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -1022,8 +1022,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:06:20.9578827+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:06:01.5806582+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:51.9679036+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:06:20.9579094+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:38.5597751+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:06:01.5806821+00:00"
 }

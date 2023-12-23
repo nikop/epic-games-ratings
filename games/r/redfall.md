@@ -23,6 +23,7 @@ Rating: 3.56 (Ranked 1,066)
 | Skin of Their Teeth | 4.00% | ~80 |
 | Bad Wiring | 3.00% | ~60 |
 | Neighborhood Revitalization | 2.00% | ~40 |
+| Sic Transit Umbra | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
 | Bell-ringer | 2.00% | ~40 |
 | From the Shadows | 2.00% | ~40 |
@@ -32,7 +33,6 @@ Rating: 3.56 (Ranked 1,066)
 | I Spit On Your Grave | 2.00% | ~40 |
 | Revelations | 1.00% | ~20 |
 | Contingency Plans | 1.00% | ~20 |
-| Sic Transit Umbra | 1.00% | ~20 |
 | Silence Is Golden | 1.00% | ~20 |
 | Good Morning | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,066)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,011 (Ranked 237)  
+Progressed: 2,012 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 2,011 | 0 |
+| 2023-12-23 | 2,012 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

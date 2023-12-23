@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CirculatoryCollapse",
@@ -375,9 +375,9 @@
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Reaper",
@@ -462,8 +462,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:04:48.9270888+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:04:30.9183144+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:14.3758981+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:19.9857384+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:04:48.9271084+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:07.519323+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:04:30.918331+00:00"
 }

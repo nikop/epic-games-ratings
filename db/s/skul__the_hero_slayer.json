@@ -3,12 +3,12 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 173,
-  "Ranking_Popularity": 327,
+  "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1265,9 +1265,9 @@
       "Count": 141
     }
   ],
-  "EOS_Progressed": 12113,
+  "EOS_Progressed": 12120,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2044,
+  "EOS_NewPlayers": 2038,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7295,6 +7295,11 @@
       "Time": "2023-12-23T18:08:59.6079554+00:00",
       "NumProgressed": 12113,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-23T19:09:08.4903814+00:00",
+      "NumProgressed": 12120,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7306,7 +7311,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2303
     },
     {
       "ID": "Chatterbox",
@@ -7330,7 +7335,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7268
+      "UsersEstimate": 7272
     },
     {
       "ID": "DemonCastleRestoration",
@@ -7346,7 +7351,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "FakeGoddessGone",
@@ -7354,7 +7359,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 4482
+      "UsersEstimate": 4484
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -7362,7 +7367,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -7370,7 +7375,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3030
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -7386,7 +7391,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3151
     },
     {
       "ID": "HeroSlayer",
@@ -7394,7 +7399,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2909
     },
     {
       "ID": "LeoniasFall",
@@ -7402,7 +7407,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3394
     },
     {
       "ID": "LeoniasFall_2",
@@ -7418,7 +7423,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 4482
+      "UsersEstimate": 4484
     },
     {
       "ID": "RookieWelcome",
@@ -7426,7 +7431,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2182
     },
     {
       "ID": "SavedElderEnt",
@@ -7434,7 +7439,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7393
     },
     {
       "ID": "SavedElderEnt_2",
@@ -7442,7 +7447,7 @@
       "Name": "Quick Movements",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3515
     },
     {
       "ID": "SkeletonKing",
@@ -7458,7 +7463,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3755
+      "UsersEstimate": 3757
     },
     {
       "ID": "TheLegendBegins",
@@ -7466,7 +7471,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 11265
+      "UsersEstimate": 11272
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7474,7 +7479,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5575
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -7482,7 +7487,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "WhattoBuy",
@@ -7490,22 +7495,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9817
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 12113,
+      "Progressed": 12120,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-23T13:00:58.2229892+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:08:59.6079541+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:08.4903811+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:00.8013876+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:58.7586069+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:08:59.6079894+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:46.6032768+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:08.4904122+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
@@ -4321,6 +4321,11 @@
       "Time": "2023-12-23T17:05:32.4207114+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-23T19:05:17.7629349+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4333,7 +4338,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4341,7 +4346,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "_03_FinishAct1",
@@ -4373,7 +4378,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "_07_FinishAct3",
@@ -4381,7 +4386,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "_08_Completion_10",
@@ -4397,7 +4402,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "_10_Completion_30",
@@ -4405,7 +4410,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_11_Completion_40",
@@ -4453,7 +4458,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4485,7 +4490,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4540,7 +4545,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 34
     }
   ],
@@ -4548,8 +4553,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:05:36.6474777+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:05:17.7629345+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:37.3119697+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:05:36.6475358+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:24.4324182+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:17.7629631+00:00"
 }

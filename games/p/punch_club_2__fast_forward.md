@@ -16,7 +16,7 @@
 | Employee of the week | 75.00% | ~338 |
 | Your own amateur gym | 71.00% | ~320 |
 | Run K, run! | 70.00% | ~316 |
-| First defeat | 68.00% | ~307 |
+| First defeat | 69.00% | ~311 |
 | Hello, world! | 68.00% | ~307 |
 | No bullying more | 67.00% | ~302 |
 | Fighting is cool | 66.00% | ~298 |
@@ -50,8 +50,8 @@
 | Poisoned fighter | 35.00% | ~158 |
 | The die is cast | 35.00% | ~158 |
 | Get out of my apartment! | 34.00% | ~153 |
+| Gang wrangler | 33.00% | ~149 |
 | Seashell hunter | 33.00% | ~149 |
-| Gang wrangler | 32.00% | ~144 |
 | Undercover robot | 32.00% | ~144 |
 | Problems of cyborgs | 31.00% | ~140 |
 | Absolute Champion! | 31.00% | ~140 |
@@ -68,8 +68,8 @@
 | Anyone can resist | 29.00% | ~131 |
 | The heart of the Resistance | 29.00% | ~131 |
 | Better cooking at home | 27.00% | ~122 |
+| The only right decision | 27.00% | ~122 |
 | Silver’s past | 26.00% | ~117 |
-| The only right decision | 26.00% | ~117 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 451 (Ranked 339)  
 Completed: 9 (2.00%) (Ranked 135)  

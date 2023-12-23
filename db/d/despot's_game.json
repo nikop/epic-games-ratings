@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -563,6 +563,11 @@
       "Time": "2023-12-23T17:03:41.2097929+00:00",
       "NumProgressed": 457,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T19:03:29.915179+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -630,7 +635,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "different-items2",
@@ -644,17 +649,17 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 165
     },
     {
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "finished-quest-flight",
@@ -670,7 +675,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "finished-quest-nurgle",
@@ -692,9 +697,9 @@
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 188
     },
     {
       "ID": "finished-quest-reaper",
@@ -710,7 +715,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "finished-quest-secret",
@@ -750,7 +755,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "save-zombie",
@@ -788,9 +793,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 357
     },
     {
       "ID": "win-first-level",
@@ -798,7 +803,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "win-koth-fights1",
@@ -806,7 +811,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "win-koth-fights2",
@@ -830,7 +835,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "win-with-3-cultists",
@@ -838,7 +843,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "win-with-mrakus",
@@ -853,7 +858,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 1
     }
   ],
@@ -861,8 +866,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:03:47.0825005+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:03:29.9151787+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:33.1060252+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:03:47.082523+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:20.1994213+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:03:29.9152013+00:00"
 }

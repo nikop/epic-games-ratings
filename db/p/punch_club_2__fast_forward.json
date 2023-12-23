@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1838,9 +1838,9 @@
       "ID": "all_promotion_4",
       "SetID": "69co12a",
       "Name": "Gang wrangler",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 149
     },
     {
       "ID": "all_promotion_5",
@@ -1918,9 +1918,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 311
     },
     {
       "ID": "fight_win_1",
@@ -2174,9 +2174,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "poisoned_fighter",
@@ -2349,8 +2349,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:23.9050919+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:32.7403445+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:48.7409682+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:23.905154+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:35.944494+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:32.74041+00:00"
 }

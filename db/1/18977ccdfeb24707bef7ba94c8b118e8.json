@@ -2,10 +2,10 @@
   "ID": "18977ccdfeb24707bef7ba94c8b118e8",
   "Name": "Blights Wrath",
   "ProductSlug": "blights-wrath-16a247",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-03T23:30:00+00:00",
     "PcReleaseDate": "2023-11-03T23:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-04T17:02:46.4876095+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:16.7466415+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:59.0270284+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:05:51.4518395+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:46.8647934+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:32.5283888+00:00"
 }

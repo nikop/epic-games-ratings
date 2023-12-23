@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,669 |
-| The Assault | 3.00% | ~22,251 |
-| Life is your teacher | 3.00% | ~22,251 |
-| Lightning Hands | 3.00% | ~22,251 |
-| The Hateful Pole Fighter | 2.00% | ~14,834 |
-| Stuntmaster | 2.00% | ~14,834 |
-| Street Fighting | 2.00% | ~14,834 |
-| State of constant learning | 2.00% | ~14,834 |
-| Qi Gong: Essence | 2.00% | ~14,834 |
-| Old Child | 2.00% | ~14,834 |
+| The Old Grandmaster | 4.00% | ~29,670 |
+| The Assault | 3.00% | ~22,252 |
+| Life is your teacher | 3.00% | ~22,252 |
+| Lightning Hands | 3.00% | ~22,252 |
+| The Hateful Pole Fighter | 2.00% | ~14,835 |
+| Stuntmaster | 2.00% | ~14,835 |
+| Street Fighting | 2.00% | ~14,835 |
+| State of constant learning | 2.00% | ~14,835 |
+| Qi Gong: Essence | 2.00% | ~14,835 |
+| Old Child | 2.00% | ~14,835 |
 | A Lady's Blood in the Snow | 1.00% | ~7,417 |
 | Lady Wing Chun | 1.00% | ~7,417 |
 | Furious Fists | 1.00% | ~7,417 |
@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,417 |
 | Project Arena | 1.00% | ~510 |
 | Diligence as a goal | 1.00% | ~510 |
-| Qi Gong: Mind | 0.90% | ~6,675 |
+| Qi Gong: Mind | 0.90% | ~6,676 |
 | Scareless | 0.80% | ~5,934 |
 | Kung-Fu Tussle | 0.80% | ~5,934 |
 | Dance of the Praying Mantis | 0.70% | ~5,192 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,713 (Ranked 23)  
+Progressed: 741,742 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 12,961 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 741,713 | 12,961 |
+| 2023-12-23 | 741,742 | 12,961 |
 ## Awards
 Max (Great Boss Battles): 6,989  (Ranked 55)  
-Sum: 12,260 (Ranked 84)  
+Sum: 12,268 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -326,8 +326,8 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 629 |
 | This game has Amazing Storytelling | 608 |
 | This game has Amazing Characters | 596 |
-| This game is Highly Recommended | 590 |
-| This game has Quickly Understood Controls | 585 |
+| This game is Highly Recommended | 594 |
+| This game has Quickly Understood Controls | 589 |
 | This game is Extremely Fun | 577 |
 | This game has Unique Visuals | 569 |
 | This game has a Creative Community | 436 |
@@ -675,4 +675,4 @@ Diff (max vs sum): -29
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
-| 2023-12-23 | 4.82 | - | 6,989 | 12,260 |
+| 2023-12-23 | 4.82 | - | 6,989 | 12,268 |

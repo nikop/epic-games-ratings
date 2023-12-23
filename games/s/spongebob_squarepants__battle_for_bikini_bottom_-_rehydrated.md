@@ -6,22 +6,22 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 12.00% | ~32 |
+| Spatula Seeker | 11.00% | ~30 |
 | Sponge Smasher | 10.00% | ~27 |
-| Jellyfish Jam | 8.00% | ~21 |
-| Jellyfishing | 6.00% | ~16 |
-| Sweet Victory | 5.00% | ~13 |
-| Time For Tutorial | 5.00% | ~13 |
+| Jellyfish Jam | 8.00% | ~22 |
+| Jellyfishing | 7.00% | ~19 |
+| Sweet Victory | 5.00% | ~14 |
+| Time For Tutorial | 5.00% | ~14 |
 | Life's as extreme as you wanna make it! | 4.00% | ~11 |
+| Shrimp Catcher | 4.00% | ~11 |
 | Toxic Terror | 4.00% | ~11 |
 | Sock Getter | 4.00% | ~11 |
 | Squirrel Smasher | 4.00% | ~11 |
+| Star Smasher | 4.00% | ~11 |
+| Surf's Up! | 4.00% | ~11 |
 | Keep it Rolling | 3.00% | ~8 |
-| Shrimp Catcher | 3.00% | ~8 |
 | Hit Rock Bottom | 3.00% | ~8 |
 | Super Spatula Seeker | 3.00% | ~8 |
-| Star Smasher | 3.00% | ~8 |
-| Surf's Up! | 3.00% | ~8 |
 | Robot encyclopedia | 2.00% | ~5 |
 | Uptown and Downtown | 2.00% | ~5 |
 | Hello, Bikini Bottom | 2.00% | ~5 |
@@ -33,13 +33,13 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 0.70% | ~2 |
 | SpongeBob vs SpongeBob! | 0.70% | ~2 |
 | Sock Concert | 0.40% | ~1 |
+| Sock Opera | 0.40% | ~1 |
 | Ultra Spatula Seeker | 0.40% | ~1 |
 | Mega Spatula Seeker | 0.40% | ~1 |
 | 100% SpongeBob | 0.00% | ~0 |
-| Sock Opera | 0.00% | ~0 |
 | Super Ultra Mega Spatula Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 387)  
+Progressed: 271 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 127 | 0 |
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
-| 2023-12-23 | 268 | 0 |
+| 2023-12-23 | 271 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 494)  
 Sum: 34 (Ranked 519)  

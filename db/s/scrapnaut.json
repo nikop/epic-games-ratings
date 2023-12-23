@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1896,6 +1896,11 @@
       "Time": "2023-12-23T18:09:10.3503663+00:00",
       "NumProgressed": 557,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T19:09:19.2542331+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -1907,7 +1912,7 @@
       "Name": "Digger",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1929,9 +1934,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -1955,7 +1960,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1977,9 +1982,9 @@
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Management",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -1995,7 +2000,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_COOK",
@@ -2043,7 +2048,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_KILL_100",
@@ -2075,15 +2080,15 @@
       "Name": "Prepper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_MAKE_FUEL",
       "SetID": "7c4cldc",
       "Name": "Fuel",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -2147,14 +2152,14 @@
       "Name": "Teleport",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 3
     }
   ],
@@ -2162,8 +2167,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:10.3503659+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:19.2542327+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:00:21.319457+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:10.3503917+00:00"
+  "LastUpdate_Ratings": "2023-12-23T19:00:07.6634383+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:19.2542762+00:00"
 }

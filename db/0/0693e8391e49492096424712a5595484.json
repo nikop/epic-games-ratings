@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2633,9 +2633,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 460
     },
     {
       "ID": "BroomAmanita",
@@ -2665,9 +2665,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 447
+      "UsersEstimate": 454
     },
     {
       "ID": "Drunkard",
@@ -2681,9 +2681,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 183
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -2761,9 +2761,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 290
     },
     {
       "ID": "PriestBroom",
@@ -2785,9 +2785,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 220
     },
     {
       "ID": "PriestRogue",
@@ -2833,9 +2833,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 592
     },
     {
       "ID": "RogueKing",
@@ -2857,9 +2857,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 510
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -2920,8 +2920,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:05:27.7043124+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:05:09.3367705+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-23T18:00:02.7613657+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:05:27.7043435+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:48.5645802+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:09.3368113+00:00"
 }

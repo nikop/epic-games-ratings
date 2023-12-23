@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17195,
+  "EOS_Progressed": 17198,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14886,6 +14886,11 @@
       "Time": "2023-12-23T18:06:13.1848326+00:00",
       "NumProgressed": 17195,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-23T19:05:54.0371196+00:00",
+      "NumProgressed": 17198,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14928,9 +14933,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2580
     },
     {
       "ID": "14",
@@ -15162,7 +15167,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "35",
@@ -15170,20 +15175,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17195,
+      "Progressed": 17198,
       "Completed": 47
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3149,
+      "Progressed": 3152,
       "Completed": 1006
     }
   ],
@@ -15191,8 +15196,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:06:13.1848322+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:05:54.0371192+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:03.8158294+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:06:13.1849018+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:51.3503653+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:05:54.0372279+00:00"
 }

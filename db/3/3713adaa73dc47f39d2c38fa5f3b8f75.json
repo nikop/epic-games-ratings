@@ -2,10 +2,10 @@
   "ID": "3713adaa73dc47f39d2c38fa5f3b8f75",
   "Name": "Argonauts Agency: Glove of Midas",
   "ProductSlug": "argonauts-agency-glove-of-midas-94bca3",
-  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-02-16T21:00:00+00:00",
     "PcReleaseDate": "2022-01-04T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-20T05:56:53.5167811+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:58:42.3328096+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:04:28.2941766+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:58:30.8437066+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:04:10.8614111+00:00"
 }

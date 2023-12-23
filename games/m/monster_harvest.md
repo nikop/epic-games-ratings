@@ -16,7 +16,7 @@
 | So long, Slime Co! | 4.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 312 (Ranked 371)  
-Completed: 10 (3.21%) (Ranked 107)  
+Completed: 10 (3.21%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

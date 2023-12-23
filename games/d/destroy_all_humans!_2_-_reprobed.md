@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 552)  
+Rating: 4.53 (Ranked 551)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,9 +11,9 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 50.00% | ~84 |
 | Furon Fashion | 42.00% | ~70 |
 | Shop Til They Drop | 37.00% | ~62 |
-| Bodied Sattva | 31.00% | ~52 |
+| Bodied Sattva | 32.00% | ~53 |
 | Earthly Pleasures | 31.00% | ~52 |
-| Cult Following | 28.00% | ~47 |
+| Cult Following | 29.00% | ~48 |
 | Upgreatest | 23.00% | ~38 |
 | Lie Back and Think of Albion | 22.00% | ~37 |
 | Pimp My Raid | 22.00% | ~37 |
@@ -22,11 +22,11 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 15.00% | ~25 |
 | Die Nasty | 14.00% | ~23 |
 | Transmitting From Sol-3 | 11.00% | ~18 |
+| Dusted | 10.00% | ~17 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~15 |
-| Dusted | 9.00% | ~15 |
 | Fly Me to the Moon Base | 7.00% | ~12 |
 | Kaijuiced | 7.00% | ~12 |
-| Scuttled | 5.00% | ~8 |
+| Scuttled | 6.00% | ~10 |
 | Re-Return of the Clone of the Invasion II-2 | 5.00% | ~8 |
 | Lobster Blisque | 3.00% | ~5 |
 | Yettisoned | 3.00% | ~5 |

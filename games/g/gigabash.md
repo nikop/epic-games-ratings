@@ -1,36 +1,36 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.53 (Ranked 551)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 14.00% | ~14,302 |
-| I've Had Enough! | 11.00% | ~11,237 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,172 |
-| Seasoned Fighter | 7.00% | ~7,151 |
-| All For One and One For All | 6.00% | ~6,129 |
-| A New Age | 4.00% | ~4,086 |
-| Home Sweet Home? | 4.00% | ~4,086 |
-| Oh Baby, A Triple | 2.00% | ~2,043 |
-| Battle Hardened | 2.00% | ~2,043 |
-| Master of Disguise | 2.00% | ~2,043 |
-| It's Mayhem! | 2.00% | ~2,043 |
-| Symbiotic | 2.00% | ~2,043 |
+| All Grown Up! | 14.00% | ~14,312 |
+| I've Had Enough! | 11.00% | ~11,245 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,178 |
+| Seasoned Fighter | 7.00% | ~7,156 |
+| All For One and One For All | 6.00% | ~6,134 |
+| A New Age | 4.00% | ~4,089 |
+| Home Sweet Home? | 4.00% | ~4,089 |
+| Oh Baby, A Triple | 2.00% | ~2,044 |
+| Battle Hardened | 2.00% | ~2,044 |
+| Master of Disguise | 2.00% | ~2,044 |
+| It's Mayhem! | 2.00% | ~2,044 |
+| Symbiotic | 2.00% | ~2,044 |
 | Double Punch! | 1.00% | ~1,022 |
 | Martyrdom | 1.00% | ~1,022 |
 | Right back at'cha | 1.00% | ~1,022 |
 | Spectacular Finisher | 1.00% | ~1,022 |
-| Cautious Veteran | 0.90% | ~919 |
-| Katamari | 0.70% | ~715 |
-| Zero-sum Game | 0.70% | ~715 |
+| Cautious Veteran | 0.90% | ~920 |
+| Katamari | 0.70% | ~716 |
+| Zero-sum Game | 0.70% | ~716 |
 | Ninja Reflex | 0.60% | ~613 |
 | Taste Your Own Medicine | 0.50% | ~511 |
 | This is GigaBash! | 0.40% | ~409 |
 | Sidetracked... | 0.40% | ~409 |
-| Eye of the Titan | 0.30% | ~306 |
-| Just Getting Warmed Up | 0.30% | ~306 |
-| Top of the Food Chain | 0.30% | ~306 |
+| Eye of the Titan | 0.30% | ~307 |
+| Just Getting Warmed Up | 0.30% | ~307 |
+| Top of the Food Chain | 0.30% | ~307 |
 | 5 Stages of Grief | 0.10% | ~102 |
 | Bastion of Humanity | 0.10% | ~102 |
 | Keeper of Knowledge | 0.10% | ~102 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | What's Mine is Yours | 0.10% | ~102 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,155 (Ranked 94)  
+Progressed: 102,225 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 96,698 | 0 |
 | 2023-12-21 | 98,723 | 0 |
 | 2023-12-22 | 100,514 | 0 |
-| 2023-12-23 | 102,155 | 0 |
+| 2023-12-23 | 102,225 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 494)  
 Sum: 34 (Ranked 519)  
@@ -102,3 +102,4 @@ Diff (max vs sum): -25
 | 2023-12-20 | 4.56 | 33 | 33 |
 | 2023-12-21 | 4.54 | 33 | 33 |
 | 2023-12-22 | 4.54 | 34 | 34 |
+| 2023-12-23 | 4.53 | 34 | 34 |

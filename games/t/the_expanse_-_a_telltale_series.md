@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,407 |
+| Oyedang, Kopengs | 15.00% | ~2,580 |
 | Bosmang | 10.00% | ~1,720 |
 | Captain Drummer | 10.00% | ~1,720 |
 | Celebrations are in Order | 10.00% | ~1,720 |
@@ -18,14 +18,14 @@ Rating: 4.55 (Ranked 510)
 | Safe Cracker | 8.00% | ~252 |
 | Zen Master | 8.00% | ~252 |
 | Call it Even | 7.00% | ~1,204 |
-| Madame Undersecretary | 7.00% | ~220 |
+| Madame Undersecretary | 7.00% | ~221 |
 | Data Archivist | 6.00% | ~1,032 |
 | Drug Gifter | 6.00% | ~1,032 |
 | Heal Thy Medic | 6.00% | ~1,032 |
 | Keep Arjun in Check | 6.00% | ~189 |
 | Thorston Mayer | 5.00% | ~860 |
 | Khan's Revenge | 5.00% | ~860 |
-| Master Negotiator | 5.00% | ~157 |
+| Master Negotiator | 5.00% | ~158 |
 | Doctor Approved | 4.00% | ~688 |
 | Bottoms up! | 4.00% | ~688 |
 | Data Logger | 3.00% | ~516 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 510)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,195 (Ranked 156)  
+Progressed: 17,198 (Ranked 156)  
 Completed: 47 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 47 (0.27%) (Ranked 255)
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
-| 2023-12-23 | 17,195 | 47 |
+| 2023-12-23 | 17,198 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

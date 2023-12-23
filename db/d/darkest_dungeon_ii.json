@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9982,10 +9982,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20980,
       "NumberOfAwardsMax": 7834
+    },
+    {
+      "Time": "2023-12-23T18:57:14.4163472+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20984,
+      "NumberOfAwardsMax": 7834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20980,
+  "NumberOfAwards": 20984,
   "NumberOfAwardsMax": 7834,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10053,7 +10059,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1401
+      "Count": 1405
     },
     {
       "Text": "This game has a Creative Community",
@@ -10062,9 +10068,9 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129393,
+  "EOS_Progressed": 129404,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1634,
+  "EOS_NewPlayers": 1632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36452,6 +36458,11 @@
       "Time": "2023-12-23T18:09:18.2987873+00:00",
       "NumProgressed": 129393,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T19:09:27.380213+00:00",
+      "NumProgressed": 129404,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36861,9 +36872,9 @@
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 2588
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -36999,7 +37010,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "combat_kill_collector",
@@ -37007,7 +37018,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37047,7 +37058,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37055,7 +37066,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "quest_complete_crusader",
@@ -37094,21 +37105,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129393,
+      "Progressed": 129404,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4262,
+      "Progressed": 4273,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-23T14:57:14.0341627+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:18.2987871+00:00",
+  "LastChanged": "2023-12-23T18:57:14.416347+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:27.3802127+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:57:26.4283088+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:18.2989493+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:14.4163476+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:27.3803719+00:00"
 }

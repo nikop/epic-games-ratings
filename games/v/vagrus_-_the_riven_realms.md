@@ -14,7 +14,7 @@
 | Conciliator | 10.00% | ~23 |
 | Tactician | 10.00% | ~23 |
 | Fight Another Day | 9.00% | ~21 |
-| Taskmaster | 8.00% | ~18 |
+| Taskmaster | 9.00% | ~21 |
 | The More the Merrier | 7.00% | ~16 |
 | Harbinger | 7.00% | ~16 |
 | Acquaintance | 7.00% | ~16 |

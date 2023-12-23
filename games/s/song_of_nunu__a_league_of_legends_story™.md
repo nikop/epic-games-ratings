@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~963 |
-| I Broke It | 73.00% | ~950 |
-| Better On Ice | 68.00% | ~885 |
-| Notai Notes | 67.00% | ~872 |
-| Blue Dreams | 66.00% | ~859 |
-| He's Famous! | 66.00% | ~859 |
-| Krugmazing | 64.00% | ~833 |
-| Cutie Poro | 64.00% | ~833 |
-| Moneyball | 60.00% | ~781 |
-| The Fire Below the Mountain | 60.00% | ~781 |
-| Iceborn | 55.00% | ~716 |
-| No Bites | 54.00% | ~703 |
-| Boom Things | 53.00% | ~690 |
-| Tear of Freedom | 52.00% | ~677 |
+| Feels Familiar | 74.00% | ~964 |
+| I Broke It | 73.00% | ~951 |
+| Better On Ice | 68.00% | ~886 |
+| Blue Dreams | 66.00% | ~860 |
+| Notai Notes | 66.00% | ~860 |
+| He's Famous! | 65.00% | ~847 |
+| Krugmazing | 64.00% | ~834 |
+| Cutie Poro | 64.00% | ~834 |
+| Moneyball | 60.00% | ~782 |
+| The Fire Below the Mountain | 60.00% | ~782 |
+| Iceborn | 55.00% | ~717 |
+| No Bites | 54.00% | ~704 |
+| Tear of Freedom | 52.00% | ~678 |
+| Boom Things | 52.00% | ~678 |
 | My Darkest Day | 48.00% | ~625 |
 | Rhythm Of Willump | 46.00% | ~599 |
 | The Relentless Storm | 46.00% | ~599 |
 | A Tragic Reminder | 44.00% | ~573 |
 | 3000 Year Blackout | 44.00% | ~573 |
+| So Close | 42.00% | ~547 |
 | The Finisher | 42.00% | ~547 |
-| So Close | 41.00% | ~534 |
 | You Get Used To It | 41.00% | ~534 |
 | Family | 39.00% | ~508 |
 | Biggest Snowball Ever | 39.00% | ~508 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 603)
 | We Are Speed | 2.00% | ~26 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,302 (Ranked 260)  
+Progressed: 1,303 (Ranked 261)  
 Completed: 9 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 9 (0.69%) (Ranked 195)
 | 2023-12-20 | 1,251 | 9 |
 | 2023-12-21 | 1,271 | 9 |
 | 2023-12-22 | 1,288 | 9 |
-| 2023-12-23 | 1,302 | 9 |
+| 2023-12-23 | 1,303 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

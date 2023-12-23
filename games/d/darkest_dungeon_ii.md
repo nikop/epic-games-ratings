@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~426 |
+| Malpractice Assurance | 10.00% | ~427 |
 | Lost and Found | 6.00% | ~256 |
 | Autodidact | 5.00% | ~6,470 |
-| This guy... again? | 5.00% | ~213 |
+| This guy... again? | 5.00% | ~214 |
 | This Belongs in a Museum | 4.00% | ~5,176 |
 | Creep and Sleep | 4.00% | ~5,176 |
 | Overdue Notice | 4.00% | ~5,176 |
 | Escape from the Black Hole | 4.00% | ~5,176 |
-| Ploughshares to Swords | 4.00% | ~170 |
-| Bloody Graduation | 4.00% | ~170 |
+| Ploughshares to Swords | 4.00% | ~171 |
+| Bloody Graduation | 4.00% | ~171 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,882 |
 | Serenity Now! | 3.00% | ~3,882 |
 | It Rings a Bell | 3.00% | ~3,882 |
@@ -47,6 +47,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 2.00% | ~2,588 |
 | A Clear Conscience | 2.00% | ~2,588 |
 | Whale | 2.00% | ~2,588 |
+| When You Want Something Done Right | 2.00% | ~2,588 |
 | Utopia | 2.00% | ~2,588 |
 | Nope | 2.00% | ~2,588 |
 | Unshackled | 2.00% | ~2,588 |
@@ -55,7 +56,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 1.00% | ~1,294 |
 | Ichthyophobic | 1.00% | ~1,294 |
 | No More Mouths to Feed | 1.00% | ~1,294 |
-| When You Want Something Done Right | 1.00% | ~1,294 |
 | Worldly Traveller | 1.00% | ~1,294 |
 | Hot Air | 1.00% | ~1,294 |
 | Eyes Up | 1.00% | ~1,294 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,393 (Ranked 87)  
+Progressed: 129,404 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,393 | 3 |
+| 2023-12-23 | 129,404 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
-Sum: 20,980 (Ranked 58)  
+Sum: 20,984 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -337,7 +337,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,487 |
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,406 |
-| This game has Amazing Storytelling | 1,401 |
+| This game has Amazing Storytelling | 1,405 |
 | This game has Quickly Understood Controls | 1,375 |
 | This game has a Creative Community | 1,044 |
 | This game has Obsessive Gameplay | 585 |
@@ -674,4 +674,4 @@ Diff (max vs sum): -8
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
-| 2023-12-23 | 4.68 | - | 7,834 | 20,980 |
+| 2023-12-23 | 4.68 | - | 7,834 | 20,984 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 230,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 413,
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
@@ -2643,6 +2643,11 @@
       "Time": "2023-12-23T18:08:46.5995931+00:00",
       "NumProgressed": 692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T19:08:56.1048263+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2759,7 +2764,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Deepstrike",
@@ -2799,7 +2804,7 @@
       "Name": "Double Kill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2863,7 +2868,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MultiplayerWins",
@@ -2935,7 +2940,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -2957,9 +2962,9 @@
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "TrojanHorse",
@@ -2981,9 +2986,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 291
     },
     {
       "ID": "WielderLevel2",
@@ -3086,15 +3091,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:08:46.5995928+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:08:56.104826+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:59:47.2060191+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:08:46.5996386+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:59:33.9926367+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:08:56.1048719+00:00"
 }

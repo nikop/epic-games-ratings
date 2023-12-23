@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 87.00% | ~40 |
-| Suicide squad | 52.00% | ~24 |
+| First success | 87.00% | ~41 |
+| Suicide squad | 51.00% | ~24 |
 | Train hard, fight easy | 30.00% | ~14 |
 | Under cover | 30.00% | ~14 |
 | First blood | 30.00% | ~14 |
 | Royal blessing | 26.00% | ~12 |
-| All for one! | 24.00% | ~11 |
-| A hidden snake | 24.00% | ~11 |
-| Blood and sand | 24.00% | ~11 |
-| Vene, vidi, vici | 20.00% | ~9 |
+| All for one! | 23.00% | ~11 |
+| A hidden snake | 23.00% | ~11 |
+| Blood and sand | 23.00% | ~11 |
+| Vene, vidi, vici | 19.00% | ~9 |
 | Crimson rivers | 17.00% | ~8 |
 | Power of Inquisition | 17.00% | ~8 |
 | Surpass the teacher | 17.00% | ~8 |
@@ -30,13 +30,13 @@
 | Overplay the rogue | 9.00% | ~4 |
 | Punish the Punisher | 9.00% | ~4 |
 | The End | 9.00% | ~4 |
-| The best apprentice | 7.00% | ~3 |
-| First among Frisians | 7.00% | ~3 |
-| Defeat the bear | 7.00% | ~3 |
-| By own strength | 7.00% | ~3 |
-| Deadly strike | 7.00% | ~3 |
-| All's fair in love and war | 7.00% | ~3 |
-| Nothing is settled | 7.00% | ~3 |
+| The best apprentice | 6.00% | ~3 |
+| First among Frisians | 6.00% | ~3 |
+| Defeat the bear | 6.00% | ~3 |
+| By own strength | 6.00% | ~3 |
+| Deadly strike | 6.00% | ~3 |
+| All's fair in love and war | 6.00% | ~3 |
+| Nothing is settled | 6.00% | ~3 |
 | Supplier | 4.00% | ~2 |
 | The power of persuasion | 4.00% | ~2 |
 | A solo player | 4.00% | ~2 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 546)  
+Progressed: 47 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-17 | 40 | 0 |
 | 2023-12-21 | 43 | 0 |
 | 2023-12-22 | 46 | 0 |
+| 2023-12-23 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

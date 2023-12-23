@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9525,9 +9525,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813921,
+  "EOS_Progressed": 813940,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37450,6 +37450,11 @@
       "Time": "2023-12-23T18:09:48.0535963+00:00",
       "NumProgressed": 813921,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-23T19:09:56.4872266+00:00",
+      "NumProgressed": 813940,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -37485,7 +37490,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130227
+      "UsersEstimate": 130230
     },
     {
       "ID": "Awakening",
@@ -37493,7 +37498,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 170923
+      "UsersEstimate": 170927
     },
     {
       "ID": "BadGirl",
@@ -37509,7 +37514,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40696
+      "UsersEstimate": 40697
     },
     {
       "ID": "Bailiff",
@@ -37533,7 +37538,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32557
+      "UsersEstimate": 32558
     },
     {
       "ID": "BlacksmithsSon",
@@ -37541,7 +37546,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260455
+      "UsersEstimate": 260461
     },
     {
       "ID": "Bookworm",
@@ -37549,7 +37554,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122088
+      "UsersEstimate": 122091
     },
     {
       "ID": "Buddy",
@@ -37557,7 +37562,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97671
+      "UsersEstimate": 97673
     },
     {
       "ID": "Casanova",
@@ -37565,7 +37570,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48835
+      "UsersEstimate": 48836
     },
     {
       "ID": "Cavalier",
@@ -37573,7 +37578,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203480
+      "UsersEstimate": 203485
     },
     {
       "ID": "Chivalrous",
@@ -37605,7 +37610,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "Conqueror",
@@ -37621,7 +37626,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81392
+      "UsersEstimate": 81394
     },
     {
       "ID": "DavidHorak",
@@ -37629,7 +37634,7 @@
       "Name": "David Horak",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 6511
+      "UsersEstimate": 6512
     },
     {
       "ID": "DieByTheSplinter",
@@ -37637,7 +37642,7 @@
       "Name": "Death by splinter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "EdwardKelly",
@@ -37661,7 +37666,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187202
+      "UsersEstimate": 187206
     },
     {
       "ID": "Fighter",
@@ -37669,7 +37674,7 @@
       "Name": "Fighter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5697
+      "UsersEstimate": 5698
     },
     {
       "ID": "Firestarter",
@@ -37677,7 +37682,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130227
+      "UsersEstimate": 130230
     },
     {
       "ID": "Freud",
@@ -37741,7 +37746,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73253
+      "UsersEstimate": 73255
     },
     {
       "ID": "HardcoreHenry",
@@ -37757,7 +37762,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32557
+      "UsersEstimate": 32558
     },
     {
       "ID": "ICanStop",
@@ -37781,7 +37786,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105810
+      "UsersEstimate": 105812
     },
     {
       "ID": "Judas",
@@ -37797,7 +37802,7 @@
       "Name": "King Charming",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "KingdomDidNotCome",
@@ -37813,7 +37818,7 @@
       "Name": "Knightrider",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "LevelCap",
@@ -37821,7 +37826,7 @@
       "Name": "Level Cap",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "LikeGhost",
@@ -37853,7 +37858,7 @@
       "Name": "Arena Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "McLovin",
@@ -37861,7 +37866,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56974
+      "UsersEstimate": 56976
     },
     {
       "ID": "MercenarysHonor",
@@ -37869,7 +37874,7 @@
       "Name": "Mercenary\u0027s Honour",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5697
+      "UsersEstimate": 5698
     },
     {
       "ID": "Merciful",
@@ -37885,7 +37890,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40696
+      "UsersEstimate": 40697
     },
     {
       "ID": "NotSoChristianBurial",
@@ -37933,7 +37938,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32557
+      "UsersEstimate": 32558
     },
     {
       "ID": "Ranger",
@@ -37941,7 +37946,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162784
+      "UsersEstimate": 162788
     },
     {
       "ID": "RevenantOfLedechko",
@@ -37957,7 +37962,7 @@
       "Name": "Robber Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "Runt",
@@ -37965,7 +37970,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56974
+      "UsersEstimate": 56976
     },
     {
       "ID": "Saviour",
@@ -37973,7 +37978,7 @@
       "Name": "Saviour",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5697
+      "UsersEstimate": 5698
     },
     {
       "ID": "Scrooge",
@@ -37981,7 +37986,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162784
+      "UsersEstimate": 162788
     },
     {
       "ID": "SerialKiller",
@@ -37989,7 +37994,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40696
+      "UsersEstimate": 40697
     },
     {
       "ID": "Sinner",
@@ -37997,7 +38002,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89531
+      "UsersEstimate": 89533
     },
     {
       "ID": "Sniper",
@@ -38021,7 +38026,7 @@
       "Name": "Talmberger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "TheEnd",
@@ -38029,7 +38034,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "Thief",
@@ -38037,7 +38042,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97671
+      "UsersEstimate": 97673
     },
     {
       "ID": "TisButAScratch",
@@ -38069,7 +38074,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89531
+      "UsersEstimate": 89533
     },
     {
       "ID": "TrialAndError",
@@ -38116,15 +38121,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813921,
+      "Progressed": 813940,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-23T12:59:26.3248807+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:48.053596+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:09:56.4872264+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:57:26.6983726+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:48.0537543+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:14.6775011+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:09:56.4873876+00:00"
 }

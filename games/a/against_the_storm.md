@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,141 |
-| Overgrown Library | 6.00% | ~1,141 |
+| Abandoned Settlement | 6.00% | ~1,142 |
+| Overgrown Library | 6.00% | ~1,142 |
 | Petrified Necropolis | 5.00% | ~951 |
 | First Real Expedition | 4.00% | ~761 |
 | The Marshlands | 4.00% | ~761 |
@@ -20,15 +20,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 3.00% | ~571 |
 | Coral Forest | 3.00% | ~571 |
 | The Scarlet Orchard | 3.00% | ~571 |
-| Homesick | 2.00% | ~380 |
-| Ruined Armory | 2.00% | ~380 |
-| Fertile Meadows | 2.00% | ~380 |
-| Monastery of the Holy Flame | 2.00% | ~380 |
-| Royal Outpost | 2.00% | ~380 |
-| Lost Colonies | 2.00% | ~380 |
-| Watchtower | 2.00% | ~380 |
-| A Real Challenge | 2.00% | ~380 |
-| Untamed Wilds | 2.00% | ~380 |
+| Homesick | 2.00% | ~381 |
+| Ruined Armory | 2.00% | ~381 |
+| Fertile Meadows | 2.00% | ~381 |
+| Monastery of the Holy Flame | 2.00% | ~381 |
+| Royal Outpost | 2.00% | ~381 |
+| Lost Colonies | 2.00% | ~381 |
+| Watchtower | 2.00% | ~381 |
+| A Real Challenge | 2.00% | ~381 |
+| Untamed Wilds | 2.00% | ~381 |
 | Bandit Camp | 1.00% | ~190 |
 | Barren Lands | 1.00% | ~190 |
 | Ancient Battleground | 1.00% | ~190 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,021 (Ranked 150)  
-Completed: 39 (0.21%) (Ranked 270)  
+Progressed: 19,026 (Ranked 150)  
+Completed: 38 (0.20%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,7 +313,7 @@ Completed: 39 (0.21%) (Ranked 270)
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
-| 2023-12-23 | 19,021 | 39 |
+| 2023-12-23 | 19,026 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,284 (Ranked 175)  

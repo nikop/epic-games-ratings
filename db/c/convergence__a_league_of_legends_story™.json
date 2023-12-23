@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -3031,6 +3031,11 @@
       "Time": "2023-12-23T18:09:53.1608664+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T19:10:02.6343893+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3194,7 +3199,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "GrindingTime1",
@@ -3226,7 +3231,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LacunaCompleted",
@@ -3264,9 +3269,9 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "NoRewindCamille",
@@ -3282,7 +3287,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ParryBoss",
@@ -3298,7 +3303,7 @@
       "Name": "No, Thanks!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3320,17 +3325,17 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 248
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 431
     },
     {
       "ID": "RewindParry",
@@ -3338,7 +3343,7 @@
       "Name": "Honest Mistake",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3426,7 +3431,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "WatcherFought",
@@ -3465,7 +3470,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 6
     }
   ],
@@ -3473,8 +3478,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-23T18:09:53.1608662+00:00",
+  "LastChanged_Achievements": "2023-12-23T19:10:02.6343891+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T17:57:14.9516168+00:00",
-  "LastUpdate_Achievements": "2023-12-23T18:09:53.1609202+00:00"
+  "LastUpdate_Ratings": "2023-12-23T18:57:03.2648799+00:00",
+  "LastUpdate_Achievements": "2023-12-23T19:10:02.6344299+00:00"
 }

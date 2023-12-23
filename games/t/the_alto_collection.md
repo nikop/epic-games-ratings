@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,899 |
-| Finding Your Footing | 25.00% | ~12,870 |
-| Nomad | 17.00% | ~8,751 |
-| Picking Up Speed | 15.00% | ~7,722 |
-| Welcome Maya | 14.00% | ~7,207 |
-| Scout | 11.00% | ~5,663 |
-| Sightseer | 11.00% | ~5,663 |
-| Amateur | 10.00% | ~5,148 |
-| Unlock Maya | 8.00% | ~4,118 |
-| Wanderer | 8.00% | ~4,118 |
-| Enter Paz | 7.00% | ~3,603 |
+| Rookie | 27.00% | ~13,902 |
+| Finding Your Footing | 25.00% | ~12,872 |
+| Nomad | 17.00% | ~8,753 |
+| Picking Up Speed | 15.00% | ~7,723 |
+| Welcome Maya | 14.00% | ~7,208 |
+| Scout | 11.00% | ~5,664 |
+| Sightseer | 11.00% | ~5,664 |
+| Amateur | 10.00% | ~5,149 |
+| Unlock Maya | 8.00% | ~4,119 |
+| Wanderer | 8.00% | ~4,119 |
+| Enter Paz | 7.00% | ~3,604 |
 | Aviator | 6.00% | ~3,089 |
 | My Little Friend | 5.00% | ~2,574 |
 | One With The Board | 5.00% | ~2,574 |
 | Voyager | 5.00% | ~2,574 |
-| Junkie | 3.00% | ~1,544 |
-| Traveler | 3.00% | ~1,544 |
-| Unlock Paz | 3.00% | ~1,544 |
-| Human Flight | 3.00% | ~1,544 |
-| Sandboarder | 3.00% | ~1,544 |
-| Izel Has Arrived | 3.00% | ~1,544 |
+| Junkie | 3.00% | ~1,545 |
+| Traveler | 3.00% | ~1,545 |
+| Unlock Paz | 3.00% | ~1,545 |
+| Human Flight | 3.00% | ~1,545 |
+| Sandboarder | 3.00% | ~1,545 |
+| Izel Has Arrived | 3.00% | ~1,545 |
 | Explorer | 2.00% | ~1,030 |
 | Pro | 2.00% | ~1,030 |
 | Journeyer | 2.00% | ~1,030 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~51 |
 | Windswept | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,478 (Ranked 119)  
+Progressed: 51,488 (Ranked 119)  
 Completed: 5 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,17 +293,17 @@ Completed: 5 (0.01%) (Ranked 362)
 | 2023-12-20 | 51,064 | 5 |
 | 2023-12-21 | 51,212 | 5 |
 | 2023-12-22 | 51,366 | 5 |
-| 2023-12-23 | 51,478 | 5 |
+| 2023-12-23 | 51,488 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 448)  
-Sum: 387 (Ranked 351)  
+Sum: 388 (Ranked 351)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 49 |
 | This game is Great for Beginners | 45 |
+| This game is Highly Recommended | 44 |
 | This game has Beautiful Visuals | 43 |
-| This game is Highly Recommended | 43 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Extremely Fun | 39 |
 | This game is Relaxing | 37 |
@@ -434,3 +434,4 @@ Diff (max vs sum): 97
 | 2023-12-09 | 4.71 | - | 48 | 381 |
 | 2023-12-12 | 4.71 | - | 49 | 385 |
 | 2023-12-16 | 4.71 | - | 49 | 387 |
+| 2023-12-23 | 4.71 | - | 49 | 388 |
