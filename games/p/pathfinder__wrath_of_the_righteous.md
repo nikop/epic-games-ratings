@@ -7,7 +7,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,407 |
-| A Spark | 19.00% | ~2,397 |
+| A Spark | 19.00% | ~2,398 |
 | Burning City | 18.00% | ~2,271 |
 | Defender's Heart | 16.00% | ~2,019 |
 | Mythic Choices | 15.00% | ~1,893 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,618 (Ranked 169)  
+Progressed: 12,619 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,10 +370,10 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 12,550 | 0 |
 | 2023-12-21 | 12,584 | 0 |
 | 2023-12-22 | 12,617 | 0 |
-| 2023-12-23 | 12,618 | 0 |
+| 2023-12-23 | 12,619 | 0 |
 ## Awards
 Max (Character Customization): 1,765  (Ranked 124)  
-Sum: 7,158 (Ranked 123)  
+Sum: 7,159 (Ranked 123)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -384,7 +384,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 648 |
 | This game has Amazing Storytelling | 629 |
 | This game has Challenging Combat | 598 |
-| This game has Quickly Understood Controls | 583 |
+| This game has Quickly Understood Controls | 584 |
 | This game is Relaxing | 564 |
 | This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
@@ -690,3 +690,4 @@ Diff (max vs sum): 1
 | 2023-12-20 | 4.76 | - | 1,763 | 7,153 |
 | 2023-12-21 | 4.76 | - | 1,763 | 7,156 |
 | 2023-12-22 | 4.76 | - | 1,765 | 7,158 |
+| 2023-12-23 | 4.76 | - | 1,765 | 7,159 |

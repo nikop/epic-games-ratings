@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4593,10 +4593,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7158,
       "NumberOfAwardsMax": 1765
+    },
+    {
+      "Time": "2023-12-23T01:40:38.2034997+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7159,
+      "NumberOfAwardsMax": 1765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7158,
+  "NumberOfAwards": 7159,
   "NumberOfAwardsMax": 1765,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4652,7 +4658,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 583
+      "Count": 584
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4667,9 +4673,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12618,
+  "EOS_Progressed": 12619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17697,6 +17703,11 @@
       "Time": "2023-12-23T00:11:10.1585589+00:00",
       "NumProgressed": 12618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T01:52:15.0671915+00:00",
+      "NumProgressed": 12619,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18076,7 +18087,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "49_Flame",
@@ -18635,21 +18646,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11400,
+      "Progressed": 11401,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12618,
+      "Progressed": 12619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-22T03:58:13.0642392+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:11:10.1585587+00:00",
+  "LastChanged": "2023-12-23T01:40:38.2034995+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:52:15.0671913+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:59:47.8771822+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:11:10.1587241+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:40:38.2035+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:52:15.0673677+00:00"
 }

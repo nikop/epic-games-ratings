@@ -7,14 +7,14 @@
 | First Step | 54.00% | ~123 |
 | The 4 Pillars | 50.00% | ~114 |
 | Capitalism | 20.00% | ~45 |
+| Indebted | 11.00% | ~25 |
 | Green Energy | 11.00% | ~25 |
 | There's something in those trees | 10.00% | ~23 |
-| Indebted | 10.00% | ~23 |
 | Great Producer | 10.00% | ~23 |
 | Desert Power | 9.00% | ~20 |
+| Health Care | 8.00% | ~18 |
 | Desert Rat | 8.00% | ~18 |
 | Perfect Soldier | 7.00% | ~16 |
-| Health Care | 7.00% | ~16 |
 | Good payer | 7.00% | ~16 |
 | Pathfinder | 7.00% | ~16 |
 | Ammo Tycoon | 7.00% | ~16 |

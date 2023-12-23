@@ -6,9 +6,9 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 40.00% | ~266 |
-| Double Kill | 33.00% | ~220 |
-| Critical Hit | 18.00% | ~120 |
+| Adept | 40.00% | ~267 |
+| Double Kill | 34.00% | ~227 |
+| Critical Hit | 19.00% | ~127 |
 | Veteran | 18.00% | ~120 |
 | Dressed For Success | 12.00% | ~80 |
 | Humiliation | 8.00% | ~53 |
@@ -34,10 +34,10 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 0.90% | ~6 |
 | Grand Master | 0.90% | ~6 |
 | Get Over Here! | 0.60% | ~4 |
-| Death To Diplomacy | 0.50% | ~3 |
-| Unlimited Power! | 0.50% | ~3 |
-| Fully Charged | 0.50% | ~3 |
-| In The Thick of It | 0.50% | ~3 |
+| Death To Diplomacy | 0.40% | ~3 |
+| Unlimited Power! | 0.40% | ~3 |
+| Fully Charged | 0.40% | ~3 |
+| In The Thick of It | 0.40% | ~3 |
 | Attack Bonanza | 0.30% | ~2 |
 | Coming Through! | 0.30% | ~2 |
 | Barbecue | 0.30% | ~2 |
@@ -45,9 +45,9 @@ Number of Ratings: 292  (23.09.2022)
 | Oops! | 0.30% | ~2 |
 | The Marsh Expands | 0.30% | ~2 |
 | Cleave | 0.30% | ~2 |
-| Bringer of Ruin | 0.20% | ~1 |
-| Hello There | 0.20% | ~1 |
-| An Empress's Hope | 0.20% | ~1 |
+| Bringer of Ruin | 0.10% | ~1 |
+| Hello There | 0.10% | ~1 |
+| An Empress's Hope | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 306)  
+Progressed: 667 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 600 | 0 |
 | 2023-12-21 | 630 | 0 |
 | 2023-12-22 | 665 | 0 |
-| 2023-12-23 | 666 | 0 |
+| 2023-12-23 | 667 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 525)  
 Sum: 194 (Ranked 413)  

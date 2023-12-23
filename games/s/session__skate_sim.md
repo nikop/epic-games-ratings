@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~2,031 |
-| Keeping it classy | 28.00% | ~932 |
+| You're free now! | 61.00% | ~2,033 |
+| Keeping it classy | 28.00% | ~933 |
 | Welcome to the family | 22.00% | ~733 |
 | The finer things in life | 19.00% | ~633 |
 | Backpacker | 14.00% | ~466 |
@@ -18,7 +18,7 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~300 |
 | Keep the dream alive | 9.00% | ~300 |
 | Upfront shredder | 9.00% | ~300 |
-| Tight lipslides | 8.00% | ~266 |
+| Tight lipslides | 8.00% | ~267 |
 | Bottom ply killer | 7.00% | ~233 |
 | Fashionista | 7.00% | ~233 |
 | Finally he zips it | 7.00% | ~233 |
@@ -30,16 +30,16 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~200 |
 | Squad goals | 6.00% | ~200 |
 | Sup widdit big dog! | 6.00% | ~200 |
-| Commence the Hijinx! | 5.00% | ~166 |
-| Cops called! | 5.00% | ~166 |
-| DIY Boss | 5.00% | ~166 |
-| Globetrotter | 5.00% | ~166 |
-| Lines for days | 5.00% | ~166 |
-| Manny Destroys All | 5.00% | ~166 |
-| Renaissance man | 5.00% | ~166 |
-| Tank commander | 5.00% | ~166 |
-| Trick shot marksman | 5.00% | ~166 |
-| We get it, you're good | 5.00% | ~166 |
+| Commence the Hijinx! | 5.00% | ~167 |
+| Cops called! | 5.00% | ~167 |
+| DIY Boss | 5.00% | ~167 |
+| Globetrotter | 5.00% | ~167 |
+| Lines for days | 5.00% | ~167 |
+| Manny Destroys All | 5.00% | ~167 |
+| Renaissance man | 5.00% | ~167 |
+| Tank commander | 5.00% | ~167 |
+| Trick shot marksman | 5.00% | ~167 |
+| We get it, you're good | 5.00% | ~167 |
 | G.O.A.T. status | 4.00% | ~133 |
 | Hoarder | 4.00% | ~133 |
 | Pew-Pew | 4.00% | ~133 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,330 (Ranked 217)  
+Progressed: 3,332 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2 (0.06%) (Ranked 324)
 | 2023-12-20 | 3,294 | 2 |
 | 2023-12-21 | 3,308 | 2 |
 | 2023-12-22 | 3,328 | 2 |
-| 2023-12-23 | 3,330 | 2 |
+| 2023-12-23 | 3,332 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 60  (Ranked 421)  
 Sum: 570 (Ranked 323)  

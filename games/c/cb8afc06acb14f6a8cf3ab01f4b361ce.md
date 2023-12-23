@@ -5,12 +5,12 @@ Rating: 4.21 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,330 |
-| The touch of Chaos | 4.00% | ~13,330 |
-| A powerful aura was here | 3.00% | ~9,998 |
+| May the Torchbearer light our way | 4.00% | ~13,332 |
+| The touch of Chaos | 4.00% | ~13,332 |
+| A powerful aura was here | 3.00% | ~9,999 |
 | Let's raise the stakes!! | 1.00% | ~3,333 |
-| Rumors are true | 0.90% | ~2,999 |
-| Your wounds… They are healing so fast! | 0.90% | ~2,999 |
+| Rumors are true | 0.90% | ~3,000 |
+| Your wounds… They are healing so fast! | 0.90% | ~3,000 |
 | Pride is a sin, young Knight | 0.80% | ~2,666 |
 | We'll be careful | 0.70% | ~2,333 |
 | Back to your senses | 0.60% | ~2,000 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 928)
 | Something... unnatural | 0.10% | ~333 |
 | We strike as one | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,257 (Ranked 53)  
+Progressed: 333,291 (Ranked 53)  
 Completed: 5 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,14 +137,14 @@ Completed: 5 (0.00%) (Ranked 385)
 | 2023-12-20 | 332,048 | 5 |
 | 2023-12-21 | 332,632 | 5 |
 | 2023-12-22 | 333,231 | 5 |
-| 2023-12-23 | 333,257 | 5 |
+| 2023-12-23 | 333,291 | 5 |
 ## Awards
-Max (Great Boss Battles): 71  (Ranked 409)  
-Sum: 71 (Ranked 477)  
-Diff (max vs sum): -68  
+Max (Great Boss Battles): 72  (Ranked 406)  
+Sum: 72 (Ranked 475)  
+Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 71 |
+| This game has Great Boss Battles | 72 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -195,3 +195,4 @@ Diff (max vs sum): -68
 | 2023-12-16 | 4.21 | 69 | 69 |
 | 2023-12-17 | 4.21 | 70 | 70 |
 | 2023-12-20 | 4.21 | 71 | 71 |
+| 2023-12-23 | 4.21 | 72 | 72 |

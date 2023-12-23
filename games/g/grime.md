@@ -11,7 +11,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 1.00% | ~1,639 |
 | Weeper | 1.00% | ~1,639 |
 | Ravenous | 1.00% | ~1,639 |
-| Devourer | 0.60% | ~983 |
+| Devourer | 0.60% | ~984 |
 | Harmless | 0.50% | ~820 |
 | Silenced Whispers | 0.50% | ~820 |
 | Sharpened Vessel | 0.50% | ~820 |
@@ -21,7 +21,7 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.40% | ~656 |
 | Yank | 0.40% | ~656 |
 | Shapely | 0.30% | ~492 |
-| Glare | 0.30% | ~490 |
+| Glare | 0.30% | ~491 |
 | Watcher | 0.30% | ~492 |
 | Predator | 0.30% | ~492 |
 | Assimilation | 0.20% | ~328 |
@@ -39,21 +39,21 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 0.10% | ~164 |
 | Skinmaker | 0.10% | ~164 |
 | Instruments | 0.10% | ~164 |
-| Zygote | 0.10% | ~163 |
+| Zygote | 0.10% | ~164 |
 | Breath | 0.10% | ~164 |
 | Kinship | 0.10% | ~164 |
 | Weakness | 0.10% | ~164 |
 | Passage | 0.10% | ~164 |
 | Generous | 0.10% | ~164 |
-| Kin | 0.10% | ~163 |
-| Listen | 0.10% | ~163 |
+| Kin | 0.10% | ~164 |
+| Listen | 0.10% | ~164 |
 | Proportions | 0.10% | ~164 |
-| The Nightmare | 0.10% | ~163 |
-| Touch of Otherwhere | 0.10% | ~163 |
-| Enrich | 0.10% | ~163 |
-| Intensify | 0.10% | ~163 |
+| The Nightmare | 0.10% | ~164 |
+| Touch of Otherwhere | 0.10% | ~164 |
+| Enrich | 0.10% | ~164 |
+| Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,914 (Ranked 80)  
+Progressed: 163,925 (Ranked 80)  
 Completed: 387 (0.24%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 387 (0.24%) (Ranked 260)
 | 2023-12-20 | 163,552 | 366 |
 | 2023-12-21 | 163,723 | 380 |
 | 2023-12-22 | 163,906 | 387 |
-| 2023-12-23 | 163,914 | 387 |
+| 2023-12-23 | 163,925 | 387 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 422)  
 Sum: 418 (Ranked 343)  

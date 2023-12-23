@@ -6,14 +6,14 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,357 |
-| Worth it | 63.00% | ~42,288 |
-| Eagle Eye | 55.00% | ~36,918 |
+| Setting an example | 78.00% | ~52,358 |
+| Worth it | 63.00% | ~42,289 |
+| Eagle Eye | 55.00% | ~36,919 |
 | Corpseman I | 40.00% | ~26,850 |
-| Blast fishing | 37.00% | ~24,836 |
+| Blast fishing | 37.00% | ~24,837 |
 | Not alone | 32.00% | ~21,480 |
-| Headhunter I | 26.00% | ~17,452 |
-| Manual Labour I | 25.00% | ~16,781 |
+| Headhunter I | 26.00% | ~17,453 |
+| Manual Labour I | 25.00% | ~16,782 |
 | Developers, Developers, Developers | 24.00% | ~16,110 |
 | Basic Training | 23.00% | ~15,439 |
 | Furchtlos und Treu | 13.00% | ~8,726 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,014 |
 | Silver x100 | 3.00% | ~2,014 |
 | Impavidum Ferient Bella! | 3.00% | ~2,014 |
-| Bronze x100 | 2.00% | ~1,342 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,342 |
+| Bronze x100 | 2.00% | ~1,343 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,343 |
 | Gold x100 | 1.00% | ~671 |
 | Hunting the Hun | 1.00% | ~671 |
 | #1 | 1.00% | ~671 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~671 |
 | Corpseman III | 1.00% | ~671 |
 | Elite Player | 0.80% | ~537 |
-| Manual Labour III | 0.40% | ~268 |
+| Manual Labour III | 0.40% | ~269 |
 | Buddy | 0.30% | ~201 |
 | War is better with friends II | 0.20% | ~134 |
 | Gold Collector | 0.10% | ~67 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,124 (Ranked 112)  
+Progressed: 67,126 (Ranked 112)  
 Completed: 4 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 4 (0.01%) (Ranked 361)
 | 2023-12-20 | 66,920 | 4 |
 | 2023-12-21 | 67,017 | 4 |
 | 2023-12-22 | 67,120 | 4 |
-| 2023-12-23 | 67,124 | 4 |
+| 2023-12-23 | 67,126 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 822 (Ranked 282)  

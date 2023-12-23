@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 86.00% | ~391 |
-| Vanquisher of Robots | 77.00% | ~350 |
+| Good start! | 86.00% | ~392 |
+| Vanquisher of Robots | 77.00% | ~351 |
 | Party | 50.00% | ~228 |
-| Impossible Cube | 46.00% | ~209 |
+| Impossible Cube | 46.00% | ~210 |
 | Through the Darkness | 45.00% | ~205 |
-| Knowledge is Power | 44.00% | ~200 |
+| Knowledge is Power | 44.00% | ~201 |
 | No Mercy | 43.00% | ~196 |
-| The Return of a Rat | 42.00% | ~191 |
-| Fat of the Earth | 37.00% | ~168 |
+| The Return of a Rat | 42.00% | ~192 |
+| Fat of the Earth | 37.00% | ~169 |
 | Last Man Standing | 32.00% | ~146 |
-| He's Seen It All | 28.00% | ~127 |
-| Great Hero | 28.00% | ~127 |
+| He's Seen It All | 28.00% | ~128 |
+| Great Hero | 28.00% | ~128 |
 | Campaigning | 27.00% | ~123 |
 | Rookie | 27.00% | ~123 |
-| Assemble a Meganewbie | 26.00% | ~118 |
-| Catch Jonathan_tostar | 26.00% | ~118 |
+| Assemble a Meganewbie | 26.00% | ~119 |
+| Catch Jonathan_tostar | 26.00% | ~119 |
 | Frugal | 22.00% | ~100 |
-| Feed a God | 22.00% | ~100 |
-| To the Moon and Back | 20.00% | ~91 |
-| Great Flight | 19.00% | ~86 |
-| Holy Vengeance | 17.00% | ~77 |
+| Feed a God | 21.00% | ~96 |
+| To the Moon and Back | 21.00% | ~96 |
+| Great Flight | 19.00% | ~87 |
+| Holy Vengeance | 17.00% | ~78 |
 | Honorary Cultist | 13.00% | ~59 |
 | Brain and Brawn | 11.00% | ~50 |
 | Strength and Sorcery | 10.00% | ~46 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 602)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455 (Ranked 336)  
+Progressed: 456 (Ranked 336)  
 Completed: 1 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 1 (0.22%) (Ranked 266)
 | 2023-12-20 | 453 | 1 |
 | 2023-12-21 | 454 | 1 |
 | 2023-12-22 | 455 | 1 |
+| 2023-12-23 | 456 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

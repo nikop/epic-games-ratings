@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -553,6 +553,11 @@
       "Time": "2023-12-22T19:08:23.7170326+00:00",
       "NumProgressed": 455,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T01:48:33.6445242+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -636,7 +641,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "finished-quest-cube",
@@ -644,7 +649,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "finished-quest-flight",
@@ -652,7 +657,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "finished-quest-monster",
@@ -666,9 +671,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-pit",
@@ -676,7 +681,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "finished-quest-rat",
@@ -684,7 +689,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "finished-quest-reaper",
@@ -692,7 +697,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "finished-quest-sci",
@@ -700,15 +705,15 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-sword",
@@ -716,7 +721,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "get-all",
@@ -732,7 +737,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "last-hero",
@@ -772,7 +777,7 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "win-first-biom",
@@ -780,7 +785,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "win-first-level",
@@ -788,7 +793,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "win-koth-fights1",
@@ -843,7 +848,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 1
     }
   ],
@@ -851,8 +856,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:08:36.6090087+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:48:33.6445239+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.0467066+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:00:03.233358+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:08:36.6090349+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:40:48.6590734+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:48:33.6445471+00:00"
 }

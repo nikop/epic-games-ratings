@@ -5,10 +5,10 @@
   "Ranking_Rating": 1062,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -41,7 +41,7 @@
   "Tags": [],
   "EOS_Progressed": 607,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
@@ -1221,9 +1221,9 @@
       "ID": "WALKING_ROBOT",
       "SetID": "2iigf77",
       "Name": "The Walking Robot Among Us",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:10:58.3034606+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:52:06.0571401+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:03:07.8215949+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:10:58.3034888+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:42:19.8176574+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:52:06.0571576+00:00"
 }

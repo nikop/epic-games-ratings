@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 477,
+  "Ranking_Popularity": 406,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -417,11 +417,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-12-23T01:40:19.2181543+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71,
-  "NumberOfAwardsMax": 71,
+  "NumberOfAwards": 72,
+  "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -434,12 +440,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 71
+      "Count": 72
     }
   ],
-  "EOS_Progressed": 333257,
+  "EOS_Progressed": 333291,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3853,
+  "EOS_NewPlayers": 3844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10607,6 +10613,11 @@
       "Time": "2023-12-23T00:08:33.5820672+00:00",
       "NumProgressed": 333257,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T01:48:31.4355565+00:00",
+      "NumProgressed": 333291,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10619,7 +10630,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13332
     },
     {
       "ID": "S02_BRDA",
@@ -10627,7 +10638,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9998
+      "UsersEstimate": 9999
     },
     {
       "ID": "S03_OTWA",
@@ -10635,7 +10646,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "S04_BRDC",
@@ -10755,7 +10766,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13332
     },
     {
       "ID": "S19_CHALLENGES",
@@ -10843,7 +10854,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "S30_DIAMOND",
@@ -10938,16 +10949,16 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 333257,
+      "Progressed": 333291,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2023-12-20T17:57:35.3329235+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:08:33.582067+00:00",
+  "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:48:31.4355562+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:59:20.6899627+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:08:33.582131+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:40:19.2181546+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:48:31.4356286+00:00"
 }

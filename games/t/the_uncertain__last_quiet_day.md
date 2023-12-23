@@ -17,10 +17,10 @@ Rating: 3.75 (Ranked 1,062)
 | There is another way | 23.00% | ~140 |
 | Sysadmin | 22.00% | ~134 |
 | Every little helps | 20.00% | ~121 |
+| The Walking Robot Among Us | 20.00% | ~121 |
 | Annoying | 19.00% | ~115 |
 | Hacker | 19.00% | ~115 |
 | He is just a child | 19.00% | ~115 |
-| The Walking Robot Among Us | 19.00% | ~115 |
 | Uncertain | 18.00% | ~109 |
 | Goody | 17.00% | ~103 |
 | Ace | 16.00% | ~97 |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,062)
 | Accurate | 5.00% | ~30 |
 | Silent | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607 (Ranked 317)  
+Progressed: 607 (Ranked 318)  
 Completed: 19 (3.13%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |

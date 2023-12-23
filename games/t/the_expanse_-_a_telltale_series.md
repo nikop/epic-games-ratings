@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 14.00% | ~2,397 |
-| Bosmang | 10.00% | ~1,712 |
-| Captain Drummer | 10.00% | ~1,712 |
-| Celebrations are in Order | 10.00% | ~1,712 |
+| Oyedang, Kopengs | 14.00% | ~2,398 |
+| Bosmang | 10.00% | ~1,713 |
+| Captain Drummer | 10.00% | ~1,713 |
+| Celebrations are in Order | 10.00% | ~1,713 |
 | The Pit and the Pirates | 9.00% | ~1,541 |
 | Martian Music | 9.00% | ~1,541 |
 | Drone Dodger | 9.00% | ~1,541 |
@@ -18,9 +18,9 @@ Rating: 4.54 (Ranked 533)
 | Safe Cracker | 8.00% | ~246 |
 | Zen Master | 8.00% | ~246 |
 | Call it Even | 7.00% | ~1,199 |
-| Madame Undersecretary | 7.00% | ~215 |
-| Drug Gifter | 6.00% | ~1,027 |
-| Heal Thy Medic | 6.00% | ~1,027 |
+| Madame Undersecretary | 7.00% | ~216 |
+| Drug Gifter | 6.00% | ~1,028 |
+| Heal Thy Medic | 6.00% | ~1,028 |
 | Keep Arjun in Check | 6.00% | ~185 |
 | Data Archivist | 5.00% | ~856 |
 | Thorston Mayer | 5.00% | ~856 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 533)
 | Bottoms up! | 4.00% | ~685 |
 | Data Logger | 3.00% | ~514 |
 | Miraculous Maya | 3.00% | ~514 |
-| Brother's Reaper | 2.00% | ~342 |
-| No Belter Left Behind | 2.00% | ~342 |
-| Data Master | 2.00% | ~342 |
+| Brother's Reaper | 2.00% | ~343 |
+| No Belter Left Behind | 2.00% | ~343 |
+| Data Master | 2.00% | ~343 |
 | Debris Spree | 1.00% | ~171 |
 | Data Recoverer | 1.00% | ~171 |
 | Urshanabi Hoarder | 0.90% | ~154 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,124 (Ranked 155)  
+Progressed: 17,127 (Ranked 155)  
 Completed: 47 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 47 (0.27%) (Ranked 254)
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
-| 2023-12-23 | 17,124 | 47 |
+| 2023-12-23 | 17,127 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,8 +14,8 @@
 | Ghost Buster | 15.00% | ~88 |
 | Iconoclasm | 15.00% | ~88 |
 | Reincarnation | 15.00% | ~88 |
-| Librarian | 13.00% | ~76 |
-| Orcs Must Die! | 13.00% | ~76 |
+| Librarian | 13.00% | ~77 |
+| Orcs Must Die! | 13.00% | ~77 |
 | Gladiator | 12.00% | ~71 |
 | The End | 12.00% | ~71 |
 | Lumberjack | 11.00% | ~65 |
@@ -39,14 +39,14 @@
 | Sword Master | 1.00% | ~6 |
 | Weapon Master | 1.00% | ~6 |
 | Witch | 1.00% | ~6 |
-| Assassin | 0.90% | ~5 |
+| Assassin | 0.80% | ~5 |
 | Art Collector | 0.50% | ~3 |
 | Necromancer | 0.50% | ~3 |
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 321)  
-Completed: 1 (0.17%) (Ranked 278)  
+Progressed: 589 (Ranked 322)  
+Completed: 1 (0.17%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,6 +167,7 @@ Completed: 1 (0.17%) (Ranked 278)
 | 2023-12-20 | 572 | 1 |
 | 2023-12-21 | 581 | 1 |
 | 2023-12-22 | 588 | 1 |
+| 2023-12-23 | 589 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

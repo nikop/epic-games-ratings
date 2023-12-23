@@ -6,25 +6,25 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,232 |
-| Titan's First Steps | 9.00% | ~13,232 |
-| Basic in Bulk | 8.00% | ~11,762 |
-| Tinkle of Coins | 8.00% | ~11,762 |
+| Sponsored by Argon | 9.00% | ~13,233 |
+| Titan's First Steps | 9.00% | ~13,233 |
+| Basic in Bulk | 8.00% | ~11,763 |
+| Tinkle of Coins | 8.00% | ~11,763 |
 | Disintermediation | 6.00% | ~8,822 |
 | It's Free Real Estate | 6.00% | ~8,822 |
 | Capitalism Ho! | 6.00% | ~8,822 |
-| One Easy Payment | 5.00% | ~7,351 |
-| Some Assembly Required | 5.00% | ~7,351 |
-| Another Satisfied Customer | 5.00% | ~7,351 |
-| Pretty Penny | 5.00% | ~7,351 |
-| Budding Merchant | 5.00% | ~7,351 |
-| Own the Means of Production | 5.00% | ~7,351 |
-| The Daily Grind | 4.00% | ~5,881 |
-| Bounty Hunters | 4.00% | ~5,881 |
-| Where it Hurts | 4.00% | ~5,881 |
-| One-Armed Bandit | 4.00% | ~5,881 |
-| Dungeon Imports | 4.00% | ~5,881 |
-| Through Repetition, Perfection | 4.00% | ~5,881 |
+| One Easy Payment | 5.00% | ~7,352 |
+| Some Assembly Required | 5.00% | ~7,352 |
+| Another Satisfied Customer | 5.00% | ~7,352 |
+| Pretty Penny | 5.00% | ~7,352 |
+| Budding Merchant | 5.00% | ~7,352 |
+| Own the Means of Production | 5.00% | ~7,352 |
+| The Daily Grind | 4.00% | ~5,882 |
+| Bounty Hunters | 4.00% | ~5,882 |
+| Where it Hurts | 4.00% | ~5,882 |
+| One-Armed Bandit | 4.00% | ~5,882 |
+| Dungeon Imports | 4.00% | ~5,882 |
+| Through Repetition, Perfection | 4.00% | ~5,882 |
 | On the Path to Greatness | 3.00% | ~4,411 |
 | Ascended | 3.00% | ~4,411 |
 | Research & Development | 3.00% | ~4,411 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,026 (Ranked 82)  
+Progressed: 147,038 (Ranked 82)  
 Completed: 330 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 330 (0.22%) (Ranked 266)
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
-| 2023-12-23 | 147,026 | 330 |
+| 2023-12-23 | 147,038 | 330 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,781 (Ranked 52)  

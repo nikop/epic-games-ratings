@@ -4,8 +4,8 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_100_STAGES_ENDLESS",
@@ -516,9 +516,9 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_KILL_100_ENEMIES",
@@ -573,8 +573,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:05:43.7125681+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:46:29.9048872+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.6506261+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:02:59.7119069+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:05:43.7125821+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:42:14.8570025+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:46:29.9049053+00:00"
 }

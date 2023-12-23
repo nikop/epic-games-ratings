@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,7 +567,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6006,
+  "EOS_Progressed": 6008,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -8827,6 +8827,11 @@
       "Time": "2023-12-23T00:08:05.7597776+00:00",
       "NumProgressed": 6006,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T01:48:11.7052552+00:00",
+      "NumProgressed": 6008,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8950,7 +8955,7 @@
       "Name": "Realm Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "23",
@@ -8966,7 +8971,7 @@
       "Name": "Secret Technique",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "25",
@@ -9317,13 +9322,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6006,
+      "Progressed": 6008,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6006,
+      "Progressed": 6008,
       "Completed": 7
     }
   ],
@@ -9331,8 +9336,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:08:05.7597773+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:48:11.7052548+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:58:25.6186838+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:08:05.7598596+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:39:42.0706491+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:48:11.705322+00:00"
 }

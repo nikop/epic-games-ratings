@@ -5,55 +5,55 @@ Rating: 4.26 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,849 |
-| Don't I Know You...? | 76.00% | ~1,779 |
-| Jailbreak | 65.00% | ~1,522 |
-| HEADSHOT! | 38.00% | ~890 |
-| Suited and Booted | 38.00% | ~890 |
-| Sleeping With The Fishes | 35.00% | ~819 |
-| Overheated | 30.00% | ~702 |
-| High Performance | 30.00% | ~702 |
-| Powered Up | 28.00% | ~655 |
-| Studied The Blade | 25.00% | ~585 |
-| Home Invasion | 23.00% | ~538 |
-| Luminary | 22.00% | ~515 |
-| It's a Trap | 22.00% | ~515 |
+| Rigged And Ready | 79.00% | ~1,852 |
+| Don't I Know You...? | 76.00% | ~1,781 |
+| Jailbreak | 65.00% | ~1,524 |
+| HEADSHOT! | 38.00% | ~891 |
+| Suited and Booted | 38.00% | ~891 |
+| Sleeping With The Fishes | 35.00% | ~820 |
+| Overheated | 30.00% | ~703 |
+| High Performance | 30.00% | ~703 |
+| Powered Up | 28.00% | ~656 |
+| Studied The Blade | 25.00% | ~586 |
+| Home Invasion | 23.00% | ~539 |
+| Luminary | 22.00% | ~516 |
+| It's a Trap | 22.00% | ~516 |
 | True Survivor | 21.00% | ~492 |
-| Offensive Defense | 20.00% | ~468 |
-| Shocking | 20.00% | ~468 |
+| Offensive Defense | 20.00% | ~469 |
+| Shocking | 20.00% | ~469 |
 | Court Martial | 19.00% | ~445 |
 | Clean Cut | 19.00% | ~445 |
 | Unforeseeable Consequences | 19.00% | ~445 |
-| Dead Again | 18.00% | ~421 |
+| Dead Again | 18.00% | ~422 |
 | Full Arsenal | 17.00% | ~398 |
-| Can't Trust Banks | 15.00% | ~351 |
-| Mommy Dearest | 13.00% | ~304 |
-| Bad Dog | 13.00% | ~304 |
-| Where It All Began | 13.00% | ~304 |
-| Risk Tolerant | 13.00% | ~304 |
-| What A Catchy Song | 13.00% | ~304 |
+| Can't Trust Banks | 15.00% | ~352 |
+| Mommy Dearest | 13.00% | ~305 |
+| Bad Dog | 13.00% | ~305 |
+| Where It All Began | 13.00% | ~305 |
+| Risk Tolerant | 13.00% | ~305 |
+| What A Catchy Song | 13.00% | ~305 |
 | Corrupted Beauty | 12.00% | ~281 |
 | Marked For Success | 12.00% | ~281 |
 | Sorry, Didn't See You There | 12.00% | ~281 |
 | Stimulating The Local Economy | 10.00% | ~234 |
 | Triplets | 10.00% | ~234 |
 | Denying Prophecy | 9.00% | ~211 |
-| A Little Banged Up | 8.00% | ~187 |
-| Following In Their Footsteps | 8.00% | ~187 |
-| Defense in Depth | 8.00% | ~187 |
+| A Little Banged Up | 8.00% | ~188 |
+| Following In Their Footsteps | 8.00% | ~188 |
+| Defense in Depth | 8.00% | ~188 |
 | Reverse Engineering | 7.00% | ~164 |
-| Reborn | 6.00% | ~140 |
-| Remote Surgery | 6.00% | ~140 |
-| Turbo Booster | 6.00% | ~140 |
-| Squid Pro Quo | 6.00% | ~140 |
+| Reborn | 6.00% | ~141 |
+| Remote Surgery | 6.00% | ~141 |
+| Turbo Booster | 6.00% | ~141 |
+| Squid Pro Quo | 6.00% | ~141 |
 | Hello Darkness My Old Friend | 5.00% | ~117 |
 | Counter-Sniper | 5.00% | ~117 |
 | Shrimp Cocktail | 5.00% | ~117 |
 | Juiced Up | 5.00% | ~117 |
 | Geronimo! | 4.00% | ~94 |
-| Homewrecker | 4.00% | ~94 |
 | Plank of Wood | 4.00% | ~94 |
 | Gotta Craft 'em All | 3.00% | ~70 |
+| Homewrecker | 3.00% | ~70 |
 | Own Medicine | 2.00% | ~47 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~47 |
 | Box Office Smash | 2.00% | ~47 |
@@ -63,8 +63,8 @@ Rating: 4.26 (Ranked 888)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,341 (Ranked 229)  
-Completed: 13 (0.56%) (Ranked 203)  
+Progressed: 2,344 (Ranked 229)  
+Completed: 13 (0.55%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,7 +247,7 @@ Completed: 13 (0.56%) (Ranked 203)
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
 | 2023-12-22 | 2,340 | 13 |
-| 2023-12-23 | 2,341 | 13 |
+| 2023-12-23 | 2,344 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,80 +1,80 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.52 (Ranked 566)  
+Rating: 4.51 (Ranked 582)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 63.00% | ~72,548 |
-| Let There Be Light | 52.00% | ~59,881 |
-| Float Like a Butterfly | 50.00% | ~57,578 |
-| Nordic Walking | 41.00% | ~47,214 |
-| Bright Falls' Finest | 40.00% | ~46,062 |
-| Under a Thin Layer of Skin | 35.00% | ~40,305 |
-| Paging Mr. Wake | 30.00% | ~34,547 |
-| Park Ranger | 29.00% | ~33,395 |
-| Back! Back, I Say! | 28.00% | ~32,244 |
-| Finders Keepers | 27.00% | ~31,092 |
-| Sound and Fury | 25.00% | ~28,789 |
-| Missed by a Mile | 25.00% | ~28,789 |
-| Damn Good Cup of Coffee | 25.00% | ~28,789 |
-| Wheels Within Wheels | 24.00% | ~27,637 |
-| They're Heeeeeere! | 24.00% | ~27,637 |
-| The Six-Gun Scribe | 23.00% | ~26,486 |
-| Heavy Metal | 21.00% | ~24,183 |
-| Iron Horse | 21.00% | ~24,183 |
-| Collateral Carnage | 21.00% | ~24,183 |
-| Come One, Come All | 21.00% | ~24,183 |
-| Perchance to Dream | 20.00% | ~23,031 |
-| It's Not Just a Typewriter Brand | 19.00% | ~21,880 |
-| Thunder and Lightning | 19.00% | ~21,880 |
-| Gatekeeper | 18.00% | ~20,728 |
-| Two For the Price of One | 18.00% | ~20,728 |
-| The Lady of the Light | 17.00% | ~19,577 |
-| Energized! | 17.00% | ~19,577 |
-| Right of Way | 15.00% | ~17,273 |
-| What Light Through Yonder Window | 14.00% | ~16,122 |
-| Tornado Wrangler | 13.00% | ~14,970 |
-| Departure | 12.00% | ~13,819 |
-| Hardboiled Writer | 10.00% | ~11,516 |
-| Drink 'Em Both Up | 9.00% | ~10,364 |
-| A Friend in Need | 9.00% | ~7,076 |
-| Children of the Elder God | 8.00% | ~9,212 |
-| Boob Tube | 7.00% | ~8,061 |
-| If It Flies, It Burns | 7.00% | ~8,061 |
-| KBF-FM | 7.00% | ~8,061 |
-| A Friend Indeed | 7.00% | ~5,504 |
-| Ding! | 6.00% | ~4,717 |
-| Carny | 4.00% | ~4,606 |
-| An Idyllic Small Town | 4.00% | ~4,606 |
-| Kill Your Darlings | 4.00% | ~3,145 |
-| Heartbreaker | 4.00% | ~3,145 |
-| Medical Opinions | 3.00% | ~3,455 |
-| Taken Season | 3.00% | ~3,455 |
-| Couch Potato | 2.00% | ~2,303 |
-| Iron Will | 2.00% | ~1,572 |
-| Go Gentle Into That Good Light | 1.00% | ~786 |
-| Words Will Never Harm You | 0.70% | ~550 |
-| Meet the Deadline | 0.60% | ~691 |
+| Follow the Light | 63.00% | ~72,612 |
+| Let There Be Light | 52.00% | ~59,934 |
+| Float Like a Butterfly | 50.00% | ~57,628 |
+| Nordic Walking | 41.00% | ~47,255 |
+| Bright Falls' Finest | 40.00% | ~46,103 |
+| Under a Thin Layer of Skin | 35.00% | ~40,340 |
+| Paging Mr. Wake | 30.00% | ~34,577 |
+| Park Ranger | 29.00% | ~33,425 |
+| Back! Back, I Say! | 28.00% | ~32,272 |
+| Finders Keepers | 27.00% | ~31,119 |
+| Sound and Fury | 25.00% | ~28,814 |
+| Missed by a Mile | 25.00% | ~28,814 |
+| Damn Good Cup of Coffee | 25.00% | ~28,814 |
+| Wheels Within Wheels | 24.00% | ~27,662 |
+| They're Heeeeeere! | 24.00% | ~27,662 |
+| The Six-Gun Scribe | 23.00% | ~26,509 |
+| Collateral Carnage | 22.00% | ~25,357 |
+| Heavy Metal | 21.00% | ~24,204 |
+| Iron Horse | 21.00% | ~24,204 |
+| Come One, Come All | 21.00% | ~24,204 |
+| Perchance to Dream | 20.00% | ~23,051 |
+| It's Not Just a Typewriter Brand | 19.00% | ~21,899 |
+| Thunder and Lightning | 19.00% | ~21,899 |
+| Gatekeeper | 18.00% | ~20,746 |
+| Two For the Price of One | 18.00% | ~20,746 |
+| The Lady of the Light | 17.00% | ~19,594 |
+| Energized! | 17.00% | ~19,594 |
+| Right of Way | 15.00% | ~17,289 |
+| What Light Through Yonder Window | 14.00% | ~16,136 |
+| Tornado Wrangler | 13.00% | ~14,983 |
+| Departure | 12.00% | ~13,831 |
+| Hardboiled Writer | 10.00% | ~11,526 |
+| Drink 'Em Both Up | 9.00% | ~10,373 |
+| A Friend in Need | 9.00% | ~7,085 |
+| Children of the Elder God | 8.00% | ~9,221 |
+| Boob Tube | 7.00% | ~8,068 |
+| If It Flies, It Burns | 7.00% | ~8,068 |
+| KBF-FM | 7.00% | ~8,068 |
+| A Friend Indeed | 7.00% | ~5,511 |
+| Ding! | 6.00% | ~4,724 |
+| Carny | 4.00% | ~4,610 |
+| An Idyllic Small Town | 4.00% | ~4,610 |
+| Kill Your Darlings | 4.00% | ~3,149 |
+| Heartbreaker | 4.00% | ~3,149 |
+| Medical Opinions | 3.00% | ~3,458 |
+| Taken Season | 3.00% | ~3,458 |
+| Couch Potato | 2.00% | ~2,305 |
+| Iron Will | 2.00% | ~1,574 |
+| Go Gentle Into That Good Light | 1.00% | ~787 |
+| Words Will Never Harm You | 0.70% | ~551 |
+| Meet the Deadline | 0.60% | ~692 |
 | Cardboard Companions | 0.60% | ~472 |
 | Alan, Wake Up | 0.50% | ~576 |
 | Picking Up After Yourself | 0.50% | ~576 |
-| Fast and Furious | 0.50% | ~393 |
-| Whirlwind | 0.50% | ~393 |
-| Run-On Sentence | 0.40% | ~314 |
-| License Revoked | 0.40% | ~314 |
-| Creative Space | 0.40% | ~314 |
-| Gunless Wonder | 0.30% | ~345 |
-| Every Nook and Cranny | 0.30% | ~345 |
-| Bright Falls Aficionado | 0.30% | ~345 |
+| Fast and Furious | 0.50% | ~394 |
+| Whirlwind | 0.50% | ~394 |
+| Run-On Sentence | 0.40% | ~315 |
+| License Revoked | 0.40% | ~315 |
+| Creative Space | 0.40% | ~315 |
+| Gunless Wonder | 0.30% | ~346 |
+| Every Nook and Cranny | 0.30% | ~346 |
+| Bright Falls Aficionado | 0.30% | ~346 |
 | Tick Tock | 0.30% | ~236 |
-| Collector's Edition | 0.20% | ~230 |
-| Hypercaffeinated | 0.20% | ~230 |
+| Collector's Edition | 0.20% | ~231 |
+| Hypercaffeinated | 0.20% | ~231 |
 | Licensed Properties | 0.20% | ~157 |
 | No Punctuation | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115,156 (Ranked 88)  
+Progressed: 115,257 (Ranked 88)  
 Completed: 116 (0.10%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 116 (0.10%) (Ranked 302)
 | 2023-12-20 | 112,181 | 115 |
 | 2023-12-21 | 113,589 | 115 |
 | 2023-12-22 | 115,058 | 116 |
-| 2023-12-23 | 115,156 | 116 |
+| 2023-12-23 | 115,257 | 116 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -421,3 +421,4 @@ Completed: 116 (0.10%) (Ranked 302)
 | 2023-12-13 | 4.52 | - | 0 | 0 |
 | 2023-12-15 | 4.53 | - | 0 | 0 |
 | 2023-12-16 | 4.52 | - | 0 | 0 |
+| 2023-12-23 | 4.51 | - | 0 | 0 |

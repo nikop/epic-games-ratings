@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -137,9 +137,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6441,
+  "EOS_Progressed": 6461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2475,
+  "EOS_NewPlayers": 2460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1992,6 +1992,11 @@
       "Time": "2023-12-23T00:10:37.9070261+00:00",
       "NumProgressed": 6441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T01:51:51.0901519+00:00",
+      "NumProgressed": 6461,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2004,7 +2009,7 @@
       "Name": "Conspiracy",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1809
     },
     {
       "ID": "03_TheStolenStar",
@@ -2012,7 +2017,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 905
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2028,7 +2033,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -2092,7 +2097,7 @@
       "Name": "Doom Trader",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -2100,7 +2105,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "15_Pentakill",
@@ -2108,7 +2113,7 @@
       "Name": "Pentakill",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "16_TheRise",
@@ -2116,15 +2121,15 @@
       "Name": "The Rise",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 905
     },
     {
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 194
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -2132,7 +2137,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 905
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2140,7 +2145,7 @@
       "Name": "Void Wolf",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 386
+      "UsersEstimate": 388
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -2164,7 +2169,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 711
     },
     {
       "ID": "23_DynastyRestored",
@@ -2212,7 +2217,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 646
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -2220,7 +2225,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 773
+      "UsersEstimate": 775
     },
     {
       "ID": "30_The GreatestExploration",
@@ -2228,7 +2233,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 517
     },
     {
       "ID": "31_DontTouchThis",
@@ -2236,7 +2241,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "32_AviationSaviour",
@@ -2244,7 +2249,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -2252,7 +2257,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 775
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2260,7 +2265,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 388
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -2284,7 +2289,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -2316,7 +2321,7 @@
       "Name": "Jungle Heat",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 517
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2324,7 +2329,7 @@
       "Name": "Iron Judgement",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -2356,7 +2361,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 969
     },
     {
       "ID": "47_AFlame",
@@ -2388,7 +2393,7 @@
       "Name": "Whodunit?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -2444,7 +2449,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -2523,7 +2528,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 6441,
+      "Progressed": 6461,
       "Completed": 0
     }
   ],
@@ -2531,8 +2536,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-22T14:58:28.2712244+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:10:37.9070258+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:51:51.0901518+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:59:13.2071381+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:10:37.9070833+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:40:14.4659043+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:51:51.0901984+00:00"
 }

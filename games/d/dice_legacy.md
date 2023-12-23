@@ -30,10 +30,10 @@ Rating: 4.29 (Ranked 857)
 | Like the dream | 1.00% | ~13 |
 | Metropolis | 0.90% | ~11 |
 | Charismatic Leader | 0.80% | ~10 |
+| Six Faces | 0.60% | ~8 |
 | The Great Winter | 0.60% | ~8 |
 | Red Tape | 0.60% | ~8 |
 | Knowledge is Power | 0.60% | ~8 |
-| Six Faces | 0.50% | ~6 |
 | It's spreading | 0.30% | ~4 |
 | The Flail | 0.30% | ~4 |
 | The Incarnate | 0.30% | ~4 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 857)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,251 (Ranked 265)  
+Progressed: 1,252 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,238 | 0 |
 | 2023-12-21 | 1,244 | 0 |
 | 2023-12-22 | 1,250 | 0 |
-| 2023-12-23 | 1,251 | 0 |
+| 2023-12-23 | 1,252 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

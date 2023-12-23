@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,436 |
-| Battering Crew | 19.00% | ~5,907 |
-| The Kingsroad | 18.00% | ~5,596 |
-| Well Stocked | 13.00% | ~4,042 |
-| Royal Fleet | 13.00% | ~4,042 |
-| The Kraken’s Grasp | 9.00% | ~2,798 |
-| Daggers in the Dark | 8.00% | ~2,487 |
-| Alliance | 8.00% | ~2,487 |
-| Winter is Coming | 7.00% | ~2,176 |
-| Oathkeeper | 7.00% | ~2,176 |
-| Influential | 7.00% | ~2,176 |
-| A Long Journey | 7.00% | ~2,176 |
-| Ours is the Fury | 6.00% | ~1,865 |
-| We Do Not Sow | 6.00% | ~1,865 |
-| Defender of the Wall | 6.00% | ~1,865 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,554 |
-| Growing Strong | 5.00% | ~1,554 |
-| Hear me Roar! | 5.00% | ~1,554 |
+| Conqueror | 40.00% | ~12,440 |
+| Battering Crew | 19.00% | ~5,909 |
+| The Kingsroad | 18.00% | ~5,598 |
+| Well Stocked | 13.00% | ~4,043 |
+| Royal Fleet | 13.00% | ~4,043 |
+| The Kraken’s Grasp | 9.00% | ~2,799 |
+| Daggers in the Dark | 8.00% | ~2,488 |
+| Alliance | 8.00% | ~2,488 |
+| Winter is Coming | 7.00% | ~2,177 |
+| Oathkeeper | 7.00% | ~2,177 |
+| Influential | 7.00% | ~2,177 |
+| A Long Journey | 7.00% | ~2,177 |
+| Ours is the Fury | 6.00% | ~1,866 |
+| We Do Not Sow | 6.00% | ~1,866 |
+| Defender of the Wall | 6.00% | ~1,866 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,555 |
+| Growing Strong | 5.00% | ~1,555 |
+| Hear me Roar! | 5.00% | ~1,555 |
 | What is Dead may Never Die | 3.00% | ~933 |
 | The Swift | 3.00% | ~933 |
 | King in the North | 2.00% | ~622 |
 | War of the Five Kings | 1.00% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,089 (Ranked 134)  
+Progressed: 31,099 (Ranked 134)  
 Completed: 85 (0.27%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,10 +276,10 @@ Completed: 85 (0.27%) (Ranked 254)
 | 2023-12-20 | 30,884 | 84 |
 | 2023-12-21 | 30,974 | 84 |
 | 2023-12-22 | 31,085 | 85 |
-| 2023-12-23 | 31,089 | 85 |
+| 2023-12-23 | 31,099 | 85 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 343)  
-Sum: 803 (Ranked 284)  
+Sum: 804 (Ranked 284)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): 59
 | This game has Competitive Players | 100 |
 | This game is Relaxing | 98 |
 | This game has Amazing Storytelling | 92 |
-| This game has Amazing Characters | 87 |
+| This game has Amazing Characters | 88 |
 | This game has a Competitive Community | 75 |
 | This game has Playful Visuals | 20 |
 ## Ratings History
@@ -390,3 +390,4 @@ Diff (max vs sum): 59
 | 2023-12-14 | 4.21 | - | 127 | 802 |
 | 2023-12-16 | 4.20 | - | 127 | 802 |
 | 2023-12-21 | 4.20 | - | 127 | 803 |
+| 2023-12-23 | 4.20 | - | 127 | 804 |

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~556 |
-| Trinity | 23.00% | ~246 |
-| Find Allies | 18.00% | ~192 |
-| A Taste of Wrath | 18.00% | ~192 |
-| I Found It | 18.00% | ~192 |
-| The Collector | 18.00% | ~192 |
+| Break Out | 52.00% | ~557 |
+| Trinity | 24.00% | ~257 |
+| Find Allies | 18.00% | ~193 |
+| A Taste of Wrath | 18.00% | ~193 |
+| I Found It | 18.00% | ~193 |
+| The Collector | 18.00% | ~193 |
 | Geared Up | 17.00% | ~182 |
-| Adventurer | 16.00% | ~171 |
-| Shatter Them All | 16.00% | ~171 |
-| Scholar | 16.00% | ~171 |
-| Tributes of Caladrias | 15.00% | ~160 |
+| Adventurer | 16.00% | ~172 |
+| Shatter Them All | 16.00% | ~172 |
+| Scholar | 16.00% | ~172 |
+| Tributes of Caladrias | 15.00% | ~161 |
 | Fashion Victim | 14.00% | ~150 |
 | Stone Collection | 14.00% | ~150 |
 | Powerful Allies | 13.00% | ~139 |
@@ -22,9 +22,9 @@
 | Essence Blow | 9.00% | ~96 |
 | Alchemist | 8.00% | ~86 |
 | The Mentor | 6.00% | ~64 |
-| Calm before the Storm | 5.00% | ~53 |
-| Airborne | 5.00% | ~53 |
-| Miner | 5.00% | ~53 |
+| Calm before the Storm | 5.00% | ~54 |
+| Airborne | 5.00% | ~54 |
+| Miner | 5.00% | ~54 |
 | To Battle | 4.00% | ~43 |
 | Godslayer | 4.00% | ~43 |
 | Clear Sight | 3.00% | ~32 |
@@ -35,13 +35,13 @@
 | All There Is | 1.00% | ~11 |
 | False God | 1.00% | ~11 |
 | A Queen's Tale | 1.00% | ~11 |
-| Forgemaster | 0.70% | ~7 |
-| Shardbearer | 0.70% | ~7 |
-| Summiter | 0.70% | ~7 |
+| Forgemaster | 0.70% | ~8 |
+| Shardbearer | 0.70% | ~8 |
+| Summiter | 0.70% | ~8 |
 | All That Gold | 0.60% | ~6 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 275)  
+Progressed: 1,072 (Ranked 275)  
 Completed: 3 (0.28%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 3 (0.28%) (Ranked 252)
 | 2023-12-20 | 928 | 3 |
 | 2023-12-21 | 998 | 3 |
 | 2023-12-22 | 1,066 | 3 |
-| 2023-12-23 | 1,069 | 3 |
+| 2023-12-23 | 1,072 | 3 |

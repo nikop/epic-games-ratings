@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -222,9 +222,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2877,6 +2877,11 @@
       "Time": "2023-12-22T18:07:39.671232+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T01:47:57.7805259+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2897,7 +2902,7 @@
       "Name": "Ab Initio",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "AnthropicHills",
@@ -3031,9 +3036,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 65
     },
     {
       "ID": "GrasslandsRing",
@@ -3073,7 +3078,7 @@
       "Name": "Lord of the Files",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "LostMarshes",
@@ -3145,7 +3150,7 @@
       "Name": "Overload",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Persistent",
@@ -3153,7 +3158,7 @@
       "Name": "Persistent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "PrometheusUnbound",
@@ -3169,7 +3174,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3201,7 +3206,7 @@
       "Name": "Signatory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "SingleRod",
@@ -3249,7 +3254,7 @@
       "Name": "The All-Gifted",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3263,17 +3268,17 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 44
     },
     {
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TheSpark",
@@ -3335,9 +3340,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 98
     },
     {
       "ID": "WoodedPlateau",
@@ -3360,7 +3365,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 2
     }
   ],
@@ -3368,8 +3373,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:07:46.4324858+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:47:57.7805255+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
   "LastUpdate_Ratings": "2023-12-23T00:03:14.2221496+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:07:46.4325503+00:00"
+  "LastUpdate_Achievements": "2023-12-23T01:47:57.7805736+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3813,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32551,
+  "EOS_Progressed": 32554,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23123,6 +23123,11 @@
       "Time": "2023-12-23T00:08:22.6368535+00:00",
       "NumProgressed": 32551,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-23T01:48:23.7447722+00:00",
+      "NumProgressed": 32554,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23516,9 +23521,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1628
     },
     {
       "ID": "Welcome_Crew",
@@ -23541,7 +23546,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32551,
+      "Progressed": 32554,
       "Completed": 69
     }
   ],
@@ -23549,8 +23554,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:08:22.6368533+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:48:23.7447719+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:02:59.1708654+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:08:22.6369668+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:42:14.4690468+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:48:23.7448843+00:00"
 }

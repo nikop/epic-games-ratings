@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4136,
+  "EOS_Progressed": 4137,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6751,6 +6751,11 @@
       "Time": "2023-12-22T23:04:03.7829118+00:00",
       "NumProgressed": 4136,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T01:48:19.4932915+00:00",
+      "NumProgressed": 4137,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6762,7 +6767,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "AceDetective_9",
@@ -6786,7 +6791,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6802,7 +6807,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "CrowdPleaser",
@@ -6962,7 +6967,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7097,15 +7102,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4136,
+      "Progressed": 4137,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:08:16.9355753+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:48:19.4932914+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:03:33.0426095+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:08:16.9356304+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:44:57.2008154+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:48:19.4933376+00:00"
 }

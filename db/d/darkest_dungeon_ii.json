@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10038,9 +10038,9 @@
       "Count": 1036
     }
   ],
-  "EOS_Progressed": 129203,
+  "EOS_Progressed": 129217,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1751,
+  "EOS_NewPlayers": 1746,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36338,6 +36338,11 @@
       "Time": "2023-12-23T00:10:09.4833732+00:00",
       "NumProgressed": 129203,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T01:51:30.6078675+00:00",
+      "NumProgressed": 129217,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36349,7 +36354,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -36357,7 +36362,7 @@
       "Name": "Serenity Now!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -36365,7 +36370,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -36477,7 +36482,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36501,15 +36506,15 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3876
+      "UsersEstimate": 5169
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36549,7 +36554,7 @@
       "Name": "Meat and Greet",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36565,7 +36570,7 @@
       "Name": "Catch and Decease",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "combat_kill_librarian",
@@ -36573,7 +36578,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36589,7 +36594,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36645,7 +36650,7 @@
       "Name": "Rush Hour",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -36669,7 +36674,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "driving_distance_easy",
@@ -36701,7 +36706,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "hero_story_complete_all",
@@ -36709,7 +36714,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "hero_story_complete_any",
@@ -36757,7 +36762,7 @@
       "Name": "FNG",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3876
+      "UsersEstimate": 3877
     },
     {
       "ID": "inn_visit_all_variants",
@@ -36837,7 +36842,7 @@
       "Name": "Body of Work",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -36885,7 +36890,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 368
     },
     {
       "ID": "combat_kill_collector",
@@ -36925,7 +36930,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -36949,7 +36954,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -36957,7 +36962,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -36980,21 +36985,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129203,
+      "Progressed": 129217,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4072,
+      "Progressed": 4086,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-22T22:02:16.643008+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:10:09.4833728+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:51:30.6078673+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:03:08.9249429+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:10:09.4835362+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:42:20.5614453+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:51:30.6080606+00:00"
 }

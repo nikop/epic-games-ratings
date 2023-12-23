@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~215,674 |
-| 50 HEADSHOTS | 30.00% | ~202,194 |
-| SCIENCE AND INDUSTRY | 29.00% | ~195,454 |
-| FINISHED CHAPTER 1 | 27.00% | ~181,975 |
-| FINISHED CHAPTER 2 | 20.00% | ~134,796 |
-| 200 HEADSHOTS | 18.00% | ~121,317 |
-| FINISHED CHAPTER 3 | 17.00% | ~114,577 |
-| FINISHED CHAPTER 4 | 15.00% | ~101,097 |
-| FINISH CHAPTER 5 | 12.00% | ~80,878 |
-| FINISH CHAPTER 6 | 11.00% | ~74,138 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,138 |
-| 1000 KILLS | 10.00% | ~67,398 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,959 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,480 |
-| FIRST BLOOD | 2.00% | ~13,480 |
-| OUT OF ORDER | 1.00% | ~6,740 |
-| PACEMAKER | 1.00% | ~6,740 |
-| TIME PARADOX | 1.00% | ~6,740 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,066 |
-| PARTYHARD | 0.80% | ~5,392 |
-| NEW GAME PLUS | 0.70% | ~4,718 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,370 |
+| 100 KILLS | 32.00% | ~215,647 |
+| 50 HEADSHOTS | 30.00% | ~202,169 |
+| SCIENCE AND INDUSTRY | 29.00% | ~195,430 |
+| FINISHED CHAPTER 1 | 27.00% | ~181,952 |
+| FINISHED CHAPTER 2 | 20.00% | ~134,779 |
+| 200 HEADSHOTS | 18.00% | ~121,301 |
+| FINISHED CHAPTER 3 | 17.00% | ~114,562 |
+| FINISHED CHAPTER 4 | 15.00% | ~101,084 |
+| FINISH CHAPTER 5 | 12.00% | ~80,868 |
+| FINISH CHAPTER 6 | 11.00% | ~74,129 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,129 |
+| 1000 KILLS | 10.00% | ~67,390 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,956 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,478 |
+| FIRST BLOOD | 2.00% | ~13,478 |
+| OUT OF ORDER | 1.00% | ~6,739 |
+| PACEMAKER | 1.00% | ~6,739 |
+| TIME PARADOX | 1.00% | ~6,739 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,065 |
+| PARTYHARD | 0.80% | ~5,391 |
+| NEW GAME PLUS | 0.70% | ~4,717 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,369 |
 | CHURCH | 0.40% | ~2,696 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,022 |
 | REMEMBER THE ARMORY | 0.30% | ~2,022 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~674 |
 | WARRIOR IN A GARDEN | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,981 (Ranked 28)  
+Progressed: 673,896 (Ranked 28)  
 Completed: 68 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |

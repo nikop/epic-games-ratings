@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,7 +161,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1255,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 2,
@@ -4276,6 +4276,11 @@
       "Time": "2023-12-22T23:02:53.5419725+00:00",
       "NumProgressed": 1255,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-23T01:47:08.6039408+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4288,7 +4293,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4296,7 +4301,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "_03_FinishAct1",
@@ -4320,7 +4325,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4328,7 +4333,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "_07_FinishAct3",
@@ -4336,7 +4341,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "_08_Completion_10",
@@ -4352,7 +4357,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "_10_Completion_30",
@@ -4406,9 +4411,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 289
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4495,7 +4500,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1255,
+      "Progressed": 1256,
       "Completed": 34
     }
   ],
@@ -4503,8 +4508,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:06:37.7946142+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:47:08.6039406+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:00:09.4829051+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:06:37.7946405+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:40:53.039121+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:47:08.6039775+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1251,
+  "EOS_Progressed": 1252,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -2519,6 +2519,11 @@
       "Time": "2023-12-23T00:04:13.6484511+00:00",
       "NumProgressed": 1251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T01:45:24.5767095+00:00",
+      "NumProgressed": 1252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2552,9 +2557,9 @@
       "ID": "CHALLENGE_FEWBUTGOOD",
       "SetID": "6ohhfoc",
       "Name": "Six Faces",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "CHALLENGE_GREATWINTER",
@@ -2889,7 +2894,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1251,
+      "Progressed": 1252,
       "Completed": 0
     }
   ],
@@ -2897,8 +2902,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:04:13.6484508+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:45:24.5767092+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:03:43.4297812+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:04:13.6485363+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:45:04.5551125+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:45:24.5767863+00:00"
 }

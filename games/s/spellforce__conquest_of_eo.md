@@ -9,16 +9,16 @@
 | First to the post | 83.00% | ~59 |
 | A kind of Magic | 77.00% | ~55 |
 | Connected | 70.00% | ~50 |
-| Expansion | 66.00% | ~47 |
+| Expansion | 68.00% | ~48 |
 | Harvest Time | 61.00% | ~43 |
 | Mine! | 61.00% | ~43 |
 | Artificer's Apprentice | 54.00% | ~38 |
-| Fly the friendly Sky | 48.00% | ~34 |
+| Fly the friendly Sky | 49.00% | ~35 |
 | Get out of here! | 45.00% | ~32 |
 | Necromancer's Apprentice | 42.00% | ~30 |
 | Alchemist's Apprentice | 39.00% | ~28 |
 | Friend of Lyraine | 39.00% | ~28 |
-| The Circle | 37.00% | ~26 |
+| The Circle | 38.00% | ~27 |
 | Redecorating | 35.00% | ~25 |
 | Bad JuJu | 24.00% | ~17 |
 | Slave to the rhythm | 23.00% | ~16 |

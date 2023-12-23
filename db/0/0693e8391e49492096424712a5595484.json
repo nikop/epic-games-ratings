@@ -2,10 +2,10 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 623,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
@@ -2598,9 +2598,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 455
     },
     {
       "ID": "BroomAmanita",
@@ -2885,8 +2885,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-23T00:06:24.9626041+00:00",
+  "LastChanged_Achievements": "2023-12-23T01:46:59.5564873+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-23T00:00:45.8383122+00:00",
-  "LastUpdate_Achievements": "2023-12-23T00:06:24.9626548+00:00"
+  "LastUpdate_Ratings": "2023-12-23T01:41:17.2629189+00:00",
+  "LastUpdate_Achievements": "2023-12-23T01:46:59.5565288+00:00"
 }
