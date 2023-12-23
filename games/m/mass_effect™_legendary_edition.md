@@ -15,8 +15,8 @@
 | Turian Ally | 41.00% | ~1,177 |
 | Medal of Exploration II | 39.00% | ~1,120 |
 | Council Legion of Merit | 39.00% | ~1,120 |
+| Soldier Ally | 37.00% | ~1,062 |
 | Medal of Honor | 36.00% | ~1,034 |
-| Soldier Ally | 36.00% | ~1,034 |
 | Charismatic | 36.00% | ~1,034 |
 | Meritorious Service Medal | 35.00% | ~1,005 |
 | Soldier | 34.00% | ~976 |
@@ -31,8 +31,8 @@
 | Paramour I | 30.00% | ~861 |
 | Merciless | 30.00% | ~861 |
 | Scientist | 30.00% | ~861 |
+| Scholar | 29.00% | ~833 |
 | Head Hunter | 28.00% | ~804 |
-| Scholar | 28.00% | ~804 |
 | The Archangel | 27.00% | ~775 |
 | The Professor | 27.00% | ~775 |
 | Operative | 27.00% | ~775 |
@@ -61,13 +61,13 @@
 | Battlemaster | 20.00% | ~574 |
 | Fade Away | 20.00% | ~574 |
 | The Cure | 20.00% | ~574 |
+| Treason | 20.00% | ~574 |
 | Big Game Hunter | 20.00% | ~574 |
 | Digital Exorcist | 20.00% | ~574 |
 | Heart of Darkness | 20.00% | ~574 |
 | Friend or Foe | 19.00% | ~545 |
 | Cat's in the Cradle | 19.00% | ~545 |
 | Doppelganger | 19.00% | ~545 |
-| Treason | 19.00% | ~545 |
 | Agent | 19.00% | ~545 |
 | Mobilizer | 19.00% | ~545 |
 | Untouchable | 18.00% | ~517 |

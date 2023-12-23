@@ -7,10 +7,10 @@ Rating: 4.65 (Ranked 320)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 40.00% | ~431 |
 | Rail Rat | 30.00% | ~323 |
-| The Mysterious Stranger | 29.00% | ~312 |
-| Immaculate Aim | 25.00% | ~269 |
-| Make Up For Lost Time | 24.00% | ~258 |
-| The Brass Boss | 24.00% | ~258 |
+| The Mysterious Stranger | 29.00% | ~313 |
+| Immaculate Aim | 25.00% | ~270 |
+| Make Up For Lost Time | 24.00% | ~259 |
+| The Brass Boss | 24.00% | ~259 |
 | Time Flies | 23.00% | ~248 |
 | No, Thanks! | 23.00% | ~248 |
 | The Prince in Heels | 23.00% | ~248 |
@@ -23,9 +23,9 @@ Rating: 4.65 (Ranked 320)
 | Fast Learner | 22.00% | ~237 |
 | The Betrayer | 21.00% | ~226 |
 | Golem Chaser | 21.00% | ~226 |
-| Right On Time | 20.00% | ~215 |
-| Like Clockwork | 20.00% | ~215 |
-| Check Your Pulse | 20.00% | ~215 |
+| Right On Time | 20.00% | ~216 |
+| Like Clockwork | 20.00% | ~216 |
+| Check Your Pulse | 20.00% | ~216 |
 | The Loose Cannon | 19.00% | ~205 |
 | The Man Who Shattered Time | 18.00% | ~194 |
 | The Family Fortune | 18.00% | ~194 |
@@ -37,8 +37,8 @@ Rating: 4.65 (Ranked 320)
 | Family Memories | 13.00% | ~140 |
 | Ask Questions Later | 13.00% | ~140 |
 | Chaincrawler Explorer | 12.00% | ~129 |
-| Sump Explorer | 11.00% | ~118 |
-| Syron for Hope | 11.00% | ~118 |
+| Sump Explorer | 11.00% | ~119 |
+| Syron for Hope | 11.00% | ~119 |
 | Factorywood Explorer | 10.00% | ~108 |
 | Fairgrounds Explorer | 10.00% | ~108 |
 | Theater Explorer | 10.00% | ~108 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077 (Ranked 278)  
+Progressed: 1,078 (Ranked 278)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
-| 2023-12-23 | 1,077 | 6 |
+| 2023-12-23 | 1,078 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

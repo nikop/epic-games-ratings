@@ -388,9 +388,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5047,
+  "EOS_Progressed": 5048,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4003,6 +4003,11 @@
       "Time": "2023-12-23T22:03:58.0989484+00:00",
       "NumProgressed": 5047,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-23T23:03:51.4060909+00:00",
+      "NumProgressed": 5048,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4014,7 +4019,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4022,7 +4027,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4062,7 +4067,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4240
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4070,7 +4075,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4078,7 +4083,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4262,7 +4267,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4334,7 +4339,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4549,15 +4554,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5047,
+      "Progressed": 5048,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:03:58.098948+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:03:51.4060906+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:57:36.6266255+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:03:58.0990194+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:57:34.496712+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:03:51.4061656+00:00"
 }

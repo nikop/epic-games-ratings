@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 937,
-  "Ranking_Popularity": 468,
+  "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 386,
@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7444,
+  "EOS_Progressed": 7447,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12053,6 +12053,11 @@
       "Time": "2023-12-23T21:04:49.4289767+00:00",
       "NumProgressed": 7444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T23:05:19.0189316+00:00",
+      "NumProgressed": 7447,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12064,7 +12069,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12080,7 +12085,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12126,9 +12131,9 @@
       "ID": "ACHIEVEMENT_009",
       "SetID": "1a05lfd",
       "Name": "Things that go Splash in the Night",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12383,13 +12388,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7444,
+      "Progressed": 7447,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6816,
+      "Progressed": 6819,
       "Completed": 113
     }
   ],
@@ -12397,8 +12402,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:05:27.2821017+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:05:19.0189312+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:58:46.1171335+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:05:27.2821743+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:58:42.7063654+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:05:19.0190129+00:00"
 }

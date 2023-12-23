@@ -3813,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32604,
+  "EOS_Progressed": 32608,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23228,6 +23228,11 @@
       "Time": "2023-12-23T22:07:33.5010395+00:00",
       "NumProgressed": 32604,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-23T23:08:35.6093404+00:00",
+      "NumProgressed": 32608,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23239,7 +23244,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "Animated",
@@ -23351,7 +23356,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "Escape_Artist",
@@ -23543,7 +23548,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "Summoner",
@@ -23646,7 +23651,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32604,
+      "Progressed": 32608,
       "Completed": 69
     }
   ],
@@ -23654,8 +23659,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:07:33.5010392+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:57:48.5795629+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:07:33.5011607+00:00"
+  "LastChanged_Achievements": "2023-12-23T23:08:35.6093401+00:00",
+  "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
+  "LastUpdate_Ratings": "2023-12-23T22:57:47.0506401+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:08:35.6094435+00:00"
 }

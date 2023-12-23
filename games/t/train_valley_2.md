@@ -6,37 +6,37 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~311,047 |
-| Full garage | 61.00% | ~259,916 |
-| To the eyeballs! | 51.00% | ~217,307 |
-| Individual delivery | 47.00% | ~200,263 |
-| Non-Stop | 45.00% | ~191,741 |
-| Juggler | 36.00% | ~153,393 |
-| Forgot something | 35.00% | ~149,132 |
-| Close call! | 30.00% | ~127,828 |
-| Get out my way | 28.00% | ~119,306 |
-| Common cause | 26.00% | ~110,784 |
-| Critical care | 26.00% | ~110,784 |
-| Mega-railroad | 23.00% | ~98,001 |
-| Upgrade complete | 23.00% | ~98,001 |
-| Just in time! | 18.00% | ~76,697 |
-| Builder | 17.00% | ~72,436 |
-| Long Haul | 17.00% | ~72,324 |
-| Steam Age | 16.00% | ~68,175 |
-| Multilevel road | 15.00% | ~63,914 |
-| Bridgemania | 14.00% | ~59,653 |
-| Need to think | 14.00% | ~59,653 |
-| The Tortoise | 12.00% | ~51,131 |
-| Beginner | 11.00% | ~46,870 |
-| Without a lunch break | 11.00% | ~46,870 |
-| One way | 10.00% | ~42,609 |
-| Relocation | 10.00% | ~42,609 |
-| Industrial Age | 9.00% | ~38,348 |
-| Just One More Valley | 9.00% | ~38,289 |
-| Prick of conscience | 8.00% | ~34,087 |
-| Missed it! | 7.00% | ~29,826 |
-| At the last moment! | 6.00% | ~25,566 |
-| Overseer | 6.00% | ~25,566 |
+| Dealmaker | 73.00% | ~311,060 |
+| Full garage | 61.00% | ~259,926 |
+| To the eyeballs! | 51.00% | ~217,316 |
+| Individual delivery | 47.00% | ~200,271 |
+| Non-Stop | 45.00% | ~191,749 |
+| Juggler | 36.00% | ~153,399 |
+| Forgot something | 35.00% | ~149,138 |
+| Close call! | 30.00% | ~127,833 |
+| Get out my way | 28.00% | ~119,311 |
+| Common cause | 26.00% | ~110,788 |
+| Critical care | 26.00% | ~110,788 |
+| Mega-railroad | 23.00% | ~98,005 |
+| Upgrade complete | 23.00% | ~98,005 |
+| Just in time! | 18.00% | ~76,700 |
+| Builder | 17.00% | ~72,439 |
+| Long Haul | 17.00% | ~72,326 |
+| Steam Age | 16.00% | ~68,177 |
+| Multilevel road | 15.00% | ~63,916 |
+| Bridgemania | 14.00% | ~59,655 |
+| Need to think | 14.00% | ~59,655 |
+| The Tortoise | 12.00% | ~51,133 |
+| Beginner | 11.00% | ~46,872 |
+| Without a lunch break | 11.00% | ~46,872 |
+| One way | 10.00% | ~42,611 |
+| Relocation | 10.00% | ~42,611 |
+| Industrial Age | 9.00% | ~38,350 |
+| Just One More Valley | 9.00% | ~38,290 |
+| Prick of conscience | 8.00% | ~34,089 |
+| Missed it! | 7.00% | ~29,828 |
+| At the last moment! | 6.00% | ~25,567 |
+| Overseer | 6.00% | ~25,567 |
 | Highlander | 5.00% | ~21,305 |
 | Jewelry accuracy | 5.00% | ~21,305 |
 | Stargazer | 5.00% | ~21,305 |
@@ -48,7 +48,7 @@ Number of Ratings: 87  (23.09.2022)
 | Globalisation Age | 3.00% | ~12,783 |
 | Living it large | 3.00% | ~12,783 |
 | Sabotage | 3.00% | ~12,783 |
-| Test Batch | 3.00% | ~12,763 |
+| Test Batch | 3.00% | ~12,764 |
 | Astronomer | 2.00% | ~8,522 |
 | Innovator | 2.00% | ~8,522 |
 | Lucky vandal | 2.00% | ~8,522 |
@@ -65,7 +65,7 @@ Number of Ratings: 87  (23.09.2022)
 | BBQ | 0.80% | ~3,409 |
 | Miscalculation | 0.80% | ~3,409 |
 | Voyager | 0.60% | ~2,557 |
-| Railroad tycoon | 0.50% | ~2,130 |
+| Railroad tycoon | 0.50% | ~2,131 |
 | It's no coincidence | 0.40% | ~1,704 |
 | Miner | 0.30% | ~1,276 |
 | Pink Ruby | 0.30% | ~1,276 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~425 |
 | World Zapper | 0.10% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,092 (Ranked 45)  
+Progressed: 426,109 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,15 +305,15 @@ Completed: 23 (0.01%) (Ranked 363)
 | 2023-12-20 | 425,102 | 23 |
 | 2023-12-21 | 425,381 | 23 |
 | 2023-12-22 | 425,705 | 23 |
-| 2023-12-23 | 426,092 | 23 |
+| 2023-12-23 | 426,109 | 23 |
 ## Awards
 Max (Challenging Puzzles): 980  (Ranked 160)  
-Sum: 2,023 (Ranked 215)  
+Sum: 2,026 (Ranked 215)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 980 |
-| This game is Great for Beginners | 202 |
+| This game is Great for Beginners | 205 |
 | This game has Playful Visuals | 117 |
 | This game is Extremely Fun | 111 |
 | This game is Relaxing | 109 |
@@ -539,4 +539,4 @@ Diff (max vs sum): -55
 | 2023-12-20 | 4.44 | - | 975 | 1,998 |
 | 2023-12-21 | 4.44 | - | 976 | 2,007 |
 | 2023-12-22 | 4.44 | - | 980 | 2,020 |
-| 2023-12-23 | 4.44 | - | 980 | 2,023 |
+| 2023-12-23 | 4.44 | - | 980 | 2,026 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1077,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3036,6 +3036,11 @@
       "Time": "2023-12-23T19:10:02.6343893+00:00",
       "NumProgressed": 1077,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T23:10:17.8791614+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3079,7 +3084,7 @@
       "Name": "Right On Time",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3095,7 +3100,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ClovemaryGift",
@@ -3167,7 +3172,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3239,7 +3244,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "MapCompletion1",
@@ -3391,7 +3396,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "SyronGift",
@@ -3399,7 +3404,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3407,7 +3412,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "TheaterChests1",
@@ -3423,7 +3428,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "WarwickDefeated",
@@ -3455,7 +3460,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3470,7 +3475,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1077,
+      "Progressed": 1078,
       "Completed": 6
     }
   ],
@@ -3478,8 +3483,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:25.3182927+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:17.8791611+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:57:41.2198502+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:25.3183383+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:57:39.2760485+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:17.879201+00:00"
 }

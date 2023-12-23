@@ -5,42 +5,42 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,676 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,979 |
-| Loose Ends | 33.00% | ~26,186 |
-| To the Victor Go the Spoils | 28.00% | ~22,218 |
-| Knighthood | 27.00% | ~21,425 |
-| Get ReQ'd | 25.00% | ~19,838 |
-| Whispered Words | 24.00% | ~19,044 |
-| The Batman Family | 22.00% | ~17,457 |
-| Lock and Key | 22.00% | ~17,457 |
-| Something in the Clay | 20.00% | ~15,870 |
-| Quartzer Life Crisis | 20.00% | ~15,870 |
-| Working Hard or Harley Working? | 20.00% | ~15,870 |
-| Unstoppable Force | 20.00% | ~15,870 |
-| Bad Apples in Every Orchard | 20.00% | ~15,870 |
-| Snow Problem | 19.00% | ~15,077 |
-| The Show Mud Go On | 18.00% | ~14,283 |
-| From Inside Gotham's Walls | 17.00% | ~13,490 |
-| Protector of Gotham | 16.00% | ~12,696 |
-| Universal Health Scare | 16.00% | ~12,696 |
-| In Your Element | 15.00% | ~11,903 |
-| Rock and a Hard Place | 14.00% | ~11,109 |
-| Cooldown | 14.00% | ~11,109 |
-| Voiceless | 14.00% | ~11,109 |
-| Not On My Watch | 13.00% | ~10,316 |
-| Shock Til They Drop | 13.00% | ~10,316 |
-| Seeking Asylum | 13.00% | ~10,316 |
-| End of an Era | 12.00% | ~9,522 |
-| Bulldozed | 12.00% | ~9,522 |
-| Gotham Knight | 12.00% | ~9,522 |
-| Gotham City Confidential | 11.00% | ~8,729 |
-| Drone You Out | 10.00% | ~7,935 |
+| First Step Into the Knight | 50.00% | ~39,680 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,982 |
+| Loose Ends | 33.00% | ~26,189 |
+| To the Victor Go the Spoils | 28.00% | ~22,221 |
+| Knighthood | 27.00% | ~21,427 |
+| Get ReQ'd | 25.00% | ~19,840 |
+| Whispered Words | 24.00% | ~19,046 |
+| The Batman Family | 22.00% | ~17,459 |
+| Lock and Key | 22.00% | ~17,459 |
+| Something in the Clay | 20.00% | ~15,872 |
+| Quartzer Life Crisis | 20.00% | ~15,872 |
+| Working Hard or Harley Working? | 20.00% | ~15,872 |
+| Unstoppable Force | 20.00% | ~15,872 |
+| Bad Apples in Every Orchard | 20.00% | ~15,872 |
+| Snow Problem | 19.00% | ~15,078 |
+| The Show Mud Go On | 18.00% | ~14,285 |
+| From Inside Gotham's Walls | 17.00% | ~13,491 |
+| Protector of Gotham | 16.00% | ~12,698 |
+| Universal Health Scare | 16.00% | ~12,698 |
+| In Your Element | 15.00% | ~11,904 |
+| Rock and a Hard Place | 14.00% | ~11,110 |
+| Cooldown | 14.00% | ~11,110 |
+| Voiceless | 14.00% | ~11,110 |
+| Not On My Watch | 13.00% | ~10,317 |
+| Shock Til They Drop | 13.00% | ~10,317 |
+| Seeking Asylum | 13.00% | ~10,317 |
+| End of an Era | 12.00% | ~9,523 |
+| Bulldozed | 12.00% | ~9,523 |
+| Gotham Knight | 12.00% | ~9,523 |
+| Gotham City Confidential | 11.00% | ~8,730 |
+| Drone You Out | 10.00% | ~7,936 |
 | Out of Their League | 9.00% | ~7,142 |
 | Solid Alibi | 9.00% | ~7,142 |
 | Fusion Expert | 7.00% | ~5,555 |
-| Family Meeting | 6.00% | ~4,761 |
-| A Worthy Successor | 6.00% | ~4,761 |
+| Family Meeting | 6.00% | ~4,762 |
+| A Worthy Successor | 6.00% | ~4,762 |
 | Expert Crime Fighter | 5.00% | ~3,968 |
 | Dressed to Impress | 4.00% | ~3,174 |
 | A Momentum Occasion | 3.00% | ~2,381 |
@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 951)
 | Icebreaker | 0.80% | ~397 |
 | History Major | 0.80% | ~635 |
 | A Sophisticated Mallet | 0.80% | ~397 |
-| Read Owl About It | 0.70% | ~555 |
+| Read Owl About It | 0.70% | ~556 |
 | Don't Mecha Big Deal About It | 0.60% | ~298 |
 | Confronting Your Demon | 0.60% | ~298 |
 | Gotham's Greatest Depths | 0.50% | ~248 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 951)
 | The Cold, the Bad and the Ugly | 0.30% | ~149 |
 | It's Nice to Be Wanted | 0.20% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,351 (Ranked 104)  
+Progressed: 79,360 (Ranked 104)  
 Completed: 127 (0.16%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 127 (0.16%) (Ranked 284)
 | 2023-12-20 | 78,864 | 126 |
 | 2023-12-21 | 79,000 | 126 |
 | 2023-12-22 | 79,163 | 126 |
-| 2023-12-23 | 79,351 | 127 |
+| 2023-12-23 | 79,360 | 127 |
 ## Awards
 Max (Great Boss Battles): 3,047  (Ranked 99)  
 Sum: 5,212 (Ranked 142)  

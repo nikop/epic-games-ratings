@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2235,6 +2235,11 @@
       "Time": "2023-12-23T22:10:31.3043796+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T23:10:23.7553061+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2318,7 +2323,7 @@
       "Name": "Trinity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_11",
@@ -2356,9 +2361,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_16",
@@ -2366,7 +2371,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_17",
@@ -2478,7 +2483,7 @@
       "Name": "Alchemist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_31",
@@ -2533,14 +2538,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:31.3043791+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:23.7553058+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:59:49.780531+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:31.3044084+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:59:44.1129987+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:23.7553361+00:00"
 }

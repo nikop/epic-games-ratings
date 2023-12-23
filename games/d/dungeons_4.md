@@ -60,9 +60,9 @@
 | Mirror, Mirror | 15.00% | ~94 |
 | Untouchable | 15.00% | ~94 |
 | Heal Heal Blessing | 14.00% | ~87 |
+| Gorgu is in the Best of Health | 12.00% | ~75 |
 | Laser Eyes Are So Useless | 12.00% | ~75 |
 | Hands Off My Stones | 12.00% | ~75 |
-| Gorgu is in the Best of Health | 11.00% | ~69 |
 | No Mana, No Cry | 10.00% | ~62 |
 | I Don't Need Any Help | 8.00% | ~50 |
 ## Popularity (Based on EOS Achievements)

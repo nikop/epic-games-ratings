@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Might be useful… | 40.00% | ~48 |
 | Treasure Hunting | 38.00% | ~46 |
-| Shine! | 32.00% | ~38 |
+| Shine! | 33.00% | ~40 |
 | Friend! | 31.00% | ~37 |
 | Uncut Gem | 28.00% | ~34 |
 | Clear as Water | 26.00% | ~31 |
@@ -45,7 +45,7 @@
 | Gladiator | 0.80% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 460)  
+Progressed: 120 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,32 +6,32 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Best Buddy | 25.00% | ~19 |
 | Entrepreneur | 24.00% | ~18 |
-| Best Buddy | 24.00% | ~18 |
 | Role Model | 20.00% | ~15 |
 | Creator | 15.00% | ~11 |
 | Civilian | 13.00% | ~10 |
 | Military Leader | 12.00% | ~9 |
+| Long-Haul Flyer | 11.00% | ~8 |
 | Peddler | 9.00% | ~7 |
-| Long-Haul Flyer | 9.00% | ~7 |
+| Irissa's Fate | 8.00% | ~6 |
+| Hotshot | 7.00% | ~5 |
 | Family Reunion | 7.00% | ~5 |
-| Irissa's Fate | 7.00% | ~5 |
+| Storyteller | 5.00% | ~4 |
 | Globetrotter | 5.00% | ~4 |
-| Hotshot | 5.00% | ~4 |
+| Free as a Bird | 5.00% | ~4 |
 | Alb | 5.00% | ~4 |
 | Berserker | 5.00% | ~4 |
 | Commander | 5.00% | ~4 |
 | Pass A38 | 5.00% | ~4 |
 | Eternal Oblivion | 5.00% | ~4 |
-| Storyteller | 4.00% | ~3 |
-| Free as a Bird | 4.00% | ~3 |
+| Self-Sufficient | 4.00% | ~3 |
+| Unbreakable | 4.00% | ~3 |
 | Festival-goer | 4.00% | ~3 |
-| Self-Sufficient | 3.00% | ~2 |
-| Unbreakable | 3.00% | ~2 |
+| Idealist | 3.00% | ~2 |
 | Cleric | 3.00% | ~2 |
 | Morkon | 3.00% | ~2 |
 | Alchemist | 1.00% | ~1 |
-| Idealist | 1.00% | ~1 |
 | Defector | 1.00% | ~1 |
 | Outlaw | 1.00% | ~1 |
 | Destroyer | 1.00% | ~1 |

@@ -5,22 +5,22 @@ Rating: 4.53 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 14.00% | ~14,338 |
-| I've Had Enough! | 11.00% | ~11,266 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,193 |
-| Seasoned Fighter | 7.00% | ~7,169 |
-| All For One and One For All | 6.00% | ~6,145 |
-| A New Age | 4.00% | ~4,097 |
-| Home Sweet Home? | 4.00% | ~4,097 |
-| Oh Baby, A Triple | 2.00% | ~2,048 |
-| Battle Hardened | 2.00% | ~2,048 |
-| Master of Disguise | 2.00% | ~2,048 |
-| It's Mayhem! | 2.00% | ~2,048 |
-| Symbiotic | 2.00% | ~2,048 |
-| Double Punch! | 1.00% | ~1,024 |
-| Martyrdom | 1.00% | ~1,024 |
-| Right back at'cha | 1.00% | ~1,024 |
-| Spectacular Finisher | 1.00% | ~1,024 |
+| All Grown Up! | 14.00% | ~14,348 |
+| I've Had Enough! | 11.00% | ~11,274 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,199 |
+| Seasoned Fighter | 7.00% | ~7,174 |
+| All For One and One For All | 6.00% | ~6,149 |
+| A New Age | 4.00% | ~4,099 |
+| Home Sweet Home? | 4.00% | ~4,099 |
+| Oh Baby, A Triple | 2.00% | ~2,050 |
+| Battle Hardened | 2.00% | ~2,050 |
+| Master of Disguise | 2.00% | ~2,050 |
+| It's Mayhem! | 2.00% | ~2,050 |
+| Symbiotic | 2.00% | ~2,050 |
+| Double Punch! | 1.00% | ~1,025 |
+| Martyrdom | 1.00% | ~1,025 |
+| Right back at'cha | 1.00% | ~1,025 |
+| Spectacular Finisher | 1.00% | ~1,025 |
 | Cautious Veteran | 0.90% | ~922 |
 | Katamari | 0.70% | ~717 |
 | Ninja Reflex | 0.70% | ~717 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 551)
 | What's Mine is Yours | 0.10% | ~102 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,417 (Ranked 94)  
+Progressed: 102,487 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 96,698 | 0 |
 | 2023-12-21 | 98,723 | 0 |
 | 2023-12-22 | 100,514 | 0 |
-| 2023-12-23 | 102,417 | 0 |
+| 2023-12-23 | 102,487 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 494)  
 Sum: 34 (Ranked 519)  

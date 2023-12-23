@@ -889,9 +889,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "20TELEPORTS",
@@ -929,9 +929,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "30POTIONS",
@@ -977,41 +977,41 @@
       "ID": "ALLCOMBAT",
       "SetID": "a1angca",
       "Name": "Hotshot",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALLCRAFT",
       "SetID": "a1angca",
       "Name": "Self-Sufficient",
-      "Percentage": 3,
-      "XP": 20,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "ALLJETPACK",
-      "SetID": "a1angca",
-      "Name": "Free as a Bird",
       "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
     {
+      "ID": "ALLJETPACK",
+      "SetID": "a1angca",
+      "Name": "Free as a Bird",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
       "ID": "ALLPERSONALITY",
       "SetID": "a1angca",
       "Name": "Idealist",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ALLSURVIVAL",
       "SetID": "a1angca",
       "Name": "Unbreakable",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ALLXP",
@@ -1129,9 +1129,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "FINDMAP",
@@ -1153,9 +1153,9 @@
       "ID": "FUTUREIRISSA",
       "SetID": "a1angca",
       "Name": "Irissa\u0027s Fate",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HELPCHILDREN",
@@ -1249,8 +1249,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:06:18.3558197+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:06:10.2494185+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.2543669+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:59:09.3726835+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:06:18.3558515+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:59:05.3326159+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:06:10.2494522+00:00"
 }

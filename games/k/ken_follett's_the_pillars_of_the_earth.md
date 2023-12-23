@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,927 |
-| Man of politics | 34.00% | ~5,888 |
-| Yet another secret | 33.00% | ~5,715 |
+| Tattletale | 40.00% | ~6,928 |
+| Man of politics | 34.00% | ~5,889 |
+| Yet another secret | 33.00% | ~5,716 |
 | Friends of sorts | 32.00% | ~5,542 |
 | Let there be darkness | 31.00% | ~5,369 |
-| End of Book One | 29.00% | ~5,022 |
-| Garden of Eden | 24.00% | ~4,156 |
-| Wannabe knight | 23.00% | ~3,983 |
-| Full house | 23.00% | ~3,983 |
+| End of Book One | 29.00% | ~5,023 |
+| Garden of Eden | 24.00% | ~4,157 |
+| Wannabe knight | 23.00% | ~3,984 |
+| Full house | 23.00% | ~3,984 |
 | Help an old friend | 21.00% | ~3,637 |
 | Two of us | 20.00% | ~3,464 |
-| Negotiation skills | 18.00% | ~3,117 |
-| Workers' union | 18.00% | ~3,117 |
-| End of Book Two | 18.00% | ~3,117 |
+| Negotiation skills | 18.00% | ~3,118 |
+| Workers' union | 18.00% | ~3,118 |
+| End of Book Two | 18.00% | ~3,118 |
 | Everything's in order | 16.00% | ~2,771 |
 | Twist of Fate | 14.00% | ~2,425 |
 | Jack was here! | 14.00% | ~2,425 |
-| Exterminator | 13.00% | ~2,251 |
+| Exterminator | 13.00% | ~2,252 |
 | Whodunnit | 12.00% | ~2,078 |
 | Good midwife | 10.00% | ~1,732 |
 | Friar Tuck | 10.00% | ~1,732 |
@@ -34,7 +34,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,559 |
 | The truth revealed | 9.00% | ~1,559 |
 | The End. | 9.00% | ~1,559 |
-| Nothing but make-believe | 8.00% | ~1,385 |
+| Nothing but make-believe | 8.00% | ~1,386 |
 | A cry for help | 7.00% | ~1,212 |
 | Silentium est aureum | 7.00% | ~1,212 |
 | Rebel without a cause | 6.00% | ~1,039 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~520 |
 | Boy of mystery | 2.00% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,318 (Ranked 153)  
+Progressed: 17,320 (Ranked 153)  
 Completed: 119 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 119 (0.69%) (Ranked 195)
 | 2023-12-20 | 17,220 | 119 |
 | 2023-12-21 | 17,248 | 119 |
 | 2023-12-22 | 17,285 | 119 |
-| 2023-12-23 | 17,318 | 119 |
+| 2023-12-23 | 17,320 | 119 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 409)  

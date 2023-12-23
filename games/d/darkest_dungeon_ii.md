@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~431 |
+| Malpractice Assurance | 10.00% | ~432 |
 | Lost and Found | 6.00% | ~259 |
 | Autodidact | 5.00% | ~6,472 |
 | This guy... again? | 5.00% | ~216 |
@@ -14,8 +14,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 4.00% | ~5,178 |
 | Overdue Notice | 4.00% | ~5,178 |
 | Escape from the Black Hole | 4.00% | ~5,178 |
-| Ploughshares to Swords | 4.00% | ~172 |
-| Bloody Graduation | 4.00% | ~172 |
+| Ploughshares to Swords | 4.00% | ~173 |
+| Bloody Graduation | 4.00% | ~173 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,883 |
 | Serenity Now! | 3.00% | ~3,883 |
 | It Rings a Bell | 3.00% | ~3,883 |
@@ -27,7 +27,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,883 |
 | A Place to Lay Your Head | 3.00% | ~3,883 |
 | FNG | 3.00% | ~3,883 |
-| Friends 'Til the End | 3.00% | ~129 |
+| Friends 'Til the End | 3.00% | ~130 |
 | Resurrection | 2.00% | ~2,589 |
 | Unleash Hell | 2.00% | ~2,589 |
 | Funny Guy | 2.00% | ~2,589 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,443 (Ranked 87)  
+Progressed: 129,448 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,14 +323,14 @@ Completed: 3 (0.00%) (Ranked 386)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,443 | 3 |
+| 2023-12-23 | 129,448 | 3 |
 ## Awards
-Max (Character Customization): 7,834  (Ranked 50)  
-Sum: 20,984 (Ranked 58)  
+Max (Character Customization): 7,851  (Ranked 50)  
+Sum: 21,001 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,834 |
+| This game has Inclusive Character Customization | 7,851 |
 | This game has Diverse Characters | 1,760 |
 | This game has Challenging Combat | 1,625 |
 | This game is Highly Recommended | 1,561 |
@@ -674,4 +674,4 @@ Diff (max vs sum): -8
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
-| 2023-12-23 | 4.68 | - | 7,834 | 20,984 |
+| 2023-12-23 | 4.68 | - | 7,851 | 21,001 |

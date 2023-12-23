@@ -9007,9 +9007,9 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 243877,
+  "EOS_Progressed": 243900,
   "EOS_Completed": 2557,
-  "EOS_NewPlayers": 2688,
+  "EOS_NewPlayers": 2705,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36952,6 +36952,11 @@
       "Time": "2023-12-23T22:10:39.02417+00:00",
       "NumProgressed": 243877,
       "NumCompleted": 2557
+    },
+    {
+      "Time": "2023-12-23T23:10:31.4197935+00:00",
+      "NumProgressed": 243900,
+      "NumCompleted": 2557
     }
   ],
   "TotalAchievements": 546,
@@ -37331,7 +37336,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "objective_completed_110",
@@ -41259,7 +41264,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "objective_completed_1562",
@@ -41275,7 +41280,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "objective_completed_598",
@@ -41291,7 +41296,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "objective_completed_678",
@@ -41299,7 +41304,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "objective_completed_683",
@@ -41315,7 +41320,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "objective_completed_865",
@@ -41323,28 +41328,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210151,
+      "Progressed": 210174,
       "Completed": 4059
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243877,
+      "Progressed": 243900,
       "Completed": 2557
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T21:02:56.5603354+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:39.0241696+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:31.4197932+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:03:20.6610346+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:39.0265198+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:03:12.7508478+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:31.4222077+00:00"
 }

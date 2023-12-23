@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ImALumberbot",
@@ -851,9 +851,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "UpUpAndAway",
@@ -890,8 +890,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:06:26.4239887+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:06:18.4035802+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:03:45.5469355+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:06:26.4240148+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:03:38.3543817+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:06:18.4035942+00:00"
 }

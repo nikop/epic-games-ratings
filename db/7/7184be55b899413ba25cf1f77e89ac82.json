@@ -2,9 +2,9 @@
   "ID": "7184be55b899413ba25cf1f77e89ac82",
   "Name": "Demon Turf Neon Splash",
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
-  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2023-12-23T10:09:48.5179275+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T23:10:17.3930387+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -558,7 +563,7 @@
       "Name": "Neon City Champ",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NeonCityGod",
@@ -574,7 +579,7 @@
       "Name": "Neon Snow Champ",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NeonSnowGod",
@@ -621,14 +626,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:24.8911715+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:17.3930384+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7260163+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:57:27.1662723+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:24.8911831+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:57:25.8266702+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:17.3930481+00:00"
 }

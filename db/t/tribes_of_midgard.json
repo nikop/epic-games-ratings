@@ -2,7 +2,7 @@
   "ID": "6774af9524fe4f63b2a6717d04269cd6",
   "Name": "Tribes of Midgard",
   "ProductSlug": "tribes-of-midgard",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 816,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 120,
   "RatingHistory": [
     {
@@ -484,6 +484,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-12-23T22:59:26.9127731+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": true,
@@ -509,8 +515,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2023-12-21T16:57:57.1806341+00:00",
+  "LastChanged": "2023-12-23T22:59:26.9127728+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.0743235+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:59:31.8994658+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:06:29.8820584+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:59:26.9127735+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:06:21.7711182+00:00"
 }

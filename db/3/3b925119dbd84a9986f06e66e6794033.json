@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1504,6 +1504,11 @@
       "Time": "2023-12-23T22:10:10.1485427+00:00",
       "NumProgressed": 442,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T23:10:02.7222457+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1610,9 +1615,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "TIME_ORWELL",
@@ -1636,15 +1641,15 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "TKO2_DOMINO",
@@ -1675,14 +1680,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:10.1485419+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:02.7222454+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:58:21.5948697+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:10.1485624+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:58:18.1781975+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:02.7222616+00:00"
 }

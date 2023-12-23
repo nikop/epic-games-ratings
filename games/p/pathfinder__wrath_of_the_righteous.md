@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,420 |
+| Devoured by Darkness | 27.00% | ~3,421 |
 | A Spark | 19.00% | ~2,407 |
-| Burning City | 18.00% | ~2,280 |
+| Burning City | 18.00% | ~2,281 |
 | Defender's Heart | 16.00% | ~2,027 |
 | Mythic Choices | 15.00% | ~1,900 |
-| Banner over the Citadel | 14.00% | ~1,773 |
+| Banner over the Citadel | 14.00% | ~1,774 |
 | Queen's Gratitude | 12.00% | ~1,520 |
 | Fifth Crusade | 9.00% | ~1,140 |
 | Embrace of the Abyss | 7.00% | ~887 |
@@ -19,12 +19,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 7.00% | ~887 |
 | Great Upstart | 6.00% | ~760 |
 | All Paths Open | 6.00% | ~760 |
-| Path of the Azata | 5.00% | ~633 |
-| Transformation | 5.00% | ~633 |
-| The Legacy | 5.00% | ~633 |
-| Voice from Your Dreams | 5.00% | ~633 |
-| Next-Door Play | 5.00% | ~633 |
-| Get the Toad | 5.00% | ~633 |
+| Path of the Azata | 5.00% | ~634 |
+| Transformation | 5.00% | ~634 |
+| The Legacy | 5.00% | ~634 |
+| Voice from Your Dreams | 5.00% | ~634 |
+| Next-Door Play | 5.00% | ~634 |
+| Get the Toad | 5.00% | ~634 |
 | Heart of the Fallen Land | 4.00% | ~507 |
 | Divide and Rule | 4.00% | ~507 |
 | Mythic Reinforcements | 4.00% | ~507 |
@@ -35,10 +35,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~380 |
 | Capitulation Is Now Moot | 3.00% | ~380 |
 | Core of the Riddle | 3.00% | ~380 |
-| Hanged Man's Notes | 3.00% | ~343 |
-| Sarkoris Will Be Green | 3.00% | ~343 |
-| The Lady of the Forest | 3.00% | ~343 |
-| Beware Still Water | 3.00% | ~343 |
+| Hanged Man's Notes | 3.00% | ~344 |
+| Sarkoris Will Be Green | 3.00% | ~344 |
+| The Lady of the Forest | 3.00% | ~344 |
+| Beware Still Water | 3.00% | ~344 |
 | Path of the Demon | 2.00% | ~253 |
 | Path of the Aeon | 2.00% | ~253 |
 | Your First Big Enemy | 2.00% | ~253 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~127 |
 | Abyssal Conspiracy | 1.00% | ~127 |
 | Truly Profane Gift | 1.00% | ~127 |
-| This Wall Won't Fall | 1.00% | ~114 |
-| Not the Last Sarkorian | 1.00% | ~114 |
+| This Wall Won't Fall | 1.00% | ~115 |
+| Not the Last Sarkorian | 1.00% | ~115 |
 | End of Eternal Guard | 0.90% | ~114 |
 | Masterful Charge | 0.70% | ~89 |
 | Playful Mood | 0.70% | ~89 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,667 (Ranked 169)  
+Progressed: 12,670 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 12,550 | 0 |
 | 2023-12-21 | 12,584 | 0 |
 | 2023-12-22 | 12,617 | 0 |
-| 2023-12-23 | 12,667 | 0 |
+| 2023-12-23 | 12,670 | 0 |
 ## Awards
 Max (Character Customization): 1,767  (Ranked 124)  
 Sum: 7,163 (Ranked 123)  

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 2871,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6240,9 +6240,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1062
     },
     {
       "ID": "achievement_25",
@@ -6560,9 +6560,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 574
     },
     {
       "ID": "achievement_61",
@@ -6672,9 +6672,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 833
     },
     {
       "ID": "achievement_74",
@@ -6916,8 +6916,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:36.5043548+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:29.0034891+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:58.4660143+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:03:49.5007151+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:36.5045301+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:03:41.584782+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:29.003646+00:00"
 }

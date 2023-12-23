@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2792,
+  "EOS_Progressed": 2793,
   "EOS_Completed": 257,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 9.2,
   "EosHistory": [
@@ -7941,6 +7941,11 @@
       "Time": "2023-12-23T19:09:09.7672469+00:00",
       "NumProgressed": 2792,
       "NumCompleted": 257
+    },
+    {
+      "Time": "2023-12-23T23:09:21.2744753+00:00",
+      "NumProgressed": 2793,
+      "NumCompleted": 257
     }
   ],
   "TotalAchievements": 12,
@@ -7976,7 +7981,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Jacques a Dit",
@@ -8016,7 +8021,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8047,7 +8052,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2792,
+      "Progressed": 2793,
       "Completed": 257
     }
   ],
@@ -8055,8 +8060,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:09:29.574477+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:09:21.274475+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.9699753+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:58:23.2570334+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:09:29.5745504+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:58:19.8075389+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:09:21.2745173+00:00"
 }

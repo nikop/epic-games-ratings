@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,673 |
+| The Old Grandmaster | 4.00% | ~29,674 |
 | The Assault | 3.00% | ~22,255 |
 | Life is your teacher | 3.00% | ~22,255 |
 | Lightning Hands | 3.00% | ~22,255 |
@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,418 |
 | Project Arena | 1.00% | ~511 |
 | Diligence as a goal | 1.00% | ~511 |
-| Qi Gong: Mind | 0.90% | ~6,676 |
+| Qi Gong: Mind | 0.90% | ~6,677 |
 | Scareless | 0.80% | ~5,935 |
 | Kung-Fu Tussle | 0.80% | ~5,935 |
 | Dance of the Praying Mantis | 0.70% | ~5,193 |
@@ -40,10 +40,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.40% | ~2,967 |
 | Detective Story | 0.40% | ~2,967 |
 | Sword Stained With Blood | 0.40% | ~2,967 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,225 |
-| Prodigal Child | 0.30% | ~2,225 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,225 |
-| The Pit Protector | 0.30% | ~2,225 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,226 |
+| Prodigal Child | 0.30% | ~2,226 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,226 |
+| The Pit Protector | 0.30% | ~2,226 |
 | The best strikes are the ones we avoid | 0.30% | ~153 |
 | Drunken Fighter | 0.20% | ~1,484 |
 | Martial Artist | 0.20% | ~1,484 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,829 (Ranked 23)  
+Progressed: 741,847 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 12,961 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 741,829 | 12,961 |
+| 2023-12-23 | 741,847 | 12,961 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
 Sum: 12,278 (Ranked 84)  

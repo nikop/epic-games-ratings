@@ -5,37 +5,37 @@ Rating: 4.60 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 65.00% | ~599 |
-| The Teleprobe | 51.00% | ~470 |
-| The City | 46.00% | ~424 |
-| The field base | 42.00% | ~387 |
-| Survivors | 35.00% | ~323 |
-| The Alliance | 34.00% | ~313 |
-| The Condor | 33.00% | ~304 |
-| The End | 33.00% | ~304 |
-| The Necroevolution | 27.00% | ~249 |
-| Krauta is alive | 25.00% | ~230 |
-| Peacemaker | 21.00% | ~194 |
-| Volcanologist | 20.00% | ~184 |
-| On her own | 19.00% | ~175 |
-| Fierce fight | 18.00% | ~166 |
-| Evacuation | 18.00% | ~166 |
-| Beyond divisions | 17.00% | ~157 |
-| Flying Objects Operator | 15.00% | ~138 |
-| I remember everything! | 13.00% | ~120 |
-| Another giant | 11.00% | ~101 |
-| Violent solution | 9.00% | ~83 |
+| The Camp | 64.00% | ~594 |
+| The Teleprobe | 50.00% | ~464 |
+| The City | 46.00% | ~427 |
+| The field base | 42.00% | ~390 |
+| Survivors | 35.00% | ~325 |
+| The Alliance | 34.00% | ~316 |
+| The Condor | 33.00% | ~306 |
+| The End | 33.00% | ~306 |
+| The Necroevolution | 27.00% | ~251 |
+| Krauta is alive | 25.00% | ~232 |
+| Peacemaker | 21.00% | ~195 |
+| Volcanologist | 20.00% | ~186 |
+| On her own | 19.00% | ~176 |
+| Fierce fight | 18.00% | ~167 |
+| Evacuation | 18.00% | ~167 |
+| Beyond divisions | 17.00% | ~158 |
+| Flying Objects Operator | 15.00% | ~139 |
+| I remember everything! | 13.00% | ~121 |
+| Another giant | 11.00% | ~102 |
+| Violent solution | 9.00% | ~84 |
 | I leave no man behind | 8.00% | ~74 |
 | Innate curiosity | 7.00% | ~65 |
-| Strong objection | 6.00% | ~55 |
+| Strong objection | 6.00% | ~56 |
 | Ubiquitous holes | 5.00% | ~46 |
 | The Invincible | 5.00% | ~46 |
 | Got lost again | 4.00% | ~37 |
-| I leave no man behind (no exceptions) | 2.00% | ~18 |
+| I leave no man behind (no exceptions) | 2.00% | ~19 |
 | Convoy list | 1.00% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922 (Ranked 284)  
+Progressed: 928 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 836 | 0 |
 | 2023-12-21 | 853 | 0 |
 | 2023-12-22 | 887 | 0 |
-| 2023-12-23 | 922 | 0 |
+| 2023-12-23 | 928 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

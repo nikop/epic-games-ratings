@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4257,9 +4257,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -4361,9 +4361,9 @@
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "RescueBrothers",
@@ -4448,8 +4448,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:05:40.9223924+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:05:32.944695+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:59:37.1040158+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:05:40.9224338+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:59:32.1133873+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:05:32.944734+00:00"
 }

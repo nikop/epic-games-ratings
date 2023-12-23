@@ -16,10 +16,10 @@
 | Take the Scenic Route | 14.00% | ~14 |
 | Treasure Hunter | 13.00% | ~13 |
 | St. George's Gauntlet | 12.00% | ~12 |
+| BJ & The Bear | 12.00% | ~12 |
 | Redbeard's Revenger | 11.00% | ~11 |
-| BJ & The Bear | 11.00% | ~11 |
+| Can't bear the weight | 9.00% | ~9 |
 | Soft Hands | 9.00% | ~9 |
-| Can't bear the weight | 8.00% | ~8 |
 | Egg On His Face | 8.00% | ~8 |
 | Mr. Magic | 8.00% | ~8 |
 | Who dat? | 8.00% | ~8 |

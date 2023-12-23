@@ -406,9 +406,9 @@
       "ID": "FinishTutorialStage",
       "SetID": "123m9l1",
       "Name": "Hero Arrives",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "HardcorePlayer",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:05:48.8821865+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:05:40.8699266+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:01:11.5146768+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:05:48.8822036+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:01:05.2343138+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:05:40.8699392+00:00"
 }

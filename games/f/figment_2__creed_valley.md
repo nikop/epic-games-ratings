@@ -7,7 +7,7 @@
 | Black Hog Down | 59.00% | ~29 |
 | Remembering of the past | 39.00% | ~19 |
 | Ouch, that hurt! | 31.00% | ~15 |
-| Fight like an idiot | 24.00% | ~12 |
+| Fight like an idiot | 27.00% | ~13 |
 | Slam-KABAM | 20.00% | ~10 |
 | Repair the Mind Validation Machine | 18.00% | ~9 |
 | A heavy thinker | 16.00% | ~8 |

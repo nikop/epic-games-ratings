@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 11259,
+  "EOS_Progressed": 11260,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1737,
+  "EOS_NewPlayers": 1722,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7659,6 +7659,11 @@
       "Time": "2023-12-23T22:10:26.5479591+00:00",
       "NumProgressed": 11259,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-23T23:10:19.0289853+00:00",
+      "NumProgressed": 11260,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7727,7 +7732,7 @@
       "Name": "Explosive Personality",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "FasterThanLight",
@@ -7751,7 +7756,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "GarbageMan",
@@ -7775,7 +7780,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -7863,7 +7868,7 @@
       "Name": "The Old-School Way",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "TheQuarterback",
@@ -7871,7 +7876,7 @@
       "Name": "The Quarterback",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "ThisIsDharma",
@@ -7903,7 +7908,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -7942,7 +7947,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 11259,
+      "Progressed": 11260,
       "Completed": 19
     }
   ],
@@ -7950,8 +7955,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-23T11:57:00.6831585+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:10:26.5479585+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:10:19.0289851+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:57:42.8638051+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:10:26.5480268+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:57:40.835797+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:10:19.0290387+00:00"
 }

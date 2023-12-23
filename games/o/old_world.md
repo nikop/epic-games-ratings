@@ -238,6 +238,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hypatia the Teacher | 0.10% | ~16 |
 | Rmt n Kmt Buhen | 0.10% | ~16 |
 | Only Kem | 0.10% | ~16 |
+| Sepat Wase Forever | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
 | Kmt Unified | 0.10% | ~16 |
 | Prosperous Kmt | 0.10% | ~16 |
@@ -325,7 +326,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| Sepat Wase Forever | 0.00% | ~0 |
 | Pharaonic Greater Kmt Unified | 0.00% | ~0 |
 | Pharaonic Kmt Unified | 0.00% | ~0 |
 | Golden Age-less | 0.00% | ~0 |

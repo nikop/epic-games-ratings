@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 86.00% | ~43 |
+| Hero Arrives | 88.00% | ~44 |
 | Eat the Rich | 58.00% | ~29 |
 | Killing Machine | 46.00% | ~23 |
 | Phantom Kunoichi | 44.00% | ~22 |

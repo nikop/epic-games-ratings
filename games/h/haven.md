@@ -6,22 +6,22 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 74.00% | ~1,295 |
+| Balding bloot! | 74.00% | ~1,296 |
 | Lovebirds | 45.00% | ~788 |
 | Life’s short, ride long | 41.00% | ~718 |
 | Hug therapy | 40.00% | ~700 |
 | Over my dead body | 37.00% | ~648 |
-| Shake the rust off their feet | 19.00% | ~332 |
+| Shake the rust off their feet | 19.00% | ~333 |
 | My little pony | 18.00% | ~315 |
 | Strike! | 17.00% | ~298 |
 | A love supreme | 17.00% | ~298 |
-| In my shoes | 15.00% | ~262 |
+| In my shoes | 15.00% | ~263 |
 | Like new! | 14.00% | ~245 |
+| Head in the clouds | 13.00% | ~228 |
 | Heartstrings | 12.00% | ~210 |
-| Head in the clouds | 12.00% | ~210 |
-| Back to rust | 11.00% | ~192 |
-| Flower Powered | 11.00% | ~192 |
-| Don't look back | 11.00% | ~192 |
+| Back to rust | 11.00% | ~193 |
+| Flower Powered | 11.00% | ~193 |
+| Don't look back | 11.00% | ~193 |
 | Perfect timing | 9.00% | ~158 |
 | Unstoppable | 9.00% | ~158 |
 | Ain't no mountain high enough | 8.00% | ~140 |
@@ -30,14 +30,14 @@ Number of Ratings: 38  (23.09.2022)
 | An eye for an eye | 5.00% | ~88 |
 | Can't get wetter... | 4.00% | ~70 |
 | Strip-a-bobble | 4.00% | ~70 |
-| Second thoughts | 3.00% | ~52 |
-| Mooning the moon | 3.00% | ~52 |
-| Pearls before Birble | 3.00% | ~52 |
-| Last minute | 3.00% | ~52 |
+| Second thoughts | 3.00% | ~53 |
+| Mooning the moon | 3.00% | ~53 |
+| Pearls before Birble | 3.00% | ~53 |
+| Last minute | 3.00% | ~53 |
 | Thar she blows | 2.00% | ~35 |
 | À la carte | 2.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 242)  
+Progressed: 1,751 (Ranked 242)  
 Completed: 10 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 10 (0.57%) (Ranked 202)
 | 2023-12-20 | 1,693 | 10 |
 | 2023-12-21 | 1,707 | 10 |
 | 2023-12-22 | 1,727 | 10 |
-| 2023-12-23 | 1,750 | 10 |
+| 2023-12-23 | 1,751 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4008,9 +4008,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 978
+      "UsersEstimate": 995
     },
     {
       "ID": "AC04",
@@ -4272,9 +4272,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 431
     },
     {
       "ID": "AC37",
@@ -4304,9 +4304,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1293
     },
     {
       "ID": "AC41",
@@ -4361,8 +4361,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-23T21:59:01.5445148+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:07:13.3512771+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:07:05.217036+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:59:01.5445152+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:07:13.3513289+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:58:57.3644726+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:07:05.217075+00:00"
 }

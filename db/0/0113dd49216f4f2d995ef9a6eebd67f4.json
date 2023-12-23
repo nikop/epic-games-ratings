@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -734,6 +734,11 @@
       "Time": "2023-12-23T22:09:17.1894975+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T23:09:08.7003039+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -744,9 +749,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -794,7 +799,7 @@
       "Name": "Brave On Time",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -818,7 +823,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -882,15 +887,15 @@
       "Name": "Meant To Be",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -962,7 +967,7 @@
       "Name": "The Choice Is Yours",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -970,7 +975,7 @@
       "Name": "The Deep End",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1002,7 +1007,7 @@
       "Name": "The Queen Of The Dead",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
@@ -1041,14 +1046,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:09:17.189497+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:09:08.7003034+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:58:53.2580584+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:09:17.1895248+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:58:49.120697+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:09:08.7003322+00:00"
 }

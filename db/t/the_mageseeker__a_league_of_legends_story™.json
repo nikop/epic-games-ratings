@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 2991,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -5407,9 +5407,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2213
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5464,8 +5464,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:05:21.3886598+00:00",
+  "LastChanged_Achievements": "2023-12-23T23:05:13.0968814+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:57:30.3620302+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:05:21.3887237+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:57:28.6458006+00:00",
+  "LastUpdate_Achievements": "2023-12-23T23:05:13.0969426+00:00"
 }

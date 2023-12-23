@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 54.00% | ~126 |
-| The 4 Pillars | 50.00% | ~116 |
+| The 4 Pillars | 50.00% | ~117 |
 | Capitalism | 20.00% | ~47 |
 | Green Energy | 11.00% | ~26 |
 | There's something in those trees | 10.00% | ~23 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 397)  
+Progressed: 234 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-16 | 217 | 0 |
 | 2023-12-21 | 221 | 0 |
 | 2023-12-22 | 226 | 0 |
-| 2023-12-23 | 233 | 0 |
+| 2023-12-23 | 234 | 0 |
