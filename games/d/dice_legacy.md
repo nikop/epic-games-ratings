@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 858)  
+Rating: 4.29 (Ranked 859)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,11 +43,11 @@ Rating: 4.29 (Ranked 858)
 | The experiment | 0.20% | ~3 |
 | The Corrupted | 0.20% | ~3 |
 | The Foul | 0.20% | ~3 |
+| Break the chains | 0.10% | ~1 |
 | Discover the truth | 0.10% | ~1 |
 | Oktoberfest | 0.10% | ~1 |
 | Fate is against us | 0.10% | ~1 |
 | Despite everything | 0.10% | ~1 |
-| Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

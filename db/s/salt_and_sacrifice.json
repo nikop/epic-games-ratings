@@ -2,13 +2,13 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 158,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -16314,8 +16314,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-12-23T01:39:25.5980493+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:03:41.1873713+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:05:56.1220796+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.7574135+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:50.1037886+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:03:41.18746+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:06.6283325+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:05:56.122183+00:00"
 }

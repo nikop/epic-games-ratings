@@ -1609,9 +1609,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1665,9 +1665,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ETUA_PTD",
@@ -1834,8 +1834,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:04:29.3180817+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:06:44.0770654+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:15.4863673+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:00:22.6005666+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:04:29.3181163+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:02:39.7549401+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:06:44.0770914+00:00"
 }

@@ -6,43 +6,43 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 41.00% | ~32,722 |
-| Landlord | 33.00% | ~26,337 |
-| Trained | 27.00% | ~21,549 |
-| Bannerlord | 23.00% | ~18,356 |
-| Horde breaker | 22.00% | ~17,558 |
-| Lawmaker | 22.00% | ~17,558 |
-| The king is pleased | 18.00% | ~14,366 |
-| King Solomon | 16.00% | ~12,770 |
-| Apple of my eye | 15.00% | ~11,972 |
-| I can do it | 15.00% | ~11,972 |
-| This Is Our Land | 14.00% | ~11,173 |
-| Against all odds | 13.00% | ~10,375 |
-| God of the Arena | 12.00% | ~9,577 |
-| Duelist | 11.00% | ~8,779 |
-| Swordbearer | 10.00% | ~7,981 |
-| Dynasty | 9.00% | ~7,183 |
-| I spit on your grave | 9.00% | ~7,183 |
-| What have the Romans ever done for us? | 9.00% | ~7,183 |
-| Butterlord | 8.00% | ~6,385 |
-| Mastery | 7.00% | ~5,587 |
-| Know your enemy | 6.00% | ~4,789 |
-| My way | 5.00% | ~3,990 |
-| Crowdfunded | 4.00% | ~3,192 |
-| Crush your enemies | 4.00% | ~3,192 |
-| Veni vidi vici | 4.00% | ~3,192 |
-| Freedom! | 3.00% | ~2,394 |
-| Real Estate | 3.00% | ~2,394 |
-| Long live the Empire! | 2.00% | ~1,596 |
-| Entrepreneur | 1.00% | ~798 |
-| Supreme Emperor | 1.00% | ~798 |
-| Crackshot | 0.80% | ~638 |
-| Undercover | 0.80% | ~638 |
+| Lawbringer | 41.00% | ~32,750 |
+| Landlord | 33.00% | ~26,359 |
+| Trained | 27.00% | ~21,567 |
+| Bannerlord | 23.00% | ~18,372 |
+| Horde breaker | 22.00% | ~17,573 |
+| Lawmaker | 22.00% | ~17,573 |
+| The king is pleased | 18.00% | ~14,378 |
+| King Solomon | 16.00% | ~12,780 |
+| Apple of my eye | 15.00% | ~11,982 |
+| I can do it | 15.00% | ~11,982 |
+| This Is Our Land | 14.00% | ~11,183 |
+| Against all odds | 13.00% | ~10,384 |
+| God of the Arena | 12.00% | ~9,585 |
+| Duelist | 11.00% | ~8,786 |
+| Swordbearer | 10.00% | ~7,988 |
+| Dynasty | 9.00% | ~7,189 |
+| I spit on your grave | 9.00% | ~7,189 |
+| What have the Romans ever done for us? | 9.00% | ~7,189 |
+| Butterlord | 8.00% | ~6,390 |
+| Mastery | 7.00% | ~5,591 |
+| Know your enemy | 6.00% | ~4,793 |
+| My way | 5.00% | ~3,994 |
+| Crowdfunded | 4.00% | ~3,195 |
+| Crush your enemies | 4.00% | ~3,195 |
+| Veni vidi vici | 4.00% | ~3,195 |
+| Freedom! | 3.00% | ~2,396 |
+| Real Estate | 3.00% | ~2,396 |
+| Long live the Empire! | 2.00% | ~1,598 |
+| Entrepreneur | 1.00% | ~799 |
+| Supreme Emperor | 1.00% | ~799 |
+| Crackshot | 0.80% | ~639 |
+| Undercover | 0.80% | ~639 |
 | Fat Cat | 0.70% | ~559 |
 | Catch | 0.50% | ~399 |
-| Slice 'n dice | 0.40% | ~319 |
-| Mounted Archery | 0.30% | ~239 |
-| Ride it like you stole it | 0.30% | ~239 |
+| Slice 'n dice | 0.40% | ~320 |
+| Mounted Archery | 0.30% | ~240 |
+| Ride it like you stole it | 0.30% | ~240 |
 | Strike! | 0.20% | ~160 |
 | Best served cold | 0.10% | ~80 |
 | Butcher of Calradia | 0.10% | ~80 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,810 (Ranked 103)  
+Progressed: 79,877 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,10 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 77,761 | 0 |
 | 2023-12-21 | 78,443 | 0 |
 | 2023-12-22 | 79,303 | 0 |
-| 2023-12-23 | 79,810 | 0 |
+| 2023-12-23 | 79,877 | 0 |
 ## Awards
 Max (Character Customization): 7,678  (Ranked 53)  
-Sum: 16,033 (Ranked 67)  
+Sum: 16,036 (Ranked 67)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 986 |
 | This game is Extremely Fun | 914 |
 | This game has Amazing Storytelling | 907 |
-| This game has Amazing Characters | 901 |
+| This game has Amazing Characters | 904 |
 | This game is Relaxing | 885 |
 | This game has Quickly Understood Controls | 865 |
 | This game has a Creative Community | 679 |
@@ -669,4 +669,4 @@ Diff (max vs sum): -14
 | 2023-12-20 | 4.74 | - | 7,631 | 15,947 |
 | 2023-12-21 | 4.74 | - | 7,643 | 15,975 |
 | 2023-12-22 | 4.74 | - | 7,663 | 16,009 |
-| 2023-12-23 | 4.74 | - | 7,678 | 16,033 |
+| 2023-12-23 | 4.74 | - | 7,678 | 16,036 |

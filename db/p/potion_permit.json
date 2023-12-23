@@ -3,8 +3,8 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1049,
-  "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 480,
+  "Ranking_Popularity": 413,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 263,
@@ -3158,9 +3158,9 @@
       "ID": "ACHIEVEMENTS_34",
       "SetID": "d4o538a",
       "Name": "Moonbury Traveller",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3207,8 +3207,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:04:24.8979058+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:06:39.5594413+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:58:32.0730225+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:04:24.8979342+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:49.9472221+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:06:39.5594852+00:00"
 }

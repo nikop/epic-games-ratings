@@ -6,24 +6,24 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 12.00% | ~890 |
-| Hey Good Hookin | 10.00% | ~741 |
-| More Fish in the Sea | 10.00% | ~741 |
-| Can you smell what the Rod is Hooking | 9.00% | ~667 |
-| Scaling up | 9.00% | ~667 |
-| I'm on a Boat! | 8.00% | ~593 |
-| Ready to Rod and Roll | 6.00% | ~445 |
+| Fish Just Got Reel | 12.00% | ~891 |
+| Hey Good Hookin | 10.00% | ~742 |
+| More Fish in the Sea | 10.00% | ~742 |
+| Can you smell what the Rod is Hooking | 9.00% | ~668 |
+| Scaling up | 9.00% | ~668 |
+| I'm on a Boat! | 8.00% | ~594 |
+| Ready to Rod and Roll | 7.00% | ~519 |
 | Fish Out of Water | 4.00% | ~297 |
 | Things that go Splash in the Night | 4.00% | ~297 |
-| Goldfish? | 3.00% | ~222 |
-| Going for Gold | 3.00% | ~222 |
-| School's Out for Summer | 3.00% | ~222 |
+| Goldfish? | 3.00% | ~223 |
+| Going for Gold | 3.00% | ~223 |
+| School's Out for Summer | 3.00% | ~223 |
 | License to Gill | 2.00% | ~148 |
 | I'm Hooked! | 2.00% | ~148 |
 | Diamond in the Rough | 0.90% | ~67 |
 | I'm the Captain Now | 0.70% | ~52 |
 | Marathon | 0.70% | ~52 |
-| Hook, Line and Sinker | 0.60% | ~44 |
+| Hook, Line and Sinker | 0.60% | ~45 |
 | More than a Tourist | 0.50% | ~37 |
 | No Fin left to give | 0.50% | ~37 |
 | Gonna Need a Bigger Boat | 0.50% | ~37 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,414 (Ranked 188)  
+Progressed: 7,421 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,11 +294,11 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 7,288 | 0 |
 | 2023-12-21 | 7,339 | 0 |
 | 2023-12-22 | 7,389 | 0 |
-| 2023-12-23 | 7,414 | 0 |
+| 2023-12-23 | 7,421 | 0 |
 ## Awards
-Max (Great for Beginners): 41  (Ranked 466)  
+Max (Great for Beginners): 41  (Ranked 467)  
 Sum: 210 (Ranked 405)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

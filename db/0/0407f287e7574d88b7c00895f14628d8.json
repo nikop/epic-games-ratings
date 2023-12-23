@@ -516,9 +516,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "dl2",
@@ -636,9 +636,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "jg2",
@@ -796,9 +796,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "w2",
@@ -899,8 +899,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:04:10.9485473+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:06:26.060528+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:02:50.2817293+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:04:10.9485777+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:05:02.9517531+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:06:26.0605634+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 687,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 211,
@@ -388,9 +388,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5038,
+  "EOS_Progressed": 5040,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3973,6 +3973,11 @@
       "Time": "2023-12-23T12:08:17.2562895+00:00",
       "NumProgressed": 5038,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-23T13:10:39.3814717+00:00",
+      "NumProgressed": 5040,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3984,7 +3989,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4032,7 +4037,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4234
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4040,7 +4045,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4738
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4048,7 +4053,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3881
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4128,7 +4133,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -4200,7 +4205,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4216,7 +4221,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -4232,7 +4237,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4272,7 +4277,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4312,7 +4317,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -4432,7 +4437,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4519,15 +4524,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5038,
+      "Progressed": 5040,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:08:17.2562892+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:10:39.3814714+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:02:34.3039571+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:08:17.2563493+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:04:48.1875437+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:10:39.3815479+00:00"
 }

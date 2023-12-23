@@ -7,51 +7,51 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~41,338 |
-| First Steps | 80.00% | ~35,559 |
-| Control the Shadows | 67.00% | ~29,781 |
-| Tools of the Trade | 63.00% | ~28,003 |
-| Apprentice | 60.00% | ~26,669 |
+| First Steps | 80.00% | ~35,560 |
+| Control the Shadows | 67.00% | ~29,782 |
+| Tools of the Trade | 63.00% | ~28,004 |
+| Apprentice | 60.00% | ~26,670 |
 | Secret Seeker | 57.00% | ~25,336 |
-| Forge of Assassins | 55.00% | ~24,447 |
-| Revenant | 52.00% | ~23,113 |
+| Forge of Assassins | 55.00% | ~24,448 |
+| Revenant | 52.00% | ~23,114 |
 | I don’t Care! | 45.00% | ~20,002 |
 | Bird of Prey | 37.00% | ~16,446 |
 | Engraved with Power | 32.00% | ~14,224 |
-| Lady | 31.00% | ~13,779 |
-| Fashionable Assassin | 27.00% | ~12,001 |
+| Lady | 31.00% | ~13,780 |
+| Fashionable Assassin | 27.00% | ~12,002 |
 | Apex Predator | 24.00% | ~10,668 |
-| Soul Reaver | 23.00% | ~10,223 |
+| Soul Reaver | 23.00% | ~10,224 |
 | Embers | 22.00% | ~9,779 |
 | Wall Lizard | 20.00% | ~8,890 |
 | Clinging to Life | 18.00% | ~8,001 |
-| Burning | 17.00% | ~7,556 |
+| Burning | 17.00% | ~7,557 |
 | Look Behind You | 16.00% | ~7,112 |
 | Sleeping on the Job | 16.00% | ~7,112 |
 | Family | 14.00% | ~6,223 |
 | War Engines | 14.00% | ~6,223 |
 | Signature Move | 14.00% | ~6,223 |
 | Ruse | 12.00% | ~5,334 |
-| Master Ninja | 11.00% | ~4,889 |
+| Master Ninja | 11.00% | ~4,890 |
 | Hatching | 10.00% | ~4,445 |
 | Bonds | 9.00% | ~4,000 |
 | Get Over Here | 9.00% | ~4,000 |
 | The Hidden Village | 9.00% | ~4,000 |
 | Denouement | 8.00% | ~3,556 |
 | A Pleasant Stay | 8.00% | ~3,556 |
-| Pilgrimage | 7.00% | ~3,111 |
+| Pilgrimage | 7.00% | ~3,112 |
 | The Lookout | 5.00% | ~2,222 |
 | The Spirit of Vengeance | 5.00% | ~2,222 |
 | Hollow | 5.00% | ~2,222 |
 | Left Behind | 4.00% | ~1,778 |
 | Secrets of the Earth | 4.00% | ~1,778 |
 | Heart of Fire | 4.00% | ~1,778 |
-| The Lion’s Den | 3.00% | ~1,333 |
-| Forest Spirits | 3.00% | ~1,333 |
+| The Lion’s Den | 3.00% | ~1,334 |
+| Forest Spirits | 3.00% | ~1,334 |
 | Hot Potato | 2.00% | ~889 |
 | Anger Management | 2.00% | ~889 |
 | Legacy | 2.00% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,449 (Ranked 123)  
+Progressed: 44,450 (Ranked 123)  
 Completed: 247 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 247 (0.56%) (Ranked 204)
 | 2023-12-20 | 44,411 | 247 |
 | 2023-12-21 | 44,423 | 247 |
 | 2023-12-22 | 44,443 | 247 |
-| 2023-12-23 | 44,449 | 247 |
+| 2023-12-23 | 44,450 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

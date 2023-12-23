@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1489,6 +1489,11 @@
       "Time": "2023-12-23T07:10:08.2819169+00:00",
       "NumProgressed": 592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T13:12:13.7166494+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1516,7 +1521,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Assassin",
@@ -1676,15 +1681,15 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 71
     },
     {
       "ID": "Pyromancer",
@@ -1724,7 +1729,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SlingOfDavid",
@@ -1764,7 +1769,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "TheTrio",
@@ -1780,7 +1785,7 @@
       "Name": "Trap Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TreasureHunter",
@@ -1788,7 +1793,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Troubleshooter",
@@ -1819,7 +1824,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 1
     }
   ],
@@ -1827,8 +1832,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:09:51.7937795+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:12:13.7166492+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:02:42.5649983+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:09:51.7938092+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:04:55.6785762+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:12:13.7166787+00:00"
 }

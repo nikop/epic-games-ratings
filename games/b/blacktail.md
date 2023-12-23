@@ -11,7 +11,7 @@ Rating: 4.68 (Ranked 258)
 | Uprooting | 13.00% | ~106 |
 | Forbidden techniques | 12.00% | ~98 |
 | Devoted | 10.00% | ~82 |
-| Slavic squatter | 9.00% | ~73 |
+| Slavic squatter | 9.00% | ~74 |
 | Spirit animal | 7.00% | ~57 |
 | Gold rush | 6.00% | ~49 |
 | Liar Liar | 6.00% | ~49 |
@@ -24,11 +24,11 @@ Rating: 4.68 (Ranked 258)
 | Sneak peek | 4.00% | ~33 |
 | Favorite | 4.00% | ~33 |
 | Queen | 4.00% | ~33 |
-| Goal! | 3.00% | ~24 |
-| Both sides | 3.00% | ~24 |
-| Specialist | 3.00% | ~24 |
-| Toxic | 3.00% | ~24 |
-| Witch's cookbook | 3.00% | ~24 |
+| Goal! | 3.00% | ~25 |
+| Both sides | 3.00% | ~25 |
+| Specialist | 3.00% | ~25 |
+| Toxic | 3.00% | ~25 |
+| Witch's cookbook | 3.00% | ~25 |
 | Bad apple | 2.00% | ~16 |
 | Gnowlledgeable | 2.00% | ~16 |
 | Always worth a try | 2.00% | ~16 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 258)
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816 (Ranked 292)  
+Progressed: 817 (Ranked 292)  
 Completed: 1 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 1 (0.12%) (Ranked 296)
 | 2023-12-20 | 808 | 1 |
 | 2023-12-21 | 810 | 1 |
 | 2023-12-22 | 816 | 1 |
+| 2023-12-23 | 817 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

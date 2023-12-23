@@ -19,9 +19,9 @@
 | Sewer Rat | 32.00% | ~15 |
 | Urban Explorer | 30.00% | ~14 |
 | Fight Fire With Fire | 30.00% | ~14 |
+| Big Eater | 28.00% | ~13 |
+| Tour Guide | 28.00% | ~13 |
 | Not Today | 28.00% | ~13 |
-| Big Eater | 26.00% | ~12 |
-| Tour Guide | 26.00% | ~12 |
 | The Real O.G. | 23.00% | ~11 |
 | Coward | 23.00% | ~11 |
 | Tomb Raider | 23.00% | ~11 |

@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26402,
+  "EOS_Progressed": 26417,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1783,
+  "EOS_NewPlayers": 1775,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11562,6 +11562,11 @@
       "Time": "2023-12-23T12:09:34.7239927+00:00",
       "NumProgressed": 26402,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-23T13:11:57.0944777+00:00",
+      "NumProgressed": 26417,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11579,9 +11584,9 @@
       "ID": "AllBlessings",
       "SetID": "3ojhj46",
       "Name": "Truly Blessed",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 185
     },
     {
       "ID": "AllEquipment",
@@ -11621,7 +11626,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -11637,7 +11642,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11653,7 +11658,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11701,7 +11706,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11763,9 +11768,9 @@
       "ID": "EnableHouseRules",
       "SetID": "3ojhj46",
       "Name": "No Harm in Looking",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 1057
     },
     {
       "ID": "EndTimerFail",
@@ -11819,9 +11824,9 @@
       "ID": "PetDragon",
       "SetID": "3ojhj46",
       "Name": "Good Boy!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 159
     },
     {
       "ID": "PrequelReveal",
@@ -11884,21 +11889,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26402,
+      "Progressed": 26417,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5332,
+      "Progressed": 5347,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:09:34.7239925+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:11:57.0944774+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:59:40.3279828+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:09:34.7240514+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:01:56.0780412+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:11:57.0945364+00:00"
 }

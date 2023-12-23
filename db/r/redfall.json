@@ -3,11 +3,11 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1065,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2006,
+  "EOS_Progressed": 2007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3104,6 +3104,11 @@
       "Time": "2023-12-23T11:04:59.5737203+00:00",
       "NumProgressed": 2006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T13:07:25.7250553+00:00",
+      "NumProgressed": 2007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3371,7 +3376,7 @@
       "Name": "Catch and Release",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Achievement_035",
@@ -3642,7 +3647,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2006,
+      "Progressed": 2007,
       "Completed": 0
     }
   ],
@@ -3650,8 +3655,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:05:11.6797094+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:07:25.7250551+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:58:31.2971257+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:05:11.6797828+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:49.5217736+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:07:25.7251102+00:00"
 }

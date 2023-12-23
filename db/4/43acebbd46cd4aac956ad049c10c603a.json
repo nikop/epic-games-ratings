@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 17,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Rating": 16,
+  "Ranking_Popularity": 395,
+  "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -209,17 +209,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T12:59:33.4828821+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 83,
+  "NumberOfAwardsMax": 83,
+  "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 51
+      "Count": 83
     }
   ],
   "EOS_Progressed": 1093,
@@ -3377,9 +3384,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:06:11.362635+00:00",
+  "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:08:24.6009618+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:17.9235996+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:06:11.3626851+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:59:33.4828823+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:08:24.6010207+00:00"
 }

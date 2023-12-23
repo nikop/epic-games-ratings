@@ -1,18 +1,18 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 858)  
+Rating: 4.29 (Ranked 859)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Entrepreneur | 21.00% | ~14 |
 | Best Buddy | 21.00% | ~14 |
-| Entrepreneur | 18.00% | ~12 |
 | Role Model | 18.00% | ~12 |
-| Civilian | 12.00% | ~8 |
+| Civilian | 13.00% | ~9 |
 | Creator | 9.00% | ~6 |
+| Peddler | 7.00% | ~5 |
 | Military Leader | 7.00% | ~5 |
-| Peddler | 6.00% | ~4 |
 | Long-Haul Flyer | 6.00% | ~4 |
 | Berserker | 6.00% | ~4 |
 | Hotshot | 4.00% | ~3 |
@@ -23,11 +23,11 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 4.00% | ~3 |
 | Pass A38 | 4.00% | ~3 |
 | Eternal Oblivion | 4.00% | ~3 |
+| Storyteller | 3.00% | ~2 |
 | Globetrotter | 3.00% | ~2 |
 | Self-Sufficient | 3.00% | ~2 |
 | Unbreakable | 3.00% | ~2 |
 | Festival-goer | 3.00% | ~2 |
-| Storyteller | 1.00% | ~1 |
 | Alchemist | 1.00% | ~1 |
 | Idealist | 1.00% | ~1 |
 | Defector | 1.00% | ~1 |

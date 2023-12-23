@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 936,
-  "Ranking_Popularity": 466,
+  "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 386,
@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7414,
+  "EOS_Progressed": 7421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12008,6 +12008,11 @@
       "Time": "2023-12-23T12:04:26.5808084+00:00",
       "NumProgressed": 7414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T13:06:41.280213+00:00",
+      "NumProgressed": 7421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12019,7 +12024,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12027,7 +12032,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -12035,15 +12040,15 @@
       "Name": "Hey Good Hookin",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -12059,7 +12064,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12067,7 +12072,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12075,7 +12080,7 @@
       "Name": "Scaling up",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -12115,7 +12120,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -12123,7 +12128,7 @@
       "Name": "Goldfish?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -12131,7 +12136,7 @@
       "Name": "Going for Gold",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -12139,7 +12144,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -12338,13 +12343,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7414,
+      "Progressed": 7421,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6786,
+      "Progressed": 6793,
       "Completed": 113
     }
   ],
@@ -12352,8 +12357,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:04:26.580808+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:06:41.2802127+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:57.1480318+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:04:26.5808796+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:14.0116492+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:06:41.2802727+00:00"
 }

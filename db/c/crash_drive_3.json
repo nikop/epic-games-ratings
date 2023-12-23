@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 421,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -865,9 +865,9 @@
       "ID": "HIT_ALIEN",
       "SetID": "20koof9",
       "Name": "Earth Defense Force",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -1122,8 +1122,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:08:37.6086699+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:10:59.5559552+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.8431436+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:00:02.0680895+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:08:37.6087037+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:02:19.8278063+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:10:59.5559877+00:00"
 }

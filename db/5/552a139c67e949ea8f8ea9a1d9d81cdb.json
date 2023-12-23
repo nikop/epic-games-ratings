@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1575,
+  "EOS_Progressed": 1576,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -3787,6 +3787,11 @@
       "Time": "2023-12-23T11:04:30.4092587+00:00",
       "NumProgressed": 1575,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T13:06:56.3390026+00:00",
+      "NumProgressed": 1576,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3949,9 +3954,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -3989,9 +3994,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -4149,37 +4154,37 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "8jfk4dl",
       "Name": "The Speed of Silence",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
       "SetID": "8jfk4dl",
       "Name": "The Ultimate Race",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1575,
+      "Progressed": 1576,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 1002
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:04:41.7080986+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:06:56.3390023+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:56.8674786+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:04:41.708143+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:13.6313129+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:06:56.33904+00:00"
 }

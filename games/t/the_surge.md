@@ -6,12 +6,12 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,736 |
-| I'll Be Back | 84.00% | ~4,232 |
-| Sorry, I Dropped This | 77.00% | ~3,879 |
-| First Day on the Job | 76.00% | ~3,829 |
-| Butcher's Bill | 54.00% | ~2,721 |
-| P.A.X | 37.00% | ~1,864 |
+| On My Own Two Feet | 94.00% | ~4,738 |
+| I'll Be Back | 84.00% | ~4,234 |
+| Sorry, I Dropped This | 77.00% | ~3,881 |
+| First Day on the Job | 76.00% | ~3,830 |
+| Butcher's Bill | 54.00% | ~2,722 |
+| P.A.X | 37.00% | ~1,865 |
 | Hey Listen | 36.00% | ~1,814 |
 | OPERATOR | 36.00% | ~1,814 |
 | It's Blue Light | 33.00% | ~1,663 |
@@ -20,7 +20,7 @@ Number of Ratings: 62  (23.09.2022)
 | GOLIATH | 21.00% | ~1,058 |
 | Firebug | 20.00% | ~1,008 |
 | Nothing to Lose | 18.00% | ~907 |
-| I Choose You | 17.00% | ~856 |
+| I Choose You | 17.00% | ~857 |
 | Big Sister | 16.00% | ~806 |
 | Gear Up | 15.00% | ~756 |
 | SENTINEL | 15.00% | ~756 |
@@ -31,10 +31,10 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~554 |
 | Shall Not Pass | 11.00% | ~554 |
 | Right Tool for the Job | 10.00% | ~504 |
-| Melting Down | 9.00% | ~453 |
-| Raging Drones | 9.00% | ~453 |
-| Overconfident | 9.00% | ~453 |
-| Is This Real Life? | 9.00% | ~453 |
+| Melting Down | 9.00% | ~454 |
+| Raging Drones | 9.00% | ~454 |
+| Overconfident | 9.00% | ~454 |
+| Is This Real Life? | 9.00% | ~454 |
 | Pusher Man | 8.00% | ~403 |
 | Squad Chief Helvig | 8.00% | ~403 |
 | No More Marching | 8.00% | ~403 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,038 (Ranked 200)  
+Progressed: 5,040 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 18 (0.36%) (Ranked 235)
 | 2023-12-20 | 5,007 | 18 |
 | 2023-12-21 | 5,019 | 18 |
 | 2023-12-22 | 5,031 | 18 |
-| 2023-12-23 | 5,038 | 18 |
+| 2023-12-23 | 5,040 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 511)  
-Sum: 30 (Ranked 527)  
+Max (Great Boss Battles): 30  (Ranked 512)  
+Sum: 30 (Ranked 528)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |

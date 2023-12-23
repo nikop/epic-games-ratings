@@ -1,11 +1,11 @@
 # Symphony of War
 [Store](https://store.epicgames.com/en-US/p/symphony-of-war-60a76e)  
 [View Rawdata](../../db/s/symphony_of_war.json)  
-Rating: 4.64 (Ranked 341)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 181  (23.09.2022)  
 ## Awards
-Max (Character Customization): 68  (Ranked 415)  
-Sum: 68 (Ranked 482)  
+Max (Character Customization): 68  (Ranked 416)  
+Sum: 68 (Ranked 483)  
 Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
@@ -55,3 +55,4 @@ Diff (max vs sum): -67
 | 2023-03-25 | 4.64 | - | - | - |
 | 2023-07-31 | 4.64 | - | 67 | 67 |
 | 2023-11-06 | 4.64 | - | 68 | 68 |
+| 2023-12-23 | 4.65 | - | 68 | 68 |

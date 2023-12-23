@@ -3,11 +3,11 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 646,
-  "Ranking_Popularity": 484,
+  "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5755,
+  "EOS_Progressed": 5757,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11667,6 +11667,11 @@
       "Time": "2023-12-23T12:05:20.0892009+00:00",
       "NumProgressed": 5755,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T13:07:33.7997006+00:00",
+      "NumProgressed": 5757,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11703,7 +11708,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -11711,7 +11716,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11727,7 +11732,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11775,7 +11780,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11791,7 +11796,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11831,7 +11836,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11839,7 +11844,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11862,15 +11867,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5755,
+      "Progressed": 5757,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:05:20.0892006+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:07:33.7997002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:07.6050022+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:05:20.0892589+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:59:23.5679202+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:07:33.7997689+00:00"
 }

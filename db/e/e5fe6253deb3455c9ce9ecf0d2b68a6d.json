@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1589,9 +1589,9 @@
       "ID": "Collector",
       "SetID": "cjfnji1",
       "Name": "Collector",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "Dangerous_dose",
@@ -1708,8 +1708,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:04:49.3406911+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:07:03.9731638+00:00",
   "LastUpdate_AppInfo": "2023-12-19T03:56:54.9415152+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:22.2885436+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:04:49.3407074+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:59:37.9871938+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:07:03.9731795+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 208,
@@ -237,7 +237,7 @@
   "Tags": [],
   "EOS_Progressed": 8603,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9036,9 +9036,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 86
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -9076,9 +9076,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -9124,9 +9124,9 @@
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -9299,8 +9299,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:09:52.0727147+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:12:14.1145109+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:03:07.627167+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:09:52.072775+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:05:21.1622944+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:12:14.1145791+00:00"
 }

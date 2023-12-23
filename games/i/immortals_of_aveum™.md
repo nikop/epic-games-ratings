@@ -5,31 +5,31 @@ Rating: 4.21 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,455 |
-| Battlefields Have Memories | 80.00% | ~1,322 |
-| Enlisted | 73.00% | ~1,207 |
-| Maybe Engage a Little | 67.00% | ~1,108 |
-| No More Names | 49.00% | ~810 |
-| Initiate | 34.00% | ~562 |
-| Thrada-Kul | 30.00% | ~496 |
-| Gravity-Challenged Rocks | 23.00% | ~380 |
-| Socialite | 22.00% | ~364 |
-| Soldier | 19.00% | ~314 |
-| All the Major Food Groups | 19.00% | ~314 |
-| Beggars Would Ride | 17.00% | ~281 |
-| Control is an Illusion | 15.00% | ~248 |
-| The Means to Save It | 13.00% | ~215 |
-| Resilience to Sin | 11.00% | ~182 |
-| A Familiar Nest | 11.00% | ~182 |
-| Periapt Alizarin | 11.00% | ~182 |
-| Geas Aristeya | 10.00% | ~165 |
+| Unforeseen | 87.00% | ~1,444 |
+| Battlefields Have Memories | 80.00% | ~1,328 |
+| Enlisted | 73.00% | ~1,212 |
+| Maybe Engage a Little | 67.00% | ~1,112 |
+| No More Names | 49.00% | ~813 |
+| Initiate | 34.00% | ~564 |
+| Thrada-Kul | 30.00% | ~498 |
+| Gravity-Challenged Rocks | 23.00% | ~382 |
+| Socialite | 22.00% | ~365 |
+| Soldier | 19.00% | ~315 |
+| All the Major Food Groups | 19.00% | ~315 |
+| Beggars Would Ride | 17.00% | ~282 |
+| Control is an Illusion | 16.00% | ~266 |
+| The Means to Save It | 13.00% | ~216 |
+| Resilience to Sin | 11.00% | ~183 |
+| A Familiar Nest | 11.00% | ~183 |
+| Periapt Alizarin | 11.00% | ~183 |
+| Geas Aristeya | 10.00% | ~166 |
 | A Perfect Cycle | 9.00% | ~149 |
-| Recruit | 8.00% | ~132 |
-| Armsman | 8.00% | ~132 |
-| Lights Army | 6.00% | ~99 |
-| Periapt Cerulean | 6.00% | ~99 |
-| Good Boy | 6.00% | ~99 |
+| Recruit | 8.00% | ~133 |
+| Armsman | 8.00% | ~133 |
+| Lights Army | 6.00% | ~100 |
+| Periapt Cerulean | 6.00% | ~100 |
 | Periapt Viridian | 5.00% | ~83 |
+| Good Boy | 5.00% | ~83 |
 | Best Dressed | 4.00% | ~66 |
 | Shroudfane Explorer | 4.00% | ~66 |
 | Scholar | 3.00% | ~50 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 928)
 | Out of Time | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,653 (Ranked 247)  
+Progressed: 1,660 (Ranked 246)  
 Completed: 2 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.12%) (Ranked 296)
 | 2023-12-20 | 1,423 | 2 |
 | 2023-12-21 | 1,514 | 2 |
 | 2023-12-22 | 1,602 | 2 |
-| 2023-12-23 | 1,653 | 2 |
+| 2023-12-23 | 1,660 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

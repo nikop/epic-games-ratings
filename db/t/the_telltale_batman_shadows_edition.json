@@ -3,11 +3,11 @@
   "Name": "The Telltale Batman Shadows Edition",
   "ProductSlug": "the-telltale-batman",
   "Ranking_Rating": 116,
-  "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 457,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2019-12-17T11:00:00+00:00",
@@ -378,6 +378,6 @@
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
   "LastChanged": "2023-12-22T14:58:12.2641017+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.7674623+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:58:24.2257497+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:03:54.0725433+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:42.5584952+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:06:09.2222567+00:00"
 }

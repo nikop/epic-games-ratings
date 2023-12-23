@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 262,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 10.69,
   "EosHistory": [
@@ -829,8 +829,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:09:27.9786644+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:11:50.244987+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:24.8474883+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:24.6617442+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:09:27.9786776+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:59:40.5143005+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:11:50.2449981+00:00"
 }

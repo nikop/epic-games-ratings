@@ -7,23 +7,23 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Kaijuiced | 66.00% | ~75 |
-| Shop Til They Drop | 60.00% | ~68 |
+| Shop Til They Drop | 61.00% | ~70 |
 | Lie Back and Think of Albion | 58.00% | ~66 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~64 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 56.00% | ~64 |
 | Yettisoned | 53.00% | ~60 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~59 |
-| Lobster Blisque | 49.00% | ~55 |
-| Perfect Probulator | 48.00% | ~54 |
-| Fly Me to the Moon Base | 42.00% | ~47 |
-| Pimp My Raid | 42.00% | ~47 |
-| Earthly Pleasures | 41.00% | ~46 |
+| Lobster Blisque | 48.00% | ~55 |
+| Perfect Probulator | 47.00% | ~54 |
+| Fly Me to the Moon Base | 42.00% | ~48 |
+| Pimp My Raid | 41.00% | ~47 |
+| Earthly Pleasures | 40.00% | ~46 |
 | Freshly Squeezed | 36.00% | ~41 |
 | Ducks in a Row, Fish in a Barrel | 36.00% | ~41 |
 | Forbidden Donut | 29.00% | ~33 |
 | Upgreatest | 29.00% | ~33 |
 | Bodied Sattva | 28.00% | ~32 |
 | Rock of the Bay | 27.00% | ~31 |
-| Trans-Siberian Express | 26.00% | ~29 |
+| Trans-Siberian Express | 25.00% | ~28 |
 | Deincarnated | 23.00% | ~26 |
 | Furon Fashion | 23.00% | ~26 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~23 |
@@ -31,9 +31,9 @@ Number of Ratings: 85  (23.09.2022)
 | Ouch of Body Experience | 13.00% | ~15 |
 | If You Know What I Mean | 12.00% | ~14 |
 | Die Nasty | 12.00% | ~14 |
-| Hidden Human Hive Harvest | 12.00% | ~14 |
-| Mash Machine | 12.00% | ~14 |
 | Dusted | 12.00% | ~14 |
+| Hidden Human Hive Harvest | 11.00% | ~13 |
+| Mash Machine | 11.00% | ~13 |
 | Albion Bridge Is for Falling Down | 9.00% | ~10 |
 | PK Slam Dunk | 7.00% | ~8 |
 | Scuttled | 6.00% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 462)  
+Progressed: 114 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,10 +57,10 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 75 | 0 |
 | 2023-12-21 | 86 | 0 |
 | 2023-12-22 | 106 | 0 |
-| 2023-12-23 | 113 | 0 |
+| 2023-12-23 | 114 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 492)  
-Sum: 34 (Ranked 516)  
+Max (Great Boss Battles): 34  (Ranked 493)  
+Sum: 34 (Ranked 517)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |

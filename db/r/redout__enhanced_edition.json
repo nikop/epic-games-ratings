@@ -3,11 +3,11 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237654,
+  "EOS_Progressed": 237657,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26177,6 +26177,11 @@
       "Time": "2023-12-23T12:05:01.2578642+00:00",
       "NumProgressed": 237654,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-23T13:07:15.7575947+00:00",
+      "NumProgressed": 237657,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26204,7 +26209,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66543
+      "UsersEstimate": 66544
     },
     {
       "ID": "CENTAUR",
@@ -26212,7 +26217,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19012
+      "UsersEstimate": 19013
     },
     {
       "ID": "CHALLENGER",
@@ -26252,7 +26257,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19012
+      "UsersEstimate": 19013
     },
     {
       "ID": "FLAWLESS",
@@ -26324,7 +26329,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78426
+      "UsersEstimate": 78427
     },
     {
       "ID": "NOBUNAGA",
@@ -26412,7 +26417,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52284
+      "UsersEstimate": 52285
     },
     {
       "ID": "TACTICIAN",
@@ -26436,7 +26441,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52284
+      "UsersEstimate": 52285
     },
     {
       "ID": "TUNINGMANIAC",
@@ -26452,22 +26457,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97438
+      "UsersEstimate": 97439
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237654,
+      "Progressed": 237657,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:05:01.2578638+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:07:15.7575945+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.1296374+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:06.1156125+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:05:01.2579947+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:59:22.1051059+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:07:15.7577349+00:00"
 }

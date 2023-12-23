@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1052,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 601,
+  "EOS_Progressed": 602,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -1078,6 +1078,11 @@
       "Time": "2023-12-22T20:08:04.875678+00:00",
       "NumProgressed": 601,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T13:10:45.7829101+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1113,7 +1118,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Doors_Closing",
@@ -1175,9 +1180,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 301
     },
     {
       "ID": "Hitman",
@@ -1209,7 +1214,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Leisurely_Strol",
@@ -1320,7 +1325,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 601,
+      "Progressed": 602,
       "Completed": 6
     }
   ],
@@ -1328,8 +1333,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:08:23.8761489+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:10:45.7829097+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.9075222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:03:14.1514372+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:08:23.8761763+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:05:27.5216039+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:10:45.7829298+00:00"
 }

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 242,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.42,
+  "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -804,6 +804,11 @@
       "Time": "2023-12-23T11:06:07.1370784+00:00",
       "NumProgressed": 240,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T13:10:13.9405381+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -824,7 +829,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ach3",
@@ -840,15 +845,15 @@
       "Name": "Three Caps",
       "Percentage": 6,
       "XP": 140,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ach6",
@@ -871,14 +876,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 242,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:06:21.0701546+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:10:13.9405377+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:57:13.4764786+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:06:21.0701629+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:59:29.4351245+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:10:13.9405526+00:00"
 }

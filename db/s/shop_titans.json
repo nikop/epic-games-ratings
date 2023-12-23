@@ -7655,10 +7655,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27786,
       "NumberOfAwardsMax": 4910
+    },
+    {
+      "Time": "2023-12-23T13:05:18.7957261+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27787,
+      "NumberOfAwardsMax": 4910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27786,
+  "NumberOfAwards": 27787,
   "NumberOfAwardsMax": 4910,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7702,7 +7708,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3224
+      "Count": 3225
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7711,9 +7717,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147114,
+  "EOS_Progressed": 147120,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33601,6 +33607,11 @@
       "Time": "2023-12-23T12:05:04.7414617+00:00",
       "NumProgressed": 147114,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-12-23T13:07:19.0012696+00:00",
+      "NumProgressed": 147120,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 112,
@@ -33620,7 +33631,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "advlevel03",
@@ -33660,7 +33671,7 @@
       "Name": "Ascended",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "ascend02",
@@ -33724,7 +33735,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "blueprint03",
@@ -33740,7 +33751,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "boss01",
@@ -33780,7 +33791,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13240
+      "UsersEstimate": 13241
     },
     {
       "ID": "chest02",
@@ -33804,7 +33815,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "collection02",
@@ -33844,7 +33855,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11769
+      "UsersEstimate": 11770
     },
     {
       "ID": "commonres02",
@@ -33852,7 +33863,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "commonres03",
@@ -33884,7 +33895,7 @@
       "Name": "Flooding the Market",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "craft03",
@@ -33972,7 +33983,7 @@
       "Name": "Power of Love",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "energy03",
@@ -34020,7 +34031,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "furniture02",
@@ -34052,7 +34063,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "fuselegendary",
@@ -34076,7 +34087,7 @@
       "Name": "Gem Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "gold01",
@@ -34084,7 +34095,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11769
+      "UsersEstimate": 11770
     },
     {
       "ID": "gold02",
@@ -34100,7 +34111,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "gold04",
@@ -34132,7 +34143,7 @@
       "Name": "Helping Hand",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "help02",
@@ -34204,7 +34215,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "level03",
@@ -34276,7 +34287,7 @@
       "Name": "Natural 20",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "master03",
@@ -34324,7 +34335,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "quest02",
@@ -34428,7 +34439,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13240
+      "UsersEstimate": 13241
     },
     {
       "ID": "twinenchant01",
@@ -34484,7 +34495,7 @@
       "Name": "Arcane Industries",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "workers03",
@@ -34507,15 +34518,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147114,
+      "Progressed": 147120,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-23T11:02:59.0541513+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:05:04.7414614+00:00",
+  "LastChanged": "2023-12-23T13:05:18.7957259+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:07:19.0012693+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:03:06.2690914+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:05:04.741654+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:05:18.7957265+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:07:19.0014771+00:00"
 }

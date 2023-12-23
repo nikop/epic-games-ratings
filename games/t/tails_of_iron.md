@@ -1,13 +1,13 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 510)  
+Rating: 4.55 (Ranked 509)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Bright Fir | 0.70% | ~6 |
+| Become King | 0.60% | ~14 |
 | Complete Guard Faction | 0.60% | ~14 |
-| Become King | 0.50% | ~11 |
 | End of the Mozis | 0.50% | ~11 |
 | Meet the Creatures from the Deep | 0.50% | ~11 |
 | Throne Room Fit For A King | 0.50% | ~11 |
@@ -15,6 +15,7 @@ Rating: 4.55 (Ranked 510)
 | Shield Maiden Yellow Tongue | 0.50% | ~5 |
 | Ranged Weapon | 0.40% | ~9 |
 | Two Handed Weapon | 0.40% | ~9 |
+| Defeat 25 Grubs | 0.40% | ~9 |
 | Defeat 25 Frogs | 0.40% | ~9 |
 | Defeat Croakhis Khan | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
@@ -26,7 +27,6 @@ Rating: 4.55 (Ranked 510)
 | Defeat Avor Warden of the Northern Wastes | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
-| Defeat 25 Grubs | 0.30% | ~7 |
 | Defeat 25 Mozis | 0.30% | ~7 |
 | Discover the mystery of the Kings Chambers | 0.30% | ~7 |
 | Kitchen Ready To Cook | 0.30% | ~7 |

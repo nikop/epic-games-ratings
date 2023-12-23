@@ -3,11 +3,11 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 552,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 514,
+  "Ranking_Popularity": 485,
+  "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -931,6 +931,11 @@
       "Time": "2023-12-23T12:08:46.3306934+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T13:11:08.3497652+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1055,7 +1060,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1079,7 +1084,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1093,9 +1098,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1109,9 +1114,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1215,7 +1220,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1277,9 +1282,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1294,7 +1299,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
@@ -1302,8 +1307,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:08:46.3306929+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:11:08.3497649+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:59:37.4155257+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:08:46.3307201+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:01:53.0993639+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:11:08.3498008+00:00"
 }

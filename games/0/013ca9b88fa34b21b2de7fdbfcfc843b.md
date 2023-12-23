@@ -8,20 +8,20 @@ Rating: 4.63 (Ranked 353)
 | Azoria Beckons | 1.00% | ~86 |
 | A Thorny Situation | 1.00% | ~86 |
 | Calm Sailing | 1.00% | ~86 |
+| Miner 49er | 1.00% | ~86 |
 | Break-Net Speed | 1.00% | ~86 |
 | ... And Spit Back Out | 1.00% | ~86 |
 | Bramble Breaker | 1.00% | ~86 |
 | Open the Gate! | 0.90% | ~77 |
-| Miner 49er | 0.90% | ~77 |
-| Humble Collector | 0.80% | ~69 |
+| Humble Collector | 0.90% | ~77 |
 | Mist Walker | 0.80% | ~69 |
 | Lumberjack | 0.70% | ~60 |
 | Clear the Air | 0.60% | ~52 |
 | Search for the Hairy Grell | 0.60% | ~52 |
 | Oui, Chef! | 0.60% | ~52 |
 | Exit Through The Gift Shop | 0.60% | ~7 |
+| Higher Tax Bracket | 0.50% | ~43 |
 | Beach Comber | 0.40% | ~34 |
-| Higher Tax Bracket | 0.40% | ~34 |
 | Botanical Breakthrough | 0.40% | ~34 |
 | Azorian Anniversary | 0.40% | ~34 |
 | Skilled | 0.40% | ~34 |

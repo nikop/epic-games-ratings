@@ -3,11 +3,11 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 258,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2496,6 +2496,11 @@
       "Time": "2023-12-22T20:09:30.4272613+00:00",
       "NumProgressed": 816,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T13:12:11.4699844+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2587,7 +2592,7 @@
       "Name": "Goal!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "GoldRush",
@@ -2643,7 +2648,7 @@
       "Name": "Both sides",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MuhsroomTruth",
@@ -2683,7 +2688,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Specialist",
@@ -2691,7 +2696,7 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SpringCleaning",
@@ -2731,7 +2736,7 @@
       "Name": "Toxic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Webbed",
@@ -2755,14 +2760,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 1
     }
   ],
@@ -2770,8 +2775,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:09:49.4806299+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:12:11.4699842+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:58:50.6433436+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:09:49.4806539+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:01:08.1846512+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:12:11.470014+00:00"
 }

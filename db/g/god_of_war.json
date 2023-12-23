@@ -2,12 +2,12 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 16,
   "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -4197,10 +4197,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 8676,
       "NumberOfAwardsMax": 4528
+    },
+    {
+      "Time": "2023-12-23T13:05:06.6503951+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 8677,
+      "NumberOfAwardsMax": 4528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8676,
+  "NumberOfAwards": 8677,
   "NumberOfAwardsMax": 4528,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4262,7 +4268,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4306,8 +4312,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-12-23T11:02:46.8168509+00:00",
+  "LastChanged": "2023-12-23T13:05:06.650395+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:48.5633985+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:02:54.2070521+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:05:11.8175042+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:05:06.6503955+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:07:25.8543044+00:00"
 }

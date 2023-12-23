@@ -5,32 +5,32 @@ Rating: 4.52 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,533 |
-| I will survive! | 93.00% | ~5,474 |
-| All thumbs | 92.00% | ~5,415 |
-| Home, sweet home | 91.00% | ~5,356 |
-| Survivalist | 90.00% | ~5,297 |
-| One way ticket | 85.00% | ~5,003 |
-| Last man standing | 80.00% | ~4,709 |
-| Family guy | 77.00% | ~4,532 |
-| Out of the Bag | 76.00% | ~4,473 |
-| The Dark Side | 71.00% | ~4,179 |
+| Prepper | 94.00% | ~5,534 |
+| I will survive! | 93.00% | ~5,475 |
+| All thumbs | 92.00% | ~5,416 |
+| Home, sweet home | 91.00% | ~5,357 |
+| Survivalist | 90.00% | ~5,298 |
+| One way ticket | 85.00% | ~5,004 |
+| Last man standing | 80.00% | ~4,710 |
+| Family guy | 77.00% | ~4,533 |
+| Out of the Bag | 76.00% | ~4,474 |
+| The Dark Side | 71.00% | ~4,180 |
 | Duck and cover! | 66.00% | ~3,885 |
-| Souper! | 65.00% | ~3,826 |
+| Souper! | 65.00% | ~3,827 |
 | Pacifist | 60.00% | ~3,532 |
 | 2-1-6 | 59.00% | ~3,473 |
-| A gift | 55.00% | ~3,237 |
-| Girl Power | 49.00% | ~2,884 |
-| What goes around... | 44.00% | ~2,590 |
+| A gift | 55.00% | ~3,238 |
+| Girl Power | 49.00% | ~2,885 |
+| What goes around... | 45.00% | ~2,649 |
 | Be Prepared | 38.00% | ~2,237 |
 | Unbreakable | 37.00% | ~2,178 |
-| Gotta get 'em all | 34.00% | ~2,001 |
-| This is the end | 34.00% | ~2,001 |
+| Gotta get 'em all | 34.00% | ~2,002 |
+| This is the end | 34.00% | ~2,002 |
 | Atomic drill | 32.00% | ~1,884 |
 | Disco Roach | 28.00% | ~1,648 |
 | Dawkins Residence | 22.00% | ~1,295 |
-| Rescue time! | 19.00% | ~1,118 |
-| New order | 18.00% | ~1,059 |
+| Rescue time! | 19.00% | ~1,119 |
+| New order | 18.00% | ~1,060 |
 | New species | 17.00% | ~1,001 |
 | A New Hope | 16.00% | ~942 |
 | Enigma | 16.00% | ~942 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 565)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,886 (Ranked 195)  
+Progressed: 5,887 (Ranked 195)  
 Completed: 1 (0.02%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 1 (0.02%) (Ranked 354)
 | 2023-12-20 | 5,859 | 1 |
 | 2023-12-21 | 5,870 | 1 |
 | 2023-12-22 | 5,882 | 1 |
-| 2023-12-23 | 5,886 | 1 |
+| 2023-12-23 | 5,887 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

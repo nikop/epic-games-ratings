@@ -3,8 +3,8 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1014,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 234,
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 733,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3242,6 +3242,11 @@
       "Time": "2023-12-23T12:03:39.583521+00:00",
       "NumProgressed": 732,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T13:05:54.5163334+00:00",
+      "NumProgressed": 733,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3348,7 +3353,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 733,
       "Completed": 0
     }
   ],
@@ -3356,8 +3361,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-22T03:57:46.7688658+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:03:39.5835207+00:00",
+  "LastChanged_Achievements": "2023-12-23T13:05:54.5163332+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.8922403+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:58:36.3422057+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:03:39.5835472+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:00:54.0018368+00:00",
+  "LastUpdate_Achievements": "2023-12-23T13:05:54.5163603+00:00"
 }
