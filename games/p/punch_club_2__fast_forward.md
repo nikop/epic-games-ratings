@@ -13,7 +13,7 @@
 | Old movies enjoyer | 76.00% | ~341 |
 | Neurotrainer – power gainer! | 76.00% | ~341 |
 | Fitness professional | 75.00% | ~337 |
-| Employee of the week | 74.00% | ~332 |
+| Employee of the week | 75.00% | ~337 |
 | Your own amateur gym | 70.00% | ~314 |
 | Run K, run! | 69.00% | ~310 |
 | First defeat | 68.00% | ~305 |
@@ -30,8 +30,8 @@
 | Fight for life | 55.00% | ~247 |
 | Little hacker | 55.00% | ~247 |
 | It's good to be alive | 55.00% | ~247 |
+| Own four walls | 55.00% | ~247 |
 | Employee of the year | 55.00% | ~247 |
-| Own four walls | 54.00% | ~242 |
 | Intriguing candies | 54.00% | ~242 |
 | Extreme neuropower! | 51.00% | ~229 |
 | Legal courier | 50.00% | ~224 |

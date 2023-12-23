@@ -6,7 +6,7 @@
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -1731,10 +1731,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 553,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-12-23T07:03:20.9645166+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 554,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 553,
+  "NumberOfAwards": 554,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1748,7 +1754,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1781,9 +1787,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18725,
+  "EOS_Progressed": 18730,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1535,
+  "EOS_NewPlayers": 1530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -10806,6 +10812,11 @@
       "Time": "2023-12-23T06:09:30.5332507+00:00",
       "NumProgressed": 18725,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-23T07:09:28.8320423+00:00",
+      "NumProgressed": 18730,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10823,9 +10834,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -10849,7 +10860,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2997
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10945,7 +10956,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "KILL_ROBOT",
@@ -10961,7 +10972,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11009,7 +11020,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11017,7 +11028,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "STORY_HABITAT",
@@ -11192,22 +11203,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18725,
+      "Progressed": 18730,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6651,
+      "Progressed": 6656,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-23T03:03:32.8304663+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:09:30.5332505+00:00",
+  "LastChanged": "2023-12-23T07:03:20.9645164+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:09:28.8320421+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:03:14.5931149+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:09:30.5333244+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:03:20.964517+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:09:28.8321165+00:00"
 }

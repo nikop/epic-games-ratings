@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~62,646 |
-| Enemy Attrition | 67.00% | ~45,622 |
-| Grim Reaper | 65.00% | ~44,260 |
-| Heads Down | 63.00% | ~42,899 |
-| Not On My Watch | 59.00% | ~40,175 |
-| Combat Engineer | 38.00% | ~25,875 |
-| Call ’em in! | 27.00% | ~18,385 |
-| Eager Beaver | 27.00% | ~18,385 |
-| Lovely | 27.00% | ~18,385 |
-| Store fuglar fanga ingi flugor | 16.00% | ~10,895 |
-| Ou La Mort | 13.00% | ~8,852 |
-| Elite | 11.00% | ~7,490 |
-| Fender Bender | 7.00% | ~4,767 |
-| Globetrotter | 6.00% | ~4,086 |
-| Jack of All Trades | 5.00% | ~3,405 |
-| Storyteller | 4.00% | ~2,724 |
-| Death from Above | 2.00% | ~1,362 |
-| Off-hand | 2.00% | ~1,362 |
-| Veteran | 0.70% | ~477 |
-| Hoist the Flag | 0.30% | ~204 |
+| Last Man Standing | 92.00% | ~62,777 |
+| Enemy Attrition | 67.00% | ~45,718 |
+| Grim Reaper | 65.00% | ~44,353 |
+| Heads Down | 63.00% | ~42,989 |
+| Not On My Watch | 59.00% | ~40,259 |
+| Combat Engineer | 38.00% | ~25,930 |
+| Call ’em in! | 27.00% | ~18,424 |
+| Eager Beaver | 27.00% | ~18,424 |
+| Lovely | 26.00% | ~17,741 |
+| Store fuglar fanga ingi flugor | 16.00% | ~10,918 |
+| Ou La Mort | 13.00% | ~8,871 |
+| Elite | 11.00% | ~7,506 |
+| Fender Bender | 7.00% | ~4,777 |
+| Globetrotter | 6.00% | ~4,094 |
+| Jack of All Trades | 5.00% | ~3,412 |
+| Storyteller | 4.00% | ~2,729 |
+| Death from Above | 2.00% | ~1,365 |
+| Off-hand | 2.00% | ~1,365 |
+| Veteran | 0.70% | ~478 |
+| Hoist the Flag | 0.30% | ~205 |
 | Sins of the Fathers | 0.20% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,093 (Ranked 110)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 68,236 (Ranked 110)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 62,278 | 0 |
 | 2023-12-21 | 65,113 | 0 |
 | 2023-12-22 | 67,545 | 0 |
-| 2023-12-23 | 68,093 | 0 |
+| 2023-12-23 | 68,236 | 0 |

@@ -5,44 +5,44 @@ Rating: 4.53 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~3,784 |
-| Keep 'Em Coming | 67.00% | ~3,250 |
-| Snatched Out | 66.00% | ~3,202 |
-| Cleaning Lethe, One Nest At A Time | 60.00% | ~2,911 |
-| Call Me Snake | 56.00% | ~2,717 |
-| Something Lurks Under The Hills | 54.00% | ~2,620 |
-| This Was No Papercut | 52.00% | ~2,523 |
-| The Shrink Hates Me | 50.00% | ~2,426 |
-| People Person | 49.00% | ~2,377 |
-| Use The Bumper, That's What It's For | 46.00% | ~2,231 |
-| First Steps Into Madness | 46.00% | ~2,231 |
-| Colonial Barrels | 44.00% | ~2,134 |
-| Harper's Hell | 40.00% | ~1,940 |
-| Making a Stand | 38.00% | ~1,843 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,795 |
-| Where It All Begun | 35.00% | ~1,698 |
-| Recouped Investment | 33.00% | ~1,601 |
-| Living Nightmare | 29.00% | ~1,407 |
-| The More The Merrier | 29.00% | ~1,407 |
-| Omelette Du Fromage | 28.00% | ~1,358 |
-| The Darwin Era Was Here | 26.00% | ~1,261 |
-| Deep Into Insanity | 24.00% | ~1,164 |
-| The Passenger | 24.00% | ~1,164 |
-| Come on, You Wanna Live Forever? | 23.00% | ~1,116 |
-| The Spire | 22.00% | ~1,067 |
-| El Riesgo Siempre Vive | 21.00% | ~1,019 |
-| Stuff Of Nightmares | 20.00% | ~970 |
-| Excavating The Truth | 19.00% | ~922 |
-| One For Every Occasion | 18.00% | ~873 |
-| Frontliner | 18.00% | ~873 |
-| The Cable Guy | 18.00% | ~873 |
-| Abysmal Horrors | 18.00% | ~873 |
-| Bandage Lover | 16.00% | ~776 |
-| Regicide | 14.00% | ~679 |
-| This Went Smoothly | 12.00% | ~582 |
+| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~3,789 |
+| Keep 'Em Coming | 67.00% | ~3,255 |
+| Snatched Out | 66.00% | ~3,206 |
+| Cleaning Lethe, One Nest At A Time | 60.00% | ~2,915 |
+| Call Me Snake | 56.00% | ~2,720 |
+| Something Lurks Under The Hills | 54.00% | ~2,623 |
+| This Was No Papercut | 52.00% | ~2,526 |
+| The Shrink Hates Me | 50.00% | ~2,429 |
+| People Person | 49.00% | ~2,380 |
+| Use The Bumper, That's What It's For | 46.00% | ~2,235 |
+| First Steps Into Madness | 46.00% | ~2,235 |
+| Colonial Barrels | 44.00% | ~2,138 |
+| Harper's Hell | 40.00% | ~1,943 |
+| Making a Stand | 38.00% | ~1,846 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,797 |
+| Where It All Begun | 35.00% | ~1,700 |
+| Recouped Investment | 33.00% | ~1,603 |
+| Living Nightmare | 29.00% | ~1,409 |
+| The More The Merrier | 29.00% | ~1,409 |
+| Omelette Du Fromage | 28.00% | ~1,360 |
+| The Darwin Era Was Here | 26.00% | ~1,263 |
+| Deep Into Insanity | 24.00% | ~1,166 |
+| The Passenger | 24.00% | ~1,166 |
+| Come on, You Wanna Live Forever? | 23.00% | ~1,117 |
+| The Spire | 22.00% | ~1,069 |
+| El Riesgo Siempre Vive | 21.00% | ~1,020 |
+| Stuff Of Nightmares | 20.00% | ~972 |
+| Excavating The Truth | 19.00% | ~923 |
+| Frontliner | 18.00% | ~874 |
+| The Cable Guy | 18.00% | ~874 |
+| Abysmal Horrors | 18.00% | ~874 |
+| One For Every Occasion | 17.00% | ~826 |
+| Bandage Lover | 16.00% | ~777 |
+| Regicide | 14.00% | ~680 |
+| This Went Smoothly | 12.00% | ~583 |
 | Flawless Victory | 11.00% | ~534 |
 | Heavy Steps | 11.00% | ~534 |
-| Perfect Enhancements | 8.00% | ~388 |
+| Perfect Enhancements | 8.00% | ~389 |
 | Hardened In The Heat Of Battle | 7.00% | ~340 |
 | The True Experience | 6.00% | ~291 |
 | Archivist | 2.00% | ~97 |
@@ -51,8 +51,8 @@ Rating: 4.53 (Ranked 552)
 | This Ain't No Picnic | 0.60% | ~29 |
 | Chalk It Up To Experience | 0.60% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,851 (Ranked 201)  
-Completed: 3 (0.06%) (Ranked 324)  
+Progressed: 4,858 (Ranked 201)  
+Completed: 3 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,7 +231,7 @@ Completed: 3 (0.06%) (Ranked 324)
 | 2023-12-20 | 4,650 | 3 |
 | 2023-12-21 | 4,736 | 3 |
 | 2023-12-22 | 4,830 | 3 |
-| 2023-12-23 | 4,851 | 3 |
+| 2023-12-23 | 4,858 | 3 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 456)  
 Sum: 45 (Ranked 502)  

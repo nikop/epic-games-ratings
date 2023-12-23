@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26334,
+  "EOS_Progressed": 26349,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1814,
+  "EOS_NewPlayers": 1815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11532,6 +11532,11 @@
       "Time": "2023-12-23T06:09:53.2798608+00:00",
       "NumProgressed": 26334,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-23T07:09:51.6241512+00:00",
+      "NumProgressed": 26349,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11607,7 +11612,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11854,21 +11859,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26334,
+      "Progressed": 26349,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5264,
+      "Progressed": 5279,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:09:53.2798607+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:09:51.6241509+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:59:28.8752191+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:09:53.2799135+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:59:39.6446967+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:09:51.6242223+00:00"
 }

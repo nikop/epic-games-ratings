@@ -6,7 +6,7 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 6.00% | ~92 |
+| The Cost of Heroism | 6.00% | ~93 |
 | Me and My Familiar | 5.00% | ~77 |
 | Gotta Ca... Must Collect All of Them | 4.00% | ~62 |
 | Passing Shadow | 4.00% | ~62 |
@@ -40,12 +40,12 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | Worldwalker | 0.40% | ~6 |
+| No More Nightmares | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Bears are Scary | 0.40% | ~6 |
 | Grillmaster | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
-| No More Nightmares | 0.30% | ~5 |
 | A Hunger, Sated | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,541 (Ranked 252)  
-Completed: 7 (0.45%) (Ranked 221)  
+Progressed: 1,542 (Ranked 252)  
+Completed: 7 (0.45%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,7 +254,7 @@ Completed: 7 (0.45%) (Ranked 221)
 | 2023-12-19 | 1,536 | 7 |
 | 2023-12-21 | 1,538 | 7 |
 | 2023-12-22 | 1,540 | 7 |
-| 2023-12-23 | 1,541 | 7 |
+| 2023-12-23 | 1,542 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 515)  
 Sum: 29 (Ranked 531)  

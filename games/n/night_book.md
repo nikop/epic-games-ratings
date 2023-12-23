@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Will This Help? | 75.00% | ~210 |
-| Career Woman | 66.00% | ~185 |
-| No One Is Safe | 64.00% | ~179 |
+| Career Woman | 67.00% | ~188 |
+| No One Is Safe | 65.00% | ~182 |
 | He's Off His Meds | 54.00% | ~151 |
-| Deal Or No Deal | 48.00% | ~134 |
+| Deal Or No Deal | 49.00% | ~137 |
 | Personal Life | 48.00% | ~134 |
 | Impress Theron | 47.00% | ~132 |
 | On Your Bike | 29.00% | ~81 |
 | Save Dad | 22.00% | ~62 |
-| A Little Extra | 15.00% | ~42 |
+| A Little Extra | 16.00% | ~45 |
 | Unhelpful | 13.00% | ~36 |
 | The Marriage Is Off | 12.00% | ~34 |
 | Pearce | 12.00% | ~34 |

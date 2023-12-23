@@ -6,7 +6,7 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6023,
+  "EOS_Progressed": 6025,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8857,6 +8857,11 @@
       "Time": "2023-12-23T06:06:16.6732421+00:00",
       "NumProgressed": 6023,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T07:06:26.6922621+00:00",
+      "NumProgressed": 6025,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9004,7 +9009,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "26",
@@ -9026,9 +9031,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 362
     },
     {
       "ID": "29",
@@ -9347,13 +9352,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6023,
+      "Progressed": 6025,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6023,
+      "Progressed": 6025,
       "Completed": 7
     }
   ],
@@ -9361,8 +9366,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:06:16.6732419+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:06:26.6922619+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:57:59.9001058+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:06:16.673309+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:58:08.691687+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:06:26.6923494+00:00"
 }

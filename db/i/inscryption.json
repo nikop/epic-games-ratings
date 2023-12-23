@@ -6,7 +6,7 @@
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -758,10 +758,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 421,
       "NumberOfAwardsMax": 354
+    },
+    {
+      "Time": "2023-12-23T06:57:14.7646136+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 422,
+      "NumberOfAwardsMax": 354
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 421,
+  "NumberOfAwards": 422,
   "NumberOfAwardsMax": 354,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -781,7 +787,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Great for Beginners",
@@ -801,8 +807,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-12-21T21:00:05.280166+00:00",
+  "LastChanged": "2023-12-23T06:57:14.7646135+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:22.9120225+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:57:05.7835239+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:03:26.5458605+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:57:14.7646139+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:03:34.9524183+00:00"
 }

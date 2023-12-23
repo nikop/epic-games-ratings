@@ -3,8 +3,8 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -1484,6 +1484,11 @@
       "Time": "2023-12-23T06:10:09.8720155+00:00",
       "NumProgressed": 591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T07:10:08.2819169+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1575,7 +1580,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Hardboiled",
@@ -1775,7 +1780,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TreasureHunter",
@@ -1783,7 +1788,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Troubleshooter",
@@ -1814,7 +1819,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 1
     }
   ],
@@ -1822,8 +1827,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:10:09.8720152+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:10:08.2819167+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:02:50.0055911+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:10:09.8720673+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:02:57.3452542+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:10:08.2819564+00:00"
 }

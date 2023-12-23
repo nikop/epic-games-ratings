@@ -43,9 +43,9 @@ Rating: 4.64 (Ranked 340)
 | Fairgrounds Explorer | 10.00% | ~107 |
 | Theater Explorer | 10.00% | ~107 |
 | Cultivair Explorer | 9.00% | ~96 |
+| Entresol Explorer | 9.00% | ~96 |
 | Corin Goes Home | 8.00% | ~86 |
 | Sartorialist | 8.00% | ~86 |
-| Entresol Explorer | 8.00% | ~86 |
 | Golem Hunter | 7.00% | ~75 |
 | Clovemary for Remembering | 6.00% | ~64 |
 | Hexlock for Protection | 6.00% | ~64 |
@@ -60,7 +60,7 @@ Rating: 4.64 (Ranked 340)
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,070 (Ranked 276)  
-Completed: 6 (0.56%) (Ranked 203)  
+Completed: 6 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

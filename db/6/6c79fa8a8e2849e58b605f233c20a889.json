@@ -3,8 +3,8 @@
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3073,
+  "EOS_Progressed": 3074,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8224,6 +8224,11 @@
       "Time": "2023-12-23T00:10:46.214724+00:00",
       "NumProgressed": 3073,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T07:09:53.6007221+00:00",
+      "NumProgressed": 3074,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8267,7 +8272,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -8315,7 +8320,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "GLOVE_SLAP",
@@ -8410,14 +8415,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3073,
+      "Progressed": 3074,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:09:55.2749825+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:09:53.6007219+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:18.9258605+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:59:35.4848294+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:09:55.2750412+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:59:46.7151394+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:09:53.6007712+00:00"
 }

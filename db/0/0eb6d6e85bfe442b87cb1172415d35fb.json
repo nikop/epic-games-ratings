@@ -3,8 +3,8 @@
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 523,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -359,9 +359,9 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FiveThousand",
@@ -383,9 +383,9 @@
       "ID": "InterimCEO",
       "SetID": "d11cl5p",
       "Name": "Interim CEO",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "InternationalHub",
@@ -431,9 +431,9 @@
       "ID": "NouveauRiche",
       "SetID": "d11cl5p",
       "Name": "Nouveau riche",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NoviceCEO",
@@ -447,9 +447,9 @@
       "ID": "OrACEO",
       "SetID": "d11cl5p",
       "Name": "Or\u2026 a CEO!",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Over9000",
@@ -598,8 +598,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:05:42.5547103+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:05:52.6568641+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:00:08.3177934+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:05:42.5547608+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:00:18.0163406+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:05:52.6568848+00:00"
 }

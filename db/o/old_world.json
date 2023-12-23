@@ -6,8 +6,8 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2186,7 +2186,7 @@
   ],
   "EOS_Progressed": 15892,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19285,9 +19285,9 @@
       "ID": "ACHIEVEMENT_GREECE3_THRACIANS",
       "SetID": "9201eeb",
       "Name": "What\u0027s \u0027hubris\u0027 in Greek?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_THREE_WIVES",
@@ -21051,8 +21051,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:10:04.664918+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:10:03.2019937+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:03:01.0470669+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:10:04.665851+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:03:07.5462428+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:10:03.2029925+00:00"
 }

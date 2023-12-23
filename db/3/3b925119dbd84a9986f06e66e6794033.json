@@ -3,8 +3,8 @@
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1469,6 +1469,11 @@
       "Time": "2023-12-23T05:09:51.4786211+00:00",
       "NumProgressed": 427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T07:09:47.5825717+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1577,7 +1582,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "TIME_ORWELL",
@@ -1601,7 +1606,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1640,14 +1645,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:09:49.0328959+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:09:47.5825714+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:57:28.8728892+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:09:49.0329088+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:57:37.7590356+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:09:47.5825898+00:00"
 }

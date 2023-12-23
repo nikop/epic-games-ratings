@@ -16,7 +16,7 @@ Number of Ratings: 32  (23.09.2022)
 | Test Your Luck | 34.00% | ~84 |
 | Behind the Curtain | 33.00% | ~81 |
 | Master of Surprise | 30.00% | ~74 |
-| Be Who You Wanna Be | 26.00% | ~64 |
+| Be Who You Wanna Be | 27.00% | ~66 |
 | Counter Champion | 25.00% | ~62 |
 | Friendly Neighborhood | 24.00% | ~59 |
 | Investment Ban-χ-ing | 24.00% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 32  (23.09.2022)
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 246 (Ranked 394)  
-Completed: 2 (0.81%) (Ranked 186)  
+Completed: 2 (0.81%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

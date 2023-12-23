@@ -3,8 +3,8 @@
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 425,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2023-12-22T18:07:44.3090562+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T07:06:16.1765303+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -871,7 +876,7 @@
       "Name": "It was not in the book",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "4",
@@ -926,14 +931,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:06:06.102118+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:06:16.1765301+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:03:08.5880697+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:06:06.102136+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:03:15.1026495+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:06:16.1765487+00:00"
 }

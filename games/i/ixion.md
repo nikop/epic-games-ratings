@@ -6,53 +6,53 @@ Rating: 4.58 (Ranked 457)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 30.00% | ~1,095 |
-| Sputnik 2049 | 27.00% | ~985 |
+| Sputnik 2049 | 27.00% | ~986 |
 | Infinite Growth... | 26.00% | ~949 |
-| Without Breaking Some Eggs... | 25.00% | ~912 |
+| Without Breaking Some Eggs... | 25.00% | ~913 |
 | A Thousand Strong | 18.00% | ~657 |
 | Ready for a New World | 18.00% | ~657 |
-| Space Society | 17.00% | ~620 |
+| Space Society | 17.00% | ~621 |
 | Permanent Redesigns | 16.00% | ~584 |
 | Fully Recycled | 14.00% | ~511 |
 | Ain't Nobody Got Time for That | 14.00% | ~511 |
 | The Ship of Theseus | 14.00% | ~511 |
-| Guy de Borderlands | 13.00% | ~474 |
+| Guy de Borderlands | 13.00% | ~475 |
 | Exceeding Capacity | 12.00% | ~438 |
 | Breaking Protocol | 12.00% | ~438 |
 | Hope Seeker | 12.00% | ~438 |
-| A Hunk of Junk | 11.00% | ~401 |
-| Man's Best Friend | 9.00% | ~328 |
+| A Hunk of Junk | 11.00% | ~402 |
+| Man's Best Friend | 9.00% | ~329 |
 | Power Outage | 8.00% | ~292 |
 | Convenient Transport | 8.00% | ~292 |
 | Please Make it Stop! | 8.00% | ~292 |
-| Sightseeing | 7.00% | ~255 |
-| Necessary Enhancement | 7.00% | ~255 |
-| From the Past | 7.00% | ~255 |
+| Sightseeing | 7.00% | ~256 |
+| Necessary Enhancement | 7.00% | ~256 |
+| From the Past | 7.00% | ~256 |
 | Access Granted | 6.00% | ~219 |
 | All in Good Health | 6.00% | ~219 |
-| Oats | 5.00% | ~182 |
-| What They Hide From Us | 5.00% | ~182 |
-| ...  in a finite world | 5.00% | ~182 |
-| BRAWL! | 5.00% | ~182 |
-| Drill-dozer | 5.00% | ~182 |
-| What the Ruins Teach Us | 5.00% | ~182 |
+| Oats | 5.00% | ~183 |
+| What They Hide From Us | 5.00% | ~183 |
+| ...  in a finite world | 5.00% | ~183 |
+| BRAWL! | 5.00% | ~183 |
+| Drill-dozer | 5.00% | ~183 |
+| What the Ruins Teach Us | 5.00% | ~183 |
 | Sustainable Energy | 4.00% | ~146 |
 | In Dolos We Trust | 4.00% | ~146 |
 | Pedal to the Metal | 4.00% | ~146 |
-| Praise the Hull! | 3.00% | ~109 |
-| Delivery! | 3.00% | ~109 |
-| Help of the Forgotten Member | 3.00% | ~109 |
-| Pulsar Disciple | 3.00% | ~109 |
+| Praise the Hull! | 3.00% | ~110 |
+| Delivery! | 3.00% | ~110 |
+| Help of the Forgotten Member | 3.00% | ~110 |
+| Pulsar Disciple | 3.00% | ~110 |
 | Mutual Loyalty | 2.00% | ~73 |
 | Tiqqun Contender | 2.00% | ~73 |
 | Catastrophe Avoided | 2.00% | ~73 |
 | You Had One Job... | 2.00% | ~73 |
 | Space Greenhouse | 2.00% | ~73 |
 | Tiqqun Unchained | 2.00% | ~73 |
-| Better Him Than Me | 1.00% | ~36 |
-| Remember the Dead | 1.00% | ~36 |
-| Gregor Spinoza | 1.00% | ~36 |
-| Scientifically Accurate | 1.00% | ~36 |
+| Better Him Than Me | 1.00% | ~37 |
+| Remember the Dead | 1.00% | ~37 |
+| Gregor Spinoza | 1.00% | ~37 |
+| Scientifically Accurate | 1.00% | ~37 |
 | Work Harder | 0.60% | ~22 |
 | Crunch Culture | 0.40% | ~15 |
 | Soylent Green | 0.40% | ~15 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,649 (Ranked 212)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 3,651 (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 3,605 | 0 |
 | 2023-12-21 | 3,624 | 0 |
 | 2023-12-22 | 3,645 | 0 |
-| 2023-12-23 | 3,649 | 0 |
+| 2023-12-23 | 3,651 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

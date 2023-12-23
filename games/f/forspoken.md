@@ -5,7 +5,7 @@ Rating: 4.11 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,932 |
+| Attachments | 11.00% | ~4,933 |
 | Unlocked Potential | 10.00% | ~4,484 |
 | Tinkerer | 8.00% | ~3,587 |
 | Knock 'Em Dead | 7.00% | ~3,139 |
@@ -16,8 +16,8 @@ Rating: 4.11 (Ranked 986)
 | No Mercy | 5.00% | ~2,242 |
 | Explorer: Seeker | 5.00% | ~2,242 |
 | Help Me Out Here | 5.00% | ~2,242 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,793 |
-| Stuck | 4.00% | ~1,793 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,794 |
+| Stuck | 4.00% | ~1,794 |
 | Outdoorsperson | 3.00% | ~1,345 |
 | The Interloper | 3.00% | ~1,345 |
 | Hop, Step, Jump | 3.00% | ~1,345 |
@@ -59,8 +59,8 @@ Rating: 4.11 (Ranked 986)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,837 (Ranked 121)  
-Completed: 3 (0.01%) (Ranked 361)  
+Progressed: 44,841 (Ranked 121)  
+Completed: 3 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 3 (0.01%) (Ranked 361)
 | 2023-12-20 | 44,556 | 3 |
 | 2023-12-21 | 44,679 | 3 |
 | 2023-12-22 | 44,804 | 3 |
-| 2023-12-23 | 44,837 | 3 |
+| 2023-12-23 | 44,841 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 501)  
 Sum: 33 (Ranked 523)  

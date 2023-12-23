@@ -3,7 +3,7 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1570,
+  "EOS_Progressed": 1571,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
@@ -3772,6 +3772,11 @@
       "Time": "2023-12-23T06:04:36.4702915+00:00",
       "NumProgressed": 1570,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T07:04:44.9736802+00:00",
+      "NumProgressed": 1571,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3830,9 +3835,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -3862,9 +3867,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3918,9 +3923,9 @@
       "ID": "ML_ACHIEVEMENT_18",
       "SetID": "5k00jcd",
       "Name": "International license",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -4151,20 +4156,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1570,
+      "Progressed": 1571,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 1002
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:04:36.4702913+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:04:44.9736801+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:57:50.3271334+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:04:36.4703423+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:57:58.9013391+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:04:44.9737144+00:00"
 }

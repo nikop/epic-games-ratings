@@ -3,7 +3,7 @@
   "Name": "OMNO",
   "ProductSlug": "omno",
   "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.9749552+00:00",
   "LastChanged": "2023-03-31T05:58:13.9749553+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:58.3280328+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:03:16.6473874+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:05:33.0108358+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:03:22.8300183+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:05:43.006224+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,996 |
-| The Outer Way | 15.00% | ~2,809 |
+| Flesh Wound | 16.00% | ~2,997 |
+| The Outer Way | 15.00% | ~2,810 |
 | Get a Grip | 14.00% | ~2,622 |
 | Paper Jams | 14.00% | ~2,622 |
 | Desperate Times | 14.00% | ~2,622 |
-| Chew 'Em Up | 12.00% | ~2,247 |
+| Chew 'Em Up | 12.00% | ~2,248 |
 | Float Like A Butterfly | 11.00% | ~2,060 |
 | Reforged | 11.00% | ~2,060 |
-| Workplace Hazard | 9.00% | ~1,685 |
-| If the SHU Fits... | 9.00% | ~1,685 |
+| Workplace Hazard | 9.00% | ~1,686 |
+| If the SHU Fits... | 9.00% | ~1,686 |
 | Without A Paddle | 8.00% | ~1,498 |
 | Two Heads Are Better Than One | 7.00% | ~1,311 |
 | In the Pipe, Five by Five | 7.00% | ~1,311 |
@@ -31,10 +31,10 @@ Rating: 4.20 (Ranked 936)
 | The Commonality | 4.00% | ~749 |
 | In Striking Distance | 3.00% | ~562 |
 | One Last Job | 2.00% | ~133 |
+| Armed to the Teeth | 1.00% | ~67 |
 | Mugshot | 1.00% | ~187 |
 | Big Spender | 1.00% | ~67 |
 | This Isn't About Escape | 1.00% | ~67 |
-| Armed to the Teeth | 0.90% | ~60 |
 | Grim Reaper | 0.80% | ~150 |
 | Instigator | 0.80% | ~53 |
 | Information Overload | 0.80% | ~53 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,725 (Ranked 151)  
-Completed: 82 (0.44%) (Ranked 223)  
+Progressed: 18,730 (Ranked 151)  
+Completed: 82 (0.44%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,10 +292,10 @@ Completed: 82 (0.44%) (Ranked 223)
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
-| 2023-12-23 | 18,725 | 82 |
+| 2023-12-23 | 18,730 | 82 |
 ## Awards
 Max (Amazing Characters): 95  (Ranked 382)  
-Sum: 553 (Ranked 324)  
+Sum: 554 (Ranked 324)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 93 |
 | This game has Quickly Understood Controls | 91 |
 | This game has Amazing Storytelling | 90 |
-| This game is Extremely Fun | 81 |
+| This game is Extremely Fun | 82 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 35 |
 ## Ratings History
@@ -488,4 +488,4 @@ Diff (max vs sum): 58
 | 2023-12-20 | 4.19 | 89 | 533 |
 | 2023-12-21 | 4.20 | 91 | 539 |
 | 2023-12-22 | 4.20 | 95 | 551 |
-| 2023-12-23 | 4.20 | 95 | 553 |
+| 2023-12-23 | 4.20 | 95 | 554 |

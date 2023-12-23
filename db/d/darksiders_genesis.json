@@ -6,8 +6,8 @@
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-12-23T05:09:49.7822971+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T07:09:45.8977893+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -860,7 +865,7 @@
       "ID": "HellsForge",
       "SetID": "329ak73",
       "Name": "Hell\u0027s Forge",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -908,9 +913,9 @@
       "ID": "MintII",
       "SetID": "329ak73",
       "Name": "Mint II",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MintIII",
@@ -948,9 +953,9 @@
       "ID": "SoulCache",
       "SetID": "329ak73",
       "Name": "Soul Cache",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TheDeadCourt",
@@ -1005,15 +1010,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:09:47.3135974+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:09:45.8977891+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:57:08.0656199+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:09:47.3136122+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:57:16.9383484+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:09:45.897808+00:00"
 }

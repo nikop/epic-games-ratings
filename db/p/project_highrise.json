@@ -3,7 +3,7 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -1679,9 +1679,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "ach_office_2",
@@ -1992,8 +1992,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:04:01.2650954+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:04:09.9828323+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:00:18.8944078+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:04:01.265189+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:00:28.556649+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:04:09.9829037+00:00"
 }

@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 353)
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,602 (Ranked 180)  
-Completed: 1 (0.01%) (Ranked 361)  
+Completed: 1 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

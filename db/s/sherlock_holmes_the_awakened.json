@@ -5,7 +5,7 @@
   "Ranking_Rating": 533,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 52,
@@ -145,11 +145,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.79,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -4490,6 +4490,11 @@
       "Time": "2023-12-23T04:04:54.7458319+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-23T07:04:15.7517291+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 28,
@@ -4501,7 +4506,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MQ01_2",
@@ -4509,7 +4514,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "MQ02_1",
@@ -4547,9 +4552,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 634
     },
     {
       "ID": "MQ03_2",
@@ -4565,7 +4570,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "MQ03_4",
@@ -4581,7 +4586,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "MQ04_1",
@@ -4597,7 +4602,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "MQ04_3",
@@ -4605,7 +4610,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "MQ05_1",
@@ -4677,7 +4682,7 @@
       "Name": "Read It And Weep",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MQ07_2",
@@ -4724,7 +4729,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 36
     }
   ],
@@ -4732,8 +4737,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:04:06.9846436+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:04:15.7517289+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-23T06:03:11.066527+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:04:06.9846702+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:03:17.5761451+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:04:15.7517644+00:00"
 }

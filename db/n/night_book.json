@@ -575,25 +575,25 @@
       "ID": "a_little_extra",
       "SetID": "a3kkelb",
       "Name": "A Little Extra",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "hopeful",
@@ -631,9 +631,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "off_his_meds",
@@ -720,8 +720,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:04:41.4090873+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:04:49.6394167+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:57:18.1364093+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:04:41.4090983+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:57:27.0472116+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:04:49.6394295+00:00"
 }

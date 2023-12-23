@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 77.00% | ~167 |
-| Purification Pioneer | 73.00% | ~158 |
+| Meissa's Savior | 77.00% | ~168 |
+| Purification Pioneer | 73.00% | ~159 |
 | Mechanical Buddy | 68.00% | ~148 |
-| Dicesmithing Time! | 60.00% | ~130 |
-| Sanctuary Guardian | 54.00% | ~117 |
-| Endless Tricks | 49.00% | ~106 |
+| Dicesmithing Time! | 60.00% | ~131 |
+| Sanctuary Guardian | 54.00% | ~118 |
+| Endless Tricks | 49.00% | ~107 |
 | Wild's Keeper | 46.00% | ~100 |
-| Mind Illuminator | 42.00% | ~91 |
+| Mind Illuminator | 42.00% | ~92 |
 | Stellar Dismantler | 35.00% | ~76 |
 | Noctuan Champion | 35.00% | ~76 |
-| Anomaly Destroyer | 31.00% | ~67 |
+| Anomaly Destroyer | 31.00% | ~68 |
 | Astral Adventurer | 30.00% | ~65 |
 | Star Killer | 27.00% | ~59 |
 | Eridanian Champion | 25.00% | ~54 |
-| Loyal Partner | 23.00% | ~50 |
 | Lacertian Champion | 23.00% | ~50 |
+| Loyal Partner | 22.00% | ~48 |
 | Apian Champion | 21.00% | ~46 |
 | Shard Spender | 18.00% | ~39 |
 | Unbeatable | 18.00% | ~39 |
 | Behenian Champion | 17.00% | ~37 |
 | Sadistic Plan | 16.00% | ~35 |
-| Astral Seeker | 10.00% | ~22 |
+| Astral Seeker | 11.00% | ~24 |
+| Stellar Haste | 10.00% | ~22 |
 | Aquarian Champion | 10.00% | ~22 |
 | Heart Gate | 9.00% | ~20 |
 | Heavy Purger | 9.00% | ~20 |
-| Stellar Haste | 9.00% | ~20 |
 | Wave Bender | 9.00% | ~20 |
 | Favored by the Cosmos | 8.00% | ~17 |
 | The Corruption Goddess | 8.00% | ~17 |
@@ -103,8 +103,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 403)  
-Completed: 0 (0.00%) (Ranked 385)  
+Progressed: 218 (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,4 +161,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 201 | 0 |
 | 2023-12-21 | 206 | 0 |
 | 2023-12-22 | 214 | 0 |
-| 2023-12-23 | 217 | 0 |
+| 2023-12-23 | 218 | 0 |

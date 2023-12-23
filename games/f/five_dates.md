@@ -9,7 +9,7 @@
 | Hold my Beer | 63.00% | ~917 |
 | Nueva Beginnings | 29.00% | ~422 |
 | Only Thyme Will Tell | 27.00% | ~393 |
-| We Go Again | 26.00% | ~378 |
+| We Go Again | 27.00% | ~393 |
 | Booty Call | 23.00% | ~335 |
 | Not Alone | 23.00% | ~335 |
 | In Contempt of Duvet | 22.00% | ~320 |
@@ -21,7 +21,7 @@
 | Crash and Burn | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,455 (Ranked 255)  
-Completed: 11 (0.76%) (Ranked 190)  
+Completed: 11 (0.76%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

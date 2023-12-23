@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.10% | ~16 |
 | The Olive Wreath | 0.10% | ~16 |
 | Those Were Mine | 0.10% | ~16 |
+| What's 'hubris' in Greek? | 0.10% | ~16 |
 | Three's a Crowd | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
@@ -278,7 +279,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | I am the Archon Now | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
-| What's 'hubris' in Greek? | 0.00% | ~0 |
 | Unfinished Business | 0.00% | ~0 |
 | Philip's Bronze Crown | 0.00% | ~0 |
 | Philip's Golden Crown | 0.00% | ~0 |
@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,892 (Ranked 161)  
-Completed: 5 (0.03%) (Ranked 345)  
+Completed: 5 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

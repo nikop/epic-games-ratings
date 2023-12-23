@@ -3,8 +3,8 @@
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 569,
-  "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
@@ -266,9 +266,9 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HIGHWAYSURVIVE",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-12-23T06:03:24.2995889+00:00",
+  "LastChanged_Achievements": "2023-12-23T07:03:32.7279714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:40.9072014+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:59:58.5422833+00:00",
-  "LastUpdate_Achievements": "2023-12-23T06:03:24.2996205+00:00"
+  "LastUpdate_Ratings": "2023-12-23T07:00:09.0965215+00:00",
+  "LastUpdate_Achievements": "2023-12-23T07:03:32.7279938+00:00"
 }
