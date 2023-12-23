@@ -724,6 +724,7 @@
 | [JYDGE](../games/j/jydge.md) | 15 | 1,000 |
 | [Kaichu - The Kaiju Dating Sim](../games/k/kaichu_-_the_kaiju_dating_sim.md) | 15 | 1,000 |
 | [NEW Joe and Mac Caveman Ninja](../games/n/new_joe_and_mac_caveman_ninja.md) | 15 | 1,000 |
+| [Quick Race](../games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 15 | 1,000 |
 | [Road 96: Mile 0](../games/r/road_96__mile_0.md) | 15 | 1,000 |
 | [Shame Legacy](../games/s/shame_legacy.md) | 15 | 1,000 |
 | [Super Adventure Hand](../games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15 | 1,000 |
