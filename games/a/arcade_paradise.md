@@ -1,17 +1,17 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.58 (Ranked 457)  
+Rating: 4.58 (Ranked 456)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~692 |
-| Fetch Quest Complete | 90.00% | ~649 |
-| I can't wait! | 83.00% | ~598 |
+| Pushing a pull door | 96.00% | ~693 |
+| Fetch Quest Complete | 90.00% | ~650 |
+| I can't wait! | 83.00% | ~599 |
 | Swish | 56.00% | ~404 |
-| Clean up on Aisle 9 | 40.00% | ~288 |
+| Clean up on Aisle 9 | 40.00% | ~289 |
 | Machine Maxed | 29.00% | ~209 |
-| Existential dread | 26.00% | ~187 |
+| Existential dread | 26.00% | ~188 |
 | Bug Fixer | 25.00% | ~180 |
 | Gerald of Riviera | 25.00% | ~180 |
 | Goal | 22.00% | ~159 |
@@ -19,7 +19,7 @@ Rating: 4.58 (Ranked 457)
 | Taking the plunge | 13.00% | ~94 |
 | Hidden Packages | 11.00% | ~79 |
 | GOOOAAAL | 9.00% | ~65 |
-| Ahoy Hoy | 7.00% | ~50 |
+| Ahoy Hoy | 7.00% | ~51 |
 | Rhythm is a dancer | 6.00% | ~43 |
 | New Kid on the Block | 6.00% | ~43 |
 | Jimmy Goldman Would be Proud | 6.00% | ~43 |
@@ -60,8 +60,8 @@ Rating: 4.58 (Ranked 457)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721 (Ranked 300)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 722 (Ranked 300)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,6 +146,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-19 | 718 | 0 |
 | 2023-12-20 | 720 | 0 |
 | 2023-12-22 | 721 | 0 |
+| 2023-12-23 | 722 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

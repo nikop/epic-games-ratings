@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 131,
   "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 815,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -1326,12 +1326,18 @@
       "Rating": 4.76,
       "NumberOfAwards": 345,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-12-23T14:01:32.3049971+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 346,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345,
+  "NumberOfAwards": 346,
   "NumberOfAwardsMax": 41,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -1373,7 +1379,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1405,8 +1411,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-12-22T06:59:17.414635+00:00",
+  "LastChanged": "2023-12-23T14:01:32.3049969+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.357702+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:02:24.2507923+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:10:40.1271952+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:01:32.3049975+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:08:23.5103868+00:00"
 }

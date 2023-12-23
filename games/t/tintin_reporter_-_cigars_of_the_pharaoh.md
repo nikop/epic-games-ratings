@@ -14,10 +14,10 @@
 | Cat Lover | 8.00% | ~8 |
 | It's a Deal! | 8.00% | ~8 |
 | Dynamite, Treason and Coconuts | 7.00% | ~7 |
+| In the Name of the Law | 6.00% | ~6 |
+| Au Revoir, Abudin | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
 | Save a Friend | 6.00% | ~6 |
-| In the Name of the Law | 5.00% | ~5 |
-| Au Revoir, Abudin | 5.00% | ~5 |
 | Mysterious Bungalow | 5.00% | ~5 |
 | The Eyes! | 4.00% | ~4 |
 | Keep the Doctor Away | 4.00% | ~4 |
@@ -43,7 +43,7 @@
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 101 (Ranked 474)  
-Completed: 0 (0.00%) (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

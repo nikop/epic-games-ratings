@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 373)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 8.00% | ~483 |
+| Secret Technique | 8.00% | ~484 |
 | Realm Estate | 7.00% | ~423 |
 | A Wonderful Discovery | 7.00% | ~423 |
 | Walls Cannot Stop Us | 7.00% | ~423 |
@@ -20,17 +20,18 @@ Rating: 4.62 (Ranked 373)
 | Valley of Wonders | 3.00% | ~181 |
 | In a Liege of Your Own | 3.00% | ~181 |
 | Intimidation Tactics | 3.00% | ~181 |
+| Freed Lands of Manuhari | 3.00% | ~181 |
 | Return of the Wizard King | 2.00% | ~121 |
 | Enchanted Archipelago | 2.00% | ~121 |
 | Digging for Treasure | 2.00% | ~121 |
 | Preparation Is Everything | 2.00% | ~121 |
 | My Final Form | 2.00% | ~121 |
 | Fiery Friend | 2.00% | ~121 |
+| Against the Odds | 2.00% | ~121 |
 | Impenetrable Fortress | 2.00% | ~121 |
 | Here be Dragons | 2.00% | ~121 |
 | Tipping the Scales | 2.00% | ~121 |
 | Mighty Hoard | 2.00% | ~121 |
-| Freed Lands of Manuhari | 2.00% | ~121 |
 | Sehiran Oasis | 2.00% | ~121 |
 | Chaos Surge | 2.00% | ~121 |
 | Spoils of War | 2.00% | ~121 |
@@ -38,7 +39,6 @@ Rating: 4.62 (Ranked 373)
 | The Creator | 1.00% | ~60 |
 | Eternal Lord | 1.00% | ~60 |
 | Crimson Caldera | 1.00% | ~60 |
-| Against the Odds | 1.00% | ~60 |
 | The Eternal Court | 1.00% | ~60 |
 | Blood of the Dragon | 1.00% | ~60 |
 | Prometheus Avenged | 1.00% | ~60 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,043 (Ranked 193)  
+Progressed: 6,044 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 7 (0.12%) (Ranked 296)
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
-| 2023-12-23 | 6,043 | 7 |
+| 2023-12-23 | 6,044 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 483)  
 Sum: 113 (Ranked 449)  

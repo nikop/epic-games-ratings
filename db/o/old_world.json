@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15895,
+  "EOS_Progressed": 15899,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18174,6 +18174,11 @@
       "Time": "2023-12-23T13:12:10.2013256+00:00",
       "NumProgressed": 15895,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T14:10:22.8568273+00:00",
+      "NumProgressed": 15899,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18519,9 +18524,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -19599,9 +19604,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -19959,9 +19964,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -21048,21 +21053,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15895,
+      "Progressed": 15899,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15895,
+      "Progressed": 15899,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:12:10.2013254+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:10:22.8568271+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:05:06.3277681+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:12:10.2022536+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:03:10.0960909+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:10:22.8577554+00:00"
 }

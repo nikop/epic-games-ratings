@@ -3,9 +3,9 @@
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1306,9 +1306,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1393,8 +1393,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:06:39.3093384+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:05:16.7209108+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.9564061+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:01:37.4067038+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:06:39.3093655+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:00:26.6702937+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:05:16.720938+00:00"
 }

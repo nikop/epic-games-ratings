@@ -2,13 +2,13 @@
   "ID": "6f43ab8025ad42d18510aa91e9eb688b",
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
-  "Ranking_Rating": 42,
+  "Ranking_Rating": 41,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 815,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-12-16T14:30:00+00:00",
     "PcReleaseDate": "2021-12-16T14:30:00+00:00",
@@ -5021,10 +5021,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12695,
       "NumberOfAwardsMax": 5775
+    },
+    {
+      "Time": "2023-12-23T13:57:25.8652354+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12697,
+      "NumberOfAwardsMax": 5775
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12695,
+  "NumberOfAwards": 12697,
   "NumberOfAwardsMax": 5775,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5062,7 +5068,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 311
+      "Count": 313
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5118,8 +5124,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2023-12-23T01:42:15.385056+00:00",
+  "LastChanged": "2023-12-23T13:57:25.8652352+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.4857222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:59:29.16621+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:11:41.1933352+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:57:25.8652357+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:09:44.227625+00:00"
 }

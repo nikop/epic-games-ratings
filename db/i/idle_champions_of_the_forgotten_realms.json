@@ -8939,10 +8939,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33029,
       "NumberOfAwardsMax": 5676
+    },
+    {
+      "Time": "2023-12-23T14:02:57.0307544+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33032,
+      "NumberOfAwardsMax": 5676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33029,
+  "NumberOfAwards": 33032,
   "NumberOfAwardsMax": 5676,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8974,7 +8980,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4262
+      "Count": 4265
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8989,10 +8995,10 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 243676,
+  "EOS_Progressed": 243702,
   "EOS_Completed": 2556,
-  "EOS_NewPlayers": 2665,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 2677,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36889,6 +36895,11 @@
       "Time": "2023-12-23T13:12:20.2795062+00:00",
       "NumProgressed": 243676,
       "NumCompleted": 2556
+    },
+    {
+      "Time": "2023-12-23T14:10:35.1675033+00:00",
+      "NumProgressed": 243702,
+      "NumCompleted": 2556
     }
   ],
   "TotalAchievements": 546,
@@ -38572,15 +38583,15 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 731
     },
     {
       "ID": "objective_completed_35",
@@ -41267,21 +41278,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209950,
+      "Progressed": 209976,
       "Completed": 4059
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243676,
+      "Progressed": 243702,
       "Completed": 2556
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-23T13:04:56.9574763+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:12:20.2795058+00:00",
+  "LastChanged": "2023-12-23T14:02:57.0307543+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:10:35.167503+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:04:56.9574768+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:12:20.2817648+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:02:57.0307549+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:10:35.1697371+00:00"
 }

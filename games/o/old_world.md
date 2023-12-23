@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Able | 0.20% | ~32 |
+| Ambitious | 0.20% | ~32 |
 | Architect | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
 | Enlightened | 0.20% | ~32 |
@@ -31,8 +32,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
+| Lighthouse | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
+| Christianity | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
 | Naming Landmarks | 0.20% | ~32 |
@@ -69,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.10% | ~16 |
 | Carthage Campaign | 0.10% | ~16 |
 | Cleopatra's Love | 0.10% | ~16 |
-| Ambitious | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
 | Avenger | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
@@ -140,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Ishtar Gate | 0.10% | ~16 |
-| Lighthouse | 0.10% | ~16 |
 | Mausoleum | 0.10% | ~16 |
 | Musaeum | 0.10% | ~16 |
 | Necropolis | 0.10% | ~16 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
-| Christianity | 0.10% | ~16 |
 | Manichaeism | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
 | Babylonian Paganism | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,895 (Ranked 161)  
+Progressed: 15,899 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 346)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,895 | 5 |
+| 2023-12-23 | 15,899 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

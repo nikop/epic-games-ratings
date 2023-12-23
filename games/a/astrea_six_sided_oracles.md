@@ -9,7 +9,7 @@
 | Mechanical Buddy | 68.00% | ~150 |
 | Dicesmithing Time! | 60.00% | ~132 |
 | Sanctuary Guardian | 54.00% | ~119 |
-| Endless Tricks | 48.00% | ~106 |
+| Endless Tricks | 49.00% | ~108 |
 | Wild's Keeper | 46.00% | ~101 |
 | Mind Illuminator | 42.00% | ~92 |
 | Stellar Dismantler | 35.00% | ~77 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220 (Ranked 403)  
-Completed: 0 (0.00%) (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

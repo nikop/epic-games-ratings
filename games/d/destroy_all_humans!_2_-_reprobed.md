@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 552)  
+Rating: 4.53 (Ranked 551)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 36.00% | ~59 |
 | Bodied Sattva | 31.00% | ~51 |
 | Earthly Pleasures | 30.00% | ~49 |
-| Cult Following | 26.00% | ~42 |
+| Cult Following | 28.00% | ~46 |
 | Lie Back and Think of Albion | 21.00% | ~34 |
 | Upgreatest | 21.00% | ~34 |
 | Pimp My Raid | 21.00% | ~34 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 163 (Ranked 423)  
-Completed: 0 (0.00%) (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,8 +81,8 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-23 | 163 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 485)  
-Sum: 36 (Ranked 515)  
-Diff (max vs sum): -30  
+Sum: 36 (Ranked 516)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -251,7 +251,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44450,
+  "EOS_Progressed": 44451,
   "EOS_Completed": 247,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 2,
@@ -19436,6 +19436,11 @@
       "Time": "2023-12-23T13:05:51.0116191+00:00",
       "NumProgressed": 44450,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-23T14:04:13.1856501+00:00",
+      "NumProgressed": 44451,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19447,7 +19452,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25336
+      "UsersEstimate": 25337
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19503,7 +19508,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -19527,7 +19532,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -19567,7 +19572,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35560
+      "UsersEstimate": 35561
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19591,7 +19596,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19615,7 +19620,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19639,7 +19644,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16446
+      "UsersEstimate": 16447
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -19711,7 +19716,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26670
+      "UsersEstimate": 26671
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19727,7 +19732,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -19751,7 +19756,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20002
+      "UsersEstimate": 20003
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19759,7 +19764,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -19783,7 +19788,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41338
+      "UsersEstimate": 41339
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19791,14 +19796,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23114
+      "UsersEstimate": 23115
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44450,
+      "Progressed": 44451,
       "Completed": 247
     }
   ],
@@ -19806,8 +19811,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:05:51.0116185+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:04:13.1856495+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.9639492+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:05:16.4724037+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:05:51.0117261+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:03:24.5425001+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:04:13.1857475+00:00"
 }

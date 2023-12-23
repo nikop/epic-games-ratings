@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 98.00% | ~84 |
-| Learn the Ropes | 73.00% | ~63 |
-| Practice Makes Postmasters | 49.00% | ~42 |
-| Fun in the Bungalow Basin Sun | 42.00% | ~36 |
-| Working for the Kiweekend | 42.00% | ~36 |
+| You're Hired | 98.00% | ~85 |
+| Learn the Ropes | 72.00% | ~63 |
+| Practice Makes Postmasters | 48.00% | ~42 |
+| Fun in the Bungalow Basin Sun | 41.00% | ~36 |
+| Working for the Kiweekend | 41.00% | ~36 |
 | A Startling Discovery | 38.00% | ~33 |
-| Pumpkins and Postage Stamps | 26.00% | ~22 |
-| Kiwinter Kiwonderland | 12.00% | ~10 |
+| Pumpkins and Postage Stamps | 25.00% | ~22 |
+| Kiwinter Kiwonderland | 11.00% | ~10 |
 | Secrets of the Telepost | 6.00% | ~5 |
 | Summer Postmasters | 3.00% | ~3 |
 | Autumn Postmasters | 2.00% | ~2 |
@@ -25,8 +25,8 @@
 | Working Overtime | 0.00% | ~0 |
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 491)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 87 (Ranked 490)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-17 | 78 | 0 |
 | 2023-12-19 | 81 | 0 |
 | 2023-12-20 | 83 | 0 |
-| 2023-12-23 | 86 | 0 |
+| 2023-12-23 | 87 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

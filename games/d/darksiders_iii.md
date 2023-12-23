@@ -7,15 +7,15 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~82 |
-| Helping Hand | 69.00% | ~72 |
-| First of many… | 69.00% | ~72 |
+| Helping Hand | 70.00% | ~74 |
+| First of many… | 70.00% | ~74 |
 | Increased Vigor | 62.00% | ~65 |
 | Fight Fire with Fire | 58.00% | ~61 |
 | Increased Capacity | 55.00% | ~58 |
-| Just the start | 53.00% | ~56 |
+| Just the start | 54.00% | ~57 |
 | Perfect Storm | 47.00% | ~49 |
 | All That Glitters | 47.00% | ~49 |
-| Enhance! | 43.00% | ~45 |
+| Enhance! | 44.00% | ~46 |
 | One Of the Chosen | 42.00% | ~44 |
 | 25 to Life | 39.00% | ~41 |
 | Throne Potato | 38.00% | ~40 |
@@ -23,21 +23,21 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 35.00% | ~37 |
 | Five's a Crowd | 35.00% | ~37 |
 | Unshakable Fortitude | 34.00% | ~36 |
+| Delusions of Grandeur | 33.00% | ~35 |
+| I Wanna Rock | 32.00% | ~34 |
 | Soul Harvester | 32.00% | ~34 |
-| Delusions of Grandeur | 31.00% | ~33 |
 | Maximum Vigor | 30.00% | ~32 |
-| I Wanna Rock | 30.00% | ~32 |
-| Love Tap | 29.00% | ~30 |
-| For Whom the Bell Tolls | 29.00% | ~30 |
+| Love Tap | 30.00% | ~32 |
+| For Whom the Bell Tolls | 30.00% | ~32 |
 | Freeze Frame | 27.00% | ~28 |
 | Can you restore the Balance? | 26.00% | ~27 |
 | Eat Your Heart Out | 26.00% | ~27 |
 | Crowd Source | 26.00% | ~27 |
-| Cleanup Crew | 24.00% | ~25 |
-| Unyielding Strength | 22.00% | ~23 |
-| Maximum Capacity | 21.00% | ~22 |
+| Cleanup Crew | 25.00% | ~26 |
+| Unyielding Strength | 24.00% | ~25 |
+| Maximum Capacity | 22.00% | ~23 |
 | Big Spender | 21.00% | ~22 |
-| Demon Meddler | 17.00% | ~18 |
+| Demon Meddler | 18.00% | ~19 |
 | Egomaniac | 17.00% | ~18 |
 | Seeing Red | 17.00% | ~18 |
 | Protector of Humanity | 13.00% | ~14 |

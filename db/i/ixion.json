@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3659,
+  "EOS_Progressed": 3660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6948,6 +6948,11 @@
       "Time": "2023-12-23T13:07:14.5688797+00:00",
       "NumProgressed": 3659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T14:06:03.6316227+00:00",
+      "NumProgressed": 3660,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7023,7 +7028,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACH_BASE_19",
@@ -7095,7 +7100,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_BASE_28",
@@ -7255,7 +7260,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_BASE_49",
@@ -7414,13 +7419,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1843,
+      "Progressed": 1844,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3659,
+      "Progressed": 3660,
       "Completed": 0
     }
   ],
@@ -7428,8 +7433,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:07:14.5688794+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:06:03.6316224+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:00:17.6689012+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:07:14.5689464+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:58:34.7039873+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:06:03.6316995+00:00"
 }

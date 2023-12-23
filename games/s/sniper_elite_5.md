@@ -6,12 +6,12 @@ Rating: 4.45 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,923 |
-| Confirming Suspicions | 41.00% | ~1,677 |
+| Confirming Suspicions | 41.00% | ~1,678 |
 | The Kraken Wakes | 37.00% | ~1,514 |
 | It's Starting to Crack | 34.00% | ~1,391 |
-| Change the Channel | 31.00% | ~1,268 |
-| Lord of War | 30.00% | ~1,227 |
-| Taking it back | 29.00% | ~1,186 |
+| Change the Channel | 31.00% | ~1,269 |
+| Lord of War | 30.00% | ~1,228 |
+| Taking it back | 29.00% | ~1,187 |
 | Resourceful | 27.00% | ~1,105 |
 | Target America | 27.00% | ~1,105 |
 | The Kraken Sleeps | 25.00% | ~1,023 |
@@ -21,9 +21,9 @@ Rating: 4.45 (Ranked 673)
 | Sharpshooter | 23.00% | ~941 |
 | Gunslinger | 19.00% | ~777 |
 | Explosive Efficiency | 19.00% | ~777 |
-| Climbing the Ladder | 17.00% | ~695 |
-| Just a Flesh Wound | 17.00% | ~695 |
-| Der Geist | 17.00% | ~695 |
+| Climbing the Ladder | 17.00% | ~696 |
+| Just a Flesh Wound | 17.00% | ~696 |
+| Der Geist | 17.00% | ~696 |
 | Close Quarters | 16.00% | ~655 |
 | Snake in the Grass | 16.00% | ~655 |
 | Skirmisher | 15.00% | ~614 |
@@ -38,7 +38,7 @@ Rating: 4.45 (Ranked 673)
 | My Little Friend | 10.00% | ~409 |
 | Rigged to Blow | 9.00% | ~368 |
 | Herr Today, Gone Tomorrow | 7.00% | ~283 |
-| The Long Game | 6.00% | ~245 |
+| The Long Game | 6.00% | ~246 |
 | Operation Foxley | 6.00% | ~243 |
 | Strategist | 5.00% | ~205 |
 | Tinkerer | 5.00% | ~205 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,091 (Ranked 206)  
+Progressed: 4,092 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,11 +322,11 @@ Completed: 11 (0.27%) (Ranked 255)
 | 2023-12-20 | 4,066 | 11 |
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
-| 2023-12-23 | 4,091 | 11 |
+| 2023-12-23 | 4,092 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 523)  
-Sum: 28 (Ranked 537)  
-Diff (max vs sum): -14  
+Sum: 28 (Ranked 538)  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

@@ -5,7 +5,7 @@ Rating: 3.95 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 4.00% | ~3,695 |
+| First One’s Free | 4.00% | ~3,696 |
 | Neophyte Ninja | 3.00% | ~2,772 |
 | Downed but Not Outed | 3.00% | ~2,772 |
 | Too Old for This | 3.00% | ~2,772 |
@@ -20,7 +20,7 @@ Rating: 3.95 (Ranked 1,032)
 | Hidden Sonata | 1.00% | ~924 |
 | True Player | 1.00% | ~924 |
 | Rockay Rex | 1.00% | ~924 |
-| Track Star | 0.90% | ~831 |
+| Track Star | 0.90% | ~832 |
 | Headhunter | 0.80% | ~739 |
 | I Like Trains | 0.70% | ~647 |
 | Freebooter | 0.70% | ~647 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,032)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,384 (Ranked 97)  
+Progressed: 92,389 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 58 (0.06%) (Ranked 325)
 | 2023-12-20 | 92,233 | 58 |
 | 2023-12-21 | 92,286 | 58 |
 | 2023-12-22 | 92,351 | 58 |
-| 2023-12-23 | 92,384 | 58 |
+| 2023-12-23 | 92,389 | 58 |
 ## Awards
 Max (Diverse Characters): 574  (Ranked 208)  
 Sum: 2,707 (Ranked 191)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "BOSS_04",
       "SetID": "35d3i7a",
       "Name": "THIS IS NOT ME!",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BOSS_05",
@@ -352,17 +352,17 @@
       "ID": "MEM_VIII",
       "SetID": "35d3i7a",
       "Name": "Bad dog.",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEM_X",
       "SetID": "35d3i7a",
       "Name": "You are BEAUTIFUL, she said.",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MEM_XI",
@@ -400,9 +400,9 @@
       "ID": "MEM_XIX",
       "SetID": "35d3i7a",
       "Name": "Mass production.",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MEM_XV",
@@ -472,9 +472,9 @@
       "ID": "MEM_XXIV",
       "SetID": "35d3i7a",
       "Name": "No one has to love you.",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MEM_XXV",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:12:13.1853412+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:10:26.6053109+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:10.5217862+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:00:51.2894989+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:12:13.1853691+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:59:21.1466564+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:10:26.6053425+00:00"
 }

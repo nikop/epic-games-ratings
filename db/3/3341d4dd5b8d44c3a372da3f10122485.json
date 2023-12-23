@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 189,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 22,
-  "EOS_NewCompleters": 10,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 43.39,
   "EosHistory": [
     {
@@ -1284,17 +1284,17 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Intro",
       "SetID": "823jm6g",
       "Name": "Intro",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 75,
-      "UsersEstimate": 181
+      "UsersEstimate": 183
     },
     {
       "ID": "Kanalizace",
@@ -1340,17 +1340,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 75,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 80,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "Poklop",
@@ -1364,17 +1364,17 @@
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 80,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 75,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "Tuleni",
@@ -1395,8 +1395,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:11:08.0878071+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:09:00.7350217+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.6934755+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:59:17.9622377+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:11:08.0878229+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:57:10.0685521+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:09:00.7350604+00:00"
 }

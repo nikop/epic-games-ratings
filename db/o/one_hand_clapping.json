@@ -3,9 +3,9 @@
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-12-19T13:09:36.2567978+00:00",
       "NumProgressed": 840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T14:03:43.7152123+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -565,7 +570,7 @@
       "Name": "Silent City",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "10",
@@ -643,9 +648,9 @@
       "ID": "19",
       "SetID": "7l2nmpm",
       "Name": "Cadenza",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 17
     },
     {
       "ID": "2",
@@ -731,9 +736,9 @@
       "ID": "3",
       "SetID": "7l2nmpm",
       "Name": "Maestro Mountain",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 17
     },
     {
       "ID": "4",
@@ -788,7 +793,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 0
     }
   ],
@@ -796,8 +801,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-12-23T12:06:20.0351899+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:03:43.7152119+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:31.6237402+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:00:30.8753465+00:00",
-  "LastUpdate_Achievements": "2023-12-23T12:06:20.0352106+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:58:53.4383954+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:03:43.7152707+00:00"
 }

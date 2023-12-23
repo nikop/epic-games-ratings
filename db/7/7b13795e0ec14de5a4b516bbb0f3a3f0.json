@@ -3,9 +3,9 @@
   "Name": "Supernova Shards",
   "ProductSlug": "supernova-shards-402d95",
   "Ranking_EOS_Progress": 815,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T09:00:00+00:00",
     "PcReleaseDate": "2023-11-02T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-07T08:00:27.7916159+00:00",
   "LastUpdate_AppInfo": "2023-12-19T13:56:58.4712574+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:59:58.9037353+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:07:50.0859952+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:58:09.3735801+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:06:52.1349869+00:00"
 }

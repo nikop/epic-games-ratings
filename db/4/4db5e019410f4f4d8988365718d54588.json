@@ -3,9 +3,9 @@
   "Name": "EchoBlade",
   "ProductSlug": "echoblade-f90b32",
   "Ranking_EOS_Progress": 815,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2022-05-03T12:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-29T06:02:22.1797742+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:06:35.0603487+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:05:11.1520635+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:11.9376021+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:59:47.66814+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:06:35.060352+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:57:53.6617437+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:05:11.1520666+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 4.26 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,854 |
+| Rigged And Ready | 79.00% | ~1,855 |
 | Don't I Know You...? | 76.00% | ~1,784 |
 | Jailbreak | 65.00% | ~1,526 |
 | HEADSHOT! | 38.00% | ~892 |
 | Suited and Booted | 38.00% | ~892 |
-| Sleeping With The Fishes | 35.00% | ~821 |
+| Sleeping With The Fishes | 35.00% | ~822 |
 | Overheated | 30.00% | ~704 |
 | High Performance | 30.00% | ~704 |
 | Powered Up | 28.00% | ~657 |
 | Studied The Blade | 25.00% | ~587 |
 | Home Invasion | 23.00% | ~540 |
-| Luminary | 22.00% | ~516 |
-| It's a Trap | 22.00% | ~516 |
+| Luminary | 22.00% | ~517 |
+| It's a Trap | 22.00% | ~517 |
 | True Survivor | 21.00% | ~493 |
-| Offensive Defense | 20.00% | ~469 |
-| Shocking | 20.00% | ~469 |
+| Offensive Defense | 20.00% | ~470 |
+| Shocking | 20.00% | ~470 |
 | Court Martial | 19.00% | ~446 |
 | Clean Cut | 19.00% | ~446 |
 | Unforeseeable Consequences | 19.00% | ~446 |
-| Dead Again | 18.00% | ~422 |
+| Dead Again | 18.00% | ~423 |
 | Full Arsenal | 17.00% | ~399 |
 | Can't Trust Banks | 15.00% | ~352 |
 | Mommy Dearest | 13.00% | ~305 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 890)
 | Three Birds With One Stone | 1.00% | ~23 |
 | The Easy Way Out | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,347 (Ranked 229)  
+Progressed: 2,348 (Ranked 229)  
 Completed: 13 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 13 (0.55%) (Ranked 206)
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
 | 2023-12-22 | 2,340 | 13 |
-| 2023-12-23 | 2,347 | 13 |
+| 2023-12-23 | 2,348 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

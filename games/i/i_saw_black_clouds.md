@@ -7,10 +7,10 @@
 | Believer | 55.00% | ~207 |
 | End | 50.00% | ~188 |
 | Origin | 50.00% | ~188 |
-| Nonconsensual | 33.00% | ~124 |
+| Nonconsensual | 34.00% | ~128 |
 | Realist | 28.00% | ~105 |
 | Escape | 20.00% | ~75 |
-| Wrong | 18.00% | ~68 |
+| Wrong | 19.00% | ~71 |
 | Jack | 15.00% | ~56 |
 | Tough | 12.00% | ~45 |
 | Clear | 5.00% | ~19 |

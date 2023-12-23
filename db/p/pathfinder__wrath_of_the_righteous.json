@@ -6,9 +6,9 @@
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4679,9 +4679,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12641,
+  "EOS_Progressed": 12645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17759,6 +17759,11 @@
       "Time": "2023-12-23T13:12:17.0558343+00:00",
       "NumProgressed": 12641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T14:10:31.1832976+00:00",
+      "NumProgressed": 12645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17770,7 +17775,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "02_BurningCity",
@@ -17778,7 +17783,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17906,7 +17911,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "19_EqualToAroden",
@@ -17946,7 +17951,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "24_Legacy",
@@ -17978,7 +17983,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "29_StrategicVictory",
@@ -18082,7 +18087,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "42_JustPathetic",
@@ -18098,7 +18103,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "44_AshesToAshes",
@@ -18122,7 +18127,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18138,7 +18143,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "49_Flame",
@@ -18642,7 +18647,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -18697,21 +18702,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11423,
+      "Progressed": 11427,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12641,
+      "Progressed": 12645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T06:59:05.909919+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:12:17.0558341+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:10:31.1832971+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:01:21.1683439+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:12:17.055992+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:00:03.6431313+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:10:31.18346+00:00"
 }

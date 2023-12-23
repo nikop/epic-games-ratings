@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 79.00% | ~38 |
-| Grand Re-Opening | 69.00% | ~33 |
-| Pup Pup Boogie | 67.00% | ~32 |
-| Summer Day | 65.00% | ~31 |
-| Mr. Porter | 56.00% | ~27 |
-| Risky Rescue | 54.00% | ~26 |
-| Carlos Is Tangled | 52.00% | ~25 |
-| Clear the Road | 44.00% | ~21 |
-| Mandy Family | 44.00% | ~21 |
-| Paw patrol member | 42.00% | ~20 |
-| Robot Out of Control | 42.00% | ~20 |
-| In the Air | 38.00% | ~18 |
-| Never Miss | 38.00% | ~18 |
+| Mighty Powers | 80.00% | ~39 |
+| Grand Re-Opening | 69.00% | ~34 |
+| Pup Pup Boogie | 65.00% | ~32 |
+| Summer Day | 63.00% | ~31 |
+| Mr. Porter | 55.00% | ~27 |
+| Risky Rescue | 53.00% | ~26 |
+| Carlos Is Tangled | 51.00% | ~25 |
+| Clear the Road | 43.00% | ~21 |
+| Mandy Family | 43.00% | ~21 |
+| Paw patrol member | 41.00% | ~20 |
+| Robot Out of Control | 41.00% | ~20 |
+| In the Air | 37.00% | ~18 |
+| Never Miss | 37.00% | ~18 |
 | Break Time | 35.00% | ~17 |
 | Master of the Rope | 33.00% | ~16 |
 | Training Day | 33.00% | ~16 |
 | Animal Sighting | 29.00% | ~14 |
 | The Fastest | 27.00% | ~13 |
-| Don’t Miss Any | 25.00% | ~12 |
-| You Have Been Everywhere | 21.00% | ~10 |
-| Adventure Bay’s Citizen | 21.00% | ~10 |
-| Everything Under Control | 17.00% | ~8 |
-| Mountain and Ice | 17.00% | ~8 |
+| Don’t Miss Any | 24.00% | ~12 |
+| You Have Been Everywhere | 20.00% | ~10 |
+| Adventure Bay’s Citizen | 20.00% | ~10 |
+| Everything Under Control | 16.00% | ~8 |
+| Mountain and Ice | 16.00% | ~8 |
 | Nothing Can Stop You | 10.00% | ~5 |
 | A Great Explorer | 8.00% | ~4 |
 | King of the Mountain | 4.00% | ~2 |
@@ -35,8 +35,8 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 537)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 49 (Ranked 534)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-16 | 46 | 0 |
 | 2023-12-18 | 47 | 0 |
 | 2023-12-22 | 48 | 0 |
+| 2023-12-23 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

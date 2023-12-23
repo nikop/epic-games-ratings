@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -1494,6 +1494,11 @@
       "Time": "2023-12-23T13:12:13.7166494+00:00",
       "NumProgressed": 593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T14:10:27.151445+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1537,7 +1542,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "BugHunter",
@@ -1545,7 +1550,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Cryomancer",
@@ -1615,9 +1620,9 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 83
     },
     {
       "ID": "Inquisitor",
@@ -1625,7 +1630,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Librarian",
@@ -1665,7 +1670,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Necromancer",
@@ -1824,7 +1829,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 1
     }
   ],
@@ -1832,8 +1837,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:12:13.7166492+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:10:27.1514447+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:04:55.6785762+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:12:13.7166787+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:02:55.2448174+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:10:27.1514762+00:00"
 }

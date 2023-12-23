@@ -1,48 +1,48 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,637 |
-| Gun Fu | 8.00% | ~78,424 |
-| The Fool | 7.00% | ~68,621 |
-| Right Back At Ya | 6.00% | ~58,818 |
-| Full Body Conversion | 5.00% | ~49,015 |
-| The Lovers | 5.00% | ~49,015 |
-| Christmas Tree Attack | 4.00% | ~39,212 |
-| Stanislavski's Method | 4.00% | ~39,212 |
-| The Hermit | 4.00% | ~39,212 |
-| The Wheel of Fortune | 4.00% | ~39,212 |
-| True Soldier | 4.00% | ~39,212 |
-| All the President's Men | 4.00% | ~4,357 |
-| Arachnophobia | 4.00% | ~4,357 |
-| The Quick and the Dead | 3.00% | ~29,409 |
-| Life of the Road | 3.00% | ~29,409 |
-| The High Priestess | 3.00% | ~29,409 |
-| True Warrior | 3.00% | ~29,409 |
-| Legend of The Afterlife | 3.00% | ~29,409 |
-| Relic Ruler | 3.00% | ~3,268 |
-| Bushido and Chill | 2.00% | ~19,606 |
-| To Protect and Serve | 2.00% | ~19,606 |
-| Master Crafter | 2.00% | ~19,606 |
-| I Am The Law | 2.00% | ~19,606 |
-| The World | 2.00% | ~19,606 |
-| Two Heads, One Bullet | 2.00% | ~19,606 |
-| Judy vs Night City | 2.00% | ~19,606 |
+| V for Vendetta | 12.00% | ~117,640 |
+| Gun Fu | 8.00% | ~78,426 |
+| The Fool | 7.00% | ~68,623 |
+| Right Back At Ya | 6.00% | ~58,820 |
+| The Lovers | 6.00% | ~58,820 |
+| Full Body Conversion | 5.00% | ~49,016 |
+| Christmas Tree Attack | 4.00% | ~39,213 |
+| Stanislavski's Method | 4.00% | ~39,213 |
+| The Hermit | 4.00% | ~39,213 |
+| The Wheel of Fortune | 4.00% | ~39,213 |
+| True Soldier | 4.00% | ~39,213 |
+| All the President's Men | 4.00% | ~4,358 |
+| Arachnophobia | 4.00% | ~4,358 |
+| The Quick and the Dead | 3.00% | ~29,410 |
+| Life of the Road | 3.00% | ~29,410 |
+| The High Priestess | 3.00% | ~29,410 |
+| True Warrior | 3.00% | ~29,410 |
+| Legend of The Afterlife | 3.00% | ~29,410 |
+| Relic Ruler | 3.00% | ~3,269 |
+| Bushido and Chill | 2.00% | ~19,607 |
+| To Protect and Serve | 2.00% | ~19,607 |
+| Master Crafter | 2.00% | ~19,607 |
+| I Am The Law | 2.00% | ~19,607 |
+| The World | 2.00% | ~19,607 |
+| Two Heads, One Bullet | 2.00% | ~19,607 |
+| Judy vs Night City | 2.00% | ~19,607 |
 | Spin Doctor | 2.00% | ~2,179 |
 | The Wandering Fool | 1.00% | ~9,803 |
 | Ten out of Ten | 1.00% | ~9,803 |
 | The Sun | 1.00% | ~9,803 |
-| King of Wands | 1.00% | ~1,089 |
-| Dirty Deeds | 1.00% | ~1,089 |
-| Easy Come, Easy Go | 1.00% | ~1,089 |
+| King of Wands | 1.00% | ~1,090 |
+| Dirty Deeds | 1.00% | ~1,090 |
+| Easy Come, Easy Go | 1.00% | ~1,090 |
 | To Bad Decisions! | 0.90% | ~8,823 |
-| Breathtaking | 0.80% | ~7,842 |
-| The Star | 0.80% | ~7,842 |
-| The Tower | 0.70% | ~762 |
+| Breathtaking | 0.80% | ~7,843 |
+| The Star | 0.80% | ~7,843 |
+| The Tower | 0.70% | ~763 |
 | Autojock | 0.60% | ~5,882 |
 | Temperance | 0.60% | ~5,882 |
 | The APB is Not Enough | 0.60% | ~654 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,305 (Ranked 16)  
+Progressed: 980,330 (Ranked 16)  
 Completed: 2,960 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 2,960 (0.30%) (Ranked 252)
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
 | 2023-12-22 | 980,059 | 2,955 |
-| 2023-12-23 | 980,305 | 2,960 |
+| 2023-12-23 | 980,330 | 2,960 |
 ## Awards
 Max (Character Customization): 126,294  (Ranked 8)  
 Sum: 438,337 (Ranked 9)  

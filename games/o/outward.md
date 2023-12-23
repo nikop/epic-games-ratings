@@ -6,21 +6,21 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~3,073 |
-| Ready for Winter | 62.00% | ~2,575 |
-| Ready for Summer | 50.00% | ~2,076 |
-| Cordon Bleu | 42.00% | ~1,744 |
-| Tapped! | 36.00% | ~1,495 |
-| Eureka | 31.00% | ~1,287 |
-| Scourge Slayer | 25.00% | ~1,038 |
-| Science, Troglodyte! | 23.00% | ~955 |
+| Venture Outward | 74.00% | ~3,075 |
+| Ready for Winter | 62.00% | ~2,577 |
+| Ready for Summer | 50.00% | ~2,078 |
+| Cordon Bleu | 42.00% | ~1,746 |
+| Tapped! | 36.00% | ~1,496 |
+| Eureka | 31.00% | ~1,288 |
+| Scourge Slayer | 25.00% | ~1,039 |
+| Science, Troglodyte! | 23.00% | ~956 |
 | Exceptional Skill | 22.00% | ~914 |
-| Home Sweet Home | 21.00% | ~872 |
-| Encyclopedic! | 19.00% | ~789 |
-| The Power of Family | 16.00% | ~664 |
+| Home Sweet Home | 21.00% | ~873 |
+| Encyclopedic! | 19.00% | ~790 |
+| The Power of Family | 16.00% | ~665 |
 | A Fortress Toppled! | 15.00% | ~623 |
 | Apex Predator | 15.00% | ~623 |
-| The Power of Faith | 12.00% | ~498 |
+| The Power of Faith | 12.00% | ~499 |
 | Strange amalgams | 11.00% | ~457 |
 | The Power of Freedom | 9.00% | ~374 |
 | Ace Detective | 8.00% | ~332 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~17 |
 | The Absolute Pinnacle. | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,153 (Ranked 204)  
+Progressed: 4,156 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,11 +282,11 @@ Completed: 5 (0.12%) (Ranked 296)
 | 2023-12-20 | 4,056 | 5 |
 | 2023-12-21 | 4,088 | 5 |
 | 2023-12-22 | 4,136 | 5 |
-| 2023-12-23 | 4,153 | 5 |
+| 2023-12-23 | 4,156 | 5 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 489)  
+Max (Highly Recommended): 35  (Ranked 490)  
 Sum: 246 (Ranked 393)  
-Diff (max vs sum): 96  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

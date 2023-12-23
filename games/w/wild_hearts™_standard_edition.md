@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 99.00% | ~801 |
-| Hidden History | 70.00% | ~566 |
+| Hidden History | 71.00% | ~574 |
 | Commencing of Quests | 61.00% | ~493 |
 | Budding Conjuror | 60.00% | ~485 |
 | Man-Machine Master | 49.00% | ~396 |
@@ -16,8 +16,8 @@
 | Fusion Conjuror | 45.00% | ~364 |
 | Kemono Hunter | 41.00% | ~332 |
 | Helpful Heart | 39.00% | ~316 |
+| Flawless Crystal | 38.00% | ~307 |
 | Expert Conjuror | 38.00% | ~307 |
-| Flawless Crystal | 37.00% | ~299 |
 | Bonds of Enmity | 36.00% | ~291 |
 | Distance Devourer | 34.00% | ~275 |
 | Counter Specialist | 32.00% | ~259 |
@@ -27,7 +27,7 @@
 | Fair Means or Foul | 27.00% | ~218 |
 | Kemono at Heart | 27.00% | ~218 |
 | Single Minded | 25.00% | ~202 |
-| Snare Specialist | 23.00% | ~186 |
+| Snare Specialist | 24.00% | ~194 |
 | Artful Assister | 23.00% | ~186 |
 | Karakuri Trail | 22.00% | ~178 |
 | Team Hunter | 21.00% | ~170 |

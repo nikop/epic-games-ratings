@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 727,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -2495,6 +2495,11 @@
       "Time": "2023-12-23T13:10:52.8681018+00:00",
       "NumProgressed": 726,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-23T14:08:40.5294067+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2547,7 +2552,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_eou6",
@@ -2571,7 +2576,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_mg2",
@@ -2610,14 +2615,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 727,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:10:52.8681014+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:08:40.5294064+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:00:07.398371+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:10:52.8681199+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:58:20.6989135+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:08:40.5294285+00:00"
 }

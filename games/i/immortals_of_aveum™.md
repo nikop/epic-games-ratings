@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,444 |
-| Battlefields Have Memories | 80.00% | ~1,328 |
-| Enlisted | 73.00% | ~1,212 |
-| Maybe Engage a Little | 67.00% | ~1,112 |
-| No More Names | 49.00% | ~813 |
-| Initiate | 34.00% | ~564 |
+| Unforeseen | 87.00% | ~1,445 |
+| Battlefields Have Memories | 80.00% | ~1,329 |
+| Enlisted | 73.00% | ~1,213 |
+| Maybe Engage a Little | 67.00% | ~1,113 |
+| No More Names | 49.00% | ~814 |
+| Initiate | 34.00% | ~565 |
 | Thrada-Kul | 30.00% | ~498 |
 | Gravity-Challenged Rocks | 23.00% | ~382 |
 | Socialite | 22.00% | ~365 |
-| Soldier | 19.00% | ~315 |
-| All the Major Food Groups | 19.00% | ~315 |
+| Soldier | 19.00% | ~316 |
+| All the Major Food Groups | 19.00% | ~316 |
 | Beggars Would Ride | 17.00% | ~282 |
 | Control is an Illusion | 16.00% | ~266 |
 | The Means to Save It | 13.00% | ~216 |
@@ -28,8 +28,8 @@ Rating: 4.21 (Ranked 928)
 | Armsman | 8.00% | ~133 |
 | Lights Army | 6.00% | ~100 |
 | Periapt Cerulean | 6.00% | ~100 |
+| Good Boy | 6.00% | ~100 |
 | Periapt Viridian | 5.00% | ~83 |
-| Good Boy | 5.00% | ~83 |
 | Best Dressed | 4.00% | ~66 |
 | Shroudfane Explorer | 4.00% | ~66 |
 | Scholar | 3.00% | ~50 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 928)
 | Out of Time | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,660 (Ranked 246)  
+Progressed: 1,661 (Ranked 246)  
 Completed: 2 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.12%) (Ranked 296)
 | 2023-12-20 | 1,423 | 2 |
 | 2023-12-21 | 1,514 | 2 |
 | 2023-12-22 | 1,602 | 2 |
-| 2023-12-23 | 1,660 | 2 |
+| 2023-12-23 | 1,661 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

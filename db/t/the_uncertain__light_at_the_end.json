@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 602,
+  "EOS_Progressed": 603,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -1083,6 +1083,11 @@
       "Time": "2023-12-23T13:10:45.7829101+00:00",
       "NumProgressed": 602,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T14:08:31.2536397+00:00",
+      "NumProgressed": 603,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1180,9 +1185,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 308
     },
     {
       "ID": "Hitman",
@@ -1310,7 +1315,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1325,7 +1330,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 602,
+      "Progressed": 603,
       "Completed": 6
     }
   ],
@@ -1333,8 +1338,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:10:45.7829097+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:08:31.2536393+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:57:02.9075222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:05:27.5216039+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:10:45.7829298+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:03:39.576075+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:08:31.2536643+00:00"
 }

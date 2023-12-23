@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~377 |
+| Malpractice Assurance | 10.00% | ~420 |
 | Lost and Found | 6.00% | ~252 |
 | This guy... again? | 5.00% | ~210 |
 | This Belongs in a Museum | 4.00% | ~5,173 |
@@ -27,30 +27,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 3.00% | ~3,880 |
 | FNG | 3.00% | ~3,880 |
 | Friends 'Til the End | 3.00% | ~126 |
-| Resurrection | 2.00% | ~2,586 |
-| Unleash Hell | 2.00% | ~2,586 |
-| Funny Guy | 2.00% | ~2,586 |
-| Long Live the King | 2.00% | ~2,586 |
-| Wyrdly Reconstructed | 2.00% | ~2,586 |
-| Boxcar Kid | 2.00% | ~2,586 |
-| Unfulfilled Desires | 2.00% | ~2,586 |
-| Predator | 2.00% | ~2,586 |
-| Dissector | 2.00% | ~2,586 |
-| Banishment | 2.00% | ~2,586 |
-| Deprogramming | 2.00% | ~2,586 |
-| Now Stay Dead | 2.00% | ~2,586 |
-| Reverse Banditry | 2.00% | ~2,586 |
-| Spelunker | 2.00% | ~2,586 |
-| Merry Time | 2.00% | ~2,586 |
-| Harvest Festival | 2.00% | ~2,586 |
-| Ramble On | 2.00% | ~2,586 |
-| A Clear Conscience | 2.00% | ~2,586 |
-| Whale | 2.00% | ~2,586 |
-| A Place to Lay Your Head | 2.00% | ~2,586 |
-| Utopia | 2.00% | ~2,586 |
-| Nope | 2.00% | ~2,586 |
-| Unshackled | 2.00% | ~2,586 |
-| Road Trip | 2.00% | ~2,586 |
+| Resurrection | 2.00% | ~2,587 |
+| Unleash Hell | 2.00% | ~2,587 |
+| Funny Guy | 2.00% | ~2,587 |
+| Long Live the King | 2.00% | ~2,587 |
+| Wyrdly Reconstructed | 2.00% | ~2,587 |
+| Boxcar Kid | 2.00% | ~2,587 |
+| Unfulfilled Desires | 2.00% | ~2,587 |
+| Predator | 2.00% | ~2,587 |
+| Dissector | 2.00% | ~2,587 |
+| Banishment | 2.00% | ~2,587 |
+| Deprogramming | 2.00% | ~2,587 |
+| Now Stay Dead | 2.00% | ~2,587 |
+| Reverse Banditry | 2.00% | ~2,587 |
+| Spelunker | 2.00% | ~2,587 |
+| Merry Time | 2.00% | ~2,587 |
+| Harvest Festival | 2.00% | ~2,587 |
+| Ramble On | 2.00% | ~2,587 |
+| A Clear Conscience | 2.00% | ~2,587 |
+| Whale | 2.00% | ~2,587 |
+| A Place to Lay Your Head | 2.00% | ~2,587 |
+| Utopia | 2.00% | ~2,587 |
+| Nope | 2.00% | ~2,587 |
+| Unshackled | 2.00% | ~2,587 |
+| Road Trip | 2.00% | ~2,587 |
 | This Looks Familiar | 1.00% | ~1,293 |
 | Hope Rekindled | 1.00% | ~1,293 |
 | Ichthyophobic | 1.00% | ~1,293 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,325 (Ranked 87)  
-Completed: 3 (0.00%) (Ranked 386)  
+Progressed: 129,335 (Ranked 87)  
+Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,10 +323,10 @@ Completed: 3 (0.00%) (Ranked 386)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,325 | 3 |
+| 2023-12-23 | 129,335 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
-Sum: 20,968 (Ranked 58)  
+Sum: 20,974 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,760 |
 | This game has Challenging Combat | 1,625 |
 | This game is Highly Recommended | 1,561 |
-| This game is Extremely Fun | 1,481 |
+| This game is Extremely Fun | 1,487 |
 | This game has Amazing Characters | 1,481 |
 | This game has Unique Visuals | 1,406 |
 | This game has Amazing Storytelling | 1,401 |
@@ -674,4 +674,4 @@ Diff (max vs sum): -8
 | 2023-12-20 | 4.68 | - | 7,805 | 20,840 |
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
-| 2023-12-23 | 4.68 | - | 7,834 | 20,968 |
+| 2023-12-23 | 4.68 | - | 7,834 | 20,974 |

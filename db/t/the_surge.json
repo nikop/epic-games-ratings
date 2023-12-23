@@ -4,11 +4,11 @@
   "ProductSlug": "the-surge",
   "Ranking_Rating": 687,
   "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 528,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -388,7 +388,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5040,
+  "EOS_Progressed": 5041,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3978,6 +3978,11 @@
       "Time": "2023-12-23T13:10:39.3814717+00:00",
       "NumProgressed": 5040,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-23T14:08:22.531596+00:00",
+      "NumProgressed": 5041,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4005,7 +4010,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -4045,7 +4050,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4738
+      "UsersEstimate": 4739
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4053,7 +4058,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4061,7 +4066,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4069,7 +4074,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -4093,7 +4098,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -4149,7 +4154,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -4205,7 +4210,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4253,7 +4258,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4269,7 +4274,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4325,7 +4330,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4333,7 +4338,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4524,15 +4529,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5040,
+      "Progressed": 5041,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:10:39.3814714+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:08:22.5315959+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:04:48.1875437+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:10:39.3815479+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:02:44.4265728+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:08:22.5316556+00:00"
 }

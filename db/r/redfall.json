@@ -6,9 +6,9 @@
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2007,
+  "EOS_Progressed": 2008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3109,6 +3109,11 @@
       "Time": "2023-12-23T13:07:25.7250553+00:00",
       "NumProgressed": 2007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T14:06:18.9451905+00:00",
+      "NumProgressed": 2008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3134,9 +3139,9 @@
       "ID": "Achievement_003",
       "SetID": "6b34g18",
       "Name": "Home Is Where the Heart Is",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 161
     },
     {
       "ID": "Achievement_004",
@@ -3254,9 +3259,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 241
     },
     {
       "ID": "Achievement_020",
@@ -3344,7 +3349,7 @@
       "Name": "ICU",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Achievement_031",
@@ -3368,7 +3373,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Achievement_034",
@@ -3647,7 +3652,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2007,
+      "Progressed": 2008,
       "Completed": 0
     }
   ],
@@ -3655,8 +3660,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:07:25.7250551+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:06:18.9451902+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:00:49.5217736+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:07:25.7251102+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:59:18.5336228+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:06:18.9452567+00:00"
 }

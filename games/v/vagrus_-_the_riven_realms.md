@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 59.00% | ~135 |
-| Press-ganged | 42.00% | ~96 |
+| A Second Chance | 58.00% | ~133 |
+| Press-ganged | 42.00% | ~97 |
 | The Package | 27.00% | ~62 |
 | Conquered | 20.00% | ~46 |
 | Randomized | 19.00% | ~44 |
-| Scribe | 12.00% | ~27 |
-| Breached | 12.00% | ~27 |
+| Scribe | 12.00% | ~28 |
+| Breached | 12.00% | ~28 |
 | Conciliator | 10.00% | ~23 |
 | Tactician | 10.00% | ~23 |
 | Fight Another Day | 9.00% | ~21 |
@@ -20,12 +20,12 @@
 | Harbinger | 7.00% | ~16 |
 | Acquaintance | 7.00% | ~16 |
 | Tail-wind | 7.00% | ~16 |
-| Strategist | 5.00% | ~11 |
-| Deputized | 5.00% | ~11 |
-| Courier | 5.00% | ~11 |
-| Pilgrimage's End | 5.00% | ~11 |
-| Merchant | 5.00% | ~11 |
-| Trouble at Fort Larius | 5.00% | ~11 |
+| Strategist | 5.00% | ~12 |
+| Deputized | 5.00% | ~12 |
+| Courier | 5.00% | ~12 |
+| Pilgrimage's End | 5.00% | ~12 |
+| Merchant | 5.00% | ~12 |
+| Trouble at Fort Larius | 5.00% | ~12 |
 | Potential Unlocked | 4.00% | ~9 |
 | Been There | 4.00% | ~9 |
 | Spiritual Journey | 4.00% | ~9 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 230 (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 225 | 0 |
 | 2023-12-21 | 227 | 0 |
 | 2023-12-22 | 229 | 0 |
+| 2023-12-23 | 230 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

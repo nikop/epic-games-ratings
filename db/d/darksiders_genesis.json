@@ -3,12 +3,12 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 458,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 385,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2023-12-23T12:09:29.0618626+00:00",
       "NumProgressed": 151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T14:09:58.3391289+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1030,15 +1035,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:11:51.355569+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:09:58.3391285+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-23T12:59:29.2986613+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:11:51.3555851+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:57:26.0490318+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:09:58.3391466+00:00"
 }

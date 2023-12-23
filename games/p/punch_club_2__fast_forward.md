@@ -52,9 +52,9 @@
 | Get out of my apartment! | 34.00% | ~153 |
 | Seashell hunter | 33.00% | ~148 |
 | Gang wrangler | 32.00% | ~144 |
+| Absolute Champion! | 32.00% | ~144 |
 | Undercover robot | 32.00% | ~144 |
 | Problems of cyborgs | 31.00% | ~140 |
-| Absolute Champion! | 31.00% | ~140 |
 | The lonesome road | 30.00% | ~135 |
 | Not little hacker | 30.00% | ~135 |
 | Careerist | 30.00% | ~135 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 26.00% | ~117 |
 | The only right decision | 26.00% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 338)  
+Progressed: 450 (Ranked 339)  
 Completed: 9 (2.00%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |

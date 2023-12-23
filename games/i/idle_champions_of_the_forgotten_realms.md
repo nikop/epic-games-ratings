@@ -9,11 +9,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~2,437 |
 | Welcome to Sigil | 0.70% | ~1,470 |
 | Fast Food | 0.60% | ~1,260 |
-| The Cursed Farmer | 0.50% | ~1,218 |
+| The Cursed Farmer | 0.50% | ~1,219 |
 | Beast Intentions | 0.40% | ~975 |
 | The Mad Wizard | 0.40% | ~975 |
 | The Overgrown Grove | 0.40% | ~840 |
 | Mental Gymnastics | 0.40% | ~840 |
+| The Ring of Regeneration | 0.30% | ~731 |
 | Misaligned in Sigil | 0.30% | ~630 |
 | Chaos Theory | 0.30% | ~630 |
 | When Tentacles Attack | 0.30% | ~630 |
@@ -21,7 +22,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.30% | ~630 |
 | Mind Spike | 0.30% | ~630 |
 | Were-verpowered | 0.20% | ~487 |
-| The Ring of Regeneration | 0.20% | ~487 |
 | Seeking Allies | 0.20% | ~487 |
 | Are Ya Chicken? | 0.20% | ~487 |
 | Mad Cow Disease | 0.20% | ~487 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~210 |
 | The Brains of an Illithid's Desire | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,676 (Ranked 66)  
+Progressed: 243,702 (Ranked 66)  
 Completed: 2,556 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -800,10 +800,10 @@ Completed: 2,556 (1.05%) (Ranked 168)
 | 2023-12-20 | 242,412 | 2,546 |
 | 2023-12-21 | 242,962 | 2,553 |
 | 2023-12-22 | 243,457 | 2,556 |
-| 2023-12-23 | 243,676 | 2,556 |
+| 2023-12-23 | 243,702 | 2,556 |
 ## Awards
 Max (Great for Beginners): 5,676  (Ranked 71)  
-Sum: 33,029 (Ranked 41)  
+Sum: 33,032 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -812,7 +812,7 @@ Diff (max vs sum): 30
 | This game has Quickly Understood Controls | 4,854 |
 | This game is Relaxing | 4,740 |
 | This game has Amazing Characters | 4,279 |
-| This game is Highly Recommended | 4,262 |
+| This game is Highly Recommended | 4,265 |
 | This game has Playful Visuals | 3,588 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1148,4 +1148,4 @@ Diff (max vs sum): 30
 | 2023-12-20 | 4.06 | - | 5,665 | 32,977 |
 | 2023-12-21 | 4.06 | - | 5,669 | 32,996 |
 | 2023-12-22 | 4.06 | - | 5,676 | 33,016 |
-| 2023-12-23 | 4.06 | - | 5,676 | 33,029 |
+| 2023-12-23 | 4.06 | - | 5,676 | 33,032 |

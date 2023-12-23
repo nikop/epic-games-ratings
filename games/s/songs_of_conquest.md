@@ -7,14 +7,14 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 41.00% | ~278 |
-| Double Kill | 34.00% | ~230 |
+| Double Kill | 34.00% | ~231 |
 | Critical Hit | 18.00% | ~122 |
 | Veteran | 18.00% | ~122 |
 | Dressed For Success | 12.00% | ~81 |
 | Humiliation | 8.00% | ~54 |
 | Veni, Vidi, Vici | 8.00% | ~54 |
-| Multi Kill | 7.00% | ~47 |
-| Sorcerous Spree | 7.00% | ~47 |
+| Multi Kill | 7.00% | ~48 |
+| Sorcerous Spree | 7.00% | ~48 |
 | Landlord Extraordinaire | 6.00% | ~41 |
 | Master | 6.00% | ~41 |
 | Whoops! | 5.00% | ~34 |
@@ -33,15 +33,15 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~7 |
 | From the Ashes | 0.90% | ~6 |
 | Grand Master | 0.90% | ~6 |
+| In The Thick of It | 0.60% | ~4 |
 | Get Over Here! | 0.60% | ~4 |
 | Death To Diplomacy | 0.40% | ~3 |
 | Unlimited Power! | 0.40% | ~3 |
 | Fully Charged | 0.40% | ~3 |
-| In The Thick of It | 0.40% | ~3 |
+| Killing Spree | 0.40% | ~3 |
 | Attack Bonanza | 0.30% | ~2 |
 | Coming Through! | 0.30% | ~2 |
 | Barbecue | 0.30% | ~2 |
-| Killing Spree | 0.30% | ~2 |
 | Oops! | 0.30% | ~2 |
 | The Marsh Expands | 0.30% | ~2 |
 | Cleave | 0.30% | ~2 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677 (Ranked 306)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 679 (Ranked 306)  
+Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 600 | 0 |
 | 2023-12-21 | 630 | 0 |
 | 2023-12-22 | 665 | 0 |
-| 2023-12-23 | 677 | 0 |
+| 2023-12-23 | 679 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 526)  
 Sum: 194 (Ranked 413)  

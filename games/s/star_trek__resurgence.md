@@ -4,8 +4,8 @@
 Rating: 4.38 (Ranked 773)  
 ## Awards
 Max (Impact the Story): 26  (Ranked 534)  
-Sum: 26 (Ranked 542)  
-Diff (max vs sum): -8  
+Sum: 26 (Ranked 543)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 26 |

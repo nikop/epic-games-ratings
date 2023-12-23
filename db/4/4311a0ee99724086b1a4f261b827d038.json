@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -779,9 +779,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239094,
+  "EOS_Progressed": 239099,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18504,6 +18504,11 @@
       "Time": "2023-12-23T13:12:09.6706595+00:00",
       "NumProgressed": 239094,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T14:10:22.0775763+00:00",
+      "NumProgressed": 239099,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18572,7 +18577,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50210
+      "UsersEstimate": 50211
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18580,7 +18585,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21518
+      "UsersEstimate": 21519
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -18700,7 +18705,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33473
+      "UsersEstimate": 33474
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18772,7 +18777,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59774
+      "UsersEstimate": 59775
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18787,7 +18792,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 239094,
+      "Progressed": 239099,
       "Completed": 0
     }
   ],
@@ -18795,8 +18800,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-22T22:59:54.201245+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:12:09.6706594+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:10:22.0775756+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:02:31.3082047+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:12:09.6707412+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:01:42.7978831+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:10:22.0776903+00:00"
 }

@@ -1,57 +1,57 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.86 (Ranked 33)  
+Rating: 4.83 (Ranked 59)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 78.00% | ~153,282 |
-| good drivers have dead flies on the side windows | 29.00% | ~56,989 |
-| brail | 24.00% | ~47,164 |
-| keep it tidy | 23.00% | ~45,198 |
-| car wash | 21.00% | ~41,268 |
-| the artist | 21.00% | ~41,268 |
-| podium | 17.00% | ~33,408 |
-| medium attack | 15.00% | ~29,477 |
-| bicycle race | 5.00% | ~9,826 |
-| grocery-getter | 3.00% | ~5,895 |
-| autopilot | 2.00% | ~3,930 |
-| perkele | 2.00% | ~3,930 |
-| rwd only | 2.00% | ~3,930 |
-| food tour: pasta | 2.00% | ~3,930 |
-| to finish first, first you must finish | 1.00% | ~1,965 |
-| turbo | 1.00% | ~1,965 |
-| where is the stage? | 1.00% | ~1,965 |
-| if in doubt, flat out! | 1.00% | ~1,965 |
-| night ride | 1.00% | ~1,965 |
-| snorkel | 1.00% | ~1,965 |
-| you can't treat a car like a human being. a car requires love | 1.00% | ~1,965 |
-| food tour: pretzel | 1.00% | ~1,965 |
-| espresso | 0.80% | ~1,572 |
-| monster | 0.70% | ~1,376 |
-| maximum attack | 0.60% | ~1,179 |
-| mittens | 0.60% | ~1,179 |
-| parallel universe | 0.50% | ~983 |
-| in like a lamb, out like a lion | 0.50% | ~983 |
-| eurobeat | 0.40% | ~786 |
-| viking | 0.40% | ~786 |
-| master of rally | 0.40% | ~786 |
-| antilag | 0.40% | ~786 |
-| group b | 0.40% | ~786 |
-| samir | 0.40% | ~786 |
-| parking lot | 0.30% | ~590 |
-| oktoberfest | 0.30% | ~590 |
-| comfy seats | 0.20% | ~393 |
-| simulator | 0.20% | ~393 |
-| real roads, real fast | 0.20% | ~393 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~197 |
-| absolute drift | 0.10% | ~197 |
-| barely keeping it together | 0.10% | ~197 |
-| you're here for a good time, not a long time | 0.10% | ~197 |
+| light attack | 78.00% | ~161,643 |
+| good drivers have dead flies on the side windows | 29.00% | ~60,098 |
+| brail | 24.00% | ~49,736 |
+| keep it tidy | 23.00% | ~47,664 |
+| car wash | 21.00% | ~43,519 |
+| the artist | 21.00% | ~43,519 |
+| podium | 17.00% | ~35,230 |
+| medium attack | 15.00% | ~31,085 |
+| bicycle race | 5.00% | ~10,362 |
+| grocery-getter | 3.00% | ~6,217 |
+| autopilot | 2.00% | ~4,145 |
+| perkele | 2.00% | ~4,145 |
+| food tour: pasta | 2.00% | ~4,145 |
+| to finish first, first you must finish | 1.00% | ~2,072 |
+| rwd only | 1.00% | ~2,072 |
+| turbo | 1.00% | ~2,072 |
+| where is the stage? | 1.00% | ~2,072 |
+| if in doubt, flat out! | 1.00% | ~2,072 |
+| night ride | 1.00% | ~2,072 |
+| snorkel | 1.00% | ~2,072 |
+| you can't treat a car like a human being. a car requires love | 1.00% | ~2,072 |
+| food tour: pretzel | 1.00% | ~2,072 |
+| espresso | 0.80% | ~1,658 |
+| monster | 0.70% | ~1,451 |
+| maximum attack | 0.60% | ~1,243 |
+| mittens | 0.60% | ~1,243 |
+| parallel universe | 0.50% | ~1,036 |
+| in like a lamb, out like a lion | 0.50% | ~1,036 |
+| eurobeat | 0.40% | ~829 |
+| viking | 0.40% | ~829 |
+| master of rally | 0.40% | ~829 |
+| antilag | 0.40% | ~829 |
+| group b | 0.40% | ~829 |
+| samir | 0.40% | ~829 |
+| parking lot | 0.30% | ~622 |
+| oktoberfest | 0.30% | ~622 |
+| comfy seats | 0.20% | ~414 |
+| simulator | 0.20% | ~414 |
+| real roads, real fast | 0.20% | ~414 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~207 |
+| absolute drift | 0.10% | ~207 |
+| barely keeping it together | 0.10% | ~207 |
+| you're here for a good time, not a long time | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,515 (Ranked 80)  
-Completed: 10 (0.01%) (Ranked 362)  
+Progressed: 207,235 (Ranked 77)  
+Completed: 10 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 10 (0.01%) (Ranked 362)
 | 2023-12-20 | 10,368 | 10 |
 | 2023-12-21 | 10,374 | 10 |
 | 2023-12-22 | 91,405 | 10 |
-| 2023-12-23 | 196,515 | 10 |
+| 2023-12-23 | 207,235 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -268,3 +268,4 @@ Completed: 10 (0.01%) (Ranked 362)
 | 2023-02-15 | 4.85 | - | - | - |
 | 2023-03-19 | 4.86 | - | - | - |
 | 2023-03-31 | 4.86 | - | 0 | 0 |
+| 2023-12-23 | 4.83 | - | 0 | 0 |

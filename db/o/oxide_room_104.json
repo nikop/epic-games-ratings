@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1264,6 +1264,11 @@
       "Time": "2023-12-22T15:04:28.7767711+00:00",
       "NumProgressed": 274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T14:05:59.0415946+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1291,7 +1296,7 @@
       "Name": "Antidote",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1299,7 +1304,7 @@
       "Name": "First aid",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1307,7 +1312,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1355,7 +1360,7 @@
       "Name": "Eva\u0027s diary",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_EVILDOCUMENTS",
@@ -1363,7 +1368,7 @@
       "Name": "Horror book",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FORCE",
@@ -1371,7 +1376,7 @@
       "Name": "Brute force",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1387,7 +1392,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1395,7 +1400,7 @@
       "Name": "Nightmare in the kitchen",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
@@ -1411,7 +1416,7 @@
       "Name": "Soundtrack",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1443,7 +1448,7 @@
       "Name": "Nimble fingers",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1467,7 +1472,7 @@
       "Name": "Room 104",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_ROOM203",
@@ -1475,7 +1480,7 @@
       "Name": "Pick the right door",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ROOM303",
@@ -1499,7 +1504,7 @@
       "Name": "Face to face",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1515,21 +1520,21 @@
       "Name": "Now or never",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-23T13:07:11.0560515+00:00",
+  "LastChanged_Achievements": "2023-12-23T14:05:59.0415942+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.3257713+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:00:50.2126948+00:00",
-  "LastUpdate_Achievements": "2023-12-23T13:07:11.056075+00:00"
+  "LastUpdate_Ratings": "2023-12-23T13:59:19.608176+00:00",
+  "LastUpdate_Achievements": "2023-12-23T14:05:59.0416195+00:00"
 }
