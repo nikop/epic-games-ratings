@@ -12,6 +12,7 @@ Rating: 4.72 (Ranked 187)
 | Energy Saver | 0.10% | ~8 |
 | Globe Trotter | 0.10% | ~8 |
 | Happy Camper | 0.10% | ~8 |
+| Historian | 0.10% | ~8 |
 | In a Pinch | 0.10% | ~8 |
 | Shredder | 0.10% | ~8 |
 | Snip Snip | 0.10% | ~8 |
@@ -21,13 +22,12 @@ Rating: 4.72 (Ranked 187)
 | Ça de Wizz! | 0.00% | ~0 |
 | Fashion Faux-Pas | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
-| Historian | 0.00% | ~0 |
 | Iconoclast | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Live Wire | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,213 (Ranked 183)  
+Progressed: 8,216 (Ranked 183)  
 Completed: 34 (0.41%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 34 (0.41%) (Ranked 227)
 | 2023-12-20 | 8,142 | 34 |
 | 2023-12-21 | 8,174 | 34 |
 | 2023-12-22 | 8,194 | 34 |
-| 2023-12-23 | 8,213 | 34 |
+| 2023-12-23 | 8,216 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

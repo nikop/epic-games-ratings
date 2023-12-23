@@ -2,13 +2,13 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 832,
-  "Ranking_Popularity": 372,
-  "Ranking_PopularitySum": 376,
+  "Ranking_Rating": 818,
+  "Ranking_Popularity": 366,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -979,18 +979,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-23T22:01:19.686091+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 290,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 98
+      "Count": 102
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1049,9 +1055,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2023-12-22T19:01:16.2249733+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:03:57.0039809+00:00",
+  "LastChanged": "2023-12-23T22:01:19.6860908+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:04:28.5848814+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.9723939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:02:47.2056023+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:03:57.0039828+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:01:19.6860913+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:04:28.5848885+00:00"
 }

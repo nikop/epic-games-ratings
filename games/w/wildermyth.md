@@ -10,9 +10,9 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 6.00% | ~93 |
 | Passing Shadow | 5.00% | ~77 |
 | This Too Shall Pass | 5.00% | ~77 |
+| Cutthroat Competitors | 5.00% | ~77 |
 | Gotta Ca... Must Collect All of Them | 4.00% | ~62 |
 | How Romantic! | 4.00% | ~62 |
-| Cutthroat Competitors | 4.00% | ~62 |
 | Daybreak | 4.00% | ~62 |
 | Completing the Look | 3.00% | ~46 |
 | War Endured | 3.00% | ~46 |
@@ -23,9 +23,9 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 1.00% | ~15 |
 | Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
+| A Story of Heroes | 1.00% | ~15 |
 | Turncoat | 1.00% | ~15 |
 | Another Tale to Tell | 0.90% | ~14 |
-| A Story of Heroes | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
 | Everfading | 0.70% | ~11 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,544 (Ranked 252)  
+Progressed: 1,545 (Ranked 252)  
 Completed: 7 (0.45%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 7 (0.45%) (Ranked 221)
 | 2023-12-19 | 1,536 | 7 |
 | 2023-12-21 | 1,538 | 7 |
 | 2023-12-22 | 1,540 | 7 |
-| 2023-12-23 | 1,544 | 7 |
+| 2023-12-23 | 1,545 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 516)  
 Sum: 29 (Ranked 533)  

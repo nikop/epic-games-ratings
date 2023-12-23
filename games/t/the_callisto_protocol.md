@@ -5,31 +5,31 @@ Rating: 4.20 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~3,020 |
-| The Outer Way | 16.00% | ~3,020 |
-| Get a Grip | 15.00% | ~2,831 |
-| Paper Jams | 15.00% | ~2,831 |
-| Desperate Times | 15.00% | ~2,831 |
-| Chew 'Em Up | 12.00% | ~2,265 |
-| Float Like A Butterfly | 12.00% | ~2,265 |
-| Reforged | 11.00% | ~2,076 |
+| Flesh Wound | 16.00% | ~3,022 |
+| The Outer Way | 16.00% | ~3,022 |
+| Get a Grip | 15.00% | ~2,833 |
+| Paper Jams | 15.00% | ~2,833 |
+| Desperate Times | 15.00% | ~2,833 |
+| Chew 'Em Up | 12.00% | ~2,266 |
+| Float Like A Butterfly | 12.00% | ~2,266 |
+| Reforged | 11.00% | ~2,077 |
 | Workplace Hazard | 10.00% | ~1,888 |
 | If the SHU Fits... | 10.00% | ~1,888 |
-| Without A Paddle | 8.00% | ~1,510 |
-| Two Heads Are Better Than One | 7.00% | ~1,321 |
-| Terminated | 7.00% | ~1,321 |
-| In the Pipe, Five by Five | 7.00% | ~1,321 |
-| Crash Site | 7.00% | ~1,321 |
-| Power Up | 7.00% | ~1,321 |
-| Giving Back | 6.00% | ~1,132 |
-| You Need a Gun | 6.00% | ~1,132 |
-| What Lies Beneath | 6.00% | ~1,132 |
-| Full Circle | 6.00% | ~1,132 |
-| Keep Fighting | 6.00% | ~408 |
+| Without A Paddle | 8.00% | ~1,511 |
+| In the Pipe, Five by Five | 8.00% | ~1,511 |
+| Two Heads Are Better Than One | 7.00% | ~1,322 |
+| Terminated | 7.00% | ~1,322 |
+| Crash Site | 7.00% | ~1,322 |
+| Power Up | 7.00% | ~1,322 |
+| Giving Back | 6.00% | ~1,133 |
+| You Need a Gun | 6.00% | ~1,133 |
+| What Lies Beneath | 6.00% | ~1,133 |
+| Full Circle | 6.00% | ~1,133 |
+| Keep Fighting | 6.00% | ~409 |
 | I Do Belong Here | 5.00% | ~944 |
-| It's Time | 5.00% | ~340 |
+| It's Time | 5.00% | ~341 |
 | The Commonality | 4.00% | ~755 |
-| In Striking Distance | 3.00% | ~566 |
+| In Striking Distance | 3.00% | ~567 |
 | One Last Job | 2.00% | ~136 |
 | Armed to the Teeth | 1.00% | ~68 |
 | Mugshot | 1.00% | ~189 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 937)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,875 (Ranked 151)  
+Progressed: 18,885 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,16 +292,16 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
-| 2023-12-23 | 18,875 | 82 |
+| 2023-12-23 | 18,885 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 377)  
-Sum: 556 (Ranked 324)  
+Sum: 557 (Ranked 324)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 97 |
 | This game is Highly Recommended | 93 |
-| This game has Quickly Understood Controls | 91 |
+| This game has Quickly Understood Controls | 92 |
 | This game has Amazing Storytelling | 90 |
 | This game is Extremely Fun | 82 |
 | This game has Challenging Combat | 68 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 53
 | 2023-12-20 | 4.19 | 89 | 533 |
 | 2023-12-21 | 4.20 | 91 | 539 |
 | 2023-12-22 | 4.20 | 95 | 551 |
-| 2023-12-23 | 4.20 | 97 | 556 |
+| 2023-12-23 | 4.20 | 97 | 557 |

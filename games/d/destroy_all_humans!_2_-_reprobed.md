@@ -13,18 +13,18 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 38.00% | ~63 |
 | Bodied Sattva | 33.00% | ~55 |
 | Earthly Pleasures | 31.00% | ~52 |
-| Cult Following | 29.00% | ~48 |
+| Cult Following | 30.00% | ~50 |
+| Upgreatest | 24.00% | ~40 |
 | Lie Back and Think of Albion | 23.00% | ~38 |
-| Upgreatest | 23.00% | ~38 |
 | Pimp My Raid | 22.00% | ~37 |
-| I Look Up As I Walk to Takoshima | 18.00% | ~30 |
+| I Look Up As I Walk to Takoshima | 19.00% | ~32 |
 | Perfect Probulator | 16.00% | ~27 |
 | Freshly Squeezed | 16.00% | ~27 |
 | Die Nasty | 14.00% | ~23 |
 | Transmitting From Sol-3 | 11.00% | ~18 |
 | Dusted | 10.00% | ~17 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~15 |
-| Fly Me to the Moon Base | 7.00% | ~12 |
+| Fly Me to the Moon Base | 8.00% | ~13 |
 | Kaijuiced | 7.00% | ~12 |
 | Scuttled | 6.00% | ~10 |
 | Re-Return of the Clone of the Invasion II-2 | 5.00% | ~8 |
@@ -33,12 +33,12 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
+| PK Slam Dunk | 0.60% | ~1 |
 | Arty Facts | 0.60% | ~1 |
 | Against All Odds | 0.60% | ~1 |
 | Forbidden Donut | 0.60% | ~1 |
 | Hidden Human Hive Harvest | 0.60% | ~1 |
 | The Optional Mandate | 0.60% | ~1 |
-| PK Slam Dunk | 0.00% | ~0 |
 | Gotta Catch All the Pop Art | 0.00% | ~0 |
 | This Is Earth Radio | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |

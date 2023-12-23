@@ -6,40 +6,40 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 75.00% | ~88 |
-| First of many… | 67.00% | ~78 |
-| Helping Hand | 65.00% | ~76 |
-| Increased Vigor | 58.00% | ~68 |
-| Fight Fire with Fire | 56.00% | ~66 |
-| Increased Capacity | 52.00% | ~61 |
-| Just the start | 51.00% | ~60 |
-| Perfect Storm | 46.00% | ~54 |
-| All That Glitters | 46.00% | ~54 |
-| Enhance! | 43.00% | ~50 |
-| One Of the Chosen | 40.00% | ~47 |
-| Throne Potato | 40.00% | ~47 |
+| Green with Envy | 76.00% | ~90 |
+| First of many… | 66.00% | ~79 |
+| Helping Hand | 65.00% | ~77 |
+| Increased Vigor | 58.00% | ~69 |
+| Fight Fire with Fire | 55.00% | ~65 |
+| Increased Capacity | 52.00% | ~62 |
+| Just the start | 51.00% | ~61 |
+| Perfect Storm | 47.00% | ~56 |
+| All That Glitters | 46.00% | ~55 |
+| Enhance! | 44.00% | ~52 |
+| Throne Potato | 41.00% | ~49 |
+| One Of the Chosen | 40.00% | ~48 |
 | 25 to Life | 39.00% | ~46 |
-| Five's a Crowd | 38.00% | ~44 |
-| Salvation | 37.00% | ~43 |
-| Devil's in the Details | 37.00% | ~43 |
-| Unshakable Fortitude | 35.00% | ~41 |
-| Delusions of Grandeur | 35.00% | ~41 |
+| Devil's in the Details | 38.00% | ~45 |
+| Five's a Crowd | 38.00% | ~45 |
+| Salvation | 37.00% | ~44 |
+| Unshakable Fortitude | 35.00% | ~42 |
+| Delusions of Grandeur | 35.00% | ~42 |
 | I Wanna Rock | 34.00% | ~40 |
-| Soul Harvester | 32.00% | ~37 |
-| Love Tap | 32.00% | ~37 |
-| Maximum Vigor | 31.00% | ~36 |
-| For Whom the Bell Tolls | 30.00% | ~35 |
-| Freeze Frame | 26.00% | ~30 |
-| Eat Your Heart Out | 26.00% | ~30 |
-| Can you restore the Balance? | 24.00% | ~28 |
-| Crowd Source | 24.00% | ~28 |
-| Unyielding Strength | 23.00% | ~27 |
-| Cleanup Crew | 23.00% | ~27 |
-| Maximum Capacity | 21.00% | ~25 |
-| Big Spender | 21.00% | ~25 |
-| Demon Meddler | 17.00% | ~20 |
-| Egomaniac | 17.00% | ~20 |
-| Seeing Red | 17.00% | ~20 |
+| Soul Harvester | 34.00% | ~40 |
+| Love Tap | 32.00% | ~38 |
+| Maximum Vigor | 31.00% | ~37 |
+| For Whom the Bell Tolls | 30.00% | ~36 |
+| Freeze Frame | 27.00% | ~32 |
+| Eat Your Heart Out | 26.00% | ~31 |
+| Unyielding Strength | 24.00% | ~29 |
+| Cleanup Crew | 24.00% | ~29 |
+| Can you restore the Balance? | 24.00% | ~29 |
+| Crowd Source | 24.00% | ~29 |
+| Maximum Capacity | 22.00% | ~26 |
+| Big Spender | 22.00% | ~26 |
+| Demon Meddler | 18.00% | ~21 |
+| Egomaniac | 18.00% | ~21 |
+| Seeing Red | 18.00% | ~21 |
 | Community Outreach | 15.00% | ~18 |
 | Protector of Humanity | 13.00% | ~15 |
 | Everybody Wants to Rule the World | 13.00% | ~15 |
@@ -47,10 +47,10 @@ Number of Ratings: 116  (23.09.2022)
 | Unbreakable Will | 11.00% | ~13 |
 | Holy Keeper | 10.00% | ~12 |
 | A Parting Gift | 10.00% | ~12 |
+| Path of the Horseman | 10.00% | ~12 |
 | Demon Keeper | 9.00% | ~11 |
-| Path of the Horseman | 9.00% | ~11 |
-| Humanitarian | 9.00% | ~11 |
-| Soul Reaper | 8.00% | ~9 |
+| Soul Reaper | 8.00% | ~10 |
+| Humanitarian | 8.00% | ~10 |
 | My Evil Twin | 7.00% | ~8 |
 | Keeper of the Bonfire | 5.00% | ~6 |
 | Keeper of the Vale | 5.00% | ~6 |
@@ -67,19 +67,19 @@ Number of Ratings: 116  (23.09.2022)
 | BFA | 3.00% | ~4 |
 | "Amazing!" | 2.00% | ~2 |
 | Death Incarnate | 2.00% | ~2 |
-| Quite Proper | 0.90% | ~1 |
-| "Apocalyptic!" | 0.90% | ~1 |
-| Beast Mode | 0.90% | ~1 |
+| Quite Proper | 0.80% | ~1 |
+| "Apocalyptic!" | 0.80% | ~1 |
+| Beast Mode | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 462)  
-Completed: 1 (0.85%) (Ranked 183)  
+Progressed: 119 (Ranked 462)  
+Completed: 1 (0.84%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-12-13 | 1 | 0 |
 | 2023-12-21 | 34 | 0 |
 | 2023-12-22 | 84 | 0 |
-| 2023-12-23 | 117 | 1 |
+| 2023-12-23 | 119 | 1 |
 ## Awards
 Max (Great Boss Battles): 93  (Ranked 383)  
 Sum: 93 (Ranked 462)  

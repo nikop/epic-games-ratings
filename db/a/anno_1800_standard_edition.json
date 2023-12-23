@@ -2,13 +2,13 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11757,10 +11757,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 15362,
       "NumberOfAwardsMax": 1988
+    },
+    {
+      "Time": "2023-12-23T21:59:30.08797+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 15369,
+      "NumberOfAwardsMax": 1988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15362,
+  "NumberOfAwards": 15369,
   "NumberOfAwardsMax": 1988,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -11798,7 +11804,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1719
+      "Count": 1726
     },
     {
       "Text": "This game is Relaxing",
@@ -11842,8 +11848,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-12-23T17:58:54.2826636+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T20:57:32.3603661+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:58:57.1870618+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:03:49.653612+00:00"
+  "LastChanged": "2023-12-23T21:59:30.0879698+00:00",
+  "LastUpdate_AppInfo": "2023-12-23T21:57:14.2190027+00:00",
+  "LastUpdate_Ratings": "2023-12-23T21:59:30.0879704+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:04:21.2102788+00:00"
 }

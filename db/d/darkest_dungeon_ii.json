@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10068,9 +10068,9 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129432,
+  "EOS_Progressed": 129443,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1641,
+  "EOS_NewPlayers": 1630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36473,6 +36473,11 @@
       "Time": "2023-12-23T21:09:27.6926912+00:00",
       "NumProgressed": 129432,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T22:09:48.3562906+00:00",
+      "NumProgressed": 129443,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36612,7 +36617,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36644,7 +36649,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36708,7 +36713,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36724,7 +36729,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36964,7 +36969,7 @@
       "Name": "Handled",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "run_victory_act05",
@@ -37020,7 +37025,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "combat_kill_collector",
@@ -37028,7 +37033,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37084,7 +37089,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37115,21 +37120,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129432,
+      "Progressed": 129443,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4301,
+      "Progressed": 4312,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-23T18:57:14.416347+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:09:27.692691+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:09:48.3562902+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:57:31.5975936+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:09:27.6928374+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:57:53.5792744+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:09:48.3564561+00:00"
 }

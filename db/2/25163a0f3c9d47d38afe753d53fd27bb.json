@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1721,
-  "EOS_Completed": 126,
+  "EOS_Completed": 127,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.32,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4234,6 +4234,11 @@
       "Time": "2023-12-23T17:10:03.2405158+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-12-23T22:10:27.8929344+00:00",
+      "NumProgressed": 1721,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 30,
@@ -4485,13 +4490,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 1721,
-      "Completed": 126
+      "Completed": 127
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:10:05.08904+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:10:27.8929338+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.5235617+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:58:10.0811192+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:10:05.0890742+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:58:38.5429667+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:10:27.8929697+00:00"
 }

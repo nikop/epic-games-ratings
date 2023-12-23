@@ -38,7 +38,7 @@ Number of Ratings: 28  (23.09.2022)
 | Сhancellor | 4.00% | ~23 |
 | Peacemaker | 4.00% | ~23 |
 | Forgotten | 3.00% | ~17 |
-| Lucky vandal | 2.00% | ~12 |
+| Lucky vandal | 3.00% | ~17 |
 | Salesman | 0.70% | ~4 |
 | BBQ | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |

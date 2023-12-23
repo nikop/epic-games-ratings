@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~590 |
+| The Camp | 65.00% | ~599 |
 | The Teleprobe | 51.00% | ~470 |
 | The City | 46.00% | ~424 |
 | The field base | 42.00% | ~387 |
@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 423)
 | The Invincible | 5.00% | ~46 |
 | Got lost again | 4.00% | ~37 |
 | I leave no man behind (no exceptions) | 2.00% | ~18 |
-| Convoy list | 0.90% | ~8 |
+| Convoy list | 1.00% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 922 (Ranked 284)  

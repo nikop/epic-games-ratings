@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1102,
+  "EOS_Progressed": 1103,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2924,6 +2924,11 @@
       "Time": "2023-12-23T21:06:32.0518373+00:00",
       "NumProgressed": 1102,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T22:07:18.8368211+00:00",
+      "NumProgressed": 1103,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2944,7 +2949,7 @@
       "Name": "Ab Initio",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "AnthropicHills",
@@ -3032,7 +3037,7 @@
       "Name": "Discovery",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "EasternWetlands",
@@ -3104,7 +3109,7 @@
       "Name": "Into the Machine",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "JustOneLap",
@@ -3160,7 +3165,7 @@
       "Name": "Museum Visitor",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "NewBeginning",
@@ -3280,7 +3285,7 @@
       "Name": "Team Spirit",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "TextAdventurer",
@@ -3328,7 +3333,7 @@
       "Name": "The Spark",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "TheThiefOfFire",
@@ -3336,7 +3341,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "TheWordEndures",
@@ -3352,7 +3357,7 @@
       "Name": "Touch Grass",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "TrevorsBiographer",
@@ -3376,7 +3381,7 @@
       "Name": "Wanderers",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "WesternDelta",
@@ -3407,7 +3412,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1102,
+      "Progressed": 1103,
       "Completed": 2
     }
   ],
@@ -3415,8 +3420,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:06:32.0518371+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:07:18.8368206+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:57:38.7045498+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:06:32.0518874+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:58:01.7842337+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:07:18.836868+00:00"
 }

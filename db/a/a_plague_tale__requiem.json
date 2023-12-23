@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -725,7 +725,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 14931,
+  "EOS_Progressed": 14932,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 1,
@@ -13335,6 +13335,11 @@
       "Time": "2023-12-23T21:06:06.9523095+00:00",
       "NumProgressed": 14931,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-23T22:06:51.2548617+00:00",
+      "NumProgressed": 14932,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 35,
@@ -13354,7 +13359,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 11646
+      "UsersEstimate": 11647
     },
     {
       "ID": "ACH_03",
@@ -13362,7 +13367,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 10750
+      "UsersEstimate": 10751
     },
     {
       "ID": "ACH_04",
@@ -13370,7 +13375,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 10302
+      "UsersEstimate": 10303
     },
     {
       "ID": "ACH_05",
@@ -13394,7 +13399,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 9108
+      "UsersEstimate": 9109
     },
     {
       "ID": "ACH_08",
@@ -13410,7 +13415,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8361
+      "UsersEstimate": 8362
     },
     {
       "ID": "ACH_10",
@@ -13418,7 +13423,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "ACH_11",
@@ -13450,7 +13455,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "ACH_15",
@@ -13458,7 +13463,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4927
+      "UsersEstimate": 4928
     },
     {
       "ID": "ACH_16",
@@ -13514,7 +13519,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ACH_23",
@@ -13522,7 +13527,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4032
     },
     {
       "ID": "ACH_24",
@@ -13546,7 +13551,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ACH_27",
@@ -13554,7 +13559,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6420
+      "UsersEstimate": 6421
     },
     {
       "ID": "ACH_28",
@@ -13578,7 +13583,7 @@
       "Name": "Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ACH_31",
@@ -13625,7 +13630,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 14931,
+      "Progressed": 14932,
       "Completed": 59
     }
   ],
@@ -13633,8 +13638,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-22T13:57:10.9522347+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:06:06.9523093+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:06:51.2548599+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:19.5371388+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:57:47.7600928+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:06:06.9523744+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:58:12.4297927+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:06:51.2549512+00:00"
 }

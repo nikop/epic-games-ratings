@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,856 |
-| Don't I Know You...? | 76.00% | ~1,786 |
-| Jailbreak | 65.00% | ~1,528 |
-| HEADSHOT! | 38.00% | ~893 |
-| Suited and Booted | 38.00% | ~893 |
-| Sleeping With The Fishes | 35.00% | ~822 |
-| Overheated | 30.00% | ~705 |
-| High Performance | 30.00% | ~705 |
-| Powered Up | 28.00% | ~658 |
+| Rigged And Ready | 79.00% | ~1,858 |
+| Don't I Know You...? | 76.00% | ~1,788 |
+| Jailbreak | 65.00% | ~1,529 |
+| HEADSHOT! | 38.00% | ~894 |
+| Suited and Booted | 38.00% | ~894 |
+| Sleeping With The Fishes | 35.00% | ~823 |
+| Overheated | 30.00% | ~706 |
+| High Performance | 30.00% | ~706 |
+| Powered Up | 28.00% | ~659 |
 | Studied The Blade | 25.00% | ~588 |
-| Home Invasion | 23.00% | ~540 |
+| Home Invasion | 23.00% | ~541 |
 | Luminary | 22.00% | ~517 |
 | It's a Trap | 22.00% | ~517 |
 | True Survivor | 21.00% | ~494 |
 | Offensive Defense | 20.00% | ~470 |
 | Shocking | 20.00% | ~470 |
-| Court Martial | 19.00% | ~446 |
-| Clean Cut | 19.00% | ~446 |
-| Unforeseeable Consequences | 19.00% | ~446 |
+| Court Martial | 19.00% | ~447 |
+| Clean Cut | 19.00% | ~447 |
+| Unforeseeable Consequences | 19.00% | ~447 |
 | Dead Again | 18.00% | ~423 |
 | Full Arsenal | 17.00% | ~400 |
-| Can't Trust Banks | 15.00% | ~352 |
+| Can't Trust Banks | 15.00% | ~353 |
 | Mommy Dearest | 13.00% | ~306 |
 | Bad Dog | 13.00% | ~306 |
 | Where It All Began | 13.00% | ~306 |
@@ -52,8 +52,8 @@ Rating: 4.26 (Ranked 890)
 | Juiced Up | 5.00% | ~118 |
 | Geronimo! | 4.00% | ~94 |
 | Plank of Wood | 4.00% | ~94 |
-| Gotta Craft 'em All | 3.00% | ~70 |
-| Homewrecker | 3.00% | ~70 |
+| Gotta Craft 'em All | 3.00% | ~71 |
+| Homewrecker | 3.00% | ~71 |
 | Own Medicine | 2.00% | ~47 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~47 |
 | Box Office Smash | 2.00% | ~47 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 890)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,350 (Ranked 229)  
+Progressed: 2,352 (Ranked 229)  
 Completed: 13 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 13 (0.55%) (Ranked 206)
 | 2023-12-20 | 2,314 | 13 |
 | 2023-12-21 | 2,329 | 13 |
 | 2023-12-22 | 2,340 | 13 |
-| 2023-12-23 | 2,350 | 13 |
+| 2023-12-23 | 2,352 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

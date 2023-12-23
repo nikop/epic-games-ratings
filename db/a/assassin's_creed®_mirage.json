@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 675,
   "Ranking_Popularity": 291,
-  "Ranking_PopularitySum": 228,
+  "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -2521,10 +2521,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1659,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-12-23T21:57:35.2410005+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1663,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1659,
+  "NumberOfAwards": 1663,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2544,7 +2550,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 171
+      "Count": 173
     },
     {
       "Text": "This game is Educational",
@@ -2580,7 +2586,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 188
+      "Count": 190
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2607,8 +2613,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-23T17:57:09.3995092+00:00",
+  "LastChanged": "2023-12-23T21:57:35.2410003+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.6848167+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:57:15.6734755+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:04:06.4251333+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:57:35.2410009+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:04:39.0408654+00:00"
 }

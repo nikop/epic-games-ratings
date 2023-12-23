@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1486,9 +1486,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1542,9 +1542,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1613,8 +1613,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:04:30.5159861+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:05:04.608754+00:00",
   "LastUpdate_AppInfo": "2023-12-17T03:57:04.3181788+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:59:44.6775934+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:04:30.5160026+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:00:21.4546319+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:05:04.6087683+00:00"
 }

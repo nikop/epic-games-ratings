@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15910,
+  "EOS_Progressed": 15914,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18214,6 +18214,11 @@
       "Time": "2023-12-23T21:10:06.8717013+00:00",
       "NumProgressed": 15910,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T22:10:30.0281402+00:00",
+      "NumProgressed": 15914,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18263,9 +18268,9 @@
       "ID": "ACHIEVEMENT_ALLIANCE_VICTORY",
       "SetID": "7l38kb8",
       "Name": "Alliance Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
@@ -19039,9 +19044,9 @@
       "ID": "ACHIEVEMENT_ET_TU_BRUTUS",
       "SetID": "9201eeb",
       "Name": "Et tu Brutus?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EVENTLEVEL_HIGH",
@@ -20447,9 +20452,9 @@
       "ID": "ACHIEVEMENT_WIN_FFA",
       "SetID": "9201eeb",
       "Name": "Win a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_WIN_HOTSEAT",
@@ -20479,9 +20484,9 @@
       "ID": "ACHIEVEMENT_WIN_NETWORK",
       "SetID": "9201eeb",
       "Name": "Win a Network Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_WIN_PLAYBYCLOUD",
@@ -21088,21 +21093,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15910,
+      "Progressed": 15914,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15910,
+      "Progressed": 15914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:10:06.8717011+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:10:30.0281399+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:03:06.2669213+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:10:06.8726857+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:03:30.993157+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:10:30.0291414+00:00"
 }

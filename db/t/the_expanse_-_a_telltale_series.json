@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17212,
+  "EOS_Progressed": 17218,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -14901,6 +14901,11 @@
       "Time": "2023-12-23T21:06:18.2908137+00:00",
       "NumProgressed": 17212,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-23T22:07:03.264627+00:00",
+      "NumProgressed": 17218,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14929,7 +14934,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "12",
@@ -14945,7 +14950,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "14",
@@ -14953,7 +14958,7 @@
       "Name": "Doctor Approved",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "15",
@@ -14985,7 +14990,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "19",
@@ -14993,7 +14998,7 @@
       "Name": "Martian Music",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "2",
@@ -15001,7 +15006,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "20",
@@ -15017,7 +15022,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "22",
@@ -15041,7 +15046,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "25",
@@ -15065,7 +15070,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "28",
@@ -15089,7 +15094,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "30",
@@ -15121,7 +15126,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "7",
@@ -15143,9 +15148,9 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1722
     },
     {
       "ID": "31",
@@ -15161,7 +15166,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "33",
@@ -15169,7 +15174,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "34",
@@ -15177,7 +15182,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "35",
@@ -15192,22 +15197,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17212,
+      "Progressed": 17218,
       "Completed": 49
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3166,
-      "Completed": 1008
+      "Progressed": 3172,
+      "Completed": 1009
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:06:18.2908135+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:07:03.2646266+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:58:08.0370253+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:06:18.2908987+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:58:36.1100446+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:07:03.26471+00:00"
 }

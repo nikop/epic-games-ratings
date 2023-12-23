@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 23,
@@ -8371,18 +8371,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 12268,
       "NumberOfAwardsMax": 6989
+    },
+    {
+      "Time": "2023-12-23T22:03:34.0144794+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12278,
+      "NumberOfAwardsMax": 6999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12268,
-  "NumberOfAwardsMax": 6989,
+  "NumberOfAwards": 12278,
+  "NumberOfAwardsMax": 6999,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6989
+      "Count": 6999
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8451,9 +8457,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 741798,
+  "EOS_Progressed": 741829,
   "EOS_Completed": 12961,
-  "EOS_NewPlayers": 11672,
+  "EOS_NewPlayers": 11673,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30626,6 +30632,11 @@
       "Time": "2023-12-23T21:09:03.0892134+00:00",
       "NumProgressed": 741798,
       "NumCompleted": 12961
+    },
+    {
+      "Time": "2023-12-23T22:09:21.940826+00:00",
+      "NumProgressed": 741829,
+      "NumCompleted": 12961
     }
   ],
   "TotalAchievements": 60,
@@ -30637,7 +30648,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29672
+      "UsersEstimate": 29673
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30645,7 +30656,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22254
+      "UsersEstimate": 22255
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30653,7 +30664,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30725,7 +30736,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5934
+      "UsersEstimate": 5935
     },
     {
       "ID": "13_LowAge",
@@ -30789,7 +30800,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -30805,7 +30816,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -30813,7 +30824,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22254
+      "UsersEstimate": 22255
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30821,7 +30832,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "25_ShrineMind",
@@ -30845,7 +30856,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30885,7 +30896,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "33_BladeOneShot",
@@ -30901,7 +30912,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22254
+      "UsersEstimate": 22255
     },
     {
       "ID": "35_WideStrike",
@@ -30909,7 +30920,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5934
+      "UsersEstimate": 5935
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30989,7 +31000,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31116,21 +31127,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 51099,
+      "Progressed": 51130,
       "Completed": 10780
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 741798,
+      "Progressed": 741829,
       "Completed": 12961
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-23T19:02:48.235314+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:09:03.0892132+00:00",
+  "LastChanged": "2023-12-23T22:03:34.0144792+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:09:21.9408256+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:03:09.0495172+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:09:03.0893788+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:03:34.0144799+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:09:21.9409821+00:00"
 }

@@ -17,7 +17,7 @@
 | Perfectionist | 31.00% | ~71 |
 | Protected | 30.00% | ~69 |
 | Pragmatic | 22.00% | ~51 |
-| Calory burner | 18.00% | ~41 |
+| Calory burner | 19.00% | ~44 |
 | Snow digger | 15.00% | ~34 |
 | Pacifist | 15.00% | ~34 |
 | Model | 14.00% | ~32 |

@@ -1,7 +1,7 @@
 # Crayta
 [Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
-Rating: 4.19 (Ranked 945)  
+Rating: 4.19 (Ranked 946)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,8 +21,8 @@ Number of Ratings: 94  (23.09.2022)
 | Community Creativity | 1.00% | ~1,099 |
 | Shared! | 1.00% | ~1,099 |
 | These Are a Few of My Favorite Things - Bronze | 0.70% | ~769 |
-| Standing on the Shoulders of Giants - Bronze | 0.60% | ~659 |
-| Going Public! | 0.60% | ~659 |
+| Standing on the Shoulders of Giants - Bronze | 0.60% | ~660 |
+| Going Public! | 0.60% | ~660 |
 | Variety Player - Gold | 0.50% | ~550 |
 | Challenge Master | 0.50% | ~550 |
 | Getting Equipped! | 0.40% | ~440 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,916 (Ranked 90)  
+Progressed: 109,918 (Ranked 90)  
 Completed: 5 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 5 (0.00%) (Ranked 386)
 | 2023-12-20 | 109,904 | 5 |
 | 2023-12-21 | 109,906 | 5 |
 | 2023-12-22 | 109,913 | 5 |
-| 2023-12-23 | 109,916 | 5 |
+| 2023-12-23 | 109,918 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 446)  
 Sum: 370 (Ranked 356)  

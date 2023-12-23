@@ -12,8 +12,8 @@ Rating: 4.68 (Ranked 258)
 | Forbidden techniques | 12.00% | ~98 |
 | Devoted | 10.00% | ~82 |
 | Slavic squatter | 9.00% | ~74 |
+| Gold rush | 7.00% | ~57 |
 | Spirit animal | 7.00% | ~57 |
-| Gold rush | 6.00% | ~49 |
 | Liar Liar | 6.00% | ~49 |
 | A friend in need... | 6.00% | ~49 |
 | Fishing fanatic | 5.00% | ~41 |

@@ -5,35 +5,35 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 47.00% | ~5,266 |
-| Start with a bang! | 46.00% | ~5,154 |
-| You can pet the cat! | 41.00% | ~4,594 |
-| Who put gears in there? | 33.00% | ~3,698 |
-| Cream of the Crop | 29.00% | ~3,249 |
-| Thanks for the free chip, Peppermint! | 28.00% | ~3,137 |
-| You got this, Peppermint? | 24.00% | ~2,689 |
-| Perfect Parry | 22.00% | ~2,465 |
-| Alright, that felt AWESOME! | 21.00% | ~2,353 |
-| I play my own way! | 19.00% | ~2,129 |
-| This will cost you big time | 17.00% | ~1,905 |
-| Uh, they were broken when I got here | 17.00% | ~1,905 |
-| Z-shielding's got nothing on us! | 15.00% | ~1,681 |
-| Kissing the sky! | 15.00% | ~1,681 |
-| Does that say weakpoint? | 14.00% | ~1,569 |
+| Feeling the beat! | 47.00% | ~5,269 |
+| Start with a bang! | 46.00% | ~5,157 |
+| You can pet the cat! | 41.00% | ~4,597 |
+| Who put gears in there? | 33.00% | ~3,700 |
+| Cream of the Crop | 29.00% | ~3,251 |
+| Thanks for the free chip, Peppermint! | 28.00% | ~3,139 |
+| You got this, Peppermint? | 24.00% | ~2,691 |
+| Perfect Parry | 22.00% | ~2,466 |
+| Alright, that felt AWESOME! | 21.00% | ~2,354 |
+| I play my own way! | 19.00% | ~2,130 |
+| This will cost you big time | 17.00% | ~1,906 |
+| Uh, they were broken when I got here | 17.00% | ~1,906 |
+| Z-shielding's got nothing on us! | 15.00% | ~1,682 |
+| Kissing the sky! | 15.00% | ~1,682 |
+| Does that say weakpoint? | 14.00% | ~1,570 |
 | Whoa! There's ANOTHER health bar!? | 13.00% | ~1,457 |
 | The Negotiator | 12.00% | ~1,345 |
-| You must like calling me in, Chai | 10.00% | ~1,120 |
-| I look cool. But I can look COOLER. | 10.00% | ~1,120 |
-| Headliner | 9.00% | ~1,008 |
-| Out in a puff of smoke | 9.00% | ~1,008 |
-| Time to pay up! | 8.00% | ~896 |
-| Who's the boss now? | 8.00% | ~896 |
-| I have to read these things? | 8.00% | ~896 |
-| Perfecter Parry-er! | 8.00% | ~896 |
-| There's such a thing as TOO helpful | 6.00% | ~672 |
+| You must like calling me in, Chai | 10.00% | ~1,121 |
+| I look cool. But I can look COOLER. | 10.00% | ~1,121 |
+| Headliner | 9.00% | ~1,009 |
+| Out in a puff of smoke | 9.00% | ~1,009 |
+| Time to pay up! | 8.00% | ~897 |
+| Who's the boss now? | 8.00% | ~897 |
+| I have to read these things? | 8.00% | ~897 |
+| Perfecter Parry-er! | 8.00% | ~897 |
+| There's such a thing as TOO helpful | 6.00% | ~673 |
 | NOW we got a kickass hideout! | 6.00% | ~584 |
-| Well that was a rush! | 5.00% | ~560 |
-| That's a lot of junk metal… | 5.00% | ~560 |
+| Well that was a rush! | 5.00% | ~561 |
+| That's a lot of junk metal… | 5.00% | ~561 |
 | Beat-hit mania | 4.00% | ~448 |
 | I told you I'd be fine, Peppermint! | 4.00% | ~448 |
 | Chip-tuned | 3.00% | ~336 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~10 |
 | Low budget finish | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,205 (Ranked 172)  
+Progressed: 11,211 (Ranked 172)  
 Completed: 8 (0.07%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 8 (0.07%) (Ranked 319)
 | 2023-12-20 | 9,904 | 8 |
 | 2023-12-21 | 10,248 | 8 |
 | 2023-12-22 | 10,702 | 8 |
-| 2023-12-23 | 11,205 | 8 |
+| 2023-12-23 | 11,211 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

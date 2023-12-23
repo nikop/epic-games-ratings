@@ -1,21 +1,21 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,672 |
-| The Assault | 3.00% | ~22,254 |
-| Life is your teacher | 3.00% | ~22,254 |
-| Lightning Hands | 3.00% | ~22,254 |
-| The Hateful Pole Fighter | 2.00% | ~14,836 |
-| Stuntmaster | 2.00% | ~14,836 |
-| Street Fighting | 2.00% | ~14,836 |
-| State of constant learning | 2.00% | ~14,836 |
-| Qi Gong: Essence | 2.00% | ~14,836 |
-| Old Child | 2.00% | ~14,836 |
+| The Old Grandmaster | 4.00% | ~29,673 |
+| The Assault | 3.00% | ~22,255 |
+| Life is your teacher | 3.00% | ~22,255 |
+| Lightning Hands | 3.00% | ~22,255 |
+| The Hateful Pole Fighter | 2.00% | ~14,837 |
+| Stuntmaster | 2.00% | ~14,837 |
+| Street Fighting | 2.00% | ~14,837 |
+| State of constant learning | 2.00% | ~14,837 |
+| Qi Gong: Essence | 2.00% | ~14,837 |
+| Old Child | 2.00% | ~14,837 |
 | A Lady's Blood in the Snow | 1.00% | ~7,418 |
 | Lady Wing Chun | 1.00% | ~7,418 |
 | Furious Fists | 1.00% | ~7,418 |
@@ -28,13 +28,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~511 |
 | Diligence as a goal | 1.00% | ~511 |
 | Qi Gong: Mind | 0.90% | ~6,676 |
-| Scareless | 0.80% | ~5,934 |
-| Kung-Fu Tussle | 0.80% | ~5,934 |
+| Scareless | 0.80% | ~5,935 |
+| Kung-Fu Tussle | 0.80% | ~5,935 |
 | Dance of the Praying Mantis | 0.70% | ~5,193 |
 | Fight the way you practice | 0.70% | ~358 |
 | Martial Hub | 0.60% | ~307 |
 | Muk Yan Master | 0.50% | ~3,709 |
-| Bloody Sport | 0.50% | ~255 |
+| Bloody Sport | 0.50% | ~256 |
 | Tiger on Fire | 0.40% | ~2,967 |
 | Source of Flying Daggers | 0.40% | ~2,967 |
 | Iron Money | 0.40% | ~2,967 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,798 (Ranked 23)  
+Progressed: 741,829 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,14 +314,14 @@ Completed: 12,961 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 741,798 | 12,961 |
+| 2023-12-23 | 741,829 | 12,961 |
 ## Awards
-Max (Great Boss Battles): 6,989  (Ranked 55)  
-Sum: 12,268 (Ranked 84)  
+Max (Great Boss Battles): 6,999  (Ranked 55)  
+Sum: 12,278 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,989 |
+| This game has Great Boss Battles | 6,999 |
 | This game has Diverse Characters | 681 |
 | This game has Challenging Combat | 629 |
 | This game has Amazing Storytelling | 608 |
@@ -675,4 +675,4 @@ Diff (max vs sum): -29
 | 2023-12-20 | 4.82 | - | 6,973 | 12,223 |
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
-| 2023-12-23 | 4.82 | - | 6,989 | 12,268 |
+| 2023-12-23 | 4.82 | - | 6,999 | 12,278 |

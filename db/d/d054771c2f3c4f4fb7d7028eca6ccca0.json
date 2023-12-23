@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2596,
+  "EOS_Progressed": 2605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2614,6 +2614,11 @@
       "Time": "2023-12-23T21:04:10.6858236+00:00",
       "NumProgressed": 2596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T22:04:43.2095064+00:00",
+      "NumProgressed": 2605,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2650,7 +2655,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 677
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2704,9 +2709,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "c167foo",
       "Name": "Skull Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2730,7 +2735,7 @@
       "Name": "Worthy Badge",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2810,7 +2815,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2826,7 +2831,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 886
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2856,9 +2861,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "c167foo",
       "Name": "Profile Outfitted",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3001,14 +3006,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2596,
+      "Progressed": 2605,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:04:10.6858233+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:04:43.2095059+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:59:03.0231842+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:04:10.6858798+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:59:36.5531269+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:04:43.209555+00:00"
 }

@@ -21,20 +21,20 @@ Rating: 4.62 (Ranked 373)
 | In a Liege of Your Own | 3.00% | ~182 |
 | Intimidation Tactics | 3.00% | ~182 |
 | Freed Lands of Manuhari | 3.00% | ~182 |
-| Return of the Wizard King | 2.00% | ~121 |
-| Enchanted Archipelago | 2.00% | ~121 |
-| Digging for Treasure | 2.00% | ~121 |
-| Preparation Is Everything | 2.00% | ~121 |
-| My Final Form | 2.00% | ~121 |
-| Fiery Friend | 2.00% | ~121 |
-| Against the Odds | 2.00% | ~121 |
-| Impenetrable Fortress | 2.00% | ~121 |
-| Here be Dragons | 2.00% | ~121 |
-| Tipping the Scales | 2.00% | ~121 |
-| Mighty Hoard | 2.00% | ~121 |
-| Sehiran Oasis | 2.00% | ~121 |
-| Chaos Surge | 2.00% | ~121 |
-| Spoils of War | 2.00% | ~121 |
+| Return of the Wizard King | 2.00% | ~122 |
+| Enchanted Archipelago | 2.00% | ~122 |
+| Digging for Treasure | 2.00% | ~122 |
+| Preparation Is Everything | 2.00% | ~122 |
+| My Final Form | 2.00% | ~122 |
+| Fiery Friend | 2.00% | ~122 |
+| Against the Odds | 2.00% | ~122 |
+| Impenetrable Fortress | 2.00% | ~122 |
+| Here be Dragons | 2.00% | ~122 |
+| Tipping the Scales | 2.00% | ~122 |
+| Mighty Hoard | 2.00% | ~122 |
+| Sehiran Oasis | 2.00% | ~122 |
+| Chaos Surge | 2.00% | ~122 |
+| Spoils of War | 2.00% | ~122 |
 | Arch Mage | 1.00% | ~61 |
 | The Creator | 1.00% | ~61 |
 | Eternal Lord | 1.00% | ~61 |
@@ -52,8 +52,8 @@ Rating: 4.62 (Ranked 373)
 | Pruning for Progress | 0.80% | ~49 |
 | Grexolis | 0.80% | ~49 |
 | One for All, All for One | 0.80% | ~49 |
-| Manufactured War | 0.70% | ~42 |
-| Duality | 0.70% | ~42 |
+| Manufactured War | 0.70% | ~43 |
+| Duality | 0.70% | ~43 |
 | Betrayal Most Foul | 0.50% | ~30 |
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,071 (Ranked 193)  
+Progressed: 6,075 (Ranked 193)  
 Completed: 7 (0.12%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 7 (0.12%) (Ranked 297)
 | 2023-12-20 | 5,911 | 7 |
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
-| 2023-12-23 | 6,071 | 7 |
+| 2023-12-23 | 6,075 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 483)  
 Sum: 113 (Ranked 449)  

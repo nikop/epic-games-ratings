@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 630,
-  "EOS_Completed": 48,
+  "EOS_Completed": 49,
   "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.62,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2544,6 +2544,11 @@
       "Time": "2023-12-23T18:05:27.7043127+00:00",
       "NumProgressed": 630,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-12-23T22:06:14.7160994+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 45,
@@ -2915,13 +2920,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 630,
-      "Completed": 48
+      "Completed": 49
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:05:33.3729788+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:06:14.7160988+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:00:04.2159382+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:05:33.3730109+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:00:44.1992986+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:06:14.716139+00:00"
 }

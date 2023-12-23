@@ -17102,9 +17102,9 @@
       "Count": 16644
     }
   ],
-  "EOS_Progressed": 980491,
+  "EOS_Progressed": 980507,
   "EOS_Completed": 2962,
-  "EOS_NewPlayers": 3167,
+  "EOS_NewPlayers": 3164,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45322,6 +45322,11 @@
       "Time": "2023-12-23T21:04:16.1286232+00:00",
       "NumProgressed": 980491,
       "NumCompleted": 2962
+    },
+    {
+      "Time": "2023-12-23T22:04:49.0460928+00:00",
+      "NumProgressed": 980507,
+      "NumCompleted": 2962
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45334,7 +45339,7 @@
       "Name": "City Lights",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "BornToBeWild",
@@ -45366,7 +45371,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58829
+      "UsersEstimate": 58830
     },
     {
       "ID": "FollowingTheRiver",
@@ -45398,7 +45403,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "GunKata",
@@ -45406,7 +45411,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78439
+      "UsersEstimate": 78441
     },
     {
       "ID": "Gunslinger",
@@ -45534,7 +45539,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "TheDevil",
@@ -45542,7 +45547,7 @@
       "Name": "The Devil",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "TheFool",
@@ -45550,7 +45555,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68634
+      "UsersEstimate": 68635
     },
     {
       "ID": "TheHermit",
@@ -45574,7 +45579,7 @@
       "Name": "The Lovers",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58829
+      "UsersEstimate": 58830
     },
     {
       "ID": "TheStar",
@@ -45662,7 +45667,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117659
+      "UsersEstimate": 117661
     },
     {
       "ID": "YipMan",
@@ -45734,7 +45739,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "Kingofcups",
@@ -45774,7 +45779,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "UltimateSurvivor",
@@ -45869,21 +45874,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 980491,
+      "Progressed": 980507,
       "Completed": 2962
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 109114,
+      "Progressed": 109130,
       "Completed": 10445
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-23T21:03:13.2561572+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:04:16.1286229+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:04:49.0460924+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:03:13.2561576+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:04:16.1287557+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:03:38.6041277+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:04:49.046236+00:00"
 }

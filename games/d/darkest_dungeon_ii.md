@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~430 |
-| Lost and Found | 6.00% | ~258 |
+| Malpractice Assurance | 10.00% | ~431 |
+| Lost and Found | 6.00% | ~259 |
 | Autodidact | 5.00% | ~6,472 |
-| This guy... again? | 5.00% | ~215 |
-| This Belongs in a Museum | 4.00% | ~5,177 |
-| Creep and Sleep | 4.00% | ~5,177 |
-| Overdue Notice | 4.00% | ~5,177 |
-| Escape from the Black Hole | 4.00% | ~5,177 |
+| This guy... again? | 5.00% | ~216 |
+| This Belongs in a Museum | 4.00% | ~5,178 |
+| Creep and Sleep | 4.00% | ~5,178 |
+| Overdue Notice | 4.00% | ~5,178 |
+| Escape from the Black Hole | 4.00% | ~5,178 |
 | Ploughshares to Swords | 4.00% | ~172 |
 | Bloody Graduation | 4.00% | ~172 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,883 |
@@ -61,7 +61,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 1.00% | ~1,294 |
 | Slap on the Wrist | 0.90% | ~39 |
 | For Old Time' Sake | 0.90% | ~39 |
-| Handled | 0.80% | ~1,035 |
+| Handled | 0.80% | ~1,036 |
 | Shrine of Reflection | 0.70% | ~906 |
 | Body of Work | 0.70% | ~906 |
 | Clearing the Ledger | 0.60% | ~777 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,432 (Ranked 87)  
+Progressed: 129,443 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 386)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,432 | 3 |
+| 2023-12-23 | 129,443 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,984 (Ranked 58)  

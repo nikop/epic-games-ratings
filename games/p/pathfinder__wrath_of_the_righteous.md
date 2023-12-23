@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,418 |
-| A Spark | 19.00% | ~2,405 |
-| Burning City | 18.00% | ~2,279 |
-| Defender's Heart | 16.00% | ~2,025 |
-| Mythic Choices | 15.00% | ~1,899 |
-| Banner over the Citadel | 14.00% | ~1,772 |
-| Queen's Gratitude | 12.00% | ~1,519 |
-| Fifth Crusade | 9.00% | ~1,139 |
-| Embrace of the Abyss | 7.00% | ~886 |
-| Path of the Angel | 7.00% | ~886 |
-| Demonic and Divine | 7.00% | ~886 |
+| Devoured by Darkness | 27.00% | ~3,420 |
+| A Spark | 19.00% | ~2,407 |
+| Burning City | 18.00% | ~2,280 |
+| Defender's Heart | 16.00% | ~2,027 |
+| Mythic Choices | 15.00% | ~1,900 |
+| Banner over the Citadel | 14.00% | ~1,773 |
+| Queen's Gratitude | 12.00% | ~1,520 |
+| Fifth Crusade | 9.00% | ~1,140 |
+| Embrace of the Abyss | 7.00% | ~887 |
+| Path of the Angel | 7.00% | ~887 |
+| Demonic and Divine | 7.00% | ~887 |
 | Great Upstart | 6.00% | ~760 |
 | All Paths Open | 6.00% | ~760 |
 | Path of the Azata | 5.00% | ~633 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~633 |
 | Next-Door Play | 5.00% | ~633 |
 | Get the Toad | 5.00% | ~633 |
-| Heart of the Fallen Land | 4.00% | ~506 |
-| Divide and Rule | 4.00% | ~506 |
-| Mythic Reinforcements | 4.00% | ~506 |
-| A Flame | 4.00% | ~506 |
-| Hey, I Know You! | 4.00% | ~506 |
+| Heart of the Fallen Land | 4.00% | ~507 |
+| Divide and Rule | 4.00% | ~507 |
+| Mythic Reinforcements | 4.00% | ~507 |
+| A Flame | 4.00% | ~507 |
+| Hey, I Know You! | 4.00% | ~507 |
 | Path of the Trickster | 3.00% | ~380 |
 | Path of the Lich | 3.00% | ~380 |
 | Heroic Victory | 3.00% | ~380 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,659 (Ranked 169)  
+Progressed: 12,667 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 12,550 | 0 |
 | 2023-12-21 | 12,584 | 0 |
 | 2023-12-22 | 12,617 | 0 |
-| 2023-12-23 | 12,659 | 0 |
+| 2023-12-23 | 12,667 | 0 |
 ## Awards
 Max (Character Customization): 1,767  (Ranked 124)  
 Sum: 7,163 (Ranked 123)  

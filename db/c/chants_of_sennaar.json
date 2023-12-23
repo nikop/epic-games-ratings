@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -61,11 +61,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1668,
-  "EOS_Completed": 89,
-  "EOS_NewPlayers": 475,
-  "EOS_NewCompleters": 25,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Progressed": 1669,
+  "EOS_Completed": 90,
+  "EOS_NewPlayers": 469,
+  "EOS_NewCompleters": 26,
+  "EOS_Completed_Percentage": 5.39,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5021,6 +5021,11 @@
       "Time": "2023-12-23T21:08:42.9610141+00:00",
       "NumProgressed": 1668,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-12-23T22:09:00.8796072+00:00",
+      "NumProgressed": 1669,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 25,
@@ -5064,7 +5069,7 @@
       "Name": "A good beginning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "META_HALF_LINK",
@@ -5086,9 +5091,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 234
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5104,7 +5109,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "META_RESULT_2-4",
@@ -5112,7 +5117,7 @@
       "Name": "For its own good",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "META_RESULT_3-4",
@@ -5134,9 +5139,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 350
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5152,7 +5157,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5190,9 +5195,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 784
     },
     {
       "ID": "PROGRESS_N2",
@@ -5208,7 +5213,7 @@
       "Name": "A new dawn",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "PROGRESS_N4",
@@ -5231,16 +5236,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1668,
-      "Completed": 89
+      "Progressed": 1669,
+      "Completed": 90
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:08:42.9610139+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:09:00.8796067+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.8935759+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:00:01.8687201+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:08:42.9610413+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:00:41.6088744+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:09:00.8796469+00:00"
 }

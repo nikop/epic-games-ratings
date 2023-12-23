@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,7 +1021,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9579,
+  "EOS_Progressed": 9580,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -9886,6 +9886,11 @@
       "Time": "2023-12-23T21:09:10.8002169+00:00",
       "NumProgressed": 9579,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T22:09:30.257749+00:00",
+      "NumProgressed": 9580,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9945,7 +9950,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -9969,7 +9974,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -9977,7 +9982,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -10009,7 +10014,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -10089,7 +10094,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10105,7 +10110,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -10137,7 +10142,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -10145,7 +10150,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10249,14 +10254,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4885
+      "UsersEstimate": 4886
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9579,
+      "Progressed": 9580,
       "Completed": 10
     }
   ],
@@ -10264,8 +10269,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:09:10.8002167+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:58:16.9718319+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:09:10.8002822+00:00"
+  "LastChanged_Achievements": "2023-12-23T22:09:30.2577485+00:00",
+  "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
+  "LastUpdate_Ratings": "2023-12-23T21:58:46.1031134+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:09:30.2578423+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 14.00% | ~497 |
+| Not So Fast... | 11.00% | ~390 |
 | Watch Where You Step... | 11.00% | ~390 |
 | Look Over There! | 10.00% | ~355 |
-| Not So Fast... | 10.00% | ~355 |
 | An Ill Omen | 10.00% | ~355 |
 | Purging Spree | 8.00% | ~284 |
 | Blood for the Blood God! | 7.00% | ~249 |

@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
+| Alliance Victory | 0.10% | ~16 |
 | Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
 | Hanging Gardens in Babylon | 0.10% | ~16 |
@@ -110,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.10% | ~16 |
 | Strong Difficulty | 0.10% | ~16 |
 | Elephant in Elephantine | 0.10% | ~16 |
+| Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
 | Artisans | 0.10% | ~16 |
 | Champions | 0.10% | ~16 |
@@ -223,7 +225,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |
 | Necropolis in Waset | 0.10% | ~16 |
+| Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
+| Win a Network Game | 0.10% | ~16 |
 | Win a Single Player Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
@@ -257,7 +261,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum in Roma | 0.10% | ~16 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
-| Alliance Victory | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Battle of Opis | 0.00% | ~0 |
@@ -270,7 +273,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
-| Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
@@ -316,10 +318,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.00% | ~0 |
 | Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
-| Win a Free-For-All Game (>2 Players) | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
-| Win a Network Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | Five Cults | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,910 (Ranked 161)  
+Progressed: 15,914 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 347)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,910 | 5 |
+| 2023-12-23 | 15,914 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

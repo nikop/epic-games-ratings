@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2062,
+  "EOS_Progressed": 2064,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5999,6 +5999,11 @@
       "Time": "2023-12-23T21:10:11.5843129+00:00",
       "NumProgressed": 2062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T22:10:34.9226767+00:00",
+      "NumProgressed": 2064,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6147,7 +6152,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_26",
@@ -6155,7 +6160,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_27",
@@ -6235,7 +6240,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "achievement_36",
@@ -6251,7 +6256,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "achievement_38",
@@ -6275,7 +6280,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_40",
@@ -6283,7 +6288,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_41",
@@ -6387,7 +6392,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_53",
@@ -6514,13 +6519,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2062,
+      "Progressed": 2064,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2062,
+      "Progressed": 2064,
       "Completed": 1
     }
   ],
@@ -6528,8 +6533,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:10:11.5843127+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:10:34.922676+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:59:23.8499643+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:10:11.5844258+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:59:58.9698437+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:10:34.9228125+00:00"
 }

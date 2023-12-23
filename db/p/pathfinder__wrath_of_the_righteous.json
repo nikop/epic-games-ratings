@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4691,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12659,
+  "EOS_Progressed": 12667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17806,6 +17806,11 @@
       "Time": "2023-12-23T21:10:12.1969546+00:00",
       "NumProgressed": 12659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T22:10:35.6216823+00:00",
+      "NumProgressed": 12667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17817,7 +17822,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3420
     },
     {
       "ID": "02_BurningCity",
@@ -17825,7 +17830,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17833,7 +17838,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "04_FithCrusade",
@@ -17841,7 +17846,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17849,7 +17854,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17857,7 +17862,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "07_FinalThreshold",
@@ -17873,7 +17878,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "09_PathOfDemon",
@@ -17953,7 +17958,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "19_EqualToAroden",
@@ -18017,7 +18022,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "28_GreatUpstart",
@@ -18049,7 +18054,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "32_MythicReinforcements",
@@ -18057,7 +18062,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "33_DefendersHeart",
@@ -18065,7 +18070,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2027
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18185,7 +18190,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2407
     },
     {
       "ID": "49_Flame",
@@ -18193,7 +18198,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -18201,7 +18206,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -18209,7 +18214,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18744,21 +18749,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11441,
+      "Progressed": 11449,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12659,
+      "Progressed": 12667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:10:12.1969544+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:10:35.6216816+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:59:25.3261843+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:10:12.1971318+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:00:00.5682811+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:10:35.6218411+00:00"
 }

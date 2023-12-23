@@ -5,15 +5,15 @@ Rating: 4.21 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,494 |
-| Battlefields Have Memories | 80.00% | ~1,358 |
-| Enlisted | 73.00% | ~1,240 |
-| Maybe Engage a Little | 67.00% | ~1,138 |
-| No More Names | 49.00% | ~832 |
-| Initiate | 34.00% | ~577 |
-| Thrada-Kul | 31.00% | ~526 |
+| Unforeseen | 88.00% | ~1,498 |
+| Battlefields Have Memories | 80.00% | ~1,362 |
+| Enlisted | 73.00% | ~1,242 |
+| Maybe Engage a Little | 68.00% | ~1,157 |
+| No More Names | 49.00% | ~834 |
+| Initiate | 34.00% | ~579 |
+| Thrada-Kul | 31.00% | ~528 |
+| Socialite | 23.00% | ~391 |
 | Gravity-Challenged Rocks | 23.00% | ~391 |
-| Socialite | 22.00% | ~374 |
 | Soldier | 20.00% | ~340 |
 | All the Major Food Groups | 19.00% | ~323 |
 | Beggars Would Ride | 18.00% | ~306 |
@@ -28,8 +28,8 @@ Rating: 4.21 (Ranked 929)
 | Armsman | 8.00% | ~136 |
 | Lights Army | 6.00% | ~102 |
 | Periapt Cerulean | 6.00% | ~102 |
+| Good Boy | 6.00% | ~102 |
 | Periapt Viridian | 5.00% | ~85 |
-| Good Boy | 5.00% | ~85 |
 | Best Dressed | 4.00% | ~68 |
 | Shroudfane Explorer | 4.00% | ~68 |
 | Scholar | 3.00% | ~51 |
@@ -44,7 +44,7 @@ Rating: 4.21 (Ranked 929)
 | Master of Ultramarine | 0.70% | ~12 |
 | Master of Malachite | 0.60% | ~10 |
 | Shroudfane Surveyor | 0.60% | ~10 |
-| Backtracker | 0.50% | ~8 |
+| Backtracker | 0.50% | ~9 |
 | Petite Bourgeoisie | 0.40% | ~7 |
 | Treasure Hunter | 0.40% | ~7 |
 | Diplomat | 0.30% | ~5 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 929)
 | Out of Time | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,698 (Ranked 244)  
+Progressed: 1,702 (Ranked 244)  
 Completed: 2 (0.12%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 2 (0.12%) (Ranked 297)
 | 2023-12-20 | 1,423 | 2 |
 | 2023-12-21 | 1,514 | 2 |
 | 2023-12-22 | 1,602 | 2 |
-| 2023-12-23 | 1,698 | 2 |
+| 2023-12-23 | 1,702 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

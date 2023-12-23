@@ -33,8 +33,8 @@ Rating: 4.50 (Ranked 603)
 | Boosted! | 39.00% | ~509 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~509 |
 | True Legends | 38.00% | ~496 |
+| It Is Not Over | 36.00% | ~469 |
 | Bullseye | 36.00% | ~469 |
-| It Is Not Over | 35.00% | ~456 |
 | On The Rocks | 34.00% | ~443 |
 | Snowy Poro | 31.00% | ~404 |
 | Never Gets Old | 31.00% | ~404 |

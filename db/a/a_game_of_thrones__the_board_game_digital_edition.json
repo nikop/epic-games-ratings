@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1356,7 +1356,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31183,
+  "EOS_Progressed": 31189,
   "EOS_Completed": 85,
   "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 1,
@@ -27876,6 +27876,11 @@
       "Time": "2023-12-23T21:09:49.0491846+00:00",
       "NumProgressed": 31183,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-23T22:10:11.1767041+00:00",
+      "NumProgressed": 31189,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -27951,7 +27956,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "1024",
@@ -27983,7 +27988,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "1028",
@@ -27991,7 +27996,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5613
+      "UsersEstimate": 5614
     },
     {
       "ID": "1029",
@@ -28007,7 +28012,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5925
+      "UsersEstimate": 5926
     },
     {
       "ID": "1031",
@@ -28015,7 +28020,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "1032",
@@ -28023,7 +28028,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12473
+      "UsersEstimate": 12476
     },
     {
       "ID": "1033",
@@ -28031,7 +28036,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "1034",
@@ -28047,7 +28052,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "1036",
@@ -28062,15 +28067,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31183,
+      "Progressed": 31189,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:09:49.0491844+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:10:11.1767037+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:00:09.1157844+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:09:49.0492991+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:00:49.6848332+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:10:11.176869+00:00"
 }

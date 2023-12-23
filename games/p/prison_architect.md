@@ -6,13 +6,13 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~51,720 |
-| Get Busy Living | 16.00% | ~33,100 |
-| Samuel Norton | 9.00% | ~18,619 |
-| Spare The Rod | 5.00% | ~10,344 |
-| Don't Put Me In The Dark | 3.00% | ~6,206 |
-| Wait and Hope | 3.00% | ~6,206 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,206 |
+| Stone Walls | 25.00% | ~51,725 |
+| Get Busy Living | 16.00% | ~33,104 |
+| Samuel Norton | 9.00% | ~18,621 |
+| Spare The Rod | 5.00% | ~10,345 |
+| Don't Put Me In The Dark | 3.00% | ~6,207 |
+| Wait and Hope | 3.00% | ~6,207 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,207 |
 | Throw The Book At Them | 2.00% | ~4,138 |
 | Iron Bars | 2.00% | ~4,138 |
 | D.B. Cooper | 1.00% | ~2,069 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~207 |
 | ... It's What You Can Prove | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,878 (Ranked 78)  
+Progressed: 206,900 (Ranked 78)  
 Completed: 11 (0.01%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,16 +270,16 @@ Completed: 11 (0.01%) (Ranked 363)
 | 2023-12-20 | 205,600 | 11 |
 | 2023-12-21 | 206,020 | 11 |
 | 2023-12-22 | 206,431 | 11 |
-| 2023-12-23 | 206,878 | 11 |
+| 2023-12-23 | 206,900 | 11 |
 ## Awards
 Max (Great for Beginners): 612  (Ranked 198)  
-Sum: 4,686 (Ranked 149)  
+Sum: 4,689 (Ranked 149)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 612 |
 | This game is Extremely Fun | 593 |
-| This game is Highly Recommended | 556 |
+| This game is Highly Recommended | 559 |
 | This game has Quickly Understood Controls | 550 |
 | This game is Relaxing | 543 |
 | This game has Diverse Characters | 516 |
@@ -625,4 +625,4 @@ Diff (max vs sum): 49
 | 2023-12-20 | 4.61 | - | 607 | 4,654 |
 | 2023-12-21 | 4.61 | - | 610 | 4,665 |
 | 2023-12-22 | 4.61 | - | 612 | 4,675 |
-| 2023-12-23 | 4.61 | - | 612 | 4,686 |
+| 2023-12-23 | 4.61 | - | 612 | 4,689 |

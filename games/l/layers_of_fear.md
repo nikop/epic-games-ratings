@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 81.00% | ~153 |
-| A piece of the story | 57.00% | ~108 |
+| A piece of the story | 58.00% | ~110 |
 | Wanderer | 54.00% | ~102 |
-| It's covered up for a reason | 48.00% | ~91 |
-| Scraps of love | 44.00% | ~83 |
+| It's covered up for a reason | 49.00% | ~93 |
+| Scraps of love | 46.00% | ~87 |
+| The artist’s impression | 42.00% | ~79 |
 | Do what you have to | 41.00% | ~77 |
-| The artist’s impression | 41.00% | ~77 |
 | Sign of weakness | 36.00% | ~68 |
 | Refuse to look | 32.00% | ~60 |
 | Face your fears | 26.00% | ~49 |
-| Finished it | 25.00% | ~47 |
+| Finished it | 26.00% | ~49 |
 | Whispers long forgotten | 14.00% | ~26 |
 | Tough conversation | 11.00% | ~21 |
 | A Slice of Life | 10.00% | ~19 |
@@ -22,11 +22,11 @@
 | Playtime | 10.00% | ~19 |
 | The art of movement | 10.00% | ~19 |
 | Sound Bite | 9.00% | ~17 |
+| The tragedy unfolds | 9.00% | ~17 |
+| A new way | 8.00% | ~15 |
 | Another perspective | 8.00% | ~15 |
 | First steps | 8.00% | ~15 |
 | Lights! Camera! Action! | 8.00% | ~15 |
-| The tragedy unfolds | 8.00% | ~15 |
-| A new way | 7.00% | ~13 |
 | Breaking free | 7.00% | ~13 |
 | True Reflection | 7.00% | ~13 |
 | Casting Finished | 6.00% | ~11 |

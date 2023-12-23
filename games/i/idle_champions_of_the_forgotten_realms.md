@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.60% | ~1,463 |
 | Fast Food | 0.60% | ~1,261 |
 | Beast Intentions | 0.50% | ~1,219 |
-| The Mad Wizard | 0.40% | ~975 |
+| The Mad Wizard | 0.40% | ~976 |
 | The Overgrown Grove | 0.40% | ~841 |
 | Mental Gymnastics | 0.40% | ~841 |
 | The Ring of Regeneration | 0.30% | ~732 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~210 |
 | The Brains of an Illithid's Desire | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,859 (Ranked 67)  
+Progressed: 243,877 (Ranked 67)  
 Completed: 2,557 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -800,7 +800,7 @@ Completed: 2,557 (1.05%) (Ranked 167)
 | 2023-12-20 | 242,412 | 2,546 |
 | 2023-12-21 | 242,962 | 2,553 |
 | 2023-12-22 | 243,457 | 2,556 |
-| 2023-12-23 | 243,859 | 2,557 |
+| 2023-12-23 | 243,877 | 2,557 |
 ## Awards
 Max (Great for Beginners): 5,684  (Ranked 71)  
 Sum: 33,046 (Ranked 41)  

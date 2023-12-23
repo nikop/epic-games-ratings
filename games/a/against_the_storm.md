@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,11 +23,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 2.00% | ~381 |
 | Ruined Armory | 2.00% | ~381 |
 | Fertile Meadows | 2.00% | ~381 |
+| Levitating Monument | 2.00% | ~381 |
 | Monastery of the Holy Flame | 2.00% | ~381 |
 | Royal Outpost | 2.00% | ~381 |
 | Lost Colonies | 2.00% | ~381 |
 | Watchtower | 2.00% | ~381 |
 | A Real Challenge | 2.00% | ~381 |
+| Trade Baron | 2.00% | ~381 |
 | Untamed Wilds | 2.00% | ~381 |
 | Against All Odds | 1.00% | ~190 |
 | Bandit Camp | 1.00% | ~190 |
@@ -35,12 +37,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 1.00% | ~190 |
 | Sparkdew Crystals | 1.00% | ~190 |
 | Haunted Forest | 1.00% | ~190 |
-| Levitating Monument | 1.00% | ~190 |
 | Flooded Mines | 1.00% | ~190 |
 | Statue of the Forefathers | 1.00% | ~190 |
 | Corrosive Torrent | 1.00% | ~190 |
 | Cursed Lands | 1.00% | ~190 |
-| Trade Baron | 1.00% | ~190 |
 | Serving Ale | 0.80% | ~152 |
 | Defying the Crown | 0.80% | ~152 |
 | Into the Forest | 0.80% | ~152 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,045 (Ranked 150)  
+Progressed: 19,049 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 38 (0.20%) (Ranked 272)
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
-| 2023-12-23 | 19,045 | 39 |
+| 2023-12-23 | 19,049 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,284 (Ranked 175)  

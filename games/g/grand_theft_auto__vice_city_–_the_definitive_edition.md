@@ -1,26 +1,26 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 566)  
+Rating: 4.52 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,287 |
-| Greasy Palms | 42.00% | ~5,740 |
-| South American Connection | 25.00% | ~3,417 |
-| Life of the Party | 20.00% | ~2,733 |
-| Tommy Two-Wheels | 15.00% | ~2,050 |
-| Big Heat from Little Havana | 14.00% | ~1,913 |
-| Chauffeur | 14.00% | ~1,913 |
-| Salutations My Little Friend | 11.00% | ~1,503 |
-| Iron-y | 10.00% | ~1,367 |
-| Gun for Hire | 9.00% | ~1,230 |
-| Mischief Managed | 8.00% | ~1,093 |
-| Vice City Mogul | 6.00% | ~820 |
-| Catch Me if You Can | 6.00% | ~820 |
-| Bloodstained Hands | 6.00% | ~820 |
-| Not my First Time | 5.00% | ~683 |
-| Grand Theft Auto | 5.00% | ~683 |
+| Legal Counsel | 46.00% | ~6,292 |
+| Greasy Palms | 42.00% | ~5,745 |
+| South American Connection | 25.00% | ~3,420 |
+| Life of the Party | 20.00% | ~2,736 |
+| Tommy Two-Wheels | 15.00% | ~2,052 |
+| Big Heat from Little Havana | 14.00% | ~1,915 |
+| Chauffeur | 14.00% | ~1,915 |
+| Salutations My Little Friend | 11.00% | ~1,505 |
+| Iron-y | 10.00% | ~1,368 |
+| Gun for Hire | 9.00% | ~1,231 |
+| Mischief Managed | 8.00% | ~1,094 |
+| Vice City Mogul | 6.00% | ~821 |
+| Catch Me if You Can | 6.00% | ~821 |
+| Bloodstained Hands | 6.00% | ~821 |
+| Not my First Time | 5.00% | ~684 |
+| Grand Theft Auto | 5.00% | ~684 |
 | Pie Guy | 4.00% | ~547 |
 | Point A to Point B | 3.00% | ~410 |
 | High Quality H2O | 3.00% | ~410 |
@@ -28,11 +28,11 @@ Rating: 4.52 (Ranked 566)
 | Somebody Call the Wambulance? | 3.00% | ~410 |
 | Just Like the Real Thing | 3.00% | ~410 |
 | Don't Need Roads | 3.00% | ~410 |
-| Running Rampant | 2.00% | ~273 |
-| One is Better Than Two | 2.00% | ~273 |
-| Take the Cannoli | 2.00% | ~273 |
-| Chopper’d Up | 2.00% | ~273 |
-| City Sleuth | 2.00% | ~273 |
+| Running Rampant | 2.00% | ~274 |
+| One is Better Than Two | 2.00% | ~274 |
+| Take the Cannoli | 2.00% | ~274 |
+| Chopper’d Up | 2.00% | ~274 |
+| City Sleuth | 2.00% | ~274 |
 | Born in the 80’s | 1.00% | ~137 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~137 |
 | I'm Famous! | 1.00% | ~137 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 566)
 | Done it All | 0.90% | ~123 |
 | Kingpin | 0.50% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,667 (Ranked 167)  
+Progressed: 13,678 (Ranked 167)  
 Completed: 75 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,14 +287,14 @@ Completed: 75 (0.55%) (Ranked 206)
 | 2023-12-20 | 13,130 | 71 |
 | 2023-12-21 | 13,290 | 72 |
 | 2023-12-22 | 13,474 | 74 |
-| 2023-12-23 | 13,667 | 75 |
+| 2023-12-23 | 13,678 | 75 |
 ## Awards
-Max (Great Boss Battles): 135  (Ranked 334)  
-Sum: 135 (Ranked 437)  
-Diff (max vs sum): -103  
+Max (Great Boss Battles): 139  (Ranked 330)  
+Sum: 139 (Ranked 436)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 135 |
+| This game has Great Boss Battles | 139 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -451,3 +451,4 @@ Diff (max vs sum): -103
 | 2023-12-20 | 4.52 | 131 | 131 |
 | 2023-12-21 | 4.53 | 133 | 133 |
 | 2023-12-22 | 4.52 | 135 | 135 |
+| 2023-12-23 | 4.52 | 139 | 139 |

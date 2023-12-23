@@ -2,12 +2,12 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 859,
+  "Ranking_Rating": 860,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -2011,9 +2011,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2172,8 +2172,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:09:19.7994067+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:09:39.7914906+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:00:22.0944934+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:09:19.7994292+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:01:04.866325+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:09:39.7915139+00:00"
 }

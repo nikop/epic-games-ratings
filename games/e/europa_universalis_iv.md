@@ -187,6 +187,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Narcissism | 0.10% | ~482 |
 | Neither Holy, Nor German | 0.10% | ~482 |
 | Networking | 0.10% | ~482 |
+| Never say Nevers | 0.10% | ~482 |
 | No Country for Old Tercios | 0.10% | ~482 |
 | No Pirates in my Caribbean | 0.10% | ~482 |
 | No Trail of Tears | 0.10% | ~482 |
@@ -336,7 +337,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Let It Go! | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Never say Nevers | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,411 (Ranked 40)  
+Progressed: 482,455 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 1 (0.00%) (Ranked 386)
 | 2023-12-20 | 480,075 | 1 |
 | 2023-12-21 | 480,795 | 1 |
 | 2023-12-22 | 481,537 | 1 |
-| 2023-12-23 | 482,411 | 1 |
+| 2023-12-23 | 482,455 | 1 |
 ## Awards
 Max (Educational): 7,528  (Ranked 54)  
 Sum: 62,021 (Ranked 24)  

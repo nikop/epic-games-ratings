@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
@@ -780,6 +780,11 @@
       "Time": "2023-12-22T19:04:57.2871871+00:00",
       "NumProgressed": 496,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T22:05:36.7321116+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -821,9 +826,9 @@
       "ID": "dep4_achievement_13",
       "SetID": "5d32b60",
       "Name": "Quickdraw",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "dep4_achievement_14",
@@ -831,7 +836,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "dep4_achievement_15",
@@ -879,7 +884,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "dep4_achievement_20",
@@ -919,7 +924,7 @@
       "Name": "Thuna...?",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "dep4_achievement_25",
@@ -927,7 +932,7 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "dep4_achievement_26",
@@ -967,7 +972,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "dep4_achievement_30",
@@ -997,9 +1002,9 @@
       "ID": "dep4_achievement_33",
       "SetID": "5d32b60",
       "Name": "Heading the inverter",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "dep4_achievement_34",
@@ -1037,9 +1042,9 @@
       "ID": "dep4_achievement_5",
       "SetID": "5d32b60",
       "Name": "Boat of love, boat of love",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 239
     },
     {
       "ID": "dep4_achievement_6",
@@ -1047,7 +1052,7 @@
       "Name": "School\u0027s out",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "dep4_achievement_7",
@@ -1078,7 +1083,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 7
     }
   ],
@@ -1086,8 +1091,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:04:58.2645752+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:05:36.7321111+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.0166518+00:00",
-  "LastUpdate_Ratings": "2023-12-23T21:03:14.9781594+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:04:58.2645943+00:00"
+  "LastUpdate_Ratings": "2023-12-23T22:03:40.5800997+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:05:36.7321378+00:00"
 }

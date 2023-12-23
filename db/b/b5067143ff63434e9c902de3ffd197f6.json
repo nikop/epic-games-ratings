@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15845,
+  "EOS_Progressed": 15849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9909,6 +9909,11 @@
       "Time": "2023-12-23T21:04:30.3356903+00:00",
       "NumProgressed": 15845,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T22:05:04.4043072+00:00",
+      "NumProgressed": 15849,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10017,7 +10022,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10025,7 +10030,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10112,14 +10117,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 15845,
+      "Progressed": 15849,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-23T21:04:30.3356901+00:00",
+  "LastChanged_Achievements": "2023-12-23T22:05:04.4043068+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.5772532+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:58:30.7194128+00:00",
-  "LastUpdate_Achievements": "2023-12-23T21:04:30.3357602+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:59:00.1649027+00:00",
+  "LastUpdate_Achievements": "2023-12-23T22:05:04.404363+00:00"
 }
