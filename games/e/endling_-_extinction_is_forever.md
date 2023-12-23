@@ -10,8 +10,8 @@
 | Detox diet | 41.00% | ~232 |
 | Never Give Up | 40.00% | ~226 |
 | Tasty | 37.00% | ~209 |
+| Lullaby | 31.00% | ~175 |
 | You Can Pet The Fox | 30.00% | ~170 |
-| Lullaby | 30.00% | ~170 |
 | Hard Fox Life | 24.00% | ~136 |
 | Never Let Down | 23.00% | ~130 |
 | A Barking Fox Doesn't Bite | 21.00% | ~119 |
@@ -22,11 +22,11 @@
 | Family Reunion | 14.00% | ~79 |
 | Beyond Words | 14.00% | ~79 |
 | Never Run Around | 13.00% | ~74 |
+| Three Little Foxes | 11.00% | ~62 |
 | Two Peas in a Pod | 11.00% | ~62 |
 | All For One | 11.00% | ~62 |
 | Extinction is Forever | 11.00% | ~62 |
-| Three Little Foxes | 10.00% | ~57 |
-| We Are a Family | 9.00% | ~51 |
+| We Are a Family | 10.00% | ~57 |
 | Mother Love | 4.00% | ~23 |
 | For a Better Tomorrow | 3.00% | ~17 |
 | Easter Egg | 2.00% | ~11 |

@@ -2,11 +2,11 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 176,
+  "Ranking_Rating": 175,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -870,9 +870,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "ach-promotion",
@@ -983,8 +983,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:57.6979751+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:49.6762134+00:00",
   "LastUpdate_AppInfo": "2023-12-16T13:57:07.0437312+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:40.6483266+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:57.6980107+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:57:43.414659+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:49.6762522+00:00"
 }

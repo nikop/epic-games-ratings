@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 101,
   "RatingHistory": [
     {
@@ -287,6 +287,12 @@
     {
       "Time": "2023-12-12T19:59:33.509191+00:00",
       "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T10:57:58.3271619+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3048,9 +3054,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
-  "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:05:32.4049327+00:00",
+  "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:05:27.1269709+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:55.8039989+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:05:32.4049549+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:57:58.3271622+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:05:27.1269977+00:00"
 }

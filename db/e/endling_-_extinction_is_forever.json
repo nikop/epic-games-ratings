@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 566,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1036,17 +1036,17 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "TROP002",
       "SetID": "9n0dl35",
       "Name": "Three Little Foxes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "TROP003",
@@ -1236,9 +1236,9 @@
       "ID": "TROP026",
       "SetID": "9n0dl35",
       "Name": "Lullaby",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "TROP027",
@@ -1261,8 +1261,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:53.6481267+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:45.294653+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:57.910858+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:58:33.8921832+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:53.6481459+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:37.3953431+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:45.2946721+00:00"
 }

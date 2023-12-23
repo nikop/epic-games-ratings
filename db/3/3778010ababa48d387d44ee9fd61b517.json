@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 489,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -263,9 +263,9 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -407,9 +407,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A_SUN",
@@ -478,8 +478,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:06:37.3015905+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:06:31.8483084+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.9451598+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:00:20.1181966+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:06:37.301609+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:00:25.4264832+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:06:31.8483335+00:00"
 }

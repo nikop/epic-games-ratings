@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 698,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.44,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -2515,6 +2515,11 @@
       "Time": "2023-12-23T06:09:46.1601137+00:00",
       "NumProgressed": 696,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T11:09:23.4937138+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2527,7 +2532,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_10",
@@ -2535,7 +2540,7 @@
       "Name": "Holey Moley",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_11",
@@ -2543,7 +2548,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_12",
@@ -2551,7 +2556,7 @@
       "Name": "From Way Downtown",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_13",
@@ -2567,7 +2572,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_15",
@@ -2583,7 +2588,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achievement_17",
@@ -2591,15 +2596,15 @@
       "Name": "Clean Sheet",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_2",
@@ -2607,7 +2612,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_3",
@@ -2615,7 +2620,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_4",
@@ -2629,9 +2634,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_6",
@@ -2647,7 +2652,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "achievement_8",
@@ -2655,7 +2660,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_9",
@@ -2670,13 +2675,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 698,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:31.5085432+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:23.4937132+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:00:17.7363683+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:31.5085665+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:00:23.0604972+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:23.4937348+00:00"
 }

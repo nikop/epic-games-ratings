@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 176)  
+Rating: 4.73 (Ranked 175)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 20  (23.09.2022)
 | A Strange Artefact | 53.00% | ~198 |
 | Insomnia | 49.00% | ~183 |
 | Lost & Found & Lost Again | 43.00% | ~161 |
-| From Whence we Came | 42.00% | ~157 |
+| From Whence we Came | 43.00% | ~161 |
 | Fire and Flood | 41.00% | ~153 |
 | Spooky! | 38.00% | ~142 |
 | Shennong Herbalist | 34.00% | ~127 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 374 (Ranked 356)  
-Completed: 1 (0.27%) (Ranked 256)  
+Completed: 1 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

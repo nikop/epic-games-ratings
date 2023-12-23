@@ -738,9 +738,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -906,9 +906,9 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1002,8 +1002,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:05:57.6737766+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:05:51.7997192+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:30.3369877+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:25.8186032+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:05:57.6738014+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:29.8365381+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:05:51.7997398+00:00"
 }

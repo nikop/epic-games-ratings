@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1116,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3089,6 +3089,11 @@
       "Time": "2023-12-23T10:09:40.04398+00:00",
       "NumProgressed": 1116,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T11:09:31.7778834+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3117,7 +3122,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "Cartographer",
@@ -3149,7 +3154,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3157,7 +3162,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "DustDancing",
@@ -3173,7 +3178,7 @@
       "Name": "Everything is Dust",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "LightsOut",
@@ -3205,7 +3210,7 @@
       "Name": "Outpatient",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "Relic",
@@ -3251,23 +3256,23 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 972
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1116,
+      "Progressed": 1117,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:40.0439789+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:31.7778829+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:37.0380148+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:40.0440033+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:41.507868+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:31.7779098+00:00"
 }

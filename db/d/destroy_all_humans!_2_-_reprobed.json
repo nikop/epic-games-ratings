@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -921,6 +921,11 @@
       "Time": "2023-12-23T07:09:04.0316544+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T11:08:43.0258066+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -933,7 +938,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -949,7 +954,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -963,9 +968,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1045,7 +1050,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1069,15 +1074,15 @@
       "Name": "Rock of the Bay",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1085,7 +1090,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1107,9 +1112,9 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1133,7 +1138,7 @@
       "Name": "Die Nasty",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1179,9 +1184,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1267,9 +1272,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1284,7 +1289,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
@@ -1292,8 +1297,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:08:50.5186478+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:08:43.0258064+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:27.9772854+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:08:50.51868+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:32.2443573+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:08:43.0258405+00:00"
 }

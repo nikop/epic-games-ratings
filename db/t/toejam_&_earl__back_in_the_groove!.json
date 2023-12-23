@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58383,
+  "EOS_Progressed": 58384,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14581,6 +14581,11 @@
       "Time": "2023-12-23T10:05:01.1058592+00:00",
       "NumProgressed": 58383,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T11:04:55.7844347+00:00",
+      "NumProgressed": 58384,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14752,7 +14757,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "IsThisPossible",
@@ -14936,7 +14941,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "TotalBummer",
@@ -14983,7 +14988,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58383,
+      "Progressed": 58384,
       "Completed": 6
     }
   ],
@@ -14991,8 +14996,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:05:01.105859+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:55.7844345+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:27.8258987+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:05:01.1059358+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:57:31.488991+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:55.7845156+00:00"
 }

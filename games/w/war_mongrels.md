@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~470 |
-| Cowardice | 61.00% | ~428 |
+| Explorer | 67.00% | ~471 |
+| Cowardice | 61.00% | ~429 |
 | NO LIFE IS WORTH SAVING... | 46.00% | ~323 |
 | Eat Lead! | 44.00% | ~309 |
 | The Breaking Point | 43.00% | ~302 |
@@ -25,13 +25,13 @@ Number of Ratings: 34  (23.09.2022)
 | The Horror | 28.00% | ~197 |
 | The Difference | 26.00% | ~183 |
 | Vengeance | 25.00% | ~176 |
-| It's Just an Accident | 24.00% | ~168 |
-| Broken Hopes | 23.00% | ~161 |
-| Collectibles of Chapter II | 22.00% | ~154 |
-| Bullseye! | 22.00% | ~154 |
-| Sorrow | 20.00% | ~140 |
-| Atonement | 18.00% | ~126 |
-| Food Massacre | 18.00% | ~126 |
+| It's Just an Accident | 24.00% | ~169 |
+| Collectibles of Chapter II | 22.00% | ~155 |
+| Broken Hopes | 22.00% | ~155 |
+| Bullseye! | 22.00% | ~155 |
+| Sorrow | 20.00% | ~141 |
+| Atonement | 18.00% | ~127 |
+| Food Massacre | 17.00% | ~120 |
 | Helping Hand | 16.00% | ~112 |
 | Without a Second Thought | 15.00% | ~105 |
 | Collectibles of Chapter III | 14.00% | ~98 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 303)  
+Progressed: 703 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 680 | 0 |
 | 2023-12-21 | 691 | 0 |
 | 2023-12-22 | 700 | 0 |
-| 2023-12-23 | 702 | 0 |
+| 2023-12-23 | 703 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

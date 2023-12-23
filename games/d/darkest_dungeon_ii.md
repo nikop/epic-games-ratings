@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~375 |
+| Malpractice Assurance | 9.00% | ~376 |
 | Lost and Found | 6.00% | ~250 |
-| This guy... again? | 5.00% | ~208 |
+| This guy... again? | 5.00% | ~209 |
 | This Belongs in a Museum | 4.00% | ~5,172 |
 | Creep and Sleep | 4.00% | ~5,172 |
 | Overdue Notice | 4.00% | ~5,172 |
@@ -59,23 +59,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 1.00% | ~1,293 |
 | Hot Air | 1.00% | ~1,293 |
 | Eyes Up | 1.00% | ~1,293 |
-| Slap on the Wrist | 0.90% | ~37 |
+| Slap on the Wrist | 0.90% | ~38 |
+| For Old Time' Sake | 0.90% | ~38 |
 | Handled | 0.80% | ~1,034 |
-| For Old Time' Sake | 0.80% | ~33 |
 | Shrine of Reflection | 0.70% | ~905 |
 | Body of Work | 0.70% | ~905 |
 | Clearing the Ledger | 0.60% | ~776 |
 | Et Tu, Riposte? | 0.60% | ~25 |
-| Hat Trick | 0.50% | ~646 |
-| Triage | 0.50% | ~646 |
+| Hat Trick | 0.50% | ~647 |
+| Triage | 0.50% | ~647 |
 | No Mercy | 0.50% | ~21 |
 | The World As It Was | 0.40% | ~517 |
 | Bacon Bits | 0.40% | ~517 |
 | A Life Well Lived | 0.30% | ~388 |
 | Eidetic | 0.30% | ~388 |
-| Battle Hardened | 0.30% | ~12 |
-| Maître De La Lame | 0.30% | ~12 |
-| On This Long Road, We Found Redemption | 0.30% | ~12 |
+| Battle Hardened | 0.30% | ~13 |
+| Maître De La Lame | 0.30% | ~13 |
+| On This Long Road, We Found Redemption | 0.30% | ~13 |
 | Tears in the Rain | 0.20% | ~259 |
 | Loop Year | 0.10% | ~129 |
 | Circle of Life | 0.10% | ~129 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,297 (Ranked 87)  
+Progressed: 129,304 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 386)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,297 | 3 |
+| 2023-12-23 | 129,304 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,962 (Ranked 58)  

@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2023-12-23T01:51:02.084142+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T11:08:38.0376794+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -724,7 +729,7 @@
       "Name": "Across The Styx",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -756,7 +761,7 @@
       "Name": "Brand New Chorus",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -772,7 +777,7 @@
       "Name": "Charismatic",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_CUNNING",
@@ -788,7 +793,7 @@
       "Name": "End Of The Road",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -812,7 +817,7 @@
       "Name": "God Of The Sun",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -820,7 +825,7 @@
       "Name": "Heartbreaker",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -850,9 +855,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -866,9 +871,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -906,9 +911,9 @@
       "ID": "SG_SNAKECHARMER",
       "SetID": "bj5g0n4",
       "Name": "Snake Charmer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -938,9 +943,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -948,7 +953,7 @@
       "Name": "The High Road",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SG_THEKINGOFHELL",
@@ -1011,14 +1016,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:08:45.5722447+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:08:38.0376792+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:58.1958012+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:08:45.5722702+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:00.7220514+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:08:38.0377034+00:00"
 }

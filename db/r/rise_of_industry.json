@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761554,
+  "EOS_Progressed": 761571,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1937,
+  "EOS_NewPlayers": 1936,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28722,6 +28722,11 @@
       "Time": "2023-12-23T10:04:50.3727726+00:00",
       "NumProgressed": 761554,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T11:04:44.8347998+00:00",
+      "NumProgressed": 761571,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -28757,7 +28762,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45693
+      "UsersEstimate": 45694
     },
     {
       "ID": "ach_build_bridge",
@@ -28797,7 +28802,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 281775
+      "UsersEstimate": 281781
     },
     {
       "ID": "ach_demolish_trees",
@@ -28805,7 +28810,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 129464
+      "UsersEstimate": 129467
     },
     {
       "ID": "ach_free_cam_mode",
@@ -28829,7 +28834,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45693
+      "UsersEstimate": 45694
     },
     {
       "ID": "ach_max_truck_distance",
@@ -28837,7 +28842,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 91386
+      "UsersEstimate": 91389
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -28861,7 +28866,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 365546
+      "UsersEstimate": 365554
     },
     {
       "ID": "ach_produced",
@@ -28869,7 +28874,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99002
+      "UsersEstimate": 99004
     },
     {
       "ID": "ach_products_moved",
@@ -28877,7 +28882,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 121849
+      "UsersEstimate": 121851
     },
     {
       "ID": "ach_raise_money",
@@ -28901,7 +28906,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99002
+      "UsersEstimate": 99004
     },
     {
       "ID": "ach_setup_route_boat",
@@ -28909,7 +28914,7 @@
       "Name": "Captain",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6092
+      "UsersEstimate": 6093
     },
     {
       "ID": "ach_setup_route_train",
@@ -28917,7 +28922,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 60924
+      "UsersEstimate": 60926
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -28933,7 +28938,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 91386
+      "UsersEstimate": 91389
     },
     {
       "ID": "ach_warehouse_clients",
@@ -28941,14 +28946,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 144695
+      "UsersEstimate": 144698
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 761554,
+      "Progressed": 761571,
       "Completed": 4
     }
   ],
@@ -28956,8 +28961,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-23T04:01:00.8949605+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:04:50.3727725+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:44.8347994+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:28.6229748+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:43.008244+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:04:50.3728896+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:47.2320031+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:44.83492+00:00"
 }

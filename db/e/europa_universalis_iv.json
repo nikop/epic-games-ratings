@@ -13611,9 +13611,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 481804,
+  "EOS_Progressed": 481849,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5576,
+  "EOS_NewPlayers": 5550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42031,6 +42031,11 @@
       "Time": "2023-12-23T10:05:57.2240766+00:00",
       "NumProgressed": 481804,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T11:05:51.5694823+00:00",
+      "NumProgressed": 481849,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43066,7 +43071,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -44042,7 +44047,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -44322,7 +44327,7 @@
       "Name": "That is mine!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -44738,7 +44743,7 @@
       "Name": "Victorious!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -44945,21 +44950,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 481804,
+      "Progressed": 481849,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 481804,
+      "Progressed": 481849,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-23T06:58:50.4505728+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:05:57.2240764+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:05:51.569482+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:58:42.4258765+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:05:57.2251612+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:46.9509584+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:05:51.5705907+00:00"
 }

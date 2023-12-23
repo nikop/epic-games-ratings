@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "Achievement34",
       "SetID": "9fa3l5n",
       "Name": "Cat Lover",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement35",
@@ -751,17 +751,17 @@
       "ID": "Achievement7",
       "SetID": "9fa3l5n",
       "Name": "It\u0027s a Deal!",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement9",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:04:29.9598886+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:23.6560217+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.8592774+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:58:38.447508+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:04:29.9599132+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:42.0515548+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:23.6560449+00:00"
 }

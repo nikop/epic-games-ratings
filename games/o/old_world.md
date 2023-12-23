@@ -9,9 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.30% | ~48 |
 | Settler | 0.30% | ~48 |
 | Play a Single Player Game | 0.30% | ~48 |
+| Regicide | 0.20% | ~32 |
 | Able | 0.20% | ~32 |
 | Architect | 0.20% | ~32 |
 | Enlightened | 0.20% | ~32 |
+| Fountainhead | 0.20% | ~32 |
 | Glorious | 0.20% | ~32 |
 | Good | 0.20% | ~32 |
 | Intrepid | 0.20% | ~32 |
@@ -22,18 +24,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
 | Strong | 0.20% | ~32 |
+| Warrior | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
 | Strong Cities | 0.20% | ~32 |
 | Friendly Family | 0.20% | ~32 |
+| Great Ziggurat | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
+| Pyramids | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
+| Naming Landmarks | 0.20% | ~32 |
 | Trade Caravan | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
-| Regicide | 0.10% | ~16 |
 | Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
 | Hanging Gardens in Babylon | 0.10% | ~16 |
@@ -72,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.10% | ~16 |
 | Conqueror | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
-| Fountainhead | 0.10% | ~16 |
 | Great | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
 | Intercessor | 0.10% | ~16 |
@@ -86,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.10% | ~16 |
 | Valiant | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
-| Warrior | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Wise | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
@@ -113,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
+| Game of the Week | 0.10% | ~16 |
 | Run, Pheidippides, Run! | 0.10% | ~16 |
 | Nenikekamen | 0.10% | ~16 |
 | Get the Hellas Out | 0.10% | ~16 |
@@ -130,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Colossus | 0.10% | ~16 |
-| Great Ziggurat | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |
 | Temple of Solomon | 0.10% | ~16 |
@@ -142,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.10% | ~16 |
 | Necropolis | 0.10% | ~16 |
 | Pantheon | 0.10% | ~16 |
-| Pyramids | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
@@ -186,7 +188,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~16 |
 | Building Wonders | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
-| Naming Landmarks | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
 | Economic Reform | 0.10% | ~16 |
 | Industrial Progress | 0.10% | ~16 |
@@ -269,7 +270,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
-| Game of the Week | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,892 (Ranked 161)  
+Progressed: 15,893 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 346)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,892 | 5 |
+| 2023-12-23 | 15,893 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

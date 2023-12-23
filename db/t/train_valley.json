@@ -1573,9 +1573,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 449
     },
     {
       "ID": "02_collector",
@@ -1893,8 +1893,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:03:34.4409737+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:03:27.8607414+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:19.3216097+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:03:34.4410187+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:23.3063884+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:03:27.8607775+00:00"
 }

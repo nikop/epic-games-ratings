@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 483,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1332,9 +1332,9 @@
       "ID": "ACCEL_COMBO_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Combo Crackerjack",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -1564,9 +1564,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD4",
       "SetID": "apihg0e",
       "Name": "Ouranos Island Memories",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "POWER_LEVEL_REACH_NUM",
@@ -1659,8 +1659,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:04:22.3731219+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:15.6526106+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:03:01.2100079+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:04:22.3731531+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:02:54.5748509+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:15.6526412+00:00"
 }

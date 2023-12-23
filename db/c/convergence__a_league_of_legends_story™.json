@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 340,
+  "Ranking_Rating": 319,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-07-28T17:00:54.1232384+00:00",
@@ -37,6 +37,12 @@
     {
       "Time": "2023-12-18T08:57:59.1291339+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T11:00:26.0237025+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3299,9 +3305,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 257
     },
     {
       "ID": "RewindDamage1",
@@ -3451,9 +3457,9 @@
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:48.2922998+00:00",
+  "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:40.0885223+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:00:20.7263632+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:48.2923401+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:00:26.0237027+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:40.0885673+00:00"
 }

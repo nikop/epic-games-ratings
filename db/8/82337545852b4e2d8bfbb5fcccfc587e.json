@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 126,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.73,
   "EosHistory": [
@@ -705,9 +705,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "EpicACHV_12",
@@ -729,9 +729,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "EpicACHV_15",
@@ -745,9 +745,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "EpicACHV_17",
@@ -832,8 +832,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:08:47.6546649+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:08:40.0706013+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:11.4118743+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:00:05.6136109+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:08:47.6546764+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:00:10.6988117+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:08:40.0706145+00:00"
 }

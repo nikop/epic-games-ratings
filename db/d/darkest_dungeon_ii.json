@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10044,9 +10044,9 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129297,
+  "EOS_Progressed": 129304,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1679,
+  "EOS_NewPlayers": 1670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36394,6 +36394,11 @@
       "Time": "2023-12-23T10:09:14.3056022+00:00",
       "NumProgressed": 129297,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T11:09:06.2285215+00:00",
+      "NumProgressed": 129304,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36685,7 +36690,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -36789,7 +36794,7 @@
       "Name": "Triage",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "inn_first_time",
@@ -36925,7 +36930,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -36933,7 +36938,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -36941,7 +36946,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "combat_kill_collector",
@@ -36949,7 +36954,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -36973,7 +36978,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -37019,9 +37024,9 @@
       "ID": "run_victory_any_ves_pd_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "For Old Time\u0027 Sake",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -37029,28 +37034,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129297,
+      "Progressed": 129304,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4166,
+      "Progressed": 4173,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-23T03:02:58.6812207+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:14.305602+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:06.2285213+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:05.688749+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:14.3057616+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:57:09.2119227+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:06.2287302+00:00"
 }

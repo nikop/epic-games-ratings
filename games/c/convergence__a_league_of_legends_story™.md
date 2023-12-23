@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.64 (Ranked 340)  
+Rating: 4.65 (Ranked 319)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,10 +10,10 @@ Rating: 4.64 (Ranked 340)
 | The Mysterious Stranger | 29.00% | ~311 |
 | Immaculate Aim | 25.00% | ~268 |
 | Make Up For Lost Time | 24.00% | ~257 |
+| The Prince in Heels | 24.00% | ~257 |
 | The Brass Boss | 24.00% | ~257 |
 | Time Flies | 23.00% | ~247 |
 | No, Thanks! | 23.00% | ~247 |
-| The Prince in Heels | 23.00% | ~247 |
 | Honest Mistake | 23.00% | ~247 |
 | Immaculate Aim | 23.00% | ~247 |
 | The Steel Shadow | 22.00% | ~236 |
@@ -219,3 +219,4 @@ Completed: 6 (0.56%) (Ranked 204)
 | 2023-07-28 | 4.60 | 0 | 0 |
 | 2023-10-16 | 4.62 | 0 | 0 |
 | 2023-12-18 | 4.64 | 0 | 0 |
+| 2023-12-23 | 4.65 | 0 | 0 |

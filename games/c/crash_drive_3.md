@@ -30,9 +30,9 @@
 | Anger Issues | 19.00% | ~80 |
 | Your Highness | 19.00% | ~80 |
 | Event Amateur | 18.00% | ~76 |
+| Feeling Dizzy? | 17.00% | ~72 |
 | Drift King! | 16.00% | ~67 |
 | Feeling Hot Hot Hot! | 16.00% | ~67 |
-| Feeling Dizzy? | 16.00% | ~67 |
 | Ferry Good! | 16.00% | ~67 |
 | Assert Dominance | 16.00% | ~67 |
 | Speed of light | 16.00% | ~67 |

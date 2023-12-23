@@ -596,9 +596,9 @@
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "hopeful",
@@ -636,17 +636,17 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "off_his_meds",
       "SetID": "a3kkelb",
       "Name": "He\u0027s Off His Meds",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "on_your_bike",
@@ -725,8 +725,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:04:41.1167688+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:34.9907341+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:54.4004321+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:19.7308999+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:04:41.1167809+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:57:23.1944164+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:34.9907466+00:00"
 }

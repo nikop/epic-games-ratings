@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6031,
+  "EOS_Progressed": 6034,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8872,6 +8872,11 @@
       "Time": "2023-12-23T09:06:15.042654+00:00",
       "NumProgressed": 6031,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T11:06:09.7897023+00:00",
+      "NumProgressed": 6034,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9011,15 +9016,15 @@
       "Name": "Secret Technique",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 422
     },
     {
       "ID": "26",
@@ -9362,13 +9367,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6031,
+      "Progressed": 6034,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6031,
+      "Progressed": 6034,
       "Completed": 7
     }
   ],
@@ -9376,8 +9381,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:06:15.9311034+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:06:09.7897019+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:58:01.1791097+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:06:15.931169+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:03.5635674+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:06:09.7897696+00:00"
 }

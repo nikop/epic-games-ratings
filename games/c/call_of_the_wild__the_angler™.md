@@ -34,12 +34,12 @@ Number of Ratings: 281  (23.09.2022)
 | Lake Me up Before You Go Go | 0.20% | ~15 |
 | Big Fish Small Pond | 0.20% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~15 |
+| Rod and Troll | 0.20% | ~14 |
 | Three Square Meals | 0.20% | ~14 |
 | Head for Heights | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Lost and Flounder | 0.10% | ~7 |
 | Buckaroo | 0.10% | ~7 |
-| Rod and Troll | 0.10% | ~7 |
 | Trollsporet Tale Teller | 0.10% | ~7 |
 | Fish upon a Star | 0.10% | ~7 |
 | Cache and Carry | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,410 (Ranked 188)  
+Progressed: 7,411 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 7,288 | 0 |
 | 2023-12-21 | 7,339 | 0 |
 | 2023-12-22 | 7,389 | 0 |
-| 2023-12-23 | 7,410 | 0 |
+| 2023-12-23 | 7,411 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 466)  
 Sum: 210 (Ranked 405)  

@@ -3813,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32565,
+  "EOS_Progressed": 32568,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23168,6 +23168,11 @@
       "Time": "2023-12-23T10:06:28.2197695+00:00",
       "NumProgressed": 32565,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-23T11:06:22.3481171+00:00",
+      "NumProgressed": 32568,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23483,7 +23488,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3257
     },
     {
       "ID": "Summoner",
@@ -23561,9 +23566,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1628
     },
     {
       "ID": "Welcome_Crew",
@@ -23586,7 +23591,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32565,
+      "Progressed": 32568,
       "Completed": 69
     }
   ],
@@ -23594,8 +23599,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:06:28.2197693+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:06:22.3481168+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:57:00.7910396+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:06:28.2198963+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:57:04.3914434+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:06:22.3482134+00:00"
 }

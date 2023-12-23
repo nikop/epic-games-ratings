@@ -6,8 +6,8 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,11 +156,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -1871,6 +1871,11 @@
       "Time": "2023-12-23T00:09:59.8624244+00:00",
       "NumProgressed": 550,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T11:08:58.7654209+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -1890,7 +1895,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BUILD_RAFINERY",
@@ -1928,9 +1933,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1960,9 +1965,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1970,15 +1975,15 @@
       "Name": "Scrap Gatherer",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2090,7 +2095,7 @@
       "Name": "Smelter",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2098,7 +2103,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2106,7 +2111,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2129,7 +2134,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 3
     }
   ],
@@ -2137,8 +2142,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:06.4263148+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:08:58.7654202+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:53.5476983+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:06.4263427+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:58.5777716+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:08:58.7654506+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1599,6 +1599,11 @@
       "Time": "2023-12-23T10:04:31.1919422+00:00",
       "NumProgressed": 445,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T11:04:24.9507792+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1667,7 +1672,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1706,14 +1711,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:04:31.191942+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:24.9507787+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:58:29.7282294+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:04:31.1919555+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:33.4884188+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:24.9507956+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,7 +166,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1542,
+  "EOS_Progressed": 1543,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
@@ -2186,6 +2186,11 @@
       "Time": "2023-12-23T07:10:09.8376585+00:00",
       "NumProgressed": 1542,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T11:09:48.7075058+00:00",
+      "NumProgressed": 1543,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2355,9 +2360,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2523,9 +2528,9 @@
       "ID": "theme_bear_kill2EnemiesSimultaneously",
       "SetID": "95dc8p",
       "Name": "Bears are Scary",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -2644,15 +2649,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1542,
+      "Progressed": 1543,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:09:56.9187365+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:09:48.7075055+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.9077467+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:59:17.102279+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:09:56.9187994+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:59:21.1407839+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:09:48.7075449+00:00"
 }

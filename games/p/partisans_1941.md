@@ -6,15 +6,15 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 45.00% | ~843 |
+| E1M1 | 45.00% | ~844 |
 | Grenadier | 44.00% | ~825 |
 | War Never Changes | 44.00% | ~825 |
 | Heroes Never Die | 40.00% | ~750 |
-| Mosquito bite | 37.00% | ~693 |
+| Mosquito bite | 37.00% | ~694 |
 | Spice It Up | 32.00% | ~600 |
 | Agent 47 | 27.00% | ~506 |
 | Bomberman | 27.00% | ~506 |
-| You're Gonna Go Far, Kid | 26.00% | ~487 |
+| You're Gonna Go Far, Kid | 26.00% | ~488 |
 | Death to the Oppressor! | 19.00% | ~356 |
 | The Gang's All Here | 17.00% | ~319 |
 | Your Answer | 15.00% | ~281 |
@@ -25,11 +25,11 @@ Number of Ratings: 98  (23.09.2022)
 | Payback Time | 7.00% | ~131 |
 | No Witness | 5.00% | ~94 |
 | Strategist | 4.00% | ~75 |
-| Do a Barrel Roll! | 2.00% | ~37 |
-| Unbreakable Wall | 2.00% | ~37 |
+| Do a Barrel Roll! | 2.00% | ~38 |
+| Unbreakable Wall | 2.00% | ~38 |
 | Experienced Strategist | 1.00% | ~19 |
 | How?! | 1.00% | ~19 |
-| Tough as Nails | 0.40% | ~7 |
+| Tough as Nails | 0.40% | ~8 |
 | Commandos | 0.30% | ~6 |
 | We Weren't There | 0.20% | ~4 |
 | Inspector General | 0.10% | ~2 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,874 (Ranked 238)  
-Completed: 2 (0.11%) (Ranked 302)  
+Progressed: 1,875 (Ranked 238)  
+Completed: 2 (0.11%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,6 +260,7 @@ Completed: 2 (0.11%) (Ranked 302)
 | 2023-12-20 | 1,867 | 2 |
 | 2023-12-21 | 1,869 | 2 |
 | 2023-12-22 | 1,874 | 2 |
+| 2023-12-23 | 1,875 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

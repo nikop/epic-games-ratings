@@ -263,9 +263,9 @@
       "ID": "MIRACULOUSOUTCOME",
       "SetID": "bfiopga",
       "Name": "Miraculous outcome",
-      "Percentage": 100,
+      "Percentage": 133,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MODERATEEATING",
@@ -351,17 +351,17 @@
       "ID": "REWARDFORTHEEFFORTS",
       "SetID": "bfiopga",
       "Name": "Reward for the efforts",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "STAYALERTED",
       "SetID": "bfiopga",
       "Name": "Stay alert",
-      "Percentage": 100,
+      "Percentage": 133,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TAMEWOLF",
@@ -461,8 +461,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T18:03:33.8802078+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:04:21.3134036+00:00",
+  "LastChanged_Achievements": "2023-12-23T11:04:14.633967+00:00",
   "LastUpdate_AppInfo": "2023-12-20T17:57:10.8612035+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:58:17.1645578+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:04:21.3134299+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:58:21.4383961+00:00",
+  "LastUpdate_Achievements": "2023-12-23T11:04:14.6339937+00:00"
 }

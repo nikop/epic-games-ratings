@@ -24,6 +24,7 @@ Rating: 3.56 (Ranked 1,065)
 | Bad Wiring | 3.00% | ~60 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
+| From the Shadows | 2.00% | ~40 |
 | Starve the Beast | 2.00% | ~40 |
 | Helping Hand | 2.00% | ~40 |
 | I Spit On Your Grave | 2.00% | ~40 |
@@ -34,7 +35,6 @@ Rating: 3.56 (Ranked 1,065)
 | Silence Is Golden | 1.00% | ~20 |
 | Good Morning | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
-| From the Shadows | 1.00% | ~20 |
 | Nice Try | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
 | Check, Please! | 0.90% | ~18 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,065)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,005 (Ranked 237)  
+Progressed: 2,006 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 2,005 | 0 |
+| 2023-12-23 | 2,006 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
