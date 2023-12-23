@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~565 |
+| Break Out | 53.00% | ~577 |
 | Trinity | 23.00% | ~250 |
-| Find Allies | 19.00% | ~206 |
-| A Taste of Wrath | 18.00% | ~195 |
-| I Found It | 18.00% | ~195 |
-| The Collector | 18.00% | ~195 |
+| Find Allies | 18.00% | ~196 |
+| A Taste of Wrath | 18.00% | ~196 |
+| I Found It | 18.00% | ~196 |
+| The Collector | 18.00% | ~196 |
 | Geared Up | 17.00% | ~185 |
 | Adventurer | 16.00% | ~174 |
 | Shatter Them All | 16.00% | ~174 |
@@ -25,8 +25,8 @@
 | Calm before the Storm | 5.00% | ~54 |
 | Airborne | 5.00% | ~54 |
 | Miner | 5.00% | ~54 |
-| To Battle | 4.00% | ~43 |
-| Godslayer | 4.00% | ~43 |
+| To Battle | 4.00% | ~44 |
+| Godslayer | 4.00% | ~44 |
 | Clear Sight | 3.00% | ~33 |
 | Shatterer | 3.00% | ~33 |
 | Fine Feathers Make Fine Birds | 3.00% | ~33 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~7 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086 (Ranked 274)  
+Progressed: 1,088 (Ranked 274)  
 Completed: 3 (0.28%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 3 (0.28%) (Ranked 254)
 | 2023-12-20 | 928 | 3 |
 | 2023-12-21 | 998 | 3 |
 | 2023-12-22 | 1,066 | 3 |
-| 2023-12-23 | 1,086 | 3 |
+| 2023-12-23 | 1,088 | 3 |

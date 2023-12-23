@@ -17,12 +17,12 @@ Number of Ratings: 85  (23.09.2022)
 | Fly Me to the Moon Base | 43.00% | ~48 |
 | Pimp My Raid | 41.00% | ~46 |
 | Earthly Pleasures | 40.00% | ~45 |
+| Freshly Squeezed | 37.00% | ~41 |
 | Ducks in a Row, Fish in a Barrel | 37.00% | ~41 |
-| Freshly Squeezed | 36.00% | ~40 |
 | Forbidden Donut | 29.00% | ~32 |
 | Upgreatest | 29.00% | ~32 |
 | Bodied Sattva | 29.00% | ~32 |
-| Rock of the Bay | 27.00% | ~30 |
+| Rock of the Bay | 28.00% | ~31 |
 | Trans-Siberian Express | 26.00% | ~29 |
 | Deincarnated | 23.00% | ~26 |
 | Furon Fashion | 23.00% | ~26 |

@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 624,
-  "EOS_Completed": 47,
-  "EOS_NewPlayers": 61,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.53,
+  "EOS_Completed": 48,
+  "EOS_NewPlayers": 58,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2519,6 +2519,11 @@
       "Time": "2023-12-23T08:05:41.9776764+00:00",
       "NumProgressed": 624,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-23T09:05:06.1482493+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 45,
@@ -2656,9 +2661,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 181
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -2890,13 +2895,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 624,
-      "Completed": 47
+      "Completed": 48
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:05:41.9776759+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:05:06.148249+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:00:03.5679566+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:05:41.9777316+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:59:32.2512523+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:05:06.1483188+00:00"
 }

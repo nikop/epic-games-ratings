@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1299,7 +1299,7 @@
   ],
   "EOS_Progressed": 3338,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7137,9 +7137,9 @@
       "ID": "ACH_YOURE-FREE-NOW",
       "SetID": "72olkc5",
       "Name": "You\u0027re free now!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2070
     }
   ],
   "AchievementSets": [
@@ -7153,8 +7153,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-22T16:00:56.9737771+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:04:36.3672685+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:04:07.1177602+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:00:06.2687504+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:04:36.3673142+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:59:34.602418+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:04:07.1178083+00:00"
 }

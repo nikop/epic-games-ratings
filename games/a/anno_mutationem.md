@@ -10,7 +10,7 @@ Rating: 4.54 (Ranked 533)
 | I just love stuff! | 42.00% | ~334 |
 | Keep 'em coming! | 42.00% | ~334 |
 | The things they print nowadays | 40.00% | ~318 |
-| Big Spender | 38.00% | ~302 |
+| Big Spender | 39.00% | ~310 |
 | That's gotta hurt | 36.00% | ~286 |
 | I think it's broke | 27.00% | ~215 |
 | The Ann Flores Combo Experience | 26.00% | ~207 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 533)
 | Clarity of Mind | 6.00% | ~48 |
 | I feel secure, contained & protected | 6.00% | ~48 |
 | Science, it works! | 6.00% | ~48 |
-| The Traveler | 5.00% | ~40 |
+| The Traveler | 6.00% | ~48 |
 | Woman on a (side) mission | 5.00% | ~40 |
 | Ann ULTRA | 3.00% | ~24 |
 | Lady Luck is a cool cat | 3.00% | ~24 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 533)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 795 (Ranked 292)  
+Progressed: 795 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |

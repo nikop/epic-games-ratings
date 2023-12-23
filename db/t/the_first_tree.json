@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39352,
+  "EOS_Progressed": 39354,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21756,6 +21756,11 @@
       "Time": "2023-12-23T07:05:21.4550994+00:00",
       "NumProgressed": 39352,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-23T09:05:14.0430166+00:00",
+      "NumProgressed": 39354,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21847,7 +21852,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9445
     },
     {
       "ID": "firstItem",
@@ -21855,7 +21860,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30301
+      "UsersEstimate": 30303
     },
     {
       "ID": "roots",
@@ -21878,15 +21883,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39352,
+      "Progressed": 39354,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:05:50.949363+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:05:14.0430162+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:34.0215734+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:00:32.9031856+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:05:50.9494671+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:59:57.9530279+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:05:14.0431301+00:00"
 }

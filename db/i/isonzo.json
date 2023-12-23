@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,7 +1021,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9565,
+  "EOS_Progressed": 9566,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -9841,6 +9841,11 @@
       "Time": "2023-12-23T07:09:11.2800175+00:00",
       "NumProgressed": 9565,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T09:09:06.4628428+00:00",
+      "NumProgressed": 9566,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -9922,9 +9927,9 @@
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
       "SetID": "akchbl3",
       "Name": "Die Bosniaken Kommen!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1052
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -9940,7 +9945,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -9980,7 +9985,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -9996,7 +10001,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10124,7 +10129,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -10140,7 +10145,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -10164,7 +10169,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -10180,7 +10185,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10188,7 +10193,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10196,7 +10201,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -10204,14 +10209,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9565,
+      "Progressed": 9566,
       "Completed": 10
     }
   ],
@@ -10219,8 +10224,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:09:39.9706689+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:09:06.4628425+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:27.7823002+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:58:06.1607586+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:09:39.9707382+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:57:50.4357613+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:09:06.4629152+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1379,9 +1379,9 @@
       "ID": "ending_3",
       "SetID": "d4f4pll",
       "Name": "Get Out Of This Alive",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     },
     {
       "ID": "ending_4",
@@ -1508,8 +1508,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:10:07.189213+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:09:31.1301343+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:08.7462011+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:57:59.4535372+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:10:07.189233+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:57:44.9401047+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:09:31.1301529+00:00"
 }

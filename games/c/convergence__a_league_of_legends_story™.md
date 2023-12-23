@@ -6,16 +6,16 @@ Rating: 4.64 (Ranked 340)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 39.00% | ~418 |
-| Rail Rat | 30.00% | ~321 |
+| Rail Rat | 30.00% | ~322 |
 | The Mysterious Stranger | 29.00% | ~311 |
 | Immaculate Aim | 25.00% | ~268 |
 | Make Up For Lost Time | 24.00% | ~257 |
 | The Brass Boss | 24.00% | ~257 |
-| Time Flies | 23.00% | ~246 |
-| No, Thanks! | 23.00% | ~246 |
-| The Prince in Heels | 23.00% | ~246 |
-| Honest Mistake | 23.00% | ~246 |
-| Immaculate Aim | 23.00% | ~246 |
+| Time Flies | 23.00% | ~247 |
+| No, Thanks! | 23.00% | ~247 |
+| The Prince in Heels | 23.00% | ~247 |
+| Honest Mistake | 23.00% | ~247 |
+| Immaculate Aim | 23.00% | ~247 |
 | The Steel Shadow | 22.00% | ~236 |
 | The Harder They Fall | 22.00% | ~236 |
 | Breaking Down Barriers | 22.00% | ~236 |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 340)
 | Right On Time | 20.00% | ~214 |
 | Like Clockwork | 20.00% | ~214 |
 | Golem Chaser | 20.00% | ~214 |
-| The Loose Cannon | 19.00% | ~203 |
-| Check Your Pulse | 19.00% | ~203 |
+| The Loose Cannon | 19.00% | ~204 |
+| Check Your Pulse | 19.00% | ~204 |
 | The Man Who Shattered Time | 18.00% | ~193 |
 | The Family Fortune | 18.00% | ~193 |
 | Street Style | 17.00% | ~182 |
@@ -55,11 +55,11 @@ Rating: 4.64 (Ranked 340)
 | Thinking Two Steps Ahead | 1.00% | ~11 |
 | No Time to Waste | 1.00% | ~11 |
 | A Lesson in Precision | 0.90% | ~10 |
-| Wildlife Protection | 0.70% | ~7 |
-| Raw Talent | 0.70% | ~7 |
+| Wildlife Protection | 0.70% | ~8 |
+| Raw Talent | 0.70% | ~8 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071 (Ranked 276)  
+Progressed: 1,072 (Ranked 276)  
 Completed: 6 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 6 (0.56%) (Ranked 204)
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
-| 2023-12-23 | 1,071 | 6 |
+| 2023-12-23 | 1,072 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

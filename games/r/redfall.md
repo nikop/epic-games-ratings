@@ -42,12 +42,12 @@ Rating: 3.56 (Ranked 1,065)
 | Block Party | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
 | What Lies Below | 0.50% | ~10 |
+| Bloody Initiate | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
 | Empty Nest Syndrome | 0.40% | ~8 |
-| Bloody Initiate | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Sisterhood | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |

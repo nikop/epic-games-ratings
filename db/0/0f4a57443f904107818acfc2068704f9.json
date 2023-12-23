@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2297,6 +2297,11 @@
       "Time": "2023-12-23T08:03:55.6636353+00:00",
       "NumProgressed": 965,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T09:03:31.1164359+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2317,7 +2322,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2365,7 +2370,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "CompleteChapter10",
@@ -2387,9 +2392,9 @@
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 106
     },
     {
       "ID": "CompleteChapter13",
@@ -2453,7 +2458,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "CompleteChapter3",
@@ -2477,7 +2482,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "CompleteChapter6",
@@ -2501,7 +2506,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "CompleteChapter9",
@@ -2555,9 +2560,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 357
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2604,14 +2609,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:03:55.663635+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:03:31.1164352+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:58:56.603525+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:03:55.6636768+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:58:34.3867992+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:03:31.1165211+00:00"
 }

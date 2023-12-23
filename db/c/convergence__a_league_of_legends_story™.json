@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1071,
+  "EOS_Progressed": 1072,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3005,6 +3005,11 @@
       "Time": "2023-12-23T08:10:35.038204+00:00",
       "NumProgressed": 1071,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T09:09:56.6217685+00:00",
+      "NumProgressed": 1072,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3176,7 +3181,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "HexlockGift",
@@ -3200,7 +3205,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "LacunaCompleted",
@@ -3224,7 +3229,7 @@
       "Name": "Wildlife Protection",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NoDeathRun",
@@ -3240,7 +3245,7 @@
       "Name": "Raw Talent",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NoRewindCamille",
@@ -3256,7 +3261,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ParryBoss",
@@ -3272,7 +3277,7 @@
       "Name": "No, Thanks!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3296,7 +3301,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "RewindDamage1",
@@ -3312,7 +3317,7 @@
       "Name": "Honest Mistake",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3376,7 +3381,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "TheaterChests1",
@@ -3400,7 +3405,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "WatcherFought",
@@ -3439,7 +3444,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1071,
+      "Progressed": 1072,
       "Completed": 6
     }
   ],
@@ -3447,8 +3452,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:10:35.0382038+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:09:56.6217684+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:02:55.4586121+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:10:35.0382503+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:00:17.4360471+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:09:56.621809+00:00"
 }

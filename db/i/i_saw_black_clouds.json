@@ -4,8 +4,8 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2023-12-22T12:07:12.4320988+00:00",
       "NumProgressed": 374,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T09:06:10.5338416+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -737,7 +742,7 @@
       "Name": "All endings",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "believer",
@@ -761,7 +766,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "end",
@@ -769,7 +774,7 @@
       "Name": "End",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "escape",
@@ -785,7 +790,7 @@
       "Name": "Help",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "interpret",
@@ -793,7 +798,7 @@
       "Name": "Interpret",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "jack",
@@ -809,7 +814,7 @@
       "Name": "Nonconsensual",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "origin",
@@ -817,7 +822,7 @@
       "Name": "Origin",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "realist",
@@ -849,14 +854,14 @@
       "Name": "Wrong",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 6
     }
   ],
@@ -864,8 +869,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:08:25.2171751+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:06:10.5338413+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.9938054+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:58:14.1218273+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:08:25.2171861+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:57:57.35109+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:06:10.5338536+00:00"
 }

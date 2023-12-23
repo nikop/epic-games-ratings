@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -5887,9 +5887,9 @@
       "ID": "ACH_ANCIENT_CURSE",
       "SetID": "4kfb9pd",
       "Name": "Ancient Curse",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 957
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -5959,9 +5959,9 @@
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 815
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_REUNION",
@@ -6008,8 +6008,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:04:23.4738977+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:03:55.9277493+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.5679965+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:02:55.9548746+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:04:23.4739311+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:00:17.8186143+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:03:55.9277838+00:00"
 }

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,782 |
-| Off to a good start | 64.00% | ~1,296 |
-| Do... or do not. There is no try | 51.00% | ~1,033 |
+| New Recruit | 88.00% | ~1,784 |
+| Off to a good start | 64.00% | ~1,297 |
+| Do... or do not. There is no try | 51.00% | ~1,034 |
 | A good blaster at your side | 27.00% | ~547 |
-| I suggest a new strategy | 18.00% | ~364 |
+| I suggest a new strategy | 18.00% | ~365 |
 | Scrap collector | 16.00% | ~324 |
 | All right, I'll give it a try | 16.00% | ~324 |
 | Great shot, kid! | 16.00% | ~324 |
-| The power of the Force | 13.00% | ~263 |
-| Collector | 13.00% | ~263 |
-| Shoot first | 13.00% | ~263 |
+| The power of the Force | 13.00% | ~264 |
+| Collector | 13.00% | ~264 |
+| Shoot first | 13.00% | ~264 |
 | Together we can rule the galaxy | 12.00% | ~243 |
 | Tell Jabba that I've got his money | 9.00% | ~182 |
 | Never tell me the odds! | 8.00% | ~162 |
@@ -34,15 +34,15 @@
 | On the ball | 3.00% | ~61 |
 | Patience you must have | 3.00% | ~61 |
 | Don't underestimate the Force | 3.00% | ~61 |
-| The Force is strong with this one | 2.00% | ~40 |
-| I've been waiting for you | 2.00% | ~40 |
-| When 900 years old you reach... | 2.00% | ~40 |
-| Determined | 2.00% | ~40 |
-| Precision shot | 2.00% | ~40 |
-| City in the Clouds | 2.00% | ~40 |
-| That's no moon | 2.00% | ~40 |
-| What will you become? | 2.00% | ~40 |
-| Disturbed tranquility | 2.00% | ~40 |
+| The Force is strong with this one | 2.00% | ~41 |
+| I've been waiting for you | 2.00% | ~41 |
+| When 900 years old you reach... | 2.00% | ~41 |
+| Determined | 2.00% | ~41 |
+| Precision shot | 2.00% | ~41 |
+| City in the Clouds | 2.00% | ~41 |
+| That's no moon | 2.00% | ~41 |
+| What will you become? | 2.00% | ~41 |
+| Disturbed tranquility | 2.00% | ~41 |
 | Hold the line! | 1.00% | ~20 |
 | Playing the objective | 1.00% | ~20 |
 | Ackbar's Elite | 1.00% | ~20 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,025 (Ranked 236)  
+Progressed: 2,027 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-20 | 1,946 | 1 |
 | 2023-12-21 | 1,979 | 1 |
 | 2023-12-22 | 2,014 | 1 |
-| 2023-12-23 | 2,025 | 1 |
+| 2023-12-23 | 2,027 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

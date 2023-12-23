@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-12T16:00:00+00:00",
     "PcReleaseDate": "2022-10-12T16:00:00+00:00",
@@ -3867,9 +3867,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 294925,
+  "EOS_Progressed": 294971,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 11053,
+  "EOS_NewPlayers": 11032,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31507,6 +31507,11 @@
       "Time": "2023-12-23T08:09:08.8055847+00:00",
       "NumProgressed": 294925,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-12-23T09:08:38.8574967+00:00",
+      "NumProgressed": 294971,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 59,
@@ -31518,7 +31523,7 @@
       "Name": "Showpiece",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 23594
+      "UsersEstimate": 23598
     },
     {
       "ID": "BUILD_unlimited_power",
@@ -31526,7 +31531,7 @@
       "Name": "Unlimited Power",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11797
+      "UsersEstimate": 11799
     },
     {
       "ID": "BUILD_when_in_doubt_throttle_out",
@@ -31534,7 +31539,7 @@
       "Name": "Full Throttle",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 79630
+      "UsersEstimate": 79642
     },
     {
       "ID": "CASH_big_shot",
@@ -31542,7 +31547,7 @@
       "Name": "Big Shot",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "CASH_bootstrapping",
@@ -31550,7 +31555,7 @@
       "Name": "Bootstrapping",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 176955
+      "UsersEstimate": 176983
     },
     {
       "ID": "CASH_going_places",
@@ -31558,7 +31563,7 @@
       "Name": "Going Places",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 32442
+      "UsersEstimate": 32447
     },
     {
       "ID": "CASH_on_the_ladder",
@@ -31566,7 +31571,7 @@
       "Name": "On the Ladder",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 50137
+      "UsersEstimate": 50145
     },
     {
       "ID": "CINEBENCH_cinematic",
@@ -31574,7 +31579,7 @@
       "Name": "Cinematic",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 50137
+      "UsersEstimate": 50145
     },
     {
       "ID": "CUSTOMIZE_broken_to_smokin",
@@ -31582,7 +31587,7 @@
       "Name": "Broken to Smokin\u0027",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56036
+      "UsersEstimate": 56044
     },
     {
       "ID": "CUSTOMIZE_dream_theme",
@@ -31590,7 +31595,7 @@
       "Name": "Dream Theme",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 97325
+      "UsersEstimate": 97340
     },
     {
       "ID": "CUSTOMIZE_grand_designs",
@@ -31598,7 +31603,7 @@
       "Name": "Grand Designs",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 144513
+      "UsersEstimate": 144536
     },
     {
       "ID": "CUSTOMIZE_just_how_you_like_it",
@@ -31606,7 +31611,7 @@
       "Name": "Making It Mine",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 17696
+      "UsersEstimate": 17698
     },
     {
       "ID": "CUSTOMIZE_just_like_old_times",
@@ -31614,7 +31619,7 @@
       "Name": "Just Like Old Times",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "CUSTOMIZE_matching_set",
@@ -31622,7 +31627,7 @@
       "Name": "Matching Set",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 20645
+      "UsersEstimate": 20648
     },
     {
       "ID": "CUSTOMIZE_mix_and_match",
@@ -31630,7 +31635,7 @@
       "Name": "Mix and Match",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 79630
+      "UsersEstimate": 79642
     },
     {
       "ID": "CUSTOMIZE_pimp_my_rig",
@@ -31638,7 +31643,7 @@
       "Name": "Pimp My Rig",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 67833
+      "UsersEstimate": 67843
     },
     {
       "ID": "CUSTOMIZE_variations_on_a_theme",
@@ -31646,7 +31651,7 @@
       "Name": "Variations on a Theme",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 47188
+      "UsersEstimate": 47195
     },
     {
       "ID": "DELIVERY_bring_it_in",
@@ -31678,7 +31683,7 @@
       "Name": "Ship It",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 17696
+      "UsersEstimate": 17698
     },
     {
       "ID": "DELIVERY_thanks_jeff",
@@ -31686,7 +31691,7 @@
       "Name": "Thanks Jeff",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 53086
+      "UsersEstimate": 53095
     },
     {
       "ID": "DELIVERY_very_imported_pc",
@@ -31694,7 +31699,7 @@
       "Name": "Very Imported PC",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 79630
+      "UsersEstimate": 79642
     },
     {
       "ID": "JOBS_old_hand",
@@ -31702,7 +31707,7 @@
       "Name": "Workaholic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 56036
+      "UsersEstimate": 56044
     },
     {
       "ID": "JOBS_on_the_job",
@@ -31710,7 +31715,7 @@
       "Name": "On the Job",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 156310
+      "UsersEstimate": 156335
     },
     {
       "ID": "JOBS_pc_og",
@@ -31726,7 +31731,7 @@
       "Name": "Working Hard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 94376
+      "UsersEstimate": 94391
     },
     {
       "ID": "JOBS_workoholic",
@@ -31734,7 +31739,7 @@
       "Name": "Tech Vet",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 17696
+      "UsersEstimate": 17698
     },
     {
       "ID": "LEVEL_elite_technician",
@@ -31742,7 +31747,7 @@
       "Name": "Elite Technician",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11797
+      "UsersEstimate": 11799
     },
     {
       "ID": "LEVEL_legendary_technician",
@@ -31750,7 +31755,7 @@
       "Name": "Legendary Technician",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "LEVEL_repair_master",
@@ -31758,7 +31763,7 @@
       "Name": "Repair Master",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 67833
+      "UsersEstimate": 67843
     },
     {
       "ID": "LEVEL_tinker",
@@ -31766,7 +31771,7 @@
       "Name": "Tinker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 135666
+      "UsersEstimate": 135687
     },
     {
       "ID": "LIGHTING_moar_rgb",
@@ -31774,7 +31779,7 @@
       "Name": "MOAR RGB",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 117970
+      "UsersEstimate": 117988
     },
     {
       "ID": "LIGHTING_shine_on",
@@ -31782,7 +31787,7 @@
       "Name": "Shine On",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 165158
+      "UsersEstimate": 165184
     },
     {
       "ID": "OCCT_stabiliser",
@@ -31790,7 +31795,7 @@
       "Name": "Stabiliser",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 38340
+      "UsersEstimate": 38346
     },
     {
       "ID": "OVER_glutton",
@@ -31798,7 +31803,7 @@
       "Name": "Procrastinator",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "OVER_paste_not_want_not",
@@ -31806,7 +31811,7 @@
       "Name": "Paste Not, Want Not",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 47188
+      "UsersEstimate": 47195
     },
     {
       "ID": "OVER_this_one_goes_to_11",
@@ -31814,7 +31819,7 @@
       "Name": "This One Goes to 11",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 38340
+      "UsersEstimate": 38346
     },
     {
       "ID": "SCORE_bench_press",
@@ -31822,7 +31827,7 @@
       "Name": "On the Bench",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 91427
+      "UsersEstimate": 91441
     },
     {
       "ID": "SCORE_bench_warmer",
@@ -31830,7 +31835,7 @@
       "Name": "Bench Press",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23594
+      "UsersEstimate": 23598
     },
     {
       "ID": "SCORE_on_the_bench",
@@ -31838,7 +31843,7 @@
       "Name": "Bench Warmer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 58985
+      "UsersEstimate": 58994
     },
     {
       "ID": "SELL_foot_in_the_door",
@@ -31846,7 +31851,7 @@
       "Name": "Foot in the Door",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 79630
+      "UsersEstimate": 79642
     },
     {
       "ID": "SELL_gift_of_the_gab",
@@ -31854,7 +31859,7 @@
       "Name": "Gift of the Gab",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 50137
+      "UsersEstimate": 50145
     },
     {
       "ID": "SELL_salesperson_of_the_month",
@@ -31862,7 +31867,7 @@
       "Name": "Salesperson of the Month",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 17696
+      "UsersEstimate": 17698
     },
     {
       "ID": "SELL_something_special",
@@ -31870,7 +31875,7 @@
       "Name": "The More the Merrier",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 88478
+      "UsersEstimate": 88491
     },
     {
       "ID": "SHOP_basket_case",
@@ -31878,7 +31883,7 @@
       "Name": "Forgetful Shopper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35391
+      "UsersEstimate": 35397
     },
     {
       "ID": "SHOP_sales_pitch",
@@ -31886,7 +31891,7 @@
       "Name": "Sales Pitch",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 147462
+      "UsersEstimate": 147486
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -31894,7 +31899,7 @@
       "Name": "Recycler",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 79630
+      "UsersEstimate": 79642
     },
     {
       "ID": "SPARESNREPAIRS_salvage_squad",
@@ -31902,7 +31907,7 @@
       "Name": "Salvage Squad",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 50137
+      "UsersEstimate": 50145
     },
     {
       "ID": "STARS_cowboy",
@@ -31910,7 +31915,7 @@
       "Name": "Cowboy",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 47188
+      "UsersEstimate": 47195
     },
     {
       "ID": "STARS_local_hero",
@@ -31918,7 +31923,7 @@
       "Name": "Local Hero",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 58985
+      "UsersEstimate": 58994
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -31926,7 +31931,7 @@
       "Name": "The Customer is King",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 94376
+      "UsersEstimate": 94391
     },
     {
       "ID": "STICKERS_get_stuck_in",
@@ -31934,7 +31939,7 @@
       "Name": "Get Stuck In",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 153361
+      "UsersEstimate": 153385
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -31942,7 +31947,7 @@
       "Name": "Stick With It",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 50137
+      "UsersEstimate": 50145
     },
     {
       "ID": "STICKERS_slap_happy",
@@ -31950,7 +31955,7 @@
       "Name": "Slap Happy",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 47188
+      "UsersEstimate": 47195
     },
     {
       "ID": "TOOLS_hot_stuff",
@@ -31958,7 +31963,7 @@
       "Name": "Hot Stuff",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 126818
+      "UsersEstimate": 126838
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -31966,7 +31971,7 @@
       "Name": "Room for Expansion",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 153361
+      "UsersEstimate": 153385
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -31974,7 +31979,7 @@
       "Name": "Chill Out",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 156310
+      "UsersEstimate": 156335
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -31982,14 +31987,14 @@
       "Name": "Supercool",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41290
+      "UsersEstimate": 41296
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 294925,
+      "Progressed": 294971,
       "Completed": 159
     }
   ],
@@ -31997,8 +32002,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-12-22T22:57:21.5179557+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:09:08.8055843+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:08:38.8574964+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.7992409+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:57:40.1124318+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:09:08.8057166+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:57:26.2752006+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:08:38.8576949+00:00"
 }

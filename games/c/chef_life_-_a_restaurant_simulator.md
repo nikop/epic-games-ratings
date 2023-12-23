@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 847 (Ranked 286)  
+Progressed: 848 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 821 | 0 |
 | 2023-12-21 | 835 | 0 |
 | 2023-12-22 | 842 | 0 |
-| 2023-12-23 | 847 | 0 |
+| 2023-12-23 | 848 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

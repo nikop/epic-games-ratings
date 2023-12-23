@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -807,9 +807,9 @@
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "killGolem10",
@@ -1055,9 +1055,9 @@
       "ID": "questCompTutorial",
       "SetID": "ci65fo0",
       "Name": "Survivor",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "questDeadArtifact",
@@ -1268,8 +1268,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:10:11.1011792+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:09:35.1786872+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.1748657+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:00:39.6235276+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:10:11.1012324+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:00:05.0857444+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:09:35.1787419+00:00"
 }

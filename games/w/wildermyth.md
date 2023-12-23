@@ -24,10 +24,10 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 1.00% | ~15 |
 | Echoes Die | 1.00% | ~15 |
 | Turncoat | 1.00% | ~15 |
+| Another Tale to Tell | 0.90% | ~14 |
 | A Story of Heroes | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
-| Another Tale to Tell | 0.80% | ~12 |
 | Everfading | 0.70% | ~11 |
 | Plague Doctor | 0.60% | ~9 |
 | In Soil, In Smoke | 0.60% | ~9 |

@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape from Fleed | 52.00% | ~11 |
-| The Remains of Fleed | 52.00% | ~11 |
-| Life of Pi | 52.00% | ~11 |
-| The Legend | 52.00% | ~11 |
-| First Contact | 48.00% | ~10 |
-| Strength in Defeat | 48.00% | ~10 |
-| Technology first! | 33.00% | ~7 |
-| The Keeper of Fleed | 29.00% | ~6 |
-| The Exterminator | 24.00% | ~5 |
-| Earth's Savior | 19.00% | ~4 |
+| The Remains of Fleed | 55.00% | ~12 |
+| Life of Pi | 55.00% | ~12 |
+| The Legend | 55.00% | ~12 |
+| Escape from Fleed | 50.00% | ~11 |
+| First Contact | 45.00% | ~10 |
+| Strength in Defeat | 45.00% | ~10 |
+| Technology first! | 32.00% | ~7 |
+| The Keeper of Fleed | 27.00% | ~6 |
+| The Exterminator | 27.00% | ~6 |
+| Earth's Savior | 23.00% | ~5 |
+| The Collector | 18.00% | ~4 |
+| Gold Seeker | 14.00% | ~3 |
+| The Planner | 14.00% | ~3 |
 | Iron Fist | 14.00% | ~3 |
+| The Broken Guard | 14.00% | ~3 |
 | The Space Hydra | 14.00% | ~3 |
 | The Vega Turtle | 14.00% | ~3 |
-| A Good Paint Job | 10.00% | ~2 |
-| The Collector | 10.00% | ~2 |
-| The Royal Guard | 10.00% | ~2 |
-| Gold Seeker | 5.00% | ~1 |
+| A Land of Peace | 9.00% | ~2 |
+| A Good Paint Job | 9.00% | ~2 |
+| The Royal Guard | 9.00% | ~2 |
 | The Power of Friendship | 5.00% | ~1 |
-| The Planner | 5.00% | ~1 |
-| The Broken Guard | 5.00% | ~1 |
+| You can't fool me! | 5.00% | ~1 |
 | Saucer Beast Unchained | 5.00% | ~1 |
 | The Battle Axe | 5.00% | ~1 |
 | The Flying Octopus | 5.00% | ~1 |
 | The Interstellar Fighter | 5.00% | ~1 |
 | The Ultimate Attack | 5.00% | ~1 |
 | Vengeance of the Wolf | 5.00% | ~1 |
-| A Land of Peace | 0.00% | ~0 |
-| You can't fool me! | 0.00% | ~0 |
 | The Completionist | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 604)  
+Progressed: 22 (Ranked 601)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-08 | 16 | 0 |
 | 2023-12-20 | 17 | 0 |
 | 2023-12-22 | 19 | 0 |
-| 2023-12-23 | 21 | 0 |
+| 2023-12-23 | 22 | 0 |

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 987,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.11,
+  "Rating": 4.1,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -509,6 +509,12 @@
       "Rating": 4.11,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-12-23T08:57:54.6298396+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
@@ -523,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44847,
+  "EOS_Progressed": 44850,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16123,6 +16129,11 @@
       "Time": "2023-12-23T08:04:40.7399901+00:00",
       "NumProgressed": 44847,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T09:04:10.8150166+00:00",
+      "NumProgressed": 44850,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16150,7 +16161,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -16182,7 +16193,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16198,7 +16209,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -16310,7 +16321,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "JUSTCOUNTER",
@@ -16374,7 +16385,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16422,7 +16433,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16438,7 +16449,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "PARKOUR_TIME",
@@ -16446,7 +16457,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -16557,22 +16568,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44847,
+      "Progressed": 44850,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9684,
-      "Completed": 9684
+      "Progressed": 9687,
+      "Completed": 9687
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:04:40.7399897+00:00",
+  "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:04:10.8150163+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:58:11.0507578+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:04:40.7401104+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:57:54.6298401+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:04:10.8151268+00:00"
 }

@@ -11,12 +11,12 @@ Rating: 4.44 (Ranked 687)
 | Easy As Pie | 34.00% | ~1,205 |
 | Family Lost | 32.00% | ~1,134 |
 | Treasure Hunt | 30.00% | ~1,063 |
-| Ancient Curse | 27.00% | ~957 |
+| Ancient Curse | 28.00% | ~992 |
 | Climber | 25.00% | ~886 |
 | Hidden Secrets | 25.00% | ~886 |
 | Cat Person | 24.00% | ~850 |
+| Mad Scientist | 24.00% | ~850 |
 | Imprisonment | 23.00% | ~815 |
-| Mad Scientist | 23.00% | ~815 |
 | Reunion | 23.00% | ~815 |
 | Dog Person | 18.00% | ~638 |
 ## Popularity (Based on EOS Achievements)

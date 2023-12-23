@@ -7,10 +7,10 @@ Rating: 4.63 (Ranked 353)
 | ---- | ---------- | ----- |
 | Azoria Beckons | 1.00% | ~86 |
 | A Thorny Situation | 1.00% | ~86 |
+| Calm Sailing | 1.00% | ~86 |
 | Break-Net Speed | 1.00% | ~86 |
 | ... And Spit Back Out | 1.00% | ~86 |
 | Bramble Breaker | 1.00% | ~86 |
-| Calm Sailing | 0.90% | ~77 |
 | Open the Gate! | 0.90% | ~77 |
 | Miner 49er | 0.90% | ~77 |
 | Humble Collector | 0.80% | ~69 |

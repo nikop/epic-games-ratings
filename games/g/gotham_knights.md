@@ -5,48 +5,48 @@ Rating: 4.18 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,612 |
-| Har, Har, Har, Very Funny | 34.00% | ~26,936 |
-| Loose Ends | 33.00% | ~26,144 |
-| To the Victor Go the Spoils | 28.00% | ~22,183 |
-| Knighthood | 27.00% | ~21,390 |
-| Get ReQ'd | 25.00% | ~19,806 |
-| Whispered Words | 24.00% | ~19,014 |
-| The Batman Family | 22.00% | ~17,429 |
-| Lock and Key | 22.00% | ~17,429 |
-| Something in the Clay | 20.00% | ~15,845 |
-| Quartzer Life Crisis | 20.00% | ~15,845 |
-| Working Hard or Harley Working? | 20.00% | ~15,845 |
-| Unstoppable Force | 20.00% | ~15,845 |
-| Bad Apples in Every Orchard | 20.00% | ~15,845 |
-| Snow Problem | 19.00% | ~15,053 |
-| The Show Mud Go On | 18.00% | ~14,260 |
-| From Inside Gotham's Walls | 17.00% | ~13,468 |
-| Protector of Gotham | 16.00% | ~12,676 |
-| Universal Health Scare | 16.00% | ~12,676 |
+| First Step Into the Knight | 50.00% | ~39,615 |
+| Har, Har, Har, Very Funny | 34.00% | ~26,938 |
+| Loose Ends | 33.00% | ~26,146 |
+| To the Victor Go the Spoils | 28.00% | ~22,184 |
+| Knighthood | 27.00% | ~21,392 |
+| Get ReQ'd | 25.00% | ~19,808 |
+| Whispered Words | 24.00% | ~19,015 |
+| The Batman Family | 22.00% | ~17,431 |
+| Lock and Key | 22.00% | ~17,431 |
+| Something in the Clay | 20.00% | ~15,846 |
+| Quartzer Life Crisis | 20.00% | ~15,846 |
+| Working Hard or Harley Working? | 20.00% | ~15,846 |
+| Unstoppable Force | 20.00% | ~15,846 |
+| Bad Apples in Every Orchard | 20.00% | ~15,846 |
+| Snow Problem | 19.00% | ~15,054 |
+| The Show Mud Go On | 18.00% | ~14,261 |
+| From Inside Gotham's Walls | 17.00% | ~13,469 |
+| Protector of Gotham | 16.00% | ~12,677 |
+| Universal Health Scare | 16.00% | ~12,677 |
 | In Your Element | 15.00% | ~11,884 |
 | Voiceless | 15.00% | ~11,884 |
-| Rock and a Hard Place | 14.00% | ~11,091 |
-| Cooldown | 14.00% | ~11,091 |
-| Not On My Watch | 13.00% | ~10,299 |
-| Shock Til They Drop | 13.00% | ~10,299 |
-| Seeking Asylum | 13.00% | ~10,299 |
-| End of an Era | 12.00% | ~9,507 |
-| Bulldozed | 12.00% | ~9,507 |
-| Gotham Knight | 12.00% | ~9,507 |
+| Rock and a Hard Place | 14.00% | ~11,092 |
+| Cooldown | 14.00% | ~11,092 |
+| Not On My Watch | 13.00% | ~10,300 |
+| Shock Til They Drop | 13.00% | ~10,300 |
+| Seeking Asylum | 13.00% | ~10,300 |
+| End of an Era | 12.00% | ~9,508 |
+| Bulldozed | 12.00% | ~9,508 |
+| Gotham Knight | 12.00% | ~9,508 |
 | Gotham City Confidential | 11.00% | ~8,715 |
-| Drone You Out | 10.00% | ~7,922 |
-| Out of Their League | 9.00% | ~7,130 |
-| Solid Alibi | 9.00% | ~7,130 |
+| Drone You Out | 10.00% | ~7,923 |
+| Out of Their League | 9.00% | ~7,131 |
+| Solid Alibi | 9.00% | ~7,131 |
 | Fusion Expert | 7.00% | ~5,546 |
-| Family Meeting | 6.00% | ~4,753 |
-| A Worthy Successor | 6.00% | ~4,753 |
-| Expert Crime Fighter | 5.00% | ~3,961 |
+| Family Meeting | 6.00% | ~4,754 |
+| A Worthy Successor | 6.00% | ~4,754 |
+| Expert Crime Fighter | 5.00% | ~3,962 |
 | Dressed to Impress | 4.00% | ~3,169 |
 | A Momentum Occasion | 3.00% | ~2,377 |
 | Bat Out of Hell | 3.00% | ~2,377 |
-| Practice Makes Perfect | 2.00% | ~1,584 |
-| He'd Be So Proud of You | 2.00% | ~1,584 |
+| Practice Makes Perfect | 2.00% | ~1,585 |
+| He'd Be So Proud of You | 2.00% | ~1,585 |
 | Talonted | 1.00% | ~792 |
 | The Man-Bat Family | 1.00% | ~792 |
 | Batarang Collector | 1.00% | ~792 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 949)
 | The Cold, the Bad and the Ugly | 0.30% | ~149 |
 | It's Nice to Be Wanted | 0.20% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,224 (Ranked 104)  
+Progressed: 79,230 (Ranked 104)  
 Completed: 126 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 126 (0.16%) (Ranked 283)
 | 2023-12-20 | 78,864 | 126 |
 | 2023-12-21 | 79,000 | 126 |
 | 2023-12-22 | 79,163 | 126 |
-| 2023-12-23 | 79,224 | 126 |
+| 2023-12-23 | 79,230 | 126 |
 ## Awards
 Max (Great Boss Battles): 3,039  (Ranked 99)  
 Sum: 5,204 (Ranked 142)  

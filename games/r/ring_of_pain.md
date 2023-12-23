@@ -8,20 +8,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Steps | 1.00% | ~2,415 |
 | Matching | 1.00% | ~30 |
-| Uncharted Territory | 0.90% | ~2,173 |
+| Uncharted Territory | 0.90% | ~2,174 |
 | Getting A Glimpse | 0.80% | ~1,932 |
 | A Quick Escape | 0.80% | ~1,932 |
 | Not Touching You | 0.80% | ~24 |
-| Nothing To Lose | 0.70% | ~1,690 |
-| Heavy Hitter | 0.70% | ~1,690 |
-| That Was Quick | 0.70% | ~1,690 |
-| Colorful Corpse | 0.70% | ~1,690 |
-| Defeat The Dark | 0.70% | ~1,690 |
-| Goodbye, Frog Friend | 0.70% | ~1,690 |
-| A Donation | 0.70% | ~1,690 |
-| Deflection | 0.70% | ~1,690 |
-| Explorer | 0.70% | ~1,690 |
-| An Offering | 0.70% | ~1,690 |
+| Nothing To Lose | 0.70% | ~1,691 |
+| Heavy Hitter | 0.70% | ~1,691 |
+| That Was Quick | 0.70% | ~1,691 |
+| Colorful Corpse | 0.70% | ~1,691 |
+| Defeat The Dark | 0.70% | ~1,691 |
+| Goodbye, Frog Friend | 0.70% | ~1,691 |
+| A Donation | 0.70% | ~1,691 |
+| Deflection | 0.70% | ~1,691 |
+| Explorer | 0.70% | ~1,691 |
+| An Offering | 0.70% | ~1,691 |
 | Ambitious Intent | 0.60% | ~1,449 |
 | Delving Deeper | 0.60% | ~1,449 |
 | R.I.P | 0.60% | ~1,449 |
@@ -35,16 +35,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.60% | ~1,449 |
 | Toxic | 0.60% | ~1,449 |
 | Sneaky | 0.60% | ~1,449 |
-| Consecutive Curses | 0.50% | ~1,207 |
-| Dig Your Own Grave | 0.50% | ~1,207 |
-| Who To Trust? | 0.50% | ~1,207 |
-| Walk It Off | 0.50% | ~1,207 |
-| Destroy Your Fears | 0.50% | ~1,207 |
-| Stone Touch | 0.50% | ~1,207 |
-| New Perspectives | 0.50% | ~1,207 |
-| Shadow Walker | 0.50% | ~1,207 |
-| Flesh Wound | 0.50% | ~1,207 |
-| Shapeshifting | 0.50% | ~1,207 |
+| Consecutive Curses | 0.50% | ~1,208 |
+| Dig Your Own Grave | 0.50% | ~1,208 |
+| Who To Trust? | 0.50% | ~1,208 |
+| Walk It Off | 0.50% | ~1,208 |
+| Destroy Your Fears | 0.50% | ~1,208 |
+| Stone Touch | 0.50% | ~1,208 |
+| New Perspectives | 0.50% | ~1,208 |
+| Shadow Walker | 0.50% | ~1,208 |
+| Flesh Wound | 0.50% | ~1,208 |
+| Shapeshifting | 0.50% | ~1,208 |
 | Expensive Look | 0.50% | ~15 |
 | What Doesn't Kill You | 0.50% | ~15 |
 | Shadow Spreads | 0.40% | ~966 |
@@ -59,15 +59,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.40% | ~966 |
 | Spreading Plague | 0.40% | ~966 |
 | Acid Bath | 0.40% | ~966 |
-| Thank You, Friend | 0.30% | ~724 |
-| Max Damage! | 0.30% | ~724 |
-| A Rough Road | 0.30% | ~724 |
-| Berzerker | 0.30% | ~724 |
-| Chain Reaction | 0.30% | ~724 |
-| Antivenom | 0.30% | ~724 |
-| Decisions, Decisions | 0.30% | ~724 |
-| Snake Sneak | 0.30% | ~724 |
-| The Long Run | 0.30% | ~724 |
+| Thank You, Friend | 0.30% | ~725 |
+| Max Damage! | 0.30% | ~725 |
+| A Rough Road | 0.30% | ~725 |
+| Berzerker | 0.30% | ~725 |
+| Chain Reaction | 0.30% | ~725 |
+| Antivenom | 0.30% | ~725 |
+| Decisions, Decisions | 0.30% | ~725 |
+| Snake Sneak | 0.30% | ~725 |
+| The Long Run | 0.30% | ~725 |
 | Who Needs Luck? | 0.30% | ~9 |
 | Achievement Hunter | 0.20% | ~483 |
 | Challenge Increases | 0.20% | ~483 |
@@ -95,47 +95,47 @@ Number of Ratings: 15,086  (23.09.2022)
 | Diviner | 0.20% | ~6 |
 | Nuclear | 0.20% | ~6 |
 | Raw Power | 0.20% | ~6 |
-| Quick Descent | 0.10% | ~241 |
-| A Week Attempt | 0.10% | ~241 |
-| Hydrophobe | 0.10% | ~241 |
-| Disposal | 0.10% | ~241 |
-| Hanging On | 0.10% | ~241 |
-| A Hard Carry | 0.10% | ~241 |
-| Powerful Potion | 0.10% | ~241 |
-| For Science | 0.10% | ~241 |
-| Willing the World | 0.10% | ~241 |
-| Power Score | 0.10% | ~241 |
-| Predator | 0.10% | ~241 |
-| Here Comes The Airplane | 0.10% | ~241 |
-| Resourceful | 0.10% | ~241 |
-| Blizzard | 0.10% | ~241 |
-| The Boulder | 0.10% | ~241 |
-| Overthrown | 0.10% | ~241 |
-| Poor Choices | 0.10% | ~241 |
-| Not What I Meant | 0.10% | ~241 |
-| A Rock And A Hard Place | 0.10% | ~241 |
-| Illuminate, Annihilate | 0.10% | ~241 |
-| Never Too Many Hats | 0.10% | ~241 |
-| Master of Strategy | 0.10% | ~241 |
-| No Mercy | 0.10% | ~241 |
-| Good Boys | 0.10% | ~241 |
-| Need An Antidote? | 0.10% | ~241 |
-| Sprinter | 0.10% | ~241 |
-| The Tickler | 0.10% | ~241 |
-| Masochist | 0.10% | ~241 |
-| Minimalist | 0.10% | ~241 |
-| Near Death Experience | 0.10% | ~241 |
-| Champion of the Day | 0.10% | ~241 |
-| Down Under | 0.10% | ~241 |
-| Only The Best | 0.10% | ~241 |
-| Mastermind | 0.10% | ~241 |
-| No Swapsies | 0.10% | ~241 |
-| Ignoring Midgame | 0.10% | ~241 |
-| Quick To Pick | 0.10% | ~241 |
-| Tunnel Vision | 0.10% | ~241 |
-| Martial Master | 0.10% | ~241 |
-| Nudie Run | 0.10% | ~241 |
-| You Call That A Knife? | 0.10% | ~241 |
+| Quick Descent | 0.10% | ~242 |
+| A Week Attempt | 0.10% | ~242 |
+| Hydrophobe | 0.10% | ~242 |
+| Disposal | 0.10% | ~242 |
+| Hanging On | 0.10% | ~242 |
+| A Hard Carry | 0.10% | ~242 |
+| Powerful Potion | 0.10% | ~242 |
+| For Science | 0.10% | ~242 |
+| Willing the World | 0.10% | ~242 |
+| Power Score | 0.10% | ~242 |
+| Predator | 0.10% | ~242 |
+| Here Comes The Airplane | 0.10% | ~242 |
+| Resourceful | 0.10% | ~242 |
+| Blizzard | 0.10% | ~242 |
+| The Boulder | 0.10% | ~242 |
+| Overthrown | 0.10% | ~242 |
+| Poor Choices | 0.10% | ~242 |
+| Not What I Meant | 0.10% | ~242 |
+| A Rock And A Hard Place | 0.10% | ~242 |
+| Illuminate, Annihilate | 0.10% | ~242 |
+| Never Too Many Hats | 0.10% | ~242 |
+| Master of Strategy | 0.10% | ~242 |
+| No Mercy | 0.10% | ~242 |
+| Good Boys | 0.10% | ~242 |
+| Need An Antidote? | 0.10% | ~242 |
+| Sprinter | 0.10% | ~242 |
+| The Tickler | 0.10% | ~242 |
+| Masochist | 0.10% | ~242 |
+| Minimalist | 0.10% | ~242 |
+| Near Death Experience | 0.10% | ~242 |
+| Champion of the Day | 0.10% | ~242 |
+| Down Under | 0.10% | ~242 |
+| Only The Best | 0.10% | ~242 |
+| Mastermind | 0.10% | ~242 |
+| No Swapsies | 0.10% | ~242 |
+| Ignoring Midgame | 0.10% | ~242 |
+| Quick To Pick | 0.10% | ~242 |
+| Tunnel Vision | 0.10% | ~242 |
+| Martial Master | 0.10% | ~242 |
+| Nudie Run | 0.10% | ~242 |
+| You Call That A Knife? | 0.10% | ~242 |
 | Scrounger Appreciation | 0.10% | ~3 |
 | Explosives Expert | 0.10% | ~3 |
 | All Natural | 0.10% | ~3 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,498 (Ranked 67)  
-Completed: 301 (0.12%) (Ranked 297)  
+Progressed: 241,501 (Ranked 67)  
+Completed: 301 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -392,7 +392,7 @@ Completed: 301 (0.12%) (Ranked 297)
 | 2023-12-20 | 241,359 | 300 |
 | 2023-12-21 | 241,432 | 300 |
 | 2023-12-22 | 241,477 | 300 |
-| 2023-12-23 | 241,498 | 301 |
+| 2023-12-23 | 241,501 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,755 (Ranked 88)  

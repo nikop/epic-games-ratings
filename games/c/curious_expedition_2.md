@@ -13,7 +13,7 @@ Number of Ratings: 20  (23.09.2022)
 | Lost & Found & Lost Again | 43.00% | ~161 |
 | From Whence we Came | 42.00% | ~157 |
 | Fire and Flood | 41.00% | ~153 |
-| Spooky! | 37.00% | ~138 |
+| Spooky! | 38.00% | ~142 |
 | Shennong Herbalist | 34.00% | ~127 |
 | Treasure Hunt | 34.00% | ~127 |
 | Good Mama | 33.00% | ~123 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 355)  
+Progressed: 374 (Ranked 356)  
 Completed: 1 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |

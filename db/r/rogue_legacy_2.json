@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26359,
+  "EOS_Progressed": 26368,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1810,
+  "EOS_NewPlayers": 1803,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11542,6 +11542,11 @@
       "Time": "2023-12-23T08:10:24.4286804+00:00",
       "NumProgressed": 26359,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-23T09:09:46.8622355+00:00",
+      "NumProgressed": 26368,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11617,7 +11622,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11799,9 +11804,9 @@
       "ID": "PetDragon",
       "SetID": "3ojhj46",
       "Name": "Good Boy!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 132
     },
     {
       "ID": "PrequelReveal",
@@ -11864,21 +11869,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26359,
+      "Progressed": 26368,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5289,
+      "Progressed": 5298,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:10:24.4286802+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:09:46.8622352+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2937948+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:59:58.2237009+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:10:24.4287368+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:59:27.7116526+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:09:46.8623118+00:00"
 }

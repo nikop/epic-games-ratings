@@ -6,9 +6,9 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,7 +567,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6029,
+  "EOS_Progressed": 6031,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -8867,6 +8867,11 @@
       "Time": "2023-12-23T08:08:30.1957752+00:00",
       "NumProgressed": 6029,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T09:06:15.042654+00:00",
+      "NumProgressed": 6031,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9022,7 +9027,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "27",
@@ -9342,7 +9347,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "60",
@@ -9357,13 +9362,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6029,
+      "Progressed": 6031,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6029,
+      "Progressed": 6031,
       "Completed": 7
     }
   ],
@@ -9371,8 +9376,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T08:08:30.1957734+00:00",
+  "LastChanged_Achievements": "2023-12-23T09:06:15.0426538+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T07:58:16.226948+00:00",
-  "LastUpdate_Achievements": "2023-12-23T08:08:30.1958419+00:00"
+  "LastUpdate_Ratings": "2023-12-23T08:57:59.1517205+00:00",
+  "LastUpdate_Achievements": "2023-12-23T09:06:15.0427222+00:00"
 }
