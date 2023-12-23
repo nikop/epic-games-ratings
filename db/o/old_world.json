@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15889,
+  "EOS_Progressed": 15890,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18149,6 +18149,11 @@
       "Time": "2023-12-23T00:10:57.4326291+00:00",
       "NumProgressed": 15889,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T02:27:12.5127894+00:00",
+      "NumProgressed": 15890,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18606,9 +18611,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -20190,9 +20195,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -21023,21 +21028,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15889,
+      "Progressed": 15890,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15889,
+      "Progressed": 15890,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:05.6050197+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:12.5127892+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:45:00.8428354+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:05.6059936+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:20:18.438842+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:12.5137382+00:00"
 }

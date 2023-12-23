@@ -675,7 +675,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 61732,
+  "EOS_Progressed": 61734,
   "EOS_Completed": 62,
   "EOS_NewPlayers": 1503,
   "EOS_NewCompleters": 2,
@@ -14205,6 +14205,11 @@
       "Time": "2023-12-23T01:47:06.0077071+00:00",
       "NumProgressed": 61732,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-23T02:22:24.2345981+00:00",
+      "NumProgressed": 61734,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14241,7 +14246,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "BAD_END",
@@ -14393,7 +14398,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8643
     },
     {
       "ID": "HERBS_2",
@@ -14415,9 +14420,9 @@
       "ID": "INITIATION",
       "SetID": "bijn3c8",
       "Name": "Initiation",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 17285
+      "UsersEstimate": 17903
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -14616,15 +14621,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 61732,
+      "Progressed": 61734,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-20T11:59:57.3935397+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:47:06.0077067+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:22:24.2345979+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:15.0116795+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:09.0501897+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:47:06.0077842+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:29.6054084+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:22:24.234676+00:00"
 }

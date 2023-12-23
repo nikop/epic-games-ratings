@@ -1557,7 +1557,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244100,
+  "EOS_Progressed": 244102,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 0,
@@ -23302,6 +23302,11 @@
       "Time": "2023-12-23T01:52:05.429959+00:00",
       "NumProgressed": 244100,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T02:27:11.998741+00:00",
+      "NumProgressed": 244102,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23353,7 +23358,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Chapter1",
@@ -23761,7 +23766,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87876
+      "UsersEstimate": 87877
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23905,7 +23910,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "QuestMinstrel",
@@ -24016,21 +24021,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244100,
+      "Progressed": 244102,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244100,
+      "Progressed": 244102,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-22T20:58:23.6126046+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:05.4299588+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:11.9987407+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:39:48.8053043+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:05.4301361+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:15:11.7633474+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:11.9988974+00:00"
 }

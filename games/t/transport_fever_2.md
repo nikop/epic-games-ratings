@@ -22,20 +22,20 @@ Number of Ratings: 180  (23.09.2022)
 | Cargo hub | 50.00% | ~1,055 |
 | Sculpturer | 48.00% | ~1,013 |
 | Settled down | 47.00% | ~992 |
-| First electric train arrived | 44.00% | ~928 |
+| First electric train arrived | 45.00% | ~950 |
 | First ship arrived | 44.00% | ~928 |
 | Now what? | 44.00% | ~928 |
 | Exemplary student | 42.00% | ~886 |
 | High speed | 40.00% | ~844 |
 | Transport shark | 39.00% | ~823 |
 | First aircraft arrived | 39.00% | ~823 |
-| Mass production | 33.00% | ~696 |
+| Mass production | 34.00% | ~717 |
 | Aircraft entrepreneur | 32.00% | ~675 |
 | The future is now, old man | 30.00% | ~633 |
 | Crowd in a train | 29.00% | ~612 |
 | Not in my backyard | 28.00% | ~591 |
+| The king of the sea | 28.00% | ~591 |
 | City | 27.00% | ~570 |
-| The king of the sea | 27.00% | ~570 |
 | Transport tycoon | 22.00% | ~464 |
 | Old timer | 22.00% | ~464 |
 | Climate change | 21.00% | ~443 |
@@ -44,7 +44,7 @@ Number of Ratings: 180  (23.09.2022)
 | Bob Ross | 15.00% | ~316 |
 | Truck Fever | 11.00% | ~232 |
 | Campaign expert | 10.00% | ~211 |
-| No free seats | 9.00% | ~190 |
+| No free seats | 10.00% | ~211 |
 | Penny pincher | 9.00% | ~190 |
 | Back to the future | 8.00% | ~169 |
 | Transport belt | 8.00% | ~169 |

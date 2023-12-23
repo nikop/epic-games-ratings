@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 160,
+  "Ranking_Rating": 161,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 171,
@@ -293,9 +293,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 11066,
+  "EOS_Progressed": 11068,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2015,
+  "EOS_NewPlayers": 2007,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7548,6 +7548,11 @@
       "Time": "2023-12-23T01:52:07.4806912+00:00",
       "NumProgressed": 11066,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-23T02:27:14.2621216+00:00",
+      "NumProgressed": 11068,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -7568,7 +7573,7 @@
       "Name": "Baby Steps",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "BeLikeWater",
@@ -7632,7 +7637,7 @@
       "Name": "First Time?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "FuneralForTheDeath",
@@ -7704,7 +7709,7 @@
       "Name": "Nasty!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "NoMoreTotems",
@@ -7752,7 +7757,7 @@
       "Name": "The Old-School Way",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "TheQuarterback",
@@ -7776,7 +7781,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "UnResurrected",
@@ -7831,7 +7836,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 11066,
+      "Progressed": 11068,
       "Completed": 19
     }
   ],
@@ -7839,8 +7844,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-22T21:02:09.677652+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:07.4806909+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:14.2621213+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:44:47.5961794+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:07.4807345+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:20:05.7097568+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:14.2621695+00:00"
 }

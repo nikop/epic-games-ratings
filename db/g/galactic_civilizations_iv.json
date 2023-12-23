@@ -987,7 +987,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7449,
+  "EOS_Progressed": 7450,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -9322,6 +9322,11 @@
       "Time": "2023-12-22T21:09:36.0384169+00:00",
       "NumProgressed": 7449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T02:27:07.1450814+00:00",
+      "NumProgressed": 7450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9371,9 +9376,9 @@
       "ID": "Collect_15_Anomalies",
       "SetID": "4h07amh",
       "Name": "Anomaly Researcher",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4470
     },
     {
       "ID": "Control_All_Relics",
@@ -9389,7 +9394,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -9397,7 +9402,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9413,7 +9418,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "First_Major_Ally",
@@ -9445,7 +9450,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5364
     },
     {
       "ID": "First_Ship_Designed",
@@ -9453,7 +9458,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "First_Stream_Travel",
@@ -9469,7 +9474,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5661
+      "UsersEstimate": 5662
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9653,7 +9658,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9861,7 +9866,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Win_Influence",
@@ -9908,15 +9913,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7449,
+      "Progressed": 7450,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:00.2892598+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:07.1450812+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:39:48.3133958+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:00.2893561+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:15:11.3178313+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:07.1451578+00:00"
 }

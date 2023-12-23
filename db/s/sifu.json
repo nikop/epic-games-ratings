@@ -8421,9 +8421,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 740390,
+  "EOS_Progressed": 740415,
   "EOS_Completed": 12959,
-  "EOS_NewPlayers": 13665,
+  "EOS_NewPlayers": 13619,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30496,6 +30496,11 @@
       "Time": "2023-12-23T01:51:06.2892882+00:00",
       "NumProgressed": 740390,
       "NumCompleted": 12959
+    },
+    {
+      "Time": "2023-12-23T02:26:12.6781912+00:00",
+      "NumProgressed": 740415,
+      "NumCompleted": 12959
     }
   ],
   "TotalAchievements": 60,
@@ -30505,9 +30510,9 @@
       "ID": "01_Prologue",
       "SetID": "adcm20g",
       "Name": "The Old Grandmaster",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22212
+      "UsersEstimate": 29617
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30859,7 +30864,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -30986,21 +30991,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 49691,
+      "Progressed": 49716,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 740390,
+      "Progressed": 740415,
       "Completed": 12959
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-22T21:02:32.1762865+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:51:06.2892878+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:26:12.678191+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:45:03.8782852+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:51:06.2894209+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:20:21.1767312+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:26:12.6783553+00:00"
 }

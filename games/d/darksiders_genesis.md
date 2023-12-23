@@ -12,6 +12,7 @@ Number of Ratings: 67  (23.09.2022)
 | Mammon | 1.00% | ~1 |
 | Master of War | 1.00% | ~1 |
 | Close the Rift | 0.70% | ~1 |
+| Hell's Forge | 0.70% | ~1 |
 | Master of Strife | 0.70% | ~1 |
 | The Dead Court | 0.70% | ~1 |
 | Why'd It Have to Be Snakes? | 0.70% | ~1 |
@@ -25,7 +26,6 @@ Number of Ratings: 67  (23.09.2022)
 | Full of Hell | 0.00% | ~0 |
 | Gatekeeper | 0.00% | ~0 |
 | Good Deeds | 0.00% | ~0 |
-| Hell's Forge | 0.00% | ~0 |
 | Infested | 0.00% | ~0 |
 | Mint II | 0.00% | ~0 |
 | Mint III | 0.00% | ~0 |

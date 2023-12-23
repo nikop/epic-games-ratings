@@ -4,7 +4,7 @@
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
   "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "1",
       "SetID": "279eo25",
       "Name": "Crystal Collector",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "10",
@@ -215,9 +215,9 @@
       "ID": "16",
       "SetID": "279eo25",
       "Name": "Grounded!",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "17",
@@ -335,9 +335,9 @@
       "ID": "7",
       "SetID": "279eo25",
       "Name": "Green Island",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "8",
@@ -366,8 +366,8 @@
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:51:28.1305291+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:26:34.441341+00:00",
   "LastUpdate_AppInfo": "2023-12-18T17:57:03.4883943+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:11.8041341+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:51:28.130541+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:32.3037899+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:26:34.4413546+00:00"
 }

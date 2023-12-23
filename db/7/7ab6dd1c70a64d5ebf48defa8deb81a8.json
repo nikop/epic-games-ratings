@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1072,
+  "EOS_Progressed": 1073,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2135,6 +2135,11 @@
       "Time": "2023-12-23T01:52:11.2262411+00:00",
       "NumProgressed": 1072,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T02:27:18.024276+00:00",
+      "NumProgressed": 1073,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2146,7 +2151,7 @@
       "Name": "Break Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_02",
@@ -2216,9 +2221,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_11",
@@ -2266,7 +2271,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_17",
@@ -2433,14 +2438,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1072,
+      "Progressed": 1073,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:11.2262409+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:18.0242757+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:40:28.7899381+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:11.2262672+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:15:50.8467024+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:18.0243073+00:00"
 }

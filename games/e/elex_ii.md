@@ -24,6 +24,7 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 4.00% | ~3 |
 | Globetrotter | 3.00% | ~2 |
 | Unbreakable | 3.00% | ~2 |
+| Festival-goer | 3.00% | ~2 |
 | Pass A38 | 3.00% | ~2 |
 | Storyteller | 1.00% | ~1 |
 | Alchemist | 1.00% | ~1 |
@@ -34,7 +35,6 @@ Number of Ratings: 124  (23.09.2022)
 | Morkon | 1.00% | ~1 |
 | Outlaw | 1.00% | ~1 |
 | Destroyer | 1.00% | ~1 |
-| Festival-goer | 1.00% | ~1 |
 | Detective | 1.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6028,9 +6028,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 720338,
+  "EOS_Progressed": 720339,
   "EOS_Completed": 6555,
-  "EOS_NewPlayers": 1412,
+  "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -32943,6 +32943,11 @@
       "Time": "2023-12-23T01:52:08.6385864+00:00",
       "NumProgressed": 720338,
       "NumCompleted": 6555
+    },
+    {
+      "Time": "2023-12-23T02:27:15.4189601+00:00",
+      "NumProgressed": 720339,
+      "NumCompleted": 6555
     }
   ],
   "TotalAchievements": 49,
@@ -32954,7 +32959,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 273728
+      "UsersEstimate": 273729
     },
     {
       "ID": "AchAresKills",
@@ -32970,7 +32975,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 158474
+      "UsersEstimate": 158475
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -33018,7 +33023,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 569067
+      "UsersEstimate": 569068
     },
     {
       "ID": "AchClearElysium",
@@ -33058,7 +33063,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 633897
+      "UsersEstimate": 633898
     },
     {
       "ID": "AchCrushedThanatos",
@@ -33066,7 +33071,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 324152
+      "UsersEstimate": 324153
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -33114,7 +33119,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158474
+      "UsersEstimate": 158475
     },
     {
       "ID": "AchGreaterCall",
@@ -33122,7 +33127,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 482626
+      "UsersEstimate": 482627
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -33154,7 +33159,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 194491
+      "UsersEstimate": 194492
     },
     {
       "ID": "AchManyQuests",
@@ -33162,7 +33167,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 180084
+      "UsersEstimate": 180085
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -33170,7 +33175,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 252118
+      "UsersEstimate": 252119
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -33194,7 +33199,7 @@
       "Name": "Dark Reflections",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 64830
+      "UsersEstimate": 64831
     },
     {
       "ID": "AchMyrmidonReunion",
@@ -33218,7 +33223,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 122457
+      "UsersEstimate": 122458
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -33258,7 +33263,7 @@
       "Name": "Thanks, But No Thanks",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 64830
+      "UsersEstimate": 64831
     },
     {
       "ID": "AchReachedEnding",
@@ -33266,7 +33271,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 180084
+      "UsersEstimate": 180085
     },
     {
       "ID": "AchReachedEpilogue",
@@ -33330,7 +33335,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 288135
+      "UsersEstimate": 288136
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -33338,22 +33343,22 @@
       "Name": "Infernal Arms",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 64830
+      "UsersEstimate": 64831
     }
   ],
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 720338,
+      "Progressed": 720339,
       "Completed": 6555
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-12-22T13:01:54.7280386+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:08.6385862+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:15.4189598+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:18.0129422+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:40:58.901244+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:08.6387688+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:16:20.408955+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:15.4191093+00:00"
 }

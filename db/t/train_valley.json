@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1559,6 +1559,11 @@
       "Time": "2023-12-22T22:03:27.8563305+00:00",
       "NumProgressed": 575,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T02:20:47.0866698+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1568,9 +1573,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 444
     },
     {
       "ID": "02_collector",
@@ -1650,7 +1655,7 @@
       "Name": "Germany",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "12_roll",
@@ -1698,7 +1703,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "18_foreman",
@@ -1746,7 +1751,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "24_mega",
@@ -1794,7 +1799,7 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "30_completelynuts",
@@ -1881,15 +1886,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:45:28.270649+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:20:47.0866696+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:44.2539038+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:41:01.0169225+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:45:28.2706844+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:16:22.5253181+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:20:47.0867169+00:00"
 }

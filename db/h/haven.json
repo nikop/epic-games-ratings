@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2778,6 +2778,11 @@
       "Time": "2023-12-22T23:03:43.7687689+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T02:23:17.8025848+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2789,7 +2794,7 @@
       "Name": "Lovebirds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "10",
@@ -2797,7 +2802,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "11",
@@ -2821,7 +2826,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "14",
@@ -2853,7 +2858,7 @@
       "Name": "Balding bloot!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "18",
@@ -3028,15 +3033,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:47:59.8331147+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:23:17.8025847+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:07.2035706+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:47:59.8331381+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:27.764421+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:23:17.802607+00:00"
 }

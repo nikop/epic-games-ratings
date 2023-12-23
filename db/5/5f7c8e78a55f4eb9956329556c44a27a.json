@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -859,9 +859,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -979,9 +979,9 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1138,8 +1138,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:47:51.8459651+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:23:09.6882715+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:40:33.031027+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:47:51.8459889+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:15:54.9701788+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:23:09.6882964+00:00"
 }

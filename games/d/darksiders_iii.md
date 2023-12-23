@@ -10,23 +10,23 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 72.00% | ~63 |
 | Helping Hand | 69.00% | ~61 |
 | Increased Vigor | 64.00% | ~56 |
-| Fight Fire with Fire | 63.00% | ~55 |
-| Increased Capacity | 60.00% | ~53 |
+| Fight Fire with Fire | 64.00% | ~56 |
+| Increased Capacity | 61.00% | ~54 |
 | Just the start | 56.00% | ~49 |
 | Perfect Storm | 50.00% | ~44 |
 | All That Glitters | 50.00% | ~44 |
 | Enhance! | 48.00% | ~42 |
 | One Of the Chosen | 47.00% | ~41 |
 | Throne Potato | 41.00% | ~36 |
-| 25 to Life | 40.00% | ~35 |
+| 25 to Life | 41.00% | ~36 |
+| Unshakable Fortitude | 39.00% | ~34 |
 | Devil's in the Details | 39.00% | ~34 |
 | Five's a Crowd | 39.00% | ~34 |
-| Unshakable Fortitude | 38.00% | ~33 |
 | Salvation | 38.00% | ~33 |
 | Soul Harvester | 36.00% | ~32 |
 | Delusions of Grandeur | 34.00% | ~30 |
 | I Wanna Rock | 33.00% | ~29 |
-| Maximum Vigor | 31.00% | ~27 |
+| Maximum Vigor | 32.00% | ~28 |
 | Love Tap | 31.00% | ~27 |
 | For Whom the Bell Tolls | 31.00% | ~27 |
 | Can you restore the Balance? | 28.00% | ~25 |

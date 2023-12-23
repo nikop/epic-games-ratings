@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -308,17 +308,17 @@
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_picklock14",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:03.5750193+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:10.2701703+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:19.6216308+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:40:07.5965868+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:03.5750302+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:15:30.2773285+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:10.2701825+00:00"
 }

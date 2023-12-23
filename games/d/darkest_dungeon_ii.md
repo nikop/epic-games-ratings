@@ -13,8 +13,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 4.00% | ~5,169 |
 | Overdue Notice | 4.00% | ~5,169 |
 | Autodidact | 4.00% | ~5,169 |
-| Ploughshares to Swords | 4.00% | ~163 |
-| Bloody Graduation | 4.00% | ~163 |
+| Ploughshares to Swords | 4.00% | ~164 |
+| Bloody Graduation | 4.00% | ~164 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,877 |
 | Serenity Now! | 3.00% | ~3,877 |
 | It Rings a Bell | 3.00% | ~3,877 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,217 (Ranked 86)  
+Progressed: 129,220 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,217 | 3 |
+| 2023-12-23 | 129,220 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,954 (Ranked 58)  

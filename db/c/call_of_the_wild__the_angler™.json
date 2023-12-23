@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7393,
+  "EOS_Progressed": 7394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11958,6 +11958,11 @@
       "Time": "2023-12-23T01:46:15.6761766+00:00",
       "NumProgressed": 7393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T02:21:34.768438+00:00",
+      "NumProgressed": 7394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12009,7 +12014,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12288,13 +12293,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7393,
+      "Progressed": 7394,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6765,
+      "Progressed": 6766,
       "Completed": 113
     }
   ],
@@ -12302,8 +12307,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:46:15.6761761+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:21:34.7684376+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:39:32.9048484+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:46:15.6762373+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:14:56.2623119+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:21:34.7685001+00:00"
 }

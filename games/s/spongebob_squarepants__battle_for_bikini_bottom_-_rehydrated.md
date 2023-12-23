@@ -6,14 +6,14 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 8.00% | ~18 |
+| Spatula Seeker | 9.00% | ~20 |
 | Jellyfish Jam | 6.00% | ~13 |
 | Sponge Smasher | 6.00% | ~13 |
 | Jellyfishing | 5.00% | ~11 |
+| Sweet Victory | 4.00% | ~9 |
 | Keep it Rolling | 3.00% | ~7 |
 | Shrimp Catcher | 3.00% | ~7 |
 | Toxic Terror | 3.00% | ~7 |
-| Sweet Victory | 3.00% | ~7 |
 | Star Smasher | 3.00% | ~7 |
 | Time For Tutorial | 3.00% | ~7 |
 | Robot encyclopedia | 2.00% | ~4 |

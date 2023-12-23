@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1076,9 +1076,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1277,8 +1277,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:51:07.1582745+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:26:13.4904921+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:41:09.8765668+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:51:07.1583033+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:16:31.2868532+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:26:13.4905433+00:00"
 }

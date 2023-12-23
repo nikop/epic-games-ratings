@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,916 |
 | Man of politics | 34.00% | ~5,879 |
+| Friends of sorts | 33.00% | ~5,706 |
 | Yet another secret | 33.00% | ~5,706 |
-| Friends of sorts | 32.00% | ~5,533 |
 | Let there be darkness | 31.00% | ~5,360 |
 | End of Book One | 29.00% | ~5,014 |
 | Garden of Eden | 24.00% | ~4,150 |

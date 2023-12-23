@@ -572,7 +572,7 @@
   ],
   "EOS_Progressed": 17290,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16824,9 +16824,9 @@
       "ID": "tpote_achievement_14",
       "SetID": "3jcf6c3",
       "Name": "Friends of sorts",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5533
+      "UsersEstimate": 5706
     },
     {
       "ID": "tpote_achievement_15",
@@ -17120,8 +17120,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:47:32.2461342+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:22:49.859877+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:04.0513261+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:47:32.2462393+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:25.1089653+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:22:49.8599665+00:00"
 }

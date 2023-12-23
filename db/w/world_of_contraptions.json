@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1579,6 +1579,11 @@
       "Time": "2023-12-22T23:05:17.9654303+00:00",
       "NumProgressed": 362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T02:26:30.6444556+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1590,7 +1595,7 @@
       "Name": "The first of many",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1822,21 +1827,21 @@
       "Name": "Starting to take notes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:51:24.3129293+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:26:30.6444553+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.9324538+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:22.2475708+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:51:24.312954+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:42.3253405+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:26:30.6444828+00:00"
 }

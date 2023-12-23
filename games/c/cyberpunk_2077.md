@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,610 |
+| V for Vendetta | 12.00% | ~117,611 |
 | Gun Fu | 8.00% | ~78,407 |
 | The Fool | 7.00% | ~68,606 |
-| Right Back At Ya | 6.00% | ~58,805 |
-| Full Body Conversion | 5.00% | ~49,004 |
-| The Lovers | 5.00% | ~49,004 |
-| Christmas Tree Attack | 4.00% | ~39,203 |
-| Stanislavski's Method | 4.00% | ~39,203 |
-| The Hermit | 4.00% | ~39,203 |
-| The Wheel of Fortune | 4.00% | ~39,203 |
-| True Soldier | 4.00% | ~39,203 |
-| All the President's Men | 4.00% | ~4,348 |
-| Arachnophobia | 4.00% | ~4,348 |
+| Right Back At Ya | 6.00% | ~58,806 |
+| Full Body Conversion | 5.00% | ~49,005 |
+| The Lovers | 5.00% | ~49,005 |
+| Christmas Tree Attack | 4.00% | ~39,204 |
+| Stanislavski's Method | 4.00% | ~39,204 |
+| The Hermit | 4.00% | ~39,204 |
+| The Wheel of Fortune | 4.00% | ~39,204 |
+| True Soldier | 4.00% | ~39,204 |
+| All the President's Men | 4.00% | ~4,349 |
+| Arachnophobia | 4.00% | ~4,349 |
 | The Quick and the Dead | 3.00% | ~29,403 |
 | Life of the Road | 3.00% | ~29,403 |
 | The High Priestess | 3.00% | ~29,403 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,086 (Ranked 16)  
+Progressed: 980,092 (Ranked 16)  
 Completed: 2,955 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,17 +321,17 @@ Completed: 2,955 (0.30%) (Ranked 249)
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
 | 2023-12-22 | 980,059 | 2,955 |
-| 2023-12-23 | 980,086 | 2,955 |
+| 2023-12-23 | 980,092 | 2,955 |
 ## Awards
 Max (Character Customization): 126,294  (Ranked 8)  
-Sum: 437,444 (Ranked 9)  
+Sum: 437,625 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 126,294 |
 | This game has Great Boss Battles | 92,982 |
 | This game is Great for Beginners | 27,292 |
-| This game has Diverse Characters | 26,643 |
+| This game has Diverse Characters | 26,824 |
 | This game is Highly Recommended | 25,485 |
 | This game has Amazing Storytelling | 25,058 |
 | This game is Extremely Fun | 24,838 |
@@ -680,4 +680,4 @@ Diff (max vs sum): -1
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
 | 2023-12-22 | 4.66 | - | 126,294 | 437,314 |
-| 2023-12-23 | 4.66 | - | 126,294 | 437,444 |
+| 2023-12-23 | 4.66 | - | 126,294 | 437,625 |

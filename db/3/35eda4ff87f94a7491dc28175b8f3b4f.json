@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16750,
+  "EOS_Progressed": 16754,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 1766,
+  "EOS_NewPlayers": 1764,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -5353,6 +5353,11 @@
       "Time": "2023-12-23T01:50:40.2540343+00:00",
       "NumProgressed": 16750,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-12-23T02:25:47.0076349+00:00",
+      "NumProgressed": 16754,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5373,7 +5378,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -5395,9 +5400,9 @@
       "ID": "SAVE_EVERYONE_1_1",
       "SetID": "24fdn9j",
       "Name": "Savior",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1340
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -5421,7 +5426,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -5444,7 +5449,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 16750,
+      "Progressed": 16754,
       "Completed": 74
     }
   ],
@@ -5452,8 +5457,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-22T05:00:06.7831302+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:50:40.254034+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:25:47.0076345+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:56.7597495+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:39:02.5545597+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:50:40.2540613+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:14:26.934458+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:25:47.0076679+00:00"
 }

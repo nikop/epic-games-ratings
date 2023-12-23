@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -390,7 +390,7 @@
   ],
   "EOS_Progressed": 5032,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4314,9 +4314,9 @@
       "ID": "ID_ACHIEV_46",
       "SetID": "98bke8c",
       "Name": "SENTINEL",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 805
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4506,8 +4506,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:50:37.4675521+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:25:44.1664556+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.7369287+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:07.7758662+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:50:37.4676109+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:28.3825932+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:25:44.1665338+00:00"
 }

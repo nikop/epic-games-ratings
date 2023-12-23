@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1454,6 +1454,11 @@
       "Time": "2023-12-23T01:51:50.9069254+00:00",
       "NumProgressed": 424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T02:26:57.8459316+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1538,7 +1543,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1554,7 +1559,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "TIME_JINX",
@@ -1584,9 +1589,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1625,14 +1630,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:51:50.906925+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T01:42:15.0489028+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:39:10.2528027+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:51:50.9069425+00:00"
+  "LastChanged_Achievements": "2023-12-23T02:26:57.8459313+00:00",
+  "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
+  "LastUpdate_Ratings": "2023-12-23T02:14:34.4114802+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:26:57.8459502+00:00"
 }

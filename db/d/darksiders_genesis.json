@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -850,9 +850,9 @@
       "ID": "HellsForge",
       "SetID": "329ak73",
       "Name": "Hell\u0027s Forge",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Infested",
@@ -1002,8 +1002,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:51:49.3669379+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:26:56.2502951+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:15.6442347+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:51:49.3669556+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:36.0544123+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:26:56.2503123+00:00"
 }

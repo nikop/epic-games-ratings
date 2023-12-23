@@ -6,8 +6,8 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 74.00% | ~1,278 |
-| Lovebirds | 46.00% | ~794 |
+| Balding bloot! | 74.00% | ~1,279 |
+| Lovebirds | 46.00% | ~795 |
 | Life’s short, ride long | 41.00% | ~708 |
 | Hug therapy | 40.00% | ~691 |
 | Over my dead body | 37.00% | ~639 |
@@ -22,8 +22,8 @@ Number of Ratings: 38  (23.09.2022)
 | Don't look back | 12.00% | ~207 |
 | Back to rust | 11.00% | ~190 |
 | Flower Powered | 11.00% | ~190 |
-| Perfect timing | 9.00% | ~155 |
-| Unstoppable | 9.00% | ~155 |
+| Perfect timing | 9.00% | ~156 |
+| Unstoppable | 9.00% | ~156 |
 | Ain't no mountain high enough | 8.00% | ~138 |
 | Self-sustainability | 7.00% | ~121 |
 | Spring cleaning | 5.00% | ~86 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~35 |
 | À la carte | 2.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,727 (Ranked 242)  
+Progressed: 1,728 (Ranked 242)  
 Completed: 10 (0.58%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 10 (0.58%) (Ranked 199)
 | 2023-12-20 | 1,693 | 10 |
 | 2023-12-21 | 1,707 | 10 |
 | 2023-12-22 | 1,727 | 10 |
+| 2023-12-23 | 1,728 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

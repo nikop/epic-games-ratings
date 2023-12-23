@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 3.00% | ~22,212 |
+| The Old Grandmaster | 4.00% | ~29,617 |
 | The Assault | 3.00% | ~22,212 |
 | Life is your teacher | 3.00% | ~22,212 |
 | Lightning Hands | 3.00% | ~22,212 |
@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~5,183 |
 | Fight the way you practice | 0.70% | ~348 |
 | Martial Hub | 0.60% | ~298 |
-| Bloody Sport | 0.50% | ~248 |
+| Bloody Sport | 0.50% | ~249 |
 | Muk Yan Master | 0.40% | ~2,962 |
 | Tiger on Fire | 0.40% | ~2,962 |
 | Source of Flying Daggers | 0.40% | ~2,962 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~50 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,390 (Ranked 23)  
+Progressed: 740,415 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 740,390 | 12,959 |
+| 2023-12-23 | 740,415 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,989  (Ranked 55)  
 Sum: 11,814 (Ranked 87)  

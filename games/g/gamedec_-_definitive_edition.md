@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,057 |
-| Powergamer | 27.00% | ~68,950 |
-| Write that down | 25.00% | ~63,842 |
-| Barely scratched the surface | 25.00% | ~63,842 |
-| Guns, lots of guns | 13.00% | ~33,198 |
-| Collector | 12.00% | ~30,644 |
-| Elementary! | 9.00% | ~22,983 |
+| I will finish what you started | 29.00% | ~74,059 |
+| Powergamer | 27.00% | ~68,951 |
+| Write that down | 25.00% | ~63,844 |
+| Barely scratched the surface | 25.00% | ~63,844 |
+| Guns, lots of guns | 13.00% | ~33,199 |
+| Collector | 12.00% | ~30,645 |
+| Elementary! | 9.00% | ~22,984 |
 | Griever | 8.00% | ~20,430 |
 | Pumpkin Jack | 8.00% | ~20,430 |
 | Wake up! | 8.00% | ~20,430 |
@@ -20,21 +20,21 @@ Number of Ratings: 33  (23.09.2022)
 | Me smart | 6.00% | ~15,322 |
 | Trash compactor | 6.00% | ~15,322 |
 | Valedictorian | 6.00% | ~15,322 |
-| Good listener | 5.00% | ~12,768 |
+| Good listener | 5.00% | ~12,769 |
 | BOY! | 4.00% | ~10,215 |
 | Ka-ching! | 4.00% | ~10,215 |
 | So you like to read? | 4.00% | ~10,215 |
 | Hoarder | 3.00% | ~7,661 |
 | I like to sniff around | 3.00% | ~7,661 |
 | Mind reader | 3.00% | ~7,661 |
-| Catnip | 2.00% | ~5,107 |
-| Gentleman's classic | 2.00% | ~5,107 |
-| Is that a rift? | 2.00% | ~5,107 |
-| It's alive! | 2.00% | ~5,107 |
-| Enjoy the beach | 2.00% | ~5,107 |
-| Rinse and repeat | 2.00% | ~5,107 |
-| Mama, I'm a criminal | 2.00% | ~5,107 |
-| Never gonna give you up | 2.00% | ~5,107 |
+| Catnip | 2.00% | ~5,108 |
+| Gentleman's classic | 2.00% | ~5,108 |
+| Is that a rift? | 2.00% | ~5,108 |
+| It's alive! | 2.00% | ~5,108 |
+| Enjoy the beach | 2.00% | ~5,108 |
+| Rinse and repeat | 2.00% | ~5,108 |
+| Mama, I'm a criminal | 2.00% | ~5,108 |
+| Never gonna give you up | 2.00% | ~5,108 |
 | A muscle to rely on | 1.00% | ~2,554 |
 | A true blacksmith | 1.00% | ~2,554 |
 | I am in great pain, please help me | 1.00% | ~2,554 |
@@ -49,9 +49,9 @@ Number of Ratings: 33  (23.09.2022)
 | I have the high ground | 0.70% | ~1,788 |
 | Enjoy these little moments | 0.50% | ~1,277 |
 | Who wouldn't love a troll? | 0.50% | ~1,277 |
-| Irondec | 0.40% | ~1,021 |
-| LET ME OUT! | 0.40% | ~1,021 |
-| Un-bear-able | 0.40% | ~1,021 |
+| Irondec | 0.40% | ~1,022 |
+| LET ME OUT! | 0.40% | ~1,022 |
+| Un-bear-able | 0.40% | ~1,022 |
 | Well-deserved reunion | 0.30% | ~766 |
 | Breaking the chains | 0.20% | ~511 |
 | Aren't you overthinking? | 0.20% | ~511 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,370 (Ranked 63)  
+Progressed: 255,375 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-20 | 255,178 | 7 |
 | 2023-12-21 | 255,268 | 7 |
 | 2023-12-22 | 255,356 | 7 |
-| 2023-12-23 | 255,370 | 7 |
+| 2023-12-23 | 255,375 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 385)  
 Sum: 92 (Ranked 463)  

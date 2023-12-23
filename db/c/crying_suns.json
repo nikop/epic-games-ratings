@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472653,
+  "EOS_Progressed": 472654,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26138,6 +26138,11 @@
       "Time": "2023-12-23T01:52:15.114932+00:00",
       "NumProgressed": 472653,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-23T02:27:22.075028+00:00",
+      "NumProgressed": 472654,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26237,7 +26242,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311951
+      "UsersEstimate": 311952
     },
     {
       "ID": "achievement_story_landa",
@@ -26269,7 +26274,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118163
+      "UsersEstimate": 118164
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -26573,7 +26578,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207967
+      "UsersEstimate": 207968
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26780,21 +26785,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16587,
+      "Progressed": 16588,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472653,
+      "Progressed": 472654,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:15.1149319+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:22.0750278+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:40:12.6819737+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:15.1150787+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:15:35.3191726+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:22.0753146+00:00"
 }

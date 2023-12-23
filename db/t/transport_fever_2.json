@@ -5934,9 +5934,9 @@
       "ID": "achFirstElectricTrainArrived",
       "SetID": "dgl390n",
       "Name": "First electric train arrived",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 950
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -6046,9 +6046,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 717
     },
     {
       "ID": "achMetropolis",
@@ -6078,9 +6078,9 @@
       "ID": "achNoFreeSeats",
       "SetID": "dgl390n",
       "Name": "No free seats",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 211
     },
     {
       "ID": "achPaint",
@@ -6110,9 +6110,9 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 591
     },
     {
       "ID": "achSmellOfSuccess",
@@ -6198,8 +6198,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-22T16:57:35.9447156+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:50:50.2590282+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:25:56.9816264+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:39:35.4716299+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:50:50.259082+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:14:58.5125659+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:25:56.9816924+00:00"
 }

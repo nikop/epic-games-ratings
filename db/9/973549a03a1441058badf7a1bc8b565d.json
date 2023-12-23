@@ -2,9 +2,9 @@
   "ID": "973549a03a1441058badf7a1bc8b565d",
   "Name": "Knight vs Giant: The Broken Excalibur",
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
-  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Progress": 673,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-12-21T18:09:43.5176205+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T02:27:14.8274627+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T15:05:55.5796702+00:00",
@@ -54,7 +59,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -150,7 +155,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "4mjb15",
       "Name": "Gone Full Circle",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "4mjb15",
       "Name": "Bedivere of the Perfect Sinew",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "4mjb15",
       "Name": "Gawain, the Green Gallant",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -230,7 +235,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -255,14 +260,14 @@
     {
       "ID": "4mjb15",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-12-23T01:52:08.0455168+00:00",
+  "LastChanged_Achievements": "2023-12-23T02:27:14.8274625+00:00",
   "LastUpdate_AppInfo": "2023-12-22T20:57:03.4409838+00:00",
-  "LastUpdate_Ratings": "2023-12-23T01:42:20.8323654+00:00",
-  "LastUpdate_Achievements": "2023-12-23T01:52:08.0455303+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:17:41.107782+00:00",
+  "LastUpdate_Achievements": "2023-12-23T02:27:14.8274765+00:00"
 }
