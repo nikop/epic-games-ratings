@@ -508,9 +508,9 @@
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement13",
@@ -787,8 +787,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:04:41.1463265+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:04:47.0063435+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:55.8592774+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:59.1335221+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:04:41.146352+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:07.7399589+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:04:47.0063754+00:00"
 }

@@ -5,51 +5,51 @@ Rating: 4.75 (Ranked 146)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~13,457 |
-| I Challenge You To Save More Money! | 81.00% | ~12,387 |
-| I Love How Tough You Are | 66.00% | ~10,093 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~9,022 |
-| What I Want Is You | 53.00% | ~8,105 |
-| To Be Or Not To Be | 50.00% | ~7,646 |
-| Are You Alright? | 47.00% | ~7,187 |
-| Love Actually | 42.00% | ~6,423 |
-| Drama King | 36.00% | ~5,505 |
-| Go Clean up In Your Own Way | 33.00% | ~5,046 |
-| You're Really Something Else | 33.00% | ~5,046 |
-| FIRST LOVE | 31.00% | ~4,741 |
-| Drama CP: Reel to Real | 31.00% | ~4,741 |
-| Worthless Speech | 31.00% | ~4,741 |
-| Happy Family | 30.00% | ~4,588 |
-| Absolutely Elegant | 29.00% | ~4,435 |
-| ONE PUNCH | 29.00% | ~4,435 |
-| Still Single | 28.00% | ~4,282 |
-| Days Of Innocence | 26.00% | ~3,976 |
-| David | 26.00% | ~3,976 |
-| Go Get Some Fries On The Pier | 25.00% | ~3,823 |
-| All I Have Is Money | 22.00% | ~3,364 |
-| A Slap In The Face! | 22.00% | ~3,364 |
-| That's So You | 22.00% | ~3,364 |
-| Lover In Dark Alley | 21.00% | ~3,211 |
-| SALUTE | 21.00% | ~3,211 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,058 |
-| Off We Sail Tonight | 16.00% | ~2,447 |
-| Can You Do This Or Not? | 14.00% | ~2,141 |
-| Love You Three Thousand | 13.00% | ~1,988 |
-| Doesn't Matter I'll Handle It | 12.00% | ~1,835 |
-| The Flash | 11.00% | ~1,682 |
-| New Yoga Pose Unlocked | 10.00% | ~1,529 |
-| My Dear Love! | 8.00% | ~1,223 |
-| Counting Sheep? | 8.00% | ~1,223 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,223 |
-| Life Is A Rollercoaster | 7.00% | ~1,070 |
-| Boys Need To Protect Themselves | 7.00% | ~1,070 |
-| Stubborn Noob | 7.00% | ~1,070 |
+| Last Night...Did We... | 88.00% | ~13,471 |
+| I Challenge You To Save More Money! | 81.00% | ~12,399 |
+| I Love How Tough You Are | 66.00% | ~10,103 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~9,032 |
+| What I Want Is You | 53.00% | ~8,113 |
+| To Be Or Not To Be | 50.00% | ~7,654 |
+| Are You Alright? | 47.00% | ~7,195 |
+| Love Actually | 42.00% | ~6,429 |
+| Drama King | 36.00% | ~5,511 |
+| Go Clean up In Your Own Way | 33.00% | ~5,052 |
+| You're Really Something Else | 33.00% | ~5,052 |
+| FIRST LOVE | 31.00% | ~4,745 |
+| Drama CP: Reel to Real | 31.00% | ~4,745 |
+| Worthless Speech | 31.00% | ~4,745 |
+| Happy Family | 30.00% | ~4,592 |
+| Absolutely Elegant | 29.00% | ~4,439 |
+| ONE PUNCH | 29.00% | ~4,439 |
+| Still Single | 28.00% | ~4,286 |
+| Days Of Innocence | 26.00% | ~3,980 |
+| David | 26.00% | ~3,980 |
+| Go Get Some Fries On The Pier | 25.00% | ~3,827 |
+| All I Have Is Money | 22.00% | ~3,368 |
+| A Slap In The Face! | 22.00% | ~3,368 |
+| That's So You | 22.00% | ~3,368 |
+| Lover In Dark Alley | 21.00% | ~3,215 |
+| SALUTE | 21.00% | ~3,215 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,062 |
+| Off We Sail Tonight | 16.00% | ~2,449 |
+| Can You Do This Or Not? | 14.00% | ~2,143 |
+| Love You Three Thousand | 13.00% | ~1,990 |
+| Doesn't Matter I'll Handle It | 12.00% | ~1,837 |
+| The Flash | 11.00% | ~1,684 |
+| New Yoga Pose Unlocked | 10.00% | ~1,531 |
+| My Dear Love! | 8.00% | ~1,225 |
+| Counting Sheep? | 8.00% | ~1,225 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,225 |
+| Life Is A Rollercoaster | 7.00% | ~1,072 |
+| Boys Need To Protect Themselves | 7.00% | ~1,072 |
+| Stubborn Noob | 7.00% | ~1,072 |
 | Hurrah! | 2.00% | ~306 |
 | Tall; Grande; Venti | 2.00% | ~306 |
 | Limerence | 2.00% | ~306 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,292 (Ranked 164)  
-Completed: 250 (1.63%) (Ranked 142)  
+Progressed: 15,308 (Ranked 164)  
+Completed: 251 (1.64%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 250 (1.63%) (Ranked 142)
 | 2023-12-20 | 14,479 | 236 |
 | 2023-12-21 | 14,731 | 238 |
 | 2023-12-22 | 15,023 | 245 |
-| 2023-12-23 | 15,292 | 250 |
+| 2023-12-23 | 15,308 | 251 |
 ## Awards
 Max (Impact the Story): 30  (Ranked 512)  
 Sum: 30 (Ranked 529)  

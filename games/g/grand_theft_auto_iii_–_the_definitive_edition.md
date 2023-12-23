@@ -1,41 +1,41 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.15 (Ranked 969)  
+Rating: 4.15 (Ranked 970)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,590 |
-| Disposing of the Evidence | 38.00% | ~3,933 |
-| Without a Scratch | 34.00% | ~3,519 |
-| Wreckless Driving | 28.00% | ~2,898 |
-| A Marked Man | 25.00% | ~2,587 |
-| Street Sweeper | 18.00% | ~1,863 |
-| Liberty City Minute | 17.00% | ~1,759 |
-| Offshore Delivery | 13.00% | ~1,345 |
-| Dirty Money | 12.00% | ~1,242 |
-| By a Mile | 10.00% | ~1,035 |
-| Not So Fast | 10.00% | ~1,035 |
-| Right-hand Man | 10.00% | ~1,035 |
-| A Gift from the King | 7.00% | ~724 |
+| First Day on the Job | 83.00% | ~8,597 |
+| Disposing of the Evidence | 38.00% | ~3,936 |
+| Without a Scratch | 34.00% | ~3,522 |
+| Wreckless Driving | 28.00% | ~2,900 |
+| A Marked Man | 25.00% | ~2,590 |
+| Street Sweeper | 18.00% | ~1,864 |
+| Liberty City Minute | 17.00% | ~1,761 |
+| Offshore Delivery | 13.00% | ~1,347 |
+| Dirty Money | 12.00% | ~1,243 |
+| By a Mile | 10.00% | ~1,036 |
+| Not So Fast | 10.00% | ~1,036 |
+| Right-hand Man | 10.00% | ~1,036 |
+| A Gift from the King | 7.00% | ~725 |
 | Full Artillery | 4.00% | ~414 |
-| Mob Boss | 3.00% | ~310 |
+| Mob Boss | 3.00% | ~311 |
 | Escape Artist | 2.00% | ~207 |
 | Where To? | 2.00% | ~207 |
 | Splish Splash | 2.00% | ~207 |
 | Playing Doctor | 2.00% | ~207 |
 | Liberty City Secrets | 2.00% | ~207 |
-| Planned Ahead | 1.00% | ~103 |
-| Got This Figured Out | 1.00% | ~103 |
-| Wheels Up | 1.00% | ~103 |
-| Come Out to Play-y-y-y | 1.00% | ~103 |
-| Man Toyz | 1.00% | ~103 |
-| Going Rogue | 1.00% | ~103 |
-| Furious First Responder | 1.00% | ~103 |
-| Is That All You've Got? | 0.90% | ~93 |
+| Planned Ahead | 1.00% | ~104 |
+| Got This Figured Out | 1.00% | ~104 |
+| Wheels Up | 1.00% | ~104 |
+| Come Out to Play-y-y-y | 1.00% | ~104 |
+| Man Toyz | 1.00% | ~104 |
+| Going Rogue | 1.00% | ~104 |
+| Furious First Responder | 1.00% | ~104 |
+| Is That All You've Got? | 0.80% | ~83 |
 | King of Liberty City | 0.60% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,349 (Ranked 174)  
+Progressed: 10,358 (Ranked 174)  
 Completed: 65 (0.63%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 65 (0.63%) (Ranked 198)
 | 2023-12-20 | 9,997 | 63 |
 | 2023-12-21 | 10,133 | 64 |
 | 2023-12-22 | 10,256 | 65 |
-| 2023-12-23 | 10,349 | 65 |
+| 2023-12-23 | 10,358 | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

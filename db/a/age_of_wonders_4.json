@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6052,
+  "EOS_Progressed": 6056,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8897,6 +8897,11 @@
       "Time": "2023-12-23T15:07:50.5601893+00:00",
       "NumProgressed": 6052,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T17:06:32.0498031+00:00",
+      "NumProgressed": 6056,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8964,7 +8969,7 @@
       "Name": "God Emperor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "17",
@@ -8972,7 +8977,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "18",
@@ -9210,9 +9215,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "5",
@@ -9387,13 +9392,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6052,
+      "Progressed": 6056,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6052,
+      "Progressed": 6056,
       "Completed": 7
     }
   ],
@@ -9401,8 +9406,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:08:05.1001409+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:06:32.0498026+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:21.2768094+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:08:05.1002097+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:29.2703612+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:06:32.0498719+00:00"
 }

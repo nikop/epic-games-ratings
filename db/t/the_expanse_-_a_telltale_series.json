@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17188,
+  "EOS_Progressed": 17192,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14876,6 +14876,11 @@
       "Time": "2023-12-23T16:06:01.7091841+00:00",
       "NumProgressed": 17188,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-23T17:06:09.9559933+00:00",
+      "NumProgressed": 17192,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14912,7 +14917,7 @@
       "Name": "Data Archivist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "13",
@@ -14920,7 +14925,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "14",
@@ -14944,7 +14949,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "17",
@@ -14984,7 +14989,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "21",
@@ -15008,7 +15013,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "24",
@@ -15024,7 +15029,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "26",
@@ -15136,7 +15141,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "33",
@@ -15144,7 +15149,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "34",
@@ -15167,22 +15172,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17188,
+      "Progressed": 17192,
       "Completed": 47
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3142,
-      "Completed": 1005
+      "Progressed": 3146,
+      "Completed": 1006
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:06:01.7091838+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:06:09.9559929+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:03.069918+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:06:01.7092855+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:10.7374861+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:06:09.9560739+00:00"
 }

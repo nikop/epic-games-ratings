@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1003,
+  "Ranking_Rating": 1004,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 66,
@@ -8995,9 +8995,9 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 243747,
+  "EOS_Progressed": 243780,
   "EOS_Completed": 2557,
-  "EOS_NewPlayers": 2693,
+  "EOS_NewPlayers": 2707,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36910,6 +36910,11 @@
       "Time": "2023-12-23T16:10:07.2724408+00:00",
       "NumProgressed": 243747,
       "NumCompleted": 2557
+    },
+    {
+      "Time": "2023-12-23T17:10:14.3893506+00:00",
+      "NumProgressed": 243780,
+      "NumCompleted": 2557
     }
   ],
   "TotalAchievements": 546,
@@ -36921,7 +36926,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "objective_completed_10",
@@ -37785,7 +37790,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_1203",
@@ -38713,7 +38718,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_390",
@@ -38785,7 +38790,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_40",
@@ -39057,7 +39062,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_54",
@@ -40137,7 +40142,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_80",
@@ -40665,7 +40670,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_902",
@@ -41288,21 +41293,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210021,
+      "Progressed": 210054,
       "Completed": 4059
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243747,
+      "Progressed": 243780,
       "Completed": 2557
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T14:02:57.0307543+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:10:07.2724403+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:10:14.3893502+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:02:47.2652922+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:10:07.274705+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:02:48.9401765+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:10:14.3915579+00:00"
 }

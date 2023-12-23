@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1814,17 +1814,17 @@
       "ID": "adriana_recovery",
       "SetID": "69co12a",
       "Name": "Mom got better",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "adriana_sick",
       "SetID": "69co12a",
       "Name": "Deal with life",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "airpods",
@@ -2046,9 +2046,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 302
     },
     {
       "ID": "intro_dream",
@@ -2158,9 +2158,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 316
     },
     {
       "ID": "own_home",
@@ -2206,9 +2206,9 @@
       "ID": "police_promotion_3",
       "SetID": "69co12a",
       "Name": "The last bell ring",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "prof_promotion_1",
@@ -2262,9 +2262,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "soft_install",
@@ -2349,8 +2349,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:24.4311645+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:09:31.9203181+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:45.7264942+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:24.4312131+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:54.0260804+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:09:31.9203849+00:00"
 }

@@ -15,11 +15,11 @@
 | Fitness professional | 75.00% | ~338 |
 | Employee of the week | 75.00% | ~338 |
 | Your own amateur gym | 70.00% | ~316 |
-| Run K, run! | 69.00% | ~311 |
+| Run K, run! | 70.00% | ~316 |
 | First defeat | 68.00% | ~307 |
+| No bullying more | 67.00% | ~302 |
 | Hello, world! | 67.00% | ~302 |
 | Fighting is cool | 66.00% | ~298 |
-| No bullying more | 66.00% | ~298 |
 | Pal of your father? | 64.00% | ~289 |
 | Spirit of the past | 62.00% | ~280 |
 | Employee of the month | 61.00% | ~275 |
@@ -30,9 +30,9 @@
 | Fight for life | 55.00% | ~248 |
 | Little hacker | 55.00% | ~248 |
 | It's good to be alive | 55.00% | ~248 |
+| Intriguing candies | 55.00% | ~248 |
 | Employee of the year | 55.00% | ~248 |
 | Own four walls | 54.00% | ~244 |
-| Intriguing candies | 54.00% | ~244 |
 | Extreme neuropower! | 51.00% | ~230 |
 | Legal courier | 50.00% | ~226 |
 | Escaped from a big trouble | 47.00% | ~212 |
@@ -44,9 +44,9 @@
 | Champion – no way back | 39.00% | ~176 |
 | Underground dwellers | 38.00% | ~171 |
 | Responsible approach | 38.00% | ~171 |
-| Deal with life | 36.00% | ~162 |
+| Deal with life | 37.00% | ~167 |
+| Mom got better | 36.00% | ~162 |
 | GYM professional | 36.00% | ~162 |
-| Mom got better | 35.00% | ~158 |
 | Poisoned fighter | 35.00% | ~158 |
 | The die is cast | 35.00% | ~158 |
 | Get out of my apartment! | 34.00% | ~153 |
@@ -63,10 +63,10 @@
 | Keep nature safe | 29.00% | ~131 |
 | Family comes first | 29.00% | ~131 |
 | Key memories | 29.00% | ~131 |
+| The last bell ring | 29.00% | ~131 |
 | Careerist | 29.00% | ~131 |
 | Anyone can resist | 29.00% | ~131 |
 | The heart of the Resistance | 29.00% | ~131 |
-| The last bell ring | 28.00% | ~126 |
 | Better cooking at home | 27.00% | ~122 |
 | Silver’s past | 26.00% | ~117 |
 | The only right decision | 26.00% | ~117 |

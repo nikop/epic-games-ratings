@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4611,18 +4611,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7161,
       "NumberOfAwardsMax": 1765
+    },
+    {
+      "Time": "2023-12-23T16:59:27.5487655+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7163,
+      "NumberOfAwardsMax": 1767
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7161,
-  "NumberOfAwardsMax": 1765,
+  "NumberOfAwards": 7163,
+  "NumberOfAwardsMax": 1767,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1765
+      "Count": 1767
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4685,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12650,
+  "EOS_Progressed": 12653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17780,6 +17786,11 @@
       "Time": "2023-12-23T16:10:03.5491795+00:00",
       "NumProgressed": 12650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:10:10.7699702+00:00",
+      "NumProgressed": 12653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17799,7 +17810,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17815,7 +17826,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17839,7 +17850,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "08_PathOfAngel",
@@ -17863,7 +17874,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "11_PathOfAeon",
@@ -17903,7 +17914,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "16_PathOfLegend",
@@ -17911,7 +17922,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "17_Transformation",
@@ -17919,7 +17930,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "18_MythicChoices",
@@ -17975,7 +17986,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "25_MasterfulDispell",
@@ -18007,7 +18018,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -18055,7 +18066,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -18135,7 +18146,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "46_AllPathsOpen",
@@ -18199,7 +18210,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "54_DeathByColumn",
@@ -18215,7 +18226,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "56_GetToad",
@@ -18223,7 +18234,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "57_PathOfDevil",
@@ -18718,21 +18729,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11432,
+      "Progressed": 11435,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12650,
+      "Progressed": 12653,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-23T15:59:17.3664996+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:10:03.549179+00:00",
+  "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:10:10.7699699+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:17.3665003+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:10:03.5493553+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:27.5487661+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:10:10.7701208+00:00"
 }

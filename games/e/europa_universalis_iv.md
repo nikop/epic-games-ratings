@@ -9,9 +9,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.40% | ~1,929 |
 | Until death do us apart | 0.40% | ~1,929 |
 | Victorious! | 0.40% | ~1,929 |
-| That's a Grand Navy | 0.30% | ~1,446 |
-| Seriously?! | 0.30% | ~1,446 |
-| That is mine! | 0.30% | ~1,446 |
+| That's a Grand Navy | 0.30% | ~1,447 |
+| Seriously?! | 0.30% | ~1,447 |
+| That is mine! | 0.30% | ~1,447 |
 | Brothers in Arms | 0.20% | ~964 |
 | Cold War | 0.20% | ~964 |
 | It's all about the money | 0.20% | ~964 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,135 (Ranked 40)  
+Progressed: 482,192 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,22 +617,22 @@ Completed: 1 (0.00%) (Ranked 385)
 | 2023-12-20 | 480,075 | 1 |
 | 2023-12-21 | 480,795 | 1 |
 | 2023-12-22 | 481,537 | 1 |
-| 2023-12-23 | 482,135 | 1 |
+| 2023-12-23 | 482,192 | 1 |
 ## Awards
-Max (Educational): 7,506  (Ranked 54)  
-Sum: 61,898 (Ranked 24)  
+Max (Educational): 7,528  (Ranked 54)  
+Sum: 61,953 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,506 |
+| This game is Educational | 7,528 |
 | This game has Diverse Characters | 7,318 |
 | This game is Highly Recommended | 7,217 |
 | This game has Challenging Combat | 7,148 |
 | This game is Extremely Fun | 7,048 |
 | This game is Relaxing | 6,888 |
-| This game has Competitive Players | 6,717 |
+| This game has Competitive Players | 6,738 |
 | This game has Amazing Storytelling | 6,256 |
-| This game has Amazing Characters | 5,800 |
+| This game has Amazing Characters | 5,812 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -977,4 +977,4 @@ Diff (max vs sum): 30
 | 2023-12-20 | 4.69 | - | 7,472 | 61,559 |
 | 2023-12-21 | 4.69 | - | 7,483 | 61,681 |
 | 2023-12-22 | 4.69 | - | 7,506 | 61,841 |
-| 2023-12-23 | 4.69 | - | 7,506 | 61,898 |
+| 2023-12-23 | 4.69 | - | 7,528 | 61,953 |

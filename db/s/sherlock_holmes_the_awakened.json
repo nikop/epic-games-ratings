@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 534,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1300,
+  "EOS_Progressed": 1301,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 5,
@@ -4515,6 +4515,11 @@
       "Time": "2023-12-23T14:04:59.8349292+00:00",
       "NumProgressed": 1300,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-23T17:04:23.0820501+00:00",
+      "NumProgressed": 1301,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 28,
@@ -4526,7 +4531,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "MQ01_2",
@@ -4534,7 +4539,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "MQ02_1",
@@ -4542,7 +4547,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "MQ02_2",
@@ -4566,7 +4571,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "MQ03_1",
@@ -4749,7 +4754,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1300,
+      "Progressed": 1301,
       "Completed": 36
     }
   ],
@@ -4757,8 +4762,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-19T11:03:29.5971745+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:04:17.295269+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:04:23.0820497+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:14.2246919+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:03:07.4405175+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:04:17.2953058+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:03:09.1814557+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:04:23.0820964+00:00"
 }

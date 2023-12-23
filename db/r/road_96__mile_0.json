@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1907,6 +1907,11 @@
       "Time": "2023-12-23T16:09:55.0283956+00:00",
       "NumProgressed": 541,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T17:10:02.0015353+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1918,7 +1923,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "completeact2",
@@ -1934,7 +1939,7 @@
       "Name": "On the Road",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "findalltapes",
@@ -1990,7 +1995,7 @@
       "Name": "Souvenirs",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "scoreminrankrp1",
@@ -2006,7 +2011,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrp3",
@@ -2014,7 +2019,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrv1",
@@ -2022,7 +2027,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "scoreminrankrv2",
@@ -2037,7 +2042,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 2
     }
   ],
@@ -2045,8 +2050,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:55.0283952+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:10:02.001535+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:57:49.1028282+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:55.028415+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:57:55.7215205+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:10:02.0015531+00:00"
 }

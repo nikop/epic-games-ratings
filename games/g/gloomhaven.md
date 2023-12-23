@@ -1,34 +1,34 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 646)  
+Rating: 4.47 (Ranked 647)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~11,288 |
-| Overkill | 34.00% | ~9,594 |
-| Vaccine Incoming | 32.00% | ~9,030 |
-| A normal day in Gloomhaven | 30.00% | ~8,466 |
-| Spread the plague | 28.00% | ~7,901 |
-| Get over here! | 24.00% | ~6,773 |
-| Just when I thought I was out... | 19.00% | ~5,362 |
-| Mine... All Mine... | 17.00% | ~4,797 |
-| Precious! | 16.00% | ~4,515 |
-| Grizzled veteran | 15.00% | ~4,233 |
-| Anatomy Lesson | 14.00% | ~3,951 |
-| Light of my life | 13.00% | ~3,668 |
-| You activated my trap card! | 12.00% | ~3,386 |
-| Obstacle race | 12.00% | ~3,386 |
-| Who's the Boss? | 11.00% | ~3,104 |
-| Augmented rat | 11.00% | ~3,104 |
-| Doom and gloom | 10.00% | ~2,822 |
-| Dungeon Veteran | 9.00% | ~2,540 |
+| I'm not dead yet | 40.00% | ~11,291 |
+| Overkill | 34.00% | ~9,598 |
+| Vaccine Incoming | 32.00% | ~9,033 |
+| A normal day in Gloomhaven | 30.00% | ~8,468 |
+| Spread the plague | 28.00% | ~7,904 |
+| Get over here! | 24.00% | ~6,775 |
+| Just when I thought I was out... | 19.00% | ~5,363 |
+| Mine... All Mine... | 17.00% | ~4,799 |
+| Precious! | 16.00% | ~4,516 |
+| Grizzled veteran | 15.00% | ~4,234 |
+| Anatomy Lesson | 14.00% | ~3,952 |
+| Light of my life | 13.00% | ~3,670 |
+| You activated my trap card! | 12.00% | ~3,387 |
+| Obstacle race | 12.00% | ~3,387 |
+| Who's the Boss? | 11.00% | ~3,105 |
+| Augmented rat | 11.00% | ~3,105 |
+| Doom and gloom | 10.00% | ~2,823 |
+| Dungeon Veteran | 9.00% | ~2,541 |
 | Pain is your friend | 8.00% | ~2,258 |
 | Black death | 8.00% | ~2,258 |
 | Play it again, Sam | 8.00% | ~2,258 |
-| Pack leader | 7.00% | ~1,975 |
-| Quad damage | 6.00% | ~1,693 |
+| Pack leader | 7.00% | ~1,976 |
+| Quad damage | 6.00% | ~1,694 |
 | Power Up! | 5.00% | ~1,411 |
 | Merchant of doom | 5.00% | ~1,411 |
 | Caught off guard | 5.00% | ~1,411 |
@@ -39,13 +39,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 3.00% | ~847 |
 | An eye for an eye | 3.00% | ~847 |
 | The Cephalophore | 3.00% | ~847 |
-| From Gloom, only greed and death emerges | 2.00% | ~564 |
-| The Rat King | 2.00% | ~564 |
-| How to train your Drake | 2.00% | ~564 |
-| Master Assassin | 2.00% | ~564 |
-| The Sniper | 2.00% | ~564 |
-| Grin and bear it | 2.00% | ~564 |
-| An axe to grind | 2.00% | ~564 |
+| From Gloom, only greed and death emerges | 2.00% | ~565 |
+| The Rat King | 2.00% | ~565 |
+| How to train your Drake | 2.00% | ~565 |
+| Master Assassin | 2.00% | ~565 |
+| The Sniper | 2.00% | ~565 |
+| Grin and bear it | 2.00% | ~565 |
+| An axe to grind | 2.00% | ~565 |
 | Betray this | 1.00% | ~282 |
 | Add a bit of colour | 1.00% | ~282 |
 | Captain hooked | 1.00% | ~282 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~28 |
 | Murder Death Kill | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,219 (Ranked 137)  
+Progressed: 28,228 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,14 +169,14 @@ Completed: 1 (0.00%) (Ranked 385)
 | 2023-12-20 | 27,662 | 1 |
 | 2023-12-21 | 27,847 | 1 |
 | 2023-12-22 | 28,058 | 1 |
-| 2023-12-23 | 28,219 | 1 |
+| 2023-12-23 | 28,228 | 1 |
 ## Awards
-Max (Character Customization): 3,603  (Ranked 92)  
-Sum: 8,428 (Ranked 104)  
+Max (Character Customization): 3,604  (Ranked 92)  
+Sum: 8,429 (Ranked 104)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,603 |
+| This game has Inclusive Character Customization | 3,604 |
 | This game has Diverse Characters | 605 |
 | This game has Challenging Combat | 556 |
 | This game is Highly Recommended | 550 |
@@ -437,3 +437,4 @@ Diff (max vs sum): -12
 | 2023-12-19 | 4.47 | - | 3,603 | 8,420 |
 | 2023-12-20 | 4.47 | - | 3,603 | 8,422 |
 | 2023-12-22 | 4.47 | - | 3,603 | 8,428 |
+| 2023-12-23 | 4.47 | - | 3,604 | 8,429 |

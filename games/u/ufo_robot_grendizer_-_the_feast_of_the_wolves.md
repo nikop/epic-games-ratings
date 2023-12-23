@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 58.00% | ~14 |
-| Life of Pi | 58.00% | ~14 |
-| The Legend | 58.00% | ~14 |
-| Escape from Fleed | 50.00% | ~12 |
-| First Contact | 46.00% | ~11 |
-| Strength in Defeat | 42.00% | ~10 |
-| Technology first! | 33.00% | ~8 |
-| The Keeper of Fleed | 33.00% | ~8 |
-| The Exterminator | 25.00% | ~6 |
-| Earth's Savior | 21.00% | ~5 |
-| The Collector | 17.00% | ~4 |
-| Gold Seeker | 13.00% | ~3 |
-| The Planner | 13.00% | ~3 |
-| Iron Fist | 13.00% | ~3 |
-| The Broken Guard | 13.00% | ~3 |
-| The Space Hydra | 13.00% | ~3 |
-| The Vega Turtle | 13.00% | ~3 |
+| The Remains of Fleed | 56.00% | ~14 |
+| Life of Pi | 56.00% | ~14 |
+| The Legend | 56.00% | ~14 |
+| Escape from Fleed | 48.00% | ~12 |
+| First Contact | 44.00% | ~11 |
+| Strength in Defeat | 40.00% | ~10 |
+| Technology first! | 32.00% | ~8 |
+| The Keeper of Fleed | 32.00% | ~8 |
+| The Exterminator | 24.00% | ~6 |
+| Earth's Savior | 20.00% | ~5 |
+| The Collector | 16.00% | ~4 |
+| Gold Seeker | 12.00% | ~3 |
+| The Planner | 12.00% | ~3 |
+| Iron Fist | 12.00% | ~3 |
+| The Broken Guard | 12.00% | ~3 |
+| The Space Hydra | 12.00% | ~3 |
+| The Vega Turtle | 12.00% | ~3 |
 | A Land of Peace | 8.00% | ~2 |
 | A Good Paint Job | 8.00% | ~2 |
 | The Flying Octopus | 8.00% | ~2 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 4.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 597)  
+Progressed: 25 (Ranked 591)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-08 | 16 | 0 |
 | 2023-12-20 | 17 | 0 |
 | 2023-12-22 | 19 | 0 |
-| 2023-12-23 | 24 | 0 |
+| 2023-12-23 | 25 | 0 |

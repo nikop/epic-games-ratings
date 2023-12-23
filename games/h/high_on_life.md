@@ -28,14 +28,14 @@ Rating: 4.64 (Ranked 342)
 | Series Wrap on Suit-O | 2.00% | ~497 |
 | Bathe With A Giant Nude Alien | 2.00% | ~43 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~21 |
-| Gunning For Your Job | 0.90% | ~223 |
+| Gunning For Your Job | 0.90% | ~224 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.80% | ~199 |
 | Mux Ado About Shipping | 0.80% | ~17 |
 | Sequel-Bait | 0.50% | ~124 |
 | Fall In Love With A Parasite | 0.50% | ~11 |
 | Playing Favorites | 0.40% | ~99 |
 | Carried Stan's Load To Completion | 0.40% | ~99 |
-| A Starfish Is Born | 0.30% | ~74 |
+| A Starfish Is Born | 0.30% | ~75 |
 | Meet Frasier from Frasier | 0.30% | ~6 |
 | Epic Legendary Prize | 0.20% | ~50 |
 | Mods Please Ban | 0.20% | ~50 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 342)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,833 (Ranked 143)  
+Progressed: 24,834 (Ranked 143)  
 Completed: 14 (0.06%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 14 (0.06%) (Ranked 325)
 | 2023-12-20 | 24,792 | 14 |
 | 2023-12-21 | 24,817 | 14 |
 | 2023-12-22 | 24,828 | 14 |
-| 2023-12-23 | 24,833 | 14 |
+| 2023-12-23 | 24,834 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

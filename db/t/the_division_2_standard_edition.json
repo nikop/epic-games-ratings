@@ -2,7 +2,7 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 815,
@@ -13857,10 +13857,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 29656,
       "NumberOfAwardsMax": 8724
+    },
+    {
+      "Time": "2023-12-23T16:57:28.7521907+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 29660,
+      "NumberOfAwardsMax": 8724
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29656,
+  "NumberOfAwards": 29660,
   "NumberOfAwardsMax": 8724,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13934,7 +13940,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1538
+      "Count": 1542
     }
   ],
   "EOS_Progressed": 0,
@@ -13948,8 +13954,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-12-23T15:57:25.1334433+00:00",
+  "LastChanged": "2023-12-23T16:57:28.7521906+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.3870771+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:57:25.1334438+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:05:50.6240403+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:57:28.7521913+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:05:58.7682428+00:00"
 }

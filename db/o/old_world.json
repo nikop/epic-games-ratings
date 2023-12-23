@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 319,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2184,9 +2184,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15902,
+  "EOS_Progressed": 15903,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18189,6 +18189,11 @@
       "Time": "2023-12-23T16:09:57.1375293+00:00",
       "NumProgressed": 15902,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T17:10:04.234477+00:00",
+      "NumProgressed": 15903,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18550,9 +18555,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -18686,9 +18691,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -18750,9 +18755,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -21063,21 +21068,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15902,
+      "Progressed": 15903,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15902,
+      "Progressed": 15903,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-22T01:47:48.5403593+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:57.1375289+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:10:04.2344767+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:47.4773202+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:02:57.453365+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:57.1384918+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:02:59.8580929+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:10:04.2354078+00:00"
 }

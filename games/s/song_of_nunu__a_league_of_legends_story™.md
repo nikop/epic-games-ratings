@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.50 (Ranked 602)  
+Rating: 4.50 (Ranked 603)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,9 +29,9 @@ Rating: 4.50 (Ranked 602)
 | You Get Used To It | 41.00% | ~533 |
 | Family | 39.00% | ~507 |
 | Biggest Snowball Ever | 39.00% | ~507 |
+| True Legends | 39.00% | ~507 |
 | Boosted! | 39.00% | ~507 |
 | Freeze The Ice Witch | 38.00% | ~494 |
-| True Legends | 38.00% | ~494 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~494 |
 | Bullseye | 36.00% | ~468 |
 | It Is Not Over | 35.00% | ~455 |

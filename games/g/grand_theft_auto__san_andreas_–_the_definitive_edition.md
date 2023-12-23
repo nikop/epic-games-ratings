@@ -1,27 +1,27 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,252 |
-| Pay 'n' Spray | 50.00% | ~8,180 |
-| All Dressed Up for San Fierro | 25.00% | ~4,090 |
-| The American Dream | 19.00% | ~3,108 |
-| School's Out | 18.00% | ~2,945 |
-| Smooth Moves | 16.00% | ~2,618 |
-| Today Was a Good Day | 15.00% | ~2,454 |
-| What happens in Las Venturas... | 14.00% | ~2,290 |
-| Horror of the Santa Maria | 10.00% | ~1,636 |
-| Liberty City State of Mind | 9.00% | ~1,472 |
-| Original Gangster | 8.00% | ~1,309 |
-| With Extra Dip | 7.00% | ~1,145 |
-| The End of the Line | 7.00% | ~1,145 |
+| Getting Started | 81.00% | ~13,261 |
+| Pay 'n' Spray | 50.00% | ~8,186 |
+| All Dressed Up for San Fierro | 25.00% | ~4,093 |
+| The American Dream | 19.00% | ~3,111 |
+| School's Out | 18.00% | ~2,947 |
+| Smooth Moves | 16.00% | ~2,620 |
+| Today Was a Good Day | 15.00% | ~2,456 |
+| What happens in Las Venturas... | 14.00% | ~2,292 |
+| Horror of the Santa Maria | 10.00% | ~1,637 |
+| Liberty City State of Mind | 9.00% | ~1,473 |
+| Original Gangster | 8.00% | ~1,310 |
+| With Extra Dip | 7.00% | ~1,146 |
+| The End of the Line | 7.00% | ~1,146 |
 | Saviour | 6.00% | ~982 |
-| Rescue a Kitten Too? | 5.00% | ~818 |
-| They Can’t Stop All of Us | 4.00% | ~654 |
-| What are the Odds | 4.00% | ~654 |
+| Rescue a Kitten Too? | 5.00% | ~819 |
+| They Can’t Stop All of Us | 4.00% | ~655 |
+| What are the Odds | 4.00% | ~655 |
 | Bike or Biker | 3.00% | ~491 |
 | What the City Needs | 3.00% | ~491 |
 | A Legitimate Business | 2.00% | ~327 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 533)
 | ...Here we go again | 0.50% | ~82 |
 | I Ain't No Buster | 0.40% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,360 (Ranked 159)  
+Progressed: 16,372 (Ranked 159)  
 Completed: 62 (0.38%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 62 (0.38%) (Ranked 232)
 | 2023-12-20 | 15,810 | 62 |
 | 2023-12-21 | 15,997 | 62 |
 | 2023-12-22 | 16,205 | 62 |
-| 2023-12-23 | 16,360 | 62 |
+| 2023-12-23 | 16,372 | 62 |
 ## Awards
 Max (Great Boss Battles): 483  (Ranked 220)  
 Sum: 788 (Ranked 286)  

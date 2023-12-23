@@ -2,7 +2,7 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 705,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 815,
@@ -2921,10 +2921,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1512,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2023-12-23T17:00:02.8476691+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1513,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1512,
+  "NumberOfAwards": 1513,
   "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2962,7 +2968,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 154
+      "Count": 155
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3012,8 +3018,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-12-23T07:59:58.6423324+00:00",
+  "LastChanged": "2023-12-23T17:00:02.8476689+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:20.9028917+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:53.0979386+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:03:42.8459297+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:00:02.8476695+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:03:47.2276281+00:00"
 }

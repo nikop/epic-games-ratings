@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 690,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2633,6 +2633,11 @@
       "Time": "2023-12-23T16:08:47.4294396+00:00",
       "NumProgressed": 687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:08:54.6076569+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2669,7 +2674,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "AttackCount",
@@ -2789,7 +2794,7 @@
       "Name": "Double Kill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2909,7 +2914,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -2957,7 +2962,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "UltraKill",
@@ -2973,7 +2978,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "WielderLevel2",
@@ -3076,15 +3081,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 690,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:08:47.4294393+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:08:54.6076566+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:41.9305192+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:08:47.4294821+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:52.7688713+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:08:54.6077056+00:00"
 }

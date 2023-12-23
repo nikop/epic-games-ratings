@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,799 |
-| Off to a good start | 64.00% | ~1,308 |
-| Do... or do not. There is no try | 51.00% | ~1,042 |
-| A good blaster at your side | 27.00% | ~552 |
-| I suggest a new strategy | 18.00% | ~368 |
-| Scrap collector | 16.00% | ~327 |
-| All right, I'll give it a try | 16.00% | ~327 |
-| Great shot, kid! | 16.00% | ~327 |
+| New Recruit | 88.00% | ~1,804 |
+| Off to a good start | 64.00% | ~1,312 |
+| Do... or do not. There is no try | 52.00% | ~1,066 |
+| A good blaster at your side | 27.00% | ~554 |
+| I suggest a new strategy | 18.00% | ~369 |
+| Scrap collector | 16.00% | ~328 |
+| All right, I'll give it a try | 16.00% | ~328 |
+| Great shot, kid! | 16.00% | ~328 |
 | The power of the Force | 13.00% | ~266 |
 | Collector | 13.00% | ~266 |
 | Shoot first | 13.00% | ~266 |
-| Together we can rule the galaxy | 12.00% | ~245 |
+| Together we can rule the galaxy | 12.00% | ~246 |
 | Tell Jabba that I've got his money | 9.00% | ~184 |
 | Best star-pilot in the galaxy | 8.00% | ~164 |
 | Survivor | 8.00% | ~164 |
-| Never tell me the odds! | 7.00% | ~143 |
-| A cunning warrior | 7.00% | ~143 |
+| Never tell me the odds! | 7.00% | ~144 |
+| A cunning warrior | 7.00% | ~144 |
 | What's the cargo? | 6.00% | ~123 |
 | "Gonk? Gonk!" | 5.00% | ~102 |
 | Distinguished | 5.00% | ~102 |
@@ -29,11 +29,11 @@
 | Support the troops | 5.00% | ~102 |
 | A tremor in the Force | 4.00% | ~82 |
 | Not bad for a little furball | 4.00% | ~82 |
-| Your journey has only started | 3.00% | ~61 |
-| On the ball | 3.00% | ~61 |
-| Safety ain't the point of a joyride | 3.00% | ~61 |
-| Patience you must have | 3.00% | ~61 |
-| Don't underestimate the Force | 3.00% | ~61 |
+| Your journey has only started | 3.00% | ~62 |
+| On the ball | 3.00% | ~62 |
+| Safety ain't the point of a joyride | 3.00% | ~62 |
+| Patience you must have | 3.00% | ~62 |
+| Don't underestimate the Force | 3.00% | ~62 |
 | The Force is strong with this one | 2.00% | ~41 |
 | I've been waiting for you | 2.00% | ~41 |
 | When 900 years old you reach... | 2.00% | ~41 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,044 (Ranked 235)  
+Progressed: 2,050 (Ranked 235)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-20 | 1,946 | 1 |
 | 2023-12-21 | 1,979 | 1 |
 | 2023-12-22 | 2,014 | 1 |
-| 2023-12-23 | 2,044 | 1 |
+| 2023-12-23 | 2,050 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

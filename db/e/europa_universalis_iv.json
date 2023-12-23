@@ -13549,11 +13549,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 61898,
       "NumberOfAwardsMax": 7506
+    },
+    {
+      "Time": "2023-12-23T16:59:12.2086875+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 61953,
+      "NumberOfAwardsMax": 7528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61898,
-  "NumberOfAwardsMax": 7506,
+  "NumberOfAwards": 61953,
+  "NumberOfAwardsMax": 7528,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -13584,7 +13590,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7506
+      "Count": 7528
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13596,7 +13602,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6717
+      "Count": 6738
     },
     {
       "Text": "This game is Relaxing",
@@ -13614,7 +13620,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5800
+      "Count": 5812
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13623,9 +13629,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 482135,
+  "EOS_Progressed": 482192,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5468,
+  "EOS_NewPlayers": 5453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42073,6 +42079,11 @@
       "Time": "2023-12-23T16:06:10.544412+00:00",
       "NumProgressed": 482135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T17:06:19.0733959+00:00",
+      "NumProgressed": 482192,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43108,7 +43119,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -44084,7 +44095,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -44364,7 +44375,7 @@
       "Name": "That is mine!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -44987,21 +44998,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 482135,
+      "Progressed": 482192,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 482135,
+      "Progressed": 482192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-23T14:59:05.1750284+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:06:10.5444117+00:00",
+  "LastChanged": "2023-12-23T16:59:12.2086874+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:06:19.0733954+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:03.1821042+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:06:10.5454379+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:12.2086879+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:06:19.0744038+00:00"
 }

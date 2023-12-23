@@ -16,8 +16,8 @@
 | Bromance | 30.00% | ~75 |
 | Lootaphilia | 22.00% | ~55 |
 | Maybe you should give it another go | 12.00% | ~30 |
+| Mikey Lizard | 7.00% | ~17 |
 | I used to think I was indecisive... | 7.00% | ~17 |
-| Mikey Lizard | 6.00% | ~15 |
 | Deathlooper | 4.00% | ~10 |
 | That's my boy! | 4.00% | ~10 |
 | We tried to warn you! | 4.00% | ~10 |

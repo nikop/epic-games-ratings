@@ -2,7 +2,7 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 151,
@@ -800,9 +800,9 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:14.0673881+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:09:21.6332755+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.2965751+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:21.7725121+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:14.0674409+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:29.7874932+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:09:21.6333242+00:00"
 }

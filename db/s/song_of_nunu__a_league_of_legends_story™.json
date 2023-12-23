@@ -2,7 +2,7 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 260,
@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 1301,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -3390,9 +3390,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 507
     },
     {
       "ID": "EV_ACH21",
@@ -3599,8 +3599,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:10:01.6524627+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:10:09.0454649+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:39.333455+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:10:01.6525023+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:46.7446751+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:10:09.0455012+00:00"
 }

@@ -1,40 +1,41 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
+Rating: 4.60 (Ranked 423)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 64.00% | ~583 |
-| The Teleprobe | 51.00% | ~465 |
-| The City | 47.00% | ~428 |
+| The Camp | 64.00% | ~584 |
+| The Teleprobe | 51.00% | ~466 |
+| The City | 46.00% | ~420 |
 | The field base | 42.00% | ~383 |
-| Survivors | 35.00% | ~319 |
+| Survivors | 35.00% | ~320 |
 | The Alliance | 34.00% | ~310 |
 | The Condor | 34.00% | ~310 |
 | The End | 33.00% | ~301 |
-| The Necroevolution | 27.00% | ~246 |
+| The Necroevolution | 27.00% | ~247 |
 | Krauta is alive | 25.00% | ~228 |
-| Peacemaker | 21.00% | ~191 |
-| Volcanologist | 20.00% | ~182 |
+| Peacemaker | 21.00% | ~192 |
+| Volcanologist | 20.00% | ~183 |
 | On her own | 19.00% | ~173 |
 | Fierce fight | 18.00% | ~164 |
 | Evacuation | 18.00% | ~164 |
 | Beyond divisions | 17.00% | ~155 |
 | Flying Objects Operator | 15.00% | ~137 |
-| I remember everything! | 13.00% | ~118 |
-| Another giant | 12.00% | ~109 |
+| I remember everything! | 13.00% | ~119 |
+| Another giant | 12.00% | ~110 |
 | Violent solution | 9.00% | ~82 |
 | I leave no man behind | 8.00% | ~73 |
 | Innate curiosity | 7.00% | ~64 |
 | Strong objection | 6.00% | ~55 |
 | Ubiquitous holes | 5.00% | ~46 |
 | The Invincible | 5.00% | ~46 |
-| Got lost again | 4.00% | ~36 |
+| Got lost again | 4.00% | ~37 |
 | I leave no man behind (no exceptions) | 2.00% | ~18 |
 | Convoy list | 0.90% | ~8 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 911 (Ranked 284)  
+Progressed: 913 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +83,8 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 836 | 0 |
 | 2023-12-21 | 853 | 0 |
 | 2023-12-22 | 887 | 0 |
-| 2023-12-23 | 911 | 0 |
+| 2023-12-23 | 913 | 0 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-12-23 | 4.60 | 0 | 0 |

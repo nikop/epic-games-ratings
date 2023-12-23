@@ -1,50 +1,50 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 936)  
+Rating: 4.20 (Ranked 937)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~3,012 |
-| The Outer Way | 16.00% | ~3,012 |
-| Get a Grip | 15.00% | ~2,823 |
-| Paper Jams | 14.00% | ~2,635 |
-| Desperate Times | 14.00% | ~2,635 |
-| Chew 'Em Up | 12.00% | ~2,259 |
-| Float Like A Butterfly | 12.00% | ~2,259 |
-| Reforged | 11.00% | ~2,070 |
-| Workplace Hazard | 10.00% | ~1,882 |
-| If the SHU Fits... | 10.00% | ~1,882 |
+| Flesh Wound | 16.00% | ~3,013 |
+| The Outer Way | 16.00% | ~3,013 |
+| Get a Grip | 15.00% | ~2,824 |
+| Paper Jams | 14.00% | ~2,636 |
+| Desperate Times | 14.00% | ~2,636 |
+| Chew 'Em Up | 12.00% | ~2,260 |
+| Float Like A Butterfly | 12.00% | ~2,260 |
+| Reforged | 11.00% | ~2,071 |
+| Workplace Hazard | 10.00% | ~1,883 |
+| If the SHU Fits... | 10.00% | ~1,883 |
 | Without A Paddle | 8.00% | ~1,506 |
 | Two Heads Are Better Than One | 7.00% | ~1,318 |
 | Terminated | 7.00% | ~1,318 |
 | In the Pipe, Five by Five | 7.00% | ~1,318 |
 | Crash Site | 7.00% | ~1,318 |
 | Power Up | 7.00% | ~1,318 |
-| Giving Back | 6.00% | ~1,129 |
-| You Need a Gun | 6.00% | ~1,129 |
-| What Lies Beneath | 6.00% | ~1,129 |
-| Full Circle | 6.00% | ~1,129 |
+| Giving Back | 6.00% | ~1,130 |
+| You Need a Gun | 6.00% | ~1,130 |
+| What Lies Beneath | 6.00% | ~1,130 |
+| Full Circle | 6.00% | ~1,130 |
 | Keep Fighting | 6.00% | ~405 |
-| I Do Belong Here | 5.00% | ~941 |
-| It's Time | 5.00% | ~337 |
+| I Do Belong Here | 5.00% | ~942 |
+| It's Time | 5.00% | ~338 |
 | The Commonality | 4.00% | ~753 |
 | In Striking Distance | 3.00% | ~565 |
 | One Last Job | 2.00% | ~135 |
-| Armed to the Teeth | 1.00% | ~67 |
+| Armed to the Teeth | 1.00% | ~68 |
 | Mugshot | 1.00% | ~188 |
-| Big Spender | 1.00% | ~67 |
-| This Isn't About Escape | 1.00% | ~67 |
+| Big Spender | 1.00% | ~68 |
+| This Isn't About Escape | 1.00% | ~68 |
 | Grim Reaper | 0.80% | ~151 |
 | Instigator | 0.80% | ~54 |
 | Information Overload | 0.80% | ~54 |
 | Parole Denied | 0.70% | ~47 |
-| Quick Pick | 0.60% | ~40 |
+| Quick Pick | 0.60% | ~41 |
 | Subject Alpha | 0.40% | ~27 |
 | Don't Let It Mellow | 0.30% | ~20 |
 | The Protocol is About Life | 0.20% | ~38 |
-| Recidivist | 0.20% | ~13 |
-| Hoard Mode | 0.20% | ~13 |
+| Recidivist | 0.20% | ~14 |
+| Hoard Mode | 0.20% | ~14 |
 | It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~7 |
 | You Belong Here | 0.10% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,822 (Ranked 151)  
+Progressed: 18,830 (Ranked 151)  
 Completed: 82 (0.44%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 82 (0.44%) (Ranked 224)
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
-| 2023-12-23 | 18,822 | 82 |
+| 2023-12-23 | 18,830 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 377)  
 Sum: 556 (Ranked 324)  

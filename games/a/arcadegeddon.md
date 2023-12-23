@@ -1,34 +1,34 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 620)  
+Rating: 4.49 (Ranked 622)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,672 |
-| Photogenic | 83.00% | ~8,370 |
-| Surge Gauntlet Jockey | 80.00% | ~8,067 |
-| Plug It In | 79.00% | ~7,966 |
-| Adventure Time | 75.00% | ~7,563 |
-| Playing With Power | 73.00% | ~7,361 |
-| Coup d'Etat | 56.00% | ~5,647 |
-| You're Fired | 54.00% | ~5,445 |
+| Let's Get This Party Started | 86.00% | ~8,673 |
+| Photogenic | 83.00% | ~8,371 |
+| Surge Gauntlet Jockey | 80.00% | ~8,068 |
+| Plug It In | 79.00% | ~7,967 |
+| Adventure Time | 75.00% | ~7,564 |
+| Playing With Power | 73.00% | ~7,362 |
+| Coup d'Etat | 56.00% | ~5,648 |
+| You're Fired | 54.00% | ~5,446 |
 | Get Furious | 53.00% | ~5,345 |
 | Hacks In Stacks | 53.00% | ~5,345 |
 | Gunplay And Cosplay | 52.00% | ~5,244 |
 | Meching Enemies | 46.00% | ~4,639 |
-| Ticket Toddler | 42.00% | ~4,235 |
-| Booty Bashing | 36.00% | ~3,630 |
-| Field Medic | 36.00% | ~3,630 |
-| Here Comes a New Challenger | 36.00% | ~3,630 |
+| Ticket Toddler | 42.00% | ~4,236 |
+| Booty Bashing | 36.00% | ~3,631 |
+| Field Medic | 36.00% | ~3,631 |
+| Here Comes a New Challenger | 36.00% | ~3,631 |
 | Rapid Response | 32.00% | ~3,227 |
-| Surge Ahead | 29.00% | ~2,924 |
-| The Full Monty | 29.00% | ~2,924 |
+| Surge Ahead | 29.00% | ~2,925 |
+| The Full Monty | 29.00% | ~2,925 |
 | Guardian Angel | 26.00% | ~2,622 |
-| Poppin Noggins | 23.00% | ~2,319 |
+| Poppin Noggins | 23.00% | ~2,320 |
 | Clips and Crits | 18.00% | ~1,815 |
-| Grey Goo | 16.00% | ~1,613 |
+| Grey Goo | 16.00% | ~1,614 |
 | Boss of Bosses | 14.00% | ~1,412 |
 | The Final Blow | 14.00% | ~1,412 |
 | To Be Continued | 13.00% | ~1,311 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~40 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,084 (Ranked 175)  
+Progressed: 10,085 (Ranked 175)  
 Completed: 2 (0.02%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2 (0.02%) (Ranked 354)
 | 2023-12-20 | 10,045 | 2 |
 | 2023-12-21 | 10,058 | 2 |
 | 2023-12-22 | 10,070 | 2 |
-| 2023-12-23 | 10,084 | 2 |
+| 2023-12-23 | 10,085 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 417)  
 Sum: 465 (Ranked 338)  

@@ -1,14 +1,14 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~806 |
-| To Hell In A Handcart | 61.00% | ~793 |
-| High Profile | 54.00% | ~702 |
-| Whispers In The Dark | 51.00% | ~663 |
+| Read Between The Lines | 62.00% | ~807 |
+| To Hell In A Handcart | 61.00% | ~794 |
+| High Profile | 54.00% | ~703 |
+| Whispers In The Dark | 51.00% | ~664 |
 | Fond Memories | 49.00% | ~637 |
 | A Method To His Madness | 47.00% | ~611 |
 | History Check | 46.00% | ~598 |
@@ -34,7 +34,7 @@ Rating: 4.54 (Ranked 533)
 | Big Breakthrough | 12.00% | ~156 |
 | Reawakened | 3.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 261)  
+Progressed: 1,301 (Ranked 260)  
 Completed: 36 (2.77%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 36 (2.77%) (Ranked 117)
 | 2023-12-20 | 1,267 | 36 |
 | 2023-12-21 | 1,274 | 36 |
 | 2023-12-22 | 1,289 | 36 |
-| 2023-12-23 | 1,300 | 36 |
+| 2023-12-23 | 1,301 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-12-23T16:08:36.5766161+00:00",
       "NumProgressed": 270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:08:43.5937078+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -864,9 +869,9 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "CareerAllChallenges",
@@ -874,7 +879,7 @@
       "Name": "Highballer",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CareerChamp1",
@@ -882,7 +887,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CareerChamp2",
@@ -890,7 +895,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CareerChamp3",
@@ -898,7 +903,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CareerChamp4",
@@ -920,9 +925,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "CollectVehiclesA",
@@ -930,7 +935,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CollectVehiclesB",
@@ -944,9 +949,9 @@
       "ID": "CreditsEarnedA",
       "SetID": "5hd282c",
       "Name": "Cash For Crashes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "GetWreckedA",
@@ -1025,7 +1030,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 272,
       "Completed": 0
     }
   ],
@@ -1033,8 +1038,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:08:36.5766156+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:08:43.5937074+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:41.5661798+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:08:36.5766269+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:49.0771999+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:08:43.5937244+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "301980d060324bb29202677f468c6c44",
   "Name": "The Captain",
   "ProductSlug": "the-captain",
-  "Ranking_Rating": 687,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 815,
@@ -513,6 +513,6 @@
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
   "LastChanged": "2023-12-02T02:18:49.086582+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.1011503+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:05.6780247+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:03:56.4674236+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:14.7536231+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:04:01.3595436+00:00"
 }

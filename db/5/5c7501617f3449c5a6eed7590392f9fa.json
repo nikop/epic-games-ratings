@@ -2,9 +2,9 @@
   "ID": "5c7501617f3449c5a6eed7590392f9fa",
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -650,25 +650,25 @@
       "ID": "Ach-03-skakavec",
       "SetID": "2pjo9pi",
       "Name": "Skakavec",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach-03-svolavac",
       "SetID": "2pjo9pi",
       "Name": "Svolavac",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach-03-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "Ach-03-zrout",
@@ -698,9 +698,9 @@
       "ID": "Ach-04-kukacka",
       "SetID": "2pjo9pi",
       "Name": "Kukacka",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach-04-mesto",
@@ -730,9 +730,9 @@
       "ID": "Ach-04-snek",
       "SetID": "2pjo9pi",
       "Name": "Snek",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach-04-tucnak",
@@ -898,9 +898,9 @@
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach-level-4",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:08:50.6012136+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:08:57.9082818+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.4834278+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:59.2487309+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:08:50.6012622+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:07.8673829+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:08:57.9083348+00:00"
 }

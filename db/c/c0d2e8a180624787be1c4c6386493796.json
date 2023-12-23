@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -922,9 +922,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -946,9 +946,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -1178,9 +1178,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1442,9 +1442,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1506,9 +1506,9 @@
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -1543,8 +1543,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:06:17.2723854+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:06:25.0016102+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:46.4787964+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:06:17.2724668+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:54.7568535+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:06:25.0016887+00:00"
 }

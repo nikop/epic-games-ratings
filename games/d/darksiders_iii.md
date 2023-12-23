@@ -1,32 +1,32 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 620)  
+Rating: 4.50 (Ranked 603)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~82 |
-| Helping Hand | 69.00% | ~73 |
-| First of many… | 69.00% | ~73 |
+| Helping Hand | 70.00% | ~74 |
+| First of many… | 70.00% | ~74 |
 | Increased Vigor | 62.00% | ~66 |
 | Fight Fire with Fire | 59.00% | ~63 |
 | Increased Capacity | 56.00% | ~59 |
-| Just the start | 54.00% | ~57 |
-| Perfect Storm | 47.00% | ~50 |
-| All That Glitters | 47.00% | ~50 |
-| Enhance! | 44.00% | ~47 |
+| Just the start | 55.00% | ~58 |
+| Perfect Storm | 48.00% | ~51 |
+| All That Glitters | 48.00% | ~51 |
+| Enhance! | 45.00% | ~48 |
 | One Of the Chosen | 42.00% | ~45 |
-| Throne Potato | 40.00% | ~42 |
+| Throne Potato | 41.00% | ~43 |
 | 25 to Life | 39.00% | ~41 |
 | Devil's in the Details | 37.00% | ~39 |
+| Unshakable Fortitude | 36.00% | ~38 |
 | Salvation | 36.00% | ~38 |
 | Five's a Crowd | 36.00% | ~38 |
-| Unshakable Fortitude | 35.00% | ~37 |
 | Soul Harvester | 33.00% | ~35 |
 | Delusions of Grandeur | 33.00% | ~35 |
 | I Wanna Rock | 32.00% | ~34 |
-| Maximum Vigor | 30.00% | ~32 |
+| Maximum Vigor | 31.00% | ~33 |
 | Love Tap | 29.00% | ~31 |
 | For Whom the Bell Tolls | 29.00% | ~31 |
 | Freeze Frame | 27.00% | ~29 |
@@ -35,12 +35,12 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 25.00% | ~26 |
 | Crowd Source | 25.00% | ~26 |
 | Unyielding Strength | 24.00% | ~25 |
-| Maximum Capacity | 22.00% | ~23 |
-| Big Spender | 21.00% | ~22 |
+| Maximum Capacity | 23.00% | ~24 |
+| Big Spender | 22.00% | ~23 |
 | Demon Meddler | 18.00% | ~19 |
 | Egomaniac | 17.00% | ~18 |
 | Seeing Red | 17.00% | ~18 |
-| Community Outreach | 14.00% | ~15 |
+| Community Outreach | 15.00% | ~16 |
 | Protector of Humanity | 13.00% | ~14 |
 | Everybody Wants to Rule the World | 13.00% | ~14 |
 | Take it to the Limit | 12.00% | ~13 |
@@ -166,3 +166,4 @@ Diff (max vs sum): -79
 | 2023-12-20 | 4.49 | - | 91 | 91 |
 | 2023-12-21 | 4.49 | - | 92 | 92 |
 | 2023-12-22 | 4.49 | - | 93 | 93 |
+| 2023-12-23 | 4.50 | - | 93 | 93 |

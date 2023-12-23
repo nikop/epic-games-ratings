@@ -8,38 +8,38 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 11.00% | ~29 |
 | Sponge Smasher | 10.00% | ~26 |
-| Jellyfish Jam | 7.00% | ~18 |
+| Jellyfish Jam | 8.00% | ~21 |
 | Jellyfishing | 6.00% | ~16 |
+| Life's as extreme as you wanna make it! | 5.00% | ~13 |
 | Sweet Victory | 5.00% | ~13 |
 | Time For Tutorial | 5.00% | ~13 |
-| Life's as extreme as you wanna make it! | 4.00% | ~11 |
 | Toxic Terror | 4.00% | ~11 |
+| Sock Getter | 4.00% | ~11 |
+| Squirrel Smasher | 4.00% | ~11 |
 | Keep it Rolling | 3.00% | ~8 |
 | Shrimp Catcher | 3.00% | ~8 |
 | Hit Rock Bottom | 3.00% | ~8 |
-| Sock Getter | 3.00% | ~8 |
-| Squirrel Smasher | 3.00% | ~8 |
+| Super Spatula Seeker | 3.00% | ~8 |
 | Star Smasher | 3.00% | ~8 |
 | Surf's Up! | 3.00% | ~8 |
 | Robot encyclopedia | 2.00% | ~5 |
 | Are you ready now? | 2.00% | ~5 |
 | Uptown and Downtown | 2.00% | ~5 |
 | Hello, Bikini Bottom | 2.00% | ~5 |
-| Super Spatula Seeker | 2.00% | ~5 |
+| Kelp Forest of Fear | 1.00% | ~3 |
+| Ship Shape | 0.80% | ~2 |
+| Shanghaied | 0.80% | ~2 |
 | Sleepy Time | 0.80% | ~2 |
 | The Small Does Not Rule | 0.40% | ~1 |
-| Ship Shape | 0.40% | ~1 |
-| Shanghaied | 0.40% | ~1 |
-| Kelp Forest of Fear | 0.40% | ~1 |
 | SpongeBob vs SpongeBob! | 0.40% | ~1 |
 | Sock Concert | 0.40% | ~1 |
 | Ultra Spatula Seeker | 0.40% | ~1 |
+| Mega Spatula Seeker | 0.40% | ~1 |
 | 100% SpongeBob | 0.00% | ~0 |
 | Sock Opera | 0.00% | ~0 |
 | Super Ultra Mega Spatula Seeker | 0.00% | ~0 |
-| Mega Spatula Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 389)  
+Progressed: 265 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,10 +49,10 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 127 | 0 |
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
-| 2023-12-23 | 263 | 0 |
+| 2023-12-23 | 265 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 493)  
-Sum: 34 (Ranked 518)  
+Max (Great Boss Battles): 34  (Ranked 494)  
+Sum: 34 (Ranked 519)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2023-12-23T14:10:07.7022028+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T17:09:52.2896972+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3119,7 +3124,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "BoxingClever",
@@ -3159,7 +3164,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3167,7 +3172,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "DustDancing",
@@ -3223,7 +3228,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "SkeletonCrew",
@@ -3231,7 +3236,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "TerraTourGuide",
@@ -3261,23 +3266,23 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 973
+      "UsersEstimate": 985
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:44.8747979+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:09:52.2896968+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:58.6380253+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:44.8748268+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:00:08.7658423+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:09:52.2897232+00:00"
 }

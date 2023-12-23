@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~424 |
-| Lost and Found | 6.00% | ~254 |
+| Malpractice Assurance | 10.00% | ~425 |
+| Lost and Found | 6.00% | ~255 |
 | This guy... again? | 5.00% | ~212 |
 | This Belongs in a Museum | 4.00% | ~5,175 |
 | Creep and Sleep | 4.00% | ~5,175 |
@@ -25,32 +25,32 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 3.00% | ~3,881 |
 | Rush Hour | 3.00% | ~3,881 |
 | To Grandmother's House | 3.00% | ~3,881 |
+| A Place to Lay Your Head | 3.00% | ~3,881 |
 | FNG | 3.00% | ~3,881 |
 | Friends 'Til the End | 3.00% | ~127 |
-| Resurrection | 2.00% | ~2,587 |
-| Unleash Hell | 2.00% | ~2,587 |
-| Funny Guy | 2.00% | ~2,587 |
-| Long Live the King | 2.00% | ~2,587 |
-| Wyrdly Reconstructed | 2.00% | ~2,587 |
-| Boxcar Kid | 2.00% | ~2,587 |
-| Unfulfilled Desires | 2.00% | ~2,587 |
-| Predator | 2.00% | ~2,587 |
-| Dissector | 2.00% | ~2,587 |
-| Banishment | 2.00% | ~2,587 |
-| Deprogramming | 2.00% | ~2,587 |
-| Now Stay Dead | 2.00% | ~2,587 |
-| Reverse Banditry | 2.00% | ~2,587 |
-| Spelunker | 2.00% | ~2,587 |
-| Merry Time | 2.00% | ~2,587 |
-| Harvest Festival | 2.00% | ~2,587 |
-| Ramble On | 2.00% | ~2,587 |
-| A Clear Conscience | 2.00% | ~2,587 |
-| Whale | 2.00% | ~2,587 |
-| A Place to Lay Your Head | 2.00% | ~2,587 |
-| Utopia | 2.00% | ~2,587 |
-| Nope | 2.00% | ~2,587 |
-| Unshackled | 2.00% | ~2,587 |
-| Road Trip | 2.00% | ~2,587 |
+| Resurrection | 2.00% | ~2,588 |
+| Unleash Hell | 2.00% | ~2,588 |
+| Funny Guy | 2.00% | ~2,588 |
+| Long Live the King | 2.00% | ~2,588 |
+| Wyrdly Reconstructed | 2.00% | ~2,588 |
+| Boxcar Kid | 2.00% | ~2,588 |
+| Unfulfilled Desires | 2.00% | ~2,588 |
+| Predator | 2.00% | ~2,588 |
+| Dissector | 2.00% | ~2,588 |
+| Banishment | 2.00% | ~2,588 |
+| Deprogramming | 2.00% | ~2,588 |
+| Now Stay Dead | 2.00% | ~2,588 |
+| Reverse Banditry | 2.00% | ~2,588 |
+| Spelunker | 2.00% | ~2,588 |
+| Merry Time | 2.00% | ~2,588 |
+| Harvest Festival | 2.00% | ~2,588 |
+| Ramble On | 2.00% | ~2,588 |
+| A Clear Conscience | 2.00% | ~2,588 |
+| Whale | 2.00% | ~2,588 |
+| Utopia | 2.00% | ~2,588 |
+| Nope | 2.00% | ~2,588 |
+| Unshackled | 2.00% | ~2,588 |
+| Road Trip | 2.00% | ~2,588 |
 | This Looks Familiar | 1.00% | ~1,294 |
 | Hope Rekindled | 1.00% | ~1,294 |
 | Ichthyophobic | 1.00% | ~1,294 |
@@ -69,8 +69,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.50% | ~647 |
 | Triage | 0.50% | ~647 |
 | No Mercy | 0.50% | ~21 |
-| The World As It Was | 0.40% | ~517 |
-| Bacon Bits | 0.40% | ~517 |
+| The World As It Was | 0.40% | ~518 |
+| Bacon Bits | 0.40% | ~518 |
 | A Life Well Lived | 0.30% | ~388 |
 | Eidetic | 0.30% | ~388 |
 | Battle Hardened | 0.30% | ~13 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,370 (Ranked 87)  
+Progressed: 129,378 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,370 | 3 |
+| 2023-12-23 | 129,378 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,980 (Ranked 58)  

@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 591,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-12-23T14:05:44.7412931+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:04:57.9288768+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -159,7 +164,7 @@
       "ID": "ACH_ALLLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "Gold Seeker",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 35,
       "UsersEstimate": 12
     },
@@ -191,7 +196,7 @@
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 35,
       "UsersEstimate": 11
     },
@@ -199,7 +204,7 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 35,
       "UsersEstimate": 10
     },
@@ -207,7 +212,7 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -215,7 +220,7 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -231,7 +236,7 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -239,7 +244,7 @@
       "ID": "ACH_FLEEDKEEPER",
       "SetID": "ch874lb",
       "Name": "The Keeper of Fleed",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -247,7 +252,7 @@
       "ID": "ACH_GOLGOTHPLANS",
       "SetID": "ch874lb",
       "Name": "The Planner",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -255,7 +260,7 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -263,7 +268,7 @@
       "ID": "ACH_IRONFIST",
       "SetID": "ch874lb",
       "Name": "Iron Fist",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -271,7 +276,7 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 6
     },
@@ -279,7 +284,7 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -295,7 +300,7 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -303,7 +308,7 @@
       "ID": "ACH_RUINDIVISION",
       "SetID": "ch874lb",
       "Name": "The Broken Guard",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -367,7 +372,7 @@
       "ID": "ACH_THESPACEHYDRA",
       "SetID": "ch874lb",
       "Name": "The Space Hydra",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -383,7 +388,7 @@
       "ID": "ACH_THEVEGATURTLE",
       "SetID": "ch874lb",
       "Name": "The Vega Turtle",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -400,14 +405,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:04:51.770032+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:04:57.9288763+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.5029771+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:02:34.4880107+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:04:51.7700493+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:00:46.1305941+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:04:57.9288974+00:00"
 }

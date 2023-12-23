@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1594,6 +1594,11 @@
       "Time": "2023-12-23T16:03:35.7109591+00:00",
       "NumProgressed": 501,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:03:39.8669469+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1646,7 +1651,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "9",
@@ -1662,7 +1667,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REMAKE_002",
@@ -1670,7 +1675,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "REMAKE_004",
@@ -1678,7 +1683,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Remake_005",
@@ -1702,7 +1707,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Remake_008",
@@ -1718,7 +1723,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Remake_010",
@@ -1750,7 +1755,7 @@
       "Name": "Toasted",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Remake_14",
@@ -1780,9 +1785,9 @@
       "ID": "Remake_17",
       "SetID": "5pi96jj",
       "Name": "Lawn Daddy",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Remake_18",
@@ -1822,21 +1827,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:03:35.7109587+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:03:39.8669465+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:00:10.5568572+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:03:35.7109846+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:00:21.0545403+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:03:39.8669696+00:00"
 }

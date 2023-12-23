@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -1479,6 +1479,11 @@
       "Time": "2023-12-23T16:09:39.2559925+00:00",
       "NumProgressed": 430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:09:46.873126+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1555,7 +1560,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1579,7 +1584,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "TIME_JINX",
@@ -1650,14 +1655,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:39.2559921+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:09:46.8731256+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:57:50.9297612+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:39.2560204+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:57:57.7124059+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:09:46.8731431+00:00"
 }

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 815,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -2763,6 +2763,11 @@
       "Time": "2023-12-23T16:09:09.7600802+00:00",
       "NumProgressed": 813,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-23T17:09:17.3363371+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2775,7 +2780,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_10",
@@ -2791,7 +2796,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_12",
@@ -2807,7 +2812,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_14",
@@ -2815,7 +2820,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_15",
@@ -2823,7 +2828,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_16",
@@ -2831,7 +2836,7 @@
       "Name": "Distance Devourer",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_17",
@@ -2839,7 +2844,7 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_18",
@@ -2847,7 +2852,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_19",
@@ -2855,7 +2860,7 @@
       "Name": "Counter Specialist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_2",
@@ -2863,7 +2868,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_20",
@@ -2871,7 +2876,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_21",
@@ -2887,7 +2892,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_23",
@@ -2903,7 +2908,7 @@
       "Name": "Single Minded",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_25",
@@ -2911,7 +2916,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_26",
@@ -2935,7 +2940,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_29",
@@ -2959,7 +2964,7 @@
       "Name": "Tender Touch",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_31",
@@ -3015,7 +3020,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "achievement_38",
@@ -3087,7 +3092,7 @@
       "Name": "Helpful Heart",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_46",
@@ -3095,7 +3100,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_47",
@@ -3111,7 +3116,7 @@
       "Name": "Haven Hunter",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_5",
@@ -3119,15 +3124,15 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 497
     },
     {
       "ID": "achievement_7",
@@ -3135,7 +3140,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_8",
@@ -3143,7 +3148,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_9",
@@ -3158,13 +3163,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 815,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:09:09.7600798+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:09:17.3363367+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:32.3035644+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:09:09.7601269+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:39.1267123+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:09:17.3363762+00:00"
 }

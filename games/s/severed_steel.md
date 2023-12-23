@@ -5,32 +5,32 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~215,418 |
-| 50 HEADSHOTS | 30.00% | ~201,954 |
-| SCIENCE AND INDUSTRY | 29.00% | ~195,222 |
-| FINISHED CHAPTER 1 | 28.00% | ~188,490 |
-| FINISHED CHAPTER 2 | 20.00% | ~134,636 |
-| 200 HEADSHOTS | 18.00% | ~121,172 |
-| FINISHED CHAPTER 3 | 17.00% | ~114,441 |
-| FINISHED CHAPTER 4 | 15.00% | ~100,977 |
-| FINISH CHAPTER 5 | 12.00% | ~80,782 |
-| FINISH CHAPTER 6 | 11.00% | ~74,050 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,050 |
-| 1000 KILLS | 10.00% | ~67,318 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,927 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,464 |
-| FIRST BLOOD | 2.00% | ~13,464 |
-| OUT OF ORDER | 1.00% | ~6,732 |
-| PACEMAKER | 1.00% | ~6,732 |
-| TIME PARADOX | 1.00% | ~6,732 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,059 |
-| PARTYHARD | 0.80% | ~5,385 |
-| NEW GAME PLUS | 0.70% | ~4,712 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,366 |
-| CHURCH | 0.40% | ~2,693 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,020 |
-| REMEMBER THE ARMORY | 0.30% | ~2,020 |
-| 5 RUNS | 0.30% | ~2,020 |
+| 100 KILLS | 32.00% | ~215,376 |
+| 50 HEADSHOTS | 30.00% | ~201,915 |
+| SCIENCE AND INDUSTRY | 29.00% | ~195,184 |
+| FINISHED CHAPTER 1 | 28.00% | ~188,454 |
+| FINISHED CHAPTER 2 | 20.00% | ~134,610 |
+| 200 HEADSHOTS | 18.00% | ~121,149 |
+| FINISHED CHAPTER 3 | 17.00% | ~114,418 |
+| FINISHED CHAPTER 4 | 15.00% | ~100,957 |
+| FINISH CHAPTER 5 | 12.00% | ~80,766 |
+| FINISH CHAPTER 6 | 11.00% | ~74,035 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,035 |
+| 1000 KILLS | 10.00% | ~67,305 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,922 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,461 |
+| FIRST BLOOD | 2.00% | ~13,461 |
+| OUT OF ORDER | 1.00% | ~6,730 |
+| PACEMAKER | 1.00% | ~6,730 |
+| TIME PARADOX | 1.00% | ~6,730 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,057 |
+| PARTYHARD | 0.80% | ~5,384 |
+| NEW GAME PLUS | 0.70% | ~4,711 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,365 |
+| CHURCH | 0.40% | ~2,692 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,019 |
+| REMEMBER THE ARMORY | 0.30% | ~2,019 |
+| 5 RUNS | 0.30% | ~2,019 |
 | CHALET | 0.20% | ~1,346 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,346 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,346 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~673 |
 | WARRIOR IN A GARDEN | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,180 (Ranked 28)  
+Progressed: 673,049 (Ranked 28)  
 Completed: 67 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |

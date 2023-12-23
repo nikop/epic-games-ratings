@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -657,9 +657,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "Botropolis",
@@ -681,9 +681,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "DiggingAHole",
@@ -697,25 +697,25 @@
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "ImALumberbot",
@@ -737,9 +737,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "ManicMechanic",
@@ -841,9 +841,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "UpUpAndAway",
@@ -880,8 +880,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:05:27.3333724+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:05:34.575526+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.7183942+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:03:11.0098056+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:05:27.3333913+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:03:12.8552825+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:05:34.5755429+00:00"
 }

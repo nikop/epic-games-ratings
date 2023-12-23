@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -955,9 +955,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4124,
+  "EOS_Progressed": 4126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7585,6 +7585,11 @@
       "Time": "2023-12-23T16:05:24.9898499+00:00",
       "NumProgressed": 4124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:05:32.2407546+00:00",
+      "NumProgressed": 4126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7605,7 +7610,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "achievement_11",
@@ -7629,7 +7634,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "achievement_14",
@@ -7637,7 +7642,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "achievement_15",
@@ -7645,7 +7650,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "achievement_16",
@@ -7709,7 +7714,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "achievement_4",
@@ -7741,7 +7746,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "achievement_8",
@@ -7764,7 +7769,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4124,
+      "Progressed": 4126,
       "Completed": 0
     }
   ],
@@ -7772,8 +7777,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-22T09:58:53.9215659+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:05:24.9898494+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:05:32.2407541+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:51.9510539+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:30.8934453+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:05:24.9898979+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:59:42.2786436+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:05:32.2407997+00:00"
 }

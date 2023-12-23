@@ -2,7 +2,7 @@
   "ID": "bd49e68e53fc4da0b14d054354575cea",
   "Name": "Gravity Oddity",
   "ProductSlug": "gravity-oddity-a66e76",
-  "Ranking_EOS_Progress": 685,
+  "Ranking_EOS_Progress": 686,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 151,
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-09-14T17:57:45.1242056+00:00",
   "FirstSeenAchievements": "2023-08-29T18:02:15.6403686+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:08:46.2180888+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:08:53.2694761+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.1242526+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:58:24.9871427+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:08:46.2181071+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:32.0629663+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:08:53.2695137+00:00"
 }

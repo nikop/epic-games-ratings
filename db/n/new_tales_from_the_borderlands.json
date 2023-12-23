@@ -2,12 +2,12 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 993,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3742,
+  "EOS_Progressed": 3743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1982,6 +1982,11 @@
       "Time": "2023-12-22T17:03:19.6777549+00:00",
       "NumProgressed": 3742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:03:52.0809439+00:00",
+      "NumProgressed": 3743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1991,9 +1996,9 @@
       "ID": "BUY_COSMETIC_ITEM",
       "SetID": "kakdpn",
       "Name": "You\u0027re Not Naked",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1085
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2065,7 +2070,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2113,7 +2118,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2129,7 +2134,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2177,7 +2182,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2200,7 +2205,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3742,
+      "Progressed": 3743,
       "Completed": 0
     }
   ],
@@ -2208,8 +2213,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:03:47.5036968+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:03:52.0809436+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
-  "LastUpdate_Ratings": "2023-12-23T16:02:47.3159679+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:03:47.5037167+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:02:48.9971609+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:03:52.0809692+00:00"
 }

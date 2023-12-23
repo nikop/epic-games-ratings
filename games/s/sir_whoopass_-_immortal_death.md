@@ -7,12 +7,12 @@
 | Tastes just like chicken! | 94.00% | ~128 |
 | MLG 360 no scope kill! | 94.00% | ~128 |
 | Are you ready to rumble? | 94.00% | ~128 |
-| That's what cheese said! | 89.00% | ~121 |
-| AHHHHHH.....I'M ON FIRE!!! | 87.00% | ~118 |
-| I like you...but I have to kill you... | 87.00% | ~118 |
-| Not so hip anymore! | 85.00% | ~116 |
+| That's what cheese said! | 90.00% | ~122 |
+| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~120 |
+| I like you...but I have to kill you... | 88.00% | ~120 |
+| Not so hip anymore! | 86.00% | ~117 |
+| Nerd | 82.00% | ~112 |
 | Blurry depth perception | 82.00% | ~112 |
-| Nerd | 81.00% | ~110 |
 | Up and down | 79.00% | ~107 |
 | Rolling, Rolling, Rolling | 75.00% | ~102 |
 | Fire-fighter! | 67.00% | ~91 |
@@ -34,9 +34,9 @@
 | Pasta Bolognese | 36.00% | ~49 |
 | You are no match for me, Billy! | 35.00% | ~48 |
 | You can't stop me, bro! | 35.00% | ~48 |
+| Karaoke king | 33.00% | ~45 |
 | Meatballs, coming up! | 32.00% | ~44 |
 | Catch the bus with me! | 32.00% | ~44 |
-| Karaoke king | 32.00% | ~44 |
 | I'm going to get a concussion | 31.00% | ~42 |
 | Another one bites the iron | 29.00% | ~39 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |

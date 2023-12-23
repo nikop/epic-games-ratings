@@ -1,38 +1,38 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,341 |
-| First Steps | 80.00% | ~35,562 |
-| Control the Shadows | 67.00% | ~29,784 |
-| Tools of the Trade | 63.00% | ~28,005 |
-| Apprentice | 60.00% | ~26,672 |
-| Secret Seeker | 57.00% | ~25,338 |
-| Forge of Assassins | 55.00% | ~24,449 |
-| Revenant | 52.00% | ~23,116 |
-| I don’t Care! | 45.00% | ~20,004 |
+| Awakening | 93.00% | ~41,343 |
+| First Steps | 80.00% | ~35,564 |
+| Control the Shadows | 67.00% | ~29,785 |
+| Tools of the Trade | 63.00% | ~28,007 |
+| Apprentice | 60.00% | ~26,673 |
+| Secret Seeker | 57.00% | ~25,339 |
+| Forge of Assassins | 55.00% | ~24,450 |
+| Revenant | 52.00% | ~23,117 |
+| I don’t Care! | 45.00% | ~20,005 |
 | Bird of Prey | 37.00% | ~16,448 |
-| Engraved with Power | 32.00% | ~14,225 |
-| Lady | 31.00% | ~13,780 |
-| Fashionable Assassin | 27.00% | ~12,002 |
+| Engraved with Power | 32.00% | ~14,226 |
+| Lady | 31.00% | ~13,781 |
+| Fashionable Assassin | 27.00% | ~12,003 |
 | Apex Predator | 24.00% | ~10,669 |
-| Soul Reaver | 23.00% | ~10,224 |
+| Soul Reaver | 23.00% | ~10,225 |
 | Embers | 22.00% | ~9,780 |
 | Wall Lizard | 20.00% | ~8,891 |
 | Clinging to Life | 18.00% | ~8,002 |
 | Burning | 17.00% | ~7,557 |
-| Look Behind You | 16.00% | ~7,112 |
-| Sleeping on the Job | 16.00% | ~7,112 |
-| Family | 14.00% | ~6,223 |
-| War Engines | 14.00% | ~6,223 |
-| Signature Move | 14.00% | ~6,223 |
-| Ruse | 12.00% | ~5,334 |
+| Look Behind You | 16.00% | ~7,113 |
+| Sleeping on the Job | 16.00% | ~7,113 |
+| Family | 14.00% | ~6,224 |
+| War Engines | 14.00% | ~6,224 |
+| Signature Move | 14.00% | ~6,224 |
+| Ruse | 12.00% | ~5,335 |
 | Master Ninja | 11.00% | ~4,890 |
-| Hatching | 10.00% | ~4,445 |
+| Hatching | 10.00% | ~4,446 |
 | Bonds | 9.00% | ~4,001 |
 | Get Over Here | 9.00% | ~4,001 |
 | The Hidden Village | 9.00% | ~4,001 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~889 |
 | Legacy | 2.00% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,453 (Ranked 123)  
+Progressed: 44,455 (Ranked 123)  
 Completed: 247 (0.56%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 247 (0.56%) (Ranked 204)
 | 2023-12-20 | 44,411 | 247 |
 | 2023-12-21 | 44,423 | 247 |
 | 2023-12-22 | 44,443 | 247 |
-| 2023-12-23 | 44,453 | 247 |
+| 2023-12-23 | 44,455 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

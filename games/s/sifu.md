@@ -6,40 +6,40 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,664 |
-| The Assault | 3.00% | ~22,248 |
-| Life is your teacher | 3.00% | ~22,248 |
-| Lightning Hands | 3.00% | ~22,248 |
-| The Hateful Pole Fighter | 2.00% | ~14,832 |
-| Stuntmaster | 2.00% | ~14,832 |
-| Street Fighting | 2.00% | ~14,832 |
-| State of constant learning | 2.00% | ~14,832 |
-| Qi Gong: Essence | 2.00% | ~14,832 |
-| Old Child | 2.00% | ~14,832 |
-| A Lady's Blood in the Snow | 1.00% | ~7,416 |
-| Lady Wing Chun | 1.00% | ~7,416 |
-| Furious Fists | 1.00% | ~7,416 |
-| Kill Nil | 1.00% | ~7,416 |
-| Qi Gong: Breath | 1.00% | ~7,416 |
-| I know Kung-Fu | 1.00% | ~7,416 |
-| Path of the Prospect | 1.00% | ~7,416 |
-| Rumble in the Hangar | 1.00% | ~7,416 |
-| Take damage to save time | 1.00% | ~7,416 |
-| Project Arena | 1.00% | ~509 |
-| Diligence as a goal | 1.00% | ~509 |
-| Qi Gong: Mind | 0.90% | ~6,674 |
+| The Old Grandmaster | 4.00% | ~29,667 |
+| The Assault | 3.00% | ~22,250 |
+| Life is your teacher | 3.00% | ~22,250 |
+| Lightning Hands | 3.00% | ~22,250 |
+| The Hateful Pole Fighter | 2.00% | ~14,833 |
+| Stuntmaster | 2.00% | ~14,833 |
+| Street Fighting | 2.00% | ~14,833 |
+| State of constant learning | 2.00% | ~14,833 |
+| Qi Gong: Essence | 2.00% | ~14,833 |
+| Old Child | 2.00% | ~14,833 |
+| A Lady's Blood in the Snow | 1.00% | ~7,417 |
+| Lady Wing Chun | 1.00% | ~7,417 |
+| Furious Fists | 1.00% | ~7,417 |
+| Kill Nil | 1.00% | ~7,417 |
+| Qi Gong: Breath | 1.00% | ~7,417 |
+| I know Kung-Fu | 1.00% | ~7,417 |
+| Path of the Prospect | 1.00% | ~7,417 |
+| Rumble in the Hangar | 1.00% | ~7,417 |
+| Take damage to save time | 1.00% | ~7,417 |
+| Project Arena | 1.00% | ~510 |
+| Diligence as a goal | 1.00% | ~510 |
+| Qi Gong: Mind | 0.90% | ~6,675 |
 | Scareless | 0.80% | ~5,933 |
 | Kung-Fu Tussle | 0.80% | ~5,933 |
-| Dance of the Praying Mantis | 0.70% | ~5,191 |
-| Fight the way you practice | 0.70% | ~356 |
-| Martial Hub | 0.60% | ~305 |
+| Dance of the Praying Mantis | 0.70% | ~5,192 |
+| Fight the way you practice | 0.70% | ~357 |
+| Martial Hub | 0.60% | ~306 |
 | Muk Yan Master | 0.50% | ~3,708 |
 | Bloody Sport | 0.50% | ~255 |
-| Tiger on Fire | 0.40% | ~2,966 |
-| Source of Flying Daggers | 0.40% | ~2,966 |
-| Iron Money | 0.40% | ~2,966 |
-| Detective Story | 0.40% | ~2,966 |
-| Sword Stained With Blood | 0.40% | ~2,966 |
+| Tiger on Fire | 0.40% | ~2,967 |
+| Source of Flying Daggers | 0.40% | ~2,967 |
+| Iron Money | 0.40% | ~2,967 |
+| Detective Story | 0.40% | ~2,967 |
+| Sword Stained With Blood | 0.40% | ~2,967 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,225 |
 | Prodigal Child | 0.30% | ~2,225 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,225 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,605 (Ranked 23)  
+Progressed: 741,670 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 12,961 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 741,605 | 12,961 |
+| 2023-12-23 | 741,670 | 12,961 |
 ## Awards
 Max (Great Boss Battles): 6,989  (Ranked 55)  
 Sum: 12,257 (Ranked 84)  

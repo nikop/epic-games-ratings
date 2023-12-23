@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.52 (Ranked 565)  
+Rating: 4.52 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.52 (Ranked 565)
 | Well-to-do | 37.00% | ~41 |
 | The merciful one | 35.00% | ~38 |
 | Ladies' man | 34.00% | ~37 |
-| Ferocious wild boars | 27.00% | ~30 |
+| Ferocious wild boars | 28.00% | ~31 |
 | Idiot | 26.00% | ~29 |
 | Beast slayer | 23.00% | ~25 |
 | Family man | 21.00% | ~23 |
@@ -24,10 +24,10 @@ Rating: 4.52 (Ranked 565)
 | Death of a legend | 20.00% | ~22 |
 | Archaeologist | 20.00% | ~22 |
 | Ogre friend | 20.00% | ~22 |
+| The fourth triplet | 20.00% | ~22 |
+| Little hero | 19.00% | ~21 |
 | Hard worker | 19.00% | ~21 |
-| The fourth triplet | 19.00% | ~21 |
 | Sidelined | 19.00% | ~21 |
-| Little hero | 18.00% | ~20 |
 | Master detective | 18.00% | ~20 |
 | Fence | 17.00% | ~19 |
 | Ghost hunter | 16.00% | ~18 |

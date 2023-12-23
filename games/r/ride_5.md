@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 47.00% | ~1,362 |
-| First Love | 44.00% | ~1,275 |
-| Clean Race | 42.00% | ~1,217 |
-| Hear That Roar! | 40.00% | ~1,159 |
-| Bitter Rivalry | 29.00% | ~840 |
-| Rivals to the End | 29.00% | ~840 |
-| Champagne Spray | 27.00% | ~782 |
-| We're Going to Need a Bigger Garage | 25.00% | ~724 |
+| Eat My Dust | 47.00% | ~1,364 |
+| First Love | 44.00% | ~1,277 |
+| Clean Race | 42.00% | ~1,219 |
+| Hear That Roar! | 40.00% | ~1,161 |
+| Bitter Rivalry | 29.00% | ~842 |
+| Rivals to the End | 29.00% | ~842 |
+| Champagne Spray | 27.00% | ~784 |
+| We're Going to Need a Bigger Garage | 25.00% | ~726 |
 | I Want One Too! | 20.00% | ~580 |
 | Quick Pit Stop | 20.00% | ~580 |
 | Restored and Ready | 19.00% | ~551 |
@@ -40,7 +40,7 @@
 | I Don't Stop | 1.00% | ~29 |
 | Exhausted but Happy | 0.70% | ~20 |
 | In Search of Perfection | 0.70% | ~20 |
-| Globe-trotter | 0.50% | ~14 |
+| Globe-trotter | 0.50% | ~15 |
 | Maximum Endurance | 0.20% | ~6 |
 | Breathtaking Views | 0.20% | ~6 |
 | Beyond the Limiter | 0.20% | ~6 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,898 (Ranked 220)  
+Progressed: 2,902 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,4 +167,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 2,787 | 0 |
 | 2023-12-21 | 2,825 | 0 |
 | 2023-12-22 | 2,873 | 0 |
-| 2023-12-23 | 2,898 | 0 |
+| 2023-12-23 | 2,902 | 0 |

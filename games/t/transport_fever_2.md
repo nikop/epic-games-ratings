@@ -6,14 +6,14 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 75.00% | ~1,590 |
+| First line | 75.00% | ~1,591 |
 | First cargo item on board | 69.00% | ~1,463 |
 | First cargo item waiting | 69.00% | ~1,463 |
 | First bus stop | 68.00% | ~1,442 |
-| First passenger on board | 65.00% | ~1,378 |
-| First passenger waiting | 65.00% | ~1,378 |
+| First passenger on board | 65.00% | ~1,379 |
+| First passenger waiting | 65.00% | ~1,379 |
 | First bus arrived | 64.00% | ~1,357 |
-| First train station | 62.00% | ~1,314 |
+| First train station | 62.00% | ~1,315 |
 | First steam train arrived | 58.00% | ~1,230 |
 | First industry upgraded | 54.00% | ~1,145 |
 | Transport millionaire | 53.00% | ~1,124 |
@@ -21,23 +21,23 @@ Number of Ratings: 180  (23.09.2022)
 | Transport master | 50.00% | ~1,060 |
 | Cargo hub | 50.00% | ~1,060 |
 | Sculpturer | 48.00% | ~1,018 |
-| Settled down | 47.00% | ~996 |
+| Settled down | 47.00% | ~997 |
 | First electric train arrived | 45.00% | ~954 |
 | First ship arrived | 44.00% | ~933 |
 | Now what? | 44.00% | ~933 |
-| Exemplary student | 42.00% | ~890 |
+| Exemplary student | 42.00% | ~891 |
 | High speed | 40.00% | ~848 |
 | Transport shark | 39.00% | ~827 |
 | First aircraft arrived | 39.00% | ~827 |
 | Mass production | 33.00% | ~700 |
-| Aircraft entrepreneur | 32.00% | ~678 |
+| Aircraft entrepreneur | 32.00% | ~679 |
 | The future is now, old man | 30.00% | ~636 |
 | Crowd in a train | 29.00% | ~615 |
 | Not in my backyard | 28.00% | ~594 |
-| City | 27.00% | ~572 |
-| The king of the sea | 27.00% | ~572 |
-| Transport tycoon | 22.00% | ~466 |
-| Old timer | 22.00% | ~466 |
+| City | 27.00% | ~573 |
+| The king of the sea | 27.00% | ~573 |
+| Transport tycoon | 22.00% | ~467 |
+| Old timer | 21.00% | ~445 |
 | The ugly smell of success | 21.00% | ~445 |
 | Climate change | 20.00% | ~424 |
 | Heavily loaded | 20.00% | ~424 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,120 (Ranked 232)  
+Progressed: 2,121 (Ranked 232)  
 Completed: 1 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 1 (0.05%) (Ranked 332)
 | 2023-12-20 | 2,080 | 1 |
 | 2023-12-21 | 2,096 | 1 |
 | 2023-12-22 | 2,108 | 1 |
-| 2023-12-23 | 2,120 | 1 |
+| 2023-12-23 | 2,121 | 1 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 451)  
 Sum: 327 (Ranked 365)  

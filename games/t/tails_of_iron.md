@@ -1,18 +1,18 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 509)  
+Rating: 4.55 (Ranked 510)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Bright Fir | 0.70% | ~6 |
 | Become King | 0.60% | ~14 |
 | Complete Guard Faction | 0.60% | ~14 |
+| Shield Maiden Yellow Tongue | 0.60% | ~5 |
 | End of the Mozis | 0.50% | ~11 |
 | Meet the Creatures from the Deep | 0.50% | ~11 |
 | Throne Room Fit For A King | 0.50% | ~11 |
 | Return Power To The Depths | 0.50% | ~11 |
-| Shield Maiden Yellow Tongue | 0.50% | ~5 |
 | Collect Gold | 0.40% | ~9 |
 | Collect Iron Ore | 0.40% | ~9 |
 | Collect Monster Parts | 0.40% | ~9 |
@@ -33,9 +33,9 @@ Rating: 4.55 (Ranked 509)
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Discover the mystery of the Kings Chambers | 0.30% | ~7 |
+| Defeat the Grub Buster | 0.30% | ~3 |
 | Complete Ranger Faction | 0.20% | ~5 |
 | Fix the Travellers Wagon | 0.20% | ~5 |
-| Defeat the Grub Buster | 0.20% | ~2 |
 | Defeat the Stalker Queen | 0.20% | ~2 |
 | Complete Redgi's Armory | 0.10% | ~2 |
 | King of Kings | 0.10% | ~2 |

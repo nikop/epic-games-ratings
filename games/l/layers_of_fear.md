@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~148 |
-| A piece of the story | 57.00% | ~104 |
-| Wanderer | 56.00% | ~102 |
-| It's covered up for a reason | 48.00% | ~88 |
+| Something important | 81.00% | ~149 |
+| A piece of the story | 57.00% | ~105 |
+| Wanderer | 56.00% | ~103 |
+| It's covered up for a reason | 47.00% | ~86 |
 | Scraps of love | 44.00% | ~81 |
 | The artist’s impression | 42.00% | ~77 |
 | Do what you have to | 41.00% | ~75 |
 | Sign of weakness | 36.00% | ~66 |
-| Refuse to look | 33.00% | ~60 |
-| Face your fears | 27.00% | ~49 |
+| Refuse to look | 33.00% | ~61 |
+| Face your fears | 27.00% | ~50 |
 | Finished it | 26.00% | ~48 |
 | Whispers long forgotten | 14.00% | ~26 |
 | A Slice of Life | 10.00% | ~18 |
@@ -21,8 +21,8 @@
 | Playtime | 10.00% | ~18 |
 | The art of movement | 10.00% | ~18 |
 | Tough conversation | 10.00% | ~18 |
-| Sound Bite | 9.00% | ~16 |
-| The tragedy unfolds | 9.00% | ~16 |
+| Sound Bite | 9.00% | ~17 |
+| The tragedy unfolds | 9.00% | ~17 |
 | A new way | 8.00% | ~15 |
 | Another perspective | 8.00% | ~15 |
 | First steps | 8.00% | ~15 |
@@ -34,7 +34,7 @@
 | Fisherman | 5.00% | ~9 |
 | We Are Not Alone | 4.00% | ~7 |
 | Instinct of self-preservation | 4.00% | ~7 |
-| The Perfect Storm | 3.00% | ~5 |
+| The Perfect Storm | 3.00% | ~6 |
 | Something to think about | 2.00% | ~4 |
 | I remember It Like Was Yesterday | 2.00% | ~4 |
 | Body of Work | 2.00% | ~4 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 413)  
+Progressed: 184 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,4 +118,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 162 | 0 |
 | 2023-12-21 | 175 | 0 |
 | 2023-12-22 | 179 | 0 |
-| 2023-12-23 | 183 | 0 |
+| 2023-12-23 | 184 | 0 |

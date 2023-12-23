@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 192
     },
     {
       "ID": "Toy",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:04:46.8078096+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:04:52.6520196+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:26.6651499+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:57:59.5884477+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:04:46.8078262+00:00"
+  "LastUpdate_Ratings": "2023-12-23T16:58:07.0204781+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:04:52.6520359+00:00"
 }

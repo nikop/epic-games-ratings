@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2023-12-23T07:05:17.0652486+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T17:05:27.2190845+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -929,9 +934,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "decrypt_one_myth",
@@ -955,7 +960,7 @@
       "Name": "Refuse to look",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "do_what_you_have_to",
@@ -979,7 +984,7 @@
       "Name": "Face your fears",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1059,7 +1064,7 @@
       "Name": "Sound Bite",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "heavy_burden",
@@ -1115,7 +1120,7 @@
       "Name": "The Perfect Storm",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "piece_of_story",
@@ -1123,7 +1128,7 @@
       "Name": "A piece of the story",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "playtime",
@@ -1187,7 +1192,7 @@
       "Name": "Something important",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "spy_one_item",
@@ -1219,7 +1224,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "tough_conversation",
@@ -1251,7 +1256,7 @@
       "Name": "Wanderer",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1266,14 +1271,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-23T16:05:20.1848192+00:00",
+  "LastChanged_Achievements": "2023-12-23T17:05:27.2190842+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:26.5525701+00:00",
-  "LastUpdate_Ratings": "2023-12-23T15:59:58.7599926+00:00",
-  "LastUpdate_Achievements": "2023-12-23T16:05:20.1848514+00:00"
+  "LastUpdate_Ratings": "2023-12-23T17:00:08.9151419+00:00",
+  "LastUpdate_Achievements": "2023-12-23T17:05:27.2191216+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 120.00% | ~779 |
 | Your Especially Earned Trajectory | 101.00% | ~655 |
 | On that Grindset | 92.00% | ~597 |
-| Officially Official | 86.00% | ~558 |
+| Officially Official | 87.00% | ~565 |
 | One of the Cool Kids | 84.00% | ~545 |
 | No Mountain Wide Enough | 81.00% | ~526 |
 | Pack Mule | 79.00% | ~513 |
@@ -22,7 +22,7 @@ Number of Ratings: 892  (23.09.2022)
 | Better Late than Never | 76.00% | ~493 |
 | Yakmel Whisperer | 76.00% | ~493 |
 | Can We Keep It? | 73.00% | ~474 |
-| Got Served | 72.00% | ~467 |
+| Got Served | 73.00% | ~474 |
 | Financially Secure | 71.00% | ~461 |
 | First Love | 71.00% | ~461 |
 | Unboxing | 71.00% | ~461 |
@@ -40,7 +40,7 @@ Number of Ratings: 892  (23.09.2022)
 | Commissions, commissions...! | 59.00% | ~383 |
 | Happier-est Place on Earth | 59.00% | ~383 |
 | Anti-Santa | 59.00% | ~383 |
-| You Don't Win Friends With Salad | 57.00% | ~370 |
+| You Don't Win Friends With Salad | 58.00% | ~376 |
 | Bridging the Gap | 56.00% | ~363 |
 | Finishing Touches | 54.00% | ~350 |
 | Sepia Toned Memories | 53.00% | ~344 |

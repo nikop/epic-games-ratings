@@ -9,7 +9,7 @@
 | Time Gates | 63.00% | ~176 |
 | Command Centre | 49.00% | ~137 |
 | This is a Wall | 43.00% | ~120 |
-| Extendable Bridges | 42.00% | ~117 |
+| Extendable Bridges | 43.00% | ~120 |
 | Chain Reaction | 39.00% | ~109 |
 | 48 Attempts | 38.00% | ~106 |
 | Man's Best Friend | 38.00% | ~106 |

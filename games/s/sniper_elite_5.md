@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 673)  
+Rating: 4.45 (Ranked 674)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,924 |
+| Meeting Resistance | 47.00% | ~1,925 |
 | Confirming Suspicions | 41.00% | ~1,679 |
 | The Kraken Wakes | 37.00% | ~1,515 |
 | It's Starting to Crack | 34.00% | ~1,392 |
 | Change the Channel | 31.00% | ~1,269 |
 | Lord of War | 30.00% | ~1,228 |
-| Taking it back | 29.00% | ~1,187 |
-| Resourceful | 27.00% | ~1,105 |
-| Target America | 27.00% | ~1,105 |
+| Taking it back | 29.00% | ~1,188 |
+| Resourceful | 27.00% | ~1,106 |
+| Target America | 27.00% | ~1,106 |
 | The Kraken Sleeps | 25.00% | ~1,024 |
 | As Quiet as a Mouse | 24.00% | ~983 |
 | Liberté | 23.00% | ~942 |
@@ -34,9 +34,9 @@ Rating: 4.45 (Ranked 673)
 | Enemy at the Gates | 14.00% | ~573 |
 | Fields of Glory | 14.00% | ~573 |
 | Set Europe Ablaze | 13.00% | ~532 |
-| Precision Is Key | 10.00% | ~409 |
-| My Little Friend | 10.00% | ~409 |
-| Rigged to Blow | 9.00% | ~368 |
+| Precision Is Key | 10.00% | ~410 |
+| My Little Friend | 10.00% | ~410 |
+| Rigged to Blow | 9.00% | ~369 |
 | Herr Today, Gone Tomorrow | 7.00% | ~283 |
 | The Long Game | 6.00% | ~246 |
 | Operation Foxley | 6.00% | ~243 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,094 (Ranked 206)  
+Progressed: 4,095 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 11 (0.27%) (Ranked 255)
 | 2023-12-20 | 4,066 | 11 |
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
-| 2023-12-23 | 4,094 | 11 |
+| 2023-12-23 | 4,095 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 523)  
 Sum: 28 (Ranked 538)  

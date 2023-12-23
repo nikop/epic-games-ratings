@@ -8,23 +8,23 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,416 |
 | A Spark | 19.00% | ~2,404 |
-| Burning City | 18.00% | ~2,277 |
+| Burning City | 18.00% | ~2,278 |
 | Defender's Heart | 16.00% | ~2,024 |
 | Mythic Choices | 15.00% | ~1,898 |
 | Banner over the Citadel | 14.00% | ~1,771 |
 | Queen's Gratitude | 12.00% | ~1,518 |
-| Fifth Crusade | 9.00% | ~1,138 |
+| Fifth Crusade | 9.00% | ~1,139 |
 | Embrace of the Abyss | 7.00% | ~886 |
 | Path of the Angel | 7.00% | ~886 |
 | Demonic and Divine | 7.00% | ~886 |
 | Great Upstart | 6.00% | ~759 |
 | All Paths Open | 6.00% | ~759 |
-| Path of the Azata | 5.00% | ~632 |
-| Transformation | 5.00% | ~632 |
-| The Legacy | 5.00% | ~632 |
-| Voice from Your Dreams | 5.00% | ~632 |
-| Next-Door Play | 5.00% | ~632 |
-| Get the Toad | 5.00% | ~632 |
+| Path of the Azata | 5.00% | ~633 |
+| Transformation | 5.00% | ~633 |
+| The Legacy | 5.00% | ~633 |
+| Voice from Your Dreams | 5.00% | ~633 |
+| Next-Door Play | 5.00% | ~633 |
+| Get the Toad | 5.00% | ~633 |
 | Heart of the Fallen Land | 4.00% | ~506 |
 | Divide and Rule | 4.00% | ~506 |
 | Mythic Reinforcements | 4.00% | ~506 |
@@ -44,12 +44,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~253 |
 | Truly Important Deed | 2.00% | ~253 |
 | Stay Underground | 2.00% | ~229 |
-| The Final Threshold | 1.00% | ~126 |
-| Path of the Dragon | 1.00% | ~126 |
-| Path of the Legend | 1.00% | ~126 |
-| Strategic Victory | 1.00% | ~126 |
-| Abyssal Conspiracy | 1.00% | ~126 |
-| Truly Profane Gift | 1.00% | ~126 |
+| The Final Threshold | 1.00% | ~127 |
+| Path of the Dragon | 1.00% | ~127 |
+| Path of the Legend | 1.00% | ~127 |
+| Strategic Victory | 1.00% | ~127 |
+| Abyssal Conspiracy | 1.00% | ~127 |
+| Truly Profane Gift | 1.00% | ~127 |
 | This Wall Won't Fall | 1.00% | ~114 |
 | Not the Last Sarkorian | 1.00% | ~114 |
 | End of Eternal Guard | 0.90% | ~114 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,650 (Ranked 169)  
+Progressed: 12,653 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,14 +370,14 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 12,550 | 0 |
 | 2023-12-21 | 12,584 | 0 |
 | 2023-12-22 | 12,617 | 0 |
-| 2023-12-23 | 12,650 | 0 |
+| 2023-12-23 | 12,653 | 0 |
 ## Awards
-Max (Character Customization): 1,765  (Ranked 124)  
-Sum: 7,161 (Ranked 123)  
+Max (Character Customization): 1,767  (Ranked 124)  
+Sum: 7,163 (Ranked 123)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,765 |
+| This game has Inclusive Character Customization | 1,767 |
 | This game is Extremely Fun | 662 |
 | This game is Highly Recommended | 655 |
 | This game has Diverse Characters | 651 |
@@ -690,4 +690,4 @@ Diff (max vs sum): 1
 | 2023-12-20 | 4.76 | - | 1,763 | 7,153 |
 | 2023-12-21 | 4.76 | - | 1,763 | 7,156 |
 | 2023-12-22 | 4.76 | - | 1,765 | 7,158 |
-| 2023-12-23 | 4.76 | - | 1,765 | 7,161 |
+| 2023-12-23 | 4.76 | - | 1,767 | 7,163 |

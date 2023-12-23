@@ -1,16 +1,16 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.43 (Ranked 704)  
+Rating: 4.43 (Ranked 705)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~155,816 |
-| Good Skills | 9.00% | ~140,234 |
-| Multiplier Master | 9.00% | ~140,234 |
-| Maverick | 7.00% | ~109,071 |
-| The Long Drift | 5.00% | ~77,908 |
+| Midnight Drifter | 10.00% | ~155,817 |
+| Good Skills | 9.00% | ~140,236 |
+| Multiplier Master | 9.00% | ~140,236 |
+| Maverick | 7.00% | ~109,072 |
+| The Long Drift | 5.00% | ~77,909 |
 | Drift Line Apprentice | 3.00% | ~46,745 |
 | Mad Skills | 3.00% | ~46,745 |
 | Bring the Cubic Ruckus | 2.00% | ~31,163 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,233 |
 | The Completionist | 0.10% | ~1,558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,558,157 (Ranked 8)  
+Progressed: 1,558,173 (Ranked 8)  
 Completed: 758 (0.05%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 758 (0.05%) (Ranked 332)
 | 2023-12-20 | 1,557,418 | 756 |
 | 2023-12-21 | 1,557,647 | 757 |
 | 2023-12-22 | 1,557,921 | 758 |
-| 2023-12-23 | 1,558,157 | 758 |
+| 2023-12-23 | 1,558,173 | 758 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
