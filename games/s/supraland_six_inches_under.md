@@ -43,7 +43,7 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 76.00% | ~1,812 |
 | Win | 76.00% | ~1,812 |
 | Greenhouse | 72.00% | ~1,716 |
-| Played with fire | 70.00% | ~1,669 |
+| Played with fire | 71.00% | ~1,693 |
 | You feel very sorry | 70.00% | ~1,669 |
 | No Match for you | 65.00% | ~1,550 |
 | Bouncy | 62.00% | ~1,478 |

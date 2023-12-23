@@ -5,18 +5,18 @@ Rating: 4.52 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~99 |
+| Beginner | 91.00% | ~99 |
 | Map reader | 69.00% | ~75 |
-| Adventurer | 67.00% | ~72 |
-| Philanthropist | 64.00% | ~69 |
+| Adventurer | 66.00% | ~72 |
+| Philanthropist | 63.00% | ~69 |
 | Archer | 48.00% | ~52 |
 | The brave little tailor | 47.00% | ~51 |
-| Field hand | 41.00% | ~44 |
+| Field hand | 40.00% | ~44 |
 | Samaritan | 38.00% | ~41 |
 | Well-to-do | 38.00% | ~41 |
 | The merciful one | 35.00% | ~38 |
 | Ladies' man | 34.00% | ~37 |
-| Ferocious wild boars | 28.00% | ~30 |
+| Ferocious wild boars | 28.00% | ~31 |
 | Idiot | 27.00% | ~29 |
 | Beast slayer | 23.00% | ~25 |
 | Wise man | 20.00% | ~22 |
@@ -24,13 +24,13 @@ Rating: 4.52 (Ranked 565)
 | Death of a legend | 20.00% | ~22 |
 | Archaeologist | 20.00% | ~22 |
 | Ogre friend | 20.00% | ~22 |
-| Little hero | 19.00% | ~21 |
 | Hard worker | 19.00% | ~21 |
 | The fourth triplet | 19.00% | ~21 |
 | Sidelined | 19.00% | ~21 |
-| Master detective | 19.00% | ~21 |
-| Fence | 18.00% | ~19 |
-| Ghost hunter | 17.00% | ~18 |
+| Little hero | 18.00% | ~20 |
+| Master detective | 18.00% | ~20 |
+| Ghost hunter | 17.00% | ~19 |
+| Fence | 17.00% | ~19 |
 | Pandora's box | 16.00% | ~17 |
 | Peacekeeper | 16.00% | ~17 |
 | Defender | 14.00% | ~15 |
@@ -43,8 +43,8 @@ Rating: 4.52 (Ranked 565)
 | Titan Lord | 9.00% | ~10 |
 | Terror of the hens | 9.00% | ~10 |
 | Expert | 8.00% | ~9 |
-| The traveler | 6.00% | ~6 |
-| Moneybags | 6.00% | ~6 |
+| The traveler | 6.00% | ~7 |
+| Moneybags | 6.00% | ~7 |
 | Rune master | 5.00% | ~5 |
 | King Midas | 5.00% | ~5 |
 | Fervent swimmer | 4.00% | ~4 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 565)
 | Master of the classes | 0.90% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 467)  
+Progressed: 109 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 101 | 0 |
 | 2023-12-21 | 104 | 0 |
 | 2023-12-22 | 107 | 0 |
-| 2023-12-23 | 108 | 0 |
+| 2023-12-23 | 109 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

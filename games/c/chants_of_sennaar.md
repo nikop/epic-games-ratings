@@ -5,23 +5,23 @@ Rating: 4.83 (Ranked 60)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 51.00% | ~819 |
-| Welcome to the Tower | 46.00% | ~738 |
-| The great escape | 38.00% | ~610 |
-| The Preacher's fate | 37.00% | ~594 |
+| That's the spirit | 51.00% | ~820 |
+| Welcome to the Tower | 46.00% | ~740 |
+| The great escape | 38.00% | ~611 |
+| The Preacher's fate | 37.00% | ~595 |
 | A new dawn | 30.00% | ~482 |
-| Scholar | 26.00% | ~417 |
-| True G3M4R | 25.00% | ~401 |
-| A good beginning | 24.00% | ~385 |
-| The darkness | 24.00% | ~385 |
-| Cable guy | 21.00% | ~337 |
-| Half the way | 21.00% | ~337 |
-| One last step | 21.00% | ~337 |
-| I did it | 20.00% | ~321 |
-| Peace walker | 20.00% | ~321 |
-| Rascal | 20.00% | ~321 |
-| In this together | 19.00% | ~305 |
-| Champollion | 19.00% | ~305 |
+| Scholar | 26.00% | ~418 |
+| True G3M4R | 25.00% | ~402 |
+| A good beginning | 24.00% | ~386 |
+| The darkness | 24.00% | ~386 |
+| Cable guy | 21.00% | ~338 |
+| Half the way | 21.00% | ~338 |
+| One last step | 21.00% | ~338 |
+| I did it | 20.00% | ~322 |
+| Peace walker | 20.00% | ~322 |
+| Rascal | 20.00% | ~322 |
+| In this together | 19.00% | ~306 |
+| Champollion | 19.00% | ~306 |
 | Open door | 17.00% | ~273 |
 | Feels like springtime | 17.00% | ~273 |
 | Alchemists Express | 16.00% | ~257 |
@@ -31,8 +31,8 @@ Rating: 4.83 (Ranked 60)
 | For its own good | 11.00% | ~177 |
 | Fashion victim | 6.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,605 (Ranked 250)  
-Completed: 87 (5.42%) (Ranked 74)  
+Progressed: 1,608 (Ranked 250)  
+Completed: 87 (5.41%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,7 +185,7 @@ Completed: 87 (5.42%) (Ranked 74)
 | 2023-12-20 | 1,463 | 78 |
 | 2023-12-21 | 1,511 | 80 |
 | 2023-12-22 | 1,576 | 85 |
-| 2023-12-23 | 1,605 | 87 |
+| 2023-12-23 | 1,608 | 87 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

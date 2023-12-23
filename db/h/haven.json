@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1730,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2793,6 +2793,11 @@
       "Time": "2023-12-23T09:06:04.5559785+00:00",
       "NumProgressed": 1730,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T10:06:04.9830331+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2860,7 +2865,7 @@
       "Name": "My little pony",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "17",
@@ -2868,7 +2873,7 @@
       "Name": "Balding bloot!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "18",
@@ -2988,7 +2993,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "4",
@@ -3004,7 +3009,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "6",
@@ -3012,7 +3017,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "7",
@@ -3043,15 +3048,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1730,
+      "Progressed": 1731,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:06:04.5559783+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:06:04.983033+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:02.101709+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:06:04.5560023+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:03.5986423+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:06:04.9830552+00:00"
 }

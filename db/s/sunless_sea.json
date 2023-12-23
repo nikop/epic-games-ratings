@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -784,9 +784,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42728,
+  "EOS_Progressed": 42731,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25929,6 +25929,11 @@
       "Time": "2023-12-23T09:04:44.4132101+00:00",
       "NumProgressed": 42728,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T10:04:42.3336791+00:00",
+      "NumProgressed": 42731,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26060,7 +26065,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15382
+      "UsersEstimate": 15383
     },
     {
       "ID": "ach_die10",
@@ -26132,7 +26137,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "ach_legacypupil",
@@ -26268,7 +26273,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ach_stranger",
@@ -26292,7 +26297,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7691
+      "UsersEstimate": 7692
     },
     {
       "ID": "ach_terror100",
@@ -26300,7 +26305,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "ach_terror90",
@@ -26308,7 +26313,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6409
+      "UsersEstimate": 6410
     },
     {
       "ID": "ach_undercurrent",
@@ -26340,7 +26345,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "ach_year1",
@@ -26371,15 +26376,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42728,
+      "Progressed": 42731,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-19T20:59:18.2117104+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:04:44.4132098+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:04:42.333679+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:14.0795156+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:00:07.5711038+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:04:44.413432+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:00:10.5887112+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:04:42.3338025+00:00"
 }

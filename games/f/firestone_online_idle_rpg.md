@@ -21,7 +21,7 @@ Rating: 4.04 (Ranked 1,011)
 | Inspection | 14.00% | ~517 |
 | Dragon Master | 13.00% | ~480 |
 | Enlightenment | 13.00% | ~480 |
-| Lieutenant | 12.00% | ~443 |
+| Lieutenant | 13.00% | ~480 |
 | Milestone collector | 11.00% | ~406 |
 | Mysterious Rock | 11.00% | ~406 |
 | Natural Talent | 11.00% | ~406 |

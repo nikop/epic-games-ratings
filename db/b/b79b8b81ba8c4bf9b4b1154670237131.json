@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15705,
+  "EOS_Progressed": 15706,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4544,6 +4544,11 @@
       "Time": "2023-12-23T09:09:23.3796665+00:00",
       "NumProgressed": 15705,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-23T10:09:15.1938036+00:00",
+      "NumProgressed": 15706,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4564,7 +4569,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_AE_11",
@@ -4588,7 +4593,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11779
+      "UsersEstimate": 11780
     },
     {
       "ID": "ACH_AE_14",
@@ -4652,7 +4657,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_AE_21",
@@ -4804,7 +4809,7 @@
       "Name": "Betrayal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_AE_7",
@@ -4812,7 +4817,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_AE_8",
@@ -4820,7 +4825,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_AE_9",
@@ -4828,14 +4833,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15705,
+      "Progressed": 15706,
       "Completed": 14
     }
   ],
@@ -4843,8 +4848,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:09:23.3796662+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:09:15.1938034+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:04.7530726+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:09:23.3797008+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:06.0512824+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:09:15.1938729+00:00"
 }

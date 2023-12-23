@@ -2,7 +2,7 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 67,
@@ -874,9 +874,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Pejsek",
@@ -1001,8 +1001,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:03:37.2503764+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:03:33.9532054+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:02:55.9939437+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:03:37.2503925+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:02:48.2801464+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:03:33.9532329+00:00"
 }

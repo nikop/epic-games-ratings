@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8558,
+  "EOS_Progressed": 8566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14734,6 +14734,11 @@
       "Time": "2023-12-23T09:04:38.2298261+00:00",
       "NumProgressed": 8558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T10:04:36.1828186+00:00",
+      "NumProgressed": 8566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14745,7 +14750,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2912
     },
     {
       "ID": "10",
@@ -14801,7 +14806,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2313
     },
     {
       "ID": "3",
@@ -14809,7 +14814,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "4",
@@ -14817,7 +14822,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "5",
@@ -14825,7 +14830,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "6",
@@ -14833,7 +14838,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "7",
@@ -14864,7 +14869,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8558,
+      "Progressed": 8566,
       "Completed": 0
     }
   ],
@@ -14872,8 +14877,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:04:38.2298259+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:04:36.1828184+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:47.9764383+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:00:09.4419155+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:04:38.2299139+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:00:12.8011619+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:04:36.1828975+00:00"
 }

@@ -13,18 +13,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 6.00% | ~8,825 |
 | It's Free Real Estate | 6.00% | ~8,825 |
 | Capitalism Ho! | 6.00% | ~8,825 |
-| One Easy Payment | 5.00% | ~7,354 |
-| Some Assembly Required | 5.00% | ~7,354 |
-| Another Satisfied Customer | 5.00% | ~7,354 |
-| Pretty Penny | 5.00% | ~7,354 |
-| Budding Merchant | 5.00% | ~7,354 |
-| Own the Means of Production | 5.00% | ~7,354 |
-| The Daily Grind | 4.00% | ~5,883 |
-| Bounty Hunters | 4.00% | ~5,883 |
-| Where it Hurts | 4.00% | ~5,883 |
-| One-Armed Bandit | 4.00% | ~5,883 |
-| Dungeon Imports | 4.00% | ~5,883 |
-| Through Repetition, Perfection | 4.00% | ~5,883 |
+| One Easy Payment | 5.00% | ~7,355 |
+| Some Assembly Required | 5.00% | ~7,355 |
+| Another Satisfied Customer | 5.00% | ~7,355 |
+| Pretty Penny | 5.00% | ~7,355 |
+| Budding Merchant | 5.00% | ~7,355 |
+| Own the Means of Production | 5.00% | ~7,355 |
+| The Daily Grind | 4.00% | ~5,884 |
+| Bounty Hunters | 4.00% | ~5,884 |
+| Where it Hurts | 4.00% | ~5,884 |
+| One-Armed Bandit | 4.00% | ~5,884 |
+| Dungeon Imports | 4.00% | ~5,884 |
+| Through Repetition, Perfection | 4.00% | ~5,884 |
 | On the Path to Greatness | 3.00% | ~4,413 |
 | Ascended | 3.00% | ~4,413 |
 | Research & Development | 3.00% | ~4,413 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,087 (Ranked 83)  
-Completed: 330 (0.22%) (Ranked 268)  
+Progressed: 147,091 (Ranked 83)  
+Completed: 330 (0.22%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -366,11 +366,11 @@ Completed: 330 (0.22%) (Ranked 268)
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
-| 2023-12-23 | 147,087 | 330 |
+| 2023-12-23 | 147,091 | 330 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
-Sum: 27,782 (Ranked 52)  
-Diff (max vs sum): 23  
+Sum: 27,782 (Ranked 51)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,906 |

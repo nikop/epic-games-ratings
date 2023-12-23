@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.70% | ~1,469 |
 | Fast Food | 0.60% | ~1,259 |
 | The Cursed Farmer | 0.50% | ~1,218 |
-| Beast Intentions | 0.40% | ~974 |
-| The Mad Wizard | 0.40% | ~974 |
+| Beast Intentions | 0.40% | ~975 |
+| The Mad Wizard | 0.40% | ~975 |
 | The Overgrown Grove | 0.40% | ~840 |
 | Mental Gymnastics | 0.40% | ~840 |
 | Misaligned in Sigil | 0.30% | ~630 |
@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.20% | ~487 |
 | Mad Cow Disease | 0.20% | ~487 |
 | Friendly Imps | 0.20% | ~487 |
+| Pure Energy | 0.20% | ~487 |
 | Arcane Suppression | 0.20% | ~420 |
 | Welcome to the Vrocks | 0.20% | ~420 |
 | Maddening | 0.10% | ~244 |
@@ -486,7 +487,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~210 |
 | Mysteries Unlocked | 0.10% | ~210 |
 | Male Pattern Boldness | 0.10% | ~210 |
-| Pure Energy | 0.10% | ~244 |
 | Tekeli-li's Hunt | 0.10% | ~210 |
 | Cackling Horror | 0.10% | ~210 |
 | Working for the Weak End | 0.10% | ~210 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~210 |
 | The Brains of an Illithid's Desire | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,621 (Ranked 66)  
+Progressed: 243,635 (Ranked 66)  
 Completed: 2,556 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -800,7 +800,7 @@ Completed: 2,556 (1.05%) (Ranked 168)
 | 2023-12-20 | 242,412 | 2,546 |
 | 2023-12-21 | 242,962 | 2,553 |
 | 2023-12-22 | 243,457 | 2,556 |
-| 2023-12-23 | 243,621 | 2,556 |
+| 2023-12-23 | 243,635 | 2,556 |
 ## Awards
 Max (Great for Beginners): 5,676  (Ranked 71)  
 Sum: 33,024 (Ranked 41)  

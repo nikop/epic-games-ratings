@@ -6,16 +6,16 @@ Rating: 4.10 (Ranked 987)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 11.00% | ~4,934 |
-| Unlocked Potential | 10.00% | ~4,485 |
+| Unlocked Potential | 10.00% | ~4,486 |
 | Tinkerer | 8.00% | ~3,588 |
 | Knock 'Em Dead | 7.00% | ~3,140 |
 | Pilgrimage: Initiate | 7.00% | ~3,140 |
 | Hell of a Run | 7.00% | ~3,140 |
 | Leapfrogger | 6.00% | ~2,691 |
 | Call of the Fount: Baptized | 6.00% | ~2,691 |
-| No Mercy | 5.00% | ~2,242 |
-| Explorer: Seeker | 5.00% | ~2,242 |
-| Help Me Out Here | 5.00% | ~2,242 |
+| No Mercy | 5.00% | ~2,243 |
+| Explorer: Seeker | 5.00% | ~2,243 |
+| Help Me Out Here | 5.00% | ~2,243 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,794 |
 | Stuck | 4.00% | ~1,794 |
 | Outdoorsperson | 3.00% | ~1,346 |
@@ -28,12 +28,12 @@ Rating: 4.10 (Ranked 987)
 | Explorer: Pathfinder | 2.00% | ~897 |
 | Shocker | 2.00% | ~897 |
 | From Every Angle | 2.00% | ~897 |
-| The Hue of Blue | 1.00% | ~448 |
-| The Truth Will Out | 1.00% | ~448 |
-| Breaking Point | 1.00% | ~448 |
-| None the Wiser | 1.00% | ~448 |
-| Forspoken | 1.00% | ~448 |
-| Pilgrimage: Novice | 1.00% | ~448 |
+| The Hue of Blue | 1.00% | ~449 |
+| The Truth Will Out | 1.00% | ~449 |
+| Breaking Point | 1.00% | ~449 |
+| None the Wiser | 1.00% | ~449 |
+| Forspoken | 1.00% | ~449 |
+| Pilgrimage: Novice | 1.00% | ~449 |
 | Wildfire | 0.70% | ~314 |
 | Awakening | 0.60% | ~269 |
 | Explorer: Trailblazer | 0.60% | ~269 |
@@ -59,7 +59,7 @@ Rating: 4.10 (Ranked 987)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,850 (Ranked 121)  
+Progressed: 44,855 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 3 (0.01%) (Ranked 362)
 | 2023-12-20 | 44,556 | 3 |
 | 2023-12-21 | 44,679 | 3 |
 | 2023-12-22 | 44,804 | 3 |
-| 2023-12-23 | 44,850 | 3 |
+| 2023-12-23 | 44,855 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 501)  
 Sum: 33 (Ranked 523)  

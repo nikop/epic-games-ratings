@@ -7,32 +7,32 @@ Number of Ratings: 1,225  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~398,714 |
-| Happy Returns | 78.00% | ~383,946 |
-| Hey! That's mine! | 78.00% | ~383,946 |
-| Field Promotion | 74.00% | ~364,257 |
+| Happy Returns | 78.00% | ~383,947 |
+| Hey! That's mine! | 78.00% | ~383,947 |
+| Field Promotion | 74.00% | ~364,258 |
 | Leadhead | 71.00% | ~349,490 |
-| Eradicator | 67.00% | ~329,800 |
+| Eradicator | 67.00% | ~329,801 |
 | Surplus | 66.00% | ~324,878 |
-| I Spy | 64.00% | ~315,033 |
-| Burn Baby Burn | 59.00% | ~290,421 |
+| I Spy | 64.00% | ~315,034 |
+| Burn Baby Burn | 59.00% | ~290,422 |
 | Yellow Beats Green | 56.00% | ~275,654 |
 | Salvage Rights | 53.00% | ~260,887 |
 | What IS that? | 51.00% | ~251,042 |
 | Close Call | 50.00% | ~246,120 |
 | Pew Pew | 50.00% | ~246,120 |
-| Penny Pincher | 49.00% | ~241,197 |
+| Penny Pincher | 49.00% | ~241,198 |
 | Arsenal | 46.00% | ~226,430 |
 | Boot Camp | 45.00% | ~221,508 |
-| Flawless Victory | 42.00% | ~206,740 |
+| Flawless Victory | 42.00% | ~206,741 |
 | Confident | 41.00% | ~201,818 |
 | Exterminator | 36.00% | ~177,206 |
-| Sharpshooter | 34.00% | ~167,361 |
+| Sharpshooter | 34.00% | ~167,362 |
 | Not So Fast | 33.00% | ~162,439 |
-| Great Ball of Fire | 32.00% | ~157,516 |
+| Great Ball of Fire | 32.00% | ~157,517 |
 | No Sale | 31.00% | ~152,594 |
 | Kaboom! | 30.00% | ~147,672 |
-| Liquidator | 29.00% | ~142,749 |
-| High Voltage | 24.00% | ~118,137 |
+| Liquidator | 29.00% | ~142,750 |
+| High Voltage | 24.00% | ~118,138 |
 | Filthy Rich | 20.00% | ~98,448 |
 | Pyrrhic Victory | 18.00% | ~88,603 |
 | The Not-So-Friendly Skies | 18.00% | ~88,603 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~492 |
 | You Monster | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492,239 (Ranked 39)  
+Progressed: 492,240 (Ranked 39)  
 Completed: 5 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 5 (0.00%) (Ranked 386)
 | 2023-12-20 | 492,055 | 5 |
 | 2023-12-21 | 492,139 | 5 |
 | 2023-12-22 | 492,214 | 5 |
-| 2023-12-23 | 492,239 | 5 |
+| 2023-12-23 | 492,240 | 5 |
 ## Awards
 Max (Great for Beginners): 262  (Ranked 270)  
 Sum: 1,736 (Ranked 222)  

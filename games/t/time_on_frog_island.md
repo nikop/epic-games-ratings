@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 70.00% | ~21 |
-| Sea Legs | 67.00% | ~20 |
-| What?! | 43.00% | ~13 |
-| Frogs Legs | 27.00% | ~8 |
+| Shipwrecked! | 71.00% | ~22 |
+| Sea Legs | 65.00% | ~20 |
+| What?! | 42.00% | ~13 |
+| Frogs Legs | 26.00% | ~8 |
 | Mad Scientist | 23.00% | ~7 |
-| Socialite | 20.00% | ~6 |
-| Couch-surfing | 17.00% | ~5 |
-| Hoist the Sails | 17.00% | ~5 |
-| Secure the Sheets | 17.00% | ~5 |
+| Socialite | 19.00% | ~6 |
+| Couch-surfing | 16.00% | ~5 |
+| Hoist the Sails | 16.00% | ~5 |
+| Secure the Sheets | 16.00% | ~5 |
 | Who Even Needs Keys | 13.00% | ~4 |
 | Hands on the Helm | 13.00% | ~4 |
 | Shrub-Seeing: Townlife | 10.00% | ~3 |
@@ -20,15 +20,15 @@
 | Sailor Swift | 10.00% | ~3 |
 | No Evil | 10.00% | ~3 |
 | Replace the Rudder | 10.00% | ~3 |
-| Shrub-Seeing: Ruins of old | 7.00% | ~2 |
-| Yeet! | 7.00% | ~2 |
-| Caught Ya! | 7.00% | ~2 |
-| Safe Investment | 7.00% | ~2 |
-| Bank of Me | 7.00% | ~2 |
-| Honey, I'm Home | 7.00% | ~2 |
-| Fantastic Fungi | 7.00% | ~2 |
-| Home Sweet Home | 7.00% | ~2 |
-| The Journey Continues | 7.00% | ~2 |
+| Shrub-Seeing: Ruins of old | 6.00% | ~2 |
+| Yeet! | 6.00% | ~2 |
+| Caught Ya! | 6.00% | ~2 |
+| Safe Investment | 6.00% | ~2 |
+| Bank of Me | 6.00% | ~2 |
+| Honey, I'm Home | 6.00% | ~2 |
+| Fantastic Fungi | 6.00% | ~2 |
+| Home Sweet Home | 6.00% | ~2 |
+| The Journey Continues | 6.00% | ~2 |
 | Crunch Time | 3.00% | ~1 |
 | One with the frogs | 3.00% | ~1 |
 | Shrub-Seeing: Lights in the sky | 3.00% | ~1 |
@@ -40,8 +40,8 @@
 | Falling with Style | 3.00% | ~1 |
 | Froggy Friendship | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 574)  
-Completed: 1 (3.33%) (Ranked 102)  
+Progressed: 31 (Ranked 571)  
+Completed: 1 (3.23%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 1 (3.33%) (Ranked 102)
 | 2023-12-17 | 27 | 1 |
 | 2023-12-18 | 29 | 1 |
 | 2023-12-22 | 30 | 1 |
+| 2023-12-23 | 31 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

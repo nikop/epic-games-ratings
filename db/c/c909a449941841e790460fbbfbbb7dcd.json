@@ -3,8 +3,8 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 406,
-  "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.21,
+  "EOS_Completed_Percentage": 4.19,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -959,6 +959,11 @@
       "Time": "2023-12-22T19:05:12.2039276+00:00",
       "NumProgressed": 214,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-23T10:04:40.9357238+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -979,7 +984,7 @@
       "Name": "Laser Beam",
       "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -995,7 +1000,7 @@
       "Name": "Assassin",
       "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1009,9 +1014,9 @@
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 204
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1027,7 +1032,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1099,21 +1104,21 @@
       "Name": "Strong",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:04:42.9043416+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:04:40.9357235+00:00",
   "LastUpdate_AppInfo": "2023-12-19T22:56:53.2873593+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:59:48.6580466+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:04:42.9043535+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:59:51.8881519+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:04:40.9357382+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 620,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 47,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13833,10 +13833,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 29630,
       "NumberOfAwardsMax": 8718
+    },
+    {
+      "Time": "2023-12-23T09:57:02.3675102+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 29632,
+      "NumberOfAwardsMax": 8718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29630,
+  "NumberOfAwards": 29632,
   "NumberOfAwardsMax": 8718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13886,7 +13892,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1584
+      "Count": 1586
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13924,8 +13930,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-12-23T06:00:20.1317332+00:00",
+  "LastChanged": "2023-12-23T09:57:02.3675097+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:19.3870771+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:00.8852765+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:05:39.6767702+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:02.3675106+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:05:39.4086747+00:00"
 }

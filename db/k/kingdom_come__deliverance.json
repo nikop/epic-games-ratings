@@ -4,11 +4,11 @@
   "ProductSlug": "kingdom-come-deliverance",
   "Ranking_Rating": 200,
   "Ranking_Popularity": 52,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9427,10 +9427,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28583,
       "NumberOfAwardsMax": 7698
+    },
+    {
+      "Time": "2023-12-23T09:57:05.8188449+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28585,
+      "NumberOfAwardsMax": 7698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28583,
+  "NumberOfAwards": 28585,
   "NumberOfAwardsMax": 7698,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9456,7 +9462,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1707
+      "Count": 1708
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9486,7 +9492,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1740
+      "Count": 1741
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -9513,9 +9519,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 813841,
+  "EOS_Progressed": 813845,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37393,6 +37399,11 @@
       "Time": "2023-12-23T09:09:51.5845772+00:00",
       "NumProgressed": 813841,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-23T10:09:43.2121978+00:00",
+      "NumProgressed": 813845,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -37484,7 +37495,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260429
+      "UsersEstimate": 260430
     },
     {
       "ID": "Bookworm",
@@ -37492,7 +37503,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122076
+      "UsersEstimate": 122077
     },
     {
       "ID": "Buddy",
@@ -37508,7 +37519,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48830
+      "UsersEstimate": 48831
     },
     {
       "ID": "Cavalier",
@@ -37516,7 +37527,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 203460
+      "UsersEstimate": 203461
     },
     {
       "ID": "Chivalrous",
@@ -37604,7 +37615,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187183
+      "UsersEstimate": 187184
     },
     {
       "ID": "Fighter",
@@ -37724,7 +37735,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105799
+      "UsersEstimate": 105800
     },
     {
       "ID": "Judas",
@@ -37884,7 +37895,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162768
+      "UsersEstimate": 162769
     },
     {
       "ID": "RevenantOfLedechko",
@@ -37924,7 +37935,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 162768
+      "UsersEstimate": 162769
     },
     {
       "ID": "SerialKiller",
@@ -38059,15 +38070,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 813841,
+      "Progressed": 813845,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-22T23:00:24.1805038+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:09:51.584577+00:00",
+  "LastChanged": "2023-12-23T09:57:05.8188447+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:09:43.2121976+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.6961501+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:04.6153921+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:09:51.5847499+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:05.8188452+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:09:43.2124076+00:00"
 }

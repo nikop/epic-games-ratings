@@ -20,6 +20,7 @@ Rating: 4.62 (Ranked 373)
 | Valley of Wonders | 3.00% | ~181 |
 | In a Liege of Your Own | 3.00% | ~181 |
 | Intimidation Tactics | 3.00% | ~181 |
+| Freed Lands of Manuhari | 3.00% | ~181 |
 | Return of the Wizard King | 2.00% | ~121 |
 | Enchanted Archipelago | 2.00% | ~121 |
 | Digging for Treasure | 2.00% | ~121 |
@@ -30,7 +31,6 @@ Rating: 4.62 (Ranked 373)
 | Here be Dragons | 2.00% | ~121 |
 | Tipping the Scales | 2.00% | ~121 |
 | Mighty Hoard | 2.00% | ~121 |
-| Freed Lands of Manuhari | 2.00% | ~121 |
 | Sehiran Oasis | 2.00% | ~121 |
 | Chaos Surge | 2.00% | ~121 |
 | Spoils of War | 2.00% | ~121 |

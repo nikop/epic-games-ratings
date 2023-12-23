@@ -23,16 +23,16 @@
 | The Vega Turtle | 14.00% | ~3 |
 | A Land of Peace | 9.00% | ~2 |
 | A Good Paint Job | 9.00% | ~2 |
+| The Flying Octopus | 9.00% | ~2 |
 | The Royal Guard | 9.00% | ~2 |
 | The Power of Friendship | 5.00% | ~1 |
 | You can't fool me! | 5.00% | ~1 |
 | Saucer Beast Unchained | 5.00% | ~1 |
+| The Completionist | 5.00% | ~1 |
 | The Battle Axe | 5.00% | ~1 |
-| The Flying Octopus | 5.00% | ~1 |
 | The Interstellar Fighter | 5.00% | ~1 |
 | The Ultimate Attack | 5.00% | ~1 |
 | Vengeance of the Wolf | 5.00% | ~1 |
-| The Completionist | 0.00% | ~0 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 601)  

@@ -3,12 +3,12 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1049,
-  "Ranking_Popularity": 413,
+  "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -365,18 +365,24 @@
       "Rating": 3.83,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-12-23T09:58:26.8266869+00:00",
+      "Rating": 3.83,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 69
+      "Count": 70
     }
   ],
   "EOS_Progressed": 1764,
@@ -3195,9 +3201,9 @@
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
-  "LastChanged": "2023-12-02T14:58:43.9151067+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:04:21.9959482+00:00",
+  "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:04:20.3636628+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:58:23.5324568+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:04:21.9959772+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:58:26.8266872+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:04:20.3636897+00:00"
 }

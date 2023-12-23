@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1787,9 +1787,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18744,
+  "EOS_Progressed": 18751,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1521,
+  "EOS_NewPlayers": 1520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -10827,6 +10827,11 @@
       "Time": "2023-12-23T09:09:23.9252404+00:00",
       "NumProgressed": 18744,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-23T10:09:15.7229382+00:00",
+      "NumProgressed": 18751,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10870,7 +10875,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -10902,7 +10907,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -10910,7 +10915,7 @@
       "Name": "The Protocol is About Life",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -10942,7 +10947,7 @@
       "Name": "Get a Grip",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -10950,7 +10955,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "KILL_2HEAD",
@@ -10958,7 +10963,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -10966,7 +10971,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "KILL_ROBOT",
@@ -10982,7 +10987,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -10998,7 +11003,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -11006,7 +11011,7 @@
       "Name": "Reforged",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11014,7 +11019,7 @@
       "Name": "Paper Jams",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11022,7 +11027,7 @@
       "Name": "Mugshot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -11030,7 +11035,7 @@
       "Name": "The Outer Way",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11038,7 +11043,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "STORY_HABITAT",
@@ -11054,7 +11059,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11070,7 +11075,7 @@
       "Name": "Desperate Times",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11078,7 +11083,7 @@
       "Name": "Crash Site",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "STORY_TOWER",
@@ -11094,7 +11099,7 @@
       "Name": "Power Up",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "DISMEMBER_100",
@@ -11182,7 +11187,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "KILL_BIOBOT",
@@ -11190,7 +11195,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -11213,13 +11218,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18744,
+      "Progressed": 18751,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6670,
+      "Progressed": 6677,
       "Completed": 29
     }
   ],
@@ -11227,8 +11232,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-23T07:03:20.9645164+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:09:23.9252402+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:09:15.722938+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:03:13.714351+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:09:23.9253031+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:03:06.9852776+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:09:15.7230527+00:00"
 }

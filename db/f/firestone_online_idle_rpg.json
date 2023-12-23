@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -657,7 +657,7 @@
   ],
   "EOS_Progressed": 3695,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10880,9 +10880,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 480
     },
     {
       "ID": "lockandload",
@@ -11193,8 +11193,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T22:58:35.5003837+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:08:37.0632245+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:08:27.2881714+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.7887636+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:58:41.6656472+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:08:37.0633245+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:58:44.9336899+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:08:27.2882819+00:00"
 }

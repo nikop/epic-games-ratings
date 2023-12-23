@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2199,9 +2199,9 @@
       "Count": 222
     }
   ],
-  "EOS_Progressed": 21679,
+  "EOS_Progressed": 21680,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11879,6 +11879,11 @@
       "Time": "2023-12-23T08:04:21.4320844+00:00",
       "NumProgressed": 21679,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-23T10:03:51.6153765+00:00",
+      "NumProgressed": 21680,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11938,7 +11943,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20595
+      "UsersEstimate": 20596
     },
     {
       "ID": "GameOver",
@@ -12050,7 +12055,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6720
+      "UsersEstimate": 6721
     },
     {
       "ID": "VeronicaLiptson",
@@ -12073,15 +12078,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21679,
+      "Progressed": 21680,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-22T22:01:19.3453093+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:03:54.0759361+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:03:51.6153763+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:59:57.70395+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:03:54.0759891+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:00:01.2667214+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:03:51.6154408+00:00"
 }

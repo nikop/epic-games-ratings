@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2598,6 +2598,11 @@
       "Time": "2023-12-23T09:08:52.0999223+00:00",
       "NumProgressed": 668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T10:08:42.9139405+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2752,9 +2757,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 221
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2850,7 +2855,7 @@
       "Name": "Whoops!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "RanaCampaign",
@@ -2938,7 +2943,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "WielderLevel2",
@@ -2946,7 +2951,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WielderLevel3",
@@ -2970,7 +2975,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -2994,7 +2999,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3041,15 +3046,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:08:52.0999221+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:08:42.9139403+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:59:17.7282979+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:08:52.0999667+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:59:21.1758363+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:08:42.9139884+00:00"
 }

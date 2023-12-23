@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -735,9 +735,9 @@
       "ID": "11",
       "SetID": "6bgoh8g",
       "Name": "Final questions",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "12",
@@ -942,8 +942,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:06:06.0684083+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:06:06.5276936+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:03:07.8903228+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:06:06.068423+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:03:00.8156716+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:06:06.5277115+00:00"
 }

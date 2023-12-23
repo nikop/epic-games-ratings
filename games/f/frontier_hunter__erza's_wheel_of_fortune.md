@@ -38,13 +38,13 @@
 | Giantess Slayer | 9.00% | ~58 |
 | Warden Slayer | 9.00% | ~58 |
 | Silver Moon Wolf King Challenge | 3.00% | ~19 |
+| Giant Lizard Challenge | 3.00% | ~19 |
 | Rebellious | 2.00% | ~13 |
 | Blade Mantis Challenge | 2.00% | ~13 |
 | Big Face Goalkeeper Challenge | 2.00% | ~13 |
 | Flying Kobold Challenge | 2.00% | ~13 |
 | Giant Claw Spider Challenge | 2.00% | ~13 |
 | Furious Scorpion Challenge | 2.00% | ~13 |
-| Giant Lizard Challenge | 2.00% | ~13 |
 | Mermaid Challenge | 2.00% | ~13 |
 | Giantess Challenge | 2.00% | ~13 |
 | Berserker Challenge | 1.00% | ~6 |

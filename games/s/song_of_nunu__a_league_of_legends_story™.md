@@ -10,7 +10,7 @@ Rating: 4.50 (Ranked 602)
 | Better On Ice | 68.00% | ~881 |
 | Notai Notes | 67.00% | ~868 |
 | Blue Dreams | 66.00% | ~855 |
-| He's Famous! | 65.00% | ~842 |
+| He's Famous! | 66.00% | ~855 |
 | Krugmazing | 64.00% | ~829 |
 | Cutie Poro | 64.00% | ~829 |
 | Moneyball | 60.00% | ~777 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 602)
 | We Are Speed | 2.00% | ~26 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,295 (Ranked 260)  
+Progressed: 1,295 (Ranked 261)  
 Completed: 9 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |

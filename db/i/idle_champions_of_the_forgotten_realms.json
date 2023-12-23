@@ -8983,9 +8983,9 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 243621,
+  "EOS_Progressed": 243635,
   "EOS_Completed": 2556,
-  "EOS_NewPlayers": 2686,
+  "EOS_NewPlayers": 2684,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36863,6 +36863,11 @@
       "Time": "2023-12-23T09:10:09.8978064+00:00",
       "NumProgressed": 243621,
       "NumCompleted": 2556
+    },
+    {
+      "Time": "2023-12-23T10:10:02.0286657+00:00",
+      "NumProgressed": 243635,
+      "NumCompleted": 2556
     }
   ],
   "TotalAchievements": 546,
@@ -37242,7 +37247,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "objective_completed_110",
@@ -40018,7 +40023,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "objective_completed_70",
@@ -40616,9 +40621,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 487
     },
     {
       "ID": "objective_completed_902",
@@ -41241,21 +41246,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209895,
+      "Progressed": 209909,
       "Completed": 4058
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243621,
+      "Progressed": 243635,
       "Completed": 2556
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T09:02:51.7110767+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:10:09.8978062+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:10:02.0286655+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:02:51.7110775+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:10:09.9001839+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:02:43.9803807+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:10:02.031005+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "4d2a12aff0484d699b1806ab104d259b",
   "Name": "Alan Wake\u2019s American Nightmare",
   "ProductSlug": "alan-wake-american-nightmare",
-  "Ranking_Rating": 1007,
+  "Ranking_Rating": 1006,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2012-05-22T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,6 +413,6 @@
   "FirstSeen": "2022-07-22T20:31:26.4787464+00:00",
   "LastChanged": "2023-12-22T14:00:28.5103002+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.5300962+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:08.5800499+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:08:26.8692753+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:09.8938823+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:06:37.0388813+00:00"
 }

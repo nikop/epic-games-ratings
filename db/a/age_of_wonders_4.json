@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -569,7 +569,7 @@
   ],
   "EOS_Progressed": 6031,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -9281,9 +9281,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 181
     },
     {
       "ID": "52",
@@ -9376,8 +9376,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:06:15.0426538+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:06:15.9311034+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:59.1517205+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:06:15.0427222+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:58:01.1791097+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:06:15.931169+00:00"
 }

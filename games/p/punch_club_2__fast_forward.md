@@ -13,7 +13,7 @@
 | Old movies enjoyer | 76.00% | ~342 |
 | Neurotrainer – power gainer! | 76.00% | ~342 |
 | Fitness professional | 75.00% | ~338 |
-| Employee of the week | 74.00% | ~333 |
+| Employee of the week | 75.00% | ~338 |
 | Your own amateur gym | 70.00% | ~315 |
 | Run K, run! | 69.00% | ~310 |
 | First defeat | 68.00% | ~306 |
@@ -71,7 +71,7 @@
 | The only right decision | 26.00% | ~117 |
 | Silver’s past | 25.00% | ~112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 337)  
+Progressed: 450 (Ranked 338)  
 Completed: 9 (2.00%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2879,
+  "EOS_Progressed": 2880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7042,6 +7042,11 @@
       "Time": "2023-12-23T09:03:50.7775932+00:00",
       "NumProgressed": 2879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T10:03:47.944455+00:00",
+      "NumProgressed": 2880,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7070,7 +7075,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -7262,7 +7267,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7310,7 +7315,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7350,7 +7355,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7445,14 +7450,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2879,
+      "Progressed": 2880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:03:50.777593+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:03:47.9444548+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:35.5257739+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:00:05.1323098+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:03:50.7776637+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:00:07.8113237+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:03:47.9445201+00:00"
 }

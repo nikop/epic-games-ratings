@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-12-23T08:09:11.8758995+00:00",
       "NumProgressed": 253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T10:08:32.3558281+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -829,9 +834,9 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "CareerAllChallenges",
@@ -845,9 +850,9 @@
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "CareerChamp2",
@@ -861,9 +866,9 @@
       "ID": "CareerChamp3",
       "SetID": "5hd282c",
       "Name": "Challengers Champion",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "CareerChamp4",
@@ -885,17 +890,17 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "CollectVehiclesB",
@@ -903,7 +908,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CreditsEarnedA",
@@ -973,9 +978,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "WreckOpponentsBus",
@@ -990,7 +995,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
@@ -998,8 +1003,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:08:41.5915032+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:08:32.3558279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:58:18.1808168+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:08:41.591517+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:58:20.5456952+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:08:32.3558497+00:00"
 }

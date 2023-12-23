@@ -13,6 +13,7 @@ Number of Ratings: 67  (23.09.2022)
 | Hell's Forge | 1.00% | ~1 |
 | Mammon | 1.00% | ~1 |
 | Master of War | 1.00% | ~1 |
+| Demolition Derby | 0.70% | ~1 |
 | Good Deeds | 0.70% | ~1 |
 | Infested | 0.70% | ~1 |
 | Master of Strife | 0.70% | ~1 |
@@ -25,7 +26,6 @@ Number of Ratings: 67  (23.09.2022)
 | Blademaster | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
-| Demolition Derby | 0.00% | ~0 |
 | Full of Hell | 0.00% | ~0 |
 | Gatekeeper | 0.00% | ~0 |
 | Mint III | 0.00% | ~0 |

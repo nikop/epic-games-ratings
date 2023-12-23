@@ -4,9 +4,9 @@
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 75,
-  "Ranking_PopularitySum": 52,
+  "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -7705,9 +7705,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147087,
+  "EOS_Progressed": 147091,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 1311,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33580,6 +33580,11 @@
       "Time": "2023-12-23T09:04:59.9633164+00:00",
       "NumProgressed": 147087,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-12-23T10:04:58.1639018+00:00",
+      "NumProgressed": 147091,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 112,
@@ -33591,7 +33596,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "advlevel02",
@@ -33671,7 +33676,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "bigsale02",
@@ -33695,7 +33700,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "blueprint02",
@@ -33727,7 +33732,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "boss02",
@@ -33895,7 +33900,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "damage02",
@@ -33943,7 +33948,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "energy02",
@@ -34071,7 +34076,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "gold03",
@@ -34143,7 +34148,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "jackslot02",
@@ -34175,7 +34180,7 @@
       "Name": "Budding Merchant",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "level02",
@@ -34215,7 +34220,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "loot02",
@@ -34247,7 +34252,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "master02",
@@ -34455,7 +34460,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "workers02",
@@ -34486,15 +34491,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147087,
+      "Progressed": 147091,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-23T02:20:30.8212828+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:04:59.9633161+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:04:58.1639013+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-23T09:03:12.7517365+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:04:59.9635305+00:00"
+  "LastUpdate_Ratings": "2023-12-23T10:03:05.9402854+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:04:58.164094+00:00"
 }

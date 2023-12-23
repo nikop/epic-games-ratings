@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -843,9 +843,9 @@
       "ID": "DemolitionDerby",
       "SetID": "329ak73",
       "Name": "Demolition Derby",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FullofHell",
@@ -1027,8 +1027,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:09:41.3765582+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:09:32.7595778+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.1049217+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:07.9550528+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:09:41.3765727+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:08.7162653+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:09:32.7595957+00:00"
 }

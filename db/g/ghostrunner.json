@@ -1473,9 +1473,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24891,
+  "EOS_Progressed": 24892,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28063,6 +28063,11 @@
       "Time": "2023-12-23T09:06:06.3043199+00:00",
       "NumProgressed": 24891,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-23T10:06:06.7584567+00:00",
+      "NumProgressed": 24892,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -28130,7 +28135,7 @@
       "Name": "Fine addition",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "FinishLine",
@@ -28170,7 +28175,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -28210,7 +28215,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 18917
+      "UsersEstimate": 18918
     },
     {
       "ID": "MoreThanHuman",
@@ -28250,7 +28255,7 @@
       "Name": "One Of Those Days",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "OutOfOrder",
@@ -28298,7 +28303,7 @@
       "Name": "Running out of breath",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13192
+      "UsersEstimate": 13193
     },
     {
       "ID": "RunningWild",
@@ -28354,7 +28359,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "TripleA",
@@ -28386,7 +28391,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "Wallrunner",
@@ -28394,7 +28399,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 13192
+      "UsersEstimate": 13193
     },
     {
       "ID": "WaveOfMutilation",
@@ -28410,7 +28415,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "WhereHeStood",
@@ -28426,28 +28431,28 @@
       "Name": "Why not both",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24891,
+      "Progressed": 24892,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24891,
+      "Progressed": 24892,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-19T15:59:23.7611453+00:00",
-  "LastChanged_Achievements": "2023-12-23T09:06:06.3043198+00:00",
+  "LastChanged_Achievements": "2023-12-23T10:06:06.7584565+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.3617776+00:00",
-  "LastUpdate_Ratings": "2023-12-23T08:57:08.4512905+00:00",
-  "LastUpdate_Achievements": "2023-12-23T09:06:06.3045324+00:00"
+  "LastUpdate_Ratings": "2023-12-23T09:57:09.7655701+00:00",
+  "LastUpdate_Achievements": "2023-12-23T10:06:06.7585857+00:00"
 }

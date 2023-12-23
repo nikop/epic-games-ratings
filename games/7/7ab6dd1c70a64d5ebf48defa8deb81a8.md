@@ -16,8 +16,8 @@
 | Scholar | 16.00% | ~174 |
 | Tributes of Caladrias | 15.00% | ~163 |
 | Stone Collection | 15.00% | ~163 |
-| Powerful Allies | 14.00% | ~152 |
 | Fashion Victim | 14.00% | ~152 |
+| Powerful Allies | 13.00% | ~142 |
 | Big Bazar | 10.00% | ~109 |
 | Essence Blow | 9.00% | ~98 |
 | Alchemist | 8.00% | ~87 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~7 |
 | Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 274)  
+Progressed: 1,089 (Ranked 274)  
 Completed: 3 (0.28%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 3 (0.28%) (Ranked 254)
 | 2023-12-20 | 928 | 3 |
 | 2023-12-21 | 998 | 3 |
 | 2023-12-22 | 1,066 | 3 |
-| 2023-12-23 | 1,088 | 3 |
+| 2023-12-23 | 1,089 | 3 |

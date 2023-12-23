@@ -9,14 +9,14 @@
 | Abandon Ship! | 26.00% | ~26 |
 | The Tomb of Kih-Oskh | 20.00% | ~20 |
 | The Weighing of the Soul | 18.00% | ~18 |
-| The Curse of Kih-Oskh | 13.00% | ~13 |
-| Mummy Nightmare | 7.00% | ~7 |
+| The Curse of Kih-Oskh | 14.00% | ~14 |
+| Mummy Nightmare | 8.00% | ~8 |
+| Barking Dog | 6.00% | ~6 |
 | Cat Lover | 6.00% | ~6 |
 | It's a Deal! | 6.00% | ~6 |
 | In the Name of the Law | 5.00% | ~5 |
 | Au Revoir, Abudin | 5.00% | ~5 |
 | Mysterious Bungalow | 5.00% | ~5 |
-| Barking Dog | 5.00% | ~5 |
 | Dynamite, Treason and Coconuts | 5.00% | ~5 |
 | Save a Friend | 5.00% | ~5 |
 | The Eyes! | 4.00% | ~4 |
@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 474)  
+Progressed: 100 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
