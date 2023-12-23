@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44830,
+  "EOS_Progressed": 44837,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16108,6 +16108,11 @@
       "Time": "2023-12-23T05:04:37.742708+00:00",
       "NumProgressed": 44830,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T06:04:08.2383835+00:00",
+      "NumProgressed": 44837,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16127,7 +16132,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CAMP",
@@ -16167,7 +16172,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4931
+      "UsersEstimate": 4932
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16263,7 +16268,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CRAFT_FIRST",
@@ -16271,7 +16276,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16303,7 +16308,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEAPFROG",
@@ -16359,7 +16364,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16407,7 +16412,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16431,7 +16436,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -16455,7 +16460,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "SPRING_ALL",
@@ -16519,7 +16524,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -16542,22 +16547,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44830,
+      "Progressed": 44837,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9667,
-      "Completed": 9667
+      "Progressed": 9674,
+      "Completed": 9674
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-21T10:56:56.3222551+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:04:37.7427076+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:04:08.2383831+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:26.7354097+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:58:14.9765868+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:04:37.742812+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:57:54.7692262+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:04:08.2385183+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 9.00% | ~371 |
-| Lost and Found | 6.00% | ~247 |
+| Lost and Found | 6.00% | ~248 |
 | This guy... again? | 5.00% | ~206 |
 | This Belongs in a Museum | 4.00% | ~5,170 |
 | Creep and Sleep | 4.00% | ~5,170 |
@@ -16,15 +16,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 4.00% | ~5,170 |
 | Ploughshares to Swords | 4.00% | ~165 |
 | Bloody Graduation | 4.00% | ~165 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,877 |
-| Serenity Now! | 3.00% | ~3,877 |
-| It Rings a Bell | 3.00% | ~3,877 |
-| Not Today! | 3.00% | ~3,877 |
-| Meat and Greet | 3.00% | ~3,877 |
-| Catch and Decease | 3.00% | ~3,877 |
-| Rush Hour | 3.00% | ~3,877 |
-| To Grandmother's House | 3.00% | ~3,877 |
-| FNG | 3.00% | ~3,877 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,878 |
+| Serenity Now! | 3.00% | ~3,878 |
+| It Rings a Bell | 3.00% | ~3,878 |
+| Not Today! | 3.00% | ~3,878 |
+| Meat and Greet | 3.00% | ~3,878 |
+| Catch and Decease | 3.00% | ~3,878 |
+| Rush Hour | 3.00% | ~3,878 |
+| To Grandmother's House | 3.00% | ~3,878 |
+| FNG | 3.00% | ~3,878 |
 | Friends 'Til the End | 3.00% | ~124 |
 | Resurrection | 2.00% | ~2,585 |
 | Unleash Hell | 2.00% | ~2,585 |
@@ -51,20 +51,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,585 |
 | Unshackled | 2.00% | ~2,585 |
 | Road Trip | 2.00% | ~2,585 |
-| This Looks Familiar | 1.00% | ~1,292 |
-| Hope Rekindled | 1.00% | ~1,292 |
-| Ichthyophobic | 1.00% | ~1,292 |
-| No More Mouths to Feed | 1.00% | ~1,292 |
-| When You Want Something Done Right | 1.00% | ~1,292 |
-| Worldly Traveller | 1.00% | ~1,292 |
-| Hot Air | 1.00% | ~1,292 |
-| Eyes Up | 1.00% | ~1,292 |
+| This Looks Familiar | 1.00% | ~1,293 |
+| Hope Rekindled | 1.00% | ~1,293 |
+| Ichthyophobic | 1.00% | ~1,293 |
+| No More Mouths to Feed | 1.00% | ~1,293 |
+| When You Want Something Done Right | 1.00% | ~1,293 |
+| Worldly Traveller | 1.00% | ~1,293 |
+| Hot Air | 1.00% | ~1,293 |
+| Eyes Up | 1.00% | ~1,293 |
 | Slap on the Wrist | 0.90% | ~37 |
 | Handled | 0.80% | ~1,034 |
 | For Old Time' Sake | 0.80% | ~33 |
 | Shrine of Reflection | 0.70% | ~905 |
 | Body of Work | 0.70% | ~905 |
-| Clearing the Ledger | 0.60% | ~775 |
+| Clearing the Ledger | 0.60% | ~776 |
 | Et Tu, Riposte? | 0.60% | ~25 |
 | Hat Trick | 0.50% | ~646 |
 | Triage | 0.50% | ~646 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.30% | ~12 |
 | Maître De La Lame | 0.30% | ~12 |
 | On This Long Road, We Found Redemption | 0.30% | ~12 |
-| Tears in the Rain | 0.20% | ~258 |
+| Tears in the Rain | 0.20% | ~259 |
 | Loop Year | 0.10% | ~129 |
 | Circle of Life | 0.10% | ~129 |
 | No Gravestone Left Unturned | 0.10% | ~129 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,249 (Ranked 87)  
+Progressed: 129,258 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,249 | 3 |
+| 2023-12-23 | 129,258 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,962 (Ranked 58)  

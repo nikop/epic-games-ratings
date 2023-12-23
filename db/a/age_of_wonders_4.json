@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 374,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 193,
@@ -567,7 +567,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6020,
+  "EOS_Progressed": 6023,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -8852,6 +8852,11 @@
       "Time": "2023-12-23T05:06:46.9577628+00:00",
       "NumProgressed": 6020,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T06:06:16.6732421+00:00",
+      "NumProgressed": 6023,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8975,7 +8980,7 @@
       "Name": "Realm Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "23",
@@ -8983,7 +8988,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "24",
@@ -9342,13 +9347,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6020,
+      "Progressed": 6023,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6020,
+      "Progressed": 6023,
       "Completed": 7
     }
   ],
@@ -9356,8 +9361,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:06:46.9577621+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:06:16.6732419+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:58:20.5843355+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:06:46.9578459+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:57:59.9001058+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:06:16.673309+00:00"
 }

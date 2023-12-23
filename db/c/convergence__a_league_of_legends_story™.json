@@ -47,7 +47,7 @@
   "Tags": [],
   "EOS_Progressed": 1070,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3137,9 +3137,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 225
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3442,8 +3442,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:10:05.1238534+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:10:02.889825+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:00:42.4649675+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:10:05.1238941+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:00:21.495056+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:10:02.8898645+00:00"
 }

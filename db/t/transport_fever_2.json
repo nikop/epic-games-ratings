@@ -5731,9 +5731,9 @@
       "ID": "achAccumulate1B",
       "SetID": "dgl390n",
       "Name": "Transport tycoon",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 486
     },
     {
       "ID": "achAccumulate1BHard",
@@ -6051,9 +6051,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 718
     },
     {
       "ID": "achMetropolis",
@@ -6203,8 +6203,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-22T16:57:35.9447156+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:08:50.9177596+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:08:49.0291705+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:58:12.5736474+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:08:50.9178171+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:57:52.9105865+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:08:49.0292434+00:00"
 }

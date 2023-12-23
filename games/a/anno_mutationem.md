@@ -1,20 +1,20 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~603 |
-| Don't judge a manhole by its cover | 60.00% | ~476 |
-| I just love stuff! | 42.00% | ~333 |
-| Keep 'em coming! | 42.00% | ~333 |
+| Tell me your story | 75.00% | ~596 |
+| Don't judge a manhole by its cover | 60.00% | ~477 |
+| I just love stuff! | 42.00% | ~334 |
+| Keep 'em coming! | 42.00% | ~334 |
 | The things they print nowadays | 40.00% | ~318 |
-| Big Spender | 39.00% | ~310 |
+| Big Spender | 38.00% | ~302 |
 | That's gotta hurt | 36.00% | ~286 |
-| I think it's broke | 27.00% | ~214 |
-| The Ann Flores Combo Experience | 26.00% | ~206 |
-| Club Star | 25.00% | ~198 |
+| I think it's broke | 27.00% | ~215 |
+| The Ann Flores Combo Experience | 26.00% | ~207 |
+| Club Star | 25.00% | ~199 |
 | Fire in the hole! | 21.00% | ~167 |
 | Omnipotence | 20.00% | ~159 |
 | The Warlord | 20.00% | ~159 |
@@ -22,9 +22,9 @@ Rating: 4.54 (Ranked 534)
 | Deadly Kombationem | 18.00% | ~143 |
 | The truth is out there | 16.00% | ~127 |
 | Annakin Skyscroller | 13.00% | ~103 |
-| In the smacker...I think | 10.00% | ~79 |
-| Arm Wrestlin' | 9.00% | ~71 |
-| 1+1>2 | 9.00% | ~71 |
+| In the smacker...I think | 10.00% | ~80 |
+| Arm Wrestlin' | 9.00% | ~72 |
+| 1+1>2 | 9.00% | ~72 |
 | Supreme Bartender Ann | 8.00% | ~64 |
 | This can't be right… | 8.00% | ~64 |
 | Welcome home, 06 | 8.00% | ~64 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 534)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794 (Ranked 292)  
+Progressed: 795 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 789 | 0 |
 | 2023-12-20 | 791 | 0 |
 | 2023-12-22 | 793 | 0 |
-| 2023-12-23 | 794 | 0 |
+| 2023-12-23 | 795 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

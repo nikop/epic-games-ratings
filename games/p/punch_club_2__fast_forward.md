@@ -56,6 +56,7 @@
 | Problems of cyborgs | 31.00% | ~139 |
 | Absolute Champion! | 31.00% | ~139 |
 | Not little hacker | 30.00% | ~135 |
+| Careerist | 30.00% | ~135 |
 | Your own way | 30.00% | ~135 |
 | Trap disarmed | 29.00% | ~130 |
 | Another world | 29.00% | ~130 |
@@ -64,7 +65,6 @@
 | Family comes first | 29.00% | ~130 |
 | Key memories | 29.00% | ~130 |
 | The last bell ring | 29.00% | ~130 |
-| Careerist | 29.00% | ~130 |
 | Anyone can resist | 29.00% | ~130 |
 | The heart of the Resistance | 29.00% | ~130 |
 | Better cooking at home | 26.00% | ~117 |

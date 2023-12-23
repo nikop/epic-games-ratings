@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -331,7 +331,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234043,
+  "EOS_Progressed": 234044,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 1,
@@ -25346,6 +25346,11 @@
       "Time": "2023-12-23T04:10:03.2868435+00:00",
       "NumProgressed": 234043,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T06:09:24.1001822+00:00",
+      "NumProgressed": 234044,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -25421,7 +25426,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84255
+      "UsersEstimate": 84256
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -25517,7 +25522,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51489
+      "UsersEstimate": 51490
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -25580,7 +25585,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234043,
+      "Progressed": 234044,
       "Completed": 6
     }
   ],
@@ -25588,8 +25593,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-22T09:02:10.2313691+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:09:26.1087409+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:09:24.1001819+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:57:41.2824301+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:09:26.1088865+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:57:21.8994554+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:09:24.1003162+00:00"
 }

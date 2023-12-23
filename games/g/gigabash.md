@@ -1,22 +1,22 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 13.00% | ~13,125 |
-| I've Had Enough! | 11.00% | ~11,106 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,077 |
-| All For One and One For All | 6.00% | ~6,058 |
-| Seasoned Fighter | 6.00% | ~6,058 |
-| A New Age | 4.00% | ~4,039 |
-| Home Sweet Home? | 4.00% | ~4,039 |
-| Oh Baby, A Triple | 2.00% | ~2,019 |
-| Battle Hardened | 2.00% | ~2,019 |
-| Master of Disguise | 2.00% | ~2,019 |
-| It's Mayhem! | 2.00% | ~2,019 |
-| Symbiotic | 2.00% | ~2,019 |
+| All Grown Up! | 13.00% | ~13,136 |
+| I've Had Enough! | 11.00% | ~11,115 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,084 |
+| All For One and One For All | 6.00% | ~6,063 |
+| Seasoned Fighter | 6.00% | ~6,063 |
+| A New Age | 4.00% | ~4,042 |
+| Home Sweet Home? | 4.00% | ~4,042 |
+| Oh Baby, A Triple | 2.00% | ~2,021 |
+| Battle Hardened | 2.00% | ~2,021 |
+| Master of Disguise | 2.00% | ~2,021 |
+| It's Mayhem! | 2.00% | ~2,021 |
+| Symbiotic | 2.00% | ~2,021 |
 | Double Punch! | 1.00% | ~1,010 |
 | Right back at'cha | 1.00% | ~1,010 |
 | Spectacular Finisher | 1.00% | ~1,010 |
@@ -26,10 +26,10 @@ Rating: 4.54 (Ranked 534)
 | Zero-sum Game | 0.70% | ~707 |
 | Ninja Reflex | 0.60% | ~606 |
 | Taste Your Own Medicine | 0.50% | ~505 |
+| This is GigaBash! | 0.40% | ~404 |
 | Sidetracked... | 0.40% | ~404 |
 | Eye of the Titan | 0.30% | ~303 |
 | Just Getting Warmed Up | 0.30% | ~303 |
-| This is GigaBash! | 0.30% | ~303 |
 | Top of the Food Chain | 0.30% | ~303 |
 | 5 Stages of Grief | 0.10% | ~101 |
 | Bastion of Humanity | 0.10% | ~101 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 534)
 | What's Mine is Yours | 0.10% | ~101 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,964 (Ranked 95)  
+Progressed: 101,048 (Ranked 95)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 96,698 | 0 |
 | 2023-12-21 | 98,723 | 0 |
 | 2023-12-22 | 100,514 | 0 |
-| 2023-12-23 | 100,964 | 0 |
+| 2023-12-23 | 101,048 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 492)  
 Sum: 34 (Ranked 516)  

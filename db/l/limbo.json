@@ -2,7 +2,7 @@
   "ID": "92053006068e4aa9b1ad413f72090f5e",
   "Name": "Limbo",
   "ProductSlug": "limbo",
-  "Ranking_Rating": 374,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 814,
@@ -421,6 +421,6 @@
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
   "LastChanged": "2023-06-13T02:08:41.1758773+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.8072519+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:59:20.1583424+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:06:08.4286972+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:58:57.9995792+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:05:38.3336111+00:00"
 }

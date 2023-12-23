@@ -5,12 +5,12 @@ Rating: 4.11 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,931 |
-| Unlocked Potential | 10.00% | ~4,483 |
-| Tinkerer | 8.00% | ~3,586 |
-| Knock 'Em Dead | 7.00% | ~3,138 |
-| Pilgrimage: Initiate | 7.00% | ~3,138 |
-| Hell of a Run | 7.00% | ~3,138 |
+| Attachments | 11.00% | ~4,932 |
+| Unlocked Potential | 10.00% | ~4,484 |
+| Tinkerer | 8.00% | ~3,587 |
+| Knock 'Em Dead | 7.00% | ~3,139 |
+| Pilgrimage: Initiate | 7.00% | ~3,139 |
+| Hell of a Run | 7.00% | ~3,139 |
 | Leapfrogger | 6.00% | ~2,690 |
 | Call of the Fount: Baptized | 6.00% | ~2,690 |
 | No Mercy | 5.00% | ~2,242 |
@@ -39,10 +39,10 @@ Rating: 4.11 (Ranked 986)
 | Explorer: Trailblazer | 0.60% | ~269 |
 | Realized Potential | 0.60% | ~269 |
 | Through the Eyes of Another: Seer | 0.40% | ~179 |
-| Archivist | 0.30% | ~134 |
-| Craftsperson | 0.30% | ~134 |
-| Tit for Tat | 0.30% | ~134 |
-| Promises | 0.30% | ~134 |
+| Archivist | 0.30% | ~135 |
+| Craftsperson | 0.30% | ~135 |
+| Tit for Tat | 0.30% | ~135 |
+| Promises | 0.30% | ~135 |
 | Paragon | 0.20% | ~90 |
 | Pilgrimage: Adept | 0.20% | ~90 |
 | Call of the Fount: Beatified | 0.20% | ~90 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 986)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,830 (Ranked 121)  
+Progressed: 44,837 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 3 (0.01%) (Ranked 361)
 | 2023-12-20 | 44,556 | 3 |
 | 2023-12-21 | 44,679 | 3 |
 | 2023-12-22 | 44,804 | 3 |
-| 2023-12-23 | 44,830 | 3 |
+| 2023-12-23 | 44,837 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 501)  
 Sum: 33 (Ranked 523)  

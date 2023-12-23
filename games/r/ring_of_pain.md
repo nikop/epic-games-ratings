@@ -41,6 +41,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.50% | ~1,207 |
 | Destroy Your Fears | 0.50% | ~1,207 |
 | Stone Touch | 0.50% | ~1,207 |
+| New Perspectives | 0.50% | ~1,207 |
 | Shadow Walker | 0.50% | ~1,207 |
 | Flesh Wound | 0.50% | ~1,207 |
 | Shapeshifting | 0.50% | ~1,207 |
@@ -58,7 +59,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.40% | ~966 |
 | Spreading Plague | 0.40% | ~966 |
 | Acid Bath | 0.40% | ~966 |
-| New Perspectives | 0.40% | ~966 |
 | Thank You, Friend | 0.30% | ~724 |
 | Max Damage! | 0.30% | ~724 |
 | A Rough Road | 0.30% | ~724 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,491 (Ranked 67)  
+Progressed: 241,494 (Ranked 67)  
 Completed: 301 (0.12%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,7 +392,7 @@ Completed: 301 (0.12%) (Ranked 296)
 | 2023-12-20 | 241,359 | 300 |
 | 2023-12-21 | 241,432 | 300 |
 | 2023-12-22 | 241,477 | 300 |
-| 2023-12-23 | 241,491 | 301 |
+| 2023-12-23 | 241,494 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,511  (Ranked 134)  
 Sum: 11,755 (Ranked 88)  

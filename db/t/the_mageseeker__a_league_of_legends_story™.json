@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2966,
+  "EOS_Progressed": 2967,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4946,6 +4946,11 @@
       "Time": "2023-12-23T05:04:44.6825584+00:00",
       "NumProgressed": 2966,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-23T06:04:15.3879466+00:00",
+      "NumProgressed": 2967,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -5021,7 +5026,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5037,7 +5042,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5077,7 +5082,7 @@
       "Name": "Past trauma",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -5093,7 +5098,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -5133,7 +5138,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5141,7 +5146,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5173,7 +5178,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5293,7 +5298,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -5301,7 +5306,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -5333,7 +5338,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5380,7 +5385,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2966,
+      "Progressed": 2967,
       "Completed": 16
     }
   ],
@@ -5388,8 +5393,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-20T21:00:13.330526+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:04:44.682558+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:04:15.3879456+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:24.9335177+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:03:20.7296176+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:04:44.6826175+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:02:49.4741612+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:04:15.3880053+00:00"
 }

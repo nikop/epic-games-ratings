@@ -2931,9 +2931,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 273
     },
     {
       "ID": "WielderLevel2",
@@ -3043,8 +3043,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:09:00.03769+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:08:58.0562497+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:59:40.2936346+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:09:00.0377313+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:59:18.7866637+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:08:58.0562866+00:00"
 }

@@ -37,18 +37,18 @@ Rating: 3.56 (Ranked 1,065)
 | From the Shadows | 1.00% | ~20 |
 | Nice Try | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
+| Check, Please! | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
 | Block Party | 0.80% | ~16 |
-| Check, Please! | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
 | What Lies Below | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
+| Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
 | Empty Nest Syndrome | 0.40% | ~8 |
 | Bloody Initiate | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
-| Neighborhood Watch | 0.30% | ~6 |
 | Sisterhood | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,065)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,001 (Ranked 237)  
+Progressed: 2,002 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 2,001 | 0 |
+| 2023-12-23 | 2,002 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

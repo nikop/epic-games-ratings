@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 590,
+  "EOS_Progressed": 591,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -1479,6 +1479,11 @@
       "Time": "2023-12-23T04:11:03.3784332+00:00",
       "NumProgressed": 590,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T06:10:09.8720155+00:00",
+      "NumProgressed": 591,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1554,7 +1559,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Gladiator",
@@ -1602,7 +1607,7 @@
       "Name": "Iconoclasm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Inquisitor",
@@ -1610,7 +1615,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Librarian",
@@ -1690,7 +1695,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Roughneck",
@@ -1809,7 +1814,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 590,
+      "Progressed": 591,
       "Completed": 1
     }
   ],
@@ -1817,8 +1822,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:10:12.2646064+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:10:09.8720152+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:31.304442+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:03:21.3250569+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:10:12.2646314+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:02:50.0055911+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:10:09.8720673+00:00"
 }

@@ -13,11 +13,11 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 9.00% | ~6 |
 | Long-Haul Flyer | 6.00% | ~4 |
 | Military Leader | 6.00% | ~4 |
+| Berserker | 6.00% | ~4 |
 | Peddler | 4.00% | ~3 |
 | Hotshot | 4.00% | ~3 |
 | Free as a Bird | 4.00% | ~3 |
 | Alb | 4.00% | ~3 |
-| Berserker | 4.00% | ~3 |
 | Commander | 4.00% | ~3 |
 | Family Reunion | 4.00% | ~3 |
 | Irissa's Fate | 4.00% | ~3 |

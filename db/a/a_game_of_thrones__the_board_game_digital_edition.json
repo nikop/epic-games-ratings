@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31107,
+  "EOS_Progressed": 31108,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27796,6 +27796,11 @@
       "Time": "2023-12-23T05:09:52.7945312+00:00",
       "NumProgressed": 31107,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-23T06:09:50.2600349+00:00",
+      "NumProgressed": 31108,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -27839,7 +27844,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "1020",
@@ -27895,7 +27900,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "1027",
@@ -27927,7 +27932,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5910
+      "UsersEstimate": 5911
     },
     {
       "ID": "1031",
@@ -27959,7 +27964,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "1035",
@@ -27975,22 +27980,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31107,
+      "Progressed": 31108,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:09:52.7945308+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:09:50.2600347+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:00:00.7010899+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:09:52.7946698+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:59:38.2105721+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:09:50.2601438+00:00"
 }

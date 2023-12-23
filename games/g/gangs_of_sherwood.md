@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~79 |
-| Air Fighter | 73.00% | ~67 |
-| Oo-De-Lally | 68.00% | ~63 |
+| Act of Kindness | 88.00% | ~81 |
+| Air Fighter | 74.00% | ~68 |
+| Oo-De-Lally | 70.00% | ~64 |
 | The Altruist | 66.00% | ~61 |
-| Treasure Hunter | 62.00% | ~57 |
-| Watch your Step! | 52.00% | ~48 |
+| Treasure Hunter | 64.00% | ~59 |
+| Watch your Step! | 53.00% | ~49 |
 | Tap Dancing | 51.00% | ~47 |
 | MAX LEVEL | 50.00% | ~46 |
 | Spring Board | 40.00% | ~37 |
@@ -20,8 +20,8 @@
 | Merry Co-operation | 34.00% | ~31 |
 | Finish Him! | 26.00% | ~24 |
 | Assault on the Ram | 25.00% | ~23 |
+| First Aid | 25.00% | ~23 |
 | Ultra Rebel Instinct | 24.00% | ~22 |
-| First Aid | 24.00% | ~22 |
 | Merry Go Round | 23.00% | ~21 |
 | Savior | 18.00% | ~17 |
 | Hidden Experiment | 17.00% | ~16 |

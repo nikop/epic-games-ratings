@@ -6,63 +6,63 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,496 |
-| Skillful | 4.00% | ~44,496 |
-| Zealous | 3.00% | ~33,372 |
-| Not half bad | 3.00% | ~33,372 |
-| Make Some Noise | 3.00% | ~33,372 |
-| The Grand Sacrifice | 2.00% | ~22,248 |
-| Agonizing Escape | 2.00% | ~22,248 |
-| Backdoor Escape | 2.00% | ~22,248 |
-| No one left behind | 2.00% | ~22,248 |
-| Medic | 2.00% | ~22,248 |
-| Handyman | 2.00% | ~22,248 |
-| Perfect Escape | 2.00% | ~22,248 |
-| Perfect Killing | 2.00% | ~22,248 |
-| Bloody Millionaire | 2.00% | ~22,248 |
-| Apt Survivor | 2.00% | ~22,248 |
-| Survival Treasures | 2.00% | ~22,248 |
-| I | 2.00% | ~22,248 |
-| Engineer | 2.00% | ~22,248 |
-| Sorted | 2.00% | ~22,248 |
-| Healthy Obsession | 2.00% | ~22,248 |
-| Resurgence | 2.00% | ~22,248 |
-| Close Shave | 2.00% | ~22,248 |
-| Preemptive Strike | 2.00% | ~22,248 |
-| Humanitarian | 2.00% | ~22,248 |
-| Blood on your hands | 1.00% | ~11,124 |
-| Escape Artist | 1.00% | ~11,124 |
-| I've got your back | 1.00% | ~11,124 |
-| Apt Killer | 1.00% | ~11,124 |
-| Risk it all | 1.00% | ~11,124 |
-| Vulture | 1.00% | ~11,124 |
-| II | 1.00% | ~11,124 |
-| III | 1.00% | ~11,124 |
-| Wounded Healer | 1.00% | ~11,124 |
-| First to the Punch | 1.00% | ~11,124 |
-| Operation: Survival | 1.00% | ~11,124 |
-| Every Last Drop | 1.00% | ~11,124 |
-| Raccoon City Recruit | 1.00% | ~11,124 |
-| With Scars to Show | 1.00% | ~11,124 |
-| Flight to Freedom | 1.00% | ~11,124 |
-| Lifting The Fog | 1.00% | ~11,124 |
-| Chorus of Chaos | 1.00% | ~11,124 |
-| Second Act | 1.00% | ~11,124 |
+| It wakes | 4.00% | ~44,498 |
+| Skillful | 4.00% | ~44,498 |
+| Zealous | 3.00% | ~33,374 |
+| Not half bad | 3.00% | ~33,374 |
+| Apt Survivor | 3.00% | ~33,374 |
+| Make Some Noise | 3.00% | ~33,374 |
+| The Grand Sacrifice | 2.00% | ~22,249 |
+| Agonizing Escape | 2.00% | ~22,249 |
+| Backdoor Escape | 2.00% | ~22,249 |
+| No one left behind | 2.00% | ~22,249 |
+| Medic | 2.00% | ~22,249 |
+| Handyman | 2.00% | ~22,249 |
+| Perfect Escape | 2.00% | ~22,249 |
+| Perfect Killing | 2.00% | ~22,249 |
+| Bloody Millionaire | 2.00% | ~22,249 |
+| Survival Treasures | 2.00% | ~22,249 |
+| I | 2.00% | ~22,249 |
+| Engineer | 2.00% | ~22,249 |
+| Sorted | 2.00% | ~22,249 |
+| Healthy Obsession | 2.00% | ~22,249 |
+| Resurgence | 2.00% | ~22,249 |
+| Close Shave | 2.00% | ~22,249 |
+| Preemptive Strike | 2.00% | ~22,249 |
+| Humanitarian | 2.00% | ~22,249 |
+| Blood on your hands | 1.00% | ~11,125 |
+| Escape Artist | 1.00% | ~11,125 |
+| I've got your back | 1.00% | ~11,125 |
+| Apt Killer | 1.00% | ~11,125 |
+| Risk it all | 1.00% | ~11,125 |
+| Vulture | 1.00% | ~11,125 |
+| II | 1.00% | ~11,125 |
+| III | 1.00% | ~11,125 |
+| Wounded Healer | 1.00% | ~11,125 |
+| First to the Punch | 1.00% | ~11,125 |
+| Operation: Survival | 1.00% | ~11,125 |
+| Every Last Drop | 1.00% | ~11,125 |
+| Raccoon City Recruit | 1.00% | ~11,125 |
+| With Scars to Show | 1.00% | ~11,125 |
+| Flight to Freedom | 1.00% | ~11,125 |
+| Lifting The Fog | 1.00% | ~11,125 |
+| Chorus of Chaos | 1.00% | ~11,125 |
+| Second Act | 1.00% | ~11,125 |
 | Gifts for the Fog | 0.90% | ~10,012 |
 | III-50 | 0.90% | ~10,012 |
 | Cherish your Life | 0.90% | ~10,012 |
 | Unforgettable Getaway | 0.90% | ~10,012 |
 | Old West Oasis | 0.90% | ~10,012 |
-| Made it out alive! | 0.80% | ~8,899 |
-| All Aboard | 0.80% | ~8,899 |
-| Item of Obsession | 0.80% | ~8,899 |
-| House of Pain | 0.80% | ~8,899 |
-| Holiday Get-Together | 0.80% | ~8,899 |
-| Near-Death Experience | 0.80% | ~8,899 |
-| Cutting Out | 0.80% | ~8,899 |
-| Classy Act | 0.80% | ~8,899 |
-| One More Step | 0.80% | ~8,899 |
-| MU/TH/UR Dearest | 0.80% | ~8,899 |
+| Made it out alive! | 0.80% | ~8,900 |
+| All Aboard | 0.80% | ~8,900 |
+| Item of Obsession | 0.80% | ~8,900 |
+| House of Pain | 0.80% | ~8,900 |
+| Holiday Get-Together | 0.80% | ~8,900 |
+| Near-Death Experience | 0.80% | ~8,900 |
+| Cutting Out | 0.80% | ~8,900 |
+| Classy Act | 0.80% | ~8,900 |
+| One More Step | 0.80% | ~8,900 |
+| MU/TH/UR Dearest | 0.80% | ~8,900 |
 | Blood on your face | 0.70% | ~7,787 |
 | Nerves of steel | 0.70% | ~7,787 |
 | Shock Therapy | 0.70% | ~7,787 |
@@ -74,16 +74,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.70% | ~7,787 |
 | Extraterrestrial | 0.70% | ~7,787 |
 | Outta Nowhere | 0.70% | ~7,787 |
-| A bite for the Entity | 0.60% | ~6,674 |
-| Leapfrog | 0.60% | ~6,674 |
-| Escaping the Nightmare | 0.60% | ~6,674 |
-| Devoted Gatekeeping | 0.60% | ~6,674 |
-| Shrine Apparatus | 0.60% | ~6,674 |
-| Selfless Survival | 0.60% | ~6,674 |
-| End of Days | 0.60% | ~6,674 |
-| Insult and Injury | 0.60% | ~6,674 |
-| Outrun the Overlap | 0.60% | ~6,674 |
-| Rebuilding The Borgo | 0.60% | ~6,674 |
+| A bite for the Entity | 0.60% | ~6,675 |
+| Leapfrog | 0.60% | ~6,675 |
+| Escaping the Nightmare | 0.60% | ~6,675 |
+| Devoted Gatekeeping | 0.60% | ~6,675 |
+| Shrine Apparatus | 0.60% | ~6,675 |
+| Selfless Survival | 0.60% | ~6,675 |
+| End of Days | 0.60% | ~6,675 |
+| Insult and Injury | 0.60% | ~6,675 |
+| Outrun the Overlap | 0.60% | ~6,675 |
+| Rebuilding The Borgo | 0.60% | ~6,675 |
 | Jump Scares | 0.50% | ~5,562 |
 | Hemophobia | 0.50% | ~5,562 |
 | Serial Killer | 0.50% | ~5,562 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,112 |
 | Adept Good Guy | 0.10% | ~1,112 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112,395 (Ranked 13)  
+Progressed: 1,112,462 (Ranked 13)  
 Completed: 64 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -486,14 +486,14 @@ Completed: 64 (0.01%) (Ranked 361)
 | 2023-12-20 | 1,107,875 | 63 |
 | 2023-12-21 | 1,109,780 | 63 |
 | 2023-12-22 | 1,111,919 | 64 |
-| 2023-12-23 | 1,112,395 | 64 |
+| 2023-12-23 | 1,112,462 | 64 |
 ## Awards
-Max (Diverse Characters): 38,366  (Ranked 15)  
-Sum: 290,301 (Ranked 12)  
+Max (Diverse Characters): 38,441  (Ranked 15)  
+Sum: 290,376 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 38,366 |
+| This game has Diverse Characters | 38,441 |
 | This game is Highly Recommended | 33,219 |
 | This game has Amazing Characters | 32,693 |
 | This game has Competitive Players | 32,483 |
@@ -840,3 +840,4 @@ Diff (max vs sum): 3
 | 2023-12-20 | 4.51 | - | 38,251 | 289,476 |
 | 2023-12-21 | 4.51 | - | 38,307 | 289,861 |
 | 2023-12-22 | 4.51 | - | 38,366 | 290,301 |
+| 2023-12-23 | 4.51 | - | 38,441 | 290,376 |

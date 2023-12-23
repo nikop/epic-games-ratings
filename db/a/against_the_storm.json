@@ -3557,9 +3557,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 18960,
+  "EOS_Progressed": 18963,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16772,6 +16772,11 @@
       "Time": "2023-12-23T04:08:57.9214518+00:00",
       "NumProgressed": 18960,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-23T06:08:35.0597006+00:00",
+      "NumProgressed": 18963,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16872,7 +16877,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinHard",
@@ -17120,7 +17125,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinWithResolve",
@@ -17160,7 +17165,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinWithoutOrders",
@@ -17192,7 +17197,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinNearGreed",
@@ -17200,7 +17205,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinNearLibrary",
@@ -17224,7 +17229,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinNearStorms",
@@ -17232,7 +17237,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17255,15 +17260,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18960,
+      "Progressed": 18963,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-22T23:00:20.7079421+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:08:36.7506652+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:08:35.0597004+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-23T05:00:51.0942912+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:08:36.7507525+00:00"
+  "LastUpdate_Ratings": "2023-12-23T06:00:32.1018624+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:08:35.0597887+00:00"
 }

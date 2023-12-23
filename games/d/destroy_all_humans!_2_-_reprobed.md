@@ -1,13 +1,13 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 553)  
+Rating: 4.53 (Ranked 552)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 74.00% | ~117 |
-| Mash Machine | 69.00% | ~109 |
+| Mash Machine | 70.00% | ~111 |
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~76 |
 | Furon Fashion | 43.00% | ~68 |
 | Shop Til They Drop | 35.00% | ~55 |

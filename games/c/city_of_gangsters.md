@@ -5,19 +5,19 @@ Rating: 4.29 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,654 |
-| Copacetic Coordination | 16.00% | ~57,271 |
+| Corner Clout | 46.00% | ~164,657 |
+| Copacetic Coordination | 16.00% | ~57,272 |
 | Fronting the Money | 15.00% | ~53,692 |
-| The Dawn of Automation | 14.00% | ~50,112 |
-| Extraordinary Logistics | 14.00% | ~50,112 |
+| The Dawn of Automation | 14.00% | ~50,113 |
+| Extraordinary Logistics | 14.00% | ~50,113 |
 | Dirty Money | 13.00% | ~46,533 |
 | Family First | 13.00% | ~46,533 |
-| Cleaning House | 12.00% | ~42,953 |
-| Room in the Back | 12.00% | ~42,953 |
+| Cleaning House | 12.00% | ~42,954 |
+| Room in the Back | 12.00% | ~42,954 |
 | Beating the Heat | 11.00% | ~39,374 |
 | Booze Baron | 11.00% | ~39,374 |
-| Friends on the Force | 10.00% | ~35,794 |
-| Neighborhood Watch | 10.00% | ~35,794 |
+| Friends on the Force | 10.00% | ~35,795 |
+| Neighborhood Watch | 10.00% | ~35,795 |
 | Core Corps | 8.00% | ~28,636 |
 | Sizeable Stash | 8.00% | ~28,636 |
 | Street Fighter | 7.00% | ~25,056 |
@@ -61,7 +61,7 @@ Rating: 4.29 (Ranked 857)
 | Cat’s Meow Clubs | 1.00% | ~3,579 |
 | Determined Deliveries | 1.00% | ~3,579 |
 | Stepping It Up | 1.00% | ~3,579 |
-| Crossing Over | 0.90% | ~3,221 |
+| Crossing Over | 0.90% | ~3,222 |
 | Boots in the Ground | 0.80% | ~2,864 |
 | Getting Fancy | 0.80% | ~2,864 |
 | Still Dreaming | 0.50% | ~1,790 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 857)
 | High Pillow | 0.10% | ~358 |
 | Station Master | 0.10% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357,944 (Ranked 49)  
+Progressed: 357,949 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-20 | 357,556 | 7 |
 | 2023-12-21 | 357,733 | 7 |
 | 2023-12-22 | 357,904 | 7 |
-| 2023-12-23 | 357,944 | 7 |
+| 2023-12-23 | 357,949 | 7 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 430)  
 Sum: 258 (Ranked 390)  

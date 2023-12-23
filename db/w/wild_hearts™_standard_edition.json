@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
@@ -2718,6 +2718,11 @@
       "Time": "2023-12-23T05:09:22.3117038+00:00",
       "NumProgressed": 791,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-23T06:09:20.3647676+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2730,7 +2735,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "achievement_10",
@@ -2794,7 +2799,7 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_18",
@@ -2842,7 +2847,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_23",
@@ -2912,9 +2917,9 @@
       "ID": "achievement_30",
       "SetID": "2cpn27e",
       "Name": "Tender Touch",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_31",
@@ -2986,7 +2991,7 @@
       "Name": "Big Spender",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_4",
@@ -2994,7 +2999,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_40",
@@ -3042,7 +3047,7 @@
       "Name": "Helpful Heart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_46",
@@ -3064,9 +3069,9 @@
       "ID": "achievement_48",
       "SetID": "2cpn27e",
       "Name": "Haven Hunter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_5",
@@ -3113,13 +3118,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-23T05:09:22.3117035+00:00",
+  "LastChanged_Achievements": "2023-12-23T06:09:20.3647674+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:11.6761115+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:58:30.5731264+00:00",
-  "LastUpdate_Achievements": "2023-12-23T05:09:22.3117791+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:58:09.3154397+00:00",
+  "LastUpdate_Achievements": "2023-12-23T06:09:20.3648052+00:00"
 }
