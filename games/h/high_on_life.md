@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 338)  
+Rating: 4.64 (Ranked 340)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,13 +12,13 @@ Rating: 4.64 (Ranked 338)
 | First Bounty Down | 4.00% | ~993 |
 | G3 Graduation | 4.00% | ~993 |
 | Cold-Blooded Driller | 4.00% | ~993 |
+| Don't Knife The Hand That Feeds | 4.00% | ~993 |
 | Creature Feature | 3.00% | ~745 |
 | RIP Davey Glutes | 3.00% | ~745 |
 | We're All Very Impressed, Trust Me | 3.00% | ~745 |
 | Hardest Battle In The Game | 3.00% | ~745 |
 | Who's The Boss? | 3.00% | ~745 |
 | Fallout Doesn't Let You Do This | 3.00% | ~745 |
-| Don't Knife The Hand That Feeds | 3.00% | ~745 |
 | Eatin' Good in the Neighborhood | 2.00% | ~497 |
 | Lezduit! | 2.00% | ~497 |
 | Eye Scream, You Scream | 2.00% | ~497 |

@@ -39,8 +39,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~189 |
 | Cursed Lands | 1.00% | ~189 |
 | Trade Baron | 1.00% | ~189 |
-| Against All Odds | 0.90% | ~170 |
-| Haunted Forest | 0.90% | ~170 |
+| Against All Odds | 0.90% | ~171 |
+| Haunted Forest | 0.90% | ~171 |
 | Defying the Crown | 0.80% | ~152 |
 | Serving Ale | 0.70% | ~133 |
 | Fishmen Ritual Site | 0.70% | ~133 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,944 (Ranked 150)  
+Progressed: 18,948 (Ranked 150)  
 Completed: 39 (0.21%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,6 +313,7 @@ Completed: 39 (0.21%) (Ranked 268)
 | 2023-12-20 | 18,771 | 39 |
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
+| 2023-12-23 | 18,948 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 442  (Ranked 228)  
 Sum: 3,283 (Ranked 175)  

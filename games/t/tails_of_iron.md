@@ -13,6 +13,7 @@ Rating: 4.55 (Ranked 511)
 | Return Power To The Depths | 0.50% | ~11 |
 | Shield Maiden Yellow Tongue | 0.50% | ~5 |
 | Become King | 0.40% | ~9 |
+| Ranged Weapon | 0.40% | ~9 |
 | Defeat 25 Frogs | 0.40% | ~9 |
 | Defeat Croakhis Khan | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
@@ -23,7 +24,6 @@ Rating: 4.55 (Ranked 511)
 | Complete the Chefs Book | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
-| Ranged Weapon | 0.30% | ~7 |
 | Two Handed Weapon | 0.30% | ~7 |
 | Defeat 25 Grubs | 0.30% | ~7 |
 | Defeat 25 Mozis | 0.30% | ~7 |

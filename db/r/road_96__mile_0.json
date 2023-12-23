@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 158,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1882,6 +1882,11 @@
       "Time": "2023-12-22T23:06:01.1721371+00:00",
       "NumProgressed": 536,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T00:11:00.3655896+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1909,7 +1914,7 @@
       "Name": "On the Road",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "findalltapes",
@@ -1933,7 +1938,7 @@
       "Name": "Truthseeker",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "scoreminrankrb2",
@@ -1997,7 +2002,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "scoreminrankrv2",
@@ -2012,7 +2017,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 2
     }
   ],
@@ -2020,8 +2025,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:06:01.1721368+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:11:00.365589+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:57:21.0824732+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:06:01.1721524+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:57:37.3528966+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:11:00.365607+00:00"
 }

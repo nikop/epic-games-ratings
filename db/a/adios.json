@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -129,10 +129,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81304,
-  "EOS_Completed": 891,
-  "EOS_NewPlayers": 597,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 81305,
+  "EOS_Completed": 892,
+  "EOS_NewPlayers": 594,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
@@ -27589,6 +27589,11 @@
       "Time": "2023-12-22T23:04:26.7322899+00:00",
       "NumProgressed": 81304,
       "NumCompleted": 891
+    },
+    {
+      "Time": "2023-12-23T00:08:49.7361387+00:00",
+      "NumProgressed": 81305,
+      "NumCompleted": 892
     }
   ],
   "TotalAchievements": 25,
@@ -27744,7 +27749,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8943
+      "UsersEstimate": 8944
     },
     {
       "ID": "Right On Target",
@@ -27799,16 +27804,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81304,
-      "Completed": 891
+      "Progressed": 81305,
+      "Completed": 892
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-22T03:57:19.6411715+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:04:26.7322896+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:08:49.7361384+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:36.6719063+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:57:55.7692074+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:04:26.7324267+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:58:29.0188036+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:08:49.7362703+00:00"
 }

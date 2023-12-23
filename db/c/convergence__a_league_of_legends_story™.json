@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 275,
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -2990,6 +2990,11 @@
       "Time": "2023-12-22T23:05:58.3134845+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T00:10:56.4609733+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3041,7 +3046,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ClockworkProgress1",
@@ -3065,7 +3070,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CosmeticProgress1",
@@ -3089,7 +3094,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -3161,7 +3166,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "HexlockGift",
@@ -3193,7 +3198,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MapCompletion1",
@@ -3279,9 +3284,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 246
     },
     {
       "ID": "RewindDamage1",
@@ -3311,9 +3316,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 214
     },
     {
       "ID": "SkillCompletion1",
@@ -3345,7 +3350,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "SyronGift",
@@ -3353,7 +3358,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3409,7 +3414,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3424,7 +3429,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 6
     }
   ],
@@ -3432,8 +3437,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:05:58.3134843+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:10:56.460973+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:12.5111313+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:05:58.3135236+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:02:46.2365468+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:10:56.4610181+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 857,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 75,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1866,6 +1866,11 @@
       "Time": "2023-12-22T22:09:20.1879768+00:00",
       "NumProgressed": 549,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T00:09:59.8624244+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 31,
@@ -1893,7 +1898,7 @@
       "Name": "Black Gold",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
@@ -1907,9 +1912,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1923,9 +1928,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1955,9 +1960,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1965,7 +1970,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_COOK",
@@ -1989,7 +1994,7 @@
       "Name": "Lumberjack",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2013,7 +2018,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_KILL_100",
@@ -2021,7 +2026,7 @@
       "Name": "Robot Hunter",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_KILL_20",
@@ -2029,7 +2034,7 @@
       "Name": "Scrapper",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_KILL_50",
@@ -2037,7 +2042,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2109,7 +2114,7 @@
       "Name": "Survival Master",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_TELEPORT",
@@ -2124,7 +2129,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 3
     }
   ],
@@ -2132,8 +2137,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:05:17.3338477+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:09:59.8624241+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:44.33539+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:05:17.3338732+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:01:13.1192715+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:09:59.8624526+00:00"
 }

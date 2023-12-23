@@ -24,8 +24,8 @@ Rating: 3.95 (Ranked 1,032)
 | Headhunter | 0.80% | ~739 |
 | I Like Trains | 0.70% | ~646 |
 | Freebooter | 0.70% | ~646 |
+| Legend Looter | 0.60% | ~554 |
 | Moneybags | 0.60% | ~554 |
-| Legend Looter | 0.50% | ~462 |
 | Imports and Exports | 0.50% | ~462 |
 | Savvy Seeker | 0.50% | ~462 |
 | Foo Finder | 0.50% | ~462 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,032)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,351 (Ranked 96)  
+Progressed: 92,354 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,6 +294,7 @@ Completed: 58 (0.06%) (Ranked 324)
 | 2023-12-20 | 92,233 | 58 |
 | 2023-12-21 | 92,286 | 58 |
 | 2023-12-22 | 92,351 | 58 |
+| 2023-12-23 | 92,354 | 58 |
 ## Awards
 Max (Diverse Characters): 574  (Ranked 207)  
 Sum: 2,704 (Ranked 191)  

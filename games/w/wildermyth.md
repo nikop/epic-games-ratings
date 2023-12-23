@@ -46,11 +46,11 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | No More Nightmares | 0.30% | ~5 |
+| A Hunger, Sated | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
 | Into Mulch | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
 | The Power of Friendship | 0.20% | ~3 |
-| A Hunger, Sated | 0.20% | ~3 |
 | Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | Back into the Sea | 0.10% | ~2 |

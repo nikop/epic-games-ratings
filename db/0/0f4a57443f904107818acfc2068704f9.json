@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 956,
+  "EOS_Progressed": 959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2267,6 +2267,11 @@
       "Time": "2023-12-22T22:07:57.0760282+00:00",
       "NumProgressed": 956,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T00:08:39.5564526+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2287,7 +2292,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2333,9 +2338,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 738
     },
     {
       "ID": "CompleteChapter10",
@@ -2391,7 +2396,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CompleteChapter17",
@@ -2423,7 +2428,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "CompleteChapter3",
@@ -2431,7 +2436,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 384
     },
     {
       "ID": "CompleteChapter4",
@@ -2439,7 +2444,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "CompleteChapter5",
@@ -2447,7 +2452,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "CompleteChapter6",
@@ -2477,9 +2482,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -2527,7 +2532,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2551,7 +2556,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Win50ConquestBattles",
@@ -2574,14 +2579,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 956,
+      "Progressed": 959,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:04:19.616076+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:08:39.5564525+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:58:28.2504769+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:04:19.6161094+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:59:18.582923+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:08:39.5564795+00:00"
 }

@@ -13,7 +13,7 @@ Rating: 3.46 (Ranked 1,068)
 | Bottom's Up | 18.00% | ~14,635 |
 | Nice Try | 16.00% | ~13,009 |
 | Right On Target | 14.00% | ~11,383 |
-| Piano Man | 11.00% | ~8,943 |
+| Piano Man | 11.00% | ~8,944 |
 | Lazy Bones | 9.00% | ~7,317 |
 | Vinyl Vibes | 8.00% | ~6,504 |
 | Nothing Left to Say | 7.00% | ~5,691 |
@@ -31,8 +31,8 @@ Rating: 3.46 (Ranked 1,068)
 | Audiophile | 2.00% | ~1,626 |
 | Tape Head | 2.00% | ~1,626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,304 (Ranked 101)  
-Completed: 891 (1.10%) (Ranked 164)  
+Progressed: 81,305 (Ranked 101)  
+Completed: 892 (1.10%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,6 +278,7 @@ Completed: 891 (1.10%) (Ranked 164)
 | 2023-12-20 | 81,134 | 889 |
 | 2023-12-21 | 81,234 | 890 |
 | 2023-12-22 | 81,304 | 891 |
+| 2023-12-23 | 81,305 | 892 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

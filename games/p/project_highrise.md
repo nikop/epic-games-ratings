@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~246 |
+| In the Black | 58.00% | ~242 |
 | Starting Skyward | 52.00% | ~217 |
 | Grime is Not Good | 46.00% | ~192 |
 | Floor Galore | 40.00% | ~167 |
 | Dinner Dash | 40.00% | ~167 |
 | Campaign Launch | 39.00% | ~163 |
-| Need a Consult | 37.00% | ~154 |
+| Need a Consult | 37.00% | ~155 |
 | Upgrade Unlock | 36.00% | ~150 |
 | It's Technical | 36.00% | ~150 |
-| Delegate Maintenance | 32.00% | ~133 |
-| Proper Walls | 31.00% | ~129 |
-| Destination Destiny | 31.00% | ~129 |
-| Happy Tenants | 26.00% | ~108 |
+| Delegate Maintenance | 32.00% | ~134 |
+| Proper Walls | 31.00% | ~130 |
+| Destination Destiny | 31.00% | ~130 |
+| Happy Tenants | 26.00% | ~109 |
 | Potent Potables | 25.00% | ~104 |
 | Smooth Service | 25.00% | ~104 |
 | Your Prestige is Rising | 24.00% | ~100 |
 | Retail Revenue | 23.00% | ~96 |
 | Don't Feel a Loan | 22.00% | ~92 |
 | People Mover | 21.00% | ~88 |
-| Artfully Done | 20.00% | ~83 |
-| Leveled Up Shops | 20.00% | ~83 |
+| Artfully Done | 20.00% | ~84 |
+| Leveled Up Shops | 20.00% | ~84 |
 | Lux Living | 19.00% | ~79 |
 | Emporium Empire | 19.00% | ~79 |
 | We Don't Need No Education | 19.00% | ~79 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417 (Ranked 346)  
+Progressed: 418 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 404 | 0 |
 | 2023-12-21 | 413 | 0 |
 | 2023-12-22 | 417 | 0 |
+| 2023-12-23 | 418 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

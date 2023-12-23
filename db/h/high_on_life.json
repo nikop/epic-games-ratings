@@ -2,12 +2,12 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -327,7 +327,7 @@
   "Tags": [],
   "EOS_Progressed": 24828,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8181,9 +8181,9 @@
       "ID": "ACH_KNIFE_GENE",
       "SetID": "cdkbb11",
       "Name": "Don\u0027t Knife The Hand That Feeds",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -8356,8 +8356,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:02:51.5041219+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:06:34.8426804+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:16.6894951+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:42.2401635+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:02:51.5041873+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:03:29.8723053+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:06:34.8427867+00:00"
 }

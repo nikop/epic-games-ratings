@@ -192,9 +192,9 @@
       "ID": "Athlete",
       "SetID": "aaidab7",
       "Name": "Athlete",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BioIncMaster",
@@ -392,9 +392,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SilentKiller",
@@ -447,8 +447,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:02:07.4363127+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:05:31.9908507+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:14.3758981+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:58:45.9586612+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:02:07.4363328+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:59:46.2410888+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:05:31.9908773+00:00"
 }

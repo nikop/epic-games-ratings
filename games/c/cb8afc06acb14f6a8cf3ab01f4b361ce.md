@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,329 |
-| The touch of Chaos | 4.00% | ~13,329 |
-| A powerful aura was here | 3.00% | ~9,997 |
-| Let's raise the stakes!! | 1.00% | ~3,332 |
+| May the Torchbearer light our way | 4.00% | ~13,330 |
+| The touch of Chaos | 4.00% | ~13,330 |
+| A powerful aura was here | 3.00% | ~9,998 |
+| Let's raise the stakes!! | 1.00% | ~3,333 |
 | Rumors are true | 0.90% | ~2,999 |
 | Your wounds… They are healing so fast! | 0.90% | ~2,999 |
 | Pride is a sin, young Knight | 0.80% | ~2,666 |
 | We'll be careful | 0.70% | ~2,333 |
-| Back to your senses | 0.60% | ~1,999 |
-| They won't last long | 0.60% | ~1,999 |
-| Bring it on! | 0.60% | ~1,999 |
+| Back to your senses | 0.60% | ~2,000 |
+| They won't last long | 0.60% | ~2,000 |
+| Bring it on! | 0.60% | ~2,000 |
 | They tricked me | 0.50% | ~1,666 |
 | We need to talk | 0.50% | ~1,666 |
 | I feel drawn to it | 0.50% | ~1,666 |
@@ -25,8 +25,8 @@ Rating: 4.21 (Ranked 928)
 | We can choose to fight | 0.40% | ~1,333 |
 | I took a risk | 0.40% | ~1,333 |
 | Their fate is sealed | 0.30% | ~1,000 |
-| Not even from this world | 0.20% | ~666 |
-| Chaos be damned! | 0.20% | ~666 |
+| Not even from this world | 0.20% | ~667 |
+| Chaos be damned! | 0.20% | ~667 |
 | No damsels in distress | 0.10% | ~333 |
 | The immortal is bound to reborn | 0.10% | ~333 |
 | A legend among Chimeras | 0.10% | ~333 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 928)
 | Something... unnatural | 0.10% | ~333 |
 | We strike as one | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,231 (Ranked 53)  
+Progressed: 333,257 (Ranked 53)  
 Completed: 5 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 5 (0.00%) (Ranked 385)
 | 2023-12-20 | 332,048 | 5 |
 | 2023-12-21 | 332,632 | 5 |
 | 2023-12-22 | 333,231 | 5 |
+| 2023-12-23 | 333,257 | 5 |
 ## Awards
 Max (Great Boss Battles): 71  (Ranked 409)  
 Sum: 71 (Ranked 477)  

@@ -9,10 +9,10 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 12.00% | ~26,511 |
 | A thief's beginning | 11.00% | ~24,302 |
 | Thorough | 11.00% | ~24,302 |
-| Disguised | 9.00% | ~19,883 |
-| Rescue Takuma | 9.00% | ~19,883 |
-| Rollin' | 9.00% | ~19,883 |
-| Tanuki Time | 9.00% | ~19,883 |
+| Disguised | 9.00% | ~19,884 |
+| Rescue Takuma | 9.00% | ~19,884 |
+| Rollin' | 9.00% | ~19,884 |
+| Tanuki Time | 9.00% | ~19,884 |
 | Stoned Ox | 8.00% | ~17,674 |
 | Happy Planning | 7.00% | ~15,465 |
 | Ice Ice Yuki | 7.00% | ~15,465 |
@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | Stoned | 4.00% | ~8,837 |
 | It's raining men | 3.00% | ~6,628 |
 | The Old Way | 3.00% | ~6,628 |
-| Atheist Ox | 2.00% | ~4,418 |
-| No Gimmicks | 2.00% | ~4,418 |
-| Old Man | 2.00% | ~4,418 |
-| The End | 2.00% | ~4,418 |
-| Winner Winner | 2.00% | ~4,418 |
+| Atheist Ox | 2.00% | ~4,419 |
+| No Gimmicks | 2.00% | ~4,419 |
+| Old Man | 2.00% | ~4,419 |
+| The End | 2.00% | ~4,419 |
+| Winner Winner | 2.00% | ~4,419 |
 | Meticulous | 1.00% | ~2,209 |
 | Undeserved Honor | 1.00% | ~2,209 |
 | When Cut Across the Neck | 0.90% | ~1,988 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~221 |
 | Release the Kraken | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,925 (Ranked 74)  
+Progressed: 220,928 (Ranked 74)  
 Completed: 102 (0.05%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 102 (0.05%) (Ranked 331)
 | 2023-12-20 | 220,524 | 101 |
 | 2023-12-21 | 220,716 | 102 |
 | 2023-12-22 | 220,925 | 102 |
+| 2023-12-23 | 220,928 | 102 |
 ## Awards
 Max (Great for Beginners): 589  (Ranked 202)  
 Sum: 4,925 (Ranked 146)  

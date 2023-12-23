@@ -8421,9 +8421,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 740313,
+  "EOS_Progressed": 740340,
   "EOS_Completed": 12959,
-  "EOS_NewPlayers": 13751,
+  "EOS_NewPlayers": 13745,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30486,6 +30486,11 @@
       "Time": "2023-12-22T23:04:59.8699834+00:00",
       "NumProgressed": 740313,
       "NumCompleted": 12959
+    },
+    {
+      "Time": "2023-12-23T00:09:35.9657773+00:00",
+      "NumProgressed": 740340,
+      "NumCompleted": 12959
     }
   ],
   "TotalAchievements": 60,
@@ -30497,7 +30502,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22209
+      "UsersEstimate": 22210
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30505,7 +30510,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22209
+      "UsersEstimate": 22210
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30513,7 +30518,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14806
+      "UsersEstimate": 14807
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30583,9 +30588,9 @@
       "ID": "12_MidAge",
       "SetID": "adcm20g",
       "Name": "Scareless",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5923
     },
     {
       "ID": "13_LowAge",
@@ -30665,7 +30670,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14806
+      "UsersEstimate": 14807
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -30673,7 +30678,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22209
+      "UsersEstimate": 22210
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30681,7 +30686,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14806
+      "UsersEstimate": 14807
     },
     {
       "ID": "25_ShrineMind",
@@ -30705,7 +30710,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14806
+      "UsersEstimate": 14807
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30745,7 +30750,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14806
+      "UsersEstimate": 14807
     },
     {
       "ID": "33_BladeOneShot",
@@ -30761,7 +30766,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22209
+      "UsersEstimate": 22210
     },
     {
       "ID": "35_WideStrike",
@@ -30807,9 +30812,9 @@
       "ID": "40_CustomTrophy_H4",
       "SetID": "adcm20g",
       "Name": "Take damage to save time",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6663
+      "UsersEstimate": 7403
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -30976,21 +30981,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 49614,
+      "Progressed": 49641,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 740313,
+      "Progressed": 740340,
       "Completed": 12959
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-22T21:02:32.1762865+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:04:59.869983+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:09:35.9657771+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:50.6746082+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:04:59.8701032+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:03:42.4891605+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:09:35.9659537+00:00"
 }

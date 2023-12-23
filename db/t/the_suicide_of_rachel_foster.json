@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1781,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
@@ -3988,6 +3988,11 @@
       "Time": "2023-12-22T22:06:41.7832955+00:00",
       "NumProgressed": 1781,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-23T00:07:26.0577723+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 11,
@@ -3999,7 +4004,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4007,7 +4012,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4031,7 +4036,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_FineEV9",
@@ -4071,7 +4076,7 @@
       "Name": "Someone was here",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -4079,22 +4084,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1781,
+      "Progressed": 1782,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:03:27.7041973+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:07:26.057772+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:30.7748067+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:57:36.8289862+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:03:27.704227+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:58:01.2260682+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:07:26.0577987+00:00"
 }

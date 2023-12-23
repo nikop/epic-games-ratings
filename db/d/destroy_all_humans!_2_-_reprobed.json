@@ -5,9 +5,9 @@
   "Ranking_Rating": 553,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -896,6 +896,11 @@
       "Time": "2023-12-22T17:08:42.9320102+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T00:09:37.2332022+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -908,7 +913,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -940,7 +945,7 @@
       "Name": "Furon Fashion",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -988,7 +993,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1044,7 +1049,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1082,9 +1087,9 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1154,9 +1159,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1244,7 +1249,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1259,7 +1264,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
@@ -1267,8 +1272,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:05:00.510544+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:09:37.2332019+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:19.1843801+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:05:00.5105868+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:00:34.9031874+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:09:37.2332317+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,868 |
+| Sowwy! | 36.00% | ~87,871 |
 | Alt+F4 | 10.00% | ~24,408 |
-| Where's that freaking Dwarf? | 9.00% | ~21,967 |
+| Where's that freaking Dwarf? | 9.00% | ~21,968 |
 | Déjà vu | 7.00% | ~17,086 |
 | Sock! SOCK! | 6.00% | ~14,645 |
 | A beer, two curses, three companions | 5.00% | ~12,204 |
@@ -16,13 +16,13 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,204 |
 | DM intervention | 4.00% | ~9,763 |
 | Fireproof Wizardess | 4.00% | ~9,763 |
-| Livin' in a dwarven paradise | 3.00% | ~7,322 |
-| Way of the Wimp | 3.00% | ~7,322 |
-| The plot thickens... At the tavern | 3.00% | ~7,322 |
-| The demons' feast | 3.00% | ~7,322 |
-| The Great Library | 3.00% | ~7,322 |
-| The Woman in the High Castle | 3.00% | ~7,322 |
-| Oh, when I'll be level 10... | 3.00% | ~7,322 |
+| Livin' in a dwarven paradise | 3.00% | ~7,323 |
+| Way of the Wimp | 3.00% | ~7,323 |
+| The plot thickens... At the tavern | 3.00% | ~7,323 |
+| The demons' feast | 3.00% | ~7,323 |
+| The Great Library | 3.00% | ~7,323 |
+| The Woman in the High Castle | 3.00% | ~7,323 |
+| Oh, when I'll be level 10... | 3.00% | ~7,323 |
 | Shiny and Crôm | 2.00% | ~4,882 |
 | Torture and Sensibility | 2.00% | ~4,882 |
 | Urik's Depths | 2.00% | ~4,882 |
@@ -49,7 +49,7 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.80% | ~1,953 |
 | Holistic Adventuring Party | 0.70% | ~1,709 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,709 |
-| Law and Order | 0.60% | ~1,464 |
+| Law and Order | 0.60% | ~1,465 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,220 |
 | It's been a hard day's night | 0.50% | ~1,220 |
 | Friendly fire | 0.40% | ~976 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,079 (Ranked 65)  
+Progressed: 244,085 (Ranked 65)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,6 +301,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-20 | 243,748 | 7 |
 | 2023-12-21 | 243,905 | 7 |
 | 2023-12-22 | 244,079 | 7 |
+| 2023-12-23 | 244,085 | 7 |
 ## Awards
 Max (Character Customization): 250  (Ranked 274)  
 Sum: 529 (Ranked 327)  

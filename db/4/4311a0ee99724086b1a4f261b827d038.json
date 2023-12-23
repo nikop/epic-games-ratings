@@ -779,9 +779,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238995,
+  "EOS_Progressed": 239000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18434,6 +18434,11 @@
       "Time": "2023-12-22T23:06:01.5350379+00:00",
       "NumProgressed": 238995,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T00:11:00.8953171+00:00",
+      "NumProgressed": 239000,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18502,7 +18507,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50189
+      "UsersEstimate": 50190
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18630,7 +18635,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33459
+      "UsersEstimate": 33460
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18702,7 +18707,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59749
+      "UsersEstimate": 59750
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18717,7 +18722,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 238995,
+      "Progressed": 239000,
       "Completed": 0
     }
   ],
@@ -18725,8 +18730,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-22T22:59:54.201245+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:06:01.5350376+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:11:00.8953168+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:54.2012457+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:06:01.5351478+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:01:28.0901859+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:11:00.8954309+00:00"
 }

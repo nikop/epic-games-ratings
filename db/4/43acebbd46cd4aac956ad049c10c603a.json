@@ -6,8 +6,8 @@
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -224,7 +224,7 @@
   ],
   "EOS_Progressed": 1089,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3119,9 +3119,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 65
     },
     {
       "ID": "NewMorality",
@@ -3368,8 +3368,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-14T23:01:53.4520554+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:03:41.7639309+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:07:46.4324858+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:30.9141411+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:03:41.7639889+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:03:14.2221496+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:07:46.4325503+00:00"
 }

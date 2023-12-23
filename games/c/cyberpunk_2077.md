@@ -6,25 +6,25 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,607 |
-| Gun Fu | 8.00% | ~78,405 |
-| The Fool | 7.00% | ~68,604 |
+| V for Vendetta | 12.00% | ~117,608 |
+| Gun Fu | 8.00% | ~78,406 |
+| The Fool | 7.00% | ~68,605 |
 | Right Back At Ya | 6.00% | ~58,804 |
-| Full Body Conversion | 5.00% | ~49,003 |
-| The Lovers | 5.00% | ~49,003 |
-| Christmas Tree Attack | 4.00% | ~39,202 |
-| Stanislavski's Method | 4.00% | ~39,202 |
-| The Hermit | 4.00% | ~39,202 |
-| The Wheel of Fortune | 4.00% | ~39,202 |
-| True Soldier | 4.00% | ~39,202 |
-| All the President's Men | 4.00% | ~4,347 |
-| Arachnophobia | 4.00% | ~4,347 |
+| Full Body Conversion | 5.00% | ~49,004 |
+| The Lovers | 5.00% | ~49,004 |
+| Christmas Tree Attack | 4.00% | ~39,203 |
+| Stanislavski's Method | 4.00% | ~39,203 |
+| The Hermit | 4.00% | ~39,203 |
+| The Wheel of Fortune | 4.00% | ~39,203 |
+| True Soldier | 4.00% | ~39,203 |
+| All the President's Men | 4.00% | ~4,348 |
+| Arachnophobia | 4.00% | ~4,348 |
 | The Quick and the Dead | 3.00% | ~29,402 |
 | Life of the Road | 3.00% | ~29,402 |
 | The High Priestess | 3.00% | ~29,402 |
 | True Warrior | 3.00% | ~29,402 |
 | Legend of The Afterlife | 3.00% | ~29,402 |
-| Relic Ruler | 3.00% | ~3,260 |
+| Relic Ruler | 3.00% | ~3,261 |
 | Bushido and Chill | 2.00% | ~19,601 |
 | To Protect and Serve | 2.00% | ~19,601 |
 | Master Crafter | 2.00% | ~19,601 |
@@ -40,8 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 1.00% | ~1,087 |
 | Easy Come, Easy Go | 1.00% | ~1,087 |
 | To Bad Decisions! | 0.90% | ~8,821 |
-| Breathtaking | 0.80% | ~7,840 |
-| The Star | 0.80% | ~7,840 |
+| Breathtaking | 0.80% | ~7,841 |
+| The Star | 0.80% | ~7,841 |
 | Autojock | 0.60% | ~5,880 |
 | Temperance | 0.60% | ~5,880 |
 | The APB is Not Enough | 0.60% | ~652 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,059 (Ranked 16)  
+Progressed: 980,070 (Ranked 16)  
 Completed: 2,955 (0.30%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,9 +321,10 @@ Completed: 2,955 (0.30%) (Ranked 249)
 | 2023-12-20 | 979,279 | 2,948 |
 | 2023-12-21 | 979,668 | 2,950 |
 | 2023-12-22 | 980,059 | 2,955 |
+| 2023-12-23 | 980,070 | 2,955 |
 ## Awards
 Max (Character Customization): 126,294  (Ranked 8)  
-Sum: 437,314 (Ranked 9)  
+Sum: 437,444 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +334,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 26,643 |
 | This game is Highly Recommended | 25,485 |
 | This game has Amazing Storytelling | 25,058 |
-| This game is Extremely Fun | 24,708 |
+| This game is Extremely Fun | 24,838 |
 | This game has Amazing Characters | 24,665 |
 | This game is Relaxing | 23,887 |
 | This game has Quickly Understood Controls | 23,769 |
@@ -679,3 +680,4 @@ Diff (max vs sum): -1
 | 2023-12-20 | 4.66 | - | 125,560 | 433,348 |
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
 | 2023-12-22 | 4.66 | - | 126,294 | 437,314 |
+| 2023-12-23 | 4.66 | - | 126,294 | 437,444 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3813,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32549,
+  "EOS_Progressed": 32551,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23118,6 +23118,11 @@
       "Time": "2023-12-22T23:04:07.8071795+00:00",
       "NumProgressed": 32549,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-23T00:08:22.6368535+00:00",
+      "NumProgressed": 32551,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23129,7 +23134,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "Animated",
@@ -23137,7 +23142,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Back_Off",
@@ -23145,7 +23150,7 @@
       "Name": "Back Off",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Best_Insurance",
@@ -23153,7 +23158,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -23177,7 +23182,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Collector",
@@ -23209,7 +23214,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Discovery",
@@ -23217,7 +23222,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Dont_Need_These",
@@ -23233,7 +23238,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Efficient",
@@ -23257,7 +23262,7 @@
       "Name": "Fragile Panes",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Fully_Upgraded",
@@ -23265,7 +23270,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "GB_In_Training",
@@ -23273,7 +23278,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Ghost_Expert",
@@ -23289,7 +23294,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Legions",
@@ -23297,7 +23302,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Liability",
@@ -23305,7 +23310,7 @@
       "Name": "Liability",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Line_Em_Up",
@@ -23345,7 +23350,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Reckless",
@@ -23377,7 +23382,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Rivalry",
@@ -23385,7 +23390,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Seasoned",
@@ -23393,7 +23398,7 @@
       "Name": "Seasoned",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Side_Hustle",
@@ -23401,7 +23406,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Skilled",
@@ -23441,7 +23446,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Surprise",
@@ -23449,7 +23454,7 @@
       "Name": "Surprise!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Swift_Removers",
@@ -23465,7 +23470,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "Terrifying",
@@ -23473,7 +23478,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Therapeutic",
@@ -23536,7 +23541,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32549,
+      "Progressed": 32551,
       "Completed": 69
     }
   ],
@@ -23544,8 +23549,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:04:07.8071791+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:08:22.6368533+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:05.1146147+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:21.0716755+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:04:07.8072864+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:02:59.1708654+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:08:22.6369668+00:00"
 }

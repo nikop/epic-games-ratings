@@ -4,7 +4,7 @@
   "ProductSlug": "8doors-arums-afterlife-adventure",
   "Ranking_EOS_Progress": 814,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 565,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-08-19T12:30:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.6971824+00:00",
   "LastChanged": "2023-03-31T05:58:43.6971825+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.8858082+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:41.9759071+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:02:28.0119697+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:01:09.6155747+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:06:01.378558+00:00"
 }

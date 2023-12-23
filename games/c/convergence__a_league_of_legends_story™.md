@@ -1,19 +1,19 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.64 (Ranked 338)  
+Rating: 4.64 (Ranked 340)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 39.00% | ~417 |
-| Rail Rat | 30.00% | ~320 |
+| Rail Rat | 30.00% | ~321 |
 | The Mysterious Stranger | 29.00% | ~310 |
 | Immaculate Aim | 25.00% | ~267 |
-| Make Up For Lost Time | 24.00% | ~256 |
-| The Prince in Heels | 24.00% | ~256 |
-| The Brass Boss | 24.00% | ~256 |
+| Make Up For Lost Time | 24.00% | ~257 |
+| The Brass Boss | 24.00% | ~257 |
 | Time Flies | 23.00% | ~246 |
 | No, Thanks! | 23.00% | ~246 |
+| The Prince in Heels | 23.00% | ~246 |
 | Honest Mistake | 23.00% | ~246 |
 | Immaculate Aim | 23.00% | ~246 |
 | The Steel Shadow | 22.00% | ~235 |
@@ -21,10 +21,10 @@ Rating: 4.64 (Ranked 338)
 | Breaking Down Barriers | 22.00% | ~235 |
 | The Wicked Twins | 22.00% | ~235 |
 | Fast Learner | 22.00% | ~235 |
-| Golem Chaser | 21.00% | ~224 |
 | Right On Time | 20.00% | ~214 |
 | Like Clockwork | 20.00% | ~214 |
 | The Betrayer | 20.00% | ~214 |
+| Golem Chaser | 20.00% | ~214 |
 | The Loose Cannon | 19.00% | ~203 |
 | Check Your Pulse | 19.00% | ~203 |
 | The Man Who Shattered Time | 18.00% | ~192 |
@@ -37,15 +37,15 @@ Rating: 4.64 (Ranked 338)
 | Family Memories | 13.00% | ~139 |
 | Chaincrawler Explorer | 12.00% | ~128 |
 | Ask Questions Later | 12.00% | ~128 |
-| Sump Explorer | 11.00% | ~117 |
-| Syron for Hope | 11.00% | ~117 |
+| Sump Explorer | 11.00% | ~118 |
+| Syron for Hope | 11.00% | ~118 |
 | Factorywood Explorer | 10.00% | ~107 |
 | Theater Explorer | 10.00% | ~107 |
 | Cultivair Explorer | 9.00% | ~96 |
 | Fairgrounds Explorer | 9.00% | ~96 |
-| Corin Goes Home | 8.00% | ~85 |
-| Sartorialist | 8.00% | ~85 |
-| Entresol Explorer | 8.00% | ~85 |
+| Corin Goes Home | 8.00% | ~86 |
+| Sartorialist | 8.00% | ~86 |
+| Entresol Explorer | 8.00% | ~86 |
 | Golem Hunter | 7.00% | ~75 |
 | Clovemary for Remembering | 6.00% | ~64 |
 | Hexlock for Protection | 6.00% | ~64 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 338)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068 (Ranked 275)  
+Progressed: 1,069 (Ranked 275)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
+| 2023-12-23 | 1,069 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

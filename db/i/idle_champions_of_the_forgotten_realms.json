@@ -8921,10 +8921,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33016,
       "NumberOfAwardsMax": 5676
+    },
+    {
+      "Time": "2023-12-23T00:03:25.4113467+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33021,
+      "NumberOfAwardsMax": 5676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33016,
+  "NumberOfAwards": 33021,
   "NumberOfAwardsMax": 5676,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8962,7 +8968,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4274
+      "Count": 4279
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8971,9 +8977,9 @@
       "Count": 3583
     }
   ],
-  "EOS_Progressed": 243457,
+  "EOS_Progressed": 243483,
   "EOS_Completed": 2556,
-  "EOS_NewPlayers": 2655,
+  "EOS_NewPlayers": 2671,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36801,6 +36807,11 @@
       "Time": "2023-12-22T23:06:12.1007965+00:00",
       "NumProgressed": 243457,
       "NumCompleted": 2556
+    },
+    {
+      "Time": "2023-12-23T00:11:14.1647752+00:00",
+      "NumProgressed": 243483,
+      "NumCompleted": 2556
     }
   ],
   "TotalAchievements": 546,
@@ -41084,7 +41095,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "objective_completed_1352",
@@ -41092,7 +41103,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "objective_completed_1557",
@@ -41116,7 +41127,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "objective_completed_1563",
@@ -41179,21 +41190,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 209731,
+      "Progressed": 209757,
       "Completed": 4056
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243457,
+      "Progressed": 243483,
       "Completed": 2556
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-22T21:02:15.313472+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:06:12.1007962+00:00",
+  "LastChanged": "2023-12-23T00:03:25.4113465+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:11:14.1647748+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:38.9062501+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:06:12.1030681+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:03:25.4113473+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:11:14.1670355+00:00"
 }

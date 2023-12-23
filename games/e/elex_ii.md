@@ -11,9 +11,9 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 13.00% | ~9 |
 | Creator | 9.00% | ~6 |
 | Civilian | 7.00% | ~5 |
+| Long-Haul Flyer | 6.00% | ~4 |
 | Military Leader | 6.00% | ~4 |
 | Peddler | 4.00% | ~3 |
-| Long-Haul Flyer | 4.00% | ~3 |
 | Hotshot | 4.00% | ~3 |
 | Free as a Bird | 4.00% | ~3 |
 | Alb | 4.00% | ~3 |

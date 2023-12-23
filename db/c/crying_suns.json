@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472649,
+  "EOS_Progressed": 472650,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26128,6 +26128,11 @@
       "Time": "2023-12-22T23:06:08.6701481+00:00",
       "NumProgressed": 472649,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-23T00:11:10.4722035+00:00",
+      "NumProgressed": 472650,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26139,7 +26144,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70897
+      "UsersEstimate": 70898
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -26147,7 +26152,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70897
+      "UsersEstimate": 70898
     },
     {
       "ID": "achievement_first_death",
@@ -26171,7 +26176,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70897
+      "UsersEstimate": 70898
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -26227,7 +26232,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 311948
+      "UsersEstimate": 311949
     },
     {
       "ID": "achievement_story_landa",
@@ -26275,7 +26280,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33085
+      "UsersEstimate": 33086
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -26283,7 +26288,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33085
+      "UsersEstimate": 33086
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -26291,7 +26296,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51991
+      "UsersEstimate": 51992
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -26307,7 +26312,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70897
+      "UsersEstimate": 70898
     },
     {
       "ID": "achievement_story_neon_child",
@@ -26379,7 +26384,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33085
+      "UsersEstimate": 33086
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -26595,7 +26600,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184333
+      "UsersEstimate": 184334
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26611,7 +26616,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14179
+      "UsersEstimate": 14180
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -26627,7 +26632,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14179
+      "UsersEstimate": 14180
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -26699,7 +26704,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -26770,21 +26775,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16583,
+      "Progressed": 16584,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472649,
+      "Progressed": 472650,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:06:08.6701477+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:11:10.472203+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.1940108+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:58:23.0196653+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:06:08.6702925+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:59:10.7137288+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:11:10.4723542+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 1032,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 191,
-  "Ranking_EOS_Progress": 96,
+  "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 158,
@@ -5175,9 +5175,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 92351,
+  "EOS_Progressed": 92354,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28835,6 +28835,11 @@
       "Time": "2023-12-22T22:03:33.6606364+00:00",
       "NumProgressed": 92351,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-23T00:04:24.7618663+00:00",
+      "NumProgressed": 92354,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28884,9 +28889,9 @@
       "ID": "ACH_0015",
       "SetID": "3kam13l",
       "Name": "Legend Looter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_0016",
@@ -29173,13 +29178,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92351,
+      "Progressed": 92354,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20698,
+      "Progressed": 20701,
       "Completed": 15589
     }
   ],
@@ -29187,8 +29192,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-22T13:58:35.4645384+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:01:19.3711026+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:04:24.7618662+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:58:35.7563732+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:01:19.3712798+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:59:30.7066897+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:04:24.7619966+00:00"
 }

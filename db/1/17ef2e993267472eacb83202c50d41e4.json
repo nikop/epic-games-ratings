@@ -2,12 +2,12 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 969,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8950,
+  "EOS_Progressed": 8955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9223,6 +9223,11 @@
       "Time": "2023-12-22T21:09:56.8511147+00:00",
       "NumProgressed": 8950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T00:11:12.0851479+00:00",
+      "NumProgressed": 8955,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9235,7 +9240,7 @@
       "Name": "Upgraded Amplify Ability Damage to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ARUpgraded1",
@@ -9267,7 +9272,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "CEUpgraded1",
@@ -9283,7 +9288,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "CreditsSpent50000",
@@ -9307,7 +9312,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "EAUpgraded1",
@@ -9347,7 +9352,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "GamesPlayed1",
@@ -9355,7 +9360,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2776
     },
     {
       "ID": "GamesPlayed10",
@@ -9379,7 +9384,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "GamesWon10",
@@ -9521,9 +9526,9 @@
       "ID": "LMGUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the LMG to Level 3",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 716
     },
     {
       "ID": "LaserUpgraded1",
@@ -9603,7 +9608,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "MaxTowersKilled6",
@@ -9611,7 +9616,7 @@
       "Name": "Destroyed 6 Towers in a single match",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MinionKills200",
@@ -9643,7 +9648,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "NeutralKills200",
@@ -9731,7 +9736,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "SEUpgraded1",
@@ -9787,7 +9792,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "TPurchased1",
@@ -9811,7 +9816,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "WCUpgraded1",
@@ -9819,14 +9824,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8950,
+      "Progressed": 8955,
       "Completed": 1
     }
   ],
@@ -9834,8 +9839,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:06:10.1160927+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:11:12.0851477+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.3951341+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:09.8857403+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:06:10.1161878+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:00:20.7946435+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:11:12.085248+00:00"
 }

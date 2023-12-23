@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
@@ -2495,6 +2495,11 @@
       "Time": "2023-12-22T22:09:55.5185668+00:00",
       "NumProgressed": 691,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T00:10:33.9704743+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2563,7 +2568,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "achievement_17",
@@ -2579,7 +2584,7 @@
       "Name": "Perfect Round",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_2",
@@ -2619,7 +2624,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_7",
@@ -2635,7 +2640,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_9",
@@ -2650,13 +2655,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:05:41.7721676+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:10:33.9704739+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:04.0623721+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:07.4609587+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:05:41.7721882+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:01:48.224757+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:10:33.9704963+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1557,9 +1557,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244079,
+  "EOS_Progressed": 244085,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1123,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23292,6 +23292,11 @@
       "Time": "2023-12-22T23:05:59.2893847+00:00",
       "NumProgressed": 244079,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T00:10:57.6963949+00:00",
+      "NumProgressed": 244085,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23303,7 +23308,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "100Fail",
@@ -23335,7 +23340,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "BookCollection",
@@ -23367,7 +23372,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "Chapter4",
@@ -23375,7 +23380,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "Chapter5",
@@ -23383,7 +23388,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "Chapter6",
@@ -23455,7 +23460,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -23703,7 +23708,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21967
+      "UsersEstimate": 21968
     },
     {
       "ID": "DwarfElf15Support",
@@ -23751,7 +23756,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87868
+      "UsersEstimate": 87871
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23871,7 +23876,7 @@
       "Name": "Law and Order",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "Poster",
@@ -23983,7 +23988,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "WizardEpic",
@@ -24006,21 +24011,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244079,
+      "Progressed": 244085,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244079,
+      "Progressed": 244085,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-22T20:58:23.6126046+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:05:59.2893844+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:10:57.6963944+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:08.5726178+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:58:00.1320827+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:05:59.2895321+00:00"
+  "LastUpdate_Ratings": "2023-12-22T23:58:35.8355319+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:10:57.6965974+00:00"
 }

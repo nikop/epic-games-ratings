@@ -3721,9 +3721,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1060
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -3945,9 +3945,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 913
+      "UsersEstimate": 926
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -4113,9 +4113,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 604
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -4257,9 +4257,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 872
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -4322,8 +4322,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-22T13:05:42.3902052+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:02:07.9654494+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:05:32.7516824+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:36.0774459+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:02:07.9655412+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:03:21.702609+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:05:32.7518209+00:00"
 }

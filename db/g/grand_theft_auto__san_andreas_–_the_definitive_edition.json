@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 533,
-  "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 287,
+  "Ranking_Popularity": 220,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 82,
@@ -1835,18 +1835,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 775,
       "NumberOfAwardsMax": 473
+    },
+    {
+      "Time": "2023-12-23T00:00:25.0300439+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 785,
+      "NumberOfAwardsMax": 483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 775,
-  "NumberOfAwardsMax": 473,
+  "NumberOfAwards": 785,
+  "NumberOfAwardsMax": 483,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 473
+      "Count": 483
     },
     {
       "Text": "This game is Relaxing",
@@ -1903,9 +1909,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16205,
+  "EOS_Progressed": 16215,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1632,
+  "EOS_NewPlayers": 1638,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17188,6 +17194,11 @@
       "Time": "2023-12-22T23:05:52.276162+00:00",
       "NumProgressed": 16205,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-23T00:10:49.0045195+00:00",
+      "NumProgressed": 16215,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 35,
@@ -17199,7 +17210,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13126
+      "UsersEstimate": 13134
     },
     {
       "ID": "ACH02",
@@ -17207,7 +17218,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH03",
@@ -17215,7 +17226,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH04",
@@ -17247,7 +17258,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3081
     },
     {
       "ID": "ACH08",
@@ -17255,7 +17266,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8102
+      "UsersEstimate": 8108
     },
     {
       "ID": "ACH09",
@@ -17279,7 +17290,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH12",
@@ -17295,7 +17306,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2919
     },
     {
       "ID": "ACH14",
@@ -17303,7 +17314,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1622
     },
     {
       "ID": "ACH15",
@@ -17311,7 +17322,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH16",
@@ -17319,7 +17330,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ACH17",
@@ -17335,7 +17346,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH19",
@@ -17343,7 +17354,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH20",
@@ -17367,7 +17378,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "ACH23",
@@ -17375,7 +17386,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4054
     },
     {
       "ID": "ACH24",
@@ -17391,7 +17402,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH26",
@@ -17415,7 +17426,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACH29",
@@ -17423,7 +17434,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "ACH30",
@@ -17455,7 +17466,7 @@
       "Name": "Remastered",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH34",
@@ -17478,16 +17489,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16205,
+      "Progressed": 16215,
       "Completed": 62
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-22T19:58:55.7941097+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:05:52.2761615+00:00",
+  "LastChanged": "2023-12-23T00:00:25.0300438+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:10:49.0045193+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.5920887+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:13.1886302+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:05:52.2762503+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:00:25.0300442+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:10:49.0046343+00:00"
 }

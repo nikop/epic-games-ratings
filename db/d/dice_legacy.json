@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-12-22T21:03:01.9063384+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T00:04:13.6484511+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2533,7 +2538,7 @@
       "Name": "Ice and Fire",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CHALLENGE_BASEECONOMICSCENARIO",
@@ -2573,7 +2578,7 @@
       "Name": "Mad Engineers",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CHALLENGE_RANDOMPOPULATION",
@@ -2605,7 +2610,7 @@
       "Name": "Aesthetics",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DICE_ALL_CORRUPTED",
@@ -2629,7 +2634,7 @@
       "Name": "The experiment",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DIE_ASCEND",
@@ -2693,7 +2698,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -2717,7 +2722,7 @@
       "Name": "Greedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "PREVENTRIOT",
@@ -2733,7 +2738,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "SUMMON_BOSS",
@@ -2749,7 +2754,7 @@
       "Name": "We made it",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2763,9 +2768,9 @@
       "ID": "TRIPLE_FAIR",
       "SetID": "6ohhfoc",
       "Name": "Oktoberfest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TRIPLE_WORKSHOP_PRODUCTION",
@@ -2789,7 +2794,7 @@
       "Name": "The Council",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -2805,7 +2810,7 @@
       "Name": "The Corrupted",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WINMATCHWITH_KING",
@@ -2813,7 +2818,7 @@
       "Name": "The Stranded King",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -2821,7 +2826,7 @@
       "Name": "The Foul",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WINMATCHWITH_SAINT",
@@ -2837,7 +2842,7 @@
       "Name": "The Mad",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -2861,7 +2866,7 @@
       "Name": "Like the dream",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -2869,7 +2874,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2884,7 +2889,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 0
     }
   ],
@@ -2892,8 +2897,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:01:11.6873303+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:04:13.6484508+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:49.3421858+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:51.249845+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:01:11.687434+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:03:43.4297812+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:04:13.6485363+00:00"
 }

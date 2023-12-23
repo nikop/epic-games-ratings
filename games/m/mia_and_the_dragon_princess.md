@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Glass Act | 40.00% | ~38 |
 | Relight my Cannon | 39.00% | ~37 |
-| Tour Guide Extraordinaire | 37.00% | ~35 |
+| Tour Guide Extraordinaire | 38.00% | ~36 |
 | Explosive End | 25.00% | ~24 |
 | Snitch | 24.00% | ~23 |
 | A Box of Tricks | 23.00% | ~22 |

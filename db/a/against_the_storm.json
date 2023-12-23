@@ -3557,9 +3557,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 18944,
+  "EOS_Progressed": 18948,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16752,6 +16752,11 @@
       "Time": "2023-12-22T23:04:30.1593586+00:00",
       "NumProgressed": 18944,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-23T00:08:54.8891676+00:00",
+      "NumProgressed": 18948,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16868,7 +16873,7 @@
       "Name": "Against All Odds",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "WinNearArmory",
@@ -16948,7 +16953,7 @@
       "Name": "Haunted Forest",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "WinNearLevitating",
@@ -17235,15 +17240,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18944,
+      "Progressed": 18948,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-22T23:00:20.7079421+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:04:30.1593581+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:08:54.8891673+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-22T23:00:20.7079426+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:04:30.15954+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:02:58.6928877+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:08:54.8892518+00:00"
 }

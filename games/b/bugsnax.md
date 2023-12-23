@@ -6,26 +6,26 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,023 |
-| Gone Home | 93.00% | ~26,868 |
-| Wonderfalls | 87.00% | ~25,134 |
-| Got to Catch a Few | 77.00% | ~22,245 |
+| Everybody Gets One | 97.00% | ~28,024 |
+| Gone Home | 93.00% | ~26,869 |
+| Wonderfalls | 87.00% | ~25,135 |
+| Got to Catch a Few | 77.00% | ~22,246 |
 | Double Trapper | 75.00% | ~21,668 |
-| I'm Stuffed | 69.00% | ~19,934 |
-| Got to Catch a Lot | 66.00% | ~19,067 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,623 |
-| In the Arms of the Gramble | 59.00% | ~17,045 |
-| Know Thy Neighbor | 59.00% | ~17,045 |
-| Perf Dirt | 57.00% | ~16,467 |
-| Launch Party | 56.00% | ~16,178 |
+| I'm Stuffed | 69.00% | ~19,935 |
+| Got to Catch a Lot | 66.00% | ~19,068 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,624 |
+| In the Arms of the Gramble | 59.00% | ~17,046 |
+| Know Thy Neighbor | 59.00% | ~17,046 |
+| Perf Dirt | 57.00% | ~16,468 |
+| Launch Party | 56.00% | ~16,179 |
 | Vacation's End | 53.00% | ~15,312 |
-| Bossy Bugs | 46.00% | ~13,289 |
-| Survivor | 45.00% | ~13,000 |
+| Bossy Bugs | 46.00% | ~13,290 |
+| Survivor | 45.00% | ~13,001 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,423 |
 | Sidetracked | 40.00% | ~11,556 |
-| Film Buff | 38.00% | ~10,978 |
-| Combo Meal | 38.00% | ~10,978 |
-| Midnight Snak | 36.00% | ~10,400 |
+| Film Buff | 38.00% | ~10,979 |
+| Combo Meal | 38.00% | ~10,979 |
+| Midnight Snak | 36.00% | ~10,401 |
 | Candid Cryptid | 35.00% | ~10,112 |
 | Got to Catch Them All | 32.00% | ~9,245 |
 | Deep Impact | 23.00% | ~6,645 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,600 |
 | Dapper Capper | 7.00% | ~2,022 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,890 (Ranked 135)  
+Progressed: 28,891 (Ranked 135)  
 Completed: 1,406 (4.87%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,6 +283,7 @@ Completed: 1,406 (4.87%) (Ranked 77)
 | 2023-12-20 | 28,862 | 1,402 |
 | 2023-12-21 | 28,878 | 1,405 |
 | 2023-12-22 | 28,890 | 1,406 |
+| 2023-12-23 | 28,891 | 1,406 |
 ## Awards
 Max (Amazing Storytelling): 44  (Ranked 462)  
 Sum: 372 (Ranked 354)  

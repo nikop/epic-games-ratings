@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 969,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 174,
@@ -607,9 +607,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10256,
+  "EOS_Progressed": 10260,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -13172,6 +13172,11 @@
       "Time": "2023-12-22T23:02:15.8223411+00:00",
       "NumProgressed": 10256,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-23T00:05:43.9793616+00:00",
+      "NumProgressed": 10260,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 29,
@@ -13183,7 +13188,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8512
+      "UsersEstimate": 8516
     },
     {
       "ID": "ACH02",
@@ -13191,7 +13196,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "ACH03",
@@ -13207,7 +13212,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3899
     },
     {
       "ID": "ACH05",
@@ -13223,7 +13228,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH07",
@@ -13255,7 +13260,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ACH11",
@@ -13303,7 +13308,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "ACH17",
@@ -13311,7 +13316,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH18",
@@ -13414,7 +13419,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10256,
+      "Progressed": 10260,
       "Completed": 65
     }
   ],
@@ -13422,8 +13427,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-22T13:02:17.2930239+00:00",
-  "LastChanged_Achievements": "2023-12-22T23:02:15.8223405+00:00",
+  "LastChanged_Achievements": "2023-12-23T00:05:43.9793614+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:35.1384791+00:00",
-  "LastUpdate_Ratings": "2023-12-22T22:59:30.8537166+00:00",
-  "LastUpdate_Achievements": "2023-12-22T23:02:15.8224256+00:00"
+  "LastUpdate_Ratings": "2023-12-23T00:00:52.2951058+00:00",
+  "LastUpdate_Achievements": "2023-12-23T00:05:43.9794368+00:00"
 }
