@@ -23,7 +23,7 @@
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 21.59% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
-| 24 | [The Riflemen](games/t/the_riflemen.md) | 19.64% |
+| 24 | [The Riflemen](games/t/the_riflemen.md) | 19.63% |
 | 25 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.06% |
 | 26 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 27 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 16.67% |
@@ -155,7 +155,7 @@
 | 153 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 154 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.28% |
 | 155 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.26% |
-| 156 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.25% |
+| 156 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.24% |
 | 157 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.22% |
 | 158 | [Iron Danger](games/i/iron_danger.md) | 1.19% |
 | 159 | [The Devil's Face](games/t/the_devil's_face.md) | 1.17% |
@@ -250,7 +250,7 @@
 | 246 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.31% |
 | 249 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 249 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.30% |
-| 249 | [Them and Us](games/t/them_and_us.md) | 0.30% |
+| 251 | [Them and Us](games/t/them_and_us.md) | 0.29% |
 | 252 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.28% |
 | 252 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
 | 254 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
@@ -273,10 +273,10 @@
 | 270 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 272 | [Dead Space](games/d/dead_space.md) | 0.19% |
 | 272 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 272 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.19% |
-| 275 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 275 | [Scathe](games/s/scathe.md) | 0.18% |
-| 275 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.18% |
+| 274 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 274 | [Scathe](games/s/scathe.md) | 0.18% |
+| 274 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.18% |
+| 274 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.18% |
 | 278 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.17% |
 | 278 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.17% |
 | 278 | [Lost Ruins](games/l/lost_ruins.md) | 0.17% |
