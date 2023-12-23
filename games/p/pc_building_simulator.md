@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,762,215 |
-| Easy to forget | 46.00% | ~1,654,324 |
-| Back in the black | 39.00% | ~1,402,579 |
-| That's what I'm talking about | 29.00% | ~1,042,944 |
-| The Best of Both Worlds | 25.00% | ~899,089 |
-| Get your wings | 20.00% | ~719,271 |
-| Double trouble | 16.00% | ~575,417 |
-| Smashing it | 11.00% | ~395,599 |
-| But can it run Crysis? | 9.00% | ~323,672 |
-| My favourite feature... | 9.00% | ~323,672 |
-| From humble beginnings... | 7.00% | ~251,745 |
-| Customer satisfaction | 7.00% | ~251,745 |
-| Keeping things neat | 4.00% | ~143,854 |
-| Seems you're pretty good at this | 4.00% | ~143,854 |
-| Bending over backwards | 4.00% | ~143,854 |
-| Triple threat | 3.00% | ~107,891 |
-| You rock at this! | 3.00% | ~107,891 |
-| Your music sucks | 3.00% | ~107,891 |
-| I'm broke, Uncle! | 2.00% | ~71,927 |
-| Maybe you should try something else? | 2.00% | ~71,927 |
-| Taking care of business | 2.00% | ~71,927 |
-| Things are under control | 2.00% | ~71,927 |
-| Perfection | 2.00% | ~71,927 |
-| Calling in Sick | 2.00% | ~71,927 |
+| You need to plug it in... | 49.00% | ~1,762,230 |
+| Easy to forget | 46.00% | ~1,654,338 |
+| Back in the black | 39.00% | ~1,402,591 |
+| That's what I'm talking about | 29.00% | ~1,042,952 |
+| The Best of Both Worlds | 25.00% | ~899,097 |
+| Get your wings | 20.00% | ~719,277 |
+| Double trouble | 16.00% | ~575,422 |
+| Smashing it | 11.00% | ~395,603 |
+| But can it run Crysis? | 9.00% | ~323,675 |
+| My favourite feature... | 9.00% | ~323,675 |
+| From humble beginnings... | 7.00% | ~251,747 |
+| Customer satisfaction | 7.00% | ~251,747 |
+| Keeping things neat | 4.00% | ~143,855 |
+| Seems you're pretty good at this | 4.00% | ~143,855 |
+| Bending over backwards | 4.00% | ~143,855 |
+| Triple threat | 3.00% | ~107,892 |
+| You rock at this! | 3.00% | ~107,892 |
+| Your music sucks | 3.00% | ~107,892 |
+| I'm broke, Uncle! | 2.00% | ~71,928 |
+| Maybe you should try something else? | 2.00% | ~71,928 |
+| Taking care of business | 2.00% | ~71,928 |
+| Things are under control | 2.00% | ~71,928 |
+| Perfection | 2.00% | ~71,928 |
+| Calling in Sick | 2.00% | ~71,928 |
 | Overvolted | 1.00% | ~35,964 |
 | If you fail the first time... | 1.00% | ~35,964 |
 | Amazonian | 1.00% | ~35,964 |
@@ -38,11 +38,11 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,964 |
 | Majority Shareholder | 1.00% | ~35,964 |
 | Owner | 1.00% | ~35,964 |
-| Work ethic 101 | 0.70% | ~25,174 |
+| Work ethic 101 | 0.70% | ~25,175 |
 | Building momentum | 0.60% | ~21,578 |
 | Lead by example | 0.60% | ~21,578 |
 | Treat yourself - RAM | 0.50% | ~17,982 |
-| Mr big business | 0.40% | ~14,385 |
+| Mr big business | 0.40% | ~14,386 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,789 |
 | Mister Big | 0.30% | ~10,789 |
 | Getting your feet wet | 0.30% | ~10,789 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,596 |
 | Treat yourself - GPU | 0.10% | ~3,596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,596,357 (Ranked 5)  
+Progressed: 3,596,387 (Ranked 5)  
 Completed: 39 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 39 (0.00%) (Ranked 386)
 | 2023-12-20 | 3,594,681 | 39 |
 | 2023-12-21 | 3,595,238 | 39 |
 | 2023-12-22 | 3,595,832 | 39 |
-| 2023-12-23 | 3,596,357 | 39 |
+| 2023-12-23 | 3,596,387 | 39 |
 ## Awards
 Max (Great for Beginners): 1,121  (Ranked 147)  
-Sum: 8,234 (Ranked 107)  
+Sum: 8,235 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 40
 | This game is Relaxing | 1,003 |
 | This game has Quickly Understood Controls | 963 |
 | This game is Highly Recommended | 927 |
-| This game has Amazing Storytelling | 837 |
+| This game has Amazing Storytelling | 838 |
 | This game has Amazing Characters | 681 |
 | This game has a Creative Community | 667 |
 | This game has Obsessive Gameplay | 664 |
@@ -614,4 +614,4 @@ Diff (max vs sum): 40
 | 2023-12-20 | 4.66 | - | 1,121 | 8,224 |
 | 2023-12-21 | 4.66 | - | 1,121 | 8,231 |
 | 2023-12-22 | 4.66 | - | 1,121 | 8,233 |
-| 2023-12-23 | 4.66 | - | 1,121 | 8,234 |
+| 2023-12-23 | 4.66 | - | 1,121 | 8,235 |

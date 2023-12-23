@@ -6,7 +6,7 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 387,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
@@ -311,11 +311,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -846,6 +846,11 @@
       "Time": "2023-12-23T20:03:15.6311439+00:00",
       "NumProgressed": 273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T21:03:35.4141977+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -858,15 +863,15 @@
       "Name": "Robot encyclopedia",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
       "SetID": "biiejkc",
       "Name": "Are you ready now?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -898,7 +903,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -914,7 +919,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -992,9 +997,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1056,9 +1061,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1072,9 +1077,9 @@
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1113,15 +1118,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:03:15.6311437+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:03:35.4141975+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:57:36.5459082+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:03:15.6311649+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:57:42.0043271+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:03:35.4142146+00:00"
 }

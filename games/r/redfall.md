@@ -6,8 +6,8 @@ Rating: 3.56 (Ranked 1,066)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 12.00% | ~242 |
-| Home Is Where the Heart Is | 8.00% | ~161 |
-| Catch and Release | 8.00% | ~161 |
+| Catch and Release | 9.00% | ~182 |
+| Home Is Where the Heart Is | 8.00% | ~162 |
 | ICU | 7.00% | ~141 |
 | Wounded Whispers | 7.00% | ~141 |
 | Blood Will Have Blood | 6.00% | ~121 |
@@ -21,7 +21,7 @@ Rating: 3.56 (Ranked 1,066)
 | Grounded | 4.00% | ~81 |
 | Heart Attack | 4.00% | ~81 |
 | Skin of Their Teeth | 4.00% | ~81 |
-| Bad Wiring | 3.00% | ~60 |
+| Bad Wiring | 3.00% | ~61 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Sic Transit Umbra | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
@@ -42,12 +42,12 @@ Rating: 3.56 (Ranked 1,066)
 | Block Party | 0.80% | ~16 |
 | Curious Finch | 0.80% | ~16 |
 | What Lies Below | 0.50% | ~10 |
+| Empty Nest Syndrome | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
-| Empty Nest Syndrome | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Sisterhood | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,066)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,015 (Ranked 237)  
+Progressed: 2,019 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 2,015 | 0 |
+| 2023-12-23 | 2,019 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

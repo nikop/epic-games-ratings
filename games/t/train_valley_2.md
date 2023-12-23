@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~311,024 |
-| Full garage | 61.00% | ~259,897 |
-| To the eyeballs! | 51.00% | ~217,291 |
-| Individual delivery | 47.00% | ~200,248 |
-| Non-Stop | 45.00% | ~191,727 |
-| Juggler | 36.00% | ~153,382 |
-| Forgot something | 35.00% | ~149,121 |
-| Close call! | 30.00% | ~127,818 |
-| Get out my way | 28.00% | ~119,297 |
-| Common cause | 26.00% | ~110,776 |
-| Critical care | 26.00% | ~110,776 |
-| Mega-railroad | 23.00% | ~97,994 |
-| Upgrade complete | 23.00% | ~97,994 |
-| Just in time! | 18.00% | ~76,691 |
-| Builder | 17.00% | ~72,430 |
-| Long Haul | 17.00% | ~72,318 |
-| Steam Age | 16.00% | ~68,170 |
-| Multilevel road | 15.00% | ~63,909 |
-| Bridgemania | 14.00% | ~59,648 |
-| Need to think | 14.00% | ~59,648 |
-| The Tortoise | 12.00% | ~51,127 |
-| Beginner | 11.00% | ~46,867 |
-| Without a lunch break | 11.00% | ~46,867 |
-| One way | 10.00% | ~42,606 |
-| Relocation | 10.00% | ~42,606 |
-| Industrial Age | 9.00% | ~38,345 |
-| Just One More Valley | 9.00% | ~38,286 |
-| Prick of conscience | 8.00% | ~34,085 |
-| Missed it! | 7.00% | ~29,824 |
+| Dealmaker | 73.00% | ~311,033 |
+| Full garage | 61.00% | ~259,905 |
+| To the eyeballs! | 51.00% | ~217,297 |
+| Individual delivery | 47.00% | ~200,254 |
+| Non-Stop | 45.00% | ~191,733 |
+| Juggler | 36.00% | ~153,386 |
+| Forgot something | 35.00% | ~149,126 |
+| Close call! | 30.00% | ~127,822 |
+| Get out my way | 28.00% | ~119,300 |
+| Common cause | 26.00% | ~110,779 |
+| Critical care | 26.00% | ~110,779 |
+| Mega-railroad | 23.00% | ~97,997 |
+| Upgrade complete | 23.00% | ~97,997 |
+| Just in time! | 18.00% | ~76,693 |
+| Builder | 17.00% | ~72,432 |
+| Long Haul | 17.00% | ~72,320 |
+| Steam Age | 16.00% | ~68,172 |
+| Multilevel road | 15.00% | ~63,911 |
+| Bridgemania | 14.00% | ~59,650 |
+| Need to think | 14.00% | ~59,650 |
+| The Tortoise | 12.00% | ~51,129 |
+| Beginner | 11.00% | ~46,868 |
+| Without a lunch break | 11.00% | ~46,868 |
+| One way | 10.00% | ~42,607 |
+| Relocation | 10.00% | ~42,607 |
+| Industrial Age | 9.00% | ~38,347 |
+| Just One More Valley | 9.00% | ~38,287 |
+| Prick of conscience | 8.00% | ~34,086 |
+| Missed it! | 7.00% | ~29,825 |
 | At the last moment! | 6.00% | ~25,564 |
 | Overseer | 6.00% | ~25,564 |
-| Highlander | 5.00% | ~21,303 |
-| Jewelry accuracy | 5.00% | ~21,303 |
-| Stargazer | 5.00% | ~21,303 |
-| Bridge builder | 4.00% | ~17,042 |
-| Electrical Age | 4.00% | ~17,042 |
-| Engineer | 4.00% | ~17,042 |
-| Large construction | 4.00% | ~17,042 |
-| Squander | 4.00% | ~17,042 |
+| Highlander | 5.00% | ~21,304 |
+| Jewelry accuracy | 5.00% | ~21,304 |
+| Stargazer | 5.00% | ~21,304 |
+| Bridge builder | 4.00% | ~17,043 |
+| Electrical Age | 4.00% | ~17,043 |
+| Engineer | 4.00% | ~17,043 |
+| Large construction | 4.00% | ~17,043 |
+| Squander | 4.00% | ~17,043 |
 | Globalisation Age | 3.00% | ~12,782 |
 | Living it large | 3.00% | ~12,782 |
 | Sabotage | 3.00% | ~12,782 |
@@ -62,8 +62,8 @@ Number of Ratings: 87  (23.09.2022)
 | Metro builder | 1.00% | ~4,261 |
 | Ouroboros | 1.00% | ~4,261 |
 | Space Age | 1.00% | ~4,261 |
-| BBQ | 0.80% | ~3,408 |
-| Miscalculation | 0.80% | ~3,408 |
+| BBQ | 0.80% | ~3,409 |
+| Miscalculation | 0.80% | ~3,409 |
 | Voyager | 0.60% | ~2,556 |
 | Railroad tycoon | 0.50% | ~2,130 |
 | It's no coincidence | 0.40% | ~1,704 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~425 |
 | World Zapper | 0.10% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,060 (Ranked 45)  
+Progressed: 426,073 (Ranked 45)  
 Completed: 23 (0.01%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 23 (0.01%) (Ranked 363)
 | 2023-12-20 | 425,102 | 23 |
 | 2023-12-21 | 425,381 | 23 |
 | 2023-12-22 | 425,705 | 23 |
-| 2023-12-23 | 426,060 | 23 |
+| 2023-12-23 | 426,073 | 23 |
 ## Awards
 Max (Challenging Puzzles): 980  (Ranked 160)  
 Sum: 2,023 (Ranked 215)  

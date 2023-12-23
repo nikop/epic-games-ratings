@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 856,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3692,6 +3692,11 @@
       "Time": "2023-12-23T18:09:27.0244969+00:00",
       "NumProgressed": 854,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:09:35.9986743+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3749,9 +3754,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 120
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3879,7 +3884,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "Packing20",
@@ -3901,9 +3906,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 214
     },
     {
       "ID": "RecipeDifferent30",
@@ -3959,7 +3964,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "TrattoriaSet",
@@ -4022,7 +4027,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 856,
       "Completed": 0
     }
   ],
@@ -4030,8 +4035,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:09:12.651605+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:09:35.9986741+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:31.9021331+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:00:04.8190623+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:09:12.6516603+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:00:13.2628786+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:09:35.9987086+00:00"
 }

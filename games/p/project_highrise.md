@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~246 |
-| Starting Skyward | 52.00% | ~221 |
+| In the Black | 58.00% | ~247 |
+| Starting Skyward | 52.00% | ~222 |
 | Grime is Not Good | 46.00% | ~196 |
 | Floor Galore | 40.00% | ~170 |
-| Dinner Dash | 40.00% | ~170 |
 | Campaign Launch | 39.00% | ~166 |
+| Dinner Dash | 39.00% | ~166 |
 | Need a Consult | 36.00% | ~153 |
-| Upgrade Unlock | 36.00% | ~153 |
 | It's Technical | 36.00% | ~153 |
+| Upgrade Unlock | 35.00% | ~149 |
 | Delegate Maintenance | 32.00% | ~136 |
 | Destination Destiny | 31.00% | ~132 |
 | Proper Walls | 30.00% | ~128 |
@@ -29,8 +29,8 @@
 | Emporium Empire | 19.00% | ~81 |
 | We Don't Need No Education | 19.00% | ~81 |
 | Get Electrified | 19.00% | ~81 |
-| Rehab Expert | 18.00% | ~76 |
-| Tasty Profits | 18.00% | ~76 |
+| Rehab Expert | 18.00% | ~77 |
+| Tasty Profits | 18.00% | ~77 |
 | Established Fame | 17.00% | ~72 |
 | Under One Roof | 15.00% | ~64 |
 | Cashflow Chief | 15.00% | ~64 |
@@ -39,9 +39,9 @@
 | Boutique Benefits | 12.00% | ~51 |
 | Terrifically Trashed | 12.00% | ~51 |
 | Thrilled Tenants | 12.00% | ~51 |
-| Aestheticly Pleased | 10.00% | ~42 |
-| 28 Days Later | 10.00% | ~42 |
-| Swimming in Surplus | 10.00% | ~42 |
+| Aestheticly Pleased | 10.00% | ~43 |
+| 28 Days Later | 10.00% | ~43 |
+| Swimming in Surplus | 10.00% | ~43 |
 | Master of Puppets | 9.00% | ~38 |
 | Refined Palates | 9.00% | ~38 |
 | First 100 Days | 8.00% | ~34 |
@@ -69,14 +69,14 @@
 | Luxury Boutiques | 3.00% | ~13 |
 | Three of a Kind | 3.00% | ~13 |
 | Four of a Kind | 3.00% | ~13 |
-| Loft Life | 2.00% | ~8 |
-| Glut of Gastronomy | 2.00% | ~8 |
-| Plebs Are Needed | 2.00% | ~8 |
-| Royal Flush | 2.00% | ~8 |
-| The King of Cool | 2.00% | ~8 |
-| In the Money | 2.00% | ~8 |
-| It is Payday | 2.00% | ~8 |
-| Scenario Success | 2.00% | ~8 |
+| Loft Life | 2.00% | ~9 |
+| Glut of Gastronomy | 2.00% | ~9 |
+| Plebs Are Needed | 2.00% | ~9 |
+| Royal Flush | 2.00% | ~9 |
+| The King of Cool | 2.00% | ~9 |
+| In the Money | 2.00% | ~9 |
+| It is Payday | 2.00% | ~9 |
+| Scenario Success | 2.00% | ~9 |
 | Curated Class | 1.00% | ~4 |
 | Full House | 1.00% | ~4 |
 | Such Great Heights | 1.00% | ~4 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 344)  
+Progressed: 426 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 404 | 0 |
 | 2023-12-21 | 413 | 0 |
 | 2023-12-22 | 417 | 0 |
-| 2023-12-23 | 425 | 0 |
+| 2023-12-23 | 426 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

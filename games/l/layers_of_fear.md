@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 81.00% | ~150 |
-| A piece of the story | 58.00% | ~107 |
-| Wanderer | 56.00% | ~104 |
-| It's covered up for a reason | 48.00% | ~89 |
-| Scraps of love | 44.00% | ~81 |
-| The artist’s impression | 42.00% | ~78 |
-| Do what you have to | 41.00% | ~76 |
-| Sign of weakness | 36.00% | ~67 |
-| Refuse to look | 33.00% | ~61 |
-| Face your fears | 26.00% | ~48 |
-| Finished it | 26.00% | ~48 |
+| Something important | 81.00% | ~153 |
+| A piece of the story | 57.00% | ~108 |
+| Wanderer | 54.00% | ~102 |
+| It's covered up for a reason | 48.00% | ~91 |
+| Scraps of love | 44.00% | ~83 |
+| Do what you have to | 41.00% | ~77 |
+| The artist’s impression | 41.00% | ~77 |
+| Sign of weakness | 36.00% | ~68 |
+| Refuse to look | 32.00% | ~60 |
+| Face your fears | 26.00% | ~49 |
+| Finished it | 25.00% | ~47 |
 | Whispers long forgotten | 14.00% | ~26 |
-| A Slice of Life | 10.00% | ~18 |
-| Debut | 10.00% | ~18 |
-| Playtime | 10.00% | ~18 |
-| The art of movement | 10.00% | ~18 |
-| Tough conversation | 10.00% | ~18 |
+| Tough conversation | 11.00% | ~21 |
+| A Slice of Life | 10.00% | ~19 |
+| Debut | 10.00% | ~19 |
+| Playtime | 10.00% | ~19 |
+| The art of movement | 10.00% | ~19 |
 | Sound Bite | 9.00% | ~17 |
-| The tragedy unfolds | 9.00% | ~17 |
-| A new way | 8.00% | ~15 |
 | Another perspective | 8.00% | ~15 |
 | First steps | 8.00% | ~15 |
 | Lights! Camera! Action! | 8.00% | ~15 |
-| True Reflection | 8.00% | ~15 |
+| The tragedy unfolds | 8.00% | ~15 |
+| A new way | 7.00% | ~13 |
 | Breaking free | 7.00% | ~13 |
+| True Reflection | 7.00% | ~13 |
 | Casting Finished | 6.00% | ~11 |
 | Heavy Burden | 6.00% | ~11 |
+| Instinct of self-preservation | 5.00% | ~9 |
 | Fisherman | 5.00% | ~9 |
-| We Are Not Alone | 4.00% | ~7 |
-| Instinct of self-preservation | 4.00% | ~7 |
+| We Are Not Alone | 4.00% | ~8 |
 | The Perfect Storm | 3.00% | ~6 |
 | Something to think about | 2.00% | ~4 |
 | I remember It Like Was Yesterday | 2.00% | ~4 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 413)  
+Progressed: 189 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,4 +118,4 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 162 | 0 |
 | 2023-12-21 | 175 | 0 |
 | 2023-12-22 | 179 | 0 |
-| 2023-12-23 | 185 | 0 |
+| 2023-12-23 | 189 | 0 |

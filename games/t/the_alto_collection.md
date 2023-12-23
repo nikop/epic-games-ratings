@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,904 |
-| Finding Your Footing | 25.00% | ~12,874 |
-| Nomad | 17.00% | ~8,755 |
-| Picking Up Speed | 15.00% | ~7,725 |
-| Welcome Maya | 14.00% | ~7,210 |
-| Scout | 11.00% | ~5,665 |
-| Sightseer | 11.00% | ~5,665 |
-| Amateur | 10.00% | ~5,150 |
-| Unlock Maya | 8.00% | ~4,120 |
-| Wanderer | 8.00% | ~4,120 |
+| Rookie | 27.00% | ~13,907 |
+| Finding Your Footing | 25.00% | ~12,877 |
+| Nomad | 17.00% | ~8,756 |
+| Picking Up Speed | 15.00% | ~7,726 |
+| Welcome Maya | 14.00% | ~7,211 |
+| Scout | 11.00% | ~5,666 |
+| Sightseer | 11.00% | ~5,666 |
+| Amateur | 10.00% | ~5,151 |
+| Unlock Maya | 8.00% | ~4,121 |
+| Wanderer | 8.00% | ~4,121 |
 | Enter Paz | 7.00% | ~3,605 |
 | Aviator | 6.00% | ~3,090 |
 | My Little Friend | 5.00% | ~2,575 |
@@ -36,17 +36,17 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~515 |
 | Introducing Sumara | 1.00% | ~515 |
 | Vandal | 1.00% | ~515 |
-| Unlock Felipe | 0.90% | ~463 |
+| Unlock Felipe | 0.90% | ~464 |
 | Adventurer | 0.80% | ~412 |
-| Unlock Tupa | 0.50% | ~257 |
-| Master Of The Sands | 0.30% | ~154 |
+| Unlock Tupa | 0.50% | ~258 |
+| Master Of The Sands | 0.30% | ~155 |
 | Master | 0.20% | ~103 |
 | Survivalist | 0.20% | ~103 |
-| Life Aquatic | 0.10% | ~51 |
-| The Ultimate Challenge | 0.10% | ~51 |
-| Windswept | 0.10% | ~51 |
+| Life Aquatic | 0.10% | ~52 |
+| The Ultimate Challenge | 0.10% | ~52 |
+| Windswept | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,498 (Ranked 119)  
+Progressed: 51,507 (Ranked 119)  
 Completed: 5 (0.01%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 5 (0.01%) (Ranked 363)
 | 2023-12-20 | 51,064 | 5 |
 | 2023-12-21 | 51,212 | 5 |
 | 2023-12-22 | 51,366 | 5 |
-| 2023-12-23 | 51,498 | 5 |
+| 2023-12-23 | 51,507 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 448)  
 Sum: 388 (Ranked 351)  

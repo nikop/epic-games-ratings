@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 882,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 380,
+  "Ranking_Popularity": 572,
+  "Ranking_PopularitySum": 572,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2023-12-23T20:08:22.3369625+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:08:45.0550588+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -886,7 +891,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CareerAllChallenges",
@@ -918,7 +923,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CareerChamp4",
@@ -940,9 +945,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "CollectVehiclesA",
@@ -956,9 +961,9 @@
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "CreditsEarnedA",
@@ -996,9 +1001,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "PlayerRankB",
@@ -1006,7 +1011,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "PlayerRankC",
@@ -1014,7 +1019,7 @@
       "Name": "Showing Some Dedication",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RocketSpeedReached",
@@ -1030,7 +1035,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1038,14 +1043,14 @@
       "Name": "Maniac Driver",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
@@ -1053,8 +1058,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:08:22.3369622+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:08:45.0550586+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:03.0967517+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:40.4458503+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:08:22.3369816+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:47.2788124+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:08:45.055078+00:00"
 }

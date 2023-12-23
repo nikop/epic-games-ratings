@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1102,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2919,6 +2919,11 @@
       "Time": "2023-12-23T19:06:08.0736583+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T21:06:32.0518373+00:00",
+      "NumProgressed": 1102,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -2937,9 +2942,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 264
     },
     {
       "ID": "AnthropicHills",
@@ -2971,7 +2976,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "BreakTheLoop",
@@ -2987,7 +2992,7 @@
       "Name": "Bridge Builder",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ChasingTheLight",
@@ -3115,7 +3120,7 @@
       "Name": "Lord of the Files",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "LostMarshes",
@@ -3161,9 +3166,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "NewMorality",
@@ -3187,7 +3192,7 @@
       "Name": "Overload",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Persistent",
@@ -3219,7 +3224,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "RenaissanceRobot",
@@ -3251,7 +3256,7 @@
       "Name": "Single Rod",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Sinner",
@@ -3313,9 +3318,9 @@
       "ID": "TheHardWay",
       "SetID": "1n308hc",
       "Name": "The Hard Way",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TheSpark",
@@ -3339,7 +3344,7 @@
       "Name": "The Word Endures",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "TouchGrass",
@@ -3402,7 +3407,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1102,
       "Completed": 2
     }
   ],
@@ -3410,8 +3415,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:06:07.8648143+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:06:32.0518371+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:57:33.1042222+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:06:07.8648732+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:57:38.7045498+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:06:32.0518874+00:00"
 }

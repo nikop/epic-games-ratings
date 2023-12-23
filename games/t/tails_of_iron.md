@@ -5,11 +5,12 @@ Rating: 4.56 (Ranked 496)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Complete Guard Faction | 0.80% | ~18 |
 | The Bright Fir | 0.80% | ~7 |
-| Complete Guard Faction | 0.70% | ~16 |
-| Become King | 0.60% | ~14 |
+| Become King | 0.70% | ~16 |
 | Shield Maiden Yellow Tongue | 0.60% | ~5 |
 | End of the Mozis | 0.50% | ~11 |
+| Defeat 25 Frogs | 0.50% | ~11 |
 | Meet the Creatures from the Deep | 0.50% | ~11 |
 | Throne Room Fit For A King | 0.50% | ~11 |
 | Return Power To The Depths | 0.50% | ~11 |
@@ -19,7 +20,6 @@ Rating: 4.56 (Ranked 496)
 | Ranged Weapon | 0.40% | ~9 |
 | Two Handed Weapon | 0.40% | ~9 |
 | Defeat 25 Grubs | 0.40% | ~9 |
-| Defeat 25 Frogs | 0.40% | ~9 |
 | Defeat 25 Mozis | 0.40% | ~9 |
 | Kitchen Ready To Cook | 0.40% | ~9 |
 | Smithy Ready to Craft | 0.40% | ~9 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 496)
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,274 (Ranked 231)  
-Completed: 12 (0.53%) (Ranked 211)  
+Completed: 12 (0.53%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

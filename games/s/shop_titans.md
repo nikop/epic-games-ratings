@@ -6,42 +6,42 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,249 |
-| Titan's First Steps | 9.00% | ~13,249 |
-| Basic in Bulk | 8.00% | ~11,777 |
-| Tinkle of Coins | 8.00% | ~11,777 |
+| Sponsored by Argon | 9.00% | ~13,250 |
+| Titan's First Steps | 9.00% | ~13,250 |
+| Basic in Bulk | 8.00% | ~11,778 |
+| Tinkle of Coins | 8.00% | ~11,778 |
 | Disintermediation | 6.00% | ~8,833 |
 | It's Free Real Estate | 6.00% | ~8,833 |
 | Capitalism Ho! | 6.00% | ~8,833 |
-| One Easy Payment | 5.00% | ~7,360 |
-| Some Assembly Required | 5.00% | ~7,360 |
-| Another Satisfied Customer | 5.00% | ~7,360 |
-| Pretty Penny | 5.00% | ~7,360 |
-| Budding Merchant | 5.00% | ~7,360 |
-| Own the Means of Production | 5.00% | ~7,360 |
-| The Daily Grind | 4.00% | ~5,888 |
-| Bounty Hunters | 4.00% | ~5,888 |
-| Flooding the Market | 4.00% | ~5,888 |
-| Where it Hurts | 4.00% | ~5,888 |
-| One-Armed Bandit | 4.00% | ~5,888 |
-| Dungeon Imports | 4.00% | ~5,888 |
-| Through Repetition, Perfection | 4.00% | ~5,888 |
-| On the Path to Greatness | 3.00% | ~4,416 |
-| Ascended | 3.00% | ~4,416 |
-| Research & Development | 3.00% | ~4,416 |
-| Vanity, Verily | 3.00% | ~4,416 |
-| Blank Page Syndrome | 3.00% | ~4,416 |
-| Demand for Supplies | 3.00% | ~4,416 |
-| Power of Love | 3.00% | ~4,416 |
-| Efficient Floor Space | 3.00% | ~4,416 |
-| Flawless Fusion | 3.00% | ~4,416 |
-| Gem Expert | 3.00% | ~4,416 |
-| Gild-Gotten Goods | 3.00% | ~4,416 |
-| Helping Hand | 3.00% | ~4,416 |
-| Accomplished Merchant | 3.00% | ~4,416 |
-| Natural 20 | 3.00% | ~4,416 |
-| Did we pack lunch? | 3.00% | ~4,416 |
-| Arcane Industries | 3.00% | ~4,416 |
+| One Easy Payment | 5.00% | ~7,361 |
+| Some Assembly Required | 5.00% | ~7,361 |
+| Another Satisfied Customer | 5.00% | ~7,361 |
+| Pretty Penny | 5.00% | ~7,361 |
+| Budding Merchant | 5.00% | ~7,361 |
+| Own the Means of Production | 5.00% | ~7,361 |
+| The Daily Grind | 4.00% | ~5,889 |
+| Bounty Hunters | 4.00% | ~5,889 |
+| Flooding the Market | 4.00% | ~5,889 |
+| Where it Hurts | 4.00% | ~5,889 |
+| One-Armed Bandit | 4.00% | ~5,889 |
+| Dungeon Imports | 4.00% | ~5,889 |
+| Through Repetition, Perfection | 4.00% | ~5,889 |
+| On the Path to Greatness | 3.00% | ~4,417 |
+| Ascended | 3.00% | ~4,417 |
+| Research & Development | 3.00% | ~4,417 |
+| Vanity, Verily | 3.00% | ~4,417 |
+| Blank Page Syndrome | 3.00% | ~4,417 |
+| Demand for Supplies | 3.00% | ~4,417 |
+| Power of Love | 3.00% | ~4,417 |
+| Efficient Floor Space | 3.00% | ~4,417 |
+| Flawless Fusion | 3.00% | ~4,417 |
+| Gem Expert | 3.00% | ~4,417 |
+| Gild-Gotten Goods | 3.00% | ~4,417 |
+| Helping Hand | 3.00% | ~4,417 |
+| Accomplished Merchant | 3.00% | ~4,417 |
+| Natural 20 | 3.00% | ~4,417 |
+| Did we pack lunch? | 3.00% | ~4,417 |
+| Arcane Industries | 3.00% | ~4,417 |
 | A Notch Above the Rest | 2.00% | ~2,944 |
 | Cream of the Crop | 2.00% | ~2,944 |
 | Top of the World | 2.00% | ~2,944 |
@@ -108,8 +108,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.90% | ~1,325 |
 | The Greatest Grind | 0.80% | ~1,178 |
 | Marvels from the World Over | 0.80% | ~1,178 |
-| Bane of Legends | 0.70% | ~1,030 |
-| Anything not Nailed Down | 0.70% | ~1,030 |
+| Bane of Legends | 0.70% | ~1,031 |
+| Anything not Nailed Down | 0.70% | ~1,031 |
 | Ultimate Collector | 0.60% | ~883 |
 | Unleashed Potential | 0.60% | ~883 |
 | JACKPOT!!! | 0.60% | ~883 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~589 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,210 (Ranked 83)  
+Progressed: 147,220 (Ranked 83)  
 Completed: 331 (0.22%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 331 (0.22%) (Ranked 267)
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
-| 2023-12-23 | 147,210 | 331 |
+| 2023-12-23 | 147,220 | 331 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
 Sum: 27,793 (Ranked 51)  

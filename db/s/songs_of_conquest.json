@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 698,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -2653,6 +2653,11 @@
       "Time": "2023-12-23T20:08:33.3435516+00:00",
       "NumProgressed": 696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:08:56.2291247+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2687,9 +2692,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "AttackCount",
@@ -2769,7 +2774,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Deepstrike",
@@ -2993,7 +2998,7 @@
       "Name": "Adept",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "WielderLevel2",
@@ -3001,7 +3006,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "WielderLevel3",
@@ -3096,15 +3101,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 698,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:08:33.3435513+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:08:56.2291245+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:59:41.2711398+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:08:33.3436054+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:59:50.0501537+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:08:56.2291696+00:00"
 }

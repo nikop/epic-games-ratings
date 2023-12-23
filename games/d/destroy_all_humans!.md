@@ -24,7 +24,7 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 28.00% | ~34 |
 | Rock of the Bay | 27.00% | ~32 |
 | Trans-Siberian Express | 27.00% | ~32 |
-| Deincarnated | 25.00% | ~30 |
+| Deincarnated | 26.00% | ~31 |
 | Furon Fashion | 23.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~24 |
 | Arkvoodle Doodle | 17.00% | ~20 |
@@ -34,9 +34,9 @@ Number of Ratings: 85  (23.09.2022)
 | Hidden Human Hive Harvest | 12.00% | ~14 |
 | Mash Machine | 12.00% | ~14 |
 | Dusted | 12.00% | ~14 |
+| Albion Bridge Is for Falling Down | 9.00% | ~11 |
 | Scuttled | 8.00% | ~10 |
 | PK Slam Dunk | 8.00% | ~10 |
-| Albion Bridge Is for Falling Down | 8.00% | ~10 |
 | Higher Than the Futen Zoku | 6.00% | ~7 |
 | Cult Following | 3.00% | ~4 |
 | To Russia With Love | 3.00% | ~4 |

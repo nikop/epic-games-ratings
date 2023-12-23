@@ -18,8 +18,8 @@ Number of Ratings: 90  (23.09.2022)
 | Upgreatest | 23.00% | ~38 |
 | Pimp My Raid | 22.00% | ~37 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~30 |
+| Perfect Probulator | 16.00% | ~27 |
 | Freshly Squeezed | 16.00% | ~27 |
-| Perfect Probulator | 15.00% | ~25 |
 | Die Nasty | 14.00% | ~23 |
 | Transmitting From Sol-3 | 11.00% | ~18 |
 | Dusted | 10.00% | ~17 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 422)  
+Progressed: 167 (Ranked 423)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |

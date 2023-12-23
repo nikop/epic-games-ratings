@@ -16,14 +16,14 @@
 | So soothing... | 32.00% | ~28 |
 | Mystery solved | 31.00% | ~27 |
 | A very special drink | 31.00% | ~27 |
+| Sorry Grandpa | 31.00% | ~27 |
 | Roostwig has entered the building | 31.00% | ~27 |
 | Game Over! | 30.00% | ~26 |
-| Sorry Grandpa | 30.00% | ~26 |
+| NOW GO AWAY! | 30.00% | ~26 |
 | Shattered | 28.00% | ~25 |
 | GG | 28.00% | ~25 |
 | Beekeeper | 28.00% | ~25 |
 | Far away from home | 28.00% | ~25 |
-| NOW GO AWAY! | 28.00% | ~25 |
 | You've got mail! | 27.00% | ~24 |
 | Show me your true self | 26.00% | ~23 |
 | Memories | 26.00% | ~23 |

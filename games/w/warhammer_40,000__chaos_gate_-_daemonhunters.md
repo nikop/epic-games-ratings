@@ -12,10 +12,10 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 10.00% | ~355 |
 | An Ill Omen | 10.00% | ~355 |
 | Purging Spree | 8.00% | ~284 |
-| Blood for the Blood God! | 7.00% | ~248 |
+| Blood for the Blood God! | 7.00% | ~249 |
 | Bloodless | 6.00% | ~213 |
-| Surgical Excision | 5.00% | ~177 |
-| Friendly Fire | 5.00% | ~177 |
+| Surgical Excision | 5.00% | ~178 |
+| Friendly Fire | 5.00% | ~178 |
 | Honoured Battle-Brother | 4.00% | ~142 |
 | The Emperor Protects | 4.00% | ~142 |
 | A Foul Creche | 4.00% | ~142 |
@@ -29,14 +29,14 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 2.00% | ~71 |
 | Execution Force | 2.00% | ~71 |
 | Hive Exterminator | 2.00% | ~71 |
-| Exterminator | 1.00% | ~35 |
-| Mind Like a Fortress | 1.00% | ~35 |
-| Only in Death | 1.00% | ~35 |
-| Preservationist | 1.00% | ~35 |
-| Junk Banishment | 1.00% | ~35 |
-| Long Distance Call | 1.00% | ~35 |
-| Tactical Flexibility | 1.00% | ~35 |
-| Tactical Sabotage | 1.00% | ~35 |
+| Exterminator | 1.00% | ~36 |
+| Mind Like a Fortress | 1.00% | ~36 |
+| Only in Death | 1.00% | ~36 |
+| Preservationist | 1.00% | ~36 |
+| Junk Banishment | 1.00% | ~36 |
+| Long Distance Call | 1.00% | ~36 |
+| Tactical Flexibility | 1.00% | ~36 |
+| Tactical Sabotage | 1.00% | ~36 |
 | Fleetmaster | 0.90% | ~32 |
 | For the Machine God | 0.90% | ~32 |
 | Death Comes For All | 0.90% | ~32 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,549 (Ranked 215)  
+Progressed: 3,550 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 3,493 | 0 |
 | 2023-12-21 | 3,510 | 0 |
 | 2023-12-22 | 3,530 | 0 |
-| 2023-12-23 | 3,549 | 0 |
+| 2023-12-23 | 3,550 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 334)  

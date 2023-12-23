@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3633,6 +3633,11 @@
       "Time": "2023-12-23T15:10:00.0186521+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T21:10:02.3639816+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3652,7 +3657,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -3700,7 +3705,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1461
     },
     {
       "ID": "EXPERT_1",
@@ -3732,7 +3737,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3740,7 +3745,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "INDY_1",
@@ -3796,7 +3801,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3804,7 +3809,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "PACIFIST",
@@ -3868,7 +3873,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "SECRET_ROOM",
@@ -3908,7 +3913,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WANDERER_1",
@@ -3916,7 +3921,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "WISHMASTER_1",
@@ -3931,15 +3936,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1476,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:09:38.1168893+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:10:02.3639814+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:59:30.3156476+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:09:38.1169281+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:59:40.2194251+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:10:02.364016+00:00"
 }

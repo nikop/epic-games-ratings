@@ -3,12 +3,12 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1066,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 572,
+  "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2015,
+  "EOS_Progressed": 2019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3139,6 +3139,11 @@
       "Time": "2023-12-23T20:05:10.686164+00:00",
       "NumProgressed": 2015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:05:33.8601757+00:00",
+      "NumProgressed": 2019,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3166,7 +3171,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Achievement_004",
@@ -3270,7 +3275,7 @@
       "Name": "Bad Wiring",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_018",
@@ -3404,9 +3409,9 @@
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_035",
@@ -3460,9 +3465,9 @@
       "ID": "Achievement_041",
       "SetID": "6b34g18",
       "Name": "Empty Nest Syndrome",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_043",
@@ -3677,7 +3682,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2015,
+      "Progressed": 2019,
       "Completed": 0
     }
   ],
@@ -3685,8 +3690,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:05:10.6861638+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:05:33.8601755+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:45.2502667+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:05:10.6862368+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:52.2169479+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:05:33.8602338+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -220,6 +220,11 @@
       "Time": "2023-12-23T19:05:21.4864195+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:05:45.6351762+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -253,9 +258,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 138
     },
     {
       "ID": "chapter2",
@@ -325,9 +330,9 @@
       "ID": "gotcha",
       "SetID": "5bkacmp",
       "Name": "Gotcha",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "iDareYou",
@@ -429,9 +434,9 @@
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "stronk",
@@ -503,7 +508,7 @@
       "Name": "Pieces of eight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "thePolitician",
@@ -519,7 +524,7 @@
       "Name": "Caged tiger",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "theUnionLeader",
@@ -558,7 +563,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
@@ -566,8 +571,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:05:22.2399137+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:05:45.635176+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.4549489+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:57:56.1234739+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:05:22.2399407+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:02.1584889+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:05:45.6352033+00:00"
 }

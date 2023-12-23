@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -4419,9 +4419,9 @@
       "ID": "LEVEL_023",
       "SetID": "212bg48",
       "Name": "Flowing from high ground",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 138
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_024",
@@ -4490,8 +4490,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:09:40.2357671+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:10:05.08904+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.5235617+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:04.4240377+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:09:40.2358028+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:10.0811192+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:10:05.0890742+00:00"
 }

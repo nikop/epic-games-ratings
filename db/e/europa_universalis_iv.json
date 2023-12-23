@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13567,10 +13567,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 61994,
       "NumberOfAwardsMax": 7528
+    },
+    {
+      "Time": "2023-12-23T20:59:09.0500652+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62021,
+      "NumberOfAwardsMax": 7528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61994,
+  "NumberOfAwards": 62021,
   "NumberOfAwardsMax": 7528,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13590,7 +13596,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7318
+      "Count": 7345
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13641,9 +13647,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 482364,
+  "EOS_Progressed": 482411,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5430,
+  "EOS_NewPlayers": 5423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42111,6 +42117,11 @@
       "Time": "2023-12-23T20:06:03.9066502+00:00",
       "NumProgressed": 482364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T21:06:28.3844634+00:00",
+      "NumProgressed": 482411,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43122,7 +43133,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "achievement_grand_coalition",
@@ -44786,7 +44797,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -44818,7 +44829,7 @@
       "Name": "Victorious!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -45025,21 +45036,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 482364,
+      "Progressed": 482411,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 482364,
+      "Progressed": 482411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-23T19:59:01.9710579+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:06:03.90665+00:00",
+  "LastChanged": "2023-12-23T20:59:09.050065+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:06:28.3844631+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:33.9920534+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:59:01.9710587+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:06:03.9077008+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:59:09.0500657+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:06:28.3854929+00:00"
 }

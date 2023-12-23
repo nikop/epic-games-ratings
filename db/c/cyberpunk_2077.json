@@ -17016,10 +17016,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 439412,
       "NumberOfAwardsMax": 126708
+    },
+    {
+      "Time": "2023-12-23T21:03:13.2561573+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 439568,
+      "NumberOfAwardsMax": 126708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 439412,
+  "NumberOfAwards": 439568,
   "NumberOfAwardsMax": 126708,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17045,7 +17051,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23887
+      "Count": 24043
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17096,9 +17102,9 @@
       "Count": 16644
     }
   ],
-  "EOS_Progressed": 980482,
+  "EOS_Progressed": 980491,
   "EOS_Completed": 2962,
-  "EOS_NewPlayers": 3185,
+  "EOS_NewPlayers": 3167,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45311,6 +45317,11 @@
       "Time": "2023-12-23T20:03:54.4751479+00:00",
       "NumProgressed": 980482,
       "NumCompleted": 2962
+    },
+    {
+      "Time": "2023-12-23T21:04:16.1286232+00:00",
+      "NumProgressed": 980491,
+      "NumCompleted": 2962
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45347,7 +45358,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49024
+      "UsersEstimate": 49025
     },
     {
       "ID": "Denied",
@@ -45443,7 +45454,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39219
+      "UsersEstimate": 39220
     },
     {
       "ID": "MaxPain",
@@ -45451,7 +45462,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29414
+      "UsersEstimate": 29415
     },
     {
       "ID": "MustBeTheRats",
@@ -45491,7 +45502,7 @@
       "Name": "Life of the Road",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29414
+      "UsersEstimate": 29415
     },
     {
       "ID": "Roleplayer",
@@ -45499,7 +45510,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39219
+      "UsersEstimate": 39220
     },
     {
       "ID": "Specialist",
@@ -45547,7 +45558,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39219
+      "UsersEstimate": 39220
     },
     {
       "ID": "TheHightPriestess",
@@ -45555,7 +45566,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29414
+      "UsersEstimate": 29415
     },
     {
       "ID": "TheLovers",
@@ -45587,7 +45598,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39219
+      "UsersEstimate": 39220
     },
     {
       "ID": "TheWorld",
@@ -45619,7 +45630,7 @@
       "Name": "True Soldier",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49024
+      "UsersEstimate": 49025
     },
     {
       "ID": "TrueWarrior",
@@ -45627,7 +45638,7 @@
       "Name": "True Warrior",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29414
+      "UsersEstimate": 29415
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -45651,7 +45662,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117658
+      "UsersEstimate": 117659
     },
     {
       "ID": "YipMan",
@@ -45667,7 +45678,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29414
+      "UsersEstimate": 29415
     },
     {
       "ID": "All the President\u0027s Men",
@@ -45779,7 +45790,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4365
     },
     {
       "ID": "HydraIsDead",
@@ -45795,7 +45806,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4365
     },
     {
       "ID": "KingOfTheCups",
@@ -45858,21 +45869,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 980482,
+      "Progressed": 980491,
       "Completed": 2962
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 109105,
+      "Progressed": 109114,
       "Completed": 10445
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-23T19:02:52.6546445+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:03:54.4751475+00:00",
+  "LastChanged": "2023-12-23T21:03:13.2561572+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:04:16.1286229+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:11.4044836+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:02:54.9557589+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:03:54.4753488+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:03:13.2561576+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:04:16.1287557+00:00"
 }

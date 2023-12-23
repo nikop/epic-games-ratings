@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~605 |
-| Training Simulation | 79.00% | ~514 |
-| Kuku Bird Hunter | 65.00% | ~423 |
-| Storm Traveller | 60.00% | ~391 |
-| Wolf King Killer | 55.00% | ~358 |
-| Fashion Connoisseur | 52.00% | ~339 |
-| Arms Mechanic | 49.00% | ~319 |
-| Flower Thief | 44.00% | ~286 |
-| Apostle of Flame | 39.00% | ~254 |
-| Beginner Cook | 37.00% | ~241 |
-| Beginner Artificer | 37.00% | ~241 |
-| Seal Breaker | 32.00% | ~208 |
-| Handyman | 28.00% | ~182 |
-| Giant Lizard Killer | 26.00% | ~169 |
+| Travel Streamer | 93.00% | ~607 |
+| Training Simulation | 79.00% | ~516 |
+| Kuku Bird Hunter | 65.00% | ~424 |
+| Storm Traveller | 60.00% | ~392 |
+| Wolf King Killer | 55.00% | ~359 |
+| Fashion Connoisseur | 52.00% | ~340 |
+| Arms Mechanic | 49.00% | ~320 |
+| Flower Thief | 44.00% | ~287 |
+| Apostle of Flame | 39.00% | ~255 |
+| Beginner Cook | 37.00% | ~242 |
+| Beginner Artificer | 37.00% | ~242 |
+| Seal Breaker | 32.00% | ~209 |
+| Handyman | 28.00% | ~183 |
+| Giant Lizard Killer | 26.00% | ~170 |
 | Guardian | 25.00% | ~163 |
 | Nosebleeder | 25.00% | ~163 |
-| Trader | 22.00% | ~143 |
+| Trader | 21.00% | ~137 |
 | Weapon Boost | 21.00% | ~137 |
 | Flying Kobold Killer | 19.00% | ~124 |
 | Youth Magnet | 19.00% | ~124 |
@@ -34,8 +34,8 @@
 | Face Slapper | 14.00% | ~91 |
 | Boss challenge | 10.00% | ~65 |
 | Berserker Slayer | 10.00% | ~65 |
-| Giantess Slayer | 10.00% | ~65 |
 | Master Cook | 9.00% | ~59 |
+| Giantess Slayer | 9.00% | ~59 |
 | Warden Slayer | 9.00% | ~59 |
 | Silver Moon Wolf King Challenge | 4.00% | ~26 |
 | Flying Kobold Challenge | 3.00% | ~20 |
@@ -50,7 +50,7 @@
 | Berserker Challenge | 1.00% | ~7 |
 | Warden Challenge | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 310)  
+Progressed: 653 (Ranked 309)  
 Completed: 2 (0.31%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 2 (0.31%) (Ranked 245)
 | 2023-12-20 | 642 | 1 |
 | 2023-12-21 | 646 | 1 |
 | 2023-12-22 | 647 | 1 |
-| 2023-12-23 | 651 | 2 |
+| 2023-12-23 | 653 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,14 +15,14 @@
 | Fitness professional | 75.00% | ~339 |
 | Employee of the week | 75.00% | ~339 |
 | Your own amateur gym | 70.00% | ~316 |
+| First defeat | 69.00% | ~312 |
 | Run K, run! | 69.00% | ~312 |
-| First defeat | 68.00% | ~307 |
 | No bullying more | 67.00% | ~303 |
 | Hello, world! | 67.00% | ~303 |
 | Fighting is cool | 66.00% | ~298 |
 | Pal of your father? | 65.00% | ~294 |
 | Spirit of the past | 63.00% | ~285 |
-| Employee of the month | 61.00% | ~276 |
+| Employee of the month | 62.00% | ~280 |
 | Law student | 59.00% | ~267 |
 | Workout professional | 56.00% | ~253 |
 | Handyman | 56.00% | ~253 |
@@ -48,14 +48,15 @@
 | Mom got better | 36.00% | ~163 |
 | GYM professional | 36.00% | ~163 |
 | Poisoned fighter | 35.00% | ~158 |
+| Get out of my apartment! | 35.00% | ~158 |
 | The die is cast | 35.00% | ~158 |
-| Get out of my apartment! | 34.00% | ~154 |
 | Gang wrangler | 33.00% | ~149 |
 | Seashell hunter | 33.00% | ~149 |
 | Undercover robot | 32.00% | ~145 |
 | Problems of cyborgs | 31.00% | ~140 |
 | Absolute Champion! | 31.00% | ~140 |
 | Not little hacker | 30.00% | ~136 |
+| Careerist | 30.00% | ~136 |
 | Your own way | 30.00% | ~136 |
 | Trap disarmed | 29.00% | ~131 |
 | Another world | 29.00% | ~131 |
@@ -64,7 +65,6 @@
 | Family comes first | 29.00% | ~131 |
 | Key memories | 29.00% | ~131 |
 | The last bell ring | 29.00% | ~131 |
-| Careerist | 29.00% | ~131 |
 | Anyone can resist | 29.00% | ~131 |
 | The heart of the Resistance | 29.00% | ~131 |
 | Better cooking at home | 27.00% | ~122 |

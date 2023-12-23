@@ -6,7 +6,7 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -8951,10 +8951,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33040,
       "NumberOfAwardsMax": 5684
+    },
+    {
+      "Time": "2023-12-23T21:02:56.5603356+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33046,
+      "NumberOfAwardsMax": 5684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33040,
+  "NumberOfAwards": 33046,
   "NumberOfAwardsMax": 5684,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8968,7 +8974,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5630
+      "Count": 5636
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9001,9 +9007,9 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 243842,
+  "EOS_Progressed": 243859,
   "EOS_Completed": 2557,
-  "EOS_NewPlayers": 2694,
+  "EOS_NewPlayers": 2686,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36936,6 +36942,11 @@
       "Time": "2023-12-23T20:09:50.6987346+00:00",
       "NumProgressed": 243842,
       "NumCompleted": 2557
+    },
+    {
+      "Time": "2023-12-23T21:10:15.8545863+00:00",
+      "NumProgressed": 243859,
+      "NumCompleted": 2557
     }
   ],
   "TotalAchievements": 546,
@@ -36947,7 +36958,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "objective_completed_10",
@@ -37313,9 +37324,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 1219
     },
     {
       "ID": "objective_completed_110",
@@ -41267,7 +41278,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "objective_completed_673",
@@ -41291,7 +41302,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "objective_completed_860",
@@ -41314,21 +41325,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210116,
+      "Progressed": 210133,
       "Completed": 4059
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243842,
+      "Progressed": 243859,
       "Completed": 2557
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-23T18:02:53.1497475+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:09:50.6987344+00:00",
+  "LastChanged": "2023-12-23T21:02:56.5603354+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:10:15.8545861+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:02:39.2236758+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:09:50.701009+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:02:56.5603359+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:10:15.8569722+00:00"
 }

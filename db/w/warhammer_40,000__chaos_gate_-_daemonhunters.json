@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,7 +795,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3549,
+  "EOS_Progressed": 3550,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -4740,6 +4740,11 @@
       "Time": "2023-12-23T19:04:05.9706518+00:00",
       "NumProgressed": 3549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:04:30.6251531+00:00",
+      "NumProgressed": 3550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4847,7 +4852,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -4927,7 +4932,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -4951,7 +4956,7 @@
       "Name": "Exterminator",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -4959,7 +4964,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Kills_Interactable",
@@ -5007,7 +5012,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -5135,7 +5140,7 @@
       "Name": "Only in Death",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Preservationist",
@@ -5143,7 +5148,7 @@
       "Name": "Preservationist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -5167,7 +5172,7 @@
       "Name": "Junk Banishment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -5191,7 +5196,7 @@
       "Name": "Long Distance Call",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SkilledKnight",
@@ -5215,7 +5220,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -5279,7 +5284,7 @@
       "Name": "Tactical Sabotage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -5294,21 +5299,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3549,
+      "Progressed": 3550,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3549,
+      "Progressed": 3550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:04:08.46153+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:04:30.6251529+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:02:57.8131189+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:04:08.4616006+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:03:16.1763847+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:04:30.6252113+00:00"
 }

@@ -13,10 +13,10 @@ Rating: 4.58 (Ranked 458)
 | Never Say Loser Again | 18.00% | ~3,447 |
 | Tailor-Made | 18.00% | ~3,447 |
 | For your Eyes only | 18.00% | ~3,447 |
-| Assistant Accountant | 17.00% | ~3,255 |
+| Assistant Accountant | 17.00% | ~3,256 |
 | You Only Live Twice | 16.00% | ~3,064 |
 | Fully Decked Out | 16.00% | ~3,064 |
-| A view to Win | 13.00% | ~2,489 |
+| A view to Win | 13.00% | ~2,490 |
 | The Living Portrait | 12.00% | ~2,298 |
 | Smells Like Trouble | 12.00% | ~2,298 |
 | My Motto, My Creed | 11.00% | ~2,106 |
@@ -25,24 +25,24 @@ Rating: 4.58 (Ranked 458)
 | Hostile Takeover | 11.00% | ~2,106 |
 | Keycards Royale | 10.00% | ~1,915 |
 | Dr. No Kill | 10.00% | ~1,915 |
-| In It to Win It | 9.00% | ~1,723 |
+| In It to Win It | 9.00% | ~1,724 |
 | Security Supervisor | 6.00% | ~1,149 |
-| License to Thrill | 5.00% | ~957 |
+| License to Thrill | 5.00% | ~958 |
 | Social of Solace | 4.00% | ~766 |
 | Live and let lie | 3.00% | ~574 |
 | Safe Withdrawal | 3.00% | ~574 |
 | Branch Manager | 2.00% | ~383 |
 | Call Me Maybe | 2.00% | ~383 |
 | PHD in VIP | 2.00% | ~383 |
-| The terminals are not enough | 1.00% | ~191 |
-| Lose Another Day | 1.00% | ~191 |
+| The terminals are not enough | 1.00% | ~192 |
+| Lose Another Day | 1.00% | ~192 |
 | Chairman of Deceive Inc. | 0.90% | ~172 |
 | Chief Information Officer | 0.80% | ~153 |
 | Masteries Are Forever | 0.50% | ~96 |
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,149 (Ranked 149)  
+Progressed: 19,150 (Ranked 149)  
 Completed: 4 (0.02%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 4 (0.02%) (Ranked 355)
 | 2023-12-20 | 19,116 | 4 |
 | 2023-12-21 | 19,127 | 4 |
 | 2023-12-22 | 19,134 | 4 |
-| 2023-12-23 | 19,149 | 4 |
+| 2023-12-23 | 19,150 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

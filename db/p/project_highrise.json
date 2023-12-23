@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1300,6 +1300,11 @@
       "Time": "2023-12-23T15:04:16.0545353+00:00",
       "NumProgressed": 425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T21:04:30.1794684+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1453,9 +1458,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_consultants_a",
@@ -1463,7 +1468,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_consultants_b",
@@ -1495,7 +1500,7 @@
       "Name": "Loft Life",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_contracts_3",
@@ -1503,7 +1508,7 @@
       "Name": "Glut of Gastronomy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_contracts_4",
@@ -1527,7 +1532,7 @@
       "Name": "Plebs Are Needed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_ep1_casino",
@@ -1551,7 +1556,7 @@
       "Name": "Royal Flush",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_ep1_event_1",
@@ -1575,7 +1580,7 @@
       "Name": "The King of Cool",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_ep1_reviews_1",
@@ -1607,7 +1612,7 @@
       "Name": "In the Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_floors",
@@ -1615,7 +1620,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ach_floors_1",
@@ -1663,7 +1668,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_happy",
@@ -1703,7 +1708,7 @@
       "Name": "28 Days Later",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_office_1",
@@ -1775,7 +1780,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ach_profit_1",
@@ -1783,7 +1788,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_profit_2",
@@ -1823,15 +1828,15 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_restaurants_4",
@@ -1903,7 +1908,7 @@
       "Name": "It is Payday",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_scenarios_1",
@@ -1919,7 +1924,7 @@
       "Name": "Scenario Success",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_scenarios_3",
@@ -2014,7 +2019,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 0
     }
   ],
@@ -2022,8 +2027,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:04:08.0686478+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:04:30.1794682+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:00:29.1730186+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:04:08.0687243+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:57:10.1481663+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:04:30.179546+00:00"
 }

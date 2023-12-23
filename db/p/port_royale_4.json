@@ -3,12 +3,12 @@
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
   "Ranking_Rating": 1015,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 572,
+  "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -3289,9 +3289,9 @@
       "ID": "ACH023",
       "SetID": "69nfp41",
       "Name": "Gofer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH024",
@@ -3393,9 +3393,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 702
     },
     {
       "ID": "ACH037",
@@ -3513,8 +3513,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:05:37.7604165+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:06:01.5896799+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:34.3980229+00:00",
-  "LastUpdate_Ratings": "2023-12-23T20:00:17.1407502+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:05:37.7604665+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:00:26.0072605+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:06:01.5897281+00:00"
 }

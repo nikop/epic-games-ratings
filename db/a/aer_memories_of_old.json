@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 675,
-  "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 571,
+  "Ranking_Popularity": 572,
+  "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26893,
+  "EOS_Progressed": 26895,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -27024,6 +27024,11 @@
       "Time": "2023-12-23T20:08:21.4092118+00:00",
       "NumProgressed": 26893,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-12-23T21:08:43.9546623+00:00",
+      "NumProgressed": 26895,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 20,
@@ -27059,7 +27064,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -27075,7 +27080,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -27155,7 +27160,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20439
+      "UsersEstimate": 20440
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27163,7 +27168,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7261
+      "UsersEstimate": 7262
     },
     {
       "ID": "NORTH_FINISHED",
@@ -27194,15 +27199,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26893,
+      "Progressed": 26895,
       "Completed": 498
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:08:21.4092115+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:08:43.9546621+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:01.7195881+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:53.3079436+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:08:21.4093657+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:59:01.0614154+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:08:43.9548227+00:00"
 }

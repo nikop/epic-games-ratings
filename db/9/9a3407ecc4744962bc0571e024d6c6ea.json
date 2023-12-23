@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -3109,6 +3109,11 @@
       "Time": "2023-12-23T18:09:44.6174082+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T21:09:53.4575926+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3129,7 +3134,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "BoxingClever",
@@ -3177,7 +3182,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "DustDancing",
@@ -3201,7 +3206,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3209,7 +3214,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -3233,7 +3238,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "SkeletonCrew",
@@ -3257,7 +3262,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "TragedyDocumented",
@@ -3280,14 +3285,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:09:29.1971395+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:09:53.4575923+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:59:57.6408684+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:09:29.1971649+00:00"
+  "LastUpdate_Ratings": "2023-12-23T21:00:06.0778791+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:09:53.4576175+00:00"
 }

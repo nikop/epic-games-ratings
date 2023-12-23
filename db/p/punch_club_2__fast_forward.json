@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1923,9 +1923,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 312
     },
     {
       "ID": "fight_win_1",
@@ -2203,9 +2203,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "police_promotion_3",
@@ -2227,9 +2227,9 @@
       "ID": "prof_promotion_2",
       "SetID": "69co12a",
       "Name": "Careerist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "resistance_fake",
@@ -2331,9 +2331,9 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "work_promotion_3",
@@ -2354,8 +2354,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:09:09.7262656+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:09:33.200393+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:44.5012962+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:09:09.7263157+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:51.4749931+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:09:33.2004412+00:00"
 }

@@ -7,25 +7,25 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 11.00% | ~30 |
-| Sponge Smasher | 10.00% | ~27 |
+| Sponge Smasher | 11.00% | ~30 |
 | Jellyfish Jam | 8.00% | ~22 |
 | Jellyfishing | 7.00% | ~19 |
 | Sweet Victory | 5.00% | ~14 |
+| Sock Getter | 5.00% | ~14 |
 | Time For Tutorial | 5.00% | ~14 |
 | Life's as extreme as you wanna make it! | 4.00% | ~11 |
 | Shrimp Catcher | 4.00% | ~11 |
 | Toxic Terror | 4.00% | ~11 |
-| Sock Getter | 4.00% | ~11 |
+| Hit Rock Bottom | 4.00% | ~11 |
 | Squirrel Smasher | 4.00% | ~11 |
 | Star Smasher | 4.00% | ~11 |
 | Surf's Up! | 4.00% | ~11 |
 | Keep it Rolling | 3.00% | ~8 |
-| Hit Rock Bottom | 3.00% | ~8 |
 | Super Spatula Seeker | 3.00% | ~8 |
-| Robot encyclopedia | 2.00% | ~5 |
-| Uptown and Downtown | 2.00% | ~5 |
-| Hello, Bikini Bottom | 2.00% | ~5 |
-| Are you ready now? | 1.00% | ~3 |
+| Robot encyclopedia | 2.00% | ~6 |
+| Are you ready now? | 2.00% | ~6 |
+| Uptown and Downtown | 2.00% | ~6 |
+| Hello, Bikini Bottom | 2.00% | ~6 |
 | Kelp Forest of Fear | 1.00% | ~3 |
 | Sleepy Time | 1.00% | ~3 |
 | The Small Does Not Rule | 0.70% | ~2 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Ultra Spatula Seeker | 0.40% | ~1 |
 | Mega Spatula Seeker | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273 (Ranked 387)  
-Completed: 1 (0.37%) (Ranked 234)  
+Progressed: 275 (Ranked 387)  
+Completed: 1 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 1 (0.37%) (Ranked 234)
 | 2023-12-20 | 127 | 0 |
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
-| 2023-12-23 | 273 | 1 |
+| 2023-12-23 | 275 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 494)  
 Sum: 34 (Ranked 519)  

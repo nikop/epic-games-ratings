@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3677,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5896,6 +5896,11 @@
       "Time": "2023-12-23T20:06:00.3052001+00:00",
       "NumProgressed": 3675,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T21:06:24.6727428+00:00",
+      "NumProgressed": 3677,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5971,7 +5976,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -5987,7 +5992,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "TRANSMISSION",
@@ -6010,7 +6015,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3677,
       "Completed": 6
     }
   ],
@@ -6018,8 +6023,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:06:00.3051999+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:06:24.6727426+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:57:33.198182+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:06:00.3052374+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:57:38.8258167+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:06:24.6727763+00:00"
 }

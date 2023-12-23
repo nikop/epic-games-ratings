@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 3778,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3563,9 +3563,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19037,
+  "EOS_Progressed": 19045,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16848,6 +16848,11 @@
       "Time": "2023-12-23T20:03:22.3664429+00:00",
       "NumProgressed": 19037,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-23T21:03:42.3791546+00:00",
+      "NumProgressed": 19045,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16948,7 +16953,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinHard",
@@ -16962,9 +16967,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 190
     },
     {
       "ID": "WinNearArmory",
@@ -17140,7 +17145,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinOnMoorlands",
@@ -17196,7 +17201,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinWithResolve",
@@ -17236,7 +17241,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinWithoutOrders",
@@ -17260,7 +17265,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "WinNearFrosts",
@@ -17268,7 +17273,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinNearGreed",
@@ -17276,7 +17281,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinNearLibrary",
@@ -17284,7 +17289,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "WinNearPetrified",
@@ -17300,7 +17305,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinNearStorms",
@@ -17308,7 +17313,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17331,15 +17336,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19037,
+      "Progressed": 19045,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-23T13:57:13.6733867+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:03:22.3664427+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:03:42.3791545+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:57:20.8738262+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:03:22.3665372+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:57:26.0687542+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:03:42.3792358+00:00"
 }

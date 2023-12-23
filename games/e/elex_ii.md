@@ -6,23 +6,23 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Best Buddy | 24.00% | ~18 |
 | Entrepreneur | 23.00% | ~17 |
-| Best Buddy | 23.00% | ~17 |
 | Role Model | 19.00% | ~14 |
 | Creator | 13.00% | ~10 |
 | Civilian | 13.00% | ~10 |
-| Military Leader | 9.00% | ~7 |
-| Peddler | 8.00% | ~6 |
+| Military Leader | 11.00% | ~8 |
+| Peddler | 9.00% | ~7 |
 | Long-Haul Flyer | 8.00% | ~6 |
+| Family Reunion | 7.00% | ~5 |
 | Irissa's Fate | 7.00% | ~5 |
+| Globetrotter | 5.00% | ~4 |
 | Hotshot | 5.00% | ~4 |
 | Alb | 5.00% | ~4 |
 | Berserker | 5.00% | ~4 |
 | Commander | 5.00% | ~4 |
-| Family Reunion | 5.00% | ~4 |
 | Pass A38 | 5.00% | ~4 |
 | Storyteller | 4.00% | ~3 |
-| Globetrotter | 4.00% | ~3 |
 | Free as a Bird | 4.00% | ~3 |
 | Festival-goer | 4.00% | ~3 |
 | Eternal Oblivion | 4.00% | ~3 |
@@ -35,6 +35,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defector | 1.00% | ~1 |
 | Outlaw | 1.00% | ~1 |
 | Destroyer | 1.00% | ~1 |
+| Perfectionist | 1.00% | ~1 |
 | Detective | 1.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
@@ -47,7 +48,6 @@ Number of Ratings: 124  (23.09.2022)
 | Computer Scientist | 0.00% | ~0 |
 | Treasurer | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
-| Perfectionist | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | Hunter | 0.00% | ~0 |

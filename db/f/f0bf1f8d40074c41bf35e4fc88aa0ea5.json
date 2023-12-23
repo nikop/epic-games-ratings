@@ -4,8 +4,8 @@
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 468,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-24T23:30:00+00:00",
@@ -105,9 +105,9 @@
       "ID": "GUARDIAN",
       "SetID": "d0gblle",
       "Name": "Hellfire",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HEART",
@@ -137,9 +137,9 @@
       "ID": "MEDUSA",
       "SetID": "d0gblle",
       "Name": "Perseus",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PEGASUS",
@@ -153,9 +153,9 @@
       "ID": "PHOBOS",
       "SetID": "d0gblle",
       "Name": "Evil soul",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRISONER",
@@ -169,9 +169,9 @@
       "ID": "THANATOS",
       "SetID": "d0gblle",
       "Name": "Master of death",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VAMPYRE_QUEEN",
@@ -191,8 +191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:04:50.1444921+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:05:12.5898126+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:12.3792891+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:59:07.1078055+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:04:50.1445007+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:59:14.8626297+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:05:12.589821+00:00"
 }

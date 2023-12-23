@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6067,
+  "EOS_Progressed": 6071,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8917,6 +8917,11 @@
       "Time": "2023-12-23T20:06:13.8177441+00:00",
       "NumProgressed": 6067,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T21:08:17.6086155+00:00",
+      "NumProgressed": 6071,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9056,7 +9061,7 @@
       "Name": "Secret Technique",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "25",
@@ -9072,7 +9077,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "27",
@@ -9392,7 +9397,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "60",
@@ -9407,13 +9412,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6067,
+      "Progressed": 6071,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6067,
+      "Progressed": 6071,
       "Completed": 7
     }
   ],
@@ -9421,8 +9426,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:06:13.817744+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:08:17.6086152+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:20.8412666+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:06:13.8178094+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:27.1874268+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:08:17.6086836+00:00"
 }

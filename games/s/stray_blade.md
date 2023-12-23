@@ -10,7 +10,7 @@
 | Don't Cry Wolf | 6.00% | ~9 |
 | A new World ahead | 6.00% | ~9 |
 | Craftsmen | 3.00% | ~4 |
-| Apprentice | 2.00% | ~3 |
+| Apprentice | 3.00% | ~4 |
 | Defeat Tezuth | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |

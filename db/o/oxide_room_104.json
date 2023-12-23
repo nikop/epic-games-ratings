@@ -3,9 +3,9 @@
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2023-12-23T14:05:59.0415946+00:00",
       "NumProgressed": 275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T21:05:18.8722909+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1288,15 +1293,15 @@
       "Name": "373",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1312,7 +1317,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1374,9 +1379,9 @@
       "ID": "ACH_FORCE",
       "SetID": "511e31d",
       "Name": "Brute force",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1392,7 +1397,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1446,9 +1451,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1470,9 +1475,9 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_ROOM203",
@@ -1502,39 +1507,39 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_THIRDFLOOR",
       "SetID": "511e31d",
       "Name": "The third floor",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-23T20:04:56.1108511+00:00",
+  "LastChanged_Achievements": "2023-12-23T21:05:18.8722907+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.1804937+00:00",
-  "LastUpdate_Ratings": "2023-12-23T19:58:45.9548504+00:00",
-  "LastUpdate_Achievements": "2023-12-23T20:04:56.1108756+00:00"
+  "LastUpdate_Ratings": "2023-12-23T20:58:53.5596674+00:00",
+  "LastUpdate_Achievements": "2023-12-23T21:05:18.8723253+00:00"
 }
