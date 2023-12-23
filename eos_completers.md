@@ -43,7 +43,7 @@
 | 40 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 43 | [Smelter](games/s/smelter.md) | 9.30% |
-| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.29% |
+| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.26% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.21% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 9.09% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.81% |
@@ -73,7 +73,7 @@
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 72 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.84% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.36% |
+| 74 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.35% |
 | 75 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.26% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.87% |
@@ -132,7 +132,7 @@
 | 130 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.36% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.36% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.31% |
-| 133 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.17% |
+| 133 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.13% |
 | 134 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.08% |
 | 135 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.00% |
 | 136 | [Somerville](games/s/somerville.md) | 1.91% |
@@ -170,8 +170,8 @@
 | 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 169 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
 | 170 | [Sable](games/s/sable.md) | 1.02% |
-| 170 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 170 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 1.02% |
+| 172 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
 | 173 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.00% |
 | 174 | [Colossal Cave](games/c/colossal_cave.md) | 0.97% |
 | 174 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.97% |
@@ -197,7 +197,7 @@
 | 195 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 196 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.64% |
 | 197 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
-| 198 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
+| 198 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.61% |
 | 199 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 199 | [Haven](games/h/haven.md) | 0.58% |
 | 199 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.58% |
