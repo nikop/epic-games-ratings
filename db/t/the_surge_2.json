@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2348,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3783,6 +3783,11 @@
       "Time": "2023-12-23T14:04:03.4504971+00:00",
       "NumProgressed": 2348,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-23T15:03:36.4659524+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3802,7 +3807,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ACHV_03",
@@ -3818,7 +3823,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHV_05",
@@ -3970,7 +3975,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACHV_24",
@@ -3994,7 +3999,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "ACHV_27",
@@ -4002,7 +4007,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHV_28",
@@ -4026,7 +4031,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACHV_31",
@@ -4098,7 +4103,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "ACHV_40",
@@ -4114,7 +4119,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACHV_42",
@@ -4249,7 +4254,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2348,
+      "Progressed": 2349,
       "Completed": 13
     }
   ],
@@ -4257,8 +4262,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:04:03.4504969+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:03:36.4659523+00:00",
   "LastUpdate_AppInfo": "2023-12-16T16:57:00.284762+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:57:40.4847468+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:04:03.45055+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:28.4297188+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:03:36.4659999+00:00"
 }

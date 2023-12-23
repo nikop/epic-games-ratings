@@ -8,12 +8,12 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 51.00% | ~4,880 |
 | You Shall Not Pass | 51.00% | ~4,880 |
-| Peak Performance | 46.00% | ~4,401 |
+| Peak Performance | 46.00% | ~4,402 |
 | Avanti Savoia! | 44.00% | ~4,210 |
 | Mamma Mia! | 35.00% | ~3,349 |
 | Conrad von Hotzensocks | 32.00% | ~3,062 |
 | Gabriele D'Annunzio | 32.00% | ~3,062 |
-| Silver Lining | 27.00% | ~2,583 |
+| Silver Lining | 27.00% | ~2,584 |
 | Aurelio Baruzzi | 21.00% | ~2,009 |
 | Decimation | 20.00% | ~1,914 |
 | Donatello | 19.00% | ~1,818 |
@@ -24,17 +24,17 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,531 |
 | The Lion of the Isonzo | 14.00% | ~1,340 |
 | Uomo Universale | 13.00% | ~1,244 |
+| Die Bosniaken Kommen! | 12.00% | ~1,148 |
 | Dirty Dozen | 12.00% | ~1,148 |
 | Shaken, Not Stirred | 12.00% | ~1,148 |
-| Die Bosniaken Kommen! | 11.00% | ~1,052 |
-| Machiavelli | 11.00% | ~1,052 |
+| Machiavelli | 11.00% | ~1,053 |
 | The Devil's Paintbrush | 10.00% | ~957 |
 | Thus With A Kiss | 10.00% | ~957 |
 | Dante's Inferno | 9.00% | ~861 |
 | I Have the High Ground | 9.00% | ~861 |
 | Millenial | 9.00% | ~861 |
-| The Show Must Go On | 8.00% | ~765 |
-| Tosca | 8.00% | ~765 |
+| The Show Must Go On | 8.00% | ~766 |
+| Tosca | 8.00% | ~766 |
 | 12th Bottle of the Isonzo | 6.00% | ~574 |
 | The Enlightment | 6.00% | ~574 |
 | Cercatore d'Oro | 5.00% | ~478 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,568 (Ranked 177)  
+Progressed: 9,569 (Ranked 177)  
 Completed: 10 (0.10%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 10 (0.10%) (Ranked 302)
 | 2023-12-20 | 9,521 | 10 |
 | 2023-12-21 | 9,539 | 10 |
 | 2023-12-22 | 9,563 | 10 |
-| 2023-12-23 | 9,568 | 10 |
+| 2023-12-23 | 9,569 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 470)  
 Sum: 331 (Ranked 364)  

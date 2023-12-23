@@ -30,11 +30,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
 | Strong Cities | 0.20% | ~32 |
+| Able Difficulty | 0.20% | ~32 |
+| Furious Family | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
 | Lighthouse | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
+| Learn to Play 1 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
@@ -95,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | White Death | 0.10% | ~16 |
 | Wise | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
-| Able Difficulty | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |
@@ -115,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
-| Furious Family | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
 | Game of the Week | 0.10% | ~16 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
-| Learn to Play 1 | 0.10% | ~16 |
 | Learn to Play 2 | 0.10% | ~16 |
 | Learn to Play 3 | 0.10% | ~16 |
 | Learn to Play 4 | 0.10% | ~16 |
@@ -234,6 +234,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Only Kem | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
 | Kmt Unified | 0.10% | ~16 |
+| Prosperous Kmt | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
@@ -330,7 +331,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Golden Age-less | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Kmt Golden Age | 0.00% | ~0 |
-| Prosperous Kmt | 0.00% | ~0 |
 | Pharaonic Kmt Golden Age | 0.00% | ~0 |
 | Prosperous Pharaonic Kmt | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,899 (Ranked 161)  
+Progressed: 15,901 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 346)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,899 | 5 |
+| 2023-12-23 | 15,901 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -821,6 +821,11 @@
       "Time": "2023-12-23T14:07:49.4257952+00:00",
       "NumProgressed": 260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T15:07:47.7997451+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -847,9 +852,9 @@
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COMPLETION",
@@ -863,9 +868,9 @@
       "ID": "ACH_DONT_EAT_THE_SAND",
       "SetID": "biiejkc",
       "Name": "Life\u0027s as extreme as you wanna make it!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -943,9 +948,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -959,17 +964,17 @@
       "ID": "ACH_ROBO_SB_BOSS",
       "SetID": "biiejkc",
       "Name": "SpongeBob vs SpongeBob!",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1015,9 +1020,9 @@
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1088,15 +1093,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:07:49.4257948+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T13:57:06.8451361+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:57:38.2874628+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:07:49.4258149+00:00"
+  "LastChanged_Achievements": "2023-12-23T15:07:47.7997449+00:00",
+  "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
+  "LastUpdate_Ratings": "2023-12-23T14:57:26.692002+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:07:47.7997662+00:00"
 }

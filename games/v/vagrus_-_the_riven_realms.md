@@ -26,12 +26,12 @@
 | Pilgrimage's End | 5.00% | ~12 |
 | Merchant | 5.00% | ~12 |
 | Trouble at Fort Larius | 5.00% | ~12 |
+| Quartermaster | 4.00% | ~9 |
 | Potential Unlocked | 4.00% | ~9 |
 | Been There | 4.00% | ~9 |
 | Spiritual Journey | 4.00% | ~9 |
 | Unseen Patterns | 4.00% | ~9 |
 | Bounty Hunter | 3.00% | ~7 |
-| Quartermaster | 3.00% | ~7 |
 | Huntress Unbound | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
 | The Voice of Hereafter | 3.00% | ~7 |

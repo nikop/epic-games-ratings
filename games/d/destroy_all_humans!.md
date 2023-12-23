@@ -6,12 +6,12 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~76 |
-| Shop Til They Drop | 61.00% | ~70 |
-| Lie Back and Think of Albion | 59.00% | ~67 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~65 |
-| Yettisoned | 54.00% | ~62 |
-| I Look Up As I Walk to Takoshima | 53.00% | ~60 |
+| Kaijuiced | 66.00% | ~76 |
+| Shop Til They Drop | 60.00% | ~69 |
+| Lie Back and Think of Albion | 58.00% | ~67 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~66 |
+| Yettisoned | 53.00% | ~61 |
+| I Look Up As I Walk to Takoshima | 53.00% | ~61 |
 | Lobster Blisque | 49.00% | ~56 |
 | Perfect Probulator | 48.00% | ~55 |
 | Fly Me to the Moon Base | 43.00% | ~49 |
@@ -23,8 +23,8 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 29.00% | ~33 |
 | Bodied Sattva | 29.00% | ~33 |
 | Rock of the Bay | 27.00% | ~31 |
-| Trans-Siberian Express | 25.00% | ~28 |
-| Deincarnated | 24.00% | ~27 |
+| Trans-Siberian Express | 25.00% | ~29 |
+| Deincarnated | 23.00% | ~26 |
 | Furon Fashion | 23.00% | ~26 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~23 |
 | Arkvoodle Doodle | 16.00% | ~18 |
@@ -38,16 +38,16 @@ Number of Ratings: 85  (23.09.2022)
 | PK Slam Dunk | 7.00% | ~8 |
 | Scuttled | 6.00% | ~7 |
 | Higher Than the Futen Zoku | 6.00% | ~7 |
-| Arty Facts | 4.00% | ~5 |
 | Cult Following | 3.00% | ~3 |
 | Path of the Furon | 3.00% | ~3 |
+| Arty Facts | 3.00% | ~3 |
 | To Russia With Love | 2.00% | ~2 |
-| Transmitting From Sol-3 | 0.00% | ~0 |
+| Transmitting From Sol-3 | 0.90% | ~1 |
 | Steezy Down the Spine | 0.00% | ~0 |
 | Toilet Break | 0.00% | ~0 |
 | Against All Odds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 462)  
+Progressed: 115 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 75 | 0 |
 | 2023-12-21 | 86 | 0 |
 | 2023-12-22 | 106 | 0 |
-| 2023-12-23 | 114 | 0 |
+| 2023-12-23 | 115 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 493)  
 Sum: 34 (Ranked 518)  

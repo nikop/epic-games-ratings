@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -1831,9 +1831,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 514
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2294,8 +2294,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:08:43.2666369+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:08:41.3564223+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:09.5802782+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:58:07.1831684+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:08:43.2666996+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:48.6895344+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:08:41.3564816+00:00"
 }

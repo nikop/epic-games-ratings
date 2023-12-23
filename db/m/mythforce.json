@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5757,
+  "EOS_Progressed": 5760,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11672,6 +11672,11 @@
       "Time": "2023-12-23T13:07:33.7997006+00:00",
       "NumProgressed": 5757,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T15:05:34.4526994+00:00",
+      "NumProgressed": 5760,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11732,7 +11737,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11740,7 +11745,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11748,7 +11753,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11764,7 +11769,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -11772,7 +11777,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11812,7 +11817,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -11820,7 +11825,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11852,7 +11857,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11867,15 +11872,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5757,
+      "Progressed": 5760,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:06:29.724718+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:05:34.4526993+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:57:17.3452224+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:06:29.7247737+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:10.9760518+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:05:34.4527607+00:00"
 }

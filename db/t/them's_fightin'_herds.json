@@ -4,11 +4,11 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 442,
   "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 501,
+  "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234060,
+  "EOS_Progressed": 234061,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25386,6 +25386,11 @@
       "Time": "2023-12-23T13:11:26.9373829+00:00",
       "NumProgressed": 234060,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T15:09:15.6936146+00:00",
+      "NumProgressed": 234061,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -25541,7 +25546,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79580
+      "UsersEstimate": 79581
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25620,7 +25625,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234060,
+      "Progressed": 234061,
       "Completed": 6
     }
   ],
@@ -25628,8 +25633,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-22T09:02:10.2313691+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:09:25.7055467+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:15.6936144+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.0893293+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:57:48.635496+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:09:25.7056622+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:33.7966275+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:15.693764+00:00"
 }

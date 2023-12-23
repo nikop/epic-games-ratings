@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -9976,10 +9976,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 20974,
       "NumberOfAwardsMax": 7834
+    },
+    {
+      "Time": "2023-12-23T14:57:14.0341629+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 20980,
+      "NumberOfAwardsMax": 7834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20974,
+  "NumberOfAwards": 20980,
   "NumberOfAwardsMax": 7834,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10023,7 +10029,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1481
+      "Count": 1487
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10056,9 +10062,9 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129335,
+  "EOS_Progressed": 129350,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1635,
+  "EOS_NewPlayers": 1632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36426,6 +36432,11 @@
       "Time": "2023-12-23T14:09:32.590447+00:00",
       "NumProgressed": 129335,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T15:09:21.4566122+00:00",
+      "NumProgressed": 129350,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36533,7 +36544,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -36541,7 +36552,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -36565,7 +36576,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36597,7 +36608,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36613,7 +36624,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "combat_kill_gaunts",
@@ -36629,7 +36640,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -36661,7 +36672,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36677,7 +36688,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36789,7 +36800,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "hero_story_complete_all",
@@ -36837,7 +36848,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -36853,7 +36864,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -36901,7 +36912,7 @@
       "Name": "Hot Air",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "run_victory_act03",
@@ -36909,7 +36920,7 @@
       "Name": "Eyes Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "run_victory_act04",
@@ -36973,7 +36984,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 422
     },
     {
       "ID": "combat_kill_collector",
@@ -36981,7 +36992,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37021,7 +37032,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37029,7 +37040,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "quest_complete_crusader",
@@ -37037,7 +37048,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37045,7 +37056,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -37068,21 +37079,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129335,
+      "Progressed": 129350,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4204,
+      "Progressed": 4219,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-23T13:57:21.1070288+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:09:32.5904467+00:00",
+  "LastChanged": "2023-12-23T14:57:14.0341627+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:21.456612+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:57:21.1070294+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:09:32.5906009+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:14.0341634+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:21.4567648+00:00"
 }

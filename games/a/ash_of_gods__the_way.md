@@ -34,11 +34,11 @@
 | First among Frisians | 7.00% | ~3 |
 | Defeat the bear | 7.00% | ~3 |
 | By own strength | 7.00% | ~3 |
+| Deadly strike | 7.00% | ~3 |
 | All's fair in love and war | 7.00% | ~3 |
 | Nothing is settled | 7.00% | ~3 |
 | Supplier | 4.00% | ~2 |
 | The power of persuasion | 4.00% | ~2 |
-| Deadly strike | 4.00% | ~2 |
 | A solo player | 4.00% | ~2 |
 | Cunning plan | 4.00% | ~2 |
 | Do it yourself | 2.00% | ~1 |

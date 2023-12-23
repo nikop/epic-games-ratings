@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -845,7 +845,7 @@
   ],
   "EOS_Progressed": 2117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5956,9 +5956,9 @@
       "ID": "achFirstCargoWaiting",
       "SetID": "dgl390n",
       "Name": "First cargo item waiting",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1482
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -6076,9 +6076,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 699
+      "UsersEstimate": 720
     },
     {
       "ID": "achMetropolis",
@@ -6228,8 +6228,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-22T16:57:35.9447156+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:08:38.7442132+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:08:37.7431779+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:42.3173295+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:58:33.0530261+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:08:38.7442918+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:58:09.6876538+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:08:37.7432523+00:00"
 }

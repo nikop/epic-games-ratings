@@ -7661,10 +7661,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27787,
       "NumberOfAwardsMax": 4910
+    },
+    {
+      "Time": "2023-12-23T15:03:07.0986546+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27792,
+      "NumberOfAwardsMax": 4910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27787,
+  "NumberOfAwards": 27792,
   "NumberOfAwardsMax": 4910,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7696,7 +7702,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4049
+      "Count": 4054
     },
     {
       "Text": "This game is Relaxing",
@@ -7717,9 +7723,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147132,
+  "EOS_Progressed": 147139,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 1295,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33617,6 +33623,11 @@
       "Time": "2023-12-23T14:06:09.5870768+00:00",
       "NumProgressed": 147132,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-12-23T15:05:18.8407458+00:00",
+      "NumProgressed": 147139,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 112,
@@ -33628,7 +33639,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "advlevel02",
@@ -33764,7 +33775,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "boss02",
@@ -33796,7 +33807,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13242
+      "UsersEstimate": 13243
     },
     {
       "ID": "chest02",
@@ -33932,7 +33943,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "damage02",
@@ -34180,7 +34191,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "jackslot02",
@@ -34252,7 +34263,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "loot02",
@@ -34284,7 +34295,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "master02",
@@ -34444,7 +34455,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13242
+      "UsersEstimate": 13243
     },
     {
       "ID": "twinenchant01",
@@ -34523,15 +34534,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147132,
+      "Progressed": 147139,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-23T13:05:18.7957259+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:06:09.5870765+00:00",
+  "LastChanged": "2023-12-23T15:03:07.0986545+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:05:18.8407456+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:03:27.9090569+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:06:09.5872674+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:03:07.098655+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:05:18.8409569+00:00"
 }

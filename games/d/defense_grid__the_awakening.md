@@ -6,45 +6,45 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~398,726 |
-| Happy Returns | 78.00% | ~383,958 |
-| Hey! That's mine! | 78.00% | ~383,958 |
-| Field Promotion | 74.00% | ~364,268 |
-| Leadhead | 71.00% | ~349,500 |
-| Eradicator | 67.00% | ~329,810 |
-| Surplus | 66.00% | ~324,888 |
-| I Spy | 64.00% | ~315,043 |
-| Burn Baby Burn | 59.00% | ~290,430 |
-| Yellow Beats Green | 56.00% | ~275,662 |
-| Salvage Rights | 53.00% | ~260,895 |
-| What IS that? | 51.00% | ~251,050 |
-| Close Call | 50.00% | ~246,127 |
-| Pew Pew | 50.00% | ~246,127 |
-| Penny Pincher | 49.00% | ~241,204 |
-| Arsenal | 46.00% | ~226,437 |
-| Boot Camp | 45.00% | ~221,514 |
-| Flawless Victory | 42.00% | ~206,747 |
-| Confident | 41.00% | ~201,824 |
-| Exterminator | 36.00% | ~177,211 |
-| Sharpshooter | 34.00% | ~167,366 |
-| Not So Fast | 33.00% | ~162,444 |
-| Great Ball of Fire | 32.00% | ~157,521 |
-| No Sale | 31.00% | ~152,599 |
-| Kaboom! | 30.00% | ~147,676 |
-| Liquidator | 29.00% | ~142,754 |
-| High Voltage | 24.00% | ~118,141 |
-| Filthy Rich | 20.00% | ~98,451 |
-| Pyrrhic Victory | 18.00% | ~88,606 |
-| The Not-So-Friendly Skies | 18.00% | ~88,606 |
-| Power Builder | 17.00% | ~83,683 |
-| Death From Above | 16.00% | ~78,761 |
-| Retry | 16.00% | ~78,761 |
-| Head Trauma | 12.00% | ~59,070 |
-| Full Defense | 10.00% | ~49,225 |
+| First Blood | 81.00% | ~398,731 |
+| Happy Returns | 78.00% | ~383,963 |
+| Hey! That's mine! | 78.00% | ~383,963 |
+| Field Promotion | 74.00% | ~364,272 |
+| Leadhead | 71.00% | ~349,505 |
+| Eradicator | 67.00% | ~329,814 |
+| Surplus | 66.00% | ~324,892 |
+| I Spy | 64.00% | ~315,046 |
+| Burn Baby Burn | 59.00% | ~290,433 |
+| Yellow Beats Green | 56.00% | ~275,666 |
+| Salvage Rights | 53.00% | ~260,898 |
+| What IS that? | 51.00% | ~251,053 |
+| Close Call | 50.00% | ~246,130 |
+| Pew Pew | 50.00% | ~246,130 |
+| Penny Pincher | 49.00% | ~241,207 |
+| Arsenal | 46.00% | ~226,440 |
+| Boot Camp | 45.00% | ~221,517 |
+| Flawless Victory | 42.00% | ~206,749 |
+| Confident | 41.00% | ~201,827 |
+| Exterminator | 36.00% | ~177,214 |
+| Sharpshooter | 34.00% | ~167,368 |
+| Not So Fast | 33.00% | ~162,446 |
+| Great Ball of Fire | 32.00% | ~157,523 |
+| No Sale | 31.00% | ~152,601 |
+| Kaboom! | 30.00% | ~147,678 |
+| Liquidator | 29.00% | ~142,755 |
+| High Voltage | 24.00% | ~118,142 |
+| Filthy Rich | 20.00% | ~98,452 |
+| Pyrrhic Victory | 18.00% | ~88,607 |
+| The Not-So-Friendly Skies | 18.00% | ~88,607 |
+| Power Builder | 17.00% | ~83,684 |
+| Death From Above | 16.00% | ~78,762 |
+| Retry | 16.00% | ~78,762 |
+| Head Trauma | 12.00% | ~59,071 |
+| Full Defense | 10.00% | ~49,226 |
 | Overseer | 9.00% | ~44,303 |
-| Annihilator | 8.00% | ~39,380 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,380 |
-| Indecisive | 6.00% | ~29,535 |
+| Annihilator | 8.00% | ~39,381 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,381 |
+| Indecisive | 6.00% | ~29,536 |
 | Base Defender | 5.00% | ~24,613 |
 | Relay Race | 5.00% | ~24,613 |
 | Tower Expert | 4.00% | ~19,690 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~492 |
 | You Monster | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492,254 (Ranked 39)  
+Progressed: 492,260 (Ranked 39)  
 Completed: 5 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,14 +341,14 @@ Completed: 5 (0.00%) (Ranked 385)
 | 2023-12-20 | 492,055 | 5 |
 | 2023-12-21 | 492,139 | 5 |
 | 2023-12-22 | 492,214 | 5 |
-| 2023-12-23 | 492,254 | 5 |
+| 2023-12-23 | 492,260 | 5 |
 ## Awards
-Max (Great for Beginners): 262  (Ranked 270)  
-Sum: 1,736 (Ranked 222)  
+Max (Great for Beginners): 263  (Ranked 270)  
+Sum: 1,737 (Ranked 222)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 262 |
+| This game is Great for Beginners | 263 |
 | This game has Quickly Understood Controls | 226 |
 | This game is Relaxing | 221 |
 | This game is Extremely Fun | 213 |
@@ -517,3 +517,4 @@ Diff (max vs sum): 48
 | 2023-12-08 | 4.45 | - | 261 | 1,734 |
 | 2023-12-12 | 4.45 | - | 262 | 1,735 |
 | 2023-12-14 | 4.45 | - | 262 | 1,736 |
+| 2023-12-23 | 4.45 | - | 263 | 1,737 |

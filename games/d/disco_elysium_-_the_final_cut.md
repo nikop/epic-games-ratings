@@ -1,33 +1,33 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 27)  
+Rating: 4.87 (Ranked 26)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,775 |
-| Biggest Communism Builder | 24.00% | ~32,379 |
-| The World's Most Laughable Centrist | 20.00% | ~26,982 |
-| Il Coppo Del'Arte! | 18.00% | ~24,284 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,586 |
-| Hyperstellar Law Official | 15.00% | ~20,237 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,888 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,888 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,539 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,840 |
-| Unbelievably Boring **** | 9.00% | ~12,142 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,142 |
-| Enemy Of The Physical Realm | 8.00% | ~10,793 |
-| Hardie's Heroes | 6.00% | ~8,095 |
-| The Lawbringer | 4.00% | ~5,396 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,396 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,047 |
-| Bother Kim After Hours | 3.00% | ~4,047 |
-| Baddest Of the Bad Cops | 2.00% | ~2,698 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,698 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,698 |
-| Wheel of Pleasure and Light | 2.00% | ~2,698 |
+| Goodest Of The Good Cops | 28.00% | ~37,780 |
+| Biggest Communism Builder | 24.00% | ~32,382 |
+| The World's Most Laughable Centrist | 20.00% | ~26,985 |
+| Il Coppo Del'Arte! | 18.00% | ~24,287 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,588 |
+| Hyperstellar Law Official | 15.00% | ~20,239 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,890 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,890 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,541 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,842 |
+| Unbelievably Boring **** | 9.00% | ~12,143 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,143 |
+| Enemy Of The Physical Realm | 8.00% | ~10,794 |
+| Hardie's Heroes | 6.00% | ~8,096 |
+| The Lawbringer | 4.00% | ~5,397 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,397 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,048 |
+| Bother Kim After Hours | 3.00% | ~4,048 |
+| Baddest Of the Bad Cops | 2.00% | ~2,699 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,699 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,699 |
+| Wheel of Pleasure and Light | 2.00% | ~2,699 |
 | Massive Torque Dork | 1.00% | ~1,349 |
 | Avowed Inframaterialist | 1.00% | ~1,349 |
 | Venture into the HARDCORE | 0.90% | ~1,214 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~1,079 |
 | Committee of la Responsabilité | 0.80% | ~1,079 |
 | Networthy Individual | 0.70% | ~944 |
-| Leopard Mindset | 0.60% | ~809 |
+| Leopard Mindset | 0.60% | ~810 |
 | Modus: Mullen | 0.30% | ~405 |
 | Palerunner | 0.30% | ~405 |
 | Cause a ****storm | 0.20% | ~270 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~135 |
 | What body? | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,912 (Ranked 86)  
+Progressed: 134,927 (Ranked 86)  
 Completed: 28 (0.02%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 28 (0.02%) (Ranked 354)
 | 2023-12-20 | 134,371 | 28 |
 | 2023-12-21 | 134,562 | 28 |
 | 2023-12-22 | 134,780 | 28 |
-| 2023-12-23 | 134,912 | 28 |
+| 2023-12-23 | 134,927 | 28 |
 ## Awards
 Max (Character Customization): 754  (Ranked 184)  
 Sum: 1,149 (Ranked 256)  

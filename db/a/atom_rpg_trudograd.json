@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -246,7 +246,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1324,
+  "EOS_Progressed": 1325,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -1856,6 +1856,11 @@
       "Time": "2023-12-23T11:09:11.0090487+00:00",
       "NumProgressed": 1324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T15:09:26.890092+00:00",
+      "NumProgressed": 1325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2027,7 +2032,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "POSITRONIUM",
@@ -2115,14 +2120,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1324,
+      "Progressed": 1325,
       "Completed": 0
     }
   ],
@@ -2130,8 +2135,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-11-22T02:59:27.1616324+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:09:39.2884673+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:26.8900918+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:10.0680414+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:01:37.9476995+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:09:39.2884949+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:33.2958631+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:26.8901197+00:00"
 }

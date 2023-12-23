@@ -161,7 +161,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
@@ -4306,6 +4306,11 @@
       "Time": "2023-12-23T14:06:30.6718996+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-23T15:05:34.9987116+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4334,7 +4339,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4342,7 +4347,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "_05_FinishAct2",
@@ -4372,9 +4377,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 467
     },
     {
       "ID": "_09_Completion_20",
@@ -4390,7 +4395,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_11_Completion_40",
@@ -4422,7 +4427,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "_15_Completion_80",
@@ -4436,9 +4441,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 290
+      "UsersEstimate": 303
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4446,7 +4451,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4470,7 +4475,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4525,7 +4530,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1263,
       "Completed": 34
     }
   ],
@@ -4533,8 +4538,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:06:30.6718993+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:05:34.9987115+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:00:25.1914946+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:06:30.6719331+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:59:37.5059567+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:05:34.9987465+00:00"
 }

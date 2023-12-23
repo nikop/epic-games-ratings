@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 450,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -1993,9 +1993,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "get_tape",
@@ -2344,8 +2344,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:09:40.0933457+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:27.5156867+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:32.3459278+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:59:17.6412388+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:09:40.0934096+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:58:45.9570114+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:27.5157376+00:00"
 }

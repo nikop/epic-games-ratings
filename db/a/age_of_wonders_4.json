@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6044,
+  "EOS_Progressed": 6052,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8892,6 +8892,11 @@
       "Time": "2023-12-23T14:07:52.8228306+00:00",
       "NumProgressed": 6044,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T15:07:50.5601893+00:00",
+      "NumProgressed": 6052,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8903,7 +8908,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "10",
@@ -8975,7 +8980,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "19",
@@ -8983,7 +8988,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "2",
@@ -9007,7 +9012,7 @@
       "Name": "Eternal Lord",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "22",
@@ -9015,7 +9020,7 @@
       "Name": "Realm Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "23",
@@ -9023,7 +9028,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "24",
@@ -9039,7 +9044,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "26",
@@ -9047,7 +9052,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "27",
@@ -9079,7 +9084,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "30",
@@ -9119,7 +9124,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "35",
@@ -9167,7 +9172,7 @@
       "Name": "The Eternal Court",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "40",
@@ -9175,7 +9180,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "41",
@@ -9279,7 +9284,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "49",
@@ -9303,7 +9308,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "52",
@@ -9319,7 +9324,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "54",
@@ -9335,7 +9340,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "56",
@@ -9343,7 +9348,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "57",
@@ -9359,7 +9364,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "59",
@@ -9367,7 +9372,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "60",
@@ -9382,13 +9387,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6044,
+      "Progressed": 6052,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6044,
+      "Progressed": 6052,
       "Completed": 7
     }
   ],
@@ -9396,8 +9401,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:07:52.8228303+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:07:50.560189+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:58:42.8326252+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:07:52.8229187+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:58:18.1660013+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:07:50.5602637+00:00"
 }

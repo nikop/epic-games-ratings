@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,242 |
-| Titan's First Steps | 9.00% | ~13,242 |
+| Sponsored by Argon | 9.00% | ~13,243 |
+| Titan's First Steps | 9.00% | ~13,243 |
 | Basic in Bulk | 8.00% | ~11,771 |
 | Tinkle of Coins | 8.00% | ~11,771 |
 | Disintermediation | 6.00% | ~8,828 |
@@ -19,12 +19,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,357 |
 | Budding Merchant | 5.00% | ~7,357 |
 | Own the Means of Production | 5.00% | ~7,357 |
-| The Daily Grind | 4.00% | ~5,885 |
-| Bounty Hunters | 4.00% | ~5,885 |
-| Where it Hurts | 4.00% | ~5,885 |
-| One-Armed Bandit | 4.00% | ~5,885 |
-| Dungeon Imports | 4.00% | ~5,885 |
-| Through Repetition, Perfection | 4.00% | ~5,885 |
+| The Daily Grind | 4.00% | ~5,886 |
+| Bounty Hunters | 4.00% | ~5,886 |
+| Where it Hurts | 4.00% | ~5,886 |
+| One-Armed Bandit | 4.00% | ~5,886 |
+| Dungeon Imports | 4.00% | ~5,886 |
+| Through Repetition, Perfection | 4.00% | ~5,886 |
 | On the Path to Greatness | 3.00% | ~4,414 |
 | Ascended | 3.00% | ~4,414 |
 | Research & Development | 3.00% | ~4,414 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~589 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,132 (Ranked 83)  
+Progressed: 147,139 (Ranked 83)  
 Completed: 330 (0.22%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,16 +366,16 @@ Completed: 330 (0.22%) (Ranked 266)
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
-| 2023-12-23 | 147,132 | 330 |
+| 2023-12-23 | 147,139 | 330 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
-Sum: 27,787 (Ranked 51)  
+Sum: 27,792 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,910 |
 | This game is Relaxing | 4,065 |
-| This game has Quickly Understood Controls | 4,049 |
+| This game has Quickly Understood Controls | 4,054 |
 | This game has Diverse Characters | 3,986 |
 | This game is Highly Recommended | 3,801 |
 | This game has Easy Combat | 3,751 |
@@ -710,4 +710,4 @@ Diff (max vs sum): 24
 | 2023-12-20 | 3.99 | - | 4,900 | 27,769 |
 | 2023-12-21 | 3.99 | - | 4,900 | 27,771 |
 | 2023-12-22 | 3.99 | - | 4,906 | 27,779 |
-| 2023-12-23 | 3.99 | - | 4,910 | 27,787 |
+| 2023-12-23 | 3.99 | - | 4,910 | 27,792 |

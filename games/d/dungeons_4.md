@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~545 |
 | Thalya – Simply Immortal | 88.00% | ~545 |
-| For the Horde! | 82.00% | ~508 |
+| For the Horde! | 83.00% | ~514 |
 | Hammer Time, Round Two | 81.00% | ~501 |
 | The Hellwoods | 77.00% | ~477 |
 | The Plains of Strothalm | 71.00% | ~439 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 8.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 619 (Ranked 316)  
-Completed: 21 (3.39%) (Ranked 101)  
+Completed: 21 (3.39%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 881,
-  "Ranking_Popularity": 537,
+  "Ranking_Rating": 889,
+  "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-11-02T19:03:18.4376934+00:00",
@@ -509,18 +509,24 @@
       "Rating": 4.27,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-12-23T15:00:08.2497772+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Great for Beginners",
@@ -547,8 +553,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2023-12-22T22:00:42.9555605+00:00",
+  "LastChanged": "2023-12-23T15:00:08.249777+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.6390382+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:01:04.061038+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:07:21.2594651+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:08.2497775+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:06:15.4855862+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "special3",
       "SetID": "c64if4d",
       "Name": "Deadly strike",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "special4",
@@ -671,8 +671,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:09:30.5291055+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:19.7286796+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:39.1112603+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:00:20.2580963+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:09:30.5291343+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:59:33.8194088+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:19.7287147+00:00"
 }

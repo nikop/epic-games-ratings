@@ -3742,9 +3742,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241522,
+  "EOS_Progressed": 241525,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29227,6 +29227,11 @@
       "Time": "2023-12-23T14:10:33.4633123+00:00",
       "NumProgressed": 241522,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-23T15:10:11.4920426+00:00",
+      "NumProgressed": 241525,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29732,9 +29737,9 @@
       "ID": "KILLNICEDOG",
       "SetID": "5l8oe0h",
       "Name": "Heartless",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1691
     },
     {
       "ID": "KILLPARANOIA",
@@ -30341,13 +30346,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241522,
+      "Progressed": 241525,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3002,
+      "Progressed": 3005,
       "Completed": 411
     }
   ],
@@ -30355,8 +30360,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-22T22:02:03.7341318+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:10:33.463312+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:10:11.4920425+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:02:48.1912035+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:10:33.463561+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:02:35.9892681+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:10:11.492301+00:00"
 }

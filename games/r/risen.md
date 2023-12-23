@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.52 (Ranked 564)  
+Rating: 4.52 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.52 (Ranked 564)
 | Ferocious wild boars | 28.00% | ~31 |
 | Idiot | 27.00% | ~29 |
 | Beast slayer | 23.00% | ~25 |
+| Family man | 21.00% | ~23 |
 | Wise man | 20.00% | ~22 |
-| Family man | 20.00% | ~22 |
 | Death of a legend | 20.00% | ~22 |
 | Archaeologist | 20.00% | ~22 |
 | Ogre friend | 20.00% | ~22 |

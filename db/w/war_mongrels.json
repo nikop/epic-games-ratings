@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 705,
+  "EOS_Progressed": 706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2465,6 +2465,11 @@
       "Time": "2023-12-23T14:10:30.0982293+00:00",
       "NumProgressed": 705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T15:10:08.5619819+00:00",
+      "NumProgressed": 706,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2580,7 +2585,7 @@
       "Name": "Explorer",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_COLL_20",
@@ -2636,7 +2641,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -2700,7 +2705,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2708,7 +2713,7 @@
       "Name": "The Breaking Point",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2748,7 +2753,7 @@
       "Name": "The Horror",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2756,7 +2761,7 @@
       "Name": "The Difference",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2818,9 +2823,9 @@
       "ID": "ACH_HIDE_BODIES",
       "SetID": "1j25agn",
       "Name": "Missing in Action",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2860,7 +2865,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2884,7 +2889,7 @@
       "Name": "Eat Lead!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2932,7 +2937,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_NOMOON",
@@ -2947,15 +2952,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 705,
+      "Progressed": 706,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:10:30.0982289+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:10:08.5619817+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:42.5352214+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:00:12.3082297+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:10:30.09829+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:59:27.7335703+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:10:08.5620264+00:00"
 }

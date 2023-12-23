@@ -2,13 +2,13 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "ProductSlug": "walking-dead-definitive-series",
-  "Ranking_Rating": 27,
+  "Ranking_Rating": 26,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1516,10 +1516,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 891,
       "NumberOfAwardsMax": 571
+    },
+    {
+      "Time": "2023-12-23T14:59:03.2605029+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 894,
+      "NumberOfAwardsMax": 571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 891,
+  "NumberOfAwards": 894,
   "NumberOfAwardsMax": 571,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1563,7 +1569,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1581,7 +1587,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has a Creative Community",
@@ -1607,8 +1613,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-12-23T02:58:49.6948615+00:00",
+  "LastChanged": "2023-12-23T14:59:03.2605027+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:43.310821+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:59:39.8973317+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:03:43.1993305+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:59:03.2605033+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:03:19.7971364+00:00"
 }

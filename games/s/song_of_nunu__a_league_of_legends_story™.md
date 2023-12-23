@@ -11,14 +11,14 @@ Rating: 4.50 (Ranked 602)
 | Notai Notes | 67.00% | ~869 |
 | Blue Dreams | 66.00% | ~856 |
 | He's Famous! | 66.00% | ~856 |
+| Cutie Poro | 65.00% | ~843 |
 | Krugmazing | 64.00% | ~830 |
-| Cutie Poro | 64.00% | ~830 |
 | The Fire Below the Mountain | 61.00% | ~791 |
 | Moneyball | 60.00% | ~778 |
+| No Bites | 55.00% | ~713 |
 | Iceborn | 55.00% | ~713 |
-| No Bites | 54.00% | ~700 |
+| Boom Things | 53.00% | ~687 |
 | Tear of Freedom | 52.00% | ~674 |
-| Boom Things | 52.00% | ~674 |
 | My Darkest Day | 48.00% | ~623 |
 | Rhythm Of Willump | 46.00% | ~597 |
 | The Relentless Storm | 46.00% | ~597 |
@@ -29,10 +29,10 @@ Rating: 4.50 (Ranked 602)
 | You Get Used To It | 41.00% | ~532 |
 | Family | 39.00% | ~506 |
 | Biggest Snowball Ever | 39.00% | ~506 |
+| True Legends | 39.00% | ~506 |
 | Boosted! | 39.00% | ~506 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~506 |
 | Freeze The Ice Witch | 38.00% | ~493 |
-| True Legends | 38.00% | ~493 |
 | Bullseye | 36.00% | ~467 |
 | It Is Not Over | 35.00% | ~454 |
 | On The Rocks | 34.00% | ~441 |

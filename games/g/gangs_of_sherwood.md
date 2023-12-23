@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~81 |
-| Air Fighter | 74.00% | ~68 |
-| Oo-De-Lally | 70.00% | ~64 |
+| Act of Kindness | 87.00% | ~81 |
+| Air Fighter | 73.00% | ~68 |
+| Oo-De-Lally | 69.00% | ~64 |
 | The Altruist | 66.00% | ~61 |
-| Treasure Hunter | 64.00% | ~59 |
+| Treasure Hunter | 63.00% | ~59 |
 | Watch your Step! | 53.00% | ~49 |
 | Tap Dancing | 51.00% | ~47 |
-| MAX LEVEL | 50.00% | ~46 |
+| MAX LEVEL | 49.00% | ~46 |
 | Spring Board | 40.00% | ~37 |
 | Right between the eyes | 39.00% | ~36 |
 | Starry Night | 37.00% | ~34 |
 | Locksley's Tears | 37.00% | ~34 |
 | Rebel Unleashed | 37.00% | ~34 |
-| Merry Co-operation | 34.00% | ~31 |
+| Merry Co-operation | 33.00% | ~31 |
 | Finish Him! | 26.00% | ~24 |
 | Assault on the Ram | 25.00% | ~23 |
 | First Aid | 25.00% | ~23 |
@@ -32,7 +32,7 @@
 | Haute Couture | 11.00% | ~10 |
 | Sky High Fighter | 10.00% | ~9 |
 | The Gang prevails | 8.00% | ~7 |
-| Brilliant Executioner | 7.00% | ~6 |
+| Brilliant Executioner | 6.00% | ~6 |
 | Bold and Bossy | 5.00% | ~5 |
 | Power of Friendship! | 5.00% | ~5 |
 | No Mercy | 4.00% | ~4 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 483)  
+Progressed: 93 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,4 +89,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 87 | 0 |
 | 2023-12-21 | 88 | 0 |
 | 2023-12-22 | 90 | 0 |
-| 2023-12-23 | 92 | 0 |
+| 2023-12-23 | 93 | 0 |

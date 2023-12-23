@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727,
+  "EOS_Progressed": 728,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -2500,6 +2500,11 @@
       "Time": "2023-12-23T14:08:40.5294067+00:00",
       "NumProgressed": 727,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-23T15:08:39.2841446+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2520,7 +2525,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_eou2",
@@ -2528,7 +2533,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_eou3",
@@ -2536,7 +2541,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_eou4",
@@ -2560,7 +2565,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_eou7",
@@ -2615,14 +2620,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 727,
+      "Progressed": 728,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:08:40.5294064+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:08:39.2841444+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:58:20.6989135+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:08:40.5294285+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:59.616182+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:08:39.2841595+00:00"
 }

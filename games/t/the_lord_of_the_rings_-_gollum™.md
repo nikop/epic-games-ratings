@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 63.00% | ~403 |
-| Welcome to Mordor! | 53.00% | ~339 |
+| The Wraith | 63.00% | ~404 |
+| Welcome to Mordor! | 53.00% | ~340 |
 | Collectibles Part 1 | 50.00% | ~320 |
-| Wait! Wait! Not yet! | 38.00% | ~243 |
-| Like Flying... | 33.00% | ~211 |
+| Wait! Wait! Not yet! | 38.00% | ~244 |
+| Like Flying... | 33.00% | ~212 |
 | The Maggot | 27.00% | ~173 |
 | Memories | 27.00% | ~173 |
 | The Breeder | 23.00% | ~147 |
@@ -16,7 +16,7 @@
 | The Traitor | 15.00% | ~96 |
 | The Spider | 14.00% | ~90 |
 | Good as Fish | 12.00% | ~77 |
-| Her Eyes | 11.00% | ~70 |
+| Her Eyes | 11.00% | ~71 |
 | Gollum/Sméagol | 10.00% | ~64 |
 | Trigger-Happy | 10.00% | ~64 |
 | The Friend | 9.00% | ~58 |
@@ -26,8 +26,8 @@
 | Made a Song | 5.00% | ~32 |
 | So Silly! | 4.00% | ~26 |
 | So Tasty! | 4.00% | ~26 |
-| Break a Leg! | 3.00% | ~19 |
 | Sweet Darkness | 3.00% | ~19 |
+| Break a Leg! | 2.00% | ~13 |
 | And now we wish... | 2.00% | ~13 |
 | Ss ss ss... | 2.00% | ~13 |
 | Collectibles Part 2 | 1.00% | ~6 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 640 (Ranked 314)  
+Progressed: 641 (Ranked 314)  
 Completed: 1 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,4 +170,4 @@ Completed: 1 (0.16%) (Ranked 283)
 | 2023-12-20 | 626 | 1 |
 | 2023-12-21 | 633 | 1 |
 | 2023-12-22 | 637 | 1 |
-| 2023-12-23 | 640 | 1 |
+| 2023-12-23 | 641 | 1 |

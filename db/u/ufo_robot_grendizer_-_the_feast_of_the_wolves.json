@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FLEEDKEEPER",
@@ -406,8 +406,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:05:44.7412926+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:04:58.3474269+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.5029771+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:02:37.8065981+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:05:44.74131+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:47.9979458+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:04:58.3474409+00:00"
 }

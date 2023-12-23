@@ -1,11 +1,11 @@
 # The Walking Dead : The Definitive Series
 [Store](https://store.epicgames.com/en-US/p/walking-dead-definitive-series)  
 [View Rawdata](../../db/t/the_walking_dead___the_definitive_series.json)  
-Rating: 4.87 (Ranked 27)  
+Rating: 4.87 (Ranked 26)  
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 571  (Ranked 209)  
-Sum: 891 (Ranked 276)  
+Sum: 894 (Ranked 276)  
 Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
@@ -16,8 +16,8 @@ Diff (max vs sum): -67
 | This game is Highly Recommended | 34 |
 | This game is Great for Beginners | 31 |
 | This game has Amazing Characters | 27 |
-| This game has Easy Combat | 26 |
-| This game has Quickly Understood Controls | 24 |
+| This game has Easy Combat | 27 |
+| This game has Quickly Understood Controls | 26 |
 | This game has Unique Visuals | 22 |
 | This game has a Creative Community | 21 |
 | This game is Relaxing | 20 |
@@ -216,4 +216,4 @@ Diff (max vs sum): -67
 | 2023-12-20 | 4.87 | - | 569 | 868 |
 | 2023-12-21 | 4.87 | - | 569 | 869 |
 | 2023-12-22 | 4.87 | - | 569 | 889 |
-| 2023-12-23 | 4.87 | - | 571 | 891 |
+| 2023-12-23 | 4.87 | - | 571 | 894 |

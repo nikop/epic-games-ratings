@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2199,7 +2199,7 @@
       "Count": 222
     }
   ],
-  "EOS_Progressed": 21683,
+  "EOS_Progressed": 21684,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -11894,6 +11894,11 @@
       "Time": "2023-12-23T13:06:10.4436889+00:00",
       "NumProgressed": 21683,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-23T15:04:04.5050058+00:00",
+      "NumProgressed": 21684,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -11953,7 +11958,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20599
+      "UsersEstimate": 20600
     },
     {
       "ID": "GameOver",
@@ -11969,7 +11974,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "JackTarinton",
@@ -12088,15 +12093,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21683,
+      "Progressed": 21684,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-22T22:01:19.3453093+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:04:38.2738303+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:04:04.5050053+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:12.9668458+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:01:39.2658271+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:04:38.2738935+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:35.0251123+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:04:04.5050703+00:00"
 }

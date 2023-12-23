@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 1297,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -3257,9 +3257,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 713
     },
     {
       "ID": "EV_ACH05",
@@ -3337,9 +3337,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 687
     },
     {
       "ID": "EV_ACH15",
@@ -3385,9 +3385,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 506
     },
     {
       "ID": "EV_ACH21",
@@ -3457,9 +3457,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 843
     },
     {
       "ID": "EV_ACH30",
@@ -3594,8 +3594,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:10:29.0235573+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:10:07.6034517+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.6283728+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:59:07.6529216+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:10:29.0236034+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:58:38.0519014+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:10:07.6034866+00:00"
 }

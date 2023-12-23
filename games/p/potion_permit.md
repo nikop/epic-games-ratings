@@ -15,7 +15,7 @@ Rating: 3.83 (Ranked 1,049)
 | The Capitalist | 44.00% | ~777 |
 | K.O.! | 43.00% | ~759 |
 | Intermediate Chemist | 40.00% | ~706 |
-| Decorative Mind | 32.00% | ~565 |
+| Decorative Mind | 33.00% | ~582 |
 | Lumber Specialist | 31.00% | ~547 |
 | Kind-hearted | 25.00% | ~441 |
 | Catch of the Day | 25.00% | ~441 |
@@ -45,7 +45,7 @@ Rating: 3.83 (Ranked 1,049)
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,765 (Ranked 241)  
-Completed: 10 (0.57%) (Ranked 203)  
+Completed: 10 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,8 +219,8 @@ Completed: 10 (0.57%) (Ranked 203)
 | 2023-12-23 | 1,765 | 10 |
 ## Awards
 Max (Character Customization): 70  (Ranked 413)  
-Sum: 70 (Ranked 481)  
-Diff (max vs sum): -68  
+Sum: 70 (Ranked 482)  
+Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 70 |

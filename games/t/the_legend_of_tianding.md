@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 89.00% | ~42 |
-| Eat the Rich | 60.00% | ~28 |
-| Killing Machine | 49.00% | ~23 |
-| Death Battle | 45.00% | ~21 |
-| Phantom Kunoichi | 45.00% | ~21 |
-| Divine Retribution | 43.00% | ~20 |
+| Hero Arrives | 90.00% | ~43 |
+| Eat the Rich | 58.00% | ~28 |
+| Killing Machine | 48.00% | ~23 |
+| Death Battle | 44.00% | ~21 |
+| Phantom Kunoichi | 44.00% | ~21 |
+| Divine Retribution | 42.00% | ~20 |
 | Captain Mustache | 40.00% | ~19 |
 | Final Showdown | 38.00% | ~18 |
 | Dispel Rumors | 38.00% | ~18 |
 | The End of an Outlaw | 38.00% | ~18 |
-| Demon Slayer | 32.00% | ~15 |
-| Steal Her Away | 32.00% | ~15 |
-| Sewer Rat | 32.00% | ~15 |
-| Fight Fire With Fire | 32.00% | ~15 |
-| Urban Explorer | 30.00% | ~14 |
-| Big Eater | 28.00% | ~13 |
-| Tour Guide | 28.00% | ~13 |
-| Not Today | 28.00% | ~13 |
+| Demon Slayer | 31.00% | ~15 |
+| Steal Her Away | 31.00% | ~15 |
+| Sewer Rat | 31.00% | ~15 |
+| Fight Fire With Fire | 31.00% | ~15 |
+| Urban Explorer | 29.00% | ~14 |
+| Big Eater | 27.00% | ~13 |
+| Tour Guide | 27.00% | ~13 |
+| Not Today | 27.00% | ~13 |
 | The Real O.G. | 23.00% | ~11 |
 | Coward | 23.00% | ~11 |
 | Tomb Raider | 23.00% | ~11 |
 | The Hero of the People | 17.00% | ~8 |
 | Talk to the Fist | 15.00% | ~7 |
-| Collector | 11.00% | ~5 |
-| Taoist | 11.00% | ~5 |
-| The Legend | 9.00% | ~4 |
+| Collector | 10.00% | ~5 |
+| Taoist | 10.00% | ~5 |
+| The Legend | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 539)  
-Completed: 4 (8.51%) (Ranked 49)  
+Progressed: 48 (Ranked 538)  
+Completed: 4 (8.33%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 4 (8.51%) (Ranked 49)
 | 2023-12-16 | 40 | 2 |
 | 2023-12-17 | 42 | 3 |
 | 2023-12-18 | 45 | 3 |
-| 2023-12-23 | 47 | 4 |
+| 2023-12-23 | 48 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

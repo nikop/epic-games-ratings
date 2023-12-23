@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~215,459 |
-| 50 HEADSHOTS | 30.00% | ~201,992 |
-| SCIENCE AND INDUSTRY | 29.00% | ~195,259 |
-| FINISHED CHAPTER 1 | 28.00% | ~188,526 |
-| FINISHED CHAPTER 2 | 20.00% | ~134,662 |
-| 200 HEADSHOTS | 18.00% | ~121,195 |
-| FINISHED CHAPTER 3 | 17.00% | ~114,462 |
-| FINISHED CHAPTER 4 | 15.00% | ~100,996 |
-| FINISH CHAPTER 5 | 12.00% | ~80,797 |
-| FINISH CHAPTER 6 | 11.00% | ~74,064 |
-| CATHARTIC ESCAPISM | 11.00% | ~74,064 |
-| 1000 KILLS | 10.00% | ~67,331 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,932 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,466 |
-| FIRST BLOOD | 2.00% | ~13,466 |
+| 100 KILLS | 32.00% | ~215,443 |
+| 50 HEADSHOTS | 30.00% | ~201,977 |
+| SCIENCE AND INDUSTRY | 29.00% | ~195,245 |
+| FINISHED CHAPTER 1 | 28.00% | ~188,512 |
+| FINISHED CHAPTER 2 | 20.00% | ~134,652 |
+| 200 HEADSHOTS | 18.00% | ~121,186 |
+| FINISHED CHAPTER 3 | 17.00% | ~114,454 |
+| FINISHED CHAPTER 4 | 15.00% | ~100,989 |
+| FINISH CHAPTER 5 | 12.00% | ~80,791 |
+| FINISH CHAPTER 6 | 11.00% | ~74,058 |
+| CATHARTIC ESCAPISM | 11.00% | ~74,058 |
+| 1000 KILLS | 10.00% | ~67,326 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,930 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,465 |
+| FIRST BLOOD | 2.00% | ~13,465 |
 | OUT OF ORDER | 1.00% | ~6,733 |
 | PACEMAKER | 1.00% | ~6,733 |
 | TIME PARADOX | 1.00% | ~6,733 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,060 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,059 |
 | PARTYHARD | 0.80% | ~5,386 |
 | NEW GAME PLUS | 0.70% | ~4,713 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,367 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,366 |
 | CHURCH | 0.40% | ~2,693 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,020 |
 | REMEMBER THE ARMORY | 0.30% | ~2,020 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~673 |
 | WARRIOR IN A GARDEN | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,308 (Ranked 28)  
+Progressed: 673,258 (Ranked 28)  
 Completed: 67 (0.01%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 499,
+  "EOS_Progressed": 500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1584,6 +1584,11 @@
       "Time": "2023-12-23T07:03:33.480351+00:00",
       "NumProgressed": 499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T15:03:35.5285668+00:00",
+      "NumProgressed": 500,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1660,7 +1665,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "REMAKE_004",
@@ -1668,7 +1673,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Remake_005",
@@ -1819,14 +1824,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 499,
+      "Progressed": 500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:04:02.253129+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:03:35.5285666+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:01:19.878605+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:04:02.2531602+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:20.3867063+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:03:35.5285918+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 494,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 13.79,
+  "EOS_Completed_Percentage": 13.64,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -449,6 +449,11 @@
       "Time": "2023-12-23T05:10:04.9171413+00:00",
       "NumProgressed": 87,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-23T15:09:58.0615628+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -461,13 +466,13 @@
       "Name": "First tower built",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 64
     },
@@ -475,7 +480,7 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -483,7 +488,7 @@
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 39
     },
@@ -539,7 +544,7 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 200,
       "UsersEstimate": 17
     }
@@ -548,14 +553,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:10:17.938963+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:58.0615627+00:00",
   "LastUpdate_AppInfo": "2023-12-19T08:57:01.8422494+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:01:00.6568677+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:10:17.9389716+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:05.6854929+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:58.06157+00:00"
 }

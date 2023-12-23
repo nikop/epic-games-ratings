@@ -9,23 +9,23 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 78.00% | ~82 |
 | Helping Hand | 70.00% | ~74 |
 | First of many… | 70.00% | ~74 |
-| Increased Vigor | 62.00% | ~65 |
-| Fight Fire with Fire | 58.00% | ~61 |
-| Increased Capacity | 55.00% | ~58 |
+| Increased Vigor | 63.00% | ~66 |
+| Fight Fire with Fire | 60.00% | ~63 |
+| Increased Capacity | 56.00% | ~59 |
 | Just the start | 54.00% | ~57 |
-| Perfect Storm | 47.00% | ~49 |
-| All That Glitters | 47.00% | ~49 |
+| Perfect Storm | 48.00% | ~50 |
+| All That Glitters | 48.00% | ~50 |
 | Enhance! | 44.00% | ~46 |
 | One Of the Chosen | 42.00% | ~44 |
+| Throne Potato | 39.00% | ~41 |
 | 25 to Life | 39.00% | ~41 |
-| Throne Potato | 38.00% | ~40 |
 | Salvation | 36.00% | ~38 |
-| Devil's in the Details | 35.00% | ~37 |
-| Five's a Crowd | 35.00% | ~37 |
-| Unshakable Fortitude | 34.00% | ~36 |
+| Devil's in the Details | 36.00% | ~38 |
+| Five's a Crowd | 36.00% | ~38 |
+| Unshakable Fortitude | 35.00% | ~37 |
+| Soul Harvester | 33.00% | ~35 |
 | Delusions of Grandeur | 33.00% | ~35 |
 | I Wanna Rock | 32.00% | ~34 |
-| Soul Harvester | 32.00% | ~34 |
 | Maximum Vigor | 30.00% | ~32 |
 | Love Tap | 30.00% | ~32 |
 | For Whom the Bell Tolls | 30.00% | ~32 |
@@ -40,9 +40,9 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 18.00% | ~19 |
 | Egomaniac | 17.00% | ~18 |
 | Seeing Red | 17.00% | ~18 |
+| Community Outreach | 14.00% | ~15 |
 | Protector of Humanity | 13.00% | ~14 |
 | Everybody Wants to Rule the World | 13.00% | ~14 |
-| Community Outreach | 13.00% | ~14 |
 | Take it to the Limit | 12.00% | ~13 |
 | Unbreakable Will | 11.00% | ~12 |
 | Holy Keeper | 10.00% | ~10 |

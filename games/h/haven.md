@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 74.00% | ~1,285 |
-| Lovebirds | 46.00% | ~799 |
-| Life’s short, ride long | 41.00% | ~712 |
-| Hug therapy | 40.00% | ~695 |
-| Over my dead body | 37.00% | ~643 |
-| Shake the rust off their feet | 19.00% | ~330 |
-| My little pony | 18.00% | ~313 |
-| Strike! | 17.00% | ~295 |
-| A love supreme | 17.00% | ~295 |
+| Balding bloot! | 74.00% | ~1,289 |
+| Lovebirds | 46.00% | ~801 |
+| Life’s short, ride long | 41.00% | ~714 |
+| Hug therapy | 40.00% | ~697 |
+| Over my dead body | 37.00% | ~645 |
+| Shake the rust off their feet | 19.00% | ~331 |
+| My little pony | 18.00% | ~314 |
+| Strike! | 17.00% | ~296 |
+| A love supreme | 17.00% | ~296 |
 | In my shoes | 15.00% | ~261 |
-| Like new! | 14.00% | ~243 |
+| Like new! | 14.00% | ~244 |
 | Head in the clouds | 13.00% | ~226 |
-| Don't look back | 12.00% | ~208 |
-| Heartstrings | 12.00% | ~208 |
-| Back to rust | 11.00% | ~191 |
-| Flower Powered | 11.00% | ~191 |
-| Perfect timing | 9.00% | ~156 |
-| Unstoppable | 9.00% | ~156 |
+| Don't look back | 12.00% | ~209 |
+| Heartstrings | 12.00% | ~209 |
+| Back to rust | 11.00% | ~192 |
+| Flower Powered | 11.00% | ~192 |
+| Perfect timing | 9.00% | ~157 |
+| Unstoppable | 9.00% | ~157 |
 | Ain't no mountain high enough | 8.00% | ~139 |
 | Self-sustainability | 7.00% | ~122 |
 | Spring cleaning | 5.00% | ~87 |
 | An eye for an eye | 5.00% | ~87 |
-| Mooning the moon | 4.00% | ~69 |
-| Can't get wetter... | 4.00% | ~69 |
-| Strip-a-bobble | 4.00% | ~69 |
+| Mooning the moon | 4.00% | ~70 |
+| Can't get wetter... | 4.00% | ~70 |
+| Strip-a-bobble | 4.00% | ~70 |
 | Second thoughts | 3.00% | ~52 |
 | Pearls before Birble | 3.00% | ~52 |
 | Last minute | 3.00% | ~52 |
 | Thar she blows | 2.00% | ~35 |
 | À la carte | 2.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,737 (Ranked 242)  
-Completed: 10 (0.58%) (Ranked 200)  
+Progressed: 1,742 (Ranked 242)  
+Completed: 10 (0.57%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 10 (0.58%) (Ranked 200)
 | 2023-12-20 | 1,693 | 10 |
 | 2023-12-21 | 1,707 | 10 |
 | 2023-12-22 | 1,727 | 10 |
-| 2023-12-23 | 1,737 | 10 |
+| 2023-12-23 | 1,742 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

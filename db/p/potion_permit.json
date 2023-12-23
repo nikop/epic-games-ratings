@@ -4,11 +4,11 @@
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1049,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 481,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -3046,9 +3046,9 @@
       "ID": "ACHIEVEMENTS_20",
       "SetID": "d4o538a",
       "Name": "Decorative Mind",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 582
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -3207,8 +3207,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:05:17.123356+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:04:35.9671606+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:59:19.2412493+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:05:17.1233946+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:58:47.2036068+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:04:35.9671879+00:00"
 }

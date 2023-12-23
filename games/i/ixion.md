@@ -5,23 +5,23 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 30.00% | ~1,098 |
-| Sputnik 2049 | 27.00% | ~988 |
+| Wakey Wakey | 30.00% | ~1,099 |
+| Sputnik 2049 | 27.00% | ~989 |
 | Infinite Growth... | 26.00% | ~952 |
-| Without Breaking Some Eggs... | 25.00% | ~915 |
+| Without Breaking Some Eggs... | 25.00% | ~916 |
 | A Thousand Strong | 18.00% | ~659 |
 | Ready for a New World | 18.00% | ~659 |
-| Space Society | 17.00% | ~622 |
+| Space Society | 17.00% | ~623 |
 | Permanent Redesigns | 16.00% | ~586 |
-| Fully Recycled | 14.00% | ~512 |
-| Ain't Nobody Got Time for That | 14.00% | ~512 |
-| The Ship of Theseus | 14.00% | ~512 |
+| Fully Recycled | 14.00% | ~513 |
+| Ain't Nobody Got Time for That | 14.00% | ~513 |
+| The Ship of Theseus | 14.00% | ~513 |
 | Guy de Borderlands | 13.00% | ~476 |
 | Exceeding Capacity | 12.00% | ~439 |
 | Breaking Protocol | 12.00% | ~439 |
 | Hope Seeker | 12.00% | ~439 |
 | A Hunk of Junk | 11.00% | ~403 |
-| Man's Best Friend | 9.00% | ~329 |
+| Man's Best Friend | 9.00% | ~330 |
 | Power Outage | 8.00% | ~293 |
 | Convenient Transport | 8.00% | ~293 |
 | Please Make it Stop! | 8.00% | ~293 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,660 (Ranked 212)  
+Progressed: 3,662 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 3,605 | 0 |
 | 2023-12-21 | 3,624 | 0 |
 | 2023-12-22 | 3,645 | 0 |
-| 2023-12-23 | 3,660 | 0 |
+| 2023-12-23 | 3,662 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

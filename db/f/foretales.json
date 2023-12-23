@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 466,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -210,6 +210,11 @@
       "Time": "2023-12-23T14:06:35.5789737+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T15:05:38.8188589+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -245,7 +250,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "chapter2",
@@ -269,7 +274,7 @@
       "Name": "Dark and stinky",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "darkVolepain",
@@ -347,9 +352,9 @@
       "ID": "itsNotCheating",
       "SetID": "5bkacmp",
       "Name": "It\u0027s not cheating",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "meetYourMaker",
@@ -429,7 +434,7 @@
       "Name": "Stronk",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "superMothBoy",
@@ -493,7 +498,7 @@
       "Name": "Pieces of eight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "thePolitician",
@@ -509,7 +514,7 @@
       "Name": "Caged tiger",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "theUnionLeader",
@@ -548,7 +553,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
@@ -556,8 +561,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:06:35.5789734+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:05:38.8188588+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:20.4549489+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:58:07.764496+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:06:35.5789955+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:57:49.1043353+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:05:38.8188818+00:00"
 }

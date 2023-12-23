@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 87.00% | ~243 |
+| It's Rewind Time | 88.00% | ~246 |
 | Wake Up | 80.00% | ~223 |
 | Time Gates | 63.00% | ~176 |
 | Command Centre | 49.00% | ~137 |

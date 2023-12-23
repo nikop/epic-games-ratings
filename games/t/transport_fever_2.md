@@ -7,8 +7,8 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 75.00% | ~1,588 |
+| First cargo item waiting | 70.00% | ~1,482 |
 | First cargo item on board | 69.00% | ~1,461 |
-| First cargo item waiting | 69.00% | ~1,461 |
 | First bus stop | 68.00% | ~1,440 |
 | First passenger on board | 65.00% | ~1,376 |
 | First passenger waiting | 65.00% | ~1,376 |
@@ -29,7 +29,7 @@ Number of Ratings: 180  (23.09.2022)
 | High speed | 40.00% | ~847 |
 | Transport shark | 39.00% | ~826 |
 | First aircraft arrived | 39.00% | ~826 |
-| Mass production | 33.00% | ~699 |
+| Mass production | 34.00% | ~720 |
 | Aircraft entrepreneur | 32.00% | ~677 |
 | The future is now, old man | 30.00% | ~635 |
 | Crowd in a train | 29.00% | ~614 |

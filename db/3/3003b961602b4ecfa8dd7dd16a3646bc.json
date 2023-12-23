@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -436,9 +436,9 @@
       "ID": "ACH_12_LISA",
       "SetID": "9dl0ei6",
       "Name": "Lisa",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_13_TREASUREHUNTER",
@@ -516,9 +516,9 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_23_MILL",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:10:23.3436192+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:10:02.6181074+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:37.8746121+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:02:36.5062197+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:10:23.3436324+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:46.9870826+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:10:02.6181206+00:00"
 }

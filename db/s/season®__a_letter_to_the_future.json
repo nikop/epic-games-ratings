@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1678,
+  "EOS_Progressed": 1682,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3599,6 +3599,11 @@
       "Time": "2023-12-23T14:10:07.1520984+00:00",
       "NumProgressed": 1678,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-23T15:09:49.3940701+00:00",
+      "NumProgressed": 1682,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 16,
@@ -3618,7 +3623,7 @@
       "Name": "Deep Listener",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -3634,7 +3639,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3642,7 +3647,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -3650,7 +3655,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -3658,7 +3663,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -3666,7 +3671,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3674,7 +3679,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3690,7 +3695,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -3698,7 +3703,7 @@
       "Name": "Outside World Seer",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1043
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3706,7 +3711,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -3714,7 +3719,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_THEEND",
@@ -3730,14 +3735,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1678,
+      "Progressed": 1682,
       "Completed": 64
     }
   ],
@@ -3745,8 +3750,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:10:07.1520978+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:09:49.39407+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:50.4706145+00:00",
-  "LastUpdate_Ratings": "2023-12-23T13:59:15.929662+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:10:07.1521426+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:58:44.6596178+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:09:49.3940909+00:00"
 }

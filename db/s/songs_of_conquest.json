@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2623,6 +2623,11 @@
       "Time": "2023-12-23T14:08:50.8090973+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T15:08:47.4242239+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2659,7 +2664,7 @@
       "Name": "Dressed For Success",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AttackCount",
@@ -2689,9 +2694,9 @@
       "ID": "BurrowBlocked",
       "SetID": "71c0n9i",
       "Name": "This Spot\u0027s Taken",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 14
     },
     {
       "ID": "BurrowUp",
@@ -2737,9 +2742,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 130
     },
     {
       "ID": "Deepstrike",
@@ -2779,7 +2784,7 @@
       "Name": "Double Kill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2963,7 +2968,7 @@
       "Name": "Adept",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 280
     },
     {
       "ID": "WielderLevel2",
@@ -2971,7 +2976,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "WielderLevel3",
@@ -2995,7 +3000,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3019,7 +3024,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3066,15 +3071,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:08:50.809097+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:08:47.4242237+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:00:39.0569932+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:08:50.8091473+00:00"
+  "LastUpdate_Ratings": "2023-12-23T14:59:49.1192821+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:08:47.4242637+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201825,
+  "EOS_Progressed": 201833,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26318,6 +26318,11 @@
       "Time": "2023-12-23T14:06:39.5212677+00:00",
       "NumProgressed": 201825,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T15:05:41.8358748+00:00",
+      "NumProgressed": 201833,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -26329,7 +26334,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16146
+      "UsersEstimate": 16147
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -26337,7 +26342,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 143296
+      "UsersEstimate": 143301
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -26345,7 +26350,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 10091
+      "UsersEstimate": 10092
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -26361,7 +26366,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36328
+      "UsersEstimate": 36330
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -26409,7 +26414,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10091
+      "UsersEstimate": 10092
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -26433,7 +26438,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -26449,14 +26454,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 10091
+      "UsersEstimate": 10092
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201825,
+      "Progressed": 201833,
       "Completed": 4
     }
   ],
@@ -26464,8 +26469,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-23T14:06:39.5212673+00:00",
+  "LastChanged_Achievements": "2023-12-23T15:05:41.8358747+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:20.0370256+00:00",
-  "LastUpdate_Ratings": "2023-12-23T14:01:01.1983596+00:00",
-  "LastUpdate_Achievements": "2023-12-23T14:06:39.5214215+00:00"
+  "LastUpdate_Ratings": "2023-12-23T15:00:06.053526+00:00",
+  "LastUpdate_Achievements": "2023-12-23T15:05:41.835997+00:00"
 }

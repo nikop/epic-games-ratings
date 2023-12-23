@@ -9,14 +9,14 @@
 | Jung's dream | 31.00% | ~20 |
 | The battle of Great Britain | 31.00% | ~20 |
 | Pulp! Where Monsters Dwell | 26.00% | ~17 |
-| A continent with chemistry | 18.00% | ~12 |
-| Giant | 17.00% | ~11 |
+| A continent with chemistry | 20.00% | ~13 |
+| Giant | 18.00% | ~12 |
+| The happy farmer girl | 18.00% | ~12 |
 | Pulp! Terror Tales in the Night | 17.00% | ~11 |
-| The happy farmer girl | 17.00% | ~11 |
 | Pulp! Out of this World | 15.00% | ~10 |
+| Pulp! Adventures into the Unknown | 15.00% | ~10 |
 | A rival with no options | 14.00% | ~9 |
 | The artist | 14.00% | ~9 |
-| Pulp! Adventures into the Unknown | 14.00% | ~9 |
 | Diagnosis: fear | 14.00% | ~9 |
 | Ambition is... blind | 14.00% | ~9 |
 | You have two wishes left | 14.00% | ~9 |
