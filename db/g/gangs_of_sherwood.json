@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -437,9 +437,9 @@
       "ID": "ACH_100_HIT_COMBO",
       "SetID": "5akmpni",
       "Name": "Ultra Combo",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_25_FINISHER",
@@ -621,9 +621,9 @@
       "ID": "ACH_GRAPPLE_ENEMY",
       "SetID": "5akmpni",
       "Name": "Sky High Fighter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HEADSHOT_KILL",
@@ -653,9 +653,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -836,8 +836,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:03:41.4971555+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:03:51.6056304+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:38.8820495+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:59:45.7515837+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:03:41.4971871+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:59:50.9264741+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:03:51.605661+00:00"
 }

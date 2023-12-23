@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1271,
+  "EOS_Progressed": 1272,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -2880,6 +2880,11 @@
       "Time": "2023-12-23T10:06:21.047345+00:00",
       "NumProgressed": 1271,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-23T12:06:29.0409181+00:00",
+      "NumProgressed": 1272,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2923,7 +2928,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2931,7 +2936,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2947,7 +2952,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -2995,7 +3000,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3027,7 +3032,7 @@
       "Name": "Let there be light",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3043,7 +3048,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_STAR_2",
@@ -3051,7 +3056,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_STAR_3",
@@ -3091,7 +3096,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3106,7 +3111,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1271,
+      "Progressed": 1272,
       "Completed": 18
     }
   ],
@@ -3114,8 +3119,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-23T01:40:38.043834+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:06:14.8179534+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:06:29.0409179+00:00",
   "LastUpdate_AppInfo": "2023-12-16T18:57:13.8800884+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:59:00.7169951+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:06:14.8179745+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:59:03.7147285+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:06:29.040948+00:00"
 }

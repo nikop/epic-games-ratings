@@ -247,9 +247,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -263,9 +263,9 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -303,9 +303,9 @@
       "ID": "A_LEGENDARY",
       "SetID": "324h56e",
       "Name": "Loot of Legends",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "A_LEGIONNAIRES",
@@ -327,9 +327,9 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -343,9 +343,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_NOFISH",
@@ -359,9 +359,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A_POPULATION",
@@ -439,9 +439,9 @@
       "ID": "A_TURTLES",
       "SetID": "324h56e",
       "Name": "Turtle Beach",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_WASP",
@@ -478,8 +478,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:06:31.8483084+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:08:15.5617535+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.9451598+00:00",
   "LastUpdate_Ratings": "2023-12-23T11:00:25.4264832+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:06:31.8483335+00:00"
+  "LastUpdate_Achievements": "2023-12-23T12:08:15.5617788+00:00"
 }

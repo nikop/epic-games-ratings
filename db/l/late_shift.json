@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 819,
+  "EOS_Progressed": 820,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -2160,6 +2160,11 @@
       "Time": "2023-12-23T11:09:10.7010537+00:00",
       "NumProgressed": 819,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-23T12:09:14.8090154+00:00",
+      "NumProgressed": 820,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2171,7 +2176,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2219,7 +2224,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ENDING_6",
@@ -2243,7 +2248,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2330,7 +2335,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 819,
+      "Progressed": 820,
       "Completed": 9
     }
   ],
@@ -2338,8 +2343,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:09:10.701053+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:09:14.8090148+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:24.4540531+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:59:44.2674718+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:09:10.7010714+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:59:49.3777899+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:09:14.8090633+00:00"
 }

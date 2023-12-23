@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 858)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,267 |
+| Bragging Rights | 55.00% | ~2,268 |
 | MVP | 54.00% | ~2,226 |
 | Big Spender | 53.00% | ~2,185 |
 | Stud Finder | 40.00% | ~1,649 |
@@ -27,7 +27,7 @@ Rating: 4.29 (Ranked 858)
 | Lockdown Leader | 0.50% | ~21 |
 | The Fortress | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,122 (Ranked 205)  
+Progressed: 4,123 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 4,075 | 0 |
 | 2023-12-21 | 4,090 | 0 |
 | 2023-12-22 | 4,108 | 0 |
-| 2023-12-23 | 4,122 | 0 |
+| 2023-12-23 | 4,123 | 0 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 462)  
 Sum: 146 (Ranked 433)  

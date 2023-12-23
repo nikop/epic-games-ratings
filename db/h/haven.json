@@ -2,12 +2,12 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1732,
+  "EOS_Progressed": 1734,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2803,6 +2803,11 @@
       "Time": "2023-12-23T11:05:58.828701+00:00",
       "NumProgressed": 1732,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-23T12:06:12.6143942+00:00",
+      "NumProgressed": 1734,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2814,7 +2819,7 @@
       "Name": "Lovebirds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "10",
@@ -2830,7 +2835,7 @@
       "Name": "Strike!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "12",
@@ -2878,7 +2883,7 @@
       "Name": "Balding bloot!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "18",
@@ -2886,7 +2891,7 @@
       "Name": "Like new!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "19",
@@ -2966,7 +2971,7 @@
       "Name": "A love supreme",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "3",
@@ -2974,7 +2979,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "30",
@@ -3022,7 +3027,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "7",
@@ -3038,7 +3043,7 @@
       "Name": "Over my dead body",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "9",
@@ -3053,15 +3058,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1732,
+      "Progressed": 1734,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:05:58.8287008+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:06:12.6143939+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:21.3116727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:57:07.1892508+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:05:58.8287286+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:57:08.185692+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:06:12.6144246+00:00"
 }

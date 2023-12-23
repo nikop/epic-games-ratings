@@ -12,12 +12,12 @@
 | Rescuer | 12.00% | ~3 |
 | Power of the turtle | 12.00% | ~3 |
 | Power of the dolphin | 12.00% | ~3 |
+| Power of the ray | 12.00% | ~3 |
+| Pro Photographer | 8.00% | ~2 |
+| Recycling expert | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
-| Power of the ray | 8.00% | ~2 |
-| Pro Photographer | 4.00% | ~1 |
 | Animal reporter | 4.00% | ~1 |
-| Recycling expert | 4.00% | ~1 |
 | Let's get started | 4.00% | ~1 |
 | Island gardian angel | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |

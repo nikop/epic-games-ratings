@@ -12,8 +12,8 @@
 | Aristocratic | 63.00% | ~100 |
 | Tutti Frutti | 58.00% | ~92 |
 | Gotta Go Fast | 44.00% | ~70 |
+| Systematic | 41.00% | ~65 |
 | Slotting Machine | 40.00% | ~63 |
-| Systematic | 40.00% | ~63 |
 | Roll Out | 36.00% | ~57 |
 | Mine Sweeper | 34.00% | ~54 |
 | Dopa-Miner | 27.00% | ~43 |
@@ -21,8 +21,8 @@
 | Whoa! | 26.00% | ~41 |
 | Botropolis | 23.00% | ~36 |
 | Steam Powered | 17.00% | ~27 |
+| Steaming Rich | 17.00% | ~27 |
 | Manic Mechanic | 16.00% | ~25 |
-| Steaming Rich | 16.00% | ~25 |
 | Room To Spare | 13.00% | ~21 |
 | Click 'Em All | 4.00% | ~6 |
 | Real Purdy | 4.00% | ~6 |

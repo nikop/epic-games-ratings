@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7411,
+  "EOS_Progressed": 7414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12003,6 +12003,11 @@
       "Time": "2023-12-23T11:04:15.2801526+00:00",
       "NumProgressed": 7411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T12:04:26.5808084+00:00",
+      "NumProgressed": 7414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12014,7 +12019,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12046,7 +12051,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12078,7 +12083,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12333,13 +12338,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7411,
+      "Progressed": 7414,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6783,
+      "Progressed": 6786,
       "Completed": 113
     }
   ],
@@ -12347,8 +12352,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:04:15.2801523+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:04:26.580808+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:41.8809727+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:57:54.5012064+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:04:15.2802156+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:57:57.1480318+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:04:26.5808796+00:00"
 }

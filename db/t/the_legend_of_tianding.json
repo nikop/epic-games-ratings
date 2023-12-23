@@ -415,9 +415,9 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MilitaryFactoryExplorer",
@@ -439,9 +439,9 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SaveMatsumoto",
@@ -455,9 +455,9 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Survivor",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:04:35.3602593+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:04:46.874136+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:41.0518809+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:00:04.7325948+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:04:35.3602769+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:00:09.7365593+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:04:46.8741498+00:00"
 }

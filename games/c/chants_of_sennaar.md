@@ -5,34 +5,34 @@ Rating: 4.83 (Ranked 60)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 51.00% | ~823 |
-| Welcome to the Tower | 46.00% | ~742 |
-| The great escape | 38.00% | ~613 |
-| The Preacher's fate | 37.00% | ~597 |
-| A new dawn | 30.00% | ~484 |
+| That's the spirit | 51.00% | ~825 |
+| Welcome to the Tower | 46.00% | ~744 |
+| The great escape | 38.00% | ~614 |
+| The Preacher's fate | 37.00% | ~598 |
+| A new dawn | 30.00% | ~485 |
 | Scholar | 26.00% | ~420 |
 | True G3M4R | 25.00% | ~404 |
-| A good beginning | 24.00% | ~387 |
-| The darkness | 24.00% | ~387 |
-| Cable guy | 21.00% | ~339 |
-| Half the way | 21.00% | ~339 |
-| One last step | 21.00% | ~339 |
+| A good beginning | 24.00% | ~388 |
+| The darkness | 24.00% | ~388 |
+| Cable guy | 21.00% | ~340 |
+| Half the way | 21.00% | ~340 |
+| One last step | 21.00% | ~340 |
 | I did it | 20.00% | ~323 |
 | Peace walker | 20.00% | ~323 |
 | Rascal | 20.00% | ~323 |
 | In this together | 19.00% | ~307 |
 | Champollion | 19.00% | ~307 |
-| Open door | 17.00% | ~274 |
-| Feels like springtime | 17.00% | ~274 |
-| Alchemists Express | 16.00% | ~258 |
-| Free at last | 15.00% | ~242 |
+| Open door | 17.00% | ~275 |
+| Feels like springtime | 17.00% | ~275 |
+| Alchemists Express | 16.00% | ~259 |
+| Free at last | 15.00% | ~243 |
 | A Link to the Past | 13.00% | ~210 |
 | A great audience | 11.00% | ~178 |
 | For its own good | 11.00% | ~178 |
 | Fashion victim | 6.00% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,614 (Ranked 250)  
-Completed: 87 (5.39%) (Ranked 74)  
+Progressed: 1,617 (Ranked 250)  
+Completed: 87 (5.38%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,7 +185,7 @@ Completed: 87 (5.39%) (Ranked 74)
 | 2023-12-20 | 1,463 | 78 |
 | 2023-12-21 | 1,511 | 80 |
 | 2023-12-22 | 1,576 | 85 |
-| 2023-12-23 | 1,614 | 87 |
+| 2023-12-23 | 1,617 | 87 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

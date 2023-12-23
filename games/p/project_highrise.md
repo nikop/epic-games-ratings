@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~244 |
+| In the Black | 58.00% | ~245 |
 | Starting Skyward | 52.00% | ~219 |
 | Grime is Not Good | 46.00% | ~194 |
-| Floor Galore | 40.00% | ~168 |
-| Dinner Dash | 40.00% | ~168 |
-| Campaign Launch | 39.00% | ~164 |
-| Need a Consult | 37.00% | ~156 |
+| Floor Galore | 40.00% | ~169 |
+| Dinner Dash | 40.00% | ~169 |
+| Campaign Launch | 39.00% | ~165 |
+| Need a Consult | 36.00% | ~152 |
 | Upgrade Unlock | 36.00% | ~152 |
 | It's Technical | 36.00% | ~152 |
 | Delegate Maintenance | 32.00% | ~135 |
 | Proper Walls | 31.00% | ~131 |
 | Destination Destiny | 31.00% | ~131 |
-| Happy Tenants | 25.00% | ~105 |
-| Potent Potables | 25.00% | ~105 |
+| Happy Tenants | 25.00% | ~106 |
+| Potent Potables | 25.00% | ~106 |
 | Your Prestige is Rising | 24.00% | ~101 |
 | Smooth Service | 24.00% | ~101 |
 | Retail Revenue | 23.00% | ~97 |
@@ -47,9 +47,9 @@
 | First 100 Days | 8.00% | ~34 |
 | Plaza Plan | 8.00% | ~34 |
 | Phoning It In | 8.00% | ~34 |
-| Water Features | 7.00% | ~29 |
-| Revenue Royalty | 7.00% | ~29 |
-| Golden Opportunity | 7.00% | ~29 |
+| Water Features | 7.00% | ~30 |
+| Revenue Royalty | 7.00% | ~30 |
+| Golden Opportunity | 7.00% | ~30 |
 | Careful Constructor | 6.00% | ~25 |
 | Meet Me at HQ | 6.00% | ~25 |
 | Profound Proceeds | 6.00% | ~25 |
@@ -79,9 +79,9 @@
 | Scenario Success | 2.00% | ~8 |
 | Curated Class | 1.00% | ~4 |
 | Full House | 1.00% | ~4 |
-| Double Down | 1.00% | ~4 |
 | Such Great Heights | 1.00% | ~4 |
 | Lofty Landlord | 1.00% | ~4 |
+| Double Down | 0.90% | ~4 |
 | Artistic Largesse | 0.70% | ~3 |
 | High Hand | 0.70% | ~3 |
 | Poker Face | 0.50% | ~2 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 345)  
+Progressed: 422 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 404 | 0 |
 | 2023-12-21 | 413 | 0 |
 | 2023-12-22 | 417 | 0 |
-| 2023-12-23 | 421 | 0 |
+| 2023-12-23 | 422 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

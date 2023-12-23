@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7652,
+  "EOS_Progressed": 7653,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -7913,6 +7913,11 @@
       "Time": "2023-12-23T11:03:09.6172306+00:00",
       "NumProgressed": 7652,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-23T12:03:18.8714433+00:00",
+      "NumProgressed": 7653,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -7925,7 +7930,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "achievement_01_02",
@@ -7933,7 +7938,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "achievement_01_03",
@@ -7949,7 +7954,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5663
     },
     {
       "ID": "achievement_01_05",
@@ -7957,7 +7962,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "achievement_01_06",
@@ -7965,7 +7970,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4591
+      "UsersEstimate": 4592
     },
     {
       "ID": "achievement_01_07",
@@ -7981,7 +7986,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "achievement_01_09",
@@ -7989,7 +7994,7 @@
       "Name": "Right Foot",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "achievement_01_10",
@@ -8053,7 +8058,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "achievement_02_08",
@@ -8077,7 +8082,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "achievement_03_03",
@@ -8181,7 +8186,7 @@
       "Name": "Flawless Racer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "achievement_04_05",
@@ -8213,7 +8218,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "achievement_04_09",
@@ -8228,7 +8233,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7652,
+      "Progressed": 7653,
       "Completed": 47
     }
   ],
@@ -8236,8 +8241,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-20T14:59:57.7914737+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:03:09.6172302+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:03:18.8714429+00:00",
   "LastUpdate_AppInfo": "2023-12-21T23:57:02.6189043+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:57:47.19518+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:03:09.617375+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:57:49.4708375+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:03:18.8715068+00:00"
 }

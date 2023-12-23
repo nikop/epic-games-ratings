@@ -14,10 +14,10 @@
 | The End of an Outlaw | 38.00% | ~18 |
 | Captain Mustache | 38.00% | ~18 |
 | Dispel Rumors | 36.00% | ~17 |
-| Demon Slayer | 30.00% | ~14 |
+| Demon Slayer | 32.00% | ~15 |
+| Steal Her Away | 32.00% | ~15 |
+| Sewer Rat | 32.00% | ~15 |
 | Urban Explorer | 30.00% | ~14 |
-| Steal Her Away | 30.00% | ~14 |
-| Sewer Rat | 30.00% | ~14 |
 | Fight Fire With Fire | 30.00% | ~14 |
 | Not Today | 28.00% | ~13 |
 | Big Eater | 26.00% | ~12 |

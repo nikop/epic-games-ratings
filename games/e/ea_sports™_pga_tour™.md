@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Star Power | 84.00% | ~586 |
+| Star Power | 84.00% | ~587 |
 | Makin' the Cut | 61.00% | ~426 |
 | From Way Downtown | 59.00% | ~412 |
 | Clean Sheet | 56.00% | ~391 |
 | Winner's Circle | 52.00% | ~363 |
-| Holey Moley | 50.00% | ~349 |
-| Bomb's Away | 45.00% | ~314 |
-| Perfect Round | 40.00% | ~279 |
-| Competitor's Spirit | 37.00% | ~258 |
-| The Strongest Field in Golf | 29.00% | ~202 |
-| Ace in the Hole | 27.00% | ~188 |
-| From Many, One | 25.00% | ~174 |
+| Holey Moley | 50.00% | ~350 |
+| Bomb's Away | 45.00% | ~315 |
+| Perfect Round | 40.00% | ~280 |
+| Competitor's Spirit | 36.00% | ~252 |
+| The Strongest Field in Golf | 28.00% | ~196 |
+| Ace in the Hole | 27.00% | ~189 |
+| From Many, One | 25.00% | ~175 |
 | A Tradition Unlike Any Other | 22.00% | ~154 |
 | A Passion for Excellence | 21.00% | ~147 |
 | Golf's Original Championship | 21.00% | ~147 |
@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 13.00% | ~91 |
 | Victory Lap | 8.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 304)  
+Progressed: 699 (Ranked 304)  
 Completed: 10 (1.43%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,4 +121,4 @@ Completed: 10 (1.43%) (Ranked 149)
 | 2023-12-20 | 672 | 10 |
 | 2023-12-21 | 682 | 10 |
 | 2023-12-22 | 691 | 10 |
-| 2023-12-23 | 698 | 10 |
+| 2023-12-23 | 699 | 10 |

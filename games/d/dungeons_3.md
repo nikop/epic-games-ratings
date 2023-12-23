@@ -1,48 +1,48 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 296)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~31,077 |
-| The Evilest Evil | 59.00% | ~26,194 |
-| Twistram is devastated | 58.00% | ~25,750 |
-| The Gehenna Stones | 50.00% | ~22,198 |
-| No one has to die today! | 47.00% | ~20,866 |
-| Death and destruction! | 46.00% | ~20,422 |
-| The Swamplanders from the swamplands | 44.00% | ~19,534 |
-| The One-Huge-Army-Building Evil | 41.00% | ~18,202 |
-| Rusty Steel | 41.00% | ~18,202 |
-| Braiiiiins! | 38.00% | ~16,870 |
-| The last burger | 37.00% | ~16,427 |
-| Hands off the Dungeonheart! | 36.00% | ~15,983 |
-| A trip on sea, what fun it can be | 34.00% | ~15,095 |
-| Damned good | 33.00% | ~14,651 |
-| Stock Market Crash | 31.00% | ~13,763 |
-| Factory farming | 31.00% | ~13,763 |
-| Shadow hunter | 30.00% | ~13,319 |
-| Not-So-Overproud | 30.00% | ~13,319 |
-| For a handfull of Catapults | 28.00% | ~12,431 |
-| Thirst quencher | 27.00% | ~11,987 |
-| Ogre Solo! | 27.00% | ~11,987 |
-| Destroy the thing | 26.00% | ~11,543 |
-| Tide Master | 26.00% | ~11,543 |
-| Difficult family relationships | 25.00% | ~11,099 |
-| MASS-O-BOT | 24.00% | ~10,655 |
-| Prepare the grave | 24.00% | ~10,655 |
-| Angel of Fire | 24.00% | ~10,655 |
-| Where there is Light, there is Shadow | 23.00% | ~10,211 |
-| At the foot of Mount Destiny | 22.00% | ~9,767 |
-| The Force disturbed | 21.00% | ~9,323 |
-| The Victorious Evil | 20.00% | ~8,879 |
-| Chorus of damnation | 19.00% | ~8,435 |
-| We don’t have time! | 19.00% | ~8,435 |
-| The Stones’ Power | 18.00% | ~7,991 |
-| Flat as a pancake | 17.00% | ~7,547 |
-| Lifeguard | 17.00% | ~7,547 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,659 |
+| The Shadow strikes | 70.00% | ~31,079 |
+| The Evilest Evil | 59.00% | ~26,195 |
+| Twistram is devastated | 58.00% | ~25,751 |
+| The Gehenna Stones | 50.00% | ~22,200 |
+| No one has to die today! | 47.00% | ~20,868 |
+| Death and destruction! | 46.00% | ~20,424 |
+| The Swamplanders from the swamplands | 44.00% | ~19,536 |
+| The One-Huge-Army-Building Evil | 41.00% | ~18,204 |
+| Rusty Steel | 41.00% | ~18,204 |
+| Braiiiiins! | 38.00% | ~16,872 |
+| The last burger | 37.00% | ~16,428 |
+| Hands off the Dungeonheart! | 36.00% | ~15,984 |
+| A trip on sea, what fun it can be | 34.00% | ~15,096 |
+| Damned good | 33.00% | ~14,652 |
+| Stock Market Crash | 31.00% | ~13,764 |
+| Factory farming | 31.00% | ~13,764 |
+| Shadow hunter | 30.00% | ~13,320 |
+| Not-So-Overproud | 30.00% | ~13,320 |
+| For a handfull of Catapults | 28.00% | ~12,432 |
+| Thirst quencher | 27.00% | ~11,988 |
+| Ogre Solo! | 27.00% | ~11,988 |
+| Destroy the thing | 26.00% | ~11,544 |
+| Tide Master | 26.00% | ~11,544 |
+| Difficult family relationships | 25.00% | ~11,100 |
+| MASS-O-BOT | 24.00% | ~10,656 |
+| Prepare the grave | 24.00% | ~10,656 |
+| Angel of Fire | 24.00% | ~10,656 |
+| Where there is Light, there is Shadow | 23.00% | ~10,212 |
+| At the foot of Mount Destiny | 22.00% | ~9,768 |
+| The Force disturbed | 21.00% | ~9,324 |
+| The Victorious Evil | 20.00% | ~8,880 |
+| Chorus of damnation | 19.00% | ~8,436 |
+| We don’t have time! | 19.00% | ~8,436 |
+| The Stones’ Power | 18.00% | ~7,992 |
+| Flat as a pancake | 17.00% | ~7,548 |
+| Lifeguard | 17.00% | ~7,548 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,660 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,328 |
 | Then let them eat cake! | 12.00% | ~5,328 |
 | The White Knight | 10.00% | ~4,440 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~888 |
 | Sacrifices! | 2.00% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,396 (Ranked 124)  
+Progressed: 44,399 (Ranked 124)  
 Completed: 359 (0.81%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 359 (0.81%) (Ranked 187)
 | 2023-12-20 | 44,134 | 358 |
 | 2023-12-21 | 44,240 | 358 |
 | 2023-12-22 | 44,346 | 359 |
-| 2023-12-23 | 44,396 | 359 |
+| 2023-12-23 | 44,399 | 359 |
 ## Awards
 Max (Great for Beginners): 392  (Ranked 237)  
 Sum: 2,823 (Ranked 184)  

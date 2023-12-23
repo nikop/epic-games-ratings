@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1892,6 +1892,11 @@
       "Time": "2023-12-23T11:09:41.7283187+00:00",
       "NumProgressed": 538,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T12:09:46.5717967+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1903,7 +1908,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "completeact2",
@@ -1917,9 +1922,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 216
     },
     {
       "ID": "findalltapes",
@@ -1997,9 +2002,9 @@
       "ID": "scoreminrankrp3",
       "SetID": "40n95i5",
       "Name": "The Eye of the Storm",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrv1",
@@ -2022,7 +2027,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 2
     }
   ],
@@ -2030,8 +2035,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:09:41.7283182+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:09:46.5717964+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.6488501+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:57:31.3012784+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:09:41.7283366+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:57:32.7348351+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:09:46.5718186+00:00"
 }

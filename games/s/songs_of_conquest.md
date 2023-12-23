@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 41.00% | ~275 |
-| Double Kill | 33.00% | ~221 |
-| Critical Hit | 18.00% | ~121 |
-| Veteran | 18.00% | ~121 |
+| Adept | 40.00% | ~270 |
+| Double Kill | 33.00% | ~223 |
+| Critical Hit | 18.00% | ~122 |
+| Veteran | 18.00% | ~122 |
 | Dressed For Success | 12.00% | ~81 |
 | Humiliation | 8.00% | ~54 |
 | Veni, Vidi, Vici | 8.00% | ~54 |
@@ -24,9 +24,9 @@ Number of Ratings: 292  (23.09.2022)
 | This Spot's Taken | 3.00% | ~20 |
 | Expert Essence Employment | 3.00% | ~20 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~20 |
-| Deepstrike | 2.00% | ~13 |
-| Ultra Kill | 2.00% | ~13 |
-| Pyrrhic Victory | 2.00% | ~13 |
+| Deepstrike | 2.00% | ~14 |
+| Ultra Kill | 2.00% | ~14 |
+| Pyrrhic Victory | 2.00% | ~14 |
 | Versatile Wielder | 1.00% | ~7 |
 | Infernal Influence | 1.00% | ~7 |
 | Together For Her | 1.00% | ~7 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671 (Ranked 307)  
+Progressed: 675 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 600 | 0 |
 | 2023-12-21 | 630 | 0 |
 | 2023-12-22 | 665 | 0 |
-| 2023-12-23 | 671 | 0 |
+| 2023-12-23 | 675 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 525)  
 Sum: 194 (Ranked 413)  

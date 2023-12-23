@@ -2,9 +2,9 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 433,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-12-20T18:08:47.6912575+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T12:08:29.775371+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -328,7 +333,7 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 5,
       "UsersEstimate": 57
     },
@@ -416,7 +421,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -480,7 +485,7 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 54
     },
@@ -592,7 +597,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -713,14 +718,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:08:26.9131516+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:08:29.7753706+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:53.8848096+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:02:54.7048543+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:08:26.9131817+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:03:01.7422378+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:08:29.7754069+00:00"
 }

@@ -1,45 +1,45 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 296)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 10.00% | ~24 |
-| Sponge Smasher | 9.00% | ~22 |
+| Spatula Seeker | 10.00% | ~25 |
+| Sponge Smasher | 10.00% | ~25 |
 | Jellyfish Jam | 7.00% | ~17 |
 | Jellyfishing | 6.00% | ~15 |
 | Time For Tutorial | 5.00% | ~12 |
 | Toxic Terror | 4.00% | ~10 |
 | Sweet Victory | 4.00% | ~10 |
+| Sock Getter | 4.00% | ~10 |
 | Life's as extreme as you wanna make it! | 3.00% | ~7 |
+| Keep it Rolling | 3.00% | ~7 |
 | Shrimp Catcher | 3.00% | ~7 |
 | Star Smasher | 3.00% | ~7 |
+| Surf's Up! | 3.00% | ~7 |
 | Robot encyclopedia | 2.00% | ~5 |
 | Are you ready now? | 2.00% | ~5 |
 | Uptown and Downtown | 2.00% | ~5 |
 | Hello, Bikini Bottom | 2.00% | ~5 |
-| Keep it Rolling | 2.00% | ~5 |
 | Hit Rock Bottom | 2.00% | ~5 |
-| Sock Getter | 2.00% | ~5 |
+| Super Spatula Seeker | 2.00% | ~5 |
 | Squirrel Smasher | 2.00% | ~5 |
-| Surf's Up! | 2.00% | ~5 |
-| Super Spatula Seeker | 1.00% | ~2 |
+| Sleepy Time | 0.40% | ~1 |
 | The Small Does Not Rule | 0.00% | ~0 |
 | 100% SpongeBob | 0.00% | ~0 |
 | Ship Shape | 0.00% | ~0 |
 | Shanghaied | 0.00% | ~0 |
 | Kelp Forest of Fear | 0.00% | ~0 |
 | SpongeBob vs SpongeBob! | 0.00% | ~0 |
-| Sleepy Time | 0.00% | ~0 |
 | Sock Concert | 0.00% | ~0 |
 | Sock Opera | 0.00% | ~0 |
 | Super Ultra Mega Spatula Seeker | 0.00% | ~0 |
 | Ultra Spatula Seeker | 0.00% | ~0 |
 | Mega Spatula Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 395)  
+Progressed: 248 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-20 | 127 | 0 |
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
-| 2023-12-23 | 244 | 0 |
+| 2023-12-23 | 248 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 492)  
 Sum: 34 (Ranked 516)  

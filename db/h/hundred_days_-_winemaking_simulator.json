@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17148,
+  "EOS_Progressed": 17157,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -14617,6 +14617,11 @@
       "Time": "2023-12-23T11:09:20.3035116+00:00",
       "NumProgressed": 17148,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-23T12:09:24.3952592+00:00",
+      "NumProgressed": 17157,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14629,7 +14634,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "a_10",
@@ -14661,7 +14666,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "a_16",
@@ -14677,7 +14682,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7202
+      "UsersEstimate": 7206
     },
     {
       "ID": "a_19",
@@ -14685,7 +14690,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "a_2",
@@ -14693,7 +14698,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "a_20",
@@ -14725,7 +14730,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "a_25",
@@ -14733,7 +14738,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "a_26",
@@ -14749,7 +14754,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "a_28",
@@ -14757,7 +14762,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "a_3",
@@ -14765,7 +14770,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "a_30",
@@ -14829,7 +14834,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "a_5",
@@ -14845,7 +14850,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "a_7",
@@ -14861,7 +14866,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "a_9",
@@ -14876,7 +14881,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17148,
+      "Progressed": 17157,
       "Completed": 13
     }
   ],
@@ -14884,8 +14889,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-23T05:00:37.1267316+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:09:20.3035114+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:09:24.395259+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:03.7853176+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:00:22.2782471+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:09:20.3035877+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:00:29.6915023+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:09:24.395376+00:00"
 }

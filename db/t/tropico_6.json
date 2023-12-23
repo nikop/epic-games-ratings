@@ -1467,9 +1467,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6598,
+  "EOS_Progressed": 6600,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15047,6 +15047,11 @@
       "Time": "2023-12-23T10:05:30.3250243+00:00",
       "NumProgressed": 6598,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T12:05:38.2832762+00:00",
+      "NumProgressed": 6600,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15154,7 +15159,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15218,7 +15223,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4883
+      "UsersEstimate": 4884
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15314,7 +15319,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15330,7 +15335,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15377,15 +15382,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6598,
+      "Progressed": 6600,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-21T18:57:32.4771676+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:05:25.1070858+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:05:38.2832757+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.7844638+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:58:20.5668182+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:05:25.1071557+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:58:21.1453156+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:05:38.2833568+00:00"
 }

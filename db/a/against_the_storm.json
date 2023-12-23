@@ -3557,9 +3557,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 18981,
+  "EOS_Progressed": 18995,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16797,6 +16797,11 @@
       "Time": "2023-12-23T10:06:39.4290024+00:00",
       "NumProgressed": 18981,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-12-23T12:03:17.3542936+00:00",
+      "NumProgressed": 18995,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16897,7 +16902,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinHard",
@@ -16905,7 +16910,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "WinImpossible",
@@ -17073,7 +17078,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "WinOnCursed",
@@ -17089,7 +17094,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinOnMoorlands",
@@ -17097,7 +17102,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "WinPrestige10",
@@ -17145,7 +17150,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinWithResolve",
@@ -17185,7 +17190,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinWithoutOrders",
@@ -17209,7 +17214,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "WinNearFrosts",
@@ -17217,7 +17222,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinNearGreed",
@@ -17225,7 +17230,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinNearLibrary",
@@ -17233,7 +17238,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "WinNearPetrified",
@@ -17241,7 +17246,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "WinNearPresence",
@@ -17249,7 +17254,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinNearStorms",
@@ -17257,7 +17262,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17280,15 +17285,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 18981,
+      "Progressed": 18995,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-22T23:00:20.7079421+00:00",
-  "LastChanged_Achievements": "2023-12-23T10:06:39.4290022+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:03:17.3542933+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:24.9561603+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:57:04.1521291+00:00",
-  "LastUpdate_Achievements": "2023-12-23T10:06:39.4291106+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:57:04.962105+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:03:17.3543928+00:00"
 }

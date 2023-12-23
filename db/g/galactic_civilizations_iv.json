@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -987,9 +987,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7452,
+  "EOS_Progressed": 7453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9337,6 +9337,11 @@
       "Time": "2023-12-23T11:09:35.5930064+00:00",
       "NumProgressed": 7452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T12:09:40.4111091+00:00",
+      "NumProgressed": 7453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9388,7 +9393,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "Control_All_Relics",
@@ -9452,7 +9457,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5739
     },
     {
       "ID": "First_Race_Met",
@@ -9460,7 +9465,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "First_Ship_Designed",
@@ -9652,7 +9657,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -9668,7 +9673,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9923,15 +9928,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7452,
+      "Progressed": 7453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:09:35.5930059+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:09:40.4111087+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:41.5804615+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:58:11.3865155+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:09:35.5930871+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:58:12.7139092+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:09:40.4112246+00:00"
 }

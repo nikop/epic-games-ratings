@@ -5,7 +5,7 @@
   "Ranking_Rating": 230,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 413,
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 155,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2608,6 +2608,11 @@
       "Time": "2023-12-23T11:08:35.2595018+00:00",
       "NumProgressed": 671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T12:08:38.3946726+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2724,7 +2729,7 @@
       "Name": "Critical Hit",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Deepstrike",
@@ -2732,7 +2737,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DieByTheBow",
@@ -2764,7 +2769,7 @@
       "Name": "Double Kill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 223
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2940,15 +2945,15 @@
       "Name": "Ultra Kill",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 270
     },
     {
       "ID": "WielderLevel2",
@@ -2956,7 +2961,7 @@
       "Name": "Veteran",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "WielderLevel3",
@@ -2988,7 +2993,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -3051,15 +3056,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:08:35.2595016+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:08:38.3946723+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:10.4027668+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:59:25.2079172+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:08:35.259543+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:59:30.3720558+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:08:38.394722+00:00"
 }

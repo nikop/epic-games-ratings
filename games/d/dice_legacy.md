@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 858)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 41.00% | ~513 |
+| We made it | 42.00% | ~526 |
 | The City | 11.00% | ~138 |
 | Manipulating Fate | 10.00% | ~125 |
 | Full house | 7.00% | ~88 |

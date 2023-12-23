@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8960,
+  "EOS_Progressed": 8962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9253,6 +9253,11 @@
       "Time": "2023-12-23T11:09:51.6804708+00:00",
       "NumProgressed": 8960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T12:09:56.6192761+00:00",
+      "NumProgressed": 8962,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -9457,7 +9462,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "HAUpgraded1",
@@ -9481,7 +9486,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "HSUPurchased1",
@@ -9529,7 +9534,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "InhibitorKills3",
@@ -9551,9 +9556,9 @@
       "ID": "LMGUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the LMG to Level 3",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 627
     },
     {
       "ID": "LaserUpgraded1",
@@ -9673,7 +9678,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "NeutralKills200",
@@ -9689,7 +9694,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "PlayerKills10",
@@ -9761,7 +9766,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "SEUpgraded1",
@@ -9825,7 +9830,7 @@
       "Name": "Purchased Turret",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "TSUPurchased1",
@@ -9856,7 +9861,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8960,
+      "Progressed": 8962,
       "Completed": 1
     }
   ],
@@ -9864,8 +9869,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-18T09:02:43.8513268+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:09:51.6804704+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:09:56.6192755+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.3951341+00:00",
-  "LastUpdate_Ratings": "2023-12-23T10:59:23.0784352+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:09:51.6805537+00:00"
+  "LastUpdate_Ratings": "2023-12-23T11:59:27.6789282+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:09:56.6193693+00:00"
 }

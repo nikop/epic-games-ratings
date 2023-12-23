@@ -15,8 +15,8 @@
 | Spring Board | 40.00% | ~37 |
 | Right between the eyes | 39.00% | ~36 |
 | Starry Night | 37.00% | ~34 |
+| Locksley's Tears | 37.00% | ~34 |
 | Rebel Unleashed | 37.00% | ~34 |
-| Locksley's Tears | 35.00% | ~32 |
 | Merry Co-operation | 34.00% | ~31 |
 | Finish Him! | 26.00% | ~24 |
 | Assault on the Ram | 25.00% | ~23 |
@@ -27,10 +27,10 @@
 | Hidden Experiment | 17.00% | ~16 |
 | Take Action! | 17.00% | ~16 |
 | Ascending Will | 15.00% | ~14 |
-| Ultra Combo | 14.00% | ~13 |
+| Ultra Combo | 15.00% | ~14 |
 | Into the Lion's Den | 12.00% | ~11 |
 | Haute Couture | 11.00% | ~10 |
-| Sky High Fighter | 9.00% | ~8 |
+| Sky High Fighter | 10.00% | ~9 |
 | The Gang prevails | 8.00% | ~7 |
 | Brilliant Executioner | 7.00% | ~6 |
 | Bold and Bossy | 5.00% | ~5 |

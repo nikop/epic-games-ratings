@@ -50,7 +50,7 @@
 | Berserker Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 310)  
+Progressed: 649 (Ranked 311)  
 Completed: 2 (0.31%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1280,6 +1280,11 @@
       "Time": "2023-12-23T11:03:55.4605727+00:00",
       "NumProgressed": 421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T12:04:06.003555+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1323,7 +1328,7 @@
       "Name": "Floor Galore",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_area_1",
@@ -1379,7 +1384,7 @@
       "Name": "Campaign Launch",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_campaigns_1",
@@ -1425,9 +1430,9 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_consultant_1",
@@ -1537,7 +1542,7 @@
       "ID": "ach_ep1_event_1",
       "SetID": "b8gh1fi",
       "Name": "Double Down",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1619,7 +1624,7 @@
       "Name": "Water Features",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_grime",
@@ -1651,7 +1656,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_loan",
@@ -1755,7 +1760,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_profit_1",
@@ -1811,7 +1816,7 @@
       "Name": "Dinner Dash",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_restaurants_4",
@@ -1819,7 +1824,7 @@
       "Name": "Potent Potables",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_restaurants_5",
@@ -1875,7 +1880,7 @@
       "Name": "Revenue Royalty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_revs_3",
@@ -1891,7 +1896,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_scenarios_2",
@@ -1994,7 +1999,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 0
     }
   ],
@@ -2002,8 +2007,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-23T11:03:55.4605722+00:00",
+  "LastChanged_Achievements": "2023-12-23T12:04:06.0035547+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:18.491222+00:00",
-  "LastUpdate_Ratings": "2023-12-23T11:00:24.9560187+00:00",
-  "LastUpdate_Achievements": "2023-12-23T11:03:55.4606472+00:00"
+  "LastUpdate_Ratings": "2023-12-23T12:00:32.4610258+00:00",
+  "LastUpdate_Achievements": "2023-12-23T12:04:06.0036313+00:00"
 }

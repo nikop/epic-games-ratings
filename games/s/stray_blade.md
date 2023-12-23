@@ -7,8 +7,8 @@
 | Self-Defence | 13.00% | ~18 |
 | Tinkerer | 8.00% | ~11 |
 | Welcome to the Club | 7.00% | ~10 |
+| Don't Cry Wolf | 6.00% | ~9 |
 | A new World ahead | 6.00% | ~9 |
-| Don't Cry Wolf | 5.00% | ~7 |
 | Craftsmen | 3.00% | ~4 |
 | Apprentice | 2.00% | ~3 |
 | Defeat Tezuth | 1.00% | ~1 |
