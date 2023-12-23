@@ -105,7 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,471 |
 | Eternal Crusade | 1.00% | ~1,471 |
 | Economy of Scarce | 1.00% | ~1,471 |
-| All or Nothing! | 0.90% | ~1,323 |
+| All or Nothing! | 0.90% | ~1,324 |
 | The Greatest Grind | 0.80% | ~1,176 |
 | Marvels from the World Over | 0.80% | ~1,176 |
 | Bane of Legends | 0.70% | ~1,029 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~588 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,051 (Ranked 82)  
-Completed: 330 (0.22%) (Ranked 266)  
+Progressed: 147,056 (Ranked 82)  
+Completed: 330 (0.22%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -366,7 +366,7 @@ Completed: 330 (0.22%) (Ranked 266)
 | 2023-12-20 | 146,580 | 325 |
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
-| 2023-12-23 | 147,051 | 330 |
+| 2023-12-23 | 147,056 | 330 |
 ## Awards
 Max (Great for Beginners): 4,906  (Ranked 75)  
 Sum: 27,782 (Ranked 52)  

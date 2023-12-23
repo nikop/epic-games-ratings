@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3654,
+  "EOS_Progressed": 3655,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5826,6 +5826,11 @@
       "Time": "2023-12-22T23:03:35.1769687+00:00",
       "NumProgressed": 3654,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T04:07:20.5902077+00:00",
+      "NumProgressed": 3655,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5845,7 +5850,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "FALLEN_TREE",
@@ -5940,7 +5945,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3654,
+      "Progressed": 3655,
       "Completed": 6
     }
   ],
@@ -5948,8 +5953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:06:27.2396805+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:07:20.5902072+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.2126403+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:57:15.3100333+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:06:27.239724+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:57:33.6655301+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:07:20.5902483+00:00"
 }

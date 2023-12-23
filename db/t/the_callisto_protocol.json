@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1781,9 +1781,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18712,
+  "EOS_Progressed": 18715,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1551,
+  "EOS_NewPlayers": 1545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -10791,6 +10791,11 @@
       "Time": "2023-12-23T03:09:34.8530675+00:00",
       "NumProgressed": 18712,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-23T04:10:11.8356297+00:00",
+      "NumProgressed": 18715,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10930,7 +10935,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "KILL_ROBOT",
@@ -10954,7 +10959,7 @@
       "Name": "The Commonality",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -10962,7 +10967,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -10970,7 +10975,7 @@
       "Name": "Reforged",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11177,13 +11182,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18712,
+      "Progressed": 18715,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6638,
+      "Progressed": 6641,
       "Completed": 29
     }
   ],
@@ -11191,8 +11196,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-23T03:03:32.8304663+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:09:34.8530672+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:11.8356293+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:03:32.8304668+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:09:34.8531504+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:03:47.1009147+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:11.835722+00:00"
 }

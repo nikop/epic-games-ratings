@@ -2,13 +2,13 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 61,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 541,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -215,7 +215,7 @@
   ],
   "EOS_Progressed": 1616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4098,9 +4098,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 630
     },
     {
       "ID": "AC26",
@@ -4138,9 +4138,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 792
     },
     {
       "ID": "AC31",
@@ -4218,9 +4218,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1260
     },
     {
       "ID": "AC41",
@@ -4275,8 +4275,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-22T21:58:21.688111+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:06:29.7156091+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:07:23.5374133+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:58:12.6365663+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:06:29.7156508+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:58:46.5166433+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:07:23.5374538+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -1546,9 +1546,9 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_HAT",
       "SetID": "5lffoo5",
       "Name": "Golden Hat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
@@ -1578,9 +1578,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -1625,8 +1625,8 @@
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:03:55.4123234+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:04:15.5440403+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:38.3473429+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:57:46.1513257+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:03:55.4123425+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:58:13.1909769+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:04:15.5440575+00:00"
 }

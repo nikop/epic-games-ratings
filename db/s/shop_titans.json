@@ -6,9 +6,9 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7705,9 +7705,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147051,
+  "EOS_Progressed": 147056,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 1326,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33550,6 +33550,11 @@
       "Time": "2023-12-23T03:05:23.3418766+00:00",
       "NumProgressed": 147051,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-12-23T04:06:02.3916745+00:00",
+      "NumProgressed": 147056,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 112,
@@ -34257,7 +34262,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "polonia_a",
@@ -34456,15 +34461,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147051,
+      "Progressed": 147056,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-23T02:20:30.8212828+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:05:23.3418764+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:06:02.3916741+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.001195+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:03:31.7089692+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:05:23.3420836+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:03:45.3627958+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:06:02.3918813+00:00"
 }

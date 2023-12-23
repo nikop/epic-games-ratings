@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~369 |
+| Malpractice Assurance | 9.00% | ~370 |
 | Lost and Found | 6.00% | ~246 |
 | This guy... again? | 5.00% | ~205 |
-| This Belongs in a Museum | 4.00% | ~5,169 |
-| Creep and Sleep | 4.00% | ~5,169 |
-| Overdue Notice | 4.00% | ~5,169 |
-| Escape from the Black Hole | 4.00% | ~5,169 |
-| Autodidact | 4.00% | ~5,169 |
+| This Belongs in a Museum | 4.00% | ~5,170 |
+| Creep and Sleep | 4.00% | ~5,170 |
+| Overdue Notice | 4.00% | ~5,170 |
+| Escape from the Black Hole | 4.00% | ~5,170 |
+| Autodidact | 4.00% | ~5,170 |
 | Ploughshares to Swords | 4.00% | ~164 |
 | Bloody Graduation | 4.00% | ~164 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,877 |
@@ -64,11 +64,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.80% | ~33 |
 | Shrine of Reflection | 0.70% | ~905 |
 | Body of Work | 0.70% | ~905 |
+| Clearing the Ledger | 0.60% | ~775 |
 | Et Tu, Riposte? | 0.60% | ~25 |
-| Clearing the Ledger | 0.50% | ~646 |
 | Hat Trick | 0.50% | ~646 |
 | Triage | 0.50% | ~646 |
-| No Mercy | 0.50% | ~20 |
+| No Mercy | 0.50% | ~21 |
 | The World As It Was | 0.40% | ~517 |
 | Bacon Bits | 0.40% | ~517 |
 | A Life Well Lived | 0.30% | ~388 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,227 (Ranked 86)  
+Progressed: 129,238 (Ranked 86)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,227 | 3 |
+| 2023-12-23 | 129,238 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,962 (Ranked 58)  

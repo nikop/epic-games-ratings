@@ -2,11 +2,11 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -289,15 +289,21 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T03:58:14.2545089+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17134,
+  "EOS_Progressed": 17135,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -14805,6 +14811,11 @@
       "Time": "2023-12-23T03:06:20.466596+00:00",
       "NumProgressed": 17134,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-23T04:07:12.2064906+00:00",
+      "NumProgressed": 17135,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14969,7 +14980,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "28",
@@ -14993,7 +15004,7 @@
       "Name": "Captain Drummer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "30",
@@ -15025,7 +15036,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "7",
@@ -15096,22 +15107,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17134,
+      "Progressed": 17135,
       "Completed": 47
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3088,
-      "Completed": 995
+      "Progressed": 3089,
+      "Completed": 997
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-12-21T04:02:39.716899+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:06:20.4665957+00:00",
+  "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:07:12.2064903+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:40.0929133+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:57:47.0097914+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:06:20.4666858+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:58:14.2545092+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:07:12.2065709+00:00"
 }

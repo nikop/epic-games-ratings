@@ -10,9 +10,9 @@ Rating: 4.20 (Ranked 936)
 | Get a Grip | 14.00% | ~2,620 |
 | Paper Jams | 14.00% | ~2,620 |
 | Desperate Times | 14.00% | ~2,620 |
-| Chew 'Em Up | 12.00% | ~2,245 |
-| Float Like A Butterfly | 11.00% | ~2,058 |
-| Reforged | 11.00% | ~2,058 |
+| Chew 'Em Up | 12.00% | ~2,246 |
+| Float Like A Butterfly | 11.00% | ~2,059 |
+| Reforged | 11.00% | ~2,059 |
 | Workplace Hazard | 9.00% | ~1,684 |
 | If the SHU Fits... | 9.00% | ~1,684 |
 | Without A Paddle | 8.00% | ~1,497 |
@@ -28,7 +28,7 @@ Rating: 4.20 (Ranked 936)
 | Keep Fighting | 6.00% | ~398 |
 | I Do Belong Here | 5.00% | ~936 |
 | It's Time | 5.00% | ~332 |
-| The Commonality | 4.00% | ~748 |
+| The Commonality | 4.00% | ~749 |
 | In Striking Distance | 3.00% | ~561 |
 | One Last Job | 2.00% | ~133 |
 | Mugshot | 1.00% | ~187 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,712 (Ranked 151)  
+Progressed: 18,715 (Ranked 151)  
 Completed: 82 (0.44%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 82 (0.44%) (Ranked 223)
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
-| 2023-12-23 | 18,712 | 82 |
+| 2023-12-23 | 18,715 | 82 |
 ## Awards
 Max (Amazing Characters): 95  (Ranked 382)  
 Sum: 553 (Ranked 324)  

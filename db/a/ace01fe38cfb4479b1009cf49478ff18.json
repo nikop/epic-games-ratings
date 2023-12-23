@@ -3,9 +3,9 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 341,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 438,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1629,17 +1629,17 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 175,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -1692,8 +1692,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:04:54.0944581+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:05:26.2709492+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:58:37.6014342+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:04:54.094471+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:59:18.6153064+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:05:26.2709677+00:00"
 }

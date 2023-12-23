@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3647,
+  "EOS_Progressed": 3648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6918,6 +6918,11 @@
       "Time": "2023-12-23T01:46:48.1923369+00:00",
       "NumProgressed": 3647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T04:05:57.0754248+00:00",
+      "NumProgressed": 3648,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7081,7 +7086,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_BASE_3",
@@ -7129,7 +7134,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_BASE_35",
@@ -7384,13 +7389,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1831,
+      "Progressed": 1832,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3647,
+      "Progressed": 3648,
       "Completed": 0
     }
   ],
@@ -7398,8 +7403,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:05:18.9580608+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:05:57.0754246+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:58:00.2109459+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:05:18.9581273+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:58:32.1768374+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:05:57.075497+00:00"
 }

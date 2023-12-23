@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58375,
+  "EOS_Progressed": 58378,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14561,6 +14561,11 @@
       "Time": "2023-12-23T03:05:27.0055163+00:00",
       "NumProgressed": 58375,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T04:06:07.1014059+00:00",
+      "NumProgressed": 58378,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14644,7 +14649,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "FlyingPresentMaster",
@@ -14716,7 +14721,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "HarshLove",
@@ -14963,7 +14968,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58375,
+      "Progressed": 58378,
       "Completed": 6
     }
   ],
@@ -14971,8 +14976,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:05:27.0055161+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:06:07.1014054+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:49.0606835+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:57:31.4168755+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:05:27.0055963+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:57:53.92658+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:06:07.1015275+00:00"
 }

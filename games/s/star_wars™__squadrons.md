@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~30,757 |
-| Safety in the Storm | 23.00% | ~7,446 |
-| A Better Idea | 23.00% | ~7,446 |
-| Begin the Ceremony | 20.00% | ~6,475 |
-| Mission Accomplished | 18.00% | ~5,828 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~4,856 |
-| Asset Secured | 13.00% | ~4,209 |
-| A Starfighter of Your Own | 13.00% | ~4,209 |
-| Unkillable | 7.00% | ~2,266 |
-| Together, Vanguard | 7.00% | ~2,266 |
+| Fracture at Fostar Haven | 95.00% | ~30,767 |
+| Safety in the Storm | 23.00% | ~7,449 |
+| A Better Idea | 23.00% | ~7,449 |
+| Begin the Ceremony | 20.00% | ~6,477 |
+| Mission Accomplished | 18.00% | ~5,829 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~4,858 |
+| Asset Secured | 13.00% | ~4,210 |
+| A Starfighter of Your Own | 13.00% | ~4,210 |
+| Unkillable | 7.00% | ~2,267 |
+| Together, Vanguard | 7.00% | ~2,267 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,943 |
 | Sound Strategy | 6.00% | ~1,943 |
 | Stomped | 5.00% | ~1,619 |
@@ -24,9 +24,9 @@
 | Flames Over Mon Cala | 4.00% | ~1,295 |
 | Baited | 4.00% | ~1,295 |
 | A Promising Career | 4.00% | ~1,295 |
-| Stronger Together | 3.00% | ~971 |
-| Squadron Hunter | 3.00% | ~971 |
-| Punch It | 3.00% | ~971 |
+| Stronger Together | 3.00% | ~972 |
+| Squadron Hunter | 3.00% | ~972 |
+| Punch It | 3.00% | ~972 |
 | Stun 'Em | 2.00% | ~648 |
 | Combat Pilot | 2.00% | ~648 |
 | Dressed for the Job You Want | 2.00% | ~648 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~32 |
 | Ultimate Weapon | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,376 (Ranked 133)  
+Progressed: 32,386 (Ranked 133)  
 Completed: 3 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 3 (0.01%) (Ranked 361)
 | 2023-12-20 | 31,631 | 3 |
 | 2023-12-21 | 31,990 | 3 |
 | 2023-12-22 | 32,325 | 3 |
-| 2023-12-23 | 32,376 | 3 |
+| 2023-12-23 | 32,386 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

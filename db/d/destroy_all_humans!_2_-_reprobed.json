@@ -5,10 +5,10 @@
   "Ranking_Rating": 553,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,7 +276,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -906,6 +906,11 @@
       "Time": "2023-12-23T01:51:07.1582748+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T04:09:38.6728133+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -934,7 +939,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -948,9 +953,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -988,9 +993,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1046,7 +1051,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1054,7 +1059,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1086,7 +1091,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1094,7 +1099,7 @@
       "Name": "Kaijuiced",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1174,7 +1179,7 @@
       "Name": "Upgreatest",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1206,7 +1211,7 @@
       "Name": "Dusted",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1254,7 +1259,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1262,14 +1267,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
@@ -1277,8 +1282,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:09:07.6628012+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:09:38.6728128+00:00",
   "LastUpdate_AppInfo": "2023-12-16T20:57:43.3974092+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:59:42.393306+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:09:07.6628267+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:00:40.3201598+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:09:38.6728584+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1469,
+  "EOS_Progressed": 1470,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3613,6 +3613,11 @@
       "Time": "2023-12-23T03:10:12.3714852+00:00",
       "NumProgressed": 1469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T04:10:56.6085322+00:00",
+      "NumProgressed": 1470,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3680,7 +3685,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "EXPERT_1",
@@ -3712,7 +3717,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3720,7 +3725,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "INDY_1",
@@ -3816,7 +3821,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "RELICTS",
@@ -3856,7 +3861,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "SHOG",
@@ -3896,7 +3901,7 @@
       "Name": "Wanderer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WISHMASTER_1",
@@ -3911,15 +3916,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1469,
+      "Progressed": 1470,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:10:12.371485+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:56.608532+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:19.4071615+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:59:23.1501395+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:10:12.371513+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:00:16.4918529+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:56.6085657+00:00"
 }

@@ -1,14 +1,14 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.55 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 14.00% | ~2,399 |
-| Bosmang | 10.00% | ~1,713 |
-| Captain Drummer | 10.00% | ~1,713 |
-| Celebrations are in Order | 10.00% | ~1,713 |
+| Bosmang | 10.00% | ~1,714 |
+| Captain Drummer | 10.00% | ~1,714 |
+| Celebrations are in Order | 10.00% | ~1,714 |
 | The Pit and the Pirates | 9.00% | ~1,542 |
 | Martian Music | 9.00% | ~1,542 |
 | Drone Dodger | 9.00% | ~1,542 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 533)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,134 (Ranked 155)  
-Completed: 47 (0.27%) (Ranked 254)  
+Progressed: 17,135 (Ranked 155)  
+Completed: 47 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,7 +195,7 @@ Completed: 47 (0.27%) (Ranked 254)
 | 2023-12-20 | 16,946 | 46 |
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
-| 2023-12-23 | 17,134 | 47 |
+| 2023-12-23 | 17,135 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -243,3 +243,4 @@ Completed: 47 (0.27%) (Ranked 254)
 | 2023-12-16 | 4.54 | 0 | 0 |
 | 2023-12-17 | 4.53 | 0 | 0 |
 | 2023-12-21 | 4.54 | 0 | 0 |
+| 2023-12-23 | 4.55 | 0 | 0 |

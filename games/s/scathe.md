@@ -24,19 +24,19 @@
 | Rune Escape | 0.50% | ~3 |
 | Shocking Bio | 0.50% | ~3 |
 | Such Sin | 0.50% | ~3 |
-| Gears of Door | 0.40% | ~2 |
-| Ice Work | 0.40% | ~2 |
-| Slaving Grace | 0.40% | ~2 |
-| Takin' Names | 0.40% | ~2 |
-| The Kingpin | 0.40% | ~2 |
-| Unreal 4 | 0.40% | ~2 |
+| Gears of Door | 0.30% | ~2 |
+| Ice Work | 0.30% | ~2 |
+| Slaving Grace | 0.30% | ~2 |
+| Takin' Names | 0.30% | ~2 |
+| The Kingpin | 0.30% | ~2 |
+| Unreal 4 | 0.30% | ~2 |
 | Fear Nothing | 0.20% | ~1 |
 | Max Pain | 0.20% | ~1 |
 | Rage Quit | 0.20% | ~1 |
 | Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 325)  
-Completed: 1 (0.18%) (Ranked 274)  
+Progressed: 572 (Ranked 325)  
+Completed: 1 (0.17%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,6 +197,7 @@ Completed: 1 (0.18%) (Ranked 274)
 | 2023-12-19 | 562 | 1 |
 | 2023-12-20 | 567 | 1 |
 | 2023-12-22 | 571 | 1 |
+| 2023-12-23 | 572 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

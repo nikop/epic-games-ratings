@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 88.00% | ~79 |
-| Air Fighter | 73.00% | ~66 |
+| Air Fighter | 74.00% | ~67 |
 | Oo-De-Lally | 70.00% | ~63 |
 | The Altruist | 68.00% | ~61 |
 | Treasure Hunter | 63.00% | ~57 |
@@ -15,7 +15,7 @@
 | Spring Board | 41.00% | ~37 |
 | Right between the eyes | 40.00% | ~36 |
 | Starry Night | 38.00% | ~34 |
-| Rebel Unleashed | 37.00% | ~33 |
+| Rebel Unleashed | 38.00% | ~34 |
 | Locksley's Tears | 36.00% | ~32 |
 | Merry Co-operation | 34.00% | ~31 |
 | Finish Him! | 27.00% | ~24 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 482)  
+Progressed: 90 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -1260,6 +1260,11 @@
       "Time": "2023-12-22T23:05:38.4776174+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T04:10:27.9616538+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1326,9 +1331,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "achScoutMaxStar",
@@ -1352,7 +1357,7 @@
       "Name": "Extra Funding",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achSponsor10",
@@ -1495,14 +1500,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:09:48.324157+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:27.9616534+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:13.519956+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:58:34.4451911+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:09:48.3242012+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:59:14.5649421+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:27.9616742+00:00"
 }

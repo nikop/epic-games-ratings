@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
 | Strong | 0.20% | ~32 |
+| Developing Cities | 0.20% | ~32 |
 | Friendly Family | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Wise | 0.10% | ~16 |
-| Developing Cities | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
 | Strong Cities | 0.10% | ~16 |
 | Able Difficulty | 0.10% | ~16 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Get the Hellas Out | 0.10% | ~16 |
 | The Turning Point | 0.10% | ~16 |
 | A Good Start | 0.10% | ~16 |
+| Like a Lion | 0.10% | ~16 |
 | Tell the Spartans | 0.10% | ~16 |
 | The Olive Wreath | 0.10% | ~16 |
 | Those Were Mine | 0.10% | ~16 |
@@ -270,7 +271,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| Like a Lion | 0.00% | ~0 |
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,891 (Ranked 161)  
+Progressed: 15,892 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -612,7 +612,7 @@ Completed: 5 (0.03%) (Ranked 345)
 | 2023-12-20 | 15,854 | 5 |
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
-| 2023-12-23 | 15,891 | 5 |
+| 2023-12-23 | 15,892 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,907 (Ranked 220)  

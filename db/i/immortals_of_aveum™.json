@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1619,
+  "EOS_Progressed": 1623,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2811,6 +2811,11 @@
       "Time": "2023-12-23T03:09:56.8779632+00:00",
       "NumProgressed": 1619,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T04:10:38.3291259+00:00",
+      "NumProgressed": 1623,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2823,7 +2828,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1412
     },
     {
       "ID": "achievement_10",
@@ -2839,7 +2844,7 @@
       "Name": "The Means to Save It",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_12",
@@ -2847,7 +2852,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_13",
@@ -2855,7 +2860,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_14",
@@ -2903,7 +2908,7 @@
       "Name": "Socialite",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_2",
@@ -2911,7 +2916,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1298
     },
     {
       "ID": "achievement_20",
@@ -2967,7 +2972,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1087
     },
     {
       "ID": "achievement_36",
@@ -2999,7 +3004,7 @@
       "Name": "No More Names",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 795
     },
     {
       "ID": "achievement_41",
@@ -3055,7 +3060,7 @@
       "Name": "Enlisted",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1185
     },
     {
       "ID": "achievement_49",
@@ -3071,7 +3076,7 @@
       "Name": "Initiate",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_50",
@@ -3119,7 +3124,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_60",
@@ -3175,7 +3180,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_8",
@@ -3191,14 +3196,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1619,
+      "Progressed": 1623,
       "Completed": 2
     }
   ],
@@ -3206,8 +3211,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-22T20:02:26.8397171+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:09:56.8779629+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:38.3291256+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:30.3074422+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:02:59.6395905+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:09:56.8779987+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:03:06.83514+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:38.3291644+00:00"
 }

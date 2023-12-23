@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -1149,9 +1149,9 @@
       "ID": "PLEASE",
       "SetID": "2iigf77",
       "Name": "Please oh pleeease!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "POOL",
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:10:11.7852821+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:55.6865268+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.7016288+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:02:57.8564382+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:10:11.7852992+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:03:04.7550537+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:55.686549+00:00"
 }

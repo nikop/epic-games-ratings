@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3109,6 +3109,11 @@
       "Time": "2023-12-22T23:06:09.3749708+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T04:11:07.7904845+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3160,7 +3165,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3352,7 +3357,7 @@
       "Name": "End of Rest",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3360,7 +3365,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3376,7 +3381,7 @@
       "Name": "Free Like Birds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3400,7 +3405,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3408,7 +3413,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3416,7 +3421,7 @@
       "Name": "Decakill!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3424,7 +3429,7 @@
       "Name": "Call The Winchester",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -3496,7 +3501,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3512,7 +3517,7 @@
       "Name": "Night Snack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3520,7 +3525,7 @@
       "Name": "To Get Stronger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -3647,14 +3652,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:10:22.1030944+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:11:07.7904843+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:58:02.7754256+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:10:22.1031467+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:58:35.3554374+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:11:07.7905414+00:00"
 }

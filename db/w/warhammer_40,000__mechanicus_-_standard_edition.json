@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 230127,
+  "EOS_Progressed": 230131,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28031,6 +28031,11 @@
       "Time": "2023-12-23T03:10:13.6331538+00:00",
       "NumProgressed": 230127,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T04:10:58.098033+00:00",
+      "NumProgressed": 230131,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28042,7 +28047,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46025
+      "UsersEstimate": 46026
     },
     {
       "ID": "ACH_BASE_10",
@@ -28050,7 +28055,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59833
+      "UsersEstimate": 59834
     },
     {
       "ID": "ACH_BASE_11",
@@ -28082,7 +28087,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20711
+      "UsersEstimate": 20712
     },
     {
       "ID": "ACH_BASE_16",
@@ -28098,7 +28103,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20711
+      "UsersEstimate": 20712
     },
     {
       "ID": "ACH_BASE_18",
@@ -28306,14 +28311,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20711
+      "UsersEstimate": 20712
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230127,
+      "Progressed": 230131,
       "Completed": 5
     }
   ],
@@ -28321,8 +28326,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:10:13.6331535+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:58.0980327+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:59:11.9277122+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:10:13.6332666+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:00:01.6576921+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:58.0981801+00:00"
 }

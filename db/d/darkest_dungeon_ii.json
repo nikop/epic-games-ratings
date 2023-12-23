@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10044,9 +10044,9 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129227,
+  "EOS_Progressed": 129238,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1730,
+  "EOS_NewPlayers": 1728,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36359,6 +36359,11 @@
       "Time": "2023-12-23T03:09:32.8642965+00:00",
       "NumProgressed": 129227,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T04:10:09.5329185+00:00",
+      "NumProgressed": 129238,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36498,7 +36503,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36530,7 +36535,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36576,9 +36581,9 @@
       "ID": "combat_kill_lair_boss_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "Clearing the Ledger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 775
     },
     {
       "ID": "combat_kill_leviathan",
@@ -36594,7 +36599,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36610,7 +36615,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -36722,7 +36727,7 @@
       "Name": "Autodidact",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "hero_story_complete_all",
@@ -36906,7 +36911,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "combat_kill_collector",
@@ -36930,7 +36935,7 @@
       "Name": "No Mercy",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -37001,21 +37006,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129227,
+      "Progressed": 129238,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4096,
+      "Progressed": 4107,
       "Completed": 807
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-23T03:02:58.6812207+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:09:32.8642963+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:10:09.5329182+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:29.9151238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:02:58.6812212+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:09:32.8644576+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:03:05.6198132+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:10:09.53313+00:00"
 }

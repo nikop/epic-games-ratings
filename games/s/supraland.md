@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~729,652 |
-| The Blues | 85.00% | ~626,469 |
+| Out of bed | 99.00% | ~729,653 |
+| The Blues | 85.00% | ~626,470 |
 | Fast | 66.00% | ~486,435 |
-| Healthbar | 55.00% | ~405,362 |
+| Healthbar | 55.00% | ~405,363 |
 | Force Cube | 53.00% | ~390,622 |
 | Double Jump | 48.00% | ~353,771 |
-| Regeneration | 47.00% | ~346,400 |
-| Triple Jump | 43.00% | ~316,919 |
-| Climb the hill | 42.00% | ~309,549 |
+| Regeneration | 47.00% | ~346,401 |
+| Triple Jump | 43.00% | ~316,920 |
+| Climb the hill | 42.00% | ~309,550 |
 | Through the fire pipe | 39.00% | ~287,439 |
-| MacGuffin | 38.00% | ~280,068 |
-| Just once | 37.00% | ~272,698 |
+| MacGuffin | 38.00% | ~280,069 |
+| Just once | 37.00% | ~272,699 |
 | Armor | 30.00% | ~221,107 |
 | True holy spirit | 28.00% | ~206,366 |
 | That's how electronics work obviously | 27.00% | ~198,996 |
@@ -38,12 +38,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Purple Cube | 13.00% | ~95,813 |
 | Supraball Noob | 13.00% | ~95,813 |
 | Strong | 12.00% | ~88,443 |
-| Blue King's lair | 11.00% | ~81,072 |
-| Payback | 11.00% | ~81,072 |
-| Got the coins back | 11.00% | ~81,072 |
-| Got the gun back | 11.00% | ~81,072 |
-| Infiltrated | 11.00% | ~81,072 |
-| Robbed | 11.00% | ~81,072 |
+| Blue King's lair | 11.00% | ~81,073 |
+| Payback | 11.00% | ~81,073 |
+| Got the coins back | 11.00% | ~81,073 |
+| Got the gun back | 11.00% | ~81,073 |
+| Infiltrated | 11.00% | ~81,073 |
+| Robbed | 11.00% | ~81,073 |
 | Fire Flies | 10.00% | ~73,702 |
 | Cave Flies | 10.00% | ~73,702 |
 | Gold Scam | 10.00% | ~73,702 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~737 |
 | DLC: Top of the world | 0.10% | ~737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,022 (Ranked 24)  
+Progressed: 737,023 (Ranked 24)  
 Completed: 772 (0.10%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 772 (0.10%) (Ranked 302)
 | 2023-12-20 | 736,747 | 772 |
 | 2023-12-21 | 736,865 | 772 |
 | 2023-12-22 | 736,999 | 772 |
-| 2023-12-23 | 737,022 | 772 |
+| 2023-12-23 | 737,023 | 772 |
 ## Awards
 Max (Challenging Puzzles): 7,748  (Ranked 51)  
 Sum: 10,110 (Ranked 92)  

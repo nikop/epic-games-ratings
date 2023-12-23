@@ -35,20 +35,20 @@ Rating: 3.56 (Ranked 1,065)
 | Silence Is Golden | 1.00% | ~20 |
 | Good Morning | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
+| Nice Try | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
-| Blacklight Down | 1.00% | ~20 |
 | Block Party | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
-| Nice Try | 0.90% | ~18 |
+| Blacklight Down | 0.90% | ~18 |
 | Curious Finch | 0.90% | ~18 |
-| Right This Way | 0.60% | ~12 |
-| What Lies Below | 0.50% | ~10 |
-| Empty Nest Syndrome | 0.50% | ~10 |
-| Bloody Initiate | 0.50% | ~10 |
+| Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
 | Sisterhood | 0.40% | ~8 |
+| What Lies Below | 0.40% | ~8 |
+| Empty Nest Syndrome | 0.40% | ~8 |
+| Bloody Initiate | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Monster Hunters Club | 0.30% | ~6 |
 | Friendgineering | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,065)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,998 (Ranked 237)  
+Progressed: 2,000 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 1,998 | 0 |
+| 2023-12-23 | 2,000 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

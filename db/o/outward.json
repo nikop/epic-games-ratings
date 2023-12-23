@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4137,
+  "EOS_Progressed": 4138,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6756,6 +6756,11 @@
       "Time": "2023-12-23T01:48:19.4932915+00:00",
       "NumProgressed": 4137,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-23T04:07:57.8710666+00:00",
+      "NumProgressed": 4138,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6783,7 +6788,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ApexPredator_27",
@@ -6831,7 +6836,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -6847,7 +6852,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -6927,7 +6932,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PerfectDefense_31",
@@ -6951,7 +6956,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ReadyforWinter_42",
@@ -6959,7 +6964,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -6991,7 +6996,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7023,7 +7028,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7087,7 +7092,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7102,15 +7107,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4137,
+      "Progressed": 4138,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-23T03:06:58.5357746+00:00",
+  "LastChanged_Achievements": "2023-12-23T04:07:57.8710663+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:45.1407734+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:03:13.5918477+00:00",
-  "LastUpdate_Achievements": "2023-12-23T03:06:58.535833+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:03:23.1732402+00:00",
+  "LastUpdate_Achievements": "2023-12-23T04:07:57.8711322+00:00"
 }
