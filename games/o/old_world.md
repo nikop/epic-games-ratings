@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.20% | ~32 |
 | Strong | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
+| Strong Cities | 0.20% | ~32 |
 | Friendly Family | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
 | Oracle | 0.20% | ~32 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | White Death | 0.10% | ~16 |
 | Wise | 0.10% | ~16 |
 | Legendary Cities | 0.10% | ~16 |
-| Strong Cities | 0.10% | ~16 |
 | Able Difficulty | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |

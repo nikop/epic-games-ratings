@@ -22,8 +22,8 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~68 |
 | Social Butterfly | 1.00% | ~68 |
 | The Muse: Madison | 1.00% | ~68 |
-| Smooth Operator: Ashley | 0.80% | ~54 |
-| The Crush | 0.80% | ~54 |
+| Smooth Operator: Ashley | 0.80% | ~55 |
+| The Crush | 0.80% | ~55 |
 | Amy: Scavenger Hunt | 0.70% | ~48 |
 | Casanova | 0.70% | ~48 |
 | It Smells Like Roses | 0.70% | ~27 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,812 (Ranked 190)  
+Progressed: 6,813 (Ranked 190)  
 Completed: 3 (0.04%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.04%) (Ranked 342)
 | 2023-12-20 | 6,755 | 3 |
 | 2023-12-21 | 6,791 | 3 |
 | 2023-12-22 | 6,811 | 3 |
-| 2023-12-23 | 6,812 | 3 |
+| 2023-12-23 | 6,813 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

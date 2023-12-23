@@ -10,7 +10,7 @@ Rating: 4.50 (Ranked 602)
 | Better On Ice | 68.00% | ~879 |
 | Notai Notes | 67.00% | ~866 |
 | Blue Dreams | 66.00% | ~853 |
-| He's Famous! | 65.00% | ~840 |
+| He's Famous! | 66.00% | ~853 |
 | Krugmazing | 64.00% | ~828 |
 | Cutie Poro | 64.00% | ~828 |
 | Moneyball | 60.00% | ~776 |

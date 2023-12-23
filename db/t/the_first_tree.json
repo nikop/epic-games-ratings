@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -271,7 +271,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39347,
+  "EOS_Progressed": 39348,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
@@ -21741,6 +21741,11 @@
       "Time": "2023-12-23T04:06:22.7397799+00:00",
       "NumProgressed": 39347,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-23T05:05:43.0603761+00:00",
+      "NumProgressed": 39348,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21832,7 +21837,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9443
+      "UsersEstimate": 9444
     },
     {
       "ID": "firstItem",
@@ -21840,7 +21845,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30297
+      "UsersEstimate": 30298
     },
     {
       "ID": "roots",
@@ -21863,15 +21868,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39347,
+      "Progressed": 39348,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:06:22.7397792+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:05:43.0603757+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:34.0215734+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:01:27.683971+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:06:22.7399171+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:00:21.9038607+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:05:43.0604949+00:00"
 }

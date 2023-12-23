@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5113,10 +5113,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2704,
       "NumberOfAwardsMax": 574
+    },
+    {
+      "Time": "2023-12-23T04:59:05.0842229+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2705,
+      "NumberOfAwardsMax": 574
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2704,
+  "NumberOfAwards": 2705,
   "NumberOfAwardsMax": 574,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5142,7 +5148,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 534
+      "Count": 535
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5175,9 +5181,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 92361,
+  "EOS_Progressed": 92365,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28850,6 +28856,11 @@
       "Time": "2023-12-23T04:04:17.0759643+00:00",
       "NumProgressed": 92361,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-23T05:04:08.4422507+00:00",
+      "NumProgressed": 92365,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -28899,9 +28910,9 @@
       "ID": "ACH_0015",
       "SetID": "3kam13l",
       "Name": "Legend Looter",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_0016",
@@ -29005,7 +29016,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "ACH_0210",
@@ -29188,22 +29199,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92361,
+      "Progressed": 92365,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20708,
+      "Progressed": 20712,
       "Completed": 15589
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-22T13:58:35.4645384+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:04:17.0759639+00:00",
+  "LastChanged": "2023-12-23T04:59:05.0842228+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:04:08.4422504+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:59:40.3532075+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:04:17.0760916+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:59:05.0842234+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:04:08.4423851+00:00"
 }

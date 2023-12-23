@@ -5,23 +5,23 @@ Rating: 4.38 (Ranked 772)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~772,294 |
-| The ABCs | 43.00% | ~677,727 |
-| Home Run | 41.00% | ~646,205 |
-| Keeps Coming Off | 41.00% | ~646,205 |
-| Guts | 19.00% | ~299,461 |
-| Meat Grinder | 19.00% | ~299,461 |
-| Burning Man | 16.00% | ~252,178 |
-| Lived to Tell the Tale | 12.00% | ~189,133 |
-| Highlander | 10.00% | ~157,611 |
-| Unstoppable | 10.00% | ~157,611 |
-| Just a Scratch | 9.00% | ~141,850 |
+| Justice from the Grave | 49.00% | ~772,299 |
+| The ABCs | 43.00% | ~677,732 |
+| Home Run | 41.00% | ~646,210 |
+| Keeps Coming Off | 41.00% | ~646,210 |
+| Guts | 19.00% | ~299,463 |
+| Meat Grinder | 19.00% | ~299,463 |
+| Burning Man | 16.00% | ~252,179 |
+| Lived to Tell the Tale | 12.00% | ~189,135 |
+| Highlander | 10.00% | ~157,612 |
+| Unstoppable | 10.00% | ~157,612 |
+| Just a Scratch | 9.00% | ~141,851 |
 | Tough Nut to Crack | 6.00% | ~94,567 |
 | Yoink | 6.00% | ~94,567 |
-| Long List of Names | 4.00% | ~63,044 |
-| Pyromaniac | 4.00% | ~63,044 |
-| The Queen of Weapons | 4.00% | ~63,044 |
-| This isn’t Sparta | 3.00% | ~47,283 |
+| Long List of Names | 4.00% | ~63,045 |
+| Pyromaniac | 4.00% | ~63,045 |
+| The Queen of Weapons | 4.00% | ~63,045 |
+| This isn’t Sparta | 3.00% | ~47,284 |
 | Crybaby | 2.00% | ~31,522 |
 | Eagle Eye | 2.00% | ~31,522 |
 | I Know Kung Fu | 2.00% | ~31,522 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 772)
 | That’s No Ordinary Cold | 0.10% | ~1,576 |
 | Stairway to Hell | 0.10% | ~1,576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,576,110 (Ranked 7)  
+Progressed: 1,576,121 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 70 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,574,807 | 70 |
 | 2023-12-21 | 1,575,377 | 70 |
 | 2023-12-22 | 1,575,987 | 70 |
-| 2023-12-23 | 1,576,110 | 70 |
+| 2023-12-23 | 1,576,121 | 70 |
 ## Awards
 Max (Diverse Characters): 1,092  (Ranked 149)  
 Sum: 5,726 (Ranked 135)  

@@ -5,7 +5,7 @@ Rating: 3.95 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 4.00% | ~3,694 |
+| First One’s Free | 4.00% | ~3,695 |
 | Neophyte Ninja | 3.00% | ~2,771 |
 | Downed but Not Outed | 3.00% | ~2,771 |
 | Too Old for This | 3.00% | ~2,771 |
@@ -24,8 +24,8 @@ Rating: 3.95 (Ranked 1,032)
 | Headhunter | 0.80% | ~739 |
 | I Like Trains | 0.70% | ~647 |
 | Freebooter | 0.70% | ~647 |
-| Legend Looter | 0.60% | ~554 |
 | Moneybags | 0.60% | ~554 |
+| Legend Looter | 0.50% | ~462 |
 | Imports and Exports | 0.50% | ~462 |
 | Savvy Seeker | 0.50% | ~462 |
 | Foo Finder | 0.50% | ~462 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,032)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,361 (Ranked 97)  
+Progressed: 92,365 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,16 +294,16 @@ Completed: 58 (0.06%) (Ranked 324)
 | 2023-12-20 | 92,233 | 58 |
 | 2023-12-21 | 92,286 | 58 |
 | 2023-12-22 | 92,351 | 58 |
-| 2023-12-23 | 92,361 | 58 |
+| 2023-12-23 | 92,365 | 58 |
 ## Awards
 Max (Diverse Characters): 574  (Ranked 207)  
-Sum: 2,704 (Ranked 191)  
+Sum: 2,705 (Ranked 191)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 574 |
 | This game is Highly Recommended | 552 |
-| This game has Quickly Understood Controls | 534 |
+| This game has Quickly Understood Controls | 535 |
 | This game has Amazing Characters | 524 |
 | This game is Extremely Fun | 520 |
 | This game has Challenging Combat | 514 |
@@ -577,3 +577,4 @@ Diff (max vs sum): 16
 | 2023-12-20 | 3.95 | 569 | 2,690 |
 | 2023-12-21 | 3.95 | 570 | 2,698 |
 | 2023-12-22 | 3.95 | 574 | 2,704 |
+| 2023-12-23 | 3.95 | 574 | 2,705 |

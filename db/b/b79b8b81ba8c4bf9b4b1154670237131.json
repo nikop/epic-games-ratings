@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15699,
+  "EOS_Progressed": 15701,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4524,6 +4524,11 @@
       "Time": "2023-12-23T04:10:11.2944452+00:00",
       "NumProgressed": 15699,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-23T05:09:32.3135297+00:00",
+      "NumProgressed": 15701,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4568,7 +4573,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11776
     },
     {
       "ID": "ACH_AE_14",
@@ -4815,7 +4820,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15699,
+      "Progressed": 15701,
       "Completed": 14
     }
   ],
@@ -4823,8 +4828,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:10:11.2944449+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:09:32.3135293+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
   "LastUpdate_Ratings": "2023-12-23T04:02:12.076922+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:10:11.2945041+00:00"
+  "LastUpdate_Achievements": "2023-12-23T05:09:32.3135794+00:00"
 }

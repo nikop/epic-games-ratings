@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,7 +333,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201802,
+  "EOS_Progressed": 201805,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
@@ -26268,6 +26268,11 @@
       "Time": "2023-12-23T04:06:32.4079512+00:00",
       "NumProgressed": 201802,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T05:05:50.1707041+00:00",
+      "NumProgressed": 201805,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -26287,7 +26292,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 143279
+      "UsersEstimate": 143282
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -26311,7 +26316,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36324
+      "UsersEstimate": 36325
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -26406,7 +26411,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201802,
+      "Progressed": 201805,
       "Completed": 4
     }
   ],
@@ -26414,8 +26419,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:06:32.4079509+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:05:50.1707038+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:20.0370256+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:00:50.5656124+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:06:32.4080836+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:59:54.8442491+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:05:50.170841+00:00"
 }

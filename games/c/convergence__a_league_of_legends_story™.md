@@ -8,7 +8,7 @@ Rating: 4.64 (Ranked 340)
 | Time Heals All Wounds | 39.00% | ~417 |
 | Rail Rat | 30.00% | ~321 |
 | The Mysterious Stranger | 29.00% | ~310 |
-| Immaculate Aim | 25.00% | ~267 |
+| Immaculate Aim | 25.00% | ~268 |
 | Make Up For Lost Time | 24.00% | ~257 |
 | The Brass Boss | 24.00% | ~257 |
 | Time Flies | 23.00% | ~246 |
@@ -27,8 +27,8 @@ Rating: 4.64 (Ranked 340)
 | Golem Chaser | 20.00% | ~214 |
 | The Loose Cannon | 19.00% | ~203 |
 | Check Your Pulse | 19.00% | ~203 |
-| The Man Who Shattered Time | 18.00% | ~192 |
-| The Family Fortune | 18.00% | ~192 |
+| The Man Who Shattered Time | 18.00% | ~193 |
+| The Family Fortune | 18.00% | ~193 |
 | Street Style | 17.00% | ~182 |
 | Whiz Kid | 15.00% | ~160 |
 | Cartographer | 14.00% | ~150 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 340)
 | Golem Hunter | 7.00% | ~75 |
 | Clovemary for Remembering | 6.00% | ~64 |
 | Hexlock for Protection | 6.00% | ~64 |
-| Rungs Was Right | 5.00% | ~53 |
+| Rungs Was Right | 5.00% | ~54 |
 | Wunderkind | 2.00% | ~21 |
 | Fitting In | 2.00% | ~21 |
 | Thinking Two Steps Ahead | 1.00% | ~11 |
@@ -59,7 +59,7 @@ Rating: 4.64 (Ranked 340)
 | Raw Talent | 0.70% | ~7 |
 | Going to Live Forever | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 276)  
+Progressed: 1,070 (Ranked 276)  
 Completed: 6 (0.56%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 6 (0.56%) (Ranked 203)
 | 2023-12-20 | 1,046 | 6 |
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
-| 2023-12-23 | 1,069 | 6 |
+| 2023-12-23 | 1,070 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 42.00% | ~27 |
-| You have three wishes left | 38.00% | ~24 |
+| Master trainee | 44.00% | ~28 |
+| You have three wishes left | 39.00% | ~25 |
+| The battle of Great Britain | 30.00% | ~19 |
 | Jung's dream | 28.00% | ~18 |
-| The battle of Great Britain | 28.00% | ~18 |
 | Pulp! Where Monsters Dwell | 23.00% | ~15 |
 | A continent with chemistry | 19.00% | ~12 |
 | Giant | 17.00% | ~11 |

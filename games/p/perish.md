@@ -53,22 +53,22 @@
 | Rites at Sea | 1.00% | ~38 |
 | Close Shut the Doors | 1.00% | ~38 |
 | Scrap Metal | 1.00% | ~38 |
-| Athenian Treasury | 0.90% | ~34 |
+| Athenian Treasury | 0.90% | ~35 |
 | Invicta | 0.80% | ~31 |
 | Olympian | 0.60% | ~23 |
 | Hipparchia's Labour | 0.40% | ~15 |
 | Debauchery | 0.40% | ~15 |
 | Interrupt the Interloper | 0.40% | ~15 |
 | Elephantine | 0.40% | ~15 |
-| Window Shopping | 0.30% | ~11 |
-| Blessing of Spring | 0.30% | ~11 |
+| Window Shopping | 0.30% | ~12 |
+| Blessing of Spring | 0.30% | ~12 |
 | Buyer's Remorse | 0.20% | ~8 |
 | Library of Alexandria | 0.10% | ~4 |
 | Chitinous | 0.10% | ~4 |
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,832 (Ranked 208)  
+Progressed: 3,834 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 3,821 | 0 |
 | 2023-12-21 | 3,829 | 0 |
 | 2023-12-22 | 3,832 | 0 |
+| 2023-12-23 | 3,834 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

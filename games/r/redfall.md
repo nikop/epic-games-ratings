@@ -24,7 +24,6 @@ Rating: 3.56 (Ranked 1,065)
 | Bad Wiring | 3.00% | ~60 |
 | Neighborhood Revitalization | 2.00% | ~40 |
 | Radio Silence | 2.00% | ~40 |
-| From the Shadows | 2.00% | ~40 |
 | Starve the Beast | 2.00% | ~40 |
 | Helping Hand | 2.00% | ~40 |
 | I Spit On Your Grave | 2.00% | ~40 |
@@ -35,28 +34,29 @@ Rating: 3.56 (Ranked 1,065)
 | Silence Is Golden | 1.00% | ~20 |
 | Good Morning | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
+| From the Shadows | 1.00% | ~20 |
 | Nice Try | 1.00% | ~20 |
 | Harvest’s End | 1.00% | ~20 |
-| Block Party | 0.90% | ~18 |
-| Check, Please! | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
-| Curious Finch | 0.90% | ~18 |
+| Block Party | 0.80% | ~16 |
+| Check, Please! | 0.80% | ~16 |
+| Curious Finch | 0.80% | ~16 |
+| What Lies Below | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
-| Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
-| Sisterhood | 0.40% | ~8 |
-| What Lies Below | 0.40% | ~8 |
 | Empty Nest Syndrome | 0.40% | ~8 |
 | Bloody Initiate | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
-| Monster Hunters Club | 0.30% | ~6 |
-| Friendgineering | 0.30% | ~6 |
+| Neighborhood Watch | 0.30% | ~6 |
+| Sisterhood | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
-| Bob’s Final Hour | 0.30% | ~6 |
 | Scream Team | 0.20% | ~4 |
+| Monster Hunters Club | 0.20% | ~4 |
+| Friendgineering | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
+| Bob’s Final Hour | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.56 (Ranked 1,065)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 237)  
+Progressed: 2,001 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-20 | 1,963 | 0 |
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
-| 2023-12-23 | 2,000 | 0 |
+| 2023-12-23 | 2,001 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

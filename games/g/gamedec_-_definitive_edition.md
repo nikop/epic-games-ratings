@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,061 |
-| Powergamer | 27.00% | ~68,953 |
+| I will finish what you started | 29.00% | ~74,062 |
+| Powergamer | 27.00% | ~68,954 |
 | Write that down | 25.00% | ~63,846 |
 | Barely scratched the surface | 25.00% | ~63,846 |
 | Guns, lots of guns | 13.00% | ~33,200 |
 | Collector | 12.00% | ~30,646 |
-| Elementary! | 9.00% | ~22,984 |
+| Elementary! | 9.00% | ~22,985 |
 | Griever | 8.00% | ~20,431 |
 | Pumpkin Jack | 8.00% | ~20,431 |
 | Wake up! | 8.00% | ~20,431 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,215 |
 | Ka-ching! | 4.00% | ~10,215 |
 | So you like to read? | 4.00% | ~10,215 |
-| Hoarder | 3.00% | ~7,661 |
-| I like to sniff around | 3.00% | ~7,661 |
-| Mind reader | 3.00% | ~7,661 |
+| Hoarder | 3.00% | ~7,662 |
+| I like to sniff around | 3.00% | ~7,662 |
+| Mind reader | 3.00% | ~7,662 |
 | Catnip | 2.00% | ~5,108 |
 | Gentleman's classic | 2.00% | ~5,108 |
 | Is that a rift? | 2.00% | ~5,108 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,383 (Ranked 63)  
+Progressed: 255,386 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-20 | 255,178 | 7 |
 | 2023-12-21 | 255,268 | 7 |
 | 2023-12-22 | 255,356 | 7 |
-| 2023-12-23 | 255,383 | 7 |
+| 2023-12-23 | 255,386 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 385)  
 Sum: 92 (Ranked 463)  

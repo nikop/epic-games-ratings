@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 9.00% | ~370 |
-| Lost and Found | 6.00% | ~246 |
-| This guy... again? | 5.00% | ~205 |
+| Malpractice Assurance | 9.00% | ~371 |
+| Lost and Found | 6.00% | ~247 |
+| This guy... again? | 5.00% | ~206 |
 | This Belongs in a Museum | 4.00% | ~5,170 |
 | Creep and Sleep | 4.00% | ~5,170 |
 | Overdue Notice | 4.00% | ~5,170 |
 | Escape from the Black Hole | 4.00% | ~5,170 |
 | Autodidact | 4.00% | ~5,170 |
-| Ploughshares to Swords | 4.00% | ~164 |
-| Bloody Graduation | 4.00% | ~164 |
+| Ploughshares to Swords | 4.00% | ~165 |
+| Bloody Graduation | 4.00% | ~165 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,877 |
 | Serenity Now! | 3.00% | ~3,877 |
 | It Rings a Bell | 3.00% | ~3,877 |
@@ -25,7 +25,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 3.00% | ~3,877 |
 | To Grandmother's House | 3.00% | ~3,877 |
 | FNG | 3.00% | ~3,877 |
-| Friends 'Til the End | 3.00% | ~123 |
+| Friends 'Til the End | 3.00% | ~124 |
 | Resurrection | 2.00% | ~2,585 |
 | Unleash Hell | 2.00% | ~2,585 |
 | Funny Guy | 2.00% | ~2,585 |
@@ -47,6 +47,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 2.00% | ~2,585 |
 | Whale | 2.00% | ~2,585 |
 | A Place to Lay Your Head | 2.00% | ~2,585 |
+| Utopia | 2.00% | ~2,585 |
 | Nope | 2.00% | ~2,585 |
 | Unshackled | 2.00% | ~2,585 |
 | Road Trip | 2.00% | ~2,585 |
@@ -56,7 +57,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | No More Mouths to Feed | 1.00% | ~1,292 |
 | When You Want Something Done Right | 1.00% | ~1,292 |
 | Worldly Traveller | 1.00% | ~1,292 |
-| Utopia | 1.00% | ~1,292 |
 | Hot Air | 1.00% | ~1,292 |
 | Eyes Up | 1.00% | ~1,292 |
 | Slap on the Wrist | 0.90% | ~37 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,238 (Ranked 86)  
+Progressed: 129,249 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.00%) (Ranked 385)
 | 2023-12-20 | 128,785 | 3 |
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
-| 2023-12-23 | 129,238 | 3 |
+| 2023-12-23 | 129,249 | 3 |
 ## Awards
 Max (Character Customization): 7,834  (Ranked 50)  
 Sum: 20,962 (Ranked 58)  

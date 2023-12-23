@@ -21,12 +21,12 @@ Number of Ratings: 124  (23.09.2022)
 | Commander | 4.00% | ~3 |
 | Family Reunion | 4.00% | ~3 |
 | Irissa's Fate | 4.00% | ~3 |
+| Pass A38 | 4.00% | ~3 |
 | Eternal Oblivion | 4.00% | ~3 |
 | Globetrotter | 3.00% | ~2 |
 | Self-Sufficient | 3.00% | ~2 |
 | Unbreakable | 3.00% | ~2 |
 | Festival-goer | 3.00% | ~2 |
-| Pass A38 | 3.00% | ~2 |
 | Storyteller | 1.00% | ~1 |
 | Alchemist | 1.00% | ~1 |
 | Idealist | 1.00% | ~1 |

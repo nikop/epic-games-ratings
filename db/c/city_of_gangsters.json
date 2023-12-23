@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -946,9 +946,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 357940,
+  "EOS_Progressed": 357944,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29061,6 +29061,11 @@
       "Time": "2023-12-23T04:08:15.6975038+00:00",
       "NumProgressed": 357940,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T05:07:08.1789898+00:00",
+      "NumProgressed": 357944,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29160,7 +29165,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28635
+      "UsersEstimate": 28636
     },
     {
       "ID": "ach013",
@@ -29176,7 +29181,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53691
+      "UsersEstimate": 53692
     },
     {
       "ID": "ach015",
@@ -29200,7 +29205,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46532
+      "UsersEstimate": 46533
     },
     {
       "ID": "ach018",
@@ -29208,7 +29213,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28635
+      "UsersEstimate": 28636
     },
     {
       "ID": "ach019",
@@ -29280,7 +29285,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164652
+      "UsersEstimate": 164654
     },
     {
       "ID": "ach028",
@@ -29296,7 +29301,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39373
+      "UsersEstimate": 39374
     },
     {
       "ID": "ach030",
@@ -29424,7 +29429,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46532
+      "UsersEstimate": 46533
     },
     {
       "ID": "ach046",
@@ -29472,7 +29477,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39373
+      "UsersEstimate": 39374
     },
     {
       "ID": "ach052",
@@ -29480,7 +29485,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "ach053",
@@ -29544,7 +29549,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "ach061",
@@ -29568,7 +29573,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "ach065",
@@ -29600,7 +29605,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57270
+      "UsersEstimate": 57271
     },
     {
       "ID": "ach069",
@@ -29632,7 +29637,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "ach073",
@@ -29640,7 +29645,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "ach074",
@@ -29656,7 +29661,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "ach076",
@@ -29711,7 +29716,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 357940,
+      "Progressed": 357944,
       "Completed": 7
     }
   ],
@@ -29719,8 +29724,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-22T14:58:01.6848448+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:08:15.6975034+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:07:08.1789894+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:53.9882256+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:58:50.7458518+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:08:15.697708+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:58:28.8540692+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:07:08.1791578+00:00"
 }

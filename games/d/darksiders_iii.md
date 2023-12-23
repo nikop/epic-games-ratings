@@ -6,19 +6,19 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 76.00% | ~71 |
-| First of many… | 70.00% | ~65 |
+| Green with Envy | 77.00% | ~72 |
+| First of many… | 71.00% | ~66 |
 | Helping Hand | 68.00% | ~63 |
 | Increased Vigor | 62.00% | ~58 |
 | Fight Fire with Fire | 62.00% | ~58 |
 | Increased Capacity | 60.00% | ~56 |
-| Just the start | 54.00% | ~50 |
+| Just the start | 55.00% | ~51 |
 | Perfect Storm | 49.00% | ~46 |
 | All That Glitters | 49.00% | ~46 |
-| Enhance! | 46.00% | ~43 |
+| Enhance! | 47.00% | ~44 |
 | One Of the Chosen | 45.00% | ~42 |
-| 25 to Life | 41.00% | ~38 |
-| Throne Potato | 40.00% | ~37 |
+| 25 to Life | 42.00% | ~39 |
+| Throne Potato | 41.00% | ~38 |
 | Unshakable Fortitude | 38.00% | ~35 |
 | Salvation | 38.00% | ~35 |
 | Devil's in the Details | 38.00% | ~35 |

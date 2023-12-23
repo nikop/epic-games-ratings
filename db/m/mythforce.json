@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,7 +842,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5749,
+  "EOS_Progressed": 5750,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
@@ -11642,6 +11642,11 @@
       "Time": "2023-12-23T04:06:22.9947362+00:00",
       "NumProgressed": 5749,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-23T05:05:43.2848453+00:00",
+      "NumProgressed": 5750,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11662,7 +11667,7 @@
       "Name": "Deadalus and Loving It",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_Deadication",
@@ -11742,7 +11747,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11750,7 +11755,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -11790,7 +11795,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11822,7 +11827,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11837,15 +11842,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5749,
+      "Progressed": 5750,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:06:22.994736+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:05:43.2848449+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:01:58.1888979+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:06:22.9947927+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:00:43.963656+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:05:43.2849021+00:00"
 }

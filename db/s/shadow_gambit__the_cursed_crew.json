@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1257,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
@@ -4286,6 +4286,11 @@
       "Time": "2023-12-23T02:22:26.7638313+00:00",
       "NumProgressed": 1257,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-23T05:05:43.7851652+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4306,7 +4311,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "_03_FinishAct1",
@@ -4370,7 +4375,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_11_Completion_40",
@@ -4450,7 +4455,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4505,7 +4510,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1257,
+      "Progressed": 1258,
       "Completed": 34
     }
   ],
@@ -4513,8 +4518,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:06:23.7583833+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:05:43.7851649+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:17.2609478+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:00:17.1945487+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:06:23.7584172+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:59:30.9032638+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:05:43.7852039+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 48.00% | ~53 |
 | Fly Me to the Moon Base | 43.00% | ~48 |
 | Earthly Pleasures | 41.00% | ~46 |
-| Pimp My Raid | 40.00% | ~44 |
+| Pimp My Raid | 41.00% | ~46 |
 | Freshly Squeezed | 36.00% | ~40 |
 | Ducks in a Row, Fish in a Barrel | 36.00% | ~40 |
 | Forbidden Donut | 30.00% | ~33 |
@@ -26,14 +26,14 @@ Number of Ratings: 85  (23.09.2022)
 | Trans-Siberian Express | 24.00% | ~27 |
 | Deincarnated | 23.00% | ~26 |
 | Furon Fashion | 23.00% | ~26 |
-| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~21 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~22 |
 | Arkvoodle Doodle | 15.00% | ~17 |
 | Ouch of Body Experience | 14.00% | ~16 |
 | If You Know What I Mean | 13.00% | ~14 |
 | Dusted | 13.00% | ~14 |
 | Die Nasty | 12.00% | ~13 |
+| Hidden Human Hive Harvest | 12.00% | ~13 |
 | Mash Machine | 12.00% | ~13 |
-| Hidden Human Hive Harvest | 11.00% | ~12 |
 | Albion Bridge Is for Falling Down | 8.00% | ~9 |
 | PK Slam Dunk | 7.00% | ~8 |
 | Scuttled | 6.00% | ~7 |

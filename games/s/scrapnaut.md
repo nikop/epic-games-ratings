@@ -6,7 +6,7 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~330 |
+| My New Home | 61.00% | ~336 |
 | Scrap Gatherer | 56.00% | ~308 |
 | Mushroom Picker | 55.00% | ~302 |
 | Scrapper | 45.00% | ~248 |
@@ -27,7 +27,7 @@ Number of Ratings: 38  (23.09.2022)
 | Master Of Technology | 16.00% | ~88 |
 | Treasure Hunter | 16.00% | ~88 |
 | Mythical Smelter | 14.00% | ~77 |
-| Blacksmith | 11.00% | ~60 |
+| Blacksmith | 12.00% | ~66 |
 | Master Of Management | 10.00% | ~55 |
 | Forest Lord | 10.00% | ~55 |
 | Fuel | 10.00% | ~55 |

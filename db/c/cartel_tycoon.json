@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2865,6 +2865,11 @@
       "Time": "2023-12-23T01:47:27.7519344+00:00",
       "NumProgressed": 830,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T05:06:02.5922771+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2916,7 +2921,7 @@
       "Name": "That was base",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "hire-lieutenant",
@@ -2940,7 +2945,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "play-at-night",
@@ -3012,7 +3017,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "use-submarine",
@@ -3027,15 +3032,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-12T19:59:33.5091909+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:06:49.4071393+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:06:02.5922767+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:58:32.3515526+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:06:49.4071675+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:58:14.3380485+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:06:02.5922954+00:00"
 }

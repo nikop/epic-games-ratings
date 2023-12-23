@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2380,9 +2380,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 220953,
+  "EOS_Progressed": 220959,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1451,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30725,6 +30725,11 @@
       "Time": "2023-12-23T04:07:21.7785224+00:00",
       "NumProgressed": 220953,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-23T05:06:27.1807437+00:00",
+      "NumProgressed": 220959,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -30760,7 +30765,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13257
+      "UsersEstimate": 13258
     },
     {
       "ID": "CompleteMastery",
@@ -30792,7 +30797,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13257
+      "UsersEstimate": 13258
     },
     {
       "ID": "GearUp",
@@ -30808,7 +30813,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26514
+      "UsersEstimate": 26515
     },
     {
       "ID": "HappyLittleAccidents",
@@ -30888,7 +30893,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13257
+      "UsersEstimate": 13258
     },
     {
       "ID": "NoGimmicks",
@@ -30984,7 +30989,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "TanukiTime",
@@ -31056,7 +31061,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13257
+      "UsersEstimate": 13258
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -31087,15 +31092,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 220953,
+      "Progressed": 220959,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-23T03:58:01.1354287+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:07:21.778522+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:06:27.1807433+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:48.0979756+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:58:01.1354292+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:07:21.7786857+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:57:52.3634246+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:06:27.1809329+00:00"
 }

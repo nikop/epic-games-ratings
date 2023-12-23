@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,921 |
+| Meeting Resistance | 47.00% | ~1,922 |
 | Confirming Suspicions | 41.00% | ~1,676 |
 | The Kraken Wakes | 37.00% | ~1,513 |
 | It's Starting to Crack | 34.00% | ~1,390 |
-| Change the Channel | 31.00% | ~1,267 |
-| Lord of War | 30.00% | ~1,226 |
+| Change the Channel | 31.00% | ~1,268 |
+| Lord of War | 30.00% | ~1,227 |
 | Taking it back | 29.00% | ~1,186 |
 | Resourceful | 27.00% | ~1,104 |
 | Target America | 27.00% | ~1,104 |
@@ -33,7 +33,7 @@ Rating: 4.45 (Ranked 673)
 | Opposing Force | 14.00% | ~572 |
 | Enemy at the Gates | 14.00% | ~572 |
 | Fields of Glory | 14.00% | ~572 |
-| Set Europe Ablaze | 13.00% | ~531 |
+| Set Europe Ablaze | 13.00% | ~532 |
 | Precision Is Key | 10.00% | ~409 |
 | My Little Friend | 10.00% | ~409 |
 | Rigged to Blow | 9.00% | ~368 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 673)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,088 (Ranked 206)  
+Progressed: 4,089 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 11 (0.27%) (Ranked 255)
 | 2023-12-20 | 4,066 | 11 |
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
-| 2023-12-23 | 4,088 | 11 |
+| 2023-12-23 | 4,089 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 522)  
 Sum: 28 (Ranked 536)  

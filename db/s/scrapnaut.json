@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1944,9 +1944,9 @@
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -2016,9 +2016,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_KILL_100",
@@ -2137,8 +2137,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:09:59.9890526+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:09:23.6950656+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:42.762988+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:01:16.4634147+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:09:59.9890725+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:00:13.8505225+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:09:23.6950968+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 985,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 109,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.11,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -209,15 +209,21 @@
       "Rating": 4.11,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-23T05:03:37.9211739+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69366,
+  "EOS_Progressed": 69378,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 2096,
+  "EOS_NewPlayers": 2101,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4570,6 +4576,11 @@
       "Time": "2023-12-23T04:05:56.8099586+00:00",
       "NumProgressed": 69366,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-12-23T05:05:23.4474805+00:00",
+      "NumProgressed": 69378,
+      "NumCompleted": 92
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4582,7 +4593,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25665
+      "UsersEstimate": 25670
     },
     {
       "ID": "Achievement_10",
@@ -4622,7 +4633,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "Achievement_15",
@@ -4670,7 +4681,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 19422
+      "UsersEstimate": 19426
     },
     {
       "ID": "Achievement_20",
@@ -4694,7 +4705,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "Achievement_23",
@@ -4758,7 +4769,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8324
+      "UsersEstimate": 8325
     },
     {
       "ID": "Achievement_30",
@@ -4806,7 +4817,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6243
+      "UsersEstimate": 6244
     },
     {
       "ID": "Achievement_5",
@@ -4814,7 +4825,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "Achievement_6",
@@ -4853,16 +4864,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 69366,
+      "Progressed": 69378,
       "Completed": 92
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-12-21T06:03:08.9773291+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:05:56.8099582+00:00",
+  "LastChanged": "2023-12-23T05:03:37.9211737+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:05:23.4474801+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:03:36.1504521+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:05:56.809989+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:03:37.9211742+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:05:23.4475167+00:00"
 }

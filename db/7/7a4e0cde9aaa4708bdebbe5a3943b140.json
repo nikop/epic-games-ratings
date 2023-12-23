@@ -2,10 +2,10 @@
   "ID": "7a4e0cde9aaa4708bdebbe5a3943b140",
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
-  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 54.55,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-10-11T15:07:27.5875608+00:00",
@@ -109,6 +109,11 @@
       "Time": "2023-12-15T13:14:47.0919348+00:00",
       "NumProgressed": 11,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T05:09:32.3364146+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T15:02:16.3526143+00:00",
@@ -119,7 +124,7 @@
       "ID": "Stage1",
       "SetID": "ag762md",
       "Name": "Stage 1",
-      "Percentage": 82,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -127,7 +132,7 @@
       "ID": "Stage2",
       "SetID": "ag762md",
       "Name": "Stage 2",
-      "Percentage": 55,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -135,7 +140,7 @@
       "ID": "Stage3",
       "SetID": "ag762md",
       "Name": "Stage 3",
-      "Percentage": 55,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -143,7 +148,7 @@
       "ID": "Stage4",
       "SetID": "ag762md",
       "Name": "Stage 4",
-      "Percentage": 55,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -151,7 +156,7 @@
       "ID": "Stage5",
       "SetID": "ag762md",
       "Name": "Stage 5",
-      "Percentage": 55,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -159,7 +164,7 @@
       "ID": "Upgrade1",
       "SetID": "ag762md",
       "Name": "First Upgrade",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -167,7 +172,7 @@
       "ID": "Upgrade10",
       "SetID": "ag762md",
       "Name": "Tenth Upgrade",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -175,7 +180,7 @@
       "ID": "Upgrade2",
       "SetID": "ag762md",
       "Name": "Second Upgrade",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -183,7 +188,7 @@
       "ID": "Upgrade3",
       "SetID": "ag762md",
       "Name": "Third Upgrade",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -191,7 +196,7 @@
       "ID": "Upgrade4",
       "SetID": "ag762md",
       "Name": "Fourth Upgrade",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -199,7 +204,7 @@
       "ID": "Upgrade5",
       "SetID": "ag762md",
       "Name": "Fifth Upgrade",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 7
     }
@@ -208,14 +213,14 @@
     {
       "ID": "ag762md",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-12-10T02:24:26.0991702+00:00",
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:10:11.3333053+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:09:32.3364143+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.3015239+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:57:42.379518+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:10:11.3333118+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:57:37.5451034+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:09:32.3364216+00:00"
 }

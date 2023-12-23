@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2282,6 +2282,11 @@
       "Time": "2023-12-23T04:04:02.0776724+00:00",
       "NumProgressed": 962,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T05:03:57.1983958+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2350,7 +2355,7 @@
       "Name": "Pathfinder",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "CompleteChapter10",
@@ -2366,7 +2371,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter12",
@@ -2374,7 +2379,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter13",
@@ -2422,7 +2427,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter18",
@@ -2438,7 +2443,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "CompleteChapter3",
@@ -2462,7 +2467,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "CompleteChapter6",
@@ -2470,15 +2475,15 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 173
     },
     {
       "ID": "CompleteChapter8",
@@ -2540,9 +2545,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 356
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2589,14 +2594,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:04:02.0776719+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:03:57.1983956+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:59:29.5689302+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:04:02.077712+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:58:56.7576085+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:03:57.1984376+00:00"
 }

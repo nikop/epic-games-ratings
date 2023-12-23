@@ -1,33 +1,33 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.11 (Ranked 985)  
+Rating: 4.11 (Ranked 986)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 11.00% | ~4,931 |
-| Unlocked Potential | 10.00% | ~4,482 |
+| Unlocked Potential | 10.00% | ~4,483 |
 | Tinkerer | 8.00% | ~3,586 |
 | Knock 'Em Dead | 7.00% | ~3,138 |
 | Pilgrimage: Initiate | 7.00% | ~3,138 |
 | Hell of a Run | 7.00% | ~3,138 |
-| Leapfrogger | 6.00% | ~2,689 |
-| Call of the Fount: Baptized | 6.00% | ~2,689 |
-| No Mercy | 5.00% | ~2,241 |
-| Explorer: Seeker | 5.00% | ~2,241 |
-| Help Me Out Here | 5.00% | ~2,241 |
+| Leapfrogger | 6.00% | ~2,690 |
+| Call of the Fount: Baptized | 6.00% | ~2,690 |
+| No Mercy | 5.00% | ~2,242 |
+| Explorer: Seeker | 5.00% | ~2,242 |
+| Help Me Out Here | 5.00% | ~2,242 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,793 |
 | Stuck | 4.00% | ~1,793 |
 | Outdoorsperson | 3.00% | ~1,345 |
 | The Interloper | 3.00% | ~1,345 |
 | Hop, Step, Jump | 3.00% | ~1,345 |
 | Endless Runner | 3.00% | ~1,345 |
-| What Must Be Done | 2.00% | ~896 |
-| Might and Main | 2.00% | ~896 |
-| Damned If You Do... | 2.00% | ~896 |
-| Explorer: Pathfinder | 2.00% | ~896 |
-| Shocker | 2.00% | ~896 |
-| From Every Angle | 2.00% | ~896 |
+| What Must Be Done | 2.00% | ~897 |
+| Might and Main | 2.00% | ~897 |
+| Damned If You Do... | 2.00% | ~897 |
+| Explorer: Pathfinder | 2.00% | ~897 |
+| Shocker | 2.00% | ~897 |
+| From Every Angle | 2.00% | ~897 |
 | The Hue of Blue | 1.00% | ~448 |
 | The Truth Will Out | 1.00% | ~448 |
 | Breaking Point | 1.00% | ~448 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 985)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,824 (Ranked 121)  
+Progressed: 44,830 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 3 (0.01%) (Ranked 361)
 | 2023-12-20 | 44,556 | 3 |
 | 2023-12-21 | 44,679 | 3 |
 | 2023-12-22 | 44,804 | 3 |
-| 2023-12-23 | 44,824 | 3 |
+| 2023-12-23 | 44,830 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 501)  
 Sum: 33 (Ranked 523)  

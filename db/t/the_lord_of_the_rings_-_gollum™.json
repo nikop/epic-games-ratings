@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1788,6 +1788,11 @@
       "Time": "2023-12-23T01:48:35.349055+00:00",
       "NumProgressed": 639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T05:03:56.9752459+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1855,7 +1860,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Chapter5",
@@ -1871,7 +1876,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Chapter7",
@@ -1901,9 +1906,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 320
     },
     {
       "ID": "Collectibles2",
@@ -2086,14 +2091,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:04:01.7185243+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:03:56.9752456+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8581095+00:00",
-  "LastUpdate_Ratings": "2023-12-23T03:57:29.5914402+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:04:01.7185712+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:57:27.5216753+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:03:56.9752776+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 623,
-  "EOS_Completed": 46,
+  "EOS_Completed": 47,
   "EOS_NewPlayers": 62,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.38,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 7.54,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2509,6 +2509,11 @@
       "Time": "2023-12-22T23:02:44.8297677+00:00",
       "NumProgressed": 623,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-12-23T05:05:34.7561398+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 45,
@@ -2838,9 +2843,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2880,13 +2885,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 623,
-      "Completed": 46
+      "Completed": 47
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:06:11.9668374+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:05:34.7561393+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:00:50.4648047+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:06:11.9668825+00:00"
+  "LastUpdate_Ratings": "2023-12-23T04:59:54.8430164+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:05:34.7561739+00:00"
 }

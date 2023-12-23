@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 385,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3531,
+  "EOS_Progressed": 3533,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4685,6 +4685,11 @@
       "Time": "2023-12-23T00:04:56.9054017+00:00",
       "NumProgressed": 3531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-23T05:04:31.1776321+00:00",
+      "NumProgressed": 3533,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4920,7 +4925,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Kills_Streak",
@@ -4928,7 +4933,7 @@
       "Name": "Purging Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Kills_Vakir",
@@ -5239,21 +5244,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3531,
+      "Progressed": 3533,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3531,
+      "Progressed": 3533,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-23T04:04:47.7535203+00:00",
+  "LastChanged_Achievements": "2023-12-23T05:04:31.1776317+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-23T04:03:42.6048186+00:00",
-  "LastUpdate_Achievements": "2023-12-23T04:04:47.7535845+00:00"
+  "LastUpdate_Ratings": "2023-12-23T05:03:42.6270547+00:00",
+  "LastUpdate_Achievements": "2023-12-23T05:04:31.1776985+00:00"
 }

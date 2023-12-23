@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~79 |
-| Air Fighter | 74.00% | ~67 |
-| Oo-De-Lally | 70.00% | ~63 |
-| The Altruist | 68.00% | ~61 |
-| Treasure Hunter | 63.00% | ~57 |
-| Watch your Step! | 53.00% | ~48 |
-| Tap Dancing | 52.00% | ~47 |
-| MAX LEVEL | 51.00% | ~46 |
-| Spring Board | 41.00% | ~37 |
-| Right between the eyes | 40.00% | ~36 |
-| Starry Night | 38.00% | ~34 |
-| Rebel Unleashed | 38.00% | ~34 |
-| Locksley's Tears | 36.00% | ~32 |
+| Act of Kindness | 86.00% | ~79 |
+| Air Fighter | 73.00% | ~67 |
+| Oo-De-Lally | 68.00% | ~63 |
+| The Altruist | 66.00% | ~61 |
+| Treasure Hunter | 62.00% | ~57 |
+| Watch your Step! | 52.00% | ~48 |
+| Tap Dancing | 51.00% | ~47 |
+| MAX LEVEL | 50.00% | ~46 |
+| Spring Board | 40.00% | ~37 |
+| Right between the eyes | 39.00% | ~36 |
+| Starry Night | 37.00% | ~34 |
+| Rebel Unleashed | 37.00% | ~34 |
+| Locksley's Tears | 35.00% | ~32 |
 | Merry Co-operation | 34.00% | ~31 |
-| Finish Him! | 27.00% | ~24 |
-| Assault on the Ram | 26.00% | ~23 |
+| Finish Him! | 26.00% | ~24 |
+| Assault on the Ram | 25.00% | ~23 |
 | Ultra Rebel Instinct | 24.00% | ~22 |
 | First Aid | 24.00% | ~22 |
 | Merry Go Round | 23.00% | ~21 |
-| Savior | 19.00% | ~17 |
-| Hidden Experiment | 18.00% | ~16 |
-| Take Action! | 18.00% | ~16 |
-| Ascending Will | 16.00% | ~14 |
+| Savior | 18.00% | ~17 |
+| Hidden Experiment | 17.00% | ~16 |
+| Take Action! | 17.00% | ~16 |
+| Ascending Will | 15.00% | ~14 |
 | Ultra Combo | 14.00% | ~13 |
 | Into the Lion's Den | 12.00% | ~11 |
 | Haute Couture | 11.00% | ~10 |
 | Sky High Fighter | 9.00% | ~8 |
 | The Gang prevails | 8.00% | ~7 |
 | Brilliant Executioner | 7.00% | ~6 |
-| Bold and Bossy | 6.00% | ~5 |
-| Power of Friendship! | 6.00% | ~5 |
+| Bold and Bossy | 5.00% | ~5 |
+| Power of Friendship! | 5.00% | ~5 |
 | No Mercy | 4.00% | ~4 |
 | Out of the ring | 4.00% | ~4 |
 | King of the Iron Fist | 3.00% | ~3 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 483)  
+Progressed: 92 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 0 (0.00%) (Ranked 385)
 | 2023-12-19 | 87 | 0 |
 | 2023-12-21 | 88 | 0 |
 | 2023-12-22 | 90 | 0 |
+| 2023-12-23 | 92 | 0 |

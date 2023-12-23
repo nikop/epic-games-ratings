@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,881 |
-| Alt+F4 | 10.00% | ~24,411 |
-| Where's that freaking Dwarf? | 9.00% | ~21,970 |
+| Sowwy! | 36.00% | ~87,882 |
+| Alt+F4 | 10.00% | ~24,412 |
+| Where's that freaking Dwarf? | 9.00% | ~21,971 |
 | Déjà vu | 7.00% | ~17,088 |
 | Sock! SOCK! | 6.00% | ~14,647 |
 | A beer, two curses, three companions | 5.00% | ~12,206 |
@@ -16,13 +16,13 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 5.00% | ~12,206 |
 | DM intervention | 4.00% | ~9,765 |
 | Fireproof Wizardess | 4.00% | ~9,765 |
-| Livin' in a dwarven paradise | 3.00% | ~7,323 |
-| Way of the Wimp | 3.00% | ~7,323 |
-| The plot thickens... At the tavern | 3.00% | ~7,323 |
-| The demons' feast | 3.00% | ~7,323 |
-| The Great Library | 3.00% | ~7,323 |
-| The Woman in the High Castle | 3.00% | ~7,323 |
-| Oh, when I'll be level 10... | 3.00% | ~7,323 |
+| Livin' in a dwarven paradise | 3.00% | ~7,324 |
+| Way of the Wimp | 3.00% | ~7,324 |
+| The plot thickens... At the tavern | 3.00% | ~7,324 |
+| The demons' feast | 3.00% | ~7,324 |
+| The Great Library | 3.00% | ~7,324 |
+| The Woman in the High Castle | 3.00% | ~7,324 |
+| Oh, when I'll be level 10... | 3.00% | ~7,324 |
 | Shiny and Crôm | 2.00% | ~4,882 |
 | Torture and Sensibility | 2.00% | ~4,882 |
 | Urik's Depths | 2.00% | ~4,882 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,114 (Ranked 65)  
+Progressed: 244,118 (Ranked 65)  
 Completed: 7 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 7 (0.00%) (Ranked 385)
 | 2023-12-20 | 243,748 | 7 |
 | 2023-12-21 | 243,905 | 7 |
 | 2023-12-22 | 244,079 | 7 |
-| 2023-12-23 | 244,114 | 7 |
+| 2023-12-23 | 244,118 | 7 |
 ## Awards
 Max (Character Customization): 250  (Ranked 274)  
 Sum: 529 (Ranked 327)  
