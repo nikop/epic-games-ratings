@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -587,10 +587,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44610,
-  "EOS_Completed": 221,
-  "EOS_NewPlayers": 900,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 44611,
+  "EOS_Completed": 222,
+  "EOS_NewPlayers": 893,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
@@ -11562,6 +11562,11 @@
       "Time": "2023-12-23T02:26:34.5000698+00:00",
       "NumProgressed": 44610,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2023-12-23T03:09:30.2479757+00:00",
+      "NumProgressed": 44611,
+      "NumCompleted": 222
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -11718,7 +11723,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10260
+      "UsersEstimate": 10261
     },
     {
       "ID": "ACH_HUB2",
@@ -11734,7 +11739,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23197
+      "UsersEstimate": 23198
     },
     {
       "ID": "ACH_PEAK",
@@ -11742,7 +11747,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10260
+      "UsersEstimate": 10261
     },
     {
       "ID": "ACH_PROPELL",
@@ -11758,7 +11763,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "ACH_S1",
@@ -11774,7 +11779,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 22305
+      "UsersEstimate": 22306
     },
     {
       "ID": "ACH_S5",
@@ -11798,22 +11803,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 19182
+      "UsersEstimate": 19183
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 44610,
-      "Completed": 221
+      "Progressed": 44611,
+      "Completed": 222
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:26:34.5000695+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:09:30.2479754+00:00",
   "LastUpdate_AppInfo": "2023-12-16T19:57:08.0533856+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:01.2443928+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:26:34.500138+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:58:01.8695511+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:09:30.2480325+00:00"
 }

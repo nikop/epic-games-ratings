@@ -6,15 +6,15 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,617 |
-| The Assault | 3.00% | ~22,212 |
-| Life is your teacher | 3.00% | ~22,212 |
-| Lightning Hands | 3.00% | ~22,212 |
-| The Hateful Pole Fighter | 2.00% | ~14,808 |
-| Street Fighting | 2.00% | ~14,808 |
-| State of constant learning | 2.00% | ~14,808 |
-| Qi Gong: Essence | 2.00% | ~14,808 |
-| Old Child | 2.00% | ~14,808 |
+| The Old Grandmaster | 4.00% | ~29,618 |
+| The Assault | 3.00% | ~22,214 |
+| Life is your teacher | 3.00% | ~22,214 |
+| Lightning Hands | 3.00% | ~22,214 |
+| The Hateful Pole Fighter | 2.00% | ~14,809 |
+| Street Fighting | 2.00% | ~14,809 |
+| State of constant learning | 2.00% | ~14,809 |
+| Qi Gong: Essence | 2.00% | ~14,809 |
+| Old Child | 2.00% | ~14,809 |
 | A Lady's Blood in the Snow | 1.00% | ~7,404 |
 | Lady Wing Chun | 1.00% | ~7,404 |
 | Furious Fists | 1.00% | ~7,404 |
@@ -25,14 +25,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,404 |
 | Rumble in the Hangar | 1.00% | ~7,404 |
 | Take damage to save time | 1.00% | ~7,404 |
-| Project Arena | 1.00% | ~497 |
-| Diligence as a goal | 1.00% | ~497 |
+| Project Arena | 1.00% | ~498 |
+| Diligence as a goal | 1.00% | ~498 |
 | Qi Gong: Mind | 0.90% | ~6,664 |
-| Scareless | 0.80% | ~5,923 |
-| Kung-Fu Tussle | 0.80% | ~5,923 |
+| Scareless | 0.80% | ~5,924 |
+| Kung-Fu Tussle | 0.80% | ~5,924 |
 | Dance of the Praying Mantis | 0.70% | ~5,183 |
 | Fight the way you practice | 0.70% | ~348 |
-| Martial Hub | 0.60% | ~298 |
+| Martial Hub | 0.60% | ~299 |
 | Bloody Sport | 0.50% | ~249 |
 | Muk Yan Master | 0.40% | ~2,962 |
 | Tiger on Fire | 0.40% | ~2,962 |
@@ -52,10 +52,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,481 |
 | Be like water my friend | 0.20% | ~1,481 |
 | Come Snap With Me | 0.20% | ~1,481 |
-| Deadly Venom | 0.20% | ~99 |
-| A Touch of Acumen | 0.20% | ~99 |
-| Skill and an even stronger will | 0.20% | ~99 |
-| Beatmaker | 0.20% | ~99 |
+| Deadly Venom | 0.20% | ~100 |
+| A Touch of Acumen | 0.20% | ~100 |
+| Skill and an even stronger will | 0.20% | ~100 |
+| Beatmaker | 0.20% | ~100 |
 | Healing Memory | 0.10% | ~740 |
 | Warriors from the Mountain | 0.10% | ~740 |
 | Secure, Protect, Leave | 0.10% | ~50 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~50 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,415 (Ranked 23)  
+Progressed: 740,450 (Ranked 23)  
 Completed: 12,959 (1.75%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 12,959 (1.75%) (Ranked 140)
 | 2023-12-20 | 737,594 | 12,958 |
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
-| 2023-12-23 | 740,415 | 12,959 |
+| 2023-12-23 | 740,450 | 12,959 |
 ## Awards
 Max (Great Boss Battles): 6,989  (Ranked 55)  
 Sum: 11,814 (Ranked 87)  

@@ -8421,9 +8421,9 @@
       "Count": 434
     }
   ],
-  "EOS_Progressed": 740415,
+  "EOS_Progressed": 740450,
   "EOS_Completed": 12959,
-  "EOS_NewPlayers": 13619,
+  "EOS_NewPlayers": 13565,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -30501,6 +30501,11 @@
       "Time": "2023-12-23T02:26:12.6781912+00:00",
       "NumProgressed": 740415,
       "NumCompleted": 12959
+    },
+    {
+      "Time": "2023-12-23T03:09:06.8034282+00:00",
+      "NumProgressed": 740450,
+      "NumCompleted": 12959
     }
   ],
   "TotalAchievements": 60,
@@ -30512,7 +30517,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29617
+      "UsersEstimate": 29618
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30520,7 +30525,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22212
+      "UsersEstimate": 22214
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30528,7 +30533,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30600,7 +30605,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5923
+      "UsersEstimate": 5924
     },
     {
       "ID": "13_LowAge",
@@ -30680,7 +30685,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -30688,7 +30693,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22212
+      "UsersEstimate": 22214
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -30696,7 +30701,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "25_ShrineMind",
@@ -30720,7 +30725,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -30760,7 +30765,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "33_BladeOneShot",
@@ -30776,7 +30781,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22212
+      "UsersEstimate": 22214
     },
     {
       "ID": "35_WideStrike",
@@ -30784,7 +30789,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5923
+      "UsersEstimate": 5924
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -30848,7 +30853,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -30856,7 +30861,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -30872,7 +30877,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -30880,7 +30885,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -30904,7 +30909,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -30928,7 +30933,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -30968,7 +30973,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -30991,21 +30996,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 49716,
+      "Progressed": 49751,
       "Completed": 10779
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 740415,
+      "Progressed": 740450,
       "Completed": 12959
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-22T21:02:32.1762865+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:26:12.678191+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:09:06.8034279+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:50.1499922+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:20:21.1767312+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:26:12.6783553+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:03:21.2861146+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:09:06.8035477+00:00"
 }

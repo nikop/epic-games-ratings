@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2018,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
@@ -5919,6 +5919,11 @@
       "Time": "2023-12-23T01:52:14.7457504+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T03:10:21.0956491+00:00",
+      "NumProgressed": 2018,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6035,7 +6040,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_22",
@@ -6083,7 +6088,7 @@
       "Name": "Your journey has only started",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_28",
@@ -6099,7 +6104,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_3",
@@ -6155,7 +6160,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1776
     },
     {
       "ID": "achievement_36",
@@ -6171,7 +6176,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1292
     },
     {
       "ID": "achievement_38",
@@ -6203,7 +6208,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "achievement_41",
@@ -6235,7 +6240,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_45",
@@ -6251,7 +6256,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_47",
@@ -6419,7 +6424,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_9",
@@ -6434,13 +6439,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2018,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2016,
+      "Progressed": 2018,
       "Completed": 1
     }
   ],
@@ -6448,8 +6453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:27:21.7370709+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:10:21.0956488+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.5169818+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:58.3894014+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:27:21.7371481+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:59:06.116497+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:10:21.0957105+00:00"
 }

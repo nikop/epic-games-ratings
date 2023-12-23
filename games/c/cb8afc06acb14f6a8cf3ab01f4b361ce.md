@@ -16,9 +16,9 @@ Rating: 4.21 (Ranked 928)
 | Back to your senses | 0.60% | ~2,000 |
 | They won't last long | 0.60% | ~2,000 |
 | Bring it on! | 0.60% | ~2,000 |
-| They tricked me | 0.50% | ~1,666 |
-| We need to talk | 0.50% | ~1,666 |
-| I feel drawn to it | 0.50% | ~1,666 |
+| They tricked me | 0.50% | ~1,667 |
+| We need to talk | 0.50% | ~1,667 |
+| I feel drawn to it | 0.50% | ~1,667 |
 | Here to stay | 0.40% | ~1,333 |
 | Counting on you | 0.40% | ~1,333 |
 | This is the end | 0.40% | ~1,333 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 928)
 | Something... unnatural | 0.10% | ~333 |
 | We strike as one | 0.10% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333,297 (Ranked 53)  
+Progressed: 333,310 (Ranked 53)  
 Completed: 5 (0.00%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 5 (0.00%) (Ranked 385)
 | 2023-12-20 | 332,048 | 5 |
 | 2023-12-21 | 332,632 | 5 |
 | 2023-12-22 | 333,231 | 5 |
-| 2023-12-23 | 333,297 | 5 |
+| 2023-12-23 | 333,310 | 5 |
 ## Awards
 Max (Great Boss Battles): 72  (Ranked 406)  
 Sum: 72 (Ranked 475)  

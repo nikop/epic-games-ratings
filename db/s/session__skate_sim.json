@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1299,7 +1299,7 @@
   ],
   "EOS_Progressed": 3334,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7042,9 +7042,9 @@
       "ID": "ACH_THATS-HOW-ITS-DONE",
       "SetID": "72olkc5",
       "Name": "That\u0027s how it\u0027s done!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
@@ -7074,9 +7074,9 @@
       "ID": "ACH_TIGHT-LIPSLIDES",
       "SetID": "72olkc5",
       "Name": "Tight lipslides",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -7138,8 +7138,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-22T16:00:56.9737771+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:21:17.183203+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:04:24.959854+00:00",
   "LastUpdate_AppInfo": "2023-12-16T22:57:11.20318+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:16:41.3084574+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:21:17.1832497+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:59:53.4221237+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:04:24.95991+00:00"
 }

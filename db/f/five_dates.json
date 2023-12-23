@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1452,
+  "EOS_Progressed": 1453,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2635,6 +2635,11 @@
       "Time": "2023-12-23T01:52:00.7261008+00:00",
       "NumProgressed": 1452,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-23T03:10:05.7589231+00:00",
+      "NumProgressed": 1453,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2646,7 +2651,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "booty_call",
@@ -2670,7 +2675,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "hold_my_beer",
@@ -2686,7 +2691,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "interrogation",
@@ -2756,16 +2761,16 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 392
+      "UsersEstimate": 378
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1452,
+      "Progressed": 1453,
       "Completed": 11
     }
   ],
@@ -2773,8 +2778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:27:07.4609241+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:10:05.7589228+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.6209919+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:57.6535346+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:27:07.4609408+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:59:05.2818174+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:10:05.7589449+00:00"
 }

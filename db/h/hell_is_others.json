@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1369,9 +1369,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259650,
+  "EOS_Progressed": 259652,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24949,6 +24949,11 @@
       "Time": "2023-12-23T02:21:45.3357905+00:00",
       "NumProgressed": 259650,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-23T03:04:55.1217286+00:00",
+      "NumProgressed": 259652,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -24976,7 +24981,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "Act4",
@@ -25016,7 +25021,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12982
+      "UsersEstimate": 12983
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -25088,7 +25093,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12982
+      "UsersEstimate": 12983
     },
     {
       "ID": "CreedsInBank2",
@@ -25096,7 +25101,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "CreedsInBank3",
@@ -25128,7 +25133,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "FullHomeExpansion",
@@ -25152,7 +25157,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "GrowPlants1",
@@ -25168,7 +25173,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "GrowPlants3",
@@ -25312,7 +25317,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "OldCoinCollected",
@@ -25400,14 +25405,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259650,
+      "Progressed": 259652,
       "Completed": 3
     }
   ],
@@ -25415,8 +25420,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-22T12:01:32.6283228+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:21:45.3357899+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:04:55.1217285+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.6293608+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:17:29.1097422+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:21:45.3359231+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:00:45.3420596+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:04:55.1218496+00:00"
 }

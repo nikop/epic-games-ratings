@@ -5,28 +5,28 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~2,993 |
-| The Outer Way | 15.00% | ~2,806 |
-| Get a Grip | 14.00% | ~2,619 |
-| Paper Jams | 14.00% | ~2,619 |
-| Desperate Times | 14.00% | ~2,619 |
+| Flesh Wound | 16.00% | ~2,994 |
+| The Outer Way | 15.00% | ~2,807 |
+| Get a Grip | 14.00% | ~2,620 |
+| Paper Jams | 14.00% | ~2,620 |
+| Desperate Times | 14.00% | ~2,620 |
 | Chew 'Em Up | 12.00% | ~2,245 |
 | Float Like A Butterfly | 11.00% | ~2,058 |
 | Reforged | 11.00% | ~2,058 |
-| Workplace Hazard | 9.00% | ~1,683 |
-| If the SHU Fits... | 9.00% | ~1,683 |
-| Without A Paddle | 8.00% | ~1,496 |
-| Two Heads Are Better Than One | 7.00% | ~1,309 |
-| In the Pipe, Five by Five | 7.00% | ~1,309 |
-| Crash Site | 7.00% | ~1,309 |
-| Power Up | 7.00% | ~1,309 |
-| Giving Back | 6.00% | ~1,122 |
-| You Need a Gun | 6.00% | ~1,122 |
-| Terminated | 6.00% | ~1,122 |
-| What Lies Beneath | 6.00% | ~1,122 |
-| Full Circle | 6.00% | ~1,122 |
+| Workplace Hazard | 9.00% | ~1,684 |
+| If the SHU Fits... | 9.00% | ~1,684 |
+| Without A Paddle | 8.00% | ~1,497 |
+| Two Heads Are Better Than One | 7.00% | ~1,310 |
+| In the Pipe, Five by Five | 7.00% | ~1,310 |
+| Crash Site | 7.00% | ~1,310 |
+| Power Up | 7.00% | ~1,310 |
+| Giving Back | 6.00% | ~1,123 |
+| You Need a Gun | 6.00% | ~1,123 |
+| Terminated | 6.00% | ~1,123 |
+| What Lies Beneath | 6.00% | ~1,123 |
+| Full Circle | 6.00% | ~1,123 |
 | Keep Fighting | 6.00% | ~398 |
-| I Do Belong Here | 5.00% | ~935 |
+| I Do Belong Here | 5.00% | ~936 |
 | It's Time | 5.00% | ~332 |
 | The Commonality | 4.00% | ~748 |
 | In Striking Distance | 3.00% | ~561 |
@@ -41,10 +41,10 @@ Rating: 4.20 (Ranked 936)
 | Parole Denied | 0.70% | ~46 |
 | Quick Pick | 0.60% | ~40 |
 | Subject Alpha | 0.40% | ~27 |
+| Hoard Mode | 0.30% | ~20 |
 | Don't Let It Mellow | 0.30% | ~20 |
 | The Protocol is About Life | 0.20% | ~37 |
 | Recidivist | 0.20% | ~13 |
-| Hoard Mode | 0.20% | ~13 |
 | It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~7 |
 | You Belong Here | 0.10% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,705 (Ranked 151)  
+Progressed: 18,712 (Ranked 151)  
 Completed: 82 (0.44%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 82 (0.44%) (Ranked 223)
 | 2023-12-20 | 18,301 | 82 |
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
-| 2023-12-23 | 18,705 | 82 |
+| 2023-12-23 | 18,712 | 82 |
 ## Awards
 Max (Amazing Characters): 95  (Ranked 382)  
-Sum: 551 (Ranked 324)  
+Sum: 553 (Ranked 324)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): 58
 | This game has Quickly Understood Controls | 91 |
 | This game has Amazing Storytelling | 90 |
 | This game is Extremely Fun | 81 |
-| This game has Challenging Combat | 66 |
+| This game has Challenging Combat | 68 |
 | This game has a Creative Community | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -488,3 +488,4 @@ Diff (max vs sum): 58
 | 2023-12-20 | 4.19 | 89 | 533 |
 | 2023-12-21 | 4.20 | 91 | 539 |
 | 2023-12-22 | 4.20 | 95 | 551 |
+| 2023-12-23 | 4.20 | 95 | 553 |

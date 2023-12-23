@@ -4,8 +4,8 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1459,6 +1459,11 @@
       "Time": "2023-12-21T21:09:48.428984+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-23T03:03:55.4123237+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1469,7 +1474,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_INSIDE",
       "SetID": "5lffoo5",
       "Name": "Minimalist lifestyle",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1477,7 +1482,7 @@
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
       "SetID": "5lffoo5",
       "Name": "I deliver the presents!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1501,7 +1506,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
       "SetID": "5lffoo5",
       "Name": "Lesson learned",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -1614,14 +1619,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:20:50.3618382+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:03:55.4123234+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:38.3473429+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:14:46.2234507+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:20:50.3618607+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:57:46.1513257+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:03:55.4123425+00:00"
 }

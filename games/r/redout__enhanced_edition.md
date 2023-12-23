@@ -6,8 +6,8 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,426 |
-| NATURAL BORN WINNER | 33.00% | ~78,416 |
+| VANGUARD | 41.00% | ~97,427 |
+| NATURAL BORN WINNER | 33.00% | ~78,417 |
 | CALLING HOUSTON | 28.00% | ~66,535 |
 | SNEAKY SNEAKY | 22.00% | ~52,278 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,278 |
@@ -22,17 +22,17 @@ Number of Ratings: 274  (23.09.2022)
 | TAKATORA | 5.00% | ~11,881 |
 | SHOWOFF | 4.00% | ~9,505 |
 | GILA | 3.00% | ~7,129 |
-| PRO | 2.00% | ~4,752 |
-| RESPWND | 2.00% | ~4,752 |
-| SHINY SHINY GOLD | 2.00% | ~4,752 |
+| PRO | 2.00% | ~4,753 |
+| RESPWND | 2.00% | ~4,753 |
+| SHINY SHINY GOLD | 2.00% | ~4,753 |
 | HARDCORE | 1.00% | ~2,376 |
 | ACE | 0.80% | ~1,901 |
 | TACTICIAN | 0.60% | ~1,426 |
 | GTX COMPETIZIONE | 0.50% | ~1,188 |
 | HIDDEN POWER | 0.50% | ~1,188 |
 | TUNING MANIAC | 0.50% | ~1,188 |
-| DRAGOON | 0.40% | ~950 |
-| FLAWLESS | 0.40% | ~950 |
+| DRAGOON | 0.40% | ~951 |
+| FLAWLESS | 0.40% | ~951 |
 | MARID | 0.30% | ~713 |
 | BETTER THAN EVER | 0.20% | ~475 |
 | IINI | 0.20% | ~475 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~475 |
 | ENLIGHTENED | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,625 (Ranked 69)  
+Progressed: 237,626 (Ranked 69)  
 Completed: 49 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 49 (0.02%) (Ranked 353)
 | 2023-12-20 | 237,477 | 49 |
 | 2023-12-21 | 237,539 | 49 |
 | 2023-12-22 | 237,610 | 49 |
-| 2023-12-23 | 237,625 | 49 |
+| 2023-12-23 | 237,626 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

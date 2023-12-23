@@ -46,8 +46,8 @@
 | Furious Scorpion Challenge | 2.00% | ~13 |
 | Giant Lizard Challenge | 2.00% | ~13 |
 | Mermaid Challenge | 2.00% | ~13 |
+| Giantess Challenge | 2.00% | ~13 |
 | Berserker Challenge | 1.00% | ~6 |
-| Giantess Challenge | 1.00% | ~6 |
 | Warden Challenge | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 649 (Ranked 310)  

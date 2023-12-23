@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42541,
+  "EOS_Progressed": 42542,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27005,6 +27005,11 @@
       "Time": "2023-12-23T02:25:54.1973719+00:00",
       "NumProgressed": 42541,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-23T03:08:46.5296693+00:00",
+      "NumProgressed": 42542,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27168,7 +27173,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -27176,7 +27181,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -27247,7 +27252,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42541,
+      "Progressed": 42542,
       "Completed": 30
     }
   ],
@@ -27255,8 +27260,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:25:54.1973717+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:08:46.529669+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:31.5071316+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:14:49.7445758+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:25:54.1975072+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:57:49.8661414+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:08:46.5298192+00:00"
 }

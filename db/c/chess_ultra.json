@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -467,9 +467,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223384,
+  "EOS_Progressed": 223385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1190,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28637,6 +28637,11 @@
       "Time": "2023-12-23T02:23:06.158326+00:00",
       "NumProgressed": 223384,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-23T03:06:24.2693223+00:00",
+      "NumProgressed": 223385,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -28648,7 +28653,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 104990
+      "UsersEstimate": 104991
     },
     {
       "ID": "AlekhinesGun",
@@ -28696,7 +28701,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 122861
+      "UsersEstimate": 122862
     },
     {
       "ID": "Checkmate",
@@ -28704,7 +28709,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 67015
+      "UsersEstimate": 67016
     },
     {
       "ID": "ChessChampion",
@@ -28951,7 +28956,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 223384,
+      "Progressed": 223385,
       "Completed": 2
     }
   ],
@@ -28959,8 +28964,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-21T21:57:43.8926813+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:23:06.1583256+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:06:24.2693219+00:00",
   "LastUpdate_AppInfo": "2023-12-16T17:56:57.4118976+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:11.1842379+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:23:06.1584851+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:58:14.1052819+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:06:24.2694473+00:00"
 }

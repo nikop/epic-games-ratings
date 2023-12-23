@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -47,7 +47,7 @@
   "Tags": [],
   "EOS_Progressed": 1069,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3116,9 +3116,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 107
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3437,8 +3437,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-18T08:57:59.1291337+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:27:11.3802195+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:10:10.3741401+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:17:25.7106705+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:27:11.3802683+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:00:41.6603315+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:10:10.3741818+00:00"
 }

@@ -32,7 +32,7 @@
 | Got lost again | 4.00% | ~36 |
 | I leave no man behind (no exceptions) | 2.00% | ~18 |
 | Convoy list | 0.90% | ~8 |
-| No more mistakes | 0.40% | ~4 |
+| No more mistakes | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 892 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 385)  

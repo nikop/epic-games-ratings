@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1599,9 +1599,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1686,8 +1686,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:23:34.0666029+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:06:54.4697833+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:17:19.9182362+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:23:34.066622+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:00:35.5841713+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:06:54.469799+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -12768,9 +12768,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 57370,
+  "EOS_Progressed": 57371,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -35818,6 +35818,11 @@
       "Time": "2023-12-23T02:23:49.2488719+00:00",
       "NumProgressed": 57370,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-23T03:07:11.1779417+00:00",
+      "NumProgressed": 57371,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -35861,7 +35866,7 @@
       "Name": "Road Trip",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "CollectiblesAlpine",
@@ -35981,7 +35986,7 @@
       "Name": "Own use",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 41880
+      "UsersEstimate": 41881
     },
     {
       "ID": "HorseJumps",
@@ -36021,7 +36026,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "MissionFirst",
@@ -36029,7 +36034,7 @@
       "Name": "Help me to help you",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 20653
+      "UsersEstimate": 20654
     },
     {
       "ID": "Money",
@@ -36045,7 +36050,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "NumDrivables",
@@ -36061,7 +36066,7 @@
       "Name": "All out of Land",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 24095
+      "UsersEstimate": 24096
     },
     {
       "ID": "NumProductionPoints",
@@ -36101,7 +36106,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 32127
+      "UsersEstimate": 32128
     },
     {
       "ID": "Sow",
@@ -36117,7 +36122,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 34422
+      "UsersEstimate": 34423
     },
     {
       "ID": "Stones",
@@ -36157,7 +36162,7 @@
       "Name": "Fix me up",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6884
+      "UsersEstimate": 6885
     },
     {
       "ID": "WrappedBales",
@@ -36172,15 +36177,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 57370,
+      "Progressed": 57371,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-22T21:00:43.8474665+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:23:49.2488717+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:07:11.1779414+00:00",
   "LastUpdate_AppInfo": "2023-12-16T21:57:09.7454283+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:16:49.1007588+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:23:49.2489924+00:00"
+  "LastUpdate_Ratings": "2023-12-23T03:00:02.0362308+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:07:11.1780576+00:00"
 }

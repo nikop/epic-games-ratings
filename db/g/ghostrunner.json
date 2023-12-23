@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1473,9 +1473,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24868,
+  "EOS_Progressed": 24869,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28028,6 +28028,11 @@
       "Time": "2023-12-23T01:48:01.3664091+00:00",
       "NumProgressed": 24868,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-23T03:06:38.6167187+00:00",
+      "NumProgressed": 24869,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -28055,7 +28060,7 @@
       "Name": "Artificial selection",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "BackToHell",
@@ -28063,7 +28068,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 8952
+      "UsersEstimate": 8953
     },
     {
       "ID": "CantRunCantHide",
@@ -28135,7 +28140,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10693
+      "UsersEstimate": 10694
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -28183,7 +28188,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2735
+      "UsersEstimate": 2736
     },
     {
       "ID": "Neuromancer",
@@ -28191,7 +28196,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "ObedientMachine",
@@ -28263,7 +28268,7 @@
       "Name": "Running out of breath",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13180
+      "UsersEstimate": 13181
     },
     {
       "ID": "RunningWild",
@@ -28311,7 +28316,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 15169
+      "UsersEstimate": 15170
     },
     {
       "ID": "SwordToAGunfight",
@@ -28359,7 +28364,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 13180
+      "UsersEstimate": 13181
     },
     {
       "ID": "WaveOfMutilation",
@@ -28375,7 +28380,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9947
+      "UsersEstimate": 9948
     },
     {
       "ID": "WhereHeStood",
@@ -28398,21 +28403,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24868,
+      "Progressed": 24869,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24868,
+      "Progressed": 24869,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-19T15:59:23.7611453+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:23:19.4617076+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:06:38.6167184+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:26.3617776+00:00",
   "LastUpdate_Ratings": "2023-12-23T02:17:36.5134501+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:23:19.461842+00:00"
+  "LastUpdate_Achievements": "2023-12-23T03:06:38.6168494+00:00"
 }

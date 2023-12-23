@@ -5,28 +5,28 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,742 |
-| Mainframe Hacker | 23.00% | ~4,402 |
-| The Spy who eliminated me | 23.00% | ~4,402 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,743 |
+| Mainframe Hacker | 23.00% | ~4,403 |
+| The Spy who eliminated me | 23.00% | ~4,403 |
 | Tomorrow Never Dyes | 22.00% | ~4,211 |
-| From the Vault with Love | 18.00% | ~3,445 |
-| Never Say Loser Again | 18.00% | ~3,445 |
-| Tailor-Made | 18.00% | ~3,445 |
-| For your Eyes only | 18.00% | ~3,445 |
+| From the Vault with Love | 18.00% | ~3,446 |
+| Never Say Loser Again | 18.00% | ~3,446 |
+| Tailor-Made | 18.00% | ~3,446 |
+| For your Eyes only | 18.00% | ~3,446 |
 | Assistant Accountant | 17.00% | ~3,254 |
-| You Only Live Twice | 16.00% | ~3,062 |
-| Fully Decked Out | 16.00% | ~3,062 |
+| You Only Live Twice | 16.00% | ~3,063 |
+| Fully Decked Out | 16.00% | ~3,063 |
 | A view to Win | 13.00% | ~2,488 |
 | The Living Portrait | 12.00% | ~2,297 |
 | Smells Like Trouble | 12.00% | ~2,297 |
-| My Motto, My Creed | 11.00% | ~2,105 |
-| Private Collection | 11.00% | ~2,105 |
-| Killer Looks | 11.00% | ~2,105 |
-| Hostile Takeover | 11.00% | ~2,105 |
+| My Motto, My Creed | 11.00% | ~2,106 |
+| Private Collection | 11.00% | ~2,106 |
+| Killer Looks | 11.00% | ~2,106 |
+| Hostile Takeover | 11.00% | ~2,106 |
 | Keycards Royale | 10.00% | ~1,914 |
 | Dr. No Kill | 10.00% | ~1,914 |
 | In It to Win It | 9.00% | ~1,723 |
-| Security Supervisor | 6.00% | ~1,148 |
+| Security Supervisor | 6.00% | ~1,149 |
 | License to Thrill | 5.00% | ~957 |
 | Social of Solace | 4.00% | ~766 |
 | Live and let lie | 3.00% | ~574 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 457)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,140 (Ranked 149)  
+Progressed: 19,142 (Ranked 149)  
 Completed: 4 (0.02%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 4 (0.02%) (Ranked 353)
 | 2023-12-20 | 19,116 | 4 |
 | 2023-12-21 | 19,127 | 4 |
 | 2023-12-22 | 19,134 | 4 |
-| 2023-12-23 | 19,140 | 4 |
+| 2023-12-23 | 19,142 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

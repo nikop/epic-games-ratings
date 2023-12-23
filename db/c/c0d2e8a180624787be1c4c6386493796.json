@@ -1455,9 +1455,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -1508,8 +1508,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:23:16.784141+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:06:35.8492883+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:29.3309704+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:23:16.7841982+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:58:33.6031066+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:06:35.8493518+00:00"
 }

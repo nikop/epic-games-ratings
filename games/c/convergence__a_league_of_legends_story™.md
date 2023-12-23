@@ -40,9 +40,9 @@ Rating: 4.64 (Ranked 340)
 | Sump Explorer | 11.00% | ~118 |
 | Syron for Hope | 11.00% | ~118 |
 | Factorywood Explorer | 10.00% | ~107 |
+| Fairgrounds Explorer | 10.00% | ~107 |
 | Theater Explorer | 10.00% | ~107 |
 | Cultivair Explorer | 9.00% | ~96 |
-| Fairgrounds Explorer | 9.00% | ~96 |
 | Corin Goes Home | 8.00% | ~86 |
 | Sartorialist | 8.00% | ~86 |
 | Entresol Explorer | 8.00% | ~86 |

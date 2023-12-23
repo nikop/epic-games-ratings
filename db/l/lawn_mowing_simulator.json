@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2230,9 +2230,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 690272,
+  "EOS_Progressed": 690280,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1896,
+  "EOS_NewPlayers": 1901,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30555,6 +30555,11 @@
       "Time": "2023-12-23T02:27:20.0189243+00:00",
       "NumProgressed": 690272,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-23T03:10:19.2120214+00:00",
+      "NumProgressed": 690280,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30566,7 +30571,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 545315
+      "UsersEstimate": 545321
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -30574,7 +30579,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -30582,7 +30587,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -30654,7 +30659,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248498
+      "UsersEstimate": 248501
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -30662,7 +30667,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -30670,7 +30675,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -30806,7 +30811,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213984
+      "UsersEstimate": 213987
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -30830,7 +30835,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -30838,7 +30843,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41416
+      "UsersEstimate": 41417
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -30846,7 +30851,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -30854,7 +30859,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -30870,7 +30875,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103541
+      "UsersEstimate": 103542
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -30878,7 +30883,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -30894,7 +30899,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -30902,7 +30907,7 @@
       "Name": "The top of the mountain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -30910,7 +30915,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -30926,7 +30931,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48319
+      "UsersEstimate": 48320
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -30958,7 +30963,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6212
+      "UsersEstimate": 6213
     },
     {
       "ID": "RP_RANK_UP",
@@ -30966,7 +30971,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124249
+      "UsersEstimate": 124250
     },
     {
       "ID": "RP_TRUSTED",
@@ -30974,7 +30979,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -30982,7 +30987,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62124
+      "UsersEstimate": 62125
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -30997,15 +31002,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 690272,
+      "Progressed": 690280,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:27:20.0189241+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:10:19.2120211+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:21.409328+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:14:28.9848596+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:27:20.0190542+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:57:27.3734996+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:10:19.2121964+00:00"
 }

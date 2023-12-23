@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 210,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1074,9 +1074,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1217,8 +1217,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:21:12.0614707+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:04:19.0300262+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:01.9088028+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:21:12.061496+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:58:02.6442816+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:04:19.0300547+00:00"
 }

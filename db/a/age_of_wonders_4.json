@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6009,
+  "EOS_Progressed": 6013,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8837,6 +8837,11 @@
       "Time": "2023-12-23T02:23:29.824192+00:00",
       "NumProgressed": 6009,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-23T03:06:49.8304059+00:00",
+      "NumProgressed": 6013,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8864,7 +8869,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "12",
@@ -8888,7 +8893,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "15",
@@ -8992,7 +8997,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "27",
@@ -9008,7 +9013,7 @@
       "Name": "From Friends to Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "29",
@@ -9016,7 +9021,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "3",
@@ -9040,7 +9045,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "32",
@@ -9056,7 +9061,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "34",
@@ -9312,7 +9317,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "60",
@@ -9327,13 +9332,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6009,
+      "Progressed": 6013,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6009,
+      "Progressed": 6013,
       "Completed": 7
     }
   ],
@@ -9341,8 +9346,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-23T02:23:29.8241916+00:00",
+  "LastChanged_Achievements": "2023-12-23T03:06:49.8304056+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T02:15:05.045356+00:00",
-  "LastUpdate_Achievements": "2023-12-23T02:23:29.8242786+00:00"
+  "LastUpdate_Ratings": "2023-12-23T02:58:06.850666+00:00",
+  "LastUpdate_Achievements": "2023-12-23T03:06:49.830482+00:00"
 }

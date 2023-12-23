@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~300 |
 | Keep the dream alive | 9.00% | ~300 |
 | Upfront shredder | 9.00% | ~300 |
-| Tight lipslides | 8.00% | ~267 |
 | Bottom ply killer | 7.00% | ~233 |
 | Fashionista | 7.00% | ~233 |
 | Finally he zips it | 7.00% | ~233 |
 | That pinch! | 7.00% | ~233 |
+| Tight lipslides | 7.00% | ~233 |
 | Fulfilled the dream | 6.00% | ~200 |
 | G'Day Mate! | 6.00% | ~200 |
 | Laid back | 6.00% | ~200 |
@@ -49,10 +49,10 @@ Number of Ratings: 111  (23.09.2022)
 | That was wheelie fun | 2.00% | ~67 |
 | Dipped! | 1.00% | ~33 |
 | Skatepark hero | 1.00% | ~33 |
-| That's how it's done! | 0.20% | ~7 |
 | Bing Bong! | 0.10% | ~3 |
 | Golden! | 0.10% | ~3 |
 | Loves You Back | 0.10% | ~3 |
+| That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,334 (Ranked 217)  

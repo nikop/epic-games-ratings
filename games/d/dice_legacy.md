@@ -44,12 +44,12 @@ Rating: 4.29 (Ranked 857)
 | The Corrupted | 0.20% | ~3 |
 | The Foul | 0.20% | ~3 |
 | Oktoberfest | 0.10% | ~1 |
+| Fate is against us | 0.10% | ~1 |
+| Despite everything | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
-| Fate is against us | 0.00% | ~0 |
-| Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,252 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 385)  
