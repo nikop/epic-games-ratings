@@ -10,13 +10,13 @@
 | Beast Quest | 34.00% | ~25 |
 | Monster Hunt | 34.00% | ~25 |
 | Beast Hunter | 31.00% | ~23 |
+| Fly, you fool! | 31.00% | ~23 |
 | Loot, loot! | 31.00% | ~23 |
 | Vanquisher! | 30.00% | ~22 |
 | Orb Collector | 30.00% | ~22 |
 | Twin slayer! | 30.00% | ~22 |
 | Snakehead! | 30.00% | ~22 |
 | Unmasked! | 30.00% | ~22 |
-| Fly, you fool! | 30.00% | ~22 |
 | Mercenary! | 30.00% | ~22 |
 | Beast Knight | 28.00% | ~21 |
 | Relic Collector | 26.00% | ~19 |

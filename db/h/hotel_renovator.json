@@ -5,9 +5,9 @@
   "Ranking_Rating": 818,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1288,
+  "EOS_Progressed": 1289,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -2955,6 +2955,11 @@
       "Time": "2023-12-24T15:09:11.8662625+00:00",
       "NumProgressed": 1288,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-24T16:08:35.7550989+00:00",
+      "NumProgressed": 1289,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3020,17 +3025,17 @@
       "ID": "ACH_ENGAGEMENT_RING",
       "SetID": "7k95e4n",
       "Name": "Broken heart",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -3070,7 +3075,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3084,9 +3089,9 @@
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3094,7 +3099,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -3102,7 +3107,7 @@
       "Name": "Let there be light",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3118,7 +3123,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_STAR_2",
@@ -3126,7 +3131,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_STAR_3",
@@ -3166,7 +3171,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3181,7 +3186,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1288,
+      "Progressed": 1289,
       "Completed": 18
     }
   ],
@@ -3189,8 +3194,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-23T01:40:38.043834+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:09:11.866262+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:08:35.7550986+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:01:26.7128174+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:09:11.8662853+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:59:54.1439955+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:08:35.755128+00:00"
 }

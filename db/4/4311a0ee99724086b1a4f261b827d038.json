@@ -2,12 +2,12 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -717,10 +717,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 195,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-12-24T15:57:29.2444051+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 196,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195,
+  "NumberOfAwards": 196,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -764,7 +770,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -785,9 +791,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239316,
+  "EOS_Progressed": 239325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1201,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18640,6 +18646,11 @@
       "Time": "2023-12-24T15:11:21.8592945+00:00",
       "NumProgressed": 239316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T16:10:13.9721236+00:00",
+      "NumProgressed": 239325,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18708,7 +18719,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50256
+      "UsersEstimate": 50258
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -18716,7 +18727,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21538
+      "UsersEstimate": 21539
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -18748,7 +18759,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7179
+      "UsersEstimate": 7180
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -18756,7 +18767,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7179
+      "UsersEstimate": 7180
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -18836,7 +18847,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33504
+      "UsersEstimate": 33506
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -18844,7 +18855,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16752
+      "UsersEstimate": 16753
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -18908,7 +18919,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59829
+      "UsersEstimate": 59831
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -18923,16 +18934,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 239316,
+      "Progressed": 239325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-12-24T04:57:07.4354119+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:11:21.8592939+00:00",
+  "LastChanged": "2023-12-24T15:57:29.2444049+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:10:13.972123+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:57:55.5653215+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:11:21.8593783+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:57:29.2444054+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:10:13.9722108+00:00"
 }

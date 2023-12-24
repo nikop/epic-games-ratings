@@ -6,7 +6,7 @@
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39418,
+  "EOS_Progressed": 39419,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21881,6 +21881,11 @@
       "Time": "2023-12-24T15:08:01.3836409+00:00",
       "NumProgressed": 39418,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-24T16:06:13.3950486+00:00",
+      "NumProgressed": 39419,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21972,7 +21977,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9460
+      "UsersEstimate": 9461
     },
     {
       "ID": "firstItem",
@@ -21980,7 +21985,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30352
+      "UsersEstimate": 30353
     },
     {
       "ID": "roots",
@@ -22003,15 +22008,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39418,
+      "Progressed": 39419,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:08:01.3836404+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:06:13.3950482+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:01.7513473+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:08:01.3837368+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:57:33.2952144+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:06:13.3951708+00:00"
 }

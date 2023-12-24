@@ -26,11 +26,11 @@
 | Law student | 59.00% | ~270 |
 | Workout professional | 56.00% | ~256 |
 | Handyman | 56.00% | ~256 |
+| Fight for life | 55.00% | ~252 |
 | Little hacker | 55.00% | ~252 |
 | Champion – starter pack | 55.00% | ~252 |
 | It's good to be alive | 55.00% | ~252 |
 | Employee of the year | 55.00% | ~252 |
-| Fight for life | 54.00% | ~247 |
 | Own four walls | 54.00% | ~247 |
 | Intriguing candies | 54.00% | ~247 |
 | Extreme neuropower! | 51.00% | ~234 |
@@ -52,9 +52,9 @@
 | Get out of my apartment! | 34.00% | ~156 |
 | Seashell hunter | 33.00% | ~151 |
 | Gang wrangler | 32.00% | ~147 |
+| Undercover robot | 32.00% | ~147 |
 | Problems of cyborgs | 31.00% | ~142 |
 | Absolute Champion! | 31.00% | ~142 |
-| Undercover robot | 31.00% | ~142 |
 | Not little hacker | 30.00% | ~137 |
 | Your own way | 30.00% | ~137 |
 | Trap disarmed | 29.00% | ~133 |

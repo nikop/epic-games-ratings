@@ -15,16 +15,16 @@
 | Selfish Shellfish | 1.00% | ~4 |
 | They Can Change | 0.80% | ~3 |
 | Aquatic Expansion | 0.80% | ~3 |
+| Four-Legged Friends | 0.80% | ~3 |
 | Worth Your While | 0.80% | ~3 |
 | The Heart of Moonglow | 0.50% | ~2 |
-| Four-Legged Friends | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
+| Restored to Prosperity | 0.30% | ~1 |
 | From Beyond | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
 | Ode to a Blacksmith | 0.30% | ~1 |
 | You Can Pet The Dog | 0.30% | ~1 |
 | The Whole Journey | 0.00% | ~0 |
-| Restored to Prosperity | 0.00% | ~0 |
 | Fishing Season | 0.00% | ~0 |
 | Restauranteur | 0.00% | ~0 |
 | Versus the Sea | 0.00% | ~0 |

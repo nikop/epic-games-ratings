@@ -591,9 +591,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6125,
+  "EOS_Progressed": 6128,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9026,6 +9026,11 @@
       "Time": "2023-12-24T15:09:09.3003503+00:00",
       "NumProgressed": 6125,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T16:08:33.8628148+00:00",
+      "NumProgressed": 6128,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9085,7 +9090,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "16",
@@ -9125,7 +9130,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "20",
@@ -9165,7 +9170,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "25",
@@ -9189,7 +9194,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "28",
@@ -9213,7 +9218,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "30",
@@ -9221,7 +9226,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "31",
@@ -9237,7 +9242,7 @@
       "Name": "My Final Form",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "33",
@@ -9269,7 +9274,7 @@
       "Name": "Fiery Friend",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "37",
@@ -9277,7 +9282,7 @@
       "Name": "Against the Odds",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "38",
@@ -9293,7 +9298,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "4",
@@ -9389,7 +9394,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "46",
@@ -9397,7 +9402,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "47",
@@ -9421,7 +9426,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "50",
@@ -9437,7 +9442,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "52",
@@ -9445,7 +9450,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "53",
@@ -9461,7 +9466,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "55",
@@ -9485,7 +9490,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "58",
@@ -9516,13 +9521,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6125,
+      "Progressed": 6128,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6125,
+      "Progressed": 6128,
       "Completed": 7
     }
   ],
@@ -9530,8 +9535,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T10:58:25.5451673+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:09:09.3003499+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:08:33.8628144+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:00:04.6288584+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:09:09.300422+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:58:55.3074608+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:08:33.8628936+00:00"
 }

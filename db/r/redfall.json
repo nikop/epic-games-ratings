@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 2038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3334,9 +3334,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement_018",
@@ -3350,9 +3350,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 265
     },
     {
       "ID": "Achievement_020",
@@ -3751,8 +3751,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-24T11:58:56.6191346+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:07:52.9648805+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:06:07.1670831+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:00:40.8030114+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:07:52.9649366+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:59:21.3838816+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:06:07.167157+00:00"
 }

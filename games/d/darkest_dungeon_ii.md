@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~446 |
+| Malpractice Assurance | 10.00% | ~447 |
 | Lost and Found | 6.00% | ~268 |
 | Autodidact | 5.00% | ~6,480 |
-| This guy... again? | 5.00% | ~223 |
+| This guy... again? | 5.00% | ~224 |
 | This Belongs in a Museum | 4.00% | ~5,184 |
 | Creep and Sleep | 4.00% | ~5,184 |
 | Catch and Decease | 4.00% | ~5,184 |
 | Overdue Notice | 4.00% | ~5,184 |
 | Escape from the Black Hole | 4.00% | ~5,184 |
-| Ploughshares to Swords | 4.00% | ~178 |
-| Bloody Graduation | 4.00% | ~178 |
+| Ploughshares to Swords | 4.00% | ~179 |
+| Bloody Graduation | 4.00% | ~179 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,888 |
 | Serenity Now! | 3.00% | ~3,888 |
 | It Rings a Bell | 3.00% | ~3,888 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,591 (Ranked 87)  
+Progressed: 129,603 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,591 | 3 |
+| 2023-12-24 | 129,603 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
-Sum: 21,026 (Ranked 58)  
+Sum: 21,030 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,760 |
 | This game has Challenging Combat | 1,632 |
 | This game is Highly Recommended | 1,561 |
-| This game is Extremely Fun | 1,487 |
+| This game is Extremely Fun | 1,491 |
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,415 |
 | This game has Amazing Storytelling | 1,405 |
@@ -676,4 +676,4 @@ Diff (max vs sum): -8
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
-| 2023-12-24 | 4.68 | - | 7,851 | 21,026 |
+| 2023-12-24 | 4.68 | - | 7,851 | 21,030 |

@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,718 |
-| The Assault | 3.00% | ~22,289 |
-| Life is your teacher | 3.00% | ~22,289 |
-| Lightning Hands | 3.00% | ~22,289 |
-| The Hateful Pole Fighter | 2.00% | ~14,859 |
-| Stuntmaster | 2.00% | ~14,859 |
-| Street Fighting | 2.00% | ~14,859 |
-| State of constant learning | 2.00% | ~14,859 |
-| Qi Gong: Essence | 2.00% | ~14,859 |
-| Old Child | 2.00% | ~14,859 |
-| Rumble in the Hangar | 2.00% | ~14,859 |
+| The Old Grandmaster | 4.00% | ~29,722 |
+| The Assault | 3.00% | ~22,291 |
+| Life is your teacher | 3.00% | ~22,291 |
+| Lightning Hands | 3.00% | ~22,291 |
+| The Hateful Pole Fighter | 2.00% | ~14,861 |
+| Stuntmaster | 2.00% | ~14,861 |
+| Street Fighting | 2.00% | ~14,861 |
+| State of constant learning | 2.00% | ~14,861 |
+| Qi Gong: Essence | 2.00% | ~14,861 |
+| Old Child | 2.00% | ~14,861 |
+| Rumble in the Hangar | 2.00% | ~14,861 |
 | A Lady's Blood in the Snow | 1.00% | ~7,430 |
 | Lady Wing Chun | 1.00% | ~7,430 |
 | Furious Fists | 1.00% | ~7,430 |
@@ -34,7 +34,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.70% | ~366 |
 | Martial Hub | 0.60% | ~314 |
 | Muk Yan Master | 0.50% | ~3,715 |
-| Bloody Sport | 0.50% | ~261 |
+| Bloody Sport | 0.50% | ~262 |
 | Tiger on Fire | 0.40% | ~2,972 |
 | Source of Flying Daggers | 0.40% | ~2,972 |
 | Iron Money | 0.40% | ~2,972 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~52 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742,960 (Ranked 23)  
+Progressed: 743,038 (Ranked 23)  
 Completed: 12,963 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,17 +315,17 @@ Completed: 12,963 (1.74%) (Ranked 141)
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
-| 2023-12-24 | 742,960 | 12,963 |
+| 2023-12-24 | 743,038 | 12,963 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
-Sum: 12,280 (Ranked 84)  
+Sum: 12,282 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,999 |
 | This game has Diverse Characters | 681 |
 | This game has Challenging Combat | 629 |
-| This game has Amazing Storytelling | 608 |
+| This game has Amazing Storytelling | 610 |
 | This game has Amazing Characters | 596 |
 | This game is Highly Recommended | 594 |
 | This game has Quickly Understood Controls | 589 |
@@ -677,4 +677,4 @@ Diff (max vs sum): -29
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
 | 2023-12-23 | 4.82 | - | 6,999 | 12,278 |
-| 2023-12-24 | 4.82 | - | 6,999 | 12,280 |
+| 2023-12-24 | 4.82 | - | 6,999 | 12,282 |

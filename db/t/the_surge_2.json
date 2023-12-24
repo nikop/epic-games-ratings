@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2365,
+  "EOS_Progressed": 2366,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3843,6 +3843,11 @@
       "Time": "2023-12-24T15:05:33.7740971+00:00",
       "NumProgressed": 2365,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T16:04:22.4316813+00:00",
+      "NumProgressed": 2366,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3862,7 +3867,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACHV_03",
@@ -3886,7 +3891,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACHV_06",
@@ -3902,7 +3907,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHV_08",
@@ -3910,7 +3915,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHV_09",
@@ -3918,7 +3923,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHV_10",
@@ -4014,7 +4019,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHV_22",
@@ -4054,7 +4059,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACHV_27",
@@ -4070,7 +4075,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHV_29",
@@ -4078,7 +4083,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHV_30",
@@ -4094,7 +4099,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHV_32",
@@ -4142,7 +4147,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACHV_38",
@@ -4150,7 +4155,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHV_39",
@@ -4158,7 +4163,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ACHV_40",
@@ -4190,7 +4195,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHV_44",
@@ -4206,7 +4211,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACHV_46",
@@ -4214,7 +4219,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHV_47",
@@ -4309,7 +4314,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2365,
+      "Progressed": 2366,
       "Completed": 13
     }
   ],
@@ -4317,8 +4322,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:05:33.7740965+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:04:22.431681+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:59:00.3327134+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:05:33.7741448+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:58:12.95069+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:04:22.4317431+00:00"
 }

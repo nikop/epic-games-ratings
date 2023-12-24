@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~551 |
+| Secret Technique | 9.00% | ~552 |
 | Realm Estate | 8.00% | ~490 |
 | A Wonderful Discovery | 7.00% | ~429 |
 | Walls Cannot Stop Us | 7.00% | ~429 |
@@ -20,22 +20,22 @@ Rating: 4.62 (Ranked 374)
 | In a Liege of Your Own | 4.00% | ~245 |
 | Valley of Wonders | 3.00% | ~184 |
 | Intimidation Tactics | 3.00% | ~184 |
-| Return of the Wizard King | 2.00% | ~122 |
-| Enchanted Archipelago | 2.00% | ~122 |
-| Digging for Treasure | 2.00% | ~122 |
-| Crimson Caldera | 2.00% | ~122 |
-| Preparation Is Everything | 2.00% | ~122 |
-| My Final Form | 2.00% | ~122 |
-| Fiery Friend | 2.00% | ~122 |
-| Against the Odds | 2.00% | ~122 |
-| Impenetrable Fortress | 2.00% | ~122 |
-| Here be Dragons | 2.00% | ~122 |
-| Tipping the Scales | 2.00% | ~122 |
-| Mighty Hoard | 2.00% | ~122 |
-| Freed Lands of Manuhari | 2.00% | ~122 |
-| Sehiran Oasis | 2.00% | ~122 |
-| Chaos Surge | 2.00% | ~122 |
-| Spoils of War | 2.00% | ~122 |
+| Return of the Wizard King | 2.00% | ~123 |
+| Enchanted Archipelago | 2.00% | ~123 |
+| Digging for Treasure | 2.00% | ~123 |
+| Crimson Caldera | 2.00% | ~123 |
+| Preparation Is Everything | 2.00% | ~123 |
+| My Final Form | 2.00% | ~123 |
+| Fiery Friend | 2.00% | ~123 |
+| Against the Odds | 2.00% | ~123 |
+| Impenetrable Fortress | 2.00% | ~123 |
+| Here be Dragons | 2.00% | ~123 |
+| Tipping the Scales | 2.00% | ~123 |
+| Mighty Hoard | 2.00% | ~123 |
+| Freed Lands of Manuhari | 2.00% | ~123 |
+| Sehiran Oasis | 2.00% | ~123 |
+| Chaos Surge | 2.00% | ~123 |
+| Spoils of War | 2.00% | ~123 |
 | God Emperor | 1.00% | ~61 |
 | Arch Mage | 1.00% | ~61 |
 | The Creator | 1.00% | ~61 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,125 (Ranked 193)  
+Progressed: 6,128 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,125 | 7 |
+| 2023-12-24 | 6,128 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 476)  
 Sum: 135 (Ranked 438)  

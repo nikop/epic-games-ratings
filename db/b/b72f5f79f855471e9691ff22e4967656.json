@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "findSecret10",
       "SetID": "ci65fo0",
       "Name": "A sharp eye",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "getPoisoned",
@@ -838,9 +838,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "killLeshy30",
@@ -894,9 +894,9 @@
       "ID": "killStone500",
       "SetID": "ci65fo0",
       "Name": "Epic Stone Crusher",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "killTree100",
@@ -926,9 +926,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "locBanditBoss",
@@ -998,9 +998,9 @@
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "questAntiquities",
@@ -1054,9 +1054,9 @@
       "ID": "questCemetery2",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets 2",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "questChef",
@@ -1283,8 +1283,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:10:49.5390653+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:49.3861987+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.1748657+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:57:52.1320746+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:10:49.5391193+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:57:26.9246797+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:49.3862547+00:00"
 }

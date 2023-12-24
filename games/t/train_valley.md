@@ -39,12 +39,12 @@ Number of Ratings: 28  (23.09.2022)
 | Peacemaker | 4.00% | ~23 |
 | Forgotten | 3.00% | ~17 |
 | Lucky vandal | 3.00% | ~17 |
-| Salesman | 0.90% | ~5 |
+| Salesman | 1.00% | ~6 |
 | BBQ | 0.50% | ~3 |
+| Juggler | 0.50% | ~3 |
 | Maniac vandal | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 | Mega-railroad | 0.30% | ~2 |
-| Juggler | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 581 (Ranked 324)  
 Completed: 2 (0.34%) (Ranked 241)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 10,
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -237,7 +237,7 @@
   ],
   "EOS_Progressed": 1117,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3030,9 +3030,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 313
     },
     {
       "ID": "BreakTheLoop",
@@ -3206,9 +3206,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 156
     },
     {
       "ID": "MuseumVisitor",
@@ -3398,9 +3398,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 335
     },
     {
       "ID": "TouchGrass",
@@ -3471,8 +3471,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-24T13:57:49.2610926+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:09:04.9998843+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:08:30.4714398+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:52.2385851+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:09:04.9999342+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:58:08.0016194+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:08:30.4714978+00:00"
 }

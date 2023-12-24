@@ -483,9 +483,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3583,
+  "EOS_Progressed": 3584,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -5978,6 +5978,11 @@
       "Time": "2023-12-24T14:04:30.3593053+00:00",
       "NumProgressed": 3583,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-24T16:04:50.6011539+00:00",
+      "NumProgressed": 3584,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -5989,7 +5994,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -6029,7 +6034,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6100,7 +6105,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3583,
+      "Progressed": 3584,
       "Completed": 140
     }
   ],
@@ -6108,8 +6113,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:06:10.6139368+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:04:50.6011536+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:26.4932519+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:06:10.613964+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:57:50.5460606+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:04:50.6011853+00:00"
 }

@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -976,6 +976,11 @@
       "Time": "2023-12-24T14:08:52.909785+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T16:09:12.4741092+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -988,7 +993,7 @@
       "Name": "Mash Machine",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1018,9 +1023,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1058,9 +1063,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1154,9 +1159,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1212,7 +1217,7 @@
       "Name": "Scuttled",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1234,17 +1239,17 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1322,9 +1327,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1332,14 +1337,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -1347,8 +1352,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:10:00.5411278+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:12.4741089+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:02:13.6460106+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:10:00.5411859+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:00:27.2519743+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:12.4741441+00:00"
 }

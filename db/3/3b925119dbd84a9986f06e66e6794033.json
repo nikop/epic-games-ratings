@@ -1602,9 +1602,9 @@
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -1721,8 +1721,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:11:00.8915356+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:58.0471514+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:59:18.27375+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:11:00.8915523+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:58:24.5829164+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:58.0471685+00:00"
 }

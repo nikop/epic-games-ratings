@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-12-24T14:06:32.6597644+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T16:08:30.7173936+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -774,9 +779,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "10",
@@ -864,7 +869,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "20",
@@ -958,9 +963,9 @@
       "ID": "6",
       "SetID": "6bgoh8g",
       "Name": "A true detective",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "7",
@@ -974,9 +979,9 @@
       "ID": "8",
       "SetID": "6bgoh8g",
       "Name": "You\u0027re probably wondering how I got here...",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "9",
@@ -991,14 +996,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:09:05.4692602+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:08:30.7173931+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:04:10.7817634+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:09:05.4692764+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:03:18.8073167+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:08:30.7174083+00:00"
 }

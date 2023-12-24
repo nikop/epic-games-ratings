@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10012,10 +10012,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21026,
       "NumberOfAwardsMax": 7851
+    },
+    {
+      "Time": "2023-12-24T15:58:00.8816791+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21030,
+      "NumberOfAwardsMax": 7851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21026,
+  "NumberOfAwards": 21030,
   "NumberOfAwardsMax": 7851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10041,7 +10047,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1487
+      "Count": 1491
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10092,9 +10098,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129591,
+  "EOS_Progressed": 129603,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36587,6 +36593,11 @@
       "Time": "2023-12-24T15:10:34.1665018+00:00",
       "NumProgressed": 129591,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T16:09:37.7115663+00:00",
+      "NumProgressed": 129603,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37134,7 +37145,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "combat_kill_collector",
@@ -37142,7 +37153,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37182,7 +37193,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37190,7 +37201,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "quest_complete_crusader",
@@ -37229,21 +37240,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129591,
+      "Progressed": 129603,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4460,
+      "Progressed": 4472,
       "Completed": 810
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-24T14:58:41.5768808+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:10:34.1665014+00:00",
+  "LastChanged": "2023-12-24T15:58:00.8816789+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:37.7115659+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:41.5768815+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:10:34.1666572+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:58:00.8816796+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:37.7117423+00:00"
 }

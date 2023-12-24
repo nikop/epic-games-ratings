@@ -146,7 +146,7 @@
   "Tags": [],
   "EOS_Progressed": 581,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1790,9 +1790,9 @@
       "ID": "25_juggler",
       "SetID": "chb1m60",
       "Name": "Juggler",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "26_forgotten",
@@ -1902,9 +1902,9 @@
       "ID": "39_salesman",
       "SetID": "chb1m60",
       "Name": "Salesman",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -1918,8 +1918,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:05:45.8645653+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:04:31.3958032+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:02:00.7798422+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:05:45.8645951+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:00:18.5152644+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:04:31.395833+00:00"
 }

@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252482,
+  "EOS_Progressed": 252484,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
@@ -22122,6 +22122,11 @@
       "Time": "2023-12-24T14:09:43.3545924+00:00",
       "NumProgressed": 252482,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T16:10:05.9554066+00:00",
+      "NumProgressed": 252484,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22157,7 +22162,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53021
+      "UsersEstimate": 53022
     },
     {
       "ID": "blotbuster",
@@ -22205,7 +22210,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37872
+      "UsersEstimate": 37873
     },
     {
       "ID": "clearCut",
@@ -22237,7 +22242,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50496
+      "UsersEstimate": 50497
     },
     {
       "ID": "didYourTime",
@@ -22285,7 +22290,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7575
     },
     {
       "ID": "hereWeGo",
@@ -22309,7 +22314,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133815
+      "UsersEstimate": 133817
     },
     {
       "ID": "indegestible",
@@ -22333,7 +22338,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65645
+      "UsersEstimate": 65646
     },
     {
       "ID": "justABit",
@@ -22365,7 +22370,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35347
+      "UsersEstimate": 35348
     },
     {
       "ID": "myFirstRunbow",
@@ -22373,7 +22378,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126241
+      "UsersEstimate": 126242
     },
     {
       "ID": "notScared",
@@ -22421,7 +22426,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7575
     },
     {
       "ID": "talentScout",
@@ -22500,7 +22505,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252482,
+      "Progressed": 252484,
       "Completed": 6
     }
   ],
@@ -22508,8 +22513,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:11:11.5836913+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:10:05.9554063+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.5552445+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:20.8169411+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:11:11.5837998+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:57:46.9107176+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:10:05.9555688+00:00"
 }

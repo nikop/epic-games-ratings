@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~612 |
-| Training Simulation | 79.00% | ~520 |
-| Kuku Bird Hunter | 66.00% | ~434 |
+| Travel Streamer | 93.00% | ~613 |
+| Training Simulation | 79.00% | ~521 |
+| Kuku Bird Hunter | 66.00% | ~435 |
 | Storm Traveller | 60.00% | ~395 |
 | Wolf King Killer | 55.00% | ~362 |
 | Fashion Connoisseur | 53.00% | ~349 |
-| Arms Mechanic | 49.00% | ~322 |
+| Arms Mechanic | 49.00% | ~323 |
 | Flower Thief | 44.00% | ~290 |
 | Apostle of Flame | 39.00% | ~257 |
-| Beginner Cook | 37.00% | ~243 |
-| Beginner Artificer | 37.00% | ~243 |
+| Beginner Cook | 37.00% | ~244 |
+| Beginner Artificer | 37.00% | ~244 |
 | Seal Breaker | 32.00% | ~211 |
-| Handyman | 28.00% | ~184 |
+| Handyman | 28.00% | ~185 |
 | Giant Lizard Killer | 26.00% | ~171 |
-| Guardian | 25.00% | ~164 |
-| Nosebleeder | 25.00% | ~164 |
+| Guardian | 25.00% | ~165 |
+| Nosebleeder | 25.00% | ~165 |
 | Trader | 22.00% | ~145 |
 | Weapon Boost | 21.00% | ~138 |
 | Flying Kobold Killer | 19.00% | ~125 |
-| Youth Magnet | 18.00% | ~118 |
+| Youth Magnet | 18.00% | ~119 |
 | Furious Scorpion Killer | 17.00% | ~112 |
 | Master Artificer | 17.00% | ~112 |
 | Lethal Blade Mantis Killer | 16.00% | ~105 |
@@ -34,9 +34,9 @@
 | Face Slapper | 14.00% | ~92 |
 | Boss challenge | 10.00% | ~66 |
 | Berserker Slayer | 10.00% | ~66 |
-| Master Cook | 9.00% | ~59 |
 | Giantess Slayer | 9.00% | ~59 |
 | Warden Slayer | 9.00% | ~59 |
+| Master Cook | 8.00% | ~53 |
 | Silver Moon Wolf King Challenge | 4.00% | ~26 |
 | Flying Kobold Challenge | 3.00% | ~20 |
 | Furious Scorpion Challenge | 3.00% | ~20 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~13 |
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658 (Ranked 310)  
+Progressed: 659 (Ranked 310)  
 Completed: 2 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 2 (0.30%) (Ranked 253)
 | 2023-12-21 | 646 | 1 |
 | 2023-12-22 | 647 | 1 |
 | 2023-12-23 | 654 | 2 |
-| 2023-12-24 | 658 | 2 |
+| 2023-12-24 | 659 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

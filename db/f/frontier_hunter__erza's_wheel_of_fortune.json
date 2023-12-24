@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
@@ -2217,6 +2217,11 @@
       "Time": "2023-12-24T15:10:16.8485497+00:00",
       "NumProgressed": 658,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T16:09:24.8398307+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2228,7 +2233,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2244,7 +2249,7 @@
       "Name": "Guardian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -2252,7 +2257,7 @@
       "Name": "Nosebleeder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2268,7 +2273,7 @@
       "Name": "Youth Magnet",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2316,7 +2321,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2340,15 +2345,15 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2356,7 +2361,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2364,7 +2369,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2396,7 +2401,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2580,14 +2585,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 2
     }
   ],
@@ -2595,8 +2600,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:10:16.8485493+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:24.8398303+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:00:52.8821436+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:10:16.8486016+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:59:30.530401+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:24.839864+00:00"
 }

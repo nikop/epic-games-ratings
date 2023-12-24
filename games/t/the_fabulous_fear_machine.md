@@ -14,14 +14,14 @@
 | Giant | 18.00% | ~12 |
 | Pulp! Terror Tales in the Night | 18.00% | ~12 |
 | Pulp! Out of this World | 18.00% | ~12 |
+| Diagnosis: fear | 16.00% | ~11 |
+| Ambition is... blind | 16.00% | ~11 |
+| You have two wishes left | 16.00% | ~11 |
 | A rival with no options | 15.00% | ~10 |
 | The artist | 15.00% | ~10 |
 | Pulp! Adventures into the Unknown | 15.00% | ~10 |
-| Diagnosis: fear | 15.00% | ~10 |
-| Ambition is... blind | 15.00% | ~10 |
-| You have two wishes left | 15.00% | ~10 |
+| Et in arcadia ego | 13.00% | ~9 |
 | The seer | 13.00% | ~9 |
-| Et in arcadia ego | 12.00% | ~8 |
 | You had one wish left | 10.00% | ~7 |
 | Kirlian's best disciple | 10.00% | ~7 |
 | Welcome to Hellville | 10.00% | ~7 |

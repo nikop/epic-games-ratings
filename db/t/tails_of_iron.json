@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -268,7 +268,7 @@
   "Tags": [],
   "EOS_Progressed": 2278,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4168,17 +4168,17 @@
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4208,9 +4208,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteArenaFaction",
@@ -4328,9 +4328,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Kill25Mozi",
@@ -4368,9 +4368,9 @@
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "RepairThroneRoom",
@@ -4416,9 +4416,9 @@
       "ID": "DefeatStalkerQueen",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Stalker Queen",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DefeatYellowTongue",
@@ -4456,15 +4456,15 @@
       "ID": "cbf1i0c",
       "IsBase": false,
       "Progressed": 919,
-      "Completed": 901
+      "Completed": 902
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:07:08.0394143+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:05:34.0071468+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:00:56.5753591+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:07:08.0394477+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:59:33.8281249+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:05:34.0072181+00:00"
 }

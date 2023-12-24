@@ -15,15 +15,15 @@ Rating: 4.45 (Ranked 676)
 | Resourceful | 27.00% | ~1,108 |
 | Target America | 27.00% | ~1,108 |
 | The Kraken Sleeps | 25.00% | ~1,026 |
-| As Quiet as a Mouse | 24.00% | ~984 |
-| Liberté | 23.00% | ~943 |
-| Organ Grinder | 23.00% | ~943 |
-| Sharpshooter | 23.00% | ~943 |
-| Gunslinger | 19.00% | ~779 |
-| Explosive Efficiency | 19.00% | ~779 |
-| Climbing the Ladder | 17.00% | ~697 |
-| Just a Flesh Wound | 17.00% | ~697 |
-| Der Geist | 17.00% | ~697 |
+| As Quiet as a Mouse | 24.00% | ~985 |
+| Liberté | 23.00% | ~944 |
+| Organ Grinder | 23.00% | ~944 |
+| Sharpshooter | 22.00% | ~903 |
+| Gunslinger | 19.00% | ~780 |
+| Explosive Efficiency | 19.00% | ~780 |
+| Climbing the Ladder | 17.00% | ~698 |
+| Just a Flesh Wound | 17.00% | ~698 |
+| Der Geist | 17.00% | ~698 |
 | Close Quarters | 16.00% | ~656 |
 | Snake in the Grass | 16.00% | ~656 |
 | Skirmisher | 15.00% | ~615 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 676)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,102 (Ranked 206)  
+Progressed: 4,103 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
 | 2023-12-23 | 4,097 | 11 |
-| 2023-12-24 | 4,102 | 11 |
+| 2023-12-24 | 4,103 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 523)  
 Sum: 28 (Ranked 538)  

@@ -4,10 +4,10 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1013,
   "Ranking_Popularity": 476,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -655,7 +655,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3760,
+  "EOS_Progressed": 3761,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
@@ -10705,6 +10705,11 @@
       "Time": "2023-12-24T15:09:31.097771+00:00",
       "NumProgressed": 3760,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T16:08:50.0406443+00:00",
+      "NumProgressed": 3761,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10900,7 +10905,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "fourleafclover",
@@ -10964,7 +10969,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "howdoyouturnthison",
@@ -10988,7 +10993,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "jewelenchanting",
@@ -11276,7 +11281,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "warmachinesarmy",
@@ -11308,14 +11313,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3760,
+      "Progressed": 3761,
       "Completed": 2
     }
   ],
@@ -11323,8 +11328,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T22:58:35.5003837+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:09:31.0977705+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:08:50.0406439+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:01:08.6516613+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:09:31.0978627+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:59:42.0147581+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:08:50.0407515+00:00"
 }

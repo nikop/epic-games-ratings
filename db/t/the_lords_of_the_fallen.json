@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 186,
@@ -1173,9 +1173,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7498,
+  "EOS_Progressed": 7509,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2802,
+  "EOS_NewPlayers": 2789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6158,6 +6158,11 @@
       "Time": "2023-12-24T15:10:02.3671909+00:00",
       "NumProgressed": 7498,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T16:09:13.8835869+00:00",
+      "NumProgressed": 7509,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -6170,7 +6175,7 @@
       "Name": "Wayfarer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_002",
@@ -6186,7 +6191,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -6194,7 +6199,7 @@
       "Name": "Weapon Collector",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -6202,7 +6207,7 @@
       "Name": "Ironclad",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_006",
@@ -6210,7 +6215,7 @@
       "Name": "What Sights Contained Within",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_007",
@@ -6218,7 +6223,7 @@
       "Name": "Trinket Collector",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_008",
@@ -6226,7 +6231,7 @@
       "Name": "Ammunition Collector",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -6234,7 +6239,7 @@
       "Name": "Inferno Adept",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_010",
@@ -6242,7 +6247,7 @@
       "Name": "Radiant Adept",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_011",
@@ -6250,7 +6255,7 @@
       "Name": "Umbral Adept",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_012",
@@ -6258,7 +6263,7 @@
       "Name": "Throwable Collector",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
@@ -6266,7 +6271,7 @@
       "Name": "Gesture Collector",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_014",
@@ -6274,7 +6279,7 @@
       "Name": "Salvation in Blood",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_015",
@@ -6282,7 +6287,7 @@
       "Name": "Honed to Perfection",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_016",
@@ -6290,7 +6295,7 @@
       "Name": "Rune Novice",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_017",
@@ -6298,7 +6303,7 @@
       "Name": "Rune Master",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_018",
@@ -6306,7 +6311,7 @@
       "Name": "Carving Out Victory",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_019",
@@ -6314,7 +6319,7 @@
       "Name": "Utmost Insight",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_020",
@@ -6338,7 +6343,7 @@
       "Name": "Vengeance for the Fallen",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -6346,7 +6351,7 @@
       "Name": "No Mercy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -6354,7 +6359,7 @@
       "Name": "Infernal Offerings",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_025",
@@ -6362,7 +6367,7 @@
       "Name": "Radiant Offerings",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_026",
@@ -6370,7 +6375,7 @@
       "Name": "Umbral Offerings",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_027",
@@ -6378,7 +6383,7 @@
       "Name": "Shades of Violence",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -6386,7 +6391,7 @@
       "Name": "Rise and Fall",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
@@ -6394,7 +6399,7 @@
       "Name": "Together in Death",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
@@ -6402,7 +6407,7 @@
       "Name": "Burying the Past",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
@@ -6410,7 +6415,7 @@
       "Name": "Unwanted",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_032",
@@ -6418,7 +6423,7 @@
       "Name": "Unbroken to the End",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -6426,7 +6431,7 @@
       "Name": "Wings of Grief",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_034",
@@ -6434,7 +6439,7 @@
       "Name": "Twin Faces of Sin",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_035",
@@ -6442,7 +6447,7 @@
       "Name": "Judgement",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_036",
@@ -6450,7 +6455,7 @@
       "Name": "Hunt\u0027s End",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_037",
@@ -6458,7 +6463,7 @@
       "Name": "The King is Dead",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_038",
@@ -6466,7 +6471,7 @@
       "Name": "A Hunger Sated",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_039",
@@ -6474,7 +6479,7 @@
       "Name": "Fallen",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_040",
@@ -6482,7 +6487,7 @@
       "Name": "None Shall be Spared",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_041",
@@ -6490,7 +6495,7 @@
       "Name": "The Price of Knowledge",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_042",
@@ -6498,7 +6503,7 @@
       "Name": "Part of the Divine",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_043",
@@ -6506,7 +6511,7 @@
       "Name": "Travels Resumed",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_044",
@@ -6514,7 +6519,7 @@
       "Name": "Moving On",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -6522,7 +6527,7 @@
       "Name": "Hero Worship",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_046",
@@ -6530,7 +6535,7 @@
       "Name": "Antanas\u0027 Legacy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_047",
@@ -6538,7 +6543,7 @@
       "Name": "Faithful",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_048",
@@ -6546,7 +6551,7 @@
       "Name": "Without Purpose",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_049",
@@ -6554,7 +6559,7 @@
       "Name": "A Queen\u0027s Rest",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_050",
@@ -6562,7 +6567,7 @@
       "Name": "The Last Step",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_051",
@@ -6570,7 +6575,7 @@
       "Name": "Vengeful Reflection",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_052",
@@ -6578,7 +6583,7 @@
       "Name": "Lord of the Risen",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_053",
@@ -6586,7 +6591,7 @@
       "Name": "In Light we Walk",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_054",
@@ -6594,7 +6599,7 @@
       "Name": "Back to the Void",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_055",
@@ -6602,7 +6607,7 @@
       "Name": "A Shadow Dispelled",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_056",
@@ -6610,7 +6615,7 @@
       "Name": "Essence of Death",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_057",
@@ -6618,7 +6623,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -6626,7 +6631,7 @@
       "Name": "Seasoned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_059",
@@ -6634,7 +6639,7 @@
       "Name": "Lord of the Fallen",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_060",
@@ -6642,7 +6647,7 @@
       "Name": "The Past Shapes the Present",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -6650,7 +6655,7 @@
       "Name": "Lingering Moments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_062",
@@ -6658,7 +6663,7 @@
       "Name": "A Rest Among the Dead",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -6666,14 +6671,14 @@
       "Name": "A Trace of Venom",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 7498,
+      "Progressed": 7509,
       "Completed": 2
     }
   ],
@@ -6681,8 +6686,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-24T10:59:56.7021453+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:10:02.3671904+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:13.8835866+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:20.6080478+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:02:17.0200941+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:10:02.3672551+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:00:30.126943+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:13.8836696+00:00"
 }

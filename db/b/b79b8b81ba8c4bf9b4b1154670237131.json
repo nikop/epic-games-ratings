@@ -6,8 +6,8 @@
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15778,
+  "EOS_Progressed": 15780,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4684,6 +4684,11 @@
       "Time": "2023-12-24T15:10:33.7697446+00:00",
       "NumProgressed": 15778,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T16:09:37.4398769+00:00",
+      "NumProgressed": 15780,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4728,7 +4733,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11834
+      "UsersEstimate": 11835
     },
     {
       "ID": "ACH_AE_14",
@@ -4744,7 +4749,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "ACH_AE_16",
@@ -4872,7 +4877,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "ACH_AE_30",
@@ -4896,7 +4901,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_AE_33",
@@ -4936,7 +4941,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH_AE_6",
@@ -4975,7 +4980,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15778,
+      "Progressed": 15780,
       "Completed": 14
     }
   ],
@@ -4983,8 +4988,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:10:33.7697442+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:37.4398764+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:41.7791393+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:10:33.7697801+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:58:01.0601889+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:37.4399216+00:00"
 }

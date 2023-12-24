@@ -8,38 +8,38 @@ Rating: 4.56 (Ranked 497)
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 0.90% | ~8 |
 | Become King | 0.80% | ~18 |
+| Defeat 25 Frogs | 0.70% | ~16 |
 | Shield Maiden Yellow Tongue | 0.70% | ~6 |
 | End of the Mozis | 0.60% | ~14 |
 | Ranged Weapon | 0.60% | ~14 |
 | Two Handed Weapon | 0.60% | ~14 |
-| Defeat 25 Frogs | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
+| Collect Gold | 0.50% | ~11 |
+| Collect Iron Ore | 0.50% | ~11 |
 | Collect Monster Parts | 0.50% | ~11 |
 | Defeat 25 Grubs | 0.50% | ~11 |
+| Smithy Ready to Craft | 0.50% | ~11 |
 | Rescue Redgi's Brothers | 0.50% | ~11 |
 | Defeat Croakhis Khan | 0.50% | ~5 |
 | I Remember My First Beer | 0.50% | ~5 |
-| Collect Gold | 0.40% | ~9 |
-| Collect Iron Ore | 0.40% | ~9 |
 | Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Defeat 25 Mozis | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Kitchen Ready To Cook | 0.40% | ~9 |
-| Smithy Ready to Craft | 0.40% | ~9 |
 | Defeat the Grub Buster | 0.40% | ~4 |
+| Defeat the Stalker Queen | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Complete Ranger Faction | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Fix the Travellers Wagon | 0.30% | ~7 |
-| Defeat the Stalker Queen | 0.30% | ~3 |
 | Complete Redgi's Armory | 0.20% | ~5 |
+| King of Kings | 0.20% | ~5 |
 | Complete Arena Faction | 0.20% | ~5 |
-| King of Kings | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,278 (Ranked 231)  

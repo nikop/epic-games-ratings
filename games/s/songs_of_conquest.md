@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 42.00% | ~304 |
+| Adept | 43.00% | ~311 |
 | Double Kill | 35.00% | ~253 |
 | Critical Hit | 19.00% | ~137 |
 | Veteran | 19.00% | ~137 |
@@ -30,8 +30,8 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 1.00% | ~7 |
 | Infernal Influence | 1.00% | ~7 |
 | Together For Her | 1.00% | ~7 |
+| From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
-| From the Ashes | 0.80% | ~6 |
 | Grand Master | 0.80% | ~6 |
 | In The Thick of It | 0.60% | ~4 |
 | Get Over Here! | 0.60% | ~4 |

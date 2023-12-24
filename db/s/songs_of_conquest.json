@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2981,9 +2981,9 @@
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -3061,9 +3061,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 311
     },
     {
       "ID": "WielderLevel2",
@@ -3173,8 +3173,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:09:50.5939274+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:09:05.1356416+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:02:03.956232+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:09:50.5939701+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:00:20.6388193+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:09:05.1357034+00:00"
 }

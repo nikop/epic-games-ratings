@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -981,9 +981,9 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -1013,9 +1013,9 @@
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "UBAANI_MASTER",
@@ -1078,8 +1078,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:05:12.0011807+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:04:05.8648522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:03:52.172976+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:05:12.0012172+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:03:06.1935731+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:04:05.864908+00:00"
 }

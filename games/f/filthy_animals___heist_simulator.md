@@ -22,6 +22,8 @@
 | Moose Maxed Out | 0.10% | ~9 |
 | Prison Objectives Complete | 0.10% | ~9 |
 | Prison Heisted | 0.10% | ~9 |
+| Temple Objectives Complete | 0.10% | ~9 |
+| Temple Heisted | 0.10% | ~9 |
 | Got All The Serums | 0.00% | ~0 |
 | Got All The Skulls | 0.00% | ~0 |
 | Got All The Sombreros | 0.00% | ~0 |
@@ -30,8 +32,6 @@
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 | Spaceship Heisted | 0.00% | ~0 |
-| Temple Objectives Complete | 0.00% | ~0 |
-| Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,680 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 388)  

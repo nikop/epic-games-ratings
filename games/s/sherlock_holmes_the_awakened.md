@@ -5,37 +5,37 @@ Rating: 4.48 (Ranked 640)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~813 |
-| To Hell In A Handcart | 61.00% | ~800 |
-| High Profile | 54.00% | ~708 |
-| Whispers In The Dark | 51.00% | ~669 |
-| Fond Memories | 49.00% | ~642 |
-| A Method To His Madness | 47.00% | ~616 |
-| History Check | 46.00% | ~603 |
-| The New World | 44.00% | ~577 |
-| Open Sesame | 43.00% | ~564 |
-| Sticky Fingers | 43.00% | ~564 |
+| Read Between The Lines | 62.00% | ~814 |
+| To Hell In A Handcart | 60.00% | ~788 |
+| High Profile | 54.00% | ~709 |
+| Whispers In The Dark | 51.00% | ~670 |
+| Fond Memories | 49.00% | ~643 |
+| A Method To His Madness | 47.00% | ~617 |
+| History Check | 46.00% | ~604 |
+| The New World | 44.00% | ~578 |
+| Open Sesame | 43.00% | ~565 |
+| Sticky Fingers | 43.00% | ~565 |
 | Gaze Into The Abyss | 42.00% | ~551 |
 | Knives Out | 42.00% | ~551 |
 | Land, Ho! | 42.00% | ~551 |
 | Lock, Stock, And Barrel | 41.00% | ~538 |
 | Back In The Saddle | 41.00% | ~538 |
-| No Man Is An Island | 40.00% | ~524 |
-| At Wits' End | 39.00% | ~511 |
-| Fhtagn! | 38.00% | ~498 |
-| Bookworm | 37.00% | ~485 |
-| Up In Flames | 37.00% | ~485 |
-| Going Once... | 35.00% | ~459 |
+| No Man Is An Island | 40.00% | ~525 |
+| At Wits' End | 39.00% | ~512 |
+| Fhtagn! | 38.00% | ~499 |
+| Bookworm | 37.00% | ~486 |
+| Up In Flames | 37.00% | ~486 |
+| Going Once... | 35.00% | ~460 |
 | Let Me Be Frank | 33.00% | ~433 |
-| No Stone Unturned | 31.00% | ~406 |
-| Brain Food | 30.00% | ~393 |
+| No Stone Unturned | 31.00% | ~407 |
+| Brain Food | 30.00% | ~394 |
 | Read It And Weep | 19.00% | ~249 |
 | Curiosity Killed The Cat | 18.00% | ~236 |
-| Big Breakthrough | 12.00% | ~157 |
+| Big Breakthrough | 12.00% | ~158 |
 | Reawakened | 3.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 262)  
-Completed: 38 (2.90%) (Ranked 116)  
+Progressed: 1,313 (Ranked 262)  
+Completed: 38 (2.89%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,7 +238,7 @@ Completed: 38 (2.90%) (Ranked 116)
 | 2023-12-21 | 1,274 | 36 |
 | 2023-12-22 | 1,289 | 36 |
 | 2023-12-23 | 1,305 | 37 |
-| 2023-12-24 | 1,311 | 38 |
+| 2023-12-24 | 1,313 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

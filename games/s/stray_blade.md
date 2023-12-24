@@ -11,10 +11,10 @@
 | A new World ahead | 6.00% | ~9 |
 | Craftsmen | 3.00% | ~4 |
 | Apprentice | 3.00% | ~4 |
+| The A-Team | 2.00% | ~3 |
 | Defeat Tezuth | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
-| The A-Team | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | Freezing Cold | 0.70% | ~1 |
 | A Deceiving Gift | 0.70% | ~1 |

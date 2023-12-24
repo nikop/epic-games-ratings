@@ -5,9 +5,9 @@
   "Ranking_Rating": 145,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1756,
+  "EOS_Progressed": 1757,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2853,6 +2853,11 @@
       "Time": "2023-12-24T13:06:08.4516686+00:00",
       "NumProgressed": 1756,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T16:03:53.6810691+00:00",
+      "NumProgressed": 1757,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2864,7 +2869,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "10",
@@ -2928,7 +2933,7 @@
       "Name": "Balding bloot!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "18",
@@ -2958,9 +2963,9 @@
       "ID": "20",
       "SetID": "n50no0",
       "Name": "Don\u0027t look back",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 211
+      "UsersEstimate": 193
     },
     {
       "ID": "21",
@@ -2992,7 +2997,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "25",
@@ -3024,7 +3029,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "30",
@@ -3080,7 +3085,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "8",
@@ -3103,15 +3108,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1756,
+      "Progressed": 1757,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:04:55.6839612+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:03:53.6810683+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:58:38.2918828+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:04:55.6839859+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:57:58.7081368+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:03:53.681093+00:00"
 }

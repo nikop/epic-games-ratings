@@ -826,9 +826,9 @@
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Houby",
@@ -938,9 +938,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Rybka",
@@ -1041,8 +1041,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:05:45.5694654+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:04:31.2225882+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:03:52.6963999+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:05:45.5694874+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:03:06.4709797+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:04:31.2226047+00:00"
 }

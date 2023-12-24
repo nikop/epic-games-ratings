@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 713,
+  "EOS_Progressed": 714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2495,6 +2495,11 @@
       "Time": "2023-12-24T09:10:58.8245387+00:00",
       "NumProgressed": 713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T16:10:20.9078902+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2610,7 +2615,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_COLL_20",
@@ -2618,7 +2623,7 @@
       "Name": "Prospector",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2634,7 +2639,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2730,7 +2735,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2754,7 +2759,7 @@
       "Name": "Heroism",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2786,7 +2791,7 @@
       "Name": "The Difference",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2818,7 +2823,7 @@
       "Name": "Atonement",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_HARD_1",
@@ -2850,7 +2855,7 @@
       "Name": "Missing in Action",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2874,7 +2879,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2977,15 +2982,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 713,
+      "Progressed": 714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-24T15:11:30.4983939+00:00",
+  "LastChanged_Achievements": "2023-12-24T16:10:20.9078898+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:01:35.8413598+00:00",
-  "LastUpdate_Achievements": "2023-12-24T15:11:30.4984381+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:00:00.7526449+00:00",
+  "LastUpdate_Achievements": "2023-12-24T16:10:20.9079486+00:00"
 }
