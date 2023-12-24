@@ -5,12 +5,12 @@ Rating: 4.72 (Ranked 185)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Energy Saver | 0.20% | ~17 |
 | In a Pinch | 0.20% | ~17 |
 | Ahem Ahem | 0.10% | ~8 |
 | Audiophile | 0.10% | ~8 |
 | Body and Soul | 0.10% | ~8 |
 | Clay Pigeon | 0.10% | ~8 |
-| Energy Saver | 0.10% | ~8 |
 | Globe Trotter | 0.10% | ~8 |
 | Happy Camper | 0.10% | ~8 |
 | Historian | 0.10% | ~8 |

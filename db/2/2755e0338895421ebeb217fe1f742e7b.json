@@ -2,9 +2,9 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -269,6 +269,11 @@
       "Time": "2023-12-23T03:10:11.8784719+00:00",
       "NumProgressed": 47,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T23:09:54.0314476+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 11,
@@ -294,15 +299,15 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
       "UsersEstimate": 30
     },
@@ -358,7 +363,7 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 150,
       "UsersEstimate": 28
     }
@@ -367,14 +372,14 @@
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:37.6736483+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:54.0314474+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.2123656+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:58:19.3062466+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:37.6736594+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:59.1039638+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:54.0314543+00:00"
 }

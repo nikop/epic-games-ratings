@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1838,6 +1838,11 @@
       "Time": "2023-12-24T22:04:53.7221052+00:00",
       "NumProgressed": 649,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T23:03:59.9852276+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1873,7 +1878,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Chapter10",
@@ -1889,7 +1894,7 @@
       "Name": "The Maggot",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Chapter3",
@@ -1897,7 +1902,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Chapter4",
@@ -1905,7 +1910,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Chapter5",
@@ -1913,7 +1918,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Chapter6",
@@ -1929,7 +1934,7 @@
       "Name": "Good as Fish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Chapter8",
@@ -1937,7 +1942,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Chapter9",
@@ -1953,7 +1958,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Collectibles2",
@@ -1977,7 +1982,7 @@
       "Name": "Sweet Darkness",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ElfFriend",
@@ -2127,23 +2132,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 338
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:04:53.7221046+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:03:59.9852273+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.3285704+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:58:15.396576+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:04:53.7221357+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:57.0985915+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:03:59.9852664+00:00"
 }

@@ -14,10 +14,10 @@
 | Giant | 18.00% | ~12 |
 | Pulp! Terror Tales in the Night | 18.00% | ~12 |
 | Pulp! Out of this World | 18.00% | ~12 |
+| A rival with no options | 16.00% | ~11 |
 | Diagnosis: fear | 16.00% | ~11 |
 | Ambition is... blind | 16.00% | ~11 |
 | You have two wishes left | 16.00% | ~11 |
-| A rival with no options | 15.00% | ~10 |
 | The artist | 15.00% | ~10 |
 | Pulp! Adventures into the Unknown | 15.00% | ~10 |
 | Et in arcadia ego | 13.00% | ~9 |
@@ -30,15 +30,15 @@
 | The bully | 10.00% | ~7 |
 | Bread and bocaua | 9.00% | ~6 |
 | Fanatacism is... poisonous | 9.00% | ~6 |
+| Pulp! The Beyond | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
+| Blessed antennas | 7.00% | ~5 |
+| The beast in the Oval Office | 7.00% | ~5 |
 | Blood Red Island | 7.00% | ~5 |
 | The adventurer | 7.00% | ~5 |
-| Pulp! The Beyond | 7.00% | ~5 |
-| Blessed antennas | 6.00% | ~4 |
-| The beast in the Oval Office | 6.00% | ~4 |
+| Pulp! True Adventures | 7.00% | ~5 |
 | The scholar | 6.00% | ~4 |
-| Pulp! True Adventures | 6.00% | ~4 |
-| America had no Faith | 4.00% | ~3 |
+| America had no Faith | 6.00% | ~4 |
 | Vaccine fans | 4.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~2 |

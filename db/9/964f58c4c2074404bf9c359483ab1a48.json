@@ -2143,10 +2143,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 633,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-12-24T22:57:02.021977+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 634,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 633,
+  "NumberOfAwards": 634,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2196,7 +2202,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2223,7 +2229,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1295961,
+  "EOS_Progressed": 1295978,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1608,
   "EOS_NewCompleters": 0,
@@ -26388,6 +26394,11 @@
       "Time": "2023-12-24T22:07:58.6638596+00:00",
       "NumProgressed": 1295961,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T23:06:10.9277012+00:00",
+      "NumProgressed": 1295978,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -26511,7 +26522,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142556
+      "UsersEstimate": 142558
     },
     {
       "ID": "10_ghost_wins",
@@ -26519,7 +26530,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103677
+      "UsersEstimate": 103678
     },
     {
       "ID": "10_hero_prop_kills",
@@ -26535,7 +26546,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 207354
+      "UsersEstimate": 207356
     },
     {
       "ID": "10_hunter_wins",
@@ -26543,7 +26554,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 77758
+      "UsersEstimate": 77759
     },
     {
       "ID": "10_prop_headshots",
@@ -26551,7 +26562,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25919
+      "UsersEstimate": 25920
     },
     {
       "ID": "250_c4_kills",
@@ -26663,7 +26674,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51838
+      "UsersEstimate": 51839
     },
     {
       "ID": "50_riot_shield_kills",
@@ -26687,7 +26698,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129596
+      "UsersEstimate": 129598
     },
     {
       "ID": "ghost_win",
@@ -26695,7 +26706,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 764617
+      "UsersEstimate": 764627
     },
     {
       "ID": "hunter_win",
@@ -26703,7 +26714,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 699819
+      "UsersEstimate": 699828
     },
     {
       "ID": "master_of_loadouts",
@@ -26727,23 +26738,23 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 285111
+      "UsersEstimate": 285115
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1295961,
+      "Progressed": 1295978,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-12-24T21:56:54.4931558+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:07:58.6638589+00:00",
+  "LastChanged": "2023-12-24T22:57:02.0219768+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:06:10.927701+00:00",
   "LastUpdate_AppInfo": "2023-12-22T10:57:00.5103478+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:56:54.4931563+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:07:58.6639709+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:02.0219772+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:06:10.9278502+00:00"
 }

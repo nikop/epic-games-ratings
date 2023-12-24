@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 676)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,929 |
-| Confirming Suspicions | 42.00% | ~1,724 |
+| Meeting Resistance | 47.00% | ~1,930 |
+| Confirming Suspicions | 42.00% | ~1,725 |
 | The Kraken Wakes | 37.00% | ~1,519 |
 | It's Starting to Crack | 34.00% | ~1,396 |
+| Lord of War | 31.00% | ~1,273 |
 | Change the Channel | 31.00% | ~1,273 |
-| Lord of War | 30.00% | ~1,232 |
-| Taking it back | 29.00% | ~1,190 |
-| Resourceful | 27.00% | ~1,108 |
-| Target America | 27.00% | ~1,108 |
+| Taking it back | 29.00% | ~1,191 |
+| Resourceful | 27.00% | ~1,109 |
+| Target America | 27.00% | ~1,109 |
 | The Kraken Sleeps | 25.00% | ~1,026 |
 | As Quiet as a Mouse | 24.00% | ~985 |
 | Liberté | 23.00% | ~944 |
@@ -34,9 +34,9 @@ Rating: 4.45 (Ranked 676)
 | Enemy at the Gates | 14.00% | ~575 |
 | Fields of Glory | 14.00% | ~575 |
 | Set Europe Ablaze | 13.00% | ~534 |
-| Precision Is Key | 10.00% | ~410 |
-| My Little Friend | 10.00% | ~410 |
-| Rigged to Blow | 9.00% | ~369 |
+| Precision Is Key | 10.00% | ~411 |
+| My Little Friend | 10.00% | ~411 |
+| Rigged to Blow | 9.00% | ~370 |
 | Herr Today, Gone Tomorrow | 7.00% | ~284 |
 | The Long Game | 6.00% | ~246 |
 | Operation Foxley | 6.00% | ~243 |
@@ -65,11 +65,11 @@ Rating: 4.45 (Ranked 676)
 | Covert Elimination | 2.00% | ~81 |
 | Sink or Swim | 2.00% | ~81 |
 | Best of the Best | 1.00% | ~41 |
-| Master of Secondaries | 1.00% | ~41 |
 | Sight Beyond Sights | 1.00% | ~41 |
 | From Führer Away | 1.00% | ~41 |
 | Alpha | 1.00% | ~41 |
 | Das Familienjuwel | 1.00% | ~41 |
+| Master of Secondaries | 0.90% | ~37 |
 | Master of Rifles | 0.90% | ~37 |
 | Master of Pistols | 0.80% | ~33 |
 | Operation Overlord | 0.80% | ~32 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 676)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,105 (Ranked 206)  
+Progressed: 4,106 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
 | 2023-12-23 | 4,097 | 11 |
-| 2023-12-24 | 4,105 | 11 |
+| 2023-12-24 | 4,106 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 539)  

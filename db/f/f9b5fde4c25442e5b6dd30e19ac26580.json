@@ -4,7 +4,7 @@
   "ProductSlug": "return-of-red-riding-hood-enhanced-edition-3598e4",
   "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-22T09:00:00+00:00",
@@ -86,9 +86,9 @@
       "ID": "AWFULDREAM",
       "SetID": "bfiopga",
       "Name": "An awful dream",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BEPREPARED",
@@ -102,9 +102,9 @@
       "ID": "BUSYWOLF",
       "SetID": "bfiopga",
       "Name": "Busy wolf",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CLASSICENDING",
@@ -476,8 +476,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T18:03:33.8802078+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:06:10.3491965+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:04:54.1511065+00:00",
   "LastUpdate_AppInfo": "2023-12-20T17:57:10.8612035+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:56.3850965+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:06:10.3492275+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:59:04.5156992+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:04:54.1511361+00:00"
 }

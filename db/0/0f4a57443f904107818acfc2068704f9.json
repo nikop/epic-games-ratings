@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1008,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2530,9 +2530,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 111
     },
     {
       "ID": "CompleteChapter14",
@@ -2745,8 +2745,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:04:53.4344047+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:03:59.7574529+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:00:26.6663578+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:04:53.4344383+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:59:24.3140689+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:03:59.7574948+00:00"
 }

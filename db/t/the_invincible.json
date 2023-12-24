@@ -2673,9 +2673,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 250
     },
     {
       "ID": "AchvLava",
@@ -2818,8 +2818,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-24T16:57:52.2929542+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:09:58.4992765+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:25.9507568+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:57:20.981194+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:09:58.4993103+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:19.6133117+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:25.9507933+00:00"
 }

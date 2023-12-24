@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -694,9 +694,9 @@
       "ID": "L5_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fix",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "L6_FINISH",
@@ -710,9 +710,9 @@
       "ID": "L6_PERFECT",
       "SetID": "6finf64",
       "Name": "The Mountains, The Valleys",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "L7_5_FINISH",
@@ -726,9 +726,9 @@
       "ID": "L7_5_PERFECT",
       "SetID": "6finf64",
       "Name": "As the Crow Flies",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "L7_FINISH",
@@ -742,9 +742,9 @@
       "ID": "L7_PERFECT",
       "SetID": "6finf64",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "L8_FINISH",
@@ -799,8 +799,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:09:27.2599604+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:03.9137437+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.6760898+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:58:10.7003324+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:09:27.2599965+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:54.0298498+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:03.9137745+00:00"
 }

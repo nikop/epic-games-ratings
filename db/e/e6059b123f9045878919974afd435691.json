@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1208,
+  "EOS_Progressed": 1209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3179,6 +3179,11 @@
       "Time": "2023-12-24T19:10:24.4169872+00:00",
       "NumProgressed": 1208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T23:10:04.692465+00:00",
+      "NumProgressed": 1209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3188,17 +3193,17 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 834
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 617
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3228,9 +3233,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 520
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3246,7 +3251,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -3262,7 +3267,7 @@
       "Name": "Capraphobia",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3326,7 +3331,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -3430,7 +3435,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3438,7 +3443,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3470,7 +3475,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3486,7 +3491,7 @@
       "Name": "Decakill!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3550,7 +3555,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3622,7 +3627,7 @@
       "Name": "The Last of Us",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3717,14 +3722,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1208,
+      "Progressed": 1209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:51.3380866+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:10:04.6924647+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:27.4918824+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:51.3381415+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:44.451153+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:10:04.6925235+00:00"
 }

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
@@ -1370,6 +1370,11 @@
       "Time": "2023-12-24T21:09:16.460768+00:00",
       "NumProgressed": 718,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-24T23:09:28.5029238+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1389,7 +1394,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "deadly_secret",
@@ -1429,15 +1434,15 @@
       "Name": "The Promise",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 173
     },
     {
       "ID": "ending_6",
@@ -1459,9 +1464,9 @@
       "ID": "ending_8",
       "SetID": "d4f4pll",
       "Name": "MVP - Most Vanishing Person",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 93
     },
     {
       "ID": "falling_for_you",
@@ -1517,7 +1522,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1525,22 +1530,22 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 661
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 21
     }
   ],
@@ -1548,8 +1553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:01.9185487+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:28.5029236+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:08.7155692+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:01.9185674+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:32.5450723+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:28.5029413+00:00"
 }

@@ -18,21 +18,21 @@ Rating: 4.62 (Ranked 373)
 | Magical Synergy | 4.00% | ~246 |
 | Seat of Power | 4.00% | ~246 |
 | In a Liege of Your Own | 4.00% | ~246 |
-| Valley of Wonders | 3.00% | ~184 |
-| Digging for Treasure | 3.00% | ~184 |
-| Intimidation Tactics | 3.00% | ~184 |
+| Valley of Wonders | 3.00% | ~185 |
+| Digging for Treasure | 3.00% | ~185 |
+| My Final Form | 3.00% | ~185 |
+| Intimidation Tactics | 3.00% | ~185 |
+| Freed Lands of Manuhari | 3.00% | ~185 |
 | Return of the Wizard King | 2.00% | ~123 |
 | Enchanted Archipelago | 2.00% | ~123 |
 | Crimson Caldera | 2.00% | ~123 |
 | Preparation Is Everything | 2.00% | ~123 |
-| My Final Form | 2.00% | ~123 |
 | Fiery Friend | 2.00% | ~123 |
 | Against the Odds | 2.00% | ~123 |
 | Impenetrable Fortress | 2.00% | ~123 |
 | Here be Dragons | 2.00% | ~123 |
 | Tipping the Scales | 2.00% | ~123 |
 | Mighty Hoard | 2.00% | ~123 |
-| Freed Lands of Manuhari | 2.00% | ~123 |
 | Sehiran Oasis | 2.00% | ~123 |
 | Chaos Surge | 2.00% | ~123 |
 | Spoils of War | 2.00% | ~123 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,150 (Ranked 193)  
+Progressed: 6,152 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,150 | 7 |
+| 2023-12-24 | 6,152 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
 Sum: 136 (Ranked 438)  

@@ -25,8 +25,8 @@
 | Slam The Brakes! | 2.00% | ~72 |
 | Ashes Of Belief | 2.00% | ~72 |
 | Buried Memories | 1.00% | ~36 |
-| Anything For The Throne | 0.90% | ~32 |
-| One Track Mind | 0.90% | ~32 |
+| Anything For The Throne | 0.90% | ~33 |
+| One Track Mind | 0.90% | ~33 |
 | Not On My Watch | 0.60% | ~22 |
 | Iron Will | 0.50% | ~18 |
 | Perfection Everlasting | 0.40% | ~14 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,611 (Ranked 213)  
+Progressed: 3,612 (Ranked 213)  
 Completed: -28 (-0.78%) (Ranked 3,780)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: -28 (-0.78%) (Ranked 3,780)
 | 2023-12-20 | 3,608 | -28 |
 | 2023-12-21 | 3,609 | -28 |
 | 2023-12-22 | 3,610 | -28 |
-| 2023-12-24 | 3,611 | -28 |
+| 2023-12-24 | 3,612 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

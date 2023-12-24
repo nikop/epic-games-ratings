@@ -1,30 +1,30 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 199)  
+Rating: 4.71 (Ranked 198)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,528 |
-| Cavalier | 25.00% | ~203,538 |
-| Fatso | 23.00% | ~187,255 |
-| Awakening | 21.00% | ~170,972 |
-| Ranger | 20.00% | ~162,830 |
-| Scrooge | 20.00% | ~162,830 |
-| Anorectic | 16.00% | ~130,264 |
-| Firestarter | 16.00% | ~130,264 |
-| Bookworm | 15.00% | ~122,123 |
-| Insomniac | 13.00% | ~105,840 |
-| Buddy | 12.00% | ~97,698 |
-| Thief | 12.00% | ~97,698 |
-| Sinner | 11.00% | ~89,557 |
-| Traveller | 11.00% | ~89,557 |
-| Convict | 10.00% | ~81,415 |
+| Blacksmith's Son | 32.00% | ~260,531 |
+| Cavalier | 25.00% | ~203,540 |
+| Fatso | 23.00% | ~187,257 |
+| Awakening | 21.00% | ~170,974 |
+| Ranger | 20.00% | ~162,832 |
+| Scrooge | 20.00% | ~162,832 |
+| Anorectic | 16.00% | ~130,266 |
+| Firestarter | 16.00% | ~130,266 |
+| Bookworm | 15.00% | ~122,124 |
+| Insomniac | 13.00% | ~105,841 |
+| Buddy | 12.00% | ~97,699 |
+| Thief | 12.00% | ~97,699 |
+| Sinner | 11.00% | ~89,558 |
+| Traveller | 11.00% | ~89,558 |
+| Convict | 10.00% | ~81,416 |
 | Haggler | 9.00% | ~73,274 |
 | McLovin | 7.00% | ~56,991 |
 | Runt | 7.00% | ~56,991 |
-| Casanova | 6.00% | ~48,849 |
+| Casanova | 6.00% | ~48,850 |
 | Bad Trip | 5.00% | ~40,708 |
 | Monk | 5.00% | ~40,708 |
 | Serial Killer | 5.00% | ~40,708 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,151 (Ranked 19)  
+Progressed: 814,160 (Ranked 19)  
 Completed: 52 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 52 (0.01%) (Ranked 365)
 | 2023-12-21 | 813,634 | 52 |
 | 2023-12-22 | 813,782 | 52 |
 | 2023-12-23 | 813,967 | 52 |
-| 2023-12-24 | 814,151 | 52 |
+| 2023-12-24 | 814,160 | 52 |
 ## Awards
 Max (Character Customization): 7,702  (Ranked 52)  
 Sum: 28,600 (Ranked 50)  

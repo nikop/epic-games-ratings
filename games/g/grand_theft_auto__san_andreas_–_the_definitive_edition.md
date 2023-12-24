@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,472 |
-| Pay 'n' Spray | 50.00% | ~8,316 |
-| All Dressed Up for San Fierro | 25.00% | ~4,158 |
-| The American Dream | 19.00% | ~3,160 |
-| School's Out | 18.00% | ~2,994 |
-| Smooth Moves | 16.00% | ~2,661 |
-| Today Was a Good Day | 15.00% | ~2,495 |
-| What happens in Las Venturas... | 14.00% | ~2,328 |
-| Horror of the Santa Maria | 10.00% | ~1,663 |
+| Getting Started | 81.00% | ~13,477 |
+| Pay 'n' Spray | 50.00% | ~8,319 |
+| All Dressed Up for San Fierro | 25.00% | ~4,160 |
+| The American Dream | 19.00% | ~3,161 |
+| School's Out | 18.00% | ~2,995 |
+| Smooth Moves | 16.00% | ~2,662 |
+| Today Was a Good Day | 15.00% | ~2,496 |
+| What happens in Las Venturas... | 14.00% | ~2,329 |
+| Horror of the Santa Maria | 10.00% | ~1,664 |
 | Liberty City State of Mind | 9.00% | ~1,497 |
 | Original Gangster | 8.00% | ~1,331 |
-| With Extra Dip | 7.00% | ~1,164 |
-| The End of the Line | 7.00% | ~1,164 |
+| With Extra Dip | 7.00% | ~1,165 |
+| The End of the Line | 7.00% | ~1,165 |
 | Saviour | 6.00% | ~998 |
 | Rescue a Kitten Too? | 5.00% | ~832 |
-| They Can’t Stop All of Us | 4.00% | ~665 |
-| What are the Odds | 4.00% | ~665 |
+| They Can’t Stop All of Us | 4.00% | ~666 |
+| What are the Odds | 4.00% | ~666 |
 | Bike or Biker | 3.00% | ~499 |
 | What the City Needs | 3.00% | ~499 |
 | A Legitimate Business | 2.00% | ~333 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 532)
 | ...Here we go again | 0.50% | ~83 |
 | I Ain't No Buster | 0.40% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,632 (Ranked 159)  
+Progressed: 16,638 (Ranked 159)  
 Completed: 63 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 63 (0.38%) (Ranked 233)
 | 2023-12-21 | 15,997 | 62 |
 | 2023-12-22 | 16,205 | 62 |
 | 2023-12-23 | 16,429 | 62 |
-| 2023-12-24 | 16,632 | 63 |
+| 2023-12-24 | 16,638 | 63 |
 ## Awards
 Max (Great Boss Battles): 492  (Ranked 218)  
 Sum: 801 (Ranked 286)  

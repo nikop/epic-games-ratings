@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2953,
+  "EOS_Progressed": 2955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7192,6 +7192,11 @@
       "Time": "2023-12-24T22:05:24.4907876+00:00",
       "NumProgressed": 2953,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T23:04:21.6786924+00:00",
+      "NumProgressed": 2955,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7204,7 +7209,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7212,7 +7217,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7410,9 +7415,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1271
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7458,9 +7463,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7492,7 +7497,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7500,7 +7505,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7508,7 +7513,7 @@
       "Name": "Champagne Spray",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7595,14 +7600,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2953,
+      "Progressed": 2955,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:05:24.4907871+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:04:21.6786921+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:57:17.2419296+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:05:24.4908541+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:17.1388301+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:04:21.678745+00:00"
 }

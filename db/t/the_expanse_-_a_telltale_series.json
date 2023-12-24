@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17327,
+  "EOS_Progressed": 17334,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15016,6 +15016,11 @@
       "Time": "2023-12-24T22:03:55.4017163+00:00",
       "NumProgressed": 17327,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-24T23:03:18.7015323+00:00",
+      "NumProgressed": 17334,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15060,7 +15065,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "14",
@@ -15068,7 +15073,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "15",
@@ -15076,7 +15081,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "16",
@@ -15092,7 +15097,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "18",
@@ -15106,9 +15111,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1733
     },
     {
       "ID": "2",
@@ -15124,7 +15129,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "21",
@@ -15132,7 +15137,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "22",
@@ -15164,7 +15169,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "26",
@@ -15204,7 +15209,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "30",
@@ -15276,7 +15281,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "33",
@@ -15284,7 +15289,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "34",
@@ -15307,13 +15312,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17327,
+      "Progressed": 17334,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3281,
+      "Progressed": 3288,
       "Completed": 1031
     }
   ],
@@ -15321,8 +15326,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:03:55.4017161+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:03:18.7015322+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:04.7766475+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:03:55.4017958+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:29.6552361+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:03:18.7016214+00:00"
 }

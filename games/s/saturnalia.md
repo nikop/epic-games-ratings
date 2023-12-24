@@ -5,7 +5,7 @@ Rating: 4.26 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,787 |
+| Out of Shape | 4.00% | ~2,788 |
 | Bonfire Lit | 3.00% | ~2,091 |
 | Survival Expert | 3.00% | ~2,091 |
 | Denial | 2.00% | ~1,394 |
@@ -16,7 +16,7 @@ Rating: 4.26 (Ranked 888)
 | Detective of the occult | 1.00% | ~697 |
 | Depression | 1.00% | ~697 |
 | Bless me Father... | 0.90% | ~627 |
-| Phone Bill | 0.80% | ~557 |
+| Phone Bill | 0.80% | ~558 |
 | Power of Friendship | 0.70% | ~488 |
 | Chain Breaker | 0.70% | ~488 |
 | Let there be light | 0.50% | ~348 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 888)
 | Are you still there? | 0.40% | ~279 |
 | Ear Ringing | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,684 (Ranked 111)  
+Progressed: 69,690 (Ranked 111)  
 Completed: 18 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 18 (0.03%) (Ranked 349)
 | 2023-12-21 | 69,545 | 18 |
 | 2023-12-22 | 69,585 | 18 |
 | 2023-12-23 | 69,644 | 18 |
-| 2023-12-24 | 69,684 | 18 |
+| 2023-12-24 | 69,690 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 188,
@@ -1009,7 +1009,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7495,
+  "EOS_Progressed": 7496,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
@@ -12164,6 +12164,11 @@
       "Time": "2023-12-24T22:06:11.1813968+00:00",
       "NumProgressed": 7495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T23:04:54.6666335+00:00",
+      "NumProgressed": 7496,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12191,7 +12196,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12223,7 +12228,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12494,13 +12499,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7495,
+      "Progressed": 7496,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6867,
+      "Progressed": 6868,
       "Completed": 113
     }
   ],
@@ -12508,8 +12513,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-24T18:58:58.6953669+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:06:11.1813965+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:04:54.6666332+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:18.6443339+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:06:11.1814725+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:38.7457611+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:04:54.6667+00:00"
 }

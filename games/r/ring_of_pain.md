@@ -18,6 +18,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.80% | ~25 |
 | Nothing To Lose | 0.70% | ~1,691 |
 | Heavy Hitter | 0.70% | ~1,691 |
+| Delving Deeper | 0.70% | ~1,691 |
 | That Was Quick | 0.70% | ~1,691 |
 | Goodbye, Frog Friend | 0.70% | ~1,691 |
 | Heartless | 0.70% | ~1,691 |
@@ -26,7 +27,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.70% | ~1,691 |
 | Deflection | 0.70% | ~1,691 |
 | Ambitious Intent | 0.60% | ~1,450 |
-| Delving Deeper | 0.60% | ~1,450 |
 | R.I.P | 0.60% | ~1,450 |
 | Dig Your Own Grave | 0.60% | ~1,450 |
 | Walk It Off | 0.60% | ~1,450 |
@@ -49,18 +49,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 0.50% | ~1,208 |
 | Expensive Look | 0.50% | ~16 |
 | What Doesn't Kill You | 0.50% | ~16 |
-| Thank You, Friend | 0.40% | ~966 |
-| Shadow Spreads | 0.40% | ~966 |
-| Max Damage! | 0.40% | ~966 |
-| To The Death! | 0.40% | ~966 |
-| Well Prepared | 0.40% | ~966 |
-| Don't Ignore Me! | 0.40% | ~966 |
-| All Consuming | 0.40% | ~966 |
-| Stop Hitting Yourself | 0.40% | ~966 |
-| Illuminate, Eliminate | 0.40% | ~966 |
-| Doing Time | 0.40% | ~966 |
-| Spreading Plague | 0.40% | ~966 |
-| Acid Bath | 0.40% | ~966 |
+| Thank You, Friend | 0.40% | ~967 |
+| Shadow Spreads | 0.40% | ~967 |
+| Max Damage! | 0.40% | ~967 |
+| To The Death! | 0.40% | ~967 |
+| Well Prepared | 0.40% | ~967 |
+| Don't Ignore Me! | 0.40% | ~967 |
+| All Consuming | 0.40% | ~967 |
+| Stop Hitting Yourself | 0.40% | ~967 |
+| Illuminate, Eliminate | 0.40% | ~967 |
+| Doing Time | 0.40% | ~967 |
+| Spreading Plague | 0.40% | ~967 |
+| Acid Bath | 0.40% | ~967 |
 | A Rough Road | 0.30% | ~725 |
 | Berzerker | 0.30% | ~725 |
 | Chain Reaction | 0.30% | ~725 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,625 (Ranked 68)  
+Progressed: 241,627 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,7 +393,7 @@ Completed: 301 (0.12%) (Ranked 299)
 | 2023-12-21 | 241,432 | 300 |
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
-| 2023-12-24 | 241,625 | 301 |
+| 2023-12-24 | 241,627 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,758 (Ranked 88)  

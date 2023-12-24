@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 151,
@@ -1823,9 +1823,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19104,
+  "EOS_Progressed": 19107,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1353,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -11048,6 +11048,11 @@
       "Time": "2023-12-24T22:09:53.3594307+00:00",
       "NumProgressed": 19104,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-24T23:09:22.267166+00:00",
+      "NumProgressed": 19107,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11179,7 +11184,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -11203,7 +11208,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11219,7 +11224,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -11227,7 +11232,7 @@
       "Name": "Reforged",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11259,7 +11264,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "STORY_HABITAT",
@@ -11267,7 +11272,7 @@
       "Name": "Without A Paddle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "STORY_HANGAR",
@@ -11275,7 +11280,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11299,7 +11304,7 @@
       "Name": "Crash Site",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "STORY_TOWER",
@@ -11434,13 +11439,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19104,
+      "Progressed": 19107,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7030,
+      "Progressed": 7033,
       "Completed": 29
     }
   ],
@@ -11448,8 +11453,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-24T22:03:30.5341757+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:09:53.3594304+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:22.2671657+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:03:30.5341761+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:09:53.3595201+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:03:01.8837325+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:22.2672326+00:00"
 }

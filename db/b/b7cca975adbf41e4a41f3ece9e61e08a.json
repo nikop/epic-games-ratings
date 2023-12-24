@@ -249,7 +249,7 @@
   ],
   "EOS_Progressed": 15640,
   "EOS_Completed": 255,
-  "EOS_NewPlayers": 2117,
+  "EOS_NewPlayers": 2115,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
@@ -7751,9 +7751,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "7opfcp",
       "Name": "Wanna Come To My Place For Dinner?",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 9071
+      "UsersEstimate": 9228
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -7912,8 +7912,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-24T18:01:33.8071525+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:09:53.409734+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:22.4185615+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:57:11.2038984+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:01:31.7201184+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:09:53.4097983+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:00:07.7837052+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:22.4186183+00:00"
 }

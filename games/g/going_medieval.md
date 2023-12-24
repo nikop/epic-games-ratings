@@ -6,17 +6,17 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,699 |
-| Having A Field Day | 76.00% | ~5,699 |
-| Reap What You Sow | 73.00% | ~5,474 |
-| The First Day | 70.00% | ~5,249 |
-| Novice Researcher | 68.00% | ~5,099 |
-| Green Thumb | 67.00% | ~5,024 |
-| Home Cooked Meal | 62.00% | ~4,649 |
-| Onward | 58.00% | ~4,349 |
-| The First Week | 55.00% | ~4,124 |
-| Studious Researcher | 53.00% | ~3,974 |
-| Beam Me Up | 52.00% | ~3,899 |
+| Get A Room | 76.00% | ~5,700 |
+| Having A Field Day | 76.00% | ~5,700 |
+| Reap What You Sow | 73.00% | ~5,475 |
+| The First Day | 70.00% | ~5,250 |
+| Novice Researcher | 68.00% | ~5,100 |
+| Green Thumb | 67.00% | ~5,025 |
+| Home Cooked Meal | 62.00% | ~4,650 |
+| Onward | 58.00% | ~4,350 |
+| The First Week | 55.00% | ~4,125 |
+| Studious Researcher | 53.00% | ~3,975 |
+| Beam Me Up | 52.00% | ~3,900 |
 | Putting Food on the Table | 45.00% | ~3,375 |
 | Adept Researcher | 45.00% | ~3,375 |
 | Retribution | 43.00% | ~3,225 |
@@ -36,9 +36,9 @@ Number of Ratings: 706  (23.09.2022)
 | Deerly Departed | 8.00% | ~600 |
 | Where Wolf? | 5.00% | ~375 |
 | Food Chain | 2.00% | ~150 |
-| Wabbit Season | 0.50% | ~37 |
+| Wabbit Season | 0.50% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,499 (Ranked 187)  
+Progressed: 7,500 (Ranked 187)  
 Completed: 14 (0.19%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 14 (0.19%) (Ranked 277)
 | 2023-12-21 | 7,416 | 14 |
 | 2023-12-22 | 7,436 | 14 |
 | 2023-12-23 | 7,466 | 14 |
-| 2023-12-24 | 7,499 | 14 |
+| 2023-12-24 | 7,500 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 336)  
 Sum: 1,052 (Ranked 261)  

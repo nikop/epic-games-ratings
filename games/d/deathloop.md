@@ -5,7 +5,7 @@ Rating: 4.49 (Ranked 624)
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 43  (Ranked 467)  
-Sum: 240 (Ranked 398)  
+Sum: 241 (Ranked 398)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 36 |
 | This game has Diverse Characters | 36 |
 | This game has Amazing Storytelling | 35 |
-| This game has Quickly Understood Controls | 26 |
+| This game has Quickly Understood Controls | 27 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

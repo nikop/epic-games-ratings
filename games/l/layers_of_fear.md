@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Something important | 82.00% | ~162 |
 | A piece of the story | 58.00% | ~114 |
-| Wanderer | 54.00% | ~106 |
+| Wanderer | 55.00% | ~108 |
 | It's covered up for a reason | 49.00% | ~97 |
 | Scraps of love | 45.00% | ~89 |
 | The artist’s impression | 42.00% | ~83 |
-| Do what you have to | 40.00% | ~79 |
+| Do what you have to | 41.00% | ~81 |
 | Sign of weakness | 36.00% | ~71 |
 | Refuse to look | 32.00% | ~63 |
 | Face your fears | 26.00% | ~51 |
@@ -37,13 +37,13 @@
 | The Perfect Storm | 4.00% | ~8 |
 | I remember It Like Was Yesterday | 3.00% | ~6 |
 | Immortalized in my heart | 3.00% | ~6 |
+| Se7en Seas | 3.00% | ~6 |
 | Something to think about | 2.00% | ~4 |
 | Body of Work | 2.00% | ~4 |
 | Dark correspondence | 2.00% | ~4 |
 | It was worth a try | 2.00% | ~4 |
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
-| Se7en Seas | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |
 | The Big Picture | 1.00% | ~2 |
 | In One Take | 1.00% | ~2 |

@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8648,
+  "EOS_Progressed": 8649,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9045,6 +9045,11 @@
       "Time": "2023-12-24T22:10:46.3413747+00:00",
       "NumProgressed": 8648,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T23:10:00.4422233+00:00",
+      "NumProgressed": 8649,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9263,9 +9268,9 @@
       "ID": "MAKE_FRIENDS_1",
       "SetID": "9eia0f5",
       "Name": "Chatty Neighbor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -9400,13 +9405,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8648,
+      "Progressed": 8649,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1265,
+      "Progressed": 1266,
       "Completed": 1050
     }
   ],
@@ -9414,8 +9419,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:46.3413743+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:10:00.4422231+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:03:32.2909309+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:46.3414297+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:03:03.021244+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:10:00.4423175+00:00"
 }

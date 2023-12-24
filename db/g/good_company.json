@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5730,
+  "EOS_Progressed": 5731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4953,6 +4953,11 @@
       "Time": "2023-12-24T15:04:35.2373978+00:00",
       "NumProgressed": 5730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T23:03:16.8510796+00:00",
+      "NumProgressed": 5731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5396,7 +5401,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -5556,7 +5561,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ach_trait_overload",
@@ -5571,15 +5576,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5730,
+      "Progressed": 5731,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:03:52.5062678+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:03:16.8510795+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.9204048+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:00:56.9927163+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:03:52.5063474+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:59:45.1381992+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:03:16.851151+00:00"
 }

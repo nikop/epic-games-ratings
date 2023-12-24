@@ -10,9 +10,9 @@
 | First winning | 82.00% | ~378 |
 | Your first job | 81.00% | ~373 |
 | Depressed visitor | 76.00% | ~350 |
+| Neurotrainer – power gainer! | 76.00% | ~350 |
+| Fitness professional | 75.00% | ~346 |
 | Old movies enjoyer | 75.00% | ~346 |
-| Neurotrainer – power gainer! | 75.00% | ~346 |
-| Fitness professional | 74.00% | ~341 |
 | Employee of the week | 74.00% | ~341 |
 | Your own amateur gym | 69.00% | ~318 |
 | Run K, run! | 69.00% | ~318 |
@@ -37,7 +37,7 @@
 | Legal courier | 50.00% | ~230 |
 | Escaped from a big trouble | 47.00% | ~217 |
 | Now you are worthy | 44.00% | ~203 |
-| Fight is life | 42.00% | ~194 |
+| Fight is life | 43.00% | ~198 |
 | Mysterious voice | 42.00% | ~194 |
 | Guiding on the right path | 41.00% | ~189 |
 | No blades in the gym | 40.00% | ~184 |
@@ -45,8 +45,8 @@
 | Responsible approach | 38.00% | ~175 |
 | Underground dwellers | 37.00% | ~171 |
 | Deal with life | 36.00% | ~166 |
+| GYM professional | 36.00% | ~166 |
 | Mom got better | 35.00% | ~161 |
-| GYM professional | 35.00% | ~161 |
 | The die is cast | 35.00% | ~161 |
 | Poisoned fighter | 34.00% | ~157 |
 | Get out of my apartment! | 34.00% | ~157 |
@@ -63,15 +63,15 @@
 | Keep nature safe | 29.00% | ~134 |
 | Family comes first | 29.00% | ~134 |
 | Key memories | 29.00% | ~134 |
+| The last bell ring | 29.00% | ~134 |
 | Careerist | 29.00% | ~134 |
 | Anyone can resist | 29.00% | ~134 |
 | The heart of the Resistance | 29.00% | ~134 |
-| The last bell ring | 28.00% | ~129 |
 | Silver’s past | 26.00% | ~120 |
 | Better cooking at home | 26.00% | ~120 |
 | The only right decision | 26.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461 (Ranked 338)  
+Progressed: 461 (Ranked 339)  
 Completed: 9 (1.95%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |

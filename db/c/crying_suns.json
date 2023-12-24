@@ -673,7 +673,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472770,
+  "EOS_Progressed": 472772,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
@@ -26333,6 +26333,11 @@
       "Time": "2023-12-24T22:10:50.1951016+00:00",
       "NumProgressed": 472770,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-24T23:10:03.2760848+00:00",
+      "NumProgressed": 472772,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26368,7 +26373,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104009
+      "UsersEstimate": 104010
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -26432,7 +26437,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312028
+      "UsersEstimate": 312030
     },
     {
       "ID": "achievement_story_landa",
@@ -26440,7 +26445,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23638
+      "UsersEstimate": 23639
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -26448,7 +26453,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23638
+      "UsersEstimate": 23639
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -26464,7 +26469,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118192
+      "UsersEstimate": 118193
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -26544,7 +26549,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23638
+      "UsersEstimate": 23639
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -26768,7 +26773,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208019
+      "UsersEstimate": 208020
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26776,7 +26781,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141831
+      "UsersEstimate": 141832
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26792,7 +26797,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56732
+      "UsersEstimate": 56733
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -26800,7 +26805,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184380
+      "UsersEstimate": 184381
     },
     {
       "ID": "achievement_win_run_hard",
@@ -26824,7 +26829,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23638
+      "UsersEstimate": 23639
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -26856,7 +26861,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104009
+      "UsersEstimate": 104010
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -26975,21 +26980,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16704,
+      "Progressed": 16706,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472770,
+      "Progressed": 472772,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:50.1951013+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:10:03.2760845+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:48.398594+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:00:18.6447104+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:50.1952498+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:59:19.1395512+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:10:03.276285+00:00"
 }

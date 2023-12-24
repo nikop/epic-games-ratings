@@ -7,7 +7,7 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 14.00% | ~47 |
-| Sponge Smasher | 13.00% | ~43 |
+| Sponge Smasher | 13.00% | ~44 |
 | Jellyfish Jam | 12.00% | ~40 |
 | Jellyfishing | 8.00% | ~27 |
 | Time For Tutorial | 7.00% | ~23 |
@@ -26,8 +26,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Spatula Seeker | 3.00% | ~10 |
 | Robot encyclopedia | 2.00% | ~7 |
 | Are you ready now? | 2.00% | ~7 |
-| Sleepy Time | 2.00% | ~7 |
 | Kelp Forest of Fear | 1.00% | ~3 |
+| Sleepy Time | 1.00% | ~3 |
 | Sock Concert | 0.90% | ~3 |
 | Ultra Spatula Seeker | 0.90% | ~3 |
 | The Small Does Not Rule | 0.60% | ~2 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 369)  
+Progressed: 335 (Ranked 368)  
 Completed: 1 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.30%) (Ranked 251)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 333 | 1 |
+| 2023-12-24 | 335 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 497)  
 Sum: 34 (Ranked 523)  

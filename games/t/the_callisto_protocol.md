@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 937)  
+Rating: 4.20 (Ranked 936)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,14 +11,14 @@ Rating: 4.20 (Ranked 937)
 | Paper Jams | 15.00% | ~2,866 |
 | Desperate Times | 15.00% | ~2,866 |
 | Chew 'Em Up | 13.00% | ~2,484 |
-| Float Like A Butterfly | 12.00% | ~2,292 |
-| Reforged | 12.00% | ~2,292 |
-| Workplace Hazard | 10.00% | ~1,910 |
-| If the SHU Fits... | 10.00% | ~1,910 |
-| Without A Paddle | 9.00% | ~1,719 |
-| Two Heads Are Better Than One | 8.00% | ~1,528 |
-| In the Pipe, Five by Five | 8.00% | ~1,528 |
-| Crash Site | 8.00% | ~1,528 |
+| Float Like A Butterfly | 12.00% | ~2,293 |
+| Reforged | 12.00% | ~2,293 |
+| Workplace Hazard | 10.00% | ~1,911 |
+| If the SHU Fits... | 10.00% | ~1,911 |
+| Without A Paddle | 9.00% | ~1,720 |
+| Two Heads Are Better Than One | 8.00% | ~1,529 |
+| In the Pipe, Five by Five | 8.00% | ~1,529 |
+| Crash Site | 8.00% | ~1,529 |
 | Terminated | 7.00% | ~1,337 |
 | What Lies Beneath | 7.00% | ~1,337 |
 | Full Circle | 7.00% | ~1,337 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 937)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,104 (Ranked 151)  
+Progressed: 19,107 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
-| 2023-12-24 | 19,104 | 82 |
+| 2023-12-24 | 19,107 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 378)  
 Sum: 502 (Ranked 332)  

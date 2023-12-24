@@ -20,7 +20,7 @@
 | The River Styx | 5.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~6 |
 | Sommelier | 4.00% | ~5 |
-| Let Me Solo Them | 3.00% | ~4 |
+| Let Me Solo Them | 4.00% | ~5 |
 | Frigid Winds | 3.00% | ~4 |
 | Missing Melodies | 2.00% | ~2 |
 | Smotherly Love | 2.00% | ~2 |

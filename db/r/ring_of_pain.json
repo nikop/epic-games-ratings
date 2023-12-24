@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3754,9 +3754,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241625,
+  "EOS_Progressed": 241627,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29389,6 +29389,11 @@
       "Time": "2023-12-24T22:10:52.7062242+00:00",
       "NumProgressed": 241625,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T23:10:05.8349158+00:00",
+      "NumProgressed": 241627,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29400,7 +29405,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -29464,7 +29469,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -29488,15 +29493,15 @@
       "Name": "Max Damage!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "DEPTH12",
       "SetID": "5l8oe0h",
       "Name": "Delving Deeper",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1691
     },
     {
       "ID": "DEPTH12HARD",
@@ -29560,7 +29565,7 @@
       "Name": "To The Death!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "DIEHARD",
@@ -29608,7 +29613,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ENDINGCHOICE",
@@ -29856,7 +29861,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "KILLBOSSHARD",
@@ -29872,7 +29877,7 @@
       "Name": "All Consuming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -29912,7 +29917,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -29952,7 +29957,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -30064,7 +30069,7 @@
       "Name": "Doing Time",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "POISON300",
@@ -30072,7 +30077,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "POISON30TIMES",
@@ -30088,7 +30093,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "POISONSELF20",
@@ -30503,13 +30508,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241625,
+      "Progressed": 241627,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3105,
+      "Progressed": 3107,
       "Completed": 411
     }
   ],
@@ -30517,8 +30522,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-24T20:57:36.5117904+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:52.7062237+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:10:05.8349156+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:57:41.7775887+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:52.7064779+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:34.3713891+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:10:05.8351602+00:00"
 }

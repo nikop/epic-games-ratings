@@ -744,9 +744,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "EpicACHV_15",
@@ -760,9 +760,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "EpicACHV_17",
@@ -800,9 +800,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "EpicACHV_6",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:09:12.278675+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:08:53.2468136+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:11.4118743+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:57:41.335336+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:09:12.2786883+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:34.1199074+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:08:53.24683+00:00"
 }

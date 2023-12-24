@@ -48,7 +48,7 @@ Rating: 4.29 (Ranked 862)
 | Anvil | 6.00% | ~12 |
 | The Exorcist | 5.00% | ~10 |
 | Mithril | 5.00% | ~10 |
-| Aluminum | 4.00% | ~8 |
+| Aluminum | 5.00% | ~10 |
 | Analyzed | 3.00% | ~6 |
 | Tongs | 3.00% | ~6 |
 | Platinum | 3.00% | ~6 |

@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.71 (Ranked 199)  
+Rating: 4.71 (Ranked 198)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~13,955 |
-| Finding Your Footing | 25.00% | ~12,921 |
-| Nomad | 17.00% | ~8,786 |
-| Picking Up Speed | 15.00% | ~7,753 |
-| Welcome Maya | 14.00% | ~7,236 |
-| Scout | 11.00% | ~5,685 |
-| Sightseer | 11.00% | ~5,685 |
-| Amateur | 10.00% | ~5,168 |
+| Rookie | 27.00% | ~13,957 |
+| Finding Your Footing | 25.00% | ~12,923 |
+| Nomad | 17.00% | ~8,788 |
+| Picking Up Speed | 15.00% | ~7,754 |
+| Welcome Maya | 14.00% | ~7,237 |
+| Scout | 11.00% | ~5,686 |
+| Sightseer | 11.00% | ~5,686 |
+| Amateur | 10.00% | ~5,169 |
 | Unlock Maya | 8.00% | ~4,135 |
 | Wanderer | 8.00% | ~4,135 |
-| Enter Paz | 7.00% | ~3,618 |
-| Aviator | 6.00% | ~3,101 |
-| My Little Friend | 5.00% | ~2,584 |
-| One With The Board | 5.00% | ~2,584 |
-| Voyager | 5.00% | ~2,584 |
+| Enter Paz | 7.00% | ~3,619 |
+| Aviator | 6.00% | ~3,102 |
+| My Little Friend | 5.00% | ~2,585 |
+| One With The Board | 5.00% | ~2,585 |
+| Voyager | 5.00% | ~2,585 |
 | Junkie | 3.00% | ~1,551 |
 | Traveler | 3.00% | ~1,551 |
 | Unlock Paz | 3.00% | ~1,551 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~517 |
 | Vandal | 1.00% | ~517 |
 | Unlock Felipe | 0.90% | ~465 |
-| Adventurer | 0.80% | ~413 |
+| Adventurer | 0.80% | ~414 |
 | Unlock Tupa | 0.50% | ~258 |
 | Master Of The Sands | 0.30% | ~155 |
 | Master | 0.20% | ~103 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~52 |
 | Windswept | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,685 (Ranked 119)  
+Progressed: 51,693 (Ranked 119)  
 Completed: 5 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 5 (0.01%) (Ranked 365)
 | 2023-12-21 | 51,212 | 5 |
 | 2023-12-22 | 51,366 | 5 |
 | 2023-12-23 | 51,525 | 5 |
-| 2023-12-24 | 51,685 | 5 |
+| 2023-12-24 | 51,693 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 448)  
 Sum: 388 (Ranked 352)  

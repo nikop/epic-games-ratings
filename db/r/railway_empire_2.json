@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7572,9 +7572,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 880
     },
     {
       "ID": "A49",
@@ -7637,8 +7637,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:06:54.5262857+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:05:25.2157231+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:58:40.3674671+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:06:54.526343+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:13.2392851+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:05:25.2158+00:00"
 }

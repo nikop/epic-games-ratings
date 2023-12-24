@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1569,6 +1569,11 @@
       "Time": "2023-12-24T21:03:14.7666922+00:00",
       "NumProgressed": 365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T23:03:23.3770204+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1581,7 +1586,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1597,7 +1602,7 @@
       "Name": "Retro Diva",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1605,7 +1610,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1621,7 +1626,7 @@
       "Name": "Fisherman",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1637,7 +1642,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1645,7 +1650,7 @@
       "Name": "Farmer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "HOUSEWARMING",
@@ -1667,9 +1672,9 @@
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -1723,9 +1728,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 274
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1733,21 +1738,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:04:01.9208101+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:03:23.3770202+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:57:51.1572844+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:04:01.9208646+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:57:40.5316952+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:03:23.3770392+00:00"
 }

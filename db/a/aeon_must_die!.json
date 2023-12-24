@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 3780,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3611,
+  "EOS_Progressed": 3612,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.78,
   "EosHistory": [
@@ -769,6 +769,11 @@
       "Time": "2023-12-24T15:09:33.5484802+00:00",
       "NumProgressed": 3611,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-12-24T23:08:38.0399452+00:00",
+      "NumProgressed": 3612,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1020,7 +1025,7 @@
       "Name": "Anything For The Throne",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "6",
@@ -1036,7 +1041,7 @@
       "Name": "One Track Mind",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "8",
@@ -1059,7 +1064,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3611,
+      "Progressed": 3612,
       "Completed": -28
     }
   ],
@@ -1067,8 +1072,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:08:51.2040193+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:08:38.0399449+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.313726+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:58:54.1501638+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:08:51.2040455+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:22.4961827+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:08:38.0399762+00:00"
 }

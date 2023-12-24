@@ -14,8 +14,8 @@
 | Upgrade Unlock | 35.00% | ~152 |
 | It's Technical | 35.00% | ~152 |
 | Delegate Maintenance | 32.00% | ~139 |
+| Destination Destiny | 31.00% | ~135 |
 | Proper Walls | 30.00% | ~130 |
-| Destination Destiny | 30.00% | ~130 |
 | Happy Tenants | 25.00% | ~108 |
 | Potent Potables | 25.00% | ~108 |
 | Your Prestige is Rising | 24.00% | ~104 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434 (Ranked 345)  
+Progressed: 434 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

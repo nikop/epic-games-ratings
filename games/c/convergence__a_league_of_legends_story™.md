@@ -5,13 +5,13 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~436 |
-| Rail Rat | 31.00% | ~338 |
-| The Mysterious Stranger | 30.00% | ~327 |
-| Immaculate Aim | 25.00% | ~272 |
+| Time Heals All Wounds | 40.00% | ~437 |
+| The Mysterious Stranger | 30.00% | ~328 |
+| Rail Rat | 30.00% | ~328 |
+| Immaculate Aim | 25.00% | ~273 |
+| The Brass Boss | 25.00% | ~273 |
 | Make Up For Lost Time | 24.00% | ~262 |
 | The Prince in Heels | 24.00% | ~262 |
-| The Brass Boss | 24.00% | ~262 |
 | Time Flies | 23.00% | ~251 |
 | The Harder They Fall | 23.00% | ~251 |
 | No, Thanks! | 23.00% | ~251 |
@@ -21,15 +21,15 @@ Rating: 4.65 (Ranked 320)
 | The Steel Shadow | 22.00% | ~240 |
 | Breaking Down Barriers | 22.00% | ~240 |
 | The Wicked Twins | 22.00% | ~240 |
-| Like Clockwork | 21.00% | ~229 |
-| Golem Chaser | 21.00% | ~229 |
-| Right On Time | 20.00% | ~218 |
-| The Betrayer | 20.00% | ~218 |
-| Check Your Pulse | 20.00% | ~218 |
-| The Loose Cannon | 19.00% | ~207 |
-| The Man Who Shattered Time | 18.00% | ~196 |
-| The Family Fortune | 18.00% | ~196 |
-| Street Style | 17.00% | ~185 |
+| Like Clockwork | 21.00% | ~230 |
+| Golem Chaser | 21.00% | ~230 |
+| Right On Time | 20.00% | ~219 |
+| The Betrayer | 20.00% | ~219 |
+| The Loose Cannon | 19.00% | ~208 |
+| Check Your Pulse | 19.00% | ~208 |
+| The Man Who Shattered Time | 18.00% | ~197 |
+| The Family Fortune | 18.00% | ~197 |
+| Street Style | 17.00% | ~186 |
 | Whiz Kid | 15.00% | ~164 |
 | Good Neighbor | 14.00% | ~153 |
 | Treasure Trove | 13.00% | ~142 |
@@ -46,20 +46,20 @@ Rating: 4.65 (Ranked 320)
 | Corin Goes Home | 8.00% | ~87 |
 | Sartorialist | 8.00% | ~87 |
 | Entresol Explorer | 8.00% | ~87 |
-| Golem Hunter | 7.00% | ~76 |
-| Clovemary for Remembering | 6.00% | ~65 |
-| Hexlock for Protection | 6.00% | ~65 |
-| Rungs Was Right | 5.00% | ~54 |
+| Golem Hunter | 7.00% | ~77 |
+| Clovemary for Remembering | 6.00% | ~66 |
+| Hexlock for Protection | 6.00% | ~66 |
+| Rungs Was Right | 5.00% | ~55 |
 | Wunderkind | 2.00% | ~22 |
 | Fitting In | 2.00% | ~22 |
 | Thinking Two Steps Ahead | 1.00% | ~11 |
 | No Time to Waste | 1.00% | ~11 |
 | A Lesson in Precision | 0.90% | ~10 |
 | Wildlife Protection | 0.70% | ~8 |
-| Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
+| Going to Live Forever | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090 (Ranked 277)  
+Progressed: 1,093 (Ranked 277)  
 Completed: 6 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.55%) (Ranked 207)
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
-| 2023-12-24 | 1,090 | 6 |
+| 2023-12-24 | 1,093 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

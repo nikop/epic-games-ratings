@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~137 |
+| A Second Chance | 58.00% | ~138 |
 | Press-ganged | 42.00% | ~100 |
-| The Package | 27.00% | ~64 |
-| Conquered | 20.00% | ~47 |
+| The Package | 26.00% | ~62 |
+| Conquered | 20.00% | ~48 |
 | Randomized | 18.00% | ~43 |
-| Scribe | 12.00% | ~28 |
-| Breached | 12.00% | ~28 |
+| Scribe | 12.00% | ~29 |
+| Breached | 12.00% | ~29 |
 | Tactician | 10.00% | ~24 |
 | Conciliator | 9.00% | ~21 |
 | Fight Another Day | 9.00% | ~21 |
@@ -26,11 +26,11 @@
 | Pilgrimage's End | 5.00% | ~12 |
 | Merchant | 5.00% | ~12 |
 | Trouble at Fort Larius | 5.00% | ~12 |
-| Quartermaster | 4.00% | ~9 |
-| Potential Unlocked | 4.00% | ~9 |
-| Been There | 4.00% | ~9 |
-| Spiritual Journey | 4.00% | ~9 |
-| Unseen Patterns | 4.00% | ~9 |
+| Quartermaster | 4.00% | ~10 |
+| Potential Unlocked | 4.00% | ~10 |
+| Been There | 4.00% | ~10 |
+| Spiritual Journey | 4.00% | ~10 |
+| Unseen Patterns | 4.00% | ~10 |
 | Bounty Hunter | 3.00% | ~7 |
 | Huntress Unbound | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 398)  
+Progressed: 238 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 227 | 0 |
 | 2023-12-22 | 229 | 0 |
 | 2023-12-23 | 231 | 0 |
-| 2023-12-24 | 237 | 0 |
+| 2023-12-24 | 238 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

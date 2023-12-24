@@ -1219,9 +1219,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1322,8 +1322,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:05:39.76732+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:04:32.3961083+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:26.8172731+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:05:39.7673542+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:43.8905765+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:04:32.3961367+00:00"
 }

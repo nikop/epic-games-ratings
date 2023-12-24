@@ -849,9 +849,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "CollectCurses",
@@ -897,9 +897,9 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "FirstStep",
@@ -937,9 +937,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "MonsterSlayer",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:06:48.4963813+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:05:20.9132128+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.1609711+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:58:32.5741419+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:06:48.4963985+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:07.5932146+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:05:20.9132277+00:00"
 }

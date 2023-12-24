@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 66,
@@ -1575,9 +1575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244457,
+  "EOS_Progressed": 244469,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23540,6 +23540,11 @@
       "Time": "2023-12-24T22:10:40.2639476+00:00",
       "NumProgressed": 244457,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T23:09:55.8765715+00:00",
+      "NumProgressed": 244469,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23599,7 +23604,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17112
+      "UsersEstimate": 17113
     },
     {
       "ID": "Chapter2",
@@ -23951,7 +23956,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22001
+      "UsersEstimate": 22002
     },
     {
       "ID": "DwarfElf15Support",
@@ -23983,7 +23988,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14667
+      "UsersEstimate": 14668
     },
     {
       "ID": "ElfEpic",
@@ -23999,7 +24004,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88005
+      "UsersEstimate": 88009
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24023,7 +24028,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9778
+      "UsersEstimate": 9779
     },
     {
       "ID": "EndGameCursed",
@@ -24047,7 +24052,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24446
+      "UsersEstimate": 24447
     },
     {
       "ID": "FollowBraztok",
@@ -24205,9 +24210,9 @@
       "ID": "SupportCount4",
       "SetID": "50chcgj",
       "Name": "Team Building Exercise",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4889
+      "UsersEstimate": 7334
     },
     {
       "ID": "SystematicallyStupid",
@@ -24247,28 +24252,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9778
+      "UsersEstimate": 9779
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244457,
+      "Progressed": 244469,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244457,
+      "Progressed": 244469,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-23T23:58:46.5537395+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:10:40.2639471+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:09:55.8765713+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:42.6657151+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:10:40.264093+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:55.3979345+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:09:55.8767139+00:00"
 }

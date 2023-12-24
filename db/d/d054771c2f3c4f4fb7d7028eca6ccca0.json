@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2692,
+  "EOS_Progressed": 2695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2734,6 +2734,11 @@
       "Time": "2023-12-24T22:05:15.5872739+00:00",
       "NumProgressed": 2692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T23:04:15.4693711+00:00",
+      "NumProgressed": 2695,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2770,7 +2775,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2810,7 +2815,7 @@
       "Name": "Terrible Journey",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2946,7 +2951,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3121,14 +3126,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2692,
+      "Progressed": 2695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:05:15.5872731+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:04:15.4693708+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:00:25.3534991+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:05:15.5873132+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:59:23.453483+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:04:15.4694195+00:00"
 }

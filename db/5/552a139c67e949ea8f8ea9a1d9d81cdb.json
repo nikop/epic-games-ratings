@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3927,6 +3927,11 @@
       "Time": "2023-12-24T22:06:32.132653+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T23:05:09.8996765+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3961,9 +3966,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "5k00jcd",
       "Name": "Drifting teacher",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4145,9 +4150,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "5k00jcd",
       "Name": "Extreme conditions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4265,9 +4270,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -4306,20 +4311,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1289,
+      "Progressed": 1290,
       "Completed": 1002
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:06:32.1326526+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:05:09.8996761+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:18.2755039+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:06:32.132702+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:38.4952838+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:05:09.8997165+00:00"
 }

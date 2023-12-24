@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 849,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2951,6 +2951,11 @@
       "Time": "2023-12-24T19:06:38.2052726+00:00",
       "NumProgressed": 848,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T23:06:05.8721875+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3002,15 +3007,15 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 713
     },
     {
       "ID": "kill-lieutenants",
@@ -3026,7 +3031,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "play-at-night",
@@ -3034,7 +3039,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "product-profit",
@@ -3050,7 +3055,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "rename-lieutenant",
@@ -3098,7 +3103,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "use-submarine",
@@ -3113,15 +3118,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 849,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:07:51.5950732+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:06:05.8721871+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:59:24.4575003+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:07:51.5950979+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:58:42.2523009+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:06:05.8722066+00:00"
 }

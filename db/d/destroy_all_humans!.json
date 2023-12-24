@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-12-24T22:04:06.5983732+00:00",
       "NumProgressed": 140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T23:03:26.6004464+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -766,7 +771,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -774,7 +779,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -806,7 +811,7 @@
       "Name": "Yettisoned",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -820,9 +825,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -844,15 +849,15 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 85
     },
@@ -932,17 +937,17 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -950,7 +955,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1004,15 +1009,15 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
       "UsersEstimate": 92
     },
@@ -1078,22 +1083,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-24T22:04:06.5983728+00:00",
+  "LastChanged_Achievements": "2023-12-24T23:03:26.6004461+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:01:40.041162+00:00",
-  "LastUpdate_Achievements": "2023-12-24T22:04:06.598421+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:00:14.2304147+00:00",
+  "LastUpdate_Achievements": "2023-12-24T23:03:26.6004673+00:00"
 }
