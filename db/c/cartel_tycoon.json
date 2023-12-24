@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2921,6 +2921,11 @@
       "Time": "2023-12-23T22:06:44.788164+00:00",
       "NumProgressed": 842,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T02:30:59.0776298+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2948,7 +2953,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "dont-miss-calls",
@@ -2980,7 +2985,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "kill-lieutenants",
@@ -2996,7 +3001,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "play-at-night",
@@ -3020,7 +3025,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "rename-lieutenant",
@@ -3052,7 +3057,7 @@
       "Name": "Camellos",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "unlock-residences",
@@ -3083,15 +3088,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:57:01.5303925+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:48:37.4837395+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:48:34.455239+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:57:01.5304169+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:30:59.0776293+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:23:19.8955151+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:30:59.0776565+00:00"
 }

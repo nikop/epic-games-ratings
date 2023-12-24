@@ -6,10 +6,10 @@ Rating: 4.23 (Ranked 914)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Veil Lifted | 0.20% | ~15 |
-| Lost and Found | 0.20% | ~15 |
 | Comrades | 0.20% | ~15 |
 | Shared Triumph | 0.20% | ~15 |
 | Wayfarer | 0.10% | ~7 |
+| Lost and Found | 0.10% | ~7 |
 | Weapon Collector | 0.10% | ~7 |
 | Ironclad | 0.10% | ~7 |
 | What Sights Contained Within | 0.10% | ~7 |
@@ -69,7 +69,7 @@ Rating: 4.23 (Ranked 914)
 | A Rest Among the Dead | 0.10% | ~7 |
 | A Trace of Venom | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,330 (Ranked 189)  
+Progressed: 7,341 (Ranked 189)  
 Completed: 2 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 2 (0.03%) (Ranked 349)
 | 2023-12-21 | 6,478 | 2 |
 | 2023-12-22 | 6,826 | 2 |
 | 2023-12-23 | 7,258 | 2 |
-| 2023-12-24 | 7,330 | 2 |
+| 2023-12-24 | 7,341 | 2 |
 ## Awards
 Max (Character Customization): 272  (Ranked 266)  
 Sum: 641 (Ranked 313)  

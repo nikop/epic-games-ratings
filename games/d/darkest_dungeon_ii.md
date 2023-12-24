@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~434 |
+| Malpractice Assurance | 10.00% | ~435 |
 | Lost and Found | 6.00% | ~261 |
 | Autodidact | 5.00% | ~6,474 |
-| This guy... again? | 5.00% | ~217 |
+| This guy... again? | 5.00% | ~218 |
 | This Belongs in a Museum | 4.00% | ~5,179 |
 | Creep and Sleep | 4.00% | ~5,179 |
 | Overdue Notice | 4.00% | ~5,179 |
@@ -24,10 +24,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 3.00% | ~3,884 |
 | It Happens | 3.00% | ~3,884 |
 | Rush Hour | 3.00% | ~3,884 |
+| Merry Time | 3.00% | ~3,884 |
 | To Grandmother's House | 3.00% | ~3,884 |
 | A Place to Lay Your Head | 3.00% | ~3,884 |
 | FNG | 3.00% | ~3,884 |
-| Friends 'Til the End | 3.00% | ~130 |
+| Friends 'Til the End | 3.00% | ~131 |
 | Resurrection | 2.00% | ~2,590 |
 | Unleash Hell | 2.00% | ~2,590 |
 | Funny Guy | 2.00% | ~2,590 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Now Stay Dead | 2.00% | ~2,590 |
 | Reverse Banditry | 2.00% | ~2,590 |
 | Spelunker | 2.00% | ~2,590 |
-| Merry Time | 2.00% | ~2,590 |
 | Harvest Festival | 2.00% | ~2,590 |
 | Ramble On | 2.00% | ~2,590 |
 | A Clear Conscience | 2.00% | ~2,590 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,475 (Ranked 87)  
+Progressed: 129,483 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,475 | 3 |
+| 2023-12-24 | 129,483 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
 Sum: 21,004 (Ranked 58)  

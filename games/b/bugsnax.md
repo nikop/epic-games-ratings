@@ -6,19 +6,19 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,035 |
-| Gone Home | 93.00% | ~26,879 |
-| Wonderfalls | 87.00% | ~25,145 |
+| Everybody Gets One | 97.00% | ~28,036 |
+| Gone Home | 93.00% | ~26,880 |
+| Wonderfalls | 87.00% | ~25,146 |
 | Got to Catch a Few | 77.00% | ~22,255 |
-| Double Trapper | 75.00% | ~21,676 |
-| I'm Stuffed | 69.00% | ~19,942 |
-| Got to Catch a Lot | 66.00% | ~19,075 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,630 |
-| In the Arms of the Gramble | 59.00% | ~17,052 |
-| Know Thy Neighbor | 59.00% | ~17,052 |
-| Perf Dirt | 57.00% | ~16,474 |
-| Launch Party | 56.00% | ~16,185 |
-| Vacation's End | 53.00% | ~15,318 |
+| Double Trapper | 75.00% | ~21,677 |
+| I'm Stuffed | 69.00% | ~19,943 |
+| Got to Catch a Lot | 66.00% | ~19,076 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,631 |
+| In the Arms of the Gramble | 59.00% | ~17,053 |
+| Know Thy Neighbor | 59.00% | ~17,053 |
+| Perf Dirt | 57.00% | ~16,475 |
+| Launch Party | 56.00% | ~16,186 |
+| Vacation's End | 53.00% | ~15,319 |
 | Bossy Bugs | 46.00% | ~13,295 |
 | Survivor | 45.00% | ~13,006 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,428 |
@@ -28,16 +28,16 @@ Number of Ratings: 425  (23.09.2022)
 | Midnight Snak | 36.00% | ~10,405 |
 | Candid Cryptid | 35.00% | ~10,116 |
 | Got to Catch Them All | 32.00% | ~9,249 |
-| Deep Impact | 23.00% | ~6,647 |
-| Grab Bag | 23.00% | ~6,647 |
-| Feeding Frenzy | 19.00% | ~5,491 |
-| Clothesline | 17.00% | ~4,913 |
+| Deep Impact | 23.00% | ~6,648 |
+| Grab Bag | 23.00% | ~6,648 |
+| Feeding Frenzy | 19.00% | ~5,492 |
+| Clothesline | 17.00% | ~4,914 |
 | Say Cheese! | 15.00% | ~4,335 |
 | Sundae Best | 14.00% | ~4,046 |
 | Live Laugh Hut | 9.00% | ~2,601 |
 | Dapper Capper | 7.00% | ~2,023 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,902 (Ranked 135)  
+Progressed: 28,903 (Ranked 135)  
 Completed: 1,411 (4.88%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 1,411 (4.88%) (Ranked 78)
 | 2023-12-21 | 28,878 | 1,405 |
 | 2023-12-22 | 28,890 | 1,406 |
 | 2023-12-23 | 28,901 | 1,410 |
-| 2023-12-24 | 28,902 | 1,411 |
+| 2023-12-24 | 28,903 | 1,411 |
 ## Awards
 Max (Amazing Storytelling): 44  (Ranked 463)  
 Sum: 372 (Ranked 355)  

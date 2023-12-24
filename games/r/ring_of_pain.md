@@ -7,8 +7,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 1.00% | ~2,416 |
+| Uncharted Territory | 1.00% | ~2,416 |
 | Matching | 1.00% | ~30 |
-| Uncharted Territory | 0.90% | ~2,174 |
 | Getting A Glimpse | 0.80% | ~1,932 |
 | Defeat The Dark | 0.80% | ~1,932 |
 | A Quick Escape | 0.80% | ~1,932 |

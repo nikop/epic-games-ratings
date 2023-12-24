@@ -7,14 +7,14 @@ Rating: 4.20 (Ranked 936)
 | ---- | ---------- | ----- |
 | Flesh Wound | 16.00% | ~3,026 |
 | The Outer Way | 16.00% | ~3,026 |
-| Get a Grip | 15.00% | ~2,836 |
-| Paper Jams | 15.00% | ~2,836 |
-| Desperate Times | 15.00% | ~2,836 |
-| Chew 'Em Up | 13.00% | ~2,458 |
-| Float Like A Butterfly | 12.00% | ~2,269 |
-| Reforged | 11.00% | ~2,080 |
-| Workplace Hazard | 10.00% | ~1,891 |
-| If the SHU Fits... | 10.00% | ~1,891 |
+| Get a Grip | 15.00% | ~2,837 |
+| Paper Jams | 15.00% | ~2,837 |
+| Desperate Times | 15.00% | ~2,837 |
+| Chew 'Em Up | 13.00% | ~2,459 |
+| Float Like A Butterfly | 12.00% | ~2,270 |
+| Reforged | 11.00% | ~2,081 |
+| Workplace Hazard | 10.00% | ~1,892 |
+| If the SHU Fits... | 10.00% | ~1,892 |
 | Without A Paddle | 8.00% | ~1,513 |
 | In the Pipe, Five by Five | 8.00% | ~1,513 |
 | Two Heads Are Better Than One | 7.00% | ~1,324 |
@@ -28,7 +28,7 @@ Rating: 4.20 (Ranked 936)
 | Keep Fighting | 6.00% | ~410 |
 | I Do Belong Here | 5.00% | ~946 |
 | It's Time | 5.00% | ~342 |
-| The Commonality | 4.00% | ~756 |
+| The Commonality | 4.00% | ~757 |
 | In Striking Distance | 3.00% | ~567 |
 | One Last Job | 2.00% | ~137 |
 | Armed to the Teeth | 1.00% | ~68 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,910 (Ranked 151)  
+Progressed: 18,915 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 82 (0.43%) (Ranked 227)
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
-| 2023-12-24 | 18,910 | 82 |
+| 2023-12-24 | 18,915 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 377)  
 Sum: 557 (Ranked 324)  

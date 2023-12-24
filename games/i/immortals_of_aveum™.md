@@ -5,24 +5,24 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,507 |
-| Battlefields Have Memories | 81.00% | ~1,388 |
-| Enlisted | 73.00% | ~1,250 |
-| Maybe Engage a Little | 68.00% | ~1,165 |
-| No More Names | 49.00% | ~839 |
+| Unforeseen | 88.00% | ~1,509 |
+| Battlefields Have Memories | 81.00% | ~1,389 |
+| Enlisted | 73.00% | ~1,252 |
+| Maybe Engage a Little | 68.00% | ~1,166 |
+| No More Names | 49.00% | ~840 |
 | Initiate | 35.00% | ~600 |
-| Thrada-Kul | 31.00% | ~531 |
-| Gravity-Challenged Rocks | 24.00% | ~411 |
+| Thrada-Kul | 31.00% | ~532 |
+| Gravity-Challenged Rocks | 24.00% | ~412 |
 | Socialite | 23.00% | ~394 |
 | Soldier | 20.00% | ~343 |
-| All the Major Food Groups | 19.00% | ~325 |
-| Beggars Would Ride | 18.00% | ~308 |
+| All the Major Food Groups | 19.00% | ~326 |
+| Beggars Would Ride | 18.00% | ~309 |
 | Control is an Illusion | 16.00% | ~274 |
 | The Means to Save It | 13.00% | ~223 |
 | Resilience to Sin | 12.00% | ~206 |
-| A Familiar Nest | 11.00% | ~188 |
-| Geas Aristeya | 11.00% | ~188 |
-| Periapt Alizarin | 11.00% | ~188 |
+| A Familiar Nest | 11.00% | ~189 |
+| Periapt Alizarin | 11.00% | ~189 |
+| Geas Aristeya | 10.00% | ~172 |
 | A Perfect Cycle | 9.00% | ~154 |
 | Recruit | 9.00% | ~154 |
 | Armsman | 9.00% | ~154 |
@@ -45,15 +45,15 @@ Rating: 4.20 (Ranked 936)
 | Shroudfane Surveyor | 0.70% | ~12 |
 | Master of Malachite | 0.60% | ~10 |
 | Backtracker | 0.50% | ~9 |
-| Petite Bourgeoisie | 0.40% | ~7 |
-| Treasure Hunter | 0.40% | ~7 |
 | Diplomat | 0.30% | ~5 |
+| Petite Bourgeoisie | 0.30% | ~5 |
 | Witch-Taker | 0.30% | ~5 |
+| Treasure Hunter | 0.30% | ~5 |
 | Family Business | 0.20% | ~3 |
 | Out of Time | 0.20% | ~3 |
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,713 (Ranked 244)  
+Progressed: 1,715 (Ranked 244)  
 Completed: 2 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.12%) (Ranked 299)
 | 2023-12-21 | 1,514 | 2 |
 | 2023-12-22 | 1,602 | 2 |
 | 2023-12-23 | 1,709 | 2 |
-| 2023-12-24 | 1,713 | 2 |
+| 2023-12-24 | 1,715 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

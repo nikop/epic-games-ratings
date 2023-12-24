@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -281,9 +281,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 334919,
+  "EOS_Progressed": 334921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14841,6 +14841,11 @@
       "Time": "2023-12-24T01:54:26.892617+00:00",
       "NumProgressed": 334919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T02:29:09.7207204+00:00",
+      "NumProgressed": 334921,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -14877,7 +14882,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 147364
+      "UsersEstimate": 147365
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -14885,7 +14890,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 107174
+      "UsersEstimate": 107175
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -14909,7 +14914,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40190
+      "UsersEstimate": 40191
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -15229,20 +15234,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 170809
+      "UsersEstimate": 170810
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 334919,
+      "Progressed": 334921,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 334908,
+      "Progressed": 334910,
       "Completed": 1
     }
   ],
@@ -15250,8 +15255,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-23T14:03:01.9146724+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:54:26.8926165+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:29:09.7207199+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.4899054+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:52:43.0106931+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:54:26.8927159+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:27:55.5586581+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:29:09.7208093+00:00"
 }

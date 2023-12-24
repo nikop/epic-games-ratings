@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~589 |
 | Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,264 (Ranked 83)  
+Progressed: 147,268 (Ranked 83)  
 Completed: 331 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 331 (0.22%) (Ranked 269)
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
-| 2023-12-24 | 147,264 | 331 |
+| 2023-12-24 | 147,268 | 331 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
 Sum: 27,794 (Ranked 51)  

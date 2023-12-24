@@ -13,9 +13,9 @@
 | Tap Dancing | 51.00% | ~49 |
 | MAX LEVEL | 51.00% | ~49 |
 | Right between the eyes | 40.00% | ~39 |
-| Spring Board | 39.00% | ~38 |
+| Spring Board | 40.00% | ~39 |
 | Starry Night | 38.00% | ~37 |
-| Locksley's Tears | 36.00% | ~35 |
+| Locksley's Tears | 37.00% | ~36 |
 | Rebel Unleashed | 35.00% | ~34 |
 | Merry Co-operation | 32.00% | ~31 |
 | Finish Him! | 25.00% | ~24 |

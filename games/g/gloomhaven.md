@@ -6,27 +6,27 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~11,342 |
-| Overkill | 34.00% | ~9,640 |
-| Vaccine Incoming | 32.00% | ~9,073 |
-| A normal day in Gloomhaven | 30.00% | ~8,506 |
-| Spread the plague | 28.00% | ~7,939 |
-| Get over here! | 24.00% | ~6,805 |
-| Just when I thought I was out... | 19.00% | ~5,387 |
-| Mine... All Mine... | 17.00% | ~4,820 |
+| I'm not dead yet | 40.00% | ~11,343 |
+| Overkill | 34.00% | ~9,642 |
+| Vaccine Incoming | 32.00% | ~9,075 |
+| A normal day in Gloomhaven | 30.00% | ~8,507 |
+| Spread the plague | 28.00% | ~7,940 |
+| Get over here! | 24.00% | ~6,806 |
+| Just when I thought I was out... | 19.00% | ~5,388 |
+| Mine... All Mine... | 17.00% | ~4,821 |
 | Precious! | 16.00% | ~4,537 |
-| Grizzled veteran | 15.00% | ~4,253 |
+| Grizzled veteran | 15.00% | ~4,254 |
 | Anatomy Lesson | 14.00% | ~3,970 |
-| Light of my life | 13.00% | ~3,686 |
-| You activated my trap card! | 12.00% | ~3,402 |
-| Obstacle race | 12.00% | ~3,402 |
+| Light of my life | 13.00% | ~3,687 |
+| You activated my trap card! | 12.00% | ~3,403 |
+| Obstacle race | 12.00% | ~3,403 |
 | Who's the Boss? | 11.00% | ~3,119 |
 | Augmented rat | 11.00% | ~3,119 |
-| Doom and gloom | 10.00% | ~2,835 |
+| Doom and gloom | 10.00% | ~2,836 |
 | Dungeon Veteran | 9.00% | ~2,552 |
-| Pain is your friend | 8.00% | ~2,268 |
-| Black death | 8.00% | ~2,268 |
-| Play it again, Sam | 8.00% | ~2,268 |
+| Pain is your friend | 8.00% | ~2,269 |
+| Black death | 8.00% | ~2,269 |
+| Play it again, Sam | 8.00% | ~2,269 |
 | Pack leader | 7.00% | ~1,985 |
 | Quad damage | 6.00% | ~1,701 |
 | Power Up! | 5.00% | ~1,418 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~28 |
 | Murder Death Kill | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,354 (Ranked 137)  
+Progressed: 28,358 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,15 +170,15 @@ Completed: 1 (0.00%) (Ranked 388)
 | 2023-12-21 | 27,847 | 1 |
 | 2023-12-22 | 28,058 | 1 |
 | 2023-12-23 | 28,327 | 1 |
-| 2023-12-24 | 28,354 | 1 |
+| 2023-12-24 | 28,358 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
-Sum: 8,430 (Ranked 105)  
+Sum: 8,431 (Ranked 105)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,604 |
-| This game has Diverse Characters | 605 |
+| This game has Diverse Characters | 606 |
 | This game has Challenging Combat | 556 |
 | This game is Highly Recommended | 551 |
 | This game is Extremely Fun | 547 |
@@ -439,3 +439,4 @@ Diff (max vs sum): -12
 | 2023-12-20 | 4.47 | - | 3,603 | 8,422 |
 | 2023-12-22 | 4.47 | - | 3,603 | 8,428 |
 | 2023-12-23 | 4.47 | - | 3,604 | 8,430 |
+| 2023-12-24 | 4.47 | - | 3,604 | 8,431 |

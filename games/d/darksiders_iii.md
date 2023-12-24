@@ -6,8 +6,8 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 75.00% | ~93 |
-| First of many… | 65.00% | ~81 |
+| Green with Envy | 77.00% | ~95 |
+| First of many… | 66.00% | ~82 |
 | Helping Hand | 64.00% | ~79 |
 | Increased Vigor | 57.00% | ~71 |
 | Fight Fire with Fire | 55.00% | ~68 |
@@ -15,7 +15,7 @@ Number of Ratings: 116  (23.09.2022)
 | Just the start | 50.00% | ~62 |
 | Perfect Storm | 46.00% | ~57 |
 | All That Glitters | 46.00% | ~57 |
-| Enhance! | 43.00% | ~53 |
+| Enhance! | 44.00% | ~55 |
 | One Of the Chosen | 40.00% | ~50 |
 | Throne Potato | 40.00% | ~50 |
 | 25 to Life | 40.00% | ~50 |
@@ -29,7 +29,7 @@ Number of Ratings: 116  (23.09.2022)
 | Love Tap | 33.00% | ~41 |
 | Maximum Vigor | 31.00% | ~38 |
 | For Whom the Bell Tolls | 31.00% | ~38 |
-| Freeze Frame | 27.00% | ~33 |
+| Freeze Frame | 28.00% | ~35 |
 | Eat Your Heart Out | 27.00% | ~33 |
 | Unyielding Strength | 23.00% | ~29 |
 | Cleanup Crew | 23.00% | ~29 |

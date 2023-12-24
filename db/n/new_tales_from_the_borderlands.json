@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3745,
+  "EOS_Progressed": 3746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1997,6 +1997,11 @@
       "Time": "2023-12-23T23:04:30.5580899+00:00",
       "NumProgressed": 3745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T02:29:05.8024395+00:00",
+      "NumProgressed": 3746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2040,7 +2045,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2072,7 +2077,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2112,7 +2117,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2136,7 +2141,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2215,7 +2220,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3745,
+      "Progressed": 3746,
       "Completed": 0
     }
   ],
@@ -2223,8 +2228,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:54:21.46021+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:48:35.6151583+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:52:37.948849+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:54:21.4602299+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:29:05.802439+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:27:52.3642294+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:29:05.8024674+00:00"
 }

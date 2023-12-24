@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117608,
+  "EOS_Progressed": 117609,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -22355,6 +22355,11 @@
       "Time": "2023-12-24T02:00:07.5313667+00:00",
       "NumProgressed": 117608,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-24T02:34:59.6482563+00:00",
+      "NumProgressed": 117609,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22374,7 +22379,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90558
+      "UsersEstimate": 90559
     },
     {
       "ID": "EAwards_10",
@@ -22454,7 +22459,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7056
+      "UsersEstimate": 7057
     },
     {
       "ID": "EAwards_2",
@@ -22486,7 +22491,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7056
+      "UsersEstimate": 7057
     },
     {
       "ID": "EAwards_23",
@@ -22757,7 +22762,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117608,
+      "Progressed": 117609,
       "Completed": 53
     }
   ],
@@ -22765,8 +22770,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:00:07.5313662+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:34:59.6482559+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:47:08.6826601+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:00:07.5315109+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:22:24.6558164+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:34:59.648427+00:00"
 }

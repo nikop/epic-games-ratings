@@ -21,11 +21,11 @@ Rating: 4.63 (Ranked 353)
 | Oui, Chef! | 0.60% | ~52 |
 | Exit Through The Gift Shop | 0.60% | ~7 |
 | Higher Tax Bracket | 0.50% | ~43 |
+| Flaming Hot Completos | 0.40% | ~34 |
 | Beach Comber | 0.40% | ~34 |
 | Botanical Breakthrough | 0.40% | ~34 |
 | Azorian Anniversary | 0.40% | ~34 |
 | Skilled | 0.40% | ~34 |
-| Flaming Hot Completos | 0.30% | ~26 |
 | Fae Farmer | 0.30% | ~26 |
 | Fanatical Farmer | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |

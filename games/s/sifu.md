@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,677 |
+| The Old Grandmaster | 4.00% | ~29,678 |
 | The Assault | 3.00% | ~22,258 |
 | Life is your teacher | 3.00% | ~22,258 |
 | Lightning Hands | 3.00% | ~22,258 |
-| The Hateful Pole Fighter | 2.00% | ~14,838 |
-| Stuntmaster | 2.00% | ~14,838 |
-| Street Fighting | 2.00% | ~14,838 |
-| State of constant learning | 2.00% | ~14,838 |
-| Qi Gong: Essence | 2.00% | ~14,838 |
-| Old Child | 2.00% | ~14,838 |
+| The Hateful Pole Fighter | 2.00% | ~14,839 |
+| Stuntmaster | 2.00% | ~14,839 |
+| Street Fighting | 2.00% | ~14,839 |
+| State of constant learning | 2.00% | ~14,839 |
+| Qi Gong: Essence | 2.00% | ~14,839 |
+| Old Child | 2.00% | ~14,839 |
 | A Lady's Blood in the Snow | 1.00% | ~7,419 |
 | Lady Wing Chun | 1.00% | ~7,419 |
 | Furious Fists | 1.00% | ~7,419 |
@@ -27,10 +27,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,419 |
 | Project Arena | 1.00% | ~512 |
 | Diligence as a goal | 1.00% | ~512 |
-| Qi Gong: Mind | 0.90% | ~6,677 |
-| Scareless | 0.80% | ~5,935 |
-| Kung-Fu Tussle | 0.80% | ~5,935 |
-| Dance of the Praying Mantis | 0.70% | ~5,193 |
+| Qi Gong: Mind | 0.90% | ~6,678 |
+| Scareless | 0.80% | ~5,936 |
+| Kung-Fu Tussle | 0.80% | ~5,936 |
+| Dance of the Praying Mantis | 0.70% | ~5,194 |
 | Fight the way you practice | 0.70% | ~359 |
 | Martial Hub | 0.60% | ~307 |
 | Muk Yan Master | 0.50% | ~3,710 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,919 (Ranked 23)  
+Progressed: 741,945 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 12,961 (1.75%) (Ranked 141)
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
-| 2023-12-24 | 741,919 | 12,961 |
+| 2023-12-24 | 741,945 | 12,961 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
 Sum: 12,278 (Ranked 84)  

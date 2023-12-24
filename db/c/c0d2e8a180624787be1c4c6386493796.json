@@ -994,9 +994,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -1543,8 +1543,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:53:30.3050905+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:28:29.3798678+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:49:18.3606817+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:53:30.3051628+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:23:48.4771418+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:28:29.3799253+00:00"
 }

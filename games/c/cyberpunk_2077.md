@@ -8,7 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 12.00% | ~117,668 |
 | Gun Fu | 8.00% | ~78,445 |
-| The Fool | 7.00% | ~68,639 |
+| The Fool | 7.00% | ~68,640 |
 | Right Back At Ya | 6.00% | ~58,834 |
 | The Lovers | 6.00% | ~58,834 |
 | Full Body Conversion | 5.00% | ~49,028 |
@@ -17,8 +17,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 4.00% | ~39,223 |
 | The Hermit | 4.00% | ~39,223 |
 | The Wheel of Fortune | 4.00% | ~39,223 |
-| All the President's Men | 4.00% | ~4,367 |
-| Arachnophobia | 4.00% | ~4,367 |
+| All the President's Men | 4.00% | ~4,368 |
+| Arachnophobia | 4.00% | ~4,368 |
 | The Quick and the Dead | 3.00% | ~29,417 |
 | Life of the Road | 3.00% | ~29,417 |
 | The High Priestess | 3.00% | ~29,417 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,563 (Ranked 16)  
+Progressed: 980,566 (Ranked 16)  
 Completed: 2,962 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,17 +322,17 @@ Completed: 2,962 (0.30%) (Ranked 254)
 | 2023-12-21 | 979,668 | 2,950 |
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
-| 2023-12-24 | 980,563 | 2,962 |
+| 2023-12-24 | 980,566 | 2,962 |
 ## Awards
 Max (Character Customization): 126,708  (Ranked 8)  
-Sum: 439,767 (Ranked 9)  
+Sum: 439,940 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 126,708 |
 | This game has Great Boss Battles | 93,352 |
 | This game is Great for Beginners | 27,494 |
-| This game has Diverse Characters | 26,824 |
+| This game has Diverse Characters | 26,997 |
 | This game is Highly Recommended | 25,662 |
 | This game has Amazing Storytelling | 25,241 |
 | This game is Extremely Fun | 25,037 |
@@ -682,4 +682,4 @@ Diff (max vs sum): -1
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
 | 2023-12-22 | 4.66 | - | 126,294 | 437,314 |
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
-| 2023-12-24 | 4.66 | - | 126,708 | 439,767 |
+| 2023-12-24 | 4.66 | - | 126,708 | 439,940 |

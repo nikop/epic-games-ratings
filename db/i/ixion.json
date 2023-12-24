@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,7 +323,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3677,
+  "EOS_Progressed": 3679,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -6998,6 +6998,11 @@
       "Time": "2023-12-24T01:56:08.7166409+00:00",
       "NumProgressed": 3677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T02:30:21.8516508+00:00",
+      "NumProgressed": 3679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7009,7 +7014,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH_BASE_10",
@@ -7073,7 +7078,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ACH_BASE_19",
@@ -7137,7 +7142,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_BASE_27",
@@ -7145,7 +7150,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_BASE_28",
@@ -7233,7 +7238,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_BASE_38",
@@ -7303,9 +7308,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_BASE_49",
@@ -7441,7 +7446,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_BASE_8",
@@ -7464,13 +7469,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1861,
+      "Progressed": 1863,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3677,
+      "Progressed": 3679,
       "Completed": 0
     }
   ],
@@ -7478,8 +7483,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:56:08.7166405+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:48:37.6786359+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:48:34.0922545+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:56:08.7167025+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:30:21.8516501+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:23:19.6656624+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:30:21.8517294+00:00"
 }

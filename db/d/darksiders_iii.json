@@ -791,9 +791,9 @@
       "ID": "Collect_Hollow_Stasis",
       "SetID": "7a5k76n",
       "Name": "Freeze Frame",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -863,9 +863,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1039,9 +1039,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1143,9 +1143,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1207,8 +1207,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-23T17:00:12.5339599+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:56:55.7017807+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:49:38.9666493+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:51:12.8690779+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:56:55.7018298+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:30:55.1364506+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:25:02.8521829+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:30:55.1364963+00:00"
 }

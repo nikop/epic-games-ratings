@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 230242,
+  "EOS_Progressed": 230244,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28136,6 +28136,11 @@
       "Time": "2023-12-24T02:00:09.2539614+00:00",
       "NumProgressed": 230242,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T02:35:01.0122306+00:00",
+      "NumProgressed": 230244,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28147,7 +28152,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46048
+      "UsersEstimate": 46049
     },
     {
       "ID": "ACH_BASE_10",
@@ -28395,7 +28400,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29931
+      "UsersEstimate": 29932
     },
     {
       "ID": "ACH_BASE_8",
@@ -28418,7 +28423,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230242,
+      "Progressed": 230244,
       "Completed": 5
     }
   ],
@@ -28426,8 +28431,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:00:09.2539609+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:49:11.0870994+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:50:11.8794887+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:00:09.2540726+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:35:01.0122303+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:24:22.0233524+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:35:01.0124011+00:00"
 }

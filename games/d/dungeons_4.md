@@ -39,9 +39,9 @@
 | The Finitude Drill | 31.00% | ~194 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~181 |
 | Doom Hill | 28.00% | ~175 |
+| Hungry, Hungry Gorgu! | 27.00% | ~169 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~169 |
 | Forbidden Knowledge | 27.00% | ~169 |
-| Hungry, Hungry Gorgu! | 26.00% | ~162 |
 | Stop Tanos! | 26.00% | ~162 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~162 |
 | Sabotage! | 25.00% | ~156 |

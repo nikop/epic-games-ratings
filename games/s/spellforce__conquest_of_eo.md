@@ -26,8 +26,8 @@
 | Friend of Sevenkeeps | 22.00% | ~16 |
 | Sevenkeeps Seat of Kings | 18.00% | ~13 |
 | Friend of Alluvyan | 16.00% | ~12 |
+| Friend of Connach | 16.00% | ~12 |
 | Break Free | 16.00% | ~12 |
-| Friend of Connach | 15.00% | ~11 |
 | Stormwatch Faste | 14.00% | ~10 |
 | Friend of Gillyshire | 14.00% | ~10 |
 | Friend of Silver Drift Hollow | 14.00% | ~10 |

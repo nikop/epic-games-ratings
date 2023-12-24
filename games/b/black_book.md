@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~17,983 |
-| Student | 22.00% | ~13,642 |
-| Knower | 16.00% | ~9,921 |
-| Listener | 15.00% | ~9,301 |
-| Aspen Tree | 14.00% | ~8,681 |
-| Healer | 14.00% | ~8,681 |
-| Soldier | 12.00% | ~7,441 |
-| Cow Level | 11.00% | ~6,821 |
-| Scientist | 11.00% | ~6,821 |
+| Initiation | 29.00% | ~17,984 |
+| Student | 22.00% | ~13,643 |
+| Knower | 16.00% | ~9,922 |
+| Listener | 15.00% | ~9,302 |
+| Aspen Tree | 14.00% | ~8,682 |
+| Healer | 14.00% | ~8,682 |
+| Soldier | 12.00% | ~7,442 |
+| Cow Level | 11.00% | ~6,822 |
+| Scientist | 11.00% | ~6,822 |
 | Herbalist | 10.00% | ~6,201 |
 | Water | 10.00% | ~6,201 |
 | Old Friend | 9.00% | ~5,581 |
 | New Spirits | 9.00% | ~5,581 |
 | Voipel | 9.00% | ~5,581 |
-| Collector | 9.00% | ~5,581 |
 | Wolf | 9.00% | ~5,581 |
 | Black Mage | 9.00% | ~5,581 |
 | Card Player | 8.00% | ~4,961 |
 | Dead Friend | 8.00% | ~4,961 |
 | Pine Tree | 8.00% | ~4,961 |
+| Collector | 8.00% | ~4,961 |
 | Worthy | 7.00% | ~4,341 |
 | Black Book | 7.00% | ~4,341 |
 | Black Sorcerer | 7.00% | ~4,341 |
@@ -41,11 +41,11 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,721 |
 | Folklorist | 6.00% | ~3,721 |
 | Keeper of Knowledge | 6.00% | ~3,721 |
-| Susanin | 5.00% | ~3,100 |
-| Traveller | 5.00% | ~3,100 |
-| Righteous | 4.00% | ~2,480 |
-| Musician | 4.00% | ~2,480 |
-| Koldun | 4.00% | ~2,480 |
+| Susanin | 5.00% | ~3,101 |
+| Traveller | 5.00% | ~3,101 |
+| Righteous | 4.00% | ~2,481 |
+| Musician | 4.00% | ~2,481 |
+| Koldun | 4.00% | ~2,481 |
 | Black Sorceress | 3.00% | ~1,860 |
 | Cheater | 3.00% | ~1,860 |
 | Diplomat | 3.00% | ~1,860 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,240 |
 | Word Master | 0.20% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,009 (Ranked 114)  
+Progressed: 62,014 (Ranked 114)  
 Completed: 63 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 63 (0.10%) (Ranked 305)
 | 2023-12-21 | 61,504 | 62 |
 | 2023-12-22 | 61,712 | 62 |
 | 2023-12-23 | 61,984 | 63 |
-| 2023-12-24 | 62,009 | 63 |
+| 2023-12-24 | 62,014 | 63 |
 ## Awards
 Max (Character Customization): 102  (Ranked 366)  
 Sum: 102 (Ranked 458)  

@@ -33,6 +33,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
+| The Optional Mandate | 1.00% | ~2 |
 | PK Slam Dunk | 0.60% | ~1 |
 | Arty Facts | 0.60% | ~1 |
 | Gotta Catch All the Pop Art | 0.60% | ~1 |
@@ -40,7 +41,6 @@ Number of Ratings: 90  (23.09.2022)
 | Against All Odds | 0.60% | ~1 |
 | Forbidden Donut | 0.60% | ~1 |
 | Hidden Human Hive Harvest | 0.60% | ~1 |
-| The Optional Mandate | 0.60% | ~1 |
 | Toilet Break | 0.00% | ~0 |
 | Albion Bridge Is for Falling Down | 0.00% | ~0 |
 | Ouch of Body Experience | 0.00% | ~0 |

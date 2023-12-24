@@ -7,10 +7,10 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 14.00% | ~498 |
+| Not So Fast... | 11.00% | ~391 |
 | Watch Where You Step... | 11.00% | ~391 |
 | An Ill Omen | 11.00% | ~391 |
 | Look Over There! | 10.00% | ~356 |
-| Not So Fast... | 10.00% | ~356 |
 | Purging Spree | 8.00% | ~285 |
 | Blood for the Blood God! | 7.00% | ~249 |
 | Bloodless | 6.00% | ~213 |
@@ -19,11 +19,11 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 4.00% | ~142 |
 | The Emperor Protects | 4.00% | ~142 |
 | A Foul Creche | 4.00% | ~142 |
+| Hold Your Ground | 3.00% | ~107 |
 | Nemesis Master | 3.00% | ~107 |
 | Gunmaster | 3.00% | ~107 |
 | Just a Scratch | 3.00% | ~107 |
 | Daemonkeeper | 2.00% | ~71 |
-| Hold Your Ground | 2.00% | ~71 |
 | Corruption Cleanser | 2.00% | ~71 |
 | Efficient Killer | 2.00% | ~71 |
 | A Gift Spurned | 2.00% | ~71 |
@@ -51,11 +51,11 @@ Number of Ratings: 371  (23.09.2022)
 | Suffer Not the Mutant | 0.40% | ~14 |
 | Blood and Iron | 0.30% | ~11 |
 | Clean Slate | 0.30% | ~11 |
+| Unstable Immaterium | 0.30% | ~11 |
 | Warp Flickers | 0.30% | ~11 |
 | Abomination | 0.30% | ~11 |
 | Killing Rampage | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
-| Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
 | Deadshot | 0.20% | ~7 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,557 (Ranked 215)  
+Progressed: 3,558 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,510 | 0 |
 | 2023-12-22 | 3,530 | 0 |
 | 2023-12-23 | 3,552 | 0 |
-| 2023-12-24 | 3,557 | 0 |
+| 2023-12-24 | 3,558 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

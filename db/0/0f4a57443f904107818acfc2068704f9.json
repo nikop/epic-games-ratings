@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 984,
+  "EOS_Progressed": 985,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2023-12-24T00:03:56.8375018+00:00",
       "NumProgressed": 984,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T02:28:56.5258208+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2518,7 +2523,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "CompleteChapter3",
@@ -2566,7 +2571,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "CompleteChapter9",
@@ -2620,9 +2625,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 364
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2669,14 +2674,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 984,
+      "Progressed": 985,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:54:08.3345951+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:28:56.5258203+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:49:35.1974964+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:54:08.3346294+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:23:59.3079438+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:28:56.525854+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -673,9 +673,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -713,9 +713,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -856,8 +856,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:54:36.5786122+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:49:38.8820495+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:51:13.9749633+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:54:36.5786514+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:29:16.4187648+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:21:27.5850344+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:25:03.5579965+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:29:16.4188048+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2877,
+  "EOS_Progressed": 2878,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5888,6 +5888,11 @@
       "Time": "2023-12-24T02:00:19.9710346+00:00",
       "NumProgressed": 2877,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T02:35:09.8940464+00:00",
+      "NumProgressed": 2878,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -5932,7 +5937,7 @@
       "Name": "Focused",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_103",
@@ -6116,7 +6121,7 @@
       "Name": "Long Service Medal",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_124",
@@ -6132,7 +6137,7 @@
       "Name": "Soldier",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "achievement_126",
@@ -6140,7 +6145,7 @@
       "Name": "Veteran",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_127",
@@ -6164,7 +6169,7 @@
       "Name": "Electronics Specialist",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_15",
@@ -6172,7 +6177,7 @@
       "Name": "Sabotage Specialist",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_16",
@@ -6220,7 +6225,7 @@
       "Name": "Completionist",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_21",
@@ -6252,7 +6257,7 @@
       "Name": "Soldier Ally",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "achievement_25",
@@ -6284,7 +6289,7 @@
       "Name": "Quarian Ally",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "achievement_29",
@@ -6292,7 +6297,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "achievement_3",
@@ -6300,7 +6305,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "achievement_30",
@@ -6308,7 +6313,7 @@
       "Name": "Principled",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_31",
@@ -6316,7 +6321,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "achievement_32",
@@ -6332,7 +6337,7 @@
       "Name": "Search and Rescue",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "achievement_34",
@@ -6340,7 +6345,7 @@
       "Name": "Colonial Savior",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_35",
@@ -6356,7 +6361,7 @@
       "Name": "Missing in Action",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "achievement_37",
@@ -6372,7 +6377,7 @@
       "Name": "Colony Defense",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_39",
@@ -6444,7 +6449,7 @@
       "Name": "The Convict",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "achievement_47",
@@ -6460,7 +6465,7 @@
       "Name": "The Krogan",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_49",
@@ -6500,7 +6505,7 @@
       "Name": "Battlemaster",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_53",
@@ -6532,7 +6537,7 @@
       "Name": "Fade Away",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_57",
@@ -6548,7 +6553,7 @@
       "Name": "The Cure",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_59",
@@ -6572,7 +6577,7 @@
       "Name": "Treason",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_61",
@@ -6580,7 +6585,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_62",
@@ -6684,7 +6689,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "achievement_74",
@@ -6692,7 +6697,7 @@
       "Name": "Power Full",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "achievement_75",
@@ -6716,7 +6721,7 @@
       "Name": "Digital Exorcist",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_78",
@@ -6724,7 +6729,7 @@
       "Name": "Heart of Darkness",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_79",
@@ -6915,19 +6920,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 2877,
+      "Progressed": 2878,
       "Completed": 9
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 2877,
+      "Progressed": 2878,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:00:19.9710341+00:00",
-  "LastUpdate_AppInfo": "2023-12-17T01:49:58.4660143+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:53:15.6066201+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:00:19.9711968+00:00"
+  "LastChanged_Achievements": "2023-12-24T02:35:09.8940459+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
+  "LastUpdate_Ratings": "2023-12-24T02:28:18.741457+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:35:09.8942076+00:00"
 }

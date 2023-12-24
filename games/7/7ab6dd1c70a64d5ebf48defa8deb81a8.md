@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 54.00% | ~613 |
-| Trinity | 24.00% | ~272 |
+| Trinity | 25.00% | ~284 |
 | Find Allies | 19.00% | ~216 |
 | A Taste of Wrath | 19.00% | ~216 |
 | I Found It | 19.00% | ~216 |
@@ -41,7 +41,7 @@
 | All That Gold | 0.60% | ~7 |
 | Feeling Fancy | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,135 (Ranked 272)  
+Progressed: 1,136 (Ranked 272)  
 Completed: 3 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 3 (0.26%) (Ranked 262)
 | 2023-12-21 | 998 | 3 |
 | 2023-12-22 | 1,066 | 3 |
 | 2023-12-23 | 1,128 | 3 |
-| 2023-12-24 | 1,135 | 3 |
+| 2023-12-24 | 1,136 | 3 |

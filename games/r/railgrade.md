@@ -1,31 +1,31 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,176 |
-| Before the Downfall | 101.00% | ~18,272 |
-| Money like Water | 99.00% | ~17,910 |
-| Minimalist | 97.00% | ~17,548 |
-| Builder | 89.00% | ~16,101 |
-| Eraser | 76.00% | ~13,749 |
-| Pocket of Trains | 71.00% | ~12,845 |
+| Trevithick's Legacy | 106.00% | ~19,175 |
+| Before the Downfall | 101.00% | ~18,271 |
+| Money like Water | 99.00% | ~17,909 |
+| Minimalist | 97.00% | ~17,547 |
+| Builder | 89.00% | ~16,100 |
+| Eraser | 76.00% | ~13,748 |
+| Pocket of Trains | 71.00% | ~12,844 |
 | Inspector | 64.00% | ~11,578 |
-| Going the Distance | 58.00% | ~10,493 |
-| Oil Baron | 46.00% | ~8,322 |
-| Loads-a-Money | 46.00% | ~8,322 |
+| Going the Distance | 58.00% | ~10,492 |
+| Oil Baron | 46.00% | ~8,321 |
+| Loads-a-Money | 46.00% | ~8,321 |
 | Helper of the People | 42.00% | ~7,598 |
-| Simplification | 37.00% | ~6,694 |
-| Box of Trains | 36.00% | ~6,513 |
+| Simplification | 37.00% | ~6,693 |
+| Box of Trains | 36.00% | ~6,512 |
 | Let There be Light | 35.00% | ~6,332 |
 | Hot Water | 33.00% | ~5,970 |
 | Indecisive | 32.00% | ~5,789 |
 | The scenic route | 30.00% | ~5,427 |
-| Industrialist | 27.00% | ~4,885 |
-| Perfectionist | 25.00% | ~4,523 |
-| Trains over Pipes | 25.00% | ~4,523 |
+| Industrialist | 27.00% | ~4,884 |
+| Perfectionist | 25.00% | ~4,522 |
+| Trains over Pipes | 25.00% | ~4,522 |
 | 8K is Enough for Everyone | 24.00% | ~4,342 |
 | Man of Steel | 18.00% | ~3,256 |
 | Room Full of Trains | 14.00% | ~2,533 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 512)
 | Overdeer | 0.60% | ~109 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,091 (Ranked 152)  
+Progressed: 18,090 (Ranked 152)  
 Completed: 27 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

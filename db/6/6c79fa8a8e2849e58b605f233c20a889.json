@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3080,
+  "EOS_Progressed": 3081,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8259,6 +8259,11 @@
       "Time": "2023-12-23T22:10:16.3410514+00:00",
       "NumProgressed": 3080,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T02:34:51.3771019+00:00",
+      "NumProgressed": 3081,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8302,7 +8307,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -8374,7 +8379,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "GUARD_MAKER",
@@ -8445,14 +8450,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3080,
+      "Progressed": 3081,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-12-24T01:59:55.8872858+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:34:51.3771014+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:18.9258605+00:00",
-  "LastUpdate_Ratings": "2023-12-24T01:51:08.0385757+00:00",
-  "LastUpdate_Achievements": "2023-12-24T01:59:55.8873402+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:24:59.0503668+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:34:51.377149+00:00"
 }
