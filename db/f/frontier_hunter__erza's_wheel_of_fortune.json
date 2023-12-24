@@ -4,8 +4,8 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
@@ -2197,6 +2197,11 @@
       "Time": "2023-12-23T22:09:36.1272201+00:00",
       "NumProgressed": 654,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T04:09:36.9973183+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2208,7 +2213,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2246,9 +2251,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2336,7 +2341,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2360,7 +2365,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2368,7 +2373,7 @@
       "Name": "Trader",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2392,7 +2397,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2400,7 +2405,7 @@
       "Name": "Boss challenge",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2438,9 +2443,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -2464,7 +2469,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2480,7 +2485,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2552,7 +2557,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2567,7 +2572,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 2
     }
   ],
@@ -2575,8 +2580,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:09:34.5713643+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:09:36.9973179+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:59:26.3062912+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:09:34.5714014+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:00:07.1278137+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:09:36.9973633+00:00"
 }

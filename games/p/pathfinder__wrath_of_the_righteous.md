@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,422 |
+| Devoured by Darkness | 27.00% | ~3,423 |
 | A Spark | 19.00% | ~2,408 |
-| Burning City | 18.00% | ~2,281 |
+| Burning City | 18.00% | ~2,282 |
 | Defender's Heart | 16.00% | ~2,028 |
 | Mythic Choices | 15.00% | ~1,901 |
-| Banner over the Citadel | 14.00% | ~1,774 |
+| Banner over the Citadel | 14.00% | ~1,775 |
 | Queen's Gratitude | 12.00% | ~1,521 |
 | Fifth Crusade | 9.00% | ~1,141 |
 | Embrace of the Abyss | 7.00% | ~887 |
 | Path of the Angel | 7.00% | ~887 |
 | Demonic and Divine | 7.00% | ~887 |
-| Great Upstart | 6.00% | ~760 |
-| All Paths Open | 6.00% | ~760 |
+| Great Upstart | 6.00% | ~761 |
+| All Paths Open | 6.00% | ~761 |
 | Path of the Azata | 5.00% | ~634 |
 | Transformation | 5.00% | ~634 |
 | The Legacy | 5.00% | ~634 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~344 |
 | The Lady of the Forest | 3.00% | ~344 |
 | Beware Still Water | 3.00% | ~344 |
-| Path of the Demon | 2.00% | ~253 |
-| Path of the Aeon | 2.00% | ~253 |
-| Your First Big Enemy | 2.00% | ~253 |
-| Truly Important Deed | 2.00% | ~253 |
+| Path of the Demon | 2.00% | ~254 |
+| Path of the Aeon | 2.00% | ~254 |
+| Your First Big Enemy | 2.00% | ~254 |
+| Truly Important Deed | 2.00% | ~254 |
 | Stay Underground | 2.00% | ~229 |
 | The Final Threshold | 1.00% | ~127 |
 | Path of the Dragon | 1.00% | ~127 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,674 (Ranked 169)  
+Progressed: 12,676 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 12,584 | 0 |
 | 2023-12-22 | 12,617 | 0 |
 | 2023-12-23 | 12,670 | 0 |
-| 2023-12-24 | 12,674 | 0 |
+| 2023-12-24 | 12,676 | 0 |
 ## Awards
 Max (Character Customization): 1,767  (Ranked 124)  
 Sum: 7,163 (Ranked 123)  

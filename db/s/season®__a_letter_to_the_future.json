@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1692,
-  "EOS_Completed": 64,
+  "EOS_Progressed": 1693,
+  "EOS_Completed": 65,
   "EOS_NewPlayers": 261,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.78,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3639,6 +3639,11 @@
       "Time": "2023-12-24T03:10:10.5996072+00:00",
       "NumProgressed": 1692,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-24T04:10:28.2719004+00:00",
+      "NumProgressed": 1693,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 16,
@@ -3730,7 +3735,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -3738,7 +3743,7 @@
       "Name": "Outside World Seer",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3777,16 +3782,16 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1692,
-      "Completed": 64
+      "Progressed": 1693,
+      "Completed": 65
     }
   ],
   "FirstSeen": "2023-02-01T02:21:53.1981765+00:00",
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:10.5996067+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:28.2718999+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:59:16.3758277+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:10.5996359+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:59:51.6585396+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:28.2719298+00:00"
 }

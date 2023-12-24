@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 1136,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2320,9 +2320,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_09",
@@ -2520,9 +2520,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_35",
@@ -2559,8 +2559,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:25.1644853+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:47.6627226+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:59:39.5960809+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:25.164517+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:00:27.7518862+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:47.6627528+00:00"
 }

@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26913,
+  "EOS_Progressed": 26914,
   "EOS_Completed": 498,
   "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 3,
@@ -27054,6 +27054,11 @@
       "Time": "2023-12-24T03:09:02.5967721+00:00",
       "NumProgressed": 26913,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-12-24T04:08:52.0509385+00:00",
+      "NumProgressed": 26914,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 20,
@@ -27097,7 +27102,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -27185,7 +27190,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20454
+      "UsersEstimate": 20455
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27217,22 +27222,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 26913,
+      "Progressed": 26914,
       "Completed": 498
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:09:02.5967719+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:08:52.0509379+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:59:26.2351953+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:09:02.5968994+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:00:06.9912434+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:08:52.0510688+00:00"
 }

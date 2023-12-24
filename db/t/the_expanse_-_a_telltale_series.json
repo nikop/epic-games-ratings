@@ -6,7 +6,7 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17241,
+  "EOS_Progressed": 17247,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14931,6 +14931,11 @@
       "Time": "2023-12-24T03:06:54.6734716+00:00",
       "NumProgressed": 17241,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-24T04:07:59.9819194+00:00",
+      "NumProgressed": 17247,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14959,7 +14964,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "12",
@@ -14967,7 +14972,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "13",
@@ -14975,7 +14980,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "14",
@@ -14991,7 +14996,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "16",
@@ -14999,7 +15004,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "17",
@@ -15007,7 +15012,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "18",
@@ -15063,7 +15068,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "24",
@@ -15095,7 +15100,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "28",
@@ -15151,7 +15156,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "7",
@@ -15175,7 +15180,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "31",
@@ -15222,22 +15227,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17241,
+      "Progressed": 17247,
       "Completed": 50
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3195,
-      "Completed": 1015
+      "Progressed": 3201,
+      "Completed": 1016
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:06:54.6734713+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:07:59.9819189+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:34.2525298+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:06:54.6735479+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:58:48.8354537+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:07:59.9820178+00:00"
 }

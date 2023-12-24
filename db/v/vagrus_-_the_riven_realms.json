@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -916,6 +916,11 @@
       "Time": "2023-12-23T16:06:18.3780851+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T04:04:02.3641132+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -981,9 +986,9 @@
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1543,7 +1548,7 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1607,7 +1612,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1718,7 +1723,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
@@ -1726,8 +1731,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:04:04.9881411+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:04:02.3641127+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:57:42.7789522+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:04:04.9882665+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:57:33.8637182+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:04:02.3642346+00:00"
 }

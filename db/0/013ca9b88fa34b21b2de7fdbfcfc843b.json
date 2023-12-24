@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8620,
+  "EOS_Progressed": 8622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8975,6 +8975,11 @@
       "Time": "2023-12-24T02:00:15.2159039+00:00",
       "NumProgressed": 8620,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T04:10:49.2181277+00:00",
+      "NumProgressed": 8622,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9257,9 +9262,9 @@
       "ID": "UPGRADE_ONESKILLMAX",
       "SetID": "9eia0f5",
       "Name": "Skilled",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -9321,22 +9326,22 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8620,
+      "Progressed": 8622,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1237,
+      "Progressed": 1239,
       "Completed": 1050
     }
   ],
@@ -9344,8 +9349,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:26.0565377+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:49.2181272+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:03:49.4175258+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:26.056616+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:03:37.6274485+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:49.2182067+00:00"
 }

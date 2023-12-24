@@ -2,12 +2,12 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 58,
+  "Ranking_Rating": 59,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1679,
+  "EOS_Progressed": 1680,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 5.42,
   "EosHistory": [
@@ -5046,6 +5046,11 @@
       "Time": "2023-12-24T02:33:43.2027893+00:00",
       "NumProgressed": 1679,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-12-24T04:08:50.5332543+00:00",
+      "NumProgressed": 1680,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 25,
@@ -5105,7 +5110,7 @@
       "Name": "Open door",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5121,7 +5126,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5177,7 +5182,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5201,7 +5206,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5217,7 +5222,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "PROGRESS_N2",
@@ -5231,9 +5236,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 521
     },
     {
       "ID": "PROGRESS_N4",
@@ -5256,7 +5261,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1679,
+      "Progressed": 1680,
       "Completed": 91
     }
   ],
@@ -5264,8 +5269,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:09:01.5192373+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:08:50.5332538+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:00:26.5414992+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:09:01.5192699+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:01:37.5116811+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:08:50.533297+00:00"
 }

@@ -1,18 +1,18 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.10 (Ranked 988)  
+Rating: 4.10 (Ranked 989)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,947 |
-| Unlocked Potential | 10.00% | ~4,497 |
+| Attachments | 11.00% | ~4,948 |
+| Unlocked Potential | 10.00% | ~4,498 |
 | Tinkerer | 8.00% | ~3,598 |
 | Knock 'Em Dead | 7.00% | ~3,148 |
 | Pilgrimage: Initiate | 7.00% | ~3,148 |
 | Hell of a Run | 7.00% | ~3,148 |
-| Leapfrogger | 6.00% | ~2,698 |
-| Call of the Fount: Baptized | 6.00% | ~2,698 |
+| Leapfrogger | 6.00% | ~2,699 |
+| Call of the Fount: Baptized | 6.00% | ~2,699 |
 | Stuck | 5.00% | ~2,249 |
 | No Mercy | 5.00% | ~2,249 |
 | Explorer: Seeker | 5.00% | ~2,249 |
@@ -22,12 +22,12 @@ Rating: 4.10 (Ranked 988)
 | The Interloper | 3.00% | ~1,349 |
 | Hop, Step, Jump | 3.00% | ~1,349 |
 | Endless Runner | 3.00% | ~1,349 |
-| What Must Be Done | 2.00% | ~899 |
-| Might and Main | 2.00% | ~899 |
-| Damned If You Do... | 2.00% | ~899 |
-| Explorer: Pathfinder | 2.00% | ~899 |
-| Shocker | 2.00% | ~899 |
-| From Every Angle | 2.00% | ~899 |
+| What Must Be Done | 2.00% | ~900 |
+| Might and Main | 2.00% | ~900 |
+| Damned If You Do... | 2.00% | ~900 |
+| Explorer: Pathfinder | 2.00% | ~900 |
+| Shocker | 2.00% | ~900 |
+| From Every Angle | 2.00% | ~900 |
 | The Hue of Blue | 1.00% | ~450 |
 | The Truth Will Out | 1.00% | ~450 |
 | Breaking Point | 1.00% | ~450 |
@@ -59,7 +59,7 @@ Rating: 4.10 (Ranked 988)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,973 (Ranked 121)  
+Progressed: 44,978 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 3 (0.01%) (Ranked 365)
 | 2023-12-21 | 44,679 | 3 |
 | 2023-12-22 | 44,804 | 3 |
 | 2023-12-23 | 44,956 | 3 |
-| 2023-12-24 | 44,973 | 3 |
+| 2023-12-24 | 44,978 | 3 |
 ## Awards
-Max (Character Customization): 33  (Ranked 505)  
-Sum: 33 (Ranked 526)  
+Max (Character Customization): 33  (Ranked 506)  
+Sum: 33 (Ranked 527)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |

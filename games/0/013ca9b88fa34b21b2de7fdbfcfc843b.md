@@ -17,15 +17,15 @@ Rating: 4.63 (Ranked 353)
 | Mist Walker | 0.80% | ~69 |
 | Clear the Air | 0.70% | ~60 |
 | Lumberjack | 0.70% | ~60 |
+| Exit Through The Gift Shop | 0.70% | ~9 |
 | Search for the Hairy Grell | 0.60% | ~52 |
 | Oui, Chef! | 0.60% | ~52 |
-| Exit Through The Gift Shop | 0.60% | ~7 |
 | Higher Tax Bracket | 0.50% | ~43 |
+| Skilled | 0.50% | ~43 |
 | Flaming Hot Completos | 0.40% | ~34 |
 | Beach Comber | 0.40% | ~34 |
 | Botanical Breakthrough | 0.40% | ~34 |
 | Azorian Anniversary | 0.40% | ~34 |
-| Skilled | 0.40% | ~34 |
 | Fae Farmer | 0.30% | ~26 |
 | Fanatical Farmer | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,620 (Ranked 182)  
+Progressed: 8,622 (Ranked 182)  
 Completed: 1 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.01%) (Ranked 365)
 | 2023-12-21 | 8,577 | 1 |
 | 2023-12-22 | 8,600 | 1 |
 | 2023-12-23 | 8,616 | 1 |
-| 2023-12-24 | 8,620 | 1 |
+| 2023-12-24 | 8,622 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

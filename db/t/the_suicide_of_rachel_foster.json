@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -4133,8 +4133,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:06:53.4225194+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:07:58.1476195+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:21.5191836+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:35.5516235+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:06:53.4225473+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:58:50.8241222+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:07:58.1476468+00:00"
 }

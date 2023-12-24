@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2352,
+  "EOS_Progressed": 2354,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3798,6 +3798,11 @@
       "Time": "2023-12-23T22:04:25.3775608+00:00",
       "NumProgressed": 2352,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T04:04:37.8750667+00:00",
+      "NumProgressed": 2354,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3817,7 +3822,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ACHV_03",
@@ -3825,7 +3830,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHV_04",
@@ -3977,7 +3982,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHV_23",
@@ -3985,7 +3990,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACHV_24",
@@ -4009,7 +4014,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1860
     },
     {
       "ID": "ACHV_27",
@@ -4073,7 +4078,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHV_35",
@@ -4081,7 +4086,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHV_36",
@@ -4097,7 +4102,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHV_38",
@@ -4113,7 +4118,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACHV_40",
@@ -4129,7 +4134,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACHV_42",
@@ -4161,7 +4166,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHV_46",
@@ -4264,7 +4269,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2352,
+      "Progressed": 2354,
       "Completed": 13
     }
   ],
@@ -4272,8 +4277,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:04:30.4965108+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:04:37.8750662+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:07.737355+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:04:30.4965658+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:58:11.7350753+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:04:37.8751576+00:00"
 }

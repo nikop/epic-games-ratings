@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 496)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 0.80% | ~18 |
+| Complete Guard Faction | 0.90% | ~20 |
 | The Bright Fir | 0.80% | ~7 |
 | Become King | 0.70% | ~16 |
 | End of the Mozis | 0.60% | ~14 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 496)
 | Complete Arena Faction | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 231)  
+Progressed: 2,275 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-12-21 | 2,266 | 12 |
 | 2023-12-22 | 2,269 | 12 |
 | 2023-12-23 | 2,274 | 12 |
+| 2023-12-24 | 2,275 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

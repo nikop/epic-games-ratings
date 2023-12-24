@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2023-12-23T09:05:57.1418255+00:00",
       "NumProgressed": 217,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T04:08:09.5141688+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -871,7 +876,7 @@
       "Name": "Administrator",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -885,9 +890,9 @@
       "ID": "TINGWD_BEATEM",
       "SetID": "c0imaa6",
       "Name": "This is not a Beat\u0027em up",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "TINGWD_BLUEMOON",
@@ -919,7 +924,7 @@
       "Name": "To infinity and beyond!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -935,7 +940,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -949,9 +954,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -959,15 +964,15 @@
       "Name": "The end of the ordeal",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -991,7 +996,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -999,7 +1004,7 @@
       "Name": "Private Detective",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1023,7 +1028,7 @@
       "Name": "Headshot",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1047,7 +1052,7 @@
       "Name": "Have you no shame?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1071,7 +1076,7 @@
       "Name": "One Punch Man",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1101,9 +1106,9 @@
       "ID": "TINGWD_SHIFUMI_LOSE",
       "SetID": "c0imaa6",
       "Name": "Roshambo Addict",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "TINGWD_SHOOT",
@@ -1142,14 +1147,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:07:01.3989966+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:08:09.5141682+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:59:43.8968218+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:07:01.3990153+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:00:34.7519077+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:08:09.5141948+00:00"
 }

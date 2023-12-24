@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2916,
+  "EOS_Progressed": 2917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7117,6 +7117,11 @@
       "Time": "2023-12-24T00:04:17.9668548+00:00",
       "NumProgressed": 2916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T04:05:09.4593205+00:00",
+      "NumProgressed": 2917,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7193,7 +7198,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -7209,7 +7214,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -7265,7 +7270,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -7289,7 +7294,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -7305,7 +7310,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -7353,7 +7358,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -7433,7 +7438,7 @@
       "Name": "Champagne Spray",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7441,7 +7446,7 @@
       "Name": "Rounding Off",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -7449,7 +7454,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -7520,14 +7525,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2916,
+      "Progressed": 2917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:04:53.3571387+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:05:09.45932+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:03:14.6494539+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:04:53.3572126+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:02:48.5614983+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:05:09.4593891+00:00"
 }

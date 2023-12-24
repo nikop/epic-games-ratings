@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -744,6 +744,11 @@
       "Time": "2023-12-24T01:55:53.1053907+00:00",
       "NumProgressed": 379,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T04:06:26.2682913+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -795,7 +800,7 @@
       "Name": "Prisoner",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -809,9 +814,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -827,7 +832,7 @@
       "Name": "Adventurer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -851,7 +856,7 @@
       "Name": "Wild Ox",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -875,14 +880,14 @@
       "Name": "Magic Ball",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 4
     }
   ],
@@ -890,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:05:48.1789349+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:06:26.268291+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:38.7969974+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:59:07.6321257+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:05:48.1789461+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:59:37.5315022+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:06:26.2683045+00:00"
 }

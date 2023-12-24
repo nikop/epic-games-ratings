@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2190,7 +2190,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15916,
+  "EOS_Progressed": 15917,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -18235,6 +18235,11 @@
       "Time": "2023-12-24T03:10:24.997562+00:00",
       "NumProgressed": 15916,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T04:10:48.0228264+00:00",
+      "NumProgressed": 15917,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18700,9 +18705,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -19612,9 +19617,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -19684,9 +19689,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
       "SetID": "9201eeb",
       "Name": "Necropolis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -20060,9 +20065,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -21109,21 +21114,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15916,
+      "Progressed": 15917,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15916,
+      "Progressed": 15917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-24T01:52:51.4909286+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:24.9975617+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:48.0228258+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:03:33.9404484+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:24.9985501+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:03:14.6778251+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:48.023844+00:00"
 }

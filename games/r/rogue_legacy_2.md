@@ -1,18 +1,18 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.85 (Ranked 42)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 5.00% | ~1,324 |
-| Captain and Crew | 4.00% | ~1,059 |
-| No Harm in Looking | 4.00% | ~1,059 |
+| Spells and Swords | 5.00% | ~1,325 |
+| Captain and Crew | 4.00% | ~1,060 |
+| No Harm in Looking | 4.00% | ~1,060 |
 | Harvest and Home | 3.00% | ~795 |
+| Hands and Hammers | 2.00% | ~530 |
 | Poise and Poisons | 2.00% | ~530 |
 | Suns and Soldiers | 2.00% | ~530 |
-| Hands and Hammers | 1.00% | ~265 |
 | King and Kin | 1.00% | ~265 |
 | Progenitor and Protégé | 1.00% | ~265 |
 | Prequel to the Sequel | 1.00% | ~265 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,487 (Ranked 141)  
+Progressed: 26,496 (Ranked 141)  
 Completed: 35 (0.13%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 35 (0.13%) (Ranked 294)
 | 2023-12-21 | 26,118 | 35 |
 | 2023-12-22 | 26,293 | 35 |
 | 2023-12-23 | 26,474 | 35 |
-| 2023-12-24 | 26,487 | 35 |
+| 2023-12-24 | 26,496 | 35 |
 ## Awards
 Max (Extremely Fun): 224  (Ranked 284)  
 Sum: 1,706 (Ranked 225)  

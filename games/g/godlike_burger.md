@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~175,535 |
-| FIRST BLOOD | 40.00% | ~156,031 |
-| KEVIN! | 30.00% | ~117,023 |
-| JACK OF ALL TRADES | 23.00% | ~89,718 |
-| CRIMINAL | 20.00% | ~78,015 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~42,908 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,107 |
-| HONORS STUDENT | 8.00% | ~31,206 |
-| BUTCHER | 6.00% | ~23,405 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,504 |
-| RAMBO | 5.00% | ~19,504 |
-| HELL'S KITCHEN | 4.00% | ~15,603 |
-| CELEBRITY | 3.00% | ~11,702 |
-| MARTYR | 3.00% | ~11,702 |
+| MASTER CHEF | 45.00% | ~175,546 |
+| FIRST BLOOD | 40.00% | ~156,041 |
+| KEVIN! | 30.00% | ~117,031 |
+| JACK OF ALL TRADES | 23.00% | ~89,724 |
+| CRIMINAL | 20.00% | ~78,021 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~42,911 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,109 |
+| HONORS STUDENT | 8.00% | ~31,208 |
+| BUTCHER | 6.00% | ~23,406 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,505 |
+| RAMBO | 5.00% | ~19,505 |
+| HELL'S KITCHEN | 4.00% | ~15,604 |
+| CELEBRITY | 3.00% | ~11,703 |
+| MARTYR | 3.00% | ~11,703 |
 | GRATITUDE | 2.00% | ~7,802 |
 | PATTY-KILLER | 2.00% | ~7,802 |
 | EXPERIMENTALIST | 1.00% | ~3,901 |
@@ -27,14 +27,14 @@ Rating: 4.50 (Ranked 602)
 | PRUDENT | 1.00% | ~3,901 |
 | SCATTERBRAIN | 0.80% | ~3,121 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,731 |
-| TASTE UNTASTY | 0.50% | ~1,950 |
+| TASTE UNTASTY | 0.50% | ~1,951 |
 | DEBTOR | 0.20% | ~780 |
 | I'VE SEEN SOME… | 0.20% | ~780 |
 | CORRUPTIONIST | 0.10% | ~390 |
 | MISTER ALL THUMBS | 0.10% | ~390 |
 | TRAVELER | 0.10% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390,077 (Ranked 47)  
+Progressed: 390,103 (Ranked 47)  
 Completed: 53 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 53 (0.01%) (Ranked 365)
 | 2023-12-21 | 388,640 | 53 |
 | 2023-12-22 | 389,257 | 53 |
 | 2023-12-23 | 389,967 | 53 |
-| 2023-12-24 | 390,077 | 53 |
+| 2023-12-24 | 390,103 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

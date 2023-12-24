@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.56 (Ranked 1,066)  
+Rating: 3.56 (Ranked 1,067)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,7 +40,7 @@ Rating: 3.56 (Ranked 1,066)
 | Block Party | 0.90% | ~18 |
 | Check, Please! | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
-| Curious Finch | 0.80% | ~16 |
+| Curious Finch | 0.90% | ~18 |
 | What Lies Below | 0.50% | ~10 |
 | Empty Nest Syndrome | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |

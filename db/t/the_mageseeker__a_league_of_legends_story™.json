@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2998,
+  "EOS_Progressed": 2999,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -5042,6 +5042,11 @@
       "Time": "2023-12-24T03:05:20.8750656+00:00",
       "NumProgressed": 2998,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-24T04:05:47.9570402+00:00",
+      "NumProgressed": 2999,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -5061,7 +5066,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -5093,7 +5098,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -5101,7 +5106,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -5117,7 +5122,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5133,7 +5138,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5157,7 +5162,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5165,7 +5170,7 @@
       "Name": "I chose my shackles",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5173,7 +5178,7 @@
       "Name": "Past trauma",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -5189,7 +5194,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -5229,7 +5234,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5237,7 +5242,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5269,7 +5274,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5277,7 +5282,7 @@
       "Name": "Thornbarrow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5285,7 +5290,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5293,7 +5298,7 @@
       "Name": "Devineur",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -5389,7 +5394,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -5397,7 +5402,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -5461,7 +5466,7 @@
       "Name": "Ancient power",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -5469,14 +5474,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2998,
+      "Progressed": 2999,
       "Completed": 16
     }
   ],
@@ -5484,8 +5489,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:05:20.8750654+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:05:47.9570399+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:57:36.1011952+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:05:20.8751174+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:57:23.7652881+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:05:47.9570891+00:00"
 }

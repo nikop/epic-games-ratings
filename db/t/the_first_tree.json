@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 1017,
+  "Ranking_Rating": 1018,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 128,
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39400,
+  "EOS_Progressed": 39402,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21841,6 +21841,11 @@
       "Time": "2023-12-24T03:06:17.8546077+00:00",
       "NumProgressed": 39400,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-24T04:07:07.5162128+00:00",
+      "NumProgressed": 39402,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -21868,7 +21873,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10244
+      "UsersEstimate": 10245
     },
     {
       "ID": "allItems",
@@ -21940,7 +21945,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30338
+      "UsersEstimate": 30340
     },
     {
       "ID": "roots",
@@ -21963,15 +21968,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39400,
+      "Progressed": 39402,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:06:17.8546075+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:07:07.5162123+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:57:28.7247085+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:06:17.8547179+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:57:12.098289+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:07:07.5163408+00:00"
 }

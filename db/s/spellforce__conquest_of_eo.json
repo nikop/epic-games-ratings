@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -562,17 +562,17 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "HeroStory_Elynn",
@@ -963,8 +963,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:09:41.6993985+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:09:46.9820533+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:52.8584208+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:09:41.6994631+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:59:16.7289885+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:09:46.9821022+00:00"
 }

@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Break Out | 54.00% | ~613 |
 | Trinity | 25.00% | ~284 |
+| A Taste of Wrath | 20.00% | ~227 |
+| The Collector | 20.00% | ~227 |
 | Find Allies | 19.00% | ~216 |
-| A Taste of Wrath | 19.00% | ~216 |
 | I Found It | 19.00% | ~216 |
-| The Collector | 19.00% | ~216 |
 | Geared Up | 18.00% | ~204 |
 | Adventurer | 17.00% | ~193 |
 | Shatter Them All | 17.00% | ~193 |

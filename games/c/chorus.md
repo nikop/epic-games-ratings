@@ -14,14 +14,14 @@ Number of Ratings: 58  (23.09.2022)
 | Shields Down | 70.00% | ~940 |
 | Helping Hand | 66.00% | ~886 |
 | Safe Home | 65.00% | ~873 |
-| Paragon | 61.00% | ~819 |
+| Paragon | 62.00% | ~833 |
 | Old Days Born Anew | 60.00% | ~806 |
 | Full Arsenal | 55.00% | ~739 |
 | Controlled Demolition | 54.00% | ~725 |
 | Payback | 52.00% | ~698 |
 | Huntress | 51.00% | ~685 |
 | Born to Drift | 50.00% | ~672 |
-| Relentless | 47.00% | ~631 |
+| Relentless | 48.00% | ~645 |
 | The Path Forward | 44.00% | ~591 |
 | Disruption | 43.00% | ~577 |
 | Phoenix | 43.00% | ~577 |
@@ -35,9 +35,9 @@ Number of Ratings: 58  (23.09.2022)
 | Time to Spear | 31.00% | ~416 |
 | Disciple | 30.00% | ~403 |
 | Mastery of Weapons | 29.00% | ~389 |
+| Two Birds | 26.00% | ~349 |
 | Uneasy Alliance | 25.00% | ~336 |
 | Ghosts | 25.00% | ~336 |
-| Two Birds | 25.00% | ~336 |
 | Mastery of Combat | 23.00% | ~309 |
 | Retaliate | 22.00% | ~295 |
 | Mastery of Rites | 21.00% | ~282 |
@@ -251,8 +251,8 @@ Completed: 18 (1.34%) (Ranked 153)
 | 2023-12-23 | 1,342 | 18 |
 | 2023-12-24 | 1,343 | 18 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 494)  
-Sum: 34 (Ranked 519)  
+Max (Great Boss Battles): 34  (Ranked 495)  
+Sum: 34 (Ranked 520)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

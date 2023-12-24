@@ -1,23 +1,23 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.15 (Ranked 969)  
+Rating: 4.15 (Ranked 970)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,636 |
-| Disposing of the Evidence | 38.00% | ~3,954 |
-| Without a Scratch | 34.00% | ~3,538 |
-| Wreckless Driving | 28.00% | ~2,913 |
-| A Marked Man | 25.00% | ~2,601 |
-| Street Sweeper | 18.00% | ~1,873 |
-| Liberty City Minute | 17.00% | ~1,769 |
+| First Day on the Job | 83.00% | ~8,641 |
+| Disposing of the Evidence | 38.00% | ~3,956 |
+| Without a Scratch | 34.00% | ~3,540 |
+| Wreckless Driving | 28.00% | ~2,915 |
+| A Marked Man | 25.00% | ~2,603 |
+| Street Sweeper | 18.00% | ~1,874 |
+| Liberty City Minute | 17.00% | ~1,770 |
 | Offshore Delivery | 13.00% | ~1,353 |
 | Dirty Money | 12.00% | ~1,249 |
-| By a Mile | 10.00% | ~1,040 |
-| Not So Fast | 10.00% | ~1,040 |
-| Right-hand Man | 10.00% | ~1,040 |
-| A Gift from the King | 7.00% | ~728 |
+| By a Mile | 10.00% | ~1,041 |
+| Not So Fast | 10.00% | ~1,041 |
+| Right-hand Man | 10.00% | ~1,041 |
+| A Gift from the King | 7.00% | ~729 |
 | Full Artillery | 4.00% | ~416 |
 | Mob Boss | 3.00% | ~312 |
 | Escape Artist | 2.00% | ~208 |
@@ -35,7 +35,7 @@ Rating: 4.15 (Ranked 969)
 | Is That All You've Got? | 0.90% | ~94 |
 | King of Liberty City | 0.60% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,405 (Ranked 174)  
+Progressed: 10,411 (Ranked 174)  
 Completed: 66 (0.63%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 66 (0.63%) (Ranked 200)
 | 2023-12-21 | 10,133 | 64 |
 | 2023-12-22 | 10,256 | 65 |
 | 2023-12-23 | 10,392 | 66 |
-| 2023-12-24 | 10,405 | 66 |
+| 2023-12-24 | 10,411 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

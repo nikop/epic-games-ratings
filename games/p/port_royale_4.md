@@ -1,37 +1,37 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 1,015)  
+Rating: 4.03 (Ranked 1,016)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~893 |
-| My little farm | 64.00% | ~714 |
-| Every beginning is difficult | 62.00% | ~692 |
-| Gofer | 56.00% | ~625 |
+| Cabin boy | 80.00% | ~894 |
+| My little farm | 64.00% | ~715 |
+| Every beginning is difficult | 62.00% | ~693 |
+| Gofer | 56.00% | ~626 |
 | 3, 2, 1, mine | 55.00% | ~614 |
 | O Captain! My Captain! | 55.00% | ~614 |
-| Seafarer | 51.00% | ~569 |
+| Seafarer | 51.00% | ~570 |
 | Greed for gold | 43.00% | ~480 |
 | Intangible | 42.00% | ~469 |
 | I'm out of here for a while | 42.00% | ~469 |
 | In a mint condition | 38.00% | ~424 |
 | Licence to Kill | 37.00% | ~413 |
-| Pirates! | 34.00% | ~379 |
+| Pirates! | 34.00% | ~380 |
 | Collectionitis | 29.00% | ~324 |
 | Megalomania | 29.00% | ~324 |
-| Christening | 27.00% | ~301 |
+| Christening | 27.00% | ~302 |
 | Groundskeeper | 25.00% | ~279 |
 | Wholesale | 22.00% | ~246 |
-| Walk the plank | 21.00% | ~234 |
+| Walk the plank | 21.00% | ~235 |
 | Pearly gates | 18.00% | ~201 |
 | My precious! | 18.00% | ~201 |
 | Conquistador | 14.00% | ~156 |
 | Panic buying | 11.00% | ~123 |
 | Your vessel, my vessel | 10.00% | ~112 |
-| Just a scratch | 9.00% | ~100 |
-| All mine! | 9.00% | ~100 |
+| Just a scratch | 9.00% | ~101 |
+| All mine! | 9.00% | ~101 |
 | Paths of Glory | 8.00% | ~89 |
 | Panel of experts | 8.00% | ~89 |
 | Maker | 7.00% | ~78 |
@@ -41,9 +41,9 @@ Number of Ratings: 53  (23.09.2022)
 | Flying Dutchman | 5.00% | ~56 |
 | A true pirate! | 4.00% | ~45 |
 | Overpopulation | 4.00% | ~45 |
-| Premier Maître | 3.00% | ~33 |
-| Supreme conqueror | 3.00% | ~33 |
-| Master & Commander | 3.00% | ~33 |
+| Premier Maître | 3.00% | ~34 |
+| Supreme conqueror | 3.00% | ~34 |
+| Master & Commander | 3.00% | ~34 |
 | Strategist | 2.00% | ~22 |
 | The customer is always right | 2.00% | ~22 |
 | All aboard! | 2.00% | ~22 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,116 (Ranked 274)  
+Progressed: 1,117 (Ranked 274)  
 Completed: 1 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,6 +272,7 @@ Completed: 1 (0.09%) (Ranked 313)
 | 2023-12-21 | 1,108 | 1 |
 | 2023-12-22 | 1,113 | 1 |
 | 2023-12-23 | 1,116 | 1 |
+| 2023-12-24 | 1,117 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 151,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-12-24T03:10:06.0315931+00:00",
       "NumProgressed": 450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T04:10:21.8609207+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1544,7 +1549,7 @@
       "Name": "Dodo Re Mi: Paper Bladder",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DODO_RE_MI_SAX_FAMILY",
@@ -1552,7 +1557,7 @@
       "Name": "Dodo Re Mi: It\u0027s About Family",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
@@ -1584,7 +1589,7 @@
       "Name": "Hypnotorious: Galaxy Brain",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -1606,9 +1611,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1616,7 +1621,7 @@
       "Name": "FixyText: Chatterbox",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
@@ -1648,7 +1653,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1656,7 +1661,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1672,7 +1677,7 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -1695,14 +1700,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:06.0315926+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:21.8609202+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:20.6233211+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:06.0316101+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:58:29.9902682+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:21.8609428+00:00"
 }

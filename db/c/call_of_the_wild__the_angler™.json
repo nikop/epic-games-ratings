@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7451,
+  "EOS_Progressed": 7452,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12068,6 +12068,11 @@
       "Time": "2023-12-24T03:05:26.2135883+00:00",
       "NumProgressed": 7451,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T04:05:55.5713656+00:00",
+      "NumProgressed": 7452,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12077,9 +12082,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 969
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12141,9 +12146,9 @@
       "ID": "ACHIEVEMENT_009",
       "SetID": "1a05lfd",
       "Name": "Things that go Splash in the Night",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12398,13 +12403,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7451,
+      "Progressed": 7452,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6823,
+      "Progressed": 6824,
       "Completed": 113
     }
   ],
@@ -12412,8 +12417,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:05:26.213588+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:05:55.5713648+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:43.2541099+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:05:26.2136758+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:59:02.1934595+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:05:55.5714329+00:00"
 }

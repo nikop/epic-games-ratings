@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 705)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,864 |
-| This is only the beginning | 20.00% | ~46,049 |
-| Knowledge is power | 13.00% | ~29,932 |
-| Galvanic Rifle | 10.00% | ~23,025 |
-| Radium Ready | 10.00% | ~23,025 |
-| Power Ranger | 9.00% | ~20,722 |
-| Taser Goad | 9.00% | ~20,722 |
-| Half a cog | 9.00% | ~20,722 |
+| No aid from the Omnissiah | 26.00% | ~59,866 |
+| This is only the beginning | 20.00% | ~46,051 |
+| Knowledge is power | 13.00% | ~29,933 |
+| Galvanic Rifle | 10.00% | ~23,026 |
+| Radium Ready | 10.00% | ~23,026 |
+| Power Ranger | 9.00% | ~20,723 |
+| Taser Goad | 9.00% | ~20,723 |
+| Half a cog | 9.00% | ~20,723 |
 | Watch them crumble | 6.00% | ~13,815 |
 | Competent Cohort | 4.00% | ~9,210 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,210 |
 | One with the Machine | 4.00% | ~9,210 |
-| Legio Cybernetica | 3.00% | ~6,907 |
-| Fleshy Disposal | 3.00% | ~6,907 |
+| Legio Cybernetica | 3.00% | ~6,908 |
+| Fleshy Disposal | 3.00% | ~6,908 |
 | Battle Servitor | 2.00% | ~4,605 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,605 |
 | Impatient destruction | 2.00% | ~4,605 |
@@ -27,10 +27,10 @@ Rating: 4.43 (Ranked 705)
 | Cohortus Maximus | 0.80% | ~1,842 |
 | Mother of Xenarites | 0.40% | ~921 |
 | False God | 0.30% | ~691 |
-| Hard | 0.20% | ~460 |
-| Sensory overload | 0.20% | ~460 |
-| Transonic Blur | 0.20% | ~460 |
-| Not the Men-of-Iron | 0.20% | ~460 |
+| Hard | 0.20% | ~461 |
+| Sensory overload | 0.20% | ~461 |
+| Transonic Blur | 0.20% | ~461 |
+| Not the Men-of-Iron | 0.20% | ~461 |
 | Sterile Perfection | 0.10% | ~230 |
 | Impossible | 0.10% | ~230 |
 | Melee Machine | 0.10% | ~230 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 705)
 | Perma-live | 0.10% | ~230 |
 | Purge the Heretek | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,247 (Ranked 73)  
+Progressed: 230,255 (Ranked 73)  
 Completed: 5 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 5 (0.00%) (Ranked 388)
 | 2023-12-21 | 230,014 | 5 |
 | 2023-12-22 | 230,113 | 5 |
 | 2023-12-23 | 230,230 | 5 |
-| 2023-12-24 | 230,247 | 5 |
+| 2023-12-24 | 230,255 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 260)  
 Sum: 2,214 (Ranked 209)  

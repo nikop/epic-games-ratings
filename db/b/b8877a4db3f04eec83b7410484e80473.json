@@ -4,7 +4,7 @@
   "ProductSlug": "railbreak-f87a0c",
   "Ranking_EOS_Progress": 652,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "MAIN_STREET_ACH",
       "SetID": "af7amn3",
       "Name": "Main Street",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MEDICAL_EXCELLENCE_ACH",
@@ -165,9 +165,9 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PARK_PICNIC_ACH",
@@ -229,9 +229,9 @@
       "ID": "THE_LAST_SHOT_BAR_ACH",
       "SetID": "af7amn3",
       "Name": "The Last Shot Bar",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "THE_MAYOR_ACH",
@@ -245,17 +245,17 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "THE_SINGER_ACH",
       "SetID": "af7amn3",
       "Name": "The Singer",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "THE_STUDENT_ACH",
@@ -283,8 +283,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:08:51.6094904+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:08:36.7329157+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:07.1314256+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:57:51.5392133+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:08:51.6095028+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:57:47.33045+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:08:36.7329301+00:00"
 }

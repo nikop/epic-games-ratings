@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1103,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2929,6 +2929,11 @@
       "Time": "2023-12-23T22:07:18.8368211+00:00",
       "NumProgressed": 1103,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T04:08:14.5187139+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3141,7 +3146,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Mnemosyne",
@@ -3157,7 +3162,7 @@
       "Name": "Museum Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MuseumVisitor",
@@ -3205,7 +3210,7 @@
       "Name": "Persistent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PrometheusUnbound",
@@ -3221,7 +3226,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3253,7 +3258,7 @@
       "Name": "Signatory",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "SingleRod",
@@ -3301,7 +3306,7 @@
       "Name": "The All-Gifted",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3412,7 +3417,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1103,
+      "Progressed": 1104,
       "Completed": 2
     }
   ],
@@ -3420,8 +3425,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:07:04.8925176+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:08:14.5187135+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:58:02.9966226+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:07:04.8925656+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:58:04.0218901+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:08:14.518771+00:00"
 }

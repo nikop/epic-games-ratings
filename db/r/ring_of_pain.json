@@ -3748,9 +3748,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241559,
+  "EOS_Progressed": 241566,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29293,6 +29293,11 @@
       "Time": "2023-12-24T03:10:30.6249438+00:00",
       "NumProgressed": 241559,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T04:10:54.7966413+00:00",
+      "NumProgressed": 241566,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29424,7 +29429,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -29494,9 +29499,9 @@
       "ID": "DIETOGRAVESTONE",
       "SetID": "5l8oe0h",
       "Name": "Dig Your Own Grave",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1449
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -29704,7 +29709,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "KILL1000",
@@ -29952,7 +29957,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "PETRIFY50",
@@ -30120,7 +30125,7 @@
       "Name": "An Offering",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -30407,13 +30412,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241559,
+      "Progressed": 241566,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3039,
+      "Progressed": 3046,
       "Completed": 411
     }
   ],
@@ -30421,8 +30426,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:30.6249434+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:54.7966407+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:57:38.2142567+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:30.6252181+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:57:26.8667581+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:54.7968985+00:00"
 }

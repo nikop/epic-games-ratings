@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 513,
-  "Ranking_Popularity": 491,
+  "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 299,
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4190,
+  "EOS_Progressed": 4191,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6866,6 +6866,11 @@
       "Time": "2023-12-24T03:08:44.5951858+00:00",
       "NumProgressed": 4190,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T04:08:27.1277796+00:00",
+      "NumProgressed": 4191,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6877,7 +6882,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "AceDetective_9",
@@ -6901,7 +6906,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6947,9 +6952,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 922
+      "UsersEstimate": 880
     },
     {
       "ID": "ForAllAurai_8",
@@ -7061,7 +7066,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7101,7 +7106,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7141,7 +7146,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7212,15 +7217,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4190,
+      "Progressed": 4191,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:08:44.5951853+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:08:27.1277791+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:03:30.1602468+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:08:44.5952435+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:03:09.5044102+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:08:27.1278367+00:00"
 }

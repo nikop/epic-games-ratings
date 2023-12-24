@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 0.80% | ~1 |
 | Against All Odds | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 450)  
+Progressed: 126 (Ranked 451)  
 Completed: 1 (0.79%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,8 +60,8 @@ Completed: 1 (0.79%) (Ranked 190)
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 126 | 1 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 494)  
-Sum: 34 (Ranked 519)  
+Max (Great Boss Battles): 34  (Ranked 495)  
+Sum: 34 (Ranked 520)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

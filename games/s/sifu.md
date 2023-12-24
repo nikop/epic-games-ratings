@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,679 |
-| The Assault | 3.00% | ~22,259 |
-| Life is your teacher | 3.00% | ~22,259 |
-| Lightning Hands | 3.00% | ~22,259 |
-| The Hateful Pole Fighter | 2.00% | ~14,840 |
-| Stuntmaster | 2.00% | ~14,840 |
-| Street Fighting | 2.00% | ~14,840 |
-| State of constant learning | 2.00% | ~14,840 |
-| Qi Gong: Essence | 2.00% | ~14,840 |
-| Old Child | 2.00% | ~14,840 |
+| The Old Grandmaster | 4.00% | ~29,682 |
+| The Assault | 3.00% | ~22,261 |
+| Life is your teacher | 3.00% | ~22,261 |
+| Lightning Hands | 3.00% | ~22,261 |
+| The Hateful Pole Fighter | 2.00% | ~14,841 |
+| Stuntmaster | 2.00% | ~14,841 |
+| Street Fighting | 2.00% | ~14,841 |
+| State of constant learning | 2.00% | ~14,841 |
+| Qi Gong: Essence | 2.00% | ~14,841 |
+| Old Child | 2.00% | ~14,841 |
 | A Lady's Blood in the Snow | 1.00% | ~7,420 |
 | Lady Wing Chun | 1.00% | ~7,420 |
 | Furious Fists | 1.00% | ~7,420 |
@@ -34,7 +34,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.70% | ~359 |
 | Martial Hub | 0.60% | ~308 |
 | Muk Yan Master | 0.50% | ~3,710 |
-| Bloody Sport | 0.50% | ~256 |
+| Bloody Sport | 0.50% | ~257 |
 | Tiger on Fire | 0.40% | ~2,968 |
 | Source of Flying Daggers | 0.40% | ~2,968 |
 | Iron Money | 0.40% | ~2,968 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~51 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,976 (Ranked 23)  
+Progressed: 742,039 (Ranked 23)  
 Completed: 12,961 (1.75%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 12,961 (1.75%) (Ranked 141)
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
-| 2023-12-24 | 741,976 | 12,961 |
+| 2023-12-24 | 742,039 | 12,961 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
-Sum: 12,278 (Ranked 84)  
+Sum: 12,280 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): -29
 | This game is Highly Recommended | 594 |
 | This game has Quickly Understood Controls | 589 |
 | This game is Extremely Fun | 577 |
-| This game has Unique Visuals | 569 |
+| This game has Unique Visuals | 571 |
 | This game has a Creative Community | 436 |
 | This game is Relaxing | 401 |
 | This game has Obsessive Gameplay | 293 |
@@ -677,3 +677,4 @@ Diff (max vs sum): -29
 | 2023-12-21 | 4.82 | - | 6,978 | 11,797 |
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
 | 2023-12-23 | 4.82 | - | 6,999 | 12,278 |
+| 2023-12-24 | 4.82 | - | 6,999 | 12,280 |

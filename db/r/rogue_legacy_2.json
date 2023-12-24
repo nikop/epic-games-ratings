@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 41,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 141,
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26487,
+  "EOS_Progressed": 26496,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1672,
+  "EOS_NewPlayers": 1660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11637,6 +11637,11 @@
       "Time": "2023-12-24T03:10:09.4759782+00:00",
       "NumProgressed": 26487,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-24T04:10:26.7345158+00:00",
+      "NumProgressed": 26496,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11712,7 +11717,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11728,7 +11733,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11742,9 +11747,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 530
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -11840,7 +11845,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "EndTimerFail",
@@ -11959,21 +11964,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26487,
+      "Progressed": 26496,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5417,
+      "Progressed": 5426,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-24T03:10:09.4759778+00:00",
+  "LastChanged_Achievements": "2023-12-24T04:10:26.7345154+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:00:23.7902165+00:00",
-  "LastUpdate_Achievements": "2023-12-24T03:10:09.4760348+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:01:34.1239931+00:00",
+  "LastUpdate_Achievements": "2023-12-24T04:10:26.734576+00:00"
 }
