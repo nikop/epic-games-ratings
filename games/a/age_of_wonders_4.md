@@ -5,13 +5,13 @@ Rating: 4.62 (Ranked 373)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~553 |
+| Secret Technique | 9.00% | ~554 |
 | Realm Estate | 8.00% | ~492 |
-| A Wonderful Discovery | 7.00% | ~430 |
-| Walls Cannot Stop Us | 7.00% | ~430 |
+| A Wonderful Discovery | 7.00% | ~431 |
+| Walls Cannot Stop Us | 7.00% | ~431 |
 | From Friends to Family | 6.00% | ~369 |
-| Bone Peddler | 5.00% | ~307 |
-| But this one is mine | 5.00% | ~307 |
+| Bone Peddler | 5.00% | ~308 |
+| But this one is mine | 5.00% | ~308 |
 | There Can Only Be One! | 4.00% | ~246 |
 | Full Ascension | 4.00% | ~246 |
 | Stronger Together | 4.00% | ~246 |
@@ -36,16 +36,16 @@ Rating: 4.62 (Ranked 373)
 | Sehiran Oasis | 2.00% | ~123 |
 | Chaos Surge | 2.00% | ~123 |
 | Spoils of War | 2.00% | ~123 |
-| God Emperor | 1.00% | ~61 |
-| Arch Mage | 1.00% | ~61 |
-| The Creator | 1.00% | ~61 |
-| Eternal Lord | 1.00% | ~61 |
-| The Eternal Court | 1.00% | ~61 |
-| Blood of the Dragon | 1.00% | ~61 |
-| Prometheus Avenged | 1.00% | ~61 |
-| Seal the Deal | 1.00% | ~61 |
-| A Conqueror's Cohort | 1.00% | ~61 |
-| Dawn of the Dread | 1.00% | ~61 |
+| God Emperor | 1.00% | ~62 |
+| Arch Mage | 1.00% | ~62 |
+| The Creator | 1.00% | ~62 |
+| Eternal Lord | 1.00% | ~62 |
+| The Eternal Court | 1.00% | ~62 |
+| Blood of the Dragon | 1.00% | ~62 |
+| Prometheus Avenged | 1.00% | ~62 |
+| Seal the Deal | 1.00% | ~62 |
+| A Conqueror's Cohort | 1.00% | ~62 |
+| Dawn of the Dread | 1.00% | ~62 |
 | Lord of Chaos | 0.90% | ~55 |
 | The Goddess of Nature | 0.90% | ~55 |
 | I've Got Everything I Need Right Here | 0.80% | ~49 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,147 (Ranked 193)  
+Progressed: 6,150 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,147 | 7 |
+| 2023-12-24 | 6,150 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
 Sum: 136 (Ranked 438)  

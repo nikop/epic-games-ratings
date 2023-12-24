@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.54 (Ranked 531)
 | Big Spender | 39.00% | ~310 |
 | That's gotta hurt | 37.00% | ~295 |
 | I think it's broke | 27.00% | ~215 |
-| The Ann Flores Combo Experience | 26.00% | ~207 |
+| The Ann Flores Combo Experience | 27.00% | ~215 |
 | Club Star | 25.00% | ~199 |
 | Fire in the hole! | 21.00% | ~167 |
 | Omnipotence | 20.00% | ~159 |

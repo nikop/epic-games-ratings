@@ -2,10 +2,10 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -722,9 +722,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "Botropolis",
@@ -802,9 +802,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "ManicMechanic",
@@ -818,9 +818,9 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "MineSweeper",
@@ -890,9 +890,9 @@
       "ID": "SteamingRich",
       "SetID": "4bd750m",
       "Name": "Steaming Rich",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "Systematic",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:05:55.5179796+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:07:28.4477037+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:02:52.7897175+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:05:55.5179963+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:03:30.4267896+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:07:28.4477211+00:00"
 }

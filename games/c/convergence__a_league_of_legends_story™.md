@@ -13,17 +13,17 @@ Rating: 4.65 (Ranked 320)
 | The Prince in Heels | 24.00% | ~262 |
 | The Brass Boss | 24.00% | ~262 |
 | Time Flies | 23.00% | ~251 |
+| The Harder They Fall | 23.00% | ~251 |
 | No, Thanks! | 23.00% | ~251 |
 | Honest Mistake | 23.00% | ~251 |
 | Fast Learner | 23.00% | ~251 |
 | Immaculate Aim | 23.00% | ~251 |
 | The Steel Shadow | 22.00% | ~240 |
-| The Harder They Fall | 22.00% | ~240 |
 | Breaking Down Barriers | 22.00% | ~240 |
 | The Wicked Twins | 22.00% | ~240 |
+| Like Clockwork | 21.00% | ~229 |
 | Golem Chaser | 21.00% | ~229 |
 | Right On Time | 20.00% | ~218 |
-| Like Clockwork | 20.00% | ~218 |
 | The Betrayer | 20.00% | ~218 |
 | Check Your Pulse | 20.00% | ~218 |
 | The Loose Cannon | 19.00% | ~207 |

@@ -201,6 +201,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One nation to rule them all | 0.10% | ~483 |
 | One Night in Paris | 0.10% | ~483 |
 | Over a Thousand! | 0.10% | ~483 |
+| Pandya Empire | 0.10% | ~483 |
 | Parisian Pasha | 0.10% | ~483 |
 | Pick Your Poison | 0.10% | ~483 |
 | Pirate Bay of Janjira | 0.10% | ~483 |
@@ -341,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
-| Pandya Empire | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,293 (Ranked 40)  
+Progressed: 483,323 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,15 +618,15 @@ Completed: 1 (0.00%) (Ranked 388)
 | 2023-12-21 | 480,795 | 1 |
 | 2023-12-22 | 481,537 | 1 |
 | 2023-12-23 | 482,495 | 1 |
-| 2023-12-24 | 483,293 | 1 |
+| 2023-12-24 | 483,323 | 1 |
 ## Awards
 Max (Educational): 7,548  (Ranked 54)  
-Sum: 62,165 (Ranked 24)  
+Sum: 62,191 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,548 |
-| This game has Diverse Characters | 7,345 |
+| This game has Diverse Characters | 7,371 |
 | This game is Highly Recommended | 7,235 |
 | This game has Challenging Combat | 7,165 |
 | This game is Extremely Fun | 7,073 |
@@ -979,4 +979,4 @@ Diff (max vs sum): 30
 | 2023-12-21 | 4.69 | - | 7,483 | 61,681 |
 | 2023-12-22 | 4.69 | - | 7,506 | 61,841 |
 | 2023-12-23 | 4.69 | - | 7,528 | 62,021 |
-| 2023-12-24 | 4.69 | - | 7,548 | 62,165 |
+| 2023-12-24 | 4.69 | - | 7,548 | 62,191 |

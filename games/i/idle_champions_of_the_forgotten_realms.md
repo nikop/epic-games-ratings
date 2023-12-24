@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,442 |
+| A Brief Tour of the Realms | 1.00% | ~2,443 |
 | Welcome to Sigil | 0.70% | ~1,474 |
-| The Cursed Farmer | 0.60% | ~1,465 |
+| The Cursed Farmer | 0.60% | ~1,466 |
 | Fast Food | 0.60% | ~1,263 |
 | Beast Intentions | 0.50% | ~1,221 |
 | The Mad Wizard | 0.40% | ~977 |
@@ -22,12 +22,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.30% | ~632 |
 | Don't Lose Your Head | 0.30% | ~632 |
 | Mind Spike | 0.30% | ~632 |
-| Were-verpowered | 0.20% | ~488 |
-| A Persistent Buzzing | 0.20% | ~488 |
-| Seeking Allies | 0.20% | ~488 |
-| Mad Cow Disease | 0.20% | ~488 |
-| Friendly Imps | 0.20% | ~488 |
-| Pure Energy | 0.20% | ~488 |
+| Were-verpowered | 0.20% | ~489 |
+| A Persistent Buzzing | 0.20% | ~489 |
+| Seeking Allies | 0.20% | ~489 |
+| Mad Cow Disease | 0.20% | ~489 |
+| Friendly Imps | 0.20% | ~489 |
+| Pure Energy | 0.20% | ~489 |
 | Arcane Suppression | 0.20% | ~421 |
 | Welcome to the Vrocks | 0.20% | ~421 |
 | Maddening | 0.10% | ~244 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,247 (Ranked 67)  
+Progressed: 244,263 (Ranked 67)  
 Completed: 2,558 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -801,15 +801,15 @@ Completed: 2,558 (1.05%) (Ranked 168)
 | 2023-12-21 | 242,962 | 2,553 |
 | 2023-12-22 | 243,457 | 2,556 |
 | 2023-12-23 | 243,900 | 2,557 |
-| 2023-12-24 | 244,247 | 2,558 |
+| 2023-12-24 | 244,263 | 2,558 |
 ## Awards
 Max (Great for Beginners): 5,684  (Ranked 71)  
-Sum: 33,052 (Ranked 41)  
+Sum: 33,057 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,684 |
-| This game has Diverse Characters | 5,636 |
+| This game has Diverse Characters | 5,641 |
 | This game has Quickly Understood Controls | 4,854 |
 | This game is Relaxing | 4,740 |
 | This game has Amazing Characters | 4,281 |
@@ -1150,4 +1150,4 @@ Diff (max vs sum): 30
 | 2023-12-21 | 4.06 | - | 5,669 | 32,996 |
 | 2023-12-22 | 4.06 | - | 5,676 | 33,016 |
 | 2023-12-23 | 4.06 | - | 5,684 | 33,046 |
-| 2023-12-24 | 4.06 | - | 5,684 | 33,052 |
+| 2023-12-24 | 4.06 | - | 5,684 | 33,057 |

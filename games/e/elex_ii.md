@@ -6,8 +6,8 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 26.00% | ~23 |
-| Best Buddy | 25.00% | ~22 |
+| Entrepreneur | 27.00% | ~24 |
+| Best Buddy | 26.00% | ~23 |
 | Role Model | 22.00% | ~19 |
 | Civilian | 17.00% | ~15 |
 | Military Leader | 14.00% | ~12 |
@@ -21,13 +21,13 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 7.00% | ~6 |
 | Pass A38 | 7.00% | ~6 |
 | Hotshot | 6.00% | ~5 |
+| Alb | 6.00% | ~5 |
 | Eternal Oblivion | 6.00% | ~5 |
 | Storyteller | 5.00% | ~4 |
 | Globetrotter | 5.00% | ~4 |
 | Self-Sufficient | 5.00% | ~4 |
 | Free as a Bird | 5.00% | ~4 |
 | Unbreakable | 5.00% | ~4 |
-| Alb | 5.00% | ~4 |
 | Cleric | 3.00% | ~3 |
 | Idealist | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |

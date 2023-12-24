@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1951,7 +1951,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16615,
+  "EOS_Progressed": 16632,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 5,
@@ -17466,6 +17466,11 @@
       "Time": "2023-12-24T21:09:39.46499+00:00",
       "NumProgressed": 16615,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-24T22:10:30.8151616+00:00",
+      "NumProgressed": 16632,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 35,
@@ -17477,7 +17482,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13458
+      "UsersEstimate": 13472
     },
     {
       "ID": "ACH02",
@@ -17485,7 +17490,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH03",
@@ -17493,7 +17498,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH04",
@@ -17509,7 +17514,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH06",
@@ -17517,7 +17522,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH07",
@@ -17525,7 +17530,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3160
     },
     {
       "ID": "ACH08",
@@ -17533,7 +17538,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8308
+      "UsersEstimate": 8316
     },
     {
       "ID": "ACH09",
@@ -17541,7 +17546,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH10",
@@ -17549,7 +17554,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH11",
@@ -17557,7 +17562,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACH12",
@@ -17565,7 +17570,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH13",
@@ -17573,7 +17578,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2994
     },
     {
       "ID": "ACH14",
@@ -17581,7 +17586,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH15",
@@ -17597,7 +17602,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2661
     },
     {
       "ID": "ACH17",
@@ -17605,7 +17610,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH18",
@@ -17613,7 +17618,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH19",
@@ -17621,7 +17626,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACH20",
@@ -17629,7 +17634,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH21",
@@ -17645,7 +17650,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACH23",
@@ -17653,7 +17658,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4154
+      "UsersEstimate": 4158
     },
     {
       "ID": "ACH24",
@@ -17677,7 +17682,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH27",
@@ -17685,7 +17690,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH28",
@@ -17693,7 +17698,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1331
     },
     {
       "ID": "ACH29",
@@ -17701,7 +17706,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2495
     },
     {
       "ID": "ACH30",
@@ -17709,7 +17714,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH31",
@@ -17725,7 +17730,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH33",
@@ -17749,14 +17754,14 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16615,
+      "Progressed": 16632,
       "Completed": 63
     }
   ],
@@ -17764,8 +17769,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-24T15:02:05.0467908+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:39.4649895+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:10:30.815161+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:00:33.508613+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:39.465179+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:01:34.6746418+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:10:30.8152472+00:00"
 }

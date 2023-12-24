@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24850,
+  "EOS_Progressed": 24851,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -8070,6 +8070,11 @@
       "Time": "2023-12-24T21:05:51.1660658+00:00",
       "NumProgressed": 24850,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T22:07:22.7701951+00:00",
+      "NumProgressed": 24851,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8129,7 +8134,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -8241,7 +8246,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -8432,13 +8437,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24850,
+      "Progressed": 24851,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2143,
+      "Progressed": 2144,
       "Completed": 1376
     }
   ],
@@ -8446,8 +8451,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:05:51.1660655+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:07:22.7701947+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:02:31.178596+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:05:51.1661323+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:03:00.1923685+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:07:22.7702476+00:00"
 }

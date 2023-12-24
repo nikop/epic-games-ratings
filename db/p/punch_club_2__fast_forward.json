@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 461,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -2198,9 +2198,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 318
     },
     {
       "ID": "own_home",
@@ -2278,9 +2278,9 @@
       "ID": "resistance_slime",
       "SetID": "69co12a",
       "Name": "Anyone can resist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "resistance_true",
@@ -2389,8 +2389,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:14.8821503+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:09:59.8015957+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:59:28.2099301+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:14.8822021+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:00:08.8156431+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:09:59.8380915+00:00"
 }

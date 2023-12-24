@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 86.00% | ~153 |
+| Mathematic | 87.00% | ~155 |
 | Digging a Hole | 76.00% | ~135 |
-| It's Yours, My Friend | 73.00% | ~130 |
+| It's Yours, My Friend | 74.00% | ~132 |
 | Conducted Trade | 66.00% | ~117 |
 | Going Places | 66.00% | ~117 |
-| Aristocratic | 62.00% | ~110 |
+| Aristocratic | 63.00% | ~112 |
 | Tutti Frutti | 57.00% | ~101 |
 | Gotta Go Fast | 44.00% | ~78 |
 | Systematic | 43.00% | ~77 |
@@ -21,8 +21,8 @@
 | Whoa! | 27.00% | ~48 |
 | Botropolis | 23.00% | ~41 |
 | Steam Powered | 17.00% | ~30 |
+| Steaming Rich | 17.00% | ~30 |
 | Manic Mechanic | 16.00% | ~28 |
-| Steaming Rich | 16.00% | ~28 |
 | Room To Spare | 13.00% | ~23 |
 | Stack Overflow | 4.00% | ~7 |
 | Click 'Em All | 3.00% | ~5 |
@@ -33,7 +33,7 @@
 | Yup. | 0.60% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 418)  
+Progressed: 178 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

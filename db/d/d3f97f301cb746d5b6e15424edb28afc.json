@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4079,9 +4079,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1059
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -4143,9 +4143,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1059
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -4448,8 +4448,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:05:03.405419+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:06:20.8017954+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:33.5846629+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:05:03.4055207+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:37.8368337+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:06:20.8018815+00:00"
 }

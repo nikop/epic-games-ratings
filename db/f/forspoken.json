@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45081,
+  "EOS_Progressed": 45088,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16314,6 +16314,11 @@
       "Time": "2023-12-24T21:04:39.9947809+00:00",
       "NumProgressed": 45081,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T22:05:51.1922036+00:00",
+      "NumProgressed": 45088,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16341,7 +16346,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -16357,7 +16362,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16373,7 +16378,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16389,7 +16394,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -16461,7 +16466,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "CRAFT_ALL",
@@ -16477,7 +16482,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16501,7 +16506,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "JUSTCOUNTER",
@@ -16533,7 +16538,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "LOCATION_TEN",
@@ -16629,7 +16634,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "PARKOUR_TIME",
@@ -16653,7 +16658,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -16661,7 +16666,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "SPRING_ALL",
@@ -16748,22 +16753,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45081,
+      "Progressed": 45088,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9918,
-      "Completed": 9918
+      "Progressed": 9925,
+      "Completed": 9925
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:04:39.9947806+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:05:51.1922033+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:58:55.100449+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:04:39.9948944+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:59:25.1122345+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:05:51.1922903+00:00"
 }

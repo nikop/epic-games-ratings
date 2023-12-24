@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-12-24T21:09:13.805768+00:00",
       "NumProgressed": 958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T22:09:58.4992768+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2574,7 +2579,7 @@
       "Name": "The Teleprobe",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "AchvAllMemories",
@@ -2598,7 +2603,7 @@
       "Name": "Fierce fight",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "AchvBombStop",
@@ -2606,7 +2611,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "AchvBombing",
@@ -2636,9 +2641,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 336
     },
     {
       "ID": "AchvDoom",
@@ -2654,7 +2659,7 @@
       "Name": "Evacuation",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "AchvInvShip",
@@ -2734,7 +2739,7 @@
       "Name": "Strong objection",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AchvReachBase",
@@ -2742,7 +2747,7 @@
       "Name": "The field base",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "AchvReachCamp",
@@ -2750,7 +2755,7 @@
       "Name": "The Camp",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "AchvReachCity",
@@ -2758,7 +2763,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "AchvReachCondor",
@@ -2774,7 +2779,7 @@
       "Name": "Survivors",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2790,7 +2795,7 @@
       "Name": "The End",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "AchvUnity",
@@ -2798,14 +2803,14 @@
       "Name": "Beyond divisions",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 960,
       "Completed": 0
     }
   ],
@@ -2813,8 +2818,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-24T16:57:52.2929542+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:13.8057677+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:09:58.4992765+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:20.9272414+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:13.8057976+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:20.981194+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:09:58.4993103+00:00"
 }

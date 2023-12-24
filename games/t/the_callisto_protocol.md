@@ -5,32 +5,32 @@ Rating: 4.20 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 17.00% | ~3,246 |
-| The Outer Way | 17.00% | ~3,246 |
-| Get a Grip | 15.00% | ~2,864 |
-| Paper Jams | 15.00% | ~2,864 |
-| Desperate Times | 15.00% | ~2,864 |
-| Chew 'Em Up | 13.00% | ~2,482 |
-| Float Like A Butterfly | 12.00% | ~2,291 |
-| Reforged | 12.00% | ~2,291 |
-| Workplace Hazard | 10.00% | ~1,909 |
-| If the SHU Fits... | 10.00% | ~1,909 |
-| Without A Paddle | 9.00% | ~1,718 |
+| Flesh Wound | 17.00% | ~3,248 |
+| The Outer Way | 17.00% | ~3,248 |
+| Get a Grip | 15.00% | ~2,866 |
+| Paper Jams | 15.00% | ~2,866 |
+| Desperate Times | 15.00% | ~2,866 |
+| Chew 'Em Up | 13.00% | ~2,484 |
+| Float Like A Butterfly | 12.00% | ~2,292 |
+| Reforged | 12.00% | ~2,292 |
+| Workplace Hazard | 10.00% | ~1,910 |
+| If the SHU Fits... | 10.00% | ~1,910 |
+| Without A Paddle | 9.00% | ~1,719 |
 | Two Heads Are Better Than One | 8.00% | ~1,528 |
 | In the Pipe, Five by Five | 8.00% | ~1,528 |
 | Crash Site | 8.00% | ~1,528 |
 | Terminated | 7.00% | ~1,337 |
+| What Lies Beneath | 7.00% | ~1,337 |
 | Full Circle | 7.00% | ~1,337 |
 | Power Up | 7.00% | ~1,337 |
 | Giving Back | 6.00% | ~1,146 |
 | You Need a Gun | 6.00% | ~1,146 |
 | I Do Belong Here | 6.00% | ~1,146 |
-| What Lies Beneath | 6.00% | ~1,146 |
-| Keep Fighting | 6.00% | ~421 |
-| It's Time | 5.00% | ~351 |
+| Keep Fighting | 6.00% | ~422 |
+| It's Time | 5.00% | ~352 |
 | The Commonality | 4.00% | ~764 |
 | In Striking Distance | 3.00% | ~573 |
-| One Last Job | 2.00% | ~140 |
+| One Last Job | 2.00% | ~141 |
 | Armed to the Teeth | 1.00% | ~70 |
 | Mugshot | 1.00% | ~191 |
 | Big Spender | 1.00% | ~70 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 937)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,094 (Ranked 151)  
+Progressed: 19,104 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,20 +293,20 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
-| 2023-12-24 | 19,094 | 82 |
+| 2023-12-24 | 19,104 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 378)  
-Sum: 494 (Ranked 333)  
-Diff (max vs sum): 45  
+Sum: 502 (Ranked 332)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 97 |
 | This game is Highly Recommended | 95 |
 | This game has Amazing Storytelling | 93 |
 | This game has Quickly Understood Controls | 92 |
-| This game is Extremely Fun | 82 |
+| This game is Extremely Fun | 88 |
 | This game has Challenging Combat | 68 |
-| This game has a Creative Community | 35 |
+| This game has a Creative Community | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8969,10 +8969,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33052,
       "NumberOfAwardsMax": 5684
+    },
+    {
+      "Time": "2023-12-24T21:57:00.532013+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33057,
+      "NumberOfAwardsMax": 5684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33052,
+  "NumberOfAwards": 33057,
   "NumberOfAwardsMax": 5684,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8986,7 +8992,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5636
+      "Count": 5641
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9019,9 +9025,9 @@
       "Count": 3592
     }
   ],
-  "EOS_Progressed": 244247,
+  "EOS_Progressed": 244263,
   "EOS_Completed": 2558,
-  "EOS_NewPlayers": 2729,
+  "EOS_NewPlayers": 2727,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37079,6 +37085,11 @@
       "Time": "2023-12-24T21:09:59.3508498+00:00",
       "NumProgressed": 244247,
       "NumCompleted": 2558
+    },
+    {
+      "Time": "2023-12-24T22:10:54.6455393+00:00",
+      "NumProgressed": 244263,
+      "NumCompleted": 2558
     }
   ],
   "TotalAchievements": 546,
@@ -37090,7 +37101,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "objective_completed_10",
@@ -37954,7 +37965,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_1203",
@@ -38066,7 +38077,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_130",
@@ -38762,7 +38773,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "objective_completed_34",
@@ -38882,7 +38893,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_390",
@@ -39226,7 +39237,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_54",
@@ -40306,7 +40317,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_80",
@@ -40834,7 +40845,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_902",
@@ -41457,21 +41468,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210521,
+      "Progressed": 210537,
       "Completed": 4062
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244247,
+      "Progressed": 244263,
       "Completed": 2558
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-24T20:57:04.328299+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:59.3508493+00:00",
+  "LastChanged": "2023-12-24T21:57:00.5320128+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:10:54.6455389+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:04.3282998+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:59.3532331+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:00.5320134+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:10:54.6478145+00:00"
 }

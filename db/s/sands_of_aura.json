@@ -4,8 +4,8 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -595,6 +595,11 @@
       "Time": "2023-12-24T12:03:32.5834921+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T22:04:30.2395377+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -607,7 +612,7 @@
       "Name": "Rain Must Fall",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -623,7 +628,7 @@
       "Name": "Overboard",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -711,7 +716,7 @@
       "Name": "Bladesmith",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -871,7 +876,7 @@
       "Name": "The Guardian of Fire",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -1007,7 +1012,7 @@
       "Name": "Setting Sail",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1070,7 +1075,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -1078,8 +1083,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:03:37.3690013+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:04:30.2395374+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:02:32.7815978+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:03:37.3690404+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:03:02.3447924+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:04:30.2395814+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1784,9 +1784,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 420
     },
     {
       "ID": "24_mega",
@@ -1928,8 +1928,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:04:03.9731594+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:05:04.5736357+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:00:30.1877666+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:04:03.973196+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:01:30.4200822+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:05:04.5736682+00:00"
 }

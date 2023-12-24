@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -504,6 +504,11 @@
       "Time": "2023-12-24T21:04:38.424627+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T22:05:49.0505459+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -572,7 +577,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "f2",
@@ -618,7 +623,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 62
     },
@@ -668,7 +673,7 @@
       "Name": "Infrastructure",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "jg2",
@@ -690,9 +695,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "jk2",
@@ -722,9 +727,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "jz3",
@@ -828,7 +833,7 @@
       "Name": "Against the Cold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "w2",
@@ -868,7 +873,7 @@
       "Name": "Happiness",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "zf1",
@@ -923,14 +928,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:04:38.4246267+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:05:49.0505454+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:02:33.9550546+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:04:38.4246634+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:03:03.8891649+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:05:49.050577+00:00"
 }

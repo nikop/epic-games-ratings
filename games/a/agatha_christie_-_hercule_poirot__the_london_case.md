@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marc Allard | 73.00% | ~45 |
-| Little ideas | 68.00% | ~42 |
-| The Ship | 63.00% | ~39 |
+| Little ideas | 69.00% | ~43 |
+| The Ship | 65.00% | ~40 |
 | Seeking the truth | 52.00% | ~32 |
 | An old friend | 50.00% | ~31 |
 | The Gala | 48.00% | ~30 |

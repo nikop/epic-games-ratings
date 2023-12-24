@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1277,7 +1277,7 @@
       "Count": 143
     }
   ],
-  "EOS_Progressed": 12350,
+  "EOS_Progressed": 12351,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 1727,
   "EOS_NewCompleters": 0,
@@ -7432,6 +7432,11 @@
       "Time": "2023-12-24T21:08:47.1076478+00:00",
       "NumProgressed": 12350,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-24T22:09:24.8830323+00:00",
+      "NumProgressed": 12351,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7443,7 +7448,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "Chatterbox",
@@ -7467,7 +7472,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7410
+      "UsersEstimate": 7411
     },
     {
       "ID": "DemonCastleRestoration",
@@ -7499,7 +7504,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -7579,7 +7584,7 @@
       "Name": "Quick Movements",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3582
     },
     {
       "ID": "SkeletonKing",
@@ -7595,7 +7600,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3829
     },
     {
       "ID": "TheLegendBegins",
@@ -7634,15 +7639,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 12350,
+      "Progressed": 12351,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-24T18:00:26.4994353+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:08:47.1076475+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:09:24.8830319+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:59:39.4139753+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:08:47.1077277+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:00:23.3840792+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:09:24.8830811+00:00"
 }

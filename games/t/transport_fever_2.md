@@ -37,7 +37,7 @@ Number of Ratings: 180  (23.09.2022)
 | City | 27.00% | ~578 |
 | The king of the sea | 27.00% | ~578 |
 | Transport tycoon | 22.00% | ~471 |
-| Old timer | 21.00% | ~449 |
+| Old timer | 22.00% | ~471 |
 | The ugly smell of success | 21.00% | ~449 |
 | Climate change | 20.00% | ~428 |
 | Heavily loaded | 20.00% | ~428 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,139 (Ranked 232)  
+Progressed: 2,139 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |

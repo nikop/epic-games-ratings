@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.54,
+  "EOS_Completed_Percentage": 3.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -936,6 +936,11 @@
       "Time": "2023-12-24T17:06:40.051412+00:00",
       "NumProgressed": 226,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-24T22:06:02.2543828+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -953,9 +958,9 @@
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "10",
@@ -993,9 +998,9 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "6",
@@ -1057,9 +1062,9 @@
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "15",
@@ -1082,13 +1087,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 109
     }
   ],
@@ -1096,8 +1101,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:04:48.7834439+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:06:02.2543824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.8811487+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:43.7402379+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:04:48.7834575+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:49.8034748+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:06:02.2543988+00:00"
 }

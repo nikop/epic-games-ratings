@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 458,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3754,9 +3754,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241621,
+  "EOS_Progressed": 241625,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29384,6 +29384,11 @@
       "Time": "2023-12-24T21:09:57.6138031+00:00",
       "NumProgressed": 241621,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T22:10:52.7062242+00:00",
+      "NumProgressed": 241625,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -30049,9 +30054,9 @@
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1450
     },
     {
       "ID": "PLAY10HOURS",
@@ -30498,13 +30503,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241621,
+      "Progressed": 241625,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3101,
+      "Progressed": 3105,
       "Completed": 411
     }
   ],
@@ -30512,8 +30517,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-24T20:57:36.5117904+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:57.6138026+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:10:52.7062237+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:36.511791+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:57.6140902+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:41.7775887+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:10:52.7064779+00:00"
 }

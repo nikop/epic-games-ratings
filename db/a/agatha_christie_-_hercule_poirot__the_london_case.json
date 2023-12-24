@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 62,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
@@ -354,9 +354,9 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_010",
@@ -418,9 +418,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_018",
@@ -729,8 +729,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:17.3642356+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:10:03.0574267+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:06.4117409+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:17.3642695+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:03.2189038+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:10:03.0574629+00:00"
 }

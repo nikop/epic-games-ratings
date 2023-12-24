@@ -6,18 +6,18 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,081 |
-| Ready for Winter | 62.00% | ~2,617 |
-| Ready for Summer | 49.00% | ~2,068 |
+| Venture Outward | 73.00% | ~3,082 |
+| Ready for Winter | 62.00% | ~2,618 |
+| Ready for Summer | 49.00% | ~2,069 |
 | Cordon Bleu | 42.00% | ~1,773 |
-| Tapped! | 35.00% | ~1,477 |
+| Tapped! | 35.00% | ~1,478 |
 | Eureka | 31.00% | ~1,309 |
 | Scourge Slayer | 24.00% | ~1,013 |
 | Science, Troglodyte! | 22.00% | ~929 |
-| Exceptional Skill | 21.00% | ~886 |
-| Home Sweet Home | 21.00% | ~886 |
-| Encyclopedic! | 19.00% | ~802 |
-| The Power of Family | 16.00% | ~675 |
+| Exceptional Skill | 21.00% | ~887 |
+| Home Sweet Home | 21.00% | ~887 |
+| Encyclopedic! | 18.00% | ~760 |
+| The Power of Family | 16.00% | ~676 |
 | A Fortress Toppled! | 15.00% | ~633 |
 | Apex Predator | 15.00% | ~633 |
 | The Power of Faith | 12.00% | ~507 |
@@ -26,8 +26,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ace Detective | 8.00% | ~338 |
 | Gift from the Ancestors | 8.00% | ~338 |
 | Magic is a science | 8.00% | ~338 |
-| House of Cards | 7.00% | ~295 |
-| Let ‘em eat magma! | 7.00% | ~295 |
+| House of Cards | 7.00% | ~296 |
+| Let ‘em eat magma! | 7.00% | ~296 |
 | Hold my Mead and Watch This | 6.00% | ~253 |
 | The power of ambition | 6.00% | ~253 |
 | The stuff of legends. | 6.00% | ~253 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~17 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,221 (Ranked 204)  
+Progressed: 4,222 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 5 (0.12%) (Ranked 299)
 | 2023-12-21 | 4,088 | 5 |
 | 2023-12-22 | 4,136 | 5 |
 | 2023-12-23 | 4,181 | 5 |
-| 2023-12-24 | 4,221 | 5 |
+| 2023-12-24 | 4,222 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 494)  
 Sum: 246 (Ranked 393)  

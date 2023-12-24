@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4691,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12714,
+  "EOS_Progressed": 12716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17906,6 +17906,11 @@
       "Time": "2023-12-24T21:09:56.1310529+00:00",
       "NumProgressed": 12714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T22:10:51.23262+00:00",
+      "NumProgressed": 12716,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18165,7 +18170,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18844,21 +18849,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11496,
+      "Progressed": 11498,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12714,
+      "Progressed": 12716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:56.1310525+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:10:51.2326196+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:00:04.7825488+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:56.1312361+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:00:56.0758035+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:10:51.2327755+00:00"
 }

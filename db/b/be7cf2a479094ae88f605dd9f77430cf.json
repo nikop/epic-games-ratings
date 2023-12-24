@@ -2,10 +2,10 @@
   "ID": "be7cf2a479094ae88f605dd9f77430cf",
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -155,6 +155,11 @@
       "Time": "2023-12-22T04:05:51.0788216+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T22:04:01.6746564+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-04T17:05:21.0235727+00:00",
@@ -165,7 +170,7 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -173,9 +178,9 @@
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "11",
@@ -213,7 +218,7 @@
       "ID": "15",
       "SetID": "5jnn47e",
       "Name": "I appoint you my shield-bearers",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -325,15 +330,15 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -382,14 +387,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:03:14.5578535+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:04:01.6746554+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:07.0349473+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:00:24.9399243+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:03:14.5578728+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:01:23.4748042+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:04:01.6747074+00:00"
 }

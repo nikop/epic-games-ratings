@@ -15,8 +15,8 @@
 | Fitness professional | 74.00% | ~341 |
 | Employee of the week | 74.00% | ~341 |
 | Your own amateur gym | 69.00% | ~318 |
+| Run K, run! | 69.00% | ~318 |
 | First defeat | 68.00% | ~313 |
-| Run K, run! | 68.00% | ~313 |
 | Hello, world! | 67.00% | ~309 |
 | No bullying more | 66.00% | ~304 |
 | Fighting is cool | 65.00% | ~300 |
@@ -64,9 +64,9 @@
 | Family comes first | 29.00% | ~134 |
 | Key memories | 29.00% | ~134 |
 | Careerist | 29.00% | ~134 |
+| Anyone can resist | 29.00% | ~134 |
 | The heart of the Resistance | 29.00% | ~134 |
 | The last bell ring | 28.00% | ~129 |
-| Anyone can resist | 28.00% | ~129 |
 | Silver’s past | 26.00% | ~120 |
 | Better cooking at home | 26.00% | ~120 |
 | The only right decision | 26.00% | ~120 |

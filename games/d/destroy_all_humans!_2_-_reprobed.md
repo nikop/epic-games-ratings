@@ -7,25 +7,25 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 75.00% | ~134 |
-| Mash Machine | 69.00% | ~123 |
-| Ducks in a Row, Fish in a Barrel | 49.00% | ~87 |
-| Furon Fashion | 43.00% | ~77 |
-| Shop Til They Drop | 38.00% | ~68 |
+| Mash Machine | 69.00% | ~124 |
+| Ducks in a Row, Fish in a Barrel | 50.00% | ~90 |
+| Furon Fashion | 42.00% | ~75 |
+| Shop Til They Drop | 37.00% | ~66 |
 | Bodied Sattva | 34.00% | ~61 |
 | Earthly Pleasures | 31.00% | ~55 |
-| Cult Following | 30.00% | ~53 |
+| Cult Following | 30.00% | ~54 |
 | Upgreatest | 24.00% | ~43 |
 | Lie Back and Think of Albion | 23.00% | ~41 |
 | Pimp My Raid | 22.00% | ~39 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~32 |
-| Freshly Squeezed | 16.00% | ~28 |
+| Freshly Squeezed | 16.00% | ~29 |
 | Perfect Probulator | 15.00% | ~27 |
 | Die Nasty | 15.00% | ~27 |
 | Transmitting From Sol-3 | 12.00% | ~21 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~18 |
-| Dusted | 10.00% | ~18 |
-| Fly Me to the Moon Base | 7.00% | ~12 |
-| Kaijuiced | 7.00% | ~12 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~16 |
+| Dusted | 9.00% | ~16 |
+| Fly Me to the Moon Base | 7.00% | ~13 |
+| Kaijuiced | 7.00% | ~13 |
 | Scuttled | 6.00% | ~11 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~11 |
 | Lobster Blisque | 3.00% | ~5 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 418)  
+Progressed: 179 (Ranked 416)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 147 | 0 |
 | 2023-12-22 | 154 | 0 |
 | 2023-12-23 | 168 | 0 |
-| 2023-12-24 | 178 | 0 |
+| 2023-12-24 | 179 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 488)  
 Sum: 36 (Ranked 520)  

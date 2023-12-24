@@ -1,26 +1,26 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~983,519 |
-| I Need a Bigger Garage | 63.00% | ~688,463 |
-| Pump my Ride | 47.00% | ~513,616 |
-| Ghostbuster | 34.00% | ~371,552 |
-| Call Roadside Assistance | 18.00% | ~196,704 |
-| That Was Close | 18.00% | ~196,704 |
-| Quickie | 11.00% | ~120,208 |
-| California Dreamer | 7.00% | ~76,496 |
-| Can't Touch This | 5.00% | ~54,640 |
-| Carménère Taster | 4.00% | ~43,712 |
-| Comeback | 4.00% | ~43,712 |
-| Driver from Ipanema | 3.00% | ~32,784 |
-| Supersonic | 3.00% | ~32,784 |
-| Marathonist | 3.00% | ~32,784 |
-| Living Legend | 3.00% | ~32,784 |
+| The First of Many | 90.00% | ~983,536 |
+| I Need a Bigger Garage | 63.00% | ~688,475 |
+| Pump my Ride | 47.00% | ~513,624 |
+| Ghostbuster | 34.00% | ~371,558 |
+| Call Roadside Assistance | 18.00% | ~196,707 |
+| That Was Close | 18.00% | ~196,707 |
+| Quickie | 11.00% | ~120,210 |
+| California Dreamer | 7.00% | ~76,497 |
+| Can't Touch This | 5.00% | ~54,641 |
+| Carménère Taster | 4.00% | ~43,713 |
+| Comeback | 4.00% | ~43,713 |
+| Driver from Ipanema | 3.00% | ~32,785 |
+| Supersonic | 3.00% | ~32,785 |
+| Marathonist | 3.00% | ~32,785 |
+| Living Legend | 3.00% | ~32,785 |
 | God of Roads | 2.00% | ~21,856 |
 | Pathfinder | 2.00% | ~21,856 |
 | Go-Kart Champion | 2.00% | ~21,856 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,928 |
 | Old Master | 0.90% | ~9,835 |
 | Otaku | 0.90% | ~9,835 |
-| Volcano Surfer | 0.80% | ~8,742 |
+| Volcano Surfer | 0.80% | ~8,743 |
 | Survivor | 0.60% | ~6,557 |
 | King of the World | 0.60% | ~6,557 |
 | Getting Famous | 0.50% | ~5,464 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,186 |
 | Transporter | 0.10% | ~1,093 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,092,799 (Ranked 14)  
+Progressed: 1,092,818 (Ranked 14)  
 Completed: 519 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 519 (0.05%) (Ranked 335)
 | 2023-12-21 | 1,090,638 | 515 |
 | 2023-12-22 | 1,091,255 | 515 |
 | 2023-12-23 | 1,092,037 | 519 |
-| 2023-12-24 | 1,092,799 | 519 |
+| 2023-12-24 | 1,092,818 | 519 |
 ## Awards
 Max (Great for Beginners): 181  (Ranked 306)  
-Sum: 1,604 (Ranked 234)  
+Sum: 1,605 (Ranked 234)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +305,7 @@ Diff (max vs sum): 72
 | This game has Quickly Understood Controls | 147 |
 | This game is Relaxing | 144 |
 | This game is Highly Recommended | 139 |
-| This game has Competitive Players | 128 |
+| This game has Competitive Players | 129 |
 | This game has Playful Visuals | 128 |
 | This game is Extremely Fun | 127 |
 | This game has Amazing Storytelling | 111 |
@@ -590,3 +590,4 @@ Diff (max vs sum): 72
 | 2023-12-21 | 4.55 | - | 179 | 1,598 |
 | 2023-12-22 | 4.55 | - | 179 | 1,602 |
 | 2023-12-23 | 4.54 | - | 181 | 1,604 |
+| 2023-12-24 | 4.54 | - | 181 | 1,605 |

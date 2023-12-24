@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3126,6 +3126,11 @@
       "Time": "2023-12-24T20:08:09.9842406+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T22:07:53.3326767+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3137,7 +3142,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH001",
@@ -3193,7 +3198,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH008",
@@ -3201,7 +3206,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH009",
@@ -3217,7 +3222,7 @@
       "Name": "Conglomerate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH011",
@@ -3319,9 +3324,9 @@
       "ID": "ACH023",
       "SetID": "69nfp41",
       "Name": "Gofer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH024",
@@ -3377,7 +3382,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH031",
@@ -3425,7 +3430,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH037",
@@ -3536,15 +3541,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:06:14.7629712+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:07:53.3326763+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.1308306+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:00.5724375+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:06:14.7630162+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:56:56.1689891+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:07:53.3327245+00:00"
 }

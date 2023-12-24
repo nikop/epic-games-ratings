@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -53,7 +53,7 @@
   "Tags": [],
   "EOS_Progressed": 1090,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3153,9 +3153,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 229
     },
     {
       "ID": "ClovemaryGift",
@@ -3353,9 +3353,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 251
     },
     {
       "ID": "ParryRepeated1",
@@ -3538,8 +3538,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:09:46.0637022+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:10:39.3116036+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:57:45.2840067+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:09:46.0637511+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:57:52.2822682+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:10:39.3116468+00:00"
 }

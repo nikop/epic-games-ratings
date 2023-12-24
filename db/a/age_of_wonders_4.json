@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6147,
+  "EOS_Progressed": 6150,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9062,6 +9062,11 @@
       "Time": "2023-12-24T21:07:31.4482115+00:00",
       "NumProgressed": 6147,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T22:08:26.7446851+00:00",
+      "NumProgressed": 6150,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9129,7 +9134,7 @@
       "Name": "God Emperor",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "17",
@@ -9145,7 +9150,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "19",
@@ -9153,7 +9158,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "2",
@@ -9177,7 +9182,7 @@
       "Name": "Eternal Lord",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "22",
@@ -9193,7 +9198,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "24",
@@ -9201,7 +9206,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "25",
@@ -9209,7 +9214,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "26",
@@ -9217,7 +9222,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "27",
@@ -9337,7 +9342,7 @@
       "Name": "The Eternal Court",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "40",
@@ -9449,7 +9454,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "49",
@@ -9489,7 +9494,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "54",
@@ -9505,7 +9510,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "56",
@@ -9513,7 +9518,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "57",
@@ -9529,7 +9534,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "59",
@@ -9537,7 +9542,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "60",
@@ -9552,13 +9557,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6147,
+      "Progressed": 6150,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6147,
+      "Progressed": 6150,
       "Completed": 7
     }
   ],
@@ -9566,8 +9571,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:07:31.448211+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:08:26.7446846+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:59:00.8503096+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:07:31.4482946+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:59:32.068326+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:08:26.7447698+00:00"
 }

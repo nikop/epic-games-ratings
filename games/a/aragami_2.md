@@ -1,37 +1,37 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 531)  
+Rating: 4.54 (Ranked 532)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,380 |
-| First Steps | 80.00% | ~35,596 |
-| Control the Shadows | 67.00% | ~29,812 |
-| Tools of the Trade | 63.00% | ~28,032 |
-| Apprentice | 60.00% | ~26,697 |
-| Secret Seeker | 57.00% | ~25,362 |
-| Forge of Assassins | 55.00% | ~24,472 |
-| Revenant | 52.00% | ~23,137 |
-| I don’t Care! | 45.00% | ~20,023 |
-| Bird of Prey | 37.00% | ~16,463 |
-| Engraved with Power | 32.00% | ~14,238 |
-| Lady | 31.00% | ~13,793 |
+| Awakening | 93.00% | ~41,383 |
+| First Steps | 80.00% | ~35,598 |
+| Control the Shadows | 67.00% | ~29,814 |
+| Tools of the Trade | 63.00% | ~28,034 |
+| Apprentice | 60.00% | ~26,699 |
+| Secret Seeker | 57.00% | ~25,364 |
+| Forge of Assassins | 55.00% | ~24,474 |
+| Revenant | 52.00% | ~23,139 |
+| I don’t Care! | 45.00% | ~20,024 |
+| Bird of Prey | 37.00% | ~16,464 |
+| Engraved with Power | 32.00% | ~14,239 |
+| Lady | 31.00% | ~13,794 |
 | Fashionable Assassin | 27.00% | ~12,014 |
-| Apex Predator | 24.00% | ~10,679 |
-| Soul Reaver | 23.00% | ~10,234 |
-| Embers | 22.00% | ~9,789 |
-| Wall Lizard | 20.00% | ~8,899 |
-| Clinging to Life | 18.00% | ~8,009 |
-| Burning | 17.00% | ~7,564 |
-| Look Behind You | 16.00% | ~7,119 |
-| Sleeping on the Job | 16.00% | ~7,119 |
-| Family | 14.00% | ~6,229 |
-| War Engines | 14.00% | ~6,229 |
-| Signature Move | 14.00% | ~6,229 |
-| Ruse | 12.00% | ~5,339 |
-| Master Ninja | 11.00% | ~4,894 |
+| Apex Predator | 24.00% | ~10,680 |
+| Soul Reaver | 23.00% | ~10,235 |
+| Embers | 22.00% | ~9,790 |
+| Wall Lizard | 20.00% | ~8,900 |
+| Clinging to Life | 18.00% | ~8,010 |
+| Burning | 17.00% | ~7,565 |
+| Look Behind You | 16.00% | ~7,120 |
+| Sleeping on the Job | 16.00% | ~7,120 |
+| Family | 14.00% | ~6,230 |
+| War Engines | 14.00% | ~6,230 |
+| Signature Move | 14.00% | ~6,230 |
+| Ruse | 12.00% | ~5,340 |
+| Master Ninja | 11.00% | ~4,895 |
 | Hatching | 10.00% | ~4,450 |
 | Bonds | 9.00% | ~4,005 |
 | Get Over Here | 9.00% | ~4,005 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~890 |
 | Legacy | 2.00% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,495 (Ranked 124)  
+Progressed: 44,498 (Ranked 124)  
 Completed: 247 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 247 (0.56%) (Ranked 206)
 | 2023-12-21 | 44,423 | 247 |
 | 2023-12-22 | 44,443 | 247 |
 | 2023-12-23 | 44,471 | 247 |
-| 2023-12-24 | 44,495 | 247 |
+| 2023-12-24 | 44,498 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

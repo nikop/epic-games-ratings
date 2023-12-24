@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8469,9 +8469,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 743193,
+  "EOS_Progressed": 743212,
   "EOS_Completed": 12963,
-  "EOS_NewPlayers": 10230,
+  "EOS_NewPlayers": 10217,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -30764,6 +30764,11 @@
       "Time": "2023-12-24T21:08:41.095898+00:00",
       "NumProgressed": 743193,
       "NumCompleted": 12963
+    },
+    {
+      "Time": "2023-12-24T22:09:17.3389555+00:00",
+      "NumProgressed": 743212,
+      "NumCompleted": 12963
     }
   ],
   "TotalAchievements": 60,
@@ -31127,7 +31132,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31151,7 +31156,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -31159,7 +31164,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -31175,7 +31180,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -31183,7 +31188,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -31199,7 +31204,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -31207,7 +31212,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -31215,7 +31220,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "57_Arena_Car",
@@ -31223,7 +31228,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "58_Arena_Music",
@@ -31239,7 +31244,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -31247,28 +31252,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 52494,
+      "Progressed": 52513,
       "Completed": 10782
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 743193,
+      "Progressed": 743212,
       "Completed": 12963
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-24T16:03:13.8335778+00:00",
-  "LastChanged_Achievements": "2023-12-24T21:08:41.0958977+00:00",
+  "LastChanged_Achievements": "2023-12-24T22:09:17.3389551+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-24T21:02:40.7572923+00:00",
-  "LastUpdate_Achievements": "2023-12-24T21:08:41.0960541+00:00"
+  "LastUpdate_Ratings": "2023-12-24T22:03:14.0105836+00:00",
+  "LastUpdate_Achievements": "2023-12-24T22:09:17.3391015+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,715 |
-| Gun Fu | 8.00% | ~78,476 |
-| The Fool | 7.00% | ~68,667 |
-| Right Back At Ya | 6.00% | ~58,857 |
-| The Lovers | 6.00% | ~58,857 |
+| V for Vendetta | 12.00% | ~117,716 |
+| Gun Fu | 8.00% | ~78,478 |
+| The Fool | 7.00% | ~68,668 |
+| Right Back At Ya | 6.00% | ~58,858 |
+| The Lovers | 6.00% | ~58,858 |
 | Full Body Conversion | 5.00% | ~49,048 |
 | True Soldier | 5.00% | ~49,048 |
-| Christmas Tree Attack | 4.00% | ~39,238 |
-| Stanislavski's Method | 4.00% | ~39,238 |
-| The Hermit | 4.00% | ~39,238 |
-| The Wheel of Fortune | 4.00% | ~39,238 |
-| All the President's Men | 4.00% | ~4,383 |
-| Arachnophobia | 4.00% | ~4,383 |
+| Christmas Tree Attack | 4.00% | ~39,239 |
+| Stanislavski's Method | 4.00% | ~39,239 |
+| The Hermit | 4.00% | ~39,239 |
+| The Wheel of Fortune | 4.00% | ~39,239 |
+| All the President's Men | 4.00% | ~4,384 |
+| Arachnophobia | 4.00% | ~4,384 |
+| Master Crafter | 3.00% | ~29,429 |
 | The Quick and the Dead | 3.00% | ~29,429 |
 | Life of the Road | 3.00% | ~29,429 |
 | The High Priestess | 3.00% | ~29,429 |
 | True Warrior | 3.00% | ~29,429 |
 | Legend of The Afterlife | 3.00% | ~29,429 |
-| Relic Ruler | 3.00% | ~3,287 |
+| Relic Ruler | 3.00% | ~3,288 |
 | Bushido and Chill | 2.00% | ~19,619 |
 | To Protect and Serve | 2.00% | ~19,619 |
-| Master Crafter | 2.00% | ~19,619 |
 | I Am The Law | 2.00% | ~19,619 |
 | The World | 2.00% | ~19,619 |
 | Two Heads, One Bullet | 2.00% | ~19,619 |
@@ -46,10 +46,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.60% | ~5,886 |
 | Must Be Rats | 0.60% | ~5,886 |
 | Temperance | 0.60% | ~5,886 |
-| The APB is Not Enough | 0.60% | ~657 |
-| Judgement Day | 0.60% | ~657 |
-| King of Pentacles | 0.60% | ~657 |
-| King of Swords | 0.60% | ~657 |
+| The APB is Not Enough | 0.60% | ~658 |
+| Judgement Day | 0.60% | ~658 |
+| King of Pentacles | 0.60% | ~658 |
+| King of Swords | 0.60% | ~658 |
 | City Lights | 0.30% | ~2,943 |
 | Little Tokyo | 0.30% | ~2,943 |
 | The Devil | 0.30% | ~2,943 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,956 (Ranked 16)  
+Progressed: 980,969 (Ranked 16)  
 Completed: 2,969 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 2,969 (0.30%) (Ranked 251)
 | 2023-12-21 | 979,668 | 2,950 |
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
-| 2023-12-24 | 980,956 | 2,969 |
+| 2023-12-24 | 980,969 | 2,969 |
 ## Awards
 Max (Character Customization): 127,101  (Ranked 8)  
-Sum: 441,702 (Ranked 9)  
+Sum: 441,867 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -337,8 +337,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 25,383 |
 | This game is Extremely Fun | 25,037 |
 | This game has Amazing Characters | 24,988 |
+| This game is Relaxing | 24,208 |
 | This game has Quickly Understood Controls | 24,095 |
-| This game is Relaxing | 24,043 |
 | This game has a Creative Community | 16,749 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -682,4 +682,4 @@ Diff (max vs sum): -1
 | 2023-12-21 | 4.66 | - | 125,917 | 435,336 |
 | 2023-12-22 | 4.66 | - | 126,294 | 437,314 |
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
-| 2023-12-24 | 4.66 | - | 127,101 | 441,702 |
+| 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
