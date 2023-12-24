@@ -6,10 +6,10 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,095 |
-| Powergamer | 27.00% | ~68,985 |
-| Write that down | 25.00% | ~63,875 |
-| Barely scratched the surface | 25.00% | ~63,875 |
+| I will finish what you started | 29.00% | ~74,096 |
+| Powergamer | 27.00% | ~68,986 |
+| Write that down | 25.00% | ~63,876 |
+| Barely scratched the surface | 25.00% | ~63,876 |
 | Guns, lots of guns | 13.00% | ~33,215 |
 | Collector | 12.00% | ~30,660 |
 | Elementary! | 9.00% | ~22,995 |
@@ -46,20 +46,20 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~2,044 |
 | Let's try another | 0.80% | ~2,044 |
 | Home run | 0.80% | ~2,044 |
-| I have the high ground | 0.70% | ~1,788 |
+| I have the high ground | 0.70% | ~1,789 |
 | Enjoy these little moments | 0.50% | ~1,278 |
 | Who wouldn't love a troll? | 0.50% | ~1,278 |
 | Irondec | 0.40% | ~1,022 |
 | LET ME OUT! | 0.40% | ~1,022 |
 | Un-bear-able | 0.40% | ~1,022 |
-| Well-deserved reunion | 0.30% | ~766 |
+| Well-deserved reunion | 0.30% | ~767 |
 | Breaking the chains | 0.20% | ~511 |
 | Aren't you overthinking? | 0.20% | ~511 |
 | Take the red pill | 0.20% | ~511 |
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,500 (Ranked 64)  
+Progressed: 255,502 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 7 (0.00%) (Ranked 388)
 | 2023-12-21 | 255,268 | 7 |
 | 2023-12-22 | 255,356 | 7 |
 | 2023-12-23 | 255,488 | 7 |
-| 2023-12-24 | 255,500 | 7 |
+| 2023-12-24 | 255,502 | 7 |
 ## Awards
 Max (Character Customization): 92  (Ranked 385)  
 Sum: 92 (Ranked 463)  

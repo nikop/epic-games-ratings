@@ -5,33 +5,33 @@ Rating: 4.41 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 12.00% | ~43,129 |
-| IT MAKES BOOM! | 8.00% | ~28,753 |
-| EXTRA BOOST | 6.00% | ~21,565 |
-| PROTECTED | 5.00% | ~17,970 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,376 |
-| PRO | 4.00% | ~14,376 |
-| AGGRESSIVE RACER | 3.00% | ~10,782 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,188 |
-| A TIGER'S FEAR | 2.00% | ~7,188 |
-| TRAINING HARD | 1.00% | ~3,594 |
-| RELEASE THE KRAKEN | 1.00% | ~3,594 |
-| BE OUR GUEST | 1.00% | ~3,594 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,594 |
-| ACE SPEEDSTER | 1.00% | ~3,594 |
-| ACE DEFENDER | 1.00% | ~3,594 |
-| FRIENDLY | 1.00% | ~3,594 |
-| MASTER | 1.00% | ~3,594 |
-| LEGENDARY HERO | 1.00% | ~3,594 |
+| ROOKIE | 12.00% | ~43,140 |
+| IT MAKES BOOM! | 8.00% | ~28,760 |
+| EXTRA BOOST | 6.00% | ~21,570 |
+| PROTECTED | 5.00% | ~17,975 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,380 |
+| PRO | 4.00% | ~14,380 |
+| AGGRESSIVE RACER | 3.00% | ~10,785 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,190 |
+| A TIGER'S FEAR | 2.00% | ~7,190 |
+| TRAINING HARD | 1.00% | ~3,595 |
+| RELEASE THE KRAKEN | 1.00% | ~3,595 |
+| BE OUR GUEST | 1.00% | ~3,595 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,595 |
+| ACE SPEEDSTER | 1.00% | ~3,595 |
+| ACE DEFENDER | 1.00% | ~3,595 |
+| FRIENDLY | 1.00% | ~3,595 |
+| MASTER | 1.00% | ~3,595 |
+| LEGENDARY HERO | 1.00% | ~3,595 |
 | THE EYE OF THE HUNTER | 0.90% | ~3,235 |
-| EXPERIENCED CREW | 0.80% | ~2,875 |
-| ACE BRAWLER | 0.80% | ~2,875 |
-| FRAMED! | 0.60% | ~2,156 |
-| ACE TRICKSTER | 0.60% | ~2,156 |
+| EXPERIENCED CREW | 0.80% | ~2,876 |
+| ACE BRAWLER | 0.80% | ~2,876 |
+| FRAMED! | 0.60% | ~2,157 |
+| ACE TRICKSTER | 0.60% | ~2,157 |
 | PERFECTLY POISED | 0.50% | ~1,797 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,409 (Ranked 49)  
-Completed: 1,125 (0.31%) (Ranked 247)  
+Progressed: 359,496 (Ranked 49)  
+Completed: 1,126 (0.31%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 1,125 (0.31%) (Ranked 247)
 | 2023-12-21 | 351,816 | 1,034 |
 | 2023-12-22 | 355,249 | 1,072 |
 | 2023-12-23 | 358,744 | 1,115 |
-| 2023-12-24 | 359,409 | 1,125 |
+| 2023-12-24 | 359,496 | 1,126 |
 ## Awards
 Max (Great for Beginners): 150  (Ranked 322)  
 Sum: 981 (Ranked 266)  

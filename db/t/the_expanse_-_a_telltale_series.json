@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17253,
+  "EOS_Progressed": 17256,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14941,6 +14941,11 @@
       "Time": "2023-12-24T05:07:54.5484001+00:00",
       "NumProgressed": 17253,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-24T06:07:58.2059246+00:00",
+      "NumProgressed": 17256,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14969,7 +14974,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "12",
@@ -15105,7 +15110,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "28",
@@ -15143,9 +15148,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 345
     },
     {
       "ID": "5",
@@ -15161,7 +15166,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "7",
@@ -15185,7 +15190,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "31",
@@ -15193,7 +15198,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "32",
@@ -15225,29 +15230,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17253,
+      "Progressed": 17256,
       "Completed": 50
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3207,
-      "Completed": 1016
+      "Progressed": 3210,
+      "Completed": 1017
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:07:54.5483998+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:07:58.2059243+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:58:49.270004+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:07:54.5484878+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:58:45.0431009+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:07:58.206006+00:00"
 }

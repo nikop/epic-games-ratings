@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -616,9 +616,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -736,9 +736,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -792,9 +792,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "bad_ending",
@@ -929,8 +929,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:07:32.4987538+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:07:37.0778368+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.0228118+00:00",
   "LastUpdate_Ratings": "2023-12-24T05:02:09.5713184+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:07:32.4987744+00:00"
+  "LastUpdate_Achievements": "2023-12-24T06:07:37.077858+00:00"
 }

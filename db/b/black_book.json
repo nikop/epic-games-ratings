@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -675,9 +675,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 62041,
+  "EOS_Progressed": 62045,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1554,
+  "EOS_NewPlayers": 1551,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14345,6 +14345,11 @@
       "Time": "2023-12-24T05:07:00.717289+00:00",
       "NumProgressed": 62041,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-24T06:07:06.6249777+00:00",
+      "NumProgressed": 62045,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14413,7 +14418,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "CHEATER",
@@ -14469,7 +14474,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13649
+      "UsersEstimate": 13650
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -14485,7 +14490,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "FERN",
@@ -14549,7 +14554,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "INITIATION",
@@ -14557,7 +14562,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 17992
+      "UsersEstimate": 17993
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -14565,7 +14570,7 @@
       "Name": "Vorsa",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "MERMAID_FREE",
@@ -14573,7 +14578,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -14621,7 +14626,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -14637,7 +14642,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -14661,7 +14666,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "SUSANIN",
@@ -14677,7 +14682,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9306
+      "UsersEstimate": 9307
     },
     {
       "ID": "TALES_2",
@@ -14685,7 +14690,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "TALES_3",
@@ -14693,7 +14698,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "TRAVELLER",
@@ -14749,22 +14754,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 62041,
+      "Progressed": 62045,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-20T11:59:57.3935397+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:07:00.7172887+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:07:06.6249774+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.3063117+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:02:49.5445517+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:07:00.717363+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:03:01.9265112+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:07:06.6250518+00:00"
 }

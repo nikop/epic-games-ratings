@@ -6,18 +6,19 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 12.00% | ~34 |
-| Sponge Smasher | 11.00% | ~31 |
+| Spatula Seeker | 12.00% | ~35 |
+| Sponge Smasher | 11.00% | ~32 |
 | Jellyfish Jam | 8.00% | ~23 |
 | Jellyfishing | 7.00% | ~20 |
-| Sweet Victory | 6.00% | ~17 |
-| Time For Tutorial | 6.00% | ~17 |
-| Life's as extreme as you wanna make it! | 5.00% | ~14 |
-| Sock Getter | 5.00% | ~14 |
-| Surf's Up! | 5.00% | ~14 |
-| Toxic Terror | 4.00% | ~11 |
-| Star Smasher | 4.00% | ~11 |
+| Sweet Victory | 6.00% | ~18 |
+| Time For Tutorial | 6.00% | ~18 |
+| Life's as extreme as you wanna make it! | 5.00% | ~15 |
+| Sock Getter | 5.00% | ~15 |
+| Toxic Terror | 4.00% | ~12 |
+| Star Smasher | 4.00% | ~12 |
+| Surf's Up! | 4.00% | ~12 |
 | Uptown and Downtown | 3.00% | ~9 |
+| Hello, Bikini Bottom | 3.00% | ~9 |
 | Keep it Rolling | 3.00% | ~9 |
 | Shrimp Catcher | 3.00% | ~9 |
 | Hit Rock Bottom | 3.00% | ~9 |
@@ -25,7 +26,6 @@ Number of Ratings: 76  (23.09.2022)
 | Squirrel Smasher | 3.00% | ~9 |
 | Robot encyclopedia | 2.00% | ~6 |
 | Are you ready now? | 2.00% | ~6 |
-| Hello, Bikini Bottom | 2.00% | ~6 |
 | Kelp Forest of Fear | 1.00% | ~3 |
 | Sleepy Time | 1.00% | ~3 |
 | The Small Does Not Rule | 0.70% | ~2 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 382)  
-Completed: 1 (0.35%) (Ranked 240)  
+Progressed: 292 (Ranked 379)  
+Completed: 1 (0.34%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,7 +50,7 @@ Completed: 1 (0.35%) (Ranked 240)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 286 | 1 |
+| 2023-12-24 | 292 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 495)  
 Sum: 34 (Ranked 520)  

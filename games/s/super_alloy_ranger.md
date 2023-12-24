@@ -22,11 +22,11 @@
 | Space Warrior: Prologue | 9.00% | ~12 |
 | The Fortress Conqueror | 8.00% | ~11 |
 | Keep it Up, rookie! | 7.00% | ~10 |
+| Decapitation Strike | 6.00% | ~8 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~7 |
 | he Ultra Fortress Conqueror | 5.00% | ~7 |
 | Antaeus | 5.00% | ~7 |
 | Hell of a Fight | 5.00% | ~7 |
-| Decapitation Strike | 5.00% | ~7 |
 | The Sunken City Conqueror | 4.00% | ~5 |
 | The Deep Frozen Conqueror | 4.00% | ~5 |
 | The Infinite Train Conqueror | 4.00% | ~5 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 857,
+  "EOS_Progressed": 858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3702,6 +3702,11 @@
       "Time": "2023-12-24T00:09:44.1935585+00:00",
       "NumProgressed": 857,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T06:09:57.8675972+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3791,7 +3796,7 @@
       "ID": "DilemasResponsibility10",
       "SetID": "d1bm05f",
       "Name": "Eco Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -3823,7 +3828,7 @@
       "ID": "GalvanizedStaff3Days10",
       "SetID": "d1bm05f",
       "Name": "Chef, Yes Chef!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -3889,7 +3894,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Packing20",
@@ -3911,9 +3916,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 206
     },
     {
       "ID": "RecipeDifferent30",
@@ -4032,7 +4037,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 857,
+      "Progressed": 858,
       "Completed": 0
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:10:18.7559058+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:09:57.867597+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:01:51.4648119+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:10:18.7559492+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:01:35.275583+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:09:57.8676311+00:00"
 }

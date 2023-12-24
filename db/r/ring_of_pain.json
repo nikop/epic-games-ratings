@@ -3748,9 +3748,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241566,
+  "EOS_Progressed": 241569,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29298,6 +29298,11 @@
       "Time": "2023-12-24T04:10:54.7966413+00:00",
       "NumProgressed": 241566,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T06:10:46.0070556+00:00",
+      "NumProgressed": 241569,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29835,9 +29840,9 @@
       "ID": "KILLSPINEDSPINEBACK",
       "SetID": "5l8oe0h",
       "Name": "Spine Breaker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1691
     },
     {
       "ID": "KILLSPITTER",
@@ -30412,13 +30417,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241566,
+      "Progressed": 241569,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3046,
+      "Progressed": 3049,
       "Completed": 411
     }
   ],
@@ -30426,8 +30431,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:11:09.3164672+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:10:46.0070554+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:57:28.2353205+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:11:09.3167387+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:57:28.3949121+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:10:46.0072955+00:00"
 }

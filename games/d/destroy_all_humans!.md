@@ -13,10 +13,10 @@ Number of Ratings: 85  (23.09.2022)
 | Yettisoned | 55.00% | ~70 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~67 |
 | Lobster Blisque | 50.00% | ~64 |
-| Perfect Probulator | 48.00% | ~61 |
+| Perfect Probulator | 49.00% | ~63 |
 | Fly Me to the Moon Base | 43.00% | ~55 |
 | Pimp My Raid | 43.00% | ~55 |
-| Earthly Pleasures | 39.00% | ~50 |
+| Earthly Pleasures | 40.00% | ~51 |
 | Ducks in a Row, Fish in a Barrel | 38.00% | ~49 |
 | Freshly Squeezed | 36.00% | ~46 |
 | Upgreatest | 30.00% | ~38 |

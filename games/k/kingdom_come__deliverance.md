@@ -7,15 +7,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~260,481 |
-| Cavalier | 25.00% | ~203,500 |
-| Fatso | 23.00% | ~187,220 |
-| Awakening | 21.00% | ~170,940 |
-| Ranger | 20.00% | ~162,800 |
-| Scrooge | 20.00% | ~162,800 |
-| Anorectic | 16.00% | ~130,240 |
-| Firestarter | 16.00% | ~130,240 |
-| Bookworm | 15.00% | ~122,100 |
-| Insomniac | 13.00% | ~105,820 |
+| Cavalier | 25.00% | ~203,501 |
+| Fatso | 23.00% | ~187,221 |
+| Awakening | 21.00% | ~170,941 |
+| Ranger | 20.00% | ~162,801 |
+| Scrooge | 20.00% | ~162,801 |
+| Anorectic | 16.00% | ~130,241 |
+| Firestarter | 16.00% | ~130,241 |
+| Bookworm | 15.00% | ~122,101 |
+| Insomniac | 13.00% | ~105,821 |
 | Buddy | 12.00% | ~97,680 |
 | Thief | 12.00% | ~97,680 |
 | Sinner | 11.00% | ~89,540 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,002 (Ranked 18)  
+Progressed: 814,004 (Ranked 18)  
 Completed: 52 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,15 +337,15 @@ Completed: 52 (0.01%) (Ranked 365)
 | 2023-12-21 | 813,634 | 52 |
 | 2023-12-22 | 813,782 | 52 |
 | 2023-12-23 | 813,967 | 52 |
-| 2023-12-24 | 814,002 | 52 |
+| 2023-12-24 | 814,004 | 52 |
 ## Awards
 Max (Character Customization): 7,702  (Ranked 52)  
-Sum: 28,594 (Ranked 49)  
+Sum: 28,596 (Ranked 49)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,702 |
-| This game has Great Boss Battles | 5,630 |
+| This game has Great Boss Battles | 5,632 |
 | This game has Challenging Combat | 1,791 |
 | This game has Diverse Characters | 1,759 |
 | This game has Amazing Storytelling | 1,741 |
@@ -690,3 +690,4 @@ Diff (max vs sum): 3
 | 2023-12-21 | 4.71 | - | 7,692 | 28,568 |
 | 2023-12-22 | 4.71 | - | 7,698 | 28,583 |
 | 2023-12-23 | 4.71 | - | 7,702 | 28,594 |
+| 2023-12-24 | 4.71 | - | 7,702 | 28,596 |

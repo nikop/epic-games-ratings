@@ -17,13 +17,13 @@ Rating: 4.64 (Ranked 342)
 | RIP Davey Glutes | 3.00% | ~745 |
 | We're All Very Impressed, Trust Me | 3.00% | ~745 |
 | Hardest Battle In The Game | 3.00% | ~745 |
+| Self-Actualization | 3.00% | ~745 |
 | Who's The Boss? | 3.00% | ~745 |
 | Fallout Doesn't Let You Do This | 3.00% | ~745 |
 | Eatin' Good in the Neighborhood | 2.00% | ~497 |
 | Lezduit! | 2.00% | ~497 |
 | Eye Scream, You Scream | 2.00% | ~497 |
 | Legendary Bounty Hunter | 2.00% | ~497 |
-| Self-Actualization | 2.00% | ~497 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~497 |
 | Series Wrap on Suit-O | 2.00% | ~497 |
 | Bathe With A Giant Nude Alien | 2.00% | ~43 |

@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2918,
+  "EOS_Progressed": 2919,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
@@ -7127,6 +7127,11 @@
       "Time": "2023-12-24T05:05:02.4227047+00:00",
       "NumProgressed": 2918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T06:05:11.9250129+00:00",
+      "NumProgressed": 2919,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7145,9 +7150,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "c7hf6a4",
       "Name": "Hear That Roar!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1168
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7163,7 +7168,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -7171,7 +7176,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -7227,7 +7232,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -7427,7 +7432,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7435,7 +7440,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7491,7 +7496,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7530,14 +7535,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2918,
+      "Progressed": 2919,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:05:02.4227043+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:05:11.9250127+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:02:48.5614983+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:05:02.4227717+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:57:05.9460221+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:05:11.9250651+00:00"
 }

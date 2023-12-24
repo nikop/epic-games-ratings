@@ -15,7 +15,7 @@ Rating: 4.27 (Ranked 882)
 | Junk Collector | 14.00% | ~43 |
 | Trashing Around | 13.00% | ~40 |
 | Hating Them Tin Cans | 13.00% | ~40 |
-| Challengers Champion | 12.00% | ~36 |
+| Challengers Champion | 12.00% | ~37 |
 | Pro Internationals Champion | 7.00% | ~21 |
 | Cash For Crashes | 5.00% | ~15 |
 | Showing Some Dedication | 4.00% | ~12 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 882)
 | Human Lover | 0.30% | ~1 |
 | Rocketeer | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 376)  
+Progressed: 305 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,7 +37,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 205 | 0 |
 | 2023-12-22 | 242 | 0 |
 | 2023-12-23 | 295 | 0 |
-| 2023-12-24 | 304 | 0 |
+| 2023-12-24 | 305 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

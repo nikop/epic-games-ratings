@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2354,
+  "EOS_Progressed": 2355,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3803,6 +3803,11 @@
       "Time": "2023-12-24T04:04:37.8750667+00:00",
       "NumProgressed": 2354,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T06:04:41.2520148+00:00",
+      "NumProgressed": 2355,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3822,7 +3827,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ACHV_03",
@@ -3846,7 +3851,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACHV_06",
@@ -3854,7 +3859,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACHV_07",
@@ -3886,7 +3891,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHV_11",
@@ -3950,7 +3955,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHV_19",
@@ -3966,7 +3971,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHV_21",
@@ -3974,7 +3979,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHV_22",
@@ -4038,7 +4043,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHV_30",
@@ -4118,7 +4123,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ACHV_40",
@@ -4142,7 +4147,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHV_43",
@@ -4269,7 +4274,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2354,
+      "Progressed": 2355,
       "Completed": 13
     }
   ],
@@ -4277,8 +4282,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:04:31.7015706+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:04:41.2520138+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:58:13.6845032+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:04:31.7016308+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:58:10.8869557+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:04:41.2520599+00:00"
 }

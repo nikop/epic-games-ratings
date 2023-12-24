@@ -5,10 +5,10 @@
   "Ranking_Rating": 296,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 520,
-  "Ranking_EOS_Progress": 382,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -311,11 +311,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 292,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -881,6 +881,11 @@
       "Time": "2023-12-24T05:04:06.6778538+00:00",
       "NumProgressed": 286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T06:04:16.7732858+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -925,7 +930,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -947,9 +952,9 @@
       "ID": "ACH_FIND_BB_SPATULAS",
       "SetID": "biiejkc",
       "Name": "Hello, Bikini Bottom",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1005,7 +1010,7 @@
       "Name": "Toxic Terror",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1013,7 +1018,7 @@
       "Name": "Sweet Victory",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1093,7 +1098,7 @@
       "Name": "Sock Getter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1101,7 +1106,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1109,7 +1114,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1125,15 +1130,15 @@
       "Name": "Star Smasher",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1141,22 +1146,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 292,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:04:06.6778536+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:04:16.7732856+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:58:11.0899726+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:04:06.6778798+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:58:08.8404767+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:04:16.7733071+00:00"
 }

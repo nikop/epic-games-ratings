@@ -308,9 +308,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -683,8 +683,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:09:30.0240496+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:09:10.7274305+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.6800929+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:58:23.4222891+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:09:30.0241107+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:58:20.3443881+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:09:10.7274987+00:00"
 }

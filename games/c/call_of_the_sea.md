@@ -5,10 +5,10 @@ Rating: 4.40 (Ranked 752)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~108,554 |
-| 74 miles East of Otaheité | 56.00% | ~75,988 |
+| A Family Heirloom | 80.00% | ~108,555 |
+| 74 miles East of Otaheité | 56.00% | ~75,989 |
 | Interesting... | 42.00% | ~56,991 |
-| The Everhart Expedition | 40.00% | ~54,277 |
+| The Everhart Expedition | 40.00% | ~54,278 |
 | Seaside Serenade | 31.00% | ~42,065 |
 | Halfway there | 30.00% | ~40,708 |
 | The Vanishing of the Lady Shannon | 30.00% | ~40,708 |
@@ -16,20 +16,20 @@ Rating: 4.40 (Ranked 752)
 | 506 East Hampden Avenue | 28.00% | ~37,994 |
 | Weekend at Walakea's | 27.00% | ~36,637 |
 | Quite a Show | 27.00% | ~36,637 |
-| Dark Water Ride | 25.00% | ~33,923 |
-| Sunken | 25.00% | ~33,923 |
-| Deep Cut | 24.00% | ~32,566 |
-| FHALGOF'N' | 23.00% | ~31,209 |
-| Marsh Cannery | 21.00% | ~28,495 |
+| Dark Water Ride | 25.00% | ~33,924 |
+| Sunken | 25.00% | ~33,924 |
+| Deep Cut | 24.00% | ~32,567 |
+| FHALGOF'N' | 23.00% | ~31,210 |
+| Marsh Cannery | 21.00% | ~28,496 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,425 |
 | The only thing I have now | 17.00% | ~23,068 |
 | Not Another Boring Slideshow! | 16.00% | ~21,711 |
 | Naacalvision | 16.00% | ~21,711 |
 | The Norahnomicon | 10.00% | ~13,569 |
 | I'll make a note of that... | 9.00% | ~12,212 |
-| Written in Stone | 7.00% | ~9,498 |
-| Play it again, Norah | 7.00% | ~9,498 |
-| Underwater Royalty | 7.00% | ~9,498 |
+| Written in Stone | 7.00% | ~9,499 |
+| Play it again, Norah | 7.00% | ~9,499 |
+| Underwater Royalty | 7.00% | ~9,499 |
 | Fawning Developers | 5.00% | ~6,785 |
 | Candid Photo | 5.00% | ~6,785 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,428 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 752)
 | Gently down the stream... | 1.00% | ~1,357 |
 | Meta-reference | 1.00% | ~1,357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,692 (Ranked 85)  
+Progressed: 135,694 (Ranked 85)  
 Completed: 1,210 (0.89%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 1,210 (0.89%) (Ranked 182)
 | 2023-12-21 | 135,333 | 1,204 |
 | 2023-12-22 | 135,483 | 1,206 |
 | 2023-12-23 | 135,667 | 1,208 |
-| 2023-12-24 | 135,692 | 1,210 |
+| 2023-12-24 | 135,694 | 1,210 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

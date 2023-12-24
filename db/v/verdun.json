@@ -1907,9 +1907,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 67270,
+  "EOS_Progressed": 67271,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29202,6 +29202,11 @@
       "Time": "2023-12-24T05:07:41.6072764+00:00",
       "NumProgressed": 67270,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T06:07:45.9036584+00:00",
+      "NumProgressed": 67271,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -29213,7 +29218,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 36998
+      "UsersEstimate": 36999
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -29469,7 +29474,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21526
+      "UsersEstimate": 21527
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -29501,7 +29506,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42380
+      "UsersEstimate": 42381
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -29509,7 +29514,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8072
+      "UsersEstimate": 8073
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -29684,15 +29689,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 67270,
+      "Progressed": 67271,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-19T18:57:45.7577848+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:07:41.6072761+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:07:45.9036582+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0401656+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:01:44.9373357+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:07:41.6075723+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:01:29.1472801+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:07:45.9037873+00:00"
 }

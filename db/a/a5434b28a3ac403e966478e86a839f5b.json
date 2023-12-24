@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
@@ -2550,6 +2550,11 @@
       "Time": "2023-12-24T05:09:12.0387736+00:00",
       "NumProgressed": 739,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T06:08:52.9076385+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2578,7 +2583,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_eou3",
@@ -2616,17 +2621,17 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_mg2",
@@ -2665,14 +2670,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:09:12.0387735+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:08:52.9076382+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:58:53.2642647+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:09:12.0388026+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:58:49.4440145+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:08:52.9076686+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~44,598 |
-| Skillful | 4.00% | ~44,598 |
-| Zealous | 3.00% | ~33,449 |
-| Not half bad | 3.00% | ~33,449 |
-| Apt Survivor | 3.00% | ~33,449 |
-| Survival Treasures | 3.00% | ~33,449 |
-| Make Some Noise | 3.00% | ~33,449 |
-| The Grand Sacrifice | 2.00% | ~22,299 |
-| Agonizing Escape | 2.00% | ~22,299 |
-| Backdoor Escape | 2.00% | ~22,299 |
-| I've got your back | 2.00% | ~22,299 |
-| No one left behind | 2.00% | ~22,299 |
-| Medic | 2.00% | ~22,299 |
-| Handyman | 2.00% | ~22,299 |
-| Perfect Escape | 2.00% | ~22,299 |
-| Perfect Killing | 2.00% | ~22,299 |
-| Bloody Millionaire | 2.00% | ~22,299 |
-| I | 2.00% | ~22,299 |
-| II | 2.00% | ~22,299 |
-| Engineer | 2.00% | ~22,299 |
-| Sorted | 2.00% | ~22,299 |
-| Healthy Obsession | 2.00% | ~22,299 |
-| Resurgence | 2.00% | ~22,299 |
-| Close Shave | 2.00% | ~22,299 |
-| Preemptive Strike | 2.00% | ~22,299 |
-| Humanitarian | 2.00% | ~22,299 |
+| It wakes | 4.00% | ~44,601 |
+| Skillful | 4.00% | ~44,601 |
+| Zealous | 3.00% | ~33,450 |
+| Not half bad | 3.00% | ~33,450 |
+| Apt Survivor | 3.00% | ~33,450 |
+| Survival Treasures | 3.00% | ~33,450 |
+| Make Some Noise | 3.00% | ~33,450 |
+| The Grand Sacrifice | 2.00% | ~22,300 |
+| Agonizing Escape | 2.00% | ~22,300 |
+| Backdoor Escape | 2.00% | ~22,300 |
+| I've got your back | 2.00% | ~22,300 |
+| No one left behind | 2.00% | ~22,300 |
+| Medic | 2.00% | ~22,300 |
+| Handyman | 2.00% | ~22,300 |
+| Perfect Escape | 2.00% | ~22,300 |
+| Perfect Killing | 2.00% | ~22,300 |
+| Bloody Millionaire | 2.00% | ~22,300 |
+| I | 2.00% | ~22,300 |
+| II | 2.00% | ~22,300 |
+| Engineer | 2.00% | ~22,300 |
+| Sorted | 2.00% | ~22,300 |
+| Healthy Obsession | 2.00% | ~22,300 |
+| Resurgence | 2.00% | ~22,300 |
+| Close Shave | 2.00% | ~22,300 |
+| Preemptive Strike | 2.00% | ~22,300 |
+| Humanitarian | 2.00% | ~22,300 |
 | Blood on your hands | 1.00% | ~11,150 |
 | Escape Artist | 1.00% | ~11,150 |
 | Apt Killer | 1.00% | ~11,150 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,115 |
 | Adept Good Guy | 0.10% | ~1,115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,114,953 (Ranked 13)  
+Progressed: 1,115,014 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -487,7 +487,7 @@ Completed: 65 (0.01%) (Ranked 365)
 | 2023-12-21 | 1,109,780 | 63 |
 | 2023-12-22 | 1,111,919 | 64 |
 | 2023-12-23 | 1,114,469 | 64 |
-| 2023-12-24 | 1,114,953 | 65 |
+| 2023-12-24 | 1,115,014 | 65 |
 ## Awards
 Max (Diverse Characters): 38,441  (Ranked 15)  
 Sum: 290,827 (Ranked 12)  

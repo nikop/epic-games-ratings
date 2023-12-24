@@ -914,9 +914,9 @@
       "ID": "Release_Mind_Controlled_Unit",
       "SetID": "7b9f97e",
       "Name": "Break Free",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Remove_Raider_From_Tower",
@@ -963,8 +963,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:10:01.6218899+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:09:41.1693481+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:59:16.2603903+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:10:01.6219378+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:59:10.9474549+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:09:41.169409+00:00"
 }

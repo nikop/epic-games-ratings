@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1669,6 +1669,11 @@
       "Time": "2023-12-24T04:06:08.2204749+00:00",
       "NumProgressed": 476,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T06:06:11.0328338+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1681,7 +1686,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1695,17 +1700,17 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -1745,7 +1750,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 23,
       "XP": 45,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1776,14 +1781,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:06:02.4570072+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:06:11.0328336+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:59:58.0889765+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:06:02.4570208+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:59:50.5117192+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:06:11.0328481+00:00"
 }

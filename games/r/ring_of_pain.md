@@ -20,6 +20,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Colorful Corpse | 0.70% | ~1,691 |
 | Goodbye, Frog Friend | 0.70% | ~1,691 |
 | Heartless | 0.70% | ~1,691 |
+| Spine Breaker | 0.70% | ~1,691 |
 | A Donation | 0.70% | ~1,691 |
 | Deflection | 0.70% | ~1,691 |
 | Explorer | 0.70% | ~1,691 |
@@ -31,7 +32,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.60% | ~1,449 |
 | The Bestiary | 0.60% | ~1,449 |
 | What's Yours Is Mine | 0.60% | ~1,449 |
-| Spine Breaker | 0.60% | ~1,449 |
 | Shootout | 0.60% | ~1,449 |
 | C-C-Combo | 0.60% | ~1,449 |
 | Toxic | 0.60% | ~1,449 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,566 (Ranked 68)  
+Progressed: 241,569 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,7 +393,7 @@ Completed: 301 (0.12%) (Ranked 299)
 | 2023-12-21 | 241,432 | 300 |
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
-| 2023-12-24 | 241,566 | 301 |
+| 2023-12-24 | 241,569 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,756 (Ranked 88)  

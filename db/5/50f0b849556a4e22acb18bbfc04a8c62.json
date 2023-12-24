@@ -4,7 +4,7 @@
   "ProductSlug": "the-movie-trivia-challenge-be2db8",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-02T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-19T08:57:02.4969981+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:03:03.6936475+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:07:12.2480732+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:03:15.6170386+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:07:17.717023+00:00"
 }

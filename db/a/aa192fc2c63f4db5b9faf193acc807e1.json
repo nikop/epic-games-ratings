@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.62,
+  "EOS_Completed_Percentage": 5.59,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -729,6 +729,11 @@
       "Time": "2023-12-23T23:10:17.2007369+00:00",
       "NumProgressed": 160,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T06:10:31.5297144+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -739,9 +744,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "creepytaleach10",
@@ -779,9 +784,9 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "creepytaleach3",
@@ -821,7 +826,7 @@
       "Name": "Crazy chef",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "creepytaleach8",
@@ -835,23 +840,23 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:10:53.9709103+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:10:31.5297142+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.7348534+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:59:23.3693022+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:10:53.9709199+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:59:17.2862034+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:10:31.5297258+00:00"
 }

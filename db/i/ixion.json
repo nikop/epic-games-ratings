@@ -5,7 +5,7 @@
   "Ranking_Rating": 458,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
-  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 149,
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3681,
+  "EOS_Progressed": 3682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7013,6 +7013,11 @@
       "Time": "2023-12-24T04:06:41.9642632+00:00",
       "NumProgressed": 3681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T06:06:43.2965371+00:00",
+      "NumProgressed": 3682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7200,7 +7205,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_32",
@@ -7318,9 +7323,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH_BASE_49",
@@ -7352,7 +7357,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_52",
@@ -7376,7 +7381,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_BASE_57",
@@ -7479,13 +7484,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3681,
+      "Progressed": 3682,
       "Completed": 0
     }
   ],
@@ -7493,8 +7498,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:06:36.2555953+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:06:43.2965367+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:59:07.4334381+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:06:36.2556575+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:59:02.4787646+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:06:43.2966164+00:00"
 }

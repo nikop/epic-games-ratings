@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 77703,
+  "EOS_Progressed": 77704,
   "EOS_Completed": 417,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -27649,6 +27649,11 @@
       "Time": "2023-12-24T05:10:25.5287962+00:00",
       "NumProgressed": 77703,
       "NumCompleted": 417
+    },
+    {
+      "Time": "2023-12-24T06:10:04.3997571+00:00",
+      "NumProgressed": 77704,
+      "NumCompleted": 417
     }
   ],
   "TotalAchievements": 24,
@@ -27676,7 +27681,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 53615
+      "UsersEstimate": 53616
     },
     {
       "ID": "BEST_FRIENDS",
@@ -27828,7 +27833,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12432
+      "UsersEstimate": 12433
     },
     {
       "ID": "WEIGHTLESS",
@@ -27844,14 +27849,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12432
+      "UsersEstimate": 12433
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 77703,
+      "Progressed": 77704,
       "Completed": 417
     }
   ],
@@ -27859,8 +27864,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:10:25.528796+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:10:04.3997568+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:03:07.9108201+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:10:25.5289347+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:03:20.976324+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:10:04.3998969+00:00"
 }

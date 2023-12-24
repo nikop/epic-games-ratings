@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 66,
@@ -1575,9 +1575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244330,
+  "EOS_Progressed": 244333,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23455,6 +23455,11 @@
       "Time": "2023-12-24T05:10:56.1970225+00:00",
       "NumProgressed": 244330,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T06:10:33.6884926+00:00",
+      "NumProgressed": 244333,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23522,7 +23527,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "Chapter3",
@@ -23914,7 +23919,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87959
+      "UsersEstimate": 87960
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23930,7 +23935,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "EndCombatOneHp",
@@ -24114,7 +24119,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "SupportCount4",
@@ -24169,21 +24174,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244330,
+      "Progressed": 244333,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244330,
+      "Progressed": 244333,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-23T23:58:46.5537395+00:00",
-  "LastChanged_Achievements": "2023-12-24T05:10:56.1970224+00:00",
+  "LastChanged_Achievements": "2023-12-24T06:10:33.6884924+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:59:25.9602604+00:00",
-  "LastUpdate_Achievements": "2023-12-24T05:10:56.1971637+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:59:19.7475313+00:00",
+  "LastUpdate_Achievements": "2023-12-24T06:10:33.6886375+00:00"
 }

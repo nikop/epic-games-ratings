@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 42.00% | ~297 |
+| Adept | 43.00% | ~304 |
 | Double Kill | 35.00% | ~247 |
 | Critical Hit | 19.00% | ~134 |
 | Veteran | 19.00% | ~134 |
