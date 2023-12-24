@@ -14,10 +14,10 @@
 | Mind Illuminator | 42.00% | ~97 |
 | Noctuan Champion | 34.00% | ~79 |
 | Stellar Dismantler | 33.00% | ~77 |
-| Anomaly Destroyer | 30.00% | ~70 |
+| Anomaly Destroyer | 31.00% | ~72 |
 | Astral Adventurer | 29.00% | ~67 |
 | Star Killer | 26.00% | ~60 |
-| Eridanian Champion | 24.00% | ~56 |
+| Eridanian Champion | 25.00% | ~58 |
 | Loyal Partner | 22.00% | ~51 |
 | Lacertian Champion | 22.00% | ~51 |
 | Apian Champion | 20.00% | ~46 |

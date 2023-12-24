@@ -16,8 +16,8 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 50.00% | ~68 |
 | Fly Me to the Moon Base | 44.00% | ~59 |
 | Pimp My Raid | 44.00% | ~59 |
+| Ducks in a Row, Fish in a Barrel | 41.00% | ~55 |
 | Earthly Pleasures | 40.00% | ~54 |
-| Ducks in a Row, Fish in a Barrel | 40.00% | ~54 |
 | Freshly Squeezed | 36.00% | ~49 |
 | Upgreatest | 32.00% | ~43 |
 | Forbidden Donut | 30.00% | ~40 |

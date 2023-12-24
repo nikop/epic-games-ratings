@@ -10,25 +10,25 @@ Number of Ratings: 20  (23.09.2022)
 | Cartographer | 57.00% | ~214 |
 | A Strange Artefact | 53.00% | ~199 |
 | Insomnia | 49.00% | ~184 |
-| Lost & Found & Lost Again | 43.00% | ~161 |
-| From Whence we Came | 43.00% | ~161 |
+| Lost & Found & Lost Again | 43.00% | ~162 |
+| From Whence we Came | 43.00% | ~162 |
 | Fire and Flood | 41.00% | ~154 |
-| Spooky! | 38.00% | ~142 |
-| Shennong Herbalist | 35.00% | ~131 |
-| Treasure Hunt | 35.00% | ~131 |
+| Spooky! | 38.00% | ~143 |
+| Shennong Herbalist | 35.00% | ~132 |
+| Treasure Hunt | 35.00% | ~132 |
 | Good Mama | 33.00% | ~124 |
-| O Captain My Captain | 31.00% | ~116 |
-| Plunderer | 30.00% | ~112 |
-| Taxonomist | 27.00% | ~101 |
+| O Captain My Captain | 31.00% | ~117 |
+| Plunderer | 30.00% | ~113 |
+| Taxonomist | 27.00% | ~102 |
 | Traveller | 25.00% | ~94 |
 | Uncertain Loyalties | 25.00% | ~94 |
 | Nahua Seeker | 24.00% | ~90 |
 | Roll to Save | 23.00% | ~86 |
-| Veteran Explorer | 22.00% | ~82 |
+| Veteran Explorer | 22.00% | ~83 |
 | Red Flag Pirate | 19.00% | ~71 |
 | Iron Man | 17.00% | ~64 |
-| A Gentle Beast | 17.00% | ~64 |
 | Shortening of the Way | 16.00% | ~60 |
+| A Gentle Beast | 16.00% | ~60 |
 | Practical Palaeontology | 16.00% | ~60 |
 | Adventurer | 15.00% | ~56 |
 | For the Club! | 15.00% | ~56 |
@@ -49,7 +49,7 @@ Number of Ratings: 20  (23.09.2022)
 | Level Up | 8.00% | ~30 |
 | Zookeeper | 7.00% | ~26 |
 | The Workshop | 7.00% | ~26 |
-| Islander Understanding | 6.00% | ~22 |
+| Islander Understanding | 6.00% | ~23 |
 | A Paris Sunset | 5.00% | ~19 |
 | The Director Perseveres | 5.00% | ~19 |
 | The Round Table | 5.00% | ~19 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375 (Ranked 357)  
+Progressed: 376 (Ranked 356)  
 Completed: 1 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.27%) (Ranked 259)
 | 2023-12-20 | 365 | 1 |
 | 2023-12-21 | 370 | 1 |
 | 2023-12-22 | 374 | 1 |
-| 2023-12-24 | 375 | 1 |
+| 2023-12-24 | 376 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
+| Roman Paganism | 0.20% | ~32 |
 | Zoroastrianism | 0.20% | ~32 |
 | Naming Landmarks | 0.20% | ~32 |
 | Trade Caravan | 0.20% | ~32 |
@@ -164,6 +165,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
+| Medo-Babylonian Conquest | 0.10% | ~16 |
 | Merchants of the Levant | 0.10% | ~16 |
 | Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
@@ -188,7 +190,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
 | Persian Paganism | 0.10% | ~16 |
-| Roman Paganism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
 | Building Wonders | 0.10% | ~16 |
@@ -312,7 +313,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |

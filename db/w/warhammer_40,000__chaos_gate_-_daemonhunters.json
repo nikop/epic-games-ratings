@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 458,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3573,
+  "EOS_Progressed": 3575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4806,6 +4806,11 @@
       "Time": "2023-12-24T18:05:39.4499259+00:00",
       "NumProgressed": 3573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T19:04:58.0714692+00:00",
+      "NumProgressed": 3575,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4969,15 +4974,15 @@
       "Name": "Daemonkeeper",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 107
     },
     {
       "ID": "Kills_Auto",
@@ -5001,7 +5006,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Kills_Executioner",
@@ -5009,7 +5014,7 @@
       "Name": "Executioner",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "Kills_Exterminator",
@@ -5031,9 +5036,9 @@
       "ID": "Kills_Interactable",
       "SetID": "3jha1np",
       "Name": "Opportunist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "Kills_Knockback",
@@ -5145,7 +5150,7 @@
       "Name": "Efficient Killer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -5223,9 +5228,9 @@
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -5241,7 +5246,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -5289,7 +5294,7 @@
       "Name": "Execution Force",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ExperiencedCallidus",
@@ -5353,28 +5358,28 @@
       "Name": "Hive Exterminator",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3573,
+      "Progressed": 3575,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3573,
+      "Progressed": 3575,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:05:39.4499256+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:04:58.0714689+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:03:30.3470058+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:05:39.4499887+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:03:11.6213954+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:04:58.0715416+00:00"
 }

@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~247 |
-| Starting Skyward | 52.00% | ~225 |
+| Starting Skyward | 51.00% | ~221 |
 | Grime is Not Good | 45.00% | ~195 |
 | Floor Galore | 39.00% | ~169 |
 | Dinner Dash | 39.00% | ~169 |
 | Campaign Launch | 38.00% | ~165 |
 | Need a Consult | 36.00% | ~156 |
-| It's Technical | 36.00% | ~156 |
 | Upgrade Unlock | 35.00% | ~152 |
+| It's Technical | 35.00% | ~152 |
 | Delegate Maintenance | 32.00% | ~139 |
 | Proper Walls | 30.00% | ~130 |
 | Destination Destiny | 30.00% | ~130 |
 | Happy Tenants | 25.00% | ~108 |
+| Potent Potables | 25.00% | ~108 |
 | Your Prestige is Rising | 24.00% | ~104 |
-| Potent Potables | 24.00% | ~104 |
 | Smooth Service | 24.00% | ~104 |
 | Retail Revenue | 23.00% | ~100 |
 | Don't Feel a Loan | 22.00% | ~95 |
@@ -39,9 +39,9 @@
 | Boutique Benefits | 12.00% | ~52 |
 | Terrifically Trashed | 12.00% | ~52 |
 | Thrilled Tenants | 12.00% | ~52 |
+| Aestheticly Pleased | 10.00% | ~43 |
 | 28 Days Later | 10.00% | ~43 |
 | Swimming in Surplus | 10.00% | ~43 |
-| Aestheticly Pleased | 9.00% | ~39 |
 | Master of Puppets | 9.00% | ~39 |
 | Refined Palates | 9.00% | ~39 |
 | First 100 Days | 8.00% | ~35 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 345)  
+Progressed: 434 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 413 | 0 |
 | 2023-12-22 | 417 | 0 |
 | 2023-12-23 | 427 | 0 |
-| 2023-12-24 | 433 | 0 |
+| 2023-12-24 | 434 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

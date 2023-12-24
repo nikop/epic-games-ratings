@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 806)
 | The Interrogations | 44.00% | ~207 |
 | Well-acquainted | 42.00% | ~197 |
 | Zakariya Demir | 41.00% | ~193 |
-| Well-read | 39.00% | ~183 |
+| Well-read | 40.00% | ~188 |
 | Cassandra Van den Bosch | 38.00% | ~179 |
 | The Secret | 37.00% | ~174 |
 | Gedeon Demir | 35.00% | ~164 |

@@ -13,8 +13,8 @@
 | Arms Mechanic | 49.00% | ~323 |
 | Flower Thief | 44.00% | ~290 |
 | Apostle of Flame | 39.00% | ~257 |
+| Beginner Artificer | 38.00% | ~251 |
 | Beginner Cook | 37.00% | ~244 |
-| Beginner Artificer | 37.00% | ~244 |
 | Seal Breaker | 32.00% | ~211 |
 | Handyman | 28.00% | ~185 |
 | Giant Lizard Killer | 26.00% | ~172 |
@@ -51,7 +51,7 @@
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 660 (Ranked 310)  
-Completed: 2 (0.30%) (Ranked 253)  
+Completed: 2 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

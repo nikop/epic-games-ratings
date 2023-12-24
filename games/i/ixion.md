@@ -1,27 +1,27 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 457)  
+Rating: 4.58 (Ranked 458)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,145 |
-| Sputnik 2049 | 27.00% | ~997 |
-| Infinite Growth... | 26.00% | ~960 |
+| Wakey Wakey | 31.00% | ~1,146 |
+| Sputnik 2049 | 27.00% | ~998 |
+| Infinite Growth... | 26.00% | ~961 |
 | Without Breaking Some Eggs... | 25.00% | ~924 |
-| A Thousand Strong | 18.00% | ~665 |
-| Ready for a New World | 18.00% | ~665 |
-| Space Society | 17.00% | ~628 |
-| Permanent Redesigns | 16.00% | ~591 |
-| Fully Recycled | 14.00% | ~517 |
-| Ain't Nobody Got Time for That | 14.00% | ~517 |
-| The Ship of Theseus | 14.00% | ~517 |
-| Guy de Borderlands | 13.00% | ~480 |
-| A Hunk of Junk | 12.00% | ~443 |
-| Exceeding Capacity | 12.00% | ~443 |
-| Breaking Protocol | 12.00% | ~443 |
-| Hope Seeker | 12.00% | ~443 |
-| Man's Best Friend | 9.00% | ~332 |
+| A Thousand Strong | 18.00% | ~666 |
+| Ready for a New World | 18.00% | ~666 |
+| Space Society | 17.00% | ~629 |
+| Permanent Redesigns | 16.00% | ~592 |
+| Fully Recycled | 14.00% | ~518 |
+| Ain't Nobody Got Time for That | 14.00% | ~518 |
+| The Ship of Theseus | 14.00% | ~518 |
+| Guy de Borderlands | 13.00% | ~481 |
+| A Hunk of Junk | 12.00% | ~444 |
+| Exceeding Capacity | 12.00% | ~444 |
+| Breaking Protocol | 12.00% | ~444 |
+| Hope Seeker | 12.00% | ~444 |
+| Man's Best Friend | 9.00% | ~333 |
 | Power Outage | 8.00% | ~296 |
 | Convenient Transport | 8.00% | ~296 |
 | Please Make it Stop! | 8.00% | ~296 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,694 (Ranked 211)  
+Progressed: 3,698 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,624 | 0 |
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
-| 2023-12-24 | 3,694 | 0 |
+| 2023-12-24 | 3,698 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

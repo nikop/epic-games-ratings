@@ -5,10 +5,10 @@ Rating: 4.59 (Ranked 443)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~698 |
-| Fetch Quest Complete | 90.00% | ~654 |
-| I can't wait! | 82.00% | ~596 |
-| Swish | 56.00% | ~407 |
+| Pushing a pull door | 96.00% | ~699 |
+| Fetch Quest Complete | 90.00% | ~655 |
+| I can't wait! | 83.00% | ~604 |
+| Swish | 56.00% | ~408 |
 | Clean up on Aisle 9 | 39.00% | ~284 |
 | Machine Maxed | 29.00% | ~211 |
 | Existential dread | 26.00% | ~189 |
@@ -18,7 +18,7 @@ Rating: 4.59 (Ranked 443)
 | I ran the numbers | 15.00% | ~109 |
 | Taking the plunge | 13.00% | ~95 |
 | Hidden Packages | 11.00% | ~80 |
-| GOOOAAAL | 9.00% | ~65 |
+| GOOOAAAL | 9.00% | ~66 |
 | Ahoy Hoy | 7.00% | ~51 |
 | Rhythm is a dancer | 6.00% | ~44 |
 | New Kid on the Block | 6.00% | ~44 |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 443)
 | It's a horror game | 0.80% | ~6 |
 | Got 9999 problem but a Zombie ain't one | 0.80% | ~6 |
 | Friends Reunited | 0.70% | ~5 |
-| Arcadeception | 0.60% | ~4 |
+| Arcadeception | 0.50% | ~4 |
 | Corporate Restructrure | 0.40% | ~3 |
 | Sonically Youthful | 0.40% | ~3 |
 | Many Machines Maxed | 0.30% | ~2 |
@@ -60,7 +60,7 @@ Rating: 4.59 (Ranked 443)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 301)  
+Progressed: 728 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-20 | 720 | 0 |
 | 2023-12-22 | 721 | 0 |
 | 2023-12-23 | 722 | 0 |
-| 2023-12-24 | 727 | 0 |
+| 2023-12-24 | 728 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

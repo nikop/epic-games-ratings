@@ -5,10 +5,10 @@
   "Ranking_Rating": 10,
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -235,9 +235,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2985,6 +2985,11 @@
       "Time": "2023-12-24T18:08:47.4720051+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T19:08:24.2201929+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3037,7 +3042,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "BreakTheLoop",
@@ -3053,7 +3058,7 @@
       "Name": "Bridge Builder",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ChasingTheLight",
@@ -3061,15 +3066,15 @@
       "Name": "Chasing the Light",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Chicken",
       "SetID": "1n308hc",
       "Name": "Chicken",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CircularOasis",
@@ -3101,7 +3106,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EcstaticTruth",
@@ -3213,7 +3218,7 @@
       "Name": "Museum Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "MuseumVisitor",
@@ -3389,15 +3394,15 @@
       "Name": "The Spark",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 224
     },
     {
       "ID": "TheWordEndures",
@@ -3419,9 +3424,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 78
     },
     {
       "ID": "VerdantCanyon",
@@ -3437,7 +3442,7 @@
       "Name": "Wanderers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "WesternDelta",
@@ -3453,7 +3458,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "YourBiggestFan",
@@ -3468,7 +3473,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1121,
       "Completed": 2
     }
   ],
@@ -3476,8 +3481,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-24T13:57:49.2610926+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:08:47.4720048+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:08:24.2201925+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:25.5127349+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:08:47.4720542+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:13.59448+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:08:24.2202538+00:00"
 }

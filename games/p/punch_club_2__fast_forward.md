@@ -67,8 +67,8 @@
 | Anyone can resist | 29.00% | ~133 |
 | The heart of the Resistance | 29.00% | ~133 |
 | The last bell ring | 28.00% | ~128 |
+| Better cooking at home | 27.00% | ~124 |
 | Silver’s past | 26.00% | ~119 |
-| Better cooking at home | 26.00% | ~119 |
 | The only right decision | 26.00% | ~119 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 458 (Ranked 339)  

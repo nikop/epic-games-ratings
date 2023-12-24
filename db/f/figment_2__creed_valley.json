@@ -315,9 +315,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -427,9 +427,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -444,8 +444,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:11:04.8310078+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:10:16.535549+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.3876673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:06.1983636+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:11:04.8310179+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:57:57.8961766+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:10:16.5355634+00:00"
 }

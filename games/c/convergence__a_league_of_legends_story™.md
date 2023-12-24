@@ -6,8 +6,8 @@ Rating: 4.65 (Ranked 320)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 40.00% | ~436 |
+| Rail Rat | 31.00% | ~338 |
 | The Mysterious Stranger | 30.00% | ~327 |
-| Rail Rat | 30.00% | ~327 |
 | Immaculate Aim | 25.00% | ~272 |
 | The Brass Boss | 24.00% | ~262 |
 | Make Up For Lost Time | 23.00% | ~251 |
@@ -15,16 +15,16 @@ Rating: 4.65 (Ranked 320)
 | No, Thanks! | 23.00% | ~251 |
 | The Prince in Heels | 23.00% | ~251 |
 | Honest Mistake | 23.00% | ~251 |
+| Fast Learner | 23.00% | ~251 |
 | Immaculate Aim | 23.00% | ~251 |
 | The Steel Shadow | 22.00% | ~240 |
 | The Harder They Fall | 22.00% | ~240 |
 | Breaking Down Barriers | 22.00% | ~240 |
 | The Wicked Twins | 22.00% | ~240 |
-| Fast Learner | 22.00% | ~240 |
+| Golem Chaser | 21.00% | ~229 |
 | Right On Time | 20.00% | ~218 |
 | Like Clockwork | 20.00% | ~218 |
 | The Betrayer | 20.00% | ~218 |
-| Golem Chaser | 20.00% | ~218 |
 | The Loose Cannon | 19.00% | ~207 |
 | Check Your Pulse | 19.00% | ~207 |
 | The Man Who Shattered Time | 18.00% | ~196 |
@@ -35,8 +35,8 @@ Rating: 4.65 (Ranked 320)
 | Treasure Trove | 13.00% | ~142 |
 | Family Memories | 13.00% | ~142 |
 | Cartographer | 13.00% | ~142 |
+| Ask Questions Later | 13.00% | ~142 |
 | Chaincrawler Explorer | 12.00% | ~131 |
-| Ask Questions Later | 12.00% | ~131 |
 | Sump Explorer | 11.00% | ~120 |
 | Syron for Hope | 11.00% | ~120 |
 | Factorywood Explorer | 10.00% | ~109 |

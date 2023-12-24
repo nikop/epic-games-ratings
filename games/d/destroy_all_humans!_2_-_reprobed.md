@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 550)  
+Rating: 4.53 (Ranked 549)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 43.00% | ~77 |
 | Shop Til They Drop | 38.00% | ~68 |
 | Bodied Sattva | 33.00% | ~59 |
+| Earthly Pleasures | 31.00% | ~55 |
 | Cult Following | 30.00% | ~53 |
-| Earthly Pleasures | 30.00% | ~53 |
 | Upgreatest | 24.00% | ~43 |
 | Lie Back and Think of Albion | 23.00% | ~41 |
 | Pimp My Raid | 22.00% | ~39 |
@@ -27,7 +27,7 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 7.00% | ~12 |
 | Kaijuiced | 7.00% | ~12 |
 | Scuttled | 6.00% | ~11 |
-| Re-Return of the Clone of the Invasion II-2 | 5.00% | ~9 |
+| Re-Return of the Clone of the Invasion II-2 | 6.00% | ~11 |
 | Lobster Blisque | 3.00% | ~5 |
 | Yettisoned | 3.00% | ~5 |
 | Ultimate Smoothie | 2.00% | ~4 |

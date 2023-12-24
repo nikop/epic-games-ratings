@@ -2,12 +2,12 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1759,
+  "EOS_Progressed": 1762,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2863,6 +2863,11 @@
       "Time": "2023-12-24T17:04:47.8859338+00:00",
       "NumProgressed": 1759,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T19:03:46.4406812+00:00",
+      "NumProgressed": 1762,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2874,7 +2879,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "10",
@@ -2882,7 +2887,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "11",
@@ -2890,7 +2895,7 @@
       "Name": "Strike!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "12",
@@ -2898,7 +2903,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "13",
@@ -2906,7 +2911,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "14",
@@ -2922,7 +2927,7 @@
       "Name": "Back to rust",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "16",
@@ -2936,9 +2941,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1286
     },
     {
       "ID": "18",
@@ -2962,7 +2967,7 @@
       "Name": "Flower Powered",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "20",
@@ -2970,7 +2975,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "21",
@@ -3026,7 +3031,7 @@
       "Name": "A love supreme",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "3",
@@ -3034,7 +3039,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "30",
@@ -3064,9 +3069,9 @@
       "ID": "4",
       "SetID": "n50no0",
       "Name": "Head in the clouds",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 211
     },
     {
       "ID": "5",
@@ -3082,7 +3087,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "7",
@@ -3098,7 +3103,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "9",
@@ -3113,15 +3118,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1759,
+      "Progressed": 1762,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:04:11.7380089+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:03:46.440681+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:11.4095638+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:04:11.7380352+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:02.08303+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:03:46.4407042+00:00"
 }

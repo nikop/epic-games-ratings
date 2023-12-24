@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Um, ok... | 52.00% | ~131 |
 | Super Seducer | 51.00% | ~128 |
-| Congratulations, you are a sadist | 47.00% | ~118 |
+| Congratulations, you are a sadist | 48.00% | ~120 |
 | Superstar-crossed lovers | 39.00% | ~98 |
 | A leader, you are not | 34.00% | ~85 |
 | Comedy Killer | 32.00% | ~80 |
 | Good job, nerd | 32.00% | ~80 |
+| Bromance | 31.00% | ~78 |
 | This won't end well... | 31.00% | ~78 |
-| Bromance | 30.00% | ~75 |
 | Mission Complete | 30.00% | ~75 |
 | Lootaphilia | 22.00% | ~55 |
 | Maybe you should give it another go | 12.00% | ~30 |
@@ -22,7 +22,7 @@
 | That's my boy! | 4.00% | ~10 |
 | We tried to warn you! | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251 (Ranked 394)  
+Progressed: 251 (Ranked 395)  
 Completed: 6 (2.39%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |

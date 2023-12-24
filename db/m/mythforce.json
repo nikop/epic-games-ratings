@@ -842,7 +842,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5788,
+  "EOS_Progressed": 5790,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -11742,6 +11742,11 @@
       "Time": "2023-12-24T18:07:17.5185047+00:00",
       "NumProgressed": 5788,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T19:06:17.4218419+00:00",
+      "NumProgressed": 5790,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11786,7 +11791,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11794,7 +11799,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -11842,7 +11847,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11866,7 +11871,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11874,7 +11879,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -11890,7 +11895,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11922,7 +11927,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -11937,15 +11942,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5788,
+      "Progressed": 5790,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:07:17.5185043+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:06:17.4218416+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:10.8256698+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:07:17.5185774+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:01.5827118+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:06:17.4219005+00:00"
 }

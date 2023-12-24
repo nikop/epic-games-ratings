@@ -1,12 +1,12 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 457)  
+Rating: 4.58 (Ranked 458)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 14.00% | ~500 |
+| Executioner | 14.00% | ~501 |
 | Look Over There! | 11.00% | ~393 |
 | Not So Fast... | 11.00% | ~393 |
 | Watch Where You Step... | 11.00% | ~393 |
@@ -19,16 +19,16 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 4.00% | ~143 |
 | The Emperor Protects | 4.00% | ~143 |
 | A Foul Creche | 4.00% | ~143 |
+| Hold Your Ground | 3.00% | ~107 |
 | Nemesis Master | 3.00% | ~107 |
 | Gunmaster | 3.00% | ~107 |
 | Just a Scratch | 3.00% | ~107 |
-| Daemonkeeper | 2.00% | ~71 |
-| Hold Your Ground | 2.00% | ~71 |
-| Corruption Cleanser | 2.00% | ~71 |
-| Efficient Killer | 2.00% | ~71 |
-| A Gift Spurned | 2.00% | ~71 |
-| Execution Force | 2.00% | ~71 |
-| Hive Exterminator | 2.00% | ~71 |
+| Daemonkeeper | 2.00% | ~72 |
+| Corruption Cleanser | 2.00% | ~72 |
+| Efficient Killer | 2.00% | ~72 |
+| A Gift Spurned | 2.00% | ~72 |
+| Execution Force | 2.00% | ~72 |
+| Hive Exterminator | 2.00% | ~72 |
 | Fleetmaster | 1.00% | ~36 |
 | Exterminator | 1.00% | ~36 |
 | Mind Like a Fortress | 1.00% | ~36 |
@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.90% | ~32 |
 | Death Comes For All | 0.90% | ~32 |
 | Engine Kill | 0.80% | ~29 |
+| Harvest No More | 0.80% | ~29 |
 | Hands-On Research | 0.70% | ~25 |
-| Harvest No More | 0.70% | ~25 |
 | Strike Force | 0.60% | ~21 |
 | True Mastery | 0.60% | ~21 |
 | Exercise in Restraint | 0.50% | ~18 |
@@ -56,6 +56,7 @@ Number of Ratings: 371  (23.09.2022)
 | Abomination | 0.30% | ~11 |
 | Killing Rampage | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
+| Opportunist | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
 | Deadshot | 0.20% | ~7 |
@@ -66,7 +67,6 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.10% | ~4 |
 | Dominus | 0.10% | ~4 |
 | Drone Army | 0.10% | ~4 |
-| Opportunist | 0.10% | ~4 |
 | Master of the Forge | 0.10% | ~4 |
 | Field Apothecarion | 0.10% | ~4 |
 | Brothers in Arms | 0.10% | ~4 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573 (Ranked 215)  
+Progressed: 3,575 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,510 | 0 |
 | 2023-12-22 | 3,530 | 0 |
 | 2023-12-23 | 3,552 | 0 |
-| 2023-12-24 | 3,573 | 0 |
+| 2023-12-24 | 3,575 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 279)  
 Sum: 492 (Ranked 334)  

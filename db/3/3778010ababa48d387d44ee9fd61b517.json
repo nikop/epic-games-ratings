@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "A_KILLS kills_1 (0-100)",
@@ -337,9 +337,9 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -449,9 +449,9 @@
       "ID": "A_TURTLES",
       "SetID": "324h56e",
       "Name": "Turtle Beach",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_WASP",
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:09:10.044865+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:08:43.1036863+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.9451598+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:57:58.0822211+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:09:10.0448857+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:57:50.7498028+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:08:43.1037093+00:00"
 }

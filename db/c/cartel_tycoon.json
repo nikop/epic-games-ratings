@@ -5,10 +5,10 @@
   "Ranking_Rating": 796,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 848,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
@@ -2946,6 +2946,11 @@
       "Time": "2023-12-24T16:06:34.17791+00:00",
       "NumProgressed": 847,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T19:06:38.2052726+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2955,9 +2960,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 297
     },
     {
       "ID": "cool-shirts",
@@ -2981,7 +2986,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "female-conqueror",
@@ -3005,7 +3010,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "kill-lieutenants",
@@ -3021,7 +3026,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "play-at-night",
@@ -3069,15 +3074,15 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 466
+      "UsersEstimate": 458
     },
     {
       "ID": "unlock-residences",
@@ -3108,15 +3113,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 848,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:07:44.1296059+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:06:38.2052722+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:59:28.012387+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:07:44.1296309+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:59:02.6897246+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:06:38.2052936+00:00"
 }

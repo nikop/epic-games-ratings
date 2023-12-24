@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4104,
+  "EOS_Progressed": 4105,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -8969,6 +8969,11 @@
       "Time": "2023-12-24T17:10:25.6704094+00:00",
       "NumProgressed": 4104,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-24T19:09:25.0770395+00:00",
+      "NumProgressed": 4105,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9114,9 +9119,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 944
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9186,9 +9191,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1232
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9228,7 +9233,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9292,7 +9297,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9316,7 +9321,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9547,13 +9552,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4055,
+      "Progressed": 4056,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4104,
+      "Progressed": 4105,
       "Completed": 11
     }
   ],
@@ -9561,8 +9566,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:10:02.2500735+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:09:25.0770394+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:09.1299747+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:10:02.2501616+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:00.1821171+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:09:25.0771169+00:00"
 }

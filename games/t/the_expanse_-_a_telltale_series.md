@@ -5,24 +5,24 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,595 |
-| Captain Drummer | 11.00% | ~1,903 |
-| The Pit and the Pirates | 10.00% | ~1,730 |
-| Bosmang | 10.00% | ~1,730 |
-| Celebrations are in Order | 10.00% | ~1,730 |
-| Impossible Objects | 10.00% | ~1,730 |
-| Martian Music | 9.00% | ~1,557 |
-| Drone Dodger | 9.00% | ~1,557 |
-| Stogie for Fogey | 8.00% | ~1,384 |
-| Spore Taste | 8.00% | ~1,384 |
-| Safe Cracker | 8.00% | ~260 |
-| Zen Master | 8.00% | ~260 |
-| Call it Even | 7.00% | ~1,211 |
+| Oyedang, Kopengs | 15.00% | ~2,596 |
+| Captain Drummer | 11.00% | ~1,904 |
+| The Pit and the Pirates | 10.00% | ~1,731 |
+| Bosmang | 10.00% | ~1,731 |
+| Celebrations are in Order | 10.00% | ~1,731 |
+| Impossible Objects | 10.00% | ~1,731 |
+| Martian Music | 9.00% | ~1,558 |
+| Drone Dodger | 9.00% | ~1,558 |
+| Stogie for Fogey | 8.00% | ~1,385 |
+| Spore Taste | 8.00% | ~1,385 |
+| Safe Cracker | 8.00% | ~261 |
+| Zen Master | 8.00% | ~261 |
+| Call it Even | 7.00% | ~1,212 |
 | Madame Undersecretary | 7.00% | ~228 |
 | Data Archivist | 6.00% | ~1,038 |
 | Drug Gifter | 6.00% | ~1,038 |
 | Heal Thy Medic | 6.00% | ~1,038 |
-| Keep Arjun in Check | 6.00% | ~195 |
+| Keep Arjun in Check | 6.00% | ~196 |
 | Doctor Approved | 5.00% | ~865 |
 | Thorston Mayer | 5.00% | ~865 |
 | Khan's Revenge | 5.00% | ~865 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,302 (Ranked 156)  
-Completed: 52 (0.30%) (Ranked 253)  
+Progressed: 17,308 (Ranked 156)  
+Completed: 52 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
-| 2023-12-24 | 17,302 | 52 |
+| 2023-12-24 | 17,308 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

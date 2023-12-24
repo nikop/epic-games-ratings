@@ -15,14 +15,14 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 7.00% | ~524 |
 | Things that go Splash in the Night | 5.00% | ~374 |
 | Fish Out of Water | 4.00% | ~300 |
-| Goldfish? | 3.00% | ~225 |
+| Goldfish? | 4.00% | ~300 |
 | Going for Gold | 3.00% | ~225 |
 | School's Out for Summer | 3.00% | ~225 |
 | License to Gill | 2.00% | ~150 |
 | I'm Hooked! | 2.00% | ~150 |
 | Diamond in the Rough | 0.90% | ~67 |
 | I'm the Captain Now | 0.80% | ~60 |
-| Marathon | 0.70% | ~52 |
+| Marathon | 0.80% | ~60 |
 | Hook, Line and Sinker | 0.60% | ~45 |
 | More than a Tourist | 0.50% | ~37 |
 | No Fin left to give | 0.50% | ~37 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,489 (Ranked 188)  
+Progressed: 7,490 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,10 +295,10 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 7,339 | 0 |
 | 2023-12-22 | 7,389 | 0 |
 | 2023-12-23 | 7,447 | 0 |
-| 2023-12-24 | 7,489 | 0 |
+| 2023-12-24 | 7,490 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 469)  
-Sum: 210 (Ranked 405)  
+Sum: 211 (Ranked 405)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): 64
 | This game is Highly Recommended | 38 |
 | This game has Amazing Storytelling | 36 |
 | This game is Extremely Fun | 32 |
-| This game has Quickly Understood Controls | 24 |
+| This game has Quickly Understood Controls | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -413,3 +413,4 @@ Diff (max vs sum): 64
 | 2023-12-18 | 4.20 | - | 39 | 207 |
 | 2023-12-19 | 4.20 | - | 40 | 209 |
 | 2023-12-21 | 4.20 | - | 41 | 210 |
+| 2023-12-24 | 4.20 | - | 41 | 211 |

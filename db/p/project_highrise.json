@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1335,6 +1335,11 @@
       "Time": "2023-12-24T17:06:21.7440448+00:00",
       "NumProgressed": 433,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T19:04:58.7566221+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1496,9 +1501,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_consultants_b",
@@ -1648,9 +1653,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 221
     },
     {
       "ID": "ach_floors_1",
@@ -1744,9 +1749,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_office_2",
@@ -1872,9 +1877,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_restaurants_5",
@@ -2049,7 +2054,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 0
     }
   ],
@@ -2057,8 +2062,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:05:40.1202986+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:04:58.7566217+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:57:43.7404145+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:05:40.1203713+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:57:39.5866166+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:04:58.7567222+00:00"
 }

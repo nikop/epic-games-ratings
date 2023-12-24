@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4400,
+  "EOS_Progressed": 4401,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1812,6 +1812,11 @@
       "Time": "2023-12-24T09:11:02.5208087+00:00",
       "NumProgressed": 4400,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T19:10:25.9867585+00:00",
+      "NumProgressed": 4401,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2109,9 +2114,9 @@
       "ID": "ACHIEVEMENT_PRESTIGE3",
       "SetID": "9eacipp",
       "Name": "An honorable Governor III",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_QUESTS1",
@@ -2245,9 +2250,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
       "SetID": "9eacipp",
       "Name": "Craftsmen challenge",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
@@ -2517,9 +2522,9 @@
       "ID": "ACHIEVEMENT_TIME2",
       "SetID": "9eacipp",
       "Name": "A time consuming game II",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2630,15 +2635,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4400,
+      "Progressed": 4401,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:11:16.8520669+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:10:25.9867581+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.3199868+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:00:52.9340794+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:11:16.8521548+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:00:08.4998387+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:10:25.9868492+00:00"
 }

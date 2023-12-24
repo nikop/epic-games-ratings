@@ -5,24 +5,24 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~552 |
+| Secret Technique | 9.00% | ~553 |
 | Realm Estate | 8.00% | ~491 |
-| A Wonderful Discovery | 7.00% | ~429 |
-| Walls Cannot Stop Us | 7.00% | ~429 |
+| A Wonderful Discovery | 7.00% | ~430 |
+| Walls Cannot Stop Us | 7.00% | ~430 |
 | From Friends to Family | 6.00% | ~368 |
 | Bone Peddler | 5.00% | ~307 |
 | But this one is mine | 5.00% | ~307 |
-| There Can Only Be One! | 4.00% | ~245 |
-| Full Ascension | 4.00% | ~245 |
-| Stronger Together | 4.00% | ~245 |
-| Magical Synergy | 4.00% | ~245 |
-| Seat of Power | 4.00% | ~245 |
-| In a Liege of Your Own | 4.00% | ~245 |
+| There Can Only Be One! | 4.00% | ~246 |
+| Full Ascension | 4.00% | ~246 |
+| Stronger Together | 4.00% | ~246 |
+| Magical Synergy | 4.00% | ~246 |
+| Seat of Power | 4.00% | ~246 |
+| In a Liege of Your Own | 4.00% | ~246 |
 | Valley of Wonders | 3.00% | ~184 |
+| Digging for Treasure | 3.00% | ~184 |
 | Intimidation Tactics | 3.00% | ~184 |
 | Return of the Wizard King | 2.00% | ~123 |
 | Enchanted Archipelago | 2.00% | ~123 |
-| Digging for Treasure | 2.00% | ~123 |
 | Crimson Caldera | 2.00% | ~123 |
 | Preparation Is Everything | 2.00% | ~123 |
 | My Final Form | 2.00% | ~123 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,135 (Ranked 193)  
+Progressed: 6,141 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,135 | 7 |
+| 2023-12-24 | 6,141 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 476)  
 Sum: 136 (Ranked 438)  

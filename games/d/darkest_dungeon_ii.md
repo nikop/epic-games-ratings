@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~449 |
-| Lost and Found | 6.00% | ~269 |
-| Autodidact | 5.00% | ~6,481 |
+| Malpractice Assurance | 10.00% | ~450 |
+| Lost and Found | 6.00% | ~270 |
+| Autodidact | 5.00% | ~6,482 |
 | This guy... again? | 5.00% | ~225 |
 | This Belongs in a Museum | 4.00% | ~5,185 |
 | Creep and Sleep | 4.00% | ~5,185 |
@@ -32,26 +32,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 3.00% | ~3,889 |
 | Nope | 3.00% | ~3,889 |
 | Friends 'Til the End | 3.00% | ~135 |
-| Resurrection | 2.00% | ~2,592 |
-| Unleash Hell | 2.00% | ~2,592 |
-| Funny Guy | 2.00% | ~2,592 |
-| Long Live the King | 2.00% | ~2,592 |
-| Wyrdly Reconstructed | 2.00% | ~2,592 |
-| Boxcar Kid | 2.00% | ~2,592 |
-| Unfulfilled Desires | 2.00% | ~2,592 |
-| Predator | 2.00% | ~2,592 |
-| Dissector | 2.00% | ~2,592 |
-| Banishment | 2.00% | ~2,592 |
-| Deprogramming | 2.00% | ~2,592 |
-| Now Stay Dead | 2.00% | ~2,592 |
-| Reverse Banditry | 2.00% | ~2,592 |
-| Spelunker | 2.00% | ~2,592 |
-| Ramble On | 2.00% | ~2,592 |
-| A Clear Conscience | 2.00% | ~2,592 |
-| When You Want Something Done Right | 2.00% | ~2,592 |
-| Utopia | 2.00% | ~2,592 |
-| Unshackled | 2.00% | ~2,592 |
-| Road Trip | 2.00% | ~2,592 |
+| Resurrection | 2.00% | ~2,593 |
+| Unleash Hell | 2.00% | ~2,593 |
+| Funny Guy | 2.00% | ~2,593 |
+| Long Live the King | 2.00% | ~2,593 |
+| Wyrdly Reconstructed | 2.00% | ~2,593 |
+| Boxcar Kid | 2.00% | ~2,593 |
+| Unfulfilled Desires | 2.00% | ~2,593 |
+| Predator | 2.00% | ~2,593 |
+| Dissector | 2.00% | ~2,593 |
+| Banishment | 2.00% | ~2,593 |
+| Deprogramming | 2.00% | ~2,593 |
+| Now Stay Dead | 2.00% | ~2,593 |
+| Reverse Banditry | 2.00% | ~2,593 |
+| Spelunker | 2.00% | ~2,593 |
+| Ramble On | 2.00% | ~2,593 |
+| A Clear Conscience | 2.00% | ~2,593 |
+| When You Want Something Done Right | 2.00% | ~2,593 |
+| Utopia | 2.00% | ~2,593 |
+| Unshackled | 2.00% | ~2,593 |
+| Road Trip | 2.00% | ~2,593 |
 | This Looks Familiar | 1.00% | ~1,296 |
 | Hope Rekindled | 1.00% | ~1,296 |
 | Ichthyophobic | 1.00% | ~1,296 |
@@ -61,21 +61,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 1.00% | ~1,296 |
 | Slap on the Wrist | 1.00% | ~45 |
 | Handled | 0.90% | ~1,167 |
-| For Old Time' Sake | 0.90% | ~40 |
+| For Old Time' Sake | 0.90% | ~41 |
 | Body of Work | 0.80% | ~1,037 |
 | Shrine of Reflection | 0.70% | ~907 |
-| Et Tu, Riposte? | 0.70% | ~31 |
+| Et Tu, Riposte? | 0.70% | ~32 |
 | Clearing the Ledger | 0.60% | ~778 |
 | Triage | 0.60% | ~778 |
+| No Mercy | 0.60% | ~27 |
 | Hat Trick | 0.50% | ~648 |
-| No Mercy | 0.50% | ~22 |
-| The World As It Was | 0.40% | ~518 |
-| Bacon Bits | 0.40% | ~518 |
+| The World As It Was | 0.40% | ~519 |
+| Bacon Bits | 0.40% | ~519 |
 | A Life Well Lived | 0.30% | ~389 |
 | Eidetic | 0.30% | ~389 |
-| Battle Hardened | 0.30% | ~13 |
-| Maître De La Lame | 0.30% | ~13 |
-| On This Long Road, We Found Redemption | 0.30% | ~13 |
+| Battle Hardened | 0.30% | ~14 |
+| Maître De La Lame | 0.30% | ~14 |
+| On This Long Road, We Found Redemption | 0.30% | ~14 |
 | Tears in the Rain | 0.20% | ~259 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
@@ -84,9 +84,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~130 |
 | Grand Slam | 0.10% | ~130 |
 | Hard Mode | 0.10% | ~130 |
-| These Boots Are Made For Kickin' | 0.10% | ~4 |
+| These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,622 (Ranked 87)  
+Progressed: 129,633 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,622 | 3 |
+| 2023-12-24 | 129,633 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
-Sum: 21,037 (Ranked 58)  
+Sum: 21,041 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,491 |
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,415 |
-| This game has Amazing Storytelling | 1,405 |
+| This game has Amazing Storytelling | 1,409 |
 | This game has Quickly Understood Controls | 1,378 |
 | This game has a Creative Community | 1,050 |
 | This game has Obsessive Gameplay | 585 |
@@ -676,4 +676,4 @@ Diff (max vs sum): -8
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
-| 2023-12-24 | 4.68 | - | 7,851 | 21,037 |
+| 2023-12-24 | 4.68 | - | 7,851 | 21,041 |

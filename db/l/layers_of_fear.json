@@ -2,7 +2,7 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 147,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -879,6 +879,11 @@
       "Time": "2023-12-24T18:07:11.9024277+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T19:06:12.8355094+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -995,15 +1000,15 @@
       "Name": "Refuse to look",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "earn_all_trophies",
@@ -1049,9 +1054,9 @@
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "find_one_poster",
@@ -1163,7 +1168,7 @@
       "Name": "A piece of the story",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "playtime",
@@ -1219,7 +1224,7 @@
       "Name": "Sign of weakness",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "something_important",
@@ -1227,15 +1232,15 @@
       "Name": "Something important",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "spy_one_item",
       "SetID": "f2im8d",
       "Name": "Fisherman",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1291,7 +1296,7 @@
       "Name": "Wanderer",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1306,14 +1311,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:07:11.9024264+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:06:12.8355089+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:57:11.2691012+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:07:11.902462+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:57:13.4191526+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:06:12.8355544+00:00"
 }

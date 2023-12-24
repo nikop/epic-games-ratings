@@ -32,7 +32,7 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 1.00% | ~7 |
 | From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
-| Grand Master | 0.80% | ~6 |
+| Grand Master | 1.00% | ~7 |
 | In The Thick of It | 0.50% | ~4 |
 | Get Over Here! | 0.50% | ~4 |
 | Death To Diplomacy | 0.40% | ~3 |

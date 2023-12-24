@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 80.00% | ~39 |
-| Grand Re-Opening | 69.00% | ~34 |
-| Pup Pup Boogie | 65.00% | ~32 |
-| Summer Day | 63.00% | ~31 |
-| Mr. Porter | 55.00% | ~27 |
-| Risky Rescue | 53.00% | ~26 |
-| Carlos Is Tangled | 51.00% | ~25 |
-| Clear the Road | 43.00% | ~21 |
-| Mandy Family | 43.00% | ~21 |
-| Paw patrol member | 41.00% | ~20 |
-| Robot Out of Control | 41.00% | ~20 |
-| In the Air | 37.00% | ~18 |
-| Never Miss | 37.00% | ~18 |
-| Break Time | 35.00% | ~17 |
-| Master of the Rope | 35.00% | ~17 |
-| Training Day | 33.00% | ~16 |
-| Animal Sighting | 29.00% | ~14 |
-| The Fastest | 27.00% | ~13 |
+| Mighty Powers | 78.00% | ~39 |
+| Grand Re-Opening | 68.00% | ~34 |
+| Pup Pup Boogie | 64.00% | ~32 |
+| Summer Day | 62.00% | ~31 |
+| Mr. Porter | 54.00% | ~27 |
+| Risky Rescue | 52.00% | ~26 |
+| Carlos Is Tangled | 50.00% | ~25 |
+| Clear the Road | 42.00% | ~21 |
+| Mandy Family | 42.00% | ~21 |
+| Paw patrol member | 40.00% | ~20 |
+| Robot Out of Control | 40.00% | ~20 |
+| In the Air | 36.00% | ~18 |
+| Never Miss | 36.00% | ~18 |
+| Break Time | 34.00% | ~17 |
+| Master of the Rope | 34.00% | ~17 |
+| Training Day | 32.00% | ~16 |
+| Animal Sighting | 28.00% | ~14 |
+| The Fastest | 26.00% | ~13 |
 | Don’t Miss Any | 24.00% | ~12 |
 | You Have Been Everywhere | 20.00% | ~10 |
 | Adventure Bay’s Citizen | 20.00% | ~10 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 539)  
+Progressed: 50 (Ranked 534)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-18 | 47 | 0 |
 | 2023-12-22 | 48 | 0 |
 | 2023-12-23 | 49 | 0 |
+| 2023-12-24 | 50 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

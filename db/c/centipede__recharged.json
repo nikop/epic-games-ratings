@@ -347,7 +347,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23986,
+  "EOS_Progressed": 23988,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -20892,6 +20892,11 @@
       "Time": "2023-12-24T18:06:24.5204981+00:00",
       "NumProgressed": 23986,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-24T19:05:34.0466288+00:00",
+      "NumProgressed": 23988,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -20911,7 +20916,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6236
+      "UsersEstimate": 6237
     },
     {
       "ID": "Deadline",
@@ -20935,7 +20940,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "Feel_The_Thunder",
@@ -20999,7 +21004,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11513
+      "UsersEstimate": 11514
     },
     {
       "ID": "Sole_Survivor",
@@ -21007,7 +21012,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8395
+      "UsersEstimate": 8396
     },
     {
       "ID": "Still_Burning",
@@ -21030,15 +21035,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 23986,
+      "Progressed": 23988,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-22T12:00:46.2933916+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:06:24.5204972+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:05:34.0466283+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0171346+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:02:48.4887321+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:06:24.520604+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:01:10.0810099+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:05:34.0467526+00:00"
 }

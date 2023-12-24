@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~430 |
-| And again, and again, and... | 64.00% | ~320 |
-| Kuvaq Minigame-Master | 62.00% | ~310 |
-| Burn, Elysium, burn! | 62.00% | ~310 |
-| FunScore | 55.00% | ~275 |
-| Funtime's over | 52.00% | ~260 |
+| Huzza, he's back. | 86.00% | ~431 |
+| And again, and again, and... | 64.00% | ~321 |
+| Kuvaq Minigame-Master | 62.00% | ~311 |
+| Burn, Elysium, burn! | 62.00% | ~311 |
+| FunScore | 55.00% | ~276 |
+| Funtime's over | 52.00% | ~261 |
 | Chunky | 50.00% | ~250 |
 | Shall we play a game? | 48.00% | ~240 |
 | Boat of love, boat of love | 48.00% | ~240 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 512)
 | Distraction | 5.00% | ~25 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 331)  
+Progressed: 501 (Ranked 331)  
 Completed: 7 (1.40%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 7 (1.40%) (Ranked 150)
 | 2023-12-21 | 494 | 7 |
 | 2023-12-22 | 496 | 7 |
 | 2023-12-23 | 497 | 7 |
-| 2023-12-24 | 500 | 7 |
+| 2023-12-24 | 501 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

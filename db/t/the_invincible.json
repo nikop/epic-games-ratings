@@ -2,12 +2,12 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2547,6 +2547,11 @@
       "Time": "2023-12-24T18:10:23.2322514+00:00",
       "NumProgressed": 953,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T19:09:42.0496513+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2559,7 +2564,7 @@
       "Name": "The Teleprobe",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "AchvAllMemories",
@@ -2687,7 +2692,7 @@
       "Name": "The Necroevolution",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "AchvNest",
@@ -2725,9 +2730,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 401
     },
     {
       "ID": "AchvReachCamp",
@@ -2735,7 +2740,7 @@
       "Name": "The Camp",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "AchvReachCity",
@@ -2743,7 +2748,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "AchvReachCondor",
@@ -2775,7 +2780,7 @@
       "Name": "The End",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "AchvUnity",
@@ -2790,7 +2795,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 0
     }
   ],
@@ -2798,8 +2803,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-24T16:57:52.2929542+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:10:23.2322509+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:09:42.0496511+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:57:29.3501629+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:10:23.2322813+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:57:28.0249588+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:09:42.0496749+00:00"
 }

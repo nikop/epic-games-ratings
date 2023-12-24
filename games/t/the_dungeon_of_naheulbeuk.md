@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,994 |
+| Sowwy! | 36.00% | ~87,996 |
 | Alt+F4 | 10.00% | ~24,443 |
 | Where's that freaking Dwarf? | 9.00% | ~21,999 |
 | Déjà vu | 7.00% | ~17,110 |
 | Sock! SOCK! | 6.00% | ~14,666 |
-| A beer, two curses, three companions | 5.00% | ~12,221 |
-| GG EZ | 5.00% | ~12,221 |
-| Speedrun | 5.00% | ~12,221 |
+| A beer, two curses, three companions | 5.00% | ~12,222 |
+| GG EZ | 5.00% | ~12,222 |
+| Speedrun | 5.00% | ~12,222 |
 | DM intervention | 4.00% | ~9,777 |
 | Fireproof Wizardess | 4.00% | ~9,777 |
 | Livin' in a dwarven paradise | 3.00% | ~7,333 |
@@ -22,6 +22,7 @@ Number of Ratings: 118  (23.09.2022)
 | The demons' feast | 3.00% | ~7,333 |
 | The Great Library | 3.00% | ~7,333 |
 | The Woman in the High Castle | 3.00% | ~7,333 |
+| Team Building Exercise | 3.00% | ~7,333 |
 | Oh, when I'll be level 10... | 3.00% | ~7,333 |
 | Shiny and Crôm | 2.00% | ~4,889 |
 | Torture and Sensibility | 2.00% | ~4,889 |
@@ -38,7 +39,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~4,889 |
 | I am the night | 2.00% | ~4,889 |
 | Thieves' Guild Accreditation | 2.00% | ~4,889 |
-| Team Building Exercise | 2.00% | ~4,889 |
 | %#*!$*! | 1.00% | ~2,444 |
 | Dead for good | 1.00% | ~2,444 |
 | Gargantua | 1.00% | ~2,444 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,429 (Ranked 66)  
+Progressed: 244,433 (Ranked 66)  
 Completed: 7 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 7 (0.00%) (Ranked 388)
 | 2023-12-21 | 243,905 | 7 |
 | 2023-12-22 | 244,079 | 7 |
 | 2023-12-23 | 244,299 | 7 |
-| 2023-12-24 | 244,429 | 7 |
+| 2023-12-24 | 244,433 | 7 |
 ## Awards
 Max (Character Customization): 253  (Ranked 274)  
 Sum: 534 (Ranked 326)  

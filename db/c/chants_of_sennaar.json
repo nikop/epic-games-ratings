@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1723,
+  "EOS_Progressed": 1724,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 5.63,
   "EosHistory": [
@@ -5111,6 +5111,11 @@
       "Time": "2023-12-24T18:03:49.5707675+00:00",
       "NumProgressed": 1723,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-12-24T19:03:28.1035022+00:00",
+      "NumProgressed": 1724,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 25,
@@ -5130,7 +5135,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "META_ALL_LINK",
@@ -5152,9 +5157,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 431
     },
     {
       "ID": "META_HALF_LINK",
@@ -5178,7 +5183,7 @@
       "Name": "Free at last",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5258,7 +5263,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -5288,9 +5293,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 690
     },
     {
       "ID": "PROGRESS_N3",
@@ -5321,7 +5326,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1723,
+      "Progressed": 1724,
       "Completed": 97
     }
   ],
@@ -5329,8 +5334,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:03:49.5707664+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:03:28.1035012+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:01:52.2998751+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:03:49.5715193+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:00:57.4028323+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:03:28.1042659+00:00"
 }

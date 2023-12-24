@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 86.00% | ~103 |
+| So it begins | 87.00% | ~104 |
 | Good to grow | 61.00% | ~73 |
 | Fashionista | 38.00% | ~46 |
 | Irrigation not irritation | 36.00% | ~43 |
@@ -12,16 +12,16 @@
 | Ay ay yarrr! | 23.00% | ~28 |
 | Night Shift | 22.00% | ~26 |
 | Shine bright | 20.00% | ~24 |
+| C'who? | 12.00% | ~14 |
 | It's about the journey | 12.00% | ~14 |
 | There be sand in me shorts | 12.00% | ~14 |
-| C'who? | 11.00% | ~13 |
 | Peaceful skies | 9.00% | ~11 |
 | Make it rain | 8.00% | ~10 |
 | Holy Crops! | 8.00% | ~10 |
 | Do you wanna build a snowboiii? | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
 | Who let the pets out? | 5.00% | ~6 |
-| It's a bug's life | 4.00% | ~5 |
+| It's a bug's life | 5.00% | ~6 |
 | V is for Vegan | 4.00% | ~5 |
 | Groovy! | 3.00% | ~4 |
 | I am Root! | 3.00% | ~4 |

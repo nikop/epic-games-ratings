@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-12-24T17:07:01.9662686+00:00",
       "NumProgressed": 500,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T19:05:28.9560306+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -811,7 +816,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "dep4_achievement_10",
@@ -891,7 +896,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "dep4_achievement_2",
@@ -899,7 +904,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "dep4_achievement_20",
@@ -971,7 +976,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "dep4_achievement_29",
@@ -987,7 +992,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "dep4_achievement_30",
@@ -1051,7 +1056,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "dep4_achievement_5",
@@ -1098,7 +1103,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 7
     }
   ],
@@ -1106,8 +1111,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:06:18.3023245+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:05:28.9560301+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.2401379+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:03:29.5573245+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:06:18.3023538+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:03:10.9437166+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:05:28.956058+00:00"
 }

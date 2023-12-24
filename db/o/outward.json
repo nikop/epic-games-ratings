@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4216,
+  "EOS_Progressed": 4218,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6931,6 +6931,11 @@
       "Time": "2023-12-24T18:08:57.3434638+00:00",
       "NumProgressed": 4216,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T19:08:32.5497259+00:00",
+      "NumProgressed": 4218,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6942,7 +6947,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "AceDetective_9",
@@ -6966,7 +6971,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6982,7 +6987,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "CrowdPleaser",
@@ -7006,7 +7011,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7014,7 +7019,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ForAllAurai_8",
@@ -7046,7 +7051,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "HouseofCards_19",
@@ -7078,7 +7083,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "MagicIsaScience_58",
@@ -7126,7 +7131,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7134,7 +7139,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7214,7 +7219,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7238,7 +7243,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -7262,7 +7267,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7277,15 +7282,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4216,
+      "Progressed": 4218,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:08:57.3434634+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:08:32.5497255+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:03:10.6013488+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:08:57.3435232+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:02:56.4017564+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:08:32.5497825+00:00"
 }

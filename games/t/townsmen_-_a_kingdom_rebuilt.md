@@ -21,10 +21,10 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 7.00% | ~308 |
 | I like to build stuff... II | 7.00% | ~308 |
 | Completionist I | 7.00% | ~308 |
-| A time consuming game II | 7.00% | ~308 |
 | Not a small trader anymore | 6.00% | ~264 |
 | Full-time job II | 6.00% | ~264 |
 | Tax-man III | 6.00% | ~264 |
+| A time consuming game II | 6.00% | ~264 |
 | Tools of the trade I | 6.00% | ~264 |
 | Knee deep in snow | 6.00% | ~264 |
 | Bread for the people II | 5.00% | ~220 |
@@ -58,7 +58,6 @@ Number of Ratings: 37  (23.09.2022)
 | Lord of War | 2.00% | ~88 |
 | Plague strikes! | 2.00% | ~88 |
 | Builder IV | 2.00% | ~88 |
-| An honorable Governor III | 2.00% | ~88 |
 | Completionist II | 2.00% | ~88 |
 | Completionist III | 2.00% | ~88 |
 | Genius | 2.00% | ~88 |
@@ -67,6 +66,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 2.00% | ~88 |
 | Tools of the trade III | 2.00% | ~88 |
 | When there's fire... | 1.00% | ~44 |
+| An honorable Governor III | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
 | Treat her well… | 1.00% | ~44 |
 | I've been everywhere II | 1.00% | ~44 |
@@ -78,8 +78,8 @@ Number of Ratings: 37  (23.09.2022)
 | Last man standing | 0.80% | ~35 |
 | Builder V | 0.80% | ~35 |
 | Buried | 0.80% | ~35 |
-| Craftsmen challenge | 0.80% | ~35 |
 | Penny pincher | 0.80% | ~35 |
+| Craftsmen challenge | 0.70% | ~31 |
 | Impregnable | 0.70% | ~31 |
 | I've been everywhere III | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,400 (Ranked 203)  
+Progressed: 4,401 (Ranked 203)  
 Completed: 4 (0.09%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 4 (0.09%) (Ranked 314)
 | 2023-12-21 | 4,396 | 4 |
 | 2023-12-22 | 4,398 | 4 |
 | 2023-12-23 | 4,399 | 4 |
-| 2023-12-24 | 4,400 | 4 |
+| 2023-12-24 | 4,401 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

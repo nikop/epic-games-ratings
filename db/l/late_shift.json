@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
+  "EOS_Progressed": 837,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-12-24T18:10:22.0877724+00:00",
       "NumProgressed": 835,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T19:09:41.2842351+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2231,7 +2236,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 793
+      "UsersEstimate": 795
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2279,7 +2284,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ENDING_6",
@@ -2287,7 +2292,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ENDING_7",
@@ -2295,7 +2300,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -2303,7 +2308,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2319,7 +2324,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 561
     },
     {
       "ID": "GOOD_KARMA",
@@ -2327,7 +2332,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "INTERROGATION",
@@ -2335,15 +2340,15 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 226
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2359,7 +2364,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "SABOTAGE",
@@ -2373,9 +2378,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 343
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2383,14 +2388,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 835,
+      "Progressed": 837,
       "Completed": 9
     }
   ],
@@ -2398,8 +2403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:10:22.087772+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:09:41.2842349+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:02:00.1917744+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:10:22.0877967+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:01:03.7870932+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:09:41.2842531+00:00"
 }

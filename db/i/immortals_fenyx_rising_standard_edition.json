@@ -2,12 +2,12 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -2440,10 +2440,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1289,
       "NumberOfAwardsMax": 833
+    },
+    {
+      "Time": "2023-12-24T18:58:59.9191016+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1290,
+      "NumberOfAwardsMax": 833
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1289,
+  "NumberOfAwards": 1290,
   "NumberOfAwardsMax": 833,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2499,7 +2505,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has a Creative Community",
@@ -2519,8 +2525,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-12-24T16:59:52.7361317+00:00",
+  "LastChanged": "2023-12-24T18:58:59.9191015+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:26.410228+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:59:24.4709559+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:04:55.6814481+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:59.919102+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:04:22.9592829+00:00"
 }

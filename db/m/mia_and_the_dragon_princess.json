@@ -4,8 +4,8 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -552,9 +552,9 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "codebreaker",
@@ -640,9 +640,9 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "set_sail",
@@ -679,8 +679,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:10:07.1880109+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:09:29.1561696+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.2377289+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:54.3700671+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:10:07.1880239+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:36.366254+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:09:29.1561852+00:00"
 }

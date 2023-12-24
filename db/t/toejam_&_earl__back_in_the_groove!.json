@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58404,
+  "EOS_Progressed": 58409,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14661,6 +14661,11 @@
       "Time": "2023-12-24T17:07:48.4744461+00:00",
       "NumProgressed": 58404,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T19:06:04.0580923+00:00",
+      "NumProgressed": 58409,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14736,7 +14741,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4672
+      "UsersEstimate": 4673
     },
     {
       "ID": "FlyingPresent",
@@ -14744,7 +14749,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "FlyingPresentMaster",
@@ -14760,7 +14765,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5840
+      "UsersEstimate": 5841
     },
     {
       "ID": "FoolMeTwice",
@@ -14816,7 +14821,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "HarshLove",
@@ -15008,7 +15013,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "TimelySplash",
@@ -15063,7 +15068,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58404,
+      "Progressed": 58409,
       "Completed": 6
     }
   ],
@@ -15071,8 +15076,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:07:00.9604045+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:06:04.0580921+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:46.7609752+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:07:00.9604807+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:58:30.7027611+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:06:04.0581838+00:00"
 }

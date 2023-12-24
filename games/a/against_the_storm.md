@@ -20,17 +20,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 3.00% | ~574 |
 | Coral Forest | 3.00% | ~574 |
 | The Scarlet Orchard | 3.00% | ~574 |
-| Homesick | 2.00% | ~382 |
-| Ruined Armory | 2.00% | ~382 |
-| Fertile Meadows | 2.00% | ~382 |
-| Levitating Monument | 2.00% | ~382 |
-| Monastery of the Holy Flame | 2.00% | ~382 |
-| Royal Outpost | 2.00% | ~382 |
-| Lost Colonies | 2.00% | ~382 |
-| Watchtower | 2.00% | ~382 |
-| A Real Challenge | 2.00% | ~382 |
-| Trade Baron | 2.00% | ~382 |
-| Untamed Wilds | 2.00% | ~382 |
+| Homesick | 2.00% | ~383 |
+| Ruined Armory | 2.00% | ~383 |
+| Fertile Meadows | 2.00% | ~383 |
+| Levitating Monument | 2.00% | ~383 |
+| Monastery of the Holy Flame | 2.00% | ~383 |
+| Royal Outpost | 2.00% | ~383 |
+| Lost Colonies | 2.00% | ~383 |
+| Watchtower | 2.00% | ~383 |
+| A Real Challenge | 2.00% | ~383 |
+| Trade Baron | 2.00% | ~383 |
+| Untamed Wilds | 2.00% | ~383 |
 | Against All Odds | 1.00% | ~191 |
 | Bandit Camp | 1.00% | ~191 |
 | Barren Lands | 1.00% | ~191 |
@@ -51,9 +51,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.60% | ~115 |
 | Forsaken Gods Temple | 0.60% | ~115 |
 | Forbidden Lands | 0.50% | ~96 |
-| Feeding The People | 0.40% | ~76 |
-| Like a Machine | 0.40% | ~76 |
-| Fox Utopia | 0.40% | ~76 |
+| Feeding The People | 0.40% | ~77 |
+| Like a Machine | 0.40% | ~77 |
+| Fox Utopia | 0.40% | ~77 |
 | Blood Flower Farmer | 0.30% | ~57 |
 | Human Utopia | 0.20% | ~38 |
 | Prestigious Expedition | 0.20% | ~38 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,125 (Ranked 150)  
+Progressed: 19,126 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 273)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,125 | 38 |
+| 2023-12-24 | 19,126 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,286 (Ranked 176)  

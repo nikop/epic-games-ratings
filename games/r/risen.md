@@ -1,24 +1,24 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.52 (Ranked 564)  
+Rating: 4.52 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~105 |
-| Map reader | 69.00% | ~79 |
-| Adventurer | 65.00% | ~75 |
-| Philanthropist | 63.00% | ~72 |
-| Archer | 45.00% | ~52 |
+| Beginner | 91.00% | ~106 |
+| Map reader | 68.00% | ~80 |
+| Adventurer | 64.00% | ~75 |
+| Philanthropist | 62.00% | ~73 |
 | The brave little tailor | 44.00% | ~51 |
-| Field hand | 41.00% | ~47 |
-| Samaritan | 36.00% | ~41 |
-| Well-to-do | 36.00% | ~41 |
-| The merciful one | 34.00% | ~39 |
+| Archer | 44.00% | ~51 |
+| Field hand | 40.00% | ~47 |
+| Samaritan | 35.00% | ~41 |
+| Well-to-do | 35.00% | ~41 |
+| The merciful one | 33.00% | ~39 |
 | Ladies' man | 32.00% | ~37 |
-| Ferocious wild boars | 27.00% | ~31 |
+| Ferocious wild boars | 26.00% | ~30 |
 | Idiot | 25.00% | ~29 |
-| Beast slayer | 23.00% | ~26 |
+| Beast slayer | 22.00% | ~26 |
 | Family man | 20.00% | ~23 |
 | Archaeologist | 20.00% | ~23 |
 | Wise man | 19.00% | ~22 |
@@ -28,35 +28,35 @@ Rating: 4.52 (Ranked 564)
 | The fourth triplet | 19.00% | ~22 |
 | Little hero | 18.00% | ~21 |
 | Sidelined | 18.00% | ~21 |
-| Fence | 17.00% | ~20 |
 | Master detective | 17.00% | ~20 |
-| Pandora's box | 16.00% | ~18 |
-| Ghost hunter | 16.00% | ~18 |
-| Peacekeeper | 15.00% | ~17 |
+| Fence | 16.00% | ~19 |
+| Pandora's box | 15.00% | ~18 |
+| Ghost hunter | 15.00% | ~18 |
+| Peacekeeper | 15.00% | ~18 |
 | Defender | 13.00% | ~15 |
 | Workaholic | 13.00% | ~15 |
 | Showdown | 11.00% | ~13 |
 | Safecracker | 11.00% | ~13 |
 | Master thief | 11.00% | ~13 |
 | Freedom fighter | 10.00% | ~12 |
-| King of the handymen | 10.00% | ~12 |
-| Titan Lord | 9.00% | ~10 |
-| Terror of the hens | 9.00% | ~10 |
+| Titan Lord | 9.00% | ~11 |
+| Terror of the hens | 9.00% | ~11 |
+| King of the handymen | 9.00% | ~11 |
 | Expert | 8.00% | ~9 |
 | The traveler | 6.00% | ~7 |
 | Moneybags | 6.00% | ~7 |
 | Rune master | 4.00% | ~5 |
 | King Midas | 4.00% | ~5 |
-| Big game hunter | 3.00% | ~3 |
-| Mage | 3.00% | ~3 |
-| Fervent swimmer | 3.00% | ~3 |
-| Jester | 3.00% | ~3 |
+| Big game hunter | 3.00% | ~4 |
+| Mage | 3.00% | ~4 |
+| Fervent swimmer | 3.00% | ~4 |
+| Jester | 3.00% | ~4 |
 | Sharpshooter | 2.00% | ~2 |
 | Gladiator | 0.90% | ~1 |
 | Master of the classes | 0.90% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 465)  
+Progressed: 117 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 104 | 0 |
 | 2023-12-22 | 107 | 0 |
 | 2023-12-23 | 113 | 0 |
-| 2023-12-24 | 115 | 0 |
+| 2023-12-24 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

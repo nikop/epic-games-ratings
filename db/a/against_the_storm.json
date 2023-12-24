@@ -3569,9 +3569,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19125,
+  "EOS_Progressed": 19126,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16954,6 +16954,11 @@
       "Time": "2023-12-24T17:05:11.1540759+00:00",
       "NumProgressed": 19125,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-24T19:04:05.0500165+00:00",
+      "NumProgressed": 19126,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16974,7 +16979,7 @@
       "Name": "Feeding The People",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AllNeeds",
@@ -17046,7 +17051,7 @@
       "Name": "Homesick",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinFirstGame",
@@ -17078,7 +17083,7 @@
       "Name": "Ruined Armory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinNearBandit",
@@ -17126,7 +17131,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinNearFishmen",
@@ -17158,7 +17163,7 @@
       "Name": "Levitating Monument",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinNearMines",
@@ -17174,7 +17179,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinNearOutpost",
@@ -17182,7 +17187,7 @@
       "Name": "Royal Outpost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinNearRuins",
@@ -17190,7 +17195,7 @@
       "Name": "Lost Colonies",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinNearStatue",
@@ -17222,7 +17227,7 @@
       "Name": "Watchtower",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinOnCoral",
@@ -17278,7 +17283,7 @@
       "Name": "A Real Challenge",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinWIthCaches",
@@ -17326,7 +17331,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -17334,7 +17339,7 @@
       "Name": "Trade Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinWithoutDeath",
@@ -17422,7 +17427,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "WinWithFoxes",
@@ -17430,22 +17435,22 @@
       "Name": "Fox Utopia",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19125,
+      "Progressed": 19126,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-24T11:57:25.9277415+00:00",
-  "LastChanged_Achievements": "2023-12-24T18:04:33.775755+00:00",
+  "LastChanged_Achievements": "2023-12-24T19:04:05.0500161+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:58:07.1616719+00:00",
-  "LastUpdate_Achievements": "2023-12-24T18:04:33.7758626+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:57:58.7344977+00:00",
+  "LastUpdate_Achievements": "2023-12-24T19:04:05.0501149+00:00"
 }
