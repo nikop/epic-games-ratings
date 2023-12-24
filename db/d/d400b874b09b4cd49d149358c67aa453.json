@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2166,9 +2166,9 @@
       "ID": "ACH_END_MAIL_MISSION_FAST",
       "SetID": "al4k4nh",
       "Name": "Gotta go fast",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -2309,8 +2309,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:05:12.6465101+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:07:11.0033981+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.6062309+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:25.7683406+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:05:12.6465314+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:58:17.9304705+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:07:11.0034191+00:00"
 }

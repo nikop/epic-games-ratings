@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2364,
+  "EOS_Progressed": 2365,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3838,6 +3838,11 @@
       "Time": "2023-12-24T14:04:04.1618951+00:00",
       "NumProgressed": 2364,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T15:05:33.7740971+00:00",
+      "NumProgressed": 2365,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3873,7 +3878,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACHV_05",
@@ -3937,7 +3942,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHV_13",
@@ -3985,7 +3990,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACHV_19",
@@ -4025,7 +4030,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACHV_24",
@@ -4057,7 +4062,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACHV_28",
@@ -4121,7 +4126,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACHV_36",
@@ -4169,7 +4174,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACHV_42",
@@ -4304,7 +4309,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2364,
+      "Progressed": 2365,
       "Completed": 13
     }
   ],
@@ -4312,8 +4317,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:04:04.1618946+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:05:33.7740965+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:53.9045716+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:04:04.1619498+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:59:00.3327134+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:05:33.7741448+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 41,
-  "Ranking_Popularity": 284,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26588,
+  "EOS_Progressed": 26597,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11692,6 +11692,11 @@
       "Time": "2023-12-24T14:09:39.5511968+00:00",
       "NumProgressed": 26588,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-24T15:11:06.1820846+00:00",
+      "NumProgressed": 26597,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11783,7 +11788,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12014,21 +12019,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26588,
+      "Progressed": 26597,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5518,
+      "Progressed": 5527,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:09:39.5511962+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:11:06.182084+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:00:06.6456546+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:39.5512664+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:02:17.9901155+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:11:06.1821485+00:00"
 }

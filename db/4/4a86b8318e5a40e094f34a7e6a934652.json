@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 364,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1646,9 +1646,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1718,9 +1718,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 277
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1741,8 +1741,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:03:29.3602543+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:04:43.7973994+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:29.7894868+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:03:29.3602861+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:58:24.1183501+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:04:43.7974185+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 534,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
     "PcReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -238,9 +238,9 @@
       "ID": "ACH_16_EXPANSION",
       "SetID": "cieb1c3",
       "Name": "Aquatic Expansion",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_17_CULINARY",
@@ -286,9 +286,9 @@
       "ID": "ACH_22_WINGS",
       "SetID": "cieb1c3",
       "Name": "Ocean Wings",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_23_CRIME",
@@ -390,9 +390,9 @@
       "ID": "ACH_35_WORTH",
       "SetID": "cieb1c3",
       "Name": "Worth Your While",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_36_SPIDER",
@@ -423,8 +423,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:09:44.1755731+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:11:12.4004221+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.3028369+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:06.3880169+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:44.1755988+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:57:49.7445665+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:11:12.4004417+00:00"
 }

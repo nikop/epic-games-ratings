@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 49.00% | ~36 |
+| Space worm! | 35.00% | ~26 |
 | Orb Gatherer | 34.00% | ~25 |
 | Beast Quest | 34.00% | ~25 |
 | Monster Hunt | 34.00% | ~25 |
-| Space worm! | 34.00% | ~25 |
 | Beast Hunter | 31.00% | ~23 |
 | Loot, loot! | 31.00% | ~23 |
 | Vanquisher! | 30.00% | ~22 |
@@ -35,7 +35,7 @@
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 505)  
+Progressed: 74 (Ranked 506)  
 Completed: 3 (4.05%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1886,9 +1886,9 @@
       "ID": "37_maniacvandal",
       "SetID": "chb1m60",
       "Name": "Maniac vandal",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "38_chuck",
@@ -1918,8 +1918,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:04:12.9485634+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:05:45.8645653+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:59:54.4168067+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:04:12.948596+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:02:00.7798422+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:05:45.8645951+00:00"
 }

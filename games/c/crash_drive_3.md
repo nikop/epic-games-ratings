@@ -13,8 +13,8 @@
 | C-C-C-Combo! | 25.00% | ~105 |
 | Fore! | 23.00% | ~97 |
 | The Collector | 23.00% | ~97 |
+| Insurance fraud | 23.00% | ~97 |
 | Snow Fun! | 23.00% | ~97 |
-| Insurance fraud | 22.00% | ~93 |
 | The Wild West | 22.00% | ~93 |
 | Bag of Tricks | 22.00% | ~93 |
 | You're it | 22.00% | ~93 |
@@ -30,18 +30,18 @@
 | Anger Issues | 19.00% | ~80 |
 | Your Highness | 19.00% | ~80 |
 | Event Amateur | 18.00% | ~76 |
+| Feeling Hot Hot Hot! | 17.00% | ~72 |
 | Feeling Dizzy? | 17.00% | ~72 |
 | Drift King! | 16.00% | ~67 |
-| Feeling Hot Hot Hot! | 16.00% | ~67 |
 | Ferry Good! | 16.00% | ~67 |
 | Assert Dominance | 16.00% | ~67 |
 | Speed of light | 16.00% | ~67 |
 | Out of this League | 13.00% | ~55 |
 | Special Forces | 12.00% | ~51 |
+| Blasting away! | 12.00% | ~51 |
 | Earth Defense Force | 11.00% | ~46 |
 | Toot Toot! | 11.00% | ~46 |
 | Rocketman | 11.00% | ~46 |
-| Blasting away! | 11.00% | ~46 |
 | High Roller | 10.00% | ~42 |
 | Event Pro | 9.00% | ~38 |
 | Space Crash | 7.00% | ~29 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421 (Ranked 347)  
+Progressed: 421 (Ranked 348)  
 Completed: 2 (0.48%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -980,9 +980,9 @@
       "ID": "ACH_KEYU_EXTERMINATOR",
       "SetID": "ao59f0i",
       "Name": "Keyu Exterminator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_KNOCK_KNOCK",
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:08:41.3741521+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:09:43.6043298+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:24.0812151+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:58:24.1734166+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:08:41.3741855+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:59:47.8001909+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:09:43.6043447+00:00"
 }

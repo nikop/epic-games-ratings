@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 130)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~8,883 |
-| Photographer | 67.00% | ~8,752 |
-| Valley's Helper | 60.00% | ~7,838 |
-| Constructor | 51.00% | ~6,662 |
-| Renovator | 51.00% | ~6,662 |
-| Bestest Friend | 45.00% | ~5,878 |
-| Banker | 39.00% | ~5,095 |
-| Gardener | 31.00% | ~4,050 |
-| Generous | 25.00% | ~3,266 |
-| Chef Cook | 19.00% | ~2,482 |
+| Goofy's Investor | 68.00% | ~8,886 |
+| Photographer | 67.00% | ~8,755 |
+| Valley's Helper | 60.00% | ~7,840 |
+| Constructor | 51.00% | ~6,664 |
+| Renovator | 51.00% | ~6,664 |
+| Bestest Friend | 45.00% | ~5,880 |
+| Banker | 39.00% | ~5,096 |
+| Gardener | 31.00% | ~4,051 |
+| Generous | 25.00% | ~3,267 |
+| Chef Cook | 19.00% | ~2,483 |
 | Miner | 11.00% | ~1,437 |
 | Duty Bound | 8.00% | ~1,045 |
 | Angler | 6.00% | ~784 |
 | Thorn Cleaner | 6.00% | ~784 |
 | Chit Chatter | 3.00% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,063 (Ranked 168)  
+Progressed: 13,067 (Ranked 168)  
 Completed: 325 (2.49%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 325 (2.49%) (Ranked 125)
 | 2023-12-21 | 12,956 | 322 |
 | 2023-12-22 | 12,992 | 325 |
 | 2023-12-23 | 13,034 | 325 |
-| 2023-12-24 | 13,063 | 325 |
+| 2023-12-24 | 13,067 | 325 |
 ## Awards
 Max (Great for Beginners): 1,157  (Ranked 146)  
-Sum: 8,241 (Ranked 107)  
+Sum: 8,242 (Ranked 107)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -237,7 +237,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 783 |
 | This game has Quickly Understood Controls | 769 |
 | This game has a Creative Community | 720 |
-| This game has Easy Combat | 543 |
+| This game has Easy Combat | 544 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -526,4 +526,4 @@ Diff (max vs sum): 39
 | 2023-12-21 | 4.76 | - | 1,147 | 8,216 |
 | 2023-12-22 | 4.76 | - | 1,152 | 8,227 |
 | 2023-12-23 | 4.76 | - | 1,157 | 8,239 |
-| 2023-12-24 | 4.76 | - | 1,157 | 8,241 |
+| 2023-12-24 | 4.76 | - | 1,157 | 8,242 |

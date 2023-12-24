@@ -2,13 +2,13 @@
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
   "ProductSlug": "evil-dead-the-game",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 796,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
     "PcReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -7808,10 +7808,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 30484,
       "NumberOfAwardsMax": 12804
+    },
+    {
+      "Time": "2023-12-24T15:00:47.1897622+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 30485,
+      "NumberOfAwardsMax": 12804
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30484,
+  "NumberOfAwards": 30485,
   "NumberOfAwardsMax": 12804,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7861,7 +7867,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1987
+      "Count": 1988
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7893,8 +7899,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-12-24T13:59:04.6271044+00:00",
+  "LastChanged": "2023-12-24T15:00:47.189762+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:47.7001911+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:59:04.6271048+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:30.3762867+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:00:47.1897626+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:10:53.0550248+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 3778,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3569,9 +3569,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19110,
+  "EOS_Progressed": 19117,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16939,6 +16939,11 @@
       "Time": "2023-12-24T14:03:53.4802908+00:00",
       "NumProgressed": 19110,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-24T15:05:18.3161054+00:00",
+      "NumProgressed": 19117,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17039,7 +17044,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinHard",
@@ -17047,7 +17052,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "WinImpossible",
@@ -17215,7 +17220,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "WinOnCursed",
@@ -17231,7 +17236,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinOnMoorlands",
@@ -17239,7 +17244,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "WinPrestige10",
@@ -17327,7 +17332,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinWithoutOrders",
@@ -17359,7 +17364,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinNearGreed",
@@ -17367,7 +17372,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinNearLibrary",
@@ -17391,7 +17396,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinNearStorms",
@@ -17399,7 +17404,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17422,15 +17427,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19110,
+      "Progressed": 19117,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-24T11:57:25.9277415+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:03:53.48029+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:05:18.3161048+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:36.6696568+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:03:53.4803775+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:58:34.1057209+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:05:18.3162062+00:00"
 }

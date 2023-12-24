@@ -5,15 +5,15 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~434 |
+| Time Heals All Wounds | 40.00% | ~435 |
+| The Mysterious Stranger | 30.00% | ~326 |
 | Rail Rat | 30.00% | ~326 |
-| The Mysterious Stranger | 29.00% | ~315 |
-| Immaculate Aim | 25.00% | ~271 |
-| Make Up For Lost Time | 24.00% | ~260 |
-| The Prince in Heels | 24.00% | ~260 |
-| The Brass Boss | 24.00% | ~260 |
+| Immaculate Aim | 25.00% | ~272 |
+| The Brass Boss | 24.00% | ~261 |
+| Make Up For Lost Time | 23.00% | ~250 |
 | Time Flies | 23.00% | ~250 |
 | No, Thanks! | 23.00% | ~250 |
+| The Prince in Heels | 23.00% | ~250 |
 | Honest Mistake | 23.00% | ~250 |
 | Immaculate Aim | 23.00% | ~250 |
 | The Steel Shadow | 22.00% | ~239 |
@@ -26,10 +26,10 @@ Rating: 4.65 (Ranked 320)
 | Like Clockwork | 20.00% | ~217 |
 | The Betrayer | 20.00% | ~217 |
 | Check Your Pulse | 20.00% | ~217 |
-| The Loose Cannon | 19.00% | ~206 |
-| The Man Who Shattered Time | 18.00% | ~195 |
-| The Family Fortune | 18.00% | ~195 |
-| Street Style | 17.00% | ~184 |
+| The Loose Cannon | 19.00% | ~207 |
+| The Man Who Shattered Time | 18.00% | ~196 |
+| The Family Fortune | 18.00% | ~196 |
+| Street Style | 17.00% | ~185 |
 | Whiz Kid | 15.00% | ~163 |
 | Cartographer | 14.00% | ~152 |
 | Good Neighbor | 14.00% | ~152 |
@@ -37,11 +37,11 @@ Rating: 4.65 (Ranked 320)
 | Family Memories | 13.00% | ~141 |
 | Ask Questions Later | 13.00% | ~141 |
 | Chaincrawler Explorer | 12.00% | ~130 |
-| Sump Explorer | 11.00% | ~119 |
-| Syron for Hope | 11.00% | ~119 |
-| Factorywood Explorer | 10.00% | ~108 |
-| Fairgrounds Explorer | 10.00% | ~108 |
-| Theater Explorer | 10.00% | ~108 |
+| Sump Explorer | 11.00% | ~120 |
+| Syron for Hope | 11.00% | ~120 |
+| Factorywood Explorer | 10.00% | ~109 |
+| Fairgrounds Explorer | 10.00% | ~109 |
+| Theater Explorer | 10.00% | ~109 |
 | Cultivair Explorer | 9.00% | ~98 |
 | Corin Goes Home | 8.00% | ~87 |
 | Sartorialist | 8.00% | ~87 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,085 (Ranked 277)  
+Progressed: 1,087 (Ranked 277)  
 Completed: 6 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.55%) (Ranked 207)
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
-| 2023-12-24 | 1,085 | 6 |
+| 2023-12-24 | 1,087 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

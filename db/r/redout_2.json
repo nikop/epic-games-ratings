@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1215,6 +1215,11 @@
       "Time": "2023-12-22T20:03:45.2999256+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T15:06:30.7953307+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1362,7 +1367,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "CAREERCLASSA",
@@ -1458,7 +1463,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "FLYLONG",
@@ -1641,7 +1646,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1189,
       "Completed": 0
     }
   ],
@@ -1649,8 +1654,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:04:44.2476111+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:06:30.7953295+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.7211822+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:03:09.4561661+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:04:44.2476472+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:04:12.2576449+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:06:30.7953646+00:00"
 }

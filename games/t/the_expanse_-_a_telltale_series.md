@@ -13,12 +13,12 @@ Rating: 4.55 (Ranked 513)
 | Impossible Objects | 10.00% | ~1,728 |
 | Martian Music | 9.00% | ~1,555 |
 | Drone Dodger | 9.00% | ~1,555 |
-| Stogie for Fogey | 8.00% | ~1,382 |
-| Spore Taste | 8.00% | ~1,382 |
+| Stogie for Fogey | 8.00% | ~1,383 |
+| Spore Taste | 8.00% | ~1,383 |
 | Safe Cracker | 8.00% | ~259 |
 | Zen Master | 8.00% | ~259 |
 | Call it Even | 7.00% | ~1,210 |
-| Madame Undersecretary | 7.00% | ~226 |
+| Madame Undersecretary | 7.00% | ~227 |
 | Data Archivist | 6.00% | ~1,037 |
 | Drug Gifter | 6.00% | ~1,037 |
 | Heal Thy Medic | 6.00% | ~1,037 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 513)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,281 (Ranked 156)  
+Progressed: 17,283 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
-| 2023-12-24 | 17,281 | 52 |
+| 2023-12-24 | 17,283 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

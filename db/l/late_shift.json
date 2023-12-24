@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 832,
+  "EOS_Progressed": 833,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2205,6 +2205,11 @@
       "Time": "2023-12-24T14:09:20.4616631+00:00",
       "NumProgressed": 832,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T15:10:39.531647+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2216,7 +2221,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2248,7 +2253,7 @@
       "Name": "The Ploy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ENDING_4",
@@ -2264,7 +2269,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ENDING_6",
@@ -2280,7 +2285,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -2288,7 +2293,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2304,7 +2309,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "GOOD_KARMA",
@@ -2312,7 +2317,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "INTERROGATION",
@@ -2320,7 +2325,7 @@
       "Name": "Interrogation",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2344,7 +2349,7 @@
       "Name": "Protector",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "SABOTAGE",
@@ -2375,7 +2380,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 832,
+      "Progressed": 833,
       "Completed": 9
     }
   ],
@@ -2383,8 +2388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:09:20.4616627+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:10:39.5316464+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:00:14.5940304+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:20.4616878+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:02:29.2520271+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:10:39.5316648+00:00"
 }

@@ -15,8 +15,8 @@ Rating: 4.52 (Ranked 565)
 | Ride in the rising sun | 16.00% | ~190 |
 | Suit up | 16.00% | ~190 |
 | Walked like an Egyptian | 15.00% | ~178 |
-| Rookie No-No More | 13.00% | ~154 |
-| Running at the speed of sound | 13.00% | ~154 |
+| Rookie No-No More | 13.00% | ~155 |
+| Running at the speed of sound | 13.00% | ~155 |
 | Martian explorer | 11.00% | ~131 |
 | To the core | 8.00% | ~95 |
 | Blurred photofinish | 8.00% | ~95 |
@@ -58,7 +58,7 @@ Rating: 4.52 (Ranked 565)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,188 (Ranked 269)  
+Progressed: 1,189 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-19 | 1,184 | 0 |
 | 2023-12-21 | 1,185 | 0 |
 | 2023-12-22 | 1,188 | 0 |
+| 2023-12-24 | 1,189 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

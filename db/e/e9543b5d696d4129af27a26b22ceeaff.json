@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -308,9 +308,9 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:05:03.6068961+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:06:58.2029619+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.6689285+00:00",
-  "LastUpdate_Ratings": "2023-12-24T14:03:00.1361171+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:05:03.6069146+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:03:56.4199523+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:06:58.2029783+00:00"
 }

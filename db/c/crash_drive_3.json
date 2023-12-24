@@ -2,10 +2,10 @@
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
-  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 472,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -881,9 +881,9 @@
       "ID": "HIT_EXPLOSIVE_BARREL",
       "SetID": "20koof9",
       "Name": "Insurance fraud",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -953,9 +953,9 @@
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -1105,9 +1105,9 @@
       "ID": "WIN_TANK_BATTLES",
       "SetID": "20koof9",
       "Name": "Blasting away!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
@@ -1122,8 +1122,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:08:44.8775234+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:09:48.6379975+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0108602+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:11.1124077+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:08:44.8775653+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:57:57.4958677+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:09:48.6380322+00:00"
 }

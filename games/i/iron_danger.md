@@ -8,11 +8,11 @@
 | Found the Healer | 35.00% | ~118 |
 | Second Shard | 9.00% | ~30 |
 | Champion of Kalevala | 7.00% | ~24 |
+| Keyu Exterminator | 7.00% | ~24 |
 | Death is Merely a Setback | 7.00% | ~24 |
 | Ring of Fire! | 7.00% | ~24 |
 | Third Shard | 7.00% | ~24 |
 | Berry Nice | 6.00% | ~20 |
-| Keyu Exterminator | 6.00% | ~20 |
 | Tastes Like Chicken | 5.00% | ~17 |
 | Fourth Shard | 5.00% | ~17 |
 | Big Fish | 4.00% | ~14 |

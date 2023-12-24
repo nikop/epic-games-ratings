@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1085,
+  "EOS_Progressed": 1087,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -3076,6 +3076,11 @@
       "Time": "2023-12-24T14:09:49.8518163+00:00",
       "NumProgressed": 1085,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T15:11:19.9867016+00:00",
+      "NumProgressed": 1087,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3159,7 +3164,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CultivairChests1",
@@ -3191,7 +3196,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FairgroundsChests1",
@@ -3199,15 +3204,15 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 326
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3223,7 +3228,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "GadgetCompletion1",
@@ -3271,15 +3276,15 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 250
     },
     {
       "ID": "MapCompletion1",
@@ -3365,9 +3370,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 250
     },
     {
       "ID": "RewindDamage1",
@@ -3375,7 +3380,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "RewindParry",
@@ -3431,7 +3436,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "SyronGift",
@@ -3439,7 +3444,7 @@
       "Name": "Syron for Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3455,7 +3460,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3463,7 +3468,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "WarwickDefeated",
@@ -3495,7 +3500,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3503,14 +3508,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1085,
+      "Progressed": 1087,
       "Completed": 6
     }
   ],
@@ -3518,8 +3523,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:09:49.8518158+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:11:19.9867011+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:30.5878671+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:49.8518624+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:58:25.5512679+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:11:19.9867421+00:00"
 }

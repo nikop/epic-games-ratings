@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "poor_gracie_ray",
@@ -625,9 +625,9 @@
       "ID": "the_fall",
       "SetID": "7i36ba9",
       "Name": "The Fall",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "the_four_doors",
@@ -704,8 +704,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:09:42.7898996+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:11:10.6919552+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:10.0357966+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:58:06.3389928+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:42.789915+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:59:19.7910093+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:11:10.6919714+00:00"
 }

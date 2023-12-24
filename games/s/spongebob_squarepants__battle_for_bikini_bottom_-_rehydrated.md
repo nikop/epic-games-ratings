@@ -19,13 +19,13 @@ Number of Ratings: 76  (23.09.2022)
 | Hit Rock Bottom | 4.00% | ~13 |
 | Star Smasher | 4.00% | ~13 |
 | Uptown and Downtown | 3.00% | ~10 |
-| Hello, Bikini Bottom | 3.00% | ~10 |
 | Keep it Rolling | 3.00% | ~10 |
 | Shrimp Catcher | 3.00% | ~10 |
 | Super Spatula Seeker | 3.00% | ~10 |
 | Squirrel Smasher | 3.00% | ~10 |
 | Robot encyclopedia | 2.00% | ~6 |
 | Are you ready now? | 2.00% | ~6 |
+| Hello, Bikini Bottom | 2.00% | ~6 |
 | Kelp Forest of Fear | 1.00% | ~3 |
 | Sleepy Time | 1.00% | ~3 |
 | Ultra Spatula Seeker | 0.90% | ~3 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 370)  
+Progressed: 321 (Ranked 370)  
 Completed: 1 (0.31%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.31%) (Ranked 248)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 320 | 1 |
+| 2023-12-24 | 321 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 496)  
 Sum: 34 (Ranked 521)  

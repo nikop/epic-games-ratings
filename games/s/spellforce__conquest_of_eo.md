@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~65 |
-| Enough rooms to swing a cat | 85.00% | ~63 |
-| First to the post | 84.00% | ~62 |
-| A kind of Magic | 78.00% | ~58 |
-| Connected | 70.00% | ~52 |
-| Expansion | 66.00% | ~49 |
-| Mine! | 61.00% | ~45 |
+| Home Sweet Home | 88.00% | ~66 |
+| Enough rooms to swing a cat | 84.00% | ~63 |
+| First to the post | 83.00% | ~62 |
+| A kind of Magic | 77.00% | ~58 |
+| Connected | 69.00% | ~52 |
+| Expansion | 65.00% | ~49 |
+| Mine! | 60.00% | ~45 |
 | Harvest Time | 59.00% | ~44 |
-| Artificer's Apprentice | 53.00% | ~39 |
-| Fly the friendly Sky | 49.00% | ~36 |
-| Get out of here! | 46.00% | ~34 |
-| Necromancer's Apprentice | 42.00% | ~31 |
-| Alchemist's Apprentice | 41.00% | ~30 |
-| Friend of Lyraine | 41.00% | ~30 |
+| Artificer's Apprentice | 52.00% | ~39 |
+| Fly the friendly Sky | 48.00% | ~36 |
+| Get out of here! | 45.00% | ~34 |
+| Necromancer's Apprentice | 41.00% | ~31 |
+| Alchemist's Apprentice | 40.00% | ~30 |
+| Friend of Lyraine | 40.00% | ~30 |
 | The Circle | 36.00% | ~27 |
-| Redecorating | 34.00% | ~25 |
-| Bad JuJu | 26.00% | ~19 |
-| Slave to the rhythm | 22.00% | ~16 |
-| Castle Meldec | 22.00% | ~16 |
-| Friend of Sevenkeeps | 22.00% | ~16 |
-| Sevenkeeps Seat of Kings | 18.00% | ~13 |
-| Break Free | 18.00% | ~13 |
+| Redecorating | 33.00% | ~25 |
+| Bad JuJu | 25.00% | ~19 |
+| Slave to the rhythm | 21.00% | ~16 |
+| Castle Meldec | 21.00% | ~16 |
+| Friend of Sevenkeeps | 21.00% | ~16 |
+| Sevenkeeps Seat of Kings | 17.00% | ~13 |
+| Break Free | 17.00% | ~13 |
 | Friend of Alluvyan | 16.00% | ~12 |
 | Friend of Connach | 16.00% | ~12 |
-| Stormwatch Faste | 14.00% | ~10 |
-| Friend of Gillyshire | 14.00% | ~10 |
-| Friend of Silver Drift Hollow | 14.00% | ~10 |
-| Friend of Bastion | 14.00% | ~10 |
+| Stormwatch Faste | 13.00% | ~10 |
+| Friend of Gillyshire | 13.00% | ~10 |
+| Friend of Silver Drift Hollow | 13.00% | ~10 |
+| Friend of Bastion | 13.00% | ~10 |
 | Philo's Tale | 12.00% | ~9 |
 | Friend of Orgash | 11.00% | ~8 |
 | Friend of Windholme | 11.00% | ~8 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 505)  
+Progressed: 75 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-20 | 66 | 0 |
 | 2023-12-21 | 70 | 0 |
 | 2023-12-22 | 71 | 0 |
-| 2023-12-24 | 74 | 0 |
+| 2023-12-24 | 75 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

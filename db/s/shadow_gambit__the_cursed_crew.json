@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -4507,9 +4507,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4588,8 +4588,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:05:48.5459489+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:08:03.2149841+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:59:46.8072688+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:05:48.5459854+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:01:48.9265196+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:08:03.215012+00:00"
 }

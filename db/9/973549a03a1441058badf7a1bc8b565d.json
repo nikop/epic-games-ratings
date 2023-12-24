@@ -4,8 +4,8 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -77,9 +77,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "4mjb15",
       "Name": "The Chosen One",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -276,8 +276,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:09:51.0041681+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:11:21.3776018+00:00",
   "LastUpdate_AppInfo": "2023-12-22T20:57:03.4409838+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:57:24.7795969+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:09:51.0041846+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:58:16.4298989+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:11:21.3776149+00:00"
 }

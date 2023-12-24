@@ -2,13 +2,13 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 640,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-12-07T19:59:23.1655441+00:00",
@@ -501,10 +501,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-12-24T15:01:51.5108036+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -566,7 +572,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 47
+      "Count": 51
     }
   ],
   "EOS_Progressed": 0,
@@ -581,8 +587,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-24T08:01:02.8321891+00:00",
+  "LastChanged": "2023-12-24T15:01:51.5108034+00:00",
   "LastUpdate_AppInfo": "2023-12-18T06:57:00.6202557+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:59:48.555561+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:04:18.4782366+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:01:51.5108038+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:05:53.6296867+00:00"
 }

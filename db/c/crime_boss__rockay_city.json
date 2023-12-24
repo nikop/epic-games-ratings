@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5205,9 +5205,9 @@
       "Count": 521
     }
   ],
-  "EOS_Progressed": 92455,
+  "EOS_Progressed": 92457,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29040,6 +29040,11 @@
       "Time": "2023-12-24T14:04:17.2850213+00:00",
       "NumProgressed": 92455,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-24T15:05:51.9653555+00:00",
+      "NumProgressed": 92457,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29161,9 +29166,9 @@
       "ID": "ACH_0100",
       "SetID": "3kam13l",
       "Name": "Headhunter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 832
     },
     {
       "ID": "ACH_0101",
@@ -29378,13 +29383,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92455,
+      "Progressed": 92457,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20802,
+      "Progressed": 20804,
       "Completed": 15592
     }
   ],
@@ -29392,8 +29397,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-24T13:02:01.834246+00:00",
-  "LastChanged_Achievements": "2023-12-24T14:04:17.2850208+00:00",
+  "LastChanged_Achievements": "2023-12-24T15:05:51.965355+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:59:20.5092202+00:00",
-  "LastUpdate_Achievements": "2023-12-24T14:04:17.2851406+00:00"
+  "LastUpdate_Ratings": "2023-12-24T15:01:10.182648+00:00",
+  "LastUpdate_Achievements": "2023-12-24T15:05:51.965513+00:00"
 }

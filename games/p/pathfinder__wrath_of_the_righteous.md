@@ -1,17 +1,17 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 130)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,429 |
-| A Spark | 19.00% | ~2,413 |
-| Burning City | 18.00% | ~2,286 |
-| Defender's Heart | 16.00% | ~2,032 |
-| Mythic Choices | 15.00% | ~1,905 |
-| Banner over the Citadel | 14.00% | ~1,778 |
+| Devoured by Darkness | 27.00% | ~3,430 |
+| A Spark | 19.00% | ~2,414 |
+| Burning City | 18.00% | ~2,287 |
+| Defender's Heart | 16.00% | ~2,033 |
+| Mythic Choices | 15.00% | ~1,906 |
+| Banner over the Citadel | 14.00% | ~1,779 |
 | Queen's Gratitude | 12.00% | ~1,524 |
 | Fifth Crusade | 9.00% | ~1,143 |
 | Embrace of the Abyss | 7.00% | ~889 |
@@ -35,10 +35,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~381 |
 | Capitulation Is Now Moot | 3.00% | ~381 |
 | Core of the Riddle | 3.00% | ~381 |
-| Hanged Man's Notes | 3.00% | ~344 |
-| Sarkoris Will Be Green | 3.00% | ~344 |
-| The Lady of the Forest | 3.00% | ~344 |
-| Beware Still Water | 3.00% | ~344 |
+| Hanged Man's Notes | 3.00% | ~345 |
+| Sarkoris Will Be Green | 3.00% | ~345 |
+| The Lady of the Forest | 3.00% | ~345 |
+| Beware Still Water | 3.00% | ~345 |
 | Path of the Demon | 2.00% | ~254 |
 | Path of the Aeon | 2.00% | ~254 |
 | Your First Big Enemy | 2.00% | ~254 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,701 (Ranked 169)  
+Progressed: 12,704 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 12,584 | 0 |
 | 2023-12-22 | 12,617 | 0 |
 | 2023-12-23 | 12,670 | 0 |
-| 2023-12-24 | 12,701 | 0 |
+| 2023-12-24 | 12,704 | 0 |
 ## Awards
 Max (Character Customization): 1,767  (Ranked 124)  
 Sum: 7,163 (Ranked 123)  

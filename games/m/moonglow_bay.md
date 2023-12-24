@@ -10,15 +10,15 @@
 | The Art of Conversation | 2.00% | ~8 |
 | Flying Tackle | 2.00% | ~8 |
 | Folklore | 1.00% | ~4 |
+| Ocean Wings | 1.00% | ~4 |
 | Wise and Floofy | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
 | They Can Change | 0.80% | ~3 |
-| Ocean Wings | 0.80% | ~3 |
+| Aquatic Expansion | 0.80% | ~3 |
+| Worth Your While | 0.80% | ~3 |
 | The Heart of Moonglow | 0.50% | ~2 |
-| Aquatic Expansion | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
-| Worth Your While | 0.50% | ~2 |
 | From Beyond | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
 | Ode to a Blacksmith | 0.30% | ~1 |
