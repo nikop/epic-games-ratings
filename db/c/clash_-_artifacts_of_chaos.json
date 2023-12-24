@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -416,6 +416,11 @@
       "Time": "2023-12-23T20:09:42.0142641+00:00",
       "NumProgressed": 135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T02:00:11.7126866+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -443,7 +448,7 @@
       "Name": "Your Training Continues",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement12",
@@ -473,9 +478,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Achievement16",
@@ -489,7 +494,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 35,
       "UsersEstimate": 86
     },
@@ -515,7 +520,7 @@
       "Name": "Winner",
       "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement20",
@@ -523,7 +528,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement21",
@@ -594,7 +599,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 1
     }
   ],
@@ -602,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:10:14.2984117+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:00:11.7126863+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:10.316662+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:50.6142612+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:10:14.2984223+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:50:26.8599423+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:00:11.7127002+00:00"
 }

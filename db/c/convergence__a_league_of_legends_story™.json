@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1079,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -3046,6 +3046,11 @@
       "Time": "2023-12-24T00:10:10.4532692+00:00",
       "NumProgressed": 1079,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T02:00:06.978678+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3065,7 +3070,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3073,7 +3078,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ChestCompletion1",
@@ -3129,7 +3134,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "CultivairChests1",
@@ -3305,7 +3310,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ParryRepeated1",
@@ -3321,7 +3326,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3329,7 +3334,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PidgeDefeated",
@@ -3385,7 +3390,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "SpeedRun",
@@ -3480,7 +3485,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1079,
+      "Progressed": 1080,
       "Completed": 6
     }
   ],
@@ -3488,8 +3493,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:10:10.4532686+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:00:06.9786777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:14.1550939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:57:33.2583182+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:10:10.4533083+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:47:04.2609623+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:00:06.97872+00:00"
 }

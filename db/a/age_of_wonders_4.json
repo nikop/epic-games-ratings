@@ -567,9 +567,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6078,
+  "EOS_Progressed": 6085,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -8937,6 +8937,11 @@
       "Time": "2023-12-24T00:08:27.8577992+00:00",
       "NumProgressed": 6078,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T01:57:46.5131446+00:00",
+      "NumProgressed": 6085,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -8948,7 +8953,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "10",
@@ -9060,7 +9065,7 @@
       "Name": "Realm Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "23",
@@ -9068,7 +9073,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "24",
@@ -9076,7 +9081,7 @@
       "Name": "Secret Technique",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "25",
@@ -9084,7 +9089,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "26",
@@ -9164,7 +9169,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "35",
@@ -9220,7 +9225,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "41",
@@ -9348,7 +9353,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "52",
@@ -9427,13 +9432,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6078,
+      "Progressed": 6085,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6078,
+      "Progressed": 6085,
       "Completed": 7
     }
   ],
@@ -9441,8 +9446,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:08:27.857799+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:57:46.5131443+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:32.6868317+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:58:39.6735793+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:08:27.857887+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:48:42.5160491+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:57:46.5132261+00:00"
 }

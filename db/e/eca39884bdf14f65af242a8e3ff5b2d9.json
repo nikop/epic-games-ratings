@@ -2,12 +2,12 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 623,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-12-07T19:59:23.1655441+00:00",
@@ -483,6 +483,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-24T01:50:31.8763997+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -563,8 +569,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-23T22:00:18.462201+00:00",
+  "LastChanged": "2023-12-24T01:50:31.8763995+00:00",
   "LastUpdate_AppInfo": "2023-12-18T06:57:00.6202557+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:54.0094637+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:04:10.4798245+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:50:31.8764+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:54:27.0781068+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 77.00% | ~475 |
-| Shelter Escape | 75.00% | ~463 |
-| The First Bond | 66.00% | ~407 |
-| Novice Scavenger | 59.00% | ~364 |
-| Master Craftsman | 47.00% | ~290 |
-| First wall | 46.00% | ~284 |
-| Piggyback Expert | 45.00% | ~278 |
-| Second wall | 32.00% | ~197 |
-| Expert Scavenger | 30.00% | ~185 |
+| New arm | 76.00% | ~470 |
+| Shelter Escape | 75.00% | ~464 |
+| The First Bond | 66.00% | ~409 |
+| Novice Scavenger | 59.00% | ~365 |
+| Master Craftsman | 47.00% | ~291 |
+| First wall | 46.00% | ~285 |
+| Piggyback Expert | 44.00% | ~272 |
+| Second wall | 32.00% | ~198 |
+| Expert Scavenger | 31.00% | ~192 |
 | Their Rock | 27.00% | ~167 |
-| Yuna's Promise | 26.00% | ~160 |
-| Stone Retriever | 26.00% | ~160 |
-| Find myself | 24.00% | ~148 |
-| Min's Promise | 18.00% | ~111 |
+| Yuna's Promise | 26.00% | ~161 |
+| Stone Retriever | 26.00% | ~161 |
+| Find myself | 24.00% | ~149 |
 | Truebro | 18.00% | ~111 |
+| Min's Promise | 17.00% | ~105 |
 | Sia's Promise | 16.00% | ~99 |
 | Romantic | 13.00% | ~80 |
 | TentacleMAN | 9.00% | ~56 |
@@ -30,7 +30,7 @@
 | Dreamboat | 1.00% | ~6 |
 | Bond Lord | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617 (Ranked 318)  
+Progressed: 619 (Ranked 317)  
 Completed: 2 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,3 +122,4 @@ Completed: 2 (0.32%) (Ranked 246)
 | 2023-12-21 | 586 | 2 |
 | 2023-12-22 | 598 | 2 |
 | 2023-12-23 | 617 | 2 |
+| 2023-12-24 | 619 | 2 |

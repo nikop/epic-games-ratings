@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2023,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3149,6 +3149,11 @@
       "Time": "2023-12-23T22:06:15.1991866+00:00",
       "NumProgressed": 2023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T01:56:24.388058+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3158,9 +3163,9 @@
       "ID": "Achievement_001",
       "SetID": "6b34g18",
       "Name": "Neighborhood Revitalization",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_002",
@@ -3208,7 +3213,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_009",
@@ -3216,7 +3221,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_010",
@@ -3310,9 +3315,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_022",
@@ -3334,9 +3339,9 @@
       "ID": "Achievement_024",
       "SetID": "6b34g18",
       "Name": "Good Morning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement_025",
@@ -3352,7 +3357,7 @@
       "Name": "Fly Fisher",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_027",
@@ -3360,7 +3365,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_028",
@@ -3392,7 +3397,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Achievement_032",
@@ -3687,7 +3692,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2023,
+      "Progressed": 2025,
       "Completed": 0
     }
   ],
@@ -3695,8 +3700,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:05:36.3355297+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:56:24.3880577+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:02.9619993+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:04.5037083+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:05:36.3355835+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:49:18.2428411+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:56:24.388115+00:00"
 }

@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 44958,
+  "EOS_Progressed": 44964,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16209,6 +16209,11 @@
       "Time": "2023-12-24T00:04:38.0608816+00:00",
       "NumProgressed": 44958,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T01:55:04.5588495+00:00",
+      "NumProgressed": 44964,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16252,7 +16257,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16268,7 +16273,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16412,7 +16417,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16572,7 +16577,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "STAYING_AIR",
@@ -16643,22 +16648,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 44958,
+      "Progressed": 44964,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9795,
-      "Completed": 9795
+      "Progressed": 9801,
+      "Completed": 9801
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:04:38.0608814+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:55:04.5588491+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:58:34.7858428+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:04:38.0609654+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:48:35.2902461+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:55:04.5589382+00:00"
 }

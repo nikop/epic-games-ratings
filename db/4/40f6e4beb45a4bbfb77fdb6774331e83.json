@@ -4,7 +4,7 @@
   "ProductSlug": "golfing-in-aether-cfac43",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -170,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:04:13.5992732+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:54:31.546627+00:00",
   "LastUpdate_AppInfo": "2023-12-21T11:57:09.8118746+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:09.0365983+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:04:13.5992802+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:49:24.4996967+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:54:31.5466357+00:00"
 }

@@ -46,9 +46,9 @@
 | Giant Claw Spider Challenge | 2.00% | ~13 |
 | Furious Scorpion Challenge | 2.00% | ~13 |
 | Mermaid Challenge | 2.00% | ~13 |
+| Berserker Challenge | 2.00% | ~13 |
 | Giantess Challenge | 2.00% | ~13 |
-| Berserker Challenge | 1.00% | ~7 |
-| Warden Challenge | 1.00% | ~7 |
+| Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 654 (Ranked 310)  
 Completed: 2 (0.31%) (Ranked 247)  

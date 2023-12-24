@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~433 |
-| Lost and Found | 6.00% | ~260 |
-| Autodidact | 5.00% | ~6,473 |
-| This guy... again? | 5.00% | ~216 |
-| This Belongs in a Museum | 4.00% | ~5,178 |
-| Creep and Sleep | 4.00% | ~5,178 |
-| Overdue Notice | 4.00% | ~5,178 |
-| Escape from the Black Hole | 4.00% | ~5,178 |
-| Ploughshares to Swords | 4.00% | ~173 |
-| Bloody Graduation | 4.00% | ~173 |
+| Malpractice Assurance | 10.00% | ~434 |
+| Lost and Found | 6.00% | ~261 |
+| Autodidact | 5.00% | ~6,474 |
+| This guy... again? | 5.00% | ~217 |
+| This Belongs in a Museum | 4.00% | ~5,179 |
+| Creep and Sleep | 4.00% | ~5,179 |
+| Overdue Notice | 4.00% | ~5,179 |
+| Escape from the Black Hole | 4.00% | ~5,179 |
+| Ploughshares to Swords | 4.00% | ~174 |
+| Bloody Graduation | 4.00% | ~174 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,884 |
 | Serenity Now! | 3.00% | ~3,884 |
 | It Rings a Bell | 3.00% | ~3,884 |
@@ -28,30 +28,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,884 |
 | FNG | 3.00% | ~3,884 |
 | Friends 'Til the End | 3.00% | ~130 |
-| Resurrection | 2.00% | ~2,589 |
-| Unleash Hell | 2.00% | ~2,589 |
-| Funny Guy | 2.00% | ~2,589 |
-| Long Live the King | 2.00% | ~2,589 |
-| Wyrdly Reconstructed | 2.00% | ~2,589 |
-| Boxcar Kid | 2.00% | ~2,589 |
-| Unfulfilled Desires | 2.00% | ~2,589 |
-| Predator | 2.00% | ~2,589 |
-| Dissector | 2.00% | ~2,589 |
-| Banishment | 2.00% | ~2,589 |
-| Deprogramming | 2.00% | ~2,589 |
-| Now Stay Dead | 2.00% | ~2,589 |
-| Reverse Banditry | 2.00% | ~2,589 |
-| Spelunker | 2.00% | ~2,589 |
-| Merry Time | 2.00% | ~2,589 |
-| Harvest Festival | 2.00% | ~2,589 |
-| Ramble On | 2.00% | ~2,589 |
-| A Clear Conscience | 2.00% | ~2,589 |
-| Whale | 2.00% | ~2,589 |
-| When You Want Something Done Right | 2.00% | ~2,589 |
-| Utopia | 2.00% | ~2,589 |
-| Nope | 2.00% | ~2,589 |
-| Unshackled | 2.00% | ~2,589 |
-| Road Trip | 2.00% | ~2,589 |
+| Resurrection | 2.00% | ~2,590 |
+| Unleash Hell | 2.00% | ~2,590 |
+| Funny Guy | 2.00% | ~2,590 |
+| Long Live the King | 2.00% | ~2,590 |
+| Wyrdly Reconstructed | 2.00% | ~2,590 |
+| Boxcar Kid | 2.00% | ~2,590 |
+| Unfulfilled Desires | 2.00% | ~2,590 |
+| Predator | 2.00% | ~2,590 |
+| Dissector | 2.00% | ~2,590 |
+| Banishment | 2.00% | ~2,590 |
+| Deprogramming | 2.00% | ~2,590 |
+| Now Stay Dead | 2.00% | ~2,590 |
+| Reverse Banditry | 2.00% | ~2,590 |
+| Spelunker | 2.00% | ~2,590 |
+| Merry Time | 2.00% | ~2,590 |
+| Harvest Festival | 2.00% | ~2,590 |
+| Ramble On | 2.00% | ~2,590 |
+| A Clear Conscience | 2.00% | ~2,590 |
+| Whale | 2.00% | ~2,590 |
+| When You Want Something Done Right | 2.00% | ~2,590 |
+| Utopia | 2.00% | ~2,590 |
+| Nope | 2.00% | ~2,590 |
+| Unshackled | 2.00% | ~2,590 |
+| Road Trip | 2.00% | ~2,590 |
 | This Looks Familiar | 1.00% | ~1,295 |
 | Hope Rekindled | 1.00% | ~1,295 |
 | Ichthyophobic | 1.00% | ~1,295 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,458 (Ranked 87)  
+Progressed: 129,475 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,458 | 3 |
+| 2023-12-24 | 129,475 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
-Sum: 21,001 (Ranked 58)  
+Sum: 21,004 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,406 |
 | This game has Amazing Storytelling | 1,405 |
-| This game has Quickly Understood Controls | 1,375 |
+| This game has Quickly Understood Controls | 1,378 |
 | This game has a Creative Community | 1,044 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -676,3 +676,4 @@ Diff (max vs sum): -8
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
+| 2023-12-24 | 4.68 | - | 7,851 | 21,004 |

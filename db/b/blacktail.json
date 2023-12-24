@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -2516,6 +2516,11 @@
       "Time": "2023-12-24T00:10:14.1087772+00:00",
       "NumProgressed": 821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T02:00:11.4475747+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2573,9 +2578,9 @@
       "ID": "Extremist",
       "SetID": "2aagp3d",
       "Name": "Devoted",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 74
     },
     {
       "ID": "EyeSpy",
@@ -2615,7 +2620,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GossipGirl",
@@ -2639,7 +2644,7 @@
       "Name": "Spirit animal",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LiarLiar",
@@ -2782,7 +2787,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 1
     }
   ],
@@ -2790,8 +2795,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:10:14.108777+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:00:11.4475743+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:23.1824341+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:10:14.1088076+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:49:46.3434524+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:00:11.4476043+00:00"
 }

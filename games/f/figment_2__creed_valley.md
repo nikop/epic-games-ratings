@@ -11,8 +11,8 @@
 | Slam-KABAM | 20.00% | ~10 |
 | A heavy thinker | 18.00% | ~9 |
 | Repair the Mind Validation Machine | 18.00% | ~9 |
+| Elementary, My Dear Dusty | 14.00% | ~7 |
 | Heavy Thoughts | 12.00% | ~6 |
-| Elementary, My Dear Dusty | 12.00% | ~6 |
 | Dance like an idiot | 10.00% | ~5 |
 | Flee like an idiot | 10.00% | ~5 |
 | I'm Back at the Surface now | 8.00% | ~4 |
@@ -23,7 +23,7 @@
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 535)  
+Progressed: 49 (Ranked 536)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

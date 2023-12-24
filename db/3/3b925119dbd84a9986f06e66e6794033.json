@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -1514,6 +1514,11 @@
       "Time": "2023-12-24T00:09:56.2462753+00:00",
       "NumProgressed": 444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T01:59:48.2307484+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1548,9 +1553,9 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -1598,7 +1603,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1622,7 +1627,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "TIME_ORWELL",
@@ -1638,7 +1643,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1646,7 +1651,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1685,14 +1690,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:09:56.2462751+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:59:48.2307478+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:58:09.5035128+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:09:56.2462924+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:47:57.0238117+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:59:48.2307655+00:00"
 }

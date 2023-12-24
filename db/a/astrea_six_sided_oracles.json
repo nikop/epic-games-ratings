@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -929,6 +929,11 @@
       "Time": "2023-12-23T19:05:39.9888789+00:00",
       "NumProgressed": 223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T01:57:06.3094092+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1027,9 +1032,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "AstralSeeker",
@@ -1165,7 +1170,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "EndlessTricks",
@@ -1173,7 +1178,7 @@
       "Name": "Endless Tricks",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1219,9 +1224,9 @@
       "ID": "HeartGate",
       "SetID": "1jeo1g7",
       "Name": "Heart Gate",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "HeavyPurger",
@@ -1365,7 +1370,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ReflexiveMind",
@@ -1389,7 +1394,7 @@
       "Name": "Sadistic Plan",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SanctuaryGuardian",
@@ -1397,7 +1402,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Sentinelphobic",
@@ -1677,7 +1682,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LacertianHero",
@@ -1724,14 +1729,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:06:07.3116114+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:57:06.3094089+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:09.6615872+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:39.2697528+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:06:07.3117119+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:50:10.3185163+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:57:06.3094869+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 74.00% | ~126 |
-| Mash Machine | 68.00% | ~116 |
-| Ducks in a Row, Fish in a Barrel | 49.00% | ~83 |
-| Furon Fashion | 42.00% | ~71 |
+| Rock of the Bay | 74.00% | ~127 |
+| Mash Machine | 68.00% | ~117 |
+| Ducks in a Row, Fish in a Barrel | 49.00% | ~84 |
+| Furon Fashion | 41.00% | ~71 |
 | Shop Til They Drop | 38.00% | ~65 |
-| Bodied Sattva | 33.00% | ~56 |
-| Earthly Pleasures | 31.00% | ~53 |
-| Cult Following | 29.00% | ~49 |
-| Upgreatest | 24.00% | ~41 |
-| Lie Back and Think of Albion | 23.00% | ~39 |
-| Pimp My Raid | 22.00% | ~37 |
+| Bodied Sattva | 33.00% | ~57 |
+| Cult Following | 30.00% | ~52 |
+| Earthly Pleasures | 30.00% | ~52 |
+| Lie Back and Think of Albion | 23.00% | ~40 |
+| Upgreatest | 23.00% | ~40 |
+| Pimp My Raid | 22.00% | ~38 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~31 |
-| Freshly Squeezed | 16.00% | ~27 |
+| Freshly Squeezed | 16.00% | ~28 |
 | Perfect Probulator | 15.00% | ~26 |
 | Die Nasty | 14.00% | ~24 |
-| Transmitting From Sol-3 | 11.00% | ~19 |
+| Transmitting From Sol-3 | 12.00% | ~21 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~17 |
 | Dusted | 9.00% | ~15 |
 | Fly Me to the Moon Base | 8.00% | ~14 |
 | Kaijuiced | 8.00% | ~14 |
 | Scuttled | 6.00% | ~10 |
-| Re-Return of the Clone of the Invasion II-2 | 5.00% | ~8 |
-| Yettisoned | 4.00% | ~7 |
+| Re-Return of the Clone of the Invasion II-2 | 5.00% | ~9 |
 | Lobster Blisque | 3.00% | ~5 |
+| Yettisoned | 3.00% | ~5 |
 | Ultimate Smoothie | 2.00% | ~3 |
 | Deincarnated | 2.00% | ~3 |
 | Arkvoodle Doodle | 2.00% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.00% | ~0 |
 | Trans-Siberian Express | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 422)  
+Progressed: 172 (Ranked 421)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 147 | 0 |
 | 2023-12-22 | 154 | 0 |
 | 2023-12-23 | 168 | 0 |
-| 2023-12-24 | 170 | 0 |
+| 2023-12-24 | 172 | 0 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 485)  
 Sum: 36 (Ranked 516)  

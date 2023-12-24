@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5774,
+  "EOS_Progressed": 5779,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11702,6 +11702,11 @@
       "Time": "2023-12-23T23:06:15.7907731+00:00",
       "NumProgressed": 5774,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T01:56:35.2530084+00:00",
+      "NumProgressed": 5779,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11714,7 +11719,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -11746,7 +11751,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11754,7 +11759,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -11762,7 +11767,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1503
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11770,7 +11775,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11778,7 +11783,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -11786,7 +11791,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -11794,7 +11799,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -11802,7 +11807,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -11826,7 +11831,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11834,7 +11839,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -11842,7 +11847,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -11850,7 +11855,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -11866,7 +11871,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11874,7 +11879,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11882,30 +11887,30 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5774,
+      "Progressed": 5779,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:05:44.0536882+00:00",
-  "LastUpdate_AppInfo": "2023-12-16T23:57:20.367807+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:57:42.1752369+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:05:44.0537451+00:00"
+  "LastChanged_Achievements": "2023-12-24T01:56:35.253008+00:00",
+  "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
+  "LastUpdate_Ratings": "2023-12-24T01:47:16.6230676+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:56:35.2530705+00:00"
 }

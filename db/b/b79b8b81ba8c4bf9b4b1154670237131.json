@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15749,
+  "EOS_Progressed": 15750,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4619,6 +4619,11 @@
       "Time": "2023-12-24T00:09:35.9867402+00:00",
       "NumProgressed": 15749,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T01:59:21.0825567+00:00",
+      "NumProgressed": 15750,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4639,7 +4644,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_AE_11",
@@ -4647,7 +4652,7 @@
       "Name": "One-Track Mind",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_AE_12",
@@ -4687,7 +4692,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "ACH_AE_17",
@@ -4791,7 +4796,7 @@
       "Name": "Higher Education",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_AE_29",
@@ -4839,7 +4844,7 @@
       "Name": "Hugger",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_AE_34",
@@ -4863,7 +4868,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "ACH_AE_5",
@@ -4879,7 +4884,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_AE_7",
@@ -4910,7 +4915,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15749,
+      "Progressed": 15750,
       "Completed": 14
     }
   ],
@@ -4918,8 +4923,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:09:35.9867401+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:59:21.0825564+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:57:45.3047426+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:09:35.9867732+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:47:20.9854135+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:59:21.0825915+00:00"
 }

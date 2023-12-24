@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.37,
+  "EOS_Completed_Percentage": 3.36,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1804,6 +1804,11 @@
       "Time": "2023-12-23T19:08:50.2429345+00:00",
       "NumProgressed": 624,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-24T01:58:29.7653471+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1816,7 +1821,7 @@
       "Name": "The Last Stand",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ach_main01begin_die",
@@ -1824,7 +1829,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1838,9 +1843,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 500
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1856,7 +1861,7 @@
       "Name": "Trap Master",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ach_main03demon_completed",
@@ -1864,7 +1869,7 @@
       "Name": "The Hellwoods",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1872,7 +1877,7 @@
       "Name": "Master of Magic",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1880,15 +1885,15 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 438
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1896,7 +1901,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1912,7 +1917,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -1920,7 +1925,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1936,7 +1941,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2008,7 +2013,7 @@
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_main09journey_completed",
@@ -2032,7 +2037,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_main10fire_completed",
@@ -2040,7 +2045,7 @@
       "Name": "The Cathedral of Light",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -2048,7 +2053,7 @@
       "Name": "Unstoppable Horde",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2056,7 +2061,7 @@
       "Name": "Shame! Shame! Shame!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -2080,7 +2085,7 @@
       "Name": "Master of the Undead",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_main12race_completed",
@@ -2158,9 +2163,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2256,7 +2261,7 @@
       "Name": "The Rune Sockets of Finitude (Part 2)",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_main19war_heal",
@@ -2264,7 +2269,7 @@
       "Name": "Heal Heal Blessing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -2303,14 +2308,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:08:58.8857831+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:58:29.7653468+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:58:15.5185118+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:08:58.8858255+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:48:07.1480747+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:58:29.7653951+00:00"
 }

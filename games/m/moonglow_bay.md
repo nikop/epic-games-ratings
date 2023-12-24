@@ -12,8 +12,8 @@
 | Folklore | 1.00% | ~4 |
 | Wise and Floofy | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
+| They Can Change | 0.80% | ~3 |
 | Ocean Wings | 0.80% | ~3 |
-| They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |

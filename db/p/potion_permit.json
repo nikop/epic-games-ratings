@@ -385,7 +385,7 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1771,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -2905,6 +2905,11 @@
       "Time": "2023-12-23T22:05:25.4365148+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T01:55:20.5332484+00:00",
+      "NumProgressed": 1771,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2916,7 +2921,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2924,7 +2929,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2964,7 +2969,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3004,7 +3009,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3012,7 +3017,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3044,7 +3049,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3124,7 +3129,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -3156,7 +3161,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3172,7 +3177,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3219,7 +3224,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1771,
       "Completed": 10
     }
   ],
@@ -3227,8 +3232,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:04:49.6591478+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:55:20.5332483+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:47.0899932+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:04.9883564+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:04:49.659182+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:49:18.9730736+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:55:20.5332765+00:00"
 }

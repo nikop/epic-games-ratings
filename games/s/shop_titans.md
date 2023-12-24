@@ -6,26 +6,26 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,252 |
-| Titan's First Steps | 9.00% | ~13,252 |
-| Basic in Bulk | 8.00% | ~11,780 |
-| Tinkle of Coins | 8.00% | ~11,780 |
-| Disintermediation | 6.00% | ~8,835 |
-| It's Free Real Estate | 6.00% | ~8,835 |
-| Capitalism Ho! | 6.00% | ~8,835 |
-| One Easy Payment | 5.00% | ~7,362 |
-| Some Assembly Required | 5.00% | ~7,362 |
-| Another Satisfied Customer | 5.00% | ~7,362 |
-| Pretty Penny | 5.00% | ~7,362 |
-| Budding Merchant | 5.00% | ~7,362 |
-| Own the Means of Production | 5.00% | ~7,362 |
-| The Daily Grind | 4.00% | ~5,890 |
-| Bounty Hunters | 4.00% | ~5,890 |
-| Flooding the Market | 4.00% | ~5,890 |
-| Where it Hurts | 4.00% | ~5,890 |
-| One-Armed Bandit | 4.00% | ~5,890 |
-| Dungeon Imports | 4.00% | ~5,890 |
-| Through Repetition, Perfection | 4.00% | ~5,890 |
+| Sponsored by Argon | 9.00% | ~13,254 |
+| Titan's First Steps | 9.00% | ~13,254 |
+| Basic in Bulk | 8.00% | ~11,781 |
+| Tinkle of Coins | 8.00% | ~11,781 |
+| Disintermediation | 6.00% | ~8,836 |
+| It's Free Real Estate | 6.00% | ~8,836 |
+| Capitalism Ho! | 6.00% | ~8,836 |
+| One Easy Payment | 5.00% | ~7,363 |
+| Some Assembly Required | 5.00% | ~7,363 |
+| Another Satisfied Customer | 5.00% | ~7,363 |
+| Pretty Penny | 5.00% | ~7,363 |
+| Budding Merchant | 5.00% | ~7,363 |
+| Own the Means of Production | 5.00% | ~7,363 |
+| The Daily Grind | 4.00% | ~5,891 |
+| Bounty Hunters | 4.00% | ~5,891 |
+| Flooding the Market | 4.00% | ~5,891 |
+| Where it Hurts | 4.00% | ~5,891 |
+| One-Armed Bandit | 4.00% | ~5,891 |
+| Dungeon Imports | 4.00% | ~5,891 |
+| Through Repetition, Perfection | 4.00% | ~5,891 |
 | On the Path to Greatness | 3.00% | ~4,418 |
 | Ascended | 3.00% | ~4,418 |
 | Research & Development | 3.00% | ~4,418 |
@@ -99,14 +99,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,945 |
 | Complete Monopoly | 2.00% | ~2,945 |
 | King's Blade | 2.00% | ~2,945 |
-| The Free Encyclopedia | 1.00% | ~1,472 |
-| Fillin' the Bin | 1.00% | ~1,472 |
-| Thank You Tom Nook | 1.00% | ~1,472 |
-| Jackpot! | 1.00% | ~1,472 |
-| Eternal Crusade | 1.00% | ~1,472 |
-| Economy of Scarce | 1.00% | ~1,472 |
+| The Free Encyclopedia | 1.00% | ~1,473 |
+| Fillin' the Bin | 1.00% | ~1,473 |
+| Thank You Tom Nook | 1.00% | ~1,473 |
+| Jackpot! | 1.00% | ~1,473 |
+| Eternal Crusade | 1.00% | ~1,473 |
+| Economy of Scarce | 1.00% | ~1,473 |
+| The Greatest Grind | 0.90% | ~1,325 |
 | All or Nothing! | 0.90% | ~1,325 |
-| The Greatest Grind | 0.80% | ~1,178 |
 | Marvels from the World Over | 0.80% | ~1,178 |
 | Bane of Legends | 0.70% | ~1,031 |
 | Anything not Nailed Down | 0.70% | ~1,031 |
@@ -117,9 +117,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Merchant Extraordinaire | 0.50% | ~736 |
 | To Hell and Back | 0.40% | ~589 |
 | Cash Only Please | 0.40% | ~589 |
-| Capitalist Camaraderie | 0.20% | ~294 |
+| Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,250 (Ranked 83)  
+Progressed: 147,264 (Ranked 83)  
 Completed: 331 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,17 +367,17 @@ Completed: 331 (0.22%) (Ranked 269)
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
-| 2023-12-24 | 147,250 | 331 |
+| 2023-12-24 | 147,264 | 331 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
-Sum: 27,793 (Ranked 51)  
+Sum: 27,794 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,910 |
 | This game is Relaxing | 4,065 |
 | This game has Quickly Understood Controls | 4,054 |
-| This game has Diverse Characters | 3,986 |
+| This game has Diverse Characters | 3,987 |
 | This game is Highly Recommended | 3,801 |
 | This game has Easy Combat | 3,752 |
 | This game has Playful Visuals | 3,225 |
@@ -712,3 +712,4 @@ Diff (max vs sum): 24
 | 2023-12-21 | 3.99 | - | 4,900 | 27,771 |
 | 2023-12-22 | 3.99 | - | 4,906 | 27,779 |
 | 2023-12-23 | 3.99 | - | 4,910 | 27,793 |
+| 2023-12-24 | 3.99 | - | 4,910 | 27,794 |

@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 2.00% | ~3,282 |
-| Imprint | 2.00% | ~3,282 |
+| Taste | 2.00% | ~3,283 |
+| Imprint | 2.00% | ~3,283 |
 | The Hunt | 1.00% | ~1,641 |
 | Weeper | 1.00% | ~1,641 |
 | Ravenous | 1.00% | ~1,641 |
@@ -17,17 +17,18 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 0.50% | ~821 |
 | Sharpened Vessel | 0.50% | ~821 |
 | Scion | 0.40% | ~655 |
-| Jawcrab | 0.40% | ~656 |
-| Jawstag | 0.40% | ~656 |
-| Feast | 0.40% | ~656 |
+| Jawcrab | 0.40% | ~657 |
+| Jawstag | 0.40% | ~657 |
+| Feast | 0.40% | ~657 |
 | Shapely | 0.30% | ~492 |
 | Glare | 0.30% | ~491 |
+| Host | 0.30% | ~491 |
 | Watcher | 0.30% | ~492 |
 | Predator | 0.30% | ~492 |
 | Assimilation | 0.20% | ~328 |
+| Breath | 0.20% | ~328 |
 | Hunt Down | 0.20% | ~328 |
 | Artisan | 0.20% | ~328 |
-| Host | 0.20% | ~327 |
 | Hush | 0.20% | ~328 |
 | Celebration | 0.20% | ~328 |
 | Inevitable | 0.20% | ~328 |
@@ -40,7 +41,6 @@ Number of Ratings: 46  (23.09.2022)
 | Skinmaker | 0.10% | ~164 |
 | Instruments | 0.10% | ~164 |
 | Zygote | 0.10% | ~164 |
-| Breath | 0.10% | ~164 |
 | Kinship | 0.10% | ~164 |
 | Weakness | 0.10% | ~164 |
 | Passage | 0.10% | ~164 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,116 (Ranked 81)  
+Progressed: 164,130 (Ranked 81)  
 Completed: 393 (0.24%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,11 +278,11 @@ Completed: 393 (0.24%) (Ranked 265)
 | 2023-12-21 | 163,723 | 380 |
 | 2023-12-22 | 163,906 | 387 |
 | 2023-12-23 | 164,107 | 393 |
-| 2023-12-24 | 164,116 | 393 |
+| 2023-12-24 | 164,130 | 393 |
 ## Awards
-Max (Unique Visuals): 59  (Ranked 424)  
+Max (Unique Visuals): 59  (Ranked 425)  
 Sum: 419 (Ranked 343)  
-Diff (max vs sum): 81  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 59 |

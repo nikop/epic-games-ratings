@@ -6,8 +6,8 @@
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5199,9 +5199,9 @@
       "Count": 521
     }
   ],
-  "EOS_Progressed": 92412,
+  "EOS_Progressed": 92413,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28969,6 +28969,11 @@
       "Time": "2023-12-24T00:04:08.4962563+00:00",
       "NumProgressed": 92412,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-24T01:54:24.3379741+00:00",
+      "NumProgressed": 92413,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29124,7 +29129,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "ACH_0210",
@@ -29307,13 +29312,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92412,
+      "Progressed": 92413,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20759,
+      "Progressed": 20760,
       "Completed": 15590
     }
   ],
@@ -29321,8 +29326,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-23T14:59:08.4198238+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:04:08.4962561+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:54:24.3379736+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:15.2774722+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:25.1807735+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:04:08.4963724+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:49:48.7798603+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:54:24.3381039+00:00"
 }

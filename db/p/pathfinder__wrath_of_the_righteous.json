@@ -4691,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12671,
+  "EOS_Progressed": 12673,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17821,6 +17821,11 @@
       "Time": "2023-12-24T00:10:20.1711061+00:00",
       "NumProgressed": 12671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T02:00:19.0823663+00:00",
+      "NumProgressed": 12673,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17832,7 +17837,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "02_BurningCity",
@@ -17856,7 +17861,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -18080,7 +18085,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18200,7 +18205,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "49_Flame",
@@ -18759,21 +18764,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11453,
+      "Progressed": 11455,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12671,
+      "Progressed": 12673,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:10:20.171106+00:00",
+  "LastChanged_Achievements": "2023-12-24T02:00:19.0823659+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.7532096+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:36.3967336+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:10:20.1712682+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:50:06.408095+00:00",
+  "LastUpdate_Achievements": "2023-12-24T02:00:19.0825212+00:00"
 }

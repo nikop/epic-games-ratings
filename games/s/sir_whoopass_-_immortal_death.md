@@ -39,9 +39,9 @@
 | Catch the bus with me! | 32.00% | ~44 |
 | I'm going to get a concussion | 31.00% | ~42 |
 | Another one bites the iron | 29.00% | ~39 |
+| Kleptomaniac | 27.00% | ~37 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
 | Hovering around | 26.00% | ~35 |
-| Kleptomaniac | 26.00% | ~35 |
 | You're not so Big anymore, Boi! | 25.00% | ~34 |
 | A Megapint...? | 25.00% | ~34 |
 | Your daily dose of Vitamin C. | 25.00% | ~34 |

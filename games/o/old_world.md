@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.40% | ~64 |
 | Settler | 0.40% | ~64 |
 | Play a Single Player Game | 0.40% | ~64 |
 | Able | 0.30% | ~48 |
 | Architect | 0.30% | ~48 |
-| Explorer | 0.30% | ~48 |
 | Intrepid | 0.30% | ~48 |
 | Mason | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.20% | ~32 |
 | Able Difficulty | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
+| Apadana | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
 | Hanging Gardens | 0.20% | ~32 |
 | Ishtar Gate | 0.20% | ~32 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three's a Crowd | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Acropolis | 0.10% | ~16 |
-| Apadana | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Colossus | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
@@ -241,6 +241,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sepat Wase Forever | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
 | Kmt Unified | 0.10% | ~16 |
+| Pharaonic Greater Kmt Unified | 0.10% | ~16 |
 | Pharaonic Kmt Unified | 0.10% | ~16 |
 | Prosperous Kmt | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
@@ -327,7 +328,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| Pharaonic Greater Kmt Unified | 0.00% | ~0 |
 | Golden Age-less | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Kmt Golden Age | 0.00% | ~0 |
@@ -615,16 +615,16 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-23 | 15,914 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
-Sum: 1,907 (Ranked 220)  
+Sum: 1,909 (Ranked 220)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |
 | This game has Diverse Characters | 222 |
-| This game is Highly Recommended | 221 |
+| This game is Highly Recommended | 222 |
 | This game is Extremely Fun | 220 |
 | This game is Educational | 215 |
-| This game has Challenging Combat | 208 |
+| This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 199 |
 | This game has Quickly Understood Controls | 197 |
 | This game has Amazing Storytelling | 196 |
@@ -816,3 +816,4 @@ Diff (max vs sum): 59
 | 2023-12-19 | 4.65 | - | 228 | 1,904 |
 | 2023-12-21 | 4.65 | - | 229 | 1,905 |
 | 2023-12-22 | 4.65 | - | 229 | 1,907 |
+| 2023-12-24 | 4.65 | - | 229 | 1,909 |

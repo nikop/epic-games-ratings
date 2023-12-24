@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3553,
+  "EOS_Progressed": 3557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4755,6 +4755,11 @@
       "Time": "2023-12-24T00:04:32.6715163+00:00",
       "NumProgressed": 3553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T01:54:57.1261568+00:00",
+      "NumProgressed": 3557,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4782,7 +4787,7 @@
       "Name": "Look Over There!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "BloodAndIron",
@@ -4934,7 +4939,7 @@
       "Name": "Not So Fast...",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Kills_Bleed",
@@ -4958,7 +4963,7 @@
       "Name": "Executioner",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "Kills_Exterminator",
@@ -4998,7 +5003,7 @@
       "Name": "Purging Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Kills_Vakir",
@@ -5012,9 +5017,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 391
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5284,9 +5289,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -5309,21 +5314,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3553,
+      "Progressed": 3557,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3553,
+      "Progressed": 3557,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:04:32.6715161+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:54:57.1261564+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-24T00:03:14.4760439+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:04:32.6715827+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:53:06.4710456+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:54:57.1262156+00:00"
 }

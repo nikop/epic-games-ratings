@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~84 |
-| Air Fighter | 75.00% | ~71 |
-| Oo-De-Lally | 69.00% | ~66 |
-| The Altruist | 65.00% | ~62 |
-| Treasure Hunter | 64.00% | ~61 |
-| Watch your Step! | 53.00% | ~50 |
-| MAX LEVEL | 51.00% | ~48 |
-| Tap Dancing | 49.00% | ~47 |
-| Spring Board | 40.00% | ~38 |
-| Right between the eyes | 39.00% | ~37 |
-| Starry Night | 37.00% | ~35 |
-| Locksley's Tears | 36.00% | ~34 |
-| Rebel Unleashed | 36.00% | ~34 |
-| Merry Co-operation | 33.00% | ~31 |
+| Act of Kindness | 89.00% | ~86 |
+| Air Fighter | 75.00% | ~73 |
+| Oo-De-Lally | 70.00% | ~68 |
+| The Altruist | 66.00% | ~64 |
+| Treasure Hunter | 65.00% | ~63 |
+| Watch your Step! | 54.00% | ~52 |
+| Tap Dancing | 51.00% | ~49 |
+| MAX LEVEL | 51.00% | ~49 |
+| Right between the eyes | 40.00% | ~39 |
+| Spring Board | 39.00% | ~38 |
+| Starry Night | 38.00% | ~37 |
+| Locksley's Tears | 36.00% | ~35 |
+| Rebel Unleashed | 35.00% | ~34 |
+| Merry Co-operation | 32.00% | ~31 |
 | Finish Him! | 25.00% | ~24 |
 | Assault on the Ram | 24.00% | ~23 |
 | First Aid | 24.00% | ~23 |
 | Ultra Rebel Instinct | 23.00% | ~22 |
 | Merry Go Round | 22.00% | ~21 |
 | Savior | 18.00% | ~17 |
-| Hidden Experiment | 17.00% | ~16 |
-| Take Action! | 17.00% | ~16 |
-| Ascending Will | 15.00% | ~14 |
-| Ultra Combo | 15.00% | ~14 |
-| Into the Lion's Den | 12.00% | ~11 |
-| Haute Couture | 11.00% | ~10 |
+| Hidden Experiment | 16.00% | ~16 |
+| Take Action! | 16.00% | ~16 |
+| Ascending Will | 14.00% | ~14 |
+| Ultra Combo | 14.00% | ~14 |
+| Into the Lion's Den | 11.00% | ~11 |
+| Haute Couture | 10.00% | ~10 |
 | Sky High Fighter | 9.00% | ~9 |
 | The Gang prevails | 7.00% | ~7 |
 | Brilliant Executioner | 6.00% | ~6 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 480)  
+Progressed: 97 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,4 +90,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 88 | 0 |
 | 2023-12-22 | 90 | 0 |
 | 2023-12-23 | 94 | 0 |
-| 2023-12-24 | 95 | 0 |
+| 2023-12-24 | 97 | 0 |

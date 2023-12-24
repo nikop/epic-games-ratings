@@ -48,8 +48,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 0.70% | ~133 |
 | Efficient Explorer | 0.60% | ~114 |
 | Refinery | 0.60% | ~114 |
+| Dangerous Lands | 0.60% | ~114 |
 | Forsaken Gods Temple | 0.60% | ~114 |
-| Dangerous Lands | 0.50% | ~95 |
 | Forbidden Lands | 0.50% | ~95 |
 | Feeding The People | 0.40% | ~76 |
 | Fox Utopia | 0.40% | ~76 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,054 (Ranked 150)  
+Progressed: 19,058 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,054 | 38 |
+| 2023-12-24 | 19,058 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,284 (Ranked 175)  

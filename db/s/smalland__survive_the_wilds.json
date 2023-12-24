@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -387,9 +387,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21052,
+  "EOS_Progressed": 21056,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9627,6 +9627,11 @@
       "Time": "2023-12-23T22:10:12.1906848+00:00",
       "NumProgressed": 21052,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-24T01:59:50.517998+00:00",
+      "NumProgressed": 21056,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -9726,7 +9731,7 @@
       "Name": "Smooth as silk",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "PickupStone",
@@ -9741,7 +9746,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21052,
+      "Progressed": 21056,
       "Completed": 18
     }
   ],
@@ -9749,8 +9754,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-12-21T01:46:12.5576924+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:09:57.9391525+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:59:50.5179977+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.3833374+00:00",
-  "LastUpdate_Ratings": "2023-12-24T00:02:53.5391372+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:09:57.9392023+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:52:35.4185447+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:59:50.5180448+00:00"
 }

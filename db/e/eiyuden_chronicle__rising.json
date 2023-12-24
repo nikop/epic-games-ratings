@@ -2,12 +2,12 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -1058,8 +1058,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:08:40.2129357+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:58:03.7141651+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:14.9591133+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:59:56.6067775+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:08:40.2129752+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:50:35.6492273+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:58:03.7142042+00:00"
 }

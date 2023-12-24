@@ -11,15 +11,15 @@ Rating: 4.54 (Ranked 533)
 | Keep 'em coming! | 42.00% | ~334 |
 | The things they print nowadays | 40.00% | ~318 |
 | Big Spender | 39.00% | ~310 |
-| That's gotta hurt | 36.00% | ~286 |
+| That's gotta hurt | 37.00% | ~294 |
 | I think it's broke | 27.00% | ~215 |
 | The Ann Flores Combo Experience | 26.00% | ~207 |
 | Club Star | 25.00% | ~199 |
 | Fire in the hole! | 21.00% | ~167 |
 | Omnipotence | 20.00% | ~159 |
 | The Warlord | 20.00% | ~159 |
+| Deadly Kombationem | 19.00% | ~151 |
 | You are the One | 19.00% | ~151 |
-| Deadly Kombationem | 18.00% | ~143 |
 | The truth is out there | 16.00% | ~127 |
 | Annakin Skyscroller | 13.00% | ~103 |
 | In the smacker...I think | 10.00% | ~80 |

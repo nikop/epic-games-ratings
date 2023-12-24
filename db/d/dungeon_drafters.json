@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-24T00:06:05.3853947+00:00",
+  "LastChanged_Achievements": "2023-12-24T01:57:03.7394828+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.0228118+00:00",
-  "LastUpdate_Ratings": "2023-12-24T00:00:40.6188309+00:00",
-  "LastUpdate_Achievements": "2023-12-24T00:06:05.385415+00:00"
+  "LastUpdate_Ratings": "2023-12-24T01:51:39.2212255+00:00",
+  "LastUpdate_Achievements": "2023-12-24T01:57:03.7395081+00:00"
 }
