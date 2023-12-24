@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -344,9 +344,9 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Defeat_Volantis",
@@ -417,8 +417,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:04:21.8860474+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:03:18.1577285+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.0426676+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:59:02.7109041+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:04:21.8860657+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:28.1536551+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:03:18.1577521+00:00"
 }

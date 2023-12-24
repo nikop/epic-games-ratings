@@ -8,7 +8,7 @@
 | Gear Up | 66.00% | ~90 |
 | A Grand Show | 66.00% | ~90 |
 | Freshen Up | 54.00% | ~74 |
-| GG EZ | 52.00% | ~71 |
+| GG EZ | 53.00% | ~73 |
 | Hydrophobia | 36.00% | ~49 |
 | Ka-Ching! | 31.00% | ~42 |
 | Stop Right There | 28.00% | ~38 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.70% | ~1 |
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 441)  
-Completed: 1 (0.73%) (Ranked 194)  
+Progressed: 137 (Ranked 442)  
+Completed: 1 (0.73%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

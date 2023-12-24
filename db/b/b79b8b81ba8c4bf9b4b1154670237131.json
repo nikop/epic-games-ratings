@@ -6,9 +6,9 @@
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15794,
+  "EOS_Progressed": 15796,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4709,6 +4709,11 @@
       "Time": "2023-12-24T20:10:10.6443328+00:00",
       "NumProgressed": 15794,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T21:09:08.418494+00:00",
+      "NumProgressed": 15796,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4729,7 +4734,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH_AE_11",
@@ -4753,7 +4758,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11846
+      "UsersEstimate": 11847
     },
     {
       "ID": "ACH_AE_14",
@@ -4817,7 +4822,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ACH_AE_21",
@@ -4841,7 +4846,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH_AE_24",
@@ -4849,7 +4854,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH_AE_25",
@@ -4857,7 +4862,7 @@
       "Name": "Family History",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH_AE_26",
@@ -4865,7 +4870,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH_AE_27",
@@ -4961,7 +4966,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "ACH_AE_6",
@@ -4969,7 +4974,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH_AE_7",
@@ -4977,7 +4982,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ACH_AE_8",
@@ -4985,7 +4990,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ACH_AE_9",
@@ -4993,14 +4998,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15794,
+      "Progressed": 15796,
       "Completed": 14
     }
   ],
@@ -5008,8 +5013,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:10:10.6443324+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:08.4184935+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:20.3661388+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:10:10.6443875+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:57:57.7894836+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:08.4185529+00:00"
 }

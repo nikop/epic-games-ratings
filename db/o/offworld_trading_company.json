@@ -2,13 +2,13 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
-  "Ranking_Rating": 861,
-  "Ranking_Popularity": 455,
+  "Ranking_Rating": 855,
+  "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "NumberOfRatings": 432,
   "RatingHistory": [
     {
@@ -757,6 +757,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-12-24T20:59:04.8686284+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
@@ -836,8 +842,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-12-21T15:57:40.5387868+00:00",
+  "LastChanged": "2023-12-24T20:59:04.8686282+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.6027727+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:59:50.8592382+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:22.934609+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:59:04.8686287+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:38.135098+00:00"
 }

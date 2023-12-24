@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6856,
+  "EOS_Progressed": 6860,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7537,6 +7537,11 @@
       "Time": "2023-12-24T20:09:05.2236107+00:00",
       "NumProgressed": 6856,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T21:07:47.0712865+00:00",
+      "NumProgressed": 6860,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7724,7 +7729,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "GoodRiddance",
@@ -8099,21 +8104,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3895,
+      "Progressed": 3899,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6856,
+      "Progressed": 6860,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:09:05.2236102+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:07:47.0712859+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:57:20.534006+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:09:05.2236816+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:57:12.0344727+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:07:47.0713924+00:00"
 }

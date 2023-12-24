@@ -3,12 +3,12 @@
   "Name": "Coromon",
   "ProductSlug": "coromon-d4ef84",
   "Ranking_Rating": 258,
-  "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Popularity": 464,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T16:00:00+00:00",
     "PcReleaseDate": "2022-05-05T00:00:00+00:00",
@@ -277,18 +277,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-24T20:58:39.9416255+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 44,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 43
+      "Count": 44
     }
   ],
   "EOS_Progressed": 0,
@@ -302,8 +308,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
-  "LastChanged": "2023-12-10T19:59:10.4348649+00:00",
+  "LastChanged": "2023-12-24T20:58:39.941625+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.5956121+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:59:17.0273207+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:04:41.09626+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:39.9416257+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:03:32.944974+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -421,6 +421,11 @@
       "Time": "2023-12-24T02:00:11.7126866+00:00",
       "NumProgressed": 136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T21:09:49.2359872+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -432,7 +437,7 @@
       "Name": "Freedom",
       "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement10",
@@ -478,7 +483,7 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 58
     },
@@ -488,7 +493,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement17",
@@ -518,17 +523,17 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement21",
@@ -582,24 +587,24 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement9",
       "SetID": "jf6ho5",
       "Name": "Dreamwalker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 1
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:11:01.7451613+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:49.2359867+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.1109557+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:01:28.4634719+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:11:01.745176+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:00:19.0884133+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:49.236002+00:00"
 }

@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.30% | ~48 |
 | Mason | 0.30% | ~48 |
 | Noble | 0.30% | ~48 |
+| Pioneer | 0.30% | ~48 |
 | Strong | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
 | Hanging Gardens | 0.30% | ~48 |
@@ -31,13 +32,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.20% | ~32 |
 | Learned | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
-| Pioneer | 0.20% | ~32 |
 | Warrior | 0.20% | ~32 |
 | Wise | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
 | Strong Cities | 0.20% | ~32 |
 | Able Difficulty | 0.20% | ~32 |
+| Just Difficulty | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
 | Apadana | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |
-| Just Difficulty | 0.10% | ~16 |
 | Magnificent Difficulty | 0.10% | ~16 |
 | Noble Difficulty | 0.10% | ~16 |
 | Strong Difficulty | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,924 (Ranked 162)  
+Progressed: 15,925 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -613,7 +613,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
-| 2023-12-24 | 15,924 | 5 |
+| 2023-12-24 | 15,925 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

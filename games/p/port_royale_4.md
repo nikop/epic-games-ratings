@@ -8,7 +8,7 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~897 |
 | My little farm | 64.00% | ~717 |
-| Every beginning is difficult | 62.00% | ~695 |
+| Every beginning is difficult | 63.00% | ~706 |
 | Gofer | 56.00% | ~628 |
 | 3, 2, 1, mine | 55.00% | ~617 |
 | O Captain! My Captain! | 55.00% | ~617 |
@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,121 (Ranked 276)  
-Completed: 1 (0.09%) (Ranked 314)  
+Completed: 1 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

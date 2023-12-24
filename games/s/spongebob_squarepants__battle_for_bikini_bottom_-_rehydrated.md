@@ -15,12 +15,12 @@ Number of Ratings: 76  (23.09.2022)
 | Sweet Victory | 6.00% | ~20 |
 | Sock Getter | 5.00% | ~17 |
 | Surf's Up! | 5.00% | ~17 |
+| Uptown and Downtown | 4.00% | ~13 |
 | Shrimp Catcher | 4.00% | ~13 |
 | Toxic Terror | 4.00% | ~13 |
 | Hit Rock Bottom | 4.00% | ~13 |
 | Squirrel Smasher | 4.00% | ~13 |
 | Star Smasher | 4.00% | ~13 |
-| Uptown and Downtown | 3.00% | ~10 |
 | Hello, Bikini Bottom | 3.00% | ~10 |
 | Keep it Rolling | 3.00% | ~10 |
 | Super Spatula Seeker | 3.00% | ~10 |
@@ -52,8 +52,8 @@ Completed: 1 (0.30%) (Ranked 251)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 331 | 1 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 496)  
-Sum: 34 (Ranked 522)  
+Max (Great Boss Battles): 34  (Ranked 497)  
+Sum: 34 (Ranked 523)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |

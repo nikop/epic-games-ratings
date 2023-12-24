@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1564,6 +1564,11 @@
       "Time": "2023-12-24T14:03:29.3602546+00:00",
       "NumProgressed": 364,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T21:03:14.7666922+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1648,15 +1653,15 @@
       "Name": "A Party to Remember!",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1688,7 +1693,7 @@
       "Name": "Weed Warrior",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1696,7 +1701,7 @@
       "Name": "Bridge Builder",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1735,14 +1740,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:04:17.2236188+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:03:14.7666918+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:01.3357878+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:04:17.2236408+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:57:44.4671271+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:03:14.7667271+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2190,9 +2190,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15924,
+  "EOS_Progressed": 15925,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18270,6 +18270,11 @@
       "Time": "2023-12-24T18:11:12.6199429+00:00",
       "NumProgressed": 15924,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T21:09:55.2308687+00:00",
+      "NumProgressed": 15925,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18871,9 +18876,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -19047,9 +19052,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -21144,21 +21149,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15924,
+      "Progressed": 15925,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15924,
+      "Progressed": 15925,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-24T01:52:51.4909286+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:11:08.4367165+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:55.2308682+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:29.2007671+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:11:08.4377525+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:02:37.9886315+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:55.231886+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 531,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1951,9 +1951,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16605,
+  "EOS_Progressed": 16615,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1447,
+  "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17461,6 +17461,11 @@
       "Time": "2023-12-24T20:10:49.5834043+00:00",
       "NumProgressed": 16605,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-24T21:09:39.46499+00:00",
+      "NumProgressed": 16615,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 35,
@@ -17472,7 +17477,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13450
+      "UsersEstimate": 13458
     },
     {
       "ID": "ACH02",
@@ -17480,7 +17485,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH03",
@@ -17488,7 +17493,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH04",
@@ -17520,7 +17525,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3157
     },
     {
       "ID": "ACH08",
@@ -17528,7 +17533,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8302
+      "UsersEstimate": 8308
     },
     {
       "ID": "ACH09",
@@ -17552,7 +17557,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH12",
@@ -17568,7 +17573,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2991
     },
     {
       "ID": "ACH14",
@@ -17576,7 +17581,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH15",
@@ -17584,7 +17589,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH16",
@@ -17592,7 +17597,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "ACH17",
@@ -17608,7 +17613,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ACH19",
@@ -17616,7 +17621,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH20",
@@ -17640,7 +17645,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH23",
@@ -17648,7 +17653,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4154
     },
     {
       "ID": "ACH24",
@@ -17664,7 +17669,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH26",
@@ -17688,7 +17693,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH29",
@@ -17696,7 +17701,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "ACH30",
@@ -17751,7 +17756,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16605,
+      "Progressed": 16615,
       "Completed": 63
     }
   ],
@@ -17759,8 +17764,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-24T15:02:05.0467908+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:10:49.5834036+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:39.4649895+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:01:46.9658868+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:10:49.583523+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:00:33.508613+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:39.465179+00:00"
 }

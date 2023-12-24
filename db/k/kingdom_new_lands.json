@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2015-10-21T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1734,10 +1734,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 771,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-12-24T21:02:53.4807162+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 772,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 771,
+  "NumberOfAwards": 772,
   "NumberOfAwardsMax": 130,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1763,7 +1769,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1813,8 +1819,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-12-22T08:03:06.7717579+00:00",
+  "LastChanged": "2023-12-24T21:02:53.4807161+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.8594877+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:49.6589687+00:00",
+  "LastUpdate_Ratings": "2023-12-24T21:02:53.4807166+00:00",
   "LastUpdate_Achievements": "2023-12-24T20:09:26.2422368+00:00"
 }

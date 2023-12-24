@@ -14,12 +14,12 @@ Rating: 4.64 (Ranked 342)
 | First Bounty Down | 4.00% | ~994 |
 | G3 Graduation | 4.00% | ~994 |
 | Don't Knife The Hand That Feeds | 4.00% | ~994 |
-| Creature Feature | 3.00% | ~745 |
-| RIP Davey Glutes | 3.00% | ~745 |
-| Hardest Battle In The Game | 3.00% | ~745 |
-| Self-Actualization | 3.00% | ~745 |
-| Who's The Boss? | 3.00% | ~745 |
-| Fallout Doesn't Let You Do This | 3.00% | ~745 |
+| Creature Feature | 3.00% | ~746 |
+| RIP Davey Glutes | 3.00% | ~746 |
+| Hardest Battle In The Game | 3.00% | ~746 |
+| Self-Actualization | 3.00% | ~746 |
+| Who's The Boss? | 3.00% | ~746 |
+| Fallout Doesn't Let You Do This | 3.00% | ~746 |
 | Eatin' Good in the Neighborhood | 2.00% | ~497 |
 | Lezduit! | 2.00% | ~497 |
 | Eye Scream, You Scream | 2.00% | ~497 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 342)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,849 (Ranked 143)  
+Progressed: 24,850 (Ranked 143)  
 Completed: 14 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 14 (0.06%) (Ranked 328)
 | 2023-12-21 | 24,817 | 14 |
 | 2023-12-22 | 24,828 | 14 |
 | 2023-12-23 | 24,840 | 14 |
-| 2023-12-24 | 24,849 | 14 |
+| 2023-12-24 | 24,850 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

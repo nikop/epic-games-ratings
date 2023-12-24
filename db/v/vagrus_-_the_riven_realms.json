@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -936,6 +936,11 @@
       "Time": "2023-12-24T18:04:14.2718283+00:00",
       "NumProgressed": 236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T21:03:26.2626541+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -947,7 +952,7 @@
       "Name": "Randomized",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1499,7 +1504,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1738,7 +1743,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 0
     }
   ],
@@ -1746,8 +1751,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:04:32.6951448+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:03:26.2626538+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:57:59.1692615+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:04:32.695267+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:57:41.9369258+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:03:26.2627658+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1564,6 +1564,11 @@
       "Time": "2023-12-24T20:10:38.3550766+00:00",
       "NumProgressed": 465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T21:09:30.6075056+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1582,9 +1587,9 @@
       "ID": "DODO_RE_MI_PAPER_BLADDER",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Paper Bladder",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "DODO_RE_MI_SAX_FAMILY",
@@ -1606,9 +1611,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1622,9 +1627,9 @@
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -1638,9 +1643,9 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1718,9 +1723,9 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -1735,14 +1740,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:10:38.3550759+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:30.6075042+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:56.5380853+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:10:38.3550978+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:24.1461378+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:30.6075273+00:00"
 }

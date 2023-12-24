@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 199)  
 ## Awards
-Max (Quickly Understood Controls): 21  (Ranked 562)  
+Max (Quickly Understood Controls): 21  (Ranked 563)  
 Sum: 62 (Ranked 489)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |

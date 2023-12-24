@@ -8,7 +8,7 @@
 | A Loyal Friend | 38.00% | ~39 |
 | Abandon Ship! | 26.00% | ~27 |
 | The Tomb of Kih-Oskh | 21.00% | ~21 |
-| The Weighing of the Soul | 18.00% | ~18 |
+| The Weighing of the Soul | 19.00% | ~19 |
 | The Curse of Kih-Oskh | 15.00% | ~15 |
 | It's a Deal! | 10.00% | ~10 |
 | Mummy Nightmare | 9.00% | ~9 |

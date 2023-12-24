@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2018-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4221,10 +4221,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3426,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-12-24T20:59:52.1530844+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3429,
+      "NumberOfAwardsMax": 527
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3426,
+  "NumberOfAwards": 3429,
   "NumberOfAwardsMax": 527,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4262,7 +4268,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 420
+      "Count": 423
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4300,8 +4306,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2023-12-24T18:00:42.9728431+00:00",
+  "LastChanged": "2023-12-24T20:59:52.1530841+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.3731747+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:00:52.5551083+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:09:17.1976011+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:59:52.1530847+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:07:56.1625588+00:00"
 }

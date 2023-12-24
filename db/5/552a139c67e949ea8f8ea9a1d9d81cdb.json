@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1619,
+  "EOS_Progressed": 1620,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3917,6 +3917,11 @@
       "Time": "2023-12-24T20:06:49.3069718+00:00",
       "NumProgressed": 1619,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T21:05:12.3890754+00:00",
+      "NumProgressed": 1620,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4271,9 +4276,9 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "8jfk4dl",
       "Name": "Ignition",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -4296,20 +4301,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1619,
+      "Progressed": 1620,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 1002
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:06:49.3069712+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:12.3890748+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:59:30.4740926+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:06:49.3070156+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:49.8472485+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:12.3891337+00:00"
 }

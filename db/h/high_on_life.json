@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24849,
+  "EOS_Progressed": 24850,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -8065,6 +8065,11 @@
       "Time": "2023-12-24T19:06:15.8088623+00:00",
       "NumProgressed": 24849,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T21:05:51.1660658+00:00",
+      "NumProgressed": 24850,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8116,7 +8121,7 @@
       "Name": "Creature Feature",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_GET_GUS",
@@ -8156,7 +8161,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -8228,7 +8233,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -8244,7 +8249,7 @@
       "Name": "Self-Actualization",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -8252,7 +8257,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -8260,7 +8265,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -8427,13 +8432,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24849,
+      "Progressed": 24850,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2142,
+      "Progressed": 2143,
       "Completed": 1376
     }
   ],
@@ -8441,8 +8446,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:07:39.6716529+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:51.1660655+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:19.6060932+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:39.6717187+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:02:31.178596+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:51.1661323+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 717,
+  "EOS_Progressed": 718,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.93,
+  "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1365,6 +1365,11 @@
       "Time": "2023-12-24T18:10:26.5542964+00:00",
       "NumProgressed": 717,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-24T21:09:16.460768+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1376,7 +1381,7 @@
       "Name": "Beat It",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "blast_from_the_past",
@@ -1384,7 +1389,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "deadly_secret",
@@ -1422,9 +1427,9 @@
       "ID": "ending_4",
       "SetID": "d4f4pll",
       "Name": "The Promise",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 57
     },
     {
       "ID": "ending_5",
@@ -1432,7 +1437,7 @@
       "Name": "Lab Rat",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ending_6",
@@ -1456,7 +1461,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "falling_for_you",
@@ -1464,7 +1469,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "free_champagne",
@@ -1472,7 +1477,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "kamikaze",
@@ -1480,7 +1485,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "kindar_surprise",
@@ -1526,16 +1531,16 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 661
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 717,
+      "Progressed": 718,
       "Completed": 21
     }
   ],
@@ -1543,8 +1548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:10:20.926995+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:16.4607677+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:59:21.7602937+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:10:20.9270118+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:43.0792485+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:16.4607878+00:00"
 }

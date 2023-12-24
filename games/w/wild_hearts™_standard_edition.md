@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~843 |
-| Hidden History | 71.00% | ~605 |
-| Commencing of Quests | 62.00% | ~528 |
-| Budding Conjuror | 60.00% | ~511 |
-| Man-Machine Master | 49.00% | ~417 |
+| Land of the Rising Sun | 99.00% | ~844 |
+| Hidden History | 71.00% | ~606 |
+| Commencing of Quests | 62.00% | ~529 |
+| Budding Conjuror | 60.00% | ~512 |
+| Man-Machine Master | 49.00% | ~418 |
 | Charmed by the Hunt | 48.00% | ~409 |
-| Mountain Splitter | 47.00% | ~400 |
-| Subsistence Skills | 47.00% | ~400 |
-| Fusion Conjuror | 45.00% | ~383 |
-| Memory Rouser | 45.00% | ~383 |
+| Mountain Splitter | 47.00% | ~401 |
+| Subsistence Skills | 47.00% | ~401 |
+| Fusion Conjuror | 45.00% | ~384 |
+| Memory Rouser | 45.00% | ~384 |
 | Kemono Hunter | 40.00% | ~341 |
-| Helpful Heart | 39.00% | ~332 |
+| Helpful Heart | 39.00% | ~333 |
 | Expert Conjuror | 38.00% | ~324 |
-| Flawless Crystal | 37.00% | ~315 |
+| Flawless Crystal | 37.00% | ~316 |
 | Bonds of Enmity | 36.00% | ~307 |
 | Distance Devourer | 34.00% | ~290 |
 | Counter Specialist | 32.00% | ~273 |
@@ -26,11 +26,11 @@
 | Mighty Marmelizer | 26.00% | ~222 |
 | Fair Means or Foul | 26.00% | ~222 |
 | Kemono at Heart | 26.00% | ~222 |
-| Single Minded | 24.00% | ~204 |
+| Single Minded | 24.00% | ~205 |
 | Snare Specialist | 23.00% | ~196 |
 | Artful Assister | 23.00% | ~196 |
-| Karakuri Trail | 22.00% | ~187 |
-| Team Hunter | 20.00% | ~170 |
+| Karakuri Trail | 22.00% | ~188 |
+| Team Hunter | 20.00% | ~171 |
 | Karakuri Isle | 19.00% | ~162 |
 | Reincarnation Cycle Stopper | 19.00% | ~162 |
 | Left Arm Leverager | 16.00% | ~136 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 5.00% | ~43 |
 | Tsukumo Whisperer | 3.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 852 (Ranked 287)  
+Progressed: 853 (Ranked 287)  
 Completed: 8 (0.94%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,4 +153,4 @@ Completed: 8 (0.94%) (Ranked 177)
 | 2023-12-21 | 750 | 8 |
 | 2023-12-22 | 784 | 8 |
 | 2023-12-23 | 820 | 8 |
-| 2023-12-24 | 852 | 8 |
+| 2023-12-24 | 853 | 8 |

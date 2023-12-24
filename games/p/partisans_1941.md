@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 374)  
+Rating: 4.62 (Ranked 373)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,18 +9,18 @@ Number of Ratings: 98  (23.09.2022)
 | E1M1 | 45.00% | ~849 |
 | Grenadier | 44.00% | ~830 |
 | War Never Changes | 44.00% | ~830 |
-| Heroes Never Die | 40.00% | ~754 |
+| Heroes Never Die | 40.00% | ~755 |
 | Mosquito bite | 37.00% | ~698 |
 | Spice It Up | 32.00% | ~604 |
 | Agent 47 | 27.00% | ~509 |
 | Bomberman | 27.00% | ~509 |
-| You're Gonna Go Far, Kid | 26.00% | ~490 |
-| Death to the Oppressor! | 19.00% | ~358 |
+| You're Gonna Go Far, Kid | 26.00% | ~491 |
+| Death to the Oppressor! | 19.00% | ~359 |
 | The Gang's All Here | 17.00% | ~321 |
 | Your Answer | 15.00% | ~283 |
 | One by One | 14.00% | ~264 |
 | The Big Bertha | 13.00% | ~245 |
-| Game Over | 11.00% | ~207 |
+| Game Over | 11.00% | ~208 |
 | Lock, Stock | 8.00% | ~151 |
 | Payback Time | 7.00% | ~132 |
 | No Witness | 5.00% | ~94 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,886 (Ranked 239)  
+Progressed: 1,887 (Ranked 239)  
 Completed: 2 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2 (0.11%) (Ranked 302)
 | 2023-12-21 | 1,869 | 2 |
 | 2023-12-22 | 1,874 | 2 |
 | 2023-12-23 | 1,879 | 2 |
-| 2023-12-24 | 1,886 | 2 |
+| 2023-12-24 | 1,887 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

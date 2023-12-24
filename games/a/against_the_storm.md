@@ -8,8 +8,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,148 |
 | Overgrown Library | 6.00% | ~1,148 |
-| Taking Action | 5.00% | ~956 |
-| Petrified Necropolis | 5.00% | ~956 |
+| Taking Action | 5.00% | ~957 |
+| Petrified Necropolis | 5.00% | ~957 |
 | First Real Expedition | 4.00% | ~765 |
 | The Marshlands | 4.00% | ~765 |
 | No Deaths | 4.00% | ~765 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,129 (Ranked 150)  
+Progressed: 19,132 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 273)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,129 | 38 |
+| 2023-12-24 | 19,132 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,286 (Ranked 176)  

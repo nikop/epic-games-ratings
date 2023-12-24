@@ -991,9 +991,9 @@
       "Count": 139
     }
   ],
-  "EOS_Progressed": 13839,
+  "EOS_Progressed": 13848,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1272,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15666,6 +15666,11 @@
       "Time": "2023-12-24T20:10:25.8540275+00:00",
       "NumProgressed": 13839,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-24T21:09:20.28876+00:00",
+      "NumProgressed": 13848,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 34,
@@ -15693,7 +15698,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ACH04",
@@ -15749,7 +15754,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH11",
@@ -15757,7 +15762,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ACH12",
@@ -15765,7 +15770,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH13",
@@ -15781,7 +15786,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5816
     },
     {
       "ID": "ACH15",
@@ -15837,7 +15842,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6370
     },
     {
       "ID": "ACH22",
@@ -15845,7 +15850,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2770
     },
     {
       "ID": "ACH23",
@@ -15853,7 +15858,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3600
     },
     {
       "ID": "ACH24",
@@ -15861,7 +15866,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACH25",
@@ -15869,7 +15874,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "ACH26",
@@ -15877,7 +15882,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "ACH27",
@@ -15893,7 +15898,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH29",
@@ -15909,7 +15914,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH31",
@@ -15948,7 +15953,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 13839,
+      "Progressed": 13848,
       "Completed": 75
     }
   ],
@@ -15956,8 +15961,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-23T22:00:10.9056531+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:10:25.8540273+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:20.2887596+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:01:23.3823082+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:10:25.8541206+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:00:15.1328315+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:20.2888573+00:00"
 }

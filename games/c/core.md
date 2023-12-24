@@ -1,7 +1,7 @@
 # Core
 [Store](https://store.epicgames.com/en-US/p/core)  
 [View Rawdata](../../db/c/core.json)  
-Rating: 4.35 (Ranked 806)  
+Rating: 4.36 (Ranked 796)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Awards
 Max (Character Customization): 776  (Ranked 179)  
@@ -251,3 +251,4 @@ Diff (max vs sum): -31
 | 2023-12-19 | 4.35 | - | 776 | 2,184 |
 | 2023-12-22 | 4.36 | - | 776 | 2,186 |
 | 2023-12-23 | 4.35 | - | 776 | 2,187 |
+| 2023-12-24 | 4.36 | - | 776 | 2,187 |

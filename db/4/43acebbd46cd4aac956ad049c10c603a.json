@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -235,9 +235,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1124,
+  "EOS_Progressed": 1125,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2995,6 +2995,11 @@
       "Time": "2023-12-24T20:08:39.9257846+00:00",
       "NumProgressed": 1124,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T21:07:27.7686186+00:00",
+      "NumProgressed": 1125,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3013,9 +3018,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 281
     },
     {
       "ID": "AnthropicHills",
@@ -3055,7 +3060,7 @@
       "Name": "Break the Loop",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "BridgeBuilder",
@@ -3063,7 +3068,7 @@
       "Name": "Bridge Builder",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ChasingTheLight",
@@ -3151,7 +3156,7 @@
       "Name": "Good Citizen",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GrasslandsRing",
@@ -3167,7 +3172,7 @@
       "Name": "High Plain",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "IntoTheMachine",
@@ -3221,9 +3226,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 158
     },
     {
       "ID": "MuseumVisitor",
@@ -3239,7 +3244,7 @@
       "Name": "A New Beginning",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NewMorality",
@@ -3271,7 +3276,7 @@
       "Name": "Persistent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "PrometheusUnbound",
@@ -3287,7 +3292,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3399,7 +3404,7 @@
       "Name": "The Spark",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "TheThiefOfFire",
@@ -3415,7 +3420,7 @@
       "Name": "The Word Endures",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "TouchGrass",
@@ -3478,7 +3483,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1124,
+      "Progressed": 1125,
       "Completed": 2
     }
   ],
@@ -3486,8 +3491,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-24T13:57:49.2610926+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:08:39.925784+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:07:27.7686182+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:30.9273833+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:08:39.9258354+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:05.5254834+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:07:27.7686799+00:00"
 }

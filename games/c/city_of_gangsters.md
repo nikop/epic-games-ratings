@@ -1,21 +1,21 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 861)  
+Rating: 4.29 (Ranked 862)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,818 |
-| Copacetic Coordination | 16.00% | ~57,328 |
-| Fronting the Money | 15.00% | ~53,745 |
-| The Dawn of Automation | 14.00% | ~50,162 |
-| Extraordinary Logistics | 14.00% | ~50,162 |
-| Dirty Money | 13.00% | ~46,579 |
-| Family First | 13.00% | ~46,579 |
-| Cleaning House | 12.00% | ~42,996 |
-| Room in the Back | 12.00% | ~42,996 |
-| Beating the Heat | 11.00% | ~39,413 |
-| Booze Baron | 11.00% | ~39,413 |
+| Corner Clout | 46.00% | ~164,820 |
+| Copacetic Coordination | 16.00% | ~57,329 |
+| Fronting the Money | 15.00% | ~53,746 |
+| The Dawn of Automation | 14.00% | ~50,163 |
+| Extraordinary Logistics | 14.00% | ~50,163 |
+| Dirty Money | 13.00% | ~46,580 |
+| Family First | 13.00% | ~46,580 |
+| Cleaning House | 12.00% | ~42,997 |
+| Room in the Back | 12.00% | ~42,997 |
+| Beating the Heat | 11.00% | ~39,414 |
+| Booze Baron | 11.00% | ~39,414 |
 | Friends on the Force | 10.00% | ~35,830 |
 | Neighborhood Watch | 10.00% | ~35,830 |
 | Core Corps | 8.00% | ~28,664 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 861)
 | High Pillow | 0.10% | ~358 |
 | Station Master | 0.10% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,300 (Ranked 50)  
+Progressed: 358,305 (Ranked 50)  
 Completed: 7 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 7 (0.00%) (Ranked 388)
 | 2023-12-21 | 357,733 | 7 |
 | 2023-12-22 | 357,904 | 7 |
 | 2023-12-23 | 358,114 | 7 |
-| 2023-12-24 | 358,300 | 7 |
+| 2023-12-24 | 358,305 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
 Sum: 260 (Ranked 389)  

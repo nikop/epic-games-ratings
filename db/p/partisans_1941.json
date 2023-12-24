@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 374,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1886,
+  "EOS_Progressed": 1887,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4569,6 +4569,11 @@
       "Time": "2023-12-24T19:09:42.3692514+00:00",
       "NumProgressed": 1886,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T21:09:14.2223905+00:00",
+      "NumProgressed": 1887,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4612,7 +4617,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "Commandos",
@@ -4628,7 +4633,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Defense_Common",
@@ -4684,7 +4689,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Grenadier",
@@ -4708,7 +4713,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "High_noon",
@@ -4819,15 +4824,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1886,
+      "Progressed": 1887,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:10:18.0273639+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:14.2223899+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:24.2734535+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:10:18.0274051+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:02:34.6666333+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:14.2224422+00:00"
 }

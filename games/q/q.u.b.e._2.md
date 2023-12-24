@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~33,680 |
-| Quick Understanding of Block Extrusion | 68.00% | ~30,537 |
-| Nature or Nurture | 52.00% | ~23,352 |
-| Power Glove | 50.00% | ~22,454 |
-| Forgotten Memories | 43.00% | ~19,310 |
-| Cogs in the Machine | 36.00% | ~16,167 |
-| Mission Success | 23.00% | ~10,329 |
-| There's No Place Like Home | 23.00% | ~10,329 |
-| Green Cube Killer | 20.00% | ~8,981 |
-| Infinity Loop | 17.00% | ~7,634 |
-| Path to Salvation | 17.00% | ~7,634 |
-| Descendants | 15.00% | ~6,736 |
-| The Flawed Teacher | 12.00% | ~5,389 |
-| To Infinity and Beyond | 6.00% | ~2,694 |
-| The Truthful Enemy | 5.00% | ~2,245 |
+| Lost in Space | 75.00% | ~33,685 |
+| Quick Understanding of Block Extrusion | 68.00% | ~30,541 |
+| Nature or Nurture | 52.00% | ~23,355 |
+| Power Glove | 50.00% | ~22,456 |
+| Forgotten Memories | 43.00% | ~19,313 |
+| Cogs in the Machine | 36.00% | ~16,169 |
+| Mission Success | 23.00% | ~10,330 |
+| There's No Place Like Home | 23.00% | ~10,330 |
+| Green Cube Killer | 20.00% | ~8,983 |
+| Infinity Loop | 17.00% | ~7,635 |
+| Path to Salvation | 17.00% | ~7,635 |
+| Descendants | 15.00% | ~6,737 |
+| The Flawed Teacher | 12.00% | ~5,390 |
+| To Infinity and Beyond | 6.00% | ~2,695 |
+| The Truthful Enemy | 5.00% | ~2,246 |
 | Laser Sharp | 3.00% | ~1,347 |
 | Bronze collector | 2.00% | ~898 |
 | Home Stretch | 2.00% | ~898 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~449 |
 | Expert Collector | 1.00% | ~449 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,907 (Ranked 122)  
+Progressed: 44,913 (Ranked 122)  
 Completed: 222 (0.49%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 222 (0.49%) (Ranked 216)
 | 2023-12-21 | 44,457 | 219 |
 | 2023-12-22 | 44,596 | 221 |
 | 2023-12-23 | 44,760 | 222 |
-| 2023-12-24 | 44,907 | 222 |
+| 2023-12-24 | 44,913 | 222 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

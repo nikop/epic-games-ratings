@@ -15,7 +15,7 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 40.00% | ~286 |
 | Sniper Wolf | 38.00% | ~271 |
 | Treasure Hunter | 37.00% | ~264 |
-| The Motivation | 36.00% | ~257 |
+| The Motivation | 37.00% | ~264 |
 | Heroism | 34.00% | ~243 |
 | Collectibles of Chapter I | 33.00% | ~236 |
 | Missing in Action | 33.00% | ~236 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714 (Ranked 303)  
+Progressed: 714 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

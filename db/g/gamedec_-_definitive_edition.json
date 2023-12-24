@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -501,10 +501,10 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 255576,
-  "EOS_Completed": 7,
-  "EOS_NewPlayers": 647,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 255578,
+  "EOS_Completed": 8,
+  "EOS_NewPlayers": 639,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -28321,6 +28321,11 @@
       "Time": "2023-12-24T20:07:46.0203028+00:00",
       "NumProgressed": 255576,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T21:05:56.2662736+00:00",
+      "NumProgressed": 255578,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28476,7 +28481,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74117
+      "UsersEstimate": 74118
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28747,16 +28752,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255576,
-      "Completed": 7
+      "Progressed": 255578,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-24T10:02:49.5700162+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:07:46.0203022+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:56.2662732+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:29.8260504+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:46.0204563+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:02:38.5053978+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:56.2664849+00:00"
 }

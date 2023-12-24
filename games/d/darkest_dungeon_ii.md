@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 10.00% | ~452 |
-| Lost and Found | 6.00% | ~271 |
-| Autodidact | 5.00% | ~6,482 |
+| Lost and Found | 6.00% | ~272 |
+| Autodidact | 5.00% | ~6,483 |
 | This guy... again? | 5.00% | ~226 |
 | This Belongs in a Museum | 4.00% | ~5,186 |
 | Creep and Sleep | 4.00% | ~5,186 |
@@ -17,21 +17,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,186 |
 | Ploughshares to Swords | 4.00% | ~181 |
 | Bloody Graduation | 4.00% | ~181 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,889 |
-| Serenity Now! | 3.00% | ~3,889 |
-| It Rings a Bell | 3.00% | ~3,889 |
-| Not Today! | 3.00% | ~3,889 |
-| Meat and Greet | 3.00% | ~3,889 |
-| It Happens | 3.00% | ~3,889 |
-| Rush Hour | 3.00% | ~3,889 |
-| Merry Time | 3.00% | ~3,889 |
-| Harvest Festival | 3.00% | ~3,889 |
-| To Grandmother's House | 3.00% | ~3,889 |
-| Whale | 3.00% | ~3,889 |
-| A Place to Lay Your Head | 3.00% | ~3,889 |
-| FNG | 3.00% | ~3,889 |
-| Nope | 3.00% | ~3,889 |
-| Friends 'Til the End | 3.00% | ~135 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,890 |
+| Serenity Now! | 3.00% | ~3,890 |
+| It Rings a Bell | 3.00% | ~3,890 |
+| Not Today! | 3.00% | ~3,890 |
+| Meat and Greet | 3.00% | ~3,890 |
+| It Happens | 3.00% | ~3,890 |
+| Rush Hour | 3.00% | ~3,890 |
+| Merry Time | 3.00% | ~3,890 |
+| Harvest Festival | 3.00% | ~3,890 |
+| To Grandmother's House | 3.00% | ~3,890 |
+| Whale | 3.00% | ~3,890 |
+| A Place to Lay Your Head | 3.00% | ~3,890 |
+| FNG | 3.00% | ~3,890 |
+| Nope | 3.00% | ~3,890 |
+| Friends 'Til the End | 3.00% | ~136 |
 | Resurrection | 2.00% | ~2,593 |
 | Unleash Hell | 2.00% | ~2,593 |
 | Funny Guy | 2.00% | ~2,593 |
@@ -52,13 +52,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,593 |
 | Unshackled | 2.00% | ~2,593 |
 | Road Trip | 2.00% | ~2,593 |
-| This Looks Familiar | 1.00% | ~1,296 |
-| Hope Rekindled | 1.00% | ~1,296 |
-| Ichthyophobic | 1.00% | ~1,296 |
-| No More Mouths to Feed | 1.00% | ~1,296 |
-| Worldly Traveller | 1.00% | ~1,296 |
-| Hot Air | 1.00% | ~1,296 |
-| Eyes Up | 1.00% | ~1,296 |
+| This Looks Familiar | 1.00% | ~1,297 |
+| Hope Rekindled | 1.00% | ~1,297 |
+| Ichthyophobic | 1.00% | ~1,297 |
+| No More Mouths to Feed | 1.00% | ~1,297 |
+| Worldly Traveller | 1.00% | ~1,297 |
+| Hot Air | 1.00% | ~1,297 |
+| Eyes Up | 1.00% | ~1,297 |
 | Slap on the Wrist | 1.00% | ~45 |
 | Handled | 0.90% | ~1,167 |
 | For Old Time' Sake | 0.90% | ~41 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,647 (Ranked 87)  
+Progressed: 129,656 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,17 +324,17 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,647 | 3 |
+| 2023-12-24 | 129,656 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
-Sum: 21,041 (Ranked 58)  
+Sum: 21,047 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,851 |
 | This game has Diverse Characters | 1,767 |
 | This game has Challenging Combat | 1,632 |
-| This game is Highly Recommended | 1,561 |
+| This game is Highly Recommended | 1,567 |
 | This game is Extremely Fun | 1,491 |
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,415 |
@@ -676,4 +676,4 @@ Diff (max vs sum): -8
 | 2023-12-21 | 4.68 | - | 7,823 | 20,903 |
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
-| 2023-12-24 | 4.68 | - | 7,851 | 21,041 |
+| 2023-12-24 | 4.68 | - | 7,851 | 21,047 |

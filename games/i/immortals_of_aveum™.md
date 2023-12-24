@@ -5,39 +5,39 @@ Rating: 4.22 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,561 |
-| Battlefields Have Memories | 80.00% | ~1,419 |
-| Enlisted | 73.00% | ~1,295 |
-| Maybe Engage a Little | 68.00% | ~1,206 |
-| No More Names | 50.00% | ~887 |
-| Initiate | 35.00% | ~621 |
-| Thrada-Kul | 31.00% | ~550 |
+| Unforeseen | 87.00% | ~1,547 |
+| Battlefields Have Memories | 80.00% | ~1,422 |
+| Enlisted | 73.00% | ~1,298 |
+| Maybe Engage a Little | 68.00% | ~1,209 |
+| No More Names | 50.00% | ~889 |
+| Initiate | 35.00% | ~622 |
+| Thrada-Kul | 31.00% | ~551 |
 | Gravity-Challenged Rocks | 25.00% | ~444 |
-| Socialite | 23.00% | ~408 |
-| Soldier | 20.00% | ~355 |
-| All the Major Food Groups | 20.00% | ~355 |
-| Beggars Would Ride | 18.00% | ~319 |
+| Socialite | 23.00% | ~409 |
+| Soldier | 20.00% | ~356 |
+| All the Major Food Groups | 20.00% | ~356 |
+| Beggars Would Ride | 18.00% | ~320 |
 | Control is an Illusion | 17.00% | ~302 |
-| The Means to Save It | 14.00% | ~248 |
+| The Means to Save It | 14.00% | ~249 |
 | Resilience to Sin | 12.00% | ~213 |
 | A Familiar Nest | 12.00% | ~213 |
 | Periapt Alizarin | 12.00% | ~213 |
-| Geas Aristeya | 11.00% | ~195 |
-| A Perfect Cycle | 10.00% | ~177 |
-| Recruit | 10.00% | ~177 |
+| Geas Aristeya | 11.00% | ~196 |
+| A Perfect Cycle | 10.00% | ~178 |
+| Recruit | 10.00% | ~178 |
 | Armsman | 9.00% | ~160 |
 | Lights Army | 7.00% | ~124 |
-| Periapt Cerulean | 6.00% | ~106 |
-| Good Boy | 6.00% | ~106 |
-| Best Dressed | 5.00% | ~89 |
+| Periapt Cerulean | 6.00% | ~107 |
+| Good Boy | 6.00% | ~107 |
 | Periapt Viridian | 5.00% | ~89 |
+| Best Dressed | 4.00% | ~71 |
 | Shroudfane Explorer | 4.00% | ~71 |
 | Scholar | 3.00% | ~53 |
 | Kitted Out | 3.00% | ~53 |
 | Armaments Azure | 3.00% | ~53 |
 | Armaments Gules | 3.00% | ~53 |
 | Armaments Vert | 3.00% | ~53 |
-| Veteran | 2.00% | ~35 |
+| Veteran | 2.00% | ~36 |
 | Grand Magnus | 1.00% | ~18 |
 | Master of Carmine | 1.00% | ~18 |
 | Tip of the Spear | 0.90% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 923)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,774 (Ranked 243)  
+Progressed: 1,778 (Ranked 242)  
 Completed: 2 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.11%) (Ranked 302)
 | 2023-12-21 | 1,514 | 2 |
 | 2023-12-22 | 1,602 | 2 |
 | 2023-12-23 | 1,709 | 2 |
-| 2023-12-24 | 1,774 | 2 |
+| 2023-12-24 | 1,778 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

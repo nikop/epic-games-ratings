@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 274,
   "RatingHistory": [
     {
@@ -331,15 +331,21 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-24T20:57:53.5122811+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237784,
+  "EOS_Progressed": 237787,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26337,6 +26343,11 @@
       "Time": "2023-12-24T20:07:14.694988+00:00",
       "NumProgressed": 237784,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-24T21:05:31.7051597+00:00",
+      "NumProgressed": 237787,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26380,7 +26391,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -26484,7 +26495,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78469
+      "UsersEstimate": 78470
     },
     {
       "ID": "NOBUNAGA",
@@ -26572,7 +26583,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52312
+      "UsersEstimate": 52313
     },
     {
       "ID": "TACTICIAN",
@@ -26596,7 +26607,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52312
+      "UsersEstimate": 52313
     },
     {
       "ID": "TUNINGMANIAC",
@@ -26612,22 +26623,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97491
+      "UsersEstimate": 97493
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237784,
+      "Progressed": 237787,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
-  "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:07:14.6949874+00:00",
+  "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:31.7051594+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:14.209716+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:14.6951545+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:57:53.5122814+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:31.7053141+00:00"
 }

@@ -22,7 +22,7 @@ Rating: 4.52 (Ranked 563)
 | A gift | 55.00% | ~3,248 |
 | Girl Power | 49.00% | ~2,893 |
 | What goes around... | 45.00% | ~2,657 |
-| Be Prepared | 38.00% | ~2,244 |
+| Be Prepared | 39.00% | ~2,303 |
 | Unbreakable | 37.00% | ~2,185 |
 | Gotta get 'em all | 34.00% | ~2,008 |
 | This is the end | 34.00% | ~2,008 |

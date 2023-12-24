@@ -17,7 +17,7 @@
 | Friends Will Be Friends | 8.00% | ~10 |
 | Machines | 6.00% | ~8 |
 | Killer Queen | 5.00% | ~6 |
-| Put Out the Fire | 4.00% | ~5 |
+| Put Out the Fire | 5.00% | ~6 |
 | Cool Cat | 2.00% | ~3 |
 | Good Company | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)

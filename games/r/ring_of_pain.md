@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,416 |
 | Matching | 1.00% | ~31 |
 | Getting A Glimpse | 0.80% | ~1,933 |
+| Colorful Corpse | 0.80% | ~1,933 |
 | Defeat The Dark | 0.80% | ~1,933 |
 | A Quick Escape | 0.80% | ~1,933 |
 | Explorer | 0.80% | ~1,933 |
@@ -18,7 +19,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nothing To Lose | 0.70% | ~1,691 |
 | Heavy Hitter | 0.70% | ~1,691 |
 | That Was Quick | 0.70% | ~1,691 |
-| Colorful Corpse | 0.70% | ~1,691 |
 | Goodbye, Frog Friend | 0.70% | ~1,691 |
 | Heartless | 0.70% | ~1,691 |
 | Spine Breaker | 0.70% | ~1,691 |
@@ -47,8 +47,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.50% | ~1,208 |
 | Flesh Wound | 0.50% | ~1,208 |
 | Shapeshifting | 0.50% | ~1,208 |
-| Expensive Look | 0.50% | ~15 |
-| What Doesn't Kill You | 0.50% | ~15 |
+| Expensive Look | 0.50% | ~16 |
+| What Doesn't Kill You | 0.50% | ~16 |
 | Thank You, Friend | 0.40% | ~966 |
 | Shadow Spreads | 0.40% | ~966 |
 | Max Damage! | 0.40% | ~966 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,619 (Ranked 68)  
+Progressed: 241,621 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,20 +393,20 @@ Completed: 301 (0.12%) (Ranked 299)
 | 2023-12-21 | 241,432 | 300 |
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
-| 2023-12-24 | 241,619 | 301 |
+| 2023-12-24 | 241,621 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
-Sum: 11,756 (Ranked 88)  
+Sum: 11,758 (Ranked 88)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
 | This game has Quickly Understood Controls | 1,512 |
-| This game has Challenging Combat | 1,445 |
+| This game has Challenging Combat | 1,446 |
 | This game is Relaxing | 1,444 |
 | This game is Extremely Fun | 1,421 |
 | This game is Highly Recommended | 1,391 |
-| This game has Amazing Storytelling | 1,329 |
+| This game has Amazing Storytelling | 1,330 |
 | This game has Unique Visuals | 1,234 |
 | This game has Amazing Characters | 1,233 |
 | This game has Obsessive Gameplay | 1,088 |
@@ -654,3 +654,4 @@ Diff (max vs sum): 46
 | 2023-12-21 | 4.58 | - | 1,511 | 11,751 |
 | 2023-12-22 | 4.58 | - | 1,511 | 11,755 |
 | 2023-12-23 | 4.58 | - | 1,512 | 11,756 |
+| 2023-12-24 | 4.58 | - | 1,512 | 11,758 |

@@ -3674,10 +3674,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11756,
       "NumberOfAwardsMax": 1512
+    },
+    {
+      "Time": "2023-12-24T20:57:36.5117906+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11758,
+      "NumberOfAwardsMax": 1512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11756,
+  "NumberOfAwards": 11758,
   "NumberOfAwardsMax": 1512,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3697,7 +3703,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1445
+      "Count": 1446
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3733,7 +3739,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1329
+      "Count": 1330
     },
     {
       "Text": "This game is Relaxing",
@@ -3748,9 +3754,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241619,
+  "EOS_Progressed": 241621,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29373,6 +29379,11 @@
       "Time": "2023-12-24T20:11:11.0779647+00:00",
       "NumProgressed": 241619,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T21:09:57.6138031+00:00",
+      "NumProgressed": 241621,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29566,9 +29577,9 @@
       "ID": "DIERAINBOWSOCKS",
       "SetID": "5l8oe0h",
       "Name": "Colorful Corpse",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1933
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -30464,7 +30475,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -30472,7 +30483,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -30487,22 +30498,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241619,
+      "Progressed": 241621,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3099,
+      "Progressed": 3101,
       "Completed": 411
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:11:11.0779642+00:00",
+  "LastChanged": "2023-12-24T20:57:36.5117904+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:09:57.6138026+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:57:51.7620078+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:11:11.0782036+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:57:36.511791+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:09:57.6140902+00:00"
 }

@@ -1,17 +1,17 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 601)  
+Rating: 4.50 (Ranked 602)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,265 |
+| Stylish | 10.00% | ~3,266 |
 | Meticulously Efficient | 8.00% | ~2,612 |
 | Advancement | 7.00% | ~2,286 |
-| Discovery | 6.00% | ~1,959 |
 | Solo Capture | 6.00% | ~1,959 |
 | Swift Rift Removers | 6.00% | ~1,959 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,633 |
+| Discovery | 5.00% | ~1,633 |
 | Fully Upgraded | 5.00% | ~1,633 |
 | Teamwork | 5.00% | ~1,633 |
 | Vaporous Expansion | 5.00% | ~1,633 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 601)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,653 (Ranked 133)  
+Progressed: 32,656 (Ranked 133)  
 Completed: 69 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 69 (0.21%) (Ranked 271)
 | 2023-12-21 | 32,503 | 69 |
 | 2023-12-22 | 32,549 | 69 |
 | 2023-12-23 | 32,608 | 69 |
-| 2023-12-24 | 32,653 | 69 |
+| 2023-12-24 | 32,656 | 69 |
 ## Awards
 Max (Great for Beginners): 324  (Ranked 251)  
 Sum: 2,922 (Ranked 182)  

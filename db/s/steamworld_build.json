@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -746,9 +746,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "DiggingAHole",
@@ -770,9 +770,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "GottaGoFast",
@@ -898,9 +898,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "TuttiFrutti",
@@ -914,9 +914,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Whoa",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:07:45.0962527+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:55.5179796+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:48.7107784+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:45.0962743+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:02:52.7897175+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:55.5179963+00:00"
 }

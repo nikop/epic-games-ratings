@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.50 (Ranked 601)  
+Rating: 4.50 (Ranked 602)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,39 +10,39 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 66.00% | ~102 |
 | Helping Hand | 64.00% | ~99 |
 | Increased Vigor | 58.00% | ~89 |
-| Fight Fire with Fire | 56.00% | ~86 |
-| Increased Capacity | 51.00% | ~79 |
-| Just the start | 49.00% | ~75 |
+| Fight Fire with Fire | 58.00% | ~89 |
+| Increased Capacity | 52.00% | ~80 |
+| Just the start | 50.00% | ~77 |
 | Perfect Storm | 45.00% | ~69 |
 | All That Glitters | 45.00% | ~69 |
 | Enhance! | 43.00% | ~66 |
 | One Of the Chosen | 39.00% | ~60 |
 | Throne Potato | 37.00% | ~57 |
+| 25 to Life | 36.00% | ~55 |
 | Devil's in the Details | 35.00% | ~54 |
-| 25 to Life | 35.00% | ~54 |
 | Five's a Crowd | 34.00% | ~52 |
 | Unshakable Fortitude | 33.00% | ~51 |
-| Soul Harvester | 32.00% | ~49 |
+| Soul Harvester | 33.00% | ~51 |
 | Salvation | 32.00% | ~49 |
 | I Wanna Rock | 31.00% | ~48 |
 | Delusions of Grandeur | 31.00% | ~48 |
 | Love Tap | 29.00% | ~45 |
 | Maximum Vigor | 27.00% | ~42 |
 | Freeze Frame | 27.00% | ~42 |
+| Eat Your Heart Out | 27.00% | ~42 |
 | For Whom the Bell Tolls | 27.00% | ~42 |
-| Eat Your Heart Out | 26.00% | ~40 |
 | Unyielding Strength | 22.00% | ~34 |
+| Cleanup Crew | 21.00% | ~32 |
 | Can you restore the Balance? | 21.00% | ~32 |
 | Crowd Source | 21.00% | ~32 |
 | Big Spender | 20.00% | ~31 |
 | Maximum Capacity | 19.00% | ~29 |
-| Cleanup Crew | 19.00% | ~29 |
-| Demon Meddler | 16.00% | ~25 |
+| Demon Meddler | 17.00% | ~26 |
 | Seeing Red | 16.00% | ~25 |
 | Egomaniac | 15.00% | ~23 |
+| Community Outreach | 13.00% | ~20 |
 | Protector of Humanity | 12.00% | ~18 |
 | Everybody Wants to Rule the World | 12.00% | ~18 |
-| Community Outreach | 12.00% | ~18 |
 | Unbreakable Will | 10.00% | ~15 |
 | Take it to the Limit | 10.00% | ~15 |
 | Holy Keeper | 9.00% | ~14 |

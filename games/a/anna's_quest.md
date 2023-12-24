@@ -30,7 +30,7 @@
 | Mischief maker | 26.00% | ~23 |
 | No posters allowed | 26.00% | ~23 |
 | Little genius | 26.00% | ~23 |
-| Turn the last page | 24.00% | ~21 |
+| Turn the last page | 25.00% | ~22 |
 | Pain in the hands | 22.00% | ~20 |
 | Kill it! KILL IT! | 21.00% | ~19 |
 | Ring-a-ding-ding | 20.00% | ~18 |

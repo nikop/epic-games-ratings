@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 49.00% | ~87 |
 | Furon Fashion | 43.00% | ~77 |
 | Shop Til They Drop | 38.00% | ~68 |
-| Bodied Sattva | 33.00% | ~59 |
+| Bodied Sattva | 34.00% | ~61 |
 | Earthly Pleasures | 31.00% | ~55 |
 | Cult Following | 30.00% | ~53 |
 | Upgreatest | 24.00% | ~43 |
@@ -81,8 +81,8 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-23 | 168 | 0 |
 | 2023-12-24 | 178 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 487)  
-Sum: 36 (Ranked 519)  
+Max (Great Boss Battles): 36  (Ranked 488)  
+Sum: 36 (Ranked 520)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |

@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 230,
-  "Ranking_Popularity": 527,
+  "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -2733,6 +2733,11 @@
       "Time": "2023-12-24T20:09:27.4268332+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T21:08:33.9505929+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2951,9 +2956,9 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "MultiplayerWins",
@@ -3071,9 +3076,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 315
     },
     {
       "ID": "WielderLevel2",
@@ -3105,7 +3110,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3129,7 +3134,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3176,15 +3181,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:09:27.4268326+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:08:33.9505927+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:01:46.0392799+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:09:27.4268763+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:00:32.8129238+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:08:33.9506456+00:00"
 }

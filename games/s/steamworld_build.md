@@ -7,18 +7,18 @@
 | Mathematic | 86.00% | ~153 |
 | Digging a Hole | 76.00% | ~135 |
 | It's Yours, My Friend | 73.00% | ~130 |
-| Conducted Trade | 65.00% | ~116 |
-| Going Places | 65.00% | ~116 |
+| Conducted Trade | 66.00% | ~117 |
+| Going Places | 66.00% | ~117 |
 | Aristocratic | 62.00% | ~110 |
 | Tutti Frutti | 57.00% | ~101 |
 | Gotta Go Fast | 44.00% | ~78 |
+| Systematic | 43.00% | ~77 |
 | Slotting Machine | 42.00% | ~75 |
-| Systematic | 42.00% | ~75 |
 | Mine Sweeper | 35.00% | ~62 |
 | Roll Out | 35.00% | ~62 |
 | Dopa-Miner | 28.00% | ~50 |
+| Up, Up And Away! | 27.00% | ~48 |
 | Whoa! | 27.00% | ~48 |
-| Up, Up And Away! | 26.00% | ~46 |
 | Botropolis | 23.00% | ~41 |
 | Steam Powered | 17.00% | ~30 |
 | Manic Mechanic | 16.00% | ~28 |

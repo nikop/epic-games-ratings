@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 55.00% | ~647 |
-| Trinity | 25.00% | ~294 |
-| Find Allies | 20.00% | ~235 |
-| A Taste of Wrath | 20.00% | ~235 |
-| The Collector | 20.00% | ~235 |
+| Break Out | 55.00% | ~650 |
+| Trinity | 25.00% | ~295 |
+| Find Allies | 20.00% | ~236 |
+| A Taste of Wrath | 20.00% | ~236 |
+| The Collector | 20.00% | ~236 |
 | I Found It | 19.00% | ~224 |
-| Adventurer | 18.00% | ~212 |
-| Shatter Them All | 18.00% | ~212 |
-| Geared Up | 18.00% | ~212 |
-| Scholar | 18.00% | ~212 |
-| Tributes of Caladrias | 16.00% | ~188 |
-| Fashion Victim | 16.00% | ~188 |
-| Stone Collection | 16.00% | ~188 |
+| Adventurer | 18.00% | ~213 |
+| Shatter Them All | 18.00% | ~213 |
+| Geared Up | 18.00% | ~213 |
+| Scholar | 18.00% | ~213 |
+| Tributes of Caladrias | 16.00% | ~189 |
+| Fashion Victim | 16.00% | ~189 |
+| Stone Collection | 16.00% | ~189 |
 | Powerful Allies | 15.00% | ~177 |
-| Big Bazar | 11.00% | ~129 |
+| Big Bazar | 11.00% | ~130 |
 | Essence Blow | 9.00% | ~106 |
 | Alchemist | 9.00% | ~106 |
-| The Mentor | 7.00% | ~82 |
-| Calm before the Storm | 5.00% | ~59 |
+| The Mentor | 7.00% | ~83 |
+| Calm before the Storm | 6.00% | ~71 |
+| Miner | 6.00% | ~71 |
 | Airborne | 5.00% | ~59 |
-| Miner | 5.00% | ~59 |
 | To Battle | 4.00% | ~47 |
 | Godslayer | 4.00% | ~47 |
 | Clear Sight | 3.00% | ~35 |
@@ -32,16 +32,16 @@
 | Fine Feathers Make Fine Birds | 3.00% | ~35 |
 | Slayer | 2.00% | ~24 |
 | A Queen's Tale | 2.00% | ~24 |
+| Shardbearer | 1.00% | ~12 |
 | Flawless Victory | 1.00% | ~12 |
 | All There Is | 1.00% | ~12 |
 | False God | 1.00% | ~12 |
-| Shardbearer | 0.90% | ~11 |
 | Forgemaster | 0.80% | ~9 |
 | Summiter | 0.70% | ~8 |
 | All That Gold | 0.60% | ~7 |
 | Feeling Fancy | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,177 (Ranked 270)  
+Progressed: 1,181 (Ranked 270)  
 Completed: 3 (0.25%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 3 (0.25%) (Ranked 263)
 | 2023-12-21 | 998 | 3 |
 | 2023-12-22 | 1,066 | 3 |
 | 2023-12-23 | 1,128 | 3 |
-| 2023-12-24 | 1,177 | 3 |
+| 2023-12-24 | 1,181 | 3 |

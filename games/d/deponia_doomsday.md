@@ -32,7 +32,7 @@ Rating: 4.55 (Ranked 512)
 | Play it again, Ronny | 11.00% | ~55 |
 | Goat Team | 10.00% | ~50 |
 | Paradox! | 10.00% | ~50 |
-| Weapons 101 | 8.00% | ~40 |
+| Weapons 101 | 9.00% | ~45 |
 | Sadist | 7.00% | ~35 |
 | The customer is always right | 7.00% | ~35 |
 | Every man for himself! | 6.00% | ~30 |

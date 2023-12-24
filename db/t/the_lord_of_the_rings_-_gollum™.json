@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1828,6 +1828,11 @@
       "Time": "2023-12-24T20:05:10.1396192+00:00",
       "NumProgressed": 647,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T21:03:55.7027456+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1863,7 +1868,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Chapter10",
@@ -2126,14 +2131,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:05:10.1396186+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:03:55.7027452+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.3285704+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:26.9121413+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:05:10.1396445+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:02.4661922+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:03:55.7027747+00:00"
 }

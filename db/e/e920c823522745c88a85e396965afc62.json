@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "sandland",
@@ -275,9 +275,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "visitorLife",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:05:32.802092+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:04:13.1299987+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:13.9639515+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:59:28.6165521+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:05:32.8021086+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:48.442153+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:04:13.1300137+00:00"
 }

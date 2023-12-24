@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7747,9 +7747,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147435,
+  "EOS_Progressed": 147448,
   "EOS_Completed": 333,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1328,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -33797,6 +33797,11 @@
       "Time": "2023-12-24T20:07:23.4042064+00:00",
       "NumProgressed": 147435,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-12-24T21:05:38.7105925+00:00",
+      "NumProgressed": 147448,
+      "NumCompleted": 333
     }
   ],
   "TotalAchievements": 112,
@@ -33808,7 +33813,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "advlevel02",
@@ -33944,7 +33949,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "boss02",
@@ -33976,7 +33981,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13269
+      "UsersEstimate": 13270
     },
     {
       "ID": "chest02",
@@ -34040,7 +34045,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11795
+      "UsersEstimate": 11796
     },
     {
       "ID": "commonres02",
@@ -34072,7 +34077,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "craft02",
@@ -34080,7 +34085,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "craft03",
@@ -34112,7 +34117,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "damage02",
@@ -34184,7 +34189,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "expansion02",
@@ -34280,7 +34285,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11795
+      "UsersEstimate": 11796
     },
     {
       "ID": "gold02",
@@ -34360,7 +34365,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "jackslot02",
@@ -34432,7 +34437,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "loot02",
@@ -34456,7 +34461,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "master01",
@@ -34464,7 +34469,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "master02",
@@ -34568,7 +34573,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "rudo_a",
@@ -34584,7 +34589,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "sell02",
@@ -34624,7 +34629,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13269
+      "UsersEstimate": 13270
     },
     {
       "ID": "twinenchant01",
@@ -34703,15 +34708,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147435,
+      "Progressed": 147448,
       "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-24T18:03:33.6539097+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:07:23.404206+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:38.710592+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-24T20:03:47.5853181+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:23.4043973+00:00"
+  "LastUpdate_Ratings": "2023-12-24T21:02:52.0532557+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:38.7108334+00:00"
 }

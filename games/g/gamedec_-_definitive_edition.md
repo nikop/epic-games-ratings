@@ -1,12 +1,12 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 861)  
+Rating: 4.29 (Ranked 862)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,117 |
+| I will finish what you started | 29.00% | ~74,118 |
 | Powergamer | 27.00% | ~69,006 |
 | Write that down | 25.00% | ~63,894 |
 | Barely scratched the surface | 25.00% | ~63,894 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,576 (Ranked 64)  
-Completed: 7 (0.00%) (Ranked 388)  
+Progressed: 255,578 (Ranked 64)  
+Completed: 8 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 7 (0.00%) (Ranked 388)
 | 2023-12-21 | 255,268 | 7 |
 | 2023-12-22 | 255,356 | 7 |
 | 2023-12-23 | 255,488 | 7 |
-| 2023-12-24 | 255,576 | 7 |
+| 2023-12-24 | 255,578 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 384)  
 Sum: 93 (Ranked 463)  

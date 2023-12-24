@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -299,7 +299,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2513,
+  "EOS_Progressed": 2514,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -7169,6 +7169,11 @@
       "Time": "2023-12-24T16:05:52.2270675+00:00",
       "NumProgressed": 2513,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T21:05:29.2879453+00:00",
+      "NumProgressed": 2514,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7180,7 +7185,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "A01",
@@ -7188,7 +7193,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "A02",
@@ -7220,7 +7225,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "A06",
@@ -7292,7 +7297,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "A15",
@@ -7300,7 +7305,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "A16",
@@ -7308,7 +7313,7 @@
       "Name": "Traffic Jam",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "A17",
@@ -7316,7 +7321,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "A18",
@@ -7332,7 +7337,7 @@
       "Name": "Tycoon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "A20",
@@ -7340,7 +7345,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "A21",
@@ -7404,7 +7409,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "A29",
@@ -7468,7 +7473,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "A37",
@@ -7476,7 +7481,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "A38",
@@ -7484,7 +7489,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "A39",
@@ -7516,7 +7521,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "A43",
@@ -7548,7 +7553,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "A47",
@@ -7562,9 +7567,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 855
     },
     {
       "ID": "A49",
@@ -7604,7 +7609,7 @@
       "Name": "Networker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "A54",
@@ -7619,7 +7624,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2513,
+      "Progressed": 2514,
       "Completed": 0
     }
   ],
@@ -7627,8 +7632,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-24T20:07:11.2075978+00:00",
+  "LastChanged_Achievements": "2023-12-24T21:05:29.2879447+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:58:50.2825821+00:00",
-  "LastUpdate_Achievements": "2023-12-24T20:07:11.2076682+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:58:19.8694075+00:00",
+  "LastUpdate_Achievements": "2023-12-24T21:05:29.2880161+00:00"
 }

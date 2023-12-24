@@ -25,8 +25,8 @@ Rating: 4.65 (Ranked 320)
 | Right On Time | 20.00% | ~218 |
 | Like Clockwork | 20.00% | ~218 |
 | The Betrayer | 20.00% | ~218 |
+| Check Your Pulse | 20.00% | ~218 |
 | The Loose Cannon | 19.00% | ~207 |
-| Check Your Pulse | 19.00% | ~207 |
 | The Man Who Shattered Time | 18.00% | ~196 |
 | The Family Fortune | 18.00% | ~196 |
 | Street Style | 17.00% | ~185 |
