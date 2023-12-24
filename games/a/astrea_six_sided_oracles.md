@@ -15,7 +15,7 @@
 | Noctuan Champion | 35.00% | ~79 |
 | Stellar Dismantler | 34.00% | ~77 |
 | Anomaly Destroyer | 31.00% | ~70 |
-| Astral Adventurer | 29.00% | ~66 |
+| Astral Adventurer | 30.00% | ~68 |
 | Star Killer | 27.00% | ~61 |
 | Eridanian Champion | 24.00% | ~54 |
 | Lacertian Champion | 23.00% | ~52 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 401)  
+Progressed: 226 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

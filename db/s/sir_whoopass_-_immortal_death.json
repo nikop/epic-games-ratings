@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "CLOWN_1",
       "SetID": "9gfkh7c",
       "Name": "Honk honk!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
@@ -831,9 +831,9 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DODGE_2",
@@ -919,9 +919,9 @@
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "FLAPPY_KNIGHT_1",
@@ -1015,9 +1015,9 @@
       "ID": "IRS_1",
       "SetID": "9gfkh7c",
       "Name": "Self assessed tax return",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ITEM_1",
@@ -1223,9 +1223,9 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "SKELETON_1",
@@ -1286,8 +1286,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:10:44.6720887+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:10:19.5972419+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.4995799+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:37.5040814+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:10:44.6721503+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:41.1327969+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:10:19.5973332+00:00"
 }

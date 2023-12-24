@@ -20,12 +20,12 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.40% | ~657 |
 | Jawstag | 0.40% | ~657 |
 | Feast | 0.40% | ~657 |
-| Shapely | 0.30% | ~492 |
+| Shapely | 0.30% | ~493 |
 | Glare | 0.30% | ~491 |
 | Host | 0.30% | ~491 |
-| Celebration | 0.30% | ~492 |
-| Watcher | 0.30% | ~492 |
-| Predator | 0.30% | ~492 |
+| Celebration | 0.30% | ~493 |
+| Watcher | 0.30% | ~493 |
+| Predator | 0.30% | ~493 |
 | Assimilation | 0.20% | ~328 |
 | Breath | 0.20% | ~328 |
 | Hunt Down | 0.20% | ~328 |
@@ -35,7 +35,7 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.20% | ~328 |
 | Breathsmith | 0.20% | ~328 |
 | Unwrap the Gift | 0.20% | ~328 |
-| Dream | 0.20% | ~327 |
+| Dream | 0.20% | ~328 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~164 |
 | Skinmaker | 0.10% | ~164 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,162 (Ranked 81)  
+Progressed: 164,169 (Ranked 81)  
 Completed: 394 (0.24%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 394 (0.24%) (Ranked 265)
 | 2023-12-21 | 163,723 | 380 |
 | 2023-12-22 | 163,906 | 387 |
 | 2023-12-23 | 164,107 | 393 |
-| 2023-12-24 | 164,162 | 394 |
+| 2023-12-24 | 164,169 | 394 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 425)  
 Sum: 421 (Ranked 343)  

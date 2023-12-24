@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -675,9 +675,9 @@
       "ID": "COLLECT_ALL_BREW_RECIPES",
       "SetID": "cm0d613",
       "Name": "Sommelier",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "COLLECT_ALL_POMMEL_CASTS",
@@ -1068,8 +1068,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:04:20.2023634+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:04:12.204457+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:14.4063086+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:04:20.20241+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:25.6109169+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:04:12.2044953+00:00"
 }

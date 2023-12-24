@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 230,
-  "Ranking_Popularity": 526,
+  "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2688,6 +2688,11 @@
       "Time": "2023-12-24T05:09:23.8145339+00:00",
       "NumProgressed": 707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T07:09:06.719372+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2804,7 +2809,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Deepstrike",
@@ -2844,7 +2849,7 @@
       "Name": "Double Kill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2908,7 +2913,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MultiplayerWins",
@@ -2980,7 +2985,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3004,7 +3009,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "TrojanHorse",
@@ -3026,9 +3031,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 298
     },
     {
       "ID": "WielderLevel2",
@@ -3036,7 +3041,7 @@
       "Name": "Veteran",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "WielderLevel3",
@@ -3044,7 +3049,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "WielderLevel4",
@@ -3131,15 +3136,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 709,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:09:04.7963734+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:09:06.7193713+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:01:03.1647803+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:09:04.7964131+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:00:13.539648+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:09:06.7194327+00:00"
 }

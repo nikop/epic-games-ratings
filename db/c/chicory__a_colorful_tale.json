@@ -2,13 +2,13 @@
   "ID": "facc5c8822a8413aab0af205f555c8ce",
   "Name": "Chicory: A Colorful Tale",
   "ProductSlug": "chicory-a-colorful-tale",
-  "Ranking_Rating": 109,
+  "Ranking_Rating": 110,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-06-10T18:30:00+00:00",
     "PcReleaseDate": "2021-06-10T18:30:00+00:00",
@@ -87,6 +87,6 @@
   "FirstSeenRating": "2022-12-10T22:57:38.5891209+00:00",
   "LastChanged": "2023-12-09T02:57:32.584567+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.8927197+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:58:32.2788114+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:05:18.4278401+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:58:27.8924154+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:04:54.2068658+00:00"
 }

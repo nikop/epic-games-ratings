@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2023-12-21T19:05:24.3242295+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T07:06:42.1522311+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -327,7 +332,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -375,7 +380,7 @@
       "ID": "Hedda",
       "SetID": "d11cl5p",
       "Name": "Hilma af Klint",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -439,7 +444,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -471,7 +476,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -503,7 +508,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -511,7 +516,7 @@
       "ID": "TakeMeToYourHeaven",
       "SetID": "d11cl5p",
       "Name": "Take me to your heaven",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -519,7 +524,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -592,14 +597,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:07:49.3240267+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:42.1522307+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:02:56.8804181+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:07:49.3240479+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:11.8268305+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:42.1522515+00:00"
 }

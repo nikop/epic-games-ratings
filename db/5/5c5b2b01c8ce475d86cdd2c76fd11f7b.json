@@ -2,10 +2,10 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-12-23T22:05:16.7821097+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T07:05:12.7180261+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -277,7 +282,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -293,7 +298,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -301,7 +306,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "7on801h",
       "Name": "Honor Holds Us All Together",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -381,7 +386,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -389,7 +394,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7on801h",
       "Name": "And Embrace What You\u0027ve Become",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -509,7 +514,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -525,7 +530,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -541,7 +546,7 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "7on801h",
       "Name": "Neon Nights",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -557,7 +562,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -613,7 +618,7 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -918,20 +923,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:05:45.037548+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:05:12.7180256+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:31.7165657+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:05:45.0376089+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:09.8474215+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:05:12.7180907+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.08 (Ranked 994)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,910 |
-| Totally Intentional | 45.00% | ~1,686 |
+| Totally Intentional | 46.00% | ~1,723 |
 | Each Sold Separately | 38.00% | ~1,423 |
 | We're In | 33.00% | ~1,236 |
 | Tale in the Toilet | 30.00% | ~1,124 |

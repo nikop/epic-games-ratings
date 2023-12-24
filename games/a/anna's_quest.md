@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escape artist | 76.00% | ~68 |
-| Ooh, it's shiny! | 48.00% | ~43 |
-| Book Worm | 47.00% | ~42 |
+| Ooh, it's shiny! | 49.00% | ~44 |
+| Book Worm | 48.00% | ~43 |
 | Fussy eater | 36.00% | ~32 |
 | My lost nightingale | 35.00% | ~31 |
 | Through the woods | 34.00% | ~30 |
@@ -29,7 +29,7 @@
 | Memories | 26.00% | ~23 |
 | Mischief maker | 26.00% | ~23 |
 | No posters allowed | 26.00% | ~23 |
-| Little genius | 25.00% | ~22 |
+| Little genius | 26.00% | ~23 |
 | Turn the last page | 24.00% | ~21 |
 | Pain in the hands | 22.00% | ~20 |
 | Kill it! KILL IT! | 21.00% | ~19 |

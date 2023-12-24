@@ -12,7 +12,7 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~74 |
 | Yettisoned | 55.00% | ~70 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~67 |
-| Lobster Blisque | 50.00% | ~64 |
+| Lobster Blisque | 51.00% | ~65 |
 | Perfect Probulator | 49.00% | ~63 |
 | Fly Me to the Moon Base | 43.00% | ~55 |
 | Pimp My Raid | 43.00% | ~55 |

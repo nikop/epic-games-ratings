@@ -2,10 +2,10 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1042,9 +1042,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "AstralSeeker",
@@ -1745,8 +1745,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:07:39.9946741+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:35.1941814+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:00:32.0246025+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:07:39.9947627+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:52.2580881+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:35.1942661+00:00"
 }

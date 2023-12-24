@@ -688,9 +688,9 @@
       "ID": "Ach-03-svolavac",
       "SetID": "2pjo9pi",
       "Name": "Svolavac",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Ach-03-zaba",
@@ -928,9 +928,9 @@
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach-level-4",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:09:08.9001042+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:09:09.6110018+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.4834278+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:00:02.3651178+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:09:08.9001387+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:31.9740762+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:09:09.6110698+00:00"
 }

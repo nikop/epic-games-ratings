@@ -983,9 +983,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1047,9 +1047,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -1239,9 +1239,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
       "SetID": "caeik3h",
       "Name": "No Survivors I",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 190
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
@@ -1327,9 +1327,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1548,8 +1548,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:04:05.8797531+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:04:01.5782261+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:45.4551175+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:04:05.8798388+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:19.6562727+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:04:01.5783659+00:00"
 }

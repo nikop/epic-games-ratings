@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2029,
+  "EOS_Progressed": 2031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3169,6 +3169,11 @@
       "Time": "2023-12-24T06:06:58.5796432+00:00",
       "NumProgressed": 2029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T07:06:05.6949429+00:00",
+      "NumProgressed": 2031,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3204,7 +3209,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_006",
@@ -3244,7 +3249,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_011",
@@ -3316,7 +3321,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Achievement_020",
@@ -3396,7 +3401,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Achievement_030",
@@ -3707,7 +3712,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2029,
+      "Progressed": 2031,
       "Completed": 0
     }
   ],
@@ -3715,8 +3720,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-21T11:57:57.6911859+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:06:58.5796431+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:05.6949424+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:45.4277248+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:06:58.5796983+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:19.6185155+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:05.6950001+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "demeo-c234a9",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-15T17:00:00+00:00",
     "PcReleaseDate": "2022-04-07T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.6583894+00:00",
   "LastChanged": "2023-03-31T05:58:02.6583895+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.7444924+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:57:10.5295811+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:07:28.1179254+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:57:30.0114874+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:26.7703898+00:00"
 }

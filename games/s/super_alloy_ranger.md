@@ -34,12 +34,12 @@
 | The Zero Dimensional Capital Conqueror | 4.00% | ~5 |
 | The Inactivated Frozen Conqueror | 4.00% | ~5 |
 | Death Bringer Conqueror | 4.00% | ~5 |
+| Space Ranger: Prologue | 4.00% | ~5 |
+| The Truth? | 4.00% | ~5 |
 | Rapidfire | 4.00% | ~5 |
 | Air Interception | 4.00% | ~5 |
 | The Looping Space Conqueror | 3.00% | ~4 |
-| Space Ranger: Prologue | 3.00% | ~4 |
 | Breaking the Limit | 3.00% | ~4 |
-| The Truth? | 3.00% | ~4 |
 | Bye Bye Gravity | 3.00% | ~4 |
 | Break Through the Forbidden | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |

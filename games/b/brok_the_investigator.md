@@ -10,16 +10,16 @@
 | It's In My Nature | 45.00% | ~14 |
 | Chapter 3 | 42.00% | ~13 |
 | Your Days Are Numbered | 42.00% | ~13 |
+| All Materials | 42.00% | ~13 |
 | Chapter 4 | 39.00% | ~12 |
-| All Materials | 39.00% | ~12 |
 | Chapter 5 | 32.00% | ~10 |
 | Chapter 6 | 26.00% | ~8 |
 | Food Thief | 16.00% | ~5 |
 | Ads Fan | 13.00% | ~4 |
 | Best Student | 13.00% | ~4 |
+| Sugar Pills Lover | 13.00% | ~4 |
 | Highway Survival | 10.00% | ~3 |
 | Paw Music | 10.00% | ~3 |
-| Sugar Pills Lover | 10.00% | ~3 |
 | Tramp Saver | 10.00% | ~3 |
 | Hard To Wake Up | 10.00% | ~3 |
 | Bear Cop | 6.00% | ~2 |

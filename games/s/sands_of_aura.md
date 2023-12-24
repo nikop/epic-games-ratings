@@ -19,7 +19,7 @@
 | Twin Thorns | 6.00% | ~7 |
 | The River Styx | 5.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~6 |
-| Sommelier | 3.00% | ~3 |
+| Sommelier | 4.00% | ~5 |
 | Let Me Solo Them | 3.00% | ~3 |
 | Frigid Winds | 3.00% | ~3 |
 | Missing Melodies | 2.00% | ~2 |

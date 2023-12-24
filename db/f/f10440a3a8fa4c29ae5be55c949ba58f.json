@@ -2,9 +2,9 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1609,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1588,
+  "EOS_NewPlayers": 1606,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-12-24T06:09:39.8411961+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T07:09:31.7679197+00:00",
+      "NumProgressed": 1609,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -371,7 +376,7 @@
       "Name": "Final Destination",
       "Percentage": 53,
       "XP": 200,
-      "UsersEstimate": 843
+      "UsersEstimate": 853
     },
     {
       "ID": "Document1",
@@ -379,7 +384,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 175
+      "UsersEstimate": 177
     },
     {
       "ID": "Document2",
@@ -434,14 +439,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1609,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:09:39.8411958+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:09:31.7679192+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:31.1842968+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:09:39.8412025+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:09.3854887+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:09:31.7679275+00:00"
 }

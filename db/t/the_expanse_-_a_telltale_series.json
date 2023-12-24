@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17256,
+  "EOS_Progressed": 17258,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14946,6 +14946,11 @@
       "Time": "2023-12-24T06:07:58.2059246+00:00",
       "NumProgressed": 17256,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-24T07:06:48.4847247+00:00",
+      "NumProgressed": 17258,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14990,7 +14995,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "14",
@@ -15006,7 +15011,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "16",
@@ -15022,7 +15027,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "18",
@@ -15222,7 +15227,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "35",
@@ -15237,13 +15242,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17256,
+      "Progressed": 17258,
       "Completed": 50
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3210,
+      "Progressed": 3212,
       "Completed": 1017
     }
   ],
@@ -15251,8 +15256,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:07:58.2059243+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:48.4847242+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:58:45.0431009+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:07:58.206006+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:58:36.9376133+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:48.4848186+00:00"
 }

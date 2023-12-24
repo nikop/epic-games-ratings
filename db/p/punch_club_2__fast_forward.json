@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1928,9 +1928,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 313
     },
     {
       "ID": "fight_win_1",
@@ -2272,9 +2272,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 249
     },
     {
       "ID": "soft_install",
@@ -2359,8 +2359,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:09:54.6340628+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:09:42.6360927+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:44.4094151+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:09:54.634126+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:18.7751858+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:09:42.6361508+00:00"
 }

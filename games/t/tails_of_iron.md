@@ -16,6 +16,7 @@ Rating: 4.56 (Ranked 496)
 | Shield Maiden Yellow Tongue | 0.60% | ~5 |
 | Ranged Weapon | 0.50% | ~11 |
 | Two Handed Weapon | 0.50% | ~11 |
+| Defeat Croakhis Khan | 0.50% | ~5 |
 | Collect Gold | 0.40% | ~9 |
 | Collect Iron Ore | 0.40% | ~9 |
 | Collect Monster Parts | 0.40% | ~9 |
@@ -24,7 +25,6 @@ Rating: 4.56 (Ranked 496)
 | Kitchen Ready To Cook | 0.40% | ~9 |
 | Smithy Ready to Craft | 0.40% | ~9 |
 | Rescue Redgi's Brothers | 0.40% | ~9 |
-| Defeat Croakhis Khan | 0.40% | ~4 |
 | I Remember My First Beer | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |

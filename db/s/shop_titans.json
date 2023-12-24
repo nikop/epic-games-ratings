@@ -7735,9 +7735,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147296,
+  "EOS_Progressed": 147304,
   "EOS_Completed": 331,
-  "EOS_NewPlayers": 1310,
+  "EOS_NewPlayers": 1312,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -33715,6 +33715,11 @@
       "Time": "2023-12-24T06:06:50.4971397+00:00",
       "NumProgressed": 147296,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-12-24T07:05:59.7222932+00:00",
+      "NumProgressed": 147304,
+      "NumCompleted": 331
     }
   ],
   "TotalAchievements": 112,
@@ -34022,7 +34027,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "damage01",
@@ -34334,7 +34339,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "lilu_a",
@@ -34621,15 +34626,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147296,
+      "Progressed": 147304,
       "Completed": 331
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-24T01:53:09.6633335+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:06:50.4971395+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:05:59.7222926+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:40.775977+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:06:50.4973337+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:43.1070767+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:05:59.7225133+00:00"
 }

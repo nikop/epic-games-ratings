@@ -7,7 +7,7 @@
 | Eat My Dust | 47.00% | ~1,372 |
 | First Love | 44.00% | ~1,284 |
 | Clean Race | 42.00% | ~1,226 |
-| Hear That Roar! | 40.00% | ~1,168 |
+| Hear That Roar! | 41.00% | ~1,197 |
 | Rivals to the End | 30.00% | ~876 |
 | Bitter Rivalry | 29.00% | ~847 |
 | Champagne Spray | 27.00% | ~788 |

@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 373,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 449,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -535,10 +535,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-12-24T06:58:54.8825285+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 133,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113,
+  "NumberOfAwards": 133,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -565,11 +571,17 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 6090,
+  "EOS_Progressed": 6092,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8957,6 +8969,11 @@
       "Time": "2023-12-24T05:08:33.6734795+00:00",
       "NumProgressed": 6090,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T07:07:01.6225779+00:00",
+      "NumProgressed": 6092,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9112,7 +9129,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "27",
@@ -9128,7 +9145,7 @@
       "Name": "From Friends to Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "29",
@@ -9432,7 +9449,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "60",
@@ -9447,22 +9464,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6090,
+      "Progressed": 6092,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6090,
+      "Progressed": 6092,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-20T07:59:25.4319145+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:08:15.8983963+00:00",
+  "LastChanged": "2023-12-24T06:58:54.8825284+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:07:01.6225775+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:10.2610862+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:08:15.898461+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:58:54.8825288+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:07:01.6226627+00:00"
 }

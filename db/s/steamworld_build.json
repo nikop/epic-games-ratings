@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -733,9 +733,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "ImALumberbot",
@@ -757,9 +757,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ManicMechanic",
@@ -900,8 +900,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:07:12.1368816+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:15.2462735+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:42.032245+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:07:12.136909+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:43.943394+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:15.2462941+00:00"
 }

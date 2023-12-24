@@ -2,10 +2,10 @@
   "ID": "5f9ba5f02fce44f4ab7faba53e835305",
   "Name": "TrekkingAndCamping",
   "ProductSlug": "trekkingandcamping-655909",
-  "Ranking_EOS_Progress": 749,
+  "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-04T00:00:00+00:00",
     "PcReleaseDate": "2021-05-04T08:30:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-12-17T06:05:24.800397+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T07:08:50.3660145+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -58,9 +63,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8g4agn4",
       "Name": "Dark magic",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -74,9 +79,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8g4agn4",
       "Name": "Dark Humor",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -114,9 +119,9 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "8g4agn4",
       "Name": "Roll the dice",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -130,9 +135,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8g4agn4",
       "Name": "Recorded",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -154,9 +159,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8g4agn4",
       "Name": "Rest moment",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -171,13 +176,13 @@
     {
       "ID": "8g4agn4",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-13T15:04:04.2930323+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:08:41.7462048+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:08:50.366014+00:00",
   "LastUpdate_AppInfo": "2023-12-17T17:56:55.0437985+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:57:20.1521287+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:08:41.7462141+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:57:38.9186058+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:08:50.3660251+00:00"
 }

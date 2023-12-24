@@ -10,7 +10,7 @@
 | He's Off His Meds | 54.00% | ~154 |
 | Deal Or No Deal | 49.00% | ~140 |
 | Impress Theron | 48.00% | ~137 |
-| Personal Life | 47.00% | ~134 |
+| Personal Life | 48.00% | ~137 |
 | On Your Bike | 29.00% | ~83 |
 | Save Dad | 23.00% | ~66 |
 | A Little Extra | 16.00% | ~46 |

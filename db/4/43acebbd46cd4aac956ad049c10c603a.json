@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1105,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2934,6 +2934,11 @@
       "Time": "2023-12-24T04:08:14.5187139+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T07:06:58.5863462+00:00",
+      "NumProgressed": 1105,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3010,7 +3015,7 @@
       "Name": "Chasing the Light",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Chicken",
@@ -3050,7 +3055,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "EcstaticTruth",
@@ -3288,9 +3293,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 210
     },
     {
       "ID": "TextAdventurer",
@@ -3402,7 +3407,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "YourBiggestFan",
@@ -3410,14 +3415,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1105,
       "Completed": 2
     }
   ],
@@ -3425,8 +3430,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:08:11.7706352+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:58.5863457+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:58:03.9643751+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:08:11.7706847+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:58:08.5149127+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:58.5863936+00:00"
 }

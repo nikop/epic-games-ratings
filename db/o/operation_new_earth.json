@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -8099,9 +8099,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 166
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -8276,8 +8276,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:06:52.3643275+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:01.0618791+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:57:44.6078528+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:06:52.3643817+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:57:55.0794739+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:01.0619397+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13647,9 +13647,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 482659,
+  "EOS_Progressed": 482677,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5391,
+  "EOS_NewPlayers": 5390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42167,6 +42167,11 @@
       "Time": "2023-12-24T06:08:11.2544706+00:00",
       "NumProgressed": 482659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T07:06:58.4046673+00:00",
+      "NumProgressed": 482677,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -42616,9 +42621,9 @@
       "ID": "achievement_brothers_in_arms",
       "SetID": "67mdiil",
       "Name": "Brothers in Arms",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 1448
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -45081,21 +45086,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 482659,
+      "Progressed": 482677,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 482659,
+      "Progressed": 482677,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-23T20:59:09.050065+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:08:11.2544704+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:58.4046668+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:00:07.8493616+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:08:11.2554981+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:35.7533982+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:58.405726+00:00"
 }

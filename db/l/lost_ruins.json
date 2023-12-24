@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-12-23T14:10:27.151445+00:00",
       "NumProgressed": 594,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T07:10:15.3256424+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1550,7 +1555,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Cryomancer",
@@ -1588,9 +1593,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 178
     },
     {
       "ID": "Hardboiled",
@@ -1806,7 +1811,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WeaponMaster",
@@ -1829,7 +1834,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 1
     }
   ],
@@ -1837,8 +1842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:10:39.7565361+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:10:15.3256421+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:06.144719+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:10:39.7565691+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:18.3127409+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:10:15.3256732+00:00"
 }

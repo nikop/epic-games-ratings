@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4196,
+  "EOS_Progressed": 4197,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
@@ -6881,6 +6881,11 @@
       "Time": "2023-12-24T06:08:23.1426763+00:00",
       "NumProgressed": 4196,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T07:08:37.1884396+00:00",
+      "NumProgressed": 4197,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6892,7 +6897,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "AceDetective_9",
@@ -6916,7 +6921,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "BloodAndJustice_50",
@@ -6932,7 +6937,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "CrowdPleaser",
@@ -7076,7 +7081,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7156,7 +7161,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7212,7 +7217,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7227,15 +7232,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4196,
+      "Progressed": 4197,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:08:23.1426761+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:08:37.1884391+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:16.3229051+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:08:23.142733+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:26.5838157+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:08:37.1885108+00:00"
 }

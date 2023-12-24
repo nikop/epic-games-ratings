@@ -5,15 +5,15 @@ Rating: 4.83 (Ranked 59)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~878 |
-| Welcome to the Tower | 47.00% | ~794 |
-| The great escape | 39.00% | ~659 |
-| The Preacher's fate | 37.00% | ~625 |
-| A new dawn | 30.00% | ~507 |
-| Scholar | 26.00% | ~439 |
-| True G3M4R | 25.00% | ~422 |
-| The darkness | 25.00% | ~422 |
-| A good beginning | 24.00% | ~405 |
+| That's the spirit | 52.00% | ~880 |
+| Welcome to the Tower | 47.00% | ~795 |
+| The great escape | 39.00% | ~660 |
+| The Preacher's fate | 37.00% | ~626 |
+| A new dawn | 30.00% | ~508 |
+| Scholar | 26.00% | ~440 |
+| True G3M4R | 25.00% | ~423 |
+| The darkness | 25.00% | ~423 |
+| A good beginning | 24.00% | ~406 |
 | Cable guy | 21.00% | ~355 |
 | Half the way | 21.00% | ~355 |
 | Rascal | 21.00% | ~355 |
@@ -22,17 +22,17 @@ Rating: 4.83 (Ranked 59)
 | Peace walker | 20.00% | ~338 |
 | In this together | 19.00% | ~321 |
 | Champollion | 19.00% | ~321 |
-| Open door | 17.00% | ~287 |
-| Feels like springtime | 17.00% | ~287 |
-| Alchemists Express | 16.00% | ~270 |
-| Free at last | 15.00% | ~253 |
+| Open door | 17.00% | ~288 |
+| Feels like springtime | 17.00% | ~288 |
+| Alchemists Express | 16.00% | ~271 |
+| Free at last | 15.00% | ~254 |
 | A Link to the Past | 13.00% | ~220 |
 | A great audience | 11.00% | ~186 |
 | For its own good | 11.00% | ~186 |
-| Fashion victim | 6.00% | ~101 |
+| Fashion victim | 6.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,689 (Ranked 246)  
-Completed: 91 (5.39%) (Ranked 75)  
+Progressed: 1,692 (Ranked 246)  
+Completed: 93 (5.50%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 91 (5.39%) (Ranked 75)
 | 2023-12-21 | 1,511 | 80 |
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
-| 2023-12-24 | 1,689 | 91 |
+| 2023-12-24 | 1,692 | 93 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

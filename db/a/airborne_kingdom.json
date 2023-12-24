@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7664,
+  "EOS_Progressed": 7665,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6458,6 +6458,11 @@
       "Time": "2023-12-23T22:04:52.0569255+00:00",
       "NumProgressed": 7664,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-24T07:04:51.7145642+00:00",
+      "NumProgressed": 7665,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6485,7 +6490,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6605,7 +6610,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6613,7 +6618,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6684,15 +6689,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7664,
+      "Progressed": 7665,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:05:15.0132352+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:04:51.7145638+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.5210526+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:03:45.6704801+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:05:15.0132794+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:03:47.0860471+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:04:51.7146115+00:00"
 }

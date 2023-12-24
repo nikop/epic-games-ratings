@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 294,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-12-24T06:04:16.7732858+00:00",
       "NumProgressed": 292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T07:04:09.8334622+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -968,9 +973,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -978,7 +983,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1136,9 +1141,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1153,15 +1158,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 294,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:04:16.7732856+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:04:09.8334617+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:58:08.8404767+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:04:16.7733071+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:58:11.7413298+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:04:09.833488+00:00"
 }

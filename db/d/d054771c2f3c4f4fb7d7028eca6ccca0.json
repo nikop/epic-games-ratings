@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2628,
+  "EOS_Progressed": 2630,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 0,
@@ -2654,6 +2654,11 @@
       "Time": "2023-12-24T06:05:03.772227+00:00",
       "NumProgressed": 2628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T07:04:43.8804347+00:00",
+      "NumProgressed": 2630,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2690,7 +2695,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2760,9 +2765,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "c167foo",
       "Name": "The Nine Nightmare",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2850,7 +2855,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3041,14 +3046,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2628,
+      "Progressed": 2630,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:05:03.7722268+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:04:43.8804344+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:59:59.5185241+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:05:03.7722725+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:59:29.9976488+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:04:43.8804718+00:00"
 }

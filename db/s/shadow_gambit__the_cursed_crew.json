@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1270,
+  "EOS_Progressed": 1271,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
@@ -4336,6 +4336,11 @@
       "Time": "2023-12-24T05:07:03.4233518+00:00",
       "NumProgressed": 1270,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-24T07:06:13.2109714+00:00",
+      "NumProgressed": 1271,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4356,7 +4361,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "_03_FinishAct1",
@@ -4364,7 +4369,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4404,7 +4409,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "_09_Completion_20",
@@ -4476,7 +4481,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4555,7 +4560,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1270,
+      "Progressed": 1271,
       "Completed": 34
     }
   ],
@@ -4563,8 +4568,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:07:09.1301366+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:13.2109705+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:00:49.4274894+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:07:09.1301708+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:00:04.0070637+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:13.2110038+00:00"
 }

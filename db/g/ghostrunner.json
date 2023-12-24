@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1485,9 +1485,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24967,
+  "EOS_Progressed": 24968,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28180,6 +28180,11 @@
       "Time": "2023-12-24T06:08:13.770133+00:00",
       "NumProgressed": 24967,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-24T07:06:59.9995372+00:00",
+      "NumProgressed": 24968,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -28231,7 +28236,7 @@
       "Name": "Dead in the air",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -28255,7 +28260,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "GRProjectComplete",
@@ -28279,7 +28284,7 @@
       "Name": "Homerunner",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 10985
+      "UsersEstimate": 10986
     },
     {
       "ID": "ICallItLuck",
@@ -28327,7 +28332,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 18975
+      "UsersEstimate": 18976
     },
     {
       "ID": "MoreThanHuman",
@@ -28375,7 +28380,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10985
+      "UsersEstimate": 10986
     },
     {
       "ID": "Perfection",
@@ -28383,7 +28388,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "PreempativeStrike",
@@ -28423,7 +28428,7 @@
       "Name": "Running Wild",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "Scrapped",
@@ -28471,7 +28476,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7240
+      "UsersEstimate": 7241
     },
     {
       "ID": "TripleA",
@@ -28503,7 +28508,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7240
+      "UsersEstimate": 7241
     },
     {
       "ID": "Wallrunner",
@@ -28543,28 +28548,28 @@
       "Name": "Why not both",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7240
+      "UsersEstimate": 7241
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24967,
+      "Progressed": 24968,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24967,
+      "Progressed": 24968,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-24T05:57:59.1594172+00:00",
-  "LastChanged_Achievements": "2023-12-24T06:08:13.7701328+00:00",
+  "LastChanged_Achievements": "2023-12-24T07:06:59.9995366+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.5913812+00:00",
-  "LastUpdate_Ratings": "2023-12-24T05:57:59.1594178+00:00",
-  "LastUpdate_Achievements": "2023-12-24T06:08:13.7702829+00:00"
+  "LastUpdate_Ratings": "2023-12-24T06:58:05.2160201+00:00",
+  "LastUpdate_Achievements": "2023-12-24T07:06:59.9996895+00:00"
 }
