@@ -38,7 +38,7 @@
 | 33 | [Inscryption](games/i/inscryption.md) | 4.86 | 355 | 243 |
 | 33 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.86 | 0 | 572 |
 | 33 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 166 | 315 |
-| 33 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,611 | 128 |
+| 33 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,615 | 128 |
 | 33 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 572 |
 | 33 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 572 |
 | 42 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 161 | 317 |
@@ -163,7 +163,7 @@
 | 161 | [Diabotical](games/d/diabotical.md) | 4.74 | 295 | 258 |
 | 161 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 853 | 172 |
 | 161 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 778 | 176 |
-| 161 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,678 | 53 |
+| 161 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,698 | 53 |
 | 161 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 44,190 | 14 |
 | 161 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 572 |
 | 161 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 867 | 168 |
@@ -423,9 +423,9 @@
 | 395 | [Warframe](games/w/warframe.md) | 4.61 | 19,391 | 23 |
 | 395 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 630 | 194 |
 | 395 | [Witchfire](games/w/witchfire.md) | 4.61 | 54 | 432 |
-| 424 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,467 | 25 |
+| 424 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 15,491 | 25 |
 | 424 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 619 | 196 |
-| 424 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,111 | 74 |
+| 424 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 5,114 | 74 |
 | 424 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 226 | 282 |
 | 424 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 80 | 398 |
 | 424 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 572 |
@@ -483,7 +483,7 @@
 | 458 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 572 |
 | 458 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 229 | 279 |
 | 458 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 96 | 380 |
-| 458 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,658 | 26 |
+| 458 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,661 | 26 |
 | 485 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 572 |
 | 485 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 572 |
 | 485 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 362 | 242 |
