@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17276,
+  "EOS_Progressed": 17281,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -14971,6 +14971,11 @@
       "Time": "2023-12-24T13:05:54.0006674+00:00",
       "NumProgressed": 17276,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-24T14:03:24.8447632+00:00",
+      "NumProgressed": 17281,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14983,7 +14988,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "10",
@@ -15015,7 +15020,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2592
     },
     {
       "ID": "14",
@@ -15127,7 +15132,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "27",
@@ -15159,7 +15164,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "30",
@@ -15231,7 +15236,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "33",
@@ -15239,7 +15244,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "34",
@@ -15262,22 +15267,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17276,
+      "Progressed": 17281,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3230,
-      "Completed": 1021
+      "Progressed": 3235,
+      "Completed": 1022
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:05:54.0006669+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:03:24.8447623+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:00:48.7760129+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:05:54.0010724+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:58:17.6897083+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:03:24.8453261+00:00"
 }

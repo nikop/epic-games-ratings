@@ -477,9 +477,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 4994,
+  "EOS_Progressed": 4995,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7567,6 +7567,11 @@
       "Time": "2023-12-24T13:08:15.996347+00:00",
       "NumProgressed": 4994,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T14:05:31.0276858+00:00",
+      "NumProgressed": 4995,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7610,7 +7615,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -7618,7 +7623,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -7626,7 +7631,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -7674,7 +7679,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -7698,7 +7703,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -7778,7 +7783,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "ACH_MISSION_03",
@@ -7810,7 +7815,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "ACH_MISSION_07",
@@ -7818,7 +7823,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACH_MISSION_08",
@@ -7874,7 +7879,7 @@
       "Name": "Snatched Out",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -7882,7 +7887,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -7898,7 +7903,7 @@
       "Name": "People Person",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -7922,22 +7927,22 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2498
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 4994,
+      "Progressed": 4995,
       "Completed": 3
     }
   ],
@@ -7945,8 +7950,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-23T13:57:29.2187535+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:08:15.9963467+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:31.0276853+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:00:10.4554812+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:08:15.9963992+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:57:46.8219487+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:31.0277562+00:00"
 }

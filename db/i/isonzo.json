@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9586,
+  "EOS_Progressed": 9587,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9916,6 +9916,11 @@
       "Time": "2023-12-24T12:08:32.8203691+00:00",
       "NumProgressed": 9586,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T14:08:59.8874093+00:00",
+      "NumProgressed": 9587,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10015,7 +10020,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -10055,7 +10060,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -10079,7 +10084,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10215,7 +10220,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -10255,7 +10260,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4794
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10271,7 +10276,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -10286,7 +10291,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9586,
+      "Progressed": 9587,
       "Completed": 10
     }
   ],
@@ -10294,8 +10299,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:11:23.2271078+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:08:59.8874088+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:00:59.1938648+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:11:23.2271834+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:58:26.0652022+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:08:59.8875007+00:00"
 }

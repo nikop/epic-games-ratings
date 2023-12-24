@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60575,
+  "EOS_Progressed": 60591,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4014,
+  "EOS_NewPlayers": 3994,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 19.41,
   "EosHistory": [
@@ -14071,6 +14071,11 @@
       "Time": "2023-12-24T13:11:40.0137277+00:00",
       "NumProgressed": 60575,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2023-12-24T14:09:15.1380969+00:00",
+      "NumProgressed": 60591,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -14091,7 +14096,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 44826
+      "UsersEstimate": 44837
     },
     {
       "ID": "grenadeKills",
@@ -14107,7 +14112,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "headshots1000",
@@ -14163,7 +14168,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "shotgunKills",
@@ -14194,7 +14199,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 60575,
+      "Progressed": 60591,
       "Completed": 11760
     }
   ],
@@ -14202,8 +14207,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-23T16:59:03.8156033+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:11:40.0137273+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:09:15.1380965+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.1597705+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:48.8864514+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:11:40.0138016+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:09.1491516+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:09:15.1381668+00:00"
 }

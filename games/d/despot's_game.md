@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~399 |
-| Vanquisher of Robots | 78.00% | ~358 |
+| Good start! | 87.00% | ~400 |
+| Vanquisher of Robots | 78.00% | ~359 |
 | Party | 50.00% | ~230 |
-| Impossible Cube | 46.00% | ~211 |
+| Impossible Cube | 46.00% | ~212 |
 | Knowledge is Power | 44.00% | ~202 |
 | Through the Darkness | 44.00% | ~202 |
-| No Mercy | 43.00% | ~197 |
+| No Mercy | 43.00% | ~198 |
 | The Return of a Rat | 42.00% | ~193 |
-| Fat of the Earth | 36.00% | ~165 |
+| Fat of the Earth | 36.00% | ~166 |
 | Last Man Standing | 32.00% | ~147 |
 | Great Hero | 28.00% | ~129 |
 | Campaigning | 27.00% | ~124 |
 | He's Seen It All | 27.00% | ~124 |
 | Rookie | 27.00% | ~124 |
-| Catch Jonathan_tostar | 26.00% | ~119 |
+| Catch Jonathan_tostar | 26.00% | ~120 |
 | Assemble a Meganewbie | 25.00% | ~115 |
 | Frugal | 22.00% | ~101 |
 | Feed a God | 22.00% | ~101 |
@@ -27,7 +27,7 @@ Rating: 4.50 (Ranked 601)
 | Great Flight | 19.00% | ~87 |
 | Holy Vengeance | 17.00% | ~78 |
 | Honorary Cultist | 13.00% | ~60 |
-| Brain and Brawn | 11.00% | ~50 |
+| Brain and Brawn | 11.00% | ~51 |
 | Strength and Sorcery | 10.00% | ~46 |
 | Omae Wa Mou Shindeiru | 8.00% | ~37 |
 | Experimentalist | 7.00% | ~32 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 601)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459 (Ranked 337)  
+Progressed: 460 (Ranked 337)  
 Completed: 1 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.22%) (Ranked 270)
 | 2023-12-21 | 454 | 1 |
 | 2023-12-22 | 455 | 1 |
 | 2023-12-23 | 458 | 1 |
-| 2023-12-24 | 459 | 1 |
+| 2023-12-24 | 460 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

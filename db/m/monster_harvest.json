@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.18,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -505,6 +505,11 @@
       "Time": "2023-12-24T09:10:22.3239424+00:00",
       "NumProgressed": 314,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T14:09:31.4049751+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -516,7 +521,7 @@
       "Name": "Blue Goo",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FURNITURE_IN_THE_FOREST",
@@ -532,7 +537,7 @@
       "Name": "Green Sheen",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -556,7 +561,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -570,9 +575,9 @@
       "ID": "SO_LONG_SLIME_CO",
       "SetID": "ca3djk0",
       "Name": "So long, Slime Co!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "TO_THE_REC_CENTER",
@@ -588,14 +593,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 10
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:11:57.6310928+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:09:31.404974+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.3939078+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:05:27.8372928+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:11:57.6311121+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:03:01.5997121+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:09:31.4049872+00:00"
 }

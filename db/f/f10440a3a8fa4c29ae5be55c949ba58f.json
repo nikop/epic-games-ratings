@@ -2,10 +2,10 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1777,
+  "EOS_Progressed": 1814,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1774,
+  "EOS_NewPlayers": 1811,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2023-12-24T13:11:35.0102771+00:00",
       "NumProgressed": 1777,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T14:09:10.5340204+00:00",
+      "NumProgressed": 1814,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -406,7 +411,7 @@
       "Name": "Final Destination",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 924
+      "UsersEstimate": 943
     },
     {
       "ID": "Document1",
@@ -414,7 +419,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "Document2",
@@ -422,7 +427,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "Document3",
@@ -430,7 +435,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Document4",
@@ -446,7 +451,7 @@
       "Name": "Master of Secrets",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Perservant",
@@ -469,14 +474,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 1777,
+      "Progressed": 1814,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:11:35.0102768+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:09:10.5340196+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:26.7697337+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:11:35.0102906+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:58:50.4403833+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:09:10.5340304+00:00"
 }

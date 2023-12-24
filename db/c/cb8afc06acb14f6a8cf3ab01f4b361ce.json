@@ -443,9 +443,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 334263,
+  "EOS_Progressed": 334303,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3891,
+  "EOS_NewPlayers": 3899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10798,6 +10798,11 @@
       "Time": "2023-12-24T13:10:43.4514436+00:00",
       "NumProgressed": 334263,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T14:06:45.3780061+00:00",
+      "NumProgressed": 334303,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10810,7 +10815,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "S02_BRDA",
@@ -10818,7 +10823,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10028
+      "UsersEstimate": 10029
     },
     {
       "ID": "S03_OTWA",
@@ -10826,7 +10831,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "S04_BRDC",
@@ -10858,7 +10863,7 @@
       "Name": "We need to talk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "S08_MNSA",
@@ -10866,7 +10871,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "S09_MNSE",
@@ -10874,7 +10879,7 @@
       "Name": "Here to stay",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "S10_GRSB",
@@ -10946,7 +10951,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11034,7 +11039,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "S30_DIAMOND",
@@ -11129,7 +11134,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 334263,
+      "Progressed": 334303,
       "Completed": 5
     }
   ],
@@ -11137,8 +11142,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:10:43.4514433+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:06:45.3780056+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:53.3210422+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:10:43.4515175+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:13.2018165+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:06:45.3780895+00:00"
 }

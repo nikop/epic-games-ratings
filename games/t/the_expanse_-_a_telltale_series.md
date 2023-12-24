@@ -5,8 +5,8 @@ Rating: 4.55 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,591 |
-| Captain Drummer | 11.00% | ~1,900 |
+| Oyedang, Kopengs | 15.00% | ~2,592 |
+| Captain Drummer | 11.00% | ~1,901 |
 | The Pit and the Pirates | 10.00% | ~1,728 |
 | Bosmang | 10.00% | ~1,728 |
 | Celebrations are in Order | 10.00% | ~1,728 |
@@ -15,9 +15,9 @@ Rating: 4.55 (Ranked 513)
 | Drone Dodger | 9.00% | ~1,555 |
 | Stogie for Fogey | 8.00% | ~1,382 |
 | Spore Taste | 8.00% | ~1,382 |
-| Safe Cracker | 8.00% | ~258 |
-| Zen Master | 8.00% | ~258 |
-| Call it Even | 7.00% | ~1,209 |
+| Safe Cracker | 8.00% | ~259 |
+| Zen Master | 8.00% | ~259 |
+| Call it Even | 7.00% | ~1,210 |
 | Madame Undersecretary | 7.00% | ~226 |
 | Data Archivist | 6.00% | ~1,037 |
 | Drug Gifter | 6.00% | ~1,037 |
@@ -35,13 +35,13 @@ Rating: 4.55 (Ranked 513)
 | Debris Spree | 2.00% | ~346 |
 | Data Master | 2.00% | ~346 |
 | Data Recoverer | 1.00% | ~173 |
-| Urshanabi Hoarder | 0.90% | ~155 |
+| Urshanabi Hoarder | 0.90% | ~156 |
 | Data Miner | 0.50% | ~86 |
 | Grave Robber | 0.50% | ~86 |
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,276 (Ranked 156)  
+Progressed: 17,281 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
-| 2023-12-24 | 17,276 | 52 |
+| 2023-12-24 | 17,281 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

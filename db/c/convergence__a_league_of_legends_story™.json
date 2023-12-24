@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3071,6 +3071,11 @@
       "Time": "2023-12-24T13:12:18.2242683+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T14:09:49.8518163+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3090,7 +3095,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3202,7 +3207,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3242,7 +3247,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "HexlockGift",
@@ -3322,7 +3327,7 @@
       "Name": "Time Flies",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ParryBoss",
@@ -3330,7 +3335,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ParryRepeated1",
@@ -3338,7 +3343,7 @@
       "Name": "No, Thanks!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3346,7 +3351,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3354,15 +3359,15 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 260
     },
     {
       "ID": "RewindDamage1",
@@ -3378,7 +3383,7 @@
       "Name": "Honest Mistake",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3410,7 +3415,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "SpeedRun",
@@ -3466,7 +3471,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "WatcherFought",
@@ -3505,7 +3510,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 6
     }
   ],
@@ -3513,8 +3518,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:12:18.2242681+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:09:49.8518158+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:59:51.7361033+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:12:18.2243078+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:57:30.5878671+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:09:49.8518624+00:00"
 }

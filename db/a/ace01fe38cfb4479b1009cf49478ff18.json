@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1807,8 +1807,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:07:48.5132507+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:06.9969094+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:42.8633097+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:07:48.5132631+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:04.1162831+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:06.996927+00:00"
 }

@@ -1,27 +1,27 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.83 (Ranked 59)  
+Rating: 4.83 (Ranked 58)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~856 |
-| The Adventure Begins | 49.00% | ~626 |
+| A New Journey | 67.00% | ~857 |
+| The Adventure Begins | 49.00% | ~627 |
 | Swabbie | 36.00% | ~460 |
 | With Great Power… | 36.00% | ~460 |
-| This Belongs in a Museum | 33.00% | ~421 |
-| The Gambit Has Begun | 30.00% | ~383 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~332 |
-| Mirror Mirror on the Wall | 26.00% | ~332 |
-| Powder Monkey | 26.00% | ~332 |
+| This Belongs in a Museum | 33.00% | ~422 |
+| The Gambit Has Begun | 30.00% | ~384 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~333 |
+| Mirror Mirror on the Wall | 26.00% | ~333 |
+| Powder Monkey | 26.00% | ~333 |
 | Pirates Assemble! | 23.00% | ~294 |
-| Buccaneer | 20.00% | ~255 |
-| Fishy Fish | 20.00% | ~255 |
+| Buccaneer | 20.00% | ~256 |
+| Fishy Fish | 20.00% | ~256 |
 | All Good Things | 17.00% | ~217 |
-| Persistent Parasite | 16.00% | ~204 |
+| Persistent Parasite | 16.00% | ~205 |
 | Seadog | 14.00% | ~179 |
-| Jaded Judge | 11.00% | ~140 |
-| Rustic Recipe | 11.00% | ~140 |
+| Jaded Judge | 11.00% | ~141 |
+| Rustic Recipe | 11.00% | ~141 |
 | Tobacco Travesty | 10.00% | ~128 |
 | Privateer | 9.00% | ~115 |
 | Accursed Artifacts | 9.00% | ~115 |
@@ -32,7 +32,7 @@ Rating: 4.83 (Ranked 59)
 | Marauder | 3.00% | ~38 |
 | Welcome Back Jester | 3.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,277 (Ranked 265)  
+Progressed: 1,279 (Ranked 265)  
 Completed: 34 (2.66%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 34 (2.66%) (Ranked 122)
 | 2023-12-21 | 1,242 | 33 |
 | 2023-12-22 | 1,255 | 34 |
 | 2023-12-23 | 1,269 | 34 |
-| 2023-12-24 | 1,277 | 34 |
+| 2023-12-24 | 1,279 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

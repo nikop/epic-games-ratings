@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2614,6 +2614,11 @@
       "Time": "2023-12-23T15:05:21.1887581+00:00",
       "NumProgressed": 598,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T14:05:36.2740549+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2625,7 +2630,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2633,7 +2638,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2673,7 +2678,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2681,7 +2686,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2736,14 +2741,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:08:22.0348962+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:36.2740545+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.260283+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:55.1683562+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:08:22.0349218+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:14.8091112+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:36.2740822+00:00"
 }

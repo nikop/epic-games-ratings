@@ -6,35 +6,35 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~239 |
-| Cartographer | 57.00% | ~213 |
-| A Strange Artefact | 53.00% | ~198 |
-| Insomnia | 49.00% | ~183 |
+| The Adventure Begins | 64.00% | ~240 |
+| Cartographer | 57.00% | ~214 |
+| A Strange Artefact | 53.00% | ~199 |
+| Insomnia | 49.00% | ~184 |
 | Lost & Found & Lost Again | 43.00% | ~161 |
 | From Whence we Came | 43.00% | ~161 |
-| Fire and Flood | 41.00% | ~153 |
+| Fire and Flood | 41.00% | ~154 |
 | Spooky! | 38.00% | ~142 |
 | Shennong Herbalist | 35.00% | ~131 |
 | Treasure Hunt | 35.00% | ~131 |
-| Good Mama | 33.00% | ~123 |
-| O Captain My Captain | 32.00% | ~120 |
+| Good Mama | 33.00% | ~124 |
+| O Captain My Captain | 31.00% | ~116 |
 | Plunderer | 30.00% | ~112 |
-| Taxonomist | 28.00% | ~105 |
+| Taxonomist | 27.00% | ~101 |
 | Traveller | 25.00% | ~94 |
 | Uncertain Loyalties | 25.00% | ~94 |
 | Nahua Seeker | 24.00% | ~90 |
 | Roll to Save | 23.00% | ~86 |
 | Veteran Explorer | 22.00% | ~82 |
-| Red Flag Pirate | 20.00% | ~75 |
+| Red Flag Pirate | 19.00% | ~71 |
 | Iron Man | 17.00% | ~64 |
 | A Gentle Beast | 17.00% | ~64 |
-| For the Club! | 16.00% | ~60 |
 | Shortening of the Way | 16.00% | ~60 |
 | Practical Palaeontology | 16.00% | ~60 |
 | Adventurer | 15.00% | ~56 |
+| For the Club! | 15.00% | ~56 |
 | Dapper | 15.00% | ~56 |
-| The New Director | 14.00% | ~52 |
-| Plays Well With Others | 14.00% | ~52 |
+| The New Director | 14.00% | ~53 |
+| Plays Well With Others | 14.00% | ~53 |
 | The Director is Dead | 13.00% | ~49 |
 | And Here Is Your Statue | 13.00% | ~49 |
 | Discovery | 13.00% | ~49 |
@@ -59,15 +59,15 @@ Number of Ratings: 20  (23.09.2022)
 | A Perfect Map | 3.00% | ~11 |
 | Risk/Reward | 3.00% | ~11 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~11 |
-| Lunatic | 2.00% | ~7 |
-| Look Ma, No Equipment! | 2.00% | ~7 |
+| Lunatic | 2.00% | ~8 |
+| Look Ma, No Equipment! | 2.00% | ~8 |
 | Abominable Hunger | 0.80% | ~3 |
 | Everything is FINE... | 0.80% | ~3 |
 | Pacifism Ain't Easy | 0.80% | ~3 |
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 357)  
+Progressed: 375 (Ranked 357)  
 Completed: 1 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 1 (0.27%) (Ranked 259)
 | 2023-12-20 | 365 | 1 |
 | 2023-12-21 | 370 | 1 |
 | 2023-12-22 | 374 | 1 |
+| 2023-12-24 | 375 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

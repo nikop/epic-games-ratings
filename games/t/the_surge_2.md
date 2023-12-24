@@ -1,40 +1,40 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 890)  
+Rating: 4.26 (Ranked 889)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,866 |
-| Don't I Know You...? | 76.00% | ~1,795 |
-| Jailbreak | 65.00% | ~1,535 |
+| Rigged And Ready | 79.00% | ~1,868 |
+| Don't I Know You...? | 76.00% | ~1,797 |
+| Jailbreak | 65.00% | ~1,537 |
 | HEADSHOT! | 38.00% | ~898 |
 | Suited and Booted | 38.00% | ~898 |
 | Sleeping With The Fishes | 35.00% | ~827 |
 | Overheated | 30.00% | ~709 |
 | High Performance | 30.00% | ~709 |
-| Powered Up | 28.00% | ~661 |
-| Studied The Blade | 25.00% | ~590 |
-| Home Invasion | 23.00% | ~543 |
+| Powered Up | 28.00% | ~662 |
+| Studied The Blade | 25.00% | ~591 |
+| Home Invasion | 23.00% | ~544 |
 | Luminary | 22.00% | ~520 |
 | It's a Trap | 22.00% | ~520 |
 | True Survivor | 21.00% | ~496 |
-| Offensive Defense | 20.00% | ~472 |
-| Shocking | 20.00% | ~472 |
+| Offensive Defense | 20.00% | ~473 |
+| Shocking | 20.00% | ~473 |
 | Court Martial | 19.00% | ~449 |
 | Clean Cut | 19.00% | ~449 |
 | Unforeseeable Consequences | 19.00% | ~449 |
-| Dead Again | 18.00% | ~425 |
+| Dead Again | 18.00% | ~426 |
 | Full Arsenal | 17.00% | ~402 |
-| Can't Trust Banks | 15.00% | ~354 |
+| Can't Trust Banks | 15.00% | ~355 |
 | Mommy Dearest | 13.00% | ~307 |
 | Bad Dog | 13.00% | ~307 |
 | Where It All Began | 13.00% | ~307 |
 | Risk Tolerant | 13.00% | ~307 |
 | What A Catchy Song | 13.00% | ~307 |
-| Corrupted Beauty | 12.00% | ~283 |
-| Marked For Success | 12.00% | ~283 |
-| Sorry, Didn't See You There | 12.00% | ~283 |
+| Corrupted Beauty | 12.00% | ~284 |
+| Marked For Success | 12.00% | ~284 |
+| Sorry, Didn't See You There | 12.00% | ~284 |
 | Stimulating The Local Economy | 10.00% | ~236 |
 | Triplets | 10.00% | ~236 |
 | Denying Prophecy | 9.00% | ~213 |
@@ -50,8 +50,8 @@ Rating: 4.26 (Ranked 890)
 | Counter-Sniper | 5.00% | ~118 |
 | Shrimp Cocktail | 5.00% | ~118 |
 | Juiced Up | 5.00% | ~118 |
-| Geronimo! | 4.00% | ~94 |
-| Plank of Wood | 4.00% | ~94 |
+| Geronimo! | 4.00% | ~95 |
+| Plank of Wood | 4.00% | ~95 |
 | Gotta Craft 'em All | 3.00% | ~71 |
 | Homewrecker | 3.00% | ~71 |
 | Own Medicine | 2.00% | ~47 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 890)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,362 (Ranked 229)  
+Progressed: 2,364 (Ranked 229)  
 Completed: 13 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 13 (0.55%) (Ranked 207)
 | 2023-12-21 | 2,329 | 13 |
 | 2023-12-22 | 2,340 | 13 |
 | 2023-12-23 | 2,352 | 13 |
-| 2023-12-24 | 2,362 | 13 |
+| 2023-12-24 | 2,364 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

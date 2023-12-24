@@ -1,18 +1,18 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.16 (Ranked 962)  
+Rating: 4.15 (Ranked 971)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,674 |
-| Disposing of the Evidence | 38.00% | ~3,971 |
-| Without a Scratch | 34.00% | ~3,553 |
-| Wreckless Driving | 28.00% | ~2,926 |
-| A Marked Man | 25.00% | ~2,612 |
-| Street Sweeper | 18.00% | ~1,881 |
+| First Day on the Job | 83.00% | ~8,676 |
+| Disposing of the Evidence | 38.00% | ~3,972 |
+| Without a Scratch | 34.00% | ~3,554 |
+| Wreckless Driving | 28.00% | ~2,927 |
+| A Marked Man | 25.00% | ~2,613 |
+| Street Sweeper | 18.00% | ~1,882 |
 | Liberty City Minute | 17.00% | ~1,777 |
-| Offshore Delivery | 13.00% | ~1,358 |
+| Offshore Delivery | 13.00% | ~1,359 |
 | Dirty Money | 12.00% | ~1,254 |
 | By a Mile | 10.00% | ~1,045 |
 | Not So Fast | 10.00% | ~1,045 |
@@ -25,17 +25,17 @@ Rating: 4.16 (Ranked 962)
 | Splish Splash | 2.00% | ~209 |
 | Playing Doctor | 2.00% | ~209 |
 | Liberty City Secrets | 2.00% | ~209 |
-| Planned Ahead | 1.00% | ~104 |
-| Got This Figured Out | 1.00% | ~104 |
-| Wheels Up | 1.00% | ~104 |
-| Come Out to Play-y-y-y | 1.00% | ~104 |
-| Man Toyz | 1.00% | ~104 |
-| Going Rogue | 1.00% | ~104 |
-| Furious First Responder | 1.00% | ~104 |
+| Planned Ahead | 1.00% | ~105 |
+| Got This Figured Out | 1.00% | ~105 |
+| Wheels Up | 1.00% | ~105 |
+| Come Out to Play-y-y-y | 1.00% | ~105 |
+| Man Toyz | 1.00% | ~105 |
+| Going Rogue | 1.00% | ~105 |
+| Furious First Responder | 1.00% | ~105 |
 | Is That All You've Got? | 0.90% | ~94 |
 | King of Liberty City | 0.60% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,450 (Ranked 174)  
+Progressed: 10,453 (Ranked 174)  
 Completed: 66 (0.63%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 66 (0.63%) (Ranked 200)
 | 2023-12-21 | 10,133 | 64 |
 | 2023-12-22 | 10,256 | 65 |
 | 2023-12-23 | 10,392 | 66 |
-| 2023-12-24 | 10,450 | 66 |
+| 2023-12-24 | 10,453 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

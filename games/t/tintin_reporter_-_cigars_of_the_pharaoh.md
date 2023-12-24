@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 74.00% | ~75 |
 | A Loyal Friend | 38.00% | ~39 |
-| Abandon Ship! | 25.00% | ~26 |
+| Abandon Ship! | 26.00% | ~27 |
 | The Tomb of Kih-Oskh | 20.00% | ~20 |
 | The Weighing of the Soul | 18.00% | ~18 |
 | The Curse of Kih-Oskh | 15.00% | ~15 |
+| It's a Deal! | 10.00% | ~10 |
 | Mummy Nightmare | 9.00% | ~9 |
-| It's a Deal! | 9.00% | ~9 |
 | Cat Lover | 8.00% | ~8 |
 | Dynamite, Treason and Coconuts | 8.00% | ~8 |
 | In the Name of the Law | 7.00% | ~7 |
@@ -22,15 +22,15 @@
 | Keep the Doctor Away | 6.00% | ~6 |
 | Just a Palm Tree | 6.00% | ~6 |
 | Under the Hood | 6.00% | ~6 |
+| Long Live Gaipajama! | 6.00% | ~6 |
 | Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
-| Long Live Gaipajama! | 5.00% | ~5 |
 | Tintin, Reporter | 4.00% | ~4 |
 | Eyes Shut | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
+| Mountain Runner | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
-| Mountain Runner | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
 | Subtlety | 2.00% | ~2 |
 | Jungle Runner | 1.00% | ~1 |

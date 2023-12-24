@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,391 |
-| Pay 'n' Spray | 50.00% | ~8,266 |
-| All Dressed Up for San Fierro | 25.00% | ~4,133 |
-| The American Dream | 19.00% | ~3,141 |
-| School's Out | 18.00% | ~2,976 |
-| Smooth Moves | 16.00% | ~2,645 |
-| Today Was a Good Day | 15.00% | ~2,480 |
-| What happens in Las Venturas... | 14.00% | ~2,314 |
-| Horror of the Santa Maria | 10.00% | ~1,653 |
-| Liberty City State of Mind | 9.00% | ~1,488 |
-| Original Gangster | 8.00% | ~1,323 |
-| With Extra Dip | 7.00% | ~1,157 |
-| The End of the Line | 7.00% | ~1,157 |
-| Saviour | 6.00% | ~992 |
+| Getting Started | 81.00% | ~13,401 |
+| Pay 'n' Spray | 50.00% | ~8,272 |
+| All Dressed Up for San Fierro | 25.00% | ~4,136 |
+| The American Dream | 19.00% | ~3,143 |
+| School's Out | 18.00% | ~2,978 |
+| Smooth Moves | 16.00% | ~2,647 |
+| Today Was a Good Day | 15.00% | ~2,482 |
+| What happens in Las Venturas... | 14.00% | ~2,316 |
+| Horror of the Santa Maria | 10.00% | ~1,654 |
+| Liberty City State of Mind | 9.00% | ~1,489 |
+| Original Gangster | 8.00% | ~1,324 |
+| With Extra Dip | 7.00% | ~1,158 |
+| The End of the Line | 7.00% | ~1,158 |
+| Saviour | 6.00% | ~993 |
 | Rescue a Kitten Too? | 5.00% | ~827 |
-| They Can’t Stop All of Us | 4.00% | ~661 |
-| What are the Odds | 4.00% | ~661 |
+| They Can’t Stop All of Us | 4.00% | ~662 |
+| What are the Odds | 4.00% | ~662 |
 | Bike or Biker | 3.00% | ~496 |
 | What the City Needs | 3.00% | ~496 |
 | A Legitimate Business | 2.00% | ~331 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 533)
 | ...Here we go again | 0.50% | ~83 |
 | I Ain't No Buster | 0.40% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,532 (Ranked 159)  
-Completed: 62 (0.38%) (Ranked 234)  
+Progressed: 16,544 (Ranked 159)  
+Completed: 62 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,10 +289,10 @@ Completed: 62 (0.38%) (Ranked 234)
 | 2023-12-21 | 15,997 | 62 |
 | 2023-12-22 | 16,205 | 62 |
 | 2023-12-23 | 16,429 | 62 |
-| 2023-12-24 | 16,532 | 62 |
+| 2023-12-24 | 16,544 | 62 |
 ## Awards
 Max (Great Boss Battles): 492  (Ranked 218)  
-Sum: 799 (Ranked 285)  
+Sum: 800 (Ranked 285)  
 Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): -67
 | This game has Amazing Characters | 42 |
 | This game is Great for Beginners | 40 |
 | This game has Amazing Storytelling | 37 |
-| This game is Highly Recommended | 32 |
+| This game is Highly Recommended | 33 |
 | This game is Extremely Fun | 28 |
 | This game has a Creative Community | 28 |
 | This game has Quickly Understood Controls | 28 |
@@ -518,4 +518,4 @@ Diff (max vs sum): -67
 | 2023-12-21 | 4.55 | 473 | 734 |
 | 2023-12-22 | 4.55 | 473 | 775 |
 | 2023-12-23 | 4.54 | 483 | 788 |
-| 2023-12-24 | 4.54 | 492 | 799 |
+| 2023-12-24 | 4.54 | 492 | 800 |

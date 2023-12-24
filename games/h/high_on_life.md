@@ -10,12 +10,12 @@ Rating: 4.64 (Ranked 342)
 | Are You Packin'? | 4.00% | ~994 |
 | Bring A Knife to a Gun Fight | 4.00% | ~994 |
 | Sweezy Like Sunday Morning | 4.00% | ~994 |
+| We're All Very Impressed, Trust Me | 4.00% | ~994 |
 | First Bounty Down | 4.00% | ~994 |
 | G3 Graduation | 4.00% | ~994 |
 | Don't Knife The Hand That Feeds | 4.00% | ~994 |
 | Creature Feature | 3.00% | ~745 |
 | RIP Davey Glutes | 3.00% | ~745 |
-| We're All Very Impressed, Trust Me | 3.00% | ~745 |
 | Hardest Battle In The Game | 3.00% | ~745 |
 | Self-Actualization | 3.00% | ~745 |
 | Who's The Boss? | 3.00% | ~745 |

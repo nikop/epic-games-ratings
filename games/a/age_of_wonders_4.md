@@ -5,10 +5,10 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~550 |
-| Realm Estate | 8.00% | ~489 |
-| A Wonderful Discovery | 7.00% | ~428 |
-| Walls Cannot Stop Us | 7.00% | ~428 |
+| Secret Technique | 9.00% | ~551 |
+| Realm Estate | 8.00% | ~490 |
+| A Wonderful Discovery | 7.00% | ~429 |
+| Walls Cannot Stop Us | 7.00% | ~429 |
 | From Friends to Family | 6.00% | ~367 |
 | Bone Peddler | 5.00% | ~306 |
 | But this one is mine | 5.00% | ~306 |
@@ -18,9 +18,8 @@ Rating: 4.62 (Ranked 374)
 | Magical Synergy | 4.00% | ~245 |
 | Seat of Power | 4.00% | ~245 |
 | In a Liege of Your Own | 4.00% | ~245 |
-| Valley of Wonders | 3.00% | ~183 |
-| Intimidation Tactics | 3.00% | ~183 |
-| Freed Lands of Manuhari | 3.00% | ~183 |
+| Valley of Wonders | 3.00% | ~184 |
+| Intimidation Tactics | 3.00% | ~184 |
 | Return of the Wizard King | 2.00% | ~122 |
 | Enchanted Archipelago | 2.00% | ~122 |
 | Digging for Treasure | 2.00% | ~122 |
@@ -33,6 +32,7 @@ Rating: 4.62 (Ranked 374)
 | Here be Dragons | 2.00% | ~122 |
 | Tipping the Scales | 2.00% | ~122 |
 | Mighty Hoard | 2.00% | ~122 |
+| Freed Lands of Manuhari | 2.00% | ~122 |
 | Sehiran Oasis | 2.00% | ~122 |
 | Chaos Surge | 2.00% | ~122 |
 | Spoils of War | 2.00% | ~122 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,115 (Ranked 193)  
+Progressed: 6,122 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,115 | 7 |
+| 2023-12-24 | 6,122 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 476)  
 Sum: 135 (Ranked 438)  

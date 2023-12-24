@@ -17,6 +17,7 @@
 | Recycling expert | 8.00% | ~2 |
 | Island gardian angel | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
+| Picture of the atoll | 8.00% | ~2 |
 | Picture of the reef | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
 | Animal reporter | 4.00% | ~1 |
@@ -24,7 +25,6 @@
 | Let's get started | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |
 | Picture of the bay | 4.00% | ~1 |
-| Picture of the atoll | 4.00% | ~1 |
 | Picture of the island | 4.00% | ~1 |
 | Power of the shark | 4.00% | ~1 |
 | The fifth one! | 4.00% | ~1 |

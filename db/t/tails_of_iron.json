@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2277,
+  "EOS_Progressed": 2278,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -4146,6 +4146,11 @@
       "Time": "2023-12-24T12:04:56.6851893+00:00",
       "NumProgressed": 2277,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-24T14:05:10.5451609+00:00",
+      "NumProgressed": 2278,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4403,9 +4408,9 @@
       "ID": "DefeatGrubBuster",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Grub Buster",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DefeatStalkerQueen",
@@ -4435,22 +4440,22 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2277,
+      "Progressed": 2278,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 901
     }
   ],
@@ -4458,8 +4463,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:07:52.5664117+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:10.5451604+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:51.5842119+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:07:52.5664458+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:11.594595+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:10.5452044+00:00"
 }

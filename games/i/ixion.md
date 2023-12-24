@@ -5,8 +5,8 @@ Rating: 4.58 (Ranked 458)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,143 |
-| Sputnik 2049 | 27.00% | ~995 |
+| Wakey Wakey | 31.00% | ~1,144 |
+| Sputnik 2049 | 27.00% | ~996 |
 | Infinite Growth... | 26.00% | ~959 |
 | Without Breaking Some Eggs... | 25.00% | ~922 |
 | A Thousand Strong | 18.00% | ~664 |
@@ -16,10 +16,10 @@ Rating: 4.58 (Ranked 458)
 | Fully Recycled | 14.00% | ~516 |
 | Ain't Nobody Got Time for That | 14.00% | ~516 |
 | The Ship of Theseus | 14.00% | ~516 |
-| Guy de Borderlands | 13.00% | ~479 |
-| Exceeding Capacity | 12.00% | ~442 |
-| Breaking Protocol | 12.00% | ~442 |
-| Hope Seeker | 12.00% | ~442 |
+| Guy de Borderlands | 13.00% | ~480 |
+| Exceeding Capacity | 12.00% | ~443 |
+| Breaking Protocol | 12.00% | ~443 |
+| Hope Seeker | 12.00% | ~443 |
 | A Hunk of Junk | 11.00% | ~406 |
 | Man's Best Friend | 9.00% | ~332 |
 | Power Outage | 8.00% | ~295 |
@@ -36,9 +36,9 @@ Rating: 4.58 (Ranked 458)
 | BRAWL! | 5.00% | ~184 |
 | Drill-dozer | 5.00% | ~184 |
 | What the Ruins Teach Us | 5.00% | ~184 |
-| Sustainable Energy | 4.00% | ~147 |
-| In Dolos We Trust | 4.00% | ~147 |
-| Pedal to the Metal | 4.00% | ~147 |
+| Sustainable Energy | 4.00% | ~148 |
+| In Dolos We Trust | 4.00% | ~148 |
+| Pedal to the Metal | 4.00% | ~148 |
 | Praise the Hull! | 3.00% | ~111 |
 | Delivery! | 3.00% | ~111 |
 | Help of the Forgotten Member | 3.00% | ~111 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 458)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,687 (Ranked 212)  
+Progressed: 3,689 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,624 | 0 |
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
-| 2023-12-24 | 3,687 | 0 |
+| 2023-12-24 | 3,689 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

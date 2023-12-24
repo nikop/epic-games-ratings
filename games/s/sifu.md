@@ -6,52 +6,52 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,710 |
-| The Assault | 3.00% | ~22,282 |
-| Life is your teacher | 3.00% | ~22,282 |
-| Lightning Hands | 3.00% | ~22,282 |
-| The Hateful Pole Fighter | 2.00% | ~14,855 |
-| Stuntmaster | 2.00% | ~14,855 |
-| Street Fighting | 2.00% | ~14,855 |
-| State of constant learning | 2.00% | ~14,855 |
-| Qi Gong: Essence | 2.00% | ~14,855 |
-| Old Child | 2.00% | ~14,855 |
-| Rumble in the Hangar | 2.00% | ~14,855 |
-| A Lady's Blood in the Snow | 1.00% | ~7,427 |
-| Lady Wing Chun | 1.00% | ~7,427 |
-| Furious Fists | 1.00% | ~7,427 |
-| Kill Nil | 1.00% | ~7,427 |
-| Qi Gong: Mind | 1.00% | ~7,427 |
-| Qi Gong: Breath | 1.00% | ~7,427 |
-| I know Kung-Fu | 1.00% | ~7,427 |
-| Path of the Prospect | 1.00% | ~7,427 |
-| Take damage to save time | 1.00% | ~7,427 |
-| Project Arena | 1.00% | ~520 |
-| Diligence as a goal | 1.00% | ~520 |
-| Scareless | 0.80% | ~5,942 |
-| Kung-Fu Tussle | 0.80% | ~5,942 |
-| Dance of the Praying Mantis | 0.70% | ~5,199 |
-| Fight the way you practice | 0.70% | ~364 |
-| Martial Hub | 0.60% | ~312 |
+| The Old Grandmaster | 4.00% | ~29,715 |
+| The Assault | 3.00% | ~22,286 |
+| Life is your teacher | 3.00% | ~22,286 |
+| Lightning Hands | 3.00% | ~22,286 |
+| The Hateful Pole Fighter | 2.00% | ~14,857 |
+| Stuntmaster | 2.00% | ~14,857 |
+| Street Fighting | 2.00% | ~14,857 |
+| State of constant learning | 2.00% | ~14,857 |
+| Qi Gong: Essence | 2.00% | ~14,857 |
+| Old Child | 2.00% | ~14,857 |
+| Rumble in the Hangar | 2.00% | ~14,857 |
+| A Lady's Blood in the Snow | 1.00% | ~7,429 |
+| Lady Wing Chun | 1.00% | ~7,429 |
+| Furious Fists | 1.00% | ~7,429 |
+| Kill Nil | 1.00% | ~7,429 |
+| Qi Gong: Mind | 1.00% | ~7,429 |
+| Qi Gong: Breath | 1.00% | ~7,429 |
+| I know Kung-Fu | 1.00% | ~7,429 |
+| Path of the Prospect | 1.00% | ~7,429 |
+| Take damage to save time | 1.00% | ~7,429 |
+| Project Arena | 1.00% | ~522 |
+| Diligence as a goal | 1.00% | ~522 |
+| Scareless | 0.80% | ~5,943 |
+| Kung-Fu Tussle | 0.80% | ~5,943 |
+| Dance of the Praying Mantis | 0.70% | ~5,200 |
+| Fight the way you practice | 0.70% | ~365 |
+| Martial Hub | 0.60% | ~313 |
 | Muk Yan Master | 0.50% | ~3,714 |
-| Bloody Sport | 0.50% | ~260 |
+| Bloody Sport | 0.50% | ~261 |
 | Tiger on Fire | 0.40% | ~2,971 |
 | Source of Flying Daggers | 0.40% | ~2,971 |
 | Iron Money | 0.40% | ~2,971 |
 | Detective Story | 0.40% | ~2,971 |
 | Sword Stained With Blood | 0.40% | ~2,971 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,228 |
-| Prodigal Child | 0.30% | ~2,228 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,228 |
-| The Pit Protector | 0.30% | ~2,228 |
-| The best strikes are the ones we avoid | 0.30% | ~156 |
-| Drunken Fighter | 0.20% | ~1,485 |
-| Martial Artist | 0.20% | ~1,485 |
-| Knowledge Greed | 0.20% | ~1,485 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,485 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,485 |
-| Be like water my friend | 0.20% | ~1,485 |
-| Come Snap With Me | 0.20% | ~1,485 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,229 |
+| Prodigal Child | 0.30% | ~2,229 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,229 |
+| The Pit Protector | 0.30% | ~2,229 |
+| The best strikes are the ones we avoid | 0.30% | ~157 |
+| Drunken Fighter | 0.20% | ~1,486 |
+| Martial Artist | 0.20% | ~1,486 |
+| Knowledge Greed | 0.20% | ~1,486 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,486 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,486 |
+| Be like water my friend | 0.20% | ~1,486 |
+| Come Snap With Me | 0.20% | ~1,486 |
 | Deadly Venom | 0.20% | ~104 |
 | A Touch of Acumen | 0.20% | ~104 |
 | Skill and an even stronger will | 0.20% | ~104 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~52 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742,746 (Ranked 23)  
-Completed: 12,962 (1.75%) (Ranked 141)  
+Progressed: 742,867 (Ranked 23)  
+Completed: 12,963 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 12,962 (1.75%) (Ranked 141)
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
-| 2023-12-24 | 742,746 | 12,962 |
+| 2023-12-24 | 742,867 | 12,963 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
 Sum: 12,280 (Ranked 84)  

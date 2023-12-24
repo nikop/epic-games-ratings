@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -355,9 +355,9 @@
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_picklock17",
@@ -395,9 +395,9 @@
       "ID": "ach_picklock20",
       "SetID": "753ghg2",
       "Name": "Pub",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_picklock21",
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:12:15.7717541+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:09:47.5993487+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:19.6216308+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:39.3324049+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:12:15.7717691+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:00.4191092+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:09:47.5993677+00:00"
 }

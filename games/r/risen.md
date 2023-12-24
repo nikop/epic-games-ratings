@@ -18,7 +18,7 @@ Rating: 4.52 (Ranked 565)
 | Ladies' man | 32.00% | ~37 |
 | Ferocious wild boars | 27.00% | ~31 |
 | Idiot | 25.00% | ~29 |
-| Beast slayer | 22.00% | ~25 |
+| Beast slayer | 23.00% | ~26 |
 | Family man | 20.00% | ~23 |
 | Archaeologist | 20.00% | ~23 |
 | Wise man | 19.00% | ~22 |

@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -720,9 +720,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 70,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "EpicACHV_12",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:11:11.1087864+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:08:49.4653723+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:11.4118743+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:59:43.1069981+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:11:11.1087992+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:57:23.1726869+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:08:49.4653899+00:00"
 }

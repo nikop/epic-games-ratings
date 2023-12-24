@@ -6,8 +6,8 @@ Rating: 4.56 (Ranked 497)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 1.00% | ~23 |
+| The Bright Fir | 0.90% | ~8 |
 | Become King | 0.80% | ~18 |
-| The Bright Fir | 0.80% | ~7 |
 | End of the Mozis | 0.60% | ~14 |
 | Defeat 25 Frogs | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
@@ -29,12 +29,12 @@ Rating: 4.56 (Ranked 497)
 | Kitchen Ready To Cook | 0.40% | ~9 |
 | Smithy Ready to Craft | 0.40% | ~9 |
 | Rescue Redgi's Brothers | 0.40% | ~9 |
+| Defeat the Grub Buster | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Complete Ranger Faction | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
-| Defeat the Grub Buster | 0.30% | ~3 |
 | Defeat the Stalker Queen | 0.30% | ~3 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | Complete Arena Faction | 0.20% | ~5 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 497)
 | King of Kings | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,277 (Ranked 231)  
+Progressed: 2,278 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-12-21 | 2,266 | 12 |
 | 2023-12-22 | 2,269 | 12 |
 | 2023-12-23 | 2,274 | 12 |
-| 2023-12-24 | 2,277 | 12 |
+| 2023-12-24 | 2,278 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

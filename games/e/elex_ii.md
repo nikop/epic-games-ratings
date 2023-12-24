@@ -6,18 +6,19 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 26.00% | ~21 |
+| Entrepreneur | 25.00% | ~21 |
 | Best Buddy | 24.00% | ~20 |
-| Role Model | 21.00% | ~17 |
+| Role Model | 20.00% | ~17 |
 | Civilian | 16.00% | ~13 |
-| Creator | 13.00% | ~11 |
+| Creator | 14.00% | ~12 |
 | Military Leader | 12.00% | ~10 |
 | Long-Haul Flyer | 10.00% | ~8 |
-| Peddler | 9.00% | ~7 |
+| Peddler | 8.00% | ~7 |
 | Commander | 7.00% | ~6 |
 | Family Reunion | 7.00% | ~6 |
 | Irissa's Fate | 7.00% | ~6 |
 | Hotshot | 6.00% | ~5 |
+| Berserker | 6.00% | ~5 |
 | Festival-goer | 6.00% | ~5 |
 | Pass A38 | 6.00% | ~5 |
 | Storyteller | 5.00% | ~4 |
@@ -26,7 +27,6 @@ Number of Ratings: 124  (23.09.2022)
 | Free as a Bird | 5.00% | ~4 |
 | Unbreakable | 5.00% | ~4 |
 | Alb | 5.00% | ~4 |
-| Berserker | 5.00% | ~4 |
 | Eternal Oblivion | 5.00% | ~4 |
 | Cleric | 4.00% | ~3 |
 | Idealist | 2.00% | ~2 |
@@ -37,6 +37,7 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 1.00% | ~1 |
 | Perfectionist | 1.00% | ~1 |
 | Detective | 1.00% | ~1 |
+| Lover | 1.00% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
@@ -55,9 +56,8 @@ Number of Ratings: 124  (23.09.2022)
 | Ruthless | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
-| Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 496)  
+Progressed: 83 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 48 | 0 |
 | 2023-12-22 | 67 | 0 |
 | 2023-12-23 | 75 | 0 |
-| 2023-12-24 | 82 | 0 |
+| 2023-12-24 | 83 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

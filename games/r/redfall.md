@@ -9,7 +9,7 @@ Rating: 3.59 (Ranked 1,067)
 | Catch and Release | 9.00% | ~183 |
 | Home Is Where the Heart Is | 8.00% | ~163 |
 | Wounded Whispers | 8.00% | ~163 |
-| ICU | 7.00% | ~142 |
+| ICU | 7.00% | ~143 |
 | Blood Will Have Blood | 6.00% | ~122 |
 | Ne Plus Ultra | 6.00% | ~122 |
 | Fly Fisher | 6.00% | ~122 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,035 (Ranked 237)  
+Progressed: 2,037 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 1,977 | 0 |
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
-| 2023-12-24 | 2,035 | 0 |
+| 2023-12-24 | 2,037 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

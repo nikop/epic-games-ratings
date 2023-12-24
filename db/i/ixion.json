@@ -5,7 +5,7 @@
   "Ranking_Rating": 458,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 148,
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3687,
+  "EOS_Progressed": 3689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7038,6 +7038,11 @@
       "Time": "2023-12-24T13:08:14.9550868+00:00",
       "NumProgressed": 3687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T14:05:30.1999882+00:00",
+      "NumProgressed": 3689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7129,7 +7134,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_BASE_21",
@@ -7137,7 +7142,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACH_BASE_22",
@@ -7145,7 +7150,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_BASE_23",
@@ -7161,7 +7166,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH_BASE_25",
@@ -7193,7 +7198,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_BASE_29",
@@ -7217,7 +7222,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_BASE_31",
@@ -7257,7 +7262,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_BASE_36",
@@ -7409,7 +7414,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_BASE_58",
@@ -7433,7 +7438,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_BASE_60",
@@ -7504,13 +7509,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1871,
+      "Progressed": 1873,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3687,
+      "Progressed": 3689,
       "Completed": 0
     }
   ],
@@ -7518,8 +7523,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:08:14.9550865+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:30.1999877+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:02.9995641+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:08:14.9551469+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:58:29.6776397+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:30.2000733+00:00"
 }

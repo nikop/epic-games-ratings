@@ -2,12 +2,12 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2362,
+  "EOS_Progressed": 2364,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -3833,6 +3833,11 @@
       "Time": "2023-12-24T13:06:38.5467603+00:00",
       "NumProgressed": 2362,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T14:04:04.1618951+00:00",
+      "NumProgressed": 2364,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3852,7 +3857,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1537
     },
     {
       "ID": "ACHV_03",
@@ -3860,7 +3865,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHV_04",
@@ -3876,7 +3881,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACHV_06",
@@ -3884,7 +3889,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHV_07",
@@ -3916,7 +3921,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_11",
@@ -3996,7 +4001,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_21",
@@ -4012,7 +4017,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHV_23",
@@ -4044,7 +4049,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1868
     },
     {
       "ID": "ACHV_27",
@@ -4076,7 +4081,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHV_31",
@@ -4108,7 +4113,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHV_35",
@@ -4124,7 +4129,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHV_37",
@@ -4148,7 +4153,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACHV_40",
@@ -4172,7 +4177,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_43",
@@ -4212,7 +4217,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHV_48",
@@ -4276,7 +4281,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHV_56",
@@ -4299,7 +4304,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2362,
+      "Progressed": 2364,
       "Completed": 13
     }
   ],
@@ -4307,8 +4312,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:06:38.5467598+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:04:04.1618946+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:00:19.7102054+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:06:38.5468076+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:57:53.9045716+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:04:04.1619498+00:00"
 }

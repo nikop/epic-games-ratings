@@ -7,7 +7,7 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,889 |
-| Tutti Eroi! | 50.00% | ~4,793 |
+| Tutti Eroi! | 50.00% | ~4,794 |
 | Peak Performance | 46.00% | ~4,410 |
 | Avanti Savoia! | 44.00% | ~4,218 |
 | Mamma Mia! | 35.00% | ~3,355 |
@@ -16,10 +16,10 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 27.00% | ~2,588 |
 | Aurelio Baruzzi | 21.00% | ~2,013 |
 | Decimation | 20.00% | ~1,917 |
-| Donatello | 19.00% | ~1,821 |
-| Insubordination | 19.00% | ~1,821 |
-| The Italian Job | 19.00% | ~1,821 |
-| Veni Vidi Vici | 19.00% | ~1,821 |
+| Donatello | 19.00% | ~1,822 |
+| Insubordination | 19.00% | ~1,822 |
+| The Italian Job | 19.00% | ~1,822 |
+| Veni Vidi Vici | 19.00% | ~1,822 |
 | Ragazzi del '99 | 17.00% | ~1,630 |
 | Luigi Cadorna | 16.00% | ~1,534 |
 | The Lion of the Isonzo | 14.00% | ~1,342 |
@@ -27,7 +27,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 12.00% | ~1,150 |
 | Dirty Dozen | 12.00% | ~1,150 |
 | Shaken, Not Stirred | 12.00% | ~1,150 |
-| Machiavelli | 11.00% | ~1,054 |
+| Machiavelli | 11.00% | ~1,055 |
 | The Devil's Paintbrush | 10.00% | ~959 |
 | Thus With A Kiss | 10.00% | ~959 |
 | Dante's Inferno | 9.00% | ~863 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~38 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,586 (Ranked 177)  
+Progressed: 9,587 (Ranked 177)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-21 | 9,539 | 10 |
 | 2023-12-22 | 9,563 | 10 |
 | 2023-12-23 | 9,580 | 10 |
-| 2023-12-24 | 9,586 | 10 |
+| 2023-12-24 | 9,587 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 471)  
 Sum: 331 (Ranked 364)  

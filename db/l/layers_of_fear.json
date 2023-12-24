@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -864,6 +864,11 @@
       "Time": "2023-12-24T08:06:46.0518491+00:00",
       "NumProgressed": 192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T14:05:44.3149036+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -900,7 +905,7 @@
       "Name": "Breaking free",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "casting_finished",
@@ -956,7 +961,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "decrypt_one_myth",
@@ -980,7 +985,7 @@
       "Name": "Refuse to look",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "do_what_you_have_to",
@@ -1028,7 +1033,7 @@
       "Name": "Scraps of love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "find_one_photo",
@@ -1058,9 +1063,9 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "first_step",
@@ -1148,7 +1153,7 @@
       "Name": "A piece of the story",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "playtime",
@@ -1212,7 +1217,7 @@
       "Name": "Something important",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "spy_one_item",
@@ -1260,7 +1265,7 @@
       "Name": "True Reflection",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "view_most_of_photos",
@@ -1291,14 +1296,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:08:30.9254822+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:44.314903+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:00:12.3110241+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:08:30.9255122+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:56:58.5407774+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:44.3149496+00:00"
 }

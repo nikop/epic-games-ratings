@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-12-24T10:03:46.092523+00:00",
       "NumProgressed": 459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T14:04:04.2419271+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -592,7 +597,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "assemble-team3",
@@ -632,7 +637,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "different-items1",
@@ -656,7 +661,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "finished-quest-cube",
@@ -664,7 +669,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "finished-quest-flight",
@@ -712,7 +717,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "finished-quest-sci",
@@ -800,7 +805,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "win-first-level",
@@ -808,7 +813,7 @@
       "Name": "Good start!",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "win-koth-fights1",
@@ -863,7 +868,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 1
     }
   ],
@@ -871,8 +876,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:06:38.6372084+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:04:04.2419267+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:02:25.8635886+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:06:38.6372315+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:42.8618313+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:04:04.2419504+00:00"
 }

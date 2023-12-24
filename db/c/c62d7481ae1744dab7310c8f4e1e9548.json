@@ -882,9 +882,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MluviciPapouch",
@@ -1041,8 +1041,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:06:47.5167411+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:04:12.6465054+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:05:22.4327742+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:06:47.5167567+00:00"
+  "LastUpdate_Ratings": "2023-12-24T14:02:57.4877557+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:04:12.646529+00:00"
 }

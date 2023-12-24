@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2092,
+  "EOS_Progressed": 2095,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6064,6 +6064,11 @@
       "Time": "2023-12-24T13:12:27.1325446+00:00",
       "NumProgressed": 2092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T14:09:58.1747569+00:00",
+      "NumProgressed": 2095,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6180,7 +6185,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_22",
@@ -6226,9 +6231,9 @@
       "ID": "achievement_27",
       "SetID": "271ol84",
       "Name": "Your journey has only started",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_28",
@@ -6252,7 +6257,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_30",
@@ -6292,7 +6297,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_35",
@@ -6300,7 +6305,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1844
     },
     {
       "ID": "achievement_36",
@@ -6316,7 +6321,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1341
     },
     {
       "ID": "achievement_38",
@@ -6324,7 +6329,7 @@
       "Name": "Survivor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_39",
@@ -6348,7 +6353,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "achievement_41",
@@ -6380,7 +6385,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "achievement_45",
@@ -6556,7 +6561,7 @@
       "Name": "A cunning warrior",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_8",
@@ -6579,13 +6584,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2092,
+      "Progressed": 2095,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2092,
+      "Progressed": 2095,
       "Completed": 1
     }
   ],
@@ -6593,8 +6598,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:12:27.1325443+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:09:58.1747564+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:02:12.5298131+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:12:27.1326096+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:59:29.7293709+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:09:58.1748271+00:00"
 }

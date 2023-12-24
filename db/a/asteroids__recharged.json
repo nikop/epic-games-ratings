@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -510,8 +510,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:08:37.686923+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:05:47.8868437+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.7524538+00:00",
-  "LastUpdate_Ratings": "2023-12-24T13:01:21.288804+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:08:37.6869348+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:58:45.8148631+00:00",
+  "LastUpdate_Achievements": "2023-12-24T14:05:47.8868542+00:00"
 }

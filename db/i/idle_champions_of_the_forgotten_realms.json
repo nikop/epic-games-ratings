@@ -9007,9 +9007,9 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 244099,
+  "EOS_Progressed": 244127,
   "EOS_Completed": 2558,
-  "EOS_NewPlayers": 2717,
+  "EOS_NewPlayers": 2733,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37027,6 +37027,11 @@
       "Time": "2023-12-24T13:12:31.4133618+00:00",
       "NumProgressed": 244099,
       "NumCompleted": 2558
+    },
+    {
+      "Time": "2023-12-24T14:10:01.9048937+00:00",
+      "NumProgressed": 244127,
+      "NumCompleted": 2558
     }
   ],
   "TotalAchievements": 546,
@@ -37406,7 +37411,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "objective_completed_110",
@@ -40182,7 +40187,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "objective_completed_70",
@@ -41358,7 +41363,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "objective_completed_673",
@@ -41374,7 +41379,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "objective_completed_683",
@@ -41382,7 +41387,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "objective_completed_860",
@@ -41405,21 +41410,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210373,
+      "Progressed": 210401,
       "Completed": 4062
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244099,
+      "Progressed": 244127,
       "Completed": 2558
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T21:02:56.5603354+00:00",
-  "LastChanged_Achievements": "2023-12-24T13:12:31.4133614+00:00",
+  "LastChanged_Achievements": "2023-12-24T14:10:01.9048932+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
   "LastUpdate_Ratings": "2023-12-24T13:05:16.9524929+00:00",
-  "LastUpdate_Achievements": "2023-12-24T13:12:31.4156617+00:00"
+  "LastUpdate_Achievements": "2023-12-24T14:10:01.9074455+00:00"
 }
