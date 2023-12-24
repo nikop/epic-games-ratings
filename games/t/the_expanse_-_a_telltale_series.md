@@ -5,11 +5,11 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,583 |
+| Oyedang, Kopengs | 15.00% | ~2,584 |
 | Captain Drummer | 11.00% | ~1,895 |
-| Bosmang | 10.00% | ~1,722 |
-| Celebrations are in Order | 10.00% | ~1,722 |
-| Impossible Objects | 10.00% | ~1,722 |
+| Bosmang | 10.00% | ~1,723 |
+| Celebrations are in Order | 10.00% | ~1,723 |
+| Impossible Objects | 10.00% | ~1,723 |
 | The Pit and the Pirates | 9.00% | ~1,550 |
 | Martian Music | 9.00% | ~1,550 |
 | Drone Dodger | 9.00% | ~1,550 |
@@ -18,10 +18,10 @@ Rating: 4.55 (Ranked 512)
 | Safe Cracker | 8.00% | ~254 |
 | Zen Master | 8.00% | ~254 |
 | Call it Even | 7.00% | ~1,206 |
-| Madame Undersecretary | 7.00% | ~222 |
-| Data Archivist | 6.00% | ~1,033 |
-| Drug Gifter | 6.00% | ~1,033 |
-| Heal Thy Medic | 6.00% | ~1,033 |
+| Madame Undersecretary | 7.00% | ~223 |
+| Data Archivist | 6.00% | ~1,034 |
+| Drug Gifter | 6.00% | ~1,034 |
+| Heal Thy Medic | 6.00% | ~1,034 |
 | Keep Arjun in Check | 6.00% | ~191 |
 | Thorston Mayer | 5.00% | ~861 |
 | Khan's Revenge | 5.00% | ~861 |
@@ -30,9 +30,9 @@ Rating: 4.55 (Ranked 512)
 | Bottoms up! | 4.00% | ~689 |
 | Data Logger | 3.00% | ~517 |
 | Miraculous Maya | 3.00% | ~517 |
-| Brother's Reaper | 2.00% | ~344 |
-| No Belter Left Behind | 2.00% | ~344 |
-| Data Master | 2.00% | ~344 |
+| Brother's Reaper | 2.00% | ~345 |
+| No Belter Left Behind | 2.00% | ~345 |
+| Data Master | 2.00% | ~345 |
 | Debris Spree | 1.00% | ~172 |
 | Data Recoverer | 1.00% | ~172 |
 | Urshanabi Hoarder | 0.90% | ~155 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~34 |
 | Data Collector | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,223 (Ranked 156)  
-Completed: 50 (0.29%) (Ranked 254)  
+Progressed: 17,227 (Ranked 156)  
+Completed: 50 (0.29%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,6 +196,7 @@ Completed: 50 (0.29%) (Ranked 254)
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
+| 2023-12-24 | 17,227 | 50 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

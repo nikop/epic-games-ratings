@@ -6,9 +6,9 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1501,10 +1501,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 533,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2023-12-23T23:58:46.5537396+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 534,
+      "NumberOfAwardsMax": 253
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 533,
+  "NumberOfAwards": 534,
   "NumberOfAwardsMax": 253,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1536,7 +1542,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1569,9 +1575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244299,
+  "EOS_Progressed": 244309,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23424,6 +23430,11 @@
       "Time": "2023-12-23T23:10:18.6070559+00:00",
       "NumProgressed": 244299,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T00:10:11.5556235+00:00",
+      "NumProgressed": 244309,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -23475,7 +23486,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "Chapter1",
@@ -23483,7 +23494,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17101
+      "UsersEstimate": 17102
     },
     {
       "ID": "Chapter2",
@@ -23835,7 +23846,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21987
+      "UsersEstimate": 21988
     },
     {
       "ID": "DwarfElf15Support",
@@ -23867,7 +23878,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14658
+      "UsersEstimate": 14659
     },
     {
       "ID": "ElfEpic",
@@ -23883,7 +23894,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 87948
+      "UsersEstimate": 87951
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -23931,7 +23942,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24430
+      "UsersEstimate": 24431
     },
     {
       "ID": "FollowBraztok",
@@ -24027,7 +24038,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "QuestMinstrel",
@@ -24138,21 +24149,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244299,
+      "Progressed": 244309,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244299,
+      "Progressed": 244309,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-23T20:58:34.8856885+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:18.6070557+00:00",
+  "LastChanged": "2023-12-23T23:58:46.5537395+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:10:11.5556233+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:59:00.2139039+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:18.6072046+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:58:46.5537398+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:10:11.5558029+00:00"
 }

@@ -9,22 +9,22 @@
 | Ouch, that hurt! | 31.00% | ~15 |
 | Fight like an idiot | 27.00% | ~13 |
 | Slam-KABAM | 20.00% | ~10 |
+| A heavy thinker | 18.00% | ~9 |
 | Repair the Mind Validation Machine | 18.00% | ~9 |
-| A heavy thinker | 16.00% | ~8 |
 | Heavy Thoughts | 12.00% | ~6 |
 | Elementary, My Dear Dusty | 12.00% | ~6 |
 | Dance like an idiot | 10.00% | ~5 |
 | Flee like an idiot | 10.00% | ~5 |
 | I'm Back at the Surface now | 8.00% | ~4 |
 | Patient Listener | 4.00% | ~2 |
+| GOAAAAAAAAAL! | 4.00% | ~2 |
 | Come full circle | 4.00% | ~2 |
-| GOAAAAAAAAAL! | 2.00% | ~1 |
-| Whac-a-worker | 0.00% | ~0 |
+| Whac-a-worker | 2.00% | ~1 |
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49 (Ranked 535)  
-Completed: 0 (0.00%) (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -49,8 +49,8 @@
 | Persistence | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654 (Ranked 309)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 654 (Ranked 310)  
+Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5724,
+  "EOS_Progressed": 5725,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4923,6 +4923,11 @@
       "Time": "2023-12-23T21:08:42.9498547+00:00",
       "NumProgressed": 5724,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T00:08:51.5281913+00:00",
+      "NumProgressed": 5725,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4990,7 +4995,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5286,7 +5291,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ach_frp_many_modules",
@@ -5541,15 +5546,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5724,
+      "Progressed": 5725,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:08:51.7956176+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:08:51.5281911+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:04.2667134+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:59:55.4358913+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:08:51.7956929+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:37.3838718+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:08:51.5282837+00:00"
 }

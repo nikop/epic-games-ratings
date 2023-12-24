@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2286,9 +2286,9 @@
       "ID": "ach_main20end_notristan",
       "SetID": "4hg22ll",
       "Name": "I Don\u0027t Need Any Help",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_main20end_spawners",
@@ -2309,8 +2309,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:09:00.0041311+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:08:58.8857831+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:58:25.8341428+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:09:00.0041772+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:58:15.5185118+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:08:58.8858255+00:00"
 }

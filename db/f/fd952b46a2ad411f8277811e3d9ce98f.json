@@ -3,9 +3,9 @@
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 46,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 398214,
+  "EOS_Progressed": 398216,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -12572,6 +12572,11 @@
       "Time": "2023-12-23T21:04:30.9608399+00:00",
       "NumProgressed": 398214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T00:04:32.9268299+00:00",
+      "NumProgressed": 398216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -12680,7 +12685,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 226982
+      "UsersEstimate": 226983
     },
     {
       "ID": "kills_100",
@@ -12736,7 +12741,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39821
+      "UsersEstimate": 39822
     },
     {
       "ID": "revives_25",
@@ -12831,13 +12836,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 398214,
+      "Progressed": 398216,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:04:58.9750465+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:04:32.9268297+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.0264151+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:00:42.1932471+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:04:58.9751085+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:00:21.2715545+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:32.9269064+00:00"
 }

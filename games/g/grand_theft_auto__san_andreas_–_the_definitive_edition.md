@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,307 |
-| Pay 'n' Spray | 50.00% | ~8,214 |
-| All Dressed Up for San Fierro | 25.00% | ~4,107 |
-| The American Dream | 19.00% | ~3,122 |
-| School's Out | 18.00% | ~2,957 |
-| Smooth Moves | 16.00% | ~2,629 |
-| Today Was a Good Day | 15.00% | ~2,464 |
-| What happens in Las Venturas... | 14.00% | ~2,300 |
-| Horror of the Santa Maria | 10.00% | ~1,643 |
+| Getting Started | 81.00% | ~13,313 |
+| Pay 'n' Spray | 50.00% | ~8,218 |
+| All Dressed Up for San Fierro | 25.00% | ~4,109 |
+| The American Dream | 19.00% | ~3,123 |
+| School's Out | 18.00% | ~2,958 |
+| Smooth Moves | 16.00% | ~2,630 |
+| Today Was a Good Day | 15.00% | ~2,465 |
+| What happens in Las Venturas... | 14.00% | ~2,301 |
+| Horror of the Santa Maria | 10.00% | ~1,644 |
 | Liberty City State of Mind | 9.00% | ~1,479 |
-| Original Gangster | 8.00% | ~1,314 |
-| With Extra Dip | 7.00% | ~1,150 |
-| The End of the Line | 7.00% | ~1,150 |
+| Original Gangster | 8.00% | ~1,315 |
+| With Extra Dip | 7.00% | ~1,151 |
+| The End of the Line | 7.00% | ~1,151 |
 | Saviour | 6.00% | ~986 |
-| Rescue a Kitten Too? | 5.00% | ~821 |
+| Rescue a Kitten Too? | 5.00% | ~822 |
 | They Can’t Stop All of Us | 4.00% | ~657 |
 | What are the Odds | 4.00% | ~657 |
 | Bike or Biker | 3.00% | ~493 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 533)
 | ...Here we go again | 0.50% | ~82 |
 | I Ain't No Buster | 0.40% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,429 (Ranked 159)  
-Completed: 62 (0.38%) (Ranked 232)  
+Progressed: 16,436 (Ranked 159)  
+Completed: 62 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,9 +289,10 @@ Completed: 62 (0.38%) (Ranked 232)
 | 2023-12-21 | 15,997 | 62 |
 | 2023-12-22 | 16,205 | 62 |
 | 2023-12-23 | 16,429 | 62 |
+| 2023-12-24 | 16,436 | 62 |
 ## Awards
 Max (Great Boss Battles): 483  (Ranked 220)  
-Sum: 788 (Ranked 286)  
+Sum: 789 (Ranked 286)  
 Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +305,7 @@ Diff (max vs sum): -66
 | This game is Extremely Fun | 28 |
 | This game has a Creative Community | 28 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Diverse Characters | 26 |
+| This game has Diverse Characters | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -517,3 +518,4 @@ Diff (max vs sum): -66
 | 2023-12-21 | 4.55 | 473 | 734 |
 | 2023-12-22 | 4.55 | 473 | 775 |
 | 2023-12-23 | 4.54 | 483 | 788 |
+| 2023-12-24 | 4.54 | 483 | 789 |

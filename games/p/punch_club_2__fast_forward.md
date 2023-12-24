@@ -54,13 +54,13 @@
 | Seashell hunter | 33.00% | ~149 |
 | Undercover robot | 32.00% | ~145 |
 | Problems of cyborgs | 31.00% | ~140 |
+| Not little hacker | 31.00% | ~140 |
 | Absolute Champion! | 31.00% | ~140 |
-| Not little hacker | 30.00% | ~136 |
+| The lonesome road | 30.00% | ~136 |
 | Careerist | 30.00% | ~136 |
 | Your own way | 30.00% | ~136 |
 | Trap disarmed | 29.00% | ~131 |
 | Another world | 29.00% | ~131 |
-| The lonesome road | 29.00% | ~131 |
 | Keep nature safe | 29.00% | ~131 |
 | Family comes first | 29.00% | ~131 |
 | Key memories | 29.00% | ~131 |
@@ -72,7 +72,7 @@
 | Silver’s past | 26.00% | ~118 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 452 (Ranked 339)  
-Completed: 9 (1.99%) (Ranked 135)  
+Completed: 9 (1.99%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

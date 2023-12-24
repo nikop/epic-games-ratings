@@ -2,10 +2,10 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -33,7 +33,7 @@
   "EOS_Progressed": 250,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
@@ -625,9 +625,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "deathlooper",
@@ -689,17 +689,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "thats_my_boy",
@@ -754,8 +754,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-23T22:07:21.6227255+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:03:26.967342+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:59.0408325+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:41.78989+00:00",
-  "LastUpdate_Achievements": "2023-12-23T22:07:21.6227399+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:03:20.7301388+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:03:26.9673884+00:00"
 }

@@ -23,7 +23,7 @@
 | Oh... You didn't think to bring it? | 16.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25 (Ranked 592)  
-Completed: 4 (16.00%) (Ranked 30)  
+Completed: 4 (16.00%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

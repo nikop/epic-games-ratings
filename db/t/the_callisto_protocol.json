@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1799,9 +1799,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18896,
+  "EOS_Progressed": 18897,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1454,
+  "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -10909,6 +10909,11 @@
       "Time": "2023-12-23T23:09:41.7757983+00:00",
       "NumProgressed": 18896,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-24T00:09:36.8817438+00:00",
+      "NumProgressed": 18897,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10952,7 +10957,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11024,7 +11029,7 @@
       "Name": "Get a Grip",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11096,7 +11101,7 @@
       "Name": "Paper Jams",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11112,7 +11117,7 @@
       "Name": "The Outer Way",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11152,7 +11157,7 @@
       "Name": "Desperate Times",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11295,13 +11300,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18896,
+      "Progressed": 18897,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6822,
+      "Progressed": 6823,
       "Completed": 29
     }
   ],
@@ -11309,8 +11314,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-23T22:03:45.5231156+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:09:41.775798+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:09:36.8817437+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:56.4893565+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:38.2389678+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:09:41.7758803+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:03:17.6158314+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:09:36.8818006+00:00"
 }

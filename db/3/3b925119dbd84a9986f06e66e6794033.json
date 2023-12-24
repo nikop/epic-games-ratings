@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 341,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -1509,6 +1509,11 @@
       "Time": "2023-12-23T23:10:02.7222457+00:00",
       "NumProgressed": 443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T00:09:56.2462753+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1585,7 +1590,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1609,7 +1614,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TIME_JINX",
@@ -1649,15 +1654,15 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -1680,14 +1685,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:02.7222454+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:09:56.2462751+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:58:18.1781975+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:02.7222616+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:58:09.5035128+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:09:56.2462924+00:00"
 }

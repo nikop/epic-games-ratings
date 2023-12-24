@@ -241,6 +241,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sepat Wase Forever | 0.10% | ~16 |
 | Greater Kmt Unified | 0.10% | ~16 |
 | Kmt Unified | 0.10% | ~16 |
+| Pharaonic Kmt Unified | 0.10% | ~16 |
 | Prosperous Kmt | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
@@ -327,7 +328,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | Pharaonic Greater Kmt Unified | 0.00% | ~0 |
-| Pharaonic Kmt Unified | 0.00% | ~0 |
 | Golden Age-less | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Kmt Golden Age | 0.00% | ~0 |
@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,914 (Ranked 161)  
-Completed: 5 (0.03%) (Ranked 347)  
+Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

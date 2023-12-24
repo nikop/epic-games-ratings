@@ -15,8 +15,8 @@ Rating: 4.52 (Ranked 567)
 | Family guy | 77.00% | ~4,538 |
 | Out of the Bag | 76.00% | ~4,479 |
 | The Dark Side | 71.00% | ~4,184 |
+| Souper! | 66.00% | ~3,889 |
 | Duck and cover! | 66.00% | ~3,889 |
-| Souper! | 65.00% | ~3,830 |
 | Pacifist | 60.00% | ~3,536 |
 | 2-1-6 | 59.00% | ~3,477 |
 | A gift | 55.00% | ~3,241 |
@@ -67,7 +67,7 @@ Rating: 4.52 (Ranked 567)
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,893 (Ranked 195)  
-Completed: 1 (0.02%) (Ranked 355)  
+Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

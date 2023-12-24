@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,819 |
-| Off to a good start | 64.00% | ~1,323 |
-| Do... or do not. There is no try | 52.00% | ~1,075 |
-| A good blaster at your side | 27.00% | ~558 |
-| I suggest a new strategy | 18.00% | ~372 |
-| Great shot, kid! | 17.00% | ~351 |
-| Scrap collector | 16.00% | ~331 |
-| All right, I'll give it a try | 16.00% | ~331 |
+| New Recruit | 88.00% | ~1,823 |
+| Off to a good start | 64.00% | ~1,326 |
+| Do... or do not. There is no try | 52.00% | ~1,077 |
+| A good blaster at your side | 27.00% | ~559 |
+| I suggest a new strategy | 18.00% | ~373 |
+| Great shot, kid! | 17.00% | ~352 |
+| Scrap collector | 16.00% | ~332 |
+| All right, I'll give it a try | 16.00% | ~332 |
 | The power of the Force | 13.00% | ~269 |
 | Shoot first | 13.00% | ~269 |
-| Collector | 12.00% | ~248 |
-| Together we can rule the galaxy | 12.00% | ~248 |
+| Collector | 12.00% | ~249 |
+| Together we can rule the galaxy | 12.00% | ~249 |
 | Tell Jabba that I've got his money | 9.00% | ~186 |
-| Best star-pilot in the galaxy | 8.00% | ~165 |
-| Survivor | 8.00% | ~165 |
+| Best star-pilot in the galaxy | 8.00% | ~166 |
+| Survivor | 8.00% | ~166 |
 | Never tell me the odds! | 7.00% | ~145 |
 | A cunning warrior | 7.00% | ~145 |
 | What's the cargo? | 6.00% | ~124 |
-| "Gonk? Gonk!" | 5.00% | ~103 |
-| Distinguished | 5.00% | ~103 |
-| Impressive. Most impressive. | 5.00% | ~103 |
-| Judge me by my size, do you? | 5.00% | ~103 |
-| Support the troops | 5.00% | ~103 |
+| "Gonk? Gonk!" | 5.00% | ~104 |
+| Distinguished | 5.00% | ~104 |
+| Impressive. Most impressive. | 5.00% | ~104 |
+| Judge me by my size, do you? | 5.00% | ~104 |
+| Support the troops | 5.00% | ~104 |
 | A tremor in the Force | 4.00% | ~83 |
 | Your journey has only started | 3.00% | ~62 |
 | On the ball | 3.00% | ~62 |
@@ -52,10 +52,10 @@
 | The circle is now complete | 1.00% | ~21 |
 | You have your moments | 0.90% | ~19 |
 | When surrounded by war... | 0.80% | ~17 |
-| A New Hope | 0.70% | ~14 |
-| Walker defender | 0.70% | ~14 |
-| No such thing as luck | 0.70% | ~14 |
-| Stop that Droid | 0.70% | ~14 |
+| A New Hope | 0.70% | ~15 |
+| Walker defender | 0.70% | ~15 |
+| No such thing as luck | 0.70% | ~15 |
+| Stop that Droid | 0.70% | ~15 |
 | Do we take prisoners? | 0.60% | ~12 |
 | I’ll take that bet | 0.50% | ~10 |
 | Greed can be a very powerful ally | 0.40% | ~8 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,067 (Ranked 235)  
-Completed: 1 (0.05%) (Ranked 333)  
+Progressed: 2,072 (Ranked 235)  
+Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,6 +167,7 @@ Completed: 1 (0.05%) (Ranked 333)
 | 2023-12-21 | 1,979 | 1 |
 | 2023-12-22 | 2,014 | 1 |
 | 2023-12-23 | 2,067 | 1 |
+| 2023-12-24 | 2,072 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

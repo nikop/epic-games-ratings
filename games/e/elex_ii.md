@@ -7,16 +7,16 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Best Buddy | 25.00% | ~19 |
-| Entrepreneur | 24.00% | ~18 |
-| Role Model | 20.00% | ~15 |
-| Creator | 15.00% | ~11 |
+| Entrepreneur | 23.00% | ~18 |
+| Role Model | 21.00% | ~16 |
+| Creator | 14.00% | ~11 |
 | Civilian | 13.00% | ~10 |
 | Military Leader | 12.00% | ~9 |
-| Long-Haul Flyer | 11.00% | ~8 |
+| Long-Haul Flyer | 10.00% | ~8 |
 | Peddler | 9.00% | ~7 |
 | Irissa's Fate | 8.00% | ~6 |
-| Hotshot | 7.00% | ~5 |
-| Family Reunion | 7.00% | ~5 |
+| Hotshot | 6.00% | ~5 |
+| Family Reunion | 6.00% | ~5 |
 | Storyteller | 5.00% | ~4 |
 | Globetrotter | 5.00% | ~4 |
 | Free as a Bird | 5.00% | ~4 |
@@ -27,9 +27,9 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 5.00% | ~4 |
 | Self-Sufficient | 4.00% | ~3 |
 | Unbreakable | 4.00% | ~3 |
+| Cleric | 4.00% | ~3 |
 | Festival-goer | 4.00% | ~3 |
 | Idealist | 3.00% | ~2 |
-| Cleric | 3.00% | ~2 |
 | Morkon | 3.00% | ~2 |
 | Alchemist | 1.00% | ~1 |
 | Defector | 1.00% | ~1 |
@@ -57,8 +57,8 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 503)  
-Completed: 0 (0.00%) (Ranked 386)  
+Progressed: 77 (Ranked 499)  
+Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 386)
 | 2023-12-21 | 48 | 0 |
 | 2023-12-22 | 67 | 0 |
 | 2023-12-23 | 75 | 0 |
+| 2023-12-24 | 77 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

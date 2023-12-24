@@ -3,9 +3,9 @@
   "Name": "Railbreak",
   "ProductSlug": "railbreak-f87a0c",
   "Ranking_EOS_Progress": 652,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
     "PcReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -117,9 +117,9 @@
       "ID": "CYPRESS_RIDGE_PARK_ACH",
       "SetID": "af7amn3",
       "Name": "Cypress Ridge Park",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DINNER_WITH_FRIENDS_ACH",
@@ -149,9 +149,9 @@
       "ID": "MAIN_STREET_ACH",
       "SetID": "af7amn3",
       "Name": "Main Street",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEDICAL_EXCELLENCE_ACH",
@@ -165,17 +165,17 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PARK_PICNIC_ACH",
       "SetID": "af7amn3",
       "Name": "Park Picnic",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SHOPPING_SPREE_ACH",
@@ -221,9 +221,9 @@
       "ID": "THE_JOURNALIST_ACH",
       "SetID": "af7amn3",
       "Name": "The Journalist",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_LAST_SHOT_BAR_ACH",
@@ -245,17 +245,17 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_SINGER_ACH",
       "SetID": "af7amn3",
       "Name": "The Singer",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_STUDENT_ACH",
@@ -283,8 +283,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:08:40.295493+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:08:41.2593046+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:07.1314256+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:47.5994277+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:08:40.2955041+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:40.6031962+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:08:41.2593152+00:00"
 }

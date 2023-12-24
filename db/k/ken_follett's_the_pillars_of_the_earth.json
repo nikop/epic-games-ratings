@@ -6,9 +6,9 @@
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17320,
+  "EOS_Progressed": 17323,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16840,6 +16840,11 @@
       "Time": "2023-12-23T23:06:42.1368711+00:00",
       "NumProgressed": 17320,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-24T00:06:08.7353467+00:00",
+      "NumProgressed": 17323,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 41,
@@ -16891,7 +16896,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5543
     },
     {
       "ID": "tpote_achievement_15",
@@ -16915,7 +16920,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2772
     },
     {
       "ID": "tpote_achievement_18",
@@ -16939,7 +16944,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5716
+      "UsersEstimate": 5717
     },
     {
       "ID": "tpote_achievement_20",
@@ -16955,7 +16960,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "tpote_achievement_22",
@@ -16963,7 +16968,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "tpote_achievement_23",
@@ -17011,7 +17016,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "tpote_achievement_29",
@@ -17027,7 +17032,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5369
+      "UsersEstimate": 5370
     },
     {
       "ID": "tpote_achievement_30",
@@ -17067,7 +17072,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "tpote_achievement_35",
@@ -17115,7 +17120,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6928
+      "UsersEstimate": 6929
     },
     {
       "ID": "tpote_achievement_40",
@@ -17139,7 +17144,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "tpote_achievement_6",
@@ -17155,7 +17160,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "tpote_achievement_8",
@@ -17163,7 +17168,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "tpote_achievement_9",
@@ -17171,22 +17176,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17320,
+      "Progressed": 17323,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:06:42.1368709+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:06:08.7353465+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:13.9933566+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:38.6972964+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:06:42.1369492+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:32.7726584+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:06:08.7354228+00:00"
 }

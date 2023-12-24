@@ -35,7 +35,7 @@ Rating: 4.50 (Ranked 603)
 | TRAVELER | 0.10% | ~390 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 389,967 (Ranked 47)  
-Completed: 53 (0.01%) (Ranked 363)  
+Completed: 53 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

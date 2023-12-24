@@ -3,9 +3,9 @@
   "Name": "Striker Manager 3",
   "ProductSlug": "striker-manager-3-83d916",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-29T15:00:00+00:00",
     "PcReleaseDate": "2023-06-29T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-01T07:56:56.5703604+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.0280729+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:12.5078467+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:05:01.8207733+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:02:55.0409328+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:35.5861981+00:00"
 }

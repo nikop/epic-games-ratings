@@ -37,17 +37,17 @@ Rating: 4.29 (Ranked 860)
 | Turquoise | 15.00% | ~31 |
 | The Assistant | 14.00% | ~29 |
 | The Steampunk | 13.00% | ~27 |
+| The Droid | 11.00% | ~23 |
 | Verse | 11.00% | ~23 |
-| The Droid | 10.00% | ~21 |
 | Iron | 10.00% | ~21 |
 | The Bomber | 8.00% | ~17 |
 | Power Overwhelming | 7.00% | ~14 |
 | Highway to Hell | 7.00% | ~14 |
 | Tested | 7.00% | ~14 |
 | The Astronaut | 6.00% | ~12 |
+| Anvil | 6.00% | ~12 |
 | The Exorcist | 5.00% | ~10 |
 | Mithril | 5.00% | ~10 |
-| Anvil | 5.00% | ~10 |
 | Aluminum | 4.00% | ~8 |
 | Analyzed | 3.00% | ~6 |
 | Tongs | 3.00% | ~6 |
@@ -80,7 +80,7 @@ Rating: 4.29 (Ranked 860)
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 207 (Ranked 409)  
-Completed: 1 (0.48%) (Ranked 217)  
+Completed: 1 (0.48%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

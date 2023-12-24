@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~87,948 |
-| Alt+F4 | 10.00% | ~24,430 |
-| Where's that freaking Dwarf? | 9.00% | ~21,987 |
-| Déjà vu | 7.00% | ~17,101 |
-| Sock! SOCK! | 6.00% | ~14,658 |
+| Sowwy! | 36.00% | ~87,951 |
+| Alt+F4 | 10.00% | ~24,431 |
+| Where's that freaking Dwarf? | 9.00% | ~21,988 |
+| Déjà vu | 7.00% | ~17,102 |
+| Sock! SOCK! | 6.00% | ~14,659 |
 | A beer, two curses, three companions | 5.00% | ~12,215 |
 | GG EZ | 5.00% | ~12,215 |
 | Speedrun | 5.00% | ~12,215 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.70% | ~1,710 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,710 |
 | Law and Order | 0.60% | ~1,466 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,221 |
-| It's been a hard day's night | 0.50% | ~1,221 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,222 |
+| It's been a hard day's night | 0.50% | ~1,222 |
 | Friendly fire | 0.40% | ~977 |
 | I'd rather... Just... Sing! | 0.40% | ~977 |
 | Inception | 0.40% | ~977 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,299 (Ranked 66)  
-Completed: 7 (0.00%) (Ranked 386)  
+Progressed: 244,309 (Ranked 66)  
+Completed: 7 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,18 +302,19 @@ Completed: 7 (0.00%) (Ranked 386)
 | 2023-12-21 | 243,905 | 7 |
 | 2023-12-22 | 244,079 | 7 |
 | 2023-12-23 | 244,299 | 7 |
+| 2023-12-24 | 244,309 | 7 |
 ## Awards
 Max (Character Customization): 253  (Ranked 274)  
-Sum: 533 (Ranked 327)  
+Sum: 534 (Ranked 327)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 253 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
+| This game is Highly Recommended | 33 |
 | This game has Amazing Storytelling | 33 |
 | This game has Quickly Understood Controls | 33 |
-| This game is Highly Recommended | 32 |
 | This game has Diverse Characters | 29 |
 | This game has Amazing Characters | 28 |
 | This game is Extremely Fun | 28 |
@@ -520,4 +521,4 @@ Diff (max vs sum): -53
 | 2023-12-19 | 4.59 | - | 249 | 522 |
 | 2023-12-20 | 4.59 | - | 250 | 526 |
 | 2023-12-22 | 4.59 | - | 250 | 529 |
-| 2023-12-23 | 4.59 | - | 253 | 533 |
+| 2023-12-23 | 4.59 | - | 253 | 534 |

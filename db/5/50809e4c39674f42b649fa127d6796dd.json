@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1327,6 +1327,11 @@
       "Time": "2023-12-23T19:04:25.632117+00:00",
       "NumProgressed": 484,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T00:04:52.3829954+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1395,7 +1400,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1435,7 +1440,7 @@
       "Name": "Celestial Rain",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1443,7 +1448,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1491,7 +1496,7 @@
       "Name": "The Beginning",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1658,14 +1663,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:05:19.4136809+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:04:52.3829952+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:31.9644216+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:05:19.4137133+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:03:12.0700975+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:52.3830197+00:00"
 }

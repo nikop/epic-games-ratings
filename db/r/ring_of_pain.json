@@ -6,7 +6,7 @@
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -3748,9 +3748,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241547,
+  "EOS_Progressed": 241551,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29278,6 +29278,11 @@
       "Time": "2023-12-23T23:10:29.8368093+00:00",
       "NumProgressed": 241547,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T00:10:21.7792625+00:00",
+      "NumProgressed": 241551,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29321,7 +29326,7 @@
       "Name": "First Steps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "CURSE1HP",
@@ -29687,9 +29692,9 @@
       "ID": "KILL100",
       "SetID": "5l8oe0h",
       "Name": "Defeat The Dark",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1932
     },
     {
       "ID": "KILL1000",
@@ -30392,13 +30397,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241547,
+      "Progressed": 241551,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3027,
+      "Progressed": 3031,
       "Completed": 411
     }
   ],
@@ -30406,8 +30411,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:29.8368091+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:10:21.7792624+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:23.1397919+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:31.1492011+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:29.8370464+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:26.4243906+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:10:21.7795051+00:00"
 }

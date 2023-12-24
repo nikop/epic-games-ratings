@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4329,9 +4329,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4377,9 +4377,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4448,8 +4448,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:05:32.944695+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:05:04.947819+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:59:32.1133873+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:05:32.944734+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:15.4518112+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:05:04.9478565+00:00"
 }

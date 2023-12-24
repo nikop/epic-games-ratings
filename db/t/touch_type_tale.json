@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3898,
+  "EOS_Progressed": 3899,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -5077,6 +5077,11 @@
       "Time": "2023-12-23T23:04:12.9265595+00:00",
       "NumProgressed": 3898,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-24T00:03:50.1454161+00:00",
+      "NumProgressed": 3899,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5136,7 +5141,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "campaign10",
@@ -5248,7 +5253,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "campaign5",
@@ -5272,7 +5277,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "campaign8",
@@ -5296,7 +5301,7 @@
       "Name": "Do the Splits",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "scenario2",
@@ -5351,7 +5356,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3898,
+      "Progressed": 3899,
       "Completed": 11
     }
   ],
@@ -5359,8 +5364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:04:12.9265591+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:03:50.1454159+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:08.6024939+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:00:06.4025392+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:04:12.9266037+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:48.9785352+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:03:50.1454493+00:00"
 }

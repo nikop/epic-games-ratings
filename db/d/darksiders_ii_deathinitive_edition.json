@@ -2,13 +2,13 @@
   "ID": "091d95ea332843498122beee1a786d71",
   "Name": "Darksiders II Deathinitive Edition",
   "ProductSlug": "darksiders2",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 236,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2015-11-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 827,
   "RatingHistory": [
     {
@@ -736,6 +736,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 601,
       "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-12-23T23:57:18.4102875+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 601,
+      "NumberOfAwardsMax": 393
     }
   ],
   "ReviewsDisabled": false,
@@ -767,8 +773,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
-  "LastChanged": "2023-12-20T16:59:04.3551549+00:00",
+  "LastChanged": "2023-12-23T23:57:18.4102874+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:12.1384253+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:01:20.5092239+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:06:20.5019431+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:18.4102878+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:05:48.6032177+00:00"
 }

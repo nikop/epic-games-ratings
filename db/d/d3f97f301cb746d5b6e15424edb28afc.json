@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 1361,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3858,9 +3858,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 966
+      "UsersEstimate": 980
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -4226,9 +4226,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1075
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -4403,8 +4403,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:05:26.2415395+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:04:58.7364091+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:28.3805948+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:05:26.241622+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:24.0589484+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:58.7364934+00:00"
 }

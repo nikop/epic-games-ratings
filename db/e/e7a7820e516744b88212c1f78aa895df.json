@@ -3,9 +3,9 @@
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1270,6 +1270,11 @@
       "Time": "2023-12-23T10:09:27.6839853+00:00",
       "NumProgressed": 311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T00:09:48.9843581+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1360,9 +1365,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "achSponsor10",
@@ -1505,14 +1510,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:09:54.8007364+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:09:48.9843579+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:13.519956+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:59:21.2309574+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:09:54.8007579+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:05.1574274+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:09:48.984379+00:00"
 }

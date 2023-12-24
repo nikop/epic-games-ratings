@@ -3,9 +3,9 @@
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15863,
+  "EOS_Progressed": 15873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9919,6 +9919,11 @@
       "Time": "2023-12-23T23:04:58.1450293+00:00",
       "NumProgressed": 15863,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T00:04:32.029242+00:00",
+      "NumProgressed": 15873,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10019,7 +10024,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10027,7 +10032,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4127
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10035,7 +10040,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10043,7 +10048,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10122,14 +10127,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 15863,
+      "Progressed": 15873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:04:58.145029+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:04:32.0292416+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.5772532+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:58:56.1319054+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:04:58.1451041+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:58:42.9434998+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:32.0293027+00:00"
 }

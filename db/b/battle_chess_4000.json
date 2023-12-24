@@ -3,9 +3,9 @@
   "Name": "Battle Chess 4000",
   "ProductSlug": "battle-chess-4000-d6d255",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-01T16:00:00+00:00",
     "PcReleaseDate": "2022-07-01T16:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T01:48:38.7304363+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:58:58.4360772+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:06:27.0683657+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:58:44.8735442+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:05:54.1803224+00:00"
 }

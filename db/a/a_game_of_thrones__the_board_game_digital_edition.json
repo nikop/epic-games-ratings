@@ -2,12 +2,12 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31194,
+  "EOS_Progressed": 31196,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27886,6 +27886,11 @@
       "Time": "2023-12-23T23:10:03.6472895+00:00",
       "NumProgressed": 31194,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-24T00:09:57.0057423+00:00",
+      "NumProgressed": 31196,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -27993,7 +27998,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "1028",
@@ -28072,15 +28077,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31194,
+      "Progressed": 31196,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:03.6472891+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:09:57.0057421+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:33.5053041+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:00:42.3354995+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:03.6473964+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:00:21.3913062+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:09:57.0058787+00:00"
 }

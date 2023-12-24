@@ -41,16 +41,17 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.40% | ~27 |
 | The Elder Brahs | 0.40% | ~27 |
 | Good Ol' Days | 0.40% | ~27 |
-| The Bride | 0.30% | ~20 |
-| Drunk and Disorderly: Madison | 0.30% | ~20 |
-| Do Not Burn | 0.30% | ~20 |
-| First Impressions | 0.30% | ~20 |
-| The Harder They Fall...Dood | 0.30% | ~20 |
-| Do You Smell Blood? | 0.30% | ~20 |
-| The Muse: Derek | 0.30% | ~20 |
-| Derezzed | 0.30% | ~20 |
+| The Bride | 0.30% | ~21 |
+| Drunk and Disorderly: Madison | 0.30% | ~21 |
+| Do Not Burn | 0.30% | ~21 |
+| First Impressions | 0.30% | ~21 |
+| The Harder They Fall...Dood | 0.30% | ~21 |
+| Do You Smell Blood? | 0.30% | ~21 |
+| The Muse: Derek | 0.30% | ~21 |
+| Derezzed | 0.30% | ~21 |
 | Beyond the Call of Dude-y | 0.20% | ~14 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
+| I Know Grump-Fu | 0.20% | ~14 |
 | Ronin | 0.20% | ~14 |
 | A Striking Resemblance | 0.20% | ~14 |
 | Howz It Goin Dood | 0.20% | ~14 |
@@ -61,7 +62,6 @@ Number of Ratings: 177  (23.09.2022)
 | D-Club Certified | 0.10% | ~7 |
 | Duck n' Weave | 0.10% | ~7 |
 | Good Riddance! | 0.10% | ~7 |
-| I Know Grump-Fu | 0.10% | ~7 |
 | Hijinks Averted | 0.10% | ~7 |
 | Host Hijinks | 0.10% | ~7 |
 | Hungry Hungry Hot Tubs | 0.10% | ~4 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,833 (Ranked 191)  
-Completed: 3 (0.04%) (Ranked 344)  
+Progressed: 6,837 (Ranked 191)  
+Completed: 3 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 3 (0.04%) (Ranked 344)
 | 2023-12-21 | 6,791 | 3 |
 | 2023-12-22 | 6,811 | 3 |
 | 2023-12-23 | 6,833 | 3 |
+| 2023-12-24 | 6,837 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

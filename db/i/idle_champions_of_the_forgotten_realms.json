@@ -6,7 +6,7 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -9007,10 +9007,10 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 243900,
-  "EOS_Completed": 2557,
-  "EOS_NewPlayers": 2705,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 243924,
+  "EOS_Completed": 2558,
+  "EOS_NewPlayers": 2712,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -36957,6 +36957,11 @@
       "Time": "2023-12-23T23:10:31.4197935+00:00",
       "NumProgressed": 243900,
       "NumCompleted": 2557
+    },
+    {
+      "Time": "2023-12-24T00:10:22.9142287+00:00",
+      "NumProgressed": 243924,
+      "NumCompleted": 2558
     }
   ],
   "TotalAchievements": 546,
@@ -38640,7 +38645,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "objective_completed_34",
@@ -41335,21 +41340,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210174,
+      "Progressed": 210198,
       "Completed": 4059
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 243900,
-      "Completed": 2557
+      "Progressed": 243924,
+      "Completed": 2558
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T21:02:56.5603354+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:31.4197932+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:10:22.9142286+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:52.1318001+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:12.7508478+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:31.4222077+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:02:55.2615793+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:10:22.9165216+00:00"
 }

@@ -1,19 +1,19 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.21 (Ranked 929)  
+Rating: 4.20 (Ranked 936)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~1,504 |
-| Battlefields Have Memories | 80.00% | ~1,367 |
+| Battlefields Have Memories | 81.00% | ~1,384 |
 | Enlisted | 73.00% | ~1,248 |
-| Maybe Engage a Little | 67.00% | ~1,145 |
+| Maybe Engage a Little | 68.00% | ~1,162 |
 | No More Names | 49.00% | ~837 |
 | Initiate | 34.00% | ~581 |
 | Thrada-Kul | 31.00% | ~530 |
+| Gravity-Challenged Rocks | 24.00% | ~410 |
 | Socialite | 23.00% | ~393 |
-| Gravity-Challenged Rocks | 23.00% | ~393 |
 | Soldier | 20.00% | ~342 |
 | All the Major Food Groups | 19.00% | ~325 |
 | Beggars Would Ride | 18.00% | ~308 |
@@ -25,7 +25,7 @@ Rating: 4.21 (Ranked 929)
 | Geas Aristeya | 10.00% | ~171 |
 | A Perfect Cycle | 9.00% | ~154 |
 | Recruit | 9.00% | ~154 |
-| Armsman | 8.00% | ~137 |
+| Armsman | 9.00% | ~154 |
 | Lights Army | 6.00% | ~103 |
 | Periapt Cerulean | 6.00% | ~103 |
 | Good Boy | 6.00% | ~103 |
@@ -40,8 +40,8 @@ Rating: 4.21 (Ranked 929)
 | Veteran | 2.00% | ~34 |
 | Master of Carmine | 1.00% | ~17 |
 | Grand Magnus | 0.90% | ~15 |
+| Master of Ultramarine | 0.80% | ~14 |
 | Tip of the Spear | 0.80% | ~14 |
-| Master of Ultramarine | 0.70% | ~12 |
 | Master of Malachite | 0.60% | ~10 |
 | Shroudfane Surveyor | 0.60% | ~10 |
 | Backtracker | 0.50% | ~9 |
@@ -54,7 +54,7 @@ Rating: 4.21 (Ranked 929)
 | Fowl Play | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,709 (Ranked 244)  
-Completed: 2 (0.12%) (Ranked 297)  
+Completed: 2 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,3 +177,4 @@ Completed: 2 (0.12%) (Ranked 297)
 | 2023-12-20 | 4.22 | 0 | 0 |
 | 2023-12-21 | 4.24 | 0 | 0 |
 | 2023-12-22 | 4.21 | 0 | 0 |
+| 2023-12-24 | 4.20 | 0 | 0 |

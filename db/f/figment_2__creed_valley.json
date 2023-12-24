@@ -3,9 +3,9 @@
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 535,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -310,9 +310,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -326,9 +326,9 @@
       "ID": "fluff_hit_worker_priciple_square",
       "SetID": "7e96e7l",
       "Name": "Whac-a-worker",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fluff_no_wrong_turns_ethics_maze",
@@ -342,9 +342,9 @@
       "ID": "fluff_score_goal",
       "SetID": "7e96e7l",
       "Name": "GOAAAAAAAAAL!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "shards_all_remembranes",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:21.2107308+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:10:13.6880342+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:25.2965916+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:45.9189442+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:21.2107455+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:39.0194219+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:10:13.6880424+00:00"
 }

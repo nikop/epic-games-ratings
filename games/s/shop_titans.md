@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 9.00% | ~13,252 |
 | Titan's First Steps | 9.00% | ~13,252 |
-| Basic in Bulk | 8.00% | ~11,779 |
-| Tinkle of Coins | 8.00% | ~11,779 |
+| Basic in Bulk | 8.00% | ~11,780 |
+| Tinkle of Coins | 8.00% | ~11,780 |
 | Disintermediation | 6.00% | ~8,835 |
 | It's Free Real Estate | 6.00% | ~8,835 |
 | Capitalism Ho! | 6.00% | ~8,835 |
@@ -26,22 +26,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,890 |
 | Dungeon Imports | 4.00% | ~5,890 |
 | Through Repetition, Perfection | 4.00% | ~5,890 |
-| On the Path to Greatness | 3.00% | ~4,417 |
-| Ascended | 3.00% | ~4,417 |
-| Research & Development | 3.00% | ~4,417 |
-| Vanity, Verily | 3.00% | ~4,417 |
-| Blank Page Syndrome | 3.00% | ~4,417 |
-| Demand for Supplies | 3.00% | ~4,417 |
-| Power of Love | 3.00% | ~4,417 |
-| Efficient Floor Space | 3.00% | ~4,417 |
-| Flawless Fusion | 3.00% | ~4,417 |
-| Gem Expert | 3.00% | ~4,417 |
-| Gild-Gotten Goods | 3.00% | ~4,417 |
-| Helping Hand | 3.00% | ~4,417 |
-| Accomplished Merchant | 3.00% | ~4,417 |
-| Natural 20 | 3.00% | ~4,417 |
-| Did we pack lunch? | 3.00% | ~4,417 |
-| Arcane Industries | 3.00% | ~4,417 |
+| On the Path to Greatness | 3.00% | ~4,418 |
+| Ascended | 3.00% | ~4,418 |
+| Research & Development | 3.00% | ~4,418 |
+| Vanity, Verily | 3.00% | ~4,418 |
+| Blank Page Syndrome | 3.00% | ~4,418 |
+| Demand for Supplies | 3.00% | ~4,418 |
+| Power of Love | 3.00% | ~4,418 |
+| Efficient Floor Space | 3.00% | ~4,418 |
+| Flawless Fusion | 3.00% | ~4,418 |
+| Gem Expert | 3.00% | ~4,418 |
+| Gild-Gotten Goods | 3.00% | ~4,418 |
+| Helping Hand | 3.00% | ~4,418 |
+| Accomplished Merchant | 3.00% | ~4,418 |
+| Natural 20 | 3.00% | ~4,418 |
+| Did we pack lunch? | 3.00% | ~4,418 |
+| Arcane Industries | 3.00% | ~4,418 |
 | A Notch Above the Rest | 2.00% | ~2,945 |
 | Cream of the Crop | 2.00% | ~2,945 |
 | Top of the World | 2.00% | ~2,945 |
@@ -110,17 +110,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.80% | ~1,178 |
 | Bane of Legends | 0.70% | ~1,031 |
 | Anything not Nailed Down | 0.70% | ~1,031 |
-| Ultimate Collector | 0.60% | ~883 |
-| Unleashed Potential | 0.60% | ~883 |
-| JACKPOT!!! | 0.60% | ~883 |
+| Ultimate Collector | 0.60% | ~884 |
+| Unleashed Potential | 0.60% | ~884 |
+| JACKPOT!!! | 0.60% | ~884 |
 | Oligarch Monarch | 0.50% | ~736 |
 | Merchant Extraordinaire | 0.50% | ~736 |
 | To Hell and Back | 0.40% | ~589 |
 | Cash Only Please | 0.40% | ~589 |
 | Capitalist Camaraderie | 0.20% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,242 (Ranked 83)  
-Completed: 331 (0.22%) (Ranked 267)  
+Progressed: 147,250 (Ranked 83)  
+Completed: 331 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -367,6 +367,7 @@ Completed: 331 (0.22%) (Ranked 267)
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
+| 2023-12-24 | 147,250 | 331 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
 Sum: 27,793 (Ranked 51)  

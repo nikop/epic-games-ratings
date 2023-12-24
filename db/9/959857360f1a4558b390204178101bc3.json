@@ -3,9 +3,9 @@
   "Name": "Cave Digger 2",
   "ProductSlug": "cave-digger-2-4f2a94",
   "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-14T22:00:00+00:00",
     "PcReleaseDate": "2023-11-14T22:00:00+00:00",
@@ -293,8 +293,8 @@
   ],
   "FirstSeen": "2023-11-16T11:57:58.3391653+00:00",
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:09:34.1148968+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:09:29.7643433+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.6450137+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:21.1132933+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:09:34.1149197+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:03:02.6136576+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:09:29.7643782+00:00"
 }

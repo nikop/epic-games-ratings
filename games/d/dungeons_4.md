@@ -64,10 +64,10 @@
 | Laser Eyes Are So Useless | 12.00% | ~75 |
 | Hands Off My Stones | 12.00% | ~75 |
 | No Mana, No Cry | 10.00% | ~62 |
-| I Don't Need Any Help | 8.00% | ~50 |
+| I Don't Need Any Help | 9.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 624 (Ranked 316)  
-Completed: 21 (3.37%) (Ranked 101)  
+Completed: 21 (3.37%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

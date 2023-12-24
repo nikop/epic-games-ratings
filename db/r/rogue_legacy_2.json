@@ -6,9 +6,9 @@
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26474,
+  "EOS_Progressed": 26476,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1697,
+  "EOS_NewPlayers": 1695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11617,6 +11617,11 @@
       "Time": "2023-12-23T23:10:06.5700719+00:00",
       "NumProgressed": 26474,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-24T00:09:59.844042+00:00",
+      "NumProgressed": 26476,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11788,7 +11793,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -11804,7 +11809,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "BoxerBoss",
@@ -11939,21 +11944,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26474,
+      "Progressed": 26476,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5404,
+      "Progressed": 5406,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:06.5700717+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:09:59.8440417+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:00:31.862183+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:06.5701316+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:00:11.6198792+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:09:59.8441131+00:00"
 }

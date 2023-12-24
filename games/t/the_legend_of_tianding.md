@@ -32,7 +32,7 @@
 | The Legend | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 534)  
-Completed: 4 (8.00%) (Ranked 49)  
+Completed: 4 (8.00%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

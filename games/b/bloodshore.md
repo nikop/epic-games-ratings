@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Um, ok... | 52.00% | ~130 |
-| Super Seducer | 50.00% | ~125 |
-| Congratulations, you are a sadist | 47.00% | ~118 |
-| Superstar-crossed lovers | 39.00% | ~98 |
+| Super Seducer | 51.00% | ~128 |
+| Congratulations, you are a sadist | 48.00% | ~120 |
+| Superstar-crossed lovers | 40.00% | ~100 |
 | A leader, you are not | 34.00% | ~85 |
 | Comedy Killer | 32.00% | ~80 |
 | Good job, nerd | 32.00% | ~80 |
@@ -22,8 +22,8 @@
 | That's my boy! | 4.00% | ~10 |
 | We tried to warn you! | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 394)  
-Completed: 6 (2.40%) (Ranked 128)  
+Progressed: 250 (Ranked 395)  
+Completed: 6 (2.40%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

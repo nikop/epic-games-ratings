@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -972,9 +972,9 @@
       "ID": "CLG_UNLOCK_10008",
       "SetID": "89cjc9l",
       "Name": "The Droid",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "CLG_UNLOCK_10009",
@@ -1396,9 +1396,9 @@
       "ID": "PRG_NORMAL_10009",
       "SetID": "89cjc9l",
       "Name": "Anvil",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "PRG_NORMAL_10010",
@@ -1437,8 +1437,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:06:32.754486+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:05:59.5480606+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.6590268+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:58:08.715295+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:06:32.7545394+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:58:00.649769+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:05:59.5481287+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1798,6 +1798,11 @@
       "Time": "2023-12-23T15:03:38.1069016+00:00",
       "NumProgressed": 641,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T00:03:57.0691313+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1857,7 +1862,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Chapter4",
@@ -1913,7 +1918,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "Collectibles2",
@@ -1983,9 +1988,9 @@
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 167
     },
     {
       "ID": "Murderer",
@@ -2096,14 +2101,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:04:20.4324445+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:03:57.0691312+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:48:23.8581095+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:57.0500995+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:04:20.4324687+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:49.6786587+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:03:57.0691538+00:00"
 }

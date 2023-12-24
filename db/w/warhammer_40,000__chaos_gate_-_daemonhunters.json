@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 458,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 334,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,7 +795,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3552,
+  "EOS_Progressed": 3553,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -4750,6 +4750,11 @@
       "Time": "2023-12-23T23:04:58.6364236+00:00",
       "NumProgressed": 3552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T00:04:32.6715163+00:00",
+      "NumProgressed": 3553,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4823,9 +4828,9 @@
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "Dominus",
@@ -4927,9 +4932,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 355
     },
     {
       "ID": "Kills_Bleed",
@@ -5304,21 +5309,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3552,
+      "Progressed": 3553,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3552,
+      "Progressed": 3553,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:04:58.6364232+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:04:32.6715161+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:54.7152084+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:03:34.5602148+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:04:58.6364817+00:00"
+  "LastUpdate_Ratings": "2023-12-24T00:03:14.4760439+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:32.6715827+00:00"
 }

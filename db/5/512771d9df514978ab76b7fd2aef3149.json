@@ -3,9 +3,9 @@
   "Name": "Endless Memories",
   "ProductSlug": "endless-memories-1ccb13",
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 386,
+  "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-01T14:00:00+00:00",
     "PcReleaseDate": "2022-11-18T06:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-17T14:56:50.0588726+00:00",
-  "LastUpdate_Ratings": "2023-12-23T23:00:03.0727405+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:13.2641003+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:45.958727+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:10:06.2429421+00:00"
 }

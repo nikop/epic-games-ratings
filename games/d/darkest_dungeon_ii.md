@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~432 |
-| Lost and Found | 6.00% | ~259 |
-| Autodidact | 5.00% | ~6,472 |
+| Malpractice Assurance | 10.00% | ~433 |
+| Lost and Found | 6.00% | ~260 |
+| Autodidact | 5.00% | ~6,473 |
 | This guy... again? | 5.00% | ~216 |
 | This Belongs in a Museum | 4.00% | ~5,178 |
 | Creep and Sleep | 4.00% | ~5,178 |
@@ -16,17 +16,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,178 |
 | Ploughshares to Swords | 4.00% | ~173 |
 | Bloody Graduation | 4.00% | ~173 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,883 |
-| Serenity Now! | 3.00% | ~3,883 |
-| It Rings a Bell | 3.00% | ~3,883 |
-| Not Today! | 3.00% | ~3,883 |
-| Meat and Greet | 3.00% | ~3,883 |
-| Catch and Decease | 3.00% | ~3,883 |
-| It Happens | 3.00% | ~3,883 |
-| Rush Hour | 3.00% | ~3,883 |
-| To Grandmother's House | 3.00% | ~3,883 |
-| A Place to Lay Your Head | 3.00% | ~3,883 |
-| FNG | 3.00% | ~3,883 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,884 |
+| Serenity Now! | 3.00% | ~3,884 |
+| It Rings a Bell | 3.00% | ~3,884 |
+| Not Today! | 3.00% | ~3,884 |
+| Meat and Greet | 3.00% | ~3,884 |
+| Catch and Decease | 3.00% | ~3,884 |
+| It Happens | 3.00% | ~3,884 |
+| Rush Hour | 3.00% | ~3,884 |
+| To Grandmother's House | 3.00% | ~3,884 |
+| A Place to Lay Your Head | 3.00% | ~3,884 |
+| FNG | 3.00% | ~3,884 |
 | Friends 'Til the End | 3.00% | ~130 |
 | Resurrection | 2.00% | ~2,589 |
 | Unleash Hell | 2.00% | ~2,589 |
@@ -52,13 +52,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 2.00% | ~2,589 |
 | Unshackled | 2.00% | ~2,589 |
 | Road Trip | 2.00% | ~2,589 |
-| This Looks Familiar | 1.00% | ~1,294 |
-| Hope Rekindled | 1.00% | ~1,294 |
-| Ichthyophobic | 1.00% | ~1,294 |
-| No More Mouths to Feed | 1.00% | ~1,294 |
-| Worldly Traveller | 1.00% | ~1,294 |
-| Hot Air | 1.00% | ~1,294 |
-| Eyes Up | 1.00% | ~1,294 |
+| This Looks Familiar | 1.00% | ~1,295 |
+| Hope Rekindled | 1.00% | ~1,295 |
+| Ichthyophobic | 1.00% | ~1,295 |
+| No More Mouths to Feed | 1.00% | ~1,295 |
+| Worldly Traveller | 1.00% | ~1,295 |
+| Hot Air | 1.00% | ~1,295 |
+| Eyes Up | 1.00% | ~1,295 |
 | Slap on the Wrist | 0.90% | ~39 |
 | For Old Time' Sake | 0.90% | ~39 |
 | Handled | 0.80% | ~1,036 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~129 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,448 (Ranked 87)  
-Completed: 3 (0.00%) (Ranked 386)  
+Progressed: 129,458 (Ranked 87)  
+Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,6 +324,7 @@ Completed: 3 (0.00%) (Ranked 386)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
+| 2023-12-24 | 129,458 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
 Sum: 21,001 (Ranked 58)  

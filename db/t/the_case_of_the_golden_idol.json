@@ -2,10 +2,10 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 403,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.59,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -921,6 +921,11 @@
       "Time": "2023-12-22T12:04:35.3153086+00:00",
       "NumProgressed": 223,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-24T00:04:46.1838116+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -932,7 +937,7 @@
       "Name": "Solved first case",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "1",
@@ -1018,9 +1023,9 @@
       "ID": "11",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 1st Case",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "12",
@@ -1052,7 +1057,7 @@
       "Name": "Solved the Lemurian Vampire 2nd Case",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "16",
@@ -1067,13 +1072,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 109
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:05:13.3022344+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:04:46.1838114+00:00",
   "LastUpdate_AppInfo": "2023-12-16T23:57:15.2411406+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:57:36.856171+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:05:13.3022481+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:57:31.6740087+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:04:46.1838241+00:00"
 }

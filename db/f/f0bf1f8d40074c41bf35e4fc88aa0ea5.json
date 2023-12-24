@@ -3,9 +3,9 @@
   "Name": "Argol - Kronoss\u0027 Castle",
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 687,
-  "Ranking_EOS_Completed": 386,
-  "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_NewPlayers": 470,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-24T23:30:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 4,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2023-12-20T22:04:50.3148671+00:00",
@@ -47,6 +47,11 @@
       "Time": "2023-12-23T19:04:48.9629727+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T00:05:15.5691103+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-20T12:04:22.9309924+00:00",
@@ -57,121 +62,121 @@
       "ID": "BAD_END",
       "SetID": "d0gblle",
       "Name": "Shadow Lord",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CERBERUS",
       "SetID": "d0gblle",
       "Name": "Scary dog",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEIMOS",
       "SetID": "d0gblle",
       "Name": "Evil twin",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GOLD",
       "SetID": "d0gblle",
       "Name": "King Midas",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GOLD_KEY",
       "SetID": "d0gblle",
       "Name": "Gate of time",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GOOD_END",
       "SetID": "d0gblle",
       "Name": "Beloved",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 125,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GUARDIAN",
       "SetID": "d0gblle",
       "Name": "Hellfire",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEART",
       "SetID": "d0gblle",
       "Name": "Invincible",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KRONOSS",
       "SetID": "d0gblle",
       "Name": "Time Lord",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LYRA",
       "SetID": "d0gblle",
       "Name": "Orpheus",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEDUSA",
       "SetID": "d0gblle",
       "Name": "Perseus",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PEGASUS",
       "SetID": "d0gblle",
       "Name": "Wing of Vengeance",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PHOBOS",
       "SetID": "d0gblle",
       "Name": "Evil soul",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRISONER",
       "SetID": "d0gblle",
       "Name": "Brave heart",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THANATOS",
       "SetID": "d0gblle",
       "Name": "Master of death",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VAMPYRE_QUEEN",
@@ -187,12 +192,12 @@
       "ID": "d0gblle",
       "IsBase": true,
       "Progressed": 4,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:05:44.2956529+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:05:15.5691102+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:12.3792891+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:59:44.2609066+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:05:44.2956608+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:27.0365469+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:05:15.5691164+00:00"
 }

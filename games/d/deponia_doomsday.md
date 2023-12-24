@@ -5,13 +5,13 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~427 |
-| And again, and again, and... | 64.00% | ~318 |
-| Burn, Elysium, burn! | 63.00% | ~313 |
-| Kuvaq Minigame-Master | 62.00% | ~308 |
-| FunScore | 55.00% | ~273 |
-| Funtime's over | 53.00% | ~263 |
-| Chunky | 50.00% | ~248 |
+| Huzza, he's back. | 86.00% | ~428 |
+| And again, and again, and... | 64.00% | ~319 |
+| Kuvaq Minigame-Master | 62.00% | ~309 |
+| Burn, Elysium, burn! | 62.00% | ~309 |
+| FunScore | 55.00% | ~274 |
+| Funtime's over | 53.00% | ~264 |
+| Chunky | 50.00% | ~249 |
 | Shall we play a game? | 48.00% | ~239 |
 | Boat of love, boat of love | 48.00% | ~239 |
 | School's out | 44.00% | ~219 |
@@ -21,9 +21,9 @@ Rating: 4.55 (Ranked 512)
 | Portals come in packs | 30.00% | ~149 |
 | No man left behind! | 29.00% | ~144 |
 | Photo Friend | 26.00% | ~129 |
-| Brainfreeze | 20.00% | ~99 |
-| And everything comes full circle. | 20.00% | ~99 |
-| Masseltov | 19.00% | ~94 |
+| Brainfreeze | 20.00% | ~100 |
+| And everything comes full circle. | 20.00% | ~100 |
+| Masseltov | 19.00% | ~95 |
 | Quickdraw | 15.00% | ~75 |
 | Thuna...? | 14.00% | ~70 |
 | Monstrous Harassment | 14.00% | ~70 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 512)
 | Distraction | 5.00% | ~25 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 331)  
-Completed: 7 (1.41%) (Ranked 150)  
+Progressed: 498 (Ranked 331)  
+Completed: 7 (1.41%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,6 +138,7 @@ Completed: 7 (1.41%) (Ranked 150)
 | 2023-12-21 | 494 | 7 |
 | 2023-12-22 | 496 | 7 |
 | 2023-12-23 | 497 | 7 |
+| 2023-12-24 | 498 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 819,
+  "EOS_Progressed": 821,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2511,6 +2511,11 @@
       "Time": "2023-12-23T19:10:06.5239287+00:00",
       "NumProgressed": 819,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T00:10:14.1087772+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2714,7 +2719,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TheGuardian",
@@ -2762,7 +2767,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "YagaProfessional",
@@ -2777,7 +2782,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 819,
+      "Progressed": 821,
       "Completed": 1
     }
   ],
@@ -2785,8 +2790,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-23T23:10:21.6626849+00:00",
+  "LastChanged_Achievements": "2023-12-24T00:10:14.108777+00:00",
   "LastUpdate_AppInfo": "2023-12-17T01:49:13.6567295+00:00",
-  "LastUpdate_Ratings": "2023-12-23T22:59:40.3396996+00:00",
-  "LastUpdate_Achievements": "2023-12-23T23:10:21.6627075+00:00"
+  "LastUpdate_Ratings": "2023-12-23T23:59:23.1824341+00:00",
+  "LastUpdate_Achievements": "2023-12-24T00:10:14.1088076+00:00"
 }
