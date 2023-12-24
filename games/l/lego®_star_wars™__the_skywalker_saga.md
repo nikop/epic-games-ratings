@@ -6,53 +6,53 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~52,621 |
-| ''I don't like you either!'' | 78.00% | ~42,755 |
-| ''Impressive, most impressive'' | 70.00% | ~38,370 |
-| ''You think you're some kind of Jedi?'' | 70.00% | ~38,370 |
-| The Phantom Menace | 58.00% | ~31,792 |
-| ''Aggressive Negotiations'' | 57.00% | ~31,244 |
-| ''I can fly anything'' | 56.00% | ~30,696 |
-| ''And who gave you permission...?'' | 52.00% | ~28,503 |
-| A New Hope | 47.00% | ~25,763 |
-| Attack of the Clones | 45.00% | ~24,666 |
-| Revenge of the Sith | 39.00% | ~21,377 |
-| The Empire Strikes Back | 37.00% | ~20,281 |
-| ''A fine addition to my collection'' | 37.00% | ~20,281 |
-| Return of the Jedi | 31.00% | ~16,992 |
-| The Force Awakens | 26.00% | ~14,252 |
-| The Last Jedi | 22.00% | ~12,059 |
-| The Rise of Skywalker | 19.00% | ~10,415 |
-| ''It's true... all of it'' | 18.00% | ~9,867 |
-| ''Get the crews to their fighters'' | 18.00% | ~9,867 |
-| ''Raw, untamed power'' | 8.00% | ~4,385 |
+| ''You guys got yourself a ship!'' | 96.00% | ~52,634 |
+| ''I don't like you either!'' | 78.00% | ~42,765 |
+| ''Impressive, most impressive'' | 70.00% | ~38,379 |
+| ''You think you're some kind of Jedi?'' | 70.00% | ~38,379 |
+| The Phantom Menace | 58.00% | ~31,800 |
+| ''Aggressive Negotiations'' | 57.00% | ~31,251 |
+| ''I can fly anything'' | 56.00% | ~30,703 |
+| ''And who gave you permission...?'' | 52.00% | ~28,510 |
+| A New Hope | 47.00% | ~25,769 |
+| Attack of the Clones | 45.00% | ~24,672 |
+| Revenge of the Sith | 39.00% | ~21,383 |
+| The Empire Strikes Back | 37.00% | ~20,286 |
+| ''A fine addition to my collection'' | 36.00% | ~19,738 |
+| Return of the Jedi | 31.00% | ~16,996 |
+| The Force Awakens | 26.00% | ~14,255 |
+| The Last Jedi | 22.00% | ~12,062 |
+| The Rise of Skywalker | 19.00% | ~10,417 |
+| ''It's true... all of it'' | 18.00% | ~9,869 |
+| ''Get the crews to their fighters'' | 18.00% | ~9,869 |
+| ''Raw, untamed power'' | 8.00% | ~4,386 |
 | Rishi Maze | 5.00% | ~2,741 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,741 |
-| ''You may fire when ready'' | 3.00% | ~1,644 |
-| ''What have you done with those plans?'' | 3.00% | ~1,644 |
-| ''GONK!'' | 3.00% | ~1,644 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,644 |
-| The Slice | 3.00% | ~1,644 |
-| ''Hello there!'' | 2.00% | ~1,096 |
-| Unknown Regions | 2.00% | ~1,096 |
-| ''Do or do not. There is no try'' | 2.00% | ~1,096 |
-| ''See you around, kid'' | 2.00% | ~1,096 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,096 |
-| Greater Javin | 2.00% | ~1,096 |
-| New Territories | 2.00% | ~1,096 |
-| The Interior | 2.00% | ~1,096 |
-| Western Reaches | 2.00% | ~1,096 |
-| Trailing Sectors | 2.00% | ~1,096 |
-| The Arkanis Sector | 2.00% | ~1,096 |
-| ''A little short for a Stormtrooper...'' | 2.00% | ~1,096 |
-| ''Power! Unlimited power!'' | 2.00% | ~1,096 |
-| ''No more training, do you require'' | 2.00% | ~1,096 |
-| ''You needn't worry about your reward'' | 2.00% | ~1,096 |
-| ''Now I am the Master'' | 2.00% | ~1,096 |
+| ''You may fire when ready'' | 3.00% | ~1,645 |
+| ''What have you done with those plans?'' | 3.00% | ~1,645 |
+| ''GONK!'' | 3.00% | ~1,645 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,645 |
+| The Slice | 3.00% | ~1,645 |
+| ''Hello there!'' | 2.00% | ~1,097 |
+| Unknown Regions | 2.00% | ~1,097 |
+| ''Do or do not. There is no try'' | 2.00% | ~1,097 |
+| ''See you around, kid'' | 2.00% | ~1,097 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,097 |
+| Greater Javin | 2.00% | ~1,097 |
+| New Territories | 2.00% | ~1,097 |
+| The Interior | 2.00% | ~1,097 |
+| Western Reaches | 2.00% | ~1,097 |
+| Trailing Sectors | 2.00% | ~1,097 |
+| The Arkanis Sector | 2.00% | ~1,097 |
+| ''A little short for a Stormtrooper...'' | 2.00% | ~1,097 |
+| ''Power! Unlimited power!'' | 2.00% | ~1,097 |
+| ''No more training, do you require'' | 2.00% | ~1,097 |
+| ''You needn't worry about your reward'' | 2.00% | ~1,097 |
+| ''Now I am the Master'' | 2.00% | ~1,097 |
 | ''Jedi Business'' | 1.00% | ~548 |
 | ''I've never seen a real one!'' | 1.00% | ~548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,814 (Ranked 118)  
+Progressed: 54,827 (Ranked 118)  
 Completed: 254 (0.46%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 254 (0.46%) (Ranked 221)
 | 2023-12-21 | 54,131 | 253 |
 | 2023-12-22 | 54,369 | 253 |
 | 2023-12-23 | 54,623 | 253 |
-| 2023-12-24 | 54,814 | 254 |
+| 2023-12-24 | 54,827 | 254 |
 ## Awards
 Max (Great Boss Battles): 2,465  (Ranked 106)  
 Sum: 6,757 (Ranked 127)  

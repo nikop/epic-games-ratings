@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 302,
+  "EOS_Progressed": 303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-12-24T11:09:45.6387917+00:00",
       "NumProgressed": 302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T20:11:06.1818064+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1331,7 +1336,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achBett",
@@ -1369,9 +1374,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "achCity",
@@ -1507,7 +1512,7 @@
       "Name": "Fright \u2714",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achLizun",
@@ -1706,7 +1711,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 302,
+      "Progressed": 303,
       "Completed": 0
     }
   ],
@@ -1714,8 +1719,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:10:21.3365056+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:11:06.1818059+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.5149396+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:00:24.4966368+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:10:21.3365401+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:01:22.371139+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:11:06.1818525+00:00"
 }

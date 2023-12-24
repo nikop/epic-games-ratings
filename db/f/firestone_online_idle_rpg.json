@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1013,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -657,7 +657,7 @@
   ],
   "EOS_Progressed": 3766,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11343,8 +11343,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T22:58:35.5003837+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:08:45.919681+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:09:06.5884418+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:59.234159+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:08:45.9197924+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:00:50.8575403+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:09:06.5885348+00:00"
 }

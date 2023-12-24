@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~66 |
-| Enough rooms to swing a cat | 84.00% | ~63 |
-| First to the post | 83.00% | ~62 |
-| A kind of Magic | 77.00% | ~58 |
-| Connected | 69.00% | ~52 |
-| Expansion | 65.00% | ~49 |
-| Mine! | 60.00% | ~45 |
-| Harvest Time | 59.00% | ~44 |
-| Artificer's Apprentice | 52.00% | ~39 |
-| Fly the friendly Sky | 48.00% | ~36 |
+| Home Sweet Home | 88.00% | ~67 |
+| Enough rooms to swing a cat | 84.00% | ~64 |
+| First to the post | 82.00% | ~62 |
+| A kind of Magic | 76.00% | ~58 |
+| Connected | 68.00% | ~52 |
+| Expansion | 64.00% | ~49 |
+| Mine! | 59.00% | ~45 |
+| Harvest Time | 58.00% | ~44 |
+| Artificer's Apprentice | 51.00% | ~39 |
+| Fly the friendly Sky | 47.00% | ~36 |
 | Get out of here! | 45.00% | ~34 |
 | Necromancer's Apprentice | 41.00% | ~31 |
-| Alchemist's Apprentice | 40.00% | ~30 |
-| Friend of Lyraine | 40.00% | ~30 |
+| Alchemist's Apprentice | 39.00% | ~30 |
+| Friend of Lyraine | 39.00% | ~30 |
 | The Circle | 36.00% | ~27 |
 | Redecorating | 33.00% | ~25 |
 | Bad JuJu | 25.00% | ~19 |
-| Friend of Sevenkeeps | 23.00% | ~17 |
+| Friend of Sevenkeeps | 22.00% | ~17 |
 | Slave to the rhythm | 21.00% | ~16 |
 | Castle Meldec | 21.00% | ~16 |
-| Sevenkeeps Seat of Kings | 19.00% | ~14 |
+| Sevenkeeps Seat of Kings | 18.00% | ~14 |
 | Break Free | 17.00% | ~13 |
 | Friend of Alluvyan | 16.00% | ~12 |
 | Friend of Connach | 16.00% | ~12 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 505)  
+Progressed: 76 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-20 | 66 | 0 |
 | 2023-12-21 | 70 | 0 |
 | 2023-12-22 | 71 | 0 |
-| 2023-12-24 | 75 | 0 |
+| 2023-12-24 | 76 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

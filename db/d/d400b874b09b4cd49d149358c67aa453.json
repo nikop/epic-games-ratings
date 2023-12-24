@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 596,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2089,6 +2089,11 @@
       "Time": "2023-12-24T17:07:10.8322592+00:00",
       "NumProgressed": 595,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T20:06:48.8017925+00:00",
+      "NumProgressed": 596,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2149,7 +2154,7 @@
       "Name": "I love customers",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2165,7 +2170,7 @@
       "Name": "I can fix that",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2245,7 +2250,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2269,7 +2274,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2308,14 +2313,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 596,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:05:35.8768708+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:06:48.8017919+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.6062309+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:45.5726395+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:35.876889+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:57:54.4094931+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:48.8018172+00:00"
 }

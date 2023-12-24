@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2948,
+  "EOS_Progressed": 2950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7177,6 +7177,11 @@
       "Time": "2023-12-24T19:04:42.8009614+00:00",
       "NumProgressed": 2948,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T20:05:40.8387745+00:00",
+      "NumProgressed": 2950,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7189,7 +7194,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7197,7 +7202,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7205,7 +7210,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -7229,7 +7234,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -7253,7 +7258,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -7261,7 +7266,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7397,7 +7402,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7443,9 +7448,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7453,7 +7458,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -7525,7 +7530,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -7541,7 +7546,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7580,14 +7585,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2948,
+      "Progressed": 2950,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:42.800961+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:05:40.8387739+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:24.1762206+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:42.8010367+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:57:27.9708247+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:05:40.8388368+00:00"
 }

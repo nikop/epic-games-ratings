@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 9.28,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2014,6 +2014,11 @@
       "Time": "2023-12-24T15:10:01.1738924+00:00",
       "NumProgressed": 430,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-12-24T20:09:37.6346782+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 6,
@@ -2025,15 +2030,15 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 271
+      "UsersEstimate": 276
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2041,7 +2046,7 @@
       "Name": "Viola Organista",
       "Percentage": 48,
       "XP": 165,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -2072,14 +2077,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 40
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:09:10.420117+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:09:37.6346777+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.5196626+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:01.3028049+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:09:10.4201405+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:35.4363637+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:09:37.6346953+00:00"
 }

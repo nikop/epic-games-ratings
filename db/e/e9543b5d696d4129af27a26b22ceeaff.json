@@ -2,10 +2,10 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -276,9 +276,9 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:05:25.7504615+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:06:35.2991614+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.6689285+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:02:58.3858022+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:25.75048+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:03:26.7260597+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:35.2991801+00:00"
 }

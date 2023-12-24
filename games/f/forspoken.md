@@ -5,18 +5,18 @@ Rating: 4.10 (Ranked 989)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,957 |
+| Attachments | 11.00% | ~4,958 |
 | Unlocked Potential | 10.00% | ~4,507 |
-| Tinkerer | 8.00% | ~3,605 |
+| Tinkerer | 8.00% | ~3,606 |
 | Leapfrogger | 7.00% | ~3,155 |
 | Knock 'Em Dead | 7.00% | ~3,155 |
 | Pilgrimage: Initiate | 7.00% | ~3,155 |
 | Hell of a Run | 7.00% | ~3,155 |
 | Call of the Fount: Baptized | 6.00% | ~2,704 |
-| Stuck | 5.00% | ~2,253 |
-| No Mercy | 5.00% | ~2,253 |
-| Explorer: Seeker | 5.00% | ~2,253 |
-| Help Me Out Here | 5.00% | ~2,253 |
+| Stuck | 5.00% | ~2,254 |
+| No Mercy | 5.00% | ~2,254 |
+| Explorer: Seeker | 5.00% | ~2,254 |
+| Help Me Out Here | 5.00% | ~2,254 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,803 |
 | Outdoorsperson | 3.00% | ~1,352 |
 | The Interloper | 3.00% | ~1,352 |
@@ -34,8 +34,8 @@ Rating: 4.10 (Ranked 989)
 | None the Wiser | 1.00% | ~451 |
 | Forspoken | 1.00% | ~451 |
 | Pilgrimage: Novice | 1.00% | ~451 |
-| Wildfire | 0.70% | ~315 |
-| Realized Potential | 0.70% | ~315 |
+| Wildfire | 0.70% | ~316 |
+| Realized Potential | 0.70% | ~316 |
 | Awakening | 0.60% | ~270 |
 | Explorer: Trailblazer | 0.60% | ~270 |
 | Through the Eyes of Another: Seer | 0.40% | ~180 |
@@ -59,7 +59,7 @@ Rating: 4.10 (Ranked 989)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,066 (Ranked 121)  
+Progressed: 45,072 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 3 (0.01%) (Ranked 365)
 | 2023-12-21 | 44,679 | 3 |
 | 2023-12-22 | 44,804 | 3 |
 | 2023-12-23 | 44,956 | 3 |
-| 2023-12-24 | 45,066 | 3 |
+| 2023-12-24 | 45,072 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
-Sum: 33 (Ranked 527)  
-Diff (max vs sum): -21  
+Sum: 33 (Ranked 528)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 33 |

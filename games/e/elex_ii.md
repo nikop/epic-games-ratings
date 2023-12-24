@@ -6,29 +6,29 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 26.00% | ~22 |
-| Best Buddy | 25.00% | ~21 |
-| Role Model | 20.00% | ~17 |
-| Civilian | 18.00% | ~15 |
+| Entrepreneur | 25.00% | ~22 |
+| Best Buddy | 25.00% | ~22 |
+| Role Model | 19.00% | ~17 |
+| Civilian | 17.00% | ~15 |
 | Creator | 14.00% | ~12 |
 | Military Leader | 13.00% | ~11 |
 | Long-Haul Flyer | 9.00% | ~8 |
 | Peddler | 8.00% | ~7 |
+| Commander | 8.00% | ~7 |
 | Berserker | 7.00% | ~6 |
-| Commander | 7.00% | ~6 |
 | Festival-goer | 7.00% | ~6 |
 | Family Reunion | 7.00% | ~6 |
 | Irissa's Fate | 7.00% | ~6 |
 | Pass A38 | 7.00% | ~6 |
 | Hotshot | 6.00% | ~5 |
+| Eternal Oblivion | 6.00% | ~5 |
 | Storyteller | 5.00% | ~4 |
 | Globetrotter | 5.00% | ~4 |
 | Self-Sufficient | 5.00% | ~4 |
 | Free as a Bird | 5.00% | ~4 |
 | Unbreakable | 5.00% | ~4 |
 | Alb | 5.00% | ~4 |
-| Eternal Oblivion | 5.00% | ~4 |
-| Cleric | 4.00% | ~3 |
+| Cleric | 3.00% | ~3 |
 | Idealist | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Alchemist | 1.00% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 495)  
+Progressed: 88 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 48 | 0 |
 | 2023-12-22 | 67 | 0 |
 | 2023-12-23 | 75 | 0 |
-| 2023-12-24 | 85 | 0 |
+| 2023-12-24 | 88 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

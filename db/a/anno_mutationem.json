@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1078,6 +1078,11 @@
       "Time": "2023-12-23T06:06:09.6795979+00:00",
       "NumProgressed": 795,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T20:04:57.7334715+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1255,9 +1260,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 605
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1265,7 +1270,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "The Traveler",
@@ -1353,7 +1358,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "posters",
@@ -1376,7 +1381,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 0
     }
   ],
@@ -1384,8 +1389,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-09T07:59:55.495838+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:08.9143797+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:04:57.7334708+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.7389862+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:02:52.1479489+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:08.9144021+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:03:18.2918465+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:04:57.7334945+00:00"
 }

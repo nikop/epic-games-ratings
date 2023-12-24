@@ -11,14 +11,14 @@ Rating: 4.50 (Ranked 601)
 | Notai Notes | 66.00% | ~872 |
 | Blue Dreams | 65.00% | ~859 |
 | He's Famous! | 65.00% | ~859 |
+| Cutie Poro | 65.00% | ~859 |
 | Krugmazing | 64.00% | ~845 |
-| Cutie Poro | 64.00% | ~845 |
 | Moneyball | 60.00% | ~793 |
 | The Fire Below the Mountain | 60.00% | ~793 |
 | Iceborn | 55.00% | ~727 |
 | No Bites | 54.00% | ~713 |
+| Boom Things | 53.00% | ~700 |
 | Tear of Freedom | 52.00% | ~687 |
-| Boom Things | 52.00% | ~687 |
 | My Darkest Day | 48.00% | ~634 |
 | Rhythm Of Willump | 46.00% | ~608 |
 | The Relentless Storm | 46.00% | ~608 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -53,7 +53,7 @@
   "Tags": [],
   "EOS_Progressed": 1090,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3297,9 +3297,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 262
     },
     {
       "ID": "MapCompletion1",
@@ -3385,9 +3385,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 262
     },
     {
       "ID": "RewindDamage1",
@@ -3457,9 +3457,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 131
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3538,8 +3538,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:10:14.191692+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:10:57.8233946+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:51.336278+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:10:14.1917348+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:58:02.5724757+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:10:57.8234442+00:00"
 }

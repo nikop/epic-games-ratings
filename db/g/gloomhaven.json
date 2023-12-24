@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2741,9 +2741,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 28502,
+  "EOS_Progressed": 28503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1471,
+  "EOS_NewPlayers": 1452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14281,6 +14281,11 @@
       "Time": "2023-12-24T19:09:34.6546204+00:00",
       "NumProgressed": 28502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T20:10:08.3347294+00:00",
+      "NumProgressed": 28503,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14581,7 +14586,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6840
+      "UsersEstimate": 6841
     },
     {
       "ID": "Achievement_Trophy38",
@@ -14589,7 +14594,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4845
+      "UsersEstimate": 4846
     },
     {
       "ID": "Achievement_Trophy39",
@@ -14597,7 +14602,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "Achievement_Trophy40",
@@ -14780,7 +14785,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 28502,
+      "Progressed": 28503,
       "Completed": 1
     }
   ],
@@ -14788,8 +14793,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-24T02:23:21.4649303+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:09:34.6546199+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:10:08.3347289+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:04.7416185+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:09:34.6547131+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:40.0781635+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:10:08.3348383+00:00"
 }

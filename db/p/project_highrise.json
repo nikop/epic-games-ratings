@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_floors_1",
@@ -1797,9 +1797,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_prestige_3",
@@ -2062,8 +2062,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:58.7566217+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:06:01.3836+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:39.5866166+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:58.7567222+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:57:46.8224372+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:01.3836778+00:00"
 }

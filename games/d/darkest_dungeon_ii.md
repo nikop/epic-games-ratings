@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~450 |
-| Lost and Found | 6.00% | ~270 |
+| Malpractice Assurance | 10.00% | ~452 |
+| Lost and Found | 6.00% | ~271 |
 | Autodidact | 5.00% | ~6,482 |
-| This guy... again? | 5.00% | ~225 |
-| This Belongs in a Museum | 4.00% | ~5,185 |
-| Creep and Sleep | 4.00% | ~5,185 |
-| Catch and Decease | 4.00% | ~5,185 |
-| Overdue Notice | 4.00% | ~5,185 |
-| Escape from the Black Hole | 4.00% | ~5,185 |
-| Ploughshares to Swords | 4.00% | ~180 |
-| Bloody Graduation | 4.00% | ~180 |
+| This guy... again? | 5.00% | ~226 |
+| This Belongs in a Museum | 4.00% | ~5,186 |
+| Creep and Sleep | 4.00% | ~5,186 |
+| Catch and Decease | 4.00% | ~5,186 |
+| Overdue Notice | 4.00% | ~5,186 |
+| Escape from the Black Hole | 4.00% | ~5,186 |
+| Ploughshares to Swords | 4.00% | ~181 |
+| Bloody Graduation | 4.00% | ~181 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,889 |
 | Serenity Now! | 3.00% | ~3,889 |
 | It Rings a Bell | 3.00% | ~3,889 |
@@ -63,15 +63,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 0.90% | ~1,167 |
 | For Old Time' Sake | 0.90% | ~41 |
 | Body of Work | 0.80% | ~1,037 |
-| Shrine of Reflection | 0.70% | ~907 |
+| Shrine of Reflection | 0.70% | ~908 |
 | Et Tu, Riposte? | 0.70% | ~32 |
 | Clearing the Ledger | 0.60% | ~778 |
 | Triage | 0.60% | ~778 |
 | No Mercy | 0.60% | ~27 |
 | Hat Trick | 0.50% | ~648 |
+| A Life Well Lived | 0.40% | ~519 |
 | The World As It Was | 0.40% | ~519 |
 | Bacon Bits | 0.40% | ~519 |
-| A Life Well Lived | 0.30% | ~389 |
 | Eidetic | 0.30% | ~389 |
 | Battle Hardened | 0.30% | ~14 |
 | Maître De La Lame | 0.30% | ~14 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,633 (Ranked 87)  
+Progressed: 129,647 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,633 | 3 |
+| 2023-12-24 | 129,647 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
 Sum: 21,041 (Ranked 58)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -578,6 +578,11 @@
       "Time": "2023-12-24T14:04:04.2419271+00:00",
       "NumProgressed": 460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T20:05:08.2284823+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -677,7 +682,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "finished-quest-monster",
@@ -691,9 +696,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "finished-quest-pit",
@@ -709,7 +714,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "finished-quest-reaper",
@@ -725,7 +730,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "finished-quest-secret",
@@ -765,7 +770,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "save-zombie",
@@ -803,9 +808,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 355
     },
     {
       "ID": "win-first-level",
@@ -813,7 +818,7 @@
       "Name": "Good start!",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "win-koth-fights1",
@@ -845,7 +850,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "win-with-3-cultists",
@@ -868,7 +873,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 1
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:17.4065382+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:05:08.2284819+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:00:26.3767619+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:17.406566+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:01:24.7931423+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:05:08.2285062+00:00"
 }

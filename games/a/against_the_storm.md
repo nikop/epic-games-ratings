@@ -41,9 +41,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 1.00% | ~191 |
 | Corrosive Torrent | 1.00% | ~191 |
 | Cursed Lands | 1.00% | ~191 |
+| Defying the Crown | 0.90% | ~172 |
 | Serving Ale | 0.80% | ~153 |
 | Victory Through Prosperity | 0.80% | ~153 |
-| Defying the Crown | 0.80% | ~153 |
 | Into the Forest | 0.80% | ~153 |
 | Fishmen Ritual Site | 0.70% | ~134 |
 | Efficient Explorer | 0.60% | ~115 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,126 (Ranked 150)  
+Progressed: 19,129 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 273)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,126 | 38 |
+| 2023-12-24 | 19,129 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,286 (Ranked 176)  

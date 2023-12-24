@@ -4,11 +4,11 @@
   "ProductSlug": "forspoken",
   "Ranking_Rating": 989,
   "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 527,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -529,7 +529,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45066,
+  "EOS_Progressed": 45072,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 0,
@@ -16304,6 +16304,11 @@
       "Time": "2023-12-24T19:05:03.9420429+00:00",
       "NumProgressed": 45066,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T20:06:07.6319723+00:00",
+      "NumProgressed": 45072,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16363,7 +16368,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16371,7 +16376,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16467,7 +16472,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16475,7 +16480,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16531,7 +16536,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16571,7 +16576,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "MAGIC_IVY",
@@ -16579,7 +16584,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "MAGIC_TANTA",
@@ -16643,7 +16648,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -16738,22 +16743,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45066,
+      "Progressed": 45072,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9903,
-      "Completed": 9903
+      "Progressed": 9909,
+      "Completed": 9909
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:05:03.9420427+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:06:07.6319717+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:03.2326118+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:03.9421374+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:37.8760738+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:07.632057+00:00"
 }

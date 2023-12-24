@@ -5,27 +5,27 @@ Rating: 4.22 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,558 |
-| Battlefields Have Memories | 80.00% | ~1,417 |
-| Enlisted | 73.00% | ~1,293 |
-| Maybe Engage a Little | 68.00% | ~1,204 |
-| No More Names | 50.00% | ~886 |
-| Initiate | 35.00% | ~620 |
-| Thrada-Kul | 31.00% | ~549 |
-| Gravity-Challenged Rocks | 24.00% | ~425 |
-| Socialite | 23.00% | ~407 |
-| Soldier | 20.00% | ~354 |
-| All the Major Food Groups | 20.00% | ~354 |
+| Unforeseen | 88.00% | ~1,561 |
+| Battlefields Have Memories | 80.00% | ~1,419 |
+| Enlisted | 73.00% | ~1,295 |
+| Maybe Engage a Little | 68.00% | ~1,206 |
+| No More Names | 50.00% | ~887 |
+| Initiate | 35.00% | ~621 |
+| Thrada-Kul | 31.00% | ~550 |
+| Gravity-Challenged Rocks | 25.00% | ~444 |
+| Socialite | 23.00% | ~408 |
+| Soldier | 20.00% | ~355 |
+| All the Major Food Groups | 20.00% | ~355 |
 | Beggars Would Ride | 18.00% | ~319 |
-| Control is an Illusion | 17.00% | ~301 |
+| Control is an Illusion | 17.00% | ~302 |
 | The Means to Save It | 14.00% | ~248 |
 | Resilience to Sin | 12.00% | ~213 |
 | A Familiar Nest | 12.00% | ~213 |
+| Periapt Alizarin | 12.00% | ~213 |
 | Geas Aristeya | 11.00% | ~195 |
-| Periapt Alizarin | 11.00% | ~195 |
 | A Perfect Cycle | 10.00% | ~177 |
 | Recruit | 10.00% | ~177 |
-| Armsman | 9.00% | ~159 |
+| Armsman | 9.00% | ~160 |
 | Lights Army | 7.00% | ~124 |
 | Periapt Cerulean | 6.00% | ~106 |
 | Good Boy | 6.00% | ~106 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 923)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,771 (Ranked 243)  
+Progressed: 1,774 (Ranked 243)  
 Completed: 2 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.11%) (Ranked 302)
 | 2023-12-21 | 1,514 | 2 |
 | 2023-12-22 | 1,602 | 2 |
 | 2023-12-23 | 1,709 | 2 |
-| 2023-12-24 | 1,771 | 2 |
+| 2023-12-24 | 1,774 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

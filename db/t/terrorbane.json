@@ -2,10 +2,10 @@
   "ID": "8bacb9319c4b44d689aa6920a1044010",
   "Name": "tERRORbane",
   "ProductSlug": "terrorbane-437dd3",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:03:53.5393576+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:04:39.0247439+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:43.6213296+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:33.703786+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:03:53.5393717+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:00:17.3183675+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:04:39.0247589+00:00"
 }

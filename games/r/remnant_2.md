@@ -5,39 +5,39 @@ Rating: 4.73 (Ranked 171)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 8.00% | ~21,141 |
-| First of Many | 7.00% | ~18,499 |
-| Not Your Average Trait | 6.00% | ~15,856 |
-| Expanding Horizons | 5.00% | ~13,213 |
-| Gleaming the Cube | 4.00% | ~10,571 |
-| Quest for Survival | 4.00% | ~10,571 |
-| Familiar Face | 4.00% | ~10,571 |
-| Boss'n Up | 4.00% | ~10,571 |
-| Trait Chaser | 4.00% | ~10,571 |
-| Not So Special Now | 3.00% | ~7,928 |
-| Not a Janitor | 3.00% | ~7,928 |
-| Equal Measures | 3.00% | ~7,928 |
-| Blue Goddess | 3.00% | ~7,928 |
-| Duality | 3.00% | ~7,928 |
-| Top Performer | 3.00% | ~7,928 |
-| Almost There | 3.00% | ~7,928 |
-| Make Some Room | 3.00% | ~7,928 |
-| Good, But Could Be Better! | 3.00% | ~7,928 |
-| Am I Seeing This? | 2.00% | ~5,285 |
-| Chaos | 2.00% | ~5,285 |
-| Traitor | 2.00% | ~5,285 |
-| Forever is a Long Time Coming | 2.00% | ~5,285 |
-| Power Surge | 2.00% | ~5,285 |
-| The God Gambit | 2.00% | ~5,285 |
-| Dark Designs | 2.00% | ~5,285 |
-| Madman's Paradise | 2.00% | ~5,285 |
-| The Agenda | 2.00% | ~5,285 |
-| Shhh...It's a Secret | 2.00% | ~5,285 |
-| Was This Supposed To Happen? | 2.00% | ~5,285 |
-| Strapped | 2.00% | ~5,285 |
-| The Web | 2.00% | ~5,285 |
-| Scrap Collector | 2.00% | ~5,285 |
-| All These Traits� | 2.00% | ~5,285 |
+| The Killing Jar | 8.00% | ~21,145 |
+| First of Many | 7.00% | ~18,502 |
+| Not Your Average Trait | 6.00% | ~15,859 |
+| Expanding Horizons | 5.00% | ~13,216 |
+| Gleaming the Cube | 4.00% | ~10,573 |
+| Quest for Survival | 4.00% | ~10,573 |
+| Familiar Face | 4.00% | ~10,573 |
+| Boss'n Up | 4.00% | ~10,573 |
+| Trait Chaser | 4.00% | ~10,573 |
+| Not So Special Now | 3.00% | ~7,929 |
+| Not a Janitor | 3.00% | ~7,929 |
+| Equal Measures | 3.00% | ~7,929 |
+| Blue Goddess | 3.00% | ~7,929 |
+| Duality | 3.00% | ~7,929 |
+| Top Performer | 3.00% | ~7,929 |
+| Almost There | 3.00% | ~7,929 |
+| Make Some Room | 3.00% | ~7,929 |
+| Good, But Could Be Better! | 3.00% | ~7,929 |
+| Am I Seeing This? | 2.00% | ~5,286 |
+| Chaos | 2.00% | ~5,286 |
+| Traitor | 2.00% | ~5,286 |
+| Forever is a Long Time Coming | 2.00% | ~5,286 |
+| Power Surge | 2.00% | ~5,286 |
+| The God Gambit | 2.00% | ~5,286 |
+| Dark Designs | 2.00% | ~5,286 |
+| Madman's Paradise | 2.00% | ~5,286 |
+| The Agenda | 2.00% | ~5,286 |
+| Shhh...It's a Secret | 2.00% | ~5,286 |
+| Was This Supposed To Happen? | 2.00% | ~5,286 |
+| Strapped | 2.00% | ~5,286 |
+| The Web | 2.00% | ~5,286 |
+| Scrap Collector | 2.00% | ~5,286 |
+| All These Traits� | 2.00% | ~5,286 |
 | Red Room | 1.00% | ~2,643 |
 | Tall Tales | 1.00% | ~2,643 |
 | Bad Moon Rising | 1.00% | ~2,643 |
@@ -47,22 +47,22 @@ Rating: 4.73 (Ranked 171)
 | The Ultimate Weapon | 1.00% | ~2,643 |
 | No One Should Have All That Power | 1.00% | ~2,643 |
 | Transmutate | 1.00% | ~2,643 |
-| Regicide | 1.00% | ~434 |
-| Master of the Dark Arts | 1.00% | ~434 |
-| Only Human | 0.90% | ~2,378 |
-| Maxed Out! | 0.80% | ~2,114 |
+| Regicide | 1.00% | ~435 |
+| Master of the Dark Arts | 1.00% | ~435 |
+| Only Human | 0.90% | ~2,379 |
+| Maxed Out! | 0.80% | ~2,115 |
 | Crafty | 0.70% | ~1,850 |
 | Ghost in the Machine | 0.70% | ~1,850 |
 | The Trigger | 0.60% | ~1,586 |
 | The Collector | 0.60% | ~1,586 |
-| Cutting Edge | 0.50% | ~1,321 |
-| Proving Grounds | 0.50% | ~1,321 |
+| Cutting Edge | 0.50% | ~1,322 |
+| Proving Grounds | 0.50% | ~1,322 |
 | Succession | 0.40% | ~174 |
 | You Shall Pass | 0.30% | ~130 |
 | A Foul Feast | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264,268 (Ranked 61)  
-Completed: 641 (0.24%) (Ranked 265)  
+Progressed: 264,313 (Ranked 61)  
+Completed: 642 (0.24%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 641 (0.24%) (Ranked 265)
 | 2023-12-21 | 258,570 | 614 |
 | 2023-12-22 | 260,361 | 621 |
 | 2023-12-23 | 262,501 | 631 |
-| 2023-12-24 | 264,268 | 641 |
+| 2023-12-24 | 264,313 | 642 |
 ## Awards
 Max (Great Boss Battles): 3,878  (Ranked 90)  
 Sum: 8,756 (Ranked 101)  

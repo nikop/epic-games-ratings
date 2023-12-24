@@ -6,26 +6,28 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.50% | ~80 |
 | Play a Single Player Game | 0.50% | ~80 |
 | Explorer | 0.40% | ~64 |
-| Settler | 0.40% | ~64 |
 | Able | 0.30% | ~48 |
 | Architect | 0.30% | ~48 |
 | Good | 0.30% | ~48 |
 | Intrepid | 0.30% | ~48 |
+| Just | 0.30% | ~48 |
 | Mason | 0.30% | ~48 |
 | Noble | 0.30% | ~48 |
 | Strong | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
 | Hanging Gardens | 0.30% | ~48 |
 | Oracle | 0.30% | ~48 |
+| Judaism | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Ambitious | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
 | Enlightened | 0.20% | ~32 |
 | Fountainhead | 0.20% | ~32 |
 | Glorious | 0.20% | ~32 |
-| Just | 0.20% | ~32 |
+| Intercessor | 0.20% | ~32 |
 | Keystone | 0.20% | ~32 |
 | Learned | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
@@ -41,12 +43,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.20% | ~32 |
 | Ishtar Gate | 0.20% | ~32 |
 | Lighthouse | 0.20% | ~32 |
+| Mausoleum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
 | Learn to Play 1 | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
-| Judaism | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
 | Babylonian Paganism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
@@ -99,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.10% | ~16 |
 | Great | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
-| Intercessor | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
 | Mighty | 0.10% | ~16 |
@@ -155,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
-| Mausoleum | 0.10% | ~16 |
 | Musaeum | 0.10% | ~16 |
 | Pantheon | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |

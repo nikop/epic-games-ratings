@@ -2,10 +2,10 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 533,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 32.03,
+  "EOS_Completed_Percentage": 31.78,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -719,6 +719,11 @@
       "Time": "2023-12-21T19:06:35.6738311+00:00",
       "NumProgressed": 128,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-24T20:05:19.8575592+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 10,
@@ -730,15 +735,15 @@
       "Name": "Beach",
       "Percentage": 95,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_2",
@@ -752,9 +757,9 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_4",
@@ -778,7 +783,7 @@
       "Name": "Mecha Wars",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_7",
@@ -786,7 +791,7 @@
       "Name": "Sewer",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_8",
@@ -800,23 +805,23 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:27.0276745+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:05:19.8575585+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.9881229+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:58:55.8993721+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:27.0276862+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:27.4945315+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:05:19.8575708+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17354,
+  "EOS_Progressed": 17355,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16915,6 +16915,11 @@
       "Time": "2023-12-24T19:06:43.737996+00:00",
       "NumProgressed": 17354,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-24T20:08:14.9193094+00:00",
+      "NumProgressed": 17355,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 41,
@@ -16926,7 +16931,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "tpote_achievement_10",
@@ -16942,7 +16947,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3992
     },
     {
       "ID": "tpote_achievement_12",
@@ -16966,7 +16971,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5553
+      "UsersEstimate": 5554
     },
     {
       "ID": "tpote_achievement_15",
@@ -16998,7 +17003,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "tpote_achievement_19",
@@ -17054,7 +17059,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "tpote_achievement_25",
@@ -17086,7 +17091,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "tpote_achievement_29",
@@ -17110,7 +17115,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "tpote_achievement_31",
@@ -17222,7 +17227,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3992
     },
     {
       "ID": "tpote_achievement_7",
@@ -17238,7 +17243,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "tpote_achievement_9",
@@ -17246,22 +17251,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5900
+      "UsersEstimate": 5901
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17354,
+      "Progressed": 17355,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:06:43.7379957+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:08:14.9193086+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:52.4718899+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:06:43.7380978+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:58:03.3431732+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:08:14.9193869+00:00"
 }

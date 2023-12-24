@@ -3748,9 +3748,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241614,
+  "EOS_Progressed": 241619,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29368,6 +29368,11 @@
       "Time": "2023-12-24T19:10:25.5825314+00:00",
       "NumProgressed": 241614,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T20:11:11.0779647+00:00",
+      "NumProgressed": 241619,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -30153,9 +30158,9 @@
       "ID": "STEALTH100",
       "SetID": "5l8oe0h",
       "Name": "Shadow Walker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1450
     },
     {
       "ID": "SURVIVEON1",
@@ -30482,13 +30487,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241614,
+      "Progressed": 241619,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3094,
+      "Progressed": 3099,
       "Completed": 411
     }
   ],
@@ -30496,8 +30501,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:10:25.5825312+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:11:11.0779642+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:43.3759413+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:10:25.5827869+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:57:51.7620078+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:11:11.0782036+00:00"
 }

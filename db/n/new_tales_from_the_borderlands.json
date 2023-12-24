@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3750,
+  "EOS_Progressed": 3751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2017,6 +2017,11 @@
       "Time": "2023-12-24T12:03:58.6933036+00:00",
       "NumProgressed": 3750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T20:05:22.924818+00:00",
+      "NumProgressed": 3751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2132,7 +2137,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2148,7 +2153,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2196,7 +2201,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2204,7 +2209,7 @@
       "Name": "And Still Champion...",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -2220,7 +2225,7 @@
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -2235,7 +2240,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3750,
+      "Progressed": 3751,
       "Completed": 0
     }
   ],
@@ -2243,8 +2248,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:29.4336781+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:05:22.9248173+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:11.5138421+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:29.433705+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:57:10.9514168+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:05:22.9248406+00:00"
 }

@@ -10,6 +10,7 @@ Number of Ratings: 82  (23.09.2022)
 | Agent | 0.30% | ~29 |
 | A Real Landlord | 0.30% | ~29 |
 | Gotta Start Somewhere | 0.30% | ~29 |
+| Home, Sweet Home | 0.30% | ~29 |
 | Loaded | 0.30% | ~29 |
 | Lured In | 0.30% | ~29 |
 | Renovator | 0.30% | ~29 |
@@ -21,7 +22,6 @@ Number of Ratings: 82  (23.09.2022)
 | Babysitter | 0.20% | ~20 |
 | Cleaning Service | 0.20% | ~20 |
 | Filthy Rich | 0.20% | ~20 |
-| Home, Sweet Home | 0.20% | ~20 |
 | Kill It With Gas | 0.20% | ~20 |
 | Landlord’s Dream | 0.20% | ~20 |
 | Millionaire | 0.20% | ~20 |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,769 (Ranked 176)  
+Progressed: 9,770 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,6 +191,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 9,767 | 0 |
 | 2023-12-22 | 9,768 | 0 |
 | 2023-12-23 | 9,769 | 0 |
+| 2023-12-24 | 9,770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,43 +5,43 @@ Rating: 4.52 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~106 |
+| Beginner | 92.00% | ~109 |
 | Map reader | 68.00% | ~80 |
-| Adventurer | 64.00% | ~75 |
-| Philanthropist | 62.00% | ~73 |
-| The brave little tailor | 44.00% | ~51 |
-| Archer | 44.00% | ~51 |
-| Field hand | 40.00% | ~47 |
-| Samaritan | 35.00% | ~41 |
-| Well-to-do | 35.00% | ~41 |
+| Adventurer | 64.00% | ~76 |
+| Philanthropist | 63.00% | ~74 |
+| Archer | 45.00% | ~53 |
+| The brave little tailor | 44.00% | ~52 |
+| Field hand | 41.00% | ~48 |
+| Samaritan | 36.00% | ~42 |
+| Well-to-do | 36.00% | ~42 |
 | The merciful one | 33.00% | ~39 |
-| Ladies' man | 32.00% | ~37 |
-| Ferocious wild boars | 26.00% | ~30 |
-| Idiot | 25.00% | ~29 |
-| Beast slayer | 22.00% | ~26 |
-| Family man | 20.00% | ~23 |
-| Archaeologist | 20.00% | ~23 |
+| Ladies' man | 32.00% | ~38 |
+| Ferocious wild boars | 27.00% | ~32 |
+| Idiot | 26.00% | ~31 |
+| Beast slayer | 23.00% | ~27 |
+| Family man | 20.00% | ~24 |
+| Archaeologist | 20.00% | ~24 |
 | Wise man | 19.00% | ~22 |
 | Death of a legend | 19.00% | ~22 |
+| Little hero | 19.00% | ~22 |
 | Ogre friend | 19.00% | ~22 |
 | Hard worker | 19.00% | ~22 |
 | The fourth triplet | 19.00% | ~22 |
-| Little hero | 18.00% | ~21 |
-| Sidelined | 18.00% | ~21 |
+| Sidelined | 19.00% | ~22 |
+| Fence | 17.00% | ~20 |
 | Master detective | 17.00% | ~20 |
-| Fence | 16.00% | ~19 |
-| Pandora's box | 15.00% | ~18 |
+| Pandora's box | 16.00% | ~19 |
 | Ghost hunter | 15.00% | ~18 |
-| Peacekeeper | 15.00% | ~18 |
-| Defender | 13.00% | ~15 |
-| Workaholic | 13.00% | ~15 |
-| Showdown | 11.00% | ~13 |
+| Defender | 14.00% | ~17 |
+| Workaholic | 14.00% | ~17 |
+| Peacekeeper | 14.00% | ~17 |
+| Showdown | 12.00% | ~14 |
+| Freedom fighter | 11.00% | ~13 |
 | Safecracker | 11.00% | ~13 |
 | Master thief | 11.00% | ~13 |
-| Freedom fighter | 10.00% | ~12 |
 | Titan Lord | 9.00% | ~11 |
-| Terror of the hens | 9.00% | ~11 |
 | King of the handymen | 9.00% | ~11 |
+| Terror of the hens | 8.00% | ~9 |
 | Expert | 8.00% | ~9 |
 | The traveler | 6.00% | ~7 |
 | Moneybags | 6.00% | ~7 |
@@ -52,11 +52,11 @@ Rating: 4.52 (Ranked 563)
 | Fervent swimmer | 3.00% | ~4 |
 | Jester | 3.00% | ~4 |
 | Sharpshooter | 2.00% | ~2 |
-| Gladiator | 0.90% | ~1 |
-| Master of the classes | 0.90% | ~1 |
+| Gladiator | 0.80% | ~1 |
+| Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 465)  
+Progressed: 118 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 104 | 0 |
 | 2023-12-22 | 107 | 0 |
 | 2023-12-23 | 113 | 0 |
-| 2023-12-24 | 117 | 0 |
+| 2023-12-24 | 118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

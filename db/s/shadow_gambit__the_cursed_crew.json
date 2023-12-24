@@ -4472,9 +4472,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "_14_Completion_70",
@@ -4593,8 +4593,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:06:17.6284945+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:07:41.9841651+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:00:31.6890342+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:06:17.6285394+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:01:31.0826+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:07:41.9841927+00:00"
 }

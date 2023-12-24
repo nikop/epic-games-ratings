@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 78.00% | ~39 |
-| Grand Re-Opening | 68.00% | ~34 |
-| Pup Pup Boogie | 64.00% | ~32 |
-| Summer Day | 62.00% | ~31 |
-| Mr. Porter | 54.00% | ~27 |
+| Mighty Powers | 80.00% | ~40 |
+| Grand Re-Opening | 70.00% | ~35 |
+| Pup Pup Boogie | 66.00% | ~33 |
+| Summer Day | 64.00% | ~32 |
+| Mr. Porter | 56.00% | ~28 |
 | Risky Rescue | 52.00% | ~26 |
 | Carlos Is Tangled | 50.00% | ~25 |
 | Clear the Road | 42.00% | ~21 |

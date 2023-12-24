@@ -9,11 +9,11 @@ Rating: 4.65 (Ranked 320)
 | Rail Rat | 31.00% | ~338 |
 | The Mysterious Stranger | 30.00% | ~327 |
 | Immaculate Aim | 25.00% | ~272 |
+| Make Up For Lost Time | 24.00% | ~262 |
+| The Prince in Heels | 24.00% | ~262 |
 | The Brass Boss | 24.00% | ~262 |
-| Make Up For Lost Time | 23.00% | ~251 |
 | Time Flies | 23.00% | ~251 |
 | No, Thanks! | 23.00% | ~251 |
-| The Prince in Heels | 23.00% | ~251 |
 | Honest Mistake | 23.00% | ~251 |
 | Fast Learner | 23.00% | ~251 |
 | Immaculate Aim | 23.00% | ~251 |
@@ -37,8 +37,8 @@ Rating: 4.65 (Ranked 320)
 | Cartographer | 13.00% | ~142 |
 | Ask Questions Later | 13.00% | ~142 |
 | Chaincrawler Explorer | 12.00% | ~131 |
+| Syron for Hope | 12.00% | ~131 |
 | Sump Explorer | 11.00% | ~120 |
-| Syron for Hope | 11.00% | ~120 |
 | Factorywood Explorer | 10.00% | ~109 |
 | Fairgrounds Explorer | 10.00% | ~109 |
 | Theater Explorer | 10.00% | ~109 |

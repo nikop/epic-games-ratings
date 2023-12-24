@@ -4,8 +4,8 @@
   "ProductSlug": "post-scriptum",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T02:20:06.3806618+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:58:15.6414393+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:36.9446222+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:58:33.9005536+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:50.2123237+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
     "PcReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9769,
+  "EOS_Progressed": 9770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -975,6 +975,11 @@
       "Time": "2023-12-23T14:05:29.1622891+00:00",
       "NumProgressed": 9769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T20:06:39.9758427+00:00",
+      "NumProgressed": 9770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 86,
@@ -1264,9 +1269,9 @@
       "ID": "ACH_HOME_SWEET_HOME",
       "SetID": "13614nd",
       "Name": "Home, Sweet Home",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_HOW_SWEET",
@@ -1673,21 +1678,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9769,
+      "Progressed": 9770,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:05:29.3444636+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:06:39.9758422+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.6477134+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:00:44.0768971+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:29.3445436+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:01:45.814517+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:39.9759196+00:00"
 }

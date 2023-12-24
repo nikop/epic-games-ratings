@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 806)
 | Luc Piette | 75.00% | ~352 |
 | Angeline Van den Bosch | 73.00% | ~343 |
 | Elizabeth Padget | 70.00% | ~329 |
-| Little Grey Cells | 68.00% | ~320 |
+| Little Grey Cells | 69.00% | ~324 |
 | The Bracelet | 66.00% | ~310 |
 | The Blackmail | 55.00% | ~258 |
 | Major Felix Hagen | 55.00% | ~258 |
@@ -35,13 +35,13 @@ Rating: 4.35 (Ranked 806)
 | Inge Frank | 31.00% | ~146 |
 | The Search | 31.00% | ~146 |
 | Hugo Beckers | 30.00% | ~141 |
-| The Family | 28.00% | ~132 |
+| The Family | 29.00% | ~136 |
 | Well-travelled | 27.00% | ~127 |
 | Thinking of Everything | 27.00% | ~127 |
 | Exquisite Artwork | 26.00% | ~122 |
 | Archibald Sterling | 26.00% | ~122 |
 | Viscount Edwin Van den Bosch | 26.00% | ~122 |
-| Well-prepared | 21.00% | ~99 |
+| Well-prepared | 22.00% | ~103 |
 | The Truth | 21.00% | ~99 |
 | Sunken Secrets | 19.00% | ~89 |
 | What Else Did I Miss? | 19.00% | ~89 |

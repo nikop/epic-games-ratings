@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,081 |
-| Keeping it classy | 27.00% | ~906 |
+| You're free now! | 62.00% | ~2,083 |
+| Keeping it classy | 27.00% | ~907 |
 | Welcome to the family | 22.00% | ~739 |
 | The finer things in life | 19.00% | ~638 |
 | Backpacker | 14.00% | ~470 |
-| Go with the Flow | 13.00% | ~436 |
+| Go with the Flow | 13.00% | ~437 |
 | Plastic Surgeon | 10.00% | ~336 |
 | The flip trick crown jewel | 10.00% | ~336 |
 | The hard way | 10.00% | ~336 |
@@ -23,13 +23,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~235 |
 | That pinch! | 7.00% | ~235 |
 | Tight lipslides | 7.00% | ~235 |
-| Fulfilled the dream | 6.00% | ~201 |
-| G'Day Mate! | 6.00% | ~201 |
-| Laid back | 6.00% | ~201 |
-| NAHELL! | 6.00% | ~201 |
-| Purple passion | 6.00% | ~201 |
-| Squad goals | 6.00% | ~201 |
-| Sup widdit big dog! | 6.00% | ~201 |
+| Fulfilled the dream | 6.00% | ~202 |
+| G'Day Mate! | 6.00% | ~202 |
+| Laid back | 6.00% | ~202 |
+| NAHELL! | 6.00% | ~202 |
+| Purple passion | 6.00% | ~202 |
+| Squad goals | 6.00% | ~202 |
+| Sup widdit big dog! | 6.00% | ~202 |
 | Commence the Hijinx! | 5.00% | ~168 |
 | Cops called! | 5.00% | ~168 |
 | DIY Boss | 5.00% | ~168 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,357 (Ranked 217)  
+Progressed: 3,360 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2 (0.06%) (Ranked 328)
 | 2023-12-21 | 3,308 | 2 |
 | 2023-12-22 | 3,328 | 2 |
 | 2023-12-23 | 3,348 | 2 |
-| 2023-12-24 | 3,357 | 2 |
+| 2023-12-24 | 3,360 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 60  (Ranked 424)  
 Sum: 570 (Ranked 323)  

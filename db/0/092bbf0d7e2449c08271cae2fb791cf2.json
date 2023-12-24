@@ -3,9 +3,9 @@
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -874,6 +874,11 @@
       "Time": "2023-12-24T18:04:09.356164+00:00",
       "NumProgressed": 266,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T20:04:27.099769+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -886,7 +891,7 @@
       "Name": "Good Morning",
       "Percentage": 14,
       "XP": 145,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach2",
@@ -894,15 +899,15 @@
       "Name": "Blabber",
       "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach3",
       "SetID": "796kfpa",
       "Name": "Blue Bean",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 145,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ach4",
@@ -941,14 +946,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 268,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:03:44.3647025+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:04:27.0997681+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:58:08.9920173+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:03:44.364711+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:58:24.525106+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:04:27.0997799+00:00"
 }

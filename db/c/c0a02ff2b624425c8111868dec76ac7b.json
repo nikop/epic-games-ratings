@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2023-12-24T02:30:20.4316263+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T20:07:12.0617048+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -723,7 +728,7 @@
       "Name": "Weapon Master",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ANGEL_ABSORBED",
@@ -745,9 +750,9 @@
       "ID": "ACH_BIPOLAR_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Duality",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
@@ -793,9 +798,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -875,21 +880,21 @@
       "Name": "Yin-Yang",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:05:54.464845+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:07:12.0617044+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.2279599+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:15.4894105+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:54.4648577+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:53.6822695+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:07:12.0617279+00:00"
 }

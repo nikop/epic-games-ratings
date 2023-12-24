@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 374,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6141,
+  "EOS_Progressed": 6146,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9052,6 +9052,11 @@
       "Time": "2023-12-24T19:08:28.4715448+00:00",
       "NumProgressed": 6141,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T20:08:45.0156517+00:00",
+      "NumProgressed": 6146,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9175,7 +9180,7 @@
       "Name": "Realm Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "23",
@@ -9223,7 +9228,7 @@
       "Name": "From Friends to Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "29",
@@ -9542,13 +9547,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6141,
+      "Progressed": 6146,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6141,
+      "Progressed": 6146,
       "Completed": 7
     }
   ],
@@ -9556,8 +9561,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:08:28.4715446+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:08:45.015651+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:59:09.3440482+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:08:28.4716134+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:45.4115437+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:08:45.0157296+00:00"
 }

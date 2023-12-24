@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -157,7 +157,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3021,
+  "EOS_Progressed": 3022,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -5107,6 +5107,11 @@
       "Time": "2023-12-24T19:05:14.2095453+00:00",
       "NumProgressed": 3021,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-24T20:06:20.3505389+00:00",
+      "NumProgressed": 3022,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -5158,7 +5163,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -5182,7 +5187,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5190,7 +5195,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -5198,7 +5203,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5220,9 +5225,9 @@
       "ID": "STB_DEFEAT_MAGICSHIFTER",
       "SetID": "3pe2bac",
       "Name": "Big Helmet Bro",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1209
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5230,7 +5235,7 @@
       "Name": "I chose my shackles",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5262,7 +5267,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -5294,7 +5299,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5302,7 +5307,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5310,7 +5315,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -5332,9 +5337,9 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2327
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5350,7 +5355,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5366,7 +5371,7 @@
       "Name": "Sacred Woods",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -5398,7 +5403,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -5486,7 +5491,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -5541,7 +5546,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3021,
+      "Progressed": 3022,
       "Completed": 16
     }
   ],
@@ -5549,8 +5554,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:05:14.2095451+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:06:20.3505382+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:57:40.7484725+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:05:14.2095994+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:57:48.3400216+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:06:20.3506048+00:00"
 }

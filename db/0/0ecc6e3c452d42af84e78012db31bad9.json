@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4639,
+  "EOS_Progressed": 4640,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -12005,6 +12005,11 @@
       "Time": "2023-12-24T13:06:43.8778443+00:00",
       "NumProgressed": 4639,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-24T20:05:14.9036662+00:00",
+      "NumProgressed": 4640,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 16,
@@ -12016,7 +12021,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -12048,7 +12053,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3572
+      "UsersEstimate": 3573
     },
     {
       "ID": "ach_architecture_completed",
@@ -12128,7 +12133,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ach_tornado",
@@ -12143,7 +12148,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4639,
+      "Progressed": 4640,
       "Completed": 41
     }
   ],
@@ -12151,8 +12156,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:04:22.7953686+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:05:14.9036658+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:06.6748286+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:58:56.313541+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:04:22.7954304+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:59:28.06678+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:05:14.903743+00:00"
 }

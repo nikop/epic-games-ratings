@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 647,
-  "Ranking_Popularity": 486,
+  "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5790,
+  "EOS_Progressed": 5791,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11747,6 +11747,11 @@
       "Time": "2023-12-24T19:06:17.4218419+00:00",
       "NumProgressed": 5790,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T20:07:41.7151877+00:00",
+      "NumProgressed": 5791,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11807,7 +11812,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11869,9 +11874,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1332
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11919,7 +11924,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -11942,15 +11947,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5790,
+      "Progressed": 5791,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:06:17.4218416+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:07:41.7151872+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-24T18:58:01.5827118+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:06:17.4219005+00:00"
+  "LastUpdate_Ratings": "2023-12-24T19:58:15.5481124+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:07:41.7152529+00:00"
 }

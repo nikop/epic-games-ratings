@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -730,9 +730,9 @@
       "ID": "Botropolis",
       "SetID": "4bd750m",
       "Name": "Botropolis",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ClickEmAll",
@@ -754,17 +754,17 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "GoingPlaces",
@@ -866,9 +866,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "StackOverflow",
@@ -922,9 +922,9 @@
       "ID": "Whoa",
       "SetID": "4bd750m",
       "Name": "Whoa!",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "Yup",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-24T19:06:20.062441+00:00",
+  "LastChanged_Achievements": "2023-12-24T20:07:45.0962527+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:03:15.2511637+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:06:20.0624598+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:03:48.7107784+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:07:45.0962743+00:00"
 }

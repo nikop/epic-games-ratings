@@ -4,11 +4,11 @@
   "ProductSlug": "axiom-verge",
   "Ranking_Rating": 512,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2015-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,6 +431,6 @@
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
   "LastChanged": "2023-12-15T19:02:38.9254433+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.7815333+00:00",
-  "LastUpdate_Ratings": "2023-12-24T19:02:55.2553221+00:00",
-  "LastUpdate_Achievements": "2023-12-24T19:06:04.2080722+00:00"
+  "LastUpdate_Ratings": "2023-12-24T20:03:22.1975735+00:00",
+  "LastUpdate_Achievements": "2023-12-24T20:07:24.2997449+00:00"
 }
