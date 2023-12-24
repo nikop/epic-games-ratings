@@ -64,7 +64,7 @@
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.81% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.72% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.72% |
-| 65 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.71% |
+| 65 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.67% |
 | 66 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.50% |
 | 67 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.38% |
 | 68 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -74,7 +74,7 @@
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 73 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.62% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.36% |
+| 75 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.42% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
 | 76 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 5.00% |
 | 78 | [Bugsnax](games/b/bugsnax.md) | 4.88% |
@@ -130,7 +130,7 @@
 | 127 | [Night Book](games/n/night_book.md) | 2.46% |
 | 129 | [Bloodshore](games/b/bloodshore.md) | 2.40% |
 | 129 | [Lamentum](games/l/lamentum.md) | 2.40% |
-| 131 | [Destiny 2](games/d/destiny_2.md) | 2.36% |
+| 131 | [Destiny 2](games/d/destiny_2.md) | 2.35% |
 | 132 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.34% |
 | 133 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.30% |
 | 134 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.13% |
@@ -142,8 +142,8 @@
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 141 | [Sifu](games/s/sifu.md) | 1.75% |
 | 142 | [Frogun](games/f/frogun.md) | 1.74% |
-| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.64% |
-| 144 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.60% |
+| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.63% |
+| 144 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.59% |
 | 145 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.57% |
 | 146 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.56% |
 | 147 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.49% |
@@ -171,7 +171,7 @@
 | 168 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 170 | [Ten Dates](games/t/ten_dates.md) | 1.02% |
 | 171 | [Sable](games/s/sable.md) | 1.01% |
-| 171 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
+| 172 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
 | 173 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 174 | [Colossal Cave](games/c/colossal_cave.md) | 0.97% |
 | 174 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
@@ -298,12 +298,12 @@
 | 294 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 294 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 294 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
-| 299 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 299 | [BLACKTAIL](games/b/blacktail.md) | 0.12% |
 | 299 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.12% |
 | 299 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
 | 299 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 304 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
+| 303 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 303 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 305 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 305 | [Black Book](games/b/black_book.md) | 0.10% |
 | 305 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.10% |
