@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3764,
+  "EOS_Progressed": 3765,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10715,6 +10715,11 @@
       "Time": "2023-12-24T17:09:35.9020767+00:00",
       "NumProgressed": 3764,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T18:09:13.5997319+00:00",
+      "NumProgressed": 3765,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10918,7 +10923,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "frostfireliberator",
@@ -10966,7 +10971,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "heroinspection",
@@ -11038,7 +11043,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "mastery",
@@ -11206,7 +11211,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "thegameison",
@@ -11246,15 +11251,15 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "transmute",
@@ -11318,14 +11323,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3764,
+      "Progressed": 3765,
       "Completed": 2
     }
   ],
@@ -11333,8 +11338,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T22:58:35.5003837+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:09:35.9020765+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:09:13.5997316+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:01:14.7566635+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:09:35.9021831+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:00:41.3557919+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:09:13.5998188+00:00"
 }

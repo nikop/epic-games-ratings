@@ -17,11 +17,11 @@ Rating: 4.56 (Ranked 496)
 | Defeat 25 Grubs | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
 | Throne Room Fit For A King | 0.60% | ~14 |
+| Rescue Redgi's Brothers | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
 | Collect Gold | 0.50% | ~11 |
 | Collect Iron Ore | 0.50% | ~11 |
 | Smithy Ready to Craft | 0.50% | ~11 |
-| Rescue Redgi's Brothers | 0.50% | ~11 |
 | Defeat Croakhis Khan | 0.50% | ~5 |
 | I Remember My First Beer | 0.50% | ~5 |
 | Complete Elder Faction | 0.40% | ~9 |

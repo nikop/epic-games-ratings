@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2023-12-24T17:07:59.9676584+00:00",
       "NumProgressed": 194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T18:07:11.9024277+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -932,9 +937,9 @@
       "ID": "collect_most_of_memories",
       "SetID": "f2im8d",
       "Name": "I remember It Like Was Yesterday",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "collect_most_of_myths",
@@ -966,7 +971,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "decrypt_one_myth",
@@ -1014,7 +1019,7 @@
       "Name": "Face your fears",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1038,7 +1043,7 @@
       "Name": "Scraps of love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "find_one_photo",
@@ -1046,7 +1051,7 @@
       "Name": "A Slice of Life",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "find_one_poster",
@@ -1054,7 +1059,7 @@
       "Name": "Debut",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1062,7 +1067,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "finished_it",
@@ -1070,7 +1075,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "first_step",
@@ -1094,7 +1099,7 @@
       "Name": "Sound Bite",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "heavy_burden",
@@ -1148,9 +1153,9 @@
       "ID": "perfect_storm",
       "SetID": "f2im8d",
       "Name": "The Perfect Storm",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "piece_of_story",
@@ -1166,7 +1171,7 @@
       "Name": "Playtime",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "preferred_parent",
@@ -1222,7 +1227,7 @@
       "Name": "Something important",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "spy_one_item",
@@ -1246,7 +1251,7 @@
       "Name": "The art of movement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1254,7 +1259,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "tough_conversation",
@@ -1262,7 +1267,7 @@
       "Name": "Tough conversation",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "true_reflection",
@@ -1301,14 +1306,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:07:59.967658+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:07:11.9024264+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:57:33.3148214+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:07:59.9676924+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:57:11.2691012+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:07:11.902462+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4691,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12707,
+  "EOS_Progressed": 12709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17886,6 +17886,11 @@
       "Time": "2023-12-24T17:11:41.1481612+00:00",
       "NumProgressed": 12707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T18:11:14.2603223+00:00",
+      "NumProgressed": 12709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17905,7 +17910,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17929,7 +17934,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17953,7 +17958,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "09_PathOfDemon",
@@ -18105,7 +18110,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "29_StrategicVictory",
@@ -18249,7 +18254,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18265,7 +18270,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "49_Flame",
@@ -18289,7 +18294,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18824,21 +18829,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11489,
+      "Progressed": 11491,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12707,
+      "Progressed": 12709,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:11:41.1481607+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:11:14.2603218+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:01:34.1647115+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:11:41.1483361+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:01:00.2914858+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:11:14.2604782+00:00"
 }

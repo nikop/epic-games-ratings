@@ -2,10 +2,10 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 713,
+  "EOS_Progressed": 714,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
@@ -2585,6 +2585,11 @@
       "Time": "2023-12-24T17:11:04.1391919+00:00",
       "NumProgressed": 713,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T18:10:38.6014483+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2605,7 +2610,7 @@
       "Name": "Holey Moley",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_11",
@@ -2653,7 +2658,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "achievement_17",
@@ -2661,7 +2666,7 @@
       "Name": "Clean Sheet",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "achievement_18",
@@ -2669,7 +2674,7 @@
       "Name": "Perfect Round",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_2",
@@ -2740,13 +2745,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 713,
+      "Progressed": 714,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:11:04.1391915+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:10:38.6014479+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:58:02.3781994+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:11:04.1392164+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:57:38.794037+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:10:38.6014865+00:00"
 }

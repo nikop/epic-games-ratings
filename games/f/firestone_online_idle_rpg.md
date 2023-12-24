@@ -6,7 +6,7 @@ Rating: 4.04 (Ranked 1,013)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~3,501 |
-| World Map | 78.00% | ~2,936 |
+| World Map | 78.00% | ~2,937 |
 | Temple of Eternals | 56.00% | ~2,108 |
 | Prestigious | 53.00% | ~1,995 |
 | Fellowship Power | 42.00% | ~1,581 |
@@ -38,11 +38,11 @@ Rating: 4.04 (Ranked 1,013)
 | Moving Up The Ladder | 8.00% | ~301 |
 | Relic Of The Past | 8.00% | ~301 |
 | Scroll Master | 8.00% | ~301 |
-| Four Leaf Clover | 7.00% | ~263 |
-| Here We Go Again | 7.00% | ~263 |
-| Master Enchanter | 7.00% | ~263 |
-| The father of Dragons | 7.00% | ~263 |
-| Trader | 7.00% | ~263 |
+| Four Leaf Clover | 7.00% | ~264 |
+| Here We Go Again | 7.00% | ~264 |
+| Master Enchanter | 7.00% | ~264 |
+| The father of Dragons | 7.00% | ~264 |
+| Trader | 7.00% | ~264 |
 | Dragon Slayer | 6.00% | ~226 |
 | The Expeditioner | 6.00% | ~226 |
 | Weekly Quest Completionist | 6.00% | ~226 |
@@ -74,14 +74,14 @@ Rating: 4.04 (Ranked 1,013)
 | Transmute | 1.00% | ~38 |
 | Tree of Life | 1.00% | ~38 |
 | Angel Power | 0.90% | ~34 |
-| Training makes a Pro player | 0.90% | ~34 |
 | Silverwood liberator | 0.80% | ~30 |
+| Training makes a Pro player | 0.80% | ~30 |
 | Beast War Machines | 0.70% | ~26 |
 | Ultimate War Machines | 0.50% | ~19 |
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,764 (Ranked 209)  
+Progressed: 3,765 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2023-12-21 | 3,636 | 2 |
 | 2023-12-22 | 3,677 | 2 |
 | 2023-12-23 | 3,733 | 2 |
-| 2023-12-24 | 3,764 | 2 |
+| 2023-12-24 | 3,765 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 476)  
 Sum: 147 (Ranked 432)  

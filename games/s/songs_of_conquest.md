@@ -6,35 +6,35 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 43.00% | ~311 |
-| Double Kill | 35.00% | ~253 |
-| Critical Hit | 19.00% | ~137 |
-| Veteran | 19.00% | ~137 |
-| Dressed For Success | 13.00% | ~94 |
+| Adept | 42.00% | ~306 |
+| Double Kill | 35.00% | ~255 |
+| Critical Hit | 19.00% | ~139 |
+| Veteran | 19.00% | ~139 |
+| Dressed For Success | 13.00% | ~95 |
 | Humiliation | 8.00% | ~58 |
 | Veni, Vidi, Vici | 8.00% | ~58 |
 | Multi Kill | 7.00% | ~51 |
 | Sorcerous Spree | 7.00% | ~51 |
-| Whoops! | 6.00% | ~43 |
-| Landlord Extraordinaire | 6.00% | ~43 |
-| Master | 6.00% | ~43 |
+| Landlord Extraordinaire | 6.00% | ~44 |
+| Master | 6.00% | ~44 |
+| Whoops! | 5.00% | ~36 |
 | Don't Touch My Stuff | 4.00% | ~29 |
 | Trojan Horse | 4.00% | ~29 |
 | The Song of Stoutheart | 3.00% | ~22 |
 | Expert Essence Employment | 3.00% | ~22 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~22 |
-| This Spot's Taken | 2.00% | ~14 |
-| Deepstrike | 2.00% | ~14 |
-| Ultra Kill | 2.00% | ~14 |
-| Pyrrhic Victory | 2.00% | ~14 |
+| This Spot's Taken | 2.00% | ~15 |
+| Deepstrike | 2.00% | ~15 |
+| Ultra Kill | 2.00% | ~15 |
+| Pyrrhic Victory | 2.00% | ~15 |
 | Versatile Wielder | 1.00% | ~7 |
 | Infernal Influence | 1.00% | ~7 |
 | Together For Her | 1.00% | ~7 |
 | From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
 | Grand Master | 0.80% | ~6 |
-| In The Thick of It | 0.60% | ~4 |
-| Get Over Here! | 0.60% | ~4 |
+| In The Thick of It | 0.50% | ~4 |
+| Get Over Here! | 0.50% | ~4 |
 | Death To Diplomacy | 0.40% | ~3 |
 | Unlimited Power! | 0.40% | ~3 |
 | Fully Charged | 0.40% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723 (Ranked 301)  
+Progressed: 729 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 630 | 0 |
 | 2023-12-22 | 665 | 0 |
 | 2023-12-23 | 702 | 0 |
-| 2023-12-24 | 723 | 0 |
+| 2023-12-24 | 729 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 527)  
 Sum: 194 (Ranked 414)  

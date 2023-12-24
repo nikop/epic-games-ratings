@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.38,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -410,6 +410,11 @@
       "Time": "2023-12-24T14:03:51.1122781+00:00",
       "NumProgressed": 160,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T18:04:30.3128946+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 28,
@@ -461,7 +466,7 @@
       "Name": "Last Goodbye",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -469,7 +474,7 @@
       "Name": "The Routine",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
@@ -491,9 +496,9 @@
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 106
     },
     {
       "ID": "CHAPTER_07_COMPLETE",
@@ -507,9 +512,9 @@
       "ID": "CHAPTER_08_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Broken",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "CHAPTER_09_COMPLETE",
@@ -517,7 +522,7 @@
       "Name": "Radiation",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CHAPTER_10_COMPLETE",
@@ -533,7 +538,7 @@
       "Name": "Awakenings",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
@@ -541,15 +546,15 @@
       "Name": "Cold Storage",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "MISSING_PIECE",
@@ -579,9 +584,9 @@
       "ID": "PEG_DOCTOR",
       "SetID": "bho0i1h",
       "Name": "Doctor",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "PEG_ENGINEER",
@@ -597,13 +602,13 @@
       "Name": "General",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "PEG_MOTHER",
       "SetID": "bho0i1h",
       "Name": "Mother",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
       "UsersEstimate": 126
     },
@@ -621,7 +626,7 @@
       "Name": "Sam",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "PEG_SOLDIER",
@@ -629,7 +634,7 @@
       "Name": "Soldier",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "STAY",
@@ -644,7 +649,7 @@
     {
       "ID": "bho0i1h",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 7
     }
   ],
@@ -652,8 +657,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:05:07.755186+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:04:30.3128942+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:47.5804082+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:00:51.5071181+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:05:07.7552058+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:00:19.2596169+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:04:30.3129243+00:00"
 }

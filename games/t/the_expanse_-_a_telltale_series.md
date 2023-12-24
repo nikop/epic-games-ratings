@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,594 |
+| Oyedang, Kopengs | 15.00% | ~2,595 |
 | Captain Drummer | 11.00% | ~1,903 |
 | The Pit and the Pirates | 10.00% | ~1,730 |
 | Bosmang | 10.00% | ~1,730 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 512)
 | Doctor Approved | 5.00% | ~865 |
 | Thorston Mayer | 5.00% | ~865 |
 | Khan's Revenge | 5.00% | ~865 |
-| Master Negotiator | 5.00% | ~162 |
+| Master Negotiator | 5.00% | ~163 |
 | Bottoms up! | 4.00% | ~692 |
 | Data Logger | 3.00% | ~519 |
 | Miraculous Maya | 3.00% | ~519 |
@@ -36,12 +36,12 @@ Rating: 4.55 (Ranked 512)
 | Data Master | 2.00% | ~346 |
 | Data Recoverer | 1.00% | ~173 |
 | Urshanabi Hoarder | 0.90% | ~156 |
-| Data Miner | 0.50% | ~86 |
-| Grave Robber | 0.50% | ~86 |
+| Data Miner | 0.50% | ~87 |
+| Grave Robber | 0.50% | ~87 |
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,296 (Ranked 156)  
+Progressed: 17,302 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
-| 2023-12-24 | 17,296 | 52 |
+| 2023-12-24 | 17,302 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

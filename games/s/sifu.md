@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,723 |
-| The Assault | 3.00% | ~22,292 |
-| Life is your teacher | 3.00% | ~22,292 |
-| Lightning Hands | 3.00% | ~22,292 |
+| The Old Grandmaster | 4.00% | ~29,725 |
+| The Assault | 3.00% | ~22,294 |
+| Life is your teacher | 3.00% | ~22,294 |
+| Lightning Hands | 3.00% | ~22,294 |
 | The Hateful Pole Fighter | 2.00% | ~14,862 |
 | Stuntmaster | 2.00% | ~14,862 |
 | Street Fighting | 2.00% | ~14,862 |
@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.80% | ~5,945 |
 | Dance of the Praying Mantis | 0.70% | ~5,202 |
 | Fight the way you practice | 0.70% | ~367 |
-| Martial Hub | 0.60% | ~314 |
-| Muk Yan Master | 0.50% | ~3,715 |
+| Martial Hub | 0.60% | ~315 |
+| Muk Yan Master | 0.50% | ~3,716 |
 | Bloody Sport | 0.50% | ~262 |
 | Tiger on Fire | 0.40% | ~2,972 |
 | Source of Flying Daggers | 0.40% | ~2,972 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Drunken Fighter | 0.20% | ~1,486 |
 | Martial Artist | 0.20% | ~1,486 |
 | Knowledge Greed | 0.20% | ~1,486 |
+| Healing Memory | 0.20% | ~1,486 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,486 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,486 |
 | Be like water my friend | 0.20% | ~1,486 |
@@ -56,7 +57,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.20% | ~105 |
 | Skill and an even stronger will | 0.20% | ~105 |
 | Beatmaker | 0.20% | ~105 |
-| Healing Memory | 0.10% | ~743 |
 | Warriors from the Mountain | 0.10% | ~743 |
 | Secure, Protect, Leave | 0.10% | ~52 |
 | Crouching Tiger | 0.10% | ~52 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~52 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,081 (Ranked 23)  
+Progressed: 743,117 (Ranked 23)  
 Completed: 12,963 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 12,963 (1.74%) (Ranked 141)
 | 2023-12-21 | 738,913 | 12,958 |
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
-| 2023-12-24 | 743,081 | 12,963 |
+| 2023-12-24 | 743,117 | 12,963 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
 Sum: 12,282 (Ranked 84)  

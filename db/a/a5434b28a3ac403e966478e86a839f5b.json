@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 747,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.21,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2570,6 +2570,11 @@
       "Time": "2023-12-24T13:10:57.4935048+00:00",
       "NumProgressed": 745,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T18:09:20.5814262+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2588,9 +2593,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 417
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_eou2",
@@ -2598,7 +2603,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_eou3",
@@ -2606,7 +2611,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_eou4",
@@ -2622,7 +2627,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_eou6",
@@ -2646,7 +2651,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_mg2",
@@ -2685,14 +2690,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 747,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:09:43.1766953+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:09:20.5814258+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:59:41.8077513+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:09:43.1767151+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:59:13.5622728+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:09:20.5814582+00:00"
 }

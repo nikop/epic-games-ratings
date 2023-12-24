@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2665,
+  "EOS_Progressed": 2673,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2709,6 +2709,11 @@
       "Time": "2023-12-24T17:05:51.7842231+00:00",
       "NumProgressed": 2665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T18:05:11.7021975+00:00",
+      "NumProgressed": 2673,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2735,17 +2740,17 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "c167foo",
       "Name": "Wicked Zeroes",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 722
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2799,9 +2804,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "c167foo",
       "Name": "Skull Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2815,9 +2820,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "c167foo",
       "Name": "The Nine Nightmare",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2825,23 +2830,23 @@
       "Name": "Worthy Badge",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_23",
       "SetID": "c167foo",
       "Name": "Talented Know-how",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2905,7 +2910,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 802
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2921,7 +2926,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 936
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -2935,9 +2940,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "c167foo",
       "Name": "Path of Damnation",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3031,9 +3036,9 @@
       "ID": "ACHIEVEMENT_48",
       "SetID": "c167foo",
       "Name": "Most notorious slasher",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -3087,23 +3092,23 @@
       "ID": "ACHIEVEMENT_55",
       "SetID": "c167foo",
       "Name": "Hundred below",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2665,
+      "Progressed": 2673,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:05:51.7842225+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:05:11.7021972+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:01:01.0342093+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:05:51.7842607+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:00:28.1826455+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:05:11.7022399+00:00"
 }

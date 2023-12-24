@@ -5,7 +5,7 @@
   "Ranking_Rating": 353,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 97,
@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -734,6 +734,11 @@
       "Time": "2023-12-24T14:03:32.6468341+00:00",
       "NumProgressed": 134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T18:04:04.6235121+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -754,7 +759,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -786,7 +791,7 @@
       "Name": "Yettisoned",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -808,7 +813,7 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 72
     },
@@ -816,17 +821,17 @@
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -842,7 +847,7 @@
       "Name": "Ouch of Body Experience",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -874,7 +879,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -906,7 +911,7 @@
       "Name": "Kaijuiced",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -914,7 +919,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -922,7 +927,7 @@
       "Name": "Die Nasty",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -946,7 +951,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -962,7 +967,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -970,15 +975,15 @@
       "Name": "Hidden Human Hive Harvest",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1002,7 +1007,7 @@
       "Name": "Mash Machine",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_JETPACK_INTODONUT",
@@ -1032,9 +1037,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "cefn62b",
       "Name": "Dusted",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1042,7 +1047,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1065,15 +1070,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:04:40.3184144+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:04:04.6235116+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:02:19.6332282+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:04:40.3184413+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:01:42.049469+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:04:04.6235391+00:00"
 }

@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Strike | 68.00% | ~159,064 |
-| The Cleaner | 67.00% | ~156,724 |
-| Battle Beyond the Stars | 62.00% | ~145,029 |
-| The Battle of Endor | 59.00% | ~138,011 |
-| The Dauntless | 54.00% | ~126,315 |
-| A Job Well Done | 53.00% | ~123,976 |
-| The Observatory | 53.00% | ~123,976 |
-| The Storm | 50.00% | ~116,958 |
-| Outcasts | 48.00% | ~112,280 |
-| Heavy is the Hand | 47.00% | ~109,941 |
-| Royalty | 47.00% | ~109,941 |
-| There Has Been An Awakening | 46.00% | ~107,602 |
-| General Distress | 45.00% | ~105,263 |
-| There is No Such Thing As Luck | 43.00% | ~100,584 |
-| Under Covered Skies | 41.00% | ~95,906 |
-| Cache Grab | 40.00% | ~93,567 |
-| The Battle of Jakku | 39.00% | ~91,228 |
-| Until Ashes | 38.00% | ~88,888 |
-| Discoveries | 37.00% | ~86,549 |
-| Outbound Flight | 35.00% | ~81,871 |
-| We are the Spark | 33.00% | ~77,193 |
-| What a Blast | 32.00% | ~74,853 |
-| Scoped | 30.00% | ~70,175 |
-| Project: Resurrection | 29.00% | ~67,836 |
-| Choose Your Path | 28.00% | ~65,497 |
-| Ashes of the Empire | 27.00% | ~63,158 |
-| X-wing vs. TIE Fighter | 26.00% | ~60,818 |
-| Inferno | 26.00% | ~60,818 |
-| Sentry Mode Engaged | 25.00% | ~58,479 |
-| A Dominating Presence | 23.00% | ~53,801 |
-| Dark Forces | 21.00% | ~49,123 |
-| Do. Or Do Not. There is no Try. | 21.00% | ~49,123 |
-| The Force is Strong With This One | 17.00% | ~39,766 |
-| Strike Back | 17.00% | ~39,766 |
-| Master of Deception | 13.00% | ~30,409 |
-| Not All Miss | 12.00% | ~28,070 |
-| Complete Your Training | 10.00% | ~23,392 |
-| The Interceptor | 6.00% | ~14,035 |
-| Ignore Your Instincts At Your Peril | 6.00% | ~14,035 |
-| A Galaxy at War | 6.00% | ~14,035 |
-| Balance Point | 4.00% | ~9,357 |
+| Quick Strike | 68.00% | ~159,169 |
+| The Cleaner | 67.00% | ~156,828 |
+| Battle Beyond the Stars | 62.00% | ~145,125 |
+| The Battle of Endor | 59.00% | ~138,102 |
+| The Dauntless | 54.00% | ~126,399 |
+| A Job Well Done | 53.00% | ~124,058 |
+| The Observatory | 53.00% | ~124,058 |
+| The Storm | 50.00% | ~117,036 |
+| Outcasts | 48.00% | ~112,355 |
+| Heavy is the Hand | 47.00% | ~110,014 |
+| Royalty | 47.00% | ~110,014 |
+| There Has Been An Awakening | 46.00% | ~107,673 |
+| General Distress | 45.00% | ~105,332 |
+| There is No Such Thing As Luck | 43.00% | ~100,651 |
+| Under Covered Skies | 41.00% | ~95,970 |
+| Cache Grab | 40.00% | ~93,629 |
+| The Battle of Jakku | 39.00% | ~91,288 |
+| Until Ashes | 38.00% | ~88,947 |
+| Discoveries | 37.00% | ~86,607 |
+| Outbound Flight | 35.00% | ~81,925 |
+| We are the Spark | 33.00% | ~77,244 |
+| What a Blast | 32.00% | ~74,903 |
+| Scoped | 30.00% | ~70,222 |
+| Project: Resurrection | 29.00% | ~67,881 |
+| Choose Your Path | 28.00% | ~65,540 |
+| Ashes of the Empire | 27.00% | ~63,199 |
+| X-wing vs. TIE Fighter | 26.00% | ~60,859 |
+| Inferno | 26.00% | ~60,859 |
+| Sentry Mode Engaged | 24.00% | ~56,177 |
+| A Dominating Presence | 23.00% | ~53,837 |
+| Dark Forces | 21.00% | ~49,155 |
+| Do. Or Do Not. There is no Try. | 20.00% | ~46,814 |
+| The Force is Strong With This One | 17.00% | ~39,792 |
+| Strike Back | 17.00% | ~39,792 |
+| Master of Deception | 13.00% | ~30,429 |
+| Not All Miss | 12.00% | ~28,089 |
+| Complete Your Training | 10.00% | ~23,407 |
+| The Interceptor | 6.00% | ~14,044 |
+| Ignore Your Instincts At Your Peril | 6.00% | ~14,044 |
+| A Galaxy at War | 6.00% | ~14,044 |
+| Balance Point | 4.00% | ~9,363 |
 | Multi-tasking | 0.60% | ~1,404 |
 | The Bomber | 0.30% | ~702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,917 (Ranked 72)  
+Progressed: 234,072 (Ranked 72)  
 Completed: 67 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 67 (0.03%) (Ranked 349)
 | 2023-12-21 | 226,529 | 66 |
 | 2023-12-22 | 228,827 | 66 |
 | 2023-12-23 | 231,889 | 66 |
-| 2023-12-24 | 233,917 | 67 |
+| 2023-12-24 | 234,072 | 67 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

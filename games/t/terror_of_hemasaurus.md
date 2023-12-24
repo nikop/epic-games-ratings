@@ -22,12 +22,12 @@
 | Holy Terror | 6.00% | ~5 |
 | Kill All Humans! | 6.00% | ~5 |
 | Midair Affair | 5.00% | ~4 |
+| Demolition Tactician | 5.00% | ~4 |
 | Plight of the Valkyrie | 5.00% | ~4 |
 | Trash the Planet. | 5.00% | ~4 |
 | Demolition Exhibition | 3.00% | ~3 |
 | Rocket Science | 3.00% | ~3 |
 | Meat Catcher | 3.00% | ~3 |
-| Demolition Tactician | 3.00% | ~3 |
 | Hot Potato | 3.00% | ~3 |
 | Oblideration Nation | 3.00% | ~3 |
 | SWATing Flies | 3.00% | ~3 |

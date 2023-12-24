@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~52,591 |
-| ''I don't like you either!'' | 78.00% | ~42,730 |
-| ''Impressive, most impressive'' | 70.00% | ~38,347 |
-| ''You think you're some kind of Jedi?'' | 70.00% | ~38,347 |
-| The Phantom Menace | 58.00% | ~31,774 |
-| ''Aggressive Negotiations'' | 57.00% | ~31,226 |
-| ''I can fly anything'' | 56.00% | ~30,678 |
-| ''And who gave you permission...?'' | 52.00% | ~28,487 |
-| A New Hope | 47.00% | ~25,748 |
-| Attack of the Clones | 45.00% | ~24,652 |
-| Revenge of the Sith | 39.00% | ~21,365 |
-| The Empire Strikes Back | 37.00% | ~20,269 |
-| ''A fine addition to my collection'' | 37.00% | ~20,269 |
-| Return of the Jedi | 31.00% | ~16,982 |
-| The Force Awakens | 26.00% | ~14,243 |
-| The Last Jedi | 22.00% | ~12,052 |
-| The Rise of Skywalker | 19.00% | ~10,409 |
-| ''It's true... all of it'' | 18.00% | ~9,861 |
-| ''Get the crews to their fighters'' | 18.00% | ~9,861 |
-| ''Raw, untamed power'' | 8.00% | ~4,383 |
-| Rishi Maze | 5.00% | ~2,739 |
-| ''Only one business in the Galaxy...'' | 5.00% | ~2,739 |
-| ''You may fire when ready'' | 3.00% | ~1,643 |
-| ''What have you done with those plans?'' | 3.00% | ~1,643 |
-| ''GONK!'' | 3.00% | ~1,643 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,643 |
-| The Slice | 3.00% | ~1,643 |
+| ''You guys got yourself a ship!'' | 96.00% | ~52,604 |
+| ''I don't like you either!'' | 78.00% | ~42,741 |
+| ''Impressive, most impressive'' | 70.00% | ~38,357 |
+| ''You think you're some kind of Jedi?'' | 70.00% | ~38,357 |
+| The Phantom Menace | 58.00% | ~31,782 |
+| ''Aggressive Negotiations'' | 57.00% | ~31,234 |
+| ''I can fly anything'' | 56.00% | ~30,686 |
+| ''And who gave you permission...?'' | 52.00% | ~28,494 |
+| A New Hope | 47.00% | ~25,754 |
+| Attack of the Clones | 45.00% | ~24,658 |
+| Revenge of the Sith | 39.00% | ~21,370 |
+| The Empire Strikes Back | 37.00% | ~20,275 |
+| ''A fine addition to my collection'' | 37.00% | ~20,275 |
+| Return of the Jedi | 31.00% | ~16,987 |
+| The Force Awakens | 26.00% | ~14,247 |
+| The Last Jedi | 22.00% | ~12,055 |
+| The Rise of Skywalker | 19.00% | ~10,411 |
+| ''It's true... all of it'' | 18.00% | ~9,863 |
+| ''Get the crews to their fighters'' | 18.00% | ~9,863 |
+| ''Raw, untamed power'' | 8.00% | ~4,384 |
+| Rishi Maze | 5.00% | ~2,740 |
+| ''Only one business in the Galaxy...'' | 5.00% | ~2,740 |
+| ''You may fire when ready'' | 3.00% | ~1,644 |
+| ''What have you done with those plans?'' | 3.00% | ~1,644 |
+| ''GONK!'' | 3.00% | ~1,644 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,644 |
+| The Slice | 3.00% | ~1,644 |
 | ''Hello there!'' | 2.00% | ~1,096 |
 | Unknown Regions | 2.00% | ~1,096 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,096 |
@@ -52,8 +52,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~548 |
 | ''I've never seen a real one!'' | 1.00% | ~548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,782 (Ranked 118)  
-Completed: 253 (0.46%) (Ranked 221)  
+Progressed: 54,796 (Ranked 118)  
+Completed: 254 (0.46%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,10 +299,10 @@ Completed: 253 (0.46%) (Ranked 221)
 | 2023-12-21 | 54,131 | 253 |
 | 2023-12-22 | 54,369 | 253 |
 | 2023-12-23 | 54,623 | 253 |
-| 2023-12-24 | 54,782 | 253 |
+| 2023-12-24 | 54,796 | 254 |
 ## Awards
 Max (Great Boss Battles): 2,465  (Ranked 106)  
-Sum: 6,756 (Ranked 127)  
+Sum: 6,757 (Ranked 127)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): -21
 | This game has Easy Combat | 474 |
 | This game is Highly Recommended | 473 |
 | This game has Amazing Storytelling | 469 |
-| This game is Extremely Fun | 457 |
+| This game is Extremely Fun | 458 |
 | This game has Quickly Understood Controls | 448 |
 | This game is Relaxing | 441 |
 | This game has Obsessive Gameplay | 341 |
@@ -597,4 +597,4 @@ Diff (max vs sum): -21
 | 2023-12-21 | 4.78 | - | 2,459 | 6,745 |
 | 2023-12-22 | 4.77 | - | 2,463 | 6,749 |
 | 2023-12-23 | 4.77 | - | 2,463 | 6,751 |
-| 2023-12-24 | 4.77 | - | 2,465 | 6,756 |
+| 2023-12-24 | 4.77 | - | 2,465 | 6,757 |

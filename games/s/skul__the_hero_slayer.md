@@ -6,21 +6,21 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~11,476 |
-| What should I buy? | 81.00% | ~9,995 |
-| Rescued Elder Ent | 61.00% | ~7,527 |
-| Focus! | 60.00% | ~7,404 |
-| The End of the Gold Mane Knights | 46.00% | ~5,676 |
-| False Goddess, Disappear | 38.00% | ~4,689 |
-| Rules of Etiquette | 36.00% | ~4,442 |
-| Inventory Management | 31.00% | ~3,825 |
+| The Legend Begins | 93.00% | ~11,479 |
+| What should I buy? | 81.00% | ~9,998 |
+| Rescued Elder Ent | 61.00% | ~7,529 |
+| Focus! | 60.00% | ~7,406 |
+| The End of the Gold Mane Knights | 46.00% | ~5,678 |
+| False Goddess, Disappear | 38.00% | ~4,690 |
+| Rules of Etiquette | 36.00% | ~4,443 |
+| Inventory Management | 31.00% | ~3,826 |
 | Quick Movements | 29.00% | ~3,579 |
-| The Fall of the Leonia Order | 28.00% | ~3,455 |
-| Go Home... | 26.00% | ~3,208 |
-| The Final Battle of the First Hero | 25.00% | ~3,085 |
+| The Fall of the Leonia Order | 28.00% | ~3,456 |
+| Go Home... | 26.00% | ~3,209 |
+| The Final Battle of the First Hero | 25.00% | ~3,086 |
 | The Hero Killer | 24.00% | ~2,962 |
 | Brain at Full Throttle | 19.00% | ~2,345 |
-| Rookies Welcome | 18.00% | ~2,221 |
+| Rookies Welcome | 18.00% | ~2,222 |
 | Deadly Power | 15.00% | ~1,851 |
 | Castle Restoration Plans | 12.00% | ~1,481 |
 | The Dwarven Chandelier | 10.00% | ~1,234 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~123 |
 | Cold-Blooded | 0.60% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,340 (Ranked 170)  
+Progressed: 12,343 (Ranked 170)  
 Completed: 18 (0.15%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,15 +258,15 @@ Completed: 18 (0.15%) (Ranked 290)
 | 2023-12-21 | 11,694 | 18 |
 | 2023-12-22 | 11,894 | 18 |
 | 2023-12-23 | 12,131 | 18 |
-| 2023-12-24 | 12,340 | 18 |
+| 2023-12-24 | 12,343 | 18 |
 ## Awards
 Max (Great for Beginners): 143  (Ranked 327)  
-Sum: 966 (Ranked 271)  
-Diff (max vs sum): 56  
+Sum: 967 (Ranked 270)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 143 |
-| This game has Diverse Characters | 139 |
+| This game has Diverse Characters | 140 |
 | This game is Highly Recommended | 116 |
 | This game is Extremely Fun | 114 |
 | This game is Relaxing | 109 |
@@ -436,4 +436,4 @@ Diff (max vs sum): 56
 | 2023-12-21 | 4.73 | - | 141 | 960 |
 | 2023-12-22 | 4.73 | - | 141 | 962 |
 | 2023-12-23 | 4.73 | - | 141 | 963 |
-| 2023-12-24 | 4.73 | - | 143 | 966 |
+| 2023-12-24 | 4.73 | - | 143 | 967 |

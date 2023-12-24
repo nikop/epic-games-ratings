@@ -5,23 +5,23 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 47.00% | ~5,481 |
-| Feeling the beat! | 47.00% | ~5,481 |
-| You can pet the cat! | 42.00% | ~4,898 |
-| Who put gears in there? | 34.00% | ~3,965 |
-| Cream of the Crop | 30.00% | ~3,499 |
-| Thanks for the free chip, Peppermint! | 29.00% | ~3,382 |
-| You got this, Peppermint? | 24.00% | ~2,799 |
+| Feeling the beat! | 48.00% | ~5,599 |
+| Start with a bang! | 47.00% | ~5,483 |
+| You can pet the cat! | 42.00% | ~4,899 |
+| Who put gears in there? | 34.00% | ~3,966 |
+| Cream of the Crop | 30.00% | ~3,500 |
+| Thanks for the free chip, Peppermint! | 29.00% | ~3,383 |
+| You got this, Peppermint? | 24.00% | ~2,800 |
 | Perfect Parry | 22.00% | ~2,566 |
 | Alright, that felt AWESOME! | 22.00% | ~2,566 |
-| I play my own way! | 20.00% | ~2,332 |
+| I play my own way! | 20.00% | ~2,333 |
 | This will cost you big time | 17.00% | ~1,983 |
 | Uh, they were broken when I got here | 17.00% | ~1,983 |
 | Z-shielding's got nothing on us! | 16.00% | ~1,866 |
-| Kissing the sky! | 15.00% | ~1,749 |
+| Kissing the sky! | 15.00% | ~1,750 |
 | Does that say weakpoint? | 14.00% | ~1,633 |
 | Whoa! There's ANOTHER health bar!? | 13.00% | ~1,516 |
-| The Negotiator | 12.00% | ~1,399 |
+| The Negotiator | 12.00% | ~1,400 |
 | You must like calling me in, Chai | 11.00% | ~1,283 |
 | Out in a puff of smoke | 10.00% | ~1,166 |
 | I look cool. But I can look COOLER. | 10.00% | ~1,166 |
@@ -35,7 +35,7 @@ Rating: 4.89 (Ranked 10)
 | Well that was a rush! | 5.00% | ~583 |
 | Beat-hit mania | 5.00% | ~583 |
 | That's a lot of junk metal… | 5.00% | ~583 |
-| I told you I'd be fine, Peppermint! | 4.00% | ~466 |
+| I told you I'd be fine, Peppermint! | 4.00% | ~467 |
 | Chip-tuned | 3.00% | ~350 |
 | Wanna hear my playlist? | 3.00% | ~350 |
 | Check out my moves! | 3.00% | ~350 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~10 |
 | Low budget finish | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,662 (Ranked 171)  
+Progressed: 11,665 (Ranked 171)  
 Completed: 8 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 8 (0.07%) (Ranked 321)
 | 2023-12-21 | 10,248 | 8 |
 | 2023-12-22 | 10,702 | 8 |
 | 2023-12-23 | 11,217 | 8 |
-| 2023-12-24 | 11,662 | 8 |
+| 2023-12-24 | 11,665 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,29 +5,29 @@ Rating: 4.52 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,354 |
-| Greasy Palms | 42.00% | ~5,802 |
-| South American Connection | 26.00% | ~3,592 |
-| Life of the Party | 20.00% | ~2,763 |
-| Tommy Two-Wheels | 15.00% | ~2,072 |
-| Big Heat from Little Havana | 14.00% | ~1,934 |
-| Chauffeur | 14.00% | ~1,934 |
+| Legal Counsel | 46.00% | ~6,357 |
+| Greasy Palms | 42.00% | ~5,804 |
+| South American Connection | 26.00% | ~3,593 |
+| Life of the Party | 20.00% | ~2,764 |
+| Tommy Two-Wheels | 15.00% | ~2,073 |
+| Big Heat from Little Havana | 14.00% | ~1,935 |
+| Chauffeur | 14.00% | ~1,935 |
 | Salutations My Little Friend | 11.00% | ~1,520 |
-| Iron-y | 10.00% | ~1,381 |
-| Gun for Hire | 9.00% | ~1,243 |
-| Mischief Managed | 8.00% | ~1,105 |
+| Iron-y | 10.00% | ~1,382 |
+| Gun for Hire | 9.00% | ~1,244 |
+| Mischief Managed | 8.00% | ~1,106 |
 | Vice City Mogul | 6.00% | ~829 |
 | Catch Me if You Can | 6.00% | ~829 |
 | Bloodstained Hands | 6.00% | ~829 |
 | Not my First Time | 5.00% | ~691 |
 | Grand Theft Auto | 5.00% | ~691 |
 | Pie Guy | 4.00% | ~553 |
-| Point A to Point B | 3.00% | ~414 |
-| High Quality H2O | 3.00% | ~414 |
-| Bull in a China Shop | 3.00% | ~414 |
-| Somebody Call the Wambulance? | 3.00% | ~414 |
-| Just Like the Real Thing | 3.00% | ~414 |
-| Don't Need Roads | 3.00% | ~414 |
+| Point A to Point B | 3.00% | ~415 |
+| High Quality H2O | 3.00% | ~415 |
+| Bull in a China Shop | 3.00% | ~415 |
+| Somebody Call the Wambulance? | 3.00% | ~415 |
+| Just Like the Real Thing | 3.00% | ~415 |
+| Don't Need Roads | 3.00% | ~415 |
 | Running Rampant | 2.00% | ~276 |
 | One is Better Than Two | 2.00% | ~276 |
 | Take the Cannoli | 2.00% | ~276 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 564)
 | Done it All | 0.90% | ~124 |
 | Kingpin | 0.50% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,814 (Ranked 167)  
+Progressed: 13,820 (Ranked 167)  
 Completed: 75 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 75 (0.54%) (Ranked 209)
 | 2023-12-21 | 13,290 | 72 |
 | 2023-12-22 | 13,474 | 74 |
 | 2023-12-23 | 13,682 | 75 |
-| 2023-12-24 | 13,814 | 75 |
+| 2023-12-24 | 13,820 | 75 |
 ## Awards
 Max (Great Boss Battles): 139  (Ranked 330)  
 Sum: 139 (Ranked 436)  

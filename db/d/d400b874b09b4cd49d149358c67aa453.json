@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2155,9 +2155,9 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2267,9 +2267,9 @@
       "ID": "ACH_SELL_ALL_DEBRIS",
       "SetID": "al4k4nh",
       "Name": "Unpacked",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2314,8 +2314,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:07:10.8322589+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:06:26.7278403+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.6062309+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:58:15.7131422+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:07:10.8322818+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:57:51.4880551+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:06:26.7278732+00:00"
 }

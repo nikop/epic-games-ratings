@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2190,9 +2190,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15923,
+  "EOS_Progressed": 15924,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18265,6 +18265,11 @@
       "Time": "2023-12-24T17:11:39.4013261+00:00",
       "NumProgressed": 15923,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T18:11:12.6199429+00:00",
+      "NumProgressed": 15924,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18906,9 +18911,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -19802,9 +19807,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -21139,21 +21144,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15923,
+      "Progressed": 15924,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15923,
+      "Progressed": 15924,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-24T01:52:51.4909286+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:11:39.4013255+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:11:12.6199427+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:03:46.3337834+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:11:39.4023084+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:03:15.7818299+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:11:12.6208739+00:00"
 }

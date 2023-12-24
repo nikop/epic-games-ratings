@@ -9,13 +9,13 @@ Rating: 4.65 (Ranked 320)
 | The Mysterious Stranger | 30.00% | ~327 |
 | Rail Rat | 30.00% | ~327 |
 | Immaculate Aim | 25.00% | ~272 |
-| The Brass Boss | 24.00% | ~261 |
-| Make Up For Lost Time | 23.00% | ~250 |
-| Time Flies | 23.00% | ~250 |
-| No, Thanks! | 23.00% | ~250 |
-| The Prince in Heels | 23.00% | ~250 |
-| Honest Mistake | 23.00% | ~250 |
-| Immaculate Aim | 23.00% | ~250 |
+| The Brass Boss | 24.00% | ~262 |
+| Make Up For Lost Time | 23.00% | ~251 |
+| Time Flies | 23.00% | ~251 |
+| No, Thanks! | 23.00% | ~251 |
+| The Prince in Heels | 23.00% | ~251 |
+| Honest Mistake | 23.00% | ~251 |
+| Immaculate Aim | 23.00% | ~251 |
 | The Steel Shadow | 22.00% | ~240 |
 | The Harder They Fall | 22.00% | ~240 |
 | Breaking Down Barriers | 22.00% | ~240 |
@@ -30,8 +30,8 @@ Rating: 4.65 (Ranked 320)
 | The Man Who Shattered Time | 18.00% | ~196 |
 | The Family Fortune | 18.00% | ~196 |
 | Street Style | 17.00% | ~185 |
-| Whiz Kid | 15.00% | ~163 |
-| Good Neighbor | 14.00% | ~152 |
+| Whiz Kid | 15.00% | ~164 |
+| Good Neighbor | 14.00% | ~153 |
 | Treasure Trove | 13.00% | ~142 |
 | Family Memories | 13.00% | ~142 |
 | Cartographer | 13.00% | ~142 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089 (Ranked 277)  
+Progressed: 1,090 (Ranked 277)  
 Completed: 6 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.55%) (Ranked 207)
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
-| 2023-12-24 | 1,089 | 6 |
+| 2023-12-24 | 1,090 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

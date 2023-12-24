@@ -4,11 +4,11 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 647,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5787,
+  "EOS_Progressed": 5788,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11737,6 +11737,11 @@
       "Time": "2023-12-24T16:06:14.6215312+00:00",
       "NumProgressed": 5787,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T18:07:17.5185047+00:00",
+      "NumProgressed": 5788,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11765,7 +11770,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -11805,7 +11810,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11893,7 +11898,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -11932,15 +11937,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5787,
+      "Progressed": 5788,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:08:06.0761021+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:07:17.5185043+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:58:36.2671974+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:08:06.0761892+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:58:10.8256698+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:07:17.5185774+00:00"
 }

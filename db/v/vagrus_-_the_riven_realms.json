@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -931,6 +931,11 @@
       "Time": "2023-12-24T17:04:50.3308701+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T18:04:14.2718283+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1052,7 +1057,7 @@
       "ID": "Vanilla_ChurchOfSergorod",
       "SetID": "27kik8p",
       "Name": "Executor",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1142,13 +1147,13 @@
       "Name": "The More the Merrier",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
       "SetID": "27kik8p",
       "Name": "Embellished",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1198,7 +1203,7 @@
       "Name": "Harbinger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -1278,7 +1283,7 @@
       "Name": "Acquaintance",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1372,7 +1377,7 @@
       "ID": "Vanilla_HouseOquo",
       "SetID": "27kik8p",
       "Name": "Trailblazer",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1388,7 +1393,7 @@
       "ID": "Vanilla_Hunter",
       "SetID": "27kik8p",
       "Name": "Huntsmaster",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1420,7 +1425,7 @@
       "ID": "Vanilla_MercenaryTasksTier1",
       "SetID": "27kik8p",
       "Name": "Mercenary",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1438,7 +1443,7 @@
       "Name": "Tail-wind",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_MovementTier2",
@@ -1476,7 +1481,7 @@
       "ID": "Vanilla_PassengerDelivers",
       "SetID": "27kik8p",
       "Name": "Escort",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1532,7 +1537,7 @@
       "ID": "Vanilla_Ruiner",
       "SetID": "27kik8p",
       "Name": "Ruiner",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1558,13 +1563,13 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Vanilla_SecretsBelow",
       "SetID": "27kik8p",
       "Name": "What Lies Below",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1580,7 +1585,7 @@
       "ID": "Vanilla_Skornar",
       "SetID": "27kik8p",
       "Name": "The Last Voyage",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1596,9 +1601,9 @@
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1612,7 +1617,7 @@
       "ID": "Vanilla_TheGoldenTheory",
       "SetID": "27kik8p",
       "Name": "Theory to Practice",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1622,7 +1627,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1733,7 +1738,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
@@ -1741,8 +1746,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:04:50.3308698+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:04:14.2718276+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:58:20.4329732+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:04:50.3309593+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:57:55.7224311+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:04:14.2719118+00:00"
 }

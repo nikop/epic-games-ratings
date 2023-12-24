@@ -8,12 +8,12 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 2.00% | ~3,285 |
 | Imprint | 2.00% | ~3,285 |
-| The Hunt | 1.00% | ~1,642 |
-| Weeper | 1.00% | ~1,642 |
-| Ravenous | 1.00% | ~1,642 |
+| The Hunt | 1.00% | ~1,643 |
+| Weeper | 1.00% | ~1,643 |
+| Ravenous | 1.00% | ~1,643 |
 | Devourer | 0.70% | ~1,150 |
-| Harmless | 0.60% | ~985 |
-| Silenced Whispers | 0.60% | ~985 |
+| Harmless | 0.60% | ~986 |
+| Silenced Whispers | 0.60% | ~986 |
 | Yank | 0.50% | ~821 |
 | Sharpened Vessel | 0.50% | ~821 |
 | Scion | 0.40% | ~655 |
@@ -22,19 +22,19 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.40% | ~657 |
 | Assimilation | 0.30% | ~493 |
 | Shapely | 0.30% | ~493 |
-| Glare | 0.30% | ~491 |
-| Host | 0.30% | ~491 |
+| Glare | 0.30% | ~492 |
+| Host | 0.30% | ~492 |
 | Celebration | 0.30% | ~493 |
 | Watcher | 0.30% | ~493 |
 | Predator | 0.30% | ~493 |
-| Breath | 0.20% | ~328 |
-| Hunt Down | 0.20% | ~328 |
-| Artisan | 0.20% | ~328 |
-| Hush | 0.20% | ~328 |
-| Inevitable | 0.20% | ~328 |
-| All-Seeing | 0.20% | ~328 |
-| Breathsmith | 0.20% | ~328 |
-| Unwrap the Gift | 0.20% | ~328 |
+| Breath | 0.20% | ~329 |
+| Hunt Down | 0.20% | ~329 |
+| Artisan | 0.20% | ~329 |
+| Hush | 0.20% | ~329 |
+| Inevitable | 0.20% | ~329 |
+| All-Seeing | 0.20% | ~329 |
+| Breathsmith | 0.20% | ~329 |
+| Unwrap the Gift | 0.20% | ~329 |
 | Dream | 0.20% | ~328 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~164 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,241 (Ranked 81)  
+Progressed: 164,255 (Ranked 81)  
 Completed: 397 (0.24%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 397 (0.24%) (Ranked 265)
 | 2023-12-21 | 163,723 | 380 |
 | 2023-12-22 | 163,906 | 387 |
 | 2023-12-23 | 164,107 | 393 |
-| 2023-12-24 | 164,241 | 397 |
+| 2023-12-24 | 164,255 | 397 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 425)  
 Sum: 421 (Ranked 343)  

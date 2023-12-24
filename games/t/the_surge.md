@@ -6,15 +6,15 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,753 |
-| I'll Be Back | 84.00% | ~4,247 |
-| Sorry, I Dropped This | 77.00% | ~3,893 |
+| On My Own Two Feet | 94.00% | ~4,754 |
+| I'll Be Back | 84.00% | ~4,248 |
+| Sorry, I Dropped This | 77.00% | ~3,894 |
 | First Day on the Job | 76.00% | ~3,843 |
-| Butcher's Bill | 54.00% | ~2,730 |
+| Butcher's Bill | 54.00% | ~2,731 |
 | P.A.X | 37.00% | ~1,871 |
-| Hey Listen | 36.00% | ~1,820 |
-| OPERATOR | 36.00% | ~1,820 |
-| It's Blue Light | 33.00% | ~1,668 |
+| Hey Listen | 36.00% | ~1,821 |
+| OPERATOR | 36.00% | ~1,821 |
+| It's Blue Light | 33.00% | ~1,669 |
 | Most Wanted | 26.00% | ~1,315 |
 | Infidel | 23.00% | ~1,163 |
 | GOLIATH | 21.00% | ~1,062 |
@@ -22,8 +22,8 @@ Number of Ratings: 62  (23.09.2022)
 | Nothing to Lose | 18.00% | ~910 |
 | I Choose You | 17.00% | ~860 |
 | Big Sister | 16.00% | ~809 |
-| Gear Up | 15.00% | ~758 |
-| SENTINEL | 15.00% | ~758 |
+| Gear Up | 15.00% | ~759 |
+| SENTINEL | 15.00% | ~759 |
 | Core Power | 13.00% | ~657 |
 | The Black Cerberus | 12.00% | ~607 |
 | Watchman | 12.00% | ~607 |
@@ -35,9 +35,9 @@ Number of Ratings: 62  (23.09.2022)
 | Raging Drones | 9.00% | ~455 |
 | Overconfident | 9.00% | ~455 |
 | Is This Real Life? | 9.00% | ~455 |
-| Pusher Man | 8.00% | ~404 |
-| Squad Chief Helvig | 8.00% | ~404 |
-| No More Marching | 8.00% | ~404 |
+| Pusher Man | 8.00% | ~405 |
+| Squad Chief Helvig | 8.00% | ~405 |
+| No More Marching | 8.00% | ~405 |
 | Duty-Bound | 7.00% | ~354 |
 | Follow the White Rabbit | 7.00% | ~354 |
 | Liberation | 7.00% | ~354 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,056 (Ranked 200)  
+Progressed: 5,057 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 18 (0.36%) (Ranked 236)
 | 2023-12-21 | 5,019 | 18 |
 | 2023-12-22 | 5,031 | 18 |
 | 2023-12-23 | 5,048 | 18 |
-| 2023-12-24 | 5,056 | 18 |
+| 2023-12-24 | 5,057 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 512)  
-Sum: 30 (Ranked 529)  
+Max (Great Boss Battles): 30  (Ranked 513)  
+Sum: 30 (Ranked 530)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |

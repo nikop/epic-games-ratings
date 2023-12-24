@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.30% | ~48 |
 | Mason | 0.30% | ~48 |
 | Noble | 0.30% | ~48 |
+| Strong | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
 | Hanging Gardens | 0.30% | ~48 |
 | Oracle | 0.30% | ~48 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
-| Strong | 0.20% | ~32 |
 | Warrior | 0.20% | ~32 |
 | Wise | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
 | Learn to Play 1 | 0.20% | ~32 |
+| Learn to Play 2 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
@@ -159,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
-| Learn to Play 2 | 0.10% | ~16 |
 | Learn to Play 3 | 0.10% | ~16 |
 | Learn to Play 4 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,923 (Ranked 162)  
+Progressed: 15,924 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -613,7 +613,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
-| 2023-12-24 | 15,923 | 5 |
+| 2023-12-24 | 15,924 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

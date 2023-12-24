@@ -235,9 +235,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1117,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2980,6 +2980,11 @@
       "Time": "2023-12-24T15:09:04.999885+00:00",
       "NumProgressed": 1117,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T18:08:47.4720051+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3000,7 +3005,7 @@
       "Name": "Ab Initio",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AnthropicHills",
@@ -3112,7 +3117,7 @@
       "Name": "Excellent",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "FloodedValley",
@@ -3176,7 +3181,7 @@
       "Name": "Lord of the Files",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "LostMarshes",
@@ -3206,9 +3211,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 145
     },
     {
       "ID": "MuseumVisitor",
@@ -3240,7 +3245,7 @@
       "Name": "Not What It Seems",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Overload",
@@ -3248,7 +3253,7 @@
       "Name": "Overload",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Persistent",
@@ -3256,7 +3261,7 @@
       "Name": "Persistent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "PrometheusUnbound",
@@ -3272,7 +3277,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3280,7 +3285,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "RenaissanceRobot",
@@ -3336,7 +3341,7 @@
       "Name": "Team Spirit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TextAdventurer",
@@ -3350,9 +3355,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 179
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3390,9 +3395,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 213
     },
     {
       "ID": "TheWordEndures",
@@ -3400,7 +3405,7 @@
       "Name": "The Word Endures",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "TouchGrass",
@@ -3408,7 +3413,7 @@
       "Name": "Touch Grass",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "TrevorsBiographer",
@@ -3416,7 +3421,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "VerdantCanyon",
@@ -3463,7 +3468,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1117,
+      "Progressed": 1119,
       "Completed": 2
     }
   ],
@@ -3471,8 +3476,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-24T13:57:49.2610926+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:09:08.5653031+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:08:47.4720048+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:58:51.5657419+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:09:08.5653752+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:58:25.5127349+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:08:47.4720542+00:00"
 }

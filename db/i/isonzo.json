@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9590,
+  "EOS_Progressed": 9591,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9931,6 +9931,11 @@
       "Time": "2023-12-24T16:09:20.1550935+00:00",
       "NumProgressed": 9590,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-24T18:09:53.2271089+00:00",
+      "NumProgressed": 9591,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10086,7 +10091,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10110,7 +10115,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10134,7 +10139,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10190,7 +10195,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10270,7 +10275,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10301,7 +10306,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9590,
+      "Progressed": 9591,
       "Completed": 10
     }
   ],
@@ -10309,8 +10314,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:10:16.4156484+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:09:53.2271085+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:59:50.7597015+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:10:16.4157113+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:59:22.6049154+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:09:53.227201+00:00"
 }

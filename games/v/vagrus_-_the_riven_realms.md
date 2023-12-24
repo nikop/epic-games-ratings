@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~136 |
+| A Second Chance | 58.00% | ~137 |
 | Press-ganged | 42.00% | ~99 |
-| The Package | 27.00% | ~63 |
+| The Package | 27.00% | ~64 |
 | Conquered | 20.00% | ~47 |
 | Randomized | 18.00% | ~42 |
 | Scribe | 12.00% | ~28 |
@@ -14,11 +14,11 @@
 | Tactician | 10.00% | ~24 |
 | Conciliator | 9.00% | ~21 |
 | Fight Another Day | 9.00% | ~21 |
-| Taskmaster | 9.00% | ~21 |
-| The More the Merrier | 7.00% | ~16 |
-| Harbinger | 7.00% | ~16 |
-| Acquaintance | 7.00% | ~16 |
-| Tail-wind | 7.00% | ~16 |
+| Taskmaster | 8.00% | ~19 |
+| The More the Merrier | 7.00% | ~17 |
+| Harbinger | 7.00% | ~17 |
+| Acquaintance | 7.00% | ~17 |
+| Tail-wind | 7.00% | ~17 |
 | Scholar | 6.00% | ~14 |
 | Strategist | 5.00% | ~12 |
 | Deputized | 5.00% | ~12 |
@@ -57,16 +57,16 @@
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
-| Executor | 0.90% | ~2 |
-| Embellished | 0.90% | ~2 |
-| Trailblazer | 0.90% | ~2 |
-| Huntsmaster | 0.90% | ~2 |
-| Mercenary | 0.90% | ~2 |
-| Escort | 0.90% | ~2 |
-| Ruiner | 0.90% | ~2 |
-| What Lies Below | 0.90% | ~2 |
-| The Last Voyage | 0.90% | ~2 |
-| Theory to Practice | 0.90% | ~2 |
+| Executor | 0.80% | ~2 |
+| Embellished | 0.80% | ~2 |
+| Trailblazer | 0.80% | ~2 |
+| Huntsmaster | 0.80% | ~2 |
+| Mercenary | 0.80% | ~2 |
+| Escort | 0.80% | ~2 |
+| Ruiner | 0.80% | ~2 |
+| What Lies Below | 0.80% | ~2 |
+| The Last Voyage | 0.80% | ~2 |
+| Theory to Practice | 0.80% | ~2 |
 | And the Sky Full of Stars | 0.40% | ~1 |
 | General | 0.40% | ~1 |
 | Company of Heroes | 0.40% | ~1 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 398)  
+Progressed: 236 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 227 | 0 |
 | 2023-12-22 | 229 | 0 |
 | 2023-12-23 | 231 | 0 |
-| 2023-12-24 | 235 | 0 |
+| 2023-12-24 | 236 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

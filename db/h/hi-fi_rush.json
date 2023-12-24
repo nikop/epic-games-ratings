@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11662,
+  "EOS_Progressed": 11665,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3038,
+  "EOS_NewPlayers": 3025,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9656,6 +9656,11 @@
       "Time": "2023-12-24T17:04:25.6662703+00:00",
       "NumProgressed": 11662,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-24T18:03:51.0965234+00:00",
+      "NumProgressed": 11665,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -9667,7 +9672,7 @@
       "Name": "Start with a bang!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5483
     },
     {
       "ID": "Ach002",
@@ -9675,7 +9680,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "Ach003",
@@ -9691,7 +9696,7 @@
       "Name": "The Negotiator",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "Ach005",
@@ -9779,7 +9784,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "Ach016",
@@ -9795,7 +9800,7 @@
       "Name": "I play my own way!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "Ach018",
@@ -9841,9 +9846,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5599
     },
     {
       "ID": "Ach024",
@@ -9859,7 +9864,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "Ach026",
@@ -9947,7 +9952,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "Ach037",
@@ -10035,7 +10040,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3965
+      "UsersEstimate": 3966
     },
     {
       "ID": "Ach048",
@@ -10067,7 +10072,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "Ach052",
@@ -10091,7 +10096,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "Ach055",
@@ -10234,13 +10239,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 11662,
+      "Progressed": 11665,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 10183,
+      "Progressed": 10186,
       "Completed": 1930
     }
   ],
@@ -10248,8 +10253,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-12-21T16:58:19.6903258+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:04:25.6662698+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:03:51.0965229+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:58.248811+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:01:24.9998383+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:04:25.6663796+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:00:50.6029464+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:03:51.0966244+00:00"
 }

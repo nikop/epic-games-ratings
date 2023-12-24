@@ -27,7 +27,7 @@ Rating: 4.52 (Ranked 564)
 | Gotta get 'em all | 34.00% | ~2,008 |
 | This is the end | 34.00% | ~2,008 |
 | Atomic drill | 32.00% | ~1,890 |
-| Disco Roach | 28.00% | ~1,653 |
+| Disco Roach | 29.00% | ~1,712 |
 | Dawkins Residence | 22.00% | ~1,299 |
 | Rescue time! | 19.00% | ~1,122 |
 | New order | 18.00% | ~1,063 |

@@ -10,9 +10,9 @@ Number of Ratings: 76  (23.09.2022)
 | Sponge Smasher | 12.00% | ~39 |
 | Jellyfish Jam | 11.00% | ~36 |
 | Jellyfishing | 8.00% | ~26 |
+| Time For Tutorial | 7.00% | ~23 |
 | Life's as extreme as you wanna make it! | 6.00% | ~20 |
 | Sweet Victory | 6.00% | ~20 |
-| Time For Tutorial | 6.00% | ~20 |
 | Sock Getter | 5.00% | ~16 |
 | Surf's Up! | 5.00% | ~16 |
 | Shrimp Catcher | 4.00% | ~13 |
@@ -28,12 +28,12 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 2.00% | ~7 |
 | Sleepy Time | 2.00% | ~7 |
 | Kelp Forest of Fear | 1.00% | ~3 |
+| Sock Concert | 0.90% | ~3 |
 | Ultra Spatula Seeker | 0.90% | ~3 |
 | The Small Does Not Rule | 0.60% | ~2 |
 | Ship Shape | 0.60% | ~2 |
 | Shanghaied | 0.60% | ~2 |
 | SpongeBob vs SpongeBob! | 0.60% | ~2 |
-| Sock Concert | 0.60% | ~2 |
 | 100% SpongeBob | 0.30% | ~1 |
 | Sock Opera | 0.30% | ~1 |
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |

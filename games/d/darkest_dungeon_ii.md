@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~448 |
+| Malpractice Assurance | 10.00% | ~449 |
 | Lost and Found | 6.00% | ~269 |
 | Autodidact | 5.00% | ~6,481 |
-| This guy... again? | 5.00% | ~224 |
-| This Belongs in a Museum | 4.00% | ~5,184 |
-| Creep and Sleep | 4.00% | ~5,184 |
-| Catch and Decease | 4.00% | ~5,184 |
-| Overdue Notice | 4.00% | ~5,184 |
-| Escape from the Black Hole | 4.00% | ~5,184 |
-| Ploughshares to Swords | 4.00% | ~179 |
-| Bloody Graduation | 4.00% | ~179 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,888 |
-| Serenity Now! | 3.00% | ~3,888 |
-| It Rings a Bell | 3.00% | ~3,888 |
-| Not Today! | 3.00% | ~3,888 |
-| Meat and Greet | 3.00% | ~3,888 |
-| It Happens | 3.00% | ~3,888 |
-| Rush Hour | 3.00% | ~3,888 |
-| Merry Time | 3.00% | ~3,888 |
-| Harvest Festival | 3.00% | ~3,888 |
-| To Grandmother's House | 3.00% | ~3,888 |
-| Whale | 3.00% | ~3,888 |
-| A Place to Lay Your Head | 3.00% | ~3,888 |
-| FNG | 3.00% | ~3,888 |
-| Nope | 3.00% | ~3,888 |
-| Friends 'Til the End | 3.00% | ~134 |
+| This guy... again? | 5.00% | ~225 |
+| This Belongs in a Museum | 4.00% | ~5,185 |
+| Creep and Sleep | 4.00% | ~5,185 |
+| Catch and Decease | 4.00% | ~5,185 |
+| Overdue Notice | 4.00% | ~5,185 |
+| Escape from the Black Hole | 4.00% | ~5,185 |
+| Ploughshares to Swords | 4.00% | ~180 |
+| Bloody Graduation | 4.00% | ~180 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,889 |
+| Serenity Now! | 3.00% | ~3,889 |
+| It Rings a Bell | 3.00% | ~3,889 |
+| Not Today! | 3.00% | ~3,889 |
+| Meat and Greet | 3.00% | ~3,889 |
+| It Happens | 3.00% | ~3,889 |
+| Rush Hour | 3.00% | ~3,889 |
+| Merry Time | 3.00% | ~3,889 |
+| Harvest Festival | 3.00% | ~3,889 |
+| To Grandmother's House | 3.00% | ~3,889 |
+| Whale | 3.00% | ~3,889 |
+| A Place to Lay Your Head | 3.00% | ~3,889 |
+| FNG | 3.00% | ~3,889 |
+| Nope | 3.00% | ~3,889 |
+| Friends 'Til the End | 3.00% | ~135 |
 | Resurrection | 2.00% | ~2,592 |
 | Unleash Hell | 2.00% | ~2,592 |
 | Funny Guy | 2.00% | ~2,592 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,612 (Ranked 87)  
+Progressed: 129,622 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,612 | 3 |
+| 2023-12-24 | 129,622 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
 Sum: 21,037 (Ranked 58)  

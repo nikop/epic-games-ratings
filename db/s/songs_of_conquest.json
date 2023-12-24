@@ -5,10 +5,10 @@
   "Ranking_Rating": 230,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 414,
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2723,6 +2723,11 @@
       "Time": "2023-12-24T15:09:50.593928+00:00",
       "NumProgressed": 723,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T18:09:33.5810407+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2759,7 +2764,7 @@
       "Name": "Dressed For Success",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "AttackCount",
@@ -2791,7 +2796,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BurrowUp",
@@ -2839,7 +2844,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "Deepstrike",
@@ -2847,7 +2852,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DieByTheBow",
@@ -2879,7 +2884,7 @@
       "Name": "Double Kill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 255
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2893,7 +2898,7 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2973,9 +2978,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 36
     },
     {
       "ID": "RanaCampaign",
@@ -3021,7 +3026,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -3039,7 +3044,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TrojanHorse",
@@ -3055,15 +3060,15 @@
       "Name": "Ultra Kill",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 306
     },
     {
       "ID": "WielderLevel2",
@@ -3071,7 +3076,7 @@
       "Name": "Veteran",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "WielderLevel3",
@@ -3079,7 +3084,7 @@
       "Name": "Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "WielderLevel4",
@@ -3103,7 +3108,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -3166,15 +3171,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 729,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-24T17:09:56.4461353+00:00",
+  "LastChanged_Achievements": "2023-12-24T18:09:33.5810404+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-24T17:02:12.4430384+00:00",
-  "LastUpdate_Achievements": "2023-12-24T17:09:56.4461759+00:00"
+  "LastUpdate_Ratings": "2023-12-24T18:01:35.711703+00:00",
+  "LastUpdate_Achievements": "2023-12-24T18:09:33.5810972+00:00"
 }
