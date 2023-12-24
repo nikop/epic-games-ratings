@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5199,7 +5199,7 @@
       "Count": 521
     }
   ],
-  "EOS_Progressed": 92423,
+  "EOS_Progressed": 92427,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -28989,6 +28989,11 @@
       "Time": "2023-12-24T04:04:56.2037793+00:00",
       "NumProgressed": 92423,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-24T05:04:49.3990598+00:00",
+      "NumProgressed": 92427,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29008,7 +29013,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0012",
@@ -29216,7 +29221,7 @@
       "Name": "Case Closed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0420",
@@ -29224,7 +29229,7 @@
       "Name": "King of the Hill",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0430",
@@ -29232,7 +29237,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0431",
@@ -29256,7 +29261,7 @@
       "Name": "Off the Rocks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0451",
@@ -29264,7 +29269,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0452",
@@ -29272,7 +29277,7 @@
       "Name": "Dragonslayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_0460",
@@ -29327,13 +29332,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92423,
+      "Progressed": 92427,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20770,
+      "Progressed": 20774,
       "Completed": 15591
     }
   ],
@@ -29341,8 +29346,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-23T14:59:08.4198238+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:04:56.2037787+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:04:49.3990596+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:00:24.871783+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:04:56.2038931+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:00:22.6092812+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:04:49.3991608+00:00"
 }

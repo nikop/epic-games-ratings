@@ -7,44 +7,44 @@ Rating: 4.20 (Ranked 936)
 | ---- | ---------- | ----- |
 | Flesh Wound | 16.00% | ~3,028 |
 | The Outer Way | 16.00% | ~3,028 |
-| Get a Grip | 15.00% | ~2,838 |
-| Paper Jams | 15.00% | ~2,838 |
-| Desperate Times | 15.00% | ~2,838 |
-| Chew 'Em Up | 13.00% | ~2,460 |
+| Get a Grip | 15.00% | ~2,839 |
+| Paper Jams | 15.00% | ~2,839 |
+| Desperate Times | 15.00% | ~2,839 |
+| Chew 'Em Up | 13.00% | ~2,461 |
 | Float Like A Butterfly | 12.00% | ~2,271 |
-| Reforged | 11.00% | ~2,081 |
-| Workplace Hazard | 10.00% | ~1,892 |
-| If the SHU Fits... | 10.00% | ~1,892 |
+| Reforged | 12.00% | ~2,271 |
+| Workplace Hazard | 10.00% | ~1,893 |
+| If the SHU Fits... | 10.00% | ~1,893 |
 | Without A Paddle | 8.00% | ~1,514 |
 | In the Pipe, Five by Five | 8.00% | ~1,514 |
 | Two Heads Are Better Than One | 7.00% | ~1,325 |
 | Terminated | 7.00% | ~1,325 |
 | Crash Site | 7.00% | ~1,325 |
 | Power Up | 7.00% | ~1,325 |
-| Giving Back | 6.00% | ~1,135 |
-| You Need a Gun | 6.00% | ~1,135 |
-| What Lies Beneath | 6.00% | ~1,135 |
-| Full Circle | 6.00% | ~1,135 |
+| Giving Back | 6.00% | ~1,136 |
+| You Need a Gun | 6.00% | ~1,136 |
+| What Lies Beneath | 6.00% | ~1,136 |
+| Full Circle | 6.00% | ~1,136 |
 | Keep Fighting | 6.00% | ~411 |
 | I Do Belong Here | 5.00% | ~946 |
-| It's Time | 5.00% | ~342 |
+| It's Time | 5.00% | ~343 |
 | The Commonality | 4.00% | ~757 |
 | In Striking Distance | 3.00% | ~568 |
 | One Last Job | 2.00% | ~137 |
-| Armed to the Teeth | 1.00% | ~68 |
+| Armed to the Teeth | 1.00% | ~69 |
 | Mugshot | 1.00% | ~189 |
-| Big Spender | 1.00% | ~68 |
-| This Isn't About Escape | 1.00% | ~68 |
+| Big Spender | 1.00% | ~69 |
+| This Isn't About Escape | 1.00% | ~69 |
 | Grim Reaper | 0.80% | ~151 |
 | Parole Denied | 0.80% | ~55 |
 | Instigator | 0.80% | ~55 |
 | Information Overload | 0.80% | ~55 |
-| Quick Pick | 0.60% | ~41 |
+| Quick Pick | 0.70% | ~48 |
 | Subject Alpha | 0.50% | ~34 |
+| Hoard Mode | 0.30% | ~21 |
 | Don't Let It Mellow | 0.30% | ~21 |
 | The Protocol is About Life | 0.20% | ~38 |
 | Recidivist | 0.20% | ~14 |
-| Hoard Mode | 0.20% | ~14 |
 | It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~7 |
 | You Belong Here | 0.10% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,922 (Ranked 151)  
+Progressed: 18,928 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,17 +293,17 @@ Completed: 82 (0.43%) (Ranked 227)
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
-| 2023-12-24 | 18,922 | 82 |
+| 2023-12-24 | 18,928 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 377)  
-Sum: 559 (Ranked 324)  
+Sum: 562 (Ranked 324)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 97 |
 | This game is Highly Recommended | 95 |
+| This game has Amazing Storytelling | 93 |
 | This game has Quickly Understood Controls | 92 |
-| This game has Amazing Storytelling | 90 |
 | This game is Extremely Fun | 82 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 35 |
@@ -490,4 +490,4 @@ Diff (max vs sum): 53
 | 2023-12-21 | 4.20 | 91 | 539 |
 | 2023-12-22 | 4.20 | 95 | 551 |
 | 2023-12-23 | 4.20 | 97 | 557 |
-| 2023-12-24 | 4.20 | 97 | 559 |
+| 2023-12-24 | 4.20 | 97 | 562 |

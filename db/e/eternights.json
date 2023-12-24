@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -2274,6 +2274,11 @@
       "Time": "2023-12-24T01:58:50.5226367+00:00",
       "NumProgressed": 619,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T05:09:36.6550634+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2286,7 +2291,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2326,7 +2331,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -2358,7 +2363,7 @@
       "Name": "Romantic",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -2366,7 +2371,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2398,7 +2403,7 @@
       "Name": "Truebro",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -2430,7 +2435,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2485,14 +2490,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:09:22.3191369+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:09:36.6550632+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:57:13.0385926+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:09:22.319168+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:57:13.9726844+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:09:36.6550844+00:00"
 }

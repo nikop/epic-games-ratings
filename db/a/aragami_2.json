@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44472,
+  "EOS_Progressed": 44473,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -19481,6 +19481,11 @@
       "Time": "2023-12-24T01:54:16.1844656+00:00",
       "NumProgressed": 44472,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-24T05:04:40.8538615+00:00",
+      "NumProgressed": 44473,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19492,7 +19497,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25349
+      "UsersEstimate": 25350
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19500,7 +19505,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13786
+      "UsersEstimate": 13787
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19548,7 +19553,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -19636,7 +19641,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19660,7 +19665,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19700,7 +19705,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8894
+      "UsersEstimate": 8895
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -19708,7 +19713,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10673
+      "UsersEstimate": 10674
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -19732,7 +19737,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28017
+      "UsersEstimate": 28018
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19740,7 +19745,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12007
+      "UsersEstimate": 12008
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19756,7 +19761,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26683
+      "UsersEstimate": 26684
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19764,7 +19769,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29796
+      "UsersEstimate": 29797
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19796,7 +19801,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20012
+      "UsersEstimate": 20013
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19828,7 +19833,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41359
+      "UsersEstimate": 41360
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19836,14 +19841,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23125
+      "UsersEstimate": 23126
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44472,
+      "Progressed": 44473,
       "Completed": 247
     }
   ],
@@ -19851,8 +19856,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:04:47.2798927+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:04:40.8538612+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:03:29.6425504+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:04:47.2799952+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:03:25.2093283+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:04:40.8540027+00:00"
 }

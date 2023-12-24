@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17247,
+  "EOS_Progressed": 17253,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -14936,6 +14936,11 @@
       "Time": "2023-12-24T04:07:59.9819194+00:00",
       "NumProgressed": 17247,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-24T05:07:54.5484001+00:00",
+      "NumProgressed": 17253,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14980,7 +14985,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "14",
@@ -15028,7 +15033,7 @@
       "Name": "Martian Music",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "2",
@@ -15036,7 +15041,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "20",
@@ -15044,7 +15049,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "21",
@@ -15052,7 +15057,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "22",
@@ -15076,7 +15081,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "25",
@@ -15084,7 +15089,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "26",
@@ -15092,7 +15097,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "27",
@@ -15108,7 +15113,7 @@
       "Name": "Scavenger Star",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "29",
@@ -15116,7 +15121,7 @@
       "Name": "Data Collector",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "3",
@@ -15124,7 +15129,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "30",
@@ -15140,7 +15145,7 @@
       "Name": "Debris Spree",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "5",
@@ -15172,7 +15177,7 @@
       "Name": "Data Recoverer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "9",
@@ -15196,7 +15201,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "33",
@@ -15204,7 +15209,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "34",
@@ -15227,13 +15232,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17247,
+      "Progressed": 17253,
       "Completed": 50
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3201,
+      "Progressed": 3207,
       "Completed": 1016
     }
   ],
@@ -15241,8 +15246,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:07:59.9819189+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:07:54.5483998+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:58:48.8354537+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:07:59.9820178+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:58:49.270004+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:07:54.5484878+00:00"
 }

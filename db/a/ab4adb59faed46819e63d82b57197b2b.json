@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 602,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -333,9 +333,9 @@
       "ID": "GET_KILLED_BY_RAT",
       "SetID": "dcng643",
       "Name": "Well, that was impressive",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GET_KILLED_BY_SPIKE",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:09:04.2553382+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:09:18.5634275+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:07.346966+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:01:26.9216908+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:09:04.2554184+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:01:23.8656999+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:09:18.5634947+00:00"
 }

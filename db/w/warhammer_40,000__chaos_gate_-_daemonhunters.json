@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3558,
+  "EOS_Progressed": 3561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4765,6 +4765,11 @@
       "Time": "2023-12-24T02:29:31.1937913+00:00",
       "NumProgressed": 3558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T05:05:23.0374955+00:00",
+      "NumProgressed": 3561,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4934,9 +4939,9 @@
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 71
     },
     {
       "ID": "Kills_Auto",
@@ -4944,7 +4949,7 @@
       "Name": "Not So Fast...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Kills_Bleed",
@@ -4968,7 +4973,7 @@
       "Name": "Executioner",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Kills_Exterminator",
@@ -5000,7 +5005,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Kills_Streak",
@@ -5024,7 +5029,7 @@
       "Name": "An Ill Omen",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5112,7 +5117,7 @@
       "Name": "Bloodless",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -5319,21 +5324,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3558,
+      "Progressed": 3561,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3558,
+      "Progressed": 3561,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:05:29.5649316+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:05:23.0374953+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:03:30.022225+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:05:29.5650095+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:03:25.581823+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:05:23.0375537+00:00"
 }

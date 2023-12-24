@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,672 |
-| Gun Fu | 8.00% | ~78,448 |
+| V for Vendetta | 12.00% | ~117,673 |
+| Gun Fu | 8.00% | ~78,449 |
 | The Fool | 7.00% | ~68,642 |
 | Right Back At Ya | 6.00% | ~58,836 |
 | The Lovers | 6.00% | ~58,836 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,612 |
 | Two Heads, One Bullet | 2.00% | ~19,612 |
 | Judy vs Night City | 2.00% | ~19,612 |
-| Spin Doctor | 2.00% | ~2,184 |
+| Spin Doctor | 2.00% | ~2,185 |
 | To Bad Decisions! | 1.00% | ~9,806 |
 | The Wandering Fool | 1.00% | ~9,806 |
 | Ten out of Ten | 1.00% | ~9,806 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,596 (Ranked 16)  
-Completed: 2,962 (0.30%) (Ranked 254)  
+Progressed: 980,607 (Ranked 16)  
+Completed: 2,962 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 2,962 (0.30%) (Ranked 254)
 | 2023-12-21 | 979,668 | 2,950 |
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
-| 2023-12-24 | 980,596 | 2,962 |
+| 2023-12-24 | 980,607 | 2,962 |
 ## Awards
 Max (Character Customization): 126,708  (Ranked 8)  
 Sum: 439,940 (Ranked 9)  

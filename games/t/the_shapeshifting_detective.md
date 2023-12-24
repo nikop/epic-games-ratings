@@ -26,7 +26,7 @@
 | The Big Sleep | 5.00% | ~14 |
 | Bullseye | 4.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 382)  
+Progressed: 285 (Ranked 383)  
 Completed: 3 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |

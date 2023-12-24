@@ -5,10 +5,10 @@
   "Ranking_Rating": 752,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 358,
-  "Ranking_EOS_Progress": 62,
+  "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1369,9 +1369,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 259691,
+  "EOS_Progressed": 259694,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25039,6 +25039,11 @@
       "Time": "2023-12-24T00:05:02.8389649+00:00",
       "NumProgressed": 259691,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T05:06:04.8087589+00:00",
+      "NumProgressed": 259694,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25050,7 +25055,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18178
+      "UsersEstimate": 18179
     },
     {
       "ID": "Act2",
@@ -25098,7 +25103,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80504
+      "UsersEstimate": 80505
     },
     {
       "ID": "BackHomeNTimes",
@@ -25250,7 +25255,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15581
+      "UsersEstimate": 15582
     },
     {
       "ID": "GrowPlants2",
@@ -25306,7 +25311,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15581
+      "UsersEstimate": 15582
     },
     {
       "ID": "KillOtherWithKatana",
@@ -25338,7 +25343,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59729
+      "UsersEstimate": 59730
     },
     {
       "ID": "KillOthers2",
@@ -25497,7 +25502,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259691,
+      "Progressed": 259694,
       "Completed": 3
     }
   ],
@@ -25505,8 +25510,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-22T12:01:32.6283228+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:06:10.4112854+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:06:04.8087586+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.5138284+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:57:32.9706795+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:06:10.4114466+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:57:34.4387623+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:06:04.8089081+00:00"
 }

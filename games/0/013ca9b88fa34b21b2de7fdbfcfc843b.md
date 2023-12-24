@@ -21,10 +21,10 @@ Rating: 4.63 (Ranked 353)
 | Search for the Hairy Grell | 0.60% | ~52 |
 | Oui, Chef! | 0.60% | ~52 |
 | Higher Tax Bracket | 0.50% | ~43 |
+| Botanical Breakthrough | 0.50% | ~43 |
 | Skilled | 0.50% | ~43 |
 | Flaming Hot Completos | 0.40% | ~34 |
 | Beach Comber | 0.40% | ~34 |
-| Botanical Breakthrough | 0.40% | ~34 |
 | Azorian Anniversary | 0.40% | ~34 |
 | Fae Farmer | 0.30% | ~26 |
 | Fanatical Farmer | 0.30% | ~26 |

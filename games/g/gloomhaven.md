@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~11,348 |
-| Overkill | 34.00% | ~9,646 |
-| Vaccine Incoming | 32.00% | ~9,079 |
-| A normal day in Gloomhaven | 30.00% | ~8,511 |
-| Spread the plague | 28.00% | ~7,944 |
-| Get over here! | 24.00% | ~6,809 |
-| Just when I thought I was out... | 19.00% | ~5,390 |
-| Mine... All Mine... | 17.00% | ~4,823 |
-| Precious! | 16.00% | ~4,539 |
-| Grizzled veteran | 15.00% | ~4,256 |
-| Anatomy Lesson | 14.00% | ~3,972 |
-| Light of my life | 13.00% | ~3,688 |
+| I'm not dead yet | 40.00% | ~11,351 |
+| Overkill | 34.00% | ~9,648 |
+| Vaccine Incoming | 32.00% | ~9,081 |
+| A normal day in Gloomhaven | 30.00% | ~8,513 |
+| Spread the plague | 28.00% | ~7,946 |
+| Get over here! | 24.00% | ~6,810 |
+| Just when I thought I was out... | 19.00% | ~5,392 |
+| Mine... All Mine... | 17.00% | ~4,824 |
+| Precious! | 16.00% | ~4,540 |
+| Grizzled veteran | 15.00% | ~4,257 |
+| Anatomy Lesson | 14.00% | ~3,973 |
+| Light of my life | 13.00% | ~3,689 |
 | You activated my trap card! | 12.00% | ~3,405 |
 | Obstacle race | 12.00% | ~3,405 |
 | Who's the Boss? | 11.00% | ~3,121 |
 | Augmented rat | 11.00% | ~3,121 |
-| Doom and gloom | 10.00% | ~2,837 |
-| Dungeon Veteran | 9.00% | ~2,553 |
+| Doom and gloom | 10.00% | ~2,838 |
+| Dungeon Veteran | 9.00% | ~2,554 |
 | Pain is your friend | 8.00% | ~2,270 |
 | Black death | 8.00% | ~2,270 |
 | Play it again, Sam | 8.00% | ~2,270 |
 | Pack leader | 7.00% | ~1,986 |
-| Quad damage | 6.00% | ~1,702 |
+| Quad damage | 6.00% | ~1,703 |
 | Power Up! | 5.00% | ~1,419 |
 | Merchant of doom | 5.00% | ~1,419 |
 | Caught off guard | 5.00% | ~1,419 |
@@ -39,13 +39,13 @@ Number of Ratings: 68  (23.09.2022)
 | Down the hatch | 3.00% | ~851 |
 | An eye for an eye | 3.00% | ~851 |
 | The Cephalophore | 3.00% | ~851 |
-| From Gloom, only greed and death emerges | 2.00% | ~567 |
-| The Rat King | 2.00% | ~567 |
-| How to train your Drake | 2.00% | ~567 |
-| Master Assassin | 2.00% | ~567 |
-| The Sniper | 2.00% | ~567 |
-| Grin and bear it | 2.00% | ~567 |
-| An axe to grind | 2.00% | ~567 |
+| From Gloom, only greed and death emerges | 2.00% | ~568 |
+| The Rat King | 2.00% | ~568 |
+| How to train your Drake | 2.00% | ~568 |
+| Master Assassin | 2.00% | ~568 |
+| The Sniper | 2.00% | ~568 |
+| Grin and bear it | 2.00% | ~568 |
+| An axe to grind | 2.00% | ~568 |
 | Betray this | 1.00% | ~284 |
 | Add a bit of colour | 1.00% | ~284 |
 | Captain hooked | 1.00% | ~284 |
@@ -53,9 +53,9 @@ Number of Ratings: 68  (23.09.2022)
 | New Blood | 1.00% | ~284 |
 | The Pacifist | 0.50% | ~142 |
 | Born Support | 0.50% | ~142 |
-| A tough job | 0.40% | ~113 |
-| The evil that men do | 0.40% | ~113 |
-| MacReady Steady.. Go! | 0.40% | ~113 |
+| A tough job | 0.40% | ~114 |
+| The evil that men do | 0.40% | ~114 |
+| MacReady Steady.. Go! | 0.40% | ~114 |
 | The Jaws of victory! | 0.30% | ~85 |
 | Pull out the big guns | 0.30% | ~85 |
 | The Cartographer | 0.20% | ~57 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~28 |
 | Murder Death Kill | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,371 (Ranked 137)  
+Progressed: 28,377 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.00%) (Ranked 388)
 | 2023-12-21 | 27,847 | 1 |
 | 2023-12-22 | 28,058 | 1 |
 | 2023-12-23 | 28,327 | 1 |
-| 2023-12-24 | 28,371 | 1 |
+| 2023-12-24 | 28,377 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
 Sum: 8,431 (Ranked 105)  

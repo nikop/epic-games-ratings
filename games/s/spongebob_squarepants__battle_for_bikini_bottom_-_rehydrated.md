@@ -14,15 +14,15 @@ Number of Ratings: 76  (23.09.2022)
 | Time For Tutorial | 6.00% | ~17 |
 | Life's as extreme as you wanna make it! | 5.00% | ~14 |
 | Sock Getter | 5.00% | ~14 |
-| Shrimp Catcher | 4.00% | ~11 |
+| Surf's Up! | 5.00% | ~14 |
 | Toxic Terror | 4.00% | ~11 |
-| Hit Rock Bottom | 4.00% | ~11 |
-| Squirrel Smasher | 4.00% | ~11 |
 | Star Smasher | 4.00% | ~11 |
-| Surf's Up! | 4.00% | ~11 |
 | Uptown and Downtown | 3.00% | ~9 |
 | Keep it Rolling | 3.00% | ~9 |
+| Shrimp Catcher | 3.00% | ~9 |
+| Hit Rock Bottom | 3.00% | ~9 |
 | Super Spatula Seeker | 3.00% | ~9 |
+| Squirrel Smasher | 3.00% | ~9 |
 | Robot encyclopedia | 2.00% | ~6 |
 | Are you ready now? | 2.00% | ~6 |
 | Hello, Bikini Bottom | 2.00% | ~6 |
@@ -34,12 +34,12 @@ Number of Ratings: 76  (23.09.2022)
 | SpongeBob vs SpongeBob! | 0.70% | ~2 |
 | Sock Concert | 0.70% | ~2 |
 | Ultra Spatula Seeker | 0.70% | ~2 |
-| 100% SpongeBob | 0.40% | ~1 |
-| Sock Opera | 0.40% | ~1 |
-| Super Ultra Mega Spatula Seeker | 0.40% | ~1 |
-| Mega Spatula Seeker | 0.40% | ~1 |
+| 100% SpongeBob | 0.30% | ~1 |
+| Sock Opera | 0.30% | ~1 |
+| Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
+| Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 382)  
+Progressed: 286 (Ranked 382)  
 Completed: 1 (0.35%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.35%) (Ranked 240)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 285 | 1 |
+| 2023-12-24 | 286 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 495)  
 Sum: 34 (Ranked 520)  

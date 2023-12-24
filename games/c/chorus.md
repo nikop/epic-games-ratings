@@ -39,8 +39,8 @@ Number of Ratings: 58  (23.09.2022)
 | Uneasy Alliance | 25.00% | ~336 |
 | Ghosts | 25.00% | ~336 |
 | Mastery of Combat | 23.00% | ~309 |
+| Mastery of Rites | 22.00% | ~295 |
 | Retaliate | 22.00% | ~295 |
-| Mastery of Rites | 21.00% | ~282 |
 | Power Chord | 21.00% | ~282 |
 | Crash Test | 21.00% | ~282 |
 | Ascension | 20.00% | ~269 |

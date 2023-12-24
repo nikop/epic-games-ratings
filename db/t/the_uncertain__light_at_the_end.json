@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -1093,6 +1093,11 @@
       "Time": "2023-12-23T18:08:31.8730507+00:00",
       "NumProgressed": 604,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T05:09:02.4854167+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1112,7 +1117,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Butterfly",
@@ -1128,7 +1133,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Doors_Closing",
@@ -1136,7 +1141,7 @@
       "Name": "Mind the Gap",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Echoes",
@@ -1184,7 +1189,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Healthy_Child",
@@ -1192,7 +1197,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Hitman",
@@ -1208,7 +1213,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Investigative",
@@ -1232,7 +1237,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MISSING_DATA",
@@ -1240,7 +1245,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Misanthrope",
@@ -1335,7 +1340,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 6
     }
   ],
@@ -1343,8 +1348,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:08:48.345609+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:09:02.4854164+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:03:47.3310051+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:08:48.3456317+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:03:41.4006602+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:09:02.4854331+00:00"
 }

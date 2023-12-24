@@ -17,12 +17,12 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 8.00% | ~6 |
 | Irissa's Fate | 8.00% | ~6 |
 | Hotshot | 6.00% | ~5 |
+| Commander | 6.00% | ~5 |
 | Storyteller | 5.00% | ~4 |
 | Globetrotter | 5.00% | ~4 |
 | Free as a Bird | 5.00% | ~4 |
 | Alb | 5.00% | ~4 |
 | Berserker | 5.00% | ~4 |
-| Commander | 5.00% | ~4 |
 | Pass A38 | 5.00% | ~4 |
 | Eternal Oblivion | 5.00% | ~4 |
 | Self-Sufficient | 4.00% | ~3 |

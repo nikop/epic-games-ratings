@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 218.00% | ~1,417 |
+| Adept Assembler | 219.00% | ~1,424 |
 | Iron Chef | 157.00% | ~1,020 |
 | Super Spelunker | 140.00% | ~910 |
 | Greeno-B-Gone | 123.00% | ~800 |
@@ -28,10 +28,10 @@ Number of Ratings: 892  (23.09.2022)
 | Unboxing | 71.00% | ~462 |
 | Big Game Hunter | 70.00% | ~455 |
 | Mole Masher | 70.00% | ~455 |
+| Knowledge is Power | 69.00% | ~448 |
+| Elementary, My Dear | 69.00% | ~448 |
 | Chatterbox | 69.00% | ~448 |
-| Knowledge is Power | 68.00% | ~442 |
 | Panda-kin | 68.00% | ~442 |
-| Elementary, My Dear | 68.00% | ~442 |
 | Lifeline Pipeline | 64.00% | ~416 |
 | Builder of the Month | 63.00% | ~410 |
 | What Plants Crave | 63.00% | ~410 |

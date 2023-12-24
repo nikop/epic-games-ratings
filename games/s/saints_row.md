@@ -6,53 +6,53 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~40,160 |
-| To The Nines | 42.00% | ~35,887 |
-| Optimized | 37.00% | ~31,615 |
-| Performance Review | 36.00% | ~30,761 |
-| Making a Name | 35.00% | ~29,906 |
-| Tune Up | 34.00% | ~29,052 |
-| Wet Work | 32.00% | ~27,343 |
-| Landlord | 32.00% | ~27,343 |
-| The Side Job | 31.00% | ~26,488 |
-| Wrecking Ball | 28.00% | ~23,925 |
-| Food for Thought | 28.00% | ~23,925 |
-| Finders Keepers | 25.00% | ~21,362 |
-| A Young Empire | 25.00% | ~21,362 |
-| Work Ethic | 23.00% | ~19,653 |
-| Picking Fights | 20.00% | ~17,089 |
-| Power Players | 19.00% | ~16,235 |
-| Quality Time | 18.00% | ~15,380 |
-| Showdown | 17.00% | ~14,526 |
-| Et tu? | 17.00% | ~14,526 |
-| Took It to The Limit | 16.00% | ~13,671 |
-| Kitted Out | 14.00% | ~11,962 |
-| Masters of Santo Ileso | 12.00% | ~10,254 |
-| Hijacked | 11.00% | ~9,399 |
-| The Spins | 10.00% | ~8,545 |
-| The Mechanic | 10.00% | ~8,545 |
-| Closet Space | 8.00% | ~6,836 |
-| We could go home, or… | 7.00% | ~5,981 |
-| Challenge Accepted | 7.00% | ~5,981 |
-| A Golden Age | 7.00% | ~5,981 |
-| Producer Credit | 7.00% | ~3,996 |
+| First F#@!ing Day | 47.00% | ~40,165 |
+| To The Nines | 42.00% | ~35,892 |
+| Optimized | 37.00% | ~31,619 |
+| Performance Review | 36.00% | ~30,765 |
+| Making a Name | 35.00% | ~29,910 |
+| Tune Up | 34.00% | ~29,056 |
+| Wet Work | 32.00% | ~27,347 |
+| Landlord | 32.00% | ~27,347 |
+| The Side Job | 31.00% | ~26,492 |
+| Wrecking Ball | 28.00% | ~23,928 |
+| Food for Thought | 28.00% | ~23,928 |
+| Finders Keepers | 25.00% | ~21,364 |
+| A Young Empire | 25.00% | ~21,364 |
+| Work Ethic | 23.00% | ~19,655 |
+| Picking Fights | 20.00% | ~17,092 |
+| Power Players | 19.00% | ~16,237 |
+| Quality Time | 18.00% | ~15,382 |
+| Showdown | 17.00% | ~14,528 |
+| Et tu? | 17.00% | ~14,528 |
+| Took It to The Limit | 16.00% | ~13,673 |
+| Kitted Out | 14.00% | ~11,964 |
+| Masters of Santo Ileso | 12.00% | ~10,255 |
+| Hijacked | 11.00% | ~9,400 |
+| The Spins | 10.00% | ~8,546 |
+| The Mechanic | 10.00% | ~8,546 |
+| Closet Space | 8.00% | ~6,837 |
+| We could go home, or… | 7.00% | ~5,982 |
+| Challenge Accepted | 7.00% | ~5,982 |
+| A Golden Age | 7.00% | ~5,982 |
+| Producer Credit | 7.00% | ~3,997 |
 | Chaos Tamer | 6.00% | ~5,127 |
-| Face Off | 6.00% | ~3,425 |
-| The Professional | 5.00% | ~4,272 |
-| Untouchable | 5.00% | ~4,272 |
-| Free Refills | 5.00% | ~4,272 |
-| Smooth Moves | 5.00% | ~4,272 |
-| Hazardous Heist | 5.00% | ~2,854 |
+| Face Off | 6.00% | ~3,426 |
+| The Professional | 5.00% | ~4,273 |
+| Untouchable | 5.00% | ~4,273 |
+| Free Refills | 5.00% | ~4,273 |
+| Smooth Moves | 5.00% | ~4,273 |
+| Hazardous Heist | 5.00% | ~2,855 |
 | Neighborly | 4.00% | ~3,418 |
 | Prankster | 4.00% | ~3,418 |
 | Tourist | 4.00% | ~3,418 |
-| Shopping Spree | 3.00% | ~2,563 |
-| Always Be Hustling | 3.00% | ~2,563 |
-| Community Outreach | 3.00% | ~2,563 |
+| Shopping Spree | 3.00% | ~2,564 |
+| Always Be Hustling | 3.00% | ~2,564 |
+| Community Outreach | 3.00% | ~2,564 |
 | Bonus Round | 2.00% | ~1,709 |
-| It's a Bird! | 1.00% | ~854 |
-| The Collector | 1.00% | ~854 |
-| All Mine | 1.00% | ~854 |
+| It's a Bird! | 1.00% | ~855 |
+| The Collector | 1.00% | ~855 |
+| All Mine | 1.00% | ~855 |
 | Jack of All Trades | 0.70% | ~598 |
 | Statement Pieces | 0.70% | ~598 |
 | Armor Piercing | 0.70% | ~598 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~171 |
 | Fiesta Time | 0.20% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,446 (Ranked 100)  
+Progressed: 85,458 (Ranked 100)  
 Completed: 56 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 56 (0.07%) (Ranked 321)
 | 2023-12-21 | 84,826 | 56 |
 | 2023-12-22 | 85,116 | 56 |
 | 2023-12-23 | 85,401 | 56 |
-| 2023-12-24 | 85,446 | 56 |
+| 2023-12-24 | 85,458 | 56 |
 ## Awards
 Max (Extremely Fun): 1,083  (Ranked 150)  
 Sum: 8,785 (Ranked 100)  

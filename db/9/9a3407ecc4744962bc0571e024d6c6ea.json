@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1122,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3129,9 +3129,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 561
     },
     {
       "ID": "BostonHayDay",
@@ -3296,8 +3296,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:10:28.7926409+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:10:42.9890167+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:01:44.0925012+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:10:28.7926875+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:01:40.9266997+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:10:42.9890409+00:00"
 }

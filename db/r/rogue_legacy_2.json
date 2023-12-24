@@ -5,10 +5,10 @@
   "Ranking_Rating": 42,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 225,
-  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26496,
+  "EOS_Progressed": 26506,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1660,
+  "EOS_NewPlayers": 1643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11642,6 +11642,11 @@
       "Time": "2023-12-24T04:10:26.7345158+00:00",
       "NumProgressed": 26496,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-24T05:10:40.828823+00:00",
+      "NumProgressed": 26506,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11661,7 +11666,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "AllEquipment",
@@ -11677,7 +11682,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AllRunes",
@@ -11685,7 +11690,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "AllScarsBronze",
@@ -11693,7 +11698,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AllSkills",
@@ -11709,7 +11714,7 @@
       "Name": "For Justice",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "BossBridgeDefeated",
@@ -11741,7 +11746,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "BossCaveDefeated",
@@ -11805,7 +11810,7 @@
       "Name": "For Love",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "BossStudyDefeated",
@@ -11821,7 +11826,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "BossTowerDefeated",
@@ -11837,7 +11842,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "EnableHouseRules",
@@ -11853,7 +11858,7 @@
       "Name": "It Was Just an Estimate",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FifteenLivesEasy",
@@ -11925,7 +11930,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "StoryTutorial",
@@ -11933,7 +11938,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TitleDrop",
@@ -11941,7 +11946,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UnlockHighMastery",
@@ -11957,28 +11962,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26496,
+      "Progressed": 26506,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5426,
+      "Progressed": 5436,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:10:26.7345154+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:10:40.8288228+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:01:34.1239931+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:10:26.734576+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:01:30.9572379+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:10:40.8288795+00:00"
 }

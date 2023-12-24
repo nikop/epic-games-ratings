@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -876,6 +876,11 @@
       "Time": "2023-12-24T02:28:37.4692926+00:00",
       "NumProgressed": 285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T05:04:06.6778538+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -910,7 +915,7 @@
       "ID": "ACH_COMPLETION",
       "SetID": "biiejkc",
       "Name": "100% SpongeBob",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -990,9 +995,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1022,9 +1027,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1046,7 +1051,7 @@
       "ID": "ACH_SOCK_OPERA",
       "SetID": "biiejkc",
       "Name": "Sock Opera",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1054,7 +1059,7 @@
       "ID": "ACH_STAT_100_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Ultra Mega Spatula Seeker",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1078,7 +1083,7 @@
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Mega Spatula Seeker",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1110,9 +1115,9 @@
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
       "SetID": "biiejkc",
       "Name": "Squirrel Smasher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1126,9 +1131,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1143,15 +1148,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:04:12.6185154+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:04:06.6778536+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:58:09.4586981+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:04:12.6185401+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:58:11.0899726+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:04:06.6778798+00:00"
 }

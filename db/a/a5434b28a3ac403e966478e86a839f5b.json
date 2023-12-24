@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -2545,6 +2545,11 @@
       "Time": "2023-12-24T01:58:26.3845767+00:00",
       "NumProgressed": 738,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T05:09:12.0387736+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2565,7 +2570,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_eou2",
@@ -2589,7 +2594,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_eou5",
@@ -2613,7 +2618,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_eou8",
@@ -2621,7 +2626,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_mg2",
@@ -2660,14 +2665,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:08:57.8241628+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:09:12.0387735+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:58:52.9200245+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:08:57.8241836+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:58:53.2642647+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:09:12.0388026+00:00"
 }

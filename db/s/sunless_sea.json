@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -790,9 +790,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42797,
+  "EOS_Progressed": 42798,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26025,6 +26025,11 @@
       "Time": "2023-12-24T04:06:25.0418953+00:00",
       "NumProgressed": 42797,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T05:06:19.1618638+00:00",
+      "NumProgressed": 42798,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26052,7 +26057,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7276
     },
     {
       "ID": "ach_antiquarian10",
@@ -26388,7 +26393,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7703
+      "UsersEstimate": 7704
     },
     {
       "ID": "ach_terror100",
@@ -26467,15 +26472,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42797,
+      "Progressed": 42798,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-23T21:57:38.3156092+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:06:25.041895+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:06:19.1618635+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:57:33.6771013+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:06:25.0420491+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:57:35.0978814+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:06:19.162019+00:00"
 }

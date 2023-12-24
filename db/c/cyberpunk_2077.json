@@ -6,8 +6,8 @@
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -17114,9 +17114,9 @@
       "Count": 16644
     }
   ],
-  "EOS_Progressed": 980596,
+  "EOS_Progressed": 980607,
   "EOS_Completed": 2962,
-  "EOS_NewPlayers": 3128,
+  "EOS_NewPlayers": 3114,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45369,6 +45369,11 @@
       "Time": "2023-12-24T04:05:08.542835+00:00",
       "NumProgressed": 980596,
       "NumCompleted": 2962
+    },
+    {
+      "Time": "2023-12-24T05:05:01.494744+00:00",
+      "NumProgressed": 980607,
+      "NumCompleted": 2962
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45453,7 +45458,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78448
+      "UsersEstimate": 78449
     },
     {
       "ID": "Gunslinger",
@@ -45709,7 +45714,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117672
+      "UsersEstimate": 117673
     },
     {
       "ID": "YipMan",
@@ -45781,7 +45786,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "Kingofcups",
@@ -45916,21 +45921,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 980596,
+      "Progressed": 980607,
       "Completed": 2962
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 109219,
+      "Progressed": 109230,
       "Completed": 10445
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-24T02:28:08.2287863+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:05:08.5428347+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:05:01.4947438+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:03:25.6398759+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:05:08.5429849+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:03:20.9948705+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:05:01.4948803+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 58.00% | ~15 |
-| Life of Pi | 58.00% | ~15 |
-| The Legend | 58.00% | ~15 |
-| Escape from Fleed | 46.00% | ~12 |
-| First Contact | 42.00% | ~11 |
-| Strength in Defeat | 38.00% | ~10 |
-| Technology first! | 31.00% | ~8 |
-| The Keeper of Fleed | 31.00% | ~8 |
-| The Exterminator | 23.00% | ~6 |
+| The Remains of Fleed | 59.00% | ~16 |
+| Life of Pi | 59.00% | ~16 |
+| The Legend | 59.00% | ~16 |
+| Escape from Fleed | 44.00% | ~12 |
+| First Contact | 41.00% | ~11 |
+| Strength in Defeat | 37.00% | ~10 |
+| Technology first! | 30.00% | ~8 |
+| The Keeper of Fleed | 30.00% | ~8 |
+| The Exterminator | 22.00% | ~6 |
 | Earth's Savior | 19.00% | ~5 |
 | The Collector | 15.00% | ~4 |
-| Gold Seeker | 12.00% | ~3 |
-| The Planner | 12.00% | ~3 |
-| Iron Fist | 12.00% | ~3 |
-| The Broken Guard | 12.00% | ~3 |
-| The Space Hydra | 12.00% | ~3 |
-| The Vega Turtle | 12.00% | ~3 |
-| A Land of Peace | 8.00% | ~2 |
-| A Good Paint Job | 8.00% | ~2 |
-| The Flying Octopus | 8.00% | ~2 |
-| The Royal Guard | 8.00% | ~2 |
+| Gold Seeker | 11.00% | ~3 |
+| The Planner | 11.00% | ~3 |
+| Iron Fist | 11.00% | ~3 |
+| The Broken Guard | 11.00% | ~3 |
+| The Space Hydra | 11.00% | ~3 |
+| The Vega Turtle | 11.00% | ~3 |
+| A Land of Peace | 7.00% | ~2 |
+| A Good Paint Job | 7.00% | ~2 |
+| The Flying Octopus | 7.00% | ~2 |
+| The Royal Guard | 7.00% | ~2 |
 | The Power of Friendship | 4.00% | ~1 |
 | You can't fool me! | 4.00% | ~1 |
 | Saucer Beast Unchained | 4.00% | ~1 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 4.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 586)  
+Progressed: 27 (Ranked 583)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,3 +52,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-20 | 17 | 0 |
 | 2023-12-22 | 19 | 0 |
 | 2023-12-23 | 26 | 0 |
+| 2023-12-24 | 27 | 0 |

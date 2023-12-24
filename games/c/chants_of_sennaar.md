@@ -5,34 +5,34 @@ Rating: 4.83 (Ranked 59)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~874 |
-| Welcome to the Tower | 47.00% | ~790 |
-| The great escape | 39.00% | ~655 |
-| The Preacher's fate | 37.00% | ~622 |
-| A new dawn | 31.00% | ~521 |
-| Scholar | 26.00% | ~437 |
-| True G3M4R | 25.00% | ~420 |
-| The darkness | 25.00% | ~420 |
-| A good beginning | 24.00% | ~403 |
-| Cable guy | 21.00% | ~353 |
-| Half the way | 21.00% | ~353 |
-| Rascal | 21.00% | ~353 |
-| One last step | 21.00% | ~353 |
-| I did it | 20.00% | ~336 |
-| Peace walker | 20.00% | ~336 |
-| In this together | 19.00% | ~319 |
-| Champollion | 19.00% | ~319 |
-| Open door | 17.00% | ~286 |
-| Feels like springtime | 17.00% | ~286 |
-| Alchemists Express | 16.00% | ~269 |
-| Free at last | 15.00% | ~252 |
-| A Link to the Past | 13.00% | ~218 |
+| That's the spirit | 52.00% | ~877 |
+| Welcome to the Tower | 47.00% | ~792 |
+| The great escape | 39.00% | ~658 |
+| The Preacher's fate | 37.00% | ~624 |
+| A new dawn | 30.00% | ~506 |
+| Scholar | 26.00% | ~438 |
+| True G3M4R | 25.00% | ~422 |
+| The darkness | 25.00% | ~422 |
+| A good beginning | 24.00% | ~405 |
+| Cable guy | 21.00% | ~354 |
+| Half the way | 21.00% | ~354 |
+| Rascal | 21.00% | ~354 |
+| One last step | 21.00% | ~354 |
+| I did it | 20.00% | ~337 |
+| Peace walker | 20.00% | ~337 |
+| In this together | 19.00% | ~320 |
+| Champollion | 19.00% | ~320 |
+| Open door | 17.00% | ~287 |
+| Feels like springtime | 17.00% | ~287 |
+| Alchemists Express | 16.00% | ~270 |
+| Free at last | 15.00% | ~253 |
+| A Link to the Past | 13.00% | ~219 |
 | A great audience | 11.00% | ~185 |
 | For its own good | 11.00% | ~185 |
 | Fashion victim | 6.00% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,680 (Ranked 246)  
-Completed: 91 (5.42%) (Ranked 75)  
+Progressed: 1,686 (Ranked 246)  
+Completed: 91 (5.40%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 91 (5.42%) (Ranked 75)
 | 2023-12-21 | 1,511 | 80 |
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
-| 2023-12-24 | 1,680 | 91 |
+| 2023-12-24 | 1,686 | 91 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

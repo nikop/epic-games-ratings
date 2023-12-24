@@ -72,7 +72,7 @@ Rating: 4.45 (Ranked 675)
 | Das Familienjuwel | 1.00% | ~40 |
 | Master of Rifles | 0.90% | ~37 |
 | Master of Pistols | 0.80% | ~33 |
-| Operation Overlord | 0.70% | ~28 |
+| Operation Overlord | 0.80% | ~32 |
 | Master-at-arms | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |

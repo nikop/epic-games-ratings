@@ -5,11 +5,11 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~432 |
-| Rail Rat | 30.00% | ~324 |
-| The Mysterious Stranger | 29.00% | ~313 |
+| Time Heals All Wounds | 40.00% | ~433 |
+| Rail Rat | 30.00% | ~325 |
+| The Mysterious Stranger | 29.00% | ~314 |
 | Immaculate Aim | 25.00% | ~270 |
-| The Brass Boss | 24.00% | ~259 |
+| The Brass Boss | 24.00% | ~260 |
 | Make Up For Lost Time | 23.00% | ~249 |
 | Time Flies | 23.00% | ~249 |
 | No, Thanks! | 23.00% | ~249 |
@@ -26,7 +26,7 @@ Rating: 4.65 (Ranked 320)
 | Right On Time | 20.00% | ~216 |
 | Like Clockwork | 20.00% | ~216 |
 | Check Your Pulse | 20.00% | ~216 |
-| The Loose Cannon | 19.00% | ~205 |
+| The Loose Cannon | 19.00% | ~206 |
 | The Man Who Shattered Time | 18.00% | ~195 |
 | The Family Fortune | 18.00% | ~195 |
 | Street Style | 17.00% | ~184 |
@@ -43,9 +43,9 @@ Rating: 4.65 (Ranked 320)
 | Fairgrounds Explorer | 10.00% | ~108 |
 | Theater Explorer | 10.00% | ~108 |
 | Cultivair Explorer | 9.00% | ~97 |
-| Corin Goes Home | 8.00% | ~86 |
-| Sartorialist | 8.00% | ~86 |
-| Entresol Explorer | 8.00% | ~86 |
+| Corin Goes Home | 8.00% | ~87 |
+| Sartorialist | 8.00% | ~87 |
+| Entresol Explorer | 8.00% | ~87 |
 | Golem Hunter | 7.00% | ~76 |
 | Clovemary for Remembering | 6.00% | ~65 |
 | Hexlock for Protection | 6.00% | ~65 |
@@ -59,8 +59,8 @@ Rating: 4.65 (Ranked 320)
 | Going to Live Forever | 0.60% | ~6 |
 | Raw Talent | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081 (Ranked 278)  
-Completed: 6 (0.56%) (Ranked 205)  
+Progressed: 1,082 (Ranked 278)  
+Completed: 6 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 6 (0.56%) (Ranked 205)
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
-| 2023-12-24 | 1,081 | 6 |
+| 2023-12-24 | 1,082 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,11 +51,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -3056,6 +3056,11 @@
       "Time": "2023-12-24T04:10:40.8305609+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T05:10:55.0120545+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3107,7 +3112,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ClockworkProgress1",
@@ -3131,7 +3136,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "CosmeticProgress1",
@@ -3155,7 +3160,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -3187,7 +3192,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3227,7 +3232,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "HexlockGift",
@@ -3251,7 +3256,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "LacunaCompleted",
@@ -3355,7 +3360,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "RewindParry",
@@ -3475,7 +3480,7 @@
       "Name": "The Brass Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3490,7 +3495,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1082,
       "Completed": 6
     }
   ],
@@ -3498,8 +3503,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:10:40.8305604+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:10:55.0120544+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:57:37.1784935+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:10:40.830608+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:57:38.7174641+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:10:55.0120946+00:00"
 }

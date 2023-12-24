@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1718,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2932,6 +2932,11 @@
       "Time": "2023-12-24T04:10:24.1241838+00:00",
       "NumProgressed": 1718,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T05:10:38.1350418+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2944,7 +2949,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "achievement_10",
@@ -2990,9 +2995,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_16",
@@ -3088,7 +3093,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "achievement_36",
@@ -3120,7 +3125,7 @@
       "Name": "No More Names",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achievement_41",
@@ -3174,9 +3179,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1272
     },
     {
       "ID": "achievement_49",
@@ -3192,7 +3197,7 @@
       "Name": "Initiate",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_50",
@@ -3296,7 +3301,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_8",
@@ -3319,7 +3324,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1718,
+      "Progressed": 1719,
       "Completed": 2
     }
   ],
@@ -3327,8 +3332,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-24T00:02:51.9980635+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:10:24.124183+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:10:38.1350415+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.6657855+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:57:09.6332693+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:10:24.124222+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:57:10.8186606+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:10:38.1350887+00:00"
 }

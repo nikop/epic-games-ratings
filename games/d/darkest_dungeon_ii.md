@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~436 |
+| Malpractice Assurance | 10.00% | ~437 |
 | Lost and Found | 6.00% | ~262 |
 | Autodidact | 5.00% | ~6,475 |
 | This guy... again? | 5.00% | ~218 |
@@ -25,6 +25,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 3.00% | ~3,885 |
 | Rush Hour | 3.00% | ~3,885 |
 | Merry Time | 3.00% | ~3,885 |
+| Harvest Festival | 3.00% | ~3,885 |
 | To Grandmother's House | 3.00% | ~3,885 |
 | A Place to Lay Your Head | 3.00% | ~3,885 |
 | FNG | 3.00% | ~3,885 |
@@ -43,7 +44,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Now Stay Dead | 2.00% | ~2,590 |
 | Reverse Banditry | 2.00% | ~2,590 |
 | Spelunker | 2.00% | ~2,590 |
-| Harvest Festival | 2.00% | ~2,590 |
 | Ramble On | 2.00% | ~2,590 |
 | A Clear Conscience | 2.00% | ~2,590 |
 | Whale | 2.00% | ~2,590 |
@@ -66,8 +66,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.70% | ~906 |
 | Clearing the Ledger | 0.60% | ~777 |
 | Et Tu, Riposte? | 0.60% | ~26 |
-| Hat Trick | 0.50% | ~647 |
-| Triage | 0.50% | ~647 |
+| Hat Trick | 0.50% | ~648 |
+| Triage | 0.50% | ~648 |
 | No Mercy | 0.50% | ~22 |
 | The World As It Was | 0.40% | ~518 |
 | Bacon Bits | 0.40% | ~518 |
@@ -77,16 +77,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Maître De La Lame | 0.30% | ~13 |
 | On This Long Road, We Found Redemption | 0.30% | ~13 |
 | Tears in the Rain | 0.20% | ~259 |
-| Loop Year | 0.10% | ~129 |
-| Circle of Life | 0.10% | ~129 |
-| No Gravestone Left Unturned | 0.10% | ~129 |
-| 20,000 Leagues Above the Sea | 0.10% | ~129 |
-| The Clash | 0.10% | ~129 |
-| Grand Slam | 0.10% | ~129 |
-| Hard Mode | 0.10% | ~129 |
+| Loop Year | 0.10% | ~130 |
+| Circle of Life | 0.10% | ~130 |
+| No Gravestone Left Unturned | 0.10% | ~130 |
+| 20,000 Leagues Above the Sea | 0.10% | ~130 |
+| The Clash | 0.10% | ~130 |
+| Grand Slam | 0.10% | ~130 |
+| Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,495 (Ranked 87)  
+Progressed: 129,500 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,495 | 3 |
+| 2023-12-24 | 129,500 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
 Sum: 21,004 (Ranked 58)  

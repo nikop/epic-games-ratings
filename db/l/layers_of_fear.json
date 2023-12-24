@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-12-23T21:05:37.0694366+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T05:06:56.6227847+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -944,9 +949,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "decrypt_one_myth",
@@ -970,7 +975,7 @@
       "Name": "Refuse to look",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "do_what_you_have_to",
@@ -978,7 +983,7 @@
       "Name": "Do what you have to",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "earn_all_trophies",
@@ -1016,17 +1021,17 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "find_one_poster",
@@ -1042,7 +1047,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "finished_it",
@@ -1186,7 +1191,7 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "sign_of_weakness",
@@ -1200,9 +1205,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "spy_one_item",
@@ -1210,7 +1215,7 @@
       "Name": "Fisherman",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1266,7 +1271,7 @@
       "Name": "Wanderer",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1274,21 +1279,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:07:02.2985105+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:06:56.6227846+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:01:44.4769837+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:07:02.2985522+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:01:41.1715793+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:06:56.6228152+00:00"
 }

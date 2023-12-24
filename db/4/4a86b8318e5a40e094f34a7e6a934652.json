@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 359,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -1557,9 +1557,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "BRING_MARY",
@@ -1589,9 +1589,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1716,8 +1716,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:08:21.6598419+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:08:36.3098694+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-24T03:57:35.9214388+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:08:21.6598673+00:00"
+  "LastUpdate_Ratings": "2023-12-24T04:57:37.3707338+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:08:36.3098862+00:00"
 }

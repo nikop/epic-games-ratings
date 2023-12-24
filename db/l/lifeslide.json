@@ -4,8 +4,8 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 492,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2023-12-22T17:04:24.623152+00:00",
       "NumProgressed": 336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T05:06:13.5455004+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -155,7 +160,7 @@
       "Name": "Turbulence",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ADULTHOOD_REACHED",
@@ -163,7 +168,7 @@
       "Name": "On The Right Path",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ALL_PLANES _UNLOCKED",
@@ -195,7 +200,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -219,7 +224,7 @@
       "Name": "Change of Heart",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "CHILDHOOD_REACHED",
@@ -227,7 +232,7 @@
       "Name": "Wonderful World",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "COLLECT_MATTER_10000",
@@ -251,7 +256,7 @@
       "Name": "Road to Improvement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "FULL_IMPROVEMENTS",
@@ -291,7 +296,7 @@
       "Name": "Endless Possibilities",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "LOVE_HIDDEN",
@@ -313,9 +318,9 @@
       "ID": "MAX_SPEED_REACHED",
       "SetID": "b6f796g",
       "Name": "Cut The Air",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "NIGHT_FOREST_HIDDEN",
@@ -402,7 +407,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 0
     }
   ],
@@ -410,8 +415,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:06:19.2189801+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:06:13.5455001+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.6544323+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:00:45.9770679+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:06:19.219007+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:00:43.4306519+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:06:13.5455185+00:00"
 }

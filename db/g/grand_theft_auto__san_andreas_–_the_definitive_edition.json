@@ -1933,9 +1933,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16472,
+  "EOS_Progressed": 16478,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1521,
+  "EOS_NewPlayers": 1517,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17363,6 +17363,11 @@
       "Time": "2023-12-24T04:10:32.7882434+00:00",
       "NumProgressed": 16472,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-12-24T05:10:46.9077169+00:00",
+      "NumProgressed": 16478,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 35,
@@ -17374,7 +17379,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13342
+      "UsersEstimate": 13347
     },
     {
       "ID": "ACH02",
@@ -17406,7 +17411,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH06",
@@ -17414,7 +17419,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH07",
@@ -17422,7 +17427,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "ACH08",
@@ -17430,7 +17435,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8236
+      "UsersEstimate": 8239
     },
     {
       "ID": "ACH09",
@@ -17446,7 +17451,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH11",
@@ -17454,7 +17459,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "ACH12",
@@ -17462,7 +17467,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH13",
@@ -17470,7 +17475,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2966
     },
     {
       "ID": "ACH14",
@@ -17478,7 +17483,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH15",
@@ -17510,7 +17515,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH19",
@@ -17526,7 +17531,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH21",
@@ -17542,7 +17547,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "ACH23",
@@ -17550,7 +17555,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4120
     },
     {
       "ID": "ACH24",
@@ -17574,7 +17579,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH27",
@@ -17582,7 +17587,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH28",
@@ -17598,7 +17603,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "ACH30",
@@ -17606,7 +17611,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH31",
@@ -17622,7 +17627,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH33",
@@ -17653,7 +17658,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16472,
+      "Progressed": 16478,
       "Completed": 62
     }
   ],
@@ -17661,8 +17666,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-24T02:24:43.8128037+00:00",
-  "LastChanged_Achievements": "2023-12-24T04:10:32.7882429+00:00",
+  "LastChanged_Achievements": "2023-12-24T05:10:46.9077167+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-24T04:01:20.6452003+00:00",
-  "LastUpdate_Achievements": "2023-12-24T04:10:32.7883454+00:00"
+  "LastUpdate_Ratings": "2023-12-24T05:01:17.5904856+00:00",
+  "LastUpdate_Achievements": "2023-12-24T05:10:46.9078085+00:00"
 }
