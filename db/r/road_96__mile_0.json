@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 548,
+  "EOS_Progressed": 550,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -1942,6 +1942,11 @@
       "Time": "2023-12-24T10:09:40.4637206+00:00",
       "NumProgressed": 548,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T11:09:38.5044953+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1953,7 +1958,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "completeact2",
@@ -1961,7 +1966,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 41,
       "XP": 80,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "completeact3",
@@ -1969,7 +1974,7 @@
       "Name": "On the Road",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "findalltapes",
@@ -1977,7 +1982,7 @@
       "Name": "Song Harvester",
       "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "scoremaxrankallrides",
@@ -1985,7 +1990,7 @@
       "Name": "Try Harder",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "scoreminrankrb1",
@@ -2025,7 +2030,7 @@
       "Name": "Souvenirs",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "scoreminrankrp1",
@@ -2041,7 +2046,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "scoreminrankrp3",
@@ -2065,14 +2070,14 @@
       "Name": "Friendzone",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 548,
+      "Progressed": 550,
       "Completed": 2
     }
   ],
@@ -2080,8 +2085,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:40.4637202+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:38.5044951+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:51.4438115+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:40.4637411+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:52.1992479+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:38.50451+00:00"
 }

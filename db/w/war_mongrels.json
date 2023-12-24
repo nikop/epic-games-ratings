@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2728,9 +2728,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2984,8 +2984,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:48.6740333+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:46.6225239+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:59:28.6987216+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:48.6740866+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:59:29.1946238+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:46.6225795+00:00"
 }

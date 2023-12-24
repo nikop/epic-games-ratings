@@ -3563,9 +3563,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19085,
+  "EOS_Progressed": 19091,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16913,6 +16913,11 @@
       "Time": "2023-12-24T10:03:34.835165+00:00",
       "NumProgressed": 19085,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-24T11:03:38.8655702+00:00",
+      "NumProgressed": 19091,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16923,9 +16928,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 153
     },
     {
       "ID": "AllFood",
@@ -17013,7 +17018,7 @@
       "Name": "First Real Expedition",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinHard",
@@ -17205,7 +17210,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinOnMoorlands",
@@ -17261,7 +17266,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinWithResolve",
@@ -17301,7 +17306,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinWithoutOrders",
@@ -17333,7 +17338,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinNearGreed",
@@ -17341,7 +17346,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinNearLibrary",
@@ -17357,7 +17362,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "WinNearPresence",
@@ -17365,7 +17370,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinNearStorms",
@@ -17373,7 +17378,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17396,15 +17401,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19085,
+      "Progressed": 19091,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-23T13:57:13.6733867+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:03:34.8351643+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:03:38.8655699+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:24.7369952+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:03:34.8352496+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:25.2314432+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:03:38.8656771+00:00"
 }

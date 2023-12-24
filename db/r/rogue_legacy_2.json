@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26544,
+  "EOS_Progressed": 26551,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1542,
+  "EOS_NewPlayers": 1514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11672,6 +11672,11 @@
       "Time": "2023-12-24T10:09:30.2398678+00:00",
       "NumProgressed": 26544,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-24T11:09:27.7576639+00:00",
+      "NumProgressed": 26551,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11763,7 +11768,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11795,7 +11800,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11811,7 +11816,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11827,7 +11832,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11929,9 +11934,9 @@
       "ID": "PetDragon",
       "SetID": "3ojhj46",
       "Name": "Good Boy!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 133
     },
     {
       "ID": "PrequelReveal",
@@ -11939,7 +11944,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "RogueMode",
@@ -11994,21 +11999,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26544,
+      "Progressed": 26551,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5474,
+      "Progressed": 5481,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:30.2398671+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:27.7576635+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:59:57.5675502+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:30.2399367+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:59:57.4773345+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:27.7577354+00:00"
 }

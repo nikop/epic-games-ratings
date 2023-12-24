@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,833 |
-| Off to a good start | 64.00% | ~1,333 |
-| Do... or do not. There is no try | 52.00% | ~1,083 |
-| A good blaster at your side | 27.00% | ~562 |
+| New Recruit | 88.00% | ~1,835 |
+| Off to a good start | 64.00% | ~1,334 |
+| Do... or do not. There is no try | 52.00% | ~1,084 |
+| A good blaster at your side | 27.00% | ~563 |
 | I suggest a new strategy | 18.00% | ~375 |
-| Scrap collector | 16.00% | ~333 |
-| All right, I'll give it a try | 16.00% | ~333 |
-| Great shot, kid! | 16.00% | ~333 |
+| Scrap collector | 16.00% | ~334 |
+| All right, I'll give it a try | 16.00% | ~334 |
+| Great shot, kid! | 16.00% | ~334 |
 | The power of the Force | 13.00% | ~271 |
 | Shoot first | 13.00% | ~271 |
 | Collector | 12.00% | ~250 |
 | Together we can rule the galaxy | 12.00% | ~250 |
-| Tell Jabba that I've got his money | 9.00% | ~187 |
+| Tell Jabba that I've got his money | 9.00% | ~188 |
 | Best star-pilot in the galaxy | 8.00% | ~167 |
 | Survivor | 8.00% | ~167 |
 | Never tell me the odds! | 7.00% | ~146 |
@@ -28,11 +28,11 @@
 | Judge me by my size, do you? | 5.00% | ~104 |
 | Support the troops | 5.00% | ~104 |
 | A tremor in the Force | 4.00% | ~83 |
-| On the ball | 3.00% | ~62 |
-| Safety ain't the point of a joyride | 3.00% | ~62 |
-| Not bad for a little furball | 3.00% | ~62 |
-| Patience you must have | 3.00% | ~62 |
-| Don't underestimate the Force | 3.00% | ~62 |
+| On the ball | 3.00% | ~63 |
+| Safety ain't the point of a joyride | 3.00% | ~63 |
+| Not bad for a little furball | 3.00% | ~63 |
+| Patience you must have | 3.00% | ~63 |
+| Don't underestimate the Force | 3.00% | ~63 |
 | The Force is strong with this one | 2.00% | ~42 |
 | I've been waiting for you | 2.00% | ~42 |
 | When 900 years old you reach... | 2.00% | ~42 |
@@ -56,7 +56,7 @@
 | Walker defender | 0.70% | ~15 |
 | No such thing as luck | 0.70% | ~15 |
 | Stop that Droid | 0.70% | ~15 |
-| Do we take prisoners? | 0.60% | ~12 |
+| Do we take prisoners? | 0.60% | ~13 |
 | I’ll take that bet | 0.50% | ~10 |
 | Greed can be a very powerful ally | 0.40% | ~8 |
 | Stay on target | 0.30% | ~6 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,083 (Ranked 234)  
+Progressed: 2,085 (Ranked 234)  
 Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.05%) (Ranked 335)
 | 2023-12-21 | 1,979 | 1 |
 | 2023-12-22 | 2,014 | 1 |
 | 2023-12-23 | 2,067 | 1 |
-| 2023-12-24 | 2,083 | 1 |
+| 2023-12-24 | 2,085 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

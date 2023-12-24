@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~121,197 |
-| Incurious | 18.00% | ~121,197 |
-| Stroller | 16.00% | ~107,731 |
-| Climate Change | 16.00% | ~107,731 |
-| Toy Train | 14.00% | ~94,264 |
-| Advanced Hiker | 13.00% | ~87,531 |
-| Hiker | 12.00% | ~80,798 |
-| Mojave Courier | 6.00% | ~40,399 |
-| Saved by Nausicaä | 6.00% | ~40,399 |
+| Advanced Stroller | 18.00% | ~121,200 |
+| Incurious | 18.00% | ~121,200 |
+| Stroller | 16.00% | ~107,733 |
+| Climate Change | 16.00% | ~107,733 |
+| Toy Train | 14.00% | ~94,267 |
+| Advanced Hiker | 13.00% | ~87,533 |
+| Hiker | 12.00% | ~80,800 |
+| Mojave Courier | 6.00% | ~40,400 |
+| Saved by Nausicaä | 6.00% | ~40,400 |
 | Advanced Voyager | 4.00% | ~26,933 |
 | Expert Stroller | 4.00% | ~26,933 |
 | Orient Express | 4.00% | ~26,933 |
 | Voyager | 3.00% | ~20,200 |
 | Marathon | 3.00% | ~20,200 |
 | Destructionist | 3.00% | ~20,200 |
-| Expert Hiker | 2.00% | ~13,466 |
-| Lost | 2.00% | ~13,466 |
+| Expert Hiker | 2.00% | ~13,467 |
+| Lost | 2.00% | ~13,467 |
 | Rocketman | 0.80% | ~5,387 |
 | Expert Voyager | 0.70% | ~4,713 |
 | Nanuk | 0.70% | ~4,713 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~673 |
 | 20 Miles under the Sea | 0.10% | ~673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,317 (Ranked 28)  
+Progressed: 673,334 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 12 (0.00%) (Ranked 388)
 | 2023-12-21 | 672,136 | 12 |
 | 2023-12-22 | 672,556 | 12 |
 | 2023-12-23 | 673,132 | 12 |
-| 2023-12-24 | 673,317 | 12 |
+| 2023-12-24 | 673,334 | 12 |
 ## Awards
-Max (Great for Beginners): 205  (Ranked 291)  
+Max (Great for Beginners): 205  (Ranked 292)  
 Sum: 1,616 (Ranked 233)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 205 |

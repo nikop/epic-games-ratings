@@ -23,17 +23,17 @@
 | Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
 | Just a Palm Tree | 5.00% | ~5 |
-| Under the Hood | 4.00% | ~4 |
-| Long Live Gaipajama! | 4.00% | ~4 |
+| Under the Hood | 5.00% | ~5 |
+| Long Live Gaipajama! | 5.00% | ~5 |
 | Eyes Shut | 4.00% | ~4 |
 | Tintin, Reporter | 3.00% | ~3 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
+| Mountain Runner | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
 | Subtlety | 2.00% | ~2 |
 | Jungle Runner | 1.00% | ~1 |
-| Mountain Runner | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |

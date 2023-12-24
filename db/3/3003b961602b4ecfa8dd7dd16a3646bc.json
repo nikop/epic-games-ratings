@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -417,9 +417,9 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_10_SARAH",
@@ -576,8 +576,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:42.4923417+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:40.5886249+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:37.8746121+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:14.3591989+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:42.4923571+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:14.7526503+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:40.5886395+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 439,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -847,9 +847,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1087,9 +1087,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1183,9 +1183,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1247,8 +1247,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-23T17:00:12.5339599+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:05:47.748662+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:05:54.1640653+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:00:07.4133786+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:05:47.748712+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:00:07.5517487+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:05:54.1641347+00:00"
 }

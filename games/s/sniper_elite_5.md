@@ -5,16 +5,16 @@ Rating: 4.45 (Ranked 676)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,926 |
-| Confirming Suspicions | 42.00% | ~1,721 |
-| The Kraken Wakes | 37.00% | ~1,516 |
-| It's Starting to Crack | 34.00% | ~1,393 |
-| Lord of War | 31.00% | ~1,270 |
-| Change the Channel | 31.00% | ~1,270 |
-| Taking it back | 29.00% | ~1,188 |
-| Resourceful | 27.00% | ~1,106 |
-| Target America | 27.00% | ~1,106 |
-| The Kraken Sleeps | 25.00% | ~1,024 |
+| Meeting Resistance | 47.00% | ~1,927 |
+| Confirming Suspicions | 42.00% | ~1,722 |
+| The Kraken Wakes | 37.00% | ~1,517 |
+| It's Starting to Crack | 34.00% | ~1,394 |
+| Change the Channel | 31.00% | ~1,271 |
+| Lord of War | 30.00% | ~1,230 |
+| Taking it back | 29.00% | ~1,189 |
+| Resourceful | 27.00% | ~1,107 |
+| Target America | 27.00% | ~1,107 |
+| The Kraken Sleeps | 25.00% | ~1,025 |
 | As Quiet as a Mouse | 24.00% | ~984 |
 | Liberté | 23.00% | ~943 |
 | Organ Grinder | 23.00% | ~943 |
@@ -37,7 +37,7 @@ Rating: 4.45 (Ranked 676)
 | Precision Is Key | 10.00% | ~410 |
 | My Little Friend | 10.00% | ~410 |
 | Rigged to Blow | 9.00% | ~369 |
-| Herr Today, Gone Tomorrow | 7.00% | ~283 |
+| Herr Today, Gone Tomorrow | 7.00% | ~284 |
 | The Long Game | 6.00% | ~246 |
 | Operation Foxley | 6.00% | ~243 |
 | Strategist | 5.00% | ~205 |
@@ -45,17 +45,17 @@ Rating: 4.45 (Ranked 676)
 | It'll Buff Right Out | 5.00% | ~205 |
 | Road Rage | 5.00% | ~205 |
 | Don't hold your breath | 5.00% | ~205 |
-| Last Resort | 5.00% | ~202 |
-| Siegebreaker | 5.00% | ~202 |
-| Ghost of Falaise | 5.00% | ~202 |
+| Last Resort | 5.00% | ~203 |
+| Siegebreaker | 5.00% | ~203 |
+| Ghost of Falaise | 5.00% | ~203 |
 | Locomotion Commotion | 4.00% | ~164 |
 | From Paris with Love | 3.00% | ~123 |
 | Burn after reading | 3.00% | ~123 |
 | Souvenir hunter | 3.00% | ~123 |
 | Shoot for the Moon | 3.00% | ~123 |
-| If You Go Down To The Woods Today | 3.00% | ~121 |
-| Fight Another Day | 3.00% | ~121 |
-| Shipbreaker | 3.00% | ~121 |
+| If You Go Down To The Woods Today | 3.00% | ~122 |
+| Fight Another Day | 3.00% | ~122 |
+| Shipbreaker | 3.00% | ~122 |
 | Out of Scope | 2.00% | ~82 |
 | Eagle Eyed | 2.00% | ~82 |
 | Up close and personal | 2.00% | ~82 |
@@ -67,9 +67,9 @@ Rating: 4.45 (Ranked 676)
 | Best of the Best | 1.00% | ~41 |
 | Master of Secondaries | 1.00% | ~41 |
 | Sight Beyond Sights | 1.00% | ~41 |
-| From Führer Away | 1.00% | ~40 |
-| Alpha | 1.00% | ~40 |
-| Das Familienjuwel | 1.00% | ~40 |
+| From Führer Away | 1.00% | ~41 |
+| Alpha | 1.00% | ~41 |
+| Das Familienjuwel | 1.00% | ~41 |
 | Master of Rifles | 0.90% | ~37 |
 | Master of Pistols | 0.80% | ~33 |
 | Operation Overlord | 0.80% | ~32 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 676)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,098 (Ranked 206)  
+Progressed: 4,101 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-21 | 4,079 | 11 |
 | 2023-12-22 | 4,086 | 11 |
 | 2023-12-23 | 4,097 | 11 |
-| 2023-12-24 | 4,098 | 11 |
+| 2023-12-24 | 4,101 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 523)  
 Sum: 28 (Ranked 538)  

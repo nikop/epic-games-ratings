@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4691,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12692,
+  "EOS_Progressed": 12695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17856,6 +17856,11 @@
       "Time": "2023-12-24T10:09:49.824974+00:00",
       "NumProgressed": 12692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T11:09:47.7902494+00:00",
+      "NumProgressed": 12695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17867,7 +17872,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3427
+      "UsersEstimate": 3428
     },
     {
       "ID": "02_BurningCity",
@@ -17891,7 +17896,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -17899,7 +17904,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17923,7 +17928,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "09_PathOfDemon",
@@ -18235,7 +18240,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "49_Flame",
@@ -18259,7 +18264,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18739,7 +18744,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -18794,21 +18799,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11474,
+      "Progressed": 11477,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12692,
+      "Progressed": 12695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:49.8249736+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:47.7902492+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:59:23.1978344+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:49.825133+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:59:23.6343007+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:47.7904059+00:00"
 }

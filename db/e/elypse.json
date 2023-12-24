@@ -4,8 +4,8 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -637,9 +637,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -852,8 +852,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:08:45.2273493+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:08:41.1834995+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.9683486+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:50.245162+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:08:45.2273962+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:51.0316559+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:08:41.1835275+00:00"
 }

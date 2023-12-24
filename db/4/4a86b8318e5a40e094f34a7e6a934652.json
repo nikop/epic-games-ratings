@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1628,9 +1628,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "HOUSEWARMING",
@@ -1731,8 +1731,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:03:10.9500848+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:03:13.8859133+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:17.9393408+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:03:10.9501525+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:18.515696+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:03:13.8859377+00:00"
 }

@@ -1,13 +1,13 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.50 (Ranked 602)  
+Rating: 4.50 (Ranked 601)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 76.00% | ~106 |
-| First of many… | 63.00% | ~88 |
+| First of many… | 64.00% | ~89 |
 | Helping Hand | 61.00% | ~85 |
 | Increased Vigor | 55.00% | ~76 |
 | Fight Fire with Fire | 54.00% | ~75 |
@@ -22,15 +22,15 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 35.00% | ~49 |
 | Five's a Crowd | 35.00% | ~49 |
 | Unshakable Fortitude | 33.00% | ~46 |
+| Soul Harvester | 33.00% | ~46 |
 | Salvation | 33.00% | ~46 |
 | I Wanna Rock | 32.00% | ~44 |
-| Soul Harvester | 32.00% | ~44 |
 | Delusions of Grandeur | 32.00% | ~44 |
 | Love Tap | 31.00% | ~43 |
 | Maximum Vigor | 28.00% | ~39 |
 | Freeze Frame | 27.00% | ~38 |
+| Eat Your Heart Out | 27.00% | ~38 |
 | For Whom the Bell Tolls | 27.00% | ~38 |
-| Eat Your Heart Out | 26.00% | ~36 |
 | Unyielding Strength | 22.00% | ~31 |
 | Can you restore the Balance? | 22.00% | ~31 |
 | Cleanup Crew | 21.00% | ~29 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 439)  
-Completed: 1 (0.72%) (Ranked 196)  
+Completed: 1 (0.72%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

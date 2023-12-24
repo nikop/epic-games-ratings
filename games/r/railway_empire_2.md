@@ -22,8 +22,8 @@ Rating: 4.42 (Ranked 722)
 | Producer | 51.00% | ~1,280 |
 | Apprentice | 42.00% | ~1,054 |
 | Bridge Builder | 42.00% | ~1,054 |
+| Access granted | 36.00% | ~903 |
 | Going once, going twice, sold | 36.00% | ~903 |
-| Access granted | 35.00% | ~878 |
 | Bull and bear | 34.00% | ~853 |
 | Stoker | 33.00% | ~828 |
 | Full Steam ahead | 33.00% | ~828 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 722)
 | United States | 0.60% | ~15 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,509 (Ranked 226)  
+Progressed: 2,509 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

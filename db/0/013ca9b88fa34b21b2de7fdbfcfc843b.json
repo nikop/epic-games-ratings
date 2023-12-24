@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8625,
+  "EOS_Progressed": 8627,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8995,6 +8995,11 @@
       "Time": "2023-12-24T10:09:46.043521+00:00",
       "NumProgressed": 8625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T11:09:44.2461154+00:00",
+      "NumProgressed": 8627,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9007,7 +9012,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -9015,7 +9020,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -9055,7 +9060,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -9119,7 +9124,7 @@
       "Name": "Beach Comber",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -9141,9 +9146,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 86
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -9239,7 +9244,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -9350,13 +9355,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8625,
+      "Progressed": 8627,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1242,
+      "Progressed": 1244,
       "Completed": 1050
     }
   ],
@@ -9364,8 +9369,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:46.0435208+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:44.2461151+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:03:03.1579769+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:46.0435861+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:03:03.2353928+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:44.2461747+00:00"
 }

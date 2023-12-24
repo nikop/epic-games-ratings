@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2280,6 +2280,11 @@
       "Time": "2023-12-24T10:09:45.0937808+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T11:09:43.2824337+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2291,7 +2296,7 @@
       "Name": "Break Out",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_02",
@@ -2315,7 +2320,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_05",
@@ -2355,7 +2360,7 @@
       "Name": "The Mentor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_10",
@@ -2363,7 +2368,7 @@
       "Name": "Trinity",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_11",
@@ -2387,7 +2392,7 @@
       "Name": "Adventurer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_14",
@@ -2395,7 +2400,7 @@
       "Name": "Airborne",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_15",
@@ -2411,7 +2416,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_17",
@@ -2427,7 +2432,7 @@
       "Name": "Shatter Them All",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_19",
@@ -2443,15 +2448,15 @@
       "Name": "Flawless Victory",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_22",
@@ -2475,7 +2480,7 @@
       "Name": "All There Is",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_25",
@@ -2491,7 +2496,7 @@
       "Name": "Scholar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_27",
@@ -2499,7 +2504,7 @@
       "Name": "False God",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_28",
@@ -2523,7 +2528,7 @@
       "Name": "Alchemist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_31",
@@ -2539,7 +2544,7 @@
       "Name": "Miner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_34",
@@ -2578,14 +2583,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:09:45.0937806+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:09:43.2824334+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:59:13.556138+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:09:45.0938065+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:59:13.7889015+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:09:43.2824639+00:00"
 }

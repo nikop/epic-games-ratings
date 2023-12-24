@@ -19,13 +19,13 @@
 | Sorry Grandpa | 30.00% | ~27 |
 | Roostwig has entered the building | 30.00% | ~27 |
 | Game Over! | 29.00% | ~26 |
+| GG | 29.00% | ~26 |
 | NOW GO AWAY! | 29.00% | ~26 |
 | Shattered | 28.00% | ~25 |
-| GG | 28.00% | ~25 |
 | Beekeeper | 28.00% | ~25 |
 | Far away from home | 28.00% | ~25 |
+| Show me your true self | 27.00% | ~24 |
 | You've got mail! | 27.00% | ~24 |
-| Show me your true self | 26.00% | ~23 |
 | Memories | 26.00% | ~23 |
 | Mischief maker | 26.00% | ~23 |
 | No posters allowed | 26.00% | ~23 |

@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1643,9 +1643,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7478,
+  "EOS_Progressed": 7479,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -15338,6 +15338,11 @@
       "Time": "2023-12-24T10:08:26.9044807+00:00",
       "NumProgressed": 7478,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T11:08:23.1576347+00:00",
+      "NumProgressed": 7479,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15349,7 +15354,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15381,7 +15386,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5010
+      "UsersEstimate": 5011
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -15389,7 +15394,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15397,7 +15402,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5459
+      "UsersEstimate": 5460
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15469,7 +15474,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4637
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15493,7 +15498,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15557,7 +15562,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15565,7 +15570,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -15573,7 +15578,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -15581,7 +15586,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -15589,22 +15594,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7478,
+      "Progressed": 7479,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:08:26.9044801+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:08:23.1576344+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.6112107+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:57.1486142+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:08:26.9045537+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:57.8509073+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:08:23.1577252+00:00"
 }

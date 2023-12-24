@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237735,
+  "EOS_Progressed": 237738,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26287,6 +26287,11 @@
       "Time": "2023-12-24T10:05:14.5725088+00:00",
       "NumProgressed": 237735,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-24T11:05:19.9294345+00:00",
+      "NumProgressed": 237738,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26314,7 +26319,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66566
+      "UsersEstimate": 66567
     },
     {
       "ID": "CENTAUR",
@@ -26338,7 +26343,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16641
+      "UsersEstimate": 16642
     },
     {
       "ID": "DRAGOON",
@@ -26386,7 +26391,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47547
+      "UsersEstimate": 47548
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -26434,7 +26439,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78453
+      "UsersEstimate": 78454
     },
     {
       "ID": "NOBUNAGA",
@@ -26466,7 +26471,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16641
+      "UsersEstimate": 16642
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -26514,7 +26519,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9509
+      "UsersEstimate": 9510
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -26562,22 +26567,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97471
+      "UsersEstimate": 97473
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237735,
+      "Progressed": 237738,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:05:14.5725079+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:05:19.929434+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:25.5939283+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:05:14.5726535+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:26.0976126+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:05:19.929599+00:00"
 }

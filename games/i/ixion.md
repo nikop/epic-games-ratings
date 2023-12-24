@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 458)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 31.00% | ~1,142 |
-| Sputnik 2049 | 27.00% | ~994 |
+| Sputnik 2049 | 27.00% | ~995 |
 | Infinite Growth... | 26.00% | ~958 |
 | Without Breaking Some Eggs... | 25.00% | ~921 |
 | A Thousand Strong | 18.00% | ~663 |
@@ -21,7 +21,7 @@ Rating: 4.58 (Ranked 458)
 | Breaking Protocol | 12.00% | ~442 |
 | Hope Seeker | 12.00% | ~442 |
 | A Hunk of Junk | 11.00% | ~405 |
-| Man's Best Friend | 9.00% | ~331 |
+| Man's Best Friend | 9.00% | ~332 |
 | Power Outage | 8.00% | ~295 |
 | Convenient Transport | 8.00% | ~295 |
 | Please Make it Stop! | 8.00% | ~295 |
@@ -39,10 +39,10 @@ Rating: 4.58 (Ranked 458)
 | Sustainable Energy | 4.00% | ~147 |
 | In Dolos We Trust | 4.00% | ~147 |
 | Pedal to the Metal | 4.00% | ~147 |
-| Praise the Hull! | 3.00% | ~110 |
-| Delivery! | 3.00% | ~110 |
-| Help of the Forgotten Member | 3.00% | ~110 |
-| Pulsar Disciple | 3.00% | ~110 |
+| Praise the Hull! | 3.00% | ~111 |
+| Delivery! | 3.00% | ~111 |
+| Help of the Forgotten Member | 3.00% | ~111 |
+| Pulsar Disciple | 3.00% | ~111 |
 | Mutual Loyalty | 2.00% | ~74 |
 | Tiqqun Contender | 2.00% | ~74 |
 | Catastrophe Avoided | 2.00% | ~74 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 458)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,683 (Ranked 212)  
+Progressed: 3,684 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,624 | 0 |
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
-| 2023-12-24 | 3,683 | 0 |
+| 2023-12-24 | 3,684 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

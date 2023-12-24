@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,10 +301,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17268,
-  "EOS_Completed": 51,
-  "EOS_NewPlayers": 661,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 17272,
+  "EOS_Completed": 52,
+  "EOS_NewPlayers": 662,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -14961,6 +14961,11 @@
       "Time": "2023-12-24T10:06:08.6139558+00:00",
       "NumProgressed": 17268,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-12-24T11:06:15.3968729+00:00",
+      "NumProgressed": 17272,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15005,7 +15010,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "14",
@@ -15021,7 +15026,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "16",
@@ -15037,7 +15042,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "18",
@@ -15069,7 +15074,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "21",
@@ -15109,7 +15114,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "26",
@@ -15149,7 +15154,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "30",
@@ -15213,7 +15218,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "32",
@@ -15252,22 +15257,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17268,
-      "Completed": 51
+      "Progressed": 17272,
+      "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3222,
-      "Completed": 1019
+      "Progressed": 3226,
+      "Completed": 1020
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:06:08.6139552+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:06:15.3968725+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:58:06.3378852+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:06:08.6140273+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:58:08.0263165+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:06:15.3969531+00:00"
 }

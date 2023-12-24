@@ -5,13 +5,13 @@ Rating: 4.64 (Ranked 342)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 4.00% | ~994 |
+| Satisfied Gus-tomer | 5.00% | ~1,242 |
+| Cold-Blooded Driller | 5.00% | ~1,242 |
 | Are You Packin'? | 4.00% | ~994 |
 | Bring A Knife to a Gun Fight | 4.00% | ~994 |
 | Sweezy Like Sunday Morning | 4.00% | ~994 |
 | First Bounty Down | 4.00% | ~994 |
 | G3 Graduation | 4.00% | ~994 |
-| Cold-Blooded Driller | 4.00% | ~994 |
 | Don't Knife The Hand That Feeds | 4.00% | ~994 |
 | Creature Feature | 3.00% | ~745 |
 | RIP Davey Glutes | 3.00% | ~745 |

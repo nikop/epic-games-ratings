@@ -2,13 +2,13 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13615,10 +13615,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 37877,
       "NumberOfAwardsMax": 15491
+    },
+    {
+      "Time": "2023-12-24T10:56:56.7853645+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 37879,
+      "NumberOfAwardsMax": 15491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37877,
+  "NumberOfAwards": 37879,
   "NumberOfAwardsMax": 15491,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13686,7 +13692,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 777
+      "Count": 779
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13706,8 +13712,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-12-24T09:56:56.1906613+00:00",
+  "LastChanged": "2023-12-24T10:56:56.7853643+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:32.7951433+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:56:56.190662+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:06:25.3616402+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:56:56.7853651+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:06:32.6415593+00:00"
 }

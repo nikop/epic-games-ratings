@@ -7,7 +7,7 @@
 | New arm | 77.00% | ~477 |
 | Shelter Escape | 75.00% | ~465 |
 | The First Bond | 66.00% | ~409 |
-| Novice Scavenger | 59.00% | ~366 |
+| Novice Scavenger | 60.00% | ~372 |
 | Master Craftsman | 48.00% | ~298 |
 | First wall | 46.00% | ~285 |
 | Piggyback Expert | 45.00% | ~279 |
@@ -20,7 +20,7 @@
 | Min's Promise | 18.00% | ~112 |
 | Truebro | 18.00% | ~112 |
 | Sia's Promise | 17.00% | ~105 |
-| Romantic | 13.00% | ~81 |
+| Romantic | 14.00% | ~87 |
 | TentacleMAN | 9.00% | ~56 |
 | Yohan's Promise | 5.00% | ~31 |
 | Flawless | 5.00% | ~31 |
@@ -31,7 +31,7 @@
 | Bond Lord | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 620 (Ranked 317)  
-Completed: 2 (0.32%) (Ranked 246)  
+Completed: 2 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

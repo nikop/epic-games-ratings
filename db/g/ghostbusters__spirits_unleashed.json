@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3813,9 +3813,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32630,
+  "EOS_Progressed": 32634,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23283,6 +23283,11 @@
       "Time": "2023-12-24T10:06:28.3399646+00:00",
       "NumProgressed": 32630,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-24T11:06:35.6505892+00:00",
+      "NumProgressed": 32634,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23406,7 +23411,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "Escape_Artist",
@@ -23701,7 +23706,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32630,
+      "Progressed": 32634,
       "Completed": 69
     }
   ],
@@ -23709,8 +23714,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:06:28.3399642+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:06:35.650589+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:24.9790952+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:06:28.3400624+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:25.4777028+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:06:35.6506861+00:00"
 }

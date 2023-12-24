@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Alone with Them | 71.00% | ~242 |
 | Forced to Kill | 68.00% | ~232 |
-| A Night To Remember | 41.00% | ~140 |
+| A Night To Remember | 42.00% | ~143 |
 | Safe...For now? | 34.00% | ~116 |
 | Open Sesame | 30.00% | ~102 |
-| Them and Us | 19.00% | ~65 |
-| OUTRAGE | 19.00% | ~65 |
 | What have I done!? | 19.00% | ~65 |
+| Them and Us | 18.00% | ~61 |
+| OUTRAGE | 18.00% | ~61 |
 | This Coffin Has Your Name On It! | 16.00% | ~55 |
 | Alone In The Dark | 14.00% | ~48 |
 | The Cultists | 14.00% | ~48 |

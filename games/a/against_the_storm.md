@@ -8,15 +8,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,145 |
 | Overgrown Library | 6.00% | ~1,145 |
-| Petrified Necropolis | 5.00% | ~954 |
-| First Real Expedition | 4.00% | ~763 |
-| The Marshlands | 4.00% | ~763 |
-| Taking Action | 4.00% | ~763 |
-| No Deaths | 4.00% | ~763 |
-| Frosts | 4.00% | ~763 |
-| Land of Greed | 4.00% | ~763 |
-| Ominous Presence | 4.00% | ~763 |
-| Gathering Storm | 4.00% | ~763 |
+| Petrified Necropolis | 5.00% | ~955 |
+| First Real Expedition | 4.00% | ~764 |
+| The Marshlands | 4.00% | ~764 |
+| Taking Action | 4.00% | ~764 |
+| No Deaths | 4.00% | ~764 |
+| Frosts | 4.00% | ~764 |
+| Land of Greed | 4.00% | ~764 |
+| Ominous Presence | 4.00% | ~764 |
+| Gathering Storm | 4.00% | ~764 |
 | Overcoming Difficulty | 3.00% | ~573 |
 | Coral Forest | 3.00% | ~573 |
 | The Scarlet Orchard | 3.00% | ~573 |
@@ -41,10 +41,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 1.00% | ~191 |
 | Corrosive Torrent | 1.00% | ~191 |
 | Cursed Lands | 1.00% | ~191 |
+| Serving Ale | 0.80% | ~153 |
 | Victory Through Prosperity | 0.80% | ~153 |
 | Defying the Crown | 0.80% | ~153 |
 | Into the Forest | 0.80% | ~153 |
-| Serving Ale | 0.70% | ~134 |
 | Fishmen Ritual Site | 0.70% | ~134 |
 | Efficient Explorer | 0.60% | ~115 |
 | Refinery | 0.60% | ~115 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,085 (Ranked 150)  
+Progressed: 19,091 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,085 | 38 |
+| 2023-12-24 | 19,091 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,284 (Ranked 176)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -483,7 +483,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3573,
+  "EOS_Progressed": 3574,
   "EOS_Completed": 140,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
@@ -5958,6 +5958,11 @@
       "Time": "2023-12-24T10:04:11.9630528+00:00",
       "NumProgressed": 3573,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-24T11:04:17.2690127+00:00",
+      "NumProgressed": 3574,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -5977,7 +5982,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6017,7 +6022,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6025,7 +6030,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6057,7 +6062,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -6080,7 +6085,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3573,
+      "Progressed": 3574,
       "Completed": 140
     }
   ],
@@ -6088,8 +6093,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:04:11.9630521+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:04:17.2690123+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:57:19.2702768+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:04:11.9630859+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:57:19.967556+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:04:17.2690506+00:00"
 }

@@ -33,11 +33,11 @@
 | Zakariya Demir | 24.00% | ~14 |
 | The Scheme | 24.00% | ~14 |
 | Truth from within | 22.00% | ~13 |
-| A curious phrase | 19.00% | ~11 |
+| A curious phrase | 20.00% | ~12 |
 | Evelyn Lakshmi Warbeck | 19.00% | ~11 |
 | The Suspects | 19.00% | ~11 |
+| Johan Kristiansen | 17.00% | ~10 |
 | Horace Mountjoy | 15.00% | ~9 |
-| Johan Kristiansen | 15.00% | ~9 |
 | The Secrets | 15.00% | ~9 |
 | Well-travelled | 14.00% | ~8 |
 | A peculiar fellow | 14.00% | ~8 |

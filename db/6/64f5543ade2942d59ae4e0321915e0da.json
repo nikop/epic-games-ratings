@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -944,6 +944,11 @@
       "Time": "2023-12-24T10:04:19.096178+00:00",
       "NumProgressed": 228,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T11:04:24.0763139+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -962,9 +967,9 @@
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -994,17 +999,17 @@
       "ID": "AC_ALL_WEAPONS",
       "SetID": "16i2akc",
       "Name": "Arsenal",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
       "SetID": "16i2akc",
       "Name": "Armory",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -1028,7 +1033,7 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AC_BOSS_01",
@@ -1042,9 +1047,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_BOSS_03",
@@ -1068,7 +1073,7 @@
       "Name": "Pack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_COMBO_2",
@@ -1090,9 +1095,9 @@
       "ID": "AC_CROSSBOW_MAX",
       "SetID": "16i2akc",
       "Name": "Bolt",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_DEATH_1",
@@ -1148,7 +1153,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1178,9 +1183,9 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1242,9 +1247,9 @@
       "ID": "AC_RECIPES_DONE_2",
       "SetID": "16i2akc",
       "Name": "Cheff",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -1260,7 +1265,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1291,14 +1296,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-24T10:04:19.0961776+00:00",
+  "LastChanged_Achievements": "2023-12-24T11:04:24.0763134+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:58:21.9867123+00:00",
-  "LastUpdate_Achievements": "2023-12-24T10:04:19.0962041+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:58:22.0710961+00:00",
+  "LastUpdate_Achievements": "2023-12-24T11:04:24.0763453+00:00"
 }
