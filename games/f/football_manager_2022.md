@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,121 |
-| He's Signed! | 50.00% | ~239,121 |
-| First Victory | 50.00% | ~239,121 |
-| He's Sold! | 48.00% | ~229,556 |
+| Clean Sheet | 50.00% | ~239,122 |
+| He's Signed! | 50.00% | ~239,122 |
+| First Victory | 50.00% | ~239,122 |
+| He's Sold! | 48.00% | ~229,557 |
 | I'm The Boss! | 42.00% | ~200,862 |
-| Hat-trick | 41.00% | ~196,079 |
+| Hat-trick | 41.00% | ~196,080 |
 | Scoring Streak | 38.00% | ~181,732 |
 | Unbeatable! | 37.00% | ~176,950 |
 | Thumping | 37.00% | ~176,950 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,385 |
-| Total Support | 32.00% | ~153,037 |
-| Record Signing | 32.00% | ~153,037 |
+| Total Support | 32.00% | ~153,038 |
+| Record Signing | 32.00% | ~153,038 |
 | He's a Natural | 31.00% | ~148,255 |
 | Millionaire's Club | 31.00% | ~148,255 |
 | Team Performance | 30.00% | ~143,473 |
@@ -25,12 +25,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Shrewd Spender | 29.00% | ~138,690 |
 | Star Man | 29.00% | ~138,690 |
 | Attack! | 28.00% | ~133,908 |
-| You're On Fire | 27.00% | ~129,125 |
-| Tremendous Trio | 27.00% | ~129,125 |
-| Record Sale | 27.00% | ~129,125 |
+| You're On Fire | 27.00% | ~129,126 |
+| Tremendous Trio | 27.00% | ~129,126 |
+| Record Sale | 27.00% | ~129,126 |
 | On A Roll | 26.00% | ~124,343 |
 | Unstoppable Force | 26.00% | ~124,343 |
-| Armchair Expert | 25.00% | ~119,560 |
+| Armchair Expert | 25.00% | ~119,561 |
 | Fantastic Five | 24.00% | ~114,778 |
 | Full Faith | 24.00% | ~114,778 |
 | Iron Curtain | 24.00% | ~114,778 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,213 |
 | What A Goal! | 22.00% | ~105,213 |
 | Cup Glory! | 22.00% | ~105,213 |
-| Irresistible Force | 20.00% | ~95,648 |
-| Excellent Match Cohesion | 20.00% | ~95,648 |
+| Irresistible Force | 20.00% | ~95,649 |
+| Excellent Match Cohesion | 20.00% | ~95,649 |
 | Do The Double | 19.00% | ~90,866 |
 | Top Form | 17.00% | ~81,301 |
 | Cash To Burn | 17.00% | ~81,301 |
@@ -52,7 +52,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 15.00% | ~71,736 |
 | Eyes and Ears | 14.00% | ~66,954 |
 | Comeback King! | 14.00% | ~66,954 |
-| You're Up! | 13.00% | ~62,171 |
+| You're Up! | 13.00% | ~62,172 |
 | Money, Money, Money | 12.00% | ~57,389 |
 | Invincible! | 11.00% | ~52,607 |
 | Superb Strike | 10.00% | ~47,824 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,242 (Ranked 41)  
+Progressed: 478,243 (Ranked 41)  
 Completed: 22 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 22 (0.00%) (Ranked 388)
 | 2023-12-21 | 478,106 | 22 |
 | 2023-12-22 | 478,179 | 22 |
 | 2023-12-23 | 478,238 | 22 |
-| 2023-12-24 | 478,242 | 22 |
+| 2023-12-24 | 478,243 | 22 |
 ## Awards
 Max (Relaxing): 6,486  (Ranked 60)  
 Sum: 51,168 (Ranked 30)  

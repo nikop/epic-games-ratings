@@ -34,7 +34,7 @@
 | Pasta Bolognese | 36.00% | ~49 |
 | You are no match for me, Billy! | 35.00% | ~48 |
 | You can't stop me, bro! | 35.00% | ~48 |
-| Karaoke king | 33.00% | ~45 |
+| Karaoke king | 34.00% | ~46 |
 | Meatballs, coming up! | 32.00% | ~44 |
 | Catch the bus with me! | 32.00% | ~44 |
 | I'm going to get a concussion | 31.00% | ~42 |

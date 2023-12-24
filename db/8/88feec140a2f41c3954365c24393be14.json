@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -185,10 +185,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109206,
-  "EOS_Completed": 5201,
-  "EOS_NewPlayers": 1557,
-  "EOS_NewCompleters": 124,
+  "EOS_Progressed": 109207,
+  "EOS_Completed": 5202,
+  "EOS_NewPlayers": 1553,
+  "EOS_NewCompleters": 125,
   "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
@@ -11805,6 +11805,11 @@
       "Time": "2023-12-24T02:29:33.6626884+00:00",
       "NumProgressed": 109206,
       "NumCompleted": 5201
+    },
+    {
+      "Time": "2023-12-24T03:05:10.0393914+00:00",
+      "NumProgressed": 109207,
+      "NumCompleted": 5202
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -11849,7 +11854,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 61155
+      "UsersEstimate": 61156
     },
     {
       "ID": "ShipDip",
@@ -11857,7 +11862,7 @@
       "Name": "Ship Dip!",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 56787
+      "UsersEstimate": 56788
     },
     {
       "ID": "TheArtOfParley",
@@ -11897,7 +11902,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 86273
+      "UsersEstimate": 86274
     },
     {
       "ID": "WelcomeAboard",
@@ -11905,23 +11910,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 86273
+      "UsersEstimate": 86274
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 109206,
-      "Completed": 5201
+      "Progressed": 109207,
+      "Completed": 5202
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-12-06T21:57:26.986764+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:29:33.6626879+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:05:10.0393908+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.1061387+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:23:36.8855065+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:29:33.6627503+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:59:06.3419658+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:05:10.0394631+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 77.00% | ~172 |
+| Meissa's Savior | 77.00% | ~173 |
 | Purification Pioneer | 73.00% | ~164 |
-| Mechanical Buddy | 68.00% | ~152 |
-| Dicesmithing Time! | 61.00% | ~137 |
-| Sanctuary Guardian | 54.00% | ~121 |
+| Mechanical Buddy | 68.00% | ~153 |
+| Dicesmithing Time! | 60.00% | ~135 |
+| Sanctuary Guardian | 53.00% | ~119 |
 | Endless Tricks | 48.00% | ~108 |
-| Wild's Keeper | 46.00% | ~103 |
-| Mind Illuminator | 43.00% | ~96 |
-| Noctuan Champion | 35.00% | ~78 |
+| Wild's Keeper | 45.00% | ~101 |
+| Mind Illuminator | 43.00% | ~97 |
+| Noctuan Champion | 35.00% | ~79 |
 | Stellar Dismantler | 34.00% | ~76 |
-| Anomaly Destroyer | 31.00% | ~69 |
+| Anomaly Destroyer | 31.00% | ~70 |
 | Astral Adventurer | 29.00% | ~65 |
-| Star Killer | 27.00% | ~60 |
-| Eridanian Champion | 25.00% | ~56 |
+| Star Killer | 27.00% | ~61 |
+| Eridanian Champion | 24.00% | ~54 |
 | Lacertian Champion | 23.00% | ~52 |
-| Loyal Partner | 22.00% | ~49 |
-| Apian Champion | 21.00% | ~47 |
+| Loyal Partner | 22.00% | ~50 |
+| Apian Champion | 20.00% | ~45 |
 | Shard Spender | 18.00% | ~40 |
 | Unbeatable | 17.00% | ~38 |
-| Behenian Champion | 17.00% | ~38 |
+| Behenian Champion | 16.00% | ~36 |
 | Sadistic Plan | 15.00% | ~34 |
 | Astral Seeker | 10.00% | ~22 |
 | Aquarian Champion | 10.00% | ~22 |
@@ -34,8 +34,8 @@
 | Heart Gate | 8.00% | ~18 |
 | The Corruption Goddess | 8.00% | ~18 |
 | The Goddes Avatar | 8.00% | ~18 |
-| Anomaly Control | 6.00% | ~13 |
-| Can't touch this | 6.00% | ~13 |
+| Anomaly Control | 6.00% | ~14 |
+| Can't touch this | 6.00% | ~14 |
 | Artificer | 5.00% | ~11 |
 | The Dark Moon | 5.00% | ~11 |
 | Apian Hero | 5.00% | ~11 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 402)  
+Progressed: 225 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,4 +162,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 206 | 0 |
 | 2023-12-22 | 214 | 0 |
 | 2023-12-23 | 223 | 0 |
-| 2023-12-24 | 224 | 0 |
+| 2023-12-24 | 225 | 0 |

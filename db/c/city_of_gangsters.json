@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -952,9 +952,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 358135,
+  "EOS_Progressed": 358139,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29177,6 +29177,11 @@
       "Time": "2023-12-24T02:33:34.9838231+00:00",
       "NumProgressed": 358135,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T03:08:53.2834721+00:00",
+      "NumProgressed": 358139,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29204,7 +29209,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42976
+      "UsersEstimate": 42977
     },
     {
       "ID": "ach004",
@@ -29244,7 +29249,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42976
+      "UsersEstimate": 42977
     },
     {
       "ID": "ach009",
@@ -29292,7 +29297,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53720
+      "UsersEstimate": 53721
     },
     {
       "ID": "ach015",
@@ -29332,7 +29337,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14325
+      "UsersEstimate": 14326
     },
     {
       "ID": "ach020",
@@ -29396,7 +29401,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164742
+      "UsersEstimate": 164744
     },
     {
       "ID": "ach028",
@@ -29404,7 +29409,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14325
+      "UsersEstimate": 14326
     },
     {
       "ID": "ach029",
@@ -29436,7 +29441,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14325
+      "UsersEstimate": 14326
     },
     {
       "ID": "ach033",
@@ -29524,7 +29529,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25069
+      "UsersEstimate": 25070
     },
     {
       "ID": "ach044",
@@ -29532,7 +29537,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14325
+      "UsersEstimate": 14326
     },
     {
       "ID": "ach045",
@@ -29548,7 +29553,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25069
+      "UsersEstimate": 25070
     },
     {
       "ID": "ach047",
@@ -29612,7 +29617,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14325
+      "UsersEstimate": 14326
     },
     {
       "ID": "ach055",
@@ -29764,7 +29769,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14325
+      "UsersEstimate": 14326
     },
     {
       "ID": "ach075",
@@ -29796,7 +29801,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25069
+      "UsersEstimate": 25070
     },
     {
       "ID": "ach079",
@@ -29827,7 +29832,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358135,
+      "Progressed": 358139,
       "Completed": 7
     }
   ],
@@ -29835,8 +29840,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-23T18:58:19.3055863+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:33:34.9838226+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:08:53.2834719+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:23:32.4052664+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:33:34.9839839+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:59:01.8657591+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:08:53.2836323+00:00"
 }

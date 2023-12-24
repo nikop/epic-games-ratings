@@ -6,43 +6,43 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~126,747 |
-| Comeback | 82.00% | ~116,778 |
+| Immovable Object | 89.00% | ~126,748 |
+| Comeback | 82.00% | ~116,779 |
 | Information is Key | 80.00% | ~113,930 |
-| Unlucky | 70.00% | ~99,688 |
-| Anarchist | 68.00% | ~96,840 |
+| Unlucky | 70.00% | ~99,689 |
+| Anarchist | 68.00% | ~96,841 |
 | Wallhack | 65.00% | ~92,568 |
-| Steady Supply | 60.00% | ~85,447 |
-| Lucky Shot | 53.00% | ~75,478 |
-| Ring Ring! | 52.00% | ~74,054 |
-| Forward Observer | 51.00% | ~72,630 |
-| Bossing Around | 45.00% | ~64,085 |
-| Frostbite | 45.00% | ~64,085 |
-| Night Owl | 44.00% | ~62,661 |
-| Strength in Numbers | 44.00% | ~62,661 |
+| Steady Supply | 60.00% | ~85,448 |
+| Lucky Shot | 53.00% | ~75,479 |
+| Ring Ring! | 52.00% | ~74,055 |
+| Forward Observer | 51.00% | ~72,631 |
+| Bossing Around | 45.00% | ~64,086 |
+| Frostbite | 45.00% | ~64,086 |
+| Night Owl | 44.00% | ~62,662 |
+| Strength in Numbers | 44.00% | ~62,662 |
 | Fog of War | 41.00% | ~58,389 |
 | Rasputin | 39.00% | ~55,541 |
 | Stronghold Denied | 39.00% | ~55,541 |
 | Anyone Else? | 38.00% | ~54,117 |
-| Hydra | 36.00% | ~51,268 |
-| This Belongs to Us Now | 36.00% | ~51,268 |
-| Stronghold | 35.00% | ~49,844 |
+| Hydra | 36.00% | ~51,269 |
+| This Belongs to Us Now | 36.00% | ~51,269 |
+| Stronghold | 35.00% | ~49,845 |
 | Leeroy | 33.00% | ~46,996 |
 | Lost Batallion | 33.00% | ~46,996 |
 | This is MY Machine Gun! | 32.00% | ~45,572 |
 | Together As One | 31.00% | ~44,148 |
-| Gavrilo Princip | 27.00% | ~38,451 |
+| Gavrilo Princip | 27.00% | ~38,452 |
 | Lead Harvest | 25.00% | ~35,603 |
 | Skynet Confirmed | 23.00% | ~32,755 |
 | Kesselschlacht | 22.00% | ~31,331 |
-| Democracy Works! | 20.00% | ~28,482 |
+| Democracy Works! | 20.00% | ~28,483 |
 | Switch, Please! | 19.00% | ~27,058 |
 | At Least This Way I Can Win... | 18.00% | ~25,634 |
 | Tourist | 18.00% | ~25,634 |
 | I've Seen It All | 17.00% | ~24,210 |
 | Oops! | 17.00% | ~24,210 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~22,786 |
-| Butcher | 12.00% | ~17,089 |
+| Butcher | 12.00% | ~17,090 |
 | Before the Leaves Fall | 10.00% | ~14,241 |
 | Close Call | 10.00% | ~14,241 |
 | Pinpoint | 10.00% | ~14,241 |
@@ -55,9 +55,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | From Russia with Love | 5.00% | ~7,121 |
 | Overachiever | 5.00% | ~7,121 |
 | Your Family Will Be Proud... | 5.00% | ~7,121 |
-| Gott Mit Uns | 4.00% | ~5,696 |
-| Indivisibiliter ac Inseparabiliter | 4.00% | ~5,696 |
-| Living on the Edge | 4.00% | ~5,696 |
+| Gott Mit Uns | 4.00% | ~5,697 |
+| Indivisibiliter ac Inseparabiliter | 4.00% | ~5,697 |
+| Living on the Edge | 4.00% | ~5,697 |
 | Chivalrous | 3.00% | ~4,272 |
 | S nami Bog! | 3.00% | ~4,272 |
 | Za veru, Tsarya i otechestvo | 3.00% | ~4,272 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,282 |
 | Road to Berlin | 0.60% | ~854 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,412 (Ranked 84)  
+Progressed: 142,413 (Ranked 84)  
 Completed: 34 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,15 +322,15 @@ Completed: 34 (0.02%) (Ranked 357)
 | 2023-12-21 | 142,119 | 34 |
 | 2023-12-22 | 142,246 | 34 |
 | 2023-12-23 | 142,398 | 34 |
-| 2023-12-24 | 142,412 | 34 |
+| 2023-12-24 | 142,413 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
-Sum: 3,294 (Ranked 174)  
+Sum: 3,296 (Ranked 174)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 335 |
-| This game has Challenging Combat | 326 |
+| This game has Challenging Combat | 328 |
 | This game has Diverse Characters | 320 |
 | This game is Extremely Fun | 317 |
 | This game has Quickly Understood Controls | 317 |
@@ -539,3 +539,4 @@ Diff (max vs sum): 74
 | 2023-12-19 | 4.39 | - | 335 | 3,292 |
 | 2023-12-21 | 4.39 | - | 335 | 3,293 |
 | 2023-12-22 | 4.39 | - | 335 | 3,294 |
+| 2023-12-24 | 4.39 | - | 335 | 3,296 |

@@ -5,27 +5,27 @@ Rating: 4.53 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 14.00% | ~14,380 |
-| I've Had Enough! | 11.00% | ~11,298 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,217 |
-| Seasoned Fighter | 7.00% | ~7,190 |
-| All For One and One For All | 6.00% | ~6,163 |
-| A New Age | 4.00% | ~4,108 |
-| Home Sweet Home? | 4.00% | ~4,108 |
-| Oh Baby, A Triple | 3.00% | ~3,081 |
-| Battle Hardened | 2.00% | ~2,054 |
-| Master of Disguise | 2.00% | ~2,054 |
-| It's Mayhem! | 2.00% | ~2,054 |
-| Symbiotic | 2.00% | ~2,054 |
-| Double Punch! | 1.00% | ~1,027 |
-| Martyrdom | 1.00% | ~1,027 |
-| Right back at'cha | 1.00% | ~1,027 |
-| Spectacular Finisher | 1.00% | ~1,027 |
-| Cautious Veteran | 0.90% | ~924 |
+| All Grown Up! | 14.00% | ~14,386 |
+| I've Had Enough! | 11.00% | ~11,303 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,221 |
+| Seasoned Fighter | 7.00% | ~7,193 |
+| All For One and One For All | 6.00% | ~6,165 |
+| A New Age | 4.00% | ~4,110 |
+| Home Sweet Home? | 4.00% | ~4,110 |
+| Oh Baby, A Triple | 3.00% | ~3,083 |
+| Battle Hardened | 2.00% | ~2,055 |
+| Master of Disguise | 2.00% | ~2,055 |
+| It's Mayhem! | 2.00% | ~2,055 |
+| Symbiotic | 2.00% | ~2,055 |
+| Double Punch! | 1.00% | ~1,028 |
+| Martyrdom | 1.00% | ~1,028 |
+| Right back at'cha | 1.00% | ~1,028 |
+| Spectacular Finisher | 1.00% | ~1,028 |
+| Cautious Veteran | 0.90% | ~925 |
 | Katamari | 0.70% | ~719 |
 | Ninja Reflex | 0.70% | ~719 |
 | Zero-sum Game | 0.70% | ~719 |
-| Taste Your Own Medicine | 0.60% | ~616 |
+| Taste Your Own Medicine | 0.60% | ~617 |
 | This is GigaBash! | 0.40% | ~411 |
 | Sidetracked... | 0.40% | ~411 |
 | Eye of the Titan | 0.30% | ~308 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 551)
 | What's Mine is Yours | 0.10% | ~103 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102,711 (Ranked 94)  
+Progressed: 102,758 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 98,723 | 0 |
 | 2023-12-22 | 100,514 | 0 |
 | 2023-12-23 | 102,487 | 0 |
-| 2023-12-24 | 102,711 | 0 |
+| 2023-12-24 | 102,758 | 0 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 494)  
 Sum: 34 (Ranked 519)  

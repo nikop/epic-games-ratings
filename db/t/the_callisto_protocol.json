@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1799,9 +1799,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18915,
+  "EOS_Progressed": 18917,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1441,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -10924,6 +10924,11 @@
       "Time": "2023-12-24T02:34:27.4272396+00:00",
       "NumProgressed": 18915,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-24T03:09:47.3782109+00:00",
+      "NumProgressed": 18917,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -10967,7 +10972,7 @@
       "Name": "Flesh Wound",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11039,7 +11044,7 @@
       "Name": "Get a Grip",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11047,7 +11052,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "KILL_2HEAD",
@@ -11111,7 +11116,7 @@
       "Name": "Paper Jams",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11127,7 +11132,7 @@
       "Name": "The Outer Way",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11167,7 +11172,7 @@
       "Name": "Desperate Times",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11287,7 +11292,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -11310,13 +11315,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 18915,
+      "Progressed": 18917,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 6841,
+      "Progressed": 6843,
       "Completed": 29
     }
   ],
@@ -11324,8 +11329,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-23T22:03:45.5231156+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:34:27.4272391+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:09:47.3782108+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:28:14.8519878+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:34:27.4273164+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:03:47.758633+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:09:47.3782743+00:00"
 }

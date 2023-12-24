@@ -7,7 +7,7 @@
 | So it begins | 86.00% | ~103 |
 | Good to grow | 61.00% | ~73 |
 | Fashionista | 38.00% | ~46 |
-| Irrigation not irritation | 35.00% | ~42 |
+| Irrigation not irritation | 36.00% | ~43 |
 | Graduated | 32.00% | ~38 |
 | Ay ay yarrr! | 23.00% | ~28 |
 | Night Shift | 22.00% | ~26 |

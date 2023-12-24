@@ -10,24 +10,24 @@
 | The Altruist | 66.00% | ~64 |
 | Treasure Hunter | 65.00% | ~63 |
 | Watch your Step! | 54.00% | ~52 |
-| Tap Dancing | 51.00% | ~49 |
+| Tap Dancing | 52.00% | ~50 |
 | MAX LEVEL | 51.00% | ~49 |
 | Right between the eyes | 40.00% | ~39 |
 | Spring Board | 40.00% | ~39 |
 | Starry Night | 38.00% | ~37 |
 | Locksley's Tears | 37.00% | ~36 |
-| Rebel Unleashed | 35.00% | ~34 |
+| Rebel Unleashed | 36.00% | ~35 |
 | Merry Co-operation | 32.00% | ~31 |
 | Finish Him! | 25.00% | ~24 |
-| Assault on the Ram | 24.00% | ~23 |
+| Assault on the Ram | 25.00% | ~24 |
+| Ultra Rebel Instinct | 24.00% | ~23 |
 | First Aid | 24.00% | ~23 |
-| Ultra Rebel Instinct | 23.00% | ~22 |
 | Merry Go Round | 22.00% | ~21 |
 | Savior | 18.00% | ~17 |
 | Hidden Experiment | 16.00% | ~16 |
 | Take Action! | 16.00% | ~16 |
+| Ultra Combo | 15.00% | ~15 |
 | Ascending Will | 14.00% | ~14 |
-| Ultra Combo | 14.00% | ~14 |
 | Into the Lion's Den | 11.00% | ~11 |
 | Haute Couture | 10.00% | ~10 |
 | Sky High Fighter | 9.00% | ~9 |

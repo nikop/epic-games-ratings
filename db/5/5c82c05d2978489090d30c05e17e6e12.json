@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69720,
+  "EOS_Progressed": 69725,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 2123,
+  "EOS_NewPlayers": 2119,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4686,6 +4686,11 @@
       "Time": "2023-12-24T02:30:20.8933357+00:00",
       "NumProgressed": 69720,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-24T03:05:58.3324349+00:00",
+      "NumProgressed": 69725,
+      "NumCompleted": 94
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4698,7 +4703,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25796
+      "UsersEstimate": 25798
     },
     {
       "ID": "Achievement_10",
@@ -4786,7 +4791,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18824
+      "UsersEstimate": 18826
     },
     {
       "ID": "Achievement_20",
@@ -4874,7 +4879,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8366
+      "UsersEstimate": 8367
     },
     {
       "ID": "Achievement_30",
@@ -4888,9 +4893,9 @@
       "ID": "Achievement_31",
       "SetID": "2md12pi",
       "Name": "Well Traveled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 139
     },
     {
       "ID": "Achievement_32",
@@ -4906,7 +4911,7 @@
       "Name": "Family Ties",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Achievement_34",
@@ -4930,7 +4935,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "Achievement_6",
@@ -4969,7 +4974,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 69720,
+      "Progressed": 69725,
       "Completed": 94
     }
   ],
@@ -4977,8 +4982,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-23T05:03:37.9211737+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:30:20.8933353+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:05:58.3324346+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:28:06.3889046+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:30:20.8933808+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:03:39.6391144+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:05:58.3324829+00:00"
 }

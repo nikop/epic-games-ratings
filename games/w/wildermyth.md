@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 110)  
+Rating: 4.78 (Ranked 109)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,545 (Ranked 253)  
+Progressed: 1,546 (Ranked 253)  
 Completed: 7 (0.45%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 7 (0.45%) (Ranked 223)
 | 2023-12-21 | 1,538 | 7 |
 | 2023-12-22 | 1,540 | 7 |
 | 2023-12-23 | 1,545 | 7 |
+| 2023-12-24 | 1,546 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 516)  
 Sum: 29 (Ranked 533)  

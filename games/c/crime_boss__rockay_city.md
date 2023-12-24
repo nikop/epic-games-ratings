@@ -6,9 +6,9 @@ Rating: 3.95 (Ranked 1,033)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First One’s Free | 4.00% | ~3,697 |
-| Neophyte Ninja | 3.00% | ~2,772 |
-| Downed but Not Outed | 3.00% | ~2,772 |
-| Too Old for This | 3.00% | ~2,772 |
+| Neophyte Ninja | 3.00% | ~2,773 |
+| Downed but Not Outed | 3.00% | ~2,773 |
+| Too Old for This | 3.00% | ~2,773 |
 | Underworld Initiate | 2.00% | ~1,848 |
 | Case Closed | 2.00% | ~1,848 |
 | King of the Hill | 2.00% | ~1,848 |
@@ -24,8 +24,8 @@ Rating: 3.95 (Ranked 1,033)
 | Headhunter | 0.80% | ~739 |
 | I Like Trains | 0.70% | ~647 |
 | Freebooter | 0.70% | ~647 |
-| Legend Looter | 0.60% | ~554 |
-| Moneybags | 0.60% | ~554 |
+| Legend Looter | 0.60% | ~555 |
+| Moneybags | 0.60% | ~555 |
 | Imports and Exports | 0.50% | ~462 |
 | Savvy Seeker | 0.50% | ~462 |
 | Foo Finder | 0.50% | ~462 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,033)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,416 (Ranked 97)  
+Progressed: 92,419 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-21 | 92,286 | 58 |
 | 2023-12-22 | 92,351 | 58 |
 | 2023-12-23 | 92,411 | 58 |
-| 2023-12-24 | 92,416 | 58 |
+| 2023-12-24 | 92,419 | 58 |
 ## Awards
 Max (Diverse Characters): 575  (Ranked 207)  
 Sum: 2,708 (Ranked 191)  

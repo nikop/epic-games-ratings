@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761840,
+  "EOS_Progressed": 761843,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1992,
+  "EOS_NewPlayers": 1991,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28802,6 +28802,11 @@
       "Time": "2023-12-24T02:30:17.9838032+00:00",
       "NumProgressed": 761840,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T03:05:55.3348068+00:00",
+      "NumProgressed": 761843,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -28837,7 +28842,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45710
+      "UsersEstimate": 45711
     },
     {
       "ID": "ach_build_bridge",
@@ -28877,7 +28882,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 281881
+      "UsersEstimate": 281882
     },
     {
       "ID": "ach_demolish_trees",
@@ -28909,7 +28914,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45710
+      "UsersEstimate": 45711
     },
     {
       "ID": "ach_max_truck_distance",
@@ -28941,7 +28946,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 365683
+      "UsersEstimate": 365685
     },
     {
       "ID": "ach_produced",
@@ -28949,7 +28954,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99039
+      "UsersEstimate": 99040
     },
     {
       "ID": "ach_products_moved",
@@ -28957,7 +28962,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 121894
+      "UsersEstimate": 121895
     },
     {
       "ID": "ach_raise_money",
@@ -28981,7 +28986,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99039
+      "UsersEstimate": 99040
     },
     {
       "ID": "ach_setup_route_boat",
@@ -29028,7 +29033,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 761840,
+      "Progressed": 761843,
       "Completed": 4
     }
   ],
@@ -29036,8 +29041,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-23T04:01:00.8949605+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:30:17.9838027+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:05:55.3348066+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:28.4696268+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:25:05.2939834+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:30:17.9839486+00:00"
+  "LastUpdate_Ratings": "2023-12-24T03:00:35.9833971+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:05:55.3349547+00:00"
 }

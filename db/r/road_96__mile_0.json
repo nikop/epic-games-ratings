@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1927,6 +1927,11 @@
       "Time": "2023-12-24T02:00:08.2150458+00:00",
       "NumProgressed": 545,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T03:10:20.464661+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1938,7 +1943,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "completeact2",
@@ -1946,7 +1951,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 41,
       "XP": 80,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "completeact3",
@@ -2024,9 +2029,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "scoreminrankrp3",
@@ -2057,7 +2062,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 2
     }
   ],
@@ -2065,8 +2070,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:35:00.1627333+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:10:20.4646606+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:22:53.502645+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:35:00.1627485+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:58:18.7831218+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:10:20.4646806+00:00"
 }

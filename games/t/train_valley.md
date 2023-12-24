@@ -6,7 +6,7 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~447 |
+| Getting started | 78.00% | ~452 |
 | Close call! | 72.00% | ~418 |
 | Builder | 52.00% | ~302 |
 | Living it large! | 45.00% | ~261 |

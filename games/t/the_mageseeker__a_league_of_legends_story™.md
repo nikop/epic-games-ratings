@@ -1,20 +1,20 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.79 (Ranked 101)  
+Rating: 4.79 (Ranked 100)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,846 |
-| No more cages! | 91.00% | ~2,726 |
-| Everfrost | 77.00% | ~2,307 |
-| Dark Forest | 77.00% | ~2,307 |
-| Pentakill | 76.00% | ~2,277 |
-| The use of petricite | 74.00% | ~2,217 |
-| You can pet the dog | 60.00% | ~1,798 |
-| Thornbarrow | 41.00% | ~1,228 |
-| Big Helmet Bro | 39.00% | ~1,168 |
-| Clarion Cove | 39.00% | ~1,168 |
+| For Demacia | 95.00% | ~2,848 |
+| No more cages! | 91.00% | ~2,728 |
+| Everfrost | 77.00% | ~2,308 |
+| Dark Forest | 77.00% | ~2,308 |
+| Pentakill | 76.00% | ~2,278 |
+| The use of petricite | 74.00% | ~2,219 |
+| You can pet the dog | 60.00% | ~1,799 |
+| Thornbarrow | 41.00% | ~1,229 |
+| Big Helmet Bro | 39.00% | ~1,169 |
+| Clarion Cove | 39.00% | ~1,169 |
 | Past trauma | 37.00% | ~1,109 |
 | Ternmoat Headquarters | 37.00% | ~1,109 |
 | Elemental master | 36.00% | ~1,079 |
@@ -26,30 +26,30 @@ Rating: 4.79 (Ranked 101)
 | Whispers in the Woods I | 27.00% | ~809 |
 | Ancient power | 27.00% | ~809 |
 | I chose my shackles | 26.00% | ~779 |
-| Sacred Woods | 25.00% | ~749 |
-| Little light | 23.00% | ~689 |
-| Capelworth | 23.00% | ~689 |
-| Full equipped | 23.00% | ~689 |
-| Glyndemere | 22.00% | ~659 |
-| Iffighain Headquarters | 22.00% | ~659 |
-| Whispers in the Woods II | 18.00% | ~539 |
-| No more holding back | 18.00% | ~539 |
-| Terbisia | 18.00% | ~539 |
-| Quickmoore Headquarters | 18.00% | ~539 |
-| Whispers in the Woods III | 17.00% | ~509 |
-| Friendly fire | 17.00% | ~509 |
-| The Central Headquarters | 17.00% | ~509 |
-| My heart and sword always for Demacia | 16.00% | ~479 |
-| True power | 16.00% | ~479 |
-| Meltridge | 16.00% | ~479 |
-| Cloven Dell Headquarters | 16.00% | ~479 |
-| Whispers in the Woods IV | 14.00% | ~419 |
-| I smell fear | 14.00% | ~419 |
-| Embrace the darkness | 13.00% | ~389 |
-| The end of the experiments | 13.00% | ~389 |
-| The Great City of Demacia | 13.00% | ~389 |
-| Truth is a dark mirror | 13.00% | ~389 |
-| Call it 'redistribution of magic | 13.00% | ~389 |
+| Sacred Woods | 25.00% | ~750 |
+| Little light | 23.00% | ~690 |
+| Capelworth | 23.00% | ~690 |
+| Full equipped | 23.00% | ~690 |
+| Glyndemere | 22.00% | ~660 |
+| Iffighain Headquarters | 22.00% | ~660 |
+| Whispers in the Woods II | 18.00% | ~540 |
+| No more holding back | 18.00% | ~540 |
+| Terbisia | 18.00% | ~540 |
+| Quickmoore Headquarters | 18.00% | ~540 |
+| Whispers in the Woods III | 17.00% | ~510 |
+| Friendly fire | 17.00% | ~510 |
+| The Central Headquarters | 17.00% | ~510 |
+| My heart and sword always for Demacia | 16.00% | ~480 |
+| True power | 16.00% | ~480 |
+| Meltridge | 16.00% | ~480 |
+| Cloven Dell Headquarters | 16.00% | ~480 |
+| Whispers in the Woods IV | 14.00% | ~420 |
+| I smell fear | 14.00% | ~420 |
+| Embrace the darkness | 13.00% | ~390 |
+| The end of the experiments | 13.00% | ~390 |
+| The Great City of Demacia | 13.00% | ~390 |
+| Truth is a dark mirror | 13.00% | ~390 |
+| Call it 'redistribution of magic | 13.00% | ~390 |
 | Back to sleep, then... | 12.00% | ~360 |
 | Do you trust me? | 11.00% | ~330 |
 | The great mage rebellion starts now | 11.00% | ~330 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 101)
 | Silverwing nest | 2.00% | ~60 |
 | The Unshackled | 1.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,996 (Ranked 219)  
+Progressed: 2,998 (Ranked 219)  
 Completed: 16 (0.53%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 16 (0.53%) (Ranked 211)
 | 2023-12-21 | 2,923 | 16 |
 | 2023-12-22 | 2,952 | 16 |
 | 2023-12-23 | 2,991 | 16 |
-| 2023-12-24 | 2,996 | 16 |
+| 2023-12-24 | 2,998 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

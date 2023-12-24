@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,7 +149,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15754,
+  "EOS_Progressed": 15756,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
@@ -4629,6 +4629,11 @@
       "Time": "2023-12-24T02:34:26.5928285+00:00",
       "NumProgressed": 15754,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-24T03:09:46.498728+00:00",
+      "NumProgressed": 15756,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4673,7 +4678,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "ACH_AE_14",
@@ -4681,7 +4686,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "ACH_AE_15",
@@ -4737,7 +4742,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH_AE_21",
@@ -4753,7 +4758,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "ACH_AE_23",
@@ -4881,7 +4886,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH_AE_6",
@@ -4897,7 +4902,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH_AE_8",
@@ -4905,7 +4910,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH_AE_9",
@@ -4913,14 +4918,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15754,
+      "Progressed": 15756,
       "Completed": 14
     }
   ],
@@ -4928,8 +4933,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:34:26.5928281+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:09:46.4987278+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:22:32.8953471+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:34:26.5928631+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:57:56.0000575+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:09:46.4987737+00:00"
 }

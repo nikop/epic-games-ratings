@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/spelldrifter.json)  
 Rating: 3.80 (Ranked 1,057)  
 ## Awards
-Max (Character Customization): 24  (Ranked 542)  
-Sum: 24 (Ranked 548)  
+Max (Character Customization): 24  (Ranked 543)  
+Sum: 24 (Ranked 549)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |

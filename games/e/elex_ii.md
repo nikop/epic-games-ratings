@@ -10,8 +10,8 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 23.00% | ~18 |
 | Role Model | 22.00% | ~17 |
 | Creator | 14.00% | ~11 |
+| Military Leader | 13.00% | ~10 |
 | Civilian | 13.00% | ~10 |
-| Military Leader | 12.00% | ~9 |
 | Long-Haul Flyer | 10.00% | ~8 |
 | Peddler | 9.00% | ~7 |
 | Irissa's Fate | 8.00% | ~6 |

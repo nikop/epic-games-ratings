@@ -20,7 +20,7 @@
 | Powerful Allies | 14.00% | ~159 |
 | Big Bazar | 10.00% | ~114 |
 | Essence Blow | 9.00% | ~102 |
-| Alchemist | 8.00% | ~91 |
+| Alchemist | 9.00% | ~102 |
 | The Mentor | 6.00% | ~68 |
 | Calm before the Storm | 5.00% | ~57 |
 | Airborne | 5.00% | ~57 |

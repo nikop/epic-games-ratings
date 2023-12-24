@@ -7,9 +7,9 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost in Space | 75.00% | ~33,590 |
-| Quick Understanding of Block Extrusion | 68.00% | ~30,454 |
+| Quick Understanding of Block Extrusion | 68.00% | ~30,455 |
 | Nature or Nurture | 52.00% | ~23,289 |
-| Power Glove | 50.00% | ~22,393 |
+| Power Glove | 50.00% | ~22,394 |
 | Forgotten Memories | 43.00% | ~19,258 |
 | Cogs in the Machine | 36.00% | ~16,123 |
 | Mission Success | 23.00% | ~10,301 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~448 |
 | Expert Collector | 1.00% | ~448 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,786 (Ranked 122)  
+Progressed: 44,787 (Ranked 122)  
 Completed: 222 (0.50%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 222 (0.50%) (Ranked 216)
 | 2023-12-21 | 44,457 | 219 |
 | 2023-12-22 | 44,596 | 221 |
 | 2023-12-23 | 44,760 | 222 |
-| 2023-12-24 | 44,786 | 222 |
+| 2023-12-24 | 44,787 | 222 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

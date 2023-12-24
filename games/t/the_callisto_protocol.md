@@ -5,11 +5,11 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 16.00% | ~3,026 |
-| The Outer Way | 16.00% | ~3,026 |
-| Get a Grip | 15.00% | ~2,837 |
-| Paper Jams | 15.00% | ~2,837 |
-| Desperate Times | 15.00% | ~2,837 |
+| Flesh Wound | 16.00% | ~3,027 |
+| The Outer Way | 16.00% | ~3,027 |
+| Get a Grip | 15.00% | ~2,838 |
+| Paper Jams | 15.00% | ~2,838 |
+| Desperate Times | 15.00% | ~2,838 |
 | Chew 'Em Up | 13.00% | ~2,459 |
 | Float Like A Butterfly | 12.00% | ~2,270 |
 | Reforged | 11.00% | ~2,081 |
@@ -25,11 +25,11 @@ Rating: 4.20 (Ranked 936)
 | You Need a Gun | 6.00% | ~1,135 |
 | What Lies Beneath | 6.00% | ~1,135 |
 | Full Circle | 6.00% | ~1,135 |
-| Keep Fighting | 6.00% | ~410 |
+| Keep Fighting | 6.00% | ~411 |
 | I Do Belong Here | 5.00% | ~946 |
 | It's Time | 5.00% | ~342 |
 | The Commonality | 4.00% | ~757 |
-| In Striking Distance | 3.00% | ~567 |
+| In Striking Distance | 3.00% | ~568 |
 | One Last Job | 2.00% | ~137 |
 | Armed to the Teeth | 1.00% | ~68 |
 | Mugshot | 1.00% | ~189 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,915 (Ranked 151)  
+Progressed: 18,917 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 82 (0.43%) (Ranked 227)
 | 2023-12-21 | 18,465 | 82 |
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
-| 2023-12-24 | 18,915 | 82 |
+| 2023-12-24 | 18,917 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 377)  
 Sum: 557 (Ranked 324)  

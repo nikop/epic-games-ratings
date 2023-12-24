@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1932,9 +1932,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7512,6 +7512,11 @@
       "Time": "2023-12-24T02:30:45.3644466+00:00",
       "NumProgressed": 653,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T03:06:23.3786239+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T08:07:08.352719+00:00",
@@ -7524,7 +7529,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 443
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -7540,7 +7545,7 @@
       "Name": "On that Grindset",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 606
     },
     {
       "ID": "C_STAYUP",
@@ -7548,7 +7553,7 @@
       "Name": "Panda-kin",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 443
     },
     {
       "ID": "C_YEAR",
@@ -7578,9 +7583,9 @@
       "ID": "F_MONSTER_ELITE",
       "SetID": "80dcan0",
       "Name": "Big Game Hunter",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 456
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -7588,7 +7593,7 @@
       "Name": "Super Spelunker",
       "Percentage": 140,
       "XP": 30,
-      "UsersEstimate": 914
+      "UsersEstimate": 913
     },
     {
       "ID": "M_ASSEMBLER_DIAGRAM",
@@ -7596,23 +7601,23 @@
       "Name": "Adept Assembler",
       "Percentage": 217,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1415
     },
     {
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 515
     },
     {
       "ID": "M_COMMISSION",
       "SetID": "80dcan0",
       "Name": "Commissions, commissions...!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 391
     },
     {
       "ID": "M_DISH",
@@ -7620,7 +7625,7 @@
       "Name": "Iron Chef",
       "Percentage": 156,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1017
     },
     {
       "ID": "M_EXPAND",
@@ -7636,15 +7641,15 @@
       "Name": "Financially Secure",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 463
     },
     {
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 411
     },
     {
       "ID": "M_HOME_STAR",
@@ -7660,7 +7665,7 @@
       "Name": "Can We Keep It?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 476
     },
     {
       "ID": "P_BEAUTIFYSANDROCK",
@@ -7676,15 +7681,15 @@
       "Name": "Bridging the Gap",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 365
     },
     {
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 502
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -7700,7 +7705,7 @@
       "Name": "The Little Wood that Could",
       "Percentage": 121,
       "XP": 20,
-      "UsersEstimate": 790
+      "UsersEstimate": 789
     },
     {
       "ID": "P_HYDROGEL",
@@ -7708,7 +7713,7 @@
       "Name": "What Plants Crave",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 404
     },
     {
       "ID": "P_JEWEL",
@@ -7724,15 +7729,15 @@
       "Name": "Sepia Toned Memories",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 339
     },
     {
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 580
     },
     {
       "ID": "P_OWENSTORY",
@@ -7740,7 +7745,7 @@
       "Name": "He Can Spin A Yarn...",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 254
     },
     {
       "ID": "P_REMOVEPOLLUTION",
@@ -7748,7 +7753,7 @@
       "Name": "Greeno-B-Gone",
       "Percentage": 123,
       "XP": 20,
-      "UsersEstimate": 803
+      "UsersEstimate": 802
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -7756,7 +7761,7 @@
       "Name": "Your Especially Earned Trajectory",
       "Percentage": 102,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 665
     },
     {
       "ID": "P_SCHOOL",
@@ -7764,7 +7769,7 @@
       "Name": "Elementary, My Dear",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 443
     },
     {
       "ID": "P_THEMEPARK",
@@ -7778,9 +7783,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 535
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -7794,17 +7799,17 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 352
     },
     {
       "ID": "S_BRIGHTSUN",
       "SetID": "80dcan0",
       "Name": "Anti-Santa",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 391
     },
     {
       "ID": "S_CARD",
@@ -7812,15 +7817,15 @@
       "Name": "Cardistry",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 156
     },
     {
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 450
     },
     {
       "ID": "S_DANCE",
@@ -7828,7 +7833,7 @@
       "Name": "Got Served",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 476
     },
     {
       "ID": "S_FRIEND",
@@ -7836,7 +7841,7 @@
       "Name": "One of the Cool Kids",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 548
     },
     {
       "ID": "S_GAMECOIN",
@@ -7860,7 +7865,7 @@
       "Name": "Santa In Training",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 241
     },
     {
       "ID": "S_GIFT_HATE",
@@ -7876,7 +7881,7 @@
       "Name": "Just What I Always Wanted!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 280
     },
     {
       "ID": "S_LOVE",
@@ -7884,7 +7889,7 @@
       "Name": "First Love",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 463
     },
     {
       "ID": "S_MARRY",
@@ -7908,7 +7913,7 @@
       "Name": "Sandrunning Speedster",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 267
     },
     {
       "ID": "S_SHOWDOWN",
@@ -7924,15 +7929,15 @@
       "Name": "Mole Masher",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 456
     },
     {
       "ID": "S_WINTERSOLSTICE",
       "SetID": "80dcan0",
       "Name": "You Don\u0027t Win Friends With Salad",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 378
     },
     {
       "ID": "S_YAKMEL",
@@ -7948,7 +7953,7 @@
       "Name": "Unboxing",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 463
     },
     {
       "ID": "X_CLEAN",
@@ -7996,22 +8001,22 @@
       "Name": "It Belongs in a Museum!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "80dcan0",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-24T01:47:46.765374+00:00",
-  "LastChanged_Achievements": "2023-12-24T02:30:45.3644459+00:00",
+  "LastChanged_Achievements": "2023-12-24T03:06:23.3786237+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.7892311+00:00",
-  "LastUpdate_Ratings": "2023-12-24T02:22:49.2302652+00:00",
-  "LastUpdate_Achievements": "2023-12-24T02:30:45.3645149+00:00"
+  "LastUpdate_Ratings": "2023-12-24T02:58:13.8519793+00:00",
+  "LastUpdate_Achievements": "2023-12-24T03:06:23.3786912+00:00"
 }
