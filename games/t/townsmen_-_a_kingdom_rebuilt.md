@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.26 (Ranked 889)  
+Rating: 4.26 (Ranked 888)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,10 +21,10 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 7.00% | ~308 |
 | I like to build stuff... II | 7.00% | ~308 |
 | Completionist I | 7.00% | ~308 |
+| A time consuming game II | 7.00% | ~308 |
 | Not a small trader anymore | 6.00% | ~264 |
 | Full-time job II | 6.00% | ~264 |
 | Tax-man III | 6.00% | ~264 |
-| A time consuming game II | 6.00% | ~264 |
 | Tools of the trade I | 6.00% | ~264 |
 | Knee deep in snow | 6.00% | ~264 |
 | Bread for the people II | 5.00% | ~220 |

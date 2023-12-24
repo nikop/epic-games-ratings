@@ -2,12 +2,12 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "ProductSlug": "naraka-bladepoint",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-12-08T16:00:00+00:00",
@@ -8890,6 +8890,6 @@
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
   "LastChanged": "2023-12-24T15:01:20.6727734+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.1844691+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:59:50.0925014+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:05:49.0993994+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:01:27.6765391+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:07:30.3306318+00:00"
 }

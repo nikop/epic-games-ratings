@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,750 |
-| I'll Be Back | 84.00% | ~4,245 |
-| Sorry, I Dropped This | 77.00% | ~3,891 |
-| First Day on the Job | 76.00% | ~3,840 |
-| Butcher's Bill | 54.00% | ~2,729 |
-| P.A.X | 37.00% | ~1,870 |
-| Hey Listen | 36.00% | ~1,819 |
-| OPERATOR | 36.00% | ~1,819 |
-| It's Blue Light | 33.00% | ~1,667 |
-| Most Wanted | 26.00% | ~1,314 |
-| Infidel | 23.00% | ~1,162 |
-| GOLIATH | 21.00% | ~1,061 |
+| On My Own Two Feet | 94.00% | ~4,753 |
+| I'll Be Back | 84.00% | ~4,247 |
+| Sorry, I Dropped This | 77.00% | ~3,893 |
+| First Day on the Job | 76.00% | ~3,843 |
+| Butcher's Bill | 54.00% | ~2,730 |
+| P.A.X | 37.00% | ~1,871 |
+| Hey Listen | 36.00% | ~1,820 |
+| OPERATOR | 36.00% | ~1,820 |
+| It's Blue Light | 33.00% | ~1,668 |
+| Most Wanted | 26.00% | ~1,315 |
+| Infidel | 23.00% | ~1,163 |
+| GOLIATH | 21.00% | ~1,062 |
 | Firebug | 20.00% | ~1,011 |
 | Nothing to Lose | 18.00% | ~910 |
-| I Choose You | 17.00% | ~859 |
-| Big Sister | 16.00% | ~808 |
+| I Choose You | 17.00% | ~860 |
+| Big Sister | 16.00% | ~809 |
 | Gear Up | 15.00% | ~758 |
 | SENTINEL | 15.00% | ~758 |
 | Core Power | 13.00% | ~657 |
-| The Black Cerberus | 12.00% | ~606 |
-| Watchman | 12.00% | ~606 |
+| The Black Cerberus | 12.00% | ~607 |
+| Watchman | 12.00% | ~607 |
 | CREO Killed the Video Star | 11.00% | ~556 |
 | Who's in Charge Here? | 11.00% | ~556 |
 | Shall Not Pass | 11.00% | ~556 |
-| Right Tool for the Job | 10.00% | ~505 |
+| Right Tool for the Job | 10.00% | ~506 |
 | Melting Down | 9.00% | ~455 |
 | Raging Drones | 9.00% | ~455 |
 | Overconfident | 9.00% | ~455 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,053 (Ranked 200)  
+Progressed: 5,056 (Ranked 200)  
 Completed: 18 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 18 (0.36%) (Ranked 236)
 | 2023-12-21 | 5,019 | 18 |
 | 2023-12-22 | 5,031 | 18 |
 | 2023-12-23 | 5,048 | 18 |
-| 2023-12-24 | 5,053 | 18 |
+| 2023-12-24 | 5,056 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 512)  
 Sum: 30 (Ranked 529)  

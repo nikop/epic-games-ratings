@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1089,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3086,6 +3086,11 @@
       "Time": "2023-12-24T16:10:12.6099634+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T17:11:28.9757943+00:00",
+      "NumProgressed": 1089,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3105,7 +3110,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3121,7 +3126,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3193,7 +3198,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "FactorywoodChests1",
@@ -3217,7 +3222,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3257,7 +3262,7 @@
       "Name": "Rail Rat",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "HexlockGift",
@@ -3295,9 +3300,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 142
     },
     {
       "ID": "NoCritterSump",
@@ -3345,7 +3350,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ParryRepeated1",
@@ -3361,7 +3366,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3369,7 +3374,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "PidgeDefeated",
@@ -3385,7 +3390,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "RewindParry",
@@ -3425,7 +3430,7 @@
       "Name": "Fast Learner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "SpeedRun",
@@ -3487,9 +3492,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 131
     },
     {
       "ID": "WatcherSpared",
@@ -3520,7 +3525,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1089,
       "Completed": 6
     }
   ],
@@ -3528,8 +3533,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:10:12.6099631+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:11:28.975794+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:57:49.8913601+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:10:12.6100172+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:58:23.6353694+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:11:28.975844+00:00"
 }

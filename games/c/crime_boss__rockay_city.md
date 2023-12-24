@@ -5,7 +5,7 @@ Rating: 3.95 (Ranked 1,034)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 4.00% | ~3,698 |
+| First One’s Free | 4.00% | ~3,699 |
 | Neophyte Ninja | 3.00% | ~2,774 |
 | Downed but Not Outed | 3.00% | ~2,774 |
 | Too Old for This | 3.00% | ~2,774 |
@@ -33,12 +33,12 @@ Rating: 3.95 (Ranked 1,034)
 | Ding Dong | 0.50% | ~462 |
 | All that Glitters | 0.40% | ~83 |
 | Rockay Raider | 0.30% | ~277 |
+| Rockay Knight | 0.30% | ~277 |
 | Groundhog Days | 0.30% | ~277 |
 | Cracked the Jack | 0.30% | ~277 |
 | Red Star | 0.30% | ~277 |
 | Classy Joint | 0.30% | ~277 |
 | All for One | 0.30% | ~62 |
-| Rockay Knight | 0.20% | ~185 |
 | Privateer | 0.20% | ~185 |
 | Talent Scout | 0.20% | ~185 |
 | Impossible Dreamer | 0.20% | ~185 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,034)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,461 (Ranked 97)  
+Progressed: 92,464 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 58 (0.06%) (Ranked 328)
 | 2023-12-21 | 92,286 | 58 |
 | 2023-12-22 | 92,351 | 58 |
 | 2023-12-23 | 92,411 | 58 |
-| 2023-12-24 | 92,461 | 58 |
+| 2023-12-24 | 92,464 | 58 |
 ## Awards
 Max (Diverse Characters): 575  (Ranked 207)  
 Sum: 2,709 (Ranked 190)  

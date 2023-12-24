@@ -6,28 +6,28 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 13.00% | ~42 |
-| Jellyfish Jam | 11.00% | ~35 |
-| Sponge Smasher | 11.00% | ~35 |
+| Spatula Seeker | 13.00% | ~43 |
+| Sponge Smasher | 12.00% | ~39 |
+| Jellyfish Jam | 11.00% | ~36 |
 | Jellyfishing | 8.00% | ~26 |
-| Time For Tutorial | 7.00% | ~23 |
-| Sweet Victory | 6.00% | ~19 |
-| Life's as extreme as you wanna make it! | 5.00% | ~16 |
+| Life's as extreme as you wanna make it! | 6.00% | ~20 |
+| Sweet Victory | 6.00% | ~20 |
+| Time For Tutorial | 6.00% | ~20 |
 | Sock Getter | 5.00% | ~16 |
 | Surf's Up! | 5.00% | ~16 |
+| Shrimp Catcher | 4.00% | ~13 |
 | Toxic Terror | 4.00% | ~13 |
 | Hit Rock Bottom | 4.00% | ~13 |
 | Star Smasher | 4.00% | ~13 |
 | Uptown and Downtown | 3.00% | ~10 |
+| Hello, Bikini Bottom | 3.00% | ~10 |
 | Keep it Rolling | 3.00% | ~10 |
-| Shrimp Catcher | 3.00% | ~10 |
 | Super Spatula Seeker | 3.00% | ~10 |
 | Squirrel Smasher | 3.00% | ~10 |
-| Robot encyclopedia | 2.00% | ~6 |
-| Are you ready now? | 2.00% | ~6 |
-| Hello, Bikini Bottom | 2.00% | ~6 |
+| Robot encyclopedia | 2.00% | ~7 |
+| Are you ready now? | 2.00% | ~7 |
+| Sleepy Time | 2.00% | ~7 |
 | Kelp Forest of Fear | 1.00% | ~3 |
-| Sleepy Time | 1.00% | ~3 |
 | Ultra Spatula Seeker | 0.90% | ~3 |
 | The Small Does Not Rule | 0.60% | ~2 |
 | Ship Shape | 0.60% | ~2 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322 (Ranked 370)  
+Progressed: 327 (Ranked 370)  
 Completed: 1 (0.31%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.31%) (Ranked 247)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 322 | 1 |
+| 2023-12-24 | 327 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 496)  
 Sum: 34 (Ranked 521)  

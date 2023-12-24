@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 89.00% | ~105 |
+| Setting Sail | 90.00% | ~106 |
 | A Small Thirsty Thing | 13.00% | ~15 |
 | Dousing a Venerable Flame | 11.00% | ~13 |
 | Advanced Armaments | 11.00% | ~13 |

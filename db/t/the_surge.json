@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -394,7 +394,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5053,
+  "EOS_Progressed": 5056,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -4034,6 +4034,11 @@
       "Time": "2023-12-24T14:03:39.0949623+00:00",
       "NumProgressed": 5053,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-24T17:04:49.8095221+00:00",
+      "NumProgressed": 5056,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4045,7 +4050,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4061,7 +4066,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -4069,7 +4074,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -4093,7 +4098,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4247
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4101,7 +4106,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4753
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4109,7 +4114,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3893
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4117,7 +4122,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4141,7 +4146,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -4213,7 +4218,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4261,7 +4266,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3843
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4293,7 +4298,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4309,7 +4314,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4317,7 +4322,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4325,7 +4330,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4333,7 +4338,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4381,7 +4386,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4389,7 +4394,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4580,15 +4585,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5053,
+      "Progressed": 5056,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:03:55.0817929+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:04:49.8095216+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:57:46.3755444+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:03:55.08186+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:58:17.9605395+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:04:49.8095986+00:00"
 }

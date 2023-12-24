@@ -22,14 +22,14 @@
 | Pulp! Adventures into the Unknown | 15.00% | ~10 |
 | Et in arcadia ego | 13.00% | ~9 |
 | The seer | 13.00% | ~9 |
+| Kirlian's best disciple | 12.00% | ~8 |
+| Welcome to Hellville | 12.00% | ~8 |
 | You had one wish left | 10.00% | ~7 |
-| Kirlian's best disciple | 10.00% | ~7 |
-| Welcome to Hellville | 10.00% | ~7 |
+| The bully | 10.00% | ~7 |
 | You've awakened the beast | 9.00% | ~6 |
 | Hate is... addictive | 9.00% | ~6 |
 | Bread and bocaua | 9.00% | ~6 |
 | Fanatacism is... poisonous | 9.00% | ~6 |
-| The bully | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
 | Blood Red Island | 7.00% | ~5 |
 | The adventurer | 7.00% | ~5 |

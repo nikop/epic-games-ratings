@@ -4,7 +4,7 @@
   "ProductSlug": "patrollingmars-215534",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-11-10T19:00:00+00:00",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-06T07:04:04.66523+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:08:43.6059494+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:09:26.7715159+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:03.8902718+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:58:08.9810162+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:08:43.6059511+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:58:53.1005456+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:09:26.7715175+00:00"
 }

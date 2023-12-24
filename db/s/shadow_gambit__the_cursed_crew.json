@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
@@ -4361,6 +4361,11 @@
       "Time": "2023-12-24T14:05:48.5459493+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-24T17:08:06.3104244+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4381,7 +4386,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "_03_FinishAct1",
@@ -4421,7 +4426,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "_08_Completion_10",
@@ -4429,7 +4434,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "_09_Completion_20",
@@ -4501,7 +4506,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4580,7 +4585,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1280,
       "Completed": 34
     }
   ],
@@ -4588,8 +4593,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:06:14.8108597+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:08:06.3104239+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:00:09.4767863+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:06:14.8108974+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:01:56.0699888+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:08:06.3104691+00:00"
 }

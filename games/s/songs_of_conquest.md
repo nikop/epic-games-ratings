@@ -15,9 +15,9 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 8.00% | ~58 |
 | Multi Kill | 7.00% | ~51 |
 | Sorcerous Spree | 7.00% | ~51 |
+| Whoops! | 6.00% | ~43 |
 | Landlord Extraordinaire | 6.00% | ~43 |
 | Master | 6.00% | ~43 |
-| Whoops! | 5.00% | ~36 |
 | Don't Touch My Stuff | 4.00% | ~29 |
 | Trojan Horse | 4.00% | ~29 |
 | The Song of Stoutheart | 3.00% | ~22 |

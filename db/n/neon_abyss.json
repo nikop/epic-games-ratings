@@ -2,12 +2,12 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 188,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 8340,
   "RatingHistory": [
     {
@@ -4347,10 +4347,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 5591,
       "NumberOfAwardsMax": 721
+    },
+    {
+      "Time": "2023-12-24T17:01:53.5700096+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5592,
+      "NumberOfAwardsMax": 721
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5591,
+  "NumberOfAwards": 5592,
   "NumberOfAwardsMax": 721,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4412,7 +4418,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 338
+      "Count": 339
     }
   ],
   "EOS_Progressed": 0,
@@ -4426,8 +4432,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-12-23T16:59:41.1363298+00:00",
+  "LastChanged": "2023-12-24T17:01:53.5700094+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.7700966+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:00:07.7858809+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:05:24.8360963+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:01:53.5700101+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:06:55.1086004+00:00"
 }

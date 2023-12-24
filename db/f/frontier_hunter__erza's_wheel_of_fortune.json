@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2222,6 +2222,11 @@
       "Time": "2023-12-24T16:09:24.8398307+00:00",
       "NumProgressed": 659,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T17:10:22.9351018+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2233,7 +2238,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2241,7 +2246,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2289,7 +2294,7 @@
       "Name": "Lethal Blade Mantis Killer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2297,7 +2302,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2385,7 +2390,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2399,9 +2404,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 429
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2417,7 +2422,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2489,7 +2494,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2553,7 +2558,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2592,7 +2597,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 2
     }
   ],
@@ -2600,8 +2605,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:09:24.8398303+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:10:22.9351014+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:59:30.530401+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:09:24.839864+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:00:57.8420032+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:10:22.9351654+00:00"
 }

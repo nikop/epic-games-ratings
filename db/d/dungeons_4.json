@@ -1876,9 +1876,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 524
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1924,9 +1924,9 @@
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 347
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1948,9 +1948,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 448
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2339,8 +2339,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:08:58.9468238+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:09:48.3313176+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:58:31.1988035+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:08:58.9468853+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:59:27.9762605+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:09:48.3313627+00:00"
 }

@@ -225,9 +225,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1699,
+  "EOS_Progressed": 1701,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4050,6 +4050,11 @@
       "Time": "2023-12-24T16:03:49.5035425+00:00",
       "NumProgressed": 1699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T17:04:42.1047363+00:00",
+      "NumProgressed": 1701,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4070,7 +4075,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1514
     },
     {
       "ID": "AC02",
@@ -4078,15 +4083,15 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1089
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1004
     },
     {
       "ID": "AC04",
@@ -4094,7 +4099,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 985
+      "UsersEstimate": 987
     },
     {
       "ID": "AC05",
@@ -4102,7 +4107,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 917
+      "UsersEstimate": 919
     },
     {
       "ID": "AC06",
@@ -4116,9 +4121,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 799
+      "UsersEstimate": 816
     },
     {
       "ID": "AC08",
@@ -4382,7 +4387,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1310
     },
     {
       "ID": "AC41",
@@ -4429,7 +4434,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1699,
+      "Progressed": 1701,
       "Completed": 0
     }
   ],
@@ -4437,8 +4442,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-24T02:58:57.3608793+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:03:49.5035423+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:04:42.1047359+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:58:59.8894735+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:03:49.5035794+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:00:12.5239435+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:04:42.1048038+00:00"
 }

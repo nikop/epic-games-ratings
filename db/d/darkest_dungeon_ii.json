@@ -10018,10 +10018,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21030,
       "NumberOfAwardsMax": 7851
+    },
+    {
+      "Time": "2023-12-24T16:58:40.2961451+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21037,
+      "NumberOfAwardsMax": 7851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21030,
+  "NumberOfAwards": 21037,
   "NumberOfAwardsMax": 7851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10071,7 +10077,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1760
+      "Count": 1767
     },
     {
       "Text": "This game is Relaxing",
@@ -10098,7 +10104,7 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129603,
+  "EOS_Progressed": 129612,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1536,
   "EOS_NewCompleters": 0,
@@ -36598,6 +36604,11 @@
       "Time": "2023-12-24T16:09:37.7115663+00:00",
       "NumProgressed": 129603,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T17:10:40.8025082+00:00",
+      "NumProgressed": 129612,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36961,7 +36972,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6480
+      "UsersEstimate": 6481
     },
     {
       "ID": "hero_story_complete_all",
@@ -37089,7 +37100,7 @@
       "Name": "Handled",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "run_victory_act05",
@@ -37145,7 +37156,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "combat_kill_collector",
@@ -37209,7 +37220,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37240,21 +37251,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129603,
+      "Progressed": 129612,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4472,
+      "Progressed": 4481,
       "Completed": 810
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-24T15:58:00.8816789+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:09:37.7115659+00:00",
+  "LastChanged": "2023-12-24T16:58:40.2961449+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:10:40.8025078+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:58:00.8816796+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:09:37.7117423+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:58:40.2961456+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:10:40.8026794+00:00"
 }

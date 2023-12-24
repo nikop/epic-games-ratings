@@ -33,9 +33,9 @@
 | Friend of Silver Drift Hollow | 13.00% | ~10 |
 | Friend of Bastion | 13.00% | ~10 |
 | Philo's Tale | 12.00% | ~9 |
+| Silver Drift Hollow Mine | 11.00% | ~8 |
 | Friend of Orgash | 11.00% | ~8 |
 | Friend of Windholme | 11.00% | ~8 |
-| Silver Drift Hollow Mine | 9.00% | ~7 |
 | Magic Academy | 9.00% | ~7 |
 | A Joke | 9.00% | ~7 |
 | Defeat Gor | 8.00% | ~6 |

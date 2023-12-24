@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1129,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3162,9 +3162,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 700
     },
     {
       "ID": "BoxingClever",
@@ -3321,8 +3321,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:10:03.3673472+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:11:16.493578+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:00:37.362365+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:10:03.3673719+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:02:37.2375739+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:11:16.4936068+00:00"
 }

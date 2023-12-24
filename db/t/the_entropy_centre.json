@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1072,9 +1072,9 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_ACT4",
@@ -1225,8 +1225,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:05:48.8172105+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:07:29.6765714+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:06.859411+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:00:08.3761389+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:05:48.8172296+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:01:54.3400994+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:07:29.6765911+00:00"
 }

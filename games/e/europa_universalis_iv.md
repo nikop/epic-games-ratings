@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.40% | ~1,932 |
-| Until death do us apart | 0.40% | ~1,932 |
-| Victorious! | 0.40% | ~1,932 |
+| That's a Grand Army | 0.40% | ~1,933 |
+| Until death do us apart | 0.40% | ~1,933 |
+| Victorious! | 0.40% | ~1,933 |
 | Brothers in Arms | 0.30% | ~1,449 |
 | That's a Grand Navy | 0.30% | ~1,449 |
 | Seriously?! | 0.30% | ~1,449 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,092 (Ranked 40)  
+Progressed: 483,136 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,22 +618,22 @@ Completed: 1 (0.00%) (Ranked 388)
 | 2023-12-21 | 480,795 | 1 |
 | 2023-12-22 | 481,537 | 1 |
 | 2023-12-23 | 482,495 | 1 |
-| 2023-12-24 | 483,092 | 1 |
+| 2023-12-24 | 483,136 | 1 |
 ## Awards
-Max (Educational): 7,528  (Ranked 54)  
-Sum: 62,081 (Ranked 24)  
+Max (Educational): 7,548  (Ranked 54)  
+Sum: 62,129 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,528 |
+| This game is Educational | 7,548 |
 | This game has Diverse Characters | 7,345 |
 | This game is Highly Recommended | 7,235 |
 | This game has Challenging Combat | 7,165 |
 | This game is Extremely Fun | 7,073 |
 | This game is Relaxing | 6,910 |
-| This game has Competitive Players | 6,738 |
+| This game has Competitive Players | 6,752 |
 | This game has Amazing Storytelling | 6,275 |
-| This game has Amazing Characters | 5,812 |
+| This game has Amazing Characters | 5,826 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -979,4 +979,4 @@ Diff (max vs sum): 30
 | 2023-12-21 | 4.69 | - | 7,483 | 61,681 |
 | 2023-12-22 | 4.69 | - | 7,506 | 61,841 |
 | 2023-12-23 | 4.69 | - | 7,528 | 62,021 |
-| 2023-12-24 | 4.69 | - | 7,528 | 62,081 |
+| 2023-12-24 | 4.69 | - | 7,548 | 62,129 |

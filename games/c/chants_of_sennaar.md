@@ -8,16 +8,16 @@ Rating: 4.83 (Ranked 59)
 | That's the spirit | 52.00% | ~894 |
 | Welcome to the Tower | 47.00% | ~808 |
 | The great escape | 39.00% | ~670 |
-| The Preacher's fate | 37.00% | ~636 |
+| The Preacher's fate | 38.00% | ~653 |
 | A new dawn | 31.00% | ~533 |
 | Scholar | 27.00% | ~464 |
 | True G3M4R | 26.00% | ~447 |
+| A good beginning | 25.00% | ~430 |
 | The darkness | 25.00% | ~430 |
-| A good beginning | 24.00% | ~413 |
+| One last step | 22.00% | ~378 |
 | Cable guy | 21.00% | ~361 |
 | Half the way | 21.00% | ~361 |
 | Rascal | 21.00% | ~361 |
-| One last step | 21.00% | ~361 |
 | I did it | 20.00% | ~344 |
 | Peace walker | 20.00% | ~344 |
 | In this together | 19.00% | ~327 |

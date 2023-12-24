@@ -2,7 +2,7 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 260,
@@ -246,9 +246,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1881,6 +1881,11 @@
       "Time": "2023-12-24T09:10:06.805367+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T17:10:46.2196986+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2140,14 +2145,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 0
     }
   ],
@@ -2155,8 +2160,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-11-22T02:59:27.1616324+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:09:41.5260462+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:10:46.2196981+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.8915743+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:57:23.5185495+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:09:41.5260748+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:57:43.483944+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:10:46.2197212+00:00"
 }

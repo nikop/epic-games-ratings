@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 889,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 4400,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2517,9 +2517,9 @@
       "ID": "ACHIEVEMENT_TIME2",
       "SetID": "9eacipp",
       "Name": "A time consuming game II",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2637,8 +2637,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-04T22:59:34.0965429+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:10:24.0120367+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:11:43.4560666+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.3199868+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:59:50.2134054+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:10:24.0121267+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:01:27.8205413+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:11:43.4561557+00:00"
 }

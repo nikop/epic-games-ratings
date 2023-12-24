@@ -5205,9 +5205,9 @@
       "Count": 521
     }
   ],
-  "EOS_Progressed": 92461,
+  "EOS_Progressed": 92464,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29050,6 +29050,11 @@
       "Time": "2023-12-24T16:04:35.9456969+00:00",
       "NumProgressed": 92461,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-24T17:05:46.5495105+00:00",
+      "NumProgressed": 92464,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29123,9 +29128,9 @@
       "ID": "ACH_0022",
       "SetID": "3kam13l",
       "Name": "Rockay Knight",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_0030",
@@ -29205,7 +29210,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "ACH_0210",
@@ -29388,13 +29393,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92461,
+      "Progressed": 92464,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20808,
+      "Progressed": 20811,
       "Completed": 15592
     }
   ],
@@ -29402,8 +29407,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-24T13:02:01.834246+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:04:35.9456964+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:05:46.5495101+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:59:43.0099683+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:04:35.9458368+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:01:16.290861+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:05:46.5496687+00:00"
 }

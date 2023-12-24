@@ -4,7 +4,7 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "4mjb15",
       "Name": "Get To Know the Locals",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -237,9 +237,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "4mjb15",
       "Name": "Reduced to Rubble",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -276,8 +276,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:10:13.7030419+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:11:30.443339+00:00",
   "LastUpdate_AppInfo": "2023-12-22T20:57:03.4409838+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:57:43.81629+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:10:13.703056+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:58:14.1865642+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:11:30.4433556+00:00"
 }

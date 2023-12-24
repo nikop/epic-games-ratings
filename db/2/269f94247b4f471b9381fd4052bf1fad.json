@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -376,9 +376,9 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:09:02.6711312+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:09:52.86145+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:12.2164584+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:58:02.7010078+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:09:02.6711579+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:58:42.8758327+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:09:52.8614679+00:00"
 }

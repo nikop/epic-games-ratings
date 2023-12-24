@@ -37,8 +37,8 @@
 | Legal courier | 50.00% | ~229 |
 | Escaped from a big trouble | 47.00% | ~215 |
 | Now you are worthy | 44.00% | ~202 |
-| Fight is life | 42.00% | ~192 |
-| Mysterious voice | 41.00% | ~188 |
+| Fight is life | 43.00% | ~197 |
+| Mysterious voice | 42.00% | ~192 |
 | Guiding on the right path | 41.00% | ~188 |
 | No blades in the gym | 40.00% | ~183 |
 | Champion – no way back | 38.00% | ~174 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 26.00% | ~119 |
 | The only right decision | 26.00% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 338)  
+Progressed: 458 (Ranked 339)  
 Completed: 9 (1.97%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |

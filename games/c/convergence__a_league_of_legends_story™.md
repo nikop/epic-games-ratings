@@ -5,9 +5,9 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~435 |
-| The Mysterious Stranger | 30.00% | ~326 |
-| Rail Rat | 30.00% | ~326 |
+| Time Heals All Wounds | 40.00% | ~436 |
+| The Mysterious Stranger | 30.00% | ~327 |
+| Rail Rat | 30.00% | ~327 |
 | Immaculate Aim | 25.00% | ~272 |
 | The Brass Boss | 24.00% | ~261 |
 | Make Up For Lost Time | 23.00% | ~250 |
@@ -16,11 +16,11 @@ Rating: 4.65 (Ranked 320)
 | The Prince in Heels | 23.00% | ~250 |
 | Honest Mistake | 23.00% | ~250 |
 | Immaculate Aim | 23.00% | ~250 |
-| The Steel Shadow | 22.00% | ~239 |
-| The Harder They Fall | 22.00% | ~239 |
-| Breaking Down Barriers | 22.00% | ~239 |
-| The Wicked Twins | 22.00% | ~239 |
-| Fast Learner | 22.00% | ~239 |
+| The Steel Shadow | 22.00% | ~240 |
+| The Harder They Fall | 22.00% | ~240 |
+| Breaking Down Barriers | 22.00% | ~240 |
+| The Wicked Twins | 22.00% | ~240 |
+| Fast Learner | 22.00% | ~240 |
 | Right On Time | 20.00% | ~218 |
 | Like Clockwork | 20.00% | ~218 |
 | The Betrayer | 20.00% | ~218 |
@@ -31,12 +31,12 @@ Rating: 4.65 (Ranked 320)
 | The Family Fortune | 18.00% | ~196 |
 | Street Style | 17.00% | ~185 |
 | Whiz Kid | 15.00% | ~163 |
-| Cartographer | 14.00% | ~152 |
 | Good Neighbor | 14.00% | ~152 |
-| Treasure Trove | 13.00% | ~141 |
-| Family Memories | 13.00% | ~141 |
-| Ask Questions Later | 13.00% | ~141 |
+| Treasure Trove | 13.00% | ~142 |
+| Family Memories | 13.00% | ~142 |
+| Cartographer | 13.00% | ~142 |
 | Chaincrawler Explorer | 12.00% | ~131 |
+| Ask Questions Later | 12.00% | ~131 |
 | Sump Explorer | 11.00% | ~120 |
 | Syron for Hope | 11.00% | ~120 |
 | Factorywood Explorer | 10.00% | ~109 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Going to Live Forever | 0.60% | ~7 |
 | Raw Talent | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 277)  
+Progressed: 1,089 (Ranked 277)  
 Completed: 6 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.55%) (Ranked 207)
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
-| 2023-12-24 | 1,088 | 6 |
+| 2023-12-24 | 1,089 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

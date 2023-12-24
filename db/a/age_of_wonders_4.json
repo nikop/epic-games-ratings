@@ -553,10 +553,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 135,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-24T17:00:05.2281349+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 136,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 135,
+  "NumberOfAwards": 136,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -576,7 +582,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
@@ -591,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6128,
+  "EOS_Progressed": 6132,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9031,6 +9037,11 @@
       "Time": "2023-12-24T16:08:33.8628148+00:00",
       "NumProgressed": 6128,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T17:09:13.3140366+00:00",
+      "NumProgressed": 6132,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9154,7 +9165,7 @@
       "Name": "Realm Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "23",
@@ -9186,7 +9197,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "27",
@@ -9506,7 +9517,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "60",
@@ -9521,22 +9532,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6128,
+      "Progressed": 6132,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6128,
+      "Progressed": 6132,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-24T10:58:25.5451673+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:08:33.8628144+00:00",
+  "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:09:13.3140358+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:58:55.3074608+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:08:33.8628936+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:00:05.2281352+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:09:13.3141214+00:00"
 }

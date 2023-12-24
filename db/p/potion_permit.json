@@ -4,10 +4,10 @@
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1051,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1775,
+  "EOS_Progressed": 1776,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2925,6 +2925,11 @@
       "Time": "2023-12-24T15:06:47.3998293+00:00",
       "NumProgressed": 1775,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-24T17:06:45.8510359+00:00",
+      "NumProgressed": 1776,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -2984,7 +2989,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2992,7 +2997,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3024,7 +3029,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3048,7 +3053,7 @@
       "Name": "Friendly",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3112,7 +3117,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3184,7 +3189,7 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENTS_33",
@@ -3200,7 +3205,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3224,7 +3229,7 @@
       "Name": "Mail Carrier",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENTS_38",
@@ -3239,7 +3244,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1775,
+      "Progressed": 1776,
       "Completed": 11
     }
   ],
@@ -3247,8 +3252,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:05:18.5683872+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:06:45.8510354+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:59:21.7540497+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:05:18.5684256+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:00:45.6148073+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:06:45.8510691+00:00"
 }

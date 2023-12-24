@@ -2,7 +2,7 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 146,
@@ -496,8 +496,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:05:52.6379252+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:07:35.6261366+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.4244404+00:00",
-  "LastUpdate_Ratings": "2023-12-24T16:03:03.2161985+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:05:52.6379442+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:03:34.9980861+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:07:35.6261564+00:00"
 }

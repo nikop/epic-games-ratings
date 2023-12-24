@@ -18,9 +18,9 @@
 | Four-Legged Friends | 0.80% | ~3 |
 | Worth Your While | 0.80% | ~3 |
 | The Heart of Moonglow | 0.50% | ~2 |
+| From Beyond | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
 | Restored to Prosperity | 0.30% | ~1 |
-| From Beyond | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
 | Ode to a Blacksmith | 0.30% | ~1 |
 | You Can Pet The Dog | 0.30% | ~1 |

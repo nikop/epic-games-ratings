@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
@@ -3704,6 +3704,11 @@
       "Time": "2023-12-24T16:10:02.6593294+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-12-24T17:11:15.5109159+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 16,
@@ -3771,7 +3776,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3779,7 +3784,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3842,7 +3847,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 67
     }
   ],
@@ -3850,8 +3855,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:10:02.659329+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:11:15.5109152+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:59:19.5221208+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:10:02.6593591+00:00"
+  "LastUpdate_Ratings": "2023-12-24T17:00:42.1328753+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:11:15.5109485+00:00"
 }

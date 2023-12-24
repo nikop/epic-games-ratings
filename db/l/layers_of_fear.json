@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -869,6 +869,11 @@
       "Time": "2023-12-24T14:05:44.3149036+00:00",
       "NumProgressed": 193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T17:07:59.9676584+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -881,7 +886,7 @@
       "Name": "A new way",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "another_perspective",
@@ -889,7 +894,7 @@
       "Name": "Another perspective",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "assemble_puzzles",
@@ -983,9 +988,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "do_what_you_have_to",
@@ -993,7 +998,7 @@
       "Name": "Do what you have to",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "earn_all_trophies",
@@ -1073,7 +1078,7 @@
       "Name": "First steps",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1129,7 +1134,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "once_upon_a_time",
@@ -1151,9 +1156,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 113
     },
     {
       "ID": "playtime",
@@ -1209,7 +1214,7 @@
       "Name": "Sign of weakness",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "something_important",
@@ -1217,7 +1222,7 @@
       "Name": "Something important",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "spy_one_item",
@@ -1281,7 +1286,7 @@
       "Name": "Wanderer",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1296,14 +1301,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-24T16:06:10.4089936+00:00",
+  "LastChanged_Achievements": "2023-12-24T17:07:59.967658+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-24T15:57:16.6673095+00:00",
-  "LastUpdate_Achievements": "2023-12-24T16:06:10.4090365+00:00"
+  "LastUpdate_Ratings": "2023-12-24T16:57:33.3148214+00:00",
+  "LastUpdate_Achievements": "2023-12-24T17:07:59.9676924+00:00"
 }
