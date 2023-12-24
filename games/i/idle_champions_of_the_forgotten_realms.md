@@ -13,15 +13,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.50% | ~1,220 |
 | The Mad Wizard | 0.40% | ~976 |
 | The Overgrown Grove | 0.40% | ~841 |
+| Flames of Avernus | 0.40% | ~841 |
 | Mental Gymnastics | 0.40% | ~841 |
 | The Ring of Regeneration | 0.30% | ~732 |
 | Misaligned in Sigil | 0.30% | ~631 |
 | Chaos Theory | 0.30% | ~631 |
 | When Tentacles Attack | 0.30% | ~631 |
-| Flames of Avernus | 0.30% | ~631 |
 | Don't Lose Your Head | 0.30% | ~631 |
 | Mind Spike | 0.30% | ~631 |
 | Were-verpowered | 0.20% | ~488 |
+| A Persistent Buzzing | 0.20% | ~488 |
 | Seeking Allies | 0.20% | ~488 |
 | Are Ya Chicken? | 0.20% | ~488 |
 | Mad Cow Disease | 0.20% | ~488 |
@@ -148,7 +149,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.10% | ~244 |
 | Wagon Train | 0.10% | ~244 |
 | The Lost Heir of Omu | 0.10% | ~244 |
-| A Persistent Buzzing | 0.10% | ~244 |
 | Not Very Charming | 0.10% | ~244 |
 | Lobsterfolk Assault | 0.10% | ~244 |
 | Taking Responsibility | 0.10% | ~244 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~210 |
 | The Brains of an Illithid's Desire | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,018 (Ranked 67)  
+Progressed: 244,026 (Ranked 67)  
 Completed: 2,558 (1.05%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -801,7 +801,7 @@ Completed: 2,558 (1.05%) (Ranked 167)
 | 2023-12-21 | 242,962 | 2,553 |
 | 2023-12-22 | 243,457 | 2,556 |
 | 2023-12-23 | 243,900 | 2,557 |
-| 2023-12-24 | 244,018 | 2,558 |
+| 2023-12-24 | 244,026 | 2,558 |
 ## Awards
 Max (Great for Beginners): 5,684  (Ranked 71)  
 Sum: 33,046 (Ranked 41)  

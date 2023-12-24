@@ -17,10 +17,10 @@ Rating: 4.04 (Ranked 1,013)
 | Exotic Merchant | 16.00% | ~599 |
 | Dragon Clicker | 15.00% | ~562 |
 | Miner Clicker | 15.00% | ~562 |
+| Hero inspection | 14.00% | ~524 |
 | Inspection | 14.00% | ~524 |
 | Dragon Master | 13.00% | ~487 |
 | Enlightenment | 13.00% | ~487 |
-| Hero inspection | 13.00% | ~487 |
 | Lieutenant | 12.00% | ~450 |
 | Milestone collector | 11.00% | ~412 |
 | Mysterious Rock | 11.00% | ~412 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,013)
 | Jewel Enchanting | 0.20% | ~7 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,746 (Ranked 209)  
+Progressed: 3,746 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -13,7 +13,7 @@
 | Leisis Bless You | 9.00% | ~10 |
 | Rain Must Fall | 8.00% | ~9 |
 | Overboard | 8.00% | ~9 |
-| The Guardian of Fire | 7.00% | ~8 |
+| The Guardian of Fire | 8.00% | ~9 |
 | Explorer | 6.00% | ~7 |
 | Sovereignty of Irons | 6.00% | ~7 |
 | Twin Thorns | 6.00% | ~7 |

@@ -3,7 +3,7 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 282,
+  "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 388,
@@ -673,9 +673,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 472728,
+  "EOS_Progressed": 472729,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26268,6 +26268,11 @@
       "Time": "2023-12-24T07:10:18.9645912+00:00",
       "NumProgressed": 472728,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-12-24T08:10:33.3154734+00:00",
+      "NumProgressed": 472729,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -26367,7 +26372,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312000
+      "UsersEstimate": 312001
     },
     {
       "ID": "achievement_story_landa",
@@ -26703,7 +26708,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208000
+      "UsersEstimate": 208001
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -26711,7 +26716,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141818
+      "UsersEstimate": 141819
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -26910,21 +26915,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16662,
+      "Progressed": 16663,
       "Completed": 2361
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 472728,
+      "Progressed": 472729,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-16T01:44:08.2225132+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:10:18.9645906+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:10:33.3154731+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:48.398594+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:25.6731884+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:10:18.9647827+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:00:00.4791637+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:10:33.3156661+00:00"
 }

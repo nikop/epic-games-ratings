@@ -61,11 +61,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1692,
+  "EOS_Progressed": 1693,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 5.5,
+  "EOS_Completed_Percentage": 5.49,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5066,6 +5066,11 @@
       "Time": "2023-12-24T07:08:53.1504509+00:00",
       "NumProgressed": 1692,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-12-24T08:08:32.6183089+00:00",
+      "NumProgressed": 1693,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 25,
@@ -5077,7 +5082,7 @@
       "Name": "I did it",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "END_GOOD",
@@ -5085,7 +5090,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "META_ALL_LINK",
@@ -5093,7 +5098,7 @@
       "Name": "Peace walker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5101,7 +5106,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "META_FIRST_LINK",
@@ -5117,15 +5122,15 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 305
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5147,9 +5152,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 203
     },
     {
       "ID": "META_RESULT_2-4",
@@ -5181,7 +5186,7 @@
       "Name": "Rascal",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5213,7 +5218,7 @@
       "Name": "Champollion",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -5237,7 +5242,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "PROGRESS_N2",
@@ -5251,9 +5256,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 525
     },
     {
       "ID": "PROGRESS_N4",
@@ -5269,14 +5274,14 @@
       "Name": "One last step",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1692,
+      "Progressed": 1693,
       "Completed": 93
     }
   ],
@@ -5284,8 +5289,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:08:53.1504505+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:08:32.6183078+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:00:25.8479429+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:08:53.1504886+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:01:33.8564351+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:08:32.6183565+00:00"
 }

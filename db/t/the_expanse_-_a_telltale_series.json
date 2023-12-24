@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,11 +301,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17258,
-  "EOS_Completed": 50,
-  "EOS_NewPlayers": 663,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Progressed": 17263,
+  "EOS_Completed": 51,
+  "EOS_NewPlayers": 665,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -14951,6 +14951,11 @@
       "Time": "2023-12-24T07:06:48.4847247+00:00",
       "NumProgressed": 17258,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-24T08:07:43.914423+00:00",
+      "NumProgressed": 17263,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -14987,7 +14992,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "13",
@@ -15003,7 +15008,7 @@
       "Name": "Doctor Approved",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "15",
@@ -15019,7 +15024,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "17",
@@ -15035,7 +15040,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "19",
@@ -15043,7 +15048,7 @@
       "Name": "Martian Music",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "2",
@@ -15067,7 +15072,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "22",
@@ -15083,7 +15088,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "24",
@@ -15139,7 +15144,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "30",
@@ -15242,13 +15247,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17258,
-      "Completed": 50
+      "Progressed": 17263,
+      "Completed": 51
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3212,
+      "Progressed": 3217,
       "Completed": 1017
     }
   ],
@@ -15256,8 +15261,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:06:48.4847242+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:07:43.9144227+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:58:36.9376133+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:06:48.4848186+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:58:47.2318192+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:07:43.9145049+00:00"
 }

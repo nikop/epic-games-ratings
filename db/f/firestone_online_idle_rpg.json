@@ -5,7 +5,7 @@
   "Ranking_Rating": 1013,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 431,
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 147,
@@ -10927,9 +10927,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 524
     },
     {
       "ID": "howdoyouturnthison",
@@ -11288,8 +11288,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-22T22:58:35.5003837+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:08:51.4227629+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:08:30.1292545+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:38.2800518+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:08:51.4228701+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:00:20.557405+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:08:30.129389+00:00"
 }

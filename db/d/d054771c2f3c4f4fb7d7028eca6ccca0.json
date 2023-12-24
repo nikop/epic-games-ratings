@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2630,
+  "EOS_Progressed": 2631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2659,6 +2659,11 @@
       "Time": "2023-12-24T07:04:43.8804347+00:00",
       "NumProgressed": 2630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T08:04:45.2749899+00:00",
+      "NumProgressed": 2631,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2871,7 +2876,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3046,14 +3051,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2630,
+      "Progressed": 2631,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:04:43.8804344+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:04:45.2749895+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:29.9976488+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:04:43.8804718+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:00:07.1751918+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:04:45.2750301+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-eden-13175e",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-05T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1616091+00:00",
   "LastChanged": "2023-03-31T05:58:32.1616092+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.1168873+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:47.3499159+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:04:49.2661026+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:00:34.7125598+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:04:53.0076083+00:00"
 }

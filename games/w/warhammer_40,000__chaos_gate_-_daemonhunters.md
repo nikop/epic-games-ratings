@@ -10,7 +10,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 11.00% | ~392 |
 | Watch Where You Step... | 11.00% | ~392 |
 | An Ill Omen | 11.00% | ~392 |
-| Look Over There! | 10.00% | ~356 |
+| Look Over There! | 10.00% | ~357 |
 | Purging Spree | 8.00% | ~285 |
 | Blood for the Blood God! | 7.00% | ~250 |
 | Bloodless | 6.00% | ~214 |
@@ -29,6 +29,7 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 2.00% | ~71 |
 | Execution Force | 2.00% | ~71 |
 | Hive Exterminator | 2.00% | ~71 |
+| Fleetmaster | 1.00% | ~36 |
 | Exterminator | 1.00% | ~36 |
 | Mind Like a Fortress | 1.00% | ~36 |
 | Only in Death | 1.00% | ~36 |
@@ -38,7 +39,6 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 1.00% | ~36 |
 | Tactical Sabotage | 1.00% | ~36 |
 | Patron of Deimos | 0.90% | ~32 |
-| Fleetmaster | 0.90% | ~32 |
 | For the Machine God | 0.90% | ~32 |
 | Death Comes For All | 0.90% | ~32 |
 | Engine Kill | 0.80% | ~29 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,565 (Ranked 215)  
+Progressed: 3,567 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,510 | 0 |
 | 2023-12-22 | 3,530 | 0 |
 | 2023-12-23 | 3,552 | 0 |
-| 2023-12-24 | 3,565 | 0 |
+| 2023-12-24 | 3,567 | 0 |
 ## Awards
 Max (Character Customization): 229  (Ranked 279)  
 Sum: 490 (Ranked 333)  

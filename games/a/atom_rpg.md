@@ -16,8 +16,8 @@ Number of Ratings: 54  (23.09.2022)
 | Explorer | 17.00% | ~252 |
 | Double agent | 15.00% | ~223 |
 | Paranoia | 15.00% | ~223 |
+| Kraina Grzybow | 10.00% | ~148 |
 | Savant | 10.00% | ~148 |
-| Kraina Grzybow | 9.00% | ~134 |
 | Love Guru | 9.00% | ~134 |
 | Bustin' nuts | 8.00% | ~119 |
 | Not-so-private Eye | 8.00% | ~119 |

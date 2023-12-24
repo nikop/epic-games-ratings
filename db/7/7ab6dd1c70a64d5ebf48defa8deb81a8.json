@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1140,
+  "EOS_Progressed": 1141,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2265,6 +2265,11 @@
       "Time": "2023-12-24T07:10:14.8988948+00:00",
       "NumProgressed": 1140,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T08:10:28.4649345+00:00",
+      "NumProgressed": 1141,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2338,9 +2343,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_10",
@@ -2388,7 +2393,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_16",
@@ -2410,9 +2415,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_19",
@@ -2468,7 +2473,7 @@
       "Name": "Fashion Victim",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_26",
@@ -2516,7 +2521,7 @@
       "Name": "Stone Collection",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_33",
@@ -2563,14 +2568,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1140,
+      "Progressed": 1141,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:10:14.8988944+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:10:28.4649342+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:40.8899364+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:10:14.8989324+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:00:24.6952596+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:10:28.4649621+00:00"
 }

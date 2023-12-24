@@ -5908,9 +5908,9 @@
       "ID": "achCompleteCampaignA",
       "SetID": "dgl390n",
       "Name": "Old timer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 468
     },
     {
       "ID": "achCompleteCampaignB",
@@ -6268,8 +6268,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-22T16:57:35.9447156+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:08:57.3250081+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:08:38.6373896+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.2154452+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:58:48.0721516+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:08:57.3250675+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:59:04.1047243+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:08:38.637457+00:00"
 }

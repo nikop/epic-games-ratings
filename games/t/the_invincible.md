@@ -9,7 +9,7 @@ Rating: 4.60 (Ranked 424)
 | The Teleprobe | 51.00% | ~477 |
 | The City | 46.00% | ~430 |
 | The field base | 42.00% | ~393 |
-| Survivors | 35.00% | ~327 |
+| Survivors | 36.00% | ~337 |
 | The Alliance | 34.00% | ~318 |
 | The Condor | 33.00% | ~309 |
 | The End | 33.00% | ~309 |
@@ -23,7 +23,7 @@ Rating: 4.60 (Ranked 424)
 | Beyond divisions | 17.00% | ~159 |
 | Flying Objects Operator | 15.00% | ~140 |
 | I remember everything! | 13.00% | ~122 |
-| Another giant | 11.00% | ~103 |
+| Another giant | 12.00% | ~112 |
 | Violent solution | 9.00% | ~84 |
 | I leave no man behind | 8.00% | ~75 |
 | Innate curiosity | 7.00% | ~65 |

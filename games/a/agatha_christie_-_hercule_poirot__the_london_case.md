@@ -51,7 +51,7 @@
 | A true performance | 12.00% | ~7 |
 | Perkins | 7.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 520)  
+Progressed: 59 (Ranked 521)  
 Completed: 2 (3.39%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |

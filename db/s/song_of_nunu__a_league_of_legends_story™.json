@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 1308,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -3292,9 +3292,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 719
     },
     {
       "ID": "EV_ACH05",
@@ -3629,8 +3629,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:10:17.4233013+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:10:31.444901+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:11.7262027+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:10:17.423359+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:59:40.79978+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:10:31.4449516+00:00"
 }

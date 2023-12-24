@@ -9007,9 +9007,9 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 244018,
+  "EOS_Progressed": 244026,
   "EOS_Completed": 2558,
-  "EOS_NewPlayers": 2722,
+  "EOS_NewPlayers": 2715,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -36997,6 +36997,11 @@
       "Time": "2023-12-24T07:10:22.4683943+00:00",
       "NumProgressed": 244018,
       "NumCompleted": 2558
+    },
+    {
+      "Time": "2023-12-24T08:10:37.4401213+00:00",
+      "NumProgressed": 244026,
+      "NumCompleted": 2558
     }
   ],
   "TotalAchievements": 546,
@@ -37982,9 +37987,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 488
     },
     {
       "ID": "objective_completed_130",
@@ -41342,9 +41347,9 @@
       "ID": "objective_completed_678",
       "SetID": "415jc5c",
       "Name": "Flames of Avernus",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 841
     },
     {
       "ID": "objective_completed_683",
@@ -41375,21 +41380,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210292,
+      "Progressed": 210300,
       "Completed": 4059
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244018,
+      "Progressed": 244026,
       "Completed": 2558
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T21:02:56.5603354+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:10:22.4683936+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:10:37.440121+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:03:20.0162085+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:10:22.4707557+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:02:41.3906211+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:10:37.4425376+00:00"
 }

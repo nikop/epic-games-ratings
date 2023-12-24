@@ -14,8 +14,8 @@ Number of Ratings: 90  (23.09.2022)
 | Bodied Sattva | 32.00% | ~56 |
 | Earthly Pleasures | 30.00% | ~52 |
 | Cult Following | 29.00% | ~50 |
-| Lie Back and Think of Albion | 23.00% | ~40 |
-| Upgreatest | 23.00% | ~40 |
+| Lie Back and Think of Albion | 24.00% | ~42 |
+| Upgreatest | 24.00% | ~42 |
 | Pimp My Raid | 22.00% | ~38 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~31 |
 | Freshly Squeezed | 16.00% | ~28 |
@@ -23,7 +23,7 @@ Number of Ratings: 90  (23.09.2022)
 | Die Nasty | 14.00% | ~24 |
 | Transmitting From Sol-3 | 12.00% | ~21 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~17 |
-| Dusted | 9.00% | ~16 |
+| Dusted | 10.00% | ~17 |
 | Fly Me to the Moon Base | 7.00% | ~12 |
 | Kaijuiced | 7.00% | ~12 |
 | Scuttled | 6.00% | ~10 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 843,
+  "EOS_Progressed": 844,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2926,6 +2926,11 @@
       "Time": "2023-12-24T02:30:59.0776298+00:00",
       "NumProgressed": 843,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T08:07:19.7010161+00:00",
+      "NumProgressed": 844,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2937,7 +2942,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "cool-shirts",
@@ -2961,7 +2966,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "female-conqueror",
@@ -2985,7 +2990,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "kill-lieutenants",
@@ -2999,9 +3004,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 582
     },
     {
       "ID": "play-at-night",
@@ -3041,7 +3046,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "sell-variety",
@@ -3049,7 +3054,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "send-smuggling",
@@ -3073,7 +3078,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "use-submarine",
@@ -3088,15 +3093,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 843,
+      "Progressed": 844,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:06:31.5526936+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:07:19.7010157+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:58:49.5439849+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:06:31.5527221+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:59:06.4882949+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:07:19.7010403+00:00"
 }

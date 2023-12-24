@@ -23,22 +23,22 @@
 | Mushroom soup of the day | 54.00% | ~73 |
 | Honk honk! | 51.00% | ~69 |
 | Cockadoodledoo! | 51.00% | ~69 |
-| Butcher | 49.00% | ~67 |
+| Butcher | 50.00% | ~68 |
 | Thats disgusting! | 49.00% | ~67 |
 | Spare Ribs | 49.00% | ~67 |
 | Self assessed tax return | 45.00% | ~61 |
-| My pants squeak when I walk | 44.00% | ~60 |
+| My pants squeak when I walk | 45.00% | ~61 |
 | Surprise!! | 43.00% | ~58 |
-| Haemochromatosis | 40.00% | ~54 |
+| Haemochromatosis | 41.00% | ~56 |
 | Make America Grate Again | 38.00% | ~52 |
+| You can't stop me, bro! | 36.00% | ~49 |
 | Pasta Bolognese | 36.00% | ~49 |
 | You are no match for me, Billy! | 35.00% | ~48 |
-| You can't stop me, bro! | 35.00% | ~48 |
 | Karaoke king | 34.00% | ~46 |
 | Meatballs, coming up! | 32.00% | ~44 |
 | Catch the bus with me! | 32.00% | ~44 |
 | I'm going to get a concussion | 31.00% | ~42 |
-| Another one bites the iron | 29.00% | ~39 |
+| Another one bites the iron | 30.00% | ~41 |
 | Kleptomaniac | 27.00% | ~37 |
 | Ripe Meat Off The Bone! | 26.00% | ~35 |
 | Hovering around | 26.00% | ~35 |

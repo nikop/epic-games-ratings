@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19153,
+  "EOS_Progressed": 19154,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14044,6 +14044,11 @@
       "Time": "2023-12-24T07:04:37.6138711+00:00",
       "NumProgressed": 19153,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T08:04:36.1775299+00:00",
+      "NumProgressed": 19154,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14143,7 +14148,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "0013",
@@ -14159,7 +14164,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "0015",
@@ -14342,7 +14347,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19153,
+      "Progressed": 19154,
       "Completed": 4
     }
   ],
@@ -14350,8 +14355,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:04:37.6138705+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:04:36.1775295+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:57.7984015+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:04:37.6139435+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:00:50.2171937+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:04:36.1776157+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Best Buddy | 26.00% | ~20 |
+| Best Buddy | 25.00% | ~20 |
 | Entrepreneur | 23.00% | ~18 |
 | Role Model | 22.00% | ~17 |
 | Creator | 14.00% | ~11 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 | Lover | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 498)  
+Progressed: 79 (Ranked 498)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 48 | 0 |
 | 2023-12-22 | 67 | 0 |
 | 2023-12-23 | 75 | 0 |
-| 2023-12-24 | 78 | 0 |
+| 2023-12-24 | 79 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,12 +2,12 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1889,6 +1889,6 @@
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
   "LastChanged": "2023-12-22T19:03:27.6729173+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.3689811+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:03:45.0161389+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:04:02.6816929+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:03:18.8247865+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:03:46.2506873+00:00"
 }

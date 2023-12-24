@@ -285,7 +285,7 @@
   "Tags": [],
   "EOS_Progressed": 1728,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3051,9 +3051,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1400
     },
     {
       "ID": "achievement_20",
@@ -3163,9 +3163,9 @@
       "ID": "achievement_43",
       "SetID": "18al4io",
       "Name": "Armaments Vert",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_44",
@@ -3348,8 +3348,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-24T05:57:12.2889182+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:09:58.1744499+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:10:05.4010941+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.6657855+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:57:31.7522088+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:09:58.1744994+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:57:05.5869062+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:10:05.4011339+00:00"
 }

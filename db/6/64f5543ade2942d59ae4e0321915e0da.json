@@ -3,8 +3,8 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -957,9 +957,9 @@
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1237,9 +1237,9 @@
       "ID": "AC_RECIPES_DONE_2",
       "SetID": "16i2akc",
       "Name": "Cheff",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -1292,8 +1292,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:05:00.1805509+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:05:09.0098419+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:58:51.3283131+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:05:00.1805771+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:59:09.3224537+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:05:09.0098762+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 47.00% | ~5,335 |
-| Start with a bang! | 46.00% | ~5,221 |
-| You can pet the cat! | 42.00% | ~4,767 |
-| Who put gears in there? | 33.00% | ~3,746 |
-| Cream of the Crop | 29.00% | ~3,292 |
-| Thanks for the free chip, Peppermint! | 28.00% | ~3,178 |
-| You got this, Peppermint? | 24.00% | ~2,724 |
-| Perfect Parry | 22.00% | ~2,497 |
-| Alright, that felt AWESOME! | 22.00% | ~2,497 |
-| I play my own way! | 19.00% | ~2,157 |
-| This will cost you big time | 17.00% | ~1,930 |
-| Uh, they were broken when I got here | 17.00% | ~1,930 |
-| Z-shielding's got nothing on us! | 15.00% | ~1,703 |
-| Kissing the sky! | 15.00% | ~1,703 |
-| Does that say weakpoint? | 14.00% | ~1,589 |
-| Whoa! There's ANOTHER health bar!? | 13.00% | ~1,476 |
-| The Negotiator | 12.00% | ~1,362 |
-| You must like calling me in, Chai | 11.00% | ~1,249 |
-| I look cool. But I can look COOLER. | 10.00% | ~1,135 |
-| Headliner | 9.00% | ~1,022 |
-| Out in a puff of smoke | 9.00% | ~1,022 |
-| Perfecter Parry-er! | 9.00% | ~1,022 |
-| Time to pay up! | 8.00% | ~908 |
-| Who's the boss now? | 8.00% | ~908 |
-| I have to read these things? | 8.00% | ~908 |
-| There's such a thing as TOO helpful | 6.00% | ~681 |
-| NOW we got a kickass hideout! | 6.00% | ~592 |
-| Well that was a rush! | 5.00% | ~568 |
-| Beat-hit mania | 5.00% | ~568 |
-| That's a lot of junk metal… | 5.00% | ~568 |
-| I told you I'd be fine, Peppermint! | 4.00% | ~454 |
+| Feeling the beat! | 47.00% | ~5,349 |
+| Start with a bang! | 46.00% | ~5,235 |
+| You can pet the cat! | 42.00% | ~4,780 |
+| Who put gears in there? | 33.00% | ~3,755 |
+| Cream of the Crop | 29.00% | ~3,300 |
+| Thanks for the free chip, Peppermint! | 28.00% | ~3,186 |
+| You got this, Peppermint? | 24.00% | ~2,731 |
+| Perfect Parry | 22.00% | ~2,504 |
+| Alright, that felt AWESOME! | 22.00% | ~2,504 |
+| I play my own way! | 19.00% | ~2,162 |
+| This will cost you big time | 17.00% | ~1,935 |
+| Uh, they were broken when I got here | 17.00% | ~1,935 |
+| Z-shielding's got nothing on us! | 15.00% | ~1,707 |
+| Kissing the sky! | 15.00% | ~1,707 |
+| Does that say weakpoint? | 14.00% | ~1,593 |
+| Whoa! There's ANOTHER health bar!? | 13.00% | ~1,479 |
+| The Negotiator | 12.00% | ~1,366 |
+| You must like calling me in, Chai | 11.00% | ~1,252 |
+| I look cool. But I can look COOLER. | 10.00% | ~1,138 |
+| Headliner | 9.00% | ~1,024 |
+| Out in a puff of smoke | 9.00% | ~1,024 |
+| Perfecter Parry-er! | 9.00% | ~1,024 |
+| Time to pay up! | 8.00% | ~910 |
+| Who's the boss now? | 8.00% | ~910 |
+| I have to read these things? | 8.00% | ~910 |
+| There's such a thing as TOO helpful | 6.00% | ~683 |
+| NOW we got a kickass hideout! | 6.00% | ~594 |
+| Well that was a rush! | 5.00% | ~569 |
+| Beat-hit mania | 5.00% | ~569 |
+| That's a lot of junk metal… | 5.00% | ~569 |
+| I told you I'd be fine, Peppermint! | 4.00% | ~455 |
 | Chip-tuned | 3.00% | ~341 |
 | Wanna hear my playlist? | 3.00% | ~341 |
 | Check out my moves! | 3.00% | ~341 |
-| We're Jammin' | 2.00% | ~227 |
-| I hit things with a guitar really well. | 2.00% | ~227 |
-| You ever parry a volcano? | 2.00% | ~227 |
+| We're Jammin' | 2.00% | ~228 |
+| I hit things with a guitar really well. | 2.00% | ~228 |
+| You ever parry a volcano? | 2.00% | ~228 |
 | I think I deserve some praise, here! | 1.00% | ~114 |
 | I think I found your calling, Macaron | 1.00% | ~114 |
 | This is a breeze! | 1.00% | ~114 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~10 |
 | Low budget finish | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,351 (Ranked 171)  
+Progressed: 11,380 (Ranked 171)  
 Completed: 8 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 8 (0.07%) (Ranked 321)
 | 2023-12-21 | 10,248 | 8 |
 | 2023-12-22 | 10,702 | 8 |
 | 2023-12-23 | 11,217 | 8 |
-| 2023-12-24 | 11,351 | 8 |
+| 2023-12-24 | 11,380 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

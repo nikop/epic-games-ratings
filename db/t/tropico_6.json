@@ -1467,9 +1467,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6625,
+  "EOS_Progressed": 6626,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15117,6 +15117,11 @@
       "Time": "2023-12-24T06:07:32.9220996+00:00",
       "NumProgressed": 6625,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T08:07:17.8148648+00:00",
+      "NumProgressed": 6626,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15152,7 +15157,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -15288,7 +15293,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15304,7 +15309,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -15312,7 +15317,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -15344,7 +15349,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -15352,7 +15357,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -15368,7 +15373,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -15376,7 +15381,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -15384,7 +15389,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15440,22 +15445,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6625,
+      "Progressed": 6626,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-21T18:57:32.4771676+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:06:30.2363227+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:07:17.8148644+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:59:09.2857707+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:06:30.2364081+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:59:37.2301847+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:07:17.8149725+00:00"
 }

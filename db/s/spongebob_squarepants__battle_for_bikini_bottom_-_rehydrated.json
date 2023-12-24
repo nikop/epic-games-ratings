@@ -2,13 +2,13 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 298,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -891,6 +891,11 @@
       "Time": "2023-12-24T07:04:09.8334622+00:00",
       "NumProgressed": 294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T08:03:56.2822719+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1037,9 +1042,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1111,7 +1116,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1119,7 +1124,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1158,15 +1163,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 298,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:04:09.8334617+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:03:56.2822714+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-24T06:58:11.7413298+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:04:09.833488+00:00"
+  "LastUpdate_Ratings": "2023-12-24T07:58:06.1350972+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:03:56.2823061+00:00"
 }

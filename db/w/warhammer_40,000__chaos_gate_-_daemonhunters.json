@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3565,
+  "EOS_Progressed": 3567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4775,6 +4775,11 @@
       "Time": "2023-12-24T07:05:03.3921718+00:00",
       "NumProgressed": 3565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T08:05:13.3431097+00:00",
+      "NumProgressed": 3567,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4802,7 +4807,7 @@
       "Name": "Look Over There!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "BloodAndIron",
@@ -4896,9 +4901,9 @@
       "ID": "FleetMaster",
       "SetID": "2im8phi",
       "Name": "Fleetmaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "ForTheMachineGod",
@@ -5329,21 +5334,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3565,
+      "Progressed": 3567,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3565,
+      "Progressed": 3567,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-16T13:05:46.2808+00:00",
-  "LastChanged_Achievements": "2023-12-24T07:05:03.3921713+00:00",
+  "LastChanged_Achievements": "2023-12-24T08:05:13.3431093+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:03:40.8697346+00:00",
-  "LastUpdate_Achievements": "2023-12-24T07:05:03.3922341+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:03:11.6354799+00:00",
+  "LastUpdate_Achievements": "2023-12-24T08:05:13.343179+00:00"
 }

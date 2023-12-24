@@ -6,7 +6,7 @@ Rating: 4.21 (Ranked 929)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~1,521 |
-| Battlefields Have Memories | 80.00% | ~1,382 |
+| Battlefields Have Memories | 81.00% | ~1,400 |
 | Enlisted | 73.00% | ~1,261 |
 | Maybe Engage a Little | 68.00% | ~1,175 |
 | No More Names | 50.00% | ~864 |
@@ -36,7 +36,7 @@ Rating: 4.21 (Ranked 929)
 | Kitted Out | 3.00% | ~52 |
 | Armaments Azure | 3.00% | ~52 |
 | Armaments Gules | 3.00% | ~52 |
-| Armaments Vert | 2.00% | ~35 |
+| Armaments Vert | 3.00% | ~52 |
 | Veteran | 2.00% | ~35 |
 | Grand Magnus | 1.00% | ~17 |
 | Master of Carmine | 1.00% | ~17 |
