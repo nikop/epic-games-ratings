@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -562,9 +562,9 @@
       "ID": "Ach-01-brambora",
       "SetID": "2pjo9pi",
       "Name": "Brambora",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Ach-01-bzukavec",
@@ -922,9 +922,9 @@
       "ID": "Ach-level-1",
       "SetID": "2pjo9pi",
       "Name": "Level 1",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Ach-level-2",
@@ -985,8 +985,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:08:34.9536076+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:08:21.0752765+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.4834278+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:03.4803975+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:08:34.953647+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:10.1429879+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:08:21.0753177+00:00"
 }

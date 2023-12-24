@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2509,
+  "EOS_Progressed": 2510,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7154,6 +7154,11 @@
       "Time": "2023-12-24T07:05:51.7234323+00:00",
       "NumProgressed": 2509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T12:05:14.4554966+00:00",
+      "NumProgressed": 2510,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7325,7 +7330,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "A21",
@@ -7341,7 +7346,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "A23",
@@ -7357,7 +7362,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "A25",
@@ -7389,7 +7394,7 @@
       "Name": "We brake for nobody",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "A29",
@@ -7397,7 +7402,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "A30",
@@ -7413,7 +7418,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "A32",
@@ -7453,7 +7458,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "A37",
@@ -7477,7 +7482,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "A40",
@@ -7485,7 +7490,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "A41",
@@ -7493,7 +7498,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "A42",
@@ -7533,7 +7538,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "A47",
@@ -7541,7 +7546,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "A48",
@@ -7604,7 +7609,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2509,
+      "Progressed": 2510,
       "Completed": 0
     }
   ],
@@ -7612,8 +7617,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:05:16.7830924+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:05:14.4554959+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:57:50.5061928+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:05:16.7831536+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:57:53.8904905+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:05:14.4555543+00:00"
 }

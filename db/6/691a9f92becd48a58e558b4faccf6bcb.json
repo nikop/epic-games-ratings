@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -1513,9 +1513,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1577,9 +1577,9 @@
       "ID": "ACHIEVEMENT_MAIN_NAUGHTY",
       "SetID": "5lffoo5",
       "Name": "Naughty list",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SHINY",
@@ -1609,9 +1609,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
       "SetID": "5lffoo5",
       "Name": "Silver Hat",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -1640,8 +1640,8 @@
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:04:01.5639749+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:03:59.1270857+00:00",
   "LastUpdate_AppInfo": "2023-12-18T02:20:38.3473429+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:07.5313419+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:04:01.5639925+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:10.6723046+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:03:59.1271041+00:00"
 }

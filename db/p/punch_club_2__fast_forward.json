@@ -2117,9 +2117,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 295
     },
     {
       "ID": "met_k",
@@ -2133,9 +2133,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 286
     },
     {
       "ID": "mike_resurect",
@@ -2165,9 +2165,9 @@
       "ID": "nero_extrime",
       "SetID": "69co12a",
       "Name": "Extreme neuropower!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 236
     },
     {
       "ID": "not_ok",
@@ -2364,8 +2364,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:09.7529829+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:08:55.4455137+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:49.5865047+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:09.753044+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:55.851669+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:08:55.4455631+00:00"
 }

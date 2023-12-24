@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -591,9 +591,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6105,
+  "EOS_Progressed": 6113,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9006,6 +9006,11 @@
       "Time": "2023-12-24T11:06:28.9703168+00:00",
       "NumProgressed": 6105,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T12:07:46.4251856+00:00",
+      "NumProgressed": 6113,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9033,7 +9038,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "12",
@@ -9057,7 +9062,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "15",
@@ -9129,7 +9134,7 @@
       "Name": "Realm Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "23",
@@ -9137,7 +9142,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "24",
@@ -9145,7 +9150,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "25",
@@ -9153,7 +9158,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "26",
@@ -9161,7 +9166,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "27",
@@ -9177,7 +9182,7 @@
       "Name": "From Friends to Family",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "29",
@@ -9185,7 +9190,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "3",
@@ -9209,7 +9214,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "32",
@@ -9225,7 +9230,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "34",
@@ -9481,7 +9486,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "60",
@@ -9496,13 +9501,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6105,
+      "Progressed": 6113,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6105,
+      "Progressed": 6113,
       "Completed": 7
     }
   ],
@@ -9510,8 +9515,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T10:58:25.5451673+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:06:28.9703162+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:07:46.4251851+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:25.5451677+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:06:28.9703916+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:31.7342561+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:07:46.4252544+00:00"
 }

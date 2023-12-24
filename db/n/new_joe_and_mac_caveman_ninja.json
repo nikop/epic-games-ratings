@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -581,6 +581,11 @@
       "Time": "2023-12-24T09:04:13.1860452+00:00",
       "NumProgressed": 263,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T12:03:25.2950438+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -590,9 +595,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "02",
@@ -624,7 +629,7 @@
       "Name": "A turbulent river.",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "06",
@@ -648,7 +653,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "09",
@@ -711,7 +716,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 6
     }
   ],
@@ -719,8 +724,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:03:26.8946831+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:03:25.2950434+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:15.5888401+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:33.9575243+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:03:26.8946943+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:40.5627993+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:03:25.2950553+00:00"
 }

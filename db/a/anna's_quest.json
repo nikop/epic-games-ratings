@@ -467,9 +467,9 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "aq_achievement_19",
@@ -716,8 +716,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:03:58.4200321+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:03:56.1120266+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:57.2404374+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:16.0307702+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:03:58.4200593+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:22.6138492+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:03:56.1120613+00:00"
 }

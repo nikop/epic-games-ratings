@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Inquisitor | 37.00% | ~221 |
 | Goblin Tales | 30.00% | ~179 |
-| Bug Hunter | 24.00% | ~143 |
+| Bug Hunter | 25.00% | ~149 |
 | Boss Killer | 23.00% | ~137 |
 | The Fallen | 21.00% | ~125 |
 | Artifact Collector | 19.00% | ~113 |
@@ -19,7 +19,7 @@
 | Gladiator | 12.00% | ~72 |
 | Lumberjack | 12.00% | ~72 |
 | The End | 12.00% | ~72 |
-| Troubleshooter | 10.00% | ~60 |
+| Troubleshooter | 11.00% | ~66 |
 | Money Swag | 8.00% | ~48 |
 | Oops | 7.00% | ~42 |
 | Shield Crusher | 7.00% | ~42 |

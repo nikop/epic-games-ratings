@@ -22,10 +22,10 @@
 | GG | 29.00% | ~26 |
 | NOW GO AWAY! | 29.00% | ~26 |
 | Shattered | 28.00% | ~25 |
+| You've got mail! | 28.00% | ~25 |
 | Beekeeper | 28.00% | ~25 |
 | Far away from home | 28.00% | ~25 |
 | Show me your true self | 27.00% | ~24 |
-| You've got mail! | 27.00% | ~24 |
 | Memories | 26.00% | ~23 |
 | Mischief maker | 26.00% | ~23 |
 | No posters allowed | 26.00% | ~23 |

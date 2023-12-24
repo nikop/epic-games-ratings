@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~827 |
-| Hidden History | 71.00% | ~593 |
+| Land of the Rising Sun | 99.00% | ~828 |
+| Hidden History | 71.00% | ~594 |
 | Commencing of Quests | 62.00% | ~518 |
-| Budding Conjuror | 60.00% | ~501 |
-| Man-Machine Master | 49.00% | ~409 |
+| Budding Conjuror | 61.00% | ~510 |
+| Man-Machine Master | 49.00% | ~410 |
 | Subsistence Skills | 48.00% | ~401 |
 | Charmed by the Hunt | 48.00% | ~401 |
-| Mountain Splitter | 47.00% | ~392 |
-| Memory Rouser | 46.00% | ~384 |
+| Mountain Splitter | 47.00% | ~393 |
+| Memory Rouser | 46.00% | ~385 |
 | Fusion Conjuror | 45.00% | ~376 |
-| Kemono Hunter | 41.00% | ~342 |
+| Kemono Hunter | 41.00% | ~343 |
 | Helpful Heart | 39.00% | ~326 |
-| Expert Conjuror | 38.00% | ~317 |
+| Expert Conjuror | 38.00% | ~318 |
 | Flawless Crystal | 37.00% | ~309 |
 | Bonds of Enmity | 37.00% | ~309 |
 | Distance Devourer | 34.00% | ~284 |
-| Counter Specialist | 32.00% | ~267 |
+| Counter Specialist | 32.00% | ~268 |
 | Master of the Skies | 31.00% | ~259 |
 | Axer of Auspice | 28.00% | ~234 |
-| Kemono at Heart | 27.00% | ~225 |
+| Kemono at Heart | 27.00% | ~226 |
 | Mighty Marmelizer | 26.00% | ~217 |
 | Fair Means or Foul | 26.00% | ~217 |
 | Single Minded | 25.00% | ~209 |
@@ -48,12 +48,12 @@
 | Tender Touch | 9.00% | ~75 |
 | Superlative View | 9.00% | ~75 |
 | Relentless Kemono Hunter | 8.00% | ~67 |
-| Vanquisher of the Volatile | 7.00% | ~58 |
+| Vanquisher of the Volatile | 7.00% | ~59 |
 | Big Spender | 6.00% | ~50 |
 | Bewitched by Bathing | 5.00% | ~42 |
 | Tsukumo Whisperer | 3.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 291)  
+Progressed: 836 (Ranked 291)  
 Completed: 8 (0.96%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,4 +153,4 @@ Completed: 8 (0.96%) (Ranked 176)
 | 2023-12-21 | 750 | 8 |
 | 2023-12-22 | 784 | 8 |
 | 2023-12-23 | 820 | 8 |
-| 2023-12-24 | 835 | 8 |
+| 2023-12-24 | 836 | 8 |

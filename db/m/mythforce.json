@@ -6,7 +6,7 @@
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
@@ -842,7 +842,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5782,
+  "EOS_Progressed": 5783,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -11722,6 +11722,11 @@
       "Time": "2023-12-24T05:07:02.9608217+00:00",
       "NumProgressed": 5782,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-24T12:05:36.902175+00:00",
+      "NumProgressed": 5783,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11774,7 +11779,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -11782,7 +11787,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11790,7 +11795,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11854,7 +11859,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -11917,15 +11922,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5782,
+      "Progressed": 5783,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:05:39.1551559+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:05:36.9021746+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:57:27.6650808+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:05:39.155217+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:57:28.773985+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:05:36.9022359+00:00"
 }

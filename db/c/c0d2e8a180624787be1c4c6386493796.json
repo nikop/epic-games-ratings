@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 205,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1006,9 +1006,9 @@
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
       "SetID": "caeik3h",
       "Name": "Gotta Go Fast",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 189
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
@@ -1086,9 +1086,9 @@
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
       "SetID": "caeik3h",
       "Name": "Feels Good To Be Back",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 203
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -1182,9 +1182,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -1230,9 +1230,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1342,9 +1342,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1358,9 +1358,9 @@
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
       "SetID": "caeik3h",
       "Name": "Mischievous Demon",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -1462,9 +1462,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1563,8 +1563,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:03:23.5729875+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:03:22.0014899+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:50.4182873+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:03:23.5730448+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:56.6607155+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:03:22.0015597+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -1835,9 +1835,9 @@
       "ID": "TUTORIAL_FIRST",
       "SetID": "aemieak",
       "Name": "Starting to take notes",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 255
     }
   ],
   "AchievementSets": [
@@ -1850,8 +1850,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:08:56.6282645+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:08:42.407209+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.8884887+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:02:35.5728706+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:08:56.6282933+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:02:32.4511704+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:08:42.4072342+00:00"
 }

@@ -20,8 +20,8 @@
 | No bullying more | 67.00% | ~304 |
 | Hello, world! | 67.00% | ~304 |
 | Fighting is cool | 66.00% | ~300 |
-| Pal of your father? | 64.00% | ~291 |
-| Spirit of the past | 62.00% | ~281 |
+| Pal of your father? | 65.00% | ~295 |
+| Spirit of the past | 63.00% | ~286 |
 | Employee of the month | 61.00% | ~277 |
 | Law student | 59.00% | ~268 |
 | Workout professional | 56.00% | ~254 |
@@ -33,7 +33,7 @@
 | Employee of the year | 55.00% | ~250 |
 | Own four walls | 54.00% | ~245 |
 | Intriguing candies | 54.00% | ~245 |
-| Extreme neuropower! | 51.00% | ~232 |
+| Extreme neuropower! | 52.00% | ~236 |
 | Legal courier | 50.00% | ~227 |
 | Escaped from a big trouble | 47.00% | ~213 |
 | Now you are worthy | 44.00% | ~200 |

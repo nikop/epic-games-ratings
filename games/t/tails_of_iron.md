@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 0.90% | ~20 |
+| Complete Guard Faction | 1.00% | ~23 |
+| Become King | 0.80% | ~18 |
 | The Bright Fir | 0.80% | ~7 |
-| Become King | 0.70% | ~16 |
 | End of the Mozis | 0.60% | ~14 |
 | Defeat 25 Frogs | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
-| Shield Maiden Yellow Tongue | 0.60% | ~5 |
+| Shield Maiden Yellow Tongue | 0.60% | ~6 |
 | Collect Monster Parts | 0.50% | ~11 |
 | Ranged Weapon | 0.50% | ~11 |
 | Two Handed Weapon | 0.50% | ~11 |
@@ -23,26 +23,26 @@ Rating: 4.56 (Ranked 497)
 | Collect Gold | 0.40% | ~9 |
 | Collect Iron Ore | 0.40% | ~9 |
 | Complete Elder Faction | 0.40% | ~9 |
+| Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Defeat 25 Mozis | 0.40% | ~9 |
+| Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Kitchen Ready To Cook | 0.40% | ~9 |
 | Smithy Ready to Craft | 0.40% | ~9 |
 | Rescue Redgi's Brothers | 0.40% | ~9 |
 | Return the Statues | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Complete Ranger Faction | 0.30% | ~7 |
-| Defeat Avor Warden of the Northern Wastes | 0.30% | ~7 |
 | Defeat Ratnor Rodentson | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
-| Discover the mystery of the Kings Chambers | 0.30% | ~7 |
 | Defeat the Grub Buster | 0.30% | ~3 |
 | Defeat the Stalker Queen | 0.30% | ~3 |
+| Complete Redgi's Armory | 0.20% | ~5 |
+| Complete Arena Faction | 0.20% | ~5 |
 | Fix the Travellers Wagon | 0.20% | ~5 |
-| Complete Redgi's Armory | 0.10% | ~2 |
 | King of Kings | 0.10% | ~2 |
-| Complete Arena Faction | 0.10% | ~2 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,275 (Ranked 231)  
+Progressed: 2,277 (Ranked 231)  
 Completed: 12 (0.53%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 12 (0.53%) (Ranked 211)
 | 2023-12-21 | 2,266 | 12 |
 | 2023-12-22 | 2,269 | 12 |
 | 2023-12-23 | 2,274 | 12 |
-| 2023-12-24 | 2,275 | 12 |
+| 2023-12-24 | 2,277 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

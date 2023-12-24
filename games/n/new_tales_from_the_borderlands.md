@@ -6,33 +6,33 @@ Rating: 4.08 (Ranked 994)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,912 |
-| Totally Intentional | 46.00% | ~1,725 |
+| Totally Intentional | 45.00% | ~1,688 |
 | Each Sold Separately | 38.00% | ~1,425 |
-| We're In | 33.00% | ~1,237 |
+| We're In | 33.00% | ~1,238 |
 | Tale in the Toilet | 30.00% | ~1,125 |
-| You're Not Naked | 29.00% | ~1,087 |
-| From Zeroes... | 29.00% | ~1,087 |
-| Don't Get Cocky | 27.00% | ~1,012 |
-| Shard Snatchers | 25.00% | ~937 |
+| You're Not Naked | 29.00% | ~1,088 |
+| From Zeroes... | 29.00% | ~1,088 |
+| Don't Get Cocky | 27.00% | ~1,013 |
+| Shard Snatchers | 25.00% | ~938 |
 | You Rich Now! | 23.00% | ~862 |
-| Our Lucky Winner | 21.00% | ~787 |
-| You Poor Now! | 21.00% | ~787 |
+| Our Lucky Winner | 21.00% | ~788 |
+| You Poor Now! | 21.00% | ~788 |
 | You Got the Goods, Kid | 20.00% | ~750 |
 | The Shardmenstration | 19.00% | ~712 |
 | Those Were the Days... | 19.00% | ~712 |
 | ...To Heroes | 18.00% | ~675 |
 | Mas, Por Favor | 18.00% | ~675 |
 | And Still Champion... | 15.00% | ~562 |
-| Super Trusting Friend! | 9.00% | ~337 |
+| Super Trusting Friend! | 9.00% | ~338 |
 | Bring back the butt! | 4.00% | ~150 |
 | Hey, thanks! | 4.00% | ~150 |
 | Murderous Mascot Mayhem | 3.00% | ~112 |
 | New Business | 0.90% | ~34 |
 | Okay, Vain Much? | 0.50% | ~19 |
-| Not Dolls. Action Figures! | 0.20% | ~7 |
+| Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,749 (Ranked 210)  
+Progressed: 3,750 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 3,739 | 0 |
 | 2023-12-22 | 3,742 | 0 |
 | 2023-12-23 | 3,745 | 0 |
-| 2023-12-24 | 3,749 | 0 |
+| 2023-12-24 | 3,750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

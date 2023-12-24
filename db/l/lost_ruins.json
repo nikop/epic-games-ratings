@@ -1558,9 +1558,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 149
     },
     {
       "ID": "Cryomancer",
@@ -1814,9 +1814,9 @@
       "ID": "Troubleshooter",
       "SetID": "82505mn",
       "Name": "Troubleshooter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "WeaponMaster",
@@ -1847,8 +1847,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:43.7413524+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:09:29.114186+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:02:37.4150357+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:43.7413777+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:02:33.8545097+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:09:29.1142191+00:00"
 }

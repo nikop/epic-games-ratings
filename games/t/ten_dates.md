@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | That wasn't so bad | 88.00% | ~349 |
 | Let it begin | 48.00% | ~191 |
-| The athlete | 26.00% | ~103 |
+| The athlete | 27.00% | ~107 |
 | The intellectual | 25.00% | ~99 |
 | The boss | 23.00% | ~91 |
 | The activist | 20.00% | ~79 |
 | The individualist | 18.00% | ~71 |
-| The nice guy | 11.00% | ~44 |
+| The nice guy | 12.00% | ~48 |
 | Picky, Picky! | 10.00% | ~40 |
 | The lad | 9.00% | ~36 |
 | The debonair | 9.00% | ~36 |
-| The techie | 7.00% | ~28 |
+| The techie | 8.00% | ~32 |
 | More than browsing | 6.00% | ~24 |
 | Picky! | 5.00% | ~20 |
 | Playing the field | 5.00% | ~20 |

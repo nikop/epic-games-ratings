@@ -1003,9 +1003,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7468,
+  "EOS_Progressed": 7472,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12108,6 +12108,11 @@
       "Time": "2023-12-24T11:04:46.2348143+00:00",
       "NumProgressed": 7468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T12:04:44.0348483+00:00",
+      "NumProgressed": 7472,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12159,7 +12164,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12167,7 +12172,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12183,7 +12188,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12438,13 +12443,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7468,
+      "Progressed": 7472,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6840,
+      "Progressed": 6844,
       "Completed": 113
     }
   ],
@@ -12452,8 +12457,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-21T00:02:47.1837703+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:04:46.234814+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:04:44.0348478+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:16.5155108+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:04:46.2349064+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:20.0067754+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:04:44.0349108+00:00"
 }

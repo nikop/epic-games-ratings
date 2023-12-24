@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 720,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2708,6 +2708,11 @@
       "Time": "2023-12-24T11:08:32.23556+00:00",
       "NumProgressed": 718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T12:08:18.4547629+00:00",
+      "NumProgressed": 720,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2744,7 +2749,7 @@
       "Name": "Dressed For Success",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AttackCount",
@@ -2824,7 +2829,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Deepstrike",
@@ -2864,7 +2869,7 @@
       "Name": "Double Kill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3056,7 +3061,7 @@
       "Name": "Veteran",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "WielderLevel3",
@@ -3080,7 +3085,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3104,7 +3109,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3151,15 +3156,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 720,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:08:32.2355597+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:08:18.4547624+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:47.7882594+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:08:32.2356073+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:55.2150659+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:08:18.4548059+00:00"
 }

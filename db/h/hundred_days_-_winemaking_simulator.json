@@ -5,8 +5,8 @@
   "Ranking_Rating": 806,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 223,
-  "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -1087,11 +1087,11 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17326,
+  "EOS_Progressed": 17334,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -14737,6 +14737,11 @@
       "Time": "2023-12-24T11:09:16.6780985+00:00",
       "NumProgressed": 17326,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T12:09:02.1868384+00:00",
+      "NumProgressed": 17334,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14797,7 +14802,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7280
     },
     {
       "ID": "a_19",
@@ -14805,7 +14810,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "a_2",
@@ -14813,7 +14818,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "a_20",
@@ -14845,7 +14850,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "a_25",
@@ -14853,7 +14858,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "a_26",
@@ -14996,7 +15001,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17326,
+      "Progressed": 17334,
       "Completed": 13
     }
   ],
@@ -15004,8 +15009,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-23T05:00:37.1267316+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:16.6780984+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:09:02.1868381+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:09.648683+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:57:04.4825924+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:16.6781587+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:57:05.1464456+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:09:02.186924+00:00"
 }

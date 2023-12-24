@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
@@ -3495,10 +3495,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3284,
       "NumberOfAwardsMax": 443
+    },
+    {
+      "Time": "2023-12-24T11:57:25.9277416+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3286,
+      "NumberOfAwardsMax": 443
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3284,
+  "NumberOfAwards": 3286,
   "NumberOfAwardsMax": 443,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3524,7 +3530,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 412
+      "Count": 414
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3563,9 +3569,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19091,
+  "EOS_Progressed": 19092,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16918,6 +16924,11 @@
       "Time": "2023-12-24T11:03:38.8655702+00:00",
       "NumProgressed": 19091,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-24T12:03:37.0987377+00:00",
+      "NumProgressed": 19092,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17330,7 +17341,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "WinNearFrosts",
@@ -17354,7 +17365,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "WinNearPetrified",
@@ -17401,15 +17412,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19091,
+      "Progressed": 19092,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-23T13:57:13.6733867+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:03:38.8655699+00:00",
+  "LastChanged": "2023-12-24T11:57:25.9277415+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:03:37.098737+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:57:25.2314432+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:03:38.8656771+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:57:25.927742+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:03:37.098849+00:00"
 }

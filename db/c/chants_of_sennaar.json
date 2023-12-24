@@ -5,7 +5,7 @@
   "Ranking_Rating": 59,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 246,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 11,
@@ -61,11 +61,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1703,
+  "EOS_Progressed": 1704,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 28,
-  "EOS_Completed_Percentage": 5.64,
+  "EOS_Completed_Percentage": 5.63,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5086,6 +5086,11 @@
       "Time": "2023-12-24T11:08:17.558793+00:00",
       "NumProgressed": 1703,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-12-24T12:08:03.9035326+00:00",
+      "NumProgressed": 1704,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 25,
@@ -5143,9 +5148,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 307
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5153,7 +5158,7 @@
       "Name": "Free at last",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5167,9 +5172,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 204
     },
     {
       "ID": "META_RESULT_2-4",
@@ -5185,7 +5190,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5193,7 +5198,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5207,9 +5212,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 443
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5247,9 +5252,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 443
+      "UsersEstimate": 460
     },
     {
       "ID": "PROGRESS_N1",
@@ -5257,7 +5262,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "PROGRESS_N2",
@@ -5265,7 +5270,7 @@
       "Name": "The great escape",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "PROGRESS_N3",
@@ -5296,7 +5301,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1703,
+      "Progressed": 1704,
       "Completed": 96
     }
   ],
@@ -5304,8 +5309,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:08:17.5587926+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:08:03.9035321+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:59.5589815+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:08:17.5588264+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:00:08.0301664+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:08:03.9035771+00:00"
 }

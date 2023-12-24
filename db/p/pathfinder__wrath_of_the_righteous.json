@@ -4691,9 +4691,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12695,
+  "EOS_Progressed": 12698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17861,6 +17861,11 @@
       "Time": "2023-12-24T11:09:47.7902494+00:00",
       "NumProgressed": 12695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T12:09:33.2656578+00:00",
+      "NumProgressed": 12698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17880,7 +17885,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -17888,7 +17893,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "04_FithCrusade",
@@ -18008,7 +18013,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "19_EqualToAroden",
@@ -18072,7 +18077,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "28_GreatUpstart",
@@ -18120,7 +18125,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18240,7 +18245,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "49_Flame",
@@ -18799,21 +18804,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11477,
+      "Progressed": 11480,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12695,
+      "Progressed": 12698,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-23T16:59:27.5487654+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:47.7902492+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:09:33.2656573+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:23.6343007+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:47.7904059+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:30.181416+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:09:33.2658165+00:00"
 }

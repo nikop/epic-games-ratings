@@ -11,7 +11,7 @@
 | Uncut Gem | 30.00% | ~36 |
 | Clear as Water | 27.00% | ~33 |
 | Setting Off | 25.00% | ~30 |
-| Card Collector | 22.00% | ~27 |
+| Card Collector | 23.00% | ~28 |
 | Riddlesolver | 21.00% | ~25 |
 | Dungeon Mastery | 19.00% | ~23 |
 | A Strange Proposition | 9.00% | ~11 |

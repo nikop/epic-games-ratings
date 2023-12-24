@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 961,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 196,
@@ -1149,9 +1149,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5789,
+  "EOS_Progressed": 5790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8439,6 +8439,11 @@
       "Time": "2023-12-24T11:05:48.021692+00:00",
       "NumProgressed": 5789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T12:05:45.7399268+00:00",
+      "NumProgressed": 5790,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -8555,7 +8560,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_3",
@@ -8611,14 +8616,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 5789,
+      "Progressed": 5790,
       "Completed": 0
     }
   ],
@@ -8626,8 +8631,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-24T03:59:15.0299002+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:05:48.0216916+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:05:45.7399264+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:12.8750926+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:25.0296382+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:05:48.0217341+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:31.1982293+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:05:45.7399635+00:00"
 }

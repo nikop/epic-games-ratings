@@ -6,21 +6,21 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 13.00% | ~40 |
-| Sponge Smasher | 12.00% | ~37 |
+| Spatula Seeker | 13.00% | ~41 |
+| Sponge Smasher | 12.00% | ~38 |
 | Jellyfish Jam | 9.00% | ~28 |
 | Jellyfishing | 7.00% | ~22 |
-| Life's as extreme as you wanna make it! | 6.00% | ~19 |
+| Time For Tutorial | 7.00% | ~22 |
 | Sweet Victory | 6.00% | ~19 |
-| Time For Tutorial | 6.00% | ~19 |
-| Sock Getter | 5.00% | ~15 |
-| Surf's Up! | 5.00% | ~15 |
-| Shrimp Catcher | 4.00% | ~12 |
-| Toxic Terror | 4.00% | ~12 |
-| Hit Rock Bottom | 4.00% | ~12 |
-| Squirrel Smasher | 4.00% | ~12 |
-| Star Smasher | 4.00% | ~12 |
-| Uptown and Downtown | 3.00% | ~9 |
+| Life's as extreme as you wanna make it! | 5.00% | ~16 |
+| Sock Getter | 5.00% | ~16 |
+| Surf's Up! | 5.00% | ~16 |
+| Uptown and Downtown | 4.00% | ~13 |
+| Shrimp Catcher | 4.00% | ~13 |
+| Toxic Terror | 4.00% | ~13 |
+| Hit Rock Bottom | 4.00% | ~13 |
+| Squirrel Smasher | 4.00% | ~13 |
+| Star Smasher | 4.00% | ~13 |
 | Hello, Bikini Bottom | 3.00% | ~9 |
 | Keep it Rolling | 3.00% | ~9 |
 | Super Spatula Seeker | 3.00% | ~9 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 373)  
+Progressed: 313 (Ranked 373)  
 Completed: 1 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.32%) (Ranked 245)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 309 | 1 |
+| 2023-12-24 | 313 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 496)  
 Sum: 34 (Ranked 521)  

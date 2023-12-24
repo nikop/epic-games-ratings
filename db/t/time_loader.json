@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.72,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -239,6 +239,11 @@
       "Time": "2023-12-22T17:09:22.7797825+00:00",
       "NumProgressed": 134,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T12:09:01.9726515+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -258,7 +263,7 @@
       "Name": "Soap",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "03_Cassette",
@@ -266,7 +271,7 @@
       "Name": "Cassette",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "04_Mug",
@@ -290,7 +295,7 @@
       "Name": "Photo",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "07_Contract",
@@ -314,7 +319,7 @@
       "Name": "Ticket",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "10_Flyer",
@@ -322,7 +327,7 @@
       "Name": "Flyer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "11_Itsinthevault",
@@ -368,9 +373,9 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "17_Capacitors",
@@ -384,9 +389,9 @@
       "ID": "18_SolderingIron",
       "SetID": "681m9fa",
       "Name": "Soldering iron",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "19_Harpoon",
@@ -394,7 +399,7 @@
       "Name": "Harpoon",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "20_AccessProtocol",
@@ -402,7 +407,7 @@
       "Name": "Access protocol",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "21_RobotBros",
@@ -456,9 +461,9 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "28_Act2",
@@ -466,7 +471,7 @@
       "Name": "Act 2",
       "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "29_Act3",
@@ -474,14 +479,14 @@
       "Name": "Act 3",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 9
     }
   ],
@@ -489,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:16.4905294+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:09:01.9726507+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:24.0788008+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:58:14.6065981+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:16.4905454+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:58:18.0814572+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:09:01.9726697+00:00"
 }

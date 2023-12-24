@@ -443,9 +443,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 334207,
+  "EOS_Progressed": 334238,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3910,
+  "EOS_NewPlayers": 3903,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10788,6 +10788,11 @@
       "Time": "2023-12-24T11:06:39.0697913+00:00",
       "NumProgressed": 334207,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T12:07:56.5678068+00:00",
+      "NumProgressed": 334238,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10800,7 +10805,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13368
+      "UsersEstimate": 13370
     },
     {
       "ID": "S02_BRDA",
@@ -10808,7 +10813,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10026
+      "UsersEstimate": 10027
     },
     {
       "ID": "S03_OTWA",
@@ -10936,7 +10941,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13368
+      "UsersEstimate": 13370
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11119,7 +11124,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 334207,
+      "Progressed": 334238,
       "Completed": 5
     }
   ],
@@ -11127,8 +11132,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:06:39.069791+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:07:56.5678063+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:03.6087301+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:06:39.0698664+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:10.3988231+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:07:56.5678791+00:00"
 }

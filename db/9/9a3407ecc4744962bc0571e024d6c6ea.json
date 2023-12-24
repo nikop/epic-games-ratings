@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -3129,6 +3129,11 @@
       "Time": "2023-12-24T08:10:10.1001579+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-24T12:09:14.9024411+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3141,15 +3146,15 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 698
+      "UsersEstimate": 687
     },
     {
       "ID": "BoxingClever",
@@ -3157,7 +3162,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Cartographer",
@@ -3165,7 +3170,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "Causality",
@@ -3189,7 +3194,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3219,9 +3224,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 619
+      "UsersEstimate": 631
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3245,7 +3250,7 @@
       "Name": "Outpatient",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "Relic",
@@ -3253,7 +3258,7 @@
       "Name": "Relic",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "SkeletonCrew",
@@ -3261,7 +3266,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "TerraTourGuide",
@@ -3285,7 +3290,7 @@
       "Name": "Tragedy Documented",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "WelcomeToFortSolis",
@@ -3293,21 +3298,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:29.3343199+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:09:14.9024399+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:00:03.7422122+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:29.3343423+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:00:12.1683237+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:09:14.9024681+00:00"
 }

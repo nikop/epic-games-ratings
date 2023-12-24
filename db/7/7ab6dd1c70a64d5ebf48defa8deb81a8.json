@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1153,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-12-24T11:09:43.2824337+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T12:09:28.6842949+00:00",
+      "NumProgressed": 1153,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2294,17 +2299,17 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_03",
@@ -2344,7 +2349,7 @@
       "Name": "Clear Sight",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_08",
@@ -2352,7 +2357,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_09",
@@ -2424,7 +2429,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_18",
@@ -2454,9 +2459,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_22",
@@ -2464,7 +2469,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_23",
@@ -2472,7 +2477,7 @@
       "Name": "Geared Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_24",
@@ -2512,7 +2517,7 @@
       "Name": "I Found It",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_29",
@@ -2552,7 +2557,7 @@
       "Name": "The Collector",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_35",
@@ -2583,14 +2588,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1153,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:09:43.2824334+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:09:28.6842942+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:59:13.7889015+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:09:43.2824639+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:59:20.4908203+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:09:28.6843283+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -590,6 +590,11 @@
       "Time": "2023-12-24T10:03:30.504366+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T12:03:32.5834921+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -704,9 +709,9 @@
       "ID": "COLLECT_ALL_WEAPON_HEADS",
       "SetID": "cm0d613",
       "Name": "Bladesmith",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -976,9 +981,9 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -1000,7 +1005,7 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 105
     },
@@ -1032,7 +1037,7 @@
       "ID": "USE_FLOWERING_VASCULATURE",
       "SetID": "cm0d613",
       "Name": "Transformative Nature",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1056,7 +1061,7 @@
       "ID": "WIN_STARSPIRE_TOURNAMENT",
       "SetID": "cm0d613",
       "Name": "Champion of Starspire",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -1065,7 +1070,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
@@ -1073,8 +1078,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:03:34.3163159+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:03:32.5834915+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:02:43.4741672+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:03:34.3163556+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:02:40.56909+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:03:32.5835367+00:00"
 }

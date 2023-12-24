@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 90.00% | ~105 |
+| Setting Sail | 89.00% | ~105 |
 | A Small Thirsty Thing | 13.00% | ~15 |
 | Dousing a Venerable Flame | 11.00% | ~13 |
 | Advanced Armaments | 11.00% | ~13 |
 | Spirit Within | 10.00% | ~12 |
-| Bladesmith | 9.00% | ~11 |
-| Leisis Bless You | 9.00% | ~11 |
 | Rain Must Fall | 8.00% | ~9 |
 | Overboard | 8.00% | ~9 |
+| Bladesmith | 8.00% | ~9 |
 | The Guardian of Fire | 8.00% | ~9 |
+| Leisis Bless You | 8.00% | ~9 |
 | Explorer | 6.00% | ~7 |
 | Sovereignty of Irons | 6.00% | ~7 |
 | Twin Thorns | 6.00% | ~7 |
@@ -24,8 +24,8 @@
 | Frigid Winds | 3.00% | ~4 |
 | Missing Melodies | 2.00% | ~2 |
 | Smotherly Love | 2.00% | ~2 |
-| Transformative Nature | 0.90% | ~1 |
-| Champion of Starspire | 0.90% | ~1 |
+| Transformative Nature | 0.80% | ~1 |
+| Champion of Starspire | 0.80% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 463)  
+Progressed: 118 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-19 | 114 | 0 |
 | 2023-12-20 | 115 | 0 |
 | 2023-12-23 | 116 | 0 |
-| 2023-12-24 | 117 | 0 |
+| 2023-12-24 | 118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

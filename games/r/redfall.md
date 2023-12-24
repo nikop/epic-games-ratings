@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.56 (Ranked 1,067)  
+Rating: 3.59 (Ranked 1,067)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,11 +34,11 @@ Rating: 3.56 (Ranked 1,067)
 | I Spit On Your Grave | 2.00% | ~41 |
 | Revelations | 1.00% | ~20 |
 | Contingency Plans | 1.00% | ~20 |
+| Block Party | 1.00% | ~20 |
 | Silence Is Golden | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
 | Check, Please! | 1.00% | ~20 |
 | Nice Try | 1.00% | ~20 |
-| Block Party | 0.90% | ~18 |
 | Blacklight Down | 0.90% | ~18 |
 | Curious Finch | 0.90% | ~18 |
 | What Lies Below | 0.50% | ~10 |
@@ -241,3 +241,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-18 | 3.56 | 0 | 0 |
 | 2023-12-19 | 3.57 | 0 | 0 |
 | 2023-12-21 | 3.56 | 0 | 0 |
+| 2023-12-24 | 3.59 | 0 | 0 |

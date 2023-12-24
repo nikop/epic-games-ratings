@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7665,
+  "EOS_Progressed": 7667,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6463,6 +6463,11 @@
       "Time": "2023-12-24T07:04:51.7145642+00:00",
       "NumProgressed": 7665,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-24T12:04:12.9241721+00:00",
+      "NumProgressed": 7667,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6506,7 +6511,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4064
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6522,7 +6527,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6530,7 +6535,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6538,7 +6543,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6562,7 +6567,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "AK_ON_TOWN",
@@ -6570,7 +6575,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6586,7 +6591,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -6626,7 +6631,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4294
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6642,7 +6647,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6674,7 +6679,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6682,22 +6687,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7665,
+      "Progressed": 7667,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:04:15.204858+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:04:12.9241714+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.5210526+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:03:04.5089272+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:04:15.2048996+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:03:01.8971367+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:04:12.924214+00:00"
 }

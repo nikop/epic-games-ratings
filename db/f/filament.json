@@ -378,9 +378,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207684,
+  "EOS_Progressed": 207690,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -26888,6 +26888,11 @@
       "Time": "2023-12-24T11:06:34.5071944+00:00",
       "NumProgressed": 207684,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-12-24T12:07:51.952406+00:00",
+      "NumProgressed": 207690,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 29,
@@ -26923,7 +26928,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195223
+      "UsersEstimate": 195229
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -26955,7 +26960,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -27083,7 +27088,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20768
+      "UsersEstimate": 20769
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -27107,7 +27112,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -27130,7 +27135,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207684,
+      "Progressed": 207690,
       "Completed": 547
     }
   ],
@@ -27138,8 +27143,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-23T05:00:30.6755653+00:00",
-  "LastChanged_Achievements": "2023-12-24T11:06:34.5071941+00:00",
+  "LastChanged_Achievements": "2023-12-24T12:07:51.9524052+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.0466234+00:00",
-  "LastUpdate_Ratings": "2023-12-24T10:57:17.1609429+00:00",
-  "LastUpdate_Achievements": "2023-12-24T11:06:34.5073357+00:00"
+  "LastUpdate_Ratings": "2023-12-24T11:57:18.246728+00:00",
+  "LastUpdate_Achievements": "2023-12-24T12:07:51.9525364+00:00"
 }
