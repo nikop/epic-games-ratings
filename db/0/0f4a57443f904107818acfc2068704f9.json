@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 987,
+  "EOS_Progressed": 988,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2377,6 +2377,11 @@
       "Time": "2023-12-24T06:04:42.6565924+00:00",
       "NumProgressed": 987,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T09:04:46.9604523+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2443,9 +2448,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 761
     },
     {
       "ID": "CompleteChapter10",
@@ -2461,7 +2466,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CompleteChapter12",
@@ -2517,7 +2522,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CompleteChapter18",
@@ -2533,7 +2538,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "CompleteChapter3",
@@ -2565,7 +2570,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "CompleteChapter7",
@@ -2637,7 +2642,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2684,14 +2689,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 987,
+      "Progressed": 988,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:04:23.5772811+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:04:46.9604518+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:00:08.5164917+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:04:23.5773103+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:00:20.5307532+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:04:46.9604859+00:00"
 }

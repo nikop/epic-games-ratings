@@ -37,11 +37,11 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
+| No More Nightmares | 0.50% | ~8 |
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Bears are Scary | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | Worldwalker | 0.40% | ~6 |
-| No More Nightmares | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Grillmaster | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |

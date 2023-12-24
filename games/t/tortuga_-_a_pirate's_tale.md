@@ -32,7 +32,7 @@ Rating: 3.79 (Ranked 1,059)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,305 (Ranked 154)  
+Progressed: 17,305 (Ranked 155)  
 Completed: 1 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |

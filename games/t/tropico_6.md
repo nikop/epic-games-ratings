@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,903 |
-| Un-Lonely Island | 45.00% | ~2,982 |
-| The Beginning of a Servantship | 44.00% | ~2,915 |
-| Trade Is My Trait | 36.00% | ~2,385 |
-| Number 18 | 23.00% | ~1,524 |
+| Just One...More...Term... | 74.00% | ~4,905 |
+| Un-Lonely Island | 45.00% | ~2,983 |
+| The Beginning of a Servantship | 44.00% | ~2,917 |
+| Trade Is My Trait | 36.00% | ~2,386 |
+| Number 18 | 23.00% | ~1,525 |
 | We Don't Have Time For That | 18.00% | ~1,193 |
-| The Governator | 17.00% | ~1,126 |
-| The Legend of Langostino | 16.00% | ~1,060 |
+| The Governator | 17.00% | ~1,127 |
+| The Legend of Langostino | 16.00% | ~1,061 |
 | Caribbean Comrade | 15.00% | ~994 |
 | The Dreamer of Dreams | 15.00% | ~994 |
 | Go Sovereigns! | 11.00% | ~729 |
 | For Science! | 11.00% | ~729 |
 | Happy Ending? | 10.00% | ~663 |
-| Of Seals And Men | 9.00% | ~596 |
-| Shackadelic | 9.00% | ~596 |
+| Of Seals And Men | 9.00% | ~597 |
+| Shackadelic | 9.00% | ~597 |
 | Double Trouble | 8.00% | ~530 |
 | Firestarter | 8.00% | ~530 |
 | I Owe You Nothing | 7.00% | ~464 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~53 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,626 (Ranked 192)  
+Progressed: 6,629 (Ranked 192)  
 Completed: 2 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,15 +295,15 @@ Completed: 2 (0.03%) (Ranked 349)
 | 2023-12-21 | 6,567 | 2 |
 | 2023-12-22 | 6,587 | 2 |
 | 2023-12-23 | 6,620 | 2 |
-| 2023-12-24 | 6,626 | 2 |
+| 2023-12-24 | 6,629 | 2 |
 ## Awards
-Max (Highly Recommended): 104  (Ranked 364)  
-Sum: 742 (Ranked 295)  
+Max (Highly Recommended): 105  (Ranked 363)  
+Sum: 743 (Ranked 294)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
-| This game is Highly Recommended | 104 |
+| This game is Highly Recommended | 105 |
 | This game has Quickly Understood Controls | 103 |
 | This game is Relaxing | 100 |
 | This game has Amazing Storytelling | 95 |
@@ -491,3 +491,4 @@ Diff (max vs sum): 69
 | 2023-12-16 | 4.65 | - | 104 | 740 |
 | 2023-12-17 | 4.66 | - | 104 | 741 |
 | 2023-12-21 | 4.66 | - | 104 | 742 |
+| 2023-12-24 | 4.65 | - | 105 | 743 |

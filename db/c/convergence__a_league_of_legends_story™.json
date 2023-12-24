@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1082,
+  "EOS_Progressed": 1083,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3061,6 +3061,11 @@
       "Time": "2023-12-24T05:10:55.0120545+00:00",
       "NumProgressed": 1082,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-24T09:10:48.1394575+00:00",
+      "NumProgressed": 1083,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3104,7 +3109,7 @@
       "Name": "Right On Time",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3120,7 +3125,7 @@
       "Name": "Like Clockwork",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ClovemaryGift",
@@ -3198,9 +3203,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 217
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3262,9 +3267,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 260
     },
     {
       "ID": "MapCompletion1",
@@ -3272,7 +3277,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NoCritterSump",
@@ -3432,7 +3437,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "TheaterChests1",
@@ -3448,7 +3453,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "WarwickDefeated",
@@ -3462,9 +3467,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 141
     },
     {
       "ID": "WatcherSpared",
@@ -3472,7 +3477,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3495,7 +3500,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1082,
+      "Progressed": 1083,
       "Completed": 6
     }
   ],
@@ -3503,8 +3508,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:10:21.995873+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:10:48.1394573+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:57:34.3257873+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:10:21.9959139+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:57:43.6752069+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:10:48.1395005+00:00"
 }

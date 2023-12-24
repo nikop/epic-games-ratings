@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 373)  
+Rating: 4.62 (Ranked 374)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,6 +35,7 @@ Rating: 4.62 (Ranked 373)
 | Sehiran Oasis | 2.00% | ~122 |
 | Chaos Surge | 2.00% | ~122 |
 | Spoils of War | 2.00% | ~122 |
+| God Emperor | 1.00% | ~61 |
 | Arch Mage | 1.00% | ~61 |
 | The Creator | 1.00% | ~61 |
 | Eternal Lord | 1.00% | ~61 |
@@ -45,7 +46,6 @@ Rating: 4.62 (Ranked 373)
 | Seal the Deal | 1.00% | ~61 |
 | A Conqueror's Cohort | 1.00% | ~61 |
 | Dawn of the Dread | 1.00% | ~61 |
-| God Emperor | 0.90% | ~55 |
 | Lord of Chaos | 0.90% | ~55 |
 | The Goddess of Nature | 0.90% | ~55 |
 | I've Got Everything I Need Right Here | 0.80% | ~49 |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 373)
 | One for All, All for One | 0.80% | ~49 |
 | Manufactured War | 0.70% | ~43 |
 | Duality | 0.70% | ~43 |
-| Betrayal Most Foul | 0.50% | ~30 |
+| Betrayal Most Foul | 0.50% | ~31 |
 | Snap Out of It! | 0.30% | ~18 |
 | The Magic That Empowers Me! | 0.30% | ~18 |
 | Jack of All Tomes | 0.30% | ~18 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,097 (Ranked 193)  
+Progressed: 6,101 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,15 +282,15 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,097 | 7 |
+| 2023-12-24 | 6,101 | 7 |
 ## Awards
-Max (Great for Beginners): 37  (Ranked 483)  
-Sum: 133 (Ranked 438)  
-Diff (max vs sum): 45  
+Max (Great for Beginners): 37  (Ranked 484)  
+Sum: 134 (Ranked 438)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |
-| This game has Diverse Characters | 34 |
+| This game has Diverse Characters | 35 |
 | This game is Extremely Fun | 22 |
 | This game is Highly Recommended | 20 |
 | This game has Amazing Storytelling | 20 |
@@ -371,4 +371,4 @@ Diff (max vs sum): 45
 | 2023-12-11 | 4.62 | 37 | 92 |
 | 2023-12-14 | 4.62 | 37 | 93 |
 | 2023-12-20 | 4.62 | 37 | 113 |
-| 2023-12-24 | 4.62 | 37 | 133 |
+| 2023-12-24 | 4.62 | 37 | 134 |

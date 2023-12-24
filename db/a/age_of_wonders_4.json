@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 373,
-  "Ranking_Popularity": 483,
+  "Ranking_Rating": 374,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -541,10 +541,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 133,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-12-24T08:59:23.2802675+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 134,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 133,
+  "NumberOfAwards": 134,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -558,7 +564,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
@@ -579,9 +585,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6097,
+  "EOS_Progressed": 6101,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8979,6 +8985,11 @@
       "Time": "2023-12-24T08:08:02.6027473+00:00",
       "NumProgressed": 6097,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T09:08:28.860805+00:00",
+      "NumProgressed": 6101,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9044,9 +9055,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "17",
@@ -9326,7 +9337,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "9",
@@ -9469,22 +9480,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6097,
+      "Progressed": 6101,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6097,
+      "Progressed": 6101,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-24T06:58:54.8825284+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:08:02.6027469+00:00",
+  "LastChanged": "2023-12-24T08:59:23.2802673+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:08:28.8608045+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:59:14.5926464+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:08:02.6028316+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:59:23.2802678+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:08:28.8609358+00:00"
 }

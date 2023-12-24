@@ -18,23 +18,23 @@
 | Mysterious Bungalow | 7.00% | ~7 |
 | Dynamite, Treason and Coconuts | 7.00% | ~7 |
 | Save a Friend | 7.00% | ~7 |
+| The Eyes! | 6.00% | ~6 |
+| Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
-| The Eyes! | 5.00% | ~5 |
-| Punctual | 5.00% | ~5 |
-| Keep the Doctor Away | 4.00% | ~4 |
+| Keep the Doctor Away | 5.00% | ~5 |
 | Just a Palm Tree | 4.00% | ~4 |
 | Under the Hood | 4.00% | ~4 |
 | Long Live Gaipajama! | 4.00% | ~4 |
+| Eyes Shut | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
-| Eyes Shut | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | Tintin, Reporter | 2.00% | ~2 |
 | A Diagnosis | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
+| Subtlety | 2.00% | ~2 |
 | Jungle Runner | 1.00% | ~1 |
 | Mountain Runner | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
-| Subtlety | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
@@ -42,7 +42,7 @@
 | Escaping War | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 474)  
+Progressed: 102 (Ranked 473)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |

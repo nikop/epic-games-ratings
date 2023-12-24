@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2154,17 +2154,17 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "ach_main14run_mirroruses",
       "SetID": "4hg22ll",
       "Name": "Mirror, Mirror",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_main14run_roomdamage",
@@ -2329,8 +2329,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:08:44.2594071+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:09:09.6348405+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:58:37.5494116+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:08:44.2594543+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:58:46.8464272+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:09:09.6349144+00:00"
 }

@@ -35,7 +35,7 @@
 | The Duel | 36.00% | ~226 |
 | Unstoppable Horde | 34.00% | ~214 |
 | Master of the Undead | 34.00% | ~214 |
-| If Looks Could Kill | 33.00% | ~208 |
+| If Looks Could Kill | 34.00% | ~214 |
 | The Finitude Drill | 31.00% | ~195 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~182 |
 | Doom Hill | 28.00% | ~176 |
@@ -57,8 +57,8 @@
 | To the Max! | 17.00% | ~107 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~101 |
 | Evilification | 16.00% | ~101 |
+| Mirror, Mirror | 15.00% | ~94 |
 | Untouchable | 15.00% | ~94 |
-| Mirror, Mirror | 14.00% | ~88 |
 | Heal Heal Blessing | 14.00% | ~88 |
 | Laser Eyes Are So Useless | 12.00% | ~75 |
 | Hands Off My Stones | 12.00% | ~75 |

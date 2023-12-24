@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 379)  
-Completed: 1 (0.34%) (Ranked 241)  
+Progressed: 300 (Ranked 378)  
+Completed: 1 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,10 +50,10 @@ Completed: 1 (0.34%) (Ranked 241)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 298 | 1 |
+| 2023-12-24 | 300 | 1 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 495)  
-Sum: 34 (Ranked 520)  
+Max (Great Boss Battles): 34  (Ranked 496)  
+Sum: 34 (Ranked 521)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

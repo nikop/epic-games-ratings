@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.30% | ~48 |
 | Intrepid | 0.30% | ~48 |
 | Mason | 0.30% | ~48 |
+| Noble | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
 | Hanging Gardens | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
@@ -26,10 +27,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.20% | ~32 |
 | Learned | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
-| Noble | 0.20% | ~32 |
 | Pioneer | 0.20% | ~32 |
 | Strong | 0.20% | ~32 |
 | Warrior | 0.20% | ~32 |
+| Wise | 0.20% | ~32 |
 | Developing Cities | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
 | Strong Cities | 0.20% | ~32 |
@@ -45,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
 | Judaism | 0.20% | ~32 |
+| Manichaeism | 0.20% | ~32 |
 | Babylonian Paganism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
 | Greek Paganism | 0.20% | ~32 |
@@ -61,6 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.10% | ~16 |
 | Barbarian Horde | 0.10% | ~16 |
 | United Against The Horde | 0.10% | ~16 |
+| Battle of Opis | 0.10% | ~16 |
 | Before the Mongol Horde | 0.10% | ~16 |
 | Blade of the Monkey | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
@@ -105,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
-| Wise | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
 | Good Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |
@@ -182,7 +184,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Power to the People | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
-| Manichaeism | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
 | Egyptian Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
@@ -267,7 +268,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the who? | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
-| Battle of Opis | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,918 (Ranked 161)  
+Progressed: 15,920 (Ranked 161)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -613,7 +613,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
-| 2023-12-24 | 15,918 | 5 |
+| 2023-12-24 | 15,920 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 279)  
 Sum: 1,909 (Ranked 220)  

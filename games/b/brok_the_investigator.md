@@ -9,12 +9,13 @@
 | Chapter 2 | 45.00% | ~14 |
 | Chapter 3 | 45.00% | ~14 |
 | It's In My Nature | 45.00% | ~14 |
+| Chapter 4 | 42.00% | ~13 |
 | Your Days Are Numbered | 42.00% | ~13 |
 | All Materials | 42.00% | ~13 |
-| Chapter 4 | 39.00% | ~12 |
 | Chapter 5 | 32.00% | ~10 |
 | Chapter 6 | 26.00% | ~8 |
 | Food Thief | 16.00% | ~5 |
+| Hard To Wake Up | 16.00% | ~5 |
 | Ads Fan | 13.00% | ~4 |
 | Best Student | 13.00% | ~4 |
 | Highway Survival | 13.00% | ~4 |
@@ -22,7 +23,6 @@
 | Chipmunk | 10.00% | ~3 |
 | Paw Music | 10.00% | ~3 |
 | Tramp Saver | 10.00% | ~3 |
-| Hard To Wake Up | 10.00% | ~3 |
 | Bear Cop | 6.00% | ~2 |
 | Secret Locker | 6.00% | ~2 |
 | Master of Mattresses | 0.00% | ~0 |

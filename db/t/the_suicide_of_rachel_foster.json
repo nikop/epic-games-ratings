@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1789,
+  "EOS_Progressed": 1790,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
@@ -4028,6 +4028,11 @@
       "Time": "2023-12-23T20:05:52.8497388+00:00",
       "NumProgressed": 1789,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-24T09:08:08.1640099+00:00",
+      "NumProgressed": 1790,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 11,
@@ -4039,7 +4044,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4055,7 +4060,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4063,7 +4068,7 @@
       "Name": "Spicy",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_FineEV5",
@@ -4087,7 +4092,7 @@
       "Name": "All together, again",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -4126,15 +4131,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1789,
+      "Progressed": 1790,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:07:42.0468842+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:08:08.1640095+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:21.5191836+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:58:48.9664648+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:07:42.0469278+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:58:58.1897762+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:08:08.1640403+00:00"
 }

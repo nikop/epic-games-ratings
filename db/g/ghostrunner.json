@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1485,9 +1485,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 24971,
+  "EOS_Progressed": 24972,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28190,6 +28190,11 @@
       "Time": "2023-12-24T08:08:00.2939067+00:00",
       "NumProgressed": 24971,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-24T09:08:26.6609957+00:00",
+      "NumProgressed": 24972,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 45,
@@ -28233,7 +28238,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "DeadInTheAir",
@@ -28265,7 +28270,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6493
     },
     {
       "ID": "GRProjectComplete",
@@ -28289,7 +28294,7 @@
       "Name": "Homerunner",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 10987
+      "UsersEstimate": 10988
     },
     {
       "ID": "ICallItLuck",
@@ -28337,7 +28342,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 18978
+      "UsersEstimate": 18979
     },
     {
       "ID": "MoreThanHuman",
@@ -28385,7 +28390,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10987
+      "UsersEstimate": 10988
     },
     {
       "ID": "Perfection",
@@ -28433,7 +28438,7 @@
       "Name": "Running Wild",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6493
     },
     {
       "ID": "Scrapped",
@@ -28473,7 +28478,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 15232
+      "UsersEstimate": 15233
     },
     {
       "ID": "SwordToAGunfight",
@@ -28537,7 +28542,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9988
+      "UsersEstimate": 9989
     },
     {
       "ID": "WhereHeStood",
@@ -28560,21 +28565,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 24971,
+      "Progressed": 24972,
       "Completed": 65
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 24971,
+      "Progressed": 24972,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-24T05:57:59.1594172+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:08:00.2939063+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:08:26.6609952+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.5913812+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:57:56.0744067+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:08:00.2940999+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:58:06.1213186+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:08:26.6611187+00:00"
 }

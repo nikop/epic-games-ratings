@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3707,6 +3707,11 @@
       "Time": "2023-12-24T06:09:57.8675972+00:00",
       "NumProgressed": 858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T09:10:11.8375607+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3974,7 +3979,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TrattoriaSet",
@@ -3982,7 +3987,7 @@
       "Name": "Italian Style",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "UnlockAssiette",
@@ -4037,7 +4042,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 859,
       "Completed": 0
     }
   ],
@@ -4045,8 +4050,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:09:46.0822031+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:10:11.8375602+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:01:50.7736948+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:09:46.0822428+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:02:06.187682+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:10:11.8375962+00:00"
 }

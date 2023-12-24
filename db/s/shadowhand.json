@@ -4,8 +4,8 @@
   "ProductSlug": "shadowhand",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-05T16:00:00+00:00",
     "PcReleaseDate": "2017-12-07T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:29.1283637+00:00",
   "LastChanged": "2023-03-31T05:58:29.1283638+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:30.6815116+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:59:12.6895325+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:08:55.5685659+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:59:21.4030756+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:09:20.8765232+00:00"
 }

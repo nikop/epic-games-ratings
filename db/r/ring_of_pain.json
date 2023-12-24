@@ -3748,7 +3748,7 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241574,
+  "EOS_Progressed": 241575,
   "EOS_Completed": 301,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 2,
@@ -29313,6 +29313,11 @@
       "Time": "2023-12-24T08:10:35.6867938+00:00",
       "NumProgressed": 241574,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T09:11:01.9275703+00:00",
+      "NumProgressed": 241575,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29698,9 +29703,9 @@
       "ID": "HUGESOULCOLLECTION",
       "SetID": "5l8oe0h",
       "Name": "Save Our Souls",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 1208
     },
     {
       "ID": "HUGESOULSPILL",
@@ -30074,9 +30079,9 @@
       "ID": "SPECIALROOMS10",
       "SetID": "5l8oe0h",
       "Name": "Explorer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1933
     },
     {
       "ID": "SPEEDRUN10",
@@ -30427,13 +30432,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241574,
+      "Progressed": 241575,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3054,
+      "Progressed": 3055,
       "Completed": 411
     }
   ],
@@ -30441,8 +30446,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:10:35.6867934+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:11:01.9275696+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:57:22.8331722+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:10:35.6870314+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:57:32.7947028+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:11:01.9278162+00:00"
 }

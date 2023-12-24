@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -765,9 +765,9 @@
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "Mathematic",
@@ -900,8 +900,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:06:55.6853422+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:07:21.6073161+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:03:17.3092342+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:06:55.685358+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:03:39.6134234+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:07:21.607338+00:00"
 }

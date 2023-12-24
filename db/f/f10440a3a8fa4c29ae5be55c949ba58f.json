@@ -4,8 +4,8 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1621,
+  "EOS_NewPlayers": 1635,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-12-24T08:09:27.5095686+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T09:09:53.1505984+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -381,7 +386,7 @@
       "Name": "Final Destination",
       "Percentage": 53,
       "XP": 200,
-      "UsersEstimate": 861
+      "UsersEstimate": 868
     },
     {
       "ID": "Document1",
@@ -389,7 +394,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Document2",
@@ -397,7 +402,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Document3",
@@ -413,7 +418,7 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Document5",
@@ -437,21 +442,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1638,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-24T08:09:27.5095683+00:00",
+  "LastChanged_Achievements": "2023-12-24T09:09:53.1505975+00:00",
   "LastUpdate_AppInfo": "2023-12-17T19:57:03.2997714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T07:59:37.2759757+00:00",
-  "LastUpdate_Achievements": "2023-12-24T08:09:27.5095744+00:00"
+  "LastUpdate_Ratings": "2023-12-24T08:59:45.6350765+00:00",
+  "LastUpdate_Achievements": "2023-12-24T09:09:53.1506089+00:00"
 }

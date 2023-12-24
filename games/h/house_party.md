@@ -11,7 +11,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 3.00% | ~205 |
 | Caught in the Act | 3.00% | ~205 |
 | Katherine | 3.00% | ~205 |
-| Life Found a Way | 3.00% | ~116 |
+| Life Found a Way | 3.00% | ~117 |
 | Relentless | 3.00% | ~205 |
 | If at First You Don't Succeed... | 3.00% | ~205 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~137 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,844 (Ranked 191)  
+Progressed: 6,845 (Ranked 191)  
 Completed: 3 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.04%) (Ranked 346)
 | 2023-12-21 | 6,791 | 3 |
 | 2023-12-22 | 6,811 | 3 |
 | 2023-12-23 | 6,833 | 3 |
-| 2023-12-24 | 6,844 | 3 |
+| 2023-12-24 | 6,845 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

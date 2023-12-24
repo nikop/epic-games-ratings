@@ -1,36 +1,36 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.53 (Ranked 551)  
+Rating: 4.54 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 14.00% | ~14,437 |
-| I've Had Enough! | 11.00% | ~11,343 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,250 |
-| Seasoned Fighter | 7.00% | ~7,218 |
-| All For One and One For All | 6.00% | ~6,187 |
-| A New Age | 4.00% | ~4,125 |
-| Home Sweet Home? | 4.00% | ~4,125 |
-| Oh Baby, A Triple | 3.00% | ~3,094 |
-| Battle Hardened | 2.00% | ~2,062 |
-| Master of Disguise | 2.00% | ~2,062 |
-| It's Mayhem! | 2.00% | ~2,062 |
-| Symbiotic | 2.00% | ~2,062 |
-| Cautious Veteran | 1.00% | ~1,031 |
-| Double Punch! | 1.00% | ~1,031 |
-| Martyrdom | 1.00% | ~1,031 |
-| Right back at'cha | 1.00% | ~1,031 |
-| Spectacular Finisher | 1.00% | ~1,031 |
+| All Grown Up! | 14.00% | ~14,448 |
+| I've Had Enough! | 11.00% | ~11,352 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,256 |
+| Seasoned Fighter | 7.00% | ~7,224 |
+| All For One and One For All | 6.00% | ~6,192 |
+| A New Age | 4.00% | ~4,128 |
+| Home Sweet Home? | 4.00% | ~4,128 |
+| Oh Baby, A Triple | 3.00% | ~3,096 |
+| Battle Hardened | 2.00% | ~2,064 |
+| Master of Disguise | 2.00% | ~2,064 |
+| It's Mayhem! | 2.00% | ~2,064 |
+| Symbiotic | 2.00% | ~2,064 |
+| Cautious Veteran | 1.00% | ~1,032 |
+| Double Punch! | 1.00% | ~1,032 |
+| Martyrdom | 1.00% | ~1,032 |
+| Right back at'cha | 1.00% | ~1,032 |
+| Spectacular Finisher | 1.00% | ~1,032 |
 | Katamari | 0.70% | ~722 |
 | Ninja Reflex | 0.70% | ~722 |
 | Zero-sum Game | 0.70% | ~722 |
 | Taste Your Own Medicine | 0.60% | ~619 |
-| This is GigaBash! | 0.40% | ~412 |
-| Sidetracked... | 0.40% | ~412 |
-| Eye of the Titan | 0.30% | ~309 |
-| Just Getting Warmed Up | 0.30% | ~309 |
-| Top of the Food Chain | 0.30% | ~309 |
+| This is GigaBash! | 0.40% | ~413 |
+| Sidetracked... | 0.40% | ~413 |
+| Eye of the Titan | 0.30% | ~310 |
+| Just Getting Warmed Up | 0.30% | ~310 |
+| Top of the Food Chain | 0.30% | ~310 |
 | 5 Stages of Grief | 0.10% | ~103 |
 | Bastion of Humanity | 0.10% | ~103 |
 | Keeper of Knowledge | 0.10% | ~103 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 551)
 | What's Mine is Yours | 0.10% | ~103 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,119 (Ranked 94)  
+Progressed: 103,200 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,14 +60,14 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 98,723 | 0 |
 | 2023-12-22 | 100,514 | 0 |
 | 2023-12-23 | 102,487 | 0 |
-| 2023-12-24 | 103,119 | 0 |
+| 2023-12-24 | 103,200 | 0 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 495)  
-Sum: 34 (Ranked 520)  
-Diff (max vs sum): -25  
+Max (Great Boss Battles): 38  (Ranked 476)  
+Sum: 38 (Ranked 514)  
+Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 34 |
+| This game has Great Boss Battles | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -104,3 +104,4 @@ Diff (max vs sum): -25
 | 2023-12-21 | 4.54 | 33 | 33 |
 | 2023-12-22 | 4.54 | 34 | 34 |
 | 2023-12-23 | 4.53 | 34 | 34 |
+| 2023-12-24 | 4.54 | 38 | 38 |

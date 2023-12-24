@@ -6,8 +6,8 @@ Rating: 4.27 (Ranked 882)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Storm Warning | 50.00% | ~152 |
+| Dirty Roller | 28.00% | ~85 |
 | Regional Juniors Champion | 27.00% | ~82 |
-| Dirty Roller | 27.00% | ~82 |
 | Wheeler Dealer | 22.00% | ~67 |
 | Look Mom, I Can Fly | 20.00% | ~61 |
 | Highballer | 20.00% | ~61 |

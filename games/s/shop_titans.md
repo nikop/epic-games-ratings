@@ -19,13 +19,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,366 |
 | Budding Merchant | 5.00% | ~7,366 |
 | Own the Means of Production | 5.00% | ~7,366 |
-| The Daily Grind | 4.00% | ~5,892 |
-| Bounty Hunters | 4.00% | ~5,892 |
-| Flooding the Market | 4.00% | ~5,892 |
-| Where it Hurts | 4.00% | ~5,892 |
-| One-Armed Bandit | 4.00% | ~5,892 |
-| Dungeon Imports | 4.00% | ~5,892 |
-| Through Repetition, Perfection | 4.00% | ~5,892 |
+| The Daily Grind | 4.00% | ~5,893 |
+| Bounty Hunters | 4.00% | ~5,893 |
+| Flooding the Market | 4.00% | ~5,893 |
+| Where it Hurts | 4.00% | ~5,893 |
+| One-Armed Bandit | 4.00% | ~5,893 |
+| Dungeon Imports | 4.00% | ~5,893 |
+| Through Repetition, Perfection | 4.00% | ~5,893 |
 | On the Path to Greatness | 3.00% | ~4,419 |
 | Ascended | 3.00% | ~4,419 |
 | Research & Development | 3.00% | ~4,419 |
@@ -107,7 +107,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,473 |
 | The Greatest Grind | 0.90% | ~1,326 |
 | All or Nothing! | 0.90% | ~1,326 |
-| Marvels from the World Over | 0.80% | ~1,178 |
+| Marvels from the World Over | 0.80% | ~1,179 |
 | Bane of Legends | 0.70% | ~1,031 |
 | Anything not Nailed Down | 0.70% | ~1,031 |
 | Ultimate Collector | 0.60% | ~884 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~589 |
 | Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,311 (Ranked 83)  
+Progressed: 147,313 (Ranked 83)  
 Completed: 331 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,7 +367,7 @@ Completed: 331 (0.22%) (Ranked 269)
 | 2023-12-21 | 146,796 | 328 |
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
-| 2023-12-24 | 147,311 | 331 |
+| 2023-12-24 | 147,313 | 331 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 75)  
 Sum: 27,794 (Ranked 51)  

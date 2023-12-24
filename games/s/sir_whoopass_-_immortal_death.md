@@ -24,8 +24,8 @@
 | Honk honk! | 51.00% | ~69 |
 | Cockadoodledoo! | 51.00% | ~69 |
 | Butcher | 50.00% | ~68 |
+| Spare Ribs | 50.00% | ~68 |
 | Thats disgusting! | 49.00% | ~67 |
-| Spare Ribs | 49.00% | ~67 |
 | Self assessed tax return | 45.00% | ~61 |
 | My pants squeak when I walk | 45.00% | ~61 |
 | Surprise!! | 43.00% | ~58 |
