@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 1368,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4123,9 +4123,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1053
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -4259,9 +4259,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1026
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -4363,9 +4363,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 889
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -4428,8 +4428,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:04:51.0709834+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:07:46.1792078+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:11.0322445+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:04:51.0710653+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:40.7930558+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:07:46.179298+00:00"
 }

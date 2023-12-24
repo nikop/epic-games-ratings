@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -215,7 +215,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2772,
+  "EOS_Progressed": 2774,
   "EOS_Completed": 193,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 5,
@@ -4385,6 +4385,11 @@
       "Time": "2023-12-24T11:04:18.4577279+00:00",
       "NumProgressed": 2772,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-12-24T13:07:08.7652702+00:00",
+      "NumProgressed": 2774,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 12,
@@ -4396,7 +4401,7 @@
       "Name": "001",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "002",
@@ -4444,7 +4449,7 @@
       "Name": "007",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "008",
@@ -4452,7 +4457,7 @@
       "Name": "008",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "009",
@@ -4491,7 +4496,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2772,
+      "Progressed": 2774,
       "Completed": 193
     }
   ],
@@ -4499,8 +4504,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:04:16.2809425+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:07:08.7652698+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:34.0629887+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:00.0838533+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:04:16.2809706+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:28.0389806+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:07:08.7652972+00:00"
 }

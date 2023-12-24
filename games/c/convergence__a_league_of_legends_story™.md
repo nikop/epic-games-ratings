@@ -5,7 +5,7 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~433 |
+| Time Heals All Wounds | 40.00% | ~434 |
 | Rail Rat | 30.00% | ~325 |
 | The Mysterious Stranger | 29.00% | ~314 |
 | Immaculate Aim | 25.00% | ~271 |
@@ -21,7 +21,7 @@ Rating: 4.65 (Ranked 320)
 | Breaking Down Barriers | 22.00% | ~238 |
 | The Wicked Twins | 22.00% | ~238 |
 | Fast Learner | 22.00% | ~238 |
-| Golem Chaser | 21.00% | ~227 |
+| Golem Chaser | 21.00% | ~228 |
 | Right On Time | 20.00% | ~217 |
 | Like Clockwork | 20.00% | ~217 |
 | The Betrayer | 20.00% | ~217 |
@@ -30,7 +30,7 @@ Rating: 4.65 (Ranked 320)
 | The Man Who Shattered Time | 18.00% | ~195 |
 | The Family Fortune | 18.00% | ~195 |
 | Street Style | 17.00% | ~184 |
-| Whiz Kid | 15.00% | ~162 |
+| Whiz Kid | 15.00% | ~163 |
 | Cartographer | 14.00% | ~152 |
 | Good Neighbor | 14.00% | ~152 |
 | Treasure Trove | 13.00% | ~141 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 320)
 | Factorywood Explorer | 10.00% | ~108 |
 | Fairgrounds Explorer | 10.00% | ~108 |
 | Theater Explorer | 10.00% | ~108 |
-| Cultivair Explorer | 9.00% | ~97 |
+| Cultivair Explorer | 9.00% | ~98 |
 | Corin Goes Home | 8.00% | ~87 |
 | Sartorialist | 8.00% | ~87 |
 | Entresol Explorer | 8.00% | ~87 |
@@ -56,10 +56,10 @@ Rating: 4.65 (Ranked 320)
 | No Time to Waste | 1.00% | ~11 |
 | A Lesson in Precision | 0.90% | ~10 |
 | Wildlife Protection | 0.70% | ~8 |
-| Going to Live Forever | 0.60% | ~6 |
-| Raw Talent | 0.60% | ~6 |
+| Going to Live Forever | 0.60% | ~7 |
+| Raw Talent | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 278)  
+Progressed: 1,084 (Ranked 277)  
 Completed: 6 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 6 (0.55%) (Ranked 207)
 | 2023-12-21 | 1,057 | 6 |
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
-| 2023-12-24 | 1,083 | 6 |
+| 2023-12-24 | 1,084 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

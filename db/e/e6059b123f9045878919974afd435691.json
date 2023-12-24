@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1204,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3181,9 +3181,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 614
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3213,9 +3213,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 518
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3453,9 +3453,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 674
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3708,8 +3708,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:33.5577977+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:28.3790268+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:27.1672033+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:33.5578657+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:05.9343602+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:28.3790979+00:00"
 }

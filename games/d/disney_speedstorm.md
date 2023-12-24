@@ -5,33 +5,33 @@ Rating: 4.41 (Ranked 736)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~46,811 |
-| IT MAKES BOOM! | 8.00% | ~28,807 |
-| EXTRA BOOST | 6.00% | ~21,605 |
-| PROTECTED | 5.00% | ~18,004 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,403 |
-| PRO | 4.00% | ~14,403 |
-| AGGRESSIVE RACER | 3.00% | ~10,803 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,202 |
-| A TIGER'S FEAR | 2.00% | ~7,202 |
-| TRAINING HARD | 1.00% | ~3,601 |
-| RELEASE THE KRAKEN | 1.00% | ~3,601 |
-| BE OUR GUEST | 1.00% | ~3,601 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,601 |
-| ACE SPEEDSTER | 1.00% | ~3,601 |
-| ACE DEFENDER | 1.00% | ~3,601 |
-| FRIENDLY | 1.00% | ~3,601 |
-| MASTER | 1.00% | ~3,601 |
-| LEGENDARY HERO | 1.00% | ~3,601 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,241 |
-| EXPERIENCED CREW | 0.80% | ~2,881 |
-| ACE BRAWLER | 0.80% | ~2,881 |
+| ROOKIE | 13.00% | ~46,830 |
+| IT MAKES BOOM! | 8.00% | ~28,818 |
+| EXTRA BOOST | 6.00% | ~21,614 |
+| PROTECTED | 5.00% | ~18,012 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,409 |
+| PRO | 4.00% | ~14,409 |
+| AGGRESSIVE RACER | 3.00% | ~10,807 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,205 |
+| A TIGER'S FEAR | 2.00% | ~7,205 |
+| TRAINING HARD | 1.00% | ~3,602 |
+| RELEASE THE KRAKEN | 1.00% | ~3,602 |
+| BE OUR GUEST | 1.00% | ~3,602 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,602 |
+| ACE SPEEDSTER | 1.00% | ~3,602 |
+| ACE DEFENDER | 1.00% | ~3,602 |
+| FRIENDLY | 1.00% | ~3,602 |
+| MASTER | 1.00% | ~3,602 |
+| LEGENDARY HERO | 1.00% | ~3,602 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,242 |
+| EXPERIENCED CREW | 0.80% | ~2,882 |
+| ACE BRAWLER | 0.80% | ~2,882 |
 | FRAMED! | 0.60% | ~2,161 |
 | ACE TRICKSTER | 0.60% | ~2,161 |
-| PERFECTLY POISED | 0.50% | ~1,800 |
+| PERFECTLY POISED | 0.50% | ~1,801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,084 (Ranked 49)  
-Completed: 1,134 (0.31%) (Ranked 247)  
+Progressed: 360,231 (Ranked 49)  
+Completed: 1,137 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 1,134 (0.31%) (Ranked 247)
 | 2023-12-21 | 351,816 | 1,034 |
 | 2023-12-22 | 355,249 | 1,072 |
 | 2023-12-23 | 358,744 | 1,115 |
-| 2023-12-24 | 360,084 | 1,134 |
+| 2023-12-24 | 360,231 | 1,137 |
 ## Awards
 Max (Great for Beginners): 150  (Ranked 322)  
 Sum: 981 (Ranked 266)  

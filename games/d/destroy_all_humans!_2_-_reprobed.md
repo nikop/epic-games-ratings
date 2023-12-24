@@ -20,7 +20,7 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 18.00% | ~31 |
 | Freshly Squeezed | 16.00% | ~28 |
 | Perfect Probulator | 15.00% | ~26 |
-| Die Nasty | 14.00% | ~24 |
+| Die Nasty | 15.00% | ~26 |
 | Transmitting From Sol-3 | 12.00% | ~21 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~17 |
 | Dusted | 10.00% | ~17 |

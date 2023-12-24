@@ -13,13 +13,13 @@ Number of Ratings: 67  (23.09.2022)
 | Hell's Forge | 1.00% | ~2 |
 | Mammon | 1.00% | ~2 |
 | Master of War | 1.00% | ~2 |
-| Demolition Derby | 0.60% | ~1 |
-| Good Deeds | 0.60% | ~1 |
-| Infested | 0.60% | ~1 |
-| Master of Strife | 0.60% | ~1 |
-| Mint II | 0.60% | ~1 |
-| The Dead Court | 0.60% | ~1 |
-| Why'd It Have to Be Snakes? | 0.60% | ~1 |
+| Demolition Derby | 0.50% | ~1 |
+| Good Deeds | 0.50% | ~1 |
+| Infested | 0.50% | ~1 |
+| Master of Strife | 0.50% | ~1 |
+| Mint II | 0.50% | ~1 |
+| The Dead Court | 0.50% | ~1 |
+| Why'd It Have to Be Snakes? | 0.50% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
 | Are You Not Entertained? | 0.00% | ~0 |
 | Belial | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 415)  
+Progressed: 183 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 113 | 0 |
 | 2023-12-22 | 138 | 0 |
 | 2023-12-23 | 171 | 0 |
-| 2023-12-24 | 180 | 0 |
+| 2023-12-24 | 183 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 458)  
 Sum: 45 (Ranked 505)  

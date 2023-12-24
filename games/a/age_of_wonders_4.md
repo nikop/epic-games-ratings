@@ -17,13 +17,14 @@ Rating: 4.62 (Ranked 374)
 | Stronger Together | 4.00% | ~245 |
 | Magical Synergy | 4.00% | ~245 |
 | Seat of Power | 4.00% | ~245 |
+| In a Liege of Your Own | 4.00% | ~245 |
 | Valley of Wonders | 3.00% | ~183 |
-| In a Liege of Your Own | 3.00% | ~183 |
 | Intimidation Tactics | 3.00% | ~183 |
 | Freed Lands of Manuhari | 3.00% | ~183 |
 | Return of the Wizard King | 2.00% | ~122 |
 | Enchanted Archipelago | 2.00% | ~122 |
 | Digging for Treasure | 2.00% | ~122 |
+| Crimson Caldera | 2.00% | ~122 |
 | Preparation Is Everything | 2.00% | ~122 |
 | My Final Form | 2.00% | ~122 |
 | Fiery Friend | 2.00% | ~122 |
@@ -39,7 +40,6 @@ Rating: 4.62 (Ranked 374)
 | Arch Mage | 1.00% | ~61 |
 | The Creator | 1.00% | ~61 |
 | Eternal Lord | 1.00% | ~61 |
-| Crimson Caldera | 1.00% | ~61 |
 | The Eternal Court | 1.00% | ~61 |
 | Blood of the Dragon | 1.00% | ~61 |
 | Prometheus Avenged | 1.00% | ~61 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,113 (Ranked 193)  
-Completed: 7 (0.11%) (Ranked 303)  
+Progressed: 6,115 (Ranked 193)  
+Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,7 +282,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-21 | 5,945 | 7 |
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
-| 2023-12-24 | 6,113 | 7 |
+| 2023-12-24 | 6,115 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 476)  
 Sum: 135 (Ranked 438)  

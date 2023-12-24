@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1153,8 +1153,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:07:39.183946+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:10:24.6519811+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:59:24.7830854+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:07:39.183973+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:02:08.6708855+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:10:24.6519994+00:00"
 }

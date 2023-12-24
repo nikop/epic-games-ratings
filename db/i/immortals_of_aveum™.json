@@ -5,8 +5,8 @@
   "Ranking_Rating": 929,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
@@ -283,11 +283,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1739,
+  "EOS_Progressed": 1744,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -2973,6 +2973,11 @@
       "Time": "2023-12-24T12:09:11.4481992+00:00",
       "NumProgressed": 1739,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T13:12:04.7340583+00:00",
+      "NumProgressed": 1744,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -2985,7 +2990,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1535
     },
     {
       "ID": "achievement_10",
@@ -2993,7 +2998,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_11",
@@ -3001,7 +3006,7 @@
       "Name": "The Means to Save It",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_12",
@@ -3017,7 +3022,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_14",
@@ -3025,7 +3030,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_15",
@@ -3065,7 +3070,7 @@
       "Name": "Socialite",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "achievement_2",
@@ -3073,7 +3078,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1413
     },
     {
       "ID": "achievement_20",
@@ -3127,9 +3132,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1168
     },
     {
       "ID": "achievement_36",
@@ -3143,17 +3148,17 @@
       "ID": "achievement_37",
       "SetID": "18al4io",
       "Name": "Kitted Out",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_4",
@@ -3161,7 +3166,7 @@
       "Name": "No More Names",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 872
     },
     {
       "ID": "achievement_41",
@@ -3193,7 +3198,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_45",
@@ -3201,7 +3206,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_46",
@@ -3217,7 +3222,7 @@
       "Name": "Enlisted",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1273
     },
     {
       "ID": "achievement_49",
@@ -3225,7 +3230,7 @@
       "Name": "Soldier",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_5",
@@ -3233,7 +3238,7 @@
       "Name": "Initiate",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "achievement_50",
@@ -3281,7 +3286,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 541
     },
     {
       "ID": "achievement_60",
@@ -3329,7 +3334,7 @@
       "Name": "Good Boy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_7",
@@ -3337,7 +3342,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_8",
@@ -3345,7 +3350,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_9",
@@ -3353,14 +3358,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1739,
+      "Progressed": 1744,
       "Completed": 2
     }
   ],
@@ -3368,8 +3373,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-24T05:57:12.2889182+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:11.4481987+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:04.7340577+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.6657855+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:01.6720598+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:11.448247+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:29.9511945+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:04.7340948+00:00"
 }

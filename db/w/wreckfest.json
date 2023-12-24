@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-12-24T11:08:20.6176509+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:10:54.7175784+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -962,7 +967,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CareerChamp2",
@@ -970,7 +975,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CareerChamp3",
@@ -1000,17 +1005,17 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "CollectVehiclesB",
@@ -1026,7 +1031,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GetWreckedA",
@@ -1105,7 +1110,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
@@ -1113,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:06.8283178+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:10:54.717578+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:51.7349182+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:06.8283305+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:32.5933331+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:10:54.7175913+00:00"
 }

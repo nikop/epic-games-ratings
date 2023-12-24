@@ -14,7 +14,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger waiting | 65.00% | ~1,386 |
 | First bus arrived | 64.00% | ~1,364 |
 | First train station | 61.00% | ~1,301 |
-| First steam train arrived | 57.00% | ~1,215 |
+| First steam train arrived | 58.00% | ~1,237 |
 | First industry upgraded | 54.00% | ~1,151 |
 | Transport millionaire | 53.00% | ~1,130 |
 | Cadet | 53.00% | ~1,130 |
@@ -37,7 +37,7 @@ Number of Ratings: 180  (23.09.2022)
 | City | 27.00% | ~576 |
 | The king of the sea | 27.00% | ~576 |
 | Transport tycoon | 22.00% | ~469 |
-| Old timer | 21.00% | ~448 |
+| Old timer | 22.00% | ~469 |
 | The ugly smell of success | 21.00% | ~448 |
 | Climate change | 20.00% | ~426 |
 | Heavily loaded | 20.00% | ~426 |
@@ -304,7 +304,7 @@ Completed: 1 (0.05%) (Ranked 335)
 | 2023-12-24 | 2,132 | 1 |
 ## Awards
 Max (Great for Beginners): 48  (Ranked 451)  
-Sum: 327 (Ranked 365)  
+Sum: 328 (Ranked 365)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -312,8 +312,8 @@ Diff (max vs sum): 86
 | This game is Highly Recommended | 45 |
 | This game has Amazing Storytelling | 39 |
 | This game is Extremely Fun | 38 |
+| This game is Relaxing | 35 |
 | This game has Quickly Understood Controls | 35 |
-| This game is Relaxing | 34 |
 | This game has a Creative Community | 32 |
 | This game is Educational | 30 |
 | This game has Amazing Characters | 26 |
@@ -436,3 +436,4 @@ Diff (max vs sum): 86
 | 2023-12-19 | 4.68 | - | 47 | 324 |
 | 2023-12-20 | 4.68 | - | 48 | 325 |
 | 2023-12-22 | 4.68 | - | 48 | 327 |
+| 2023-12-24 | 4.68 | - | 48 | 328 |

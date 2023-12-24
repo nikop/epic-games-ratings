@@ -15,12 +15,12 @@
 | Terminated III | 16.00% | ~143 |
 | Nanonic II | 13.00% | ~116 |
 | Fully Modded | 11.00% | ~98 |
+| Supply Run | 11.00% | ~98 |
 | Starship Docks | 10.00% | ~89 |
 | Nanonic III | 10.00% | ~89 |
-| Supply Run | 10.00% | ~89 |
+| Cybernetic | 9.00% | ~80 |
 | Rookie | 9.00% | ~80 |
 | The Bigger They Are | 8.00% | ~72 |
-| Cybernetic | 8.00% | ~72 |
 | Eden Heights | 6.00% | ~54 |
 | Up Close And Personal | 6.00% | ~54 |
 | Outer Core | 5.00% | ~45 |

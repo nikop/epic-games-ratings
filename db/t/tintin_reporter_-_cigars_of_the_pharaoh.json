@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -545,9 +545,9 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement17",
@@ -569,9 +569,9 @@
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 85,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement2",
@@ -761,17 +761,17 @@
       "ID": "Achievement7",
       "SetID": "9fa3l5n",
       "Name": "It\u0027s a Deal!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement9",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:04:52.0183585+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:07:47.2822107+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:59:10.006531+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:04:52.0183843+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:53.1840362+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:07:47.2822372+00:00"
 }

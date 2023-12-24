@@ -2,9 +2,9 @@
   "ID": "84675ff3b0cd4f26bf1f655da1b6265f",
   "Name": "Outbreak The Nightmare Chronicles Reinvestigated",
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
-  "Ranking_EOS_Progress": 602,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 533,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42,6 +42,11 @@
       "Time": "2023-12-16T18:03:37.2539773+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:10:28.7668796+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.1130841+00:00",
@@ -52,15 +57,15 @@
       "ID": "A_CLUE_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Clue",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "A_MOMENT_OF_REST_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Moment of Rest",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -68,7 +73,7 @@
       "ID": "A_NIGHTMARE_REVISITED_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Nightmare Reinvestigated.",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 120,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "CLEVER_GIRL_ACH",
       "SetID": "2gpm4c0",
       "Name": "Clever Girl",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 70,
       "UsersEstimate": 8
     },
@@ -100,7 +105,7 @@
       "ID": "HOLD_THE_LINE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Hold the Line!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -108,7 +113,7 @@
       "ID": "KEEP_FIRING_ACH",
       "SetID": "2gpm4c0",
       "Name": "Keep Firing!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "MEDIC_ACH",
       "SetID": "2gpm4c0",
       "Name": "Medic!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -124,7 +129,7 @@
       "ID": "QUITE_THE_DETECTIVE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Quite the Detective",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -132,9 +137,9 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "YOURE_PROBABLY_CHEATING_ACH",
@@ -149,13 +154,13 @@
     {
       "ID": "2gpm4c0",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:07:43.1085085+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:10:28.766879+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:03.8890212+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:50.7825397+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:07:43.1085184+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:31.5267101+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:10:28.7668876+00:00"
 }

@@ -9,8 +9,8 @@ Rating: 4.50 (Ranked 601)
 | I Broke It | 73.00% | ~956 |
 | Better On Ice | 68.00% | ~891 |
 | Blue Dreams | 66.00% | ~865 |
+| He's Famous! | 66.00% | ~865 |
 | Notai Notes | 66.00% | ~865 |
-| He's Famous! | 65.00% | ~852 |
 | Cutie Poro | 65.00% | ~852 |
 | Krugmazing | 64.00% | ~838 |
 | The Fire Below the Mountain | 61.00% | ~799 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 601)
 | We Are Speed | 2.00% | ~26 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,310 (Ranked 261)  
+Progressed: 1,310 (Ranked 262)  
 Completed: 9 (0.69%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 860)  
+Rating: 4.29 (Ranked 861)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,10 +34,10 @@ Rating: 4.29 (Ranked 860)
 | The Great Winter | 0.60% | ~8 |
 | Red Tape | 0.60% | ~8 |
 | Knowledge is Power | 0.60% | ~8 |
+| Ice and Fire | 0.30% | ~4 |
 | It's spreading | 0.30% | ~4 |
 | The Flail | 0.30% | ~4 |
 | The Incarnate | 0.30% | ~4 |
-| Ice and Fire | 0.20% | ~3 |
 | Mad Engineers | 0.20% | ~3 |
 | Aesthetics | 0.20% | ~3 |
 | The experiment | 0.20% | ~3 |

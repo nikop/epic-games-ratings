@@ -9,7 +9,7 @@
 | For the Horde! | 83.00% | ~523 |
 | Hammer Time, Round Two | 81.00% | ~510 |
 | The Hellwoods | 77.00% | ~485 |
-| The Plains of Strothalm | 70.00% | ~441 |
+| The Plains of Strothalm | 71.00% | ~447 |
 | Experienced Thalya | 70.00% | ~441 |
 | Thalya's Concentrated Fury | 69.00% | ~435 |
 | Bad Elves Go Everywhere | 67.00% | ~422 |
@@ -35,7 +35,7 @@
 | The Duel | 37.00% | ~233 |
 | Unstoppable Horde | 34.00% | ~214 |
 | Master of the Undead | 34.00% | ~214 |
-| If Looks Could Kill | 33.00% | ~208 |
+| If Looks Could Kill | 34.00% | ~214 |
 | The Finitude Drill | 30.00% | ~189 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~183 |
 | Doom Hill | 28.00% | ~176 |

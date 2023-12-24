@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 87.00% | ~41 |
-| Suicide squad | 55.00% | ~26 |
-| Train hard, fight easy | 30.00% | ~14 |
-| Under cover | 30.00% | ~14 |
-| First blood | 30.00% | ~14 |
-| All for one! | 26.00% | ~12 |
-| Royal blessing | 26.00% | ~12 |
+| First success | 85.00% | ~41 |
+| Suicide squad | 54.00% | ~26 |
+| Train hard, fight easy | 29.00% | ~14 |
+| Under cover | 29.00% | ~14 |
+| First blood | 29.00% | ~14 |
+| All for one! | 25.00% | ~12 |
+| Royal blessing | 25.00% | ~12 |
 | A hidden snake | 23.00% | ~11 |
 | Blood and sand | 23.00% | ~11 |
 | Vene, vidi, vici | 19.00% | ~9 |
@@ -22,14 +22,14 @@
 | Berkanan Borgia | 15.00% | ~7 |
 | Trial by cold | 15.00% | ~7 |
 | The champion of the arena | 13.00% | ~6 |
-| Stronger than Gellian steel | 11.00% | ~5 |
-| Rage | 11.00% | ~5 |
-| Protect the Healer! | 11.00% | ~5 |
-| For the greater good | 9.00% | ~4 |
-| Collector | 9.00% | ~4 |
-| Overplay the rogue | 9.00% | ~4 |
-| Punish the Punisher | 9.00% | ~4 |
-| The End | 9.00% | ~4 |
+| Stronger than Gellian steel | 10.00% | ~5 |
+| Rage | 10.00% | ~5 |
+| Protect the Healer! | 10.00% | ~5 |
+| For the greater good | 8.00% | ~4 |
+| Collector | 8.00% | ~4 |
+| Overplay the rogue | 8.00% | ~4 |
+| Punish the Punisher | 8.00% | ~4 |
+| The End | 8.00% | ~4 |
 | The best apprentice | 6.00% | ~3 |
 | First among Frisians | 6.00% | ~3 |
 | Defeat the bear | 6.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 543)  
+Progressed: 48 (Ranked 542)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 43 | 0 |
 | 2023-12-22 | 46 | 0 |
 | 2023-12-23 | 47 | 0 |
+| 2023-12-24 | 48 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

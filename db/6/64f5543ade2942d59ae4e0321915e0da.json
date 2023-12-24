@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 230,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1172,9 +1172,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1307,8 +1307,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:04:21.8244296+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:07:14.7381587+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:26.6723599+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:04:21.8244554+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:05.354473+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:07:14.7381839+00:00"
 }

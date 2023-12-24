@@ -1,52 +1,52 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 676)  
+Rating: 4.45 (Ranked 677)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~398,786 |
-| Happy Returns | 78.00% | ~384,017 |
-| Hey! That's mine! | 78.00% | ~384,017 |
-| Field Promotion | 74.00% | ~364,323 |
-| Leadhead | 71.00% | ~349,554 |
-| Eradicator | 67.00% | ~329,860 |
-| Surplus | 66.00% | ~324,937 |
-| I Spy | 64.00% | ~315,091 |
-| Burn Baby Burn | 59.00% | ~290,474 |
-| Yellow Beats Green | 56.00% | ~275,704 |
-| Salvage Rights | 53.00% | ~260,934 |
-| What IS that? | 51.00% | ~251,088 |
-| Close Call | 50.00% | ~246,164 |
-| Pew Pew | 50.00% | ~246,164 |
-| Penny Pincher | 49.00% | ~241,241 |
-| Arsenal | 46.00% | ~226,471 |
-| Boot Camp | 45.00% | ~221,548 |
-| Flawless Victory | 42.00% | ~206,778 |
-| Confident | 41.00% | ~201,855 |
-| Exterminator | 36.00% | ~177,238 |
-| Sharpshooter | 34.00% | ~167,392 |
-| Not So Fast | 33.00% | ~162,469 |
-| Great Ball of Fire | 32.00% | ~157,545 |
-| No Sale | 31.00% | ~152,622 |
-| Kaboom! | 30.00% | ~147,699 |
-| Liquidator | 29.00% | ~142,775 |
-| High Voltage | 24.00% | ~118,159 |
-| Filthy Rich | 20.00% | ~98,466 |
-| Pyrrhic Victory | 18.00% | ~88,619 |
-| The Not-So-Friendly Skies | 18.00% | ~88,619 |
-| Power Builder | 17.00% | ~83,696 |
-| Death From Above | 16.00% | ~78,773 |
-| Retry | 16.00% | ~78,773 |
-| Head Trauma | 12.00% | ~59,079 |
-| Full Defense | 10.00% | ~49,233 |
+| First Blood | 81.00% | ~398,792 |
+| Happy Returns | 78.00% | ~384,022 |
+| Hey! That's mine! | 78.00% | ~384,022 |
+| Field Promotion | 74.00% | ~364,329 |
+| Leadhead | 71.00% | ~349,559 |
+| Eradicator | 67.00% | ~329,865 |
+| Surplus | 66.00% | ~324,942 |
+| I Spy | 64.00% | ~315,095 |
+| Burn Baby Burn | 59.00% | ~290,478 |
+| Yellow Beats Green | 56.00% | ~275,708 |
+| Salvage Rights | 53.00% | ~260,938 |
+| What IS that? | 51.00% | ~251,091 |
+| Close Call | 50.00% | ~246,168 |
+| Pew Pew | 50.00% | ~246,168 |
+| Penny Pincher | 49.00% | ~241,245 |
+| Arsenal | 46.00% | ~226,475 |
+| Boot Camp | 45.00% | ~221,551 |
+| Flawless Victory | 42.00% | ~206,781 |
+| Confident | 41.00% | ~201,858 |
+| Exterminator | 36.00% | ~177,241 |
+| Sharpshooter | 34.00% | ~167,394 |
+| Not So Fast | 33.00% | ~162,471 |
+| Great Ball of Fire | 32.00% | ~157,548 |
+| No Sale | 31.00% | ~152,624 |
+| Kaboom! | 30.00% | ~147,701 |
+| Liquidator | 29.00% | ~142,777 |
+| High Voltage | 24.00% | ~118,161 |
+| Filthy Rich | 20.00% | ~98,467 |
+| Pyrrhic Victory | 18.00% | ~88,620 |
+| The Not-So-Friendly Skies | 18.00% | ~88,620 |
+| Power Builder | 17.00% | ~83,697 |
+| Death From Above | 16.00% | ~78,774 |
+| Retry | 16.00% | ~78,774 |
+| Head Trauma | 12.00% | ~59,080 |
+| Full Defense | 10.00% | ~49,234 |
 | Overseer | 9.00% | ~44,310 |
-| Annihilator | 8.00% | ~39,386 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,386 |
+| Annihilator | 8.00% | ~39,387 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,387 |
 | Indecisive | 6.00% | ~29,540 |
-| Base Defender | 5.00% | ~24,616 |
-| Relay Race | 5.00% | ~24,616 |
+| Base Defender | 5.00% | ~24,617 |
+| Relay Race | 5.00% | ~24,617 |
 | Tower Expert | 4.00% | ~19,693 |
 | Diversity | 3.00% | ~14,770 |
 | Full Potential | 3.00% | ~14,770 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~492 |
 | You Monster | 0.10% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492,329 (Ranked 39)  
+Progressed: 492,336 (Ranked 39)  
 Completed: 5 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 5 (0.00%) (Ranked 388)
 | 2023-12-21 | 492,139 | 5 |
 | 2023-12-22 | 492,214 | 5 |
 | 2023-12-23 | 492,293 | 5 |
-| 2023-12-24 | 492,329 | 5 |
+| 2023-12-24 | 492,336 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 270)  
 Sum: 1,737 (Ranked 222)  

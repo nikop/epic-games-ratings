@@ -13,11 +13,11 @@ Number of Ratings: 209  (23.09.2022)
 | Rocket Launched | 97.00% | ~2,313 |
 | Speed | 97.00% | ~2,313 |
 | Pickaxe | 94.00% | ~2,242 |
+| Revenge | 94.00% | ~2,242 |
 | Cage Town | 94.00% | ~2,242 |
 | Force Beam | 93.00% | ~2,218 |
 | Entered Cage Town | 93.00% | ~2,218 |
 | Stone Pickaxe | 93.00% | ~2,218 |
-| Revenge | 93.00% | ~2,218 |
 | Surprise | 93.00% | ~2,218 |
 | Magnet | 91.00% | ~2,170 |
 | Industrial Area | 90.00% | ~2,146 |

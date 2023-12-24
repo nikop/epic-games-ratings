@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -2741,9 +2741,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 28434,
+  "EOS_Progressed": 28437,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1496,
+  "EOS_NewPlayers": 1490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14246,6 +14246,11 @@
       "Time": "2023-12-24T12:08:48.0905259+00:00",
       "NumProgressed": 28434,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T13:11:39.5550812+00:00",
+      "NumProgressed": 28437,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14426,7 +14431,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "Achievement_Trophy23",
@@ -14434,7 +14439,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4265
+      "UsersEstimate": 4266
     },
     {
       "ID": "Achievement_Trophy24",
@@ -14442,7 +14447,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 11374
+      "UsersEstimate": 11375
     },
     {
       "ID": "Achievement_Trophy25",
@@ -14458,7 +14463,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9668
+      "UsersEstimate": 9669
     },
     {
       "ID": "Achievement_Trophy27",
@@ -14474,7 +14479,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9099
+      "UsersEstimate": 9100
     },
     {
       "ID": "Achievement_Trophy29",
@@ -14498,7 +14503,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8530
+      "UsersEstimate": 8531
     },
     {
       "ID": "Achievement_Trophy32",
@@ -14514,7 +14519,7 @@
       "Name": "Pack leader",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "Achievement_Trophy34",
@@ -14546,7 +14551,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6824
+      "UsersEstimate": 6825
     },
     {
       "ID": "Achievement_Trophy38",
@@ -14562,7 +14567,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "Achievement_Trophy40",
@@ -14594,7 +14599,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Achievement_Trophy44",
@@ -14634,7 +14639,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "Achievement_Trophy49",
@@ -14745,7 +14750,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 28434,
+      "Progressed": 28437,
       "Completed": 1
     }
   ],
@@ -14753,8 +14758,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-24T02:23:21.4649303+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:48.0905254+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:39.5550808+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:26.439237+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:48.0906082+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:05.1429202+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:39.5551847+00:00"
 }

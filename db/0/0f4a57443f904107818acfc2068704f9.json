@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 994,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2392,6 +2392,11 @@
       "Time": "2023-12-24T12:03:49.3137683+00:00",
       "NumProgressed": 991,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T13:06:39.6900217+00:00",
+      "NumProgressed": 994,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2420,7 +2425,7 @@
       "Name": "Chosen Victor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -2436,7 +2441,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -2458,9 +2463,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 775
     },
     {
       "ID": "CompleteChapter10",
@@ -2508,7 +2513,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CompleteChapter16",
@@ -2516,7 +2521,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CompleteChapter17",
@@ -2524,7 +2529,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -2540,7 +2545,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CompleteChapter2",
@@ -2548,7 +2553,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "CompleteChapter3",
@@ -2556,7 +2561,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 398
     },
     {
       "ID": "CompleteChapter4",
@@ -2564,7 +2569,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "CompleteChapter5",
@@ -2580,7 +2585,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "CompleteChapter7",
@@ -2588,7 +2593,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CompleteChapter8",
@@ -2652,7 +2657,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2676,7 +2681,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Win50ConquestBattles",
@@ -2699,14 +2704,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 994,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:03:49.3137679+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:06:39.6900215+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:59:08.3595857+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:03:49.3137956+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:51.9002886+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:06:39.690055+00:00"
 }

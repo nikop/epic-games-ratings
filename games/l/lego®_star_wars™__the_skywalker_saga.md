@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~52,526 |
-| ''I don't like you either!'' | 78.00% | ~42,678 |
-| ''Impressive, most impressive'' | 70.00% | ~38,300 |
-| ''You think you're some kind of Jedi?'' | 70.00% | ~38,300 |
-| The Phantom Menace | 58.00% | ~31,735 |
-| ''Aggressive Negotiations'' | 57.00% | ~31,188 |
-| ''I can fly anything'' | 56.00% | ~30,640 |
-| ''And who gave you permission...?'' | 52.00% | ~28,452 |
-| A New Hope | 47.00% | ~25,716 |
-| Attack of the Clones | 45.00% | ~24,622 |
-| Revenge of the Sith | 39.00% | ~21,339 |
-| The Empire Strikes Back | 37.00% | ~20,245 |
-| ''A fine addition to my collection'' | 37.00% | ~20,245 |
-| Return of the Jedi | 31.00% | ~16,962 |
-| The Force Awakens | 26.00% | ~14,226 |
-| The Last Jedi | 22.00% | ~12,037 |
-| The Rise of Skywalker | 19.00% | ~10,396 |
-| ''It's true... all of it'' | 18.00% | ~9,849 |
-| ''Get the crews to their fighters'' | 18.00% | ~9,849 |
-| ''Raw, untamed power'' | 8.00% | ~4,377 |
+| ''You guys got yourself a ship!'' | 96.00% | ~52,536 |
+| ''I don't like you either!'' | 78.00% | ~42,686 |
+| ''Impressive, most impressive'' | 70.00% | ~38,308 |
+| ''You think you're some kind of Jedi?'' | 70.00% | ~38,308 |
+| The Phantom Menace | 58.00% | ~31,740 |
+| ''Aggressive Negotiations'' | 57.00% | ~31,193 |
+| ''I can fly anything'' | 56.00% | ~30,646 |
+| ''And who gave you permission...?'' | 52.00% | ~28,457 |
+| A New Hope | 47.00% | ~25,721 |
+| Attack of the Clones | 45.00% | ~24,626 |
+| Revenge of the Sith | 39.00% | ~21,343 |
+| The Empire Strikes Back | 37.00% | ~20,248 |
+| ''A fine addition to my collection'' | 37.00% | ~20,248 |
+| Return of the Jedi | 31.00% | ~16,965 |
+| The Force Awakens | 26.00% | ~14,228 |
+| The Last Jedi | 22.00% | ~12,040 |
+| The Rise of Skywalker | 19.00% | ~10,398 |
+| ''It's true... all of it'' | 18.00% | ~9,850 |
+| ''Get the crews to their fighters'' | 18.00% | ~9,850 |
+| ''Raw, untamed power'' | 8.00% | ~4,378 |
 | Rishi Maze | 5.00% | ~2,736 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,736 |
-| ''You may fire when ready'' | 3.00% | ~1,641 |
-| ''What have you done with those plans?'' | 3.00% | ~1,641 |
-| ''GONK!'' | 3.00% | ~1,641 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,641 |
-| The Slice | 3.00% | ~1,641 |
+| ''You may fire when ready'' | 3.00% | ~1,642 |
+| ''What have you done with those plans?'' | 3.00% | ~1,642 |
+| ''GONK!'' | 3.00% | ~1,642 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,642 |
+| The Slice | 3.00% | ~1,642 |
 | ''Hello there!'' | 2.00% | ~1,094 |
 | Unknown Regions | 2.00% | ~1,094 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,094 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~547 |
 | ''I've never seen a real one!'' | 1.00% | ~547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,715 (Ranked 118)  
+Progressed: 54,725 (Ranked 118)  
 Completed: 253 (0.46%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,14 +299,14 @@ Completed: 253 (0.46%) (Ranked 221)
 | 2023-12-21 | 54,131 | 253 |
 | 2023-12-22 | 54,369 | 253 |
 | 2023-12-23 | 54,623 | 253 |
-| 2023-12-24 | 54,715 | 253 |
+| 2023-12-24 | 54,725 | 253 |
 ## Awards
-Max (Great Boss Battles): 2,463  (Ranked 106)  
-Sum: 6,754 (Ranked 127)  
+Max (Great Boss Battles): 2,465  (Ranked 106)  
+Sum: 6,756 (Ranked 127)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,463 |
+| This game has Great Boss Battles | 2,465 |
 | This game is Great for Beginners | 522 |
 | This game has Diverse Characters | 515 |
 | This game has Amazing Characters | 492 |
@@ -597,4 +597,4 @@ Diff (max vs sum): -21
 | 2023-12-21 | 4.78 | - | 2,459 | 6,745 |
 | 2023-12-22 | 4.77 | - | 2,463 | 6,749 |
 | 2023-12-23 | 4.77 | - | 2,463 | 6,751 |
-| 2023-12-24 | 4.77 | - | 2,463 | 6,754 |
+| 2023-12-24 | 4.77 | - | 2,465 | 6,756 |

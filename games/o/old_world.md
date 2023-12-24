@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.30% | ~48 |
 | Friendly Family | 0.30% | ~48 |
 | Hanging Gardens | 0.30% | ~48 |
+| Oracle | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Ambitious | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.20% | ~32 |
 | Lighthouse | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
-| Oracle | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
 | Learn to Play 1 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,921 (Ranked 162)  
+Progressed: 15,922 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -613,7 +613,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-21 | 15,865 | 5 |
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
-| 2023-12-24 | 15,921 | 5 |
+| 2023-12-24 | 15,922 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

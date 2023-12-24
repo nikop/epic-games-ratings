@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -33,7 +33,7 @@
   "EOS_Progressed": 50,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 8,
   "EosHistory": [
     {
@@ -350,9 +350,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "BigEater",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:05:04.1609267+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:08:00.6156961+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:36.5797746+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:02:29.4574098+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:05:04.1609453+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:05:09.9722476+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:08:00.6157147+00:00"
 }

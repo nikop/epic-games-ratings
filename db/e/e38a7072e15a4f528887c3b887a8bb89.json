@@ -2,9 +2,9 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 532,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -137,6 +137,11 @@
       "Time": "2023-12-21T03:03:55.0909831+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:08:20.4620454+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.387506+00:00",
@@ -179,7 +184,7 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -195,7 +200,7 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 57,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -244,13 +249,13 @@
     {
       "ID": "c01b5ga",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:05:22.7612784+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:08:20.462045+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.6016762+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:16.193597+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:05:22.7612892+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:46.2977445+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:08:20.462056+00:00"
 }

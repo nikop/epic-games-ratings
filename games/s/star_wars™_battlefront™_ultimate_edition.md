@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,837 |
-| Off to a good start | 64.00% | ~1,336 |
-| Do... or do not. There is no try | 52.00% | ~1,085 |
-| A good blaster at your side | 27.00% | ~563 |
-| I suggest a new strategy | 18.00% | ~376 |
-| Scrap collector | 16.00% | ~334 |
-| All right, I'll give it a try | 16.00% | ~334 |
-| Great shot, kid! | 16.00% | ~334 |
-| The power of the Force | 13.00% | ~271 |
-| Shoot first | 13.00% | ~271 |
-| Collector | 12.00% | ~250 |
-| Together we can rule the galaxy | 12.00% | ~250 |
+| New Recruit | 88.00% | ~1,841 |
+| Off to a good start | 64.00% | ~1,339 |
+| Do... or do not. There is no try | 52.00% | ~1,088 |
+| A good blaster at your side | 27.00% | ~565 |
+| I suggest a new strategy | 18.00% | ~377 |
+| Scrap collector | 16.00% | ~335 |
+| All right, I'll give it a try | 16.00% | ~335 |
+| Great shot, kid! | 16.00% | ~335 |
+| The power of the Force | 13.00% | ~272 |
+| Shoot first | 13.00% | ~272 |
+| Collector | 12.00% | ~251 |
+| Together we can rule the galaxy | 12.00% | ~251 |
 | Tell Jabba that I've got his money | 9.00% | ~188 |
 | Best star-pilot in the galaxy | 8.00% | ~167 |
 | Survivor | 8.00% | ~167 |
 | Never tell me the odds! | 7.00% | ~146 |
 | A cunning warrior | 7.00% | ~146 |
-| What's the cargo? | 6.00% | ~125 |
-| "Gonk? Gonk!" | 5.00% | ~104 |
-| Distinguished | 5.00% | ~104 |
-| Impressive. Most impressive. | 5.00% | ~104 |
-| Judge me by my size, do you? | 5.00% | ~104 |
-| Support the troops | 5.00% | ~104 |
-| A tremor in the Force | 4.00% | ~83 |
+| What's the cargo? | 6.00% | ~126 |
+| "Gonk? Gonk!" | 5.00% | ~105 |
+| Impressive. Most impressive. | 5.00% | ~105 |
+| Judge me by my size, do you? | 5.00% | ~105 |
+| Support the troops | 5.00% | ~105 |
+| Distinguished | 4.00% | ~84 |
+| A tremor in the Force | 4.00% | ~84 |
 | On the ball | 3.00% | ~63 |
 | Safety ain't the point of a joyride | 3.00% | ~63 |
 | Not bad for a little furball | 3.00% | ~63 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,087 (Ranked 234)  
+Progressed: 2,092 (Ranked 234)  
 Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.05%) (Ranked 335)
 | 2023-12-21 | 1,979 | 1 |
 | 2023-12-22 | 2,014 | 1 |
 | 2023-12-23 | 2,067 | 1 |
-| 2023-12-24 | 2,087 | 1 |
+| 2023-12-24 | 2,092 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -943,7 +943,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666211,
+  "EOS_Progressed": 666217,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -24423,6 +24423,11 @@
       "Time": "2023-12-24T12:08:36.1211631+00:00",
       "NumProgressed": 666211,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-24T13:11:26.8670999+00:00",
+      "NumProgressed": 666217,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24434,7 +24439,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479672
+      "UsersEstimate": 479676
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24442,7 +24447,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386402
+      "UsersEstimate": 386406
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24450,7 +24455,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153229
+      "UsersEstimate": 153230
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -24498,7 +24503,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66621
+      "UsersEstimate": 66622
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -24530,7 +24535,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66621
+      "UsersEstimate": 66622
     },
     {
       "ID": "Achievement_14_Magician",
@@ -24570,7 +24575,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153229
+      "UsersEstimate": 153230
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -24586,7 +24591,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113256
+      "UsersEstimate": 113257
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -24618,7 +24623,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19986
+      "UsersEstimate": 19987
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -24634,7 +24639,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -24674,7 +24679,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79945
+      "UsersEstimate": 79946
     },
     {
       "ID": "Achievement_32_Karma",
@@ -24690,7 +24695,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19986
+      "UsersEstimate": 19987
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -24698,7 +24703,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166553
+      "UsersEstimate": 166554
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -24714,7 +24719,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59959
+      "UsersEstimate": 59960
     },
     {
       "ID": "Achievement_37_Champion",
@@ -24738,7 +24743,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19986
+      "UsersEstimate": 19987
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -24817,15 +24822,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666211,
+      "Progressed": 666217,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:36.1211627+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:26.8670995+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.2843557+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:56:53.1410993+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:36.1212733+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:19.4776365+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:26.867217+00:00"
 }

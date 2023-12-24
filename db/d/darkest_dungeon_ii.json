@@ -10080,7 +10080,7 @@
       "Count": 1044
     }
   ],
-  "EOS_Progressed": 129553,
+  "EOS_Progressed": 129570,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1568,
   "EOS_NewCompleters": 0,
@@ -36560,6 +36560,11 @@
       "Time": "2023-12-24T12:08:50.0049408+00:00",
       "NumProgressed": 129553,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-24T13:11:41.6390529+00:00",
+      "NumProgressed": 129570,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36699,7 +36704,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "combat_kill_cadavers",
@@ -36731,7 +36736,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36787,7 +36792,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "combat_kill_librarian",
@@ -36795,7 +36800,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36811,7 +36816,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37059,7 +37064,7 @@
       "Name": "Body of Work",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -37107,7 +37112,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 444
     },
     {
       "ID": "combat_kill_collector",
@@ -37115,7 +37120,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37155,7 +37160,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37163,7 +37168,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "quest_complete_crusader",
@@ -37171,7 +37176,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37202,21 +37207,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129553,
+      "Progressed": 129570,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4422,
+      "Progressed": 4439,
       "Completed": 810
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-24T01:47:20.4257727+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:50.0049403+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:41.6390524+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:31.9749598+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:50.0050918+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:00:04.9364829+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:41.6393445+00:00"
 }

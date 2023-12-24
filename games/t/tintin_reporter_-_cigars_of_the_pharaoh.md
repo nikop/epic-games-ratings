@@ -11,22 +11,22 @@
 | The Weighing of the Soul | 18.00% | ~18 |
 | The Curse of Kih-Oskh | 15.00% | ~15 |
 | Mummy Nightmare | 9.00% | ~9 |
+| It's a Deal! | 9.00% | ~9 |
 | Cat Lover | 8.00% | ~8 |
-| It's a Deal! | 8.00% | ~8 |
+| Dynamite, Treason and Coconuts | 8.00% | ~8 |
 | In the Name of the Law | 7.00% | ~7 |
 | Au Revoir, Abudin | 7.00% | ~7 |
 | Mysterious Bungalow | 7.00% | ~7 |
-| Dynamite, Treason and Coconuts | 7.00% | ~7 |
 | Save a Friend | 7.00% | ~7 |
 | The Eyes! | 6.00% | ~6 |
 | Keep the Doctor Away | 6.00% | ~6 |
 | Just a Palm Tree | 6.00% | ~6 |
+| Under the Hood | 6.00% | ~6 |
 | Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
-| Under the Hood | 5.00% | ~5 |
 | Long Live Gaipajama! | 5.00% | ~5 |
+| Tintin, Reporter | 4.00% | ~4 |
 | Eyes Shut | 4.00% | ~4 |
-| Tintin, Reporter | 3.00% | ~3 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |

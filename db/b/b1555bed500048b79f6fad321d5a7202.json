@@ -4,8 +4,8 @@
   "ProductSlug": "nova-strike",
   "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 490,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T08:00:00+00:00",
     "PcReleaseDate": "2023-07-27T08:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "2",
       "SetID": "5lmgb5n",
       "Name": "\u00AB Missed your train ? \u00BB",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "3",
@@ -311,8 +311,8 @@
   ],
   "FirstSeen": "2023-08-01T17:57:15.417179+00:00",
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:23.3814158+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:17.7510869+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.9324752+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:02:42.0776239+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:23.3814274+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:05:24.0010644+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:17.751096+00:00"
 }

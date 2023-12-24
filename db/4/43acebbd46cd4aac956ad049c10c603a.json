@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1111,
+  "EOS_Progressed": 1112,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2959,6 +2959,11 @@
       "Time": "2023-12-24T12:07:42.8903104+00:00",
       "NumProgressed": 1111,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T13:10:28.5839523+00:00",
+      "NumProgressed": 1112,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3067,7 +3072,7 @@
       "Name": "Discovery",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "EasternWetlands",
@@ -3139,7 +3144,7 @@
       "Name": "Into the Machine",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "JustOneLap",
@@ -3185,9 +3190,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 145
     },
     {
       "ID": "MuseumVisitor",
@@ -3195,7 +3200,7 @@
       "Name": "Museum Visitor",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "NewBeginning",
@@ -3289,9 +3294,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Sinner",
@@ -3363,7 +3368,7 @@
       "Name": "The Spark",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "TheThiefOfFire",
@@ -3442,7 +3447,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1111,
+      "Progressed": 1112,
       "Completed": 2
     }
   ],
@@ -3450,8 +3455,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-23T12:59:33.4828819+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:07:42.8903101+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:10:28.5839519+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:40.9986765+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:07:42.8903579+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:00:13.1933077+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:10:28.5840014+00:00"
 }

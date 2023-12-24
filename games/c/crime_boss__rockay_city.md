@@ -6,9 +6,9 @@ Rating: 3.95 (Ranked 1,034)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First One’s Free | 4.00% | ~3,698 |
-| Neophyte Ninja | 3.00% | ~2,773 |
-| Downed but Not Outed | 3.00% | ~2,773 |
-| Too Old for This | 3.00% | ~2,773 |
+| Neophyte Ninja | 3.00% | ~2,774 |
+| Downed but Not Outed | 3.00% | ~2,774 |
+| Too Old for This | 3.00% | ~2,774 |
 | Underworld Initiate | 2.00% | ~1,849 |
 | Case Closed | 2.00% | ~1,849 |
 | King of the Hill | 2.00% | ~1,849 |
@@ -16,10 +16,10 @@ Rating: 3.95 (Ranked 1,034)
 | Off the Rocks | 2.00% | ~1,849 |
 | Raider’s Ruin | 2.00% | ~1,849 |
 | Dragonslayer | 2.00% | ~1,849 |
-| Roid Ranger | 1.00% | ~924 |
-| Hidden Sonata | 1.00% | ~924 |
-| True Player | 1.00% | ~924 |
-| Rockay Rex | 1.00% | ~924 |
+| Roid Ranger | 1.00% | ~925 |
+| Hidden Sonata | 1.00% | ~925 |
+| True Player | 1.00% | ~925 |
+| Rockay Rex | 1.00% | ~925 |
 | Track Star | 0.90% | ~832 |
 | Headhunter | 0.80% | ~740 |
 | I Like Trains | 0.70% | ~647 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,034)
 | Full House | 0.10% | ~92 |
 | Geek Out | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,448 (Ranked 97)  
+Progressed: 92,452 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,16 +295,16 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-21 | 92,286 | 58 |
 | 2023-12-22 | 92,351 | 58 |
 | 2023-12-23 | 92,411 | 58 |
-| 2023-12-24 | 92,448 | 58 |
+| 2023-12-24 | 92,452 | 58 |
 ## Awards
 Max (Diverse Characters): 575  (Ranked 207)  
-Sum: 2,708 (Ranked 191)  
-Diff (max vs sum): 16  
+Sum: 2,709 (Ranked 190)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 575 |
 | This game is Highly Recommended | 553 |
-| This game has Quickly Understood Controls | 535 |
+| This game has Quickly Understood Controls | 536 |
 | This game has Amazing Characters | 524 |
 | This game is Extremely Fun | 521 |
 | This game has Challenging Combat | 514 |
@@ -579,3 +579,4 @@ Diff (max vs sum): 16
 | 2023-12-21 | 3.95 | 570 | 2,698 |
 | 2023-12-22 | 3.95 | 574 | 2,704 |
 | 2023-12-23 | 3.95 | 575 | 2,708 |
+| 2023-12-24 | 3.95 | 575 | 2,709 |

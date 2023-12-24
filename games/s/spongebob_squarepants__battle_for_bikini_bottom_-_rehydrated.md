@@ -7,28 +7,28 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 13.00% | ~41 |
-| Sponge Smasher | 12.00% | ~38 |
-| Jellyfish Jam | 9.00% | ~28 |
-| Jellyfishing | 7.00% | ~22 |
+| Sponge Smasher | 11.00% | ~35 |
+| Jellyfish Jam | 10.00% | ~32 |
+| Jellyfishing | 8.00% | ~25 |
 | Time For Tutorial | 7.00% | ~22 |
 | Sweet Victory | 6.00% | ~19 |
 | Life's as extreme as you wanna make it! | 5.00% | ~16 |
 | Sock Getter | 5.00% | ~16 |
 | Surf's Up! | 5.00% | ~16 |
-| Uptown and Downtown | 4.00% | ~13 |
-| Shrimp Catcher | 4.00% | ~13 |
 | Toxic Terror | 4.00% | ~13 |
 | Hit Rock Bottom | 4.00% | ~13 |
-| Squirrel Smasher | 4.00% | ~13 |
-| Star Smasher | 4.00% | ~13 |
-| Hello, Bikini Bottom | 3.00% | ~9 |
-| Keep it Rolling | 3.00% | ~9 |
-| Super Spatula Seeker | 3.00% | ~9 |
+| Uptown and Downtown | 3.00% | ~10 |
+| Hello, Bikini Bottom | 3.00% | ~10 |
+| Keep it Rolling | 3.00% | ~10 |
+| Shrimp Catcher | 3.00% | ~10 |
+| Super Spatula Seeker | 3.00% | ~10 |
+| Squirrel Smasher | 3.00% | ~10 |
+| Star Smasher | 3.00% | ~10 |
 | Robot encyclopedia | 2.00% | ~6 |
 | Are you ready now? | 2.00% | ~6 |
 | Kelp Forest of Fear | 1.00% | ~3 |
 | Sleepy Time | 1.00% | ~3 |
-| Ultra Spatula Seeker | 1.00% | ~3 |
+| Ultra Spatula Seeker | 0.90% | ~3 |
 | The Small Does Not Rule | 0.60% | ~2 |
 | Ship Shape | 0.60% | ~2 |
 | Shanghaied | 0.60% | ~2 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 313 (Ranked 373)  
+Progressed: 317 (Ranked 371)  
 Completed: 1 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.32%) (Ranked 245)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 313 | 1 |
+| 2023-12-24 | 317 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 496)  
 Sum: 34 (Ranked 521)  

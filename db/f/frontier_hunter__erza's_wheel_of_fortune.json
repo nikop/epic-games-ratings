@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
@@ -2207,6 +2207,11 @@
       "Time": "2023-12-24T05:09:51.5355893+00:00",
       "NumProgressed": 656,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T13:11:28.3701773+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2218,7 +2223,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2290,7 +2295,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2298,7 +2303,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2306,7 +2311,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2346,15 +2351,15 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2378,7 +2383,7 @@
       "Name": "Trader",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2386,7 +2391,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2544,9 +2549,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2577,7 +2582,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 2
     }
   ],
@@ -2585,8 +2590,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:37.5949183+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:28.370177+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:59:05.4979864+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:37.5949528+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:48.4496072+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:28.3702265+00:00"
 }

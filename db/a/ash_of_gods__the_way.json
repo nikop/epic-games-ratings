@@ -2,9 +2,9 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 543,
+  "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -266,6 +266,11 @@
       "Time": "2023-12-23T19:09:25.4252862+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:11:38.9947487+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -283,7 +288,7 @@
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -291,7 +296,7 @@
       "ID": "collect3",
       "SetID": "c64if4d",
       "Name": "Collector",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -307,7 +312,7 @@
       "ID": "collect5",
       "SetID": "c64if4d",
       "Name": "Overplay the rogue",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -363,7 +368,7 @@
       "ID": "fights4",
       "SetID": "c64if4d",
       "Name": "Stronger than Gellian steel",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -403,7 +408,7 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -411,7 +416,7 @@
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -459,7 +464,7 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -467,7 +472,7 @@
       "ID": "special6",
       "SetID": "c64if4d",
       "Name": "Protect the Healer!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -499,7 +504,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 87,
+      "Percentage": 85,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -563,7 +568,7 @@
       "ID": "story17",
       "SetID": "c64if4d",
       "Name": "The End",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -587,7 +592,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -611,7 +616,7 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -619,7 +624,7 @@
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -627,7 +632,7 @@
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -635,7 +640,7 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -668,7 +673,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
@@ -676,8 +681,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:47.5187557+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:38.9947483+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.6973747+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:59:41.51953+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:47.5187912+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:02:27.0399981+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:38.9947856+00:00"
 }

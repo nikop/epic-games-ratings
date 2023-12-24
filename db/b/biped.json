@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8694,
+  "EOS_Progressed": 8712,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
@@ -14849,6 +14849,11 @@
       "Time": "2023-12-24T12:04:58.3071295+00:00",
       "NumProgressed": 8694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:07:54.273162+00:00",
+      "NumProgressed": 8712,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -14860,7 +14865,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2962
     },
     {
       "ID": "10",
@@ -14876,7 +14881,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "12",
@@ -14916,7 +14921,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2352
     },
     {
       "ID": "3",
@@ -14924,7 +14929,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1742
     },
     {
       "ID": "4",
@@ -14932,7 +14937,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 956
+      "UsersEstimate": 958
     },
     {
       "ID": "5",
@@ -14940,7 +14945,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "6",
@@ -14948,7 +14953,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "7",
@@ -14956,7 +14961,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "8",
@@ -14972,14 +14977,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8694,
+      "Progressed": 8712,
       "Completed": 0
     }
   ],
@@ -14987,8 +14992,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:04:58.3071289+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:07:54.2731617+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:15.3634064+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:04:58.3072071+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:45.4288004+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:07:54.2732459+00:00"
 }

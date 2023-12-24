@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 745,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -2565,6 +2565,11 @@
       "Time": "2023-12-24T12:08:09.2238767+00:00",
       "NumProgressed": 743,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-24T13:10:57.4935048+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2577,7 +2582,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_eou1",
@@ -2585,7 +2590,7 @@
       "Name": "Establish Communications",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_eou2",
@@ -2609,7 +2614,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_eou5",
@@ -2673,21 +2678,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 745,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:09.2238763+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:10:57.4935045+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:13.9807111+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:09.2239013+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:00:52.5341564+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:10:57.4935234+00:00"
 }

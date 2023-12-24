@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3686,
+  "EOS_Progressed": 3687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7033,6 +7033,11 @@
       "Time": "2023-12-24T12:05:17.5745626+00:00",
       "NumProgressed": 3686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:08:14.9550868+00:00",
+      "NumProgressed": 3687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7108,7 +7113,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH_BASE_19",
@@ -7180,7 +7185,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_BASE_28",
@@ -7196,7 +7201,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_BASE_3",
@@ -7244,7 +7249,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_BASE_35",
@@ -7499,13 +7504,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1870,
+      "Progressed": 1871,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3686,
+      "Progressed": 3687,
       "Completed": 0
     }
   ],
@@ -7513,8 +7518,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:05:17.5745621+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:08:14.9550865+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:23.9054666+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:05:17.5746247+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:02.9995641+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:08:14.9551469+00:00"
 }

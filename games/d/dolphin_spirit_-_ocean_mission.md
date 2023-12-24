@@ -15,15 +15,16 @@
 | Power of the ray | 12.00% | ~3 |
 | Pro Photographer | 8.00% | ~2 |
 | Recycling expert | 8.00% | ~2 |
+| Island gardian angel | 8.00% | ~2 |
 | Heroic member | 8.00% | ~2 |
+| Picture of the reef | 8.00% | ~2 |
 | In search of knowledge | 8.00% | ~2 |
 | Animal reporter | 4.00% | ~1 |
+| Reef cleanup | 4.00% | ~1 |
 | Let's get started | 4.00% | ~1 |
-| Island gardian angel | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |
 | Picture of the bay | 4.00% | ~1 |
 | Picture of the atoll | 4.00% | ~1 |
-| Picture of the reef | 4.00% | ~1 |
 | Picture of the island | 4.00% | ~1 |
 | Power of the shark | 4.00% | ~1 |
 | The fifth one! | 4.00% | ~1 |
@@ -31,7 +32,6 @@
 | Bay cleanup | 0.00% | ~0 |
 | Creek cleanup | 0.00% | ~0 |
 | Atoll cleanup | 0.00% | ~0 |
-| Reef cleanup | 0.00% | ~0 |
 | Island cleanup | 0.00% | ~0 |
 | Island protector | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-12-24T12:08:20.3418277+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:11:09.5080169+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -838,7 +843,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -918,7 +923,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1061,14 +1066,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:08:20.3418271+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:09.5080163+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:27.059163+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:08:20.341858+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:05.8515024+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:09.5080509+00:00"
 }

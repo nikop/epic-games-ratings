@@ -29,7 +29,7 @@ Number of Ratings: 28  (23.09.2022)
 | Sabotage | 16.00% | ~93 |
 | Achtung! | 12.00% | ~70 |
 | Japan | 11.00% | ~64 |
-| Woodcutter | 10.00% | ~58 |
+| Woodcutter | 11.00% | ~64 |
 | Engineer | 10.00% | ~58 |
 | Tycoon | 9.00% | ~52 |
 | Germany | 7.00% | ~41 |
@@ -39,7 +39,7 @@ Number of Ratings: 28  (23.09.2022)
 | Peacemaker | 4.00% | ~23 |
 | Forgotten | 3.00% | ~17 |
 | Lucky vandal | 3.00% | ~17 |
-| Salesman | 0.70% | ~4 |
+| Salesman | 0.90% | ~5 |
 | BBQ | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 | Mega-railroad | 0.30% | ~2 |

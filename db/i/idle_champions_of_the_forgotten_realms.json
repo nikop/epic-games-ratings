@@ -9007,9 +9007,9 @@
       "Count": 3588
     }
   ],
-  "EOS_Progressed": 244083,
+  "EOS_Progressed": 244099,
   "EOS_Completed": 2558,
-  "EOS_NewPlayers": 2721,
+  "EOS_NewPlayers": 2717,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37022,6 +37022,11 @@
       "Time": "2023-12-24T12:09:36.6363623+00:00",
       "NumProgressed": 244083,
       "NumCompleted": 2558
+    },
+    {
+      "Time": "2023-12-24T13:12:31.4133618+00:00",
+      "NumProgressed": 244099,
+      "NumCompleted": 2558
     }
   ],
   "TotalAchievements": 546,
@@ -38705,7 +38710,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "objective_completed_34",
@@ -41321,7 +41326,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_1558",
@@ -41400,21 +41405,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210357,
-      "Completed": 4060
+      "Progressed": 210373,
+      "Completed": 4062
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244083,
+      "Progressed": 244099,
       "Completed": 2558
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-23T21:02:56.5603354+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:36.6363619+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:31.4133614+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:02:35.2387047+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:36.6386069+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:05:16.9524929+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:31.4156617+00:00"
 }

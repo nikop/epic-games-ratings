@@ -2,12 +2,12 @@
   "ID": "380b93eff8d14bf5b7ba9e39979af8f3",
   "Name": "The Caligula Effect 2",
   "ProductSlug": "the-caligula-effect-2-a51f60",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewPlayers": 471,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -452,17 +452,17 @@
       "ID": "ACH_36",
       "SetID": "2eg5kgc",
       "Name": "Lost Souls For Sale",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_37",
       "SetID": "2eg5kgc",
       "Name": "Investment Ban-\u03C7-ing",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_38",
@@ -572,8 +572,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:28.0722806+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:22.6764897+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.5168179+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:43.572195+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:28.0723125+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:23.1098422+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:22.6765261+00:00"
 }

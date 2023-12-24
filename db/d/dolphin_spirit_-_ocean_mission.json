@@ -4,7 +4,7 @@
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "ID_09",
       "SetID": "2bmd16d",
       "Name": "Reef cleanup",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ID_10",
@@ -263,9 +263,9 @@
       "ID": "ID_13",
       "SetID": "2bmd16d",
       "Name": "Island gardian angel",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_14",
@@ -327,9 +327,9 @@
       "ID": "ID_21",
       "SetID": "2bmd16d",
       "Name": "Picture of the reef",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_22",
@@ -422,8 +422,8 @@
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:01.0218047+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:11:53.3667418+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.0826935+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:24.0508071+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:01.0218225+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:56.6543217+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:11:53.3667593+00:00"
 }

@@ -14,7 +14,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.80% | ~1,933 |
 | Explorer | 0.80% | ~1,933 |
 | An Offering | 0.80% | ~1,933 |
-| Not Touching You | 0.80% | ~24 |
+| Not Touching You | 0.80% | ~25 |
 | Nothing To Lose | 0.70% | ~1,691 |
 | Heavy Hitter | 0.70% | ~1,691 |
 | That Was Quick | 0.70% | ~1,691 |
@@ -25,18 +25,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.70% | ~1,691 |
 | C-C-Combo | 0.70% | ~1,691 |
 | Deflection | 0.70% | ~1,691 |
-| Ambitious Intent | 0.60% | ~1,449 |
-| Delving Deeper | 0.60% | ~1,449 |
-| R.I.P | 0.60% | ~1,449 |
-| Dig Your Own Grave | 0.60% | ~1,449 |
-| Walk It Off | 0.60% | ~1,449 |
-| Cold Hearted | 0.60% | ~1,449 |
-| I Am Overburdened | 0.60% | ~1,449 |
-| The Bestiary | 0.60% | ~1,449 |
-| What's Yours Is Mine | 0.60% | ~1,449 |
-| Shootout | 0.60% | ~1,449 |
-| Toxic | 0.60% | ~1,449 |
-| Sneaky | 0.60% | ~1,449 |
+| Ambitious Intent | 0.60% | ~1,450 |
+| Delving Deeper | 0.60% | ~1,450 |
+| R.I.P | 0.60% | ~1,450 |
+| Dig Your Own Grave | 0.60% | ~1,450 |
+| Walk It Off | 0.60% | ~1,450 |
+| Cold Hearted | 0.60% | ~1,450 |
+| I Am Overburdened | 0.60% | ~1,450 |
+| The Bestiary | 0.60% | ~1,450 |
+| What's Yours Is Mine | 0.60% | ~1,450 |
+| Shootout | 0.60% | ~1,450 |
+| Toxic | 0.60% | ~1,450 |
+| Sneaky | 0.60% | ~1,450 |
 | Consecutive Curses | 0.50% | ~1,208 |
 | Who To Trust? | 0.50% | ~1,208 |
 | Just Chilling | 0.50% | ~1,208 |
@@ -51,6 +51,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.50% | ~15 |
 | Thank You, Friend | 0.40% | ~966 |
 | Shadow Spreads | 0.40% | ~966 |
+| Max Damage! | 0.40% | ~966 |
 | To The Death! | 0.40% | ~966 |
 | Well Prepared | 0.40% | ~966 |
 | Don't Ignore Me! | 0.40% | ~966 |
@@ -60,7 +61,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.40% | ~966 |
 | Spreading Plague | 0.40% | ~966 |
 | Acid Bath | 0.40% | ~966 |
-| Max Damage! | 0.30% | ~725 |
 | A Rough Road | 0.30% | ~725 |
 | Berzerker | 0.30% | ~725 |
 | Chain Reaction | 0.30% | ~725 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,581 (Ranked 68)  
+Progressed: 241,587 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,7 +393,7 @@ Completed: 301 (0.12%) (Ranked 299)
 | 2023-12-21 | 241,432 | 300 |
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
-| 2023-12-24 | 241,581 | 301 |
+| 2023-12-24 | 241,587 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,756 (Ranked 88)  

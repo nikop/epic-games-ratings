@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3567,
+  "EOS_Progressed": 3569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4786,6 +4786,11 @@
       "Time": "2023-12-24T08:05:13.3431097+00:00",
       "NumProgressed": 3567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:07:18.3455206+00:00",
+      "NumProgressed": 3569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4813,7 +4818,7 @@
       "Name": "Look Over There!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "BloodAndIron",
@@ -4965,7 +4970,7 @@
       "Name": "Not So Fast...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Kills_Bleed",
@@ -4989,7 +4994,7 @@
       "Name": "Executioner",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Kills_Exterminator",
@@ -5021,7 +5026,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Kills_Streak",
@@ -5029,7 +5034,7 @@
       "Name": "Purging Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Kills_Vakir",
@@ -5045,7 +5050,7 @@
       "Name": "An Ill Omen",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5340,21 +5345,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3567,
+      "Progressed": 3569,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3567,
+      "Progressed": 3569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:04:25.0286779+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:07:18.3455202+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-24T12:02:56.3421497+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:04:25.0287377+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:05:39.74391+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:07:18.3455796+00:00"
 }

@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Eat My Dust | 47.00% | ~1,375 |
 | First Love | 44.00% | ~1,287 |
-| Clean Race | 42.00% | ~1,228 |
-| Hear That Roar! | 41.00% | ~1,199 |
+| Clean Race | 42.00% | ~1,229 |
+| Hear That Roar! | 41.00% | ~1,200 |
 | Rivals to the End | 30.00% | ~878 |
-| Bitter Rivalry | 29.00% | ~848 |
+| Bitter Rivalry | 29.00% | ~849 |
 | Champagne Spray | 27.00% | ~790 |
-| We're Going to Need a Bigger Garage | 26.00% | ~760 |
+| We're Going to Need a Bigger Garage | 26.00% | ~761 |
 | I Want One Too! | 20.00% | ~585 |
 | Quick Pit Stop | 20.00% | ~585 |
 | Restored and Ready | 19.00% | ~556 |
@@ -31,11 +31,11 @@
 | I Make the Rules! | 3.00% | ~88 |
 | Rounding Off | 3.00% | ~88 |
 | My Work Here Is Done | 3.00% | ~88 |
-| Iconic! | 2.00% | ~58 |
-| I'll Be the Best! | 2.00% | ~58 |
-| Back in Blighty | 2.00% | ~58 |
-| Still Here | 2.00% | ~58 |
-| Overtaking the Master | 2.00% | ~58 |
+| Iconic! | 2.00% | ~59 |
+| I'll Be the Best! | 2.00% | ~59 |
+| Back in Blighty | 2.00% | ~59 |
+| Still Here | 2.00% | ~59 |
+| Overtaking the Master | 2.00% | ~59 |
 | Next Level | 1.00% | ~29 |
 | I Don't Stop | 1.00% | ~29 |
 | Exhausted but Happy | 0.70% | ~20 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,925 (Ranked 220)  
+Progressed: 2,926 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 2,825 | 0 |
 | 2023-12-22 | 2,873 | 0 |
 | 2023-12-23 | 2,914 | 0 |
-| 2023-12-24 | 2,925 | 0 |
+| 2023-12-24 | 2,926 | 0 |

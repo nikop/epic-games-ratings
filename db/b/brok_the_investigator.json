@@ -2,9 +2,9 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-12-22T20:07:50.6092708+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T13:06:35.9767507+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -202,7 +207,7 @@
       "ID": "CHAPTER1",
       "SetID": "bb2dp",
       "Name": "Chapter 1",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -210,7 +215,7 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -218,7 +223,7 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -226,7 +231,7 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -234,7 +239,7 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -242,7 +247,7 @@
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -250,7 +255,7 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -266,7 +271,7 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -284,7 +289,7 @@
       "Name": "Introduction completed",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "LOCKERENDING",
@@ -306,7 +311,7 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -322,7 +327,7 @@
       "ID": "PIANOMUSIC",
       "SetID": "bb2dp",
       "Name": "Paw Music",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -354,7 +359,7 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -378,7 +383,7 @@
       "ID": "TRAMPSAVER",
       "SetID": "bb2dp",
       "Name": "Tramp Saver",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -403,7 +408,7 @@
     {
       "ID": "bb2dp",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
@@ -411,8 +416,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:03:45.9830308+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:06:35.9767503+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:36.3188484+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:56:56.7054807+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:03:45.9830493+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:23.6801827+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:06:35.9767688+00:00"
 }

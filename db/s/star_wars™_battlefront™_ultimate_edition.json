@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2087,
+  "EOS_Progressed": 2092,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6059,6 +6059,11 @@
       "Time": "2023-12-24T12:09:32.4175001+00:00",
       "NumProgressed": 2087,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T13:12:27.1325446+00:00",
+      "NumProgressed": 2092,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6103,7 +6108,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_14",
@@ -6135,7 +6140,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_18",
@@ -6143,7 +6148,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_19",
@@ -6167,7 +6172,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_21",
@@ -6181,9 +6186,9 @@
       "ID": "achievement_22",
       "SetID": "271ol84",
       "Name": "Distinguished",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_23",
@@ -6207,7 +6212,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_26",
@@ -6215,7 +6220,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_27",
@@ -6263,7 +6268,7 @@
       "Name": "Scrap collector",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_32",
@@ -6271,7 +6276,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_33",
@@ -6295,7 +6300,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1841
     },
     {
       "ID": "achievement_36",
@@ -6303,7 +6308,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_37",
@@ -6311,7 +6316,7 @@
       "Name": "Off to a good start",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1339
     },
     {
       "ID": "achievement_38",
@@ -6335,7 +6340,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_40",
@@ -6343,7 +6348,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1088
     },
     {
       "ID": "achievement_41",
@@ -6351,7 +6356,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_42",
@@ -6375,7 +6380,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 563
+      "UsersEstimate": 565
     },
     {
       "ID": "achievement_45",
@@ -6423,7 +6428,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_50",
@@ -6479,7 +6484,7 @@
       "Name": "Support the troops",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_57",
@@ -6511,7 +6516,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_60",
@@ -6574,13 +6579,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2087,
+      "Progressed": 2092,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2087,
+      "Progressed": 2092,
       "Completed": 1
     }
   ],
@@ -6588,8 +6593,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:32.4174997+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:27.1325443+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:59:28.4638095+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:32.4175605+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:02:12.5298131+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:27.1326096+00:00"
 }

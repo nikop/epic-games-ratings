@@ -6,7 +6,7 @@
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
@@ -591,7 +591,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6113,
+  "EOS_Progressed": 6115,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
@@ -9011,6 +9011,11 @@
       "Time": "2023-12-24T12:07:46.4251856+00:00",
       "NumProgressed": 6113,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-24T13:10:32.2038181+00:00",
+      "NumProgressed": 6115,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9196,9 +9201,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 122
     },
     {
       "ID": "30",
@@ -9236,9 +9241,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 245
     },
     {
       "ID": "35",
@@ -9501,13 +9506,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6113,
+      "Progressed": 6115,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6113,
+      "Progressed": 6115,
       "Completed": 7
     }
   ],
@@ -9515,8 +9520,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T10:58:25.5451673+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:07:46.4251851+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:10:32.2038176+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:58:31.7342561+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:07:46.4252544+00:00"
+  "LastUpdate_Ratings": "2023-12-24T13:01:09.2572973+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:10:32.2038943+00:00"
 }

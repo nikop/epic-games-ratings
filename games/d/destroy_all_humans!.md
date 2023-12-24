@@ -8,24 +8,24 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Kaijuiced | 65.00% | ~86 |
 | Shop Til They Drop | 64.00% | ~85 |
-| Lie Back and Think of Albion | 60.00% | ~80 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~77 |
+| Lie Back and Think of Albion | 61.00% | ~81 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~78 |
 | Yettisoned | 56.00% | ~74 |
 | I Look Up As I Walk to Takoshima | 53.00% | ~70 |
-| Lobster Blisque | 50.00% | ~66 |
-| Perfect Probulator | 49.00% | ~65 |
-| Fly Me to the Moon Base | 43.00% | ~57 |
-| Pimp My Raid | 43.00% | ~57 |
-| Earthly Pleasures | 38.00% | ~51 |
-| Ducks in a Row, Fish in a Barrel | 38.00% | ~51 |
-| Freshly Squeezed | 36.00% | ~48 |
+| Lobster Blisque | 51.00% | ~68 |
+| Perfect Probulator | 50.00% | ~66 |
+| Fly Me to the Moon Base | 44.00% | ~59 |
+| Pimp My Raid | 44.00% | ~59 |
+| Ducks in a Row, Fish in a Barrel | 40.00% | ~53 |
+| Earthly Pleasures | 39.00% | ~52 |
+| Freshly Squeezed | 37.00% | ~49 |
 | Upgreatest | 32.00% | ~43 |
-| Forbidden Donut | 29.00% | ~39 |
+| Forbidden Donut | 30.00% | ~40 |
 | Bodied Sattva | 27.00% | ~36 |
 | Trans-Siberian Express | 26.00% | ~35 |
 | Deincarnated | 25.00% | ~33 |
 | Rock of the Bay | 25.00% | ~33 |
-| Furon Fashion | 23.00% | ~31 |
+| Furon Fashion | 24.00% | ~32 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~28 |
 | Arkvoodle Doodle | 17.00% | ~23 |
 | If You Know What I Mean | 14.00% | ~19 |
@@ -42,8 +42,8 @@ Number of Ratings: 85  (23.09.2022)
 | Cult Following | 4.00% | ~5 |
 | Path of the Furon | 4.00% | ~5 |
 | To Russia With Love | 3.00% | ~4 |
+| Transmitting From Sol-3 | 2.00% | ~3 |
 | Toilet Break | 2.00% | ~3 |
-| Transmitting From Sol-3 | 0.80% | ~1 |
 | Steezy Down the Spine | 0.80% | ~1 |
 | Against All Odds | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)

@@ -16,13 +16,13 @@ Rating: 4.68 (Ranked 258)
 | Spirit animal | 7.00% | ~58 |
 | Liar Liar | 6.00% | ~49 |
 | A friend in need... | 6.00% | ~49 |
+| Sneak peek | 5.00% | ~41 |
 | Fishing fanatic | 5.00% | ~41 |
 | The word around is... | 5.00% | ~41 |
 | The cycle acknowledged | 5.00% | ~41 |
 | Queen | 5.00% | ~41 |
 | Baba Yaga | 5.00% | ~41 |
 | Extensive retelling | 4.00% | ~33 |
-| Sneak peek | 4.00% | ~33 |
 | Favorite | 4.00% | ~33 |
 | Goal! | 3.00% | ~25 |
 | Both sides | 3.00% | ~25 |

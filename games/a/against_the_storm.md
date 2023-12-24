@@ -8,10 +8,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,146 |
 | Overgrown Library | 6.00% | ~1,146 |
+| Taking Action | 5.00% | ~955 |
 | Petrified Necropolis | 5.00% | ~955 |
 | First Real Expedition | 4.00% | ~764 |
 | The Marshlands | 4.00% | ~764 |
-| Taking Action | 4.00% | ~764 |
 | No Deaths | 4.00% | ~764 |
 | Frosts | 4.00% | ~764 |
 | Land of Greed | 4.00% | ~764 |
@@ -50,11 +50,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.60% | ~115 |
 | Dangerous Lands | 0.60% | ~115 |
 | Forsaken Gods Temple | 0.60% | ~115 |
-| Forbidden Lands | 0.50% | ~95 |
+| Forbidden Lands | 0.50% | ~96 |
 | Feeding The People | 0.40% | ~76 |
+| Like a Machine | 0.40% | ~76 |
 | Fox Utopia | 0.40% | ~76 |
 | Blood Flower Farmer | 0.30% | ~57 |
-| Like a Machine | 0.30% | ~57 |
 | Human Utopia | 0.20% | ~38 |
 | Prestigious Expedition | 0.20% | ~38 |
 | Paradise | 0.10% | ~19 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,092 (Ranked 150)  
+Progressed: 19,101 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,092 | 38 |
+| 2023-12-24 | 19,101 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,286 (Ranked 176)  

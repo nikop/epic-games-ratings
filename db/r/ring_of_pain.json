@@ -3748,9 +3748,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241581,
+  "EOS_Progressed": 241587,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29333,6 +29333,11 @@
       "Time": "2023-12-24T12:09:34.7088324+00:00",
       "NumProgressed": 241581,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T13:12:29.3872657+00:00",
+      "NumProgressed": 241587,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29360,7 +29365,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "BOSSPIT",
@@ -29430,9 +29435,9 @@
       "ID": "DEAL99DAMAGE",
       "SetID": "5l8oe0h",
       "Name": "Max Damage!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 966
     },
     {
       "ID": "DEPTH12",
@@ -29440,7 +29445,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "DEPTH12HARD",
@@ -29496,7 +29501,7 @@
       "Name": "R.I.P",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "DIEBOSS",
@@ -29536,7 +29541,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -29576,7 +29581,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -29608,7 +29613,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "FULLINVENTORY",
@@ -29616,7 +29621,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -29776,7 +29781,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -29848,7 +29853,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "KILLREFLECT10",
@@ -29880,7 +29885,7 @@
       "Name": "Shootout",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -30024,7 +30029,7 @@
       "Name": "Toxic",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -30112,7 +30117,7 @@
       "Name": "Sneaky",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "STEALTH100",
@@ -30400,7 +30405,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -30447,13 +30452,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241581,
+      "Progressed": 241587,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3061,
+      "Progressed": 3067,
       "Completed": 411
     }
   ],
@@ -30461,8 +30466,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T12:09:34.708832+00:00",
+  "LastChanged_Achievements": "2023-12-24T13:12:29.3872655+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T11:57:13.3715384+00:00",
-  "LastUpdate_Achievements": "2023-12-24T12:09:34.7090668+00:00"
+  "LastUpdate_Ratings": "2023-12-24T12:59:43.2508224+00:00",
+  "LastUpdate_Achievements": "2023-12-24T13:12:29.3875021+00:00"
 }

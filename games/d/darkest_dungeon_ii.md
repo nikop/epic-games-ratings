@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~442 |
-| Lost and Found | 6.00% | ~265 |
+| Malpractice Assurance | 10.00% | ~444 |
+| Lost and Found | 6.00% | ~266 |
 | Autodidact | 5.00% | ~6,478 |
-| This guy... again? | 5.00% | ~221 |
-| This Belongs in a Museum | 4.00% | ~5,182 |
-| Creep and Sleep | 4.00% | ~5,182 |
-| Catch and Decease | 4.00% | ~5,182 |
-| Overdue Notice | 4.00% | ~5,182 |
-| Escape from the Black Hole | 4.00% | ~5,182 |
-| Ploughshares to Swords | 4.00% | ~177 |
-| Bloody Graduation | 4.00% | ~177 |
+| This guy... again? | 5.00% | ~222 |
+| This Belongs in a Museum | 4.00% | ~5,183 |
+| Creep and Sleep | 4.00% | ~5,183 |
+| Catch and Decease | 4.00% | ~5,183 |
+| Overdue Notice | 4.00% | ~5,183 |
+| Escape from the Black Hole | 4.00% | ~5,183 |
+| Ploughshares to Swords | 4.00% | ~178 |
+| Bloody Graduation | 4.00% | ~178 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,887 |
 | Serenity Now! | 3.00% | ~3,887 |
 | It Rings a Bell | 3.00% | ~3,887 |
@@ -62,7 +62,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 0.90% | ~1,166 |
 | Slap on the Wrist | 0.90% | ~40 |
 | For Old Time' Sake | 0.90% | ~40 |
-| Body of Work | 0.80% | ~1,036 |
+| Body of Work | 0.80% | ~1,037 |
 | Shrine of Reflection | 0.70% | ~907 |
 | Clearing the Ledger | 0.60% | ~777 |
 | Triage | 0.60% | ~777 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,553 (Ranked 87)  
+Progressed: 129,570 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-21 | 128,979 | 3 |
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
-| 2023-12-24 | 129,553 | 3 |
+| 2023-12-24 | 129,570 | 3 |
 ## Awards
 Max (Character Customization): 7,851  (Ranked 50)  
 Sum: 21,004 (Ranked 58)  
