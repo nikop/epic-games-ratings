@@ -3,11 +3,11 @@
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
   "Ranking_Rating": 281,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1007,
+  "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2193,6 +2193,11 @@
       "Time": "2023-12-24T07:09:36.2094284+00:00",
       "NumProgressed": 1007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T10:09:06.2316487+00:00",
+      "NumProgressed": 1008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2212,7 +2217,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2268,7 +2273,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -2284,7 +2289,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2340,7 +2345,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2356,7 +2361,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2412,14 +2417,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1007,
+      "Progressed": 1008,
       "Completed": 0
     }
   ],
@@ -2427,8 +2432,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:09:59.6019896+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:06.2316482+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.5804481+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:53.6916491+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:09:59.6020118+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:04.5825348+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:06.2316749+00:00"
 }

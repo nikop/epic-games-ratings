@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-12-23T12:04:15.2308895+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T10:04:30.4554641+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -558,7 +563,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 86
     },
@@ -622,9 +627,9 @@
       "ID": "Epic_DeathCounter_100",
       "SetID": "ba1m2fc",
       "Name": "Reincarnation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_DesperateSurvival_10",
@@ -654,9 +659,9 @@
       "ID": "Epic_Experience_100000000",
       "SetID": "ba1m2fc",
       "Name": "Sea of Chaos",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_Firefly_1",
@@ -664,7 +669,7 @@
       "Name": "Stars\u0027 Shimmer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Epic_Formula_12",
@@ -678,9 +683,9 @@
       "ID": "Epic_FruitPlanet_1",
       "SetID": "ba1m2fc",
       "Name": "Bad Apple",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_GoldenCity_1",
@@ -712,7 +717,7 @@
       "Name": "Heart-aimed Arrow",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -720,7 +725,7 @@
       "Name": "Exorcism",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -744,7 +749,7 @@
       "Name": "Pseudo-redemption",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -838,9 +843,9 @@
       "ID": "Epic_RocketCat_1",
       "SetID": "ba1m2fc",
       "Name": "Kitty of Mass Destruction",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_RustySickle_1",
@@ -862,9 +867,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -926,9 +931,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -943,14 +948,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:05:48.6073436+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:04:30.4554632+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.2904596+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:42.677261+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:05:48.6073725+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:57.6313769+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:04:30.455498+00:00"
 }

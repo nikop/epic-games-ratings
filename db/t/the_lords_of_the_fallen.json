@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 189,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -1087,6 +1087,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 642,
       "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2023-12-24T09:59:56.8160672+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 272
     }
   ],
   "ReviewsDisabled": false,
@@ -1161,9 +1167,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7418,
+  "EOS_Progressed": 7432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2863,
+  "EOS_NewPlayers": 2861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6116,6 +6122,11 @@
       "Time": "2023-12-24T09:09:29.323388+00:00",
       "NumProgressed": 7418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-24T10:08:44.5779726+00:00",
+      "NumProgressed": 7432,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -6631,16 +6642,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 7418,
+      "Progressed": 7432,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-24T07:00:22.178783+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:09:29.3233875+00:00",
+  "LastChanged": "2023-12-24T09:59:56.816067+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:08:44.5779723+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:20.6080478+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:01:41.3635167+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:09:29.3234686+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:59:56.8160674+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:08:44.5780366+00:00"
 }

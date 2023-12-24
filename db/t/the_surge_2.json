@@ -3,8 +3,8 @@
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
   "Ranking_Rating": 890,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 231,
@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2358,
+  "EOS_Progressed": 2359,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -3818,6 +3818,11 @@
       "Time": "2023-12-24T08:04:22.3005946+00:00",
       "NumProgressed": 2358,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-24T10:03:46.007896+00:00",
+      "NumProgressed": 2359,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3845,7 +3850,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACHV_04",
@@ -3853,7 +3858,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACHV_05",
@@ -3869,7 +3874,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHV_07",
@@ -3933,7 +3938,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHV_15",
@@ -4029,7 +4034,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "ACHV_27",
@@ -4037,7 +4042,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACHV_28",
@@ -4061,7 +4066,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACHV_31",
@@ -4077,7 +4082,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHV_33",
@@ -4101,7 +4106,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACHV_36",
@@ -4133,7 +4138,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACHV_40",
@@ -4205,7 +4210,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHV_49",
@@ -4269,7 +4274,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHV_57",
@@ -4284,7 +4289,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2358,
+      "Progressed": 2359,
       "Completed": 13
     }
   ],
@@ -4292,8 +4297,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:45.7310472+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:46.0078956+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:18.9287065+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:45.7310982+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:41.7090468+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:46.007944+00:00"
 }

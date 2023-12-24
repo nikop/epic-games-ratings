@@ -6,38 +6,38 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~729,863 |
-| The Blues | 85.00% | ~626,650 |
-| Fast | 66.00% | ~486,575 |
-| Healthbar | 55.00% | ~405,479 |
-| Force Cube | 53.00% | ~390,735 |
-| Double Jump | 48.00% | ~353,873 |
-| Regeneration | 47.00% | ~346,500 |
-| Triple Jump | 43.00% | ~317,011 |
-| Climb the hill | 42.00% | ~309,639 |
-| Through the fire pipe | 39.00% | ~287,522 |
-| MacGuffin | 38.00% | ~280,149 |
-| Just once | 37.00% | ~272,777 |
-| Armor | 30.00% | ~221,170 |
-| True holy spirit | 28.00% | ~206,426 |
-| That's how electronics work obviously | 27.00% | ~199,053 |
-| Force Cube Catapult | 25.00% | ~184,309 |
-| Holy Sword | 23.00% | ~169,564 |
-| Telefrag | 23.00% | ~169,564 |
-| Freed from prison | 21.00% | ~154,819 |
-| Stomp | 21.00% | ~154,819 |
+| Out of bed | 99.00% | ~729,867 |
+| The Blues | 85.00% | ~626,653 |
+| Fast | 66.00% | ~486,578 |
+| Healthbar | 55.00% | ~405,481 |
+| Force Cube | 53.00% | ~390,737 |
+| Double Jump | 48.00% | ~353,875 |
+| Regeneration | 47.00% | ~346,502 |
+| Triple Jump | 43.00% | ~317,013 |
+| Climb the hill | 42.00% | ~309,640 |
+| Through the fire pipe | 39.00% | ~287,523 |
+| MacGuffin | 38.00% | ~280,151 |
+| Just once | 37.00% | ~272,778 |
+| Armor | 30.00% | ~221,172 |
+| True holy spirit | 28.00% | ~206,427 |
+| That's how electronics work obviously | 27.00% | ~199,055 |
+| Force Cube Catapult | 25.00% | ~184,310 |
+| Holy Sword | 23.00% | ~169,565 |
+| Telefrag | 23.00% | ~169,565 |
+| Freed from prison | 21.00% | ~154,820 |
+| Stomp | 21.00% | ~154,820 |
 | Double Health | 19.00% | ~140,075 |
-| Buckle | 18.00% | ~132,702 |
-| Green Keycard | 18.00% | ~132,702 |
+| Buckle | 18.00% | ~132,703 |
+| Green Keycard | 18.00% | ~132,703 |
 | Rattle Hag | 16.00% | ~117,958 |
-| All Shells | 15.00% | ~110,585 |
+| All Shells | 15.00% | ~110,586 |
 | Beam | 14.00% | ~103,213 |
 | 9 | 14.00% | ~103,213 |
 | Health Drink | 13.00% | ~95,841 |
 | Helped a star | 13.00% | ~95,841 |
 | Purple Cube | 13.00% | ~95,841 |
 | Supraball Noob | 13.00% | ~95,841 |
-| Strong | 12.00% | ~88,468 |
+| Strong | 12.00% | ~88,469 |
 | Blue King's lair | 11.00% | ~81,096 |
 | Payback | 11.00% | ~81,096 |
 | Got the coins back | 11.00% | ~81,096 |
@@ -51,13 +51,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,724 |
 | Translocator | 10.00% | ~73,724 |
 | Yellow Shot Button | 10.00% | ~73,724 |
-| Moon Door | 9.00% | ~66,351 |
-| Momentum | 9.00% | ~66,351 |
-| Through the tiny pipe | 9.00% | ~66,351 |
-| Win! | 9.00% | ~66,351 |
+| Moon Door | 9.00% | ~66,352 |
+| Momentum | 9.00% | ~66,352 |
+| Through the tiny pipe | 9.00% | ~66,352 |
+| Win! | 9.00% | ~66,352 |
 | The real real teleported man | 8.00% | ~58,979 |
 | Well deserved | 6.00% | ~44,234 |
-| Super Sword | 4.00% | ~29,489 |
+| Super Sword | 4.00% | ~29,490 |
 | Happiness | 3.00% | ~22,117 |
 | All Chests | 2.00% | ~14,745 |
 | Poor ancestors | 2.00% | ~14,745 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~737 |
 | DLC: Top of the world | 0.10% | ~737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,235 (Ranked 24)  
+Progressed: 737,239 (Ranked 24)  
 Completed: 772 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,14 +353,14 @@ Completed: 772 (0.10%) (Ranked 305)
 | 2023-12-21 | 736,865 | 772 |
 | 2023-12-22 | 736,999 | 772 |
 | 2023-12-23 | 737,193 | 772 |
-| 2023-12-24 | 737,235 | 772 |
+| 2023-12-24 | 737,239 | 772 |
 ## Awards
-Max (Challenging Puzzles): 7,748  (Ranked 51)  
-Sum: 10,110 (Ranked 92)  
+Max (Challenging Puzzles): 7,750  (Ranked 51)  
+Sum: 10,112 (Ranked 92)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,748 |
+| This game features Challenging Puzzles | 7,750 |
 | This game is Educational | 284 |
 | This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 280 |
@@ -581,3 +581,4 @@ Diff (max vs sum): -41
 | 2023-12-17 | 4.61 | - | 7,746 | 10,108 |
 | 2023-12-19 | 4.61 | - | 7,747 | 10,109 |
 | 2023-12-20 | 4.61 | - | 7,748 | 10,110 |
+| 2023-12-24 | 4.61 | - | 7,750 | 10,112 |

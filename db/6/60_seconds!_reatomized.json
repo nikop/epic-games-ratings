@@ -3,11 +3,11 @@
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
   "Ranking_Rating": 566,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5900,
+  "EOS_Progressed": 5901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8211,6 +8211,11 @@
       "Time": "2023-12-24T09:04:44.7959228+00:00",
       "NumProgressed": 5900,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T10:03:45.3966738+00:00",
+      "NumProgressed": 5901,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -8222,7 +8227,7 @@
       "Name": "Souper!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "ACH_10_WATER",
@@ -8230,7 +8235,7 @@
       "Name": "2-1-6",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3481
+      "UsersEstimate": 3482
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -8294,7 +8299,7 @@
       "Name": "All thumbs",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5428
+      "UsersEstimate": 5429
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -8310,7 +8315,7 @@
       "Name": "Out of the Bag",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "ACH_CATDOM",
@@ -8350,7 +8355,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "ACH_DEEDEE",
@@ -8366,7 +8371,7 @@
       "Name": "Pacifist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -8438,7 +8443,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4543
+      "UsersEstimate": 4544
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -8518,7 +8523,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5369
+      "UsersEstimate": 5370
     },
     {
       "ID": "ACH_MADHATTER",
@@ -8566,7 +8571,7 @@
       "Name": "Duck and cover!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "ACH_PANZER",
@@ -8590,7 +8595,7 @@
       "Name": "A gift",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 3245
+      "UsersEstimate": 3246
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -8622,7 +8627,7 @@
       "Name": "The Dark Side",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "ACH_ROGUE",
@@ -8638,7 +8643,7 @@
       "Name": "I will survive!",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5487
+      "UsersEstimate": 5488
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -8654,7 +8659,7 @@
       "Name": "Survivalist",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 5310
+      "UsersEstimate": 5311
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -8662,7 +8667,7 @@
       "Name": "Last man standing",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4720
+      "UsersEstimate": 4721
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -8670,7 +8675,7 @@
       "Name": "Prepper",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5546
+      "UsersEstimate": 5547
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -8701,7 +8706,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 5900,
+      "Progressed": 5901,
       "Completed": 1
     }
   ],
@@ -8709,8 +8714,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-21T20:59:22.4145876+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:44.7959223+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:45.3966733+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.8675807+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:07.1092319+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:44.7960025+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:56:54.9693898+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:45.3967605+00:00"
 }

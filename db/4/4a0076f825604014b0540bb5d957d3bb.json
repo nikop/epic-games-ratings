@@ -593,9 +593,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -633,9 +633,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:10:37.9594038+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:32.97836+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:00:44.2245027+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:10:37.9594212+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:59:18.6651181+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:32.9783751+00:00"
 }

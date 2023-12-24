@@ -6,7 +6,7 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
@@ -388,9 +388,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5049,
+  "EOS_Progressed": 5050,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4013,6 +4013,11 @@
       "Time": "2023-12-24T09:04:09.2410798+00:00",
       "NumProgressed": 5049,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-24T10:03:20.8018071+00:00",
+      "NumProgressed": 5050,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4072,7 +4077,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4080,7 +4085,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4104,7 +4109,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -4112,7 +4117,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -4128,7 +4133,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -4136,7 +4141,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -4176,7 +4181,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -4184,7 +4189,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -4216,7 +4221,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -4232,7 +4237,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -4240,7 +4245,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4248,7 +4253,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -4264,7 +4269,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -4272,7 +4277,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4296,7 +4301,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4312,7 +4317,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4376,7 +4381,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -4552,22 +4557,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5049,
+      "Progressed": 5050,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-22T16:02:12.5580517+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:09.2410792+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:20.8018068+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:38.2408105+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:09.2411438+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:15.3018928+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:20.8018746+00:00"
 }

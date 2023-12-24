@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3748,9 +3748,9 @@
       "Count": 747
     }
   ],
-  "EOS_Progressed": 241575,
+  "EOS_Progressed": 241578,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29318,6 +29318,11 @@
       "Time": "2023-12-24T09:11:01.9275703+00:00",
       "NumProgressed": 241575,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-24T10:09:51.2909153+00:00",
+      "NumProgressed": 241578,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29327,9 +29332,9 @@
       "ID": "ACCEPT500GIFTS",
       "SetID": "5l8oe0h",
       "Name": "Thank You, Friend",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 966
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -29927,9 +29932,9 @@
       "ID": "MULTIKILL30",
       "SetID": "5l8oe0h",
       "Name": "C-C-Combo",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1691
     },
     {
       "ID": "NOEPIC",
@@ -30287,9 +30292,9 @@
       "ID": "WINWITHOUTDISCARD",
       "SetID": "5l8oe0h",
       "Name": "Precious",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 725
     },
     {
       "ID": "WINWITHSPOON",
@@ -30432,13 +30437,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241575,
+      "Progressed": 241578,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3055,
+      "Progressed": 3058,
       "Completed": 411
     }
   ],
@@ -30446,8 +30451,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-23T19:57:07.9399081+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:11:01.9275696+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:51.2909149+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:32.7947028+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:11:01.9278162+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:11.8807978+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:51.291161+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 74.00% | ~75 |
-| A Loyal Friend | 37.00% | ~38 |
+| A Loyal Friend | 38.00% | ~39 |
 | Abandon Ship! | 25.00% | ~26 |
 | The Tomb of Kih-Oskh | 20.00% | ~20 |
 | The Weighing of the Soul | 18.00% | ~18 |
@@ -19,16 +19,16 @@
 | Dynamite, Treason and Coconuts | 7.00% | ~7 |
 | Save a Friend | 7.00% | ~7 |
 | The Eyes! | 6.00% | ~6 |
+| Keep the Doctor Away | 6.00% | ~6 |
 | Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
-| Keep the Doctor Away | 5.00% | ~5 |
-| Just a Palm Tree | 4.00% | ~4 |
+| Just a Palm Tree | 5.00% | ~5 |
 | Under the Hood | 4.00% | ~4 |
 | Long Live Gaipajama! | 4.00% | ~4 |
 | Eyes Shut | 4.00% | ~4 |
+| Tintin, Reporter | 3.00% | ~3 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
-| Tintin, Reporter | 2.00% | ~2 |
 | A Diagnosis | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
 | Subtlety | 2.00% | ~2 |

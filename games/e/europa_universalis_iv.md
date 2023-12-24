@@ -13,9 +13,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 0.30% | ~1,448 |
 | Seriously?! | 0.30% | ~1,448 |
 | That is mine! | 0.30% | ~1,448 |
-| Cold War | 0.20% | ~965 |
-| It's all about the money | 0.20% | ~965 |
-| True Catholic | 0.20% | ~965 |
+| Cold War | 0.20% | ~966 |
+| It's all about the money | 0.20% | ~966 |
+| True Catholic | 0.20% | ~966 |
 | The 52 Garhs | 0.10% | ~483 |
 | I don't like sand | 0.10% | ~483 |
 | A Blessed Nation | 0.10% | ~483 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,728 (Ranked 40)  
+Progressed: 482,765 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 1 (0.00%) (Ranked 388)
 | 2023-12-21 | 480,795 | 1 |
 | 2023-12-22 | 481,537 | 1 |
 | 2023-12-23 | 482,495 | 1 |
-| 2023-12-24 | 482,728 | 1 |
+| 2023-12-24 | 482,765 | 1 |
 ## Awards
 Max (Educational): 7,528  (Ranked 54)  
 Sum: 62,039 (Ranked 24)  

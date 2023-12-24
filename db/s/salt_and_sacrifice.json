@@ -16210,9 +16210,9 @@
       "ID": "mummy",
       "SetID": "2jelldm",
       "Name": "The Exalted",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 38040
+      "UsersEstimate": 38720
     },
     {
       "ID": "necromancer",
@@ -16354,8 +16354,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-12-23T01:39:25.5980493+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:05:02.5636994+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:57.7503571+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:21.9381335+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:59.4054586+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:05:02.5637881+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:08.1825702+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:57.7504683+00:00"
 }

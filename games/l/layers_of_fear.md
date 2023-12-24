@@ -10,9 +10,9 @@
 | It's covered up for a reason | 49.00% | ~94 |
 | Scraps of love | 45.00% | ~86 |
 | The artist’s impression | 42.00% | ~81 |
-| Do what you have to | 40.00% | ~77 |
-| Sign of weakness | 35.00% | ~67 |
-| Refuse to look | 32.00% | ~61 |
+| Do what you have to | 41.00% | ~79 |
+| Sign of weakness | 36.00% | ~69 |
+| Refuse to look | 33.00% | ~63 |
 | Face your fears | 26.00% | ~50 |
 | Finished it | 26.00% | ~50 |
 | Whispers long forgotten | 14.00% | ~27 |

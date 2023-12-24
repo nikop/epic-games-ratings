@@ -6,30 +6,30 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,467 |
-| Exploitative | 4.00% | ~20,373 |
-| Point Shooting | 4.00% | ~20,373 |
-| Wet Feet | 4.00% | ~20,373 |
-| High Speed Low Drag | 3.00% | ~15,280 |
-| Lucky | 3.00% | ~15,280 |
-| Stylin' | 3.00% | ~15,280 |
-| Turf War | 3.00% | ~15,280 |
+| Wallbanger | 5.00% | ~25,468 |
+| Exploitative | 4.00% | ~20,374 |
+| Point Shooting | 4.00% | ~20,374 |
+| Wet Feet | 4.00% | ~20,374 |
+| High Speed Low Drag | 3.00% | ~15,281 |
+| Lucky | 3.00% | ~15,281 |
+| Stylin' | 3.00% | ~15,281 |
+| Turf War | 3.00% | ~15,281 |
 | Banged | 2.00% | ~10,187 |
 | Checkpoint Victory | 2.00% | ~10,187 |
 | First Blood | 2.00% | ~10,187 |
 | Flaccid Paralysis | 2.00% | ~10,187 |
 | Push Victory | 2.00% | ~10,187 |
 | Self-destructive | 2.00% | ~10,187 |
-| Blindfire | 1.00% | ~5,093 |
-| Ruthless | 1.00% | ~5,093 |
-| Semper Paratus | 1.00% | ~5,093 |
+| Blindfire | 1.00% | ~5,094 |
+| Ruthless | 1.00% | ~5,094 |
+| Semper Paratus | 1.00% | ~5,094 |
 | Carrying | 0.90% | ~4,584 |
 | Efficient | 0.90% | ~4,584 |
 | Mount & Gun | 0.90% | ~4,584 |
 | Personal | 0.90% | ~4,584 |
 | Grounded | 0.80% | ~4,075 |
 | Play to Win | 0.80% | ~4,075 |
-| Special Delivery | 0.70% | ~3,565 |
+| Special Delivery | 0.70% | ~3,566 |
 | Firefight Victory | 0.60% | ~3,056 |
 | #1 | 0.60% | ~3,056 |
 | Cinematic | 0.50% | ~2,547 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~509 |
 | Road Hazard | 0.10% | ~509 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509,331 (Ranked 37)  
+Progressed: 509,360 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,14 +290,14 @@ Completed: 2 (0.00%) (Ranked 388)
 | 2023-12-21 | 507,028 | 2 |
 | 2023-12-22 | 507,864 | 2 |
 | 2023-12-23 | 508,934 | 2 |
-| 2023-12-24 | 509,331 | 2 |
+| 2023-12-24 | 509,360 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 410  (Ranked 235)  
-Sum: 3,275 (Ranked 177)  
+Max (Quickly Understood Controls): 412  (Ranked 235)  
+Sum: 3,277 (Ranked 177)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 410 |
+| This game has Quickly Understood Controls | 412 |
 | This game has Challenging Combat | 406 |
 | This game is Extremely Fun | 379 |
 | This game has Competitive Players | 377 |
@@ -628,3 +628,4 @@ Diff (max vs sum): 58
 | 2023-12-21 | 4.61 | - | 407 | 3,262 |
 | 2023-12-22 | 4.61 | - | 410 | 3,268 |
 | 2023-12-23 | 4.61 | - | 410 | 3,275 |
+| 2023-12-24 | 4.61 | - | 412 | 3,277 |

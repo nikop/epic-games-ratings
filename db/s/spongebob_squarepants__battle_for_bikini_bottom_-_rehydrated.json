@@ -5,10 +5,10 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -901,6 +901,11 @@
       "Time": "2023-12-24T09:04:19.606838+00:00",
       "NumProgressed": 300,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T10:03:27.9075363+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -983,9 +988,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1015,9 +1020,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1119,9 +1124,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1129,15 +1134,15 @@
       "Name": "Sponge Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
       "SetID": "biiejkc",
       "Name": "Squirrel Smasher",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1168,15 +1173,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:19.6068376+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:27.9075357+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:16.2449022+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:19.6068608+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:40.2832749+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:27.9075564+00:00"
 }

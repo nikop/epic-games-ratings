@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 78.00% | ~177 |
-| Purification Pioneer | 74.00% | ~168 |
+| Meissa's Savior | 78.00% | ~178 |
+| Purification Pioneer | 74.00% | ~169 |
 | Mechanical Buddy | 69.00% | ~157 |
-| Dicesmithing Time! | 60.00% | ~136 |
+| Dicesmithing Time! | 60.00% | ~137 |
 | Sanctuary Guardian | 54.00% | ~123 |
 | Endless Tricks | 48.00% | ~109 |
-| Wild's Keeper | 45.00% | ~102 |
-| Mind Illuminator | 42.00% | ~95 |
-| Noctuan Champion | 35.00% | ~79 |
-| Stellar Dismantler | 34.00% | ~77 |
+| Wild's Keeper | 45.00% | ~103 |
+| Mind Illuminator | 42.00% | ~96 |
+| Noctuan Champion | 35.00% | ~80 |
+| Stellar Dismantler | 34.00% | ~78 |
 | Anomaly Destroyer | 30.00% | ~68 |
-| Astral Adventurer | 30.00% | ~68 |
-| Star Killer | 27.00% | ~61 |
-| Eridanian Champion | 24.00% | ~54 |
+| Astral Adventurer | 29.00% | ~66 |
+| Star Killer | 27.00% | ~62 |
+| Eridanian Champion | 24.00% | ~55 |
 | Loyal Partner | 22.00% | ~50 |
 | Lacertian Champion | 22.00% | ~50 |
-| Apian Champion | 20.00% | ~45 |
+| Apian Champion | 20.00% | ~46 |
 | Shard Spender | 18.00% | ~41 |
 | Unbeatable | 17.00% | ~39 |
 | Behenian Champion | 16.00% | ~36 |
 | Sadistic Plan | 15.00% | ~34 |
 | Astral Seeker | 10.00% | ~23 |
 | Aquarian Champion | 10.00% | ~23 |
-| Heavy Purger | 9.00% | ~20 |
-| Stellar Haste | 9.00% | ~20 |
-| Wave Bender | 9.00% | ~20 |
+| Heavy Purger | 9.00% | ~21 |
+| Stellar Haste | 9.00% | ~21 |
+| Wave Bender | 9.00% | ~21 |
 | Favored by the Cosmos | 8.00% | ~18 |
 | Heart Gate | 8.00% | ~18 |
 | The Corruption Goddess | 8.00% | ~18 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 401)  
+Progressed: 228 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,4 +162,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-21 | 206 | 0 |
 | 2023-12-22 | 214 | 0 |
 | 2023-12-23 | 223 | 0 |
-| 2023-12-24 | 227 | 0 |
+| 2023-12-24 | 228 | 0 |

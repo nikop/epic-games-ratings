@@ -3,8 +3,8 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_Rating": 424,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 184,
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2501,6 +2501,11 @@
       "Time": "2023-12-24T09:10:07.7131677+00:00",
       "NumProgressed": 937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T10:09:11.886223+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2601,7 +2606,7 @@
       "Name": "Another giant",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AchvKrautaAlive",
@@ -2617,7 +2622,7 @@
       "Name": "Volcanologist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -2665,7 +2670,7 @@
       "Name": "Got lost again",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchvPutAsleep",
@@ -2689,7 +2694,7 @@
       "Name": "The Camp",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "AchvReachCity",
@@ -2713,7 +2718,7 @@
       "Name": "Survivors",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2729,7 +2734,7 @@
       "Name": "The End",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "AchvUnity",
@@ -2744,7 +2749,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 0
     }
   ],
@@ -2752,8 +2757,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-23T17:00:23.3213831+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:10:07.7131672+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:11.8862226+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:12.0751955+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:10:07.7131921+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:56:58.1498429+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:11.8862597+00:00"
 }

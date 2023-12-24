@@ -3,11 +3,11 @@
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -568,6 +568,11 @@
       "Time": "2023-12-23T19:03:29.915179+00:00",
       "NumProgressed": 458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T10:03:46.092523+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -635,7 +640,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "different-items2",
@@ -657,9 +662,9 @@
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 211
     },
     {
       "ID": "finished-quest-flight",
@@ -689,9 +694,9 @@
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "finished-quest-rat",
@@ -699,7 +704,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "finished-quest-reaper",
@@ -721,9 +726,9 @@
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "finished-quest-sword",
@@ -745,9 +750,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 124
     },
     {
       "ID": "last-hero",
@@ -771,7 +776,7 @@
       "Name": "Wide Selection",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "unlock-mutations",
@@ -787,15 +792,15 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 353
     },
     {
       "ID": "win-first-level",
@@ -803,7 +808,7 @@
       "Name": "Good start!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "win-koth-fights1",
@@ -858,7 +863,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 1
     }
   ],
@@ -866,8 +871,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:45.7597947+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:46.0925225+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:01:06.827632+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:45.7598322+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:59:33.1757104+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:46.0925473+00:00"
 }

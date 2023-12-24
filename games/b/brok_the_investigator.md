@@ -25,13 +25,13 @@
 | Tramp Saver | 10.00% | ~3 |
 | Bear Cop | 6.00% | ~2 |
 | Secret Locker | 6.00% | ~2 |
+| Toilets Tormentor | 3.00% | ~1 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Pushy, pushy | 0.00% | ~0 |
 | Summary Filled | 0.00% | ~0 |
 | The World Is My Doormat | 0.00% | ~0 |
-| Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 572)  

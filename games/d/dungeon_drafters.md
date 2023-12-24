@@ -8,8 +8,8 @@
 | Treasure Hunting | 40.00% | ~48 |
 | Shine! | 32.00% | ~39 |
 | Friend! | 31.00% | ~38 |
-| Uncut Gem | 29.00% | ~35 |
-| Clear as Water | 26.00% | ~31 |
+| Uncut Gem | 30.00% | ~36 |
+| Clear as Water | 27.00% | ~33 |
 | Setting Off | 25.00% | ~30 |
 | Card Collector | 22.00% | ~27 |
 | Riddlesolver | 21.00% | ~25 |

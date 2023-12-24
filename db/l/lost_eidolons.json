@@ -3,8 +3,8 @@
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
   "Ranking_Rating": 818,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 3777,
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -5,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1961,6 +1961,11 @@
       "Time": "2023-12-23T22:06:01.7788477+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T10:05:12.3499691+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2004,7 +2009,7 @@
       "Name": "The First Step",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "06",
@@ -2020,7 +2025,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "08",
@@ -2124,7 +2129,7 @@
       "Name": "Digging Deep",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "21",
@@ -2155,7 +2160,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 1
     }
   ],
@@ -2163,8 +2168,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:06:48.8369706+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:05:12.3499687+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:46.3847719+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:06:48.8369923+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:20.475218+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:05:12.3499892+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 689,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -484,10 +484,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3573,
-  "EOS_Completed": 139,
+  "EOS_Completed": 140,
   "EOS_NewPlayers": 151,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.89,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -5953,6 +5953,11 @@
       "Time": "2023-12-24T09:05:23.0883037+00:00",
       "NumProgressed": 3573,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-12-24T10:04:11.9630528+00:00",
+      "NumProgressed": 3573,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6076,15 +6081,15 @@
       "ID": "4kfb9pd",
       "IsBase": true,
       "Progressed": 3573,
-      "Completed": 139
+      "Completed": 140
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:05:23.0883034+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:04:11.9630521+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:44.5371571+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:05:23.0883352+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:19.2702768+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:04:11.9630859+00:00"
 }

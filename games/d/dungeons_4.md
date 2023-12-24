@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 58.00% | ~365 |
 | Trap Master | 55.00% | ~346 |
 | Minions, Minions! | 53.00% | ~333 |
+| The Big Eaty | 53.00% | ~333 |
 | Hard Work | 52.00% | ~327 |
-| The Big Eaty | 52.00% | ~327 |
 | YOU SHALL NOT PASS! | 49.00% | ~308 |
 | “… like son” | 49.00% | ~308 |
 | The Cathedral of Light | 47.00% | ~296 |
@@ -39,9 +39,9 @@
 | The Finitude Drill | 31.00% | ~195 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~182 |
 | Doom Hill | 28.00% | ~176 |
+| Hungry, Hungry Gorgu! | 27.00% | ~170 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~170 |
 | Forbidden Knowledge | 27.00% | ~170 |
-| Hungry, Hungry Gorgu! | 26.00% | ~164 |
 | Stop Tanos! | 26.00% | ~164 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~164 |
 | Sabotage! | 25.00% | ~157 |

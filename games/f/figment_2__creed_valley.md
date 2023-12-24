@@ -11,8 +11,8 @@
 | Slam-KABAM | 20.00% | ~10 |
 | A heavy thinker | 18.00% | ~9 |
 | Repair the Mind Validation Machine | 18.00% | ~9 |
+| Heavy Thoughts | 14.00% | ~7 |
 | Elementary, My Dear Dusty | 14.00% | ~7 |
-| Heavy Thoughts | 12.00% | ~6 |
 | Dance like an idiot | 10.00% | ~5 |
 | Flee like an idiot | 10.00% | ~5 |
 | I'm Back at the Surface now | 8.00% | ~4 |

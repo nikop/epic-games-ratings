@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -847,9 +847,9 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "20",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:08:25.4342866+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:06:19.3241613+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:03:30.6159944+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:08:25.434305+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:02:56.1414195+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:06:19.324178+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch: Unicorns \u0026 Dragons",
   "ProductSlug": "my-fantastic-ranch",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -247,6 +247,11 @@
       "Time": "2023-12-22T23:04:46.5388058+00:00",
       "NumProgressed": 43,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T10:08:27.941023+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -256,7 +261,7 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -264,7 +269,7 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -296,7 +301,7 @@
       "ID": "14",
       "SetID": "6ljhbe4",
       "Name": "Festival Fever",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -312,7 +317,7 @@
       "ID": "16",
       "SetID": "6ljhbe4",
       "Name": "Gotta Adopt Them All!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -344,7 +349,7 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -448,7 +453,7 @@
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 60,
       "UsersEstimate": 15
     }
@@ -457,7 +462,7 @@
     {
       "ID": "6ljhbe4",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 0
     }
   ],
@@ -465,8 +470,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:09:06.9504961+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:08:27.9410224+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:03.3490891+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:59.0007527+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:09:06.950513+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:28.6853683+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:08:27.9410354+00:00"
 }

@@ -9,8 +9,8 @@ Rating: 4.45 (Ranked 676)
 | Confirming Suspicions | 42.00% | ~1,721 |
 | The Kraken Wakes | 37.00% | ~1,516 |
 | It's Starting to Crack | 34.00% | ~1,393 |
+| Lord of War | 31.00% | ~1,270 |
 | Change the Channel | 31.00% | ~1,270 |
-| Lord of War | 30.00% | ~1,229 |
 | Taking it back | 29.00% | ~1,188 |
 | Resourceful | 27.00% | ~1,106 |
 | Target America | 27.00% | ~1,106 |

@@ -3,11 +3,11 @@
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
   "Ranking_Rating": 458,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -325,7 +325,7 @@
   "Tags": [],
   "EOS_Progressed": 3683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7288,9 +7288,9 @@
       "ID": "ACH_BASE_43",
       "SetID": "92iocjf",
       "Name": "Work Harder",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_BASE_44",
@@ -7503,8 +7503,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:06:51.2049744+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:05:14.0959133+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:59:14.8133665+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:06:51.2050414+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:19.6905457+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:05:14.0959736+00:00"
 }

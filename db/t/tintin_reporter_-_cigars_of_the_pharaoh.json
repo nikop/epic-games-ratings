@@ -529,17 +529,17 @@
       "ID": "Achievement14",
       "SetID": "9fa3l5n",
       "Name": "Keep the Doctor Away",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement15",
       "SetID": "9fa3l5n",
       "Name": "Just a Palm Tree",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement16",
@@ -569,17 +569,17 @@
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 85,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement20",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:06:15.0178511+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:04:49.1541475+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:00:22.4382716+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:06:15.0178781+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:59:03.6848211+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:04:49.1541694+00:00"
 }

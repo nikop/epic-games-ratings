@@ -3,8 +3,8 @@
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
   "Ranking_Rating": 219,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 569,
@@ -519,12 +519,26 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-24T09:59:52.3916914+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
+  "MaxAwardTitle": "Great for Quick Sessions",
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 21
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -536,8 +550,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2023-12-05T20:57:34.5799034+00:00",
+  "LastChanged": "2023-12-24T09:59:52.3916912+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:19.1027803+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:01:35.6129099+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:10:14.4128978+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:59:52.3916917+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:16.495064+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_Rating": 1043,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4633,
+  "EOS_Progressed": 4634,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -11985,6 +11985,11 @@
       "Time": "2023-12-24T09:04:52.4183705+00:00",
       "NumProgressed": 4633,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-24T10:03:50.8217221+00:00",
+      "NumProgressed": 4634,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 16,
@@ -12028,7 +12033,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "ach_architecture_completed",
@@ -12060,7 +12065,7 @@
       "Name": "Color flood",
       "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ach_first_picture",
@@ -12068,7 +12073,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "ach_food_completed",
@@ -12092,7 +12097,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "ach_magic_wand",
@@ -12116,14 +12121,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4633,
+      "Progressed": 4634,
       "Completed": 41
     }
   ],
@@ -12131,8 +12136,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:52.4183701+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:50.8217215+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:06.6748286+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:59:07.0385176+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:52.4184419+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:13.9889462+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:50.8217846+00:00"
 }

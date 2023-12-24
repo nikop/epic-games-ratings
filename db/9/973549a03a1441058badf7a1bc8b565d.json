@@ -4,7 +4,7 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -197,9 +197,9 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "4mjb15",
       "Name": "Percival, the Noble Spearhead",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -229,9 +229,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "4mjb15",
       "Name": "Barbaric Competitor",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -253,9 +253,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "4mjb15",
       "Name": "Fit into the Pocket",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -276,8 +276,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:10:50.2165253+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:41.7552965+00:00",
   "LastUpdate_AppInfo": "2023-12-22T20:57:03.4409838+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:34.3140722+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:10:50.2165353+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:12.8600117+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:41.7553099+00:00"
 }

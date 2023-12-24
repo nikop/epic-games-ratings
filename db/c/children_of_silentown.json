@@ -2,9 +2,9 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -476,6 +476,11 @@
       "Time": "2023-12-24T00:05:05.8783373+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-24T10:04:54.4485533+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -487,15 +492,15 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "Cellar",
@@ -511,7 +516,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Doll",
@@ -535,7 +540,7 @@
       "Name": "Back Home",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ending3",
@@ -647,7 +652,7 @@
       "Name": "Spyglass",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Toy",
@@ -655,15 +660,15 @@
       "Name": "Broken toy",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "Trumpet",
@@ -679,7 +684,7 @@
       "Name": "Depths of the well",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Windmill",
@@ -694,7 +699,7 @@
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
@@ -702,8 +707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:06:22.5988605+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:04:54.4485529+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:19.2139385+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:51.2678834+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:06:22.598876+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:03.0885374+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:04:54.4485692+00:00"
 }

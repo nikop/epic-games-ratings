@@ -14,15 +14,15 @@ Rating: 4.56 (Ranked 496)
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
 | Shield Maiden Yellow Tongue | 0.60% | ~5 |
+| Collect Monster Parts | 0.50% | ~11 |
 | Ranged Weapon | 0.50% | ~11 |
 | Two Handed Weapon | 0.50% | ~11 |
+| Defeat 25 Grubs | 0.50% | ~11 |
 | Defeat Croakhis Khan | 0.50% | ~5 |
 | I Remember My First Beer | 0.50% | ~5 |
 | Collect Gold | 0.40% | ~9 |
 | Collect Iron Ore | 0.40% | ~9 |
-| Collect Monster Parts | 0.40% | ~9 |
 | Complete Elder Faction | 0.40% | ~9 |
-| Defeat 25 Grubs | 0.40% | ~9 |
 | Defeat 25 Mozis | 0.40% | ~9 |
 | Kitchen Ready To Cook | 0.40% | ~9 |
 | Smithy Ready to Craft | 0.40% | ~9 |

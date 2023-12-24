@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.38,
   "EosHistory": [
@@ -4239,6 +4239,11 @@
       "Time": "2023-12-23T22:10:27.8929344+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2023-12-24T10:09:42.1294504+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 30,
@@ -4250,7 +4255,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "LEVEL_002",
@@ -4266,7 +4271,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "LEVEL_004",
@@ -4274,7 +4279,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "LEVEL_005",
@@ -4306,7 +4311,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "LEVEL_009",
@@ -4362,7 +4367,7 @@
       "Name": "Flatland",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "LEVEL_016",
@@ -4450,7 +4455,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_027",
@@ -4458,7 +4463,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_028",
@@ -4466,7 +4471,7 @@
       "Name": "What is the country?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_029",
@@ -4474,7 +4479,7 @@
       "Name": "Bridges connect us",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_030",
@@ -4489,14 +4494,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 127
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:10:50.7227913+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:42.1294499+00:00",
   "LastUpdate_AppInfo": "2023-12-19T04:57:12.5235617+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:58:59.6324576+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:10:50.7228293+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:08.3962157+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:42.1294826+00:00"
 }

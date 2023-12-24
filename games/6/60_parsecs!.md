@@ -42,7 +42,7 @@
 | No Ticket | 1.00% | ~8 |
 | Feels like home | 1.00% | ~8 |
 | Bingpot! | 0.90% | ~7 |
-| Space Selfie | 0.80% | ~6 |
+| Space Selfie | 0.90% | ~7 |
 | Small Step | 0.50% | ~4 |
 | Liberté, Égalité, Félinité | 0.30% | ~2 |
 | Giant Leap | 0.30% | ~2 |

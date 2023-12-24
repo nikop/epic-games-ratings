@@ -14,9 +14,9 @@ Rating: 4.63 (Ranked 353)
 | ... And Spit Back Out | 1.00% | ~86 |
 | Bramble Breaker | 1.00% | ~86 |
 | Humble Collector | 0.90% | ~78 |
+| Lumberjack | 0.80% | ~69 |
 | Mist Walker | 0.80% | ~69 |
 | Clear the Air | 0.70% | ~60 |
-| Lumberjack | 0.70% | ~60 |
 | Exit Through The Gift Shop | 0.70% | ~9 |
 | Search for the Hairy Grell | 0.60% | ~52 |
 | Oui, Chef! | 0.60% | ~52 |
@@ -27,12 +27,12 @@ Rating: 4.63 (Ranked 353)
 | Beach Comber | 0.40% | ~34 |
 | Azorian Anniversary | 0.40% | ~34 |
 | Fae Farmer | 0.30% | ~26 |
+| Got to Catch Them All | 0.30% | ~26 |
+| Rumble in the Jumble | 0.30% | ~26 |
 | Fanatical Farmer | 0.30% | ~26 |
 | Right Tool For the Job | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
-| Got to Catch Them All | 0.20% | ~17 |
 | Scattered Scroll Scrounger | 0.20% | ~17 |
-| Rumble in the Jumble | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Chatty Neighbor | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,624 (Ranked 182)  
+Progressed: 8,625 (Ranked 182)  
 Completed: 1 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.01%) (Ranked 365)
 | 2023-12-21 | 8,577 | 1 |
 | 2023-12-22 | 8,600 | 1 |
 | 2023-12-23 | 8,616 | 1 |
-| 2023-12-24 | 8,624 | 1 |
+| 2023-12-24 | 8,625 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

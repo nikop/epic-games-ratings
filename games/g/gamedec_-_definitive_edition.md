@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,099 |
-| Powergamer | 27.00% | ~68,989 |
-| Write that down | 25.00% | ~63,878 |
-| Barely scratched the surface | 25.00% | ~63,878 |
-| Guns, lots of guns | 13.00% | ~33,217 |
-| Collector | 12.00% | ~30,662 |
-| Elementary! | 9.00% | ~22,996 |
-| Griever | 8.00% | ~20,441 |
-| Pumpkin Jack | 8.00% | ~20,441 |
-| Wake up! | 8.00% | ~20,441 |
+| I will finish what you started | 29.00% | ~74,101 |
+| Powergamer | 27.00% | ~68,991 |
+| Write that down | 25.00% | ~63,880 |
+| Barely scratched the surface | 25.00% | ~63,880 |
+| Guns, lots of guns | 13.00% | ~33,218 |
+| Collector | 12.00% | ~30,663 |
+| Elementary! | 9.00% | ~22,997 |
+| Griever | 8.00% | ~20,442 |
+| Pumpkin Jack | 8.00% | ~20,442 |
+| Wake up! | 8.00% | ~20,442 |
 | It's honest work | 7.00% | ~17,886 |
 | Me smart | 6.00% | ~15,331 |
 | Trash compactor | 6.00% | ~15,331 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,221 |
 | Ka-ching! | 4.00% | ~10,221 |
 | So you like to read? | 4.00% | ~10,221 |
-| Hoarder | 3.00% | ~7,665 |
-| I like to sniff around | 3.00% | ~7,665 |
-| Mind reader | 3.00% | ~7,665 |
+| Hoarder | 3.00% | ~7,666 |
+| I like to sniff around | 3.00% | ~7,666 |
+| Mind reader | 3.00% | ~7,666 |
 | Catnip | 2.00% | ~5,110 |
 | Gentleman's classic | 2.00% | ~5,110 |
 | Is that a rift? | 2.00% | ~5,110 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,514 (Ranked 64)  
+Progressed: 255,521 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,14 +307,14 @@ Completed: 7 (0.00%) (Ranked 388)
 | 2023-12-21 | 255,268 | 7 |
 | 2023-12-22 | 255,356 | 7 |
 | 2023-12-23 | 255,488 | 7 |
-| 2023-12-24 | 255,514 | 7 |
+| 2023-12-24 | 255,521 | 7 |
 ## Awards
-Max (Character Customization): 92  (Ranked 385)  
-Sum: 92 (Ranked 463)  
-Diff (max vs sum): -78  
+Max (Character Customization): 93  (Ranked 383)  
+Sum: 93 (Ranked 462)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 92 |
+| This game has Inclusive Character Customization | 93 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -400,3 +400,4 @@ Diff (max vs sum): -78
 | 2023-11-10 | 4.29 | - | 90 | 90 |
 | 2023-11-22 | 4.29 | - | 91 | 91 |
 | 2023-11-30 | 4.29 | - | 92 | 92 |
+| 2023-12-24 | 4.29 | - | 93 | 93 |

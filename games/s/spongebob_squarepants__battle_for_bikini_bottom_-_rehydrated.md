@@ -6,24 +6,24 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 12.00% | ~36 |
-| Sponge Smasher | 11.00% | ~33 |
+| Spatula Seeker | 13.00% | ~40 |
+| Sponge Smasher | 11.00% | ~34 |
 | Jellyfish Jam | 8.00% | ~24 |
-| Jellyfishing | 6.00% | ~18 |
+| Jellyfishing | 7.00% | ~21 |
 | Sweet Victory | 6.00% | ~18 |
 | Time For Tutorial | 6.00% | ~18 |
 | Life's as extreme as you wanna make it! | 5.00% | ~15 |
 | Sock Getter | 5.00% | ~15 |
 | Surf's Up! | 5.00% | ~15 |
+| Shrimp Catcher | 4.00% | ~12 |
 | Toxic Terror | 4.00% | ~12 |
 | Hit Rock Bottom | 4.00% | ~12 |
+| Squirrel Smasher | 4.00% | ~12 |
 | Star Smasher | 4.00% | ~12 |
 | Uptown and Downtown | 3.00% | ~9 |
 | Hello, Bikini Bottom | 3.00% | ~9 |
 | Keep it Rolling | 3.00% | ~9 |
-| Shrimp Catcher | 3.00% | ~9 |
 | Super Spatula Seeker | 3.00% | ~9 |
-| Squirrel Smasher | 3.00% | ~9 |
 | Robot encyclopedia | 2.00% | ~6 |
 | Are you ready now? | 2.00% | ~6 |
 | Kelp Forest of Fear | 1.00% | ~3 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 378)  
+Progressed: 306 (Ranked 376)  
 Completed: 1 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 1 (0.33%) (Ranked 244)
 | 2023-12-21 | 173 | 0 |
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
-| 2023-12-24 | 300 | 1 |
+| 2023-12-24 | 306 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 496)  
 Sum: 34 (Ranked 521)  

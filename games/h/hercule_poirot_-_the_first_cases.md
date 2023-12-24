@@ -38,15 +38,15 @@ Rating: 4.35 (Ranked 806)
 | The Family | 28.00% | ~132 |
 | Well-travelled | 27.00% | ~127 |
 | Thinking of Everything | 27.00% | ~127 |
+| Exquisite Artwork | 26.00% | ~122 |
 | Archibald Sterling | 26.00% | ~122 |
 | Viscount Edwin Van den Bosch | 26.00% | ~122 |
-| Exquisite Artwork | 25.00% | ~118 |
 | Well-prepared | 21.00% | ~99 |
 | The Truth | 21.00% | ~99 |
 | Sunken Secrets | 19.00% | ~89 |
+| What Else Did I Miss? | 19.00% | ~89 |
 | I Like an Audience | 19.00% | ~89 |
 | The Denouement | 18.00% | ~85 |
-| What Else Did I Miss? | 18.00% | ~85 |
 | Probably the Greatest Detective in the World | 13.00% | ~61 |
 | Take a Break | 11.00% | ~52 |
 | Room with a View | 7.00% | ~33 |

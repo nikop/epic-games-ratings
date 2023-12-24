@@ -3,8 +3,8 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 365,
   "Ranking_EOS_NewPlayers": 202,
@@ -235,7 +235,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8624,
+  "EOS_Progressed": 8625,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -8990,6 +8990,11 @@
       "Time": "2023-12-24T07:10:16.2095878+00:00",
       "NumProgressed": 8624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-24T10:09:46.043521+00:00",
+      "NumProgressed": 8625,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9072,9 +9077,9 @@
       "ID": "COLLECT_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Got to Catch Them All",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "COLLECT_FISH",
@@ -9088,9 +9093,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -9168,9 +9173,9 @@
       "ID": "DISPATCH_JUMBLES",
       "SetID": "9eia0f5",
       "Name": "Rumble in the Jumble",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -9345,13 +9350,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8624,
+      "Progressed": 8625,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1241,
+      "Progressed": 1242,
       "Completed": 1050
     }
   ],
@@ -9359,8 +9364,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:10:55.7524235+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:09:46.0435208+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:03:41.2133863+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:10:55.7524808+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:03:03.1579769+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:09:46.0435861+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 59,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
@@ -4346,6 +4346,11 @@
       "Time": "2023-12-24T09:07:18.5191519+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-24T10:05:33.0791269+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4358,7 +4363,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4374,7 +4379,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4382,7 +4387,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "_05_FinishAct2",
@@ -4398,7 +4403,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "_07_FinishAct3",
@@ -4422,7 +4427,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "_10_Completion_30",
@@ -4438,7 +4443,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_12_Completion_50",
@@ -4518,7 +4523,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4565,7 +4570,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 34
     }
   ],
@@ -4573,8 +4578,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:07:18.5191513+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:05:33.0791262+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:01:13.1884419+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:07:18.5191895+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:59:37.2888443+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:05:33.0791621+00:00"
 }

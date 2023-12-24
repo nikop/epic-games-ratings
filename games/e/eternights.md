@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 76.00% | ~471 |
+| New arm | 77.00% | ~477 |
 | Shelter Escape | 75.00% | ~465 |
 | The First Bond | 66.00% | ~409 |
 | Novice Scavenger | 59.00% | ~366 |
@@ -16,10 +16,10 @@
 | Their Rock | 27.00% | ~167 |
 | Yuna's Promise | 26.00% | ~161 |
 | Stone Retriever | 26.00% | ~161 |
-| Find myself | 24.00% | ~149 |
+| Find myself | 25.00% | ~155 |
 | Min's Promise | 18.00% | ~112 |
 | Truebro | 18.00% | ~112 |
-| Sia's Promise | 16.00% | ~99 |
+| Sia's Promise | 17.00% | ~105 |
 | Romantic | 13.00% | ~81 |
 | TentacleMAN | 9.00% | ~56 |
 | Yohan's Promise | 5.00% | ~31 |

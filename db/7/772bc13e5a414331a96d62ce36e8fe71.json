@@ -3,8 +3,8 @@
   "Name": "Carsick Carventure",
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 409,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 6.63,
+  "EOS_Completed_Percentage": 6.6,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1219,6 +1219,11 @@
       "Time": "2023-12-24T09:08:04.0837706+00:00",
       "NumProgressed": 407,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-12-24T10:06:04.5247467+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -1231,7 +1236,7 @@
       "Name": "5 000 Score",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "10000_XP",
@@ -1239,15 +1244,15 @@
       "Name": "2 000 Score",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "1000_XP",
       "SetID": "8d0im30",
       "Name": "1000 Score",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 139
     },
     {
       "ID": "100_XP",
@@ -1255,7 +1260,7 @@
       "Name": "500 Score",
       "Percentage": 45,
       "XP": 200,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "10_XP",
@@ -1263,21 +1268,21 @@
       "Name": "200 Score",
       "Percentage": 57,
       "XP": 200,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 409,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:08:04.0837701+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:06:04.5247461+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:12.9601407+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:59:32.1109979+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:08:04.0837831+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:58:32.9632196+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:06:04.524758+00:00"
 }

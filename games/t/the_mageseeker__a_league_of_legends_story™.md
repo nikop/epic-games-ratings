@@ -13,7 +13,7 @@ Rating: 4.79 (Ranked 100)
 | The use of petricite | 74.00% | ~2,224 |
 | You can pet the dog | 60.00% | ~1,803 |
 | Thornbarrow | 41.00% | ~1,232 |
-| Big Helmet Bro | 39.00% | ~1,172 |
+| Big Helmet Bro | 40.00% | ~1,202 |
 | Clarion Cove | 39.00% | ~1,172 |
 | Past trauma | 37.00% | ~1,112 |
 | Ternmoat Headquarters | 37.00% | ~1,112 |
@@ -38,10 +38,10 @@ Rating: 4.79 (Ranked 100)
 | Quickmoore Headquarters | 18.00% | ~541 |
 | Whispers in the Woods III | 17.00% | ~511 |
 | Friendly fire | 17.00% | ~511 |
+| The Central Headquarters | 17.00% | ~511 |
 | My heart and sword always for Demacia | 16.00% | ~481 |
 | True power | 16.00% | ~481 |
 | Meltridge | 16.00% | ~481 |
-| The Central Headquarters | 16.00% | ~481 |
 | Cloven Dell Headquarters | 16.00% | ~481 |
 | I smell fear | 14.00% | ~421 |
 | Embrace the darkness | 13.00% | ~391 |

@@ -17,9 +17,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 4.00% | ~763 |
 | Ominous Presence | 4.00% | ~763 |
 | Gathering Storm | 4.00% | ~763 |
-| Overcoming Difficulty | 3.00% | ~572 |
-| Coral Forest | 3.00% | ~572 |
-| The Scarlet Orchard | 3.00% | ~572 |
+| Overcoming Difficulty | 3.00% | ~573 |
+| Coral Forest | 3.00% | ~573 |
+| The Scarlet Orchard | 3.00% | ~573 |
 | Homesick | 2.00% | ~382 |
 | Ruined Armory | 2.00% | ~382 |
 | Fertile Meadows | 2.00% | ~382 |
@@ -46,10 +46,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.80% | ~153 |
 | Serving Ale | 0.70% | ~134 |
 | Fishmen Ritual Site | 0.70% | ~134 |
-| Efficient Explorer | 0.60% | ~114 |
-| Refinery | 0.60% | ~114 |
-| Dangerous Lands | 0.60% | ~114 |
-| Forsaken Gods Temple | 0.60% | ~114 |
+| Efficient Explorer | 0.60% | ~115 |
+| Refinery | 0.60% | ~115 |
+| Dangerous Lands | 0.60% | ~115 |
+| Forsaken Gods Temple | 0.60% | ~115 |
 | Forbidden Lands | 0.50% | ~95 |
 | Feeding The People | 0.40% | ~76 |
 | Fox Utopia | 0.40% | ~76 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,081 (Ranked 150)  
+Progressed: 19,085 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-21 | 18,861 | 39 |
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
-| 2023-12-24 | 19,081 | 38 |
+| 2023-12-24 | 19,085 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
 Sum: 3,284 (Ranked 176)  

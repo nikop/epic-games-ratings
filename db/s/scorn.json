@@ -3,8 +3,8 @@
   "Name": "Scorn",
   "ProductSlug": "scorn",
   "Ranking_Rating": 660,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 227,
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2769,
+  "EOS_Progressed": 2770,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.97,
   "EosHistory": [
@@ -4375,6 +4375,11 @@
       "Time": "2023-12-24T08:05:01.2244356+00:00",
       "NumProgressed": 2769,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2023-12-24T10:04:13.1545969+00:00",
+      "NumProgressed": 2770,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 12,
@@ -4402,7 +4407,7 @@
       "Name": "003",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "004",
@@ -4418,7 +4423,7 @@
       "Name": "005",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "006",
@@ -4481,7 +4486,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2769,
+      "Progressed": 2770,
       "Completed": 193
     }
   ],
@@ -4489,8 +4494,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-11-28T11:59:38.0602265+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:05:24.7986845+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:04:13.1545963+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:34.0629887+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:12.6669151+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:05:24.7987146+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:56:58.5265474+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:04:13.1546247+00:00"
 }

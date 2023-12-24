@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -310,9 +310,9 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BeatBossKawa",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:06:31.9578647+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:05:00.9351118+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:36.5797746+00:00",
-  "LastUpdate_Ratings": "2023-12-24T09:02:21.277573+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:06:31.9578802+00:00"
+  "LastUpdate_Ratings": "2023-12-24T10:00:20.3296218+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:05:00.9351294+00:00"
 }

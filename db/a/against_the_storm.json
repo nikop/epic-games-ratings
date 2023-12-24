@@ -3563,9 +3563,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19081,
+  "EOS_Progressed": 19085,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16908,6 +16908,11 @@
       "Time": "2023-12-24T09:04:29.5722308+00:00",
       "NumProgressed": 19081,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-24T10:03:34.835165+00:00",
+      "NumProgressed": 19085,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -16984,7 +16989,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "MetalChain",
@@ -16992,7 +16997,7 @@
       "Name": "Refinery",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Win5Years",
@@ -17016,7 +17021,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "WinImpossible",
@@ -17072,7 +17077,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "WinNearFertile",
@@ -17160,7 +17165,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "WinNearTorrent",
@@ -17184,7 +17189,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "WinOnCursed",
@@ -17208,7 +17213,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "WinPrestige10",
@@ -17391,15 +17396,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19081,
+      "Progressed": 19085,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-23T13:57:13.6733867+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:04:29.5722303+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:03:34.8351643+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:52.1566369+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:04:29.5723628+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:24.7369952+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:03:34.8352496+00:00"
 }

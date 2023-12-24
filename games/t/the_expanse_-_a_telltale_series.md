@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,589 |
+| Oyedang, Kopengs | 15.00% | ~2,590 |
 | Captain Drummer | 11.00% | ~1,899 |
-| The Pit and the Pirates | 10.00% | ~1,726 |
-| Bosmang | 10.00% | ~1,726 |
-| Celebrations are in Order | 10.00% | ~1,726 |
-| Impossible Objects | 10.00% | ~1,726 |
+| The Pit and the Pirates | 10.00% | ~1,727 |
+| Bosmang | 10.00% | ~1,727 |
+| Celebrations are in Order | 10.00% | ~1,727 |
+| Impossible Objects | 10.00% | ~1,727 |
 | Martian Music | 9.00% | ~1,554 |
 | Drone Dodger | 9.00% | ~1,554 |
 | Stogie for Fogey | 8.00% | ~1,381 |
 | Spore Taste | 8.00% | ~1,381 |
-| Safe Cracker | 8.00% | ~257 |
-| Zen Master | 8.00% | ~257 |
-| Call it Even | 7.00% | ~1,208 |
-| Madame Undersecretary | 7.00% | ~225 |
+| Safe Cracker | 8.00% | ~258 |
+| Zen Master | 8.00% | ~258 |
+| Call it Even | 7.00% | ~1,209 |
+| Madame Undersecretary | 7.00% | ~226 |
 | Data Archivist | 6.00% | ~1,036 |
 | Drug Gifter | 6.00% | ~1,036 |
 | Heal Thy Medic | 6.00% | ~1,036 |
@@ -32,8 +32,8 @@ Rating: 4.55 (Ranked 513)
 | Miraculous Maya | 3.00% | ~518 |
 | Brother's Reaper | 2.00% | ~345 |
 | No Belter Left Behind | 2.00% | ~345 |
-| Debris Spree | 2.00% | ~345 |
 | Data Master | 2.00% | ~345 |
+| Debris Spree | 1.00% | ~173 |
 | Data Recoverer | 1.00% | ~173 |
 | Urshanabi Hoarder | 0.90% | ~155 |
 | Data Miner | 0.50% | ~86 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 513)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,263 (Ranked 156)  
+Progressed: 17,268 (Ranked 156)  
 Completed: 51 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 51 (0.30%) (Ranked 253)
 | 2023-12-21 | 17,033 | 46 |
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
-| 2023-12-24 | 17,263 | 51 |
+| 2023-12-24 | 17,268 | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

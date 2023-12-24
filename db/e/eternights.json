@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 620,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2289,9 +2289,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 477
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2345,17 +2345,17 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -2496,8 +2496,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-24T09:09:29.7979979+00:00",
+  "LastChanged_Achievements": "2023-12-24T10:08:44.9073666+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-24T08:57:18.3681072+00:00",
-  "LastUpdate_Achievements": "2023-12-24T09:09:29.7980245+00:00"
+  "LastUpdate_Ratings": "2023-12-24T09:57:02.9231671+00:00",
+  "LastUpdate_Achievements": "2023-12-24T10:08:44.9074121+00:00"
 }
