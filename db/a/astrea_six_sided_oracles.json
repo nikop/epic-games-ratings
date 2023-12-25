@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2023-12-24T21:06:18.2612889+00:00",
       "NumProgressed": 234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T00:06:52.806918+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1087,7 +1092,7 @@
       "Name": "Astral Seeker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AstralTinkerer",
@@ -1223,7 +1228,7 @@
       "Name": "Endless Tricks",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1319,7 +1324,7 @@
       "Name": "Loyal Partner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MechanicIntegration",
@@ -1333,9 +1338,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "MeissasSavior",
@@ -1351,7 +1356,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1415,7 +1420,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ReflexiveMind",
@@ -1447,7 +1452,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Sentinelphobic",
@@ -1495,7 +1500,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "StellarHaste",
@@ -1621,9 +1626,9 @@
       "ID": "WildsKeeper",
       "SetID": "1jeo1g7",
       "Name": "Wild\u0027s Keeper",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "ApianChampion",
@@ -1655,7 +1660,7 @@
       "Name": "Aquarian Champion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AquarianHero",
@@ -1679,7 +1684,7 @@
       "Name": "Behenian Champion",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "BehenianHero",
@@ -1727,7 +1732,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LacertianHero",
@@ -1774,14 +1779,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:06:10.1755528+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:52.8069176+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:47.0650999+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:06:10.1756364+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:00:28.5565354+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:52.8070164+00:00"
 }

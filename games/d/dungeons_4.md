@@ -9,7 +9,7 @@
 | For the Horde! | 83.00% | ~524 |
 | Hammer Time, Round Two | 81.00% | ~511 |
 | The Hellwoods | 77.00% | ~486 |
-| The Plains of Strothalm | 71.00% | ~448 |
+| The Plains of Strothalm | 72.00% | ~454 |
 | Experienced Thalya | 71.00% | ~448 |
 | Thalya's Concentrated Fury | 69.00% | ~435 |
 | Bad Elves Go Everywhere | 68.00% | ~429 |
@@ -45,9 +45,9 @@
 | Stop Tanos! | 26.00% | ~164 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~164 |
 | Sabotage! | 25.00% | ~158 |
+| The Rune Sockets of Finitude (Part 1) | 25.00% | ~158 |
 | Bonus Evilness | 24.00% | ~151 |
 | Raiders of the Lost Stone | 24.00% | ~151 |
-| The Rune Sockets of Finitude (Part 1) | 24.00% | ~151 |
 | The Rune Sockets of Finitude (Part 2) | 22.00% | ~139 |
 | The Last Stand - This Time For Real! | 21.00% | ~133 |
 | Rubble and Ashes | 20.00% | ~126 |

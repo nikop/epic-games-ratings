@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 816,
@@ -14916,10 +14916,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34250,
       "NumberOfAwardsMax": 4230
+    },
+    {
+      "Time": "2023-12-24T23:58:11.1477627+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34253,
+      "NumberOfAwardsMax": 4230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34250,
+  "NumberOfAwards": 34253,
   "NumberOfAwardsMax": 4230,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14933,7 +14939,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3605
+      "Count": 3608
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -15007,8 +15013,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-12-24T22:58:02.4531851+00:00",
+  "LastChanged": "2023-12-24T23:58:11.1477625+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.3043986+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:02.4531859+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:09:38.5000185+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:11.147763+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:09:48.630611+00:00"
 }

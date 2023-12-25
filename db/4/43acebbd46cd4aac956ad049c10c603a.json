@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -235,7 +235,7 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1126,
+  "EOS_Progressed": 1127,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
@@ -3005,6 +3005,11 @@
       "Time": "2023-12-24T23:08:16.8301661+00:00",
       "NumProgressed": 1126,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T00:08:28.0527345+00:00",
+      "NumProgressed": 1127,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3057,7 +3062,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "BreakTheLoop",
@@ -3113,7 +3118,7 @@
       "Name": "Discovery",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "EasternWetlands",
@@ -3185,7 +3190,7 @@
       "Name": "Into the Machine",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "JustOneLap",
@@ -3241,7 +3246,7 @@
       "Name": "Museum Visitor",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "NewBeginning",
@@ -3488,7 +3493,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1126,
+      "Progressed": 1127,
       "Completed": 2
     }
   ],
@@ -3496,8 +3501,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-24T13:57:49.2610926+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:08:16.8301658+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:08:28.0527343+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:59.7005862+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:08:16.830225+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:07.4996684+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:08:28.0527888+00:00"
 }

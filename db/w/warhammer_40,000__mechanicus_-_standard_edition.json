@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -958,10 +958,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2214,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-12-25T00:00:29.6273149+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2216,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2214,
+  "NumberOfAwards": 2216,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -969,7 +975,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 251
+      "Count": 252
     },
     {
       "Text": "This game is Relaxing",
@@ -993,7 +999,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1026,9 +1032,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 230358,
+  "EOS_Progressed": 230360,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28246,6 +28252,11 @@
       "Time": "2023-12-24T23:09:56.264134+00:00",
       "NumProgressed": 230358,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T00:10:06.6887373+00:00",
+      "NumProgressed": 230360,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28265,7 +28276,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59893
+      "UsersEstimate": 59894
     },
     {
       "ID": "ACH_BASE_11",
@@ -28337,7 +28348,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13821
+      "UsersEstimate": 13822
     },
     {
       "ID": "ACH_BASE_20",
@@ -28528,16 +28539,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230358,
+      "Progressed": 230360,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-12-18T15:00:10.8258154+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:09:56.2641338+00:00",
+  "LastChanged": "2023-12-25T00:00:29.6273148+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:10:06.6887371+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:48.1356651+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:09:56.2642802+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:00:29.6273152+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:10:06.6888483+00:00"
 }

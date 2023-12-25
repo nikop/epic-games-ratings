@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Horn prize! | 49.00% | ~37 |
 | Space worm! | 36.00% | ~27 |
-| Orb Gatherer | 33.00% | ~25 |
+| Orb Gatherer | 34.00% | ~26 |
 | Beast Quest | 33.00% | ~25 |
 | Monster Hunt | 33.00% | ~25 |
 | Fly, you fool! | 32.00% | ~24 |

@@ -28,13 +28,13 @@
 | You've awakened the beast | 10.00% | ~7 |
 | Hate is... addictive | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
+| Blood Red Island | 9.00% | ~6 |
 | Bread and bocaua | 9.00% | ~6 |
 | Fanatacism is... poisonous | 9.00% | ~6 |
 | Pulp! The Beyond | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
 | Blessed antennas | 7.00% | ~5 |
 | The beast in the Oval Office | 7.00% | ~5 |
-| Blood Red Island | 7.00% | ~5 |
 | The adventurer | 7.00% | ~5 |
 | Pulp! True Adventures | 7.00% | ~5 |
 | The scholar | 6.00% | ~4 |

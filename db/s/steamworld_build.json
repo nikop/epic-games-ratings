@@ -906,9 +906,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "UpUpAndAway",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:05:49.3023585+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:32.1338827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:03:01.753422+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:05:49.3023784+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:03:13.1580091+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:32.1339014+00:00"
 }

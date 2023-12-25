@@ -6681,11 +6681,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 7318,
       "NumberOfAwardsMax": 853
+    },
+    {
+      "Time": "2023-12-25T00:00:08.0189019+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7325,
+      "NumberOfAwardsMax": 855
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7318,
-  "NumberOfAwardsMax": 853,
+  "NumberOfAwards": 7325,
+  "NumberOfAwardsMax": 855,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -6698,13 +6704,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 853
+      "Count": 855
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 826
+      "Count": 828
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6722,7 +6728,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 798
+      "Count": 800
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6740,7 +6746,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 591
+      "Count": 592
     },
     {
       "Text": "This game has a Creative Community",
@@ -6774,9 +6780,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-12-24T18:59:53.0970978+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:09:05.617598+00:00",
+  "LastChanged": "2023-12-25T00:00:08.0189017+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:09:15.6924169+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.7436772+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:26.6866786+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:09:05.617602+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:00:08.0189023+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:09:15.6924185+00:00"
 }

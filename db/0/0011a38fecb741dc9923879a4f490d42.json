@@ -628,9 +628,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "631i43e",
       "Name": "Get Lost",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -683,8 +683,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:08:54.4047543+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:09:04.7240589+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.6800929+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:12.0829199+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:08:54.4047941+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:22.5362659+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:09:04.7241009+00:00"
 }

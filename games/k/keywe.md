@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 96.00% | ~91 |
-| Learn the Ropes | 72.00% | ~68 |
+| You're Hired | 98.00% | ~93 |
+| Learn the Ropes | 74.00% | ~70 |
 | Practice Makes Postmasters | 48.00% | ~46 |
 | Working for the Kiweekend | 40.00% | ~38 |
 | Fun in the Bungalow Basin Sun | 39.00% | ~37 |

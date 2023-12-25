@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,869 |
-| Off to a good start | 63.00% | ~1,338 |
-| Do... or do not. There is no try | 52.00% | ~1,104 |
-| A good blaster at your side | 27.00% | ~573 |
-| I suggest a new strategy | 18.00% | ~382 |
+| New Recruit | 88.00% | ~1,871 |
+| Off to a good start | 63.00% | ~1,339 |
+| Do... or do not. There is no try | 52.00% | ~1,106 |
+| A good blaster at your side | 27.00% | ~574 |
+| I suggest a new strategy | 18.00% | ~383 |
 | Scrap collector | 16.00% | ~340 |
 | All right, I'll give it a try | 16.00% | ~340 |
 | Great shot, kid! | 16.00% | ~340 |
@@ -21,7 +21,7 @@
 | Survivor | 8.00% | ~170 |
 | Never tell me the odds! | 7.00% | ~149 |
 | A cunning warrior | 7.00% | ~149 |
-| What's the cargo? | 6.00% | ~127 |
+| What's the cargo? | 6.00% | ~128 |
 | "Gonk? Gonk!" | 5.00% | ~106 |
 | Impressive. Most impressive. | 5.00% | ~106 |
 | Judge me by my size, do you? | 5.00% | ~106 |
@@ -33,16 +33,16 @@
 | Not bad for a little furball | 3.00% | ~64 |
 | Patience you must have | 3.00% | ~64 |
 | Don't underestimate the Force | 3.00% | ~64 |
-| The Force is strong with this one | 2.00% | ~42 |
-| I've been waiting for you | 2.00% | ~42 |
-| When 900 years old you reach... | 2.00% | ~42 |
-| Determined | 2.00% | ~42 |
-| Your journey has only started | 2.00% | ~42 |
-| Precision shot | 2.00% | ~42 |
-| City in the Clouds | 2.00% | ~42 |
-| That's no moon | 2.00% | ~42 |
-| What will you become? | 2.00% | ~42 |
-| Disturbed tranquility | 2.00% | ~42 |
+| The Force is strong with this one | 2.00% | ~43 |
+| I've been waiting for you | 2.00% | ~43 |
+| When 900 years old you reach... | 2.00% | ~43 |
+| Determined | 2.00% | ~43 |
+| Your journey has only started | 2.00% | ~43 |
+| Precision shot | 2.00% | ~43 |
+| City in the Clouds | 2.00% | ~43 |
+| That's no moon | 2.00% | ~43 |
+| What will you become? | 2.00% | ~43 |
+| Disturbed tranquility | 2.00% | ~43 |
 | Hold the line! | 1.00% | ~21 |
 | Playing the objective | 1.00% | ~21 |
 | Ackbar's Elite | 1.00% | ~21 |
@@ -58,7 +58,7 @@
 | Stop that Droid | 0.70% | ~15 |
 | Do we take prisoners? | 0.60% | ~13 |
 | I’ll take that bet | 0.50% | ~11 |
-| Greed can be a very powerful ally | 0.40% | ~8 |
+| Greed can be a very powerful ally | 0.40% | ~9 |
 | Stay on target | 0.30% | ~6 |
 | That got him! | 0.20% | ~4 |
 | in a galaxy far, far away.... | 0.20% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,124 (Ranked 234)  
+Progressed: 2,126 (Ranked 234)  
 Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 1 (0.05%) (Ranked 335)
 | 2023-12-22 | 2,014 | 1 |
 | 2023-12-23 | 2,067 | 1 |
 | 2023-12-24 | 2,124 | 1 |
+| 2023-12-25 | 2,126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

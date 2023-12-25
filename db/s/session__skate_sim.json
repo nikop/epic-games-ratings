@@ -1297,9 +1297,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3361,
+  "EOS_Progressed": 3362,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6832,6 +6832,11 @@
       "Time": "2023-12-24T21:04:36.4672655+00:00",
       "NumProgressed": 3361,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T00:05:20.8170997+00:00",
+      "NumProgressed": 3362,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6971,7 +6976,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_HOARDER",
@@ -6987,7 +6992,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -6995,7 +7000,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7195,7 +7200,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -7211,7 +7216,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -7226,15 +7231,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3361,
+      "Progressed": 3362,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-22T16:00:56.9737771+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:04:37.4746395+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:05:20.8170994+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:07.9278228+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:04:37.4746865+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:57:14.2865676+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:05:20.8171572+00:00"
 }

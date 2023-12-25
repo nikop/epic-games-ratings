@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
@@ -17082,10 +17082,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 441867,
       "NumberOfAwardsMax": 127101
+    },
+    {
+      "Time": "2023-12-25T00:03:06.9576679+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 442014,
+      "NumberOfAwardsMax": 127101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 441867,
+  "NumberOfAwards": 442014,
   "NumberOfAwardsMax": 127101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17153,7 +17159,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25037
+      "Count": 25184
     },
     {
       "Text": "This game has a Creative Community",
@@ -17162,9 +17168,9 @@
       "Count": 16749
     }
   ],
-  "EOS_Progressed": 980985,
+  "EOS_Progressed": 981003,
   "EOS_Completed": 2969,
-  "EOS_NewPlayers": 2970,
+  "EOS_NewPlayers": 2972,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45512,6 +45518,11 @@
       "Time": "2023-12-24T23:04:20.428789+00:00",
       "NumProgressed": 980985,
       "NumCompleted": 2969
+    },
+    {
+      "Time": "2023-12-25T00:05:03.752498+00:00",
+      "NumProgressed": 981003,
+      "NumCompleted": 2969
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45548,7 +45559,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49049
+      "UsersEstimate": 49050
     },
     {
       "ID": "Denied",
@@ -45556,7 +45567,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58859
+      "UsersEstimate": 58860
     },
     {
       "ID": "FollowingTheRiver",
@@ -45596,7 +45607,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78479
+      "UsersEstimate": 78480
     },
     {
       "ID": "Gunslinger",
@@ -45644,7 +45655,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39239
+      "UsersEstimate": 39240
     },
     {
       "ID": "MaxPain",
@@ -45700,7 +45711,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39239
+      "UsersEstimate": 39240
     },
     {
       "ID": "Specialist",
@@ -45740,7 +45751,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68669
+      "UsersEstimate": 68670
     },
     {
       "ID": "TheHermit",
@@ -45748,7 +45759,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39239
+      "UsersEstimate": 39240
     },
     {
       "ID": "TheHightPriestess",
@@ -45764,7 +45775,7 @@
       "Name": "The Lovers",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58859
+      "UsersEstimate": 58860
     },
     {
       "ID": "TheStar",
@@ -45788,7 +45799,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39239
+      "UsersEstimate": 39240
     },
     {
       "ID": "TheWorld",
@@ -45820,7 +45831,7 @@
       "Name": "True Soldier",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49049
+      "UsersEstimate": 49050
     },
     {
       "ID": "TrueWarrior",
@@ -45852,7 +45863,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117718
+      "UsersEstimate": 117720
     },
     {
       "ID": "YipMan",
@@ -45924,7 +45935,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "Kingofcups",
@@ -45964,7 +45975,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "UltimateSurvivor",
@@ -45980,7 +45991,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     },
     {
       "ID": "HydraIsDead",
@@ -45996,7 +46007,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     },
     {
       "ID": "KingOfTheCups",
@@ -46059,21 +46070,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 980985,
+      "Progressed": 981003,
       "Completed": 2969
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 109608,
+      "Progressed": 109626,
       "Completed": 10452
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-24T22:03:20.9502406+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:04:20.4287887+00:00",
+  "LastChanged": "2023-12-25T00:03:06.9576677+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:05:03.7524977+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:02:55.743473+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:04:20.4290085+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:03:06.9576681+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:05:03.7526653+00:00"
 }

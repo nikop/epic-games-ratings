@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 755,
+  "EOS_Progressed": 756,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -2600,6 +2600,11 @@
       "Time": "2023-12-24T23:08:41.2950367+00:00",
       "NumProgressed": 755,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-25T00:08:51.8588432+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2620,7 +2625,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_eou2",
@@ -2660,7 +2665,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_eou7",
@@ -2715,14 +2720,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 755,
+      "Progressed": 756,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:08:41.2950364+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:08:51.858843+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:32.3946583+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:08:41.2950546+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:03.6912502+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:08:51.8588623+00:00"
 }

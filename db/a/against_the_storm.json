@@ -3501,10 +3501,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3286,
       "NumberOfAwardsMax": 443
+    },
+    {
+      "Time": "2023-12-24T23:57:54.7007176+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3288,
+      "NumberOfAwardsMax": 443
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3286,
+  "NumberOfAwards": 3288,
   "NumberOfAwardsMax": 443,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3542,7 +3548,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 431
+      "Count": 433
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3569,9 +3575,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19141,
+  "EOS_Progressed": 19145,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16979,6 +16985,11 @@
       "Time": "2023-12-24T23:03:48.0738016+00:00",
       "NumProgressed": 19141,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T00:04:01.0619902+00:00",
+      "NumProgressed": 19145,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17391,7 +17402,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "WinNearFrosts",
@@ -17415,7 +17426,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "WinNearPetrified",
@@ -17462,15 +17473,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19141,
+      "Progressed": 19145,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-24T11:57:25.9277415+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:03:48.0738013+00:00",
+  "LastChanged": "2023-12-24T23:57:54.7007175+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:04:01.0619901+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:47.1098737+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:03:48.0738843+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:57:54.7007179+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:04:01.0620726+00:00"
 }

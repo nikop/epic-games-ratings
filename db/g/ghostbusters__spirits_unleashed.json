@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3733,18 +3733,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2922,
       "NumberOfAwardsMax": 324
+    },
+    {
+      "Time": "2023-12-24T23:57:55.1633686+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2923,
+      "NumberOfAwardsMax": 325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2922,
-  "NumberOfAwardsMax": 324,
+  "NumberOfAwards": 2923,
+  "NumberOfAwardsMax": 325,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3813,9 +3819,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32658,
+  "EOS_Progressed": 32659,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23338,6 +23344,11 @@
       "Time": "2023-12-24T23:08:27.1785046+00:00",
       "NumProgressed": 32658,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-25T00:08:37.9931083+00:00",
+      "NumProgressed": 32659,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23637,7 +23648,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "Stunner",
@@ -23677,7 +23688,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "Teamwork",
@@ -23756,16 +23767,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32658,
+      "Progressed": 32659,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-22T17:00:21.547341+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:08:27.1785043+00:00",
+  "LastChanged": "2023-12-24T23:57:55.1633685+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:08:37.993108+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:47.3543251+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:08:27.1786126+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:57:55.1633692+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:08:37.993203+00:00"
 }

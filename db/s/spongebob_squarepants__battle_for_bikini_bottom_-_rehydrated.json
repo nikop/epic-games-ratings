@@ -2,10 +2,10 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 96,
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -961,6 +961,11 @@
       "Time": "2023-12-24T23:03:40.5794749+00:00",
       "NumProgressed": 335,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T00:03:53.5254073+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1013,7 +1018,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1053,7 +1058,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1077,7 +1082,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1085,7 +1090,7 @@
       "Name": "Toxic Terror",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1109,7 +1114,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1197,7 +1202,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1205,7 +1210,7 @@
       "Name": "Star Smasher",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -1219,24 +1224,24 @@
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 338,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:03:40.5794745+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:03:53.5254071+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:03.0859326+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:03:40.5795181+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:11.7697656+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:03:53.5254234+00:00"
 }

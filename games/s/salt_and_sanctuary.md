@@ -6,22 +6,22 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,760 |
-| The Three | 64.00% | ~346,803 |
-| The Banquet | 40.00% | ~216,752 |
-| Devara's Light | 31.00% | ~167,983 |
-| The Iron Ones | 19.00% | ~102,957 |
+| Find Sanctuary | 83.00% | ~449,765 |
+| The Three | 64.00% | ~346,806 |
+| The Banquet | 40.00% | ~216,754 |
+| Devara's Light | 31.00% | ~167,984 |
+| The Iron Ones | 19.00% | ~102,958 |
 | The Village | 17.00% | ~92,120 |
-| The Forest | 15.00% | ~81,282 |
-| The Imposter | 14.00% | ~75,863 |
-| The Keep | 14.00% | ~75,863 |
-| Branded | 13.00% | ~70,444 |
+| The Forest | 15.00% | ~81,283 |
+| The Imposter | 14.00% | ~75,864 |
+| The Keep | 14.00% | ~75,864 |
+| Branded | 13.00% | ~70,445 |
 | The Castle | 11.00% | ~59,607 |
-| The Dome | 9.00% | ~48,769 |
-| The Red Hall | 9.00% | ~48,769 |
-| The Sacrifice | 9.00% | ~48,769 |
-| The Cave | 8.00% | ~43,350 |
-| The Ziggurat | 8.00% | ~43,350 |
+| The Dome | 9.00% | ~48,770 |
+| The Red Hall | 9.00% | ~48,770 |
+| The Sacrifice | 9.00% | ~48,770 |
+| The Cave | 8.00% | ~43,351 |
+| The Ziggurat | 8.00% | ~43,351 |
 | The Mire | 7.00% | ~37,932 |
 | The Stone Roots | 7.00% | ~37,932 |
 | Storied | 6.00% | ~32,513 |
@@ -34,8 +34,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The House of Splendor | 4.00% | ~21,675 |
 | The Crypt | 4.00% | ~21,675 |
 | The Palace | 4.00% | ~21,675 |
-| Find Salvation | 3.00% | ~16,256 |
-| The Unspeakable Deep | 3.00% | ~16,256 |
+| Find Salvation | 3.00% | ~16,257 |
+| The Unspeakable Deep | 3.00% | ~16,257 |
 | Coastrock | 2.00% | ~10,838 |
 | Devoted | 2.00% | ~10,838 |
 | Dominion | 2.00% | ~10,838 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,838 |
 | Fading Fast | 1.00% | ~5,419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,880 (Ranked 34)  
+Progressed: 541,885 (Ranked 34)  
 Completed: 1,654 (0.31%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,9 +293,10 @@ Completed: 1,654 (0.31%) (Ranked 248)
 | 2023-12-22 | 541,645 | 1,653 |
 | 2023-12-23 | 541,772 | 1,653 |
 | 2023-12-24 | 541,880 | 1,654 |
+| 2023-12-25 | 541,885 | 1,654 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 259)  
-Sum: 2,015 (Ranked 216)  
+Sum: 2,016 (Ranked 216)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +306,7 @@ Diff (max vs sum): 43
 | This game is Extremely Fun | 249 |
 | This game has Diverse Characters | 245 |
 | This game has Amazing Storytelling | 236 |
-| This game has Amazing Characters | 232 |
+| This game has Amazing Characters | 233 |
 | This game has Unique Visuals | 227 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -508,3 +509,4 @@ Diff (max vs sum): 43
 | 2023-12-20 | 4.62 | - | 294 | 2,014 |
 | 2023-12-21 | 4.62 | - | 294 | 2,015 |
 | 2023-12-22 | 4.61 | - | 294 | 2,015 |
+| 2023-12-24 | 4.61 | - | 294 | 2,016 |

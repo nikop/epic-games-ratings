@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45090,
+  "EOS_Progressed": 45093,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16324,6 +16324,11 @@
       "Time": "2023-12-24T23:04:40.6508325+00:00",
       "NumProgressed": 45090,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T00:05:23.8055361+00:00",
+      "NumProgressed": 45093,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16391,7 +16396,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16495,7 +16500,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16527,7 +16532,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16551,7 +16556,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16575,7 +16580,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16591,7 +16596,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "MAGIC_IVY",
@@ -16623,7 +16628,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16647,7 +16652,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -16687,7 +16692,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "STAYING_AIR",
@@ -16758,22 +16763,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45090,
+      "Progressed": 45093,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9927,
-      "Completed": 9927
+      "Progressed": 9930,
+      "Completed": 9930
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:04:40.6508323+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:05:23.8055358+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:42.6284799+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:04:40.6509396+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:20.5654759+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:05:23.8056456+00:00"
 }

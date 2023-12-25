@@ -24,9 +24,9 @@
 | Don't Feel a Loan | 22.00% | ~95 |
 | Artfully Done | 20.00% | ~87 |
 | People Mover | 20.00% | ~87 |
+| Leveled Up Shops | 20.00% | ~87 |
 | Lux Living | 19.00% | ~82 |
 | Emporium Empire | 19.00% | ~82 |
-| Leveled Up Shops | 19.00% | ~82 |
 | Rehab Expert | 18.00% | ~78 |
 | Tasty Profits | 18.00% | ~78 |
 | We Don't Need No Education | 18.00% | ~78 |
@@ -42,10 +42,10 @@
 | Aestheticly Pleased | 10.00% | ~43 |
 | 28 Days Later | 10.00% | ~43 |
 | Swimming in Surplus | 10.00% | ~43 |
+| Plaza Plan | 9.00% | ~39 |
 | Master of Puppets | 9.00% | ~39 |
 | Refined Palates | 9.00% | ~39 |
 | First 100 Days | 8.00% | ~35 |
-| Plaza Plan | 8.00% | ~35 |
 | Phoning It In | 8.00% | ~35 |
 | Water Features | 7.00% | ~30 |
 | Careful Constructor | 6.00% | ~26 |

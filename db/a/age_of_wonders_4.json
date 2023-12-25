@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6152,
+  "EOS_Progressed": 6154,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9072,6 +9072,11 @@
       "Time": "2023-12-24T23:08:19.9589673+00:00",
       "NumProgressed": 6152,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T00:08:31.000167+00:00",
+      "NumProgressed": 6154,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9449,9 +9454,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "48",
@@ -9562,13 +9567,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6152,
+      "Progressed": 6154,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6152,
+      "Progressed": 6154,
       "Completed": 7
     }
   ],
@@ -9576,8 +9581,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:08:19.958967+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:08:31.0001669+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:47.9269236+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:08:19.9590354+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:25.8823287+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:08:31.0002325+00:00"
 }

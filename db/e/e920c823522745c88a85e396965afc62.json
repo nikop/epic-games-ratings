@@ -4,7 +4,7 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -80,9 +80,9 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "beginner",
@@ -120,9 +120,9 @@
       "ID": "dealmaker",
       "SetID": "d4692al",
       "Name": "Devious Dealmaker",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "decorated",
@@ -144,17 +144,17 @@
       "ID": "entertainment",
       "SetID": "d4692al",
       "Name": "Exquisite Entertainment",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "exContractor",
       "SetID": "d4692al",
       "Name": "Experienced Contractor",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "expanded",
@@ -168,9 +168,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "halls",
@@ -184,9 +184,9 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "indoorlands",
@@ -200,9 +200,9 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "mass",
@@ -248,9 +248,9 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "toomany",
@@ -280,9 +280,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "visitorLife",
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:04:15.8273481+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:04:58.8766499+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:13.9639515+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:37.0827413+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:04:15.8273659+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:12.8462545+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:04:58.8766652+00:00"
 }

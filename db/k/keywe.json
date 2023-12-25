@@ -507,9 +507,9 @@
       "ID": "completeOnboarding",
       "SetID": "cfe0fhi",
       "Name": "You\u0027re Hired",
-      "Percentage": 96,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "completeSummer",
@@ -523,9 +523,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "findFirstCollectible",
@@ -610,8 +610,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:06:02.7244704+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:45.3828633+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.7482599+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:09.4618091+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:06:02.7244805+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:19.0432625+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:45.3828755+00:00"
 }

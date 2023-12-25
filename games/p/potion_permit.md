@@ -30,7 +30,7 @@ Rating: 3.83 (Ranked 1,051)
 | Ablutomaniac | 12.00% | ~214 |
 | Good Samaritan | 11.00% | ~196 |
 | Production Sorter | 11.00% | ~196 |
-| Acrobatic Adventurer | 9.00% | ~160 |
+| Acrobatic Adventurer | 10.00% | ~178 |
 | Animal Exterminator | 9.00% | ~160 |
 | Adolescent Love | 6.00% | ~107 |
 | Mail Carrier | 6.00% | ~107 |
@@ -45,7 +45,7 @@ Rating: 3.83 (Ranked 1,051)
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,780 (Ranked 243)  
-Completed: 11 (0.62%) (Ranked 201)  
+Completed: 11 (0.62%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

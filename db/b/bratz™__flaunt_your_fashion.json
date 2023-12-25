@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -416,6 +416,11 @@
       "Time": "2023-12-24T11:05:33.0449388+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T00:06:23.6224169+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -427,7 +432,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "10",
@@ -435,7 +440,7 @@
       "Name": "Born to Win",
       "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "11",
@@ -449,7 +454,7 @@
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 33
     },
@@ -515,7 +520,7 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "3",
@@ -523,7 +528,7 @@
       "Name": "Welcome to Seoul",
       "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "4",
@@ -537,7 +542,7 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 70,
       "UsersEstimate": 45
     },
@@ -555,7 +560,7 @@
       "Name": "Roller Race",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "8",
@@ -578,7 +583,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
@@ -586,8 +591,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:05:40.6807608+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:23.6224167+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.2924165+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:00:06.8722949+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:05:40.6807738+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:00:51.9563244+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:23.6224292+00:00"
 }

@@ -1,47 +1,47 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.79 (Ranked 1,058)  
+Rating: 3.79 (Ranked 1,059)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~40,263 |
-| To The Nines | 42.00% | ~35,979 |
-| Optimized | 37.00% | ~31,696 |
-| Performance Review | 36.00% | ~30,839 |
-| Making a Name | 35.00% | ~29,983 |
-| Tune Up | 34.00% | ~29,126 |
-| Wet Work | 32.00% | ~27,413 |
-| Landlord | 32.00% | ~27,413 |
-| The Side Job | 31.00% | ~26,556 |
-| Wrecking Ball | 28.00% | ~23,986 |
-| Food for Thought | 28.00% | ~23,986 |
-| Finders Keepers | 25.00% | ~21,416 |
-| A Young Empire | 25.00% | ~21,416 |
-| Work Ethic | 23.00% | ~19,703 |
-| Picking Fights | 20.00% | ~17,133 |
-| Power Players | 19.00% | ~16,276 |
-| Quality Time | 18.00% | ~15,420 |
-| Showdown | 17.00% | ~14,563 |
-| Et tu? | 17.00% | ~14,563 |
-| Took It to The Limit | 16.00% | ~13,706 |
-| Kitted Out | 14.00% | ~11,993 |
-| Masters of Santo Ileso | 12.00% | ~10,280 |
-| Hijacked | 11.00% | ~9,423 |
-| The Spins | 10.00% | ~8,566 |
-| The Mechanic | 10.00% | ~8,566 |
-| Closet Space | 8.00% | ~6,853 |
+| First F#@!ing Day | 47.00% | ~40,266 |
+| To The Nines | 42.00% | ~35,982 |
+| Optimized | 37.00% | ~31,699 |
+| Performance Review | 36.00% | ~30,842 |
+| Making a Name | 35.00% | ~29,985 |
+| Tune Up | 34.00% | ~29,128 |
+| Wet Work | 32.00% | ~27,415 |
+| Landlord | 32.00% | ~27,415 |
+| The Side Job | 31.00% | ~26,558 |
+| Wrecking Ball | 28.00% | ~23,988 |
+| Food for Thought | 28.00% | ~23,988 |
+| Finders Keepers | 25.00% | ~21,418 |
+| A Young Empire | 25.00% | ~21,418 |
+| Work Ethic | 23.00% | ~19,705 |
+| Picking Fights | 20.00% | ~17,134 |
+| Power Players | 19.00% | ~16,278 |
+| Quality Time | 18.00% | ~15,421 |
+| Showdown | 17.00% | ~14,564 |
+| Et tu? | 17.00% | ~14,564 |
+| Took It to The Limit | 16.00% | ~13,708 |
+| Kitted Out | 14.00% | ~11,994 |
+| Masters of Santo Ileso | 12.00% | ~10,281 |
+| Hijacked | 11.00% | ~9,424 |
+| The Spins | 10.00% | ~8,567 |
+| The Mechanic | 10.00% | ~8,567 |
+| Closet Space | 8.00% | ~6,854 |
 | We could go home, or… | 7.00% | ~5,997 |
 | Challenge Accepted | 7.00% | ~5,997 |
 | A Golden Age | 7.00% | ~5,997 |
-| Producer Credit | 7.00% | ~4,011 |
+| Producer Credit | 7.00% | ~4,012 |
 | Chaos Tamer | 6.00% | ~5,140 |
-| Face Off | 6.00% | ~3,438 |
-| The Professional | 5.00% | ~4,283 |
-| Untouchable | 5.00% | ~4,283 |
-| Free Refills | 5.00% | ~4,283 |
-| Smooth Moves | 5.00% | ~4,283 |
+| Face Off | 6.00% | ~3,439 |
+| The Professional | 5.00% | ~4,284 |
+| Untouchable | 5.00% | ~4,284 |
+| Free Refills | 5.00% | ~4,284 |
+| Smooth Moves | 5.00% | ~4,284 |
 | Hazardous Heist | 5.00% | ~2,865 |
 | Neighborly | 4.00% | ~3,427 |
 | Prankster | 4.00% | ~3,427 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~171 |
 | Fiesta Time | 0.20% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,665 (Ranked 100)  
+Progressed: 85,672 (Ranked 100)  
 Completed: 56 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 56 (0.07%) (Ranked 321)
 | 2023-12-22 | 85,116 | 56 |
 | 2023-12-23 | 85,401 | 56 |
 | 2023-12-24 | 85,665 | 56 |
+| 2023-12-25 | 85,672 | 56 |
 ## Awards
 Max (Extremely Fun): 1,083  (Ranked 150)  
 Sum: 8,786 (Ranked 100)  

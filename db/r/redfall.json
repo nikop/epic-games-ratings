@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2048,
+  "EOS_Progressed": 2049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3235,6 +3235,11 @@
       "Time": "2023-12-24T23:05:39.699559+00:00",
       "NumProgressed": 2048,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T00:06:22.6309621+00:00",
+      "NumProgressed": 2049,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3300,9 +3305,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 143
     },
     {
       "ID": "Achievement_010",
@@ -3773,7 +3778,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2048,
+      "Progressed": 2049,
       "Completed": 0
     }
   ],
@@ -3781,8 +3786,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-24T11:58:56.6191346+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:05:39.6995587+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:22.6309618+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:13.1956955+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:05:39.6996152+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:51.7694769+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:22.6310153+00:00"
 }

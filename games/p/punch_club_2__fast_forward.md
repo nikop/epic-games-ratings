@@ -4,59 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~406 |
-| Your first fight | 85.00% | ~392 |
+| Such a strange dream… | 88.00% | ~407 |
+| Your first fight | 85.00% | ~393 |
 | Good Person Chip | 83.00% | ~383 |
-| First winning | 82.00% | ~378 |
-| Your first job | 81.00% | ~373 |
-| Depressed visitor | 76.00% | ~350 |
-| Neurotrainer – power gainer! | 76.00% | ~350 |
-| Fitness professional | 75.00% | ~346 |
+| First winning | 82.00% | ~379 |
+| Your first job | 81.00% | ~374 |
+| Depressed visitor | 76.00% | ~351 |
+| Neurotrainer – power gainer! | 76.00% | ~351 |
 | Old movies enjoyer | 75.00% | ~346 |
-| Employee of the week | 74.00% | ~341 |
-| Your own amateur gym | 69.00% | ~318 |
-| Run K, run! | 69.00% | ~318 |
-| First defeat | 68.00% | ~313 |
-| Hello, world! | 67.00% | ~309 |
-| No bullying more | 66.00% | ~304 |
+| Fitness professional | 74.00% | ~342 |
+| Employee of the week | 74.00% | ~342 |
+| Your own amateur gym | 69.00% | ~319 |
+| First defeat | 68.00% | ~314 |
+| Run K, run! | 68.00% | ~314 |
+| Hello, world! | 67.00% | ~310 |
+| No bullying more | 66.00% | ~305 |
 | Fighting is cool | 65.00% | ~300 |
-| Pal of your father? | 64.00% | ~295 |
+| Pal of your father? | 64.00% | ~296 |
 | Spirit of the past | 62.00% | ~286 |
-| Employee of the month | 61.00% | ~281 |
-| Law student | 59.00% | ~272 |
-| Workout professional | 56.00% | ~258 |
-| Handyman | 56.00% | ~258 |
-| Champion – starter pack | 56.00% | ~258 |
+| Employee of the month | 61.00% | ~282 |
+| Law student | 59.00% | ~273 |
+| Workout professional | 55.00% | ~254 |
 | Little hacker | 55.00% | ~254 |
+| Handyman | 55.00% | ~254 |
+| Champion – starter pack | 55.00% | ~254 |
 | Fight for life | 54.00% | ~249 |
 | It's good to be alive | 54.00% | ~249 |
 | Own four walls | 54.00% | ~249 |
 | Intriguing candies | 54.00% | ~249 |
 | Employee of the year | 54.00% | ~249 |
-| Extreme neuropower! | 51.00% | ~235 |
-| Legal courier | 50.00% | ~230 |
+| Extreme neuropower! | 51.00% | ~236 |
+| Legal courier | 50.00% | ~231 |
 | Escaped from a big trouble | 47.00% | ~217 |
 | Now you are worthy | 44.00% | ~203 |
-| Fight is life | 43.00% | ~198 |
+| Fight is life | 42.00% | ~194 |
 | Mysterious voice | 42.00% | ~194 |
 | Guiding on the right path | 41.00% | ~189 |
-| No blades in the gym | 40.00% | ~184 |
-| Champion – no way back | 38.00% | ~175 |
-| Responsible approach | 38.00% | ~175 |
+| No blades in the gym | 40.00% | ~185 |
+| Champion – no way back | 38.00% | ~176 |
+| Responsible approach | 38.00% | ~176 |
 | Underground dwellers | 37.00% | ~171 |
 | Deal with life | 36.00% | ~166 |
-| GYM professional | 36.00% | ~166 |
-| Mom got better | 35.00% | ~161 |
-| The die is cast | 35.00% | ~161 |
+| Mom got better | 35.00% | ~162 |
+| GYM professional | 35.00% | ~162 |
+| The die is cast | 35.00% | ~162 |
 | Poisoned fighter | 34.00% | ~157 |
 | Get out of my apartment! | 34.00% | ~157 |
-| Seashell hunter | 33.00% | ~152 |
 | Gang wrangler | 32.00% | ~148 |
+| Seashell hunter | 32.00% | ~148 |
 | Problems of cyborgs | 31.00% | ~143 |
 | Absolute Champion! | 31.00% | ~143 |
 | Undercover robot | 31.00% | ~143 |
-| Not little hacker | 30.00% | ~138 |
-| Your own way | 30.00% | ~138 |
+| Not little hacker | 30.00% | ~139 |
 | Trap disarmed | 29.00% | ~134 |
 | Another world | 29.00% | ~134 |
 | The lonesome road | 29.00% | ~134 |
@@ -67,11 +66,12 @@
 | Careerist | 29.00% | ~134 |
 | Anyone can resist | 29.00% | ~134 |
 | The heart of the Resistance | 29.00% | ~134 |
+| Your own way | 29.00% | ~134 |
 | Silver’s past | 26.00% | ~120 |
 | Better cooking at home | 26.00% | ~120 |
 | The only right decision | 26.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461 (Ranked 339)  
+Progressed: 462 (Ranked 338)  
 Completed: 9 (1.95%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,3 +175,4 @@ Completed: 9 (1.95%) (Ranked 136)
 | 2023-12-22 | 447 | 9 |
 | 2023-12-23 | 452 | 9 |
 | 2023-12-24 | 461 | 9 |
+| 2023-12-25 | 462 | 9 |

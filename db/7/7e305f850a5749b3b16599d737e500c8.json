@@ -2,9 +2,9 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -1373,9 +1373,9 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "Fixer",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:06:22.0047231+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:08:24.4343641+00:00",
   "LastUpdate_AppInfo": "2023-12-19T08:57:02.2592563+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:54.6093183+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:06:22.0047403+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:01.7164462+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:08:24.4343803+00:00"
 }

@@ -10,9 +10,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | Captain and Crew | 4.00% | ~1,065 |
 | No Harm in Looking | 4.00% | ~1,065 |
 | Harvest and Home | 3.00% | ~799 |
-| Hands and Hammers | 2.00% | ~532 |
-| Poise and Poisons | 2.00% | ~532 |
-| Suns and Soldiers | 2.00% | ~532 |
+| Hands and Hammers | 2.00% | ~533 |
+| Poise and Poisons | 2.00% | ~533 |
+| Suns and Soldiers | 2.00% | ~533 |
 | King and Kin | 1.00% | ~266 |
 | Progenitor and Protégé | 1.00% | ~266 |
 | Prequel to the Sequel | 1.00% | ~266 |
@@ -22,8 +22,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Looks Familiar | 0.60% | ~160 |
 | Good Boy! | 0.60% | ~160 |
 | For Justice | 0.50% | ~133 |
-| For Survival | 0.40% | ~106 |
-| Jack of all Trades | 0.40% | ~106 |
+| For Survival | 0.40% | ~107 |
+| Jack of all Trades | 0.40% | ~107 |
 | For Wrath | 0.30% | ~80 |
 | For Love | 0.30% | ~80 |
 | For Pride | 0.30% | ~80 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,623 (Ranked 141)  
+Progressed: 26,626 (Ranked 141)  
 Completed: 35 (0.13%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,6 +293,7 @@ Completed: 35 (0.13%) (Ranked 294)
 | 2023-12-22 | 26,293 | 35 |
 | 2023-12-23 | 26,474 | 35 |
 | 2023-12-24 | 26,623 | 35 |
+| 2023-12-25 | 26,626 | 35 |
 ## Awards
 Max (Extremely Fun): 224  (Ranked 285)  
 Sum: 1,706 (Ranked 225)  

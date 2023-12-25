@@ -5,18 +5,18 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 48.00% | ~5,615 |
-| Start with a bang! | 47.00% | ~5,498 |
-| You can pet the cat! | 42.00% | ~4,913 |
-| Who put gears in there? | 34.00% | ~3,977 |
-| Cream of the Crop | 30.00% | ~3,509 |
-| Thanks for the free chip, Peppermint! | 29.00% | ~3,392 |
-| You got this, Peppermint? | 24.00% | ~2,807 |
-| Perfect Parry | 22.00% | ~2,573 |
-| Alright, that felt AWESOME! | 22.00% | ~2,573 |
-| I play my own way! | 20.00% | ~2,339 |
-| This will cost you big time | 17.00% | ~1,988 |
-| Uh, they were broken when I got here | 17.00% | ~1,988 |
+| Feeling the beat! | 48.00% | ~5,616 |
+| Start with a bang! | 47.00% | ~5,499 |
+| You can pet the cat! | 42.00% | ~4,914 |
+| Who put gears in there? | 34.00% | ~3,978 |
+| Cream of the Crop | 30.00% | ~3,510 |
+| Thanks for the free chip, Peppermint! | 29.00% | ~3,393 |
+| You got this, Peppermint? | 24.00% | ~2,808 |
+| Perfect Parry | 22.00% | ~2,574 |
+| Alright, that felt AWESOME! | 22.00% | ~2,574 |
+| I play my own way! | 20.00% | ~2,340 |
+| This will cost you big time | 17.00% | ~1,989 |
+| Uh, they were broken when I got here | 17.00% | ~1,989 |
 | Z-shielding's got nothing on us! | 16.00% | ~1,872 |
 | Kissing the sky! | 15.00% | ~1,755 |
 | Does that say weakpoint? | 14.00% | ~1,638 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~10 |
 | Low budget finish | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,697 (Ranked 171)  
+Progressed: 11,701 (Ranked 171)  
 Completed: 8 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 8 (0.07%) (Ranked 321)
 | 2023-12-22 | 10,702 | 8 |
 | 2023-12-23 | 11,217 | 8 |
 | 2023-12-24 | 11,697 | 8 |
+| 2023-12-25 | 11,701 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

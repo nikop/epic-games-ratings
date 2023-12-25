@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -2345,6 +2345,11 @@
       "Time": "2023-12-24T23:09:59.3841354+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T00:10:09.9247362+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2356,7 +2361,7 @@
       "Name": "Break Out",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_02",
@@ -2364,7 +2369,7 @@
       "Name": "Find Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_03",
@@ -2386,17 +2391,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_07",
@@ -2412,7 +2417,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_09",
@@ -2436,7 +2441,7 @@
       "Name": "Forgemaster",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_12",
@@ -2612,7 +2617,7 @@
       "Name": "The Collector",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_35",
@@ -2643,14 +2648,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1189,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:09:59.3841352+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:10:09.9247359+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:34.7261326+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:09:59.3841661+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:00:16.193144+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:10:09.9247684+00:00"
 }

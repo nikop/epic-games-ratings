@@ -9,7 +9,7 @@
 | First to the post | 82.00% | ~63 |
 | A kind of Magic | 77.00% | ~59 |
 | Connected | 69.00% | ~53 |
-| Expansion | 64.00% | ~49 |
+| Expansion | 65.00% | ~50 |
 | Mine! | 60.00% | ~46 |
 | Harvest Time | 58.00% | ~45 |
 | Artificer's Apprentice | 51.00% | ~39 |

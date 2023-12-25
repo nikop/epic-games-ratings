@@ -1,46 +1,46 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 946)  
+Rating: 4.18 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,778 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,049 |
-| Loose Ends | 33.00% | ~26,253 |
-| To the Victor Go the Spoils | 28.00% | ~22,275 |
-| Knighthood | 27.00% | ~21,480 |
-| Get ReQ'd | 25.00% | ~19,889 |
-| Whispered Words | 24.00% | ~19,093 |
-| The Batman Family | 22.00% | ~17,502 |
-| Lock and Key | 22.00% | ~17,502 |
-| Something in the Clay | 20.00% | ~15,911 |
-| Quartzer Life Crisis | 20.00% | ~15,911 |
-| Working Hard or Harley Working? | 20.00% | ~15,911 |
-| Unstoppable Force | 20.00% | ~15,911 |
-| Bad Apples in Every Orchard | 20.00% | ~15,911 |
-| Snow Problem | 19.00% | ~15,115 |
-| The Show Mud Go On | 18.00% | ~14,320 |
-| From Inside Gotham's Walls | 17.00% | ~13,524 |
-| Protector of Gotham | 16.00% | ~12,729 |
-| Universal Health Scare | 16.00% | ~12,729 |
-| In Your Element | 15.00% | ~11,933 |
+| First Step Into the Knight | 50.00% | ~39,780 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,050 |
+| Loose Ends | 33.00% | ~26,255 |
+| To the Victor Go the Spoils | 28.00% | ~22,277 |
+| Knighthood | 27.00% | ~21,481 |
+| Get ReQ'd | 25.00% | ~19,890 |
+| Whispered Words | 24.00% | ~19,094 |
+| The Batman Family | 22.00% | ~17,503 |
+| Lock and Key | 22.00% | ~17,503 |
+| Something in the Clay | 20.00% | ~15,912 |
+| Quartzer Life Crisis | 20.00% | ~15,912 |
+| Working Hard or Harley Working? | 20.00% | ~15,912 |
+| Unstoppable Force | 20.00% | ~15,912 |
+| Bad Apples in Every Orchard | 20.00% | ~15,912 |
+| Snow Problem | 19.00% | ~15,116 |
+| The Show Mud Go On | 18.00% | ~14,321 |
+| From Inside Gotham's Walls | 17.00% | ~13,525 |
+| Protector of Gotham | 16.00% | ~12,730 |
+| Universal Health Scare | 16.00% | ~12,730 |
+| In Your Element | 15.00% | ~11,934 |
 | Rock and a Hard Place | 14.00% | ~11,138 |
 | Cooldown | 14.00% | ~11,138 |
 | Voiceless | 14.00% | ~11,138 |
-| Not On My Watch | 13.00% | ~10,342 |
-| Shock Til They Drop | 13.00% | ~10,342 |
-| Seeking Asylum | 13.00% | ~10,342 |
+| Not On My Watch | 13.00% | ~10,343 |
+| Shock Til They Drop | 13.00% | ~10,343 |
+| Seeking Asylum | 13.00% | ~10,343 |
 | End of an Era | 12.00% | ~9,547 |
 | Bulldozed | 12.00% | ~9,547 |
 | Gotham Knight | 12.00% | ~9,547 |
-| Gotham City Confidential | 11.00% | ~8,751 |
+| Gotham City Confidential | 11.00% | ~8,752 |
 | Drone You Out | 10.00% | ~7,956 |
 | Out of Their League | 9.00% | ~7,160 |
 | Solid Alibi | 9.00% | ~7,160 |
 | Fusion Expert | 7.00% | ~5,569 |
-| Family Meeting | 6.00% | ~4,773 |
-| A Worthy Successor | 6.00% | ~4,773 |
+| Family Meeting | 6.00% | ~4,774 |
+| A Worthy Successor | 6.00% | ~4,774 |
 | Expert Crime Fighter | 5.00% | ~3,978 |
 | Dressed to Impress | 4.00% | ~3,182 |
 | A Momentum Occasion | 3.00% | ~2,387 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 946)
 | The Cold, the Bad and the Ugly | 0.30% | ~150 |
 | It's Nice to Be Wanted | 0.20% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,555 (Ranked 104)  
+Progressed: 79,560 (Ranked 104)  
 Completed: 128 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,17 +316,18 @@ Completed: 128 (0.16%) (Ranked 286)
 | 2023-12-22 | 79,163 | 126 |
 | 2023-12-23 | 79,360 | 127 |
 | 2023-12-24 | 79,555 | 128 |
+| 2023-12-25 | 79,560 | 128 |
 ## Awards
 Max (Great Boss Battles): 3,053  (Ranked 99)  
-Sum: 5,218 (Ranked 143)  
+Sum: 5,220 (Ranked 143)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,053 |
 | This game has Diverse Characters | 279 |
 | This game is Great for Beginners | 272 |
-| This game is Relaxing | 271 |
-| This game is Extremely Fun | 271 |
+| This game is Relaxing | 272 |
+| This game is Extremely Fun | 272 |
 | This game has Quickly Understood Controls | 270 |
 | This game has Amazing Characters | 269 |
 | This game has Amazing Storytelling | 267 |
@@ -636,4 +637,4 @@ Diff (max vs sum): -44
 | 2023-12-21 | 4.18 | 3,036 | 5,195 |
 | 2023-12-22 | 4.18 | 3,039 | 5,204 |
 | 2023-12-23 | 4.18 | 3,047 | 5,212 |
-| 2023-12-24 | 4.19 | 3,053 | 5,218 |
+| 2023-12-24 | 4.19 | 3,053 | 5,220 |

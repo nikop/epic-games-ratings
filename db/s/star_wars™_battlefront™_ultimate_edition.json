@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2124,
+  "EOS_Progressed": 2126,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
@@ -6114,6 +6114,11 @@
       "Time": "2023-12-24T23:10:02.7993136+00:00",
       "NumProgressed": 2124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T00:10:13.4511748+00:00",
+      "NumProgressed": 2126,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6158,7 +6163,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_14",
@@ -6174,7 +6179,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_16",
@@ -6182,7 +6187,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_17",
@@ -6206,7 +6211,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_2",
@@ -6246,7 +6251,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_24",
@@ -6278,7 +6283,7 @@
       "Name": "Your journey has only started",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_28",
@@ -6310,7 +6315,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_31",
@@ -6350,7 +6355,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_36",
@@ -6366,7 +6371,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "achievement_38",
@@ -6390,7 +6395,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_40",
@@ -6398,7 +6403,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1106
     },
     {
       "ID": "achievement_41",
@@ -6430,7 +6435,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "achievement_45",
@@ -6454,7 +6459,7 @@
       "Name": "Greed can be a very powerful ally",
       "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_48",
@@ -6486,7 +6491,7 @@
       "Name": "City in the Clouds",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_51",
@@ -6518,7 +6523,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_55",
@@ -6574,7 +6579,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_61",
@@ -6598,7 +6603,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_7",
@@ -6629,13 +6634,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2124,
+      "Progressed": 2126,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2124,
+      "Progressed": 2126,
       "Completed": 1
     }
   ],
@@ -6643,8 +6648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:10:02.7993133+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:10:13.4511746+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:42.8096133+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:10:02.7993842+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:00:24.7176721+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:10:13.4512553+00:00"
 }

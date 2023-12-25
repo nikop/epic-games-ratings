@@ -417,9 +417,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Build_First_Room",
@@ -978,8 +978,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:09:16.9320481+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:09:27.1758327+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:48.5460024+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:09:16.9320955+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:26.7235114+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:09:27.1759143+00:00"
 }

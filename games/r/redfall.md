@@ -11,7 +11,7 @@ Rating: 3.59 (Ranked 1,067)
 | ICU | 8.00% | ~164 |
 | Wounded Whispers | 8.00% | ~164 |
 | Blood Will Have Blood | 7.00% | ~143 |
-| Ne Plus Ultra | 6.00% | ~123 |
+| Ne Plus Ultra | 7.00% | ~143 |
 | Fly Fisher | 6.00% | ~123 |
 | Peek-a-boo | 6.00% | ~123 |
 | Sucks To Be You | 6.00% | ~123 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,048 (Ranked 237)  
+Progressed: 2,049 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
+| 2023-12-25 | 2,049 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

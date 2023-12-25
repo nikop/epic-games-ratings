@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5798,
+  "EOS_Progressed": 5800,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11762,6 +11762,11 @@
       "Time": "2023-12-24T23:05:46.695528+00:00",
       "NumProgressed": 5798,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T00:06:29.5081847+00:00",
+      "NumProgressed": 5800,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11822,7 +11827,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -11957,15 +11962,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5798,
+      "Progressed": 5800,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:05:46.6955278+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:29.5081844+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:49.8279422+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:05:46.6955922+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:57:57.2318611+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:29.5082585+00:00"
 }

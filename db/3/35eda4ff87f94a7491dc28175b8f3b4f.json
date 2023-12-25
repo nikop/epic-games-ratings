@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -269,10 +269,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17320,
+  "EOS_Progressed": 17330,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1727,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1730,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
@@ -5584,6 +5584,11 @@
       "Time": "2023-12-24T23:03:47.4296181+00:00",
       "NumProgressed": 17320,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-25T00:04:00.3152615+00:00",
+      "NumProgressed": 17330,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -5604,7 +5609,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -5620,7 +5625,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -5644,7 +5649,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2080
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -5652,7 +5657,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -5668,14 +5673,14 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 17320,
+      "Progressed": 17330,
       "Completed": 75
     }
   ],
@@ -5683,8 +5688,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-23T04:57:40.1622924+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:03:47.4296178+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:04:00.3152611+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:56.7597495+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:58:08.5939708+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:03:47.4296527+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:58:17.3022205+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:04:00.3152935+00:00"
 }

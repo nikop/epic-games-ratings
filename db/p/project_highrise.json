@@ -1765,9 +1765,9 @@
       "ID": "ach_plaza",
       "SetID": "b8gh1fi",
       "Name": "Plaza Plan",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_pop_1",
@@ -1909,9 +1909,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_retail_4",
@@ -2062,8 +2062,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:04:36.248222+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:05:19.4685643+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:57:31.1328119+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:04:36.2482948+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:57:38.3194771+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:05:19.4686352+00:00"
 }

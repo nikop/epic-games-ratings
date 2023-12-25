@@ -6,8 +6,8 @@
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -2989,9 +2989,9 @@
       "ID": "ACHIEVEMENTS_06",
       "SetID": "d4o538a",
       "Name": "Acrobatic Adventurer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -3262,8 +3262,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:04:52.511602+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:05:35.7866904+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:13.5740199+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:04:52.5116301+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:52.0371662+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:05:35.7867186+00:00"
 }

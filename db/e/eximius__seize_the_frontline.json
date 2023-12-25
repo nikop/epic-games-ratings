@@ -2,7 +2,7 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 951,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 80,
@@ -333,9 +333,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201919,
+  "EOS_Progressed": 201920,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26473,6 +26473,11 @@
       "Time": "2023-12-24T23:05:52.9953456+00:00",
       "NumProgressed": 201919,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T00:06:35.7073044+00:00",
+      "NumProgressed": 201920,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -26492,7 +26497,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 143362
+      "UsersEstimate": 143363
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -26516,7 +26521,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36345
+      "UsersEstimate": 36346
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -26611,7 +26616,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 201919,
+      "Progressed": 201920,
       "Completed": 4
     }
   ],
@@ -26619,8 +26624,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:05:52.9953453+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:06:35.7073042+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:24.676091+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:00:22.9478757+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:05:52.9954885+00:00"
+  "LastUpdate_Ratings": "2023-12-25T00:01:07.9779367+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:06:35.7074325+00:00"
 }

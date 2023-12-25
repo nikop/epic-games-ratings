@@ -5,7 +5,7 @@
   "Ranking_Rating": 881,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 146,
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -984,6 +984,11 @@
       "Time": "2023-12-24T23:08:39.0057235+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T00:08:49.584435+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -994,17 +999,17 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 73
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "CareerChamp1",
@@ -1034,9 +1039,9 @@
       "ID": "CareerChamp4",
       "SetID": "5hd282c",
       "Name": "Pro Internationals Champion",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "CareerComplete",
@@ -1090,9 +1095,9 @@
       "ID": "LawnMowerTime",
       "SetID": "5hd282c",
       "Name": "Garden Variety",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -1155,7 +1160,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
@@ -1163,8 +1168,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-24T23:08:39.0057231+00:00",
+  "LastChanged_Achievements": "2023-12-25T00:08:49.5844347+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-24T22:59:08.3528949+00:00",
-  "LastUpdate_Achievements": "2023-12-24T23:08:39.0057592+00:00"
+  "LastUpdate_Ratings": "2023-12-24T23:59:46.8803922+00:00",
+  "LastUpdate_Achievements": "2023-12-25T00:08:49.5844494+00:00"
 }

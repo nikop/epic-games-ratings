@@ -26,12 +26,12 @@
 | An odd series of events | 27.00% | ~17 |
 | The Apartment | 27.00% | ~17 |
 | Nathaniel Dryden | 25.00% | ~16 |
+| Bartholomew | 25.00% | ~16 |
 | A rude awakening | 24.00% | ~15 |
-| Bartholomew | 24.00% | ~15 |
+| The Scheme | 24.00% | ~15 |
 | Well-acquainted | 22.00% | ~14 |
 | Anastasia Babanin | 22.00% | ~14 |
 | Zakariya Demir | 22.00% | ~14 |
-| The Scheme | 22.00% | ~14 |
 | Truth from within | 21.00% | ~13 |
 | A curious phrase | 19.00% | ~12 |
 | Evelyn Lakshmi Warbeck | 17.00% | ~11 |
