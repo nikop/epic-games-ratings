@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3760,9 +3760,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241646,
+  "EOS_Progressed": 241647,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29440,6 +29440,11 @@
       "Time": "2023-12-25T07:11:23.6960679+00:00",
       "NumProgressed": 241646,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-25T08:10:34.5125114+00:00",
+      "NumProgressed": 241647,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29625,9 +29630,9 @@
       "ID": "DIEIN30SEC",
       "SetID": "5l8oe0h",
       "Name": "That Was Quick",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1933
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -30554,13 +30559,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241646,
+      "Progressed": 241647,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3126,
+      "Progressed": 3127,
       "Completed": 412
     }
   ],
@@ -30568,8 +30573,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T03:57:35.6011004+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:11:23.6960674+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:10:34.5125113+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:58:14.7167066+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:11:23.6963097+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:58:01.8128981+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:10:34.5127838+00:00"
 }

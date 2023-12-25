@@ -4,7 +4,7 @@
   "ProductSlug": "tower-of-fantasy",
   "Ranking_Rating": 818,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 277,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
@@ -2687,6 +2687,6 @@
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
   "LastChanged": "2023-12-25T02:59:58.2372208+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:38.59845+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:00:22.281488+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:10:45.6506039+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:00:09.7132585+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:09:56.8464934+00:00"
 }

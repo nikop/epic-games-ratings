@@ -12,8 +12,8 @@ Rating: 4.39 (Ranked 764)
 | The Wait | 7.00% | ~18,182 |
 | Green thumb I | 6.00% | ~15,585 |
 | Cleaning Company | 6.00% | ~15,585 |
-| Well-oiled machine | 5.00% | ~12,987 |
-| Saver I | 5.00% | ~12,987 |
+| Well-oiled machine | 5.00% | ~12,988 |
+| Saver I | 5.00% | ~12,988 |
 | The Ascent | 4.00% | ~10,390 |
 | Pacifist | 4.00% | ~10,390 |
 | Vandalism | 4.00% | ~10,390 |
@@ -28,13 +28,13 @@ Rating: 4.39 (Ranked 764)
 | Truffle Dog | 2.00% | ~5,195 |
 | Don't try this at home | 2.00% | ~5,195 |
 | A month in Century City | 2.00% | ~5,195 |
-| The Strengthening | 1.00% | ~2,597 |
-| Saver II | 1.00% | ~2,597 |
-| It's the last one, I swear | 1.00% | ~2,597 |
-| Botanist | 1.00% | ~2,597 |
-| Green thumb II | 1.00% | ~2,597 |
-| Bricklayer | 1.00% | ~2,597 |
-| Run the Economy | 1.00% | ~2,597 |
+| The Strengthening | 1.00% | ~2,598 |
+| Saver II | 1.00% | ~2,598 |
+| It's the last one, I swear | 1.00% | ~2,598 |
+| Botanist | 1.00% | ~2,598 |
+| Green thumb II | 1.00% | ~2,598 |
+| Bricklayer | 1.00% | ~2,598 |
+| Run the Economy | 1.00% | ~2,598 |
 | Committed Relationship | 0.80% | ~2,078 |
 | Number 1 | 0.80% | ~2,078 |
 | A major purchase | 0.60% | ~1,558 |
@@ -48,9 +48,9 @@ Rating: 4.39 (Ranked 764)
 | Fixer III | 0.30% | ~779 |
 | AML questionnaire | 0.30% | ~779 |
 | Heartbreaker | 0.30% | ~779 |
-| Workhorse | 0.20% | ~519 |
-| Homerun | 0.20% | ~519 |
-| A season in Century City | 0.20% | ~519 |
+| Workhorse | 0.20% | ~520 |
+| Homerun | 0.20% | ~520 |
+| A season in Century City | 0.20% | ~520 |
 | Saver III | 0.10% | ~260 |
 | Collector | 0.10% | ~260 |
 | Mansion | 0.10% | ~260 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 764)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,748 (Ranked 63)  
+Progressed: 259,750 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-22 | 259,640 | 3 |
 | 2023-12-23 | 259,690 | 3 |
 | 2023-12-24 | 259,736 | 3 |
-| 2023-12-25 | 259,748 | 3 |
+| 2023-12-25 | 259,750 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 53  (Ranked 438)  
 Sum: 366 (Ranked 358)  

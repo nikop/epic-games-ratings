@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17365,
+  "EOS_Progressed": 17366,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16955,6 +16955,11 @@
       "Time": "2023-12-25T06:08:33.291744+00:00",
       "NumProgressed": 17365,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-25T08:07:57.5178415+00:00",
+      "NumProgressed": 17366,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 41,
@@ -16966,7 +16971,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "tpote_achievement_10",
@@ -17030,7 +17035,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "tpote_achievement_18",
@@ -17038,7 +17043,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "tpote_achievement_19",
@@ -17054,7 +17059,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "tpote_achievement_20",
@@ -17094,7 +17099,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "tpote_achievement_25",
@@ -17110,7 +17115,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "tpote_achievement_27",
@@ -17150,7 +17155,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "tpote_achievement_31",
@@ -17293,15 +17298,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17365,
+      "Progressed": 17366,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:08:47.3387938+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:07:57.5178413+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:58:25.4867233+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:08:47.3388915+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:58:12.6431671+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:07:57.5179352+00:00"
 }

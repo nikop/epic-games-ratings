@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2964,
+  "EOS_Progressed": 2965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7232,6 +7232,11 @@
       "Time": "2023-12-25T07:05:52.040342+00:00",
       "NumProgressed": 2964,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T08:05:31.2809456+00:00",
+      "NumProgressed": 2965,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7244,7 +7249,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7252,7 +7257,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7540,7 +7545,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7548,7 +7553,7 @@
       "Name": "Champagne Spray",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7596,7 +7601,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7635,14 +7640,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2964,
+      "Progressed": 2965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:05:52.0403417+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:05:31.280945+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:57:51.7773104+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:05:52.0404034+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:57:39.7314441+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:05:31.2810118+00:00"
 }

@@ -7,7 +7,7 @@
 | Land of the Rising Sun | 99.00% | ~853 |
 | Hidden History | 70.00% | ~603 |
 | Commencing of Quests | 62.00% | ~534 |
-| Budding Conjuror | 60.00% | ~517 |
+| Budding Conjuror | 61.00% | ~526 |
 | Man-Machine Master | 49.00% | ~422 |
 | Charmed by the Hunt | 48.00% | ~414 |
 | Mountain Splitter | 47.00% | ~405 |
@@ -39,7 +39,7 @@
 | Threaded Harmony | 16.00% | ~138 |
 | Style Seeker | 15.00% | ~129 |
 | Quintessence of Form | 15.00% | ~129 |
-| Karakuri Minato | 14.00% | ~121 |
+| Karakuri Minato | 15.00% | ~129 |
 | Canyon of Karakuri | 13.00% | ~112 |
 | Jack of All Trades | 12.00% | ~103 |
 | Karakuri Fortress | 11.00% | ~95 |

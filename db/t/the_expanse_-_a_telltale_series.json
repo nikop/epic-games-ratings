@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17359,
+  "EOS_Progressed": 17363,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15061,6 +15061,11 @@
       "Time": "2023-12-25T07:04:27.2065325+00:00",
       "NumProgressed": 17359,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-25T08:04:06.4464377+00:00",
+      "NumProgressed": 17363,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15145,7 +15150,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "19",
@@ -15177,7 +15182,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "22",
@@ -15249,7 +15254,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "30",
@@ -15352,13 +15357,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17359,
+      "Progressed": 17363,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3313,
+      "Progressed": 3317,
       "Completed": 1034
     }
   ],
@@ -15366,8 +15371,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:04:27.206532+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:04:06.4464372+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:59:35.0032273+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:04:27.2066569+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:59:22.4720658+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:04:06.4465293+00:00"
 }

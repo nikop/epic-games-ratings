@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5523,7 +5523,7 @@
       "Count": 544
     }
   ],
-  "EOS_Progressed": 13107,
+  "EOS_Progressed": 13108,
   "EOS_Completed": 325,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 10,
@@ -22953,6 +22953,11 @@
       "Time": "2023-12-25T05:09:13.9877118+00:00",
       "NumProgressed": 13107,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-25T08:09:12.8396504+00:00",
+      "NumProgressed": 13108,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 15,
@@ -22980,7 +22985,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "Chef_Cook",
@@ -22988,7 +22993,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "Chit_Chatter",
@@ -23076,14 +23081,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13107,
+      "Progressed": 13108,
       "Completed": 325
     }
   ],
@@ -23091,8 +23096,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-25T01:45:57.5436874+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:10:01.7397667+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:09:12.8396501+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:59:28.5629116+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:10:01.7398581+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:59:16.884388+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:09:12.8397207+00:00"
 }

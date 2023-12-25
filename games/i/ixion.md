@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,148 |
+| Wakey Wakey | 31.00% | ~1,149 |
 | Sputnik 2049 | 27.00% | ~1,000 |
 | Infinite Growth... | 26.00% | ~963 |
 | Without Breaking Some Eggs... | 25.00% | ~926 |
@@ -17,10 +17,10 @@ Rating: 4.58 (Ranked 457)
 | Ain't Nobody Got Time for That | 14.00% | ~519 |
 | The Ship of Theseus | 14.00% | ~519 |
 | Guy de Borderlands | 13.00% | ~482 |
-| A Hunk of Junk | 12.00% | ~444 |
-| Exceeding Capacity | 12.00% | ~444 |
-| Breaking Protocol | 12.00% | ~444 |
-| Hope Seeker | 12.00% | ~444 |
+| A Hunk of Junk | 12.00% | ~445 |
+| Exceeding Capacity | 12.00% | ~445 |
+| Breaking Protocol | 12.00% | ~445 |
+| Hope Seeker | 12.00% | ~445 |
 | Man's Best Friend | 9.00% | ~333 |
 | Power Outage | 9.00% | ~333 |
 | Convenient Transport | 8.00% | ~296 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,704 (Ranked 211)  
+Progressed: 3,705 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
-| 2023-12-25 | 3,704 | 0 |
+| 2023-12-25 | 3,705 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

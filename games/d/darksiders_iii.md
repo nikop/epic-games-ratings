@@ -39,14 +39,14 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Capacity | 20.00% | ~33 |
 | Demon Meddler | 18.00% | ~30 |
 | Seeing Red | 18.00% | ~30 |
-| Egomaniac | 16.00% | ~26 |
-| Protector of Humanity | 14.00% | ~23 |
-| Everybody Wants to Rule the World | 14.00% | ~23 |
+| Egomaniac | 17.00% | ~28 |
+| Protector of Humanity | 15.00% | ~25 |
+| Everybody Wants to Rule the World | 15.00% | ~25 |
 | Community Outreach | 13.00% | ~21 |
 | Unbreakable Will | 12.00% | ~20 |
+| Path of the Horseman | 12.00% | ~20 |
 | Take it to the Limit | 12.00% | ~20 |
 | A Parting Gift | 11.00% | ~18 |
-| Path of the Horseman | 11.00% | ~18 |
 | Holy Keeper | 10.00% | ~16 |
 | Demon Keeper | 9.00% | ~15 |
 | Humanitarian | 9.00% | ~15 |
@@ -58,9 +58,9 @@ Number of Ratings: 116  (23.09.2022)
 | Keep it 100! | 5.00% | ~8 |
 | Made of Sterner Stuff | 5.00% | ~8 |
 | Purity of Power | 4.00% | ~7 |
+| Balance in all things | 4.00% | ~7 |
 | Keeper of Colossal Automata | 4.00% | ~7 |
 | Keeper of the Tempo | 4.00% | ~7 |
-| Balance in all things | 3.00% | ~5 |
 | "Impressive!" | 3.00% | ~5 |
 | "Incredible!" | 3.00% | ~5 |
 | Proceed on your way to Armageddon | 3.00% | ~5 |

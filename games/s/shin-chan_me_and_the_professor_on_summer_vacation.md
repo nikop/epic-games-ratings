@@ -15,6 +15,7 @@
 | Just Hoverin' Along | 13.00% | ~5 |
 | What's That Smell? | 13.00% | ~5 |
 | It's Alive! | 13.00% | ~5 |
+| A New Time | 10.00% | ~4 |
 | My Fair Ladybug | 10.00% | ~4 |
 | Farm Life! | 10.00% | ~4 |
 | Did Someone Order Ramen? | 10.00% | ~4 |
@@ -22,7 +23,6 @@
 | Ptera Pal | 10.00% | ~4 |
 | Stego Stooge | 10.00% | ~4 |
 | DJ Superstar | 10.00% | ~4 |
-| A New Time | 8.00% | ~3 |
 | Dragonfly Whiz | 8.00% | ~3 |
 | The Holly Grail | 8.00% | ~3 |
 | Love Is in the Air! | 8.00% | ~3 |

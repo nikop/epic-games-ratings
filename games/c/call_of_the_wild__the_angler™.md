@@ -13,8 +13,8 @@ Number of Ratings: 281  (23.09.2022)
 | Scaling up | 10.00% | ~751 |
 | I'm on a Boat! | 9.00% | ~676 |
 | Ready to Rod and Roll | 7.00% | ~526 |
-| Fish Out of Water | 5.00% | ~375 |
-| Things that go Splash in the Night | 5.00% | ~375 |
+| Fish Out of Water | 5.00% | ~376 |
+| Things that go Splash in the Night | 5.00% | ~376 |
 | Goldfish? | 4.00% | ~300 |
 | Going for Gold | 3.00% | ~225 |
 | School's Out for Summer | 3.00% | ~225 |
@@ -32,12 +32,12 @@ Number of Ratings: 281  (23.09.2022)
 | All Good Kings Must Come to an End | 0.30% | ~21 |
 | The Beetles | 0.20% | ~15 |
 | Lake Me up Before You Go Go | 0.20% | ~15 |
+| Taylor Made | 0.20% | ~15 |
 | Big Fish Small Pond | 0.20% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~15 |
 | Rod and Troll | 0.20% | ~14 |
 | Three Square Meals | 0.20% | ~14 |
 | Head for Heights | 0.10% | ~8 |
-| Taylor Made | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |
 | Trollsporet Tale Teller | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,509 (Ranked 187)  
+Progressed: 7,510 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 7,389 | 0 |
 | 2023-12-23 | 7,447 | 0 |
 | 2023-12-24 | 7,496 | 0 |
-| 2023-12-25 | 7,509 | 0 |
+| 2023-12-25 | 7,510 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 471)  
 Sum: 211 (Ranked 405)  

@@ -4026,9 +4026,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4146,9 +4146,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4343,8 +4343,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:06:56.8817878+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:06:36.9767012+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:59:48.9916075+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:06:56.8818304+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:59:35.3059569+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:06:36.9767464+00:00"
 }

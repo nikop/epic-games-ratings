@@ -164,9 +164,9 @@
       "ID": "Trophy_04",
       "SetID": "cf5h6dl",
       "Name": "A New Time",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_05",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:05:18.7261779+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:04:58.0139521+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:43.5713425+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:03:24.3272258+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:05:18.7262068+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:03:03.4394215+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:04:58.0139816+00:00"
 }

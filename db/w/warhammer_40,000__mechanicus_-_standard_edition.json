@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1032,9 +1032,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 230389,
+  "EOS_Progressed": 230392,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28292,6 +28292,11 @@
       "Time": "2023-12-25T07:11:11.9499718+00:00",
       "NumProgressed": 230389,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T08:10:22.9596334+00:00",
+      "NumProgressed": 230392,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28311,7 +28316,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59901
+      "UsersEstimate": 59902
     },
     {
       "ID": "ACH_BASE_11",
@@ -28383,7 +28388,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13823
+      "UsersEstimate": 13824
     },
     {
       "ID": "ACH_BASE_20",
@@ -28574,7 +28579,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230389,
+      "Progressed": 230392,
       "Completed": 5
     }
   ],
@@ -28582,8 +28587,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-25T00:00:29.6273148+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:11:11.9499715+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:10:22.9596332+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:01:29.9422678+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:11:11.9501136+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:01:17.851736+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:10:22.9597627+00:00"
 }

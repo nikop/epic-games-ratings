@@ -23,8 +23,8 @@
 | Minions, Minions! | 55.00% | ~348 |
 | Hard Work | 53.00% | ~335 |
 | The Big Eaty | 53.00% | ~335 |
+| YOU SHALL NOT PASS! | 50.00% | ~316 |
 | “… like son” | 50.00% | ~316 |
-| YOU SHALL NOT PASS! | 49.00% | ~310 |
 | The Cathedral of Light | 47.00% | ~297 |
 | Shame! Shame! Shame! | 46.00% | ~291 |
 | Pure Dynamite! | 45.00% | ~284 |

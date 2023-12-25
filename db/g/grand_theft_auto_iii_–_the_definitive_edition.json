@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 174,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -619,15 +619,21 @@
       "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-25T08:02:48.3065293+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10535,
+  "EOS_Progressed": 10538,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 864,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -13460,6 +13466,11 @@
       "Time": "2023-12-25T07:06:55.3206086+00:00",
       "NumProgressed": 10535,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-25T08:06:35.4037628+00:00",
+      "NumProgressed": 10538,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 29,
@@ -13471,7 +13482,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8744
+      "UsersEstimate": 8747
     },
     {
       "ID": "ACH02",
@@ -13479,7 +13490,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "ACH03",
@@ -13495,7 +13506,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "ACH05",
@@ -13511,7 +13522,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH07",
@@ -13543,7 +13554,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "ACH11",
@@ -13583,7 +13594,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH16",
@@ -13615,7 +13626,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH20",
@@ -13655,7 +13666,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH25",
@@ -13702,16 +13713,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10535,
+      "Progressed": 10538,
       "Completed": 68
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-12-24T16:00:38.7228113+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:06:55.3206082+00:00",
+  "LastChanged": "2023-12-25T08:02:48.3065291+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:06:35.4037625+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:03:09.8383357+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:06:55.3206849+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:02:48.3065297+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:06:35.4038768+00:00"
 }

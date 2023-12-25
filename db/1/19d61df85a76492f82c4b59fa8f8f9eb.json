@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 436,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.4,
   "EosHistory": [
@@ -2056,9 +2056,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 275
+      "UsersEstimate": 279
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2103,8 +2103,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:09:53.862432+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:09:04.8001407+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.5196626+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:59:52.819332+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:09:53.8624492+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:59:39.2173801+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:09:04.8001566+00:00"
 }

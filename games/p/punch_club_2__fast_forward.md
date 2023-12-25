@@ -15,8 +15,8 @@
 | Fitness professional | 74.00% | ~342 |
 | Employee of the week | 74.00% | ~342 |
 | Your own amateur gym | 69.00% | ~319 |
+| Run K, run! | 69.00% | ~319 |
 | First defeat | 68.00% | ~314 |
-| Run K, run! | 68.00% | ~314 |
 | Hello, world! | 67.00% | ~310 |
 | No bullying more | 66.00% | ~305 |
 | Fighting is cool | 65.00% | ~300 |
@@ -39,7 +39,7 @@
 | Now you are worthy | 44.00% | ~203 |
 | Fight is life | 42.00% | ~194 |
 | Mysterious voice | 42.00% | ~194 |
-| Guiding on the right path | 41.00% | ~189 |
+| Guiding on the right path | 42.00% | ~194 |
 | No blades in the gym | 40.00% | ~185 |
 | Champion – no way back | 38.00% | ~176 |
 | Responsible approach | 38.00% | ~176 |

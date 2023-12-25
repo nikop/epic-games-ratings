@@ -2,7 +2,7 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 142,
@@ -444,9 +444,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 65,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "HonoraryAlumni",
@@ -468,9 +468,9 @@
       "ID": "KarmaEyes",
       "SetID": "7m88n8p",
       "Name": "Karma in My Eyes",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Letters",
@@ -540,9 +540,9 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SeeingThrough",
@@ -556,9 +556,9 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "WaitingForSalvation",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:05:55.0534592+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:05:34.2806723+00:00",
   "LastUpdate_AppInfo": "2023-12-18T13:57:00.6991865+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:57:26.2132098+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:05:55.053474+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:57:11.4885107+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:05:34.2806863+00:00"
 }

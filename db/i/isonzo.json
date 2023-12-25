@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9603,
+  "EOS_Progressed": 9604,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9976,6 +9976,11 @@
       "Time": "2023-12-25T03:09:31.1377907+00:00",
       "NumProgressed": 9603,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T08:09:15.5716552+00:00",
+      "NumProgressed": 9604,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10003,7 +10008,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10131,7 +10136,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10179,7 +10184,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10283,7 +10288,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -10323,7 +10328,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10346,7 +10351,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9603,
+      "Progressed": 9604,
       "Completed": 10
     }
   ],
@@ -10354,8 +10359,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:10:04.3992079+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:09:15.5716547+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:59:49.1763478+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:10:04.3992737+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:59:35.5358306+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:09:15.5717156+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -227,11 +227,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70069,
-  "EOS_Completed": 94,
-  "EOS_NewPlayers": 2101,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Progressed": 70078,
+  "EOS_Completed": 96,
+  "EOS_NewPlayers": 2103,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
       "Time": "2023-11-14T10:06:35.674065+00:00",
@@ -4837,6 +4837,11 @@
       "Time": "2023-12-25T07:07:18.2853188+00:00",
       "NumProgressed": 70069,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-25T08:06:58.3149174+00:00",
+      "NumProgressed": 70078,
+      "NumCompleted": 96
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4849,7 +4854,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25926
+      "UsersEstimate": 25929
     },
     {
       "ID": "Achievement_10",
@@ -4889,7 +4894,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "Achievement_15",
@@ -4937,7 +4942,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18919
+      "UsersEstimate": 18921
     },
     {
       "ID": "Achievement_20",
@@ -4961,7 +4966,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "Achievement_23",
@@ -4969,7 +4974,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "Achievement_24",
@@ -5001,7 +5006,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "Achievement_28",
@@ -5025,7 +5030,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8408
+      "UsersEstimate": 8409
     },
     {
       "ID": "Achievement_30",
@@ -5039,9 +5044,9 @@
       "ID": "Achievement_31",
       "SetID": "2md12pi",
       "Name": "Well Traveled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 140
     },
     {
       "ID": "Achievement_32",
@@ -5073,7 +5078,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6307
     },
     {
       "ID": "Achievement_5",
@@ -5081,7 +5086,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "Achievement_6",
@@ -5120,16 +5125,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70069,
-      "Completed": 94
+      "Progressed": 70078,
+      "Completed": 96
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:07:18.2853182+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:06:58.3149171+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:03:40.0559641+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:07:18.2853564+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:03:18.2980097+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:06:58.3149578+00:00"
 }

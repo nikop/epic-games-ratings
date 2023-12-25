@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1098,
+  "EOS_Progressed": 1099,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3116,6 +3116,11 @@
       "Time": "2023-12-25T07:11:11.1616309+00:00",
       "NumProgressed": 1098,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T08:10:22.201989+00:00",
+      "NumProgressed": 1099,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3247,7 +3252,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3287,7 +3292,7 @@
       "Name": "Rail Rat",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "HexlockGift",
@@ -3415,7 +3420,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "RewindParry",
@@ -3503,7 +3508,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "WarwickDefeated",
@@ -3535,7 +3540,7 @@
       "Name": "The Brass Boss",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3550,7 +3555,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1098,
+      "Progressed": 1099,
       "Completed": 6
     }
   ],
@@ -3558,8 +3563,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:11:11.1616306+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:10:22.2019888+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:58:24.5731986+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:11:11.1616895+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:58:11.69266+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:10:22.2020335+00:00"
 }

@@ -701,9 +701,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_CLARITY",
@@ -884,8 +884,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-25T07:09:00.1678163+00:00",
+  "LastChanged_Achievements": "2023-12-25T08:08:10.981835+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:51.5570753+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:00:55.3910342+00:00",
-  "LastUpdate_Achievements": "2023-12-25T07:09:00.1678441+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:00:42.8186693+00:00",
+  "LastUpdate_Achievements": "2023-12-25T08:08:10.9818536+00:00"
 }
