@@ -62,10 +62,10 @@
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.90% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.80% |
 | 62 | [Anna's Quest](games/a/anna's_quest.md) | 6.74% |
-| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.67% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.67% |
-| 65 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.54% |
-| 66 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.50% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.65% |
+| 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.50% |
+| 66 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.49% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
@@ -92,7 +92,7 @@
 | 90 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 4.00% |
 | 91 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.95% |
 | 92 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 92 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.89% |
+| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.87% |
 | 95 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 3.85% |
 | 95 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.85% |
@@ -205,9 +205,9 @@
 | 203 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 204 | [Haven](games/h/haven.md) | 0.57% |
 | 204 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.57% |
-| 206 | [Aragami 2](games/a/aragami_2.md) | 0.56% |
-| 207 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 207 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 206 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 206 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 206 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 209 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.54% |
 | 209 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 211 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.53% |
@@ -364,29 +364,29 @@
 | 357 | [Good Company](games/g/good_company.md) | 0.02% |
 | 357 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 357 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 365 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 365 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 365 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
-| 365 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 365 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
-| 365 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 365 | [Godlike Burger](games/g/godlike_burger.md) | 0.01% |
-| 365 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 365 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 0.01% |
-| 365 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.01% |
-| 365 | [Prison Architect](games/p/prison_architect.md) | 0.01% |
-| 365 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 365 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 365 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 365 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 0.01% |
-| 365 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 365 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.01% |
-| 365 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 365 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.01% |
-| 365 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 365 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.01% |
-| 365 | [Train Valley 2](games/t/train_valley_2.md) | 0.01% |
-| 365 | [Verdun](games/v/verdun.md) | 0.01% |
+| 357 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
+| 366 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 366 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 366 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
+| 366 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 366 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.01% |
+| 366 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 366 | [Godlike Burger](games/g/godlike_burger.md) | 0.01% |
+| 366 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 366 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 0.01% |
+| 366 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 0.01% |
+| 366 | [Prison Architect](games/p/prison_architect.md) | 0.01% |
+| 366 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 366 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 366 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 366 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 0.01% |
+| 366 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 366 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.01% |
+| 366 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 366 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 366 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.01% |
+| 366 | [Train Valley 2](games/t/train_valley_2.md) | 0.01% |
+| 366 | [Verdun](games/v/verdun.md) | 0.01% |
 | 388 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 388 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 388 | [1428: Shadows over Silesia](games/4/4bd54a4fed074c488e0bb7428f29d2f4.md) | 0.00% |
