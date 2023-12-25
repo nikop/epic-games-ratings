@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -115,6 +115,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Foul Mouthed | 0.10% | ~484 |
 | Four For Trade | 0.10% | ~484 |
 | From Humble Origins | 0.10% | ~484 |
+| Fugger Banking | 0.10% | ~484 |
 | Full House | 0.10% | ~484 |
 | Gentle Persuasion | 0.10% | ~484 |
 | Georgia on my Mind | 0.10% | ~484 |
@@ -323,7 +324,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | For Odin! | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
-| Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,560 (Ranked 40)  
-Completed: 1 (0.00%) (Ranked 388)  
+Progressed: 483,597 (Ranked 40)  
+Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -619,7 +619,7 @@ Completed: 1 (0.00%) (Ranked 388)
 | 2023-12-22 | 481,537 | 1 |
 | 2023-12-23 | 482,495 | 1 |
 | 2023-12-24 | 483,348 | 1 |
-| 2023-12-25 | 483,560 | 1 |
+| 2023-12-25 | 483,597 | 1 |
 ## Awards
 Max (Educational): 7,548  (Ranked 54)  
 Sum: 62,207 (Ranked 24)  

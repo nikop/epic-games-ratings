@@ -5,8 +5,8 @@
   "Ranking_Rating": 71,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 177,
-  "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 3779,
   "Store": {
@@ -3513,18 +3513,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3289,
       "NumberOfAwardsMax": 443
+    },
+    {
+      "Time": "2023-12-25T10:57:56.6646405+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3290,
+      "NumberOfAwardsMax": 444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3289,
-  "NumberOfAwardsMax": 443,
+  "NumberOfAwards": 3290,
+  "NumberOfAwardsMax": 444,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 443
+      "Count": 444
     },
     {
       "Text": "This game is Relaxing",
@@ -3581,9 +3587,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19177,
+  "EOS_Progressed": 19184,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17041,6 +17047,11 @@
       "Time": "2023-12-25T10:04:13.4214781+00:00",
       "NumProgressed": 19177,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T11:04:03.6206759+00:00",
+      "NumProgressed": 19184,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17149,7 +17160,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "WinImpossible",
@@ -17341,7 +17352,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "WinPrestige10",
@@ -17524,15 +17535,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19177,
+      "Progressed": 19184,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-25T01:45:03.4767246+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:04:13.4214776+00:00",
+  "LastChanged": "2023-12-25T10:57:56.6646403+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:04:03.6206754+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:10.6681673+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:04:13.4215832+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:57:56.6646411+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:04:03.6207824+00:00"
 }

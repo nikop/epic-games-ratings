@@ -19,10 +19,10 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 4.00% | ~143 |
 | The Emperor Protects | 4.00% | ~143 |
 | A Foul Creche | 4.00% | ~143 |
-| Hold Your Ground | 3.00% | ~107 |
-| Nemesis Master | 3.00% | ~107 |
-| Gunmaster | 3.00% | ~107 |
-| Just a Scratch | 3.00% | ~107 |
+| Hold Your Ground | 3.00% | ~108 |
+| Nemesis Master | 3.00% | ~108 |
+| Gunmaster | 3.00% | ~108 |
+| Just a Scratch | 3.00% | ~108 |
 | Daemonkeeper | 2.00% | ~72 |
 | Corruption Cleanser | 2.00% | ~72 |
 | Efficient Killer | 2.00% | ~72 |
@@ -44,8 +44,8 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.80% | ~29 |
 | Harvest No More | 0.80% | ~29 |
 | Hands-On Research | 0.70% | ~25 |
-| Strike Force | 0.60% | ~21 |
-| True Mastery | 0.60% | ~21 |
+| Strike Force | 0.60% | ~22 |
+| True Mastery | 0.60% | ~22 |
 | Exercise in Restraint | 0.50% | ~18 |
 | Reign of Confusion | 0.40% | ~14 |
 | Suffer Not the Mutant | 0.40% | ~14 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,583 (Ranked 215)  
-Completed: 0 (0.00%) (Ranked 388)  
+Progressed: 3,585 (Ranked 215)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 3,530 | 0 |
 | 2023-12-23 | 3,552 | 0 |
 | 2023-12-24 | 3,576 | 0 |
-| 2023-12-25 | 3,583 | 0 |
+| 2023-12-25 | 3,585 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 279)  
 Sum: 492 (Ranked 334)  

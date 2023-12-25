@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15815,
+  "EOS_Progressed": 15816,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4769,6 +4769,11 @@
       "Time": "2023-12-25T09:09:24.3337099+00:00",
       "NumProgressed": 15815,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-25T11:09:45.1651482+00:00",
+      "NumProgressed": 15816,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4813,7 +4818,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11861
+      "UsersEstimate": 11862
     },
     {
       "ID": "ACH_AE_14",
@@ -4829,7 +4834,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "ACH_AE_16",
@@ -4893,7 +4898,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "ACH_AE_23",
@@ -4957,7 +4962,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_AE_30",
@@ -5060,7 +5065,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15815,
+      "Progressed": 15816,
       "Completed": 14
     }
   ],
@@ -5068,8 +5073,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:09:19.828942+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:09:45.1651478+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:17.019691+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:09:19.8289796+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:01.8850451+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:09:45.1651851+00:00"
 }

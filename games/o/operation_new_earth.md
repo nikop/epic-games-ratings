@@ -45,7 +45,7 @@ Rating: 3.23 (Ranked 1,071)
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,083 (Ranked 236)  
-Completed: 1 (0.05%) (Ranked 335)  
+Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

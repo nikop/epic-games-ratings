@@ -6,8 +6,8 @@
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 364,
-  "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -311,11 +311,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1001,6 +1001,11 @@
       "Time": "2023-12-25T09:04:10.0724934+00:00",
       "NumProgressed": 350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T11:03:55.2741731+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1013,7 +1018,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1021,7 +1026,7 @@
       "Name": "Are you ready now?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1069,7 +1074,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1109,7 +1114,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -1117,7 +1122,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1268,15 +1273,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:04:04.2700321+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:03:55.2741727+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:29.5967692+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:04:04.2700574+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:13.3612908+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:03:55.2741952+00:00"
 }

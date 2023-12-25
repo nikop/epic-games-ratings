@@ -3,12 +3,12 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 32,
-  "Ranking_Popularity": 128,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-06T14:00:00+00:00",
     "PcReleaseDate": "2016-10-28T17:56:00+00:00",
@@ -3877,10 +3877,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 3677,
       "NumberOfAwardsMax": 1619
+    },
+    {
+      "Time": "2023-12-25T10:58:48.2767422+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 3678,
+      "NumberOfAwardsMax": 1619
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3677,
+  "NumberOfAwards": 3678,
   "NumberOfAwardsMax": 1619,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3924,7 +3930,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3957,8 +3963,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-12-25T08:59:03.8045598+00:00",
+  "LastChanged": "2023-12-25T10:58:48.276742+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:05.2550406+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:59:05.2742591+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:04:42.3054268+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:48.2767425+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:04:29.4468249+00:00"
 }

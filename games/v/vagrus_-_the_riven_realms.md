@@ -48,6 +48,7 @@
 | A Real Battle | 2.00% | ~5 |
 | The Darkness Within | 2.00% | ~5 |
 | Merchant Lord | 2.00% | ~5 |
+| Glorious leader | 2.00% | ~5 |
 | Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -55,7 +56,6 @@
 | Ever After | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
-| Glorious leader | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
 | Executor | 0.80% | ~2 |
 | Embellished | 0.80% | ~2 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

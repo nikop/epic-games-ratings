@@ -1,57 +1,57 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.71 (Ranked 199)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~234,335 |
-| good drivers have dead flies on the side windows | 31.00% | ~91,954 |
-| keep it tidy | 25.00% | ~74,157 |
-| brail | 25.00% | ~74,157 |
-| car wash | 22.00% | ~65,258 |
-| the artist | 22.00% | ~65,258 |
-| podium | 19.00% | ~56,359 |
-| medium attack | 16.00% | ~47,460 |
-| bicycle race | 5.00% | ~14,831 |
-| grocery-getter | 4.00% | ~11,865 |
-| autopilot | 3.00% | ~8,899 |
-| perkele | 2.00% | ~5,933 |
-| rwd only | 2.00% | ~5,933 |
-| where is the stage? | 2.00% | ~5,933 |
-| if in doubt, flat out! | 2.00% | ~5,933 |
-| night ride | 2.00% | ~5,933 |
-| snorkel | 2.00% | ~5,933 |
-| food tour: pasta | 2.00% | ~5,933 |
-| turbo | 1.00% | ~2,966 |
-| you can't treat a car like a human being. a car requires love | 1.00% | ~2,966 |
-| food tour: pretzel | 1.00% | ~2,966 |
-| to finish first, first you must finish | 0.90% | ~2,670 |
-| espresso | 0.90% | ~2,670 |
-| in like a lamb, out like a lion | 0.80% | ~2,373 |
-| mittens | 0.80% | ~2,373 |
-| monster | 0.60% | ~1,780 |
-| eurobeat | 0.50% | ~1,483 |
-| viking | 0.40% | ~1,187 |
-| parallel universe | 0.40% | ~1,187 |
-| group b | 0.40% | ~1,187 |
-| maximum attack | 0.40% | ~1,187 |
-| samir | 0.40% | ~1,187 |
-| oktoberfest | 0.30% | ~890 |
-| master of rally | 0.30% | ~890 |
-| antilag | 0.30% | ~890 |
-| parking lot | 0.20% | ~593 |
-| comfy seats | 0.20% | ~593 |
-| real roads, real fast | 0.20% | ~593 |
+| light attack | 79.00% | ~235,017 |
+| good drivers have dead flies on the side windows | 31.00% | ~92,222 |
+| keep it tidy | 25.00% | ~74,372 |
+| brail | 25.00% | ~74,372 |
+| car wash | 22.00% | ~65,448 |
+| the artist | 22.00% | ~65,448 |
+| podium | 19.00% | ~56,523 |
+| medium attack | 16.00% | ~47,598 |
+| bicycle race | 5.00% | ~14,874 |
+| grocery-getter | 4.00% | ~11,900 |
+| autopilot | 3.00% | ~8,925 |
+| perkele | 2.00% | ~5,950 |
+| rwd only | 2.00% | ~5,950 |
+| where is the stage? | 2.00% | ~5,950 |
+| if in doubt, flat out! | 2.00% | ~5,950 |
+| night ride | 2.00% | ~5,950 |
+| snorkel | 2.00% | ~5,950 |
+| food tour: pasta | 2.00% | ~5,950 |
+| to finish first, first you must finish | 1.00% | ~2,975 |
+| turbo | 1.00% | ~2,975 |
+| you can't treat a car like a human being. a car requires love | 1.00% | ~2,975 |
+| food tour: pretzel | 1.00% | ~2,975 |
+| espresso | 0.90% | ~2,677 |
+| in like a lamb, out like a lion | 0.80% | ~2,380 |
+| mittens | 0.80% | ~2,380 |
+| monster | 0.60% | ~1,785 |
+| eurobeat | 0.50% | ~1,487 |
+| viking | 0.40% | ~1,190 |
+| parallel universe | 0.40% | ~1,190 |
+| group b | 0.40% | ~1,190 |
+| maximum attack | 0.40% | ~1,190 |
+| samir | 0.40% | ~1,190 |
+| oktoberfest | 0.30% | ~892 |
+| master of rally | 0.30% | ~892 |
+| antilag | 0.30% | ~892 |
+| parking lot | 0.20% | ~595 |
+| comfy seats | 0.20% | ~595 |
+| real roads, real fast | 0.20% | ~595 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~297 |
 | absolute drift | 0.10% | ~297 |
 | barely keeping it together | 0.10% | ~297 |
 | you're here for a good time, not a long time | 0.10% | ~297 |
 | simulator | 0.10% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,627 (Ranked 59)  
-Completed: 10 (0.00%) (Ranked 388)  
+Progressed: 297,490 (Ranked 59)  
+Completed: 10 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 10 (0.00%) (Ranked 388)
 | 2023-12-22 | 91,405 | 10 |
 | 2023-12-23 | 252,007 | 10 |
 | 2023-12-24 | 289,332 | 10 |
-| 2023-12-25 | 296,627 | 10 |
+| 2023-12-25 | 297,490 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -272,3 +272,4 @@ Completed: 10 (0.00%) (Ranked 388)
 | 2023-03-31 | 4.86 | - | 0 | 0 |
 | 2023-12-23 | 4.83 | - | 0 | 0 |
 | 2023-12-24 | 4.80 | - | 0 | 0 |
+| 2023-12-25 | 4.69 | - | 0 | 0 |

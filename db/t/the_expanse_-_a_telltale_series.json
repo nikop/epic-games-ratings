@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17370,
+  "EOS_Progressed": 17373,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15076,6 +15076,11 @@
       "Time": "2023-12-25T10:03:40.2363531+00:00",
       "NumProgressed": 17370,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-25T11:03:33.1239821+00:00",
+      "NumProgressed": 17373,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15086,9 +15091,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 174
     },
     {
       "ID": "10",
@@ -15128,7 +15133,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "15",
@@ -15184,7 +15189,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "21",
@@ -15192,7 +15197,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "22",
@@ -15224,7 +15229,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "26",
@@ -15367,22 +15372,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17370,
+      "Progressed": 17373,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3324,
-      "Completed": 1035
+      "Progressed": 3327,
+      "Completed": 1036
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:03:40.2363526+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:03:33.1239816+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:58.3612013+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:03:40.2364375+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:42.0853803+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:03:33.1240729+00:00"
 }

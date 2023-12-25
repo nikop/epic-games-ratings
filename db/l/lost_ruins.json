@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 323,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-12-25T01:58:04.694535+00:00",
       "NumProgressed": 600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T11:10:24.4063602+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1573,9 +1578,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 144
     },
     {
       "ID": "Cryomancer",
@@ -1781,9 +1786,9 @@
       "ID": "SwordMaster",
       "SetID": "82505mn",
       "Name": "Sword Master",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "TheEnd",
@@ -1821,17 +1826,17 @@
       "ID": "TreasureHunter",
       "SetID": "82505mn",
       "Name": "Treasure Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "Troubleshooter",
       "SetID": "82505mn",
       "Name": "Troubleshooter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 60
     },
     {
       "ID": "WeaponMaster",
@@ -1854,7 +1859,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 1
     }
   ],
@@ -1862,8 +1867,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:10:01.8587568+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:10:24.4063599+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:02:41.7935213+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:10:01.858791+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:02:41.3293378+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:10:24.4063889+00:00"
 }

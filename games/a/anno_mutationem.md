@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.55 (Ranked 512)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 533)
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 797 (Ranked 294)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,3 +176,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-08-11 | 4.57 | 0 | 0 |
 | 2023-09-07 | 4.56 | 0 | 0 |
 | 2023-12-09 | 4.54 | 0 | 0 |
+| 2023-12-25 | 4.55 | 0 | 0 |

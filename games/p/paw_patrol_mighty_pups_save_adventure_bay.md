@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 80.00% | ~41 |
-| Grand Re-Opening | 69.00% | ~35 |
+| Grand Re-Opening | 71.00% | ~36 |
 | Pup Pup Boogie | 67.00% | ~34 |
-| Summer Day | 63.00% | ~32 |
+| Summer Day | 65.00% | ~33 |
 | Mr. Porter | 55.00% | ~28 |
 | Risky Rescue | 53.00% | ~27 |
 | Carlos Is Tangled | 51.00% | ~26 |
@@ -23,10 +23,10 @@
 | Animal Sighting | 27.00% | ~14 |
 | The Fastest | 25.00% | ~13 |
 | Don’t Miss Any | 24.00% | ~12 |
+| Adventure Bay’s Citizen | 22.00% | ~11 |
 | You Have Been Everywhere | 20.00% | ~10 |
-| Adventure Bay’s Citizen | 20.00% | ~10 |
+| Mountain and Ice | 18.00% | ~9 |
 | Everything Under Control | 16.00% | ~8 |
-| Mountain and Ice | 16.00% | ~8 |
 | Nothing Can Stop You | 10.00% | ~5 |
 | A Great Explorer | 8.00% | ~4 |
 | King of the Mountain | 4.00% | ~2 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 51 (Ranked 535)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

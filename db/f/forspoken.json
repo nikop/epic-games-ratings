@@ -6,9 +6,9 @@
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 366,
+  "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45137,
+  "EOS_Progressed": 45142,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16379,6 +16379,11 @@
       "Time": "2023-12-25T10:05:10.4710399+00:00",
       "NumProgressed": 45137,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T11:04:55.021234+00:00",
+      "NumProgressed": 45142,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16422,7 +16427,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16438,7 +16443,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16742,7 +16747,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "STAYING_AIR",
@@ -16813,22 +16818,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45137,
+      "Progressed": 45142,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 9974,
-      "Completed": 9974
+      "Progressed": 9979,
+      "Completed": 9979
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:05:10.4710395+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:04:55.0212337+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:59:12.9340412+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:05:10.4711363+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:55.1391735+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:04:55.0213342+00:00"
 }

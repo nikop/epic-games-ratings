@@ -6,9 +6,9 @@
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9605,
+  "EOS_Progressed": 9606,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9986,6 +9986,11 @@
       "Time": "2023-12-25T10:09:02.1764263+00:00",
       "NumProgressed": 9605,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T11:09:29.5552653+00:00",
+      "NumProgressed": 9606,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10013,7 +10018,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10053,7 +10058,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -10133,7 +10138,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -10173,7 +10178,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -10189,7 +10194,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10245,7 +10250,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10269,7 +10274,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -10309,7 +10314,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -10325,7 +10330,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10356,7 +10361,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9605,
+      "Progressed": 9606,
       "Completed": 10
     }
   ],
@@ -10364,8 +10369,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:09:02.1764258+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:09:29.5552648+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:59:08.2026702+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:09:02.1764895+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:50.6506709+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:09:29.5553404+00:00"
 }

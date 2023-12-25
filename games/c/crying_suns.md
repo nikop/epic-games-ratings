@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,040 |
-| Jeef Skeejj | 44.00% | ~208,027 |
-| Careful planning | 39.00% | ~184,387 |
-| Second Coming | 34.00% | ~160,748 |
-| Jeef Skagg | 30.00% | ~141,836 |
-| Mother | 25.00% | ~118,197 |
-| In space, no one can hear you scream | 24.00% | ~113,469 |
-| Chapter I: Echoes | 22.00% | ~104,013 |
-| Excelsior Rule | 22.00% | ~104,013 |
+| The Shutdown | 66.00% | ~312,041 |
+| Jeef Skeejj | 44.00% | ~208,028 |
+| Careful planning | 39.00% | ~184,388 |
+| Second Coming | 34.00% | ~160,749 |
+| Jeef Skagg | 30.00% | ~141,837 |
+| Mother | 25.00% | ~118,198 |
+| In space, no one can hear you scream | 24.00% | ~113,470 |
+| Chapter I: Echoes | 22.00% | ~104,014 |
+| Excelsior Rule | 22.00% | ~104,014 |
 | Things persisted in not being what they seemed | 20.00% | ~94,558 |
 | Knightmare Frames | 15.00% | ~70,918 |
 | May His passing cleanse the world | 15.00% | ~70,918 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,367 |
 | The Crazy Repairman | 6.00% | ~28,367 |
 | The Weasel | 6.00% | ~28,367 |
-| Kill the Doctor | 5.00% | ~23,639 |
-| Forsaken | 5.00% | ~23,639 |
-| Mercy | 5.00% | ~23,639 |
-| Jericho Rule | 5.00% | ~23,639 |
+| Kill the Doctor | 5.00% | ~23,640 |
+| Forsaken | 5.00% | ~23,640 |
+| Mercy | 5.00% | ~23,640 |
+| Jericho Rule | 5.00% | ~23,640 |
 | Geno Rule | 3.00% | ~14,184 |
 | Hammer Rule | 3.00% | ~14,184 |
 | Survivor | 2.00% | ~9,456 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,788 (Ranked 43)  
-Completed: 20 (0.00%) (Ranked 388)  
+Progressed: 472,790 (Ranked 43)  
+Completed: 20 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,7 +335,7 @@ Completed: 20 (0.00%) (Ranked 388)
 | 2023-12-22 | 472,649 | 20 |
 | 2023-12-23 | 472,718 | 20 |
 | 2023-12-24 | 472,772 | 20 |
-| 2023-12-25 | 472,788 | 20 |
+| 2023-12-25 | 472,790 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 283)  
 Sum: 250 (Ranked 392)  

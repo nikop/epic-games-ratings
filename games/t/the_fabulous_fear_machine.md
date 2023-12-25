@@ -31,29 +31,29 @@
 | Blood Red Island | 9.00% | ~6 |
 | Bread and bocaua | 9.00% | ~6 |
 | Fanatacism is... poisonous | 9.00% | ~6 |
+| The adventurer | 9.00% | ~6 |
 | Pulp! The Beyond | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
 | Blessed antennas | 7.00% | ~5 |
 | The beast in the Oval Office | 7.00% | ~5 |
-| The adventurer | 7.00% | ~5 |
+| The scholar | 7.00% | ~5 |
 | Pulp! True Adventures | 7.00% | ~5 |
-| The scholar | 6.00% | ~4 |
 | America had no Faith | 6.00% | ~4 |
+| Pulp! Tales from the Crypt | 4.00% | ~3 |
 | The barbarian invasions | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |
+| A new Hindenburg | 4.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~2 |
-| Pulp! Tales from the Crypt | 3.00% | ~2 |
 | Thirst for Oleum | 3.00% | ~2 |
 | Troy is burning! | 3.00% | ~2 |
-| A new Hindenburg | 3.00% | ~2 |
 | Pulp! The Perfect Crime | 1.00% | ~1 |
 | Pulp! Mister Mystery | 1.00% | ~1 |
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67 (Ranked 512)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

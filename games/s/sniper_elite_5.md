@@ -5,10 +5,10 @@ Rating: 4.45 (Ranked 676)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,930 |
+| Meeting Resistance | 47.00% | ~1,931 |
 | Confirming Suspicions | 42.00% | ~1,725 |
 | The Kraken Wakes | 37.00% | ~1,520 |
-| It's Starting to Crack | 34.00% | ~1,396 |
+| It's Starting to Crack | 34.00% | ~1,397 |
 | Lord of War | 31.00% | ~1,273 |
 | Change the Channel | 31.00% | ~1,273 |
 | Taking it back | 29.00% | ~1,191 |
@@ -19,8 +19,8 @@ Rating: 4.45 (Ranked 676)
 | Liberté | 23.00% | ~945 |
 | Organ Grinder | 23.00% | ~945 |
 | Sharpshooter | 23.00% | ~945 |
-| Gunslinger | 19.00% | ~780 |
-| Explosive Efficiency | 19.00% | ~780 |
+| Gunslinger | 19.00% | ~781 |
+| Explosive Efficiency | 19.00% | ~781 |
 | Climbing the Ladder | 17.00% | ~698 |
 | Just a Flesh Wound | 17.00% | ~698 |
 | Der Geist | 17.00% | ~698 |
@@ -39,7 +39,7 @@ Rating: 4.45 (Ranked 676)
 | Rigged to Blow | 9.00% | ~370 |
 | Herr Today, Gone Tomorrow | 7.00% | ~284 |
 | The Long Game | 6.00% | ~246 |
-| Operation Foxley | 6.00% | ~243 |
+| Operation Foxley | 6.00% | ~244 |
 | Strategist | 5.00% | ~205 |
 | Tinkerer | 5.00% | ~205 |
 | It'll Buff Right Out | 5.00% | ~205 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 676)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,107 (Ranked 206)  
-Completed: 11 (0.27%) (Ranked 259)  
+Progressed: 4,108 (Ranked 206)  
+Completed: 11 (0.27%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,7 +324,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-22 | 4,086 | 11 |
 | 2023-12-23 | 4,097 | 11 |
 | 2023-12-24 | 4,106 | 11 |
-| 2023-12-25 | 4,107 | 11 |
+| 2023-12-25 | 4,108 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 539)  

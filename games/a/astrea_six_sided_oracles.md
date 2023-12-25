@@ -14,7 +14,7 @@
 | Mind Illuminator | 42.00% | ~100 |
 | Noctuan Champion | 34.00% | ~81 |
 | Stellar Dismantler | 33.00% | ~79 |
-| Anomaly Destroyer | 30.00% | ~72 |
+| Anomaly Destroyer | 31.00% | ~74 |
 | Astral Adventurer | 29.00% | ~69 |
 | Star Killer | 26.00% | ~62 |
 | Eridanian Champion | 24.00% | ~57 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

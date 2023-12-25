@@ -12,7 +12,7 @@ Rating: 4.55 (Ranked 512)
 | Bosmang | 10.00% | ~1,737 |
 | Celebrations are in Order | 10.00% | ~1,737 |
 | Impossible Objects | 10.00% | ~1,737 |
-| Drone Dodger | 9.00% | ~1,563 |
+| Drone Dodger | 9.00% | ~1,564 |
 | Stogie for Fogey | 8.00% | ~1,390 |
 | Spore Taste | 8.00% | ~1,390 |
 | Safe Cracker | 8.00% | ~266 |
@@ -23,9 +23,9 @@ Rating: 4.55 (Ranked 512)
 | Data Archivist | 6.00% | ~1,042 |
 | Drug Gifter | 6.00% | ~1,042 |
 | Heal Thy Medic | 6.00% | ~1,042 |
-| Doctor Approved | 5.00% | ~868 |
-| Thorston Mayer | 5.00% | ~868 |
-| Khan's Revenge | 5.00% | ~868 |
+| Doctor Approved | 5.00% | ~869 |
+| Thorston Mayer | 5.00% | ~869 |
+| Khan's Revenge | 5.00% | ~869 |
 | Master Negotiator | 5.00% | ~166 |
 | Bottoms up! | 4.00% | ~695 |
 | Data Logger | 3.00% | ~521 |
@@ -34,15 +34,15 @@ Rating: 4.55 (Ranked 512)
 | No Belter Left Behind | 2.00% | ~347 |
 | Debris Spree | 2.00% | ~347 |
 | Data Master | 2.00% | ~347 |
+| Urshanabi Hoarder | 1.00% | ~174 |
 | Data Recoverer | 1.00% | ~174 |
-| Urshanabi Hoarder | 0.90% | ~156 |
 | Data Miner | 0.50% | ~87 |
 | Grave Robber | 0.50% | ~87 |
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,370 (Ranked 156)  
-Completed: 52 (0.30%) (Ranked 252)  
+Progressed: 17,373 (Ranked 156)  
+Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 52 (0.30%) (Ranked 252)
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
-| 2023-12-25 | 17,370 | 52 |
+| 2023-12-25 | 17,373 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

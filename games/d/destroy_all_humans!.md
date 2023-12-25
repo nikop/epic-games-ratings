@@ -12,10 +12,10 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~86 |
 | Yettisoned | 56.00% | ~83 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~77 |
+| Lobster Blisque | 50.00% | ~74 |
 | Perfect Probulator | 50.00% | ~74 |
-| Lobster Blisque | 49.00% | ~73 |
-| Pimp My Raid | 44.00% | ~66 |
-| Fly Me to the Moon Base | 41.00% | ~61 |
+| Pimp My Raid | 45.00% | ~67 |
+| Fly Me to the Moon Base | 42.00% | ~63 |
 | Earthly Pleasures | 41.00% | ~61 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~61 |
 | Freshly Squeezed | 34.00% | ~51 |
@@ -23,14 +23,14 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 31.00% | ~46 |
 | Bodied Sattva | 30.00% | ~45 |
 | Rock of the Bay | 26.00% | ~39 |
+| Furon Fashion | 24.00% | ~36 |
 | Trans-Siberian Express | 24.00% | ~36 |
 | Deincarnated | 23.00% | ~34 |
-| Furon Fashion | 23.00% | ~34 |
 | Re-Return of the Clone of the Invasion II-2 | 22.00% | ~33 |
-| Arkvoodle Doodle | 15.00% | ~22 |
+| Arkvoodle Doodle | 16.00% | ~24 |
+| Die Nasty | 14.00% | ~21 |
 | Ouch of Body Experience | 13.00% | ~19 |
 | If You Know What I Mean | 13.00% | ~19 |
-| Die Nasty | 13.00% | ~19 |
 | Hidden Human Hive Harvest | 13.00% | ~19 |
 | Mash Machine | 13.00% | ~19 |
 | Dusted | 12.00% | ~18 |
@@ -38,7 +38,7 @@ Number of Ratings: 85  (23.09.2022)
 | Higher Than the Futen Zoku | 8.00% | ~12 |
 | Scuttled | 7.00% | ~10 |
 | PK Slam Dunk | 7.00% | ~10 |
-| Arty Facts | 6.00% | ~9 |
+| Arty Facts | 7.00% | ~10 |
 | Cult Following | 4.00% | ~6 |
 | To Russia With Love | 3.00% | ~4 |
 | Path of the Furon | 3.00% | ~4 |

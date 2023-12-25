@@ -1,64 +1,64 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 533)  
+Rating: 4.54 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~45,873 |
-| Break A Leg | 5.00% | ~38,228 |
-| Hotel California | 5.00% | ~38,228 |
-| Git Gutte! | 4.00% | ~30,582 |
-| Coup de Grâce | 4.00% | ~30,582 |
-| Hazardous Materials | 4.00% | ~30,582 |
-| Personal Assistant Personally Assisted | 4.00% | ~30,582 |
-| Dr. Reed, I Presume? | 3.00% | ~22,937 |
-| Bookworm | 3.00% | ~22,937 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~22,937 |
-| Friends Like These | 3.00% | ~22,937 |
-| Apex Predator | 3.00% | ~22,937 |
-| Stacking the Deck | 3.00% | ~22,937 |
-| This is My Weapon | 3.00% | ~22,937 |
-| One of Us | 3.00% | ~2,703 |
-| Whatever It Takes | 3.00% | ~2,703 |
-| Pork Chopped | 3.00% | ~2,703 |
-| Making Your Mark | 2.00% | ~15,291 |
-| Anger Management | 2.00% | ~15,291 |
-| Perks of the Job | 2.00% | ~15,291 |
-| But Doctor, I am Butcho | 2.00% | ~15,291 |
-| Slayer Squad | 2.00% | ~15,291 |
-| Can't Handle the Truth | 2.00% | ~15,291 |
-| Like Riding a Bike | 2.00% | ~15,291 |
-| Zombologist | 2.00% | ~15,291 |
-| Ooh, Shiny! | 2.00% | ~15,291 |
-| A Patton Emerges | 2.00% | ~15,291 |
-| Humanity Distilled | 2.00% | ~15,291 |
-| I Am the Resurrection | 2.00% | ~15,291 |
-| Our True Nature | 2.00% | ~15,291 |
+| Welcome To Hell-A | 6.00% | ~45,879 |
+| Break A Leg | 5.00% | ~38,232 |
+| Hotel California | 5.00% | ~38,232 |
+| Git Gutte! | 4.00% | ~30,586 |
+| Coup de Grâce | 4.00% | ~30,586 |
+| Hazardous Materials | 4.00% | ~30,586 |
+| Personal Assistant Personally Assisted | 4.00% | ~30,586 |
+| Dr. Reed, I Presume? | 3.00% | ~22,939 |
+| Bookworm | 3.00% | ~22,939 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~22,939 |
+| Friends Like These | 3.00% | ~22,939 |
+| Apex Predator | 3.00% | ~22,939 |
+| Stacking the Deck | 3.00% | ~22,939 |
+| This is My Weapon | 3.00% | ~22,939 |
+| One of Us | 3.00% | ~2,706 |
+| Whatever It Takes | 3.00% | ~2,706 |
+| Pork Chopped | 3.00% | ~2,706 |
+| Making Your Mark | 2.00% | ~15,293 |
+| Anger Management | 2.00% | ~15,293 |
+| Perks of the Job | 2.00% | ~15,293 |
+| But Doctor, I am Butcho | 2.00% | ~15,293 |
+| Slayer Squad | 2.00% | ~15,293 |
+| Can't Handle the Truth | 2.00% | ~15,293 |
+| Like Riding a Bike | 2.00% | ~15,293 |
+| Zombologist | 2.00% | ~15,293 |
+| Ooh, Shiny! | 2.00% | ~15,293 |
+| A Patton Emerges | 2.00% | ~15,293 |
+| Humanity Distilled | 2.00% | ~15,293 |
+| I Am the Resurrection | 2.00% | ~15,293 |
+| Our True Nature | 2.00% | ~15,293 |
 | Not Even My Final Form | 1.00% | ~7,646 |
 | Jumbo Keyring | 1.00% | ~7,646 |
 | Down with the Sickness | 1.00% | ~7,646 |
 | Max Headroom | 1.00% | ~7,646 |
 | Go, Bobcats! | 1.00% | ~7,646 |
 | Rising Star | 1.00% | ~7,646 |
-| Smorgasbord | 0.90% | ~6,881 |
-| Internet Famous | 0.90% | ~6,881 |
-| Make it So | 0.80% | ~6,116 |
-| On Safari | 0.80% | ~6,116 |
-| Variety is the Spice of Death | 0.80% | ~6,116 |
-| LA Influential | 0.60% | ~4,587 |
-| Gore Horse | 0.60% | ~4,587 |
+| Smorgasbord | 0.90% | ~6,882 |
+| Internet Famous | 0.90% | ~6,882 |
+| Make it So | 0.80% | ~6,117 |
+| On Safari | 0.80% | ~6,117 |
+| Variety is the Spice of Death | 0.80% | ~6,117 |
+| LA Influential | 0.60% | ~4,588 |
+| Gore Horse | 0.60% | ~4,588 |
 | Sole Survivor | 0.50% | ~3,823 |
 | Sharpest Tool in the Box | 0.50% | ~3,823 |
-| Top That, Tisha! | 0.50% | ~450 |
+| Top That, Tisha! | 0.50% | ~451 |
 | Survival Skills | 0.30% | ~2,294 |
 | Donk! | 0.20% | ~1,529 |
 | Lawn and Order | 0.20% | ~180 |
 | Bucket List | 0.10% | ~765 |
 | Wilhelm | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 764,555 (Ranked 20)  
-Completed: 2,499 (0.33%) (Ranked 244)  
+Progressed: 764,647 (Ranked 20)  
+Completed: 2,499 (0.33%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 2,499 (0.33%) (Ranked 244)
 | 2023-12-22 | 758,629 | 2,495 |
 | 2023-12-23 | 761,232 | 2,496 |
 | 2023-12-24 | 763,728 | 2,498 |
-| 2023-12-25 | 764,555 | 2,499 |
+| 2023-12-25 | 764,647 | 2,499 |
 ## Awards
 Max (Great Boss Battles): 8,772  (Ranked 44)  
 Sum: 13,424 (Ranked 79)  

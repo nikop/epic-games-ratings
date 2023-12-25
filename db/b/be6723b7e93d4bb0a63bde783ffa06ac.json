@@ -2,10 +2,10 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-12-25T09:05:30.6814973+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T11:05:08.4375388+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -773,9 +778,9 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ach27",
@@ -783,7 +788,7 @@
       "Name": "Preparation",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach28",
@@ -791,7 +796,7 @@
       "Name": "Start",
       "Percentage": 91,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach29",
@@ -845,9 +850,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "ach7",
@@ -878,14 +883,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:05:25.4774221+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:05:08.4375383+00:00",
   "LastUpdate_AppInfo": "2023-12-20T08:57:19.3639355+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:59:18.1187473+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:05:25.477445+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:59:00.4568757+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:05:08.4375599+00:00"
 }

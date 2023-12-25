@@ -12,8 +12,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Quack | 8.00% | ~1,398 |
 | The Assistant | 6.00% | ~1,048 |
 | The Blue Marl | 6.00% | ~1,048 |
-| Ostinata | 5.00% | ~873 |
-| Better than nothing? | 5.00% | ~873 |
+| Ostinata | 5.00% | ~874 |
+| Better than nothing? | 5.00% | ~874 |
 | A long journey | 4.00% | ~699 |
 | Big Money | 3.00% | ~524 |
 | Keep the doctor away | 3.00% | ~524 |
@@ -38,8 +38,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~17 |
 | Unsuitable Terroir | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,469 (Ranked 153)  
-Completed: 13 (0.07%) (Ranked 321)  
+Progressed: 17,470 (Ranked 153)  
+Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 13 (0.07%) (Ranked 321)
 | 2023-12-22 | 17,068 | 13 |
 | 2023-12-23 | 17,258 | 13 |
 | 2023-12-24 | 17,423 | 13 |
-| 2023-12-25 | 17,469 | 13 |
+| 2023-12-25 | 17,470 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 290)  
 Sum: 1,733 (Ranked 223)  

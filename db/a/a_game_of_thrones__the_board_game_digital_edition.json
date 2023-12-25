@@ -6,7 +6,7 @@
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31336,
+  "EOS_Progressed": 31339,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28051,6 +28051,11 @@
       "Time": "2023-12-25T10:09:41.8082383+00:00",
       "NumProgressed": 31336,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-25T11:10:05.3654485+00:00",
+      "NumProgressed": 31339,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28158,7 +28163,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "1028",
@@ -28166,7 +28171,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5640
+      "UsersEstimate": 5641
     },
     {
       "ID": "1029",
@@ -28198,7 +28203,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12534
+      "UsersEstimate": 12536
     },
     {
       "ID": "1033",
@@ -28237,15 +28242,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31336,
+      "Progressed": 31339,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:09:41.808238+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:10:05.365448+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:02:43.787614+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:09:41.8083577+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:56:56.0014738+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:10:05.3656083+00:00"
 }

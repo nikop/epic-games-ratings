@@ -1,15 +1,15 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~462 |
-| Lost and Found | 6.00% | ~277 |
-| This Belongs in a Museum | 5.00% | ~6,487 |
-| Autodidact | 5.00% | ~6,487 |
+| Malpractice Assurance | 10.00% | ~463 |
+| Lost and Found | 6.00% | ~278 |
+| This Belongs in a Museum | 5.00% | ~6,488 |
+| Autodidact | 5.00% | ~6,488 |
 | This guy... again? | 5.00% | ~231 |
 | Serenity Now! | 4.00% | ~5,190 |
 | Creep and Sleep | 4.00% | ~5,190 |
@@ -19,19 +19,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,190 |
 | Ploughshares to Swords | 4.00% | ~185 |
 | Bloody Graduation | 4.00% | ~185 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,892 |
-| It Rings a Bell | 3.00% | ~3,892 |
-| Not Today! | 3.00% | ~3,892 |
-| It Happens | 3.00% | ~3,892 |
-| Rush Hour | 3.00% | ~3,892 |
-| Merry Time | 3.00% | ~3,892 |
-| Harvest Festival | 3.00% | ~3,892 |
-| To Grandmother's House | 3.00% | ~3,892 |
-| Whale | 3.00% | ~3,892 |
-| A Place to Lay Your Head | 3.00% | ~3,892 |
-| FNG | 3.00% | ~3,892 |
-| Nope | 3.00% | ~3,892 |
-| Friends 'Til the End | 3.00% | ~138 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,893 |
+| It Rings a Bell | 3.00% | ~3,893 |
+| Not Today! | 3.00% | ~3,893 |
+| It Happens | 3.00% | ~3,893 |
+| Rush Hour | 3.00% | ~3,893 |
+| Merry Time | 3.00% | ~3,893 |
+| Harvest Festival | 3.00% | ~3,893 |
+| To Grandmother's House | 3.00% | ~3,893 |
+| Whale | 3.00% | ~3,893 |
+| A Place to Lay Your Head | 3.00% | ~3,893 |
+| FNG | 3.00% | ~3,893 |
+| Nope | 3.00% | ~3,893 |
+| Friends 'Til the End | 3.00% | ~139 |
 | Resurrection | 2.00% | ~2,595 |
 | Unleash Hell | 2.00% | ~2,595 |
 | Funny Guy | 2.00% | ~2,595 |
@@ -52,21 +52,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,595 |
 | Unshackled | 2.00% | ~2,595 |
 | Road Trip | 2.00% | ~2,595 |
-| This Looks Familiar | 1.00% | ~1,297 |
-| Hope Rekindled | 1.00% | ~1,297 |
-| Ichthyophobic | 1.00% | ~1,297 |
-| No More Mouths to Feed | 1.00% | ~1,297 |
-| Worldly Traveller | 1.00% | ~1,297 |
-| Hot Air | 1.00% | ~1,297 |
-| Eyes Up | 1.00% | ~1,297 |
+| This Looks Familiar | 1.00% | ~1,298 |
+| Hope Rekindled | 1.00% | ~1,298 |
+| Ichthyophobic | 1.00% | ~1,298 |
+| No More Mouths to Feed | 1.00% | ~1,298 |
+| Worldly Traveller | 1.00% | ~1,298 |
+| Hot Air | 1.00% | ~1,298 |
+| Eyes Up | 1.00% | ~1,298 |
 | Slap on the Wrist | 1.00% | ~46 |
 | Handled | 0.90% | ~1,168 |
 | For Old Time' Sake | 0.90% | ~42 |
 | Body of Work | 0.80% | ~1,038 |
 | Shrine of Reflection | 0.70% | ~908 |
 | Et Tu, Riposte? | 0.70% | ~32 |
-| Clearing the Ledger | 0.60% | ~778 |
-| Triage | 0.60% | ~778 |
+| Clearing the Ledger | 0.60% | ~779 |
+| Triage | 0.60% | ~779 |
 | No Mercy | 0.60% | ~28 |
 | Hat Trick | 0.50% | ~649 |
 | A Life Well Lived | 0.40% | ~519 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.30% | ~14 |
 | Maître De La Lame | 0.30% | ~14 |
 | On This Long Road, We Found Redemption | 0.30% | ~14 |
-| Tears in the Rain | 0.20% | ~259 |
+| Tears in the Rain | 0.20% | ~260 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
 | No Gravestone Left Unturned | 0.10% | ~130 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,747 (Ranked 87)  
-Completed: 3 (0.00%) (Ranked 388)  
+Progressed: 129,757 (Ranked 87)  
+Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,7 +325,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,747 | 3 |
+| 2023-12-25 | 129,757 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
 Sum: 21,061 (Ranked 58)  

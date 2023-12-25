@@ -1,65 +1,65 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 229)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~213,922 |
-| 50 HEADSHOTS | 30.00% | ~200,552 |
-| SCIENCE AND INDUSTRY | 29.00% | ~193,866 |
-| FINISHED CHAPTER 1 | 28.00% | ~187,181 |
-| FINISHED CHAPTER 2 | 20.00% | ~133,701 |
-| 200 HEADSHOTS | 18.00% | ~120,331 |
-| FINISHED CHAPTER 3 | 17.00% | ~113,646 |
-| FINISHED CHAPTER 4 | 15.00% | ~100,276 |
-| FINISH CHAPTER 5 | 12.00% | ~80,221 |
-| FINISH CHAPTER 6 | 11.00% | ~73,536 |
-| CATHARTIC ESCAPISM | 11.00% | ~73,536 |
-| 1000 KILLS | 10.00% | ~66,850 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,740 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,370 |
-| FIRST BLOOD | 2.00% | ~13,370 |
-| OUT OF ORDER | 1.00% | ~6,685 |
-| PACEMAKER | 1.00% | ~6,685 |
-| TIME PARADOX | 1.00% | ~6,685 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,017 |
-| PARTYHARD | 0.80% | ~5,348 |
-| NEW GAME PLUS | 0.70% | ~4,680 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,343 |
-| CHURCH | 0.40% | ~2,674 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,006 |
-| REMEMBER THE ARMORY | 0.30% | ~2,006 |
-| 5 RUNS | 0.30% | ~2,006 |
+| 100 KILLS | 32.00% | ~213,876 |
+| 50 HEADSHOTS | 30.00% | ~200,509 |
+| SCIENCE AND INDUSTRY | 29.00% | ~193,825 |
+| FINISHED CHAPTER 1 | 28.00% | ~187,142 |
+| FINISHED CHAPTER 2 | 20.00% | ~133,673 |
+| 200 HEADSHOTS | 18.00% | ~120,305 |
+| FINISHED CHAPTER 3 | 17.00% | ~113,622 |
+| FINISHED CHAPTER 4 | 15.00% | ~100,254 |
+| FINISH CHAPTER 5 | 12.00% | ~80,204 |
+| FINISH CHAPTER 6 | 11.00% | ~73,520 |
+| CATHARTIC ESCAPISM | 11.00% | ~73,520 |
+| 1000 KILLS | 10.00% | ~66,836 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,735 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,367 |
+| FIRST BLOOD | 2.00% | ~13,367 |
+| OUT OF ORDER | 1.00% | ~6,684 |
+| PACEMAKER | 1.00% | ~6,684 |
+| TIME PARADOX | 1.00% | ~6,684 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,015 |
+| PARTYHARD | 0.80% | ~5,347 |
+| NEW GAME PLUS | 0.70% | ~4,679 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,342 |
+| CHURCH | 0.40% | ~2,673 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,005 |
+| REMEMBER THE ARMORY | 0.30% | ~2,005 |
+| 5 RUNS | 0.30% | ~2,005 |
 | CHALET | 0.20% | ~1,337 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,337 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,337 |
 | SOUL - HORIZONS | 0.20% | ~1,337 |
-| HEY THATS CHEATING | 0.10% | ~669 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~669 |
-| BUT WHY? | 0.10% | ~669 |
-| COMMAND - [EXIST] | 0.10% | ~669 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~669 |
-| FIRE IN THE HOLE | 0.10% | ~669 |
-| FRESH | 0.10% | ~669 |
-| HUGE SUCCESS | 0.10% | ~669 |
-| ICARUS | 0.10% | ~669 |
-| INPUT - [QUERY] | 0.10% | ~669 |
-| KITTED OUT | 0.10% | ~669 |
-| HOLOGRAM SUMMER | 0.10% | ~669 |
-| OFF THE HINGES | 0.10% | ~669 |
-| ON THE EDGE | 0.10% | ~669 |
-| OVERCLOCKED | 0.10% | ~669 |
-| PAIN TRAIN | 0.10% | ~669 |
-| 10 RUNS | 0.10% | ~669 |
-| 20 RUNS | 0.10% | ~669 |
-| SAVOR THE MOMENT | 0.10% | ~669 |
-| THE COLLECTOR | 0.10% | ~669 |
-| THE GAMBLER | 0.10% | ~669 |
-| WARRIOR IN A GARDEN | 0.10% | ~669 |
+| HEY THATS CHEATING | 0.10% | ~668 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~668 |
+| BUT WHY? | 0.10% | ~668 |
+| COMMAND - [EXIST] | 0.10% | ~668 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~668 |
+| FIRE IN THE HOLE | 0.10% | ~668 |
+| FRESH | 0.10% | ~668 |
+| HUGE SUCCESS | 0.10% | ~668 |
+| ICARUS | 0.10% | ~668 |
+| INPUT - [QUERY] | 0.10% | ~668 |
+| KITTED OUT | 0.10% | ~668 |
+| HOLOGRAM SUMMER | 0.10% | ~668 |
+| OFF THE HINGES | 0.10% | ~668 |
+| ON THE EDGE | 0.10% | ~668 |
+| OVERCLOCKED | 0.10% | ~668 |
+| PAIN TRAIN | 0.10% | ~668 |
+| 10 RUNS | 0.10% | ~668 |
+| 20 RUNS | 0.10% | ~668 |
+| SAVOR THE MOMENT | 0.10% | ~668 |
+| THE COLLECTOR | 0.10% | ~668 |
+| THE GAMBLER | 0.10% | ~668 |
+| WARRIOR IN A GARDEN | 0.10% | ~668 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,505 (Ranked 29)  
-Completed: 65 (0.01%) (Ranked 366)  
+Progressed: 668,363 (Ranked 29)  
+Completed: 65 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

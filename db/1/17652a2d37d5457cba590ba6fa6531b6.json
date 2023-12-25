@@ -3,9 +3,9 @@
   "Name": "Dust to the End",
   "ProductSlug": "dust-to-the-end-4297b0",
   "Ranking_EOS_Progress": 699,
-  "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-21T07:00:00+00:00",
     "PcReleaseDate": "2021-08-11T07:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "Achievement_FirstVehicle",
       "SetID": "cc9np4n",
       "Name": "Listen, engine voice",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_FullTeam",
@@ -366,9 +366,9 @@
       "ID": "Achievement_Shelter1",
       "SetID": "cc9np4n",
       "Name": "Foothold",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_Shelter3",
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-08-23T03:57:18.1724654+00:00",
   "FirstSeenAchievements": "2023-08-21T02:14:13.1182057+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:06:03.0461002+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:05:42.2310927+00:00",
   "LastUpdate_AppInfo": "2023-12-18T10:57:13.902539+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:00:54.7814754+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:06:03.0461261+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:00:28.5020147+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:05:42.23112+00:00"
 }

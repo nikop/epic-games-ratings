@@ -6,27 +6,27 @@ Rating: 4.50 (Ranked 603)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~983 |
-| I Broke It | 73.00% | ~969 |
+| I Broke It | 73.00% | ~970 |
 | Better On Ice | 67.00% | ~890 |
-| Notai Notes | 66.00% | ~876 |
-| Blue Dreams | 65.00% | ~863 |
-| He's Famous! | 65.00% | ~863 |
-| Krugmazing | 64.00% | ~850 |
-| Cutie Poro | 64.00% | ~850 |
+| Notai Notes | 66.00% | ~877 |
+| Blue Dreams | 65.00% | ~864 |
+| He's Famous! | 65.00% | ~864 |
+| Krugmazing | 64.00% | ~851 |
+| Cutie Poro | 64.00% | ~851 |
 | Moneyball | 60.00% | ~797 |
 | The Fire Below the Mountain | 60.00% | ~797 |
-| Iceborn | 55.00% | ~730 |
-| No Bites | 54.00% | ~717 |
+| Iceborn | 55.00% | ~731 |
+| No Bites | 54.00% | ~718 |
 | Boom Things | 53.00% | ~704 |
 | Tear of Freedom | 52.00% | ~691 |
-| My Darkest Day | 48.00% | ~637 |
-| Rhythm Of Willump | 47.00% | ~624 |
+| My Darkest Day | 48.00% | ~638 |
+| Rhythm Of Willump | 47.00% | ~625 |
 | The Relentless Storm | 46.00% | ~611 |
-| A Tragic Reminder | 44.00% | ~584 |
-| 3000 Year Blackout | 44.00% | ~584 |
+| A Tragic Reminder | 44.00% | ~585 |
+| 3000 Year Blackout | 44.00% | ~585 |
 | The Finisher | 42.00% | ~558 |
-| So Close | 41.00% | ~544 |
-| You Get Used To It | 41.00% | ~544 |
+| So Close | 41.00% | ~545 |
+| You Get Used To It | 41.00% | ~545 |
 | Family | 39.00% | ~518 |
 | Biggest Snowball Ever | 39.00% | ~518 |
 | Freeze The Ice Witch | 39.00% | ~518 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 603)
 | We Are Speed | 2.00% | ~27 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,328 (Ranked 261)  
+Progressed: 1,329 (Ranked 261)  
 Completed: 9 (0.68%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 9 (0.68%) (Ranked 196)
 | 2023-12-22 | 1,288 | 9 |
 | 2023-12-23 | 1,306 | 9 |
 | 2023-12-24 | 1,326 | 9 |
-| 2023-12-25 | 1,328 | 9 |
+| 2023-12-25 | 1,329 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

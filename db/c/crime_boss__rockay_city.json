@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1033,
-  "Ranking_Popularity": 208,
+  "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5223,9 +5223,9 @@
       "Count": 522
     }
   ],
-  "EOS_Progressed": 92494,
+  "EOS_Progressed": 92498,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29138,6 +29138,11 @@
       "Time": "2023-12-25T10:04:39.8623315+00:00",
       "NumProgressed": 92494,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-25T11:04:27.365009+00:00",
+      "NumProgressed": 92498,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29476,13 +29481,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92494,
+      "Progressed": 92498,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20841,
+      "Progressed": 20845,
       "Completed": 15593
     }
   ],
@@ -29490,8 +29495,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-25T06:01:22.5735713+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:04:39.862331+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:04:27.3650086+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:00:10.6403986+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:04:39.8624774+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:59:47.9739036+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:04:27.3651157+00:00"
 }

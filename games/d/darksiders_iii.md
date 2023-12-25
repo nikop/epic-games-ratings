@@ -6,40 +6,40 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~129 |
-| First of many… | 67.00% | ~111 |
-| Helping Hand | 65.00% | ~108 |
-| Increased Vigor | 59.00% | ~98 |
-| Fight Fire with Fire | 57.00% | ~95 |
-| Increased Capacity | 51.00% | ~85 |
-| Just the start | 50.00% | ~83 |
-| Perfect Storm | 46.00% | ~76 |
-| All That Glitters | 45.00% | ~75 |
-| Enhance! | 43.00% | ~71 |
-| One Of the Chosen | 39.00% | ~65 |
-| Throne Potato | 39.00% | ~65 |
-| Devil's in the Details | 38.00% | ~63 |
-| 25 to Life | 37.00% | ~61 |
-| Five's a Crowd | 36.00% | ~60 |
-| Soul Harvester | 35.00% | ~58 |
-| Unshakable Fortitude | 34.00% | ~56 |
-| Salvation | 34.00% | ~56 |
-| Delusions of Grandeur | 32.00% | ~53 |
-| I Wanna Rock | 31.00% | ~51 |
-| Love Tap | 31.00% | ~51 |
-| Freeze Frame | 30.00% | ~50 |
-| Eat Your Heart Out | 29.00% | ~48 |
-| Maximum Vigor | 28.00% | ~46 |
-| For Whom the Bell Tolls | 28.00% | ~46 |
+| Green with Envy | 77.00% | ~129 |
+| First of many… | 66.00% | ~111 |
+| Helping Hand | 65.00% | ~109 |
+| Increased Vigor | 60.00% | ~101 |
+| Fight Fire with Fire | 58.00% | ~97 |
+| Increased Capacity | 51.00% | ~86 |
+| Just the start | 51.00% | ~86 |
+| Perfect Storm | 45.00% | ~76 |
+| All That Glitters | 45.00% | ~76 |
+| Enhance! | 43.00% | ~72 |
+| One Of the Chosen | 39.00% | ~66 |
+| Devil's in the Details | 38.00% | ~64 |
+| Throne Potato | 38.00% | ~64 |
+| 25 to Life | 37.00% | ~62 |
+| Soul Harvester | 35.00% | ~59 |
+| Five's a Crowd | 35.00% | ~59 |
+| Salvation | 34.00% | ~57 |
+| Unshakable Fortitude | 33.00% | ~55 |
+| Delusions of Grandeur | 32.00% | ~54 |
+| I Wanna Rock | 31.00% | ~52 |
+| Love Tap | 30.00% | ~50 |
+| Freeze Frame | 29.00% | ~49 |
+| Eat Your Heart Out | 29.00% | ~49 |
+| Maximum Vigor | 28.00% | ~47 |
+| For Whom the Bell Tolls | 27.00% | ~45 |
 | Unyielding Strength | 24.00% | ~40 |
-| Cleanup Crew | 22.00% | ~37 |
 | Can you restore the Balance? | 22.00% | ~37 |
-| Crowd Source | 22.00% | ~37 |
-| Big Spender | 22.00% | ~37 |
-| Maximum Capacity | 20.00% | ~33 |
+| Cleanup Crew | 21.00% | ~35 |
+| Crowd Source | 21.00% | ~35 |
+| Big Spender | 21.00% | ~35 |
+| Maximum Capacity | 20.00% | ~34 |
 | Demon Meddler | 18.00% | ~30 |
 | Seeing Red | 18.00% | ~30 |
-| Egomaniac | 17.00% | ~28 |
+| Egomaniac | 17.00% | ~29 |
 | Protector of Humanity | 15.00% | ~25 |
 | Everybody Wants to Rule the World | 15.00% | ~25 |
 | Community Outreach | 13.00% | ~22 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 1.00% | ~2 |
 | Beast Mode | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 428)  
+Progressed: 168 (Ranked 428)  
 Completed: 1 (0.60%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.60%) (Ranked 201)
 | 2023-12-22 | 84 | 0 |
 | 2023-12-23 | 121 | 1 |
 | 2023-12-24 | 159 | 1 |
-| 2023-12-25 | 166 | 1 |
+| 2023-12-25 | 168 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 384)  
 Sum: 94 (Ranked 462)  

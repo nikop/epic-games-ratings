@@ -7,12 +7,12 @@ Rating: 4.62 (Ranked 373)
 | ---- | ---------- | ----- |
 | Secret Technique | 9.00% | ~555 |
 | Realm Estate | 8.00% | ~494 |
+| A Wonderful Discovery | 8.00% | ~494 |
 | Walls Cannot Stop Us | 8.00% | ~494 |
-| A Wonderful Discovery | 7.00% | ~432 |
 | Bone Peddler | 6.00% | ~370 |
 | From Friends to Family | 6.00% | ~370 |
-| Magical Synergy | 5.00% | ~308 |
-| But this one is mine | 5.00% | ~308 |
+| Magical Synergy | 5.00% | ~309 |
+| But this one is mine | 5.00% | ~309 |
 | There Can Only Be One! | 4.00% | ~247 |
 | Full Ascension | 4.00% | ~247 |
 | Stronger Together | 4.00% | ~247 |
@@ -22,6 +22,7 @@ Rating: 4.62 (Ranked 373)
 | Digging for Treasure | 3.00% | ~185 |
 | My Final Form | 3.00% | ~185 |
 | Intimidation Tactics | 3.00% | ~185 |
+| Freed Lands of Manuhari | 3.00% | ~185 |
 | Return of the Wizard King | 2.00% | ~123 |
 | Enchanted Archipelago | 2.00% | ~123 |
 | Crimson Caldera | 2.00% | ~123 |
@@ -32,7 +33,6 @@ Rating: 4.62 (Ranked 373)
 | Here be Dragons | 2.00% | ~123 |
 | Tipping the Scales | 2.00% | ~123 |
 | Mighty Hoard | 2.00% | ~123 |
-| Freed Lands of Manuhari | 2.00% | ~123 |
 | Sehiran Oasis | 2.00% | ~123 |
 | Chaos Surge | 2.00% | ~123 |
 | Spoils of War | 2.00% | ~123 |
@@ -66,8 +66,8 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,170 (Ranked 193)  
-Completed: 7 (0.11%) (Ranked 302)  
+Progressed: 6,172 (Ranked 193)  
+Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,11 +283,11 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
 | 2023-12-24 | 6,152 | 7 |
-| 2023-12-25 | 6,170 | 7 |
+| 2023-12-25 | 6,172 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
-Sum: 136 (Ranked 438)  
-Diff (max vs sum): 40  
+Sum: 136 (Ranked 437)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

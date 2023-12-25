@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1643,7 +1643,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7505,
+  "EOS_Progressed": 7506,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -15418,6 +15418,11 @@
       "Time": "2023-12-25T10:08:36.2405314+00:00",
       "NumProgressed": 7505,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-25T11:09:05.8357856+00:00",
+      "NumProgressed": 7506,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15429,7 +15434,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15461,7 +15466,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -15469,7 +15474,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15541,7 +15546,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -15549,7 +15554,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4653
+      "UsersEstimate": 4654
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15565,7 +15570,7 @@
       "Name": "Fit For A King",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -15573,7 +15578,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15581,7 +15586,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -15597,7 +15602,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -15627,9 +15632,9 @@
       "ID": "SURVIVE_SEVEN_DAY",
       "SetID": "5349c2e",
       "Name": "The First Week",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4203
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -15637,7 +15642,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15645,7 +15650,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -15676,15 +15681,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7505,
+      "Progressed": 7506,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:08:36.240531+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:09:05.8357852+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.6112107+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:47.6456623+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:08:36.2406245+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:30.433485+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:09:05.8358701+00:00"
 }

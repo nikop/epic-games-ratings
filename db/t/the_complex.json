@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 720,
+  "EOS_Progressed": 723,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.92,
+  "EOS_Completed_Percentage": 2.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1380,6 +1380,11 @@
       "Time": "2023-12-25T09:09:32.6536235+00:00",
       "NumProgressed": 720,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-25T11:09:52.7685503+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1391,7 +1396,7 @@
       "Name": "Beat It",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "blast_from_the_past",
@@ -1399,15 +1404,15 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 605
+      "UsersEstimate": 607
     },
     {
       "ID": "deadly_secret",
       "SetID": "d4f4pll",
       "Name": "Deadly Secret",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 94
+      "UsersEstimate": 87
     },
     {
       "ID": "ending_1",
@@ -1415,7 +1420,7 @@
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ending_2",
@@ -1423,7 +1428,7 @@
       "Name": "Second Chances",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ending_3",
@@ -1447,7 +1452,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ending_6",
@@ -1455,7 +1460,7 @@
       "Name": "Stalemate",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ending_7",
@@ -1463,7 +1468,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ending_8",
@@ -1479,7 +1484,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "free_champagne",
@@ -1487,7 +1492,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "kamikaze",
@@ -1495,7 +1500,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 461
+      "UsersEstimate": 463
     },
     {
       "ID": "kindar_surprise",
@@ -1503,7 +1508,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "not_a_people_person",
@@ -1527,15 +1532,15 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 338
+      "UsersEstimate": 340
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 418
+      "UsersEstimate": 412
     },
     {
       "ID": "tough_decision",
@@ -1543,14 +1548,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 665
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 720,
+      "Progressed": 723,
       "Completed": 21
     }
   ],
@@ -1558,8 +1563,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:09:28.1286758+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:09:52.7685498+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:59:01.3298574+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:09:28.1286961+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:44.8234888+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:09:52.7685654+00:00"
 }

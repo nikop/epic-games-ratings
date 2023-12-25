@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -1138,9 +1138,9 @@
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 605
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1299,8 +1299,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:03:50.3506077+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:03:42.4232927+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:19.5415284+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:54.955807+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:03:50.3506448+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:38.9076192+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:03:42.4233277+00:00"
 }

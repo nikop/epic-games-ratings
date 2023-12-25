@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 230,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13689,9 +13689,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 483560,
+  "EOS_Progressed": 483597,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5222,
+  "EOS_NewPlayers": 5234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42349,6 +42349,11 @@
       "Time": "2023-12-25T10:08:15.9648769+00:00",
       "NumProgressed": 483560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T11:08:47.7262868+00:00",
+      "NumProgressed": 483597,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43254,9 +43259,9 @@
       "ID": "achievement_fugger_banking",
       "SetID": "8p2n7he",
       "Name": "Fugger Banking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_full_house",
@@ -45263,21 +45268,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 483560,
+      "Progressed": 483597,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 483560,
+      "Progressed": 483597,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-25T10:00:06.4031853+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:08:15.9648765+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:08:47.7262862+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:00:06.4031859+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:08:15.9659431+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:59:43.4724+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:08:47.7273961+00:00"
 }

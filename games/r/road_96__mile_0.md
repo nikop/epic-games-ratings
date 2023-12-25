@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BBFF (Best Brigade Friend Forever) | 49.00% | ~271 |
-| Conspiracy Theorist | 41.00% | ~227 |
+| BBFF (Best Brigade Friend Forever) | 49.00% | ~272 |
+| Conspiracy Theorist | 41.00% | ~228 |
 | On the Road | 40.00% | ~222 |
 | Souvenirs | 28.00% | ~155 |
-| Welcome to the Garage | 18.00% | ~100 |
+| Welcome to the Garage | 17.00% | ~94 |
 | Truthseeker | 15.00% | ~83 |
 | This is Not Heavy Metal! | 15.00% | ~83 |
 | Freedom | 8.00% | ~44 |
@@ -20,8 +20,8 @@
 | Song Harvester | 1.00% | ~6 |
 | Try Harder | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 554 (Ranked 328)  
-Completed: 2 (0.36%) (Ranked 236)  
+Progressed: 555 (Ranked 328)  
+Completed: 2 (0.36%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 2 (0.36%) (Ranked 236)
 | 2023-12-22 | 536 | 2 |
 | 2023-12-23 | 543 | 2 |
 | 2023-12-24 | 551 | 2 |
-| 2023-12-25 | 554 | 2 |
+| 2023-12-25 | 555 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

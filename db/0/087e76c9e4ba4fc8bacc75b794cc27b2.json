@@ -3,9 +3,9 @@
   "Name": "What The Duck",
   "ProductSlug": "what-the-duck-83e293",
   "Ranking_EOS_Progress": 689,
-  "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-09T15:00:00+00:00",
     "PcReleaseDate": "2023-11-09T15:00:00+00:00",
@@ -410,8 +410,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T16:12:35.1501319+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:08:18.9600035+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:08:50.3862967+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:56.0573276+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:57:57.4560895+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:08:18.9600283+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:57:45.0500553+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:08:50.3863378+00:00"
 }

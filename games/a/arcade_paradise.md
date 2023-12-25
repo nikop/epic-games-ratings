@@ -7,7 +7,7 @@ Rating: 4.59 (Ranked 442)
 | ---- | ---------- | ----- |
 | Pushing a pull door | 96.00% | ~700 |
 | Fetch Quest Complete | 90.00% | ~656 |
-| I can't wait! | 82.00% | ~598 |
+| I can't wait! | 83.00% | ~605 |
 | Swish | 56.00% | ~408 |
 | Clean up on Aisle 9 | 39.00% | ~284 |
 | Machine Maxed | 29.00% | ~211 |
@@ -61,7 +61,7 @@ Rating: 4.59 (Ranked 442)
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 729 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

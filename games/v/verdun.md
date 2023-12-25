@@ -1,21 +1,21 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 549)  
+Rating: 4.53 (Ranked 550)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,578 |
-| Worth it | 63.00% | ~42,467 |
-| Eagle Eye | 55.00% | ~37,074 |
-| Corpseman I | 40.00% | ~26,963 |
-| Blast fishing | 37.00% | ~24,941 |
-| Not alone | 32.00% | ~21,571 |
-| Headhunter I | 26.00% | ~17,526 |
-| Manual Labour I | 25.00% | ~16,852 |
-| Developers, Developers, Developers | 24.00% | ~16,178 |
-| Basic Training | 23.00% | ~15,504 |
+| Setting an example | 78.00% | ~52,581 |
+| Worth it | 63.00% | ~42,469 |
+| Eagle Eye | 55.00% | ~37,076 |
+| Corpseman I | 40.00% | ~26,964 |
+| Blast fishing | 37.00% | ~24,942 |
+| Not alone | 32.00% | ~21,572 |
+| Headhunter I | 26.00% | ~17,527 |
+| Manual Labour I | 25.00% | ~16,853 |
+| Developers, Developers, Developers | 24.00% | ~16,179 |
+| Basic Training | 23.00% | ~15,505 |
 | Furchtlos und Treu | 13.00% | ~8,763 |
 | Gott Mit Uns | 12.00% | ~8,089 |
 | This We'll Defend! | 9.00% | ~6,067 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~5,393 |
 | Semper Fidelis! | 7.00% | ~4,719 |
 | Honneur et Patrie | 7.00% | ~4,719 |
-| In Treue Fest | 5.00% | ~3,370 |
-| Voor De Koning | 5.00% | ~3,370 |
-| Extreme Headhunter | 5.00% | ~3,370 |
+| In Treue Fest | 5.00% | ~3,371 |
+| Voor De Koning | 5.00% | ~3,371 |
+| Extreme Headhunter | 5.00% | ~3,371 |
 | Advance Australia | 4.00% | ~2,696 |
 | We Stand on Guard | 4.00% | ~2,696 |
 | Sidi Brahim | 4.00% | ~2,696 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,408 (Ranked 113)  
-Completed: 4 (0.01%) (Ranked 366)  
+Progressed: 67,411 (Ranked 113)  
+Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 4 (0.01%) (Ranked 366)
 | 2023-12-22 | 67,120 | 4 |
 | 2023-12-23 | 67,249 | 4 |
 | 2023-12-24 | 67,382 | 4 |
-| 2023-12-25 | 67,408 | 4 |
+| 2023-12-25 | 67,411 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 823 (Ranked 283)  

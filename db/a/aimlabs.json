@@ -6,9 +6,9 @@
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1789,10 +1789,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-12-25T10:58:16.2898603+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 527,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
+  "NumberOfAwards": 527,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1866,7 +1872,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 45
+      "Count": 47
     }
   ],
   "EOS_Progressed": 0,
@@ -1881,8 +1887,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-25T06:59:01.2234702+00:00",
+  "LastChanged": "2023-12-25T10:58:16.2898601+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:09.100445+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:58:32.5686944+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:06:06.2231491+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:58:16.2898606+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:05:44.909467+00:00"
 }

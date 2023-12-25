@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252530,
+  "EOS_Progressed": 252532,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22202,6 +22202,11 @@
       "Time": "2023-12-25T10:09:50.1202843+00:00",
       "NumProgressed": 252530,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T11:10:12.9102521+00:00",
+      "NumProgressed": 252532,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22237,7 +22242,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53031
+      "UsersEstimate": 53032
     },
     {
       "ID": "blotbuster",
@@ -22309,7 +22314,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45455
+      "UsersEstimate": 45456
     },
     {
       "ID": "curator",
@@ -22389,7 +22394,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133841
+      "UsersEstimate": 133842
     },
     {
       "ID": "indegestible",
@@ -22429,7 +22434,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20202
+      "UsersEstimate": 20203
     },
     {
       "ID": "lockupLockdown",
@@ -22453,7 +22458,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126265
+      "UsersEstimate": 126266
     },
     {
       "ID": "notScared",
@@ -22580,7 +22585,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252530,
+      "Progressed": 252532,
       "Completed": 6
     }
   ],
@@ -22588,8 +22593,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-25T10:09:50.120284+00:00",
+  "LastChanged_Achievements": "2023-12-25T11:10:12.9102517+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.5552445+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:57:59.9095548+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:09:50.1204283+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:57:47.2872103+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:10:12.9103636+00:00"
 }

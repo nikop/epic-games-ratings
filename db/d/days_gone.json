@@ -2,13 +2,13 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
     "PcReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -4307,10 +4307,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 7239,
       "NumberOfAwardsMax": 4125
+    },
+    {
+      "Time": "2023-12-25T10:57:39.4372257+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 7240,
+      "NumberOfAwardsMax": 4125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7239,
+  "NumberOfAwards": 7240,
   "NumberOfAwardsMax": 4125,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4348,7 +4354,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 354
+      "Count": 355
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4398,8 +4404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2023-12-25T09:57:51.3295193+00:00",
+  "LastChanged": "2023-12-25T10:57:39.4372255+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:02.9970687+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:57:51.3295198+00:00",
-  "LastUpdate_Achievements": "2023-12-25T10:09:22.1756759+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:57:39.4372261+00:00",
+  "LastUpdate_Achievements": "2023-12-25T11:09:47.3299588+00:00"
 }

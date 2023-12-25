@@ -57,10 +57,10 @@ Rating: 4.65 (Ranked 321)
 | A Lesson in Precision | 0.90% | ~10 |
 | Wildlife Protection | 0.70% | ~8 |
 | Raw Talent | 0.60% | ~7 |
-| Going to Live Forever | 0.50% | ~5 |
+| Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 277)  
-Completed: 6 (0.55%) (Ranked 207)  
+Progressed: 1,101 (Ranked 277)  
+Completed: 6 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,7 +214,7 @@ Completed: 6 (0.55%) (Ranked 207)
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
-| 2023-12-25 | 1,099 | 6 |
+| 2023-12-25 | 1,101 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

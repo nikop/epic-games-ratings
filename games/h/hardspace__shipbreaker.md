@@ -27,15 +27,15 @@ Number of Ratings: 36  (23.09.2022)
 | A Tucked Tale | 10.00% | ~101 |
 | The best thing money can buy | 9.00% | ~91 |
 | Act III Complete | 6.00% | ~61 |
+| Fire and Brimstone | 6.00% | ~61 |
 | See you Space Cowboy | 6.00% | ~61 |
-| Fire and Brimstone | 5.00% | ~51 |
 | Ghost in the Ship | 2.00% | ~20 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,012 (Ranked 282)  
-Completed: 0 (0.00%) (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
