@@ -79,7 +79,7 @@
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.77% |
 | 79 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 4.76% |
-| 80 | [ZZT!](games/z/zzt!.md) | 4.72% |
+| 80 | [ZZT!](games/z/zzt!.md) | 4.71% |
 | 81 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.69% |
 | 82 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.57% |
 | 83 | [JARS](games/j/jars.md) | 4.55% |
@@ -121,13 +121,13 @@
 | 119 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.75% |
 | 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.69% |
-| 122 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.65% |
+| 122 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.64% |
 | 123 | [Mega City Force](games/m/mega_city_police.md) | 2.63% |
 | 124 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.47% |
 | 127 | [Night Book](games/n/night_book.md) | 2.46% |
-| 128 | [FORECLOSED](games/f/foreclosed.md) | 2.44% |
+| 128 | [FORECLOSED](games/f/foreclosed.md) | 2.42% |
 | 129 | [Lamentum](games/l/lamentum.md) | 2.40% |
 | 130 | [Bloodshore](games/b/bloodshore.md) | 2.39% |
 | 131 | [Destiny 2](games/d/destiny_2.md) | 2.35% |
@@ -179,7 +179,7 @@
 | 177 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.93% |
 | 178 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.92% |
 | 179 | [Hades](games/h/hades.md) | 0.91% |
-| 179 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.91% |
+| 180 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.90% |
 | 181 | [A Musical Story](games/a/a_musical_story.md) | 0.89% |
 | 181 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
 | 183 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.88% |
@@ -194,9 +194,9 @@
 | 192 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.73% |
 | 193 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.72% |
 | 194 | [Five Dates](games/f/five_dates.md) | 0.71% |
-| 195 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 0.69% |
 | 195 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
-| 197 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.68% |
+| 196 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 0.68% |
+| 196 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.68% |
 | 198 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 199 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.64% |
 | 200 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
@@ -814,4 +814,4 @@
 | 388 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 388 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 388 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,780 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,780 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
