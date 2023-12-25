@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96742,
+  "EOS_Progressed": 96756,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -28265,6 +28265,11 @@
       "Time": "2023-12-25T21:09:18.3494184+00:00",
       "NumProgressed": 96742,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2023-12-25T22:08:53.8206481+00:00",
+      "NumProgressed": 96756,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 10,
@@ -28276,7 +28281,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "Drawings01",
@@ -28284,7 +28289,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "Drawings02",
@@ -28292,7 +28297,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "Drawings03",
@@ -28308,7 +28313,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "DrawingsAll",
@@ -28332,7 +28337,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9676
     },
     {
       "ID": "Level00BowlingStrike",
@@ -28340,7 +28345,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33860
+      "UsersEstimate": 33865
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -28348,22 +28353,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10642
+      "UsersEstimate": 10643
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 96742,
+      "Progressed": 96756,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:09:18.3494179+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:08:53.820647+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.9488301+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:03:12.0315247+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:09:18.3495383+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:03:09.1251514+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:08:53.8208018+00:00"
 }

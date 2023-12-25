@@ -5,28 +5,28 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 17.00% | ~3,275 |
-| The Outer Way | 17.00% | ~3,275 |
-| Paper Jams | 16.00% | ~3,082 |
-| Desperate Times | 16.00% | ~3,082 |
-| Get a Grip | 15.00% | ~2,890 |
-| Chew 'Em Up | 13.00% | ~2,504 |
-| Float Like A Butterfly | 12.00% | ~2,312 |
-| Reforged | 12.00% | ~2,312 |
-| Workplace Hazard | 11.00% | ~2,119 |
-| If the SHU Fits... | 11.00% | ~2,119 |
-| Without A Paddle | 9.00% | ~1,734 |
-| Two Heads Are Better Than One | 8.00% | ~1,541 |
-| In the Pipe, Five by Five | 8.00% | ~1,541 |
-| Crash Site | 8.00% | ~1,541 |
-| Terminated | 7.00% | ~1,348 |
-| What Lies Beneath | 7.00% | ~1,348 |
-| Full Circle | 7.00% | ~1,348 |
-| Power Up | 7.00% | ~1,348 |
+| Flesh Wound | 17.00% | ~3,277 |
+| The Outer Way | 17.00% | ~3,277 |
+| Get a Grip | 16.00% | ~3,084 |
+| Paper Jams | 16.00% | ~3,084 |
+| Desperate Times | 16.00% | ~3,084 |
+| Chew 'Em Up | 13.00% | ~2,506 |
+| Float Like A Butterfly | 12.00% | ~2,313 |
+| Reforged | 12.00% | ~2,313 |
+| Workplace Hazard | 11.00% | ~2,120 |
+| If the SHU Fits... | 11.00% | ~2,120 |
+| Without A Paddle | 9.00% | ~1,735 |
+| Two Heads Are Better Than One | 8.00% | ~1,542 |
+| In the Pipe, Five by Five | 8.00% | ~1,542 |
+| Crash Site | 8.00% | ~1,542 |
+| Terminated | 7.00% | ~1,349 |
+| What Lies Beneath | 7.00% | ~1,349 |
+| Full Circle | 7.00% | ~1,349 |
+| Power Up | 7.00% | ~1,349 |
 | Giving Back | 6.00% | ~1,156 |
 | You Need a Gun | 6.00% | ~1,156 |
 | I Do Belong Here | 6.00% | ~1,156 |
-| Keep Fighting | 6.00% | ~431 |
+| Keep Fighting | 6.00% | ~432 |
 | It's Time | 5.00% | ~360 |
 | The Commonality | 4.00% | ~771 |
 | In Striking Distance | 3.00% | ~578 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,264 (Ranked 149)  
+Progressed: 19,274 (Ranked 149)  
 Completed: 82 (0.43%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,17 +294,17 @@ Completed: 82 (0.43%) (Ranked 226)
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
-| 2023-12-25 | 19,264 | 82 |
+| 2023-12-25 | 19,274 | 82 |
 ## Awards
 Max (Amazing Characters): 100  (Ranked 370)  
-Sum: 506 (Ranked 332)  
-Diff (max vs sum): 38  
+Sum: 510 (Ranked 329)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 100 |
 | This game is Highly Recommended | 96 |
-| This game has Amazing Storytelling | 93 |
-| This game has Quickly Understood Controls | 92 |
+| This game has Amazing Storytelling | 95 |
+| This game has Quickly Understood Controls | 94 |
 | This game is Extremely Fun | 88 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 37 |
@@ -492,4 +492,4 @@ Diff (max vs sum): 38
 | 2023-12-22 | 4.20 | 95 | 551 |
 | 2023-12-23 | 4.20 | 97 | 557 |
 | 2023-12-24 | 4.20 | 97 | 562 |
-| 2023-12-25 | 4.20 | 100 | 506 |
+| 2023-12-25 | 4.20 | 100 | 510 |

@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376 (Ranked 357)  
+Progressed: 376 (Ranked 359)  
 Completed: 1 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |

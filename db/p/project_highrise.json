@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1365,6 +1365,11 @@
       "Time": "2023-12-25T21:05:16.3933045+00:00",
       "NumProgressed": 439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T22:05:14.7441664+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1392,7 +1397,7 @@
       "Name": "Lux Living",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_apartments_2",
@@ -1408,7 +1413,7 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_area_1",
@@ -1816,7 +1821,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_prestige_2",
@@ -1840,7 +1845,7 @@
       "Name": "In the Black",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ach_profit_1",
@@ -1896,7 +1901,7 @@
       "Name": "Dinner Dash",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_restaurants_4",
@@ -1912,7 +1917,7 @@
       "Name": "Starred Dining",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_retail_1",
@@ -1928,7 +1933,7 @@
       "Name": "Emporium Empire",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_retail_3",
@@ -1936,7 +1941,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_retail_4",
@@ -2000,7 +2005,7 @@
       "Name": "Smooth Service",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_trash_1",
@@ -2016,7 +2021,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_util_cable",
@@ -2070,16 +2075,16 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 0
     }
   ],
@@ -2087,8 +2092,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:05:16.393304+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:05:14.744166+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:11.1701872+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:05:16.3933792+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:06.3459211+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:05:14.7442441+00:00"
 }

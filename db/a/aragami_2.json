@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44525,
+  "EOS_Progressed": 44526,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -19637,6 +19637,11 @@
       "Time": "2023-12-25T21:04:44.8655777+00:00",
       "NumProgressed": 44525,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-25T22:04:43.859505+00:00",
+      "NumProgressed": 44526,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19648,7 +19653,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25379
+      "UsersEstimate": 25380
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19696,7 +19701,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -19768,7 +19773,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35620
+      "UsersEstimate": 35621
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19784,7 +19789,7 @@
       "Name": "Hot Potato",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -19800,7 +19805,7 @@
       "Name": "Anger Management",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -19840,7 +19845,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16474
+      "UsersEstimate": 16475
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -19848,7 +19853,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8014
+      "UsersEstimate": 8015
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -19912,7 +19917,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26715
+      "UsersEstimate": 26716
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19944,7 +19949,7 @@
       "Name": "Legacy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -19952,7 +19957,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20036
+      "UsersEstimate": 20037
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19984,7 +19989,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41408
+      "UsersEstimate": 41409
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19992,14 +19997,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23153
+      "UsersEstimate": 23154
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44525,
+      "Progressed": 44526,
       "Completed": 247
     }
   ],
@@ -20007,8 +20012,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:04:44.8655772+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:04:43.8595047+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:03:10.8648319+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:04:44.8656728+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:03:08.0304472+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:04:43.8596166+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1659,6 +1659,11 @@
       "Time": "2023-12-25T21:09:53.3705903+00:00",
       "NumProgressed": 505,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T22:09:28.3686253+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1733,17 +1738,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1767,7 +1772,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TIME_ORWELL",
@@ -1783,7 +1788,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1830,14 +1835,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:09:53.3705897+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:09:28.3686247+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:57.6373614+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:09:53.3706075+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:52.3525227+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:09:28.3686473+00:00"
 }

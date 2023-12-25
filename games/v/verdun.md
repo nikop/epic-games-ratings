@@ -6,51 +6,51 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,610 |
-| Worth it | 63.00% | ~42,493 |
-| Eagle Eye | 55.00% | ~37,097 |
-| Corpseman I | 40.00% | ~26,980 |
-| Blast fishing | 37.00% | ~24,956 |
-| Not alone | 32.00% | ~21,584 |
-| Headhunter I | 26.00% | ~17,537 |
-| Manual Labour I | 25.00% | ~16,862 |
-| Developers, Developers, Developers | 24.00% | ~16,188 |
-| Basic Training | 23.00% | ~15,513 |
-| Furchtlos und Treu | 13.00% | ~8,768 |
-| Gott Mit Uns | 12.00% | ~8,094 |
-| This We'll Defend! | 9.00% | ~6,070 |
-| Anker wirf! | 9.00% | ~6,070 |
-| Providentiea Memor | 9.00% | ~6,070 |
-| For King and Country | 9.00% | ~6,070 |
+| Setting an example | 78.00% | ~52,616 |
+| Worth it | 63.00% | ~42,497 |
+| Eagle Eye | 55.00% | ~37,101 |
+| Corpseman I | 40.00% | ~26,982 |
+| Blast fishing | 37.00% | ~24,959 |
+| Not alone | 32.00% | ~21,586 |
+| Headhunter I | 26.00% | ~17,539 |
+| Manual Labour I | 25.00% | ~16,864 |
+| Developers, Developers, Developers | 24.00% | ~16,189 |
+| Basic Training | 23.00% | ~15,515 |
+| Furchtlos und Treu | 13.00% | ~8,769 |
+| Gott Mit Uns | 12.00% | ~8,095 |
+| This We'll Defend! | 9.00% | ~6,071 |
+| Anker wirf! | 9.00% | ~6,071 |
+| Providentiea Memor | 9.00% | ~6,071 |
+| For King and Country | 9.00% | ~6,071 |
 | Battle hardened | 8.00% | ~5,396 |
-| Semper Fidelis! | 7.00% | ~4,721 |
-| Honneur et Patrie | 7.00% | ~4,721 |
-| In Treue Fest | 5.00% | ~3,372 |
-| Voor De Koning | 5.00% | ~3,372 |
-| Extreme Headhunter | 5.00% | ~3,372 |
+| Semper Fidelis! | 7.00% | ~4,722 |
+| Honneur et Patrie | 7.00% | ~4,722 |
+| In Treue Fest | 5.00% | ~3,373 |
+| Voor De Koning | 5.00% | ~3,373 |
+| Extreme Headhunter | 5.00% | ~3,373 |
 | Advance Australia | 4.00% | ~2,698 |
 | We Stand on Guard | 4.00% | ~2,698 |
 | Sidi Brahim | 4.00% | ~2,698 |
 | War is better with friends I | 4.00% | ~2,698 |
 | Let them, come to us | 4.00% | ~2,698 |
 | Corpseman II | 4.00% | ~2,698 |
-| Offense is the best defence | 3.00% | ~2,023 |
-| There is no I in team | 3.00% | ~2,023 |
-| Veteran | 3.00% | ~2,023 |
-| Manual Labour II | 3.00% | ~2,023 |
-| In My Defens God Me Defend | 3.00% | ~2,023 |
-| Silver x100 | 3.00% | ~2,023 |
-| Impavidum Ferient Bella! | 3.00% | ~2,023 |
+| Offense is the best defence | 3.00% | ~2,024 |
+| There is no I in team | 3.00% | ~2,024 |
+| Veteran | 3.00% | ~2,024 |
+| Manual Labour II | 3.00% | ~2,024 |
+| In My Defens God Me Defend | 3.00% | ~2,024 |
+| Silver x100 | 3.00% | ~2,024 |
+| Impavidum Ferient Bella! | 3.00% | ~2,024 |
 | Bronze x100 | 2.00% | ~1,349 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,349 |
-| Gold x100 | 1.00% | ~674 |
-| Hunting the Hun | 1.00% | ~674 |
-| #1 | 1.00% | ~674 |
-| Golden Headhunter | 1.00% | ~674 |
-| That's another one down! | 1.00% | ~674 |
-| Do you even die? | 1.00% | ~674 |
-| Headhunter II | 1.00% | ~674 |
-| Corpseman III | 1.00% | ~674 |
+| Gold x100 | 1.00% | ~675 |
+| Hunting the Hun | 1.00% | ~675 |
+| #1 | 1.00% | ~675 |
+| Golden Headhunter | 1.00% | ~675 |
+| That's another one down! | 1.00% | ~675 |
+| Do you even die? | 1.00% | ~675 |
+| Headhunter II | 1.00% | ~675 |
+| Corpseman III | 1.00% | ~675 |
 | Elite Player | 0.80% | ~540 |
 | Manual Labour III | 0.40% | ~270 |
 | Buddy | 0.30% | ~202 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~67 |
 | Blood Brother | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,449 (Ranked 113)  
+Progressed: 67,456 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,11 +315,11 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-22 | 67,120 | 4 |
 | 2023-12-23 | 67,249 | 4 |
 | 2023-12-24 | 67,382 | 4 |
-| 2023-12-25 | 67,449 | 4 |
+| 2023-12-25 | 67,456 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
-Sum: 823 (Ranked 283)  
-Diff (max vs sum): 81  
+Sum: 823 (Ranked 282)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

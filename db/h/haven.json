@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1771,
+  "EOS_Progressed": 1772,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2908,6 +2908,11 @@
       "Time": "2023-12-25T18:03:42.8241265+00:00",
       "NumProgressed": 1771,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T22:04:09.0870842+00:00",
+      "NumProgressed": 1772,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2943,7 +2948,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "13",
@@ -2983,7 +2988,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "18",
@@ -3127,7 +3132,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "7",
@@ -3158,15 +3163,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1771,
+      "Progressed": 1772,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:04:09.7426004+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:04:09.0870838+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:31.877158+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:04:09.7426276+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:25.887615+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:04:09.0871139+00:00"
 }

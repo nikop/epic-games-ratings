@@ -28,9 +28,10 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
-| Everfading | 0.70% | ~11 |
-| Plague Doctor | 0.60% | ~9 |
+| Everfading | 0.80% | ~12 |
+| Plague Doctor | 0.70% | ~11 |
 | In Soil, In Smoke | 0.60% | ~9 |
+| All My Birds, Safely Home | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
 | No Time for Clawmonsters | 0.60% | ~9 |
@@ -38,21 +39,20 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
-| All My Birds, Safely Home | 0.50% | ~8 |
 | Bears are Scary | 0.50% | ~8 |
+| Grillmaster | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | Lochias's Hunger | 0.50% | ~8 |
 | Worldwalker | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
-| Grillmaster | 0.40% | ~6 |
+| Fight Like a Bird | 0.40% | ~6 |
 | Into Mulch | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
+| The Power of Friendship | 0.30% | ~5 |
 | A Hunger, Sated | 0.30% | ~5 |
-| Fight Like a Bird | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
-| The Power of Friendship | 0.20% | ~3 |
+| Overwhelming Monstrosity | 0.20% | ~3 |
 | War-Ender | 0.20% | ~3 |
-| Overwhelming Monstrosity | 0.10% | ~2 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | Back into the Sea | 0.10% | ~2 |
 | Solid as the Hills | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,551 (Ranked 254)  
+Progressed: 1,552 (Ranked 254)  
 Completed: 7 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.45%) (Ranked 224)
 | 2023-12-22 | 1,540 | 7 |
 | 2023-12-23 | 1,545 | 7 |
 | 2023-12-24 | 1,547 | 7 |
-| 2023-12-25 | 1,551 | 7 |
+| 2023-12-25 | 1,552 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 519)  
 Sum: 29 (Ranked 536)  

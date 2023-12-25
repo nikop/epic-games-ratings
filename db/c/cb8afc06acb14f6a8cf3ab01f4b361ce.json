@@ -443,9 +443,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 335150,
+  "EOS_Progressed": 335187,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4058,
+  "EOS_NewPlayers": 4072,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10958,6 +10958,11 @@
       "Time": "2023-12-25T21:08:40.7295014+00:00",
       "NumProgressed": 335150,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T22:06:57.2139244+00:00",
+      "NumProgressed": 335187,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10970,7 +10975,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13406
+      "UsersEstimate": 13407
     },
     {
       "ID": "S02_BRDA",
@@ -10978,7 +10983,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10054
+      "UsersEstimate": 10056
     },
     {
       "ID": "S03_OTWA",
@@ -10986,7 +10991,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "S04_BRDC",
@@ -11106,7 +11111,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13406
+      "UsersEstimate": 13407
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11178,7 +11183,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "S28_CTHB",
@@ -11186,7 +11191,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "S29_RECOVER",
@@ -11289,7 +11294,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 335150,
+      "Progressed": 335187,
       "Completed": 6
     }
   ],
@@ -11297,8 +11302,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:08:40.7295008+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:06:57.213924+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:00:09.8759347+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:08:40.729602+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:00:02.4698842+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:06:57.2139994+00:00"
 }

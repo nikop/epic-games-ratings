@@ -2,13 +2,13 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 736,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2015-10-20T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 774,
   "RatingHistory": [
     {
@@ -894,6 +894,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-25T22:00:41.9501779+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
@@ -955,8 +961,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2023-12-24T23:00:07.1211279+00:00",
+  "LastChanged": "2023-12-25T22:00:41.9501777+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.4485362+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:00:52.5411266+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:03:37.8926107+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:00:41.9501783+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:03:36.4878041+00:00"
 }

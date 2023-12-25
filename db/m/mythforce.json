@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5816,
+  "EOS_Progressed": 5817,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11817,6 +11817,11 @@
       "Time": "2023-12-25T20:06:42.7081501+00:00",
       "NumProgressed": 5816,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T22:06:26.2129391+00:00",
+      "NumProgressed": 5817,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11933,7 +11938,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -11989,7 +11994,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12012,15 +12017,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5816,
+      "Progressed": 5817,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:06:28.0953246+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:06:26.2129388+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:31.1460911+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:06:28.0953718+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:25.2325347+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:06:26.2130271+00:00"
 }

@@ -17,8 +17,8 @@
 | Unmasked! | 30.00% | ~23 |
 | Mercenary! | 30.00% | ~23 |
 | Vanquisher! | 29.00% | ~22 |
+| Beast Knight | 29.00% | ~22 |
 | Snakehead! | 29.00% | ~22 |
-| Beast Knight | 28.00% | ~21 |
 | Relic Collector | 25.00% | ~19 |
 | God of the Tower! | 24.00% | ~18 |
 | Cartographer | 24.00% | ~18 |

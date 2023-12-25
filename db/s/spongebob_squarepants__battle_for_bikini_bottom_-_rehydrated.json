@@ -5,9 +5,9 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1052,6 +1052,11 @@
       "Time": "2023-12-25T21:04:18.4235411+00:00",
       "NumProgressed": 373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T22:04:17.6689059+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1096,7 +1101,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1104,7 +1109,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1112,7 +1117,7 @@
       "Name": "Ship Shape",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -1144,7 +1149,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1166,9 +1171,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1208,7 +1213,7 @@
       "Name": "Sleepy Time",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1240,7 +1245,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1248,7 +1253,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1262,9 +1267,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1272,7 +1277,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1280,7 +1285,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1304,7 +1309,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1319,15 +1324,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 377,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:04:18.4235406+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:04:17.6689054+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:44.6903063+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:04:18.4235644+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:38.8331972+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:04:17.6689311+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,154 |
-| Overgrown Library | 6.00% | ~1,154 |
+| Abandoned Settlement | 6.00% | ~1,155 |
+| Overgrown Library | 6.00% | ~1,155 |
 | Taking Action | 5.00% | ~962 |
 | No Deaths | 5.00% | ~962 |
 | Petrified Necropolis | 5.00% | ~962 |
-| First Real Expedition | 4.00% | ~769 |
-| Overcoming Difficulty | 4.00% | ~769 |
-| Coral Forest | 4.00% | ~769 |
-| The Marshlands | 4.00% | ~769 |
-| Frosts | 4.00% | ~769 |
-| Land of Greed | 4.00% | ~769 |
-| Ominous Presence | 4.00% | ~769 |
-| Gathering Storm | 4.00% | ~769 |
+| First Real Expedition | 4.00% | ~770 |
+| Overcoming Difficulty | 4.00% | ~770 |
+| Coral Forest | 4.00% | ~770 |
+| The Marshlands | 4.00% | ~770 |
+| Frosts | 4.00% | ~770 |
+| Land of Greed | 4.00% | ~770 |
+| Ominous Presence | 4.00% | ~770 |
+| Gathering Storm | 4.00% | ~770 |
 | The Scarlet Orchard | 3.00% | ~577 |
 | Homesick | 2.00% | ~385 |
 | Ruined Armory | 2.00% | ~385 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~192 |
 | Cursed Lands | 1.00% | ~192 |
 | Defying the Crown | 0.90% | ~173 |
+| Into the Forest | 0.90% | ~173 |
 | Serving Ale | 0.80% | ~154 |
 | Fishmen Ritual Site | 0.80% | ~154 |
 | Victory Through Prosperity | 0.80% | ~154 |
-| Into the Forest | 0.80% | ~154 |
 | Forsaken Gods Temple | 0.70% | ~135 |
 | Efficient Explorer | 0.60% | ~115 |
 | Refinery | 0.60% | ~115 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,237 (Ranked 150)  
+Progressed: 19,242 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,237 | 38 |
+| 2023-12-25 | 19,242 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,291 (Ranked 177)  

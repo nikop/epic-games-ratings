@@ -1,14 +1,13 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.22 (Ranked 922)  
+Rating: 4.23 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Veil Lifted | 0.20% | ~16 |
 | Comrades | 0.20% | ~16 |
-| Shared Triumph | 0.20% | ~16 |
 | Wayfarer | 0.10% | ~8 |
+| A Veil Lifted | 0.10% | ~8 |
 | Lost and Found | 0.10% | ~8 |
 | Weapon Collector | 0.10% | ~8 |
 | Ironclad | 0.10% | ~8 |
@@ -26,6 +25,7 @@ Rating: 4.22 (Ranked 922)
 | Rune Master | 0.10% | ~8 |
 | Carving Out Victory | 0.10% | ~8 |
 | Utmost Insight | 0.10% | ~8 |
+| Shared Triumph | 0.10% | ~8 |
 | Vengeance for the Fallen | 0.10% | ~8 |
 | No Mercy | 0.10% | ~8 |
 | Infernal Offerings | 0.10% | ~8 |
@@ -69,8 +69,8 @@ Rating: 4.22 (Ranked 922)
 | A Rest Among the Dead | 0.10% | ~8 |
 | A Trace of Venom | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,975 (Ranked 184)  
-Completed: 2 (0.03%) (Ranked 350)  
+Progressed: 8,000 (Ranked 184)  
+Completed: 2 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,7 +137,7 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-22 | 6,826 | 2 |
 | 2023-12-23 | 7,258 | 2 |
 | 2023-12-24 | 7,628 | 2 |
-| 2023-12-25 | 7,975 | 2 |
+| 2023-12-25 | 8,000 | 2 |
 ## Awards
 Max (Character Customization): 305  (Ranked 254)  
 Sum: 715 (Ranked 302)  

@@ -20,7 +20,7 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,130 |
 | Workers' union | 18.00% | ~3,130 |
 | End of Book Two | 18.00% | ~3,130 |
-| Everything's in order | 16.00% | ~2,782 |
+| Everything's in order | 16.00% | ~2,783 |
 | Twist of Fate | 14.00% | ~2,435 |
 | Jack was here! | 14.00% | ~2,435 |
 | Exterminator | 13.00% | ~2,261 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~522 |
 | Boy of mystery | 2.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,390 (Ranked 157)  
+Progressed: 17,391 (Ranked 157)  
 Completed: 121 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 121 (0.70%) (Ranked 195)
 | 2023-12-22 | 17,285 | 119 |
 | 2023-12-23 | 17,320 | 119 |
 | 2023-12-24 | 17,360 | 120 |
-| 2023-12-25 | 17,390 | 121 |
+| 2023-12-25 | 17,391 | 121 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 321)  
 Sum: 200 (Ranked 409)  

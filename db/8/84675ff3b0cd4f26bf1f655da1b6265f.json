@@ -2,10 +2,10 @@
   "ID": "84675ff3b0cd4f26bf1f655da1b6265f",
   "Name": "Outbreak The Nightmare Chronicles Reinvestigated",
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
-  "Ranking_EOS_Progress": 601,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 531,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-12-24T13:10:28.7668796+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T22:03:41.7784866+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.1130841+00:00",
@@ -57,9 +62,9 @@
       "ID": "A_CLUE_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Clue",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A_MOMENT_OF_REST_ACH",
@@ -81,7 +86,7 @@
       "ID": "CLEVER_GIRL_ACH",
       "SetID": "2gpm4c0",
       "Name": "Clever Girl",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 70,
       "UsersEstimate": 8
     },
@@ -105,7 +110,7 @@
       "ID": "HOLD_THE_LINE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Hold the Line!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -137,7 +142,7 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 78,
+      "Percentage": 75,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -154,13 +159,13 @@
     {
       "ID": "2gpm4c0",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:03:42.7636325+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:03:41.7784862+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:03.8890212+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:59:51.8307062+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:03:42.7636411+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:59:43.5411853+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:03:41.7784948+00:00"
 }

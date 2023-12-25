@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~250 |
+| In the Black | 57.00% | ~251 |
 | Starting Skyward | 51.00% | ~224 |
 | Grime is Not Good | 45.00% | ~198 |
-| Floor Galore | 39.00% | ~171 |
-| Dinner Dash | 39.00% | ~171 |
+| Floor Galore | 39.00% | ~172 |
+| Dinner Dash | 39.00% | ~172 |
 | Campaign Launch | 38.00% | ~167 |
 | Need a Consult | 36.00% | ~158 |
 | Upgrade Unlock | 35.00% | ~154 |
 | It's Technical | 35.00% | ~154 |
 | Delegate Maintenance | 31.00% | ~136 |
-| Destination Destiny | 31.00% | ~136 |
 | Proper Walls | 30.00% | ~132 |
+| Destination Destiny | 30.00% | ~132 |
 | Happy Tenants | 25.00% | ~110 |
 | Potent Potables | 25.00% | ~110 |
-| Your Prestige is Rising | 24.00% | ~105 |
-| Smooth Service | 24.00% | ~105 |
+| Your Prestige is Rising | 24.00% | ~106 |
+| Smooth Service | 24.00% | ~106 |
 | Retail Revenue | 23.00% | ~101 |
 | Don't Feel a Loan | 22.00% | ~97 |
 | Artfully Done | 20.00% | ~88 |
 | People Mover | 20.00% | ~88 |
-| Lux Living | 19.00% | ~83 |
-| Emporium Empire | 19.00% | ~83 |
-| Leveled Up Shops | 19.00% | ~83 |
-| We Don't Need No Education | 19.00% | ~83 |
+| Lux Living | 19.00% | ~84 |
+| Emporium Empire | 19.00% | ~84 |
+| Leveled Up Shops | 19.00% | ~84 |
+| We Don't Need No Education | 19.00% | ~84 |
 | Tasty Profits | 18.00% | ~79 |
 | Get Electrified | 18.00% | ~79 |
 | Rehab Expert | 17.00% | ~75 |
 | Established Fame | 17.00% | ~75 |
 | Under One Roof | 15.00% | ~66 |
 | Cashflow Chief | 15.00% | ~66 |
-| Starred Dining | 14.00% | ~61 |
+| Starred Dining | 14.00% | ~62 |
 | Smooth Operator | 12.00% | ~53 |
 | Boutique Benefits | 12.00% | ~53 |
 | Terrifically Trashed | 12.00% | ~53 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439 (Ranked 346)  
+Progressed: 440 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 417 | 0 |
 | 2023-12-23 | 427 | 0 |
 | 2023-12-24 | 434 | 0 |
-| 2023-12-25 | 439 | 0 |
+| 2023-12-25 | 440 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

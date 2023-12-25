@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~471 |
+| Malpractice Assurance | 10.00% | ~472 |
 | Lost and Found | 6.00% | ~283 |
-| This Belongs in a Museum | 5.00% | ~6,492 |
-| Autodidact | 5.00% | ~6,492 |
+| This Belongs in a Museum | 5.00% | ~6,493 |
+| Autodidact | 5.00% | ~6,493 |
 | This guy... again? | 5.00% | ~236 |
 | Serenity Now! | 4.00% | ~5,194 |
 | Creep and Sleep | 4.00% | ~5,194 |
@@ -17,21 +17,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 4.00% | ~5,194 |
 | Overdue Notice | 4.00% | ~5,194 |
 | Escape from the Black Hole | 4.00% | ~5,194 |
-| Ploughshares to Swords | 4.00% | ~188 |
-| Bloody Graduation | 4.00% | ~188 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,895 |
-| It Rings a Bell | 3.00% | ~3,895 |
-| Not Today! | 3.00% | ~3,895 |
-| It Happens | 3.00% | ~3,895 |
-| Rush Hour | 3.00% | ~3,895 |
-| Merry Time | 3.00% | ~3,895 |
-| Harvest Festival | 3.00% | ~3,895 |
-| To Grandmother's House | 3.00% | ~3,895 |
-| Whale | 3.00% | ~3,895 |
-| A Place to Lay Your Head | 3.00% | ~3,895 |
-| FNG | 3.00% | ~3,895 |
-| Nope | 3.00% | ~3,895 |
-| Friends 'Til the End | 3.00% | ~141 |
+| Ploughshares to Swords | 4.00% | ~189 |
+| Bloody Graduation | 4.00% | ~189 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,896 |
+| It Rings a Bell | 3.00% | ~3,896 |
+| Not Today! | 3.00% | ~3,896 |
+| It Happens | 3.00% | ~3,896 |
+| Rush Hour | 3.00% | ~3,896 |
+| Merry Time | 3.00% | ~3,896 |
+| Harvest Festival | 3.00% | ~3,896 |
+| To Grandmother's House | 3.00% | ~3,896 |
+| Whale | 3.00% | ~3,896 |
+| A Place to Lay Your Head | 3.00% | ~3,896 |
+| FNG | 3.00% | ~3,896 |
+| Nope | 3.00% | ~3,896 |
+| Friends 'Til the End | 3.00% | ~142 |
 | Resurrection | 2.00% | ~2,597 |
 | Unleash Hell | 2.00% | ~2,597 |
 | Funny Guy | 2.00% | ~2,597 |
@@ -53,15 +53,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,597 |
 | Unshackled | 2.00% | ~2,597 |
 | Road Trip | 2.00% | ~2,597 |
-| This Looks Familiar | 1.00% | ~1,298 |
-| Ichthyophobic | 1.00% | ~1,298 |
-| No More Mouths to Feed | 1.00% | ~1,298 |
-| Worldly Traveller | 1.00% | ~1,298 |
-| Hot Air | 1.00% | ~1,298 |
-| Eyes Up | 1.00% | ~1,298 |
+| This Looks Familiar | 1.00% | ~1,299 |
+| Ichthyophobic | 1.00% | ~1,299 |
+| No More Mouths to Feed | 1.00% | ~1,299 |
+| Worldly Traveller | 1.00% | ~1,299 |
+| Hot Air | 1.00% | ~1,299 |
+| Eyes Up | 1.00% | ~1,299 |
 | Slap on the Wrist | 1.00% | ~47 |
 | Handled | 0.90% | ~1,169 |
-| For Old Time' Sake | 0.90% | ~42 |
+| For Old Time' Sake | 0.90% | ~43 |
 | Shrine of Reflection | 0.80% | ~1,039 |
 | Body of Work | 0.80% | ~1,039 |
 | Et Tu, Riposte? | 0.70% | ~33 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,842 (Ranked 87)  
+Progressed: 129,855 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,17 +325,17 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,842 | 3 |
+| 2023-12-25 | 129,855 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
-Sum: 21,074 (Ranked 58)  
+Sum: 21,079 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,863 |
 | This game has Diverse Characters | 1,771 |
 | This game has Challenging Combat | 1,634 |
-| This game is Highly Recommended | 1,567 |
+| This game is Highly Recommended | 1,572 |
 | This game is Extremely Fun | 1,491 |
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,422 |
@@ -678,4 +678,4 @@ Diff (max vs sum): -8
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
-| 2023-12-25 | 4.68 | - | 7,863 | 21,074 |
+| 2023-12-25 | 4.68 | - | 7,863 | 21,079 |

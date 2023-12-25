@@ -9,7 +9,7 @@
 | For the Horde! | 82.00% | ~522 |
 | Hammer Time, Round Two | 81.00% | ~516 |
 | The Hellwoods | 76.00% | ~484 |
-| The Plains of Strothalm | 71.00% | ~452 |
+| The Plains of Strothalm | 72.00% | ~459 |
 | Experienced Thalya | 71.00% | ~452 |
 | Thalya's Concentrated Fury | 69.00% | ~440 |
 | Bad Elves Go Everywhere | 68.00% | ~433 |
@@ -54,8 +54,8 @@
 | Lavalumps on Ice! | 19.00% | ~121 |
 | My Little Torture Chamber | 18.00% | ~115 |
 | To Infinity And Beyond! | 18.00% | ~115 |
+| Sacrificial Pit = Garbage Disposal? | 17.00% | ~108 |
 | To the Max! | 17.00% | ~108 |
-| Sacrificial Pit = Garbage Disposal? | 16.00% | ~102 |
 | Evilification | 16.00% | ~102 |
 | Mirror, Mirror | 15.00% | ~96 |
 | Untouchable | 15.00% | ~96 |

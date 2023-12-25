@@ -10,9 +10,9 @@ Number of Ratings: 36  (23.09.2022)
 | It’s Heating up! | 69.00% | ~698 |
 | Let’s patch things up | 65.00% | ~658 |
 | I can fix it! | 62.00% | ~627 |
-| Post No Bills | 54.00% | ~546 |
+| Post No Bills | 55.00% | ~557 |
 | Truly Shocking! | 48.00% | ~486 |
-| Critical Thinker | 35.00% | ~354 |
+| Critical Thinker | 36.00% | ~364 |
 | Always Finding Your Mark | 30.00% | ~304 |
 | The Weight of the World | 30.00% | ~304 |
 | Act I Complete | 29.00% | ~293 |

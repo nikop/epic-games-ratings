@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2190,9 +2190,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15948,
+  "EOS_Progressed": 15949,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18355,6 +18355,11 @@
       "Time": "2023-12-25T21:10:19.037817+00:00",
       "NumProgressed": 15948,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T22:09:52.8915185+00:00",
+      "NumProgressed": 15949,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18700,9 +18705,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -19780,9 +19785,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -19884,9 +19889,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -21229,21 +21234,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15948,
+      "Progressed": 15949,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15948,
+      "Progressed": 15949,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-24T01:52:51.4909286+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:10:19.0378164+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:09:52.8915183+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:02:59.4985435+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:10:19.0390342+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:02:57.4318006+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:09:52.8924889+00:00"
 }

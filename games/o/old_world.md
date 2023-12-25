@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
 | Oracle | 0.40% | ~64 |
+| Ambitious | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
@@ -31,13 +32,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
+| Lighthouse | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
+| Learn to Play 1 | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
 | Naming Landmarks | 0.30% | ~48 |
 | Trade Caravan | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
-| Ambitious | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
@@ -54,11 +56,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
 | Ishtar Gate | 0.20% | ~32 |
-| Lighthouse | 0.20% | ~32 |
 | Mausoleum | 0.20% | ~32 |
 | Musaeum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
-| Learn to Play 1 | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,948 (Ranked 162)  
+Progressed: 15,949 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,948 | 5 |
+| 2023-12-25 | 15,949 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

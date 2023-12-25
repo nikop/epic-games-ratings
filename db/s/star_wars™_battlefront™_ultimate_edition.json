@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2159,
+  "EOS_Progressed": 2162,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6194,6 +6194,11 @@
       "Time": "2023-12-25T20:10:20.1282951+00:00",
       "NumProgressed": 2159,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T22:09:49.8918392+00:00",
+      "NumProgressed": 2162,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6310,7 +6315,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_22",
@@ -6398,7 +6403,7 @@
       "Name": "Scrap collector",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_32",
@@ -6406,7 +6411,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_33",
@@ -6430,7 +6435,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1903
     },
     {
       "ID": "achievement_36",
@@ -6446,7 +6451,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1362
     },
     {
       "ID": "achievement_38",
@@ -6478,7 +6483,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "achievement_41",
@@ -6510,7 +6515,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "achievement_45",
@@ -6646,7 +6651,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_60",
@@ -6709,13 +6714,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2159,
+      "Progressed": 2162,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2159,
+      "Progressed": 2162,
       "Completed": 1
     }
   ],
@@ -6723,8 +6728,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:10:15.9932775+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:09:49.891839+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:00:29.9526626+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:10:15.9933466+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:00:20.7227191+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:09:49.8919352+00:00"
 }

@@ -24,7 +24,7 @@
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 356)  
+Progressed: 377 (Ranked 357)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

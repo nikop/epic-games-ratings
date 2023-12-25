@@ -3,9 +3,9 @@
   "Name": "A Musical Story",
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 492,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:26.5327185+00:00",
@@ -349,6 +349,11 @@
       "Time": "2023-12-24T21:08:48.9144818+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T22:08:50.6461325+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 54,
@@ -368,7 +373,7 @@
       "Name": "ECG",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "L0_PERFECT",
@@ -400,7 +405,7 @@
       "Name": "A Bigger Band",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "L10_PERFECT",
@@ -430,7 +435,7 @@
       "ID": "L12_FINISH",
       "SetID": "6finf64",
       "Name": "Threatening Nature",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -440,13 +445,13 @@
       "Name": "Riders on the Storm",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "L13_FINISH",
       "SetID": "6finf64",
       "Name": "Flat Tire",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -456,7 +461,7 @@
       "Name": "Under my Wheels",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "L14_FINISH",
@@ -472,7 +477,7 @@
       "Name": "The Fight Song",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "L15_FINISH",
@@ -528,7 +533,7 @@
       "Name": "Love",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "L17_PERFECT",
@@ -558,9 +563,9 @@
       "ID": "L19_FINISH",
       "SetID": "6finf64",
       "Name": "The Accident",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "L19_PERFECT",
@@ -576,7 +581,7 @@
       "Name": "Daily Life",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "L1_5_PERFECT",
@@ -598,7 +603,7 @@
       "ID": "L1_PERFECT",
       "SetID": "6finf64",
       "Name": "Symbiosis",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -606,9 +611,9 @@
       "ID": "L20_FINISH",
       "SetID": "6finf64",
       "Name": "The Awakening",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "L20_PERFECT",
@@ -640,7 +645,7 @@
       "Name": "Assembly Line Work",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "L2_PERFECT",
@@ -656,7 +661,7 @@
       "Name": "Solitude",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "L3_PERFECT",
@@ -670,7 +675,7 @@
       "ID": "L4_FINISH",
       "SetID": "6finf64",
       "Name": "Pinewood, Here we come!",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 87
     },
@@ -678,9 +683,9 @@
       "ID": "L4_PERFECT",
       "SetID": "6finf64",
       "Name": "Dreamers",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "L5_FINISH",
@@ -694,17 +699,17 @@
       "ID": "L5_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fix",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "L6_FINISH",
       "SetID": "6finf64",
       "Name": "Road-Trip",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "L6_PERFECT",
@@ -744,7 +749,7 @@
       "Name": "Flight of the Bumblebee",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "L8_FINISH",
@@ -791,7 +796,7 @@
     {
       "ID": "6finf64",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
@@ -799,8 +804,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:09:15.2254623+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:08:50.6461323+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.6760898+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:35.4774791+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:09:15.2254986+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:29.627828+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:08:50.6461669+00:00"
 }

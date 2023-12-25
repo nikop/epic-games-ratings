@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 97.00% | ~109 |
+| ECG | 97.00% | ~110 |
 | Rehearsal | 96.00% | ~108 |
-| Daily Life | 93.00% | ~104 |
-| Assembly Line Work | 90.00% | ~101 |
-| Solitude | 86.00% | ~96 |
-| Pinewood, Here we come! | 78.00% | ~87 |
+| Daily Life | 93.00% | ~105 |
+| Assembly Line Work | 90.00% | ~102 |
+| Solitude | 86.00% | ~97 |
+| Pinewood, Here we come! | 77.00% | ~87 |
 | The Van | 72.00% | ~81 |
-| Road-Trip | 66.00% | ~74 |
+| Road-Trip | 65.00% | ~73 |
 | A Musical Pause | 65.00% | ~73 |
 | Briget's | 55.00% | ~62 |
 | Sound of Noise | 50.00% | ~56 |
 | Big City Music | 48.00% | ~54 |
 | Love at First Sight | 47.00% | ~53 |
 | First Kiss | 40.00% | ~45 |
-| Symbiosis | 37.00% | ~41 |
-| A Bigger Band | 35.00% | ~39 |
+| Symbiosis | 36.00% | ~41 |
+| A Bigger Band | 35.00% | ~40 |
 | Fuel | 31.00% | ~35 |
 | Alone Together | 30.00% | ~34 |
-| Threatening Nature | 29.00% | ~32 |
-| Flat Tire | 28.00% | ~31 |
+| Threatening Nature | 28.00% | ~32 |
+| Flat Tire | 27.00% | ~31 |
 | TV Dreams | 26.00% | ~29 |
 | The Clash | 23.00% | ~26 |
-| Dreamers | 21.00% | ~24 |
-| The Fix | 20.00% | ~22 |
+| Dreamers | 20.00% | ~23 |
+| The Fix | 19.00% | ~21 |
 | Time | 18.00% | ~20 |
 | The Mountains, The Valleys | 16.00% | ~18 |
 | Bad Trip | 15.00% | ~17 |
 | Regrets | 15.00% | ~17 |
 | Chase the Crow | 13.00% | ~15 |
-| The Accident | 13.00% | ~15 |
-| The Awakening | 13.00% | ~15 |
-| Love | 12.00% | ~13 |
-| Flight of the Bumblebee | 12.00% | ~13 |
+| Love | 12.00% | ~14 |
+| The Accident | 12.00% | ~14 |
+| The Awakening | 12.00% | ~14 |
+| Flight of the Bumblebee | 12.00% | ~14 |
 | Here we go again! | 11.00% | ~12 |
 | As the Crow Flies | 9.00% | ~10 |
 | Milk and Alcohol | 8.00% | ~9 |
@@ -45,9 +45,9 @@
 | On the Road Again | 5.00% | ~6 |
 | Hospital Flowers | 5.00% | ~6 |
 | Unintended | 5.00% | ~6 |
-| Riders on the Storm | 4.00% | ~4 |
-| Under my Wheels | 4.00% | ~4 |
-| The Fight Song | 4.00% | ~4 |
+| Riders on the Storm | 4.00% | ~5 |
+| Under my Wheels | 4.00% | ~5 |
+| The Fight Song | 4.00% | ~5 |
 | All Apologies | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |
 | Purple Haze | 2.00% | ~2 |
@@ -59,8 +59,8 @@
 | Pinewood | 0.90% | ~1 |
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 468)  
-Completed: 1 (0.89%) (Ranked 183)  
+Progressed: 113 (Ranked 468)  
+Completed: 1 (0.88%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 1 (0.89%) (Ranked 183)
 | 2023-12-20 | 110 | 1 |
 | 2023-12-23 | 111 | 1 |
 | 2023-12-24 | 112 | 1 |
+| 2023-12-25 | 113 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

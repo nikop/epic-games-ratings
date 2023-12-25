@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42904,
+  "EOS_Progressed": 42910,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26221,6 +26221,11 @@
       "Time": "2023-12-25T21:05:56.035254+00:00",
       "NumProgressed": 42904,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T22:05:53.7809991+00:00",
+      "NumProgressed": 42910,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26248,7 +26253,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7294
+      "UsersEstimate": 7295
     },
     {
       "ID": "ach_antiquarian10",
@@ -26296,7 +26301,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ach_cursestone",
@@ -26320,7 +26325,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ach_deathofermod",
@@ -26352,7 +26357,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15445
+      "UsersEstimate": 15448
     },
     {
       "ID": "ach_die10",
@@ -26400,7 +26405,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ach_invictus",
@@ -26424,7 +26429,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "ach_legacypupil",
@@ -26432,7 +26437,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ach_legacyrival",
@@ -26448,7 +26453,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ach_legacyshipmate",
@@ -26456,7 +26461,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ach_newstories",
@@ -26464,7 +26469,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ach_portbell",
@@ -26560,7 +26565,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "ach_stranger",
@@ -26576,7 +26581,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ach_sweetheart",
@@ -26584,7 +26589,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7723
+      "UsersEstimate": 7724
     },
     {
       "ID": "ach_terror100",
@@ -26592,7 +26597,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "ach_terror90",
@@ -26632,7 +26637,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "ach_year1",
@@ -26640,7 +26645,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "ach_year10",
@@ -26663,15 +26668,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42904,
+      "Progressed": 42910,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:05:56.0352534+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:05:53.7809989+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:20.2980757+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:05:56.0353891+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:14.5105461+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:05:53.781131+00:00"
 }

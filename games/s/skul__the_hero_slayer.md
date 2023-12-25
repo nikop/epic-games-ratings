@@ -6,33 +6,33 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~11,618 |
-| What should I buy? | 81.00% | ~10,119 |
-| Rescued Elder Ent | 61.00% | ~7,620 |
-| Focus! | 60.00% | ~7,495 |
-| The End of the Gold Mane Knights | 47.00% | ~5,871 |
-| False Goddess, Disappear | 38.00% | ~4,747 |
-| Rules of Etiquette | 36.00% | ~4,497 |
+| The Legend Begins | 93.00% | ~11,620 |
+| What should I buy? | 81.00% | ~10,121 |
+| Rescued Elder Ent | 61.00% | ~7,622 |
+| Focus! | 60.00% | ~7,497 |
+| The End of the Gold Mane Knights | 47.00% | ~5,873 |
+| False Goddess, Disappear | 38.00% | ~4,748 |
+| Rules of Etiquette | 36.00% | ~4,498 |
 | Inventory Management | 31.00% | ~3,873 |
-| The Fall of the Leonia Order | 29.00% | ~3,623 |
-| Quick Movements | 29.00% | ~3,623 |
-| Go Home... | 26.00% | ~3,248 |
-| The Final Battle of the First Hero | 25.00% | ~3,123 |
-| The Hero Killer | 24.00% | ~2,998 |
-| Brain at Full Throttle | 20.00% | ~2,498 |
+| The Fall of the Leonia Order | 29.00% | ~3,624 |
+| Quick Movements | 29.00% | ~3,624 |
+| Go Home... | 26.00% | ~3,249 |
+| The Final Battle of the First Hero | 25.00% | ~3,124 |
+| The Hero Killer | 24.00% | ~2,999 |
+| Brain at Full Throttle | 20.00% | ~2,499 |
 | Rookies Welcome | 18.00% | ~2,249 |
 | Deadly Power | 15.00% | ~1,874 |
 | Castle Restoration Plans | 12.00% | ~1,499 |
-| The Dwarven Chandelier | 10.00% | ~1,249 |
-| Master of Speed | 9.00% | ~1,124 |
-| The Levitator | 7.00% | ~874 |
+| The Dwarven Chandelier | 10.00% | ~1,250 |
+| Master of Speed | 9.00% | ~1,125 |
+| The Levitator | 7.00% | ~875 |
 | The God of Battle | 4.00% | ~500 |
 | Too Much of a Talker | 1.00% | ~125 |
 | The Skeleton King | 1.00% | ~125 |
 | Cold-Blooded | 0.60% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,492 (Ranked 170)  
-Completed: 18 (0.14%) (Ranked 294)  
+Progressed: 12,495 (Ranked 170)  
+Completed: 18 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 18 (0.14%) (Ranked 294)
 | 2023-12-22 | 11,894 | 18 |
 | 2023-12-23 | 12,131 | 18 |
 | 2023-12-24 | 12,351 | 18 |
-| 2023-12-25 | 12,492 | 18 |
+| 2023-12-25 | 12,495 | 18 |
 ## Awards
 Max (Great for Beginners): 143  (Ranked 329)  
 Sum: 968 (Ranked 270)  

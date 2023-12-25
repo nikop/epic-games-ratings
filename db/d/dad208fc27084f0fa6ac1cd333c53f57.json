@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6090,
+  "EOS_Progressed": 6093,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 7,
@@ -6129,6 +6129,11 @@
       "Time": "2023-12-25T21:03:41.9703+00:00",
       "NumProgressed": 6090,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-25T22:03:40.9533657+00:00",
+      "NumProgressed": 6093,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6157,7 +6162,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -6165,7 +6170,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -6173,7 +6178,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -6181,7 +6186,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -6189,7 +6194,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3473
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -6197,7 +6202,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4813
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -6261,21 +6266,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6090,
+      "Progressed": 6093,
       "Completed": 59
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:03:41.9702994+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:03:40.9533654+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:57.8220265+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:58:49.7079839+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:03:41.9703596+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:58:44.3947218+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:03:40.9534112+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 512,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2023-12-25T21:05:43.1962127+00:00",
       "NumProgressed": 508,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T22:05:41.4799285+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1797,7 +1802,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -1805,7 +1810,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -1829,7 +1834,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -1845,7 +1850,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -1876,14 +1881,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 512,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-25T21:05:43.1962121+00:00",
+  "LastChanged_Achievements": "2023-12-25T22:05:41.4799281+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:00:01.4741993+00:00",
-  "LastUpdate_Achievements": "2023-12-25T21:05:43.1962319+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:59:53.0255997+00:00",
+  "LastUpdate_Achievements": "2023-12-25T22:05:41.479946+00:00"
 }

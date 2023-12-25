@@ -5,8 +5,8 @@ Rating: 4.10 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,973 |
-| Unlocked Potential | 10.00% | ~4,521 |
+| Attachments | 11.00% | ~4,974 |
+| Unlocked Potential | 10.00% | ~4,522 |
 | Tinkerer | 8.00% | ~3,617 |
 | Leapfrogger | 7.00% | ~3,165 |
 | Knock 'Em Dead | 7.00% | ~3,165 |
@@ -17,7 +17,7 @@ Rating: 4.10 (Ranked 990)
 | No Mercy | 5.00% | ~2,261 |
 | Explorer: Seeker | 5.00% | ~2,261 |
 | Help Me Out Here | 5.00% | ~2,261 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,808 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,809 |
 | Outdoorsperson | 3.00% | ~1,356 |
 | The Interloper | 3.00% | ~1,356 |
 | Hop, Step, Jump | 3.00% | ~1,356 |
@@ -34,8 +34,8 @@ Rating: 4.10 (Ranked 990)
 | None the Wiser | 1.00% | ~452 |
 | Forspoken | 1.00% | ~452 |
 | Pilgrimage: Novice | 1.00% | ~452 |
-| Wildfire | 0.70% | ~316 |
-| Realized Potential | 0.70% | ~316 |
+| Wildfire | 0.70% | ~317 |
+| Realized Potential | 0.70% | ~317 |
 | Awakening | 0.60% | ~271 |
 | Explorer: Trailblazer | 0.60% | ~271 |
 | Through the Eyes of Another: Seer | 0.40% | ~181 |
@@ -59,7 +59,7 @@ Rating: 4.10 (Ranked 990)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,212 (Ranked 121)  
+Progressed: 45,215 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-22 | 44,804 | 3 |
 | 2023-12-23 | 44,956 | 3 |
 | 2023-12-24 | 45,090 | 3 |
-| 2023-12-25 | 45,212 | 3 |
+| 2023-12-25 | 45,215 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 507)  
 Sum: 33 (Ranked 529)  
