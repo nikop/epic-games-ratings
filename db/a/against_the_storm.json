@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 3780,
+  "Ranking_EOS_NewCompleters": 3781,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3593,9 +3593,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19226,
+  "EOS_Progressed": 19233,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17098,6 +17098,11 @@
       "Time": "2023-12-25T19:04:23.9366861+00:00",
       "NumProgressed": 19226,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T20:04:42.7380829+00:00",
+      "NumProgressed": 19233,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17228,9 +17233,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 385
     },
     {
       "ID": "WinNearBarren",
@@ -17446,7 +17451,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "WinWithResolve",
@@ -17486,7 +17491,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "WinWithoutOrders",
@@ -17542,7 +17547,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "WinNearPresence",
@@ -17572,24 +17577,24 @@
       "ID": "WinWithFoxes",
       "SetID": "cfbk359",
       "Name": "Fox Utopia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19226,
+      "Progressed": 19233,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T13:02:02.8849461+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:04:23.9366859+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:04:42.7380824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:16.2892524+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:04:23.9368032+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:21.5030208+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:04:42.7381699+00:00"
 }

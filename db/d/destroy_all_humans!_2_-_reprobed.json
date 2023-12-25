@@ -2,12 +2,12 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 190,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1016,6 +1016,11 @@
       "Time": "2023-12-25T19:09:00.8447136+00:00",
       "NumProgressed": 188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T20:09:14.0813703+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1028,7 +1033,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1060,7 +1065,7 @@
       "Name": "Furon Fashion",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1100,7 +1105,7 @@
       "Name": "Cult Following",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1108,7 +1113,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1140,7 +1145,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1156,7 +1161,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1164,7 +1169,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1194,9 +1199,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1218,17 +1223,17 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1276,15 +1281,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1364,7 +1369,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1372,14 +1377,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 190,
       "Completed": 1
     }
   ],
@@ -1387,8 +1392,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:09:00.8447134+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:09:14.0813698+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:57:25.2219619+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:09:00.8447388+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:57:29.4759879+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:09:14.0814192+00:00"
 }

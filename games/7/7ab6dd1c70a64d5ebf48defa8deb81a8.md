@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 56.00% | ~694 |
-| Trinity | 25.00% | ~310 |
+| Trinity | 26.00% | ~322 |
 | Find Allies | 20.00% | ~248 |
 | A Taste of Wrath | 20.00% | ~248 |
 | The Collector | 20.00% | ~248 |
+| Geared Up | 19.00% | ~235 |
 | I Found It | 19.00% | ~235 |
 | Shatter Them All | 18.00% | ~223 |
-| Geared Up | 18.00% | ~223 |
 | Scholar | 18.00% | ~223 |
 | Adventurer | 17.00% | ~211 |
 | Tributes of Caladrias | 16.00% | ~198 |
@@ -32,10 +32,10 @@
 | Fine Feathers Make Fine Birds | 3.00% | ~37 |
 | Slayer | 2.00% | ~25 |
 | Flawless Victory | 2.00% | ~25 |
+| A Queen's Tale | 2.00% | ~25 |
 | Shardbearer | 1.00% | ~12 |
 | All There Is | 1.00% | ~12 |
 | False God | 1.00% | ~12 |
-| A Queen's Tale | 1.00% | ~12 |
 | Forgemaster | 0.80% | ~10 |
 | All That Gold | 0.60% | ~7 |
 | Summiter | 0.60% | ~7 |

@@ -15,17 +15,17 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 96.00% | ~651 |
 | Officially Official | 94.00% | ~637 |
 | One of the Cool Kids | 83.00% | ~563 |
+| Better Late than Never | 82.00% | ~556 |
 | No Mountain Wide Enough | 82.00% | ~556 |
-| Better Late than Never | 81.00% | ~549 |
-| Pack Mule | 79.00% | ~536 |
+| Pack Mule | 80.00% | ~542 |
 | Diamonds are Forever | 79.00% | ~536 |
 | I Do! | 77.00% | ~522 |
 | Yakmel Whisperer | 76.00% | ~515 |
 | Can We Keep It? | 74.00% | ~502 |
 | Got Served | 74.00% | ~502 |
-| Mole Masher | 73.00% | ~495 |
+| Mole Masher | 74.00% | ~502 |
+| Financially Secure | 73.00% | ~495 |
 | Knowledge is Power | 72.00% | ~488 |
-| Financially Secure | 72.00% | ~488 |
 | Big Game Hunter | 71.00% | ~481 |
 | First Love | 71.00% | ~481 |
 | Unboxing | 71.00% | ~481 |
@@ -45,8 +45,8 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 55.00% | ~373 |
 | Got the Flow Back | 53.00% | ~359 |
 | Call Me Fishmael | 53.00% | ~359 |
+| Time Flies | 51.00% | ~346 |
 | Sepia Toned Memories | 51.00% | ~346 |
-| Time Flies | 50.00% | ~339 |
 | Who Ya Gonna Call...? | 48.00% | ~325 |
 | Kind of a Big Deal | 46.00% | ~312 |
 | Jewel of the Eufaula | 44.00% | ~298 |

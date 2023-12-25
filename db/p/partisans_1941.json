@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -4789,9 +4789,9 @@
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 284
     },
     {
       "ID": "Miner",
@@ -4861,8 +4861,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:09:31.0892837+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:09:43.6355756+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:02:56.012442+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:09:31.0893238+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:02:52.1158688+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:09:43.6356068+00:00"
 }

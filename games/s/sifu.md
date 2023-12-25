@@ -35,7 +35,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.60% | ~322 |
 | Muk Yan Master | 0.50% | ~3,722 |
 | Detective Story | 0.50% | ~3,722 |
-| Bloody Sport | 0.50% | ~268 |
+| Bloody Sport | 0.50% | ~269 |
 | Tiger on Fire | 0.40% | ~2,978 |
 | Source of Flying Daggers | 0.40% | ~2,978 |
 | Iron Money | 0.40% | ~2,978 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~54 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744,388 (Ranked 23)  
+Progressed: 744,402 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 744,388 | 12,966 |
+| 2023-12-25 | 744,402 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
 Sum: 11,861 (Ranked 87)  

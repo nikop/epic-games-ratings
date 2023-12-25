@@ -10,13 +10,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,417 |
 | Matching | 1.00% | ~32 |
 | Getting A Glimpse | 0.90% | ~2,175 |
-| That Was Quick | 0.80% | ~1,933 |
-| Colorful Corpse | 0.80% | ~1,933 |
-| Defeat The Dark | 0.80% | ~1,933 |
-| A Donation | 0.80% | ~1,933 |
-| A Quick Escape | 0.80% | ~1,933 |
-| Explorer | 0.80% | ~1,933 |
-| An Offering | 0.80% | ~1,933 |
+| That Was Quick | 0.80% | ~1,934 |
+| Colorful Corpse | 0.80% | ~1,934 |
+| Defeat The Dark | 0.80% | ~1,934 |
+| A Donation | 0.80% | ~1,934 |
+| A Quick Escape | 0.80% | ~1,934 |
+| Explorer | 0.80% | ~1,934 |
+| An Offering | 0.80% | ~1,934 |
 | Not Touching You | 0.80% | ~25 |
 | Nothing To Lose | 0.70% | ~1,692 |
 | Heavy Hitter | 0.70% | ~1,692 |
@@ -70,7 +70,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.30% | ~725 |
 | The Long Run | 0.30% | ~725 |
 | Precious | 0.30% | ~725 |
-| Who Needs Luck? | 0.30% | ~9 |
+| Who Needs Luck? | 0.30% | ~10 |
 | Achievement Hunter | 0.20% | ~483 |
 | Challenge Increases | 0.20% | ~483 |
 | A Long Climb | 0.20% | ~483 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,685 (Ranked 69)  
+Progressed: 241,688 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
-| 2023-12-25 | 241,685 | 302 |
+| 2023-12-25 | 241,688 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

@@ -5,7 +5,7 @@
   "Ranking_Rating": 881,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 149,
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-12-25T19:08:40.7928687+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T20:08:54.8939355+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1081,7 +1086,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CareerAllChallenges",
@@ -1089,7 +1094,7 @@
       "Name": "Highballer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "CareerChamp1",
@@ -1097,7 +1102,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "CareerChamp2",
@@ -1113,7 +1118,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CareerChamp4",
@@ -1137,7 +1142,7 @@
       "Name": "Storm Warning",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "CollectVehiclesA",
@@ -1145,7 +1150,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CollectVehiclesB",
@@ -1193,7 +1198,7 @@
       "Name": "Dirty Roller",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PlayerRankB",
@@ -1207,9 +1212,9 @@
       "ID": "PlayerRankC",
       "SetID": "5hd282c",
       "Name": "Showing Some Dedication",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "RocketSpeedReached",
@@ -1240,7 +1245,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 373,
       "Completed": 0
     }
   ],
@@ -1248,8 +1253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:08:40.7928685+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:08:54.8939351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:40.4880466+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:08:40.7928799+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:41.0271143+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:08:54.8939537+00:00"
 }

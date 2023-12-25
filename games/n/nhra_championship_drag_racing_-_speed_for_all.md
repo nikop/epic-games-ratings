@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduated | 99.00% | ~842 |
-| Trouble with the swerve | 69.00% | ~586 |
-| Oops, My bad | 68.00% | ~578 |
+| Trouble with the swerve | 69.00% | ~587 |
+| Oops, My bad | 68.00% | ~579 |
 | Don't get ahead on yourself | 39.00% | ~332 |
 | I didn't know you where there! | 30.00% | ~255 |
 | Participation trophy | 23.00% | ~196 |
@@ -18,10 +18,10 @@
 | First one tastes better | 4.00% | ~34 |
 | Better late then never | 4.00% | ~34 |
 | Better than the pros | 2.00% | ~17 |
-| In the bank | 1.00% | ~8 |
-| American Legend | 1.00% | ~8 |
-| Fan Boy | 1.00% | ~8 |
-| Dedicated tourist | 1.00% | ~8 |
+| In the bank | 1.00% | ~9 |
+| American Legend | 1.00% | ~9 |
+| Fan Boy | 1.00% | ~9 |
+| Dedicated tourist | 1.00% | ~9 |
 | Well oiled Veteran | 0.20% | ~2 |
 | For Science! | 0.20% | ~2 |
 | Lightning fast | 0.10% | ~1 |
@@ -38,7 +38,7 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 289)  
+Progressed: 851 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-19 | 848 | 0 |
 | 2023-12-21 | 849 | 0 |
 | 2023-12-24 | 850 | 0 |
+| 2023-12-25 | 851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

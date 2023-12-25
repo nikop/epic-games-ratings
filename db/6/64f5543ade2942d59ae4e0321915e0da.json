@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 253,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1029,9 +1029,9 @@
       "ID": "AC_ALL_CASSETTES",
       "SetID": "16i2akc",
       "Name": "Sound",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -1173,9 +1173,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_DEATH_2",
@@ -1245,9 +1245,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1333,9 +1333,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1372,8 +1372,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:05:09.6073437+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:05:27.16351+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:15.3941361+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:05:09.6074091+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:17.3953274+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:05:27.1635412+00:00"
 }

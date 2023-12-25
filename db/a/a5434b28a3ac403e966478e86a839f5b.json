@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 763,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2620,6 +2620,11 @@
       "Time": "2023-12-25T17:09:11.9487424+00:00",
       "NumProgressed": 761,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-25T20:08:56.6184733+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2640,7 +2645,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_eou2",
@@ -2664,7 +2669,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_eou5",
@@ -2735,14 +2740,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 763,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:08:42.8598399+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:08:56.6184725+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:02.2580574+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:08:42.8598584+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:05.4491443+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:08:56.6184947+00:00"
 }

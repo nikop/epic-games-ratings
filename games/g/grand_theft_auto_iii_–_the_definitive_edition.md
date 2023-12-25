@@ -5,20 +5,20 @@ Rating: 4.17 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,800 |
-| Disposing of the Evidence | 38.00% | ~4,029 |
-| Without a Scratch | 34.00% | ~3,605 |
-| Wreckless Driving | 28.00% | ~2,969 |
-| A Marked Man | 25.00% | ~2,651 |
-| Street Sweeper | 18.00% | ~1,909 |
-| Liberty City Minute | 17.00% | ~1,803 |
-| Offshore Delivery | 13.00% | ~1,378 |
-| Dirty Money | 12.00% | ~1,272 |
-| By a Mile | 10.00% | ~1,060 |
-| Not So Fast | 10.00% | ~1,060 |
-| Right-hand Man | 10.00% | ~1,060 |
-| A Gift from the King | 7.00% | ~742 |
-| Full Artillery | 4.00% | ~424 |
+| First Day on the Job | 83.00% | ~8,809 |
+| Disposing of the Evidence | 38.00% | ~4,033 |
+| Without a Scratch | 34.00% | ~3,608 |
+| Wreckless Driving | 28.00% | ~2,972 |
+| A Marked Man | 25.00% | ~2,653 |
+| Street Sweeper | 18.00% | ~1,910 |
+| Liberty City Minute | 17.00% | ~1,804 |
+| Offshore Delivery | 14.00% | ~1,486 |
+| Dirty Money | 12.00% | ~1,274 |
+| By a Mile | 10.00% | ~1,061 |
+| Not So Fast | 10.00% | ~1,061 |
+| Right-hand Man | 10.00% | ~1,061 |
+| A Gift from the King | 7.00% | ~743 |
+| Full Artillery | 4.00% | ~425 |
 | Mob Boss | 3.00% | ~318 |
 | Where To? | 2.00% | ~212 |
 | Splish Splash | 2.00% | ~212 |
@@ -32,10 +32,10 @@ Rating: 4.17 (Ranked 956)
 | Man Toyz | 1.00% | ~106 |
 | Going Rogue | 1.00% | ~106 |
 | Furious First Responder | 1.00% | ~106 |
-| Is That All You've Got? | 0.90% | ~95 |
+| Is That All You've Got? | 0.90% | ~96 |
 | King of Liberty City | 0.70% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,603 (Ranked 174)  
+Progressed: 10,613 (Ranked 174)  
 Completed: 69 (0.65%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 69 (0.65%) (Ranked 199)
 | 2023-12-22 | 10,256 | 65 |
 | 2023-12-23 | 10,392 | 66 |
 | 2023-12-24 | 10,505 | 66 |
-| 2023-12-25 | 10,603 | 69 |
+| 2023-12-25 | 10,613 | 69 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

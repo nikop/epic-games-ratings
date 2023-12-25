@@ -21,11 +21,11 @@ Rating: 4.64 (Ranked 342)
 | Who's The Boss? | 3.00% | ~746 |
 | Fallout Doesn't Let You Do This | 3.00% | ~746 |
 | Spent 15 Hours At The Alien Strip Club | 3.00% | ~746 |
-| Eatin' Good in the Neighborhood | 2.00% | ~497 |
-| Lezduit! | 2.00% | ~497 |
-| Eye Scream, You Scream | 2.00% | ~497 |
-| Legendary Bounty Hunter | 2.00% | ~497 |
-| Series Wrap on Suit-O | 2.00% | ~497 |
+| Eatin' Good in the Neighborhood | 2.00% | ~498 |
+| Lezduit! | 2.00% | ~498 |
+| Eye Scream, You Scream | 2.00% | ~498 |
+| Legendary Bounty Hunter | 2.00% | ~498 |
+| Series Wrap on Suit-O | 2.00% | ~498 |
 | Bathe With A Giant Nude Alien | 2.00% | ~43 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
 | Gunning For Your Job | 0.90% | ~224 |
@@ -33,8 +33,8 @@ Rating: 4.64 (Ranked 342)
 | Mux Ado About Shipping | 0.80% | ~17 |
 | Sequel-Bait | 0.50% | ~124 |
 | Fall In Love With A Parasite | 0.50% | ~11 |
-| Playing Favorites | 0.40% | ~99 |
-| Carried Stan's Load To Completion | 0.40% | ~99 |
+| Playing Favorites | 0.40% | ~100 |
+| Carried Stan's Load To Completion | 0.40% | ~100 |
 | A Starfish Is Born | 0.30% | ~75 |
 | Meet Frasier from Frasier | 0.30% | ~7 |
 | Epic Legendary Prize | 0.20% | ~50 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 342)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,874 (Ranked 143)  
+Progressed: 24,875 (Ranked 143)  
 Completed: 14 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 14 (0.06%) (Ranked 329)
 | 2023-12-22 | 24,828 | 14 |
 | 2023-12-23 | 24,840 | 14 |
 | 2023-12-24 | 24,852 | 14 |
-| 2023-12-25 | 24,874 | 14 |
+| 2023-12-25 | 24,875 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

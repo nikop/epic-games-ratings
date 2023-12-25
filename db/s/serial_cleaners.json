@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
@@ -719,6 +719,11 @@
       "Time": "2023-12-25T19:06:19.299965+00:00",
       "NumProgressed": 292,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T20:06:36.0949507+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -770,7 +775,7 @@
       "Name": "Eyes Yet To Open",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -802,7 +807,7 @@
       "Name": "So it goes",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -874,7 +879,7 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -904,9 +909,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "VIPER_HACKING",
@@ -921,13 +926,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 6
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:06:19.2999647+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:06:36.0949502+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.7268064+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:44.1340957+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:06:19.2999872+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:44.9114084+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:06:36.0949842+00:00"
 }

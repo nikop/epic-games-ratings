@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 1239,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2511,9 +2511,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_11",
@@ -2615,9 +2615,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_24",
@@ -2711,9 +2711,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_38",
@@ -2734,8 +2734,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:10:04.4686807+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:10:16.4194425+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:00:07.4195118+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:10:04.4687139+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:00:08.728505+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:10:16.4194794+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,929 |
-| Un-Lonely Island | 45.00% | ~2,997 |
-| The Beginning of a Servantship | 44.00% | ~2,931 |
-| Trade Is My Trait | 36.00% | ~2,398 |
-| Number 18 | 23.00% | ~1,532 |
-| We Don't Have Time For That | 18.00% | ~1,199 |
-| The Governator | 17.00% | ~1,132 |
-| The Legend of Langostino | 16.00% | ~1,066 |
-| Caribbean Comrade | 15.00% | ~999 |
-| The Dreamer of Dreams | 15.00% | ~999 |
+| Just One...More...Term... | 74.00% | ~4,934 |
+| Un-Lonely Island | 45.00% | ~3,000 |
+| The Beginning of a Servantship | 44.00% | ~2,933 |
+| Trade Is My Trait | 36.00% | ~2,400 |
+| Number 18 | 23.00% | ~1,533 |
+| We Don't Have Time For That | 18.00% | ~1,200 |
+| The Governator | 17.00% | ~1,133 |
+| The Legend of Langostino | 16.00% | ~1,067 |
+| Caribbean Comrade | 15.00% | ~1,000 |
+| The Dreamer of Dreams | 15.00% | ~1,000 |
 | Go Sovereigns! | 11.00% | ~733 |
 | For Science! | 11.00% | ~733 |
-| Happy Ending? | 10.00% | ~666 |
-| Of Seals And Men | 9.00% | ~599 |
-| Shackadelic | 9.00% | ~599 |
+| Happy Ending? | 10.00% | ~667 |
+| Of Seals And Men | 9.00% | ~600 |
+| Shackadelic | 9.00% | ~600 |
 | Double Trouble | 8.00% | ~533 |
 | Firestarter | 8.00% | ~533 |
-| I Owe You Nothing | 7.00% | ~466 |
-| Make Tropico Great Again! | 7.00% | ~466 |
-| French Connection | 7.00% | ~466 |
+| I Owe You Nothing | 7.00% | ~467 |
+| Make Tropico Great Again! | 7.00% | ~467 |
+| French Connection | 7.00% | ~467 |
 | Don't Panic! | 6.00% | ~400 |
 | Beware The Betman | 6.00% | ~400 |
 | Viva Tropico! | 5.00% | ~333 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~53 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,661 (Ranked 192)  
+Progressed: 6,667 (Ranked 192)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-22 | 6,587 | 2 |
 | 2023-12-23 | 6,620 | 2 |
 | 2023-12-24 | 6,646 | 2 |
-| 2023-12-25 | 6,661 | 2 |
+| 2023-12-25 | 6,667 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 743 (Ranked 295)  

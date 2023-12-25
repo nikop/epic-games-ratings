@@ -1,17 +1,17 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 603)  
+Rating: 4.50 (Ranked 604)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~403 |
-| Vanquisher of Robots | 78.00% | ~361 |
+| Good start! | 87.00% | ~404 |
+| Vanquisher of Robots | 78.00% | ~362 |
 | Party | 50.00% | ~232 |
 | Impossible Cube | 46.00% | ~213 |
 | Knowledge is Power | 44.00% | ~204 |
 | Through the Darkness | 44.00% | ~204 |
-| No Mercy | 43.00% | ~199 |
+| No Mercy | 43.00% | ~200 |
 | The Return of a Rat | 41.00% | ~190 |
 | Fat of the Earth | 36.00% | ~167 |
 | Last Man Standing | 32.00% | ~148 |
@@ -19,11 +19,11 @@ Rating: 4.50 (Ranked 603)
 | Campaigning | 27.00% | ~125 |
 | He's Seen It All | 27.00% | ~125 |
 | Rookie | 27.00% | ~125 |
-| Catch Jonathan_tostar | 26.00% | ~120 |
+| Catch Jonathan_tostar | 26.00% | ~121 |
 | Assemble a Meganewbie | 25.00% | ~116 |
 | Frugal | 22.00% | ~102 |
 | Feed a God | 21.00% | ~97 |
-| To the Moon and Back | 21.00% | ~97 |
+| To the Moon and Back | 20.00% | ~93 |
 | Great Flight | 19.00% | ~88 |
 | Holy Vengeance | 17.00% | ~79 |
 | Honorary Cultist | 13.00% | ~60 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 603)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463 (Ranked 339)  
+Progressed: 464 (Ranked 339)  
 Completed: 1 (0.22%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.22%) (Ranked 271)
 | 2023-12-22 | 455 | 1 |
 | 2023-12-23 | 458 | 1 |
 | 2023-12-24 | 461 | 1 |
-| 2023-12-25 | 463 | 1 |
+| 2023-12-25 | 464 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

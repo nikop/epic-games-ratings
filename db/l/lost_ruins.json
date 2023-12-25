@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:32.3628433+00:00",
@@ -1549,6 +1549,11 @@
       "Time": "2023-12-25T18:09:39.0012796+00:00",
       "NumProgressed": 606,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T20:10:17.1188364+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1592,7 +1597,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "BugHunter",
@@ -1600,7 +1605,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Cryomancer",
@@ -1638,9 +1643,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 176
     },
     {
       "ID": "Hardboiled",
@@ -1680,7 +1685,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Librarian",
@@ -1720,7 +1725,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Necromancer",
@@ -1879,7 +1884,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 1
     }
   ],
@@ -1887,8 +1892,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:10:05.2675236+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:10:17.118836+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:57:08.0130831+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:10:05.267553+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:57:13.106853+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:10:17.1188632+00:00"
 }

@@ -14,7 +14,7 @@ Number of Ratings: 20  (23.09.2022)
 | From Whence we Came | 43.00% | ~162 |
 | Fire and Flood | 41.00% | ~154 |
 | Spooky! | 38.00% | ~143 |
-| Shennong Herbalist | 35.00% | ~132 |
+| Shennong Herbalist | 36.00% | ~135 |
 | Treasure Hunt | 35.00% | ~132 |
 | Good Mama | 33.00% | ~124 |
 | O Captain My Captain | 31.00% | ~117 |
@@ -27,8 +27,8 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 22.00% | ~83 |
 | Red Flag Pirate | 19.00% | ~71 |
 | Iron Man | 17.00% | ~64 |
+| A Gentle Beast | 17.00% | ~64 |
 | Shortening of the Way | 16.00% | ~60 |
-| A Gentle Beast | 16.00% | ~60 |
 | Practical Palaeontology | 16.00% | ~60 |
 | Adventurer | 15.00% | ~56 |
 | For the Club! | 15.00% | ~56 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 376 (Ranked 357)  
-Completed: 1 (0.27%) (Ranked 259)  
+Completed: 1 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

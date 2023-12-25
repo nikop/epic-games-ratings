@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -419,6 +419,11 @@
       "Time": "2023-12-25T17:06:22.2536223+00:00",
       "NumProgressed": 96,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T20:05:29.2110675+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -509,9 +514,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -525,7 +530,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -591,13 +596,13 @@
       "Name": "The Drop",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -605,7 +610,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -621,9 +626,9 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -726,14 +731,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:05:11.5348655+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:05:29.2110669+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:13.0376587+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:35.6386245+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:05:11.5348922+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:36.0077657+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:05:29.2110926+00:00"
 }

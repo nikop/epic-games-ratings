@@ -18,11 +18,11 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 6.00% | ~22 |
 | Uptown and Downtown | 5.00% | ~18 |
 | Toxic Terror | 5.00% | ~18 |
+| Hit Rock Bottom | 5.00% | ~18 |
 | Squirrel Smasher | 5.00% | ~18 |
 | Star Smasher | 5.00% | ~18 |
 | Keep it Rolling | 4.00% | ~15 |
 | Shrimp Catcher | 4.00% | ~15 |
-| Hit Rock Bottom | 4.00% | ~15 |
 | Robot encyclopedia | 3.00% | ~11 |
 | Are you ready now? | 2.00% | ~7 |
 | Ship Shape | 2.00% | ~7 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368 (Ranked 360)  
-Completed: 1 (0.27%) (Ranked 259)  
+Progressed: 369 (Ranked 360)  
+Completed: 1 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,14 +51,14 @@ Completed: 1 (0.27%) (Ranked 259)
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
-| 2023-12-25 | 368 | 1 |
+| 2023-12-25 | 369 | 1 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 499)  
-Sum: 34 (Ranked 523)  
-Diff (max vs sum): -24  
+Max (Great Boss Battles): 35  (Ranked 495)  
+Sum: 35 (Ranked 522)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 34 |
+| This game has Great Boss Battles | 35 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,3 +118,4 @@ Diff (max vs sum): -24
 | 2023-10-21 | 4.65 | - | 33 | 33 |
 | 2023-11-05 | 4.65 | - | 34 | 34 |
 | 2023-12-17 | 4.66 | - | 34 | 34 |
+| 2023-12-25 | 4.66 | - | 35 | 35 |

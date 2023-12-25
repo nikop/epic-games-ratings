@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -3204,6 +3204,11 @@
       "Time": "2023-12-25T19:10:09.1653812+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T20:10:21.300078+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3215,7 +3220,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3255,7 +3260,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3287,7 +3292,7 @@
       "Name": "Capraphobia",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3415,7 +3420,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3495,7 +3500,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3575,7 +3580,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3639,7 +3644,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3647,7 +3652,7 @@
       "Name": "The Last of Us",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3742,14 +3747,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:10:09.1653811+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:10:21.3000776+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:15.9919023+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:10:09.165432+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:18.0282424+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:10:21.300138+00:00"
 }

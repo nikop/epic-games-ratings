@@ -14,9 +14,9 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 4.00% | ~62 |
 | How Romantic! | 4.00% | ~62 |
 | Daybreak | 4.00% | ~62 |
-| Completing the Look | 3.00% | ~46 |
-| War Endured | 3.00% | ~46 |
-| Core Failure | 3.00% | ~46 |
+| Completing the Look | 3.00% | ~47 |
+| War Endured | 3.00% | ~47 |
+| Core Failure | 3.00% | ~47 |
 | A Mythic Menagerie | 2.00% | ~31 |
 | Who's Counting? | 2.00% | ~31 |
 | Let Me Get My Chisel | 1.00% | ~16 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550 (Ranked 254)  
+Progressed: 1,551 (Ranked 254)  
 Completed: 7 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.45%) (Ranked 224)
 | 2023-12-22 | 1,540 | 7 |
 | 2023-12-23 | 1,545 | 7 |
 | 2023-12-24 | 1,547 | 7 |
-| 2023-12-25 | 1,550 | 7 |
+| 2023-12-25 | 1,551 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 519)  
 Sum: 29 (Ranked 536)  

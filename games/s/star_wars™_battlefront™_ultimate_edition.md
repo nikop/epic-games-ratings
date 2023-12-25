@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,895 |
-| Off to a good start | 63.00% | ~1,356 |
-| Do... or do not. There is no try | 52.00% | ~1,120 |
-| A good blaster at your side | 27.00% | ~581 |
-| I suggest a new strategy | 18.00% | ~388 |
-| Scrap collector | 16.00% | ~344 |
-| All right, I'll give it a try | 16.00% | ~344 |
-| Great shot, kid! | 16.00% | ~344 |
-| The power of the Force | 13.00% | ~280 |
-| Shoot first | 13.00% | ~280 |
-| Collector | 12.00% | ~258 |
-| Together we can rule the galaxy | 12.00% | ~258 |
+| New Recruit | 88.00% | ~1,900 |
+| Off to a good start | 63.00% | ~1,360 |
+| Do... or do not. There is no try | 52.00% | ~1,123 |
+| A good blaster at your side | 26.00% | ~561 |
+| I suggest a new strategy | 18.00% | ~389 |
+| Scrap collector | 16.00% | ~345 |
+| All right, I'll give it a try | 16.00% | ~345 |
+| Great shot, kid! | 16.00% | ~345 |
+| The power of the Force | 13.00% | ~281 |
+| Shoot first | 13.00% | ~281 |
+| Collector | 12.00% | ~259 |
+| Together we can rule the galaxy | 12.00% | ~259 |
 | Tell Jabba that I've got his money | 9.00% | ~194 |
-| Best star-pilot in the galaxy | 8.00% | ~172 |
-| Survivor | 8.00% | ~172 |
+| Best star-pilot in the galaxy | 8.00% | ~173 |
+| Survivor | 8.00% | ~173 |
 | Never tell me the odds! | 7.00% | ~151 |
 | A cunning warrior | 7.00% | ~151 |
-| What's the cargo? | 6.00% | ~129 |
+| What's the cargo? | 6.00% | ~130 |
 | "Gonk? Gonk!" | 5.00% | ~108 |
 | Impressive. Most impressive. | 5.00% | ~108 |
 | Judge me by my size, do you? | 5.00% | ~108 |
@@ -54,10 +54,10 @@
 | When surrounded by war... | 0.80% | ~17 |
 | A New Hope | 0.70% | ~15 |
 | Walker defender | 0.70% | ~15 |
-| No such thing as luck | 0.70% | ~15 |
 | Stop that Droid | 0.70% | ~15 |
+| No such thing as luck | 0.60% | ~13 |
 | Do we take prisoners? | 0.60% | ~13 |
-| I’ll take that bet | 0.50% | ~11 |
+| I’ll take that bet | 0.60% | ~13 |
 | Greed can be a very powerful ally | 0.40% | ~9 |
 | Stay on target | 0.30% | ~6 |
 | That got him! | 0.20% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,153 (Ranked 233)  
+Progressed: 2,159 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-22 | 2,014 | 1 |
 | 2023-12-23 | 2,067 | 1 |
 | 2023-12-24 | 2,124 | 1 |
-| 2023-12-25 | 2,153 | 1 |
+| 2023-12-25 | 2,159 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

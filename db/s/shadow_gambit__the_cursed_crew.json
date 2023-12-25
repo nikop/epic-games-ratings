@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,7 +161,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
@@ -4416,6 +4416,11 @@
       "Time": "2023-12-25T18:06:05.7047478+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-25T20:06:42.5638051+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4452,7 +4457,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "_05_FinishAct2",
@@ -4500,7 +4505,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_11_Completion_40",
@@ -4564,7 +4569,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4580,7 +4585,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4635,7 +4640,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 34
     }
   ],
@@ -4643,8 +4648,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:06:26.1370824+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:06:42.5638043+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:00:32.3195409+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:06:26.1371196+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:00:32.301439+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:06:42.5638343+00:00"
 }

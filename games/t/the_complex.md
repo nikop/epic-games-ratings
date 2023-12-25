@@ -17,7 +17,7 @@
 | Stalemate | 21.00% | ~152 |
 | Kindar Surprise | 17.00% | ~123 |
 | MVP - Most Vanishing Person | 14.00% | ~102 |
-| Deadly Secret | 12.00% | ~87 |
+| Deadly Secret | 13.00% | ~94 |
 | Get Out Of This Alive | 10.00% | ~72 |
 | The Promise | 9.00% | ~65 |
 | People Pleaser | 9.00% | ~65 |

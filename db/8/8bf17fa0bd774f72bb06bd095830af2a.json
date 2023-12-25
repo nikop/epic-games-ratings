@@ -253,9 +253,9 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SteamAchievement_KillFrostMonsters",
@@ -285,9 +285,9 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SteamAchievement_WinBattles02",
@@ -317,9 +317,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -365,9 +365,9 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SteamAchievment_CompleteQuest02",
@@ -493,9 +493,9 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
@@ -509,9 +509,9 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:03:23.2287533+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:03:19.8350587+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.7391975+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:57:29.9528749+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:03:23.2287913+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:57:33.7924253+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:03:19.8350858+00:00"
 }

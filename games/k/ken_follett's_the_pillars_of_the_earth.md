@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 582)  
+Rating: 4.51 (Ranked 583)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,10 +9,10 @@ Number of Ratings: 368  (23.09.2022)
 | Tattletale | 40.00% | ~6,954 |
 | Man of politics | 34.00% | ~5,911 |
 | Yet another secret | 33.00% | ~5,737 |
-| Friends of sorts | 32.00% | ~5,563 |
-| Let there be darkness | 31.00% | ~5,389 |
+| Friends of sorts | 32.00% | ~5,564 |
+| Let there be darkness | 31.00% | ~5,390 |
 | End of Book One | 29.00% | ~5,042 |
-| Garden of Eden | 24.00% | ~4,172 |
+| Garden of Eden | 24.00% | ~4,173 |
 | Wannabe knight | 23.00% | ~3,999 |
 | Full house | 23.00% | ~3,999 |
 | Help an old friend | 21.00% | ~3,651 |
@@ -25,10 +25,10 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,434 |
 | Exterminator | 13.00% | ~2,260 |
 | Whodunnit | 12.00% | ~2,086 |
-| Good midwife | 10.00% | ~1,738 |
-| Friar Tuck | 10.00% | ~1,738 |
-| First profit | 10.00% | ~1,738 |
-| Team player | 10.00% | ~1,738 |
+| Good midwife | 10.00% | ~1,739 |
+| Friar Tuck | 10.00% | ~1,739 |
+| First profit | 10.00% | ~1,739 |
+| Team player | 10.00% | ~1,739 |
 | Skilled merchant | 9.00% | ~1,565 |
 | Brother Marcus | 9.00% | ~1,565 |
 | The oath | 9.00% | ~1,565 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~522 |
 | Boy of mystery | 2.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,385 (Ranked 157)  
+Progressed: 17,386 (Ranked 157)  
 Completed: 121 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 121 (0.70%) (Ranked 196)
 | 2023-12-22 | 17,285 | 119 |
 | 2023-12-23 | 17,320 | 119 |
 | 2023-12-24 | 17,360 | 120 |
-| 2023-12-25 | 17,385 | 121 |
+| 2023-12-25 | 17,386 | 121 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 321)  
 Sum: 200 (Ranked 409)  

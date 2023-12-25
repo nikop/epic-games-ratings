@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 132,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
@@ -722,9 +722,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "EpicACHV_11",
@@ -857,8 +857,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:08:55.3506344+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:09:08.8043213+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:11.4118743+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:02.8270856+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:08:55.3506486+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:07.9943201+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:09:08.8043343+00:00"
 }

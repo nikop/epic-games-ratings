@@ -10140,9 +10140,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129828,
+  "EOS_Progressed": 129837,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1467,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36775,6 +36775,11 @@
       "Time": "2023-12-25T19:09:26.3242687+00:00",
       "NumProgressed": 129828,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T20:09:38.9102425+00:00",
+      "NumProgressed": 129837,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36888,9 +36893,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 2597
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -36914,7 +36919,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37064,9 +37069,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 779
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -37138,7 +37143,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "hero_story_complete_all",
@@ -37226,7 +37231,7 @@
       "Name": "Eidetic",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "run_end_abandon",
@@ -37266,7 +37271,7 @@
       "Name": "Handled",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "run_victory_act05",
@@ -37322,7 +37327,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "combat_kill_collector",
@@ -37417,21 +37422,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129828,
+      "Progressed": 129837,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4697,
+      "Progressed": 4706,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-25T17:58:10.7610793+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:09:26.3242686+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:09:38.910242+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:22.2129361+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:09:26.3244137+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:26.6230903+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:09:38.9104263+00:00"
 }

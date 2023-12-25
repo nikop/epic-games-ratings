@@ -5,31 +5,31 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,849 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,097 |
-| Loose Ends | 33.00% | ~26,300 |
-| To the Victor Go the Spoils | 28.00% | ~22,315 |
-| Knighthood | 27.00% | ~21,518 |
-| Get ReQ'd | 25.00% | ~19,924 |
-| Whispered Words | 24.00% | ~19,128 |
-| The Batman Family | 22.00% | ~17,534 |
-| Lock and Key | 22.00% | ~17,534 |
-| Something in the Clay | 20.00% | ~15,940 |
-| Quartzer Life Crisis | 20.00% | ~15,940 |
-| Working Hard or Harley Working? | 20.00% | ~15,940 |
-| Unstoppable Force | 20.00% | ~15,940 |
-| Bad Apples in Every Orchard | 20.00% | ~15,940 |
-| Snow Problem | 19.00% | ~15,143 |
-| The Show Mud Go On | 18.00% | ~14,346 |
-| From Inside Gotham's Walls | 17.00% | ~13,549 |
-| Protector of Gotham | 16.00% | ~12,752 |
-| In Your Element | 15.00% | ~11,955 |
-| Universal Health Scare | 15.00% | ~11,955 |
-| Rock and a Hard Place | 14.00% | ~11,158 |
-| Cooldown | 14.00% | ~11,158 |
-| Voiceless | 14.00% | ~11,158 |
-| Shock Til They Drop | 13.00% | ~10,361 |
-| Seeking Asylum | 13.00% | ~10,361 |
+| First Step Into the Knight | 50.00% | ~39,852 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,099 |
+| Loose Ends | 33.00% | ~26,302 |
+| To the Victor Go the Spoils | 28.00% | ~22,317 |
+| Knighthood | 27.00% | ~21,520 |
+| Get ReQ'd | 25.00% | ~19,926 |
+| Whispered Words | 24.00% | ~19,129 |
+| The Batman Family | 22.00% | ~17,535 |
+| Lock and Key | 22.00% | ~17,535 |
+| Something in the Clay | 20.00% | ~15,941 |
+| Quartzer Life Crisis | 20.00% | ~15,941 |
+| Working Hard or Harley Working? | 20.00% | ~15,941 |
+| Unstoppable Force | 20.00% | ~15,941 |
+| Bad Apples in Every Orchard | 20.00% | ~15,941 |
+| Snow Problem | 19.00% | ~15,144 |
+| The Show Mud Go On | 18.00% | ~14,347 |
+| From Inside Gotham's Walls | 17.00% | ~13,550 |
+| Protector of Gotham | 16.00% | ~12,753 |
+| In Your Element | 15.00% | ~11,956 |
+| Universal Health Scare | 15.00% | ~11,956 |
+| Rock and a Hard Place | 14.00% | ~11,159 |
+| Cooldown | 14.00% | ~11,159 |
+| Voiceless | 14.00% | ~11,159 |
+| Shock Til They Drop | 13.00% | ~10,362 |
+| Seeking Asylum | 13.00% | ~10,362 |
 | End of an Era | 12.00% | ~9,564 |
 | Not On My Watch | 12.00% | ~9,564 |
 | Bulldozed | 12.00% | ~9,564 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 951)
 | The Cold, the Bad and the Ugly | 0.30% | ~150 |
 | It's Nice to Be Wanted | 0.20% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,698 (Ranked 104)  
-Completed: 128 (0.16%) (Ranked 286)  
+Progressed: 79,704 (Ranked 104)  
+Completed: 128 (0.16%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,14 +316,14 @@ Completed: 128 (0.16%) (Ranked 286)
 | 2023-12-22 | 79,163 | 126 |
 | 2023-12-23 | 79,360 | 127 |
 | 2023-12-24 | 79,555 | 128 |
-| 2023-12-25 | 79,698 | 128 |
+| 2023-12-25 | 79,704 | 128 |
 ## Awards
-Max (Great Boss Battles): 3,053  (Ranked 99)  
-Sum: 5,222 (Ranked 143)  
+Max (Great Boss Battles): 3,060  (Ranked 99)  
+Sum: 5,229 (Ranked 143)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,053 |
+| This game has Great Boss Battles | 3,060 |
 | This game has Diverse Characters | 279 |
 | This game is Great for Beginners | 272 |
 | This game is Relaxing | 272 |
@@ -638,4 +638,4 @@ Diff (max vs sum): -44
 | 2023-12-22 | 4.18 | 3,039 | 5,204 |
 | 2023-12-23 | 4.18 | 3,047 | 5,212 |
 | 2023-12-24 | 4.19 | 3,053 | 5,220 |
-| 2023-12-25 | 4.18 | 3,053 | 5,222 |
+| 2023-12-25 | 4.18 | 3,060 | 5,229 |

@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241685,
+  "EOS_Progressed": 241688,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29506,6 +29506,11 @@
       "Time": "2023-12-25T19:10:10.9461613+00:00",
       "NumProgressed": 241685,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-25T20:10:22.9831679+00:00",
+      "NumProgressed": 241688,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29693,7 +29698,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -29701,7 +29706,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -29917,7 +29922,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "KILL1000",
@@ -30101,7 +30106,7 @@
       "Name": "A Donation",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -30165,7 +30170,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "PETRIFY50",
@@ -30269,7 +30274,7 @@
       "Name": "Explorer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "SPEEDRUN10",
@@ -30333,7 +30338,7 @@
       "Name": "An Offering",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -30501,7 +30506,7 @@
       "Name": "Who Needs Luck?",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -30620,13 +30625,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241685,
+      "Progressed": 241688,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3165,
+      "Progressed": 3168,
       "Completed": 413
     }
   ],
@@ -30634,8 +30639,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:10:10.9461611+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:10:22.9831674+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:03.0243824+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:10:10.9464078+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:08.1368463+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:10:22.983407+00:00"
 }

@@ -443,9 +443,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 335081,
+  "EOS_Progressed": 335118,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4037,
+  "EOS_NewPlayers": 4049,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10948,6 +10948,11 @@
       "Time": "2023-12-25T19:08:31.9535863+00:00",
       "NumProgressed": 335081,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T20:08:45.7453923+00:00",
+      "NumProgressed": 335118,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -10960,7 +10965,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13403
+      "UsersEstimate": 13405
     },
     {
       "ID": "S02_BRDA",
@@ -10968,7 +10973,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10052
+      "UsersEstimate": 10054
     },
     {
       "ID": "S03_OTWA",
@@ -10992,7 +10997,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "S06_LWTC",
@@ -11000,7 +11005,7 @@
       "Name": "They tricked me",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "S07_INWA",
@@ -11008,7 +11013,7 @@
       "Name": "We need to talk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "S08_MNSA",
@@ -11016,7 +11021,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "S09_MNSE",
@@ -11024,7 +11029,7 @@
       "Name": "Here to stay",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "S10_GRSB",
@@ -11096,7 +11101,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13403
+      "UsersEstimate": 13405
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11128,7 +11133,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "S23_ETHEREAL",
@@ -11192,7 +11197,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -11279,7 +11284,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 335081,
+      "Progressed": 335118,
       "Completed": 6
     }
   ],
@@ -11287,8 +11292,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:08:31.9535861+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:08:45.7453915+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:57.9453576+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:08:31.9536437+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:58.7977531+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:08:45.7454672+00:00"
 }

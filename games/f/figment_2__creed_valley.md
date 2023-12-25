@@ -8,7 +8,7 @@
 | Remembering of the past | 38.00% | ~20 |
 | Ouch, that hurt! | 33.00% | ~17 |
 | Fight like an idiot | 29.00% | ~15 |
-| Slam-KABAM | 21.00% | ~11 |
+| Slam-KABAM | 23.00% | ~12 |
 | A heavy thinker | 19.00% | ~10 |
 | Repair the Mind Validation Machine | 17.00% | ~9 |
 | Elementary, My Dear Dusty | 15.00% | ~8 |

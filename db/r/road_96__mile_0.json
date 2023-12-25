@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1967,6 +1967,11 @@
       "Time": "2023-12-25T11:10:18.961423+00:00",
       "NumProgressed": 555,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T20:10:11.943558+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2050,7 +2055,7 @@
       "Name": "Souvenirs",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "scoreminrankrp1",
@@ -2082,7 +2087,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "scoreminrankrv2",
@@ -2097,7 +2102,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 2
     }
   ],
@@ -2105,8 +2110,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:09:59.7321727+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:10:11.9435573+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:43.9216359+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:09:59.732194+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:48.4156076+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:10:11.9435731+00:00"
 }

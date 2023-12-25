@@ -3,10 +3,10 @@
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 298,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 495,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
@@ -297,23 +297,29 @@
       "Rating": 4.66,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-12-25T19:58:37.6899583+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 35,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 34
+      "Count": 35
     }
   ],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1036,6 +1042,11 @@
       "Time": "2023-12-25T18:03:51.5351235+00:00",
       "NumProgressed": 368,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T20:04:29.7814199+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1182,9 +1193,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1303,15 +1314,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
-  "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:04:14.8750318+00:00",
+  "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:04:29.7814194+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:33.2858672+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:04:14.8750564+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:37.6899588+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:04:29.7814432+00:00"
 }

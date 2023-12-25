@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15837,
+  "EOS_Progressed": 15839,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4815,6 +4815,11 @@
       "Time": "2023-12-25T19:09:25.2587272+00:00",
       "NumProgressed": 15837,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-25T20:09:38.0043476+00:00",
+      "NumProgressed": 15839,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4827,7 +4832,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "ACH_AE_10",
@@ -4835,7 +4840,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH_AE_11",
@@ -4859,7 +4864,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11878
+      "UsersEstimate": 11879
     },
     {
       "ID": "ACH_AE_14",
@@ -4875,7 +4880,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH_AE_16",
@@ -4899,7 +4904,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_AE_19",
@@ -4913,9 +4918,9 @@
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3643
     },
     {
       "ID": "ACH_AE_20",
@@ -5067,7 +5072,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACH_AE_6",
@@ -5075,7 +5080,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACH_AE_7",
@@ -5106,7 +5111,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15837,
+      "Progressed": 15839,
       "Completed": 15
     }
   ],
@@ -5114,8 +5119,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-25T15:58:08.862142+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:09:25.2587269+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:09:38.0043472+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:22.1161918+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:09:25.258767+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:26.5728861+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:09:38.0043914+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1105,
+  "EOS_Progressed": 1106,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3141,6 +3141,11 @@
       "Time": "2023-12-25T19:10:00.4558491+00:00",
       "NumProgressed": 1105,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T20:10:12.6651399+00:00",
+      "NumProgressed": 1106,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3232,7 +3237,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "EntresolChests1",
@@ -3256,7 +3261,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "FairgroundsChests1",
@@ -3264,7 +3269,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3496,7 +3501,7 @@
       "Name": "Sump Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "SyronGift",
@@ -3520,15 +3525,15 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 276
     },
     {
       "ID": "WarwickDefeated",
@@ -3575,7 +3580,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1105,
+      "Progressed": 1106,
       "Completed": 6
     }
   ],
@@ -3583,8 +3588,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:10:00.4558489+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:10:12.6651394+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:58:10.0970483+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:10:00.455906+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:58:15.1967525+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:10:12.6651825+00:00"
 }

@@ -1,13 +1,13 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.50 (Ranked 603)  
+Rating: 4.50 (Ranked 604)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~453 |
-| Close call! | 72.00% | ~423 |
+| Getting started | 77.00% | ~454 |
+| Close call! | 72.00% | ~424 |
 | Builder | 52.00% | ~306 |
 | Pangs of conscience | 44.00% | ~259 |
 | Living it large! | 44.00% | ~259 |
@@ -16,13 +16,13 @@ Number of Ratings: 28  (23.09.2022)
 | Completely nuts! | 41.00% | ~241 |
 | Just in time! | 33.00% | ~194 |
 | Europe | 32.00% | ~188 |
-| Madness! | 31.00% | ~182 |
+| Madness! | 31.00% | ~183 |
 | It's no coincidence. | 29.00% | ~171 |
 | Philatelist | 26.00% | ~153 |
 | Let's roll! | 26.00% | ~153 |
 | Ouroboros | 25.00% | ~147 |
 | Non Stop! | 24.00% | ~141 |
-| Foreman | 21.00% | ~123 |
+| Foreman | 21.00% | ~124 |
 | Russia | 20.00% | ~118 |
 | America | 18.00% | ~106 |
 | Missed it! | 18.00% | ~106 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 | Mega-railroad | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 324)  
+Progressed: 589 (Ranked 324)  
 Completed: 2 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2 (0.34%) (Ranked 243)
 | 2023-12-22 | 575 | 2 |
 | 2023-12-23 | 580 | 2 |
 | 2023-12-24 | 584 | 2 |
-| 2023-12-25 | 588 | 2 |
+| 2023-12-25 | 589 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

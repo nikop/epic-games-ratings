@@ -12,7 +12,7 @@ Rating: 4.58 (Ranked 457)
 | A Thousand Strong | 18.00% | ~669 |
 | Ready for a New World | 18.00% | ~669 |
 | Space Society | 17.00% | ~632 |
-| Permanent Redesigns | 16.00% | ~594 |
+| Permanent Redesigns | 16.00% | ~595 |
 | Fully Recycled | 14.00% | ~520 |
 | Ain't Nobody Got Time for That | 14.00% | ~520 |
 | The Ship of Theseus | 14.00% | ~520 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,715 (Ranked 211)  
+Progressed: 3,716 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
-| 2023-12-25 | 3,715 | 0 |
+| 2023-12-25 | 3,716 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

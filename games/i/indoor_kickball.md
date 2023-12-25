@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 84.00% | ~83 |
-| Accessory Unlocked | 83.00% | ~82 |
-| Butter Fingers | 77.00% | ~76 |
-| Character Unlocked | 76.00% | ~75 |
-| Homer | 76.00% | ~75 |
-| Have a good trip! | 74.00% | ~73 |
-| Kickball Unlocked | 71.00% | ~70 |
-| Settle Down | 71.00% | ~70 |
-| Stay Hydrated | 66.00% | ~65 |
-| First Win | 64.00% | ~63 |
+| Hat Unlocked | 83.00% | ~83 |
+| Accessory Unlocked | 82.00% | ~82 |
+| Butter Fingers | 76.00% | ~76 |
+| Character Unlocked | 75.00% | ~75 |
+| Homer | 75.00% | ~75 |
+| Have a good trip! | 73.00% | ~73 |
+| Kickball Unlocked | 70.00% | ~70 |
+| Settle Down | 70.00% | ~70 |
+| Stay Hydrated | 65.00% | ~65 |
+| First Win | 63.00% | ~63 |
 | True Story! | 46.00% | ~46 |
 | Bedroom Secret Spot | 41.00% | ~41 |
 | Kick It | 35.00% | ~35 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 478)  
+Progressed: 100 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-10-29 | 97 | 0 |
 | 2023-10-31 | 98 | 0 |
 | 2023-12-12 | 99 | 0 |
+| 2023-12-25 | 100 | 0 |

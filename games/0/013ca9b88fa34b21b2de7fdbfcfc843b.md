@@ -27,11 +27,11 @@ Rating: 4.63 (Ranked 353)
 | Skilled | 0.50% | ~43 |
 | Flaming Hot Completos | 0.40% | ~35 |
 | Fanatical Farmer | 0.40% | ~35 |
+| Right Tool For the Job | 0.40% | ~35 |
 | Fae Farmer | 0.30% | ~26 |
 | Got to Catch Them All | 0.30% | ~26 |
 | Rumble in the Jumble | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
-| Right Tool For the Job | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
 | Scattered Scroll Scrounger | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |

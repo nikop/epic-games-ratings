@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14822,
+  "EOS_Progressed": 14823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17379,6 +17379,11 @@
       "Time": "2023-12-25T18:03:35.4175527+00:00",
       "NumProgressed": 14822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T20:04:14.4917552+00:00",
+      "NumProgressed": 14823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -17558,7 +17563,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -17589,14 +17594,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14822,
+      "Progressed": 14823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:03:58.9732775+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:04:14.4917547+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.4371726+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:02:44.4745281+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:03:58.9733686+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:00:42.2431593+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:04:14.4918571+00:00"
 }

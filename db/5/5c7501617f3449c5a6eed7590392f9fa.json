@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 137,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -599,9 +599,9 @@
       "ID": "Ach-01-balonek",
       "SetID": "2pjo9pi",
       "Name": "Balonek",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Ach-01-brambora",
@@ -623,17 +623,17 @@
       "ID": "Ach-01-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Ach-01-soukac",
       "SetID": "2pjo9pi",
       "Name": "Soukac",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Ach-01-ulita",
@@ -1030,8 +1030,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-25T19:08:55.8899647+00:00",
+  "LastChanged_Achievements": "2023-12-25T20:09:09.1915675+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.4834278+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:59:58.477346+00:00",
-  "LastUpdate_Achievements": "2023-12-25T19:08:55.8899972+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:59:59.2954768+00:00",
+  "LastUpdate_Achievements": "2023-12-25T20:09:09.1916109+00:00"
 }
