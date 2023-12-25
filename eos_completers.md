@@ -24,7 +24,7 @@
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 22 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 20.00% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.00% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 19.35% |
+| 25 | [The Riflemen](games/t/the_riflemen.md) | 19.34% |
 | 26 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.12% |
 | 27 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 28 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 16.67% |
@@ -63,7 +63,7 @@
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.80% |
 | 62 | [Anna's Quest](games/a/anna's_quest.md) | 6.74% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.67% |
-| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.65% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.64% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.50% |
 | 66 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.49% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -72,7 +72,7 @@
 | 70 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.00% |
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.69% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.36% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
@@ -100,7 +100,7 @@
 | 98 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.57% |
 | 99 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.51% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
-| 101 | [Dungeons 4](games/d/dungeons_4.md) | 3.33% |
+| 101 | [Dungeons 4](games/d/dungeons_4.md) | 3.32% |
 | 102 | [Bunny Park](games/b/bunny_park.md) | 3.28% |
 | 103 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 3.23% |
 | 103 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.23% |
@@ -171,8 +171,8 @@
 | 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 170 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
 | 171 | [Sable](games/s/sable.md) | 1.01% |
-| 172 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
-| 173 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
+| 172 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
+| 172 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.99% |
 | 174 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.97% |
 | 176 | [Trifox](games/t/trifox.md) | 0.96% |
