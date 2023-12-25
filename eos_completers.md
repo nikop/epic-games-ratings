@@ -72,7 +72,7 @@
 | 70 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.00% |
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.72% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.71% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.36% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
@@ -98,7 +98,7 @@
 | 95 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.85% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.77% |
 | 98 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.57% |
-| 99 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.52% |
+| 99 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.51% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
 | 101 | [Dungeons 4](games/d/dungeons_4.md) | 3.33% |
 | 102 | [Bunny Park](games/b/bunny_park.md) | 3.28% |
@@ -198,9 +198,9 @@
 | 196 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 197 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.68% |
 | 198 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.65% |
-| 199 | [Darksiders III](games/d/darksiders_iii.md) | 0.63% |
 | 199 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
-| 201 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
+| 200 | [Darksiders III](games/d/darksiders_iii.md) | 0.62% |
+| 200 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 202 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.61% |
 | 203 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 204 | [Haven](games/h/haven.md) | 0.57% |
@@ -279,12 +279,12 @@
 | 277 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 278 | [Dead Space](games/d/dead_space.md) | 0.18% |
 | 278 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 278 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
 | 278 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.18% |
-| 282 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.17% |
-| 282 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.17% |
-| 282 | [Lost Ruins](games/l/lost_ruins.md) | 0.17% |
-| 282 | [Scathe](games/s/scathe.md) | 0.17% |
+| 281 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.17% |
+| 281 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.17% |
+| 281 | [Lost Ruins](games/l/lost_ruins.md) | 0.17% |
+| 281 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.17% |
+| 281 | [Scathe](games/s/scathe.md) | 0.17% |
 | 286 | [Blanc](games/b/blanc.md) | 0.16% |
 | 286 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 286 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
