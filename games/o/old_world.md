@@ -9,11 +9,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.50% | ~80 |
 | Play a Single Player Game | 0.50% | ~80 |
 | Explorer | 0.40% | ~64 |
+| Intrepid | 0.40% | ~64 |
 | Friendly Family | 0.40% | ~64 |
 | Able | 0.30% | ~48 |
 | Architect | 0.30% | ~48 |
+| Enlightened | 0.30% | ~48 |
+| Glorious | 0.30% | ~48 |
 | Good | 0.30% | ~48 |
-| Intrepid | 0.30% | ~48 |
 | Just | 0.30% | ~48 |
 | Keystone | 0.30% | ~48 |
 | Learned | 0.30% | ~48 |
@@ -25,12 +27,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
+| Trade Caravan | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Ambitious | 0.20% | ~32 |
+| Drillmaster | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
-| Enlightened | 0.20% | ~32 |
 | Fountainhead | 0.20% | ~32 |
-| Glorious | 0.20% | ~32 |
+| Great | 0.20% | ~32 |
 | Intercessor | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
 | Warrior | 0.20% | ~32 |
@@ -39,9 +42,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.20% | ~32 |
 | Strong Cities | 0.20% | ~32 |
 | Able Difficulty | 0.20% | ~32 |
+| Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
+| Acropolis | 0.20% | ~32 |
 | Apadana | 0.20% | ~32 |
+| Colossus | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
 | Ishtar Gate | 0.20% | ~32 |
 | Lighthouse | 0.20% | ~32 |
@@ -57,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.20% | ~32 |
 | Zoroastrianism | 0.20% | ~32 |
 | Naming Landmarks | 0.20% | ~32 |
-| Trade Caravan | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -96,11 +101,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.10% | ~16 |
 | Avenger | 0.10% | ~16 |
 | Beloved | 0.10% | ~16 |
-| Drillmaster | 0.10% | ~16 |
 | Capable | 0.10% | ~16 |
 | Conqueror | 0.10% | ~16 |
+| Destroyer | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
-| Great | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
@@ -113,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
-| Good Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |
 | Magnificent Difficulty | 0.10% | ~16 |
 | Noble Difficulty | 0.10% | ~16 |
@@ -148,9 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | What's 'hubris' in Greek? | 0.10% | ~16 |
 | Three's a Crowd | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
-| Acropolis | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
-| Colossus | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |
 | Temple of Solomon | 0.10% | ~16 |
@@ -179,6 +180,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
+| Apadana in Parsa | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
@@ -270,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Future Regicide | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Destroyer | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -314,7 +315,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
-| Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,927 (Ranked 162)  
+Progressed: 15,930 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,6 +614,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
+| 2023-12-25 | 15,930 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

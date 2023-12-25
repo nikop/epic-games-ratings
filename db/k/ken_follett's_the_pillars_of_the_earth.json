@@ -6,9 +6,9 @@
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17360,
+  "EOS_Progressed": 17361,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16930,6 +16930,11 @@
       "Time": "2023-12-24T23:06:10.5171377+00:00",
       "NumProgressed": 17360,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-25T01:55:30.4112663+00:00",
+      "NumProgressed": 17361,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 41,
@@ -16981,7 +16986,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5556
     },
     {
       "ID": "tpote_achievement_15",
@@ -16997,7 +17002,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "tpote_achievement_17",
@@ -17045,7 +17050,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "tpote_achievement_22",
@@ -17141,7 +17146,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "tpote_achievement_33",
@@ -17229,7 +17234,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "tpote_achievement_6",
@@ -17261,22 +17266,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5902
+      "UsersEstimate": 5903
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17360,
+      "Progressed": 17361,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:06:53.1814264+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:55:30.4112657+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:57:49.5061452+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:06:53.1815275+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:44:56.0940466+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:55:30.4113623+00:00"
 }

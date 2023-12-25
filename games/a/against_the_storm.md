@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,145 (Ranked 150)  
+Progressed: 19,149 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,15 +315,15 @@ Completed: 38 (0.20%) (Ranked 273)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,145 | 38 |
+| 2023-12-25 | 19,149 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
-Sum: 3,288 (Ranked 176)  
+Sum: 3,289 (Ranked 176)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 443 |
-| This game is Relaxing | 439 |
+| This game is Relaxing | 440 |
 | This game is Great for Beginners | 433 |
 | This game is Extremely Fun | 414 |
 | This game is Highly Recommended | 395 |
@@ -599,3 +599,4 @@ Diff (max vs sum): 52
 | 2023-12-22 | 4.82 | - | 442 | 3,283 |
 | 2023-12-23 | 4.82 | - | 443 | 3,284 |
 | 2023-12-24 | 4.82 | - | 443 | 3,288 |
+| 2023-12-25 | 4.82 | - | 443 | 3,289 |

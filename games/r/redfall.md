@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.59 (Ranked 1,067)  
+Rating: 3.58 (Ranked 1,067)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,22 +10,23 @@ Rating: 3.59 (Ranked 1,067)
 | Home Is Where the Heart Is | 8.00% | ~164 |
 | ICU | 8.00% | ~164 |
 | Wounded Whispers | 8.00% | ~164 |
-| Blood Will Have Blood | 7.00% | ~143 |
-| Ne Plus Ultra | 7.00% | ~143 |
-| Fly Fisher | 6.00% | ~123 |
+| Blood Will Have Blood | 7.00% | ~144 |
+| Ne Plus Ultra | 7.00% | ~144 |
+| Fly Fisher | 7.00% | ~144 |
 | Peek-a-boo | 6.00% | ~123 |
+| Throw The First Stone | 6.00% | ~123 |
 | Sucks To Be You | 6.00% | ~123 |
 | Enter of Your Own Free Will | 5.00% | ~102 |
 | Welcome to the Neighborhood | 5.00% | ~102 |
-| Throw The First Stone | 5.00% | ~102 |
 | Heart Attack | 5.00% | ~102 |
 | Bad Wiring | 4.00% | ~82 |
 | Grounded | 4.00% | ~82 |
 | Skin of Their Teeth | 4.00% | ~82 |
-| Neighborhood Revitalization | 3.00% | ~61 |
-| Radio Silence | 3.00% | ~61 |
+| Neighborhood Revitalization | 3.00% | ~62 |
+| Radio Silence | 3.00% | ~62 |
 | Sic Transit Umbra | 2.00% | ~41 |
 | Bell-ringer | 2.00% | ~41 |
+| Silence Is Golden | 2.00% | ~41 |
 | Good Morning | 2.00% | ~41 |
 | From the Shadows | 2.00% | ~41 |
 | Starve the Beast | 2.00% | ~41 |
@@ -35,7 +36,6 @@ Rating: 3.59 (Ranked 1,067)
 | Revelations | 1.00% | ~20 |
 | Contingency Plans | 1.00% | ~20 |
 | Block Party | 1.00% | ~20 |
-| Silence Is Golden | 1.00% | ~20 |
 | You Clean It Up | 1.00% | ~20 |
 | Check, Please! | 1.00% | ~20 |
 | Nice Try | 1.00% | ~20 |
@@ -48,8 +48,8 @@ Rating: 3.59 (Ranked 1,067)
 | Dexterity Save | 0.50% | ~10 |
 | Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
+| Sisterhood | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
-| Sisterhood | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
 | Scream Team | 0.20% | ~4 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,049 (Ranked 237)  
+Progressed: 2,050 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,14 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
-| 2023-12-25 | 2,049 | 0 |
+| 2023-12-25 | 2,050 | 0 |
+## Awards
+Max (Great Boss Battles): 20  (Ranked 568)  
+Sum: 20 (Ranked 569)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -243,3 +250,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-19 | 3.57 | 0 | 0 |
 | 2023-12-21 | 3.56 | 0 | 0 |
 | 2023-12-24 | 3.59 | 0 | 0 |
+| 2023-12-25 | 3.58 | 20 | 20 |

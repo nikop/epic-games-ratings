@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2698,
+  "EOS_Progressed": 2703,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2744,6 +2744,11 @@
       "Time": "2023-12-25T00:04:58.4824963+00:00",
       "NumProgressed": 2698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T01:52:16.8843856+00:00",
+      "NumProgressed": 2703,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2772,7 +2777,7 @@
       "Name": "Wicked Zeroes",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -2780,7 +2785,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 730
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2860,7 +2865,7 @@
       "Name": "Worthy Badge",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2940,7 +2945,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 811
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2956,7 +2961,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 944
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3131,14 +3136,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2698,
+      "Progressed": 2703,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:04:58.482496+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:52:16.8843849+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:00:02.6627566+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:04:58.4825479+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:47:21.4493723+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:52:16.8844248+00:00"
 }

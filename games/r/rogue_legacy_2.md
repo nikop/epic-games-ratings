@@ -6,7 +6,7 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 5.00% | ~1,331 |
+| Spells and Swords | 5.00% | ~1,332 |
 | Captain and Crew | 4.00% | ~1,065 |
 | No Harm in Looking | 4.00% | ~1,065 |
 | Harvest and Home | 3.00% | ~799 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,626 (Ranked 141)  
+Progressed: 26,634 (Ranked 141)  
 Completed: 35 (0.13%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 35 (0.13%) (Ranked 294)
 | 2023-12-22 | 26,293 | 35 |
 | 2023-12-23 | 26,474 | 35 |
 | 2023-12-24 | 26,623 | 35 |
-| 2023-12-25 | 26,626 | 35 |
+| 2023-12-25 | 26,634 | 35 |
 ## Awards
 Max (Extremely Fun): 224  (Ranked 285)  
 Sum: 1,706 (Ranked 225)  

@@ -22,8 +22,8 @@
 | Unlimited Power!! | 26.00% | ~21 |
 | Lightbulb Detective | 26.00% | ~21 |
 | Cartographer | 21.00% | ~17 |
+| South Square Lightbulbs | 20.00% | ~16 |
 | The Quiche and the Hair Dryer | 20.00% | ~16 |
-| South Square Lightbulbs | 19.00% | ~15 |
 | The Ghost and the Lamps | 19.00% | ~15 |
 | West Residence Energy | 17.00% | ~14 |
 | The Woman and the Pizzeria | 17.00% | ~14 |
@@ -31,15 +31,15 @@
 | The Painter and the Lights | 15.00% | ~12 |
 | Riddle Master | 14.00% | ~11 |
 | At your service | 12.00% | ~10 |
-| East Street Lightbulbs | 11.00% | ~9 |
+| East Street Lightbulbs | 12.00% | ~10 |
 | Out of service | 10.00% | ~8 |
+| The Garland and the Lightbulbs | 10.00% | ~8 |
+| Lightbulb Master | 9.00% | ~7 |
+| North Town Lightbulbs | 9.00% | ~7 |
 | Deep Lore | 9.00% | ~7 |
-| The Garland and the Lightbulbs | 9.00% | ~7 |
-| Lightbulb Master | 7.00% | ~6 |
-| North Town Lightbulbs | 7.00% | ~6 |
-| Lightning fast | 7.00% | ~6 |
+| Lightning fast | 9.00% | ~7 |
+| The Spirit and The Mouse | 7.00% | ~6 |
 | The GA-DX | 6.00% | ~5 |
-| The Spirit and The Mouse | 6.00% | ~5 |
 | Fabulous! | 6.00% | ~5 |
 | The Woman and the Stars | 5.00% | ~4 |
 | Warm Bed | 2.00% | ~2 |

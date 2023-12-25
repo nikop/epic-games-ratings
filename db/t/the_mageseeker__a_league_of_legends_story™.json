@@ -3,12 +3,12 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 100,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3025,
+  "EOS_Progressed": 3026,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -5117,6 +5117,11 @@
       "Time": "2023-12-24T23:04:49.6165094+00:00",
       "NumProgressed": 3025,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-25T01:53:02.0150445+00:00",
+      "NumProgressed": 3026,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 53,
@@ -5152,7 +5157,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -5184,7 +5189,7 @@
       "Name": "No more holding back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -5192,7 +5197,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5208,7 +5213,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5240,7 +5245,7 @@
       "Name": "I chose my shackles",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5248,7 +5253,7 @@
       "Name": "Past trauma",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -5288,7 +5293,7 @@
       "Name": "Silverwing nest",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "STB_HOOK_CHALLENGE",
@@ -5296,7 +5301,7 @@
       "Name": "Chains master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -5304,7 +5309,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5312,7 +5317,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2754
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5344,7 +5349,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5352,7 +5357,7 @@
       "Name": "Thornbarrow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5400,7 +5405,7 @@
       "Name": "Terbisia",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -5432,7 +5437,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5440,7 +5445,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "STB_PLATINUM",
@@ -5464,7 +5469,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -5472,7 +5477,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -5488,7 +5493,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -5504,7 +5509,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5512,7 +5517,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -5544,14 +5549,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 16
     }
   ],
@@ -5559,8 +5564,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:05:32.9219228+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:53:02.015044+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:57:39.2703156+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:05:32.9219679+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:44:41.9380585+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:53:02.0151029+00:00"
 }

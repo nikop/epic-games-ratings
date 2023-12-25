@@ -3,11 +3,11 @@
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
   "Ranking_Rating": 549,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -185,10 +185,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109411,
-  "EOS_Completed": 5221,
-  "EOS_NewPlayers": 1529,
-  "EOS_NewCompleters": 125,
+  "EOS_Progressed": 109412,
+  "EOS_Completed": 5223,
+  "EOS_NewPlayers": 1521,
+  "EOS_NewCompleters": 126,
   "EOS_Completed_Percentage": 4.77,
   "EosHistory": [
     {
@@ -11915,6 +11915,11 @@
       "Time": "2023-12-25T00:05:21.1037574+00:00",
       "NumProgressed": 109411,
       "NumCompleted": 5221
+    },
+    {
+      "Time": "2023-12-25T01:52:46.4911844+00:00",
+      "NumProgressed": 109412,
+      "NumCompleted": 5223
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -11927,7 +11932,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 68929
+      "UsersEstimate": 68930
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -11959,7 +11964,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 61270
+      "UsersEstimate": 61271
     },
     {
       "ID": "ShipDip",
@@ -11975,7 +11980,7 @@
       "Name": "The Art of Parley",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 83152
+      "UsersEstimate": 83153
     },
     {
       "ID": "TheGoldenRatio",
@@ -12022,16 +12027,16 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 109411,
-      "Completed": 5221
+      "Progressed": 109412,
+      "Completed": 5223
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-12-06T21:57:26.986764+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:05:21.1037571+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:52:46.4911837+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.1061387+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:59:38.9721418+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:05:21.103818+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:46:46.1947097+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:52:46.4912448+00:00"
 }

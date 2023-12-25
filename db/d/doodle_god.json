@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 490,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -482,9 +482,9 @@
       "ID": "605812",
       "SetID": "4lpaifm",
       "Name": "God of Fun",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "605822",
@@ -514,9 +514,9 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "605862",
@@ -603,8 +603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:08:42.2410721+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:56:07.8793734+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.7169826+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:02:49.8722095+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:08:42.2410856+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:50:00.3209943+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:56:07.879388+00:00"
 }

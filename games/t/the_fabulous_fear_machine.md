@@ -9,7 +9,7 @@
 | Jung's dream | 31.00% | ~21 |
 | The battle of Great Britain | 31.00% | ~21 |
 | Pulp! Where Monsters Dwell | 27.00% | ~18 |
-| A continent with chemistry | 21.00% | ~14 |
+| A continent with chemistry | 22.00% | ~15 |
 | The happy farmer girl | 19.00% | ~13 |
 | Giant | 18.00% | ~12 |
 | Pulp! Terror Tales in the Night | 18.00% | ~12 |
@@ -20,13 +20,13 @@
 | You have two wishes left | 16.00% | ~11 |
 | The artist | 15.00% | ~10 |
 | Pulp! Adventures into the Unknown | 15.00% | ~10 |
+| You had one wish left | 13.00% | ~9 |
 | Et in arcadia ego | 13.00% | ~9 |
 | The seer | 13.00% | ~9 |
-| You had one wish left | 12.00% | ~8 |
+| You've awakened the beast | 12.00% | ~8 |
+| Hate is... addictive | 12.00% | ~8 |
 | Kirlian's best disciple | 12.00% | ~8 |
 | Welcome to Hellville | 12.00% | ~8 |
-| You've awakened the beast | 10.00% | ~7 |
-| Hate is... addictive | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
 | Blood Red Island | 9.00% | ~6 |
 | Bread and bocaua | 9.00% | ~6 |

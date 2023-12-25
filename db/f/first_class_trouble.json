@@ -2,13 +2,13 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1813,10 +1813,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 717,
       "NumberOfAwardsMax": 146
+    },
+    {
+      "Time": "2023-12-25T01:50:34.9074479+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 718,
+      "NumberOfAwardsMax": 146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 717,
+  "NumberOfAwards": 718,
   "NumberOfAwardsMax": 146,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1830,7 +1836,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1893,8 +1899,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-12-25T00:03:14.0876514+00:00",
+  "LastChanged": "2023-12-25T01:50:34.9074477+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.3689811+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:03:14.0876519+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:03:45.5618688+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:50:34.9074482+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:51:19.6984474+00:00"
 }

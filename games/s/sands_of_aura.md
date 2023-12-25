@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 90.00% | ~108 |
 | A Small Thirsty Thing | 13.00% | ~16 |
+| Advanced Armaments | 12.00% | ~14 |
 | Dousing a Venerable Flame | 11.00% | ~13 |
-| Advanced Armaments | 11.00% | ~13 |
 | Spirit Within | 11.00% | ~13 |
 | Leisis Bless You | 9.00% | ~11 |
 | Rain Must Fall | 8.00% | ~10 |

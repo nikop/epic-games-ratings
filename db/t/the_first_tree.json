@@ -3,12 +3,12 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 1018,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -271,10 +271,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39449,
-  "EOS_Completed": 121,
-  "EOS_NewPlayers": 298,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 39450,
+  "EOS_Completed": 122,
+  "EOS_NewPlayers": 299,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -21926,6 +21926,11 @@
       "Time": "2023-12-25T00:06:28.2065207+00:00",
       "NumProgressed": 39449,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-25T01:54:16.4536002+00:00",
+      "NumProgressed": 39450,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 14,
@@ -22033,7 +22038,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6706
+      "UsersEstimate": 6707
     },
     {
       "ID": "secretItem",
@@ -22048,15 +22053,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39449,
-      "Completed": 121
+      "Progressed": 39450,
+      "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:06:28.2065205+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:54:16.4535995+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:57:31.2867678+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:06:28.2066304+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:44:31.3881356+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:54:16.4537057+00:00"
 }

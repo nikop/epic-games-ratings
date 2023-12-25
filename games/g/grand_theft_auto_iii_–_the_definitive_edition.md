@@ -5,21 +5,21 @@ Rating: 4.16 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,725 |
-| Disposing of the Evidence | 38.00% | ~3,995 |
-| Without a Scratch | 34.00% | ~3,574 |
-| Wreckless Driving | 28.00% | ~2,943 |
-| A Marked Man | 25.00% | ~2,628 |
-| Street Sweeper | 18.00% | ~1,892 |
-| Liberty City Minute | 17.00% | ~1,787 |
+| First Day on the Job | 83.00% | ~8,731 |
+| Disposing of the Evidence | 38.00% | ~3,997 |
+| Without a Scratch | 34.00% | ~3,576 |
+| Wreckless Driving | 28.00% | ~2,945 |
+| A Marked Man | 25.00% | ~2,630 |
+| Street Sweeper | 18.00% | ~1,893 |
+| Liberty City Minute | 17.00% | ~1,788 |
 | Offshore Delivery | 13.00% | ~1,367 |
-| Dirty Money | 12.00% | ~1,261 |
-| By a Mile | 10.00% | ~1,051 |
-| Not So Fast | 10.00% | ~1,051 |
-| Right-hand Man | 10.00% | ~1,051 |
+| Dirty Money | 12.00% | ~1,262 |
+| By a Mile | 10.00% | ~1,052 |
+| Not So Fast | 10.00% | ~1,052 |
+| Right-hand Man | 10.00% | ~1,052 |
 | A Gift from the King | 7.00% | ~736 |
-| Full Artillery | 4.00% | ~420 |
-| Mob Boss | 3.00% | ~315 |
+| Full Artillery | 4.00% | ~421 |
+| Mob Boss | 3.00% | ~316 |
 | Escape Artist | 2.00% | ~210 |
 | Where To? | 2.00% | ~210 |
 | Splish Splash | 2.00% | ~210 |
@@ -32,11 +32,11 @@ Rating: 4.16 (Ranked 962)
 | Man Toyz | 1.00% | ~105 |
 | Going Rogue | 1.00% | ~105 |
 | Furious First Responder | 1.00% | ~105 |
-| Is That All You've Got? | 0.80% | ~84 |
+| Is That All You've Got? | 0.90% | ~95 |
 | King of Liberty City | 0.60% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,512 (Ranked 174)  
-Completed: 66 (0.63%) (Ranked 199)  
+Progressed: 10,519 (Ranked 174)  
+Completed: 68 (0.65%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,7 +284,7 @@ Completed: 66 (0.63%) (Ranked 199)
 | 2023-12-22 | 10,256 | 65 |
 | 2023-12-23 | 10,392 | 66 |
 | 2023-12-24 | 10,505 | 66 |
-| 2023-12-25 | 10,512 | 66 |
+| 2023-12-25 | 10,519 | 68 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

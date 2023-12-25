@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~615 |
-| Training Simulation | 79.00% | ~522 |
-| Kuku Bird Hunter | 66.00% | ~436 |
+| Travel Streamer | 93.00% | ~616 |
+| Training Simulation | 79.00% | ~523 |
+| Kuku Bird Hunter | 66.00% | ~437 |
 | Storm Traveller | 60.00% | ~397 |
 | Wolf King Killer | 55.00% | ~364 |
-| Fashion Connoisseur | 53.00% | ~350 |
+| Fashion Connoisseur | 53.00% | ~351 |
 | Arms Mechanic | 49.00% | ~324 |
 | Flower Thief | 44.00% | ~291 |
 | Apostle of Flame | 39.00% | ~258 |
-| Beginner Artificer | 38.00% | ~251 |
 | Beginner Cook | 37.00% | ~245 |
+| Beginner Artificer | 37.00% | ~245 |
 | Seal Breaker | 32.00% | ~212 |
 | Handyman | 28.00% | ~185 |
 | Giant Lizard Killer | 26.00% | ~172 |
-| Guardian | 25.00% | ~165 |
-| Nosebleeder | 25.00% | ~165 |
-| Trader | 22.00% | ~145 |
+| Guardian | 25.00% | ~166 |
+| Nosebleeder | 25.00% | ~166 |
+| Trader | 22.00% | ~146 |
 | Weapon Boost | 21.00% | ~139 |
 | Flying Kobold Killer | 19.00% | ~126 |
 | Youth Magnet | 18.00% | ~119 |
-| Furious Scorpion Killer | 17.00% | ~112 |
-| Master Artificer | 17.00% | ~112 |
+| Furious Scorpion Killer | 17.00% | ~113 |
+| Master Artificer | 17.00% | ~113 |
 | Lethal Blade Mantis Killer | 16.00% | ~106 |
 | Squeaky Clean | 16.00% | ~106 |
 | Kind Adventurer | 15.00% | ~99 |
@@ -34,8 +34,8 @@
 | Face Slapper | 14.00% | ~93 |
 | Boss challenge | 10.00% | ~66 |
 | Berserker Slayer | 10.00% | ~66 |
-| Giantess Slayer | 9.00% | ~59 |
-| Warden Slayer | 9.00% | ~59 |
+| Giantess Slayer | 9.00% | ~60 |
+| Warden Slayer | 9.00% | ~60 |
 | Master Cook | 8.00% | ~53 |
 | Silver Moon Wolf King Challenge | 4.00% | ~26 |
 | Flying Kobold Challenge | 3.00% | ~20 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~13 |
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 310)  
+Progressed: 662 (Ranked 309)  
 Completed: 2 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 2 (0.30%) (Ranked 251)
 | 2023-12-22 | 647 | 1 |
 | 2023-12-23 | 654 | 2 |
 | 2023-12-24 | 661 | 2 |
+| 2023-12-25 | 662 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

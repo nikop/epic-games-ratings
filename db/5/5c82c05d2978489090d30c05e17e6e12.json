@@ -3,8 +3,8 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 986,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 68,
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70013,
+  "EOS_Progressed": 70032,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 2103,
+  "EOS_NewPlayers": 2104,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4796,6 +4796,11 @@
       "Time": "2023-12-25T00:06:09.0973084+00:00",
       "NumProgressed": 70013,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-12-25T01:53:50.6045617+00:00",
+      "NumProgressed": 70032,
+      "NumCompleted": 94
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4808,7 +4813,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25905
+      "UsersEstimate": 25912
     },
     {
       "ID": "Achievement_10",
@@ -4848,7 +4853,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "Achievement_15",
@@ -4896,7 +4901,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18904
+      "UsersEstimate": 18909
     },
     {
       "ID": "Achievement_20",
@@ -4920,7 +4925,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "Achievement_23",
@@ -4984,7 +4989,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8402
+      "UsersEstimate": 8404
     },
     {
       "ID": "Achievement_30",
@@ -5032,7 +5037,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6303
     },
     {
       "ID": "Achievement_5",
@@ -5040,7 +5045,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4201
+      "UsersEstimate": 4202
     },
     {
       "ID": "Achievement_6",
@@ -5056,7 +5061,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "Achievement_8",
@@ -5064,7 +5069,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "Achievement_9",
@@ -5079,7 +5084,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70013,
+      "Progressed": 70032,
       "Completed": 94
     }
   ],
@@ -5087,8 +5092,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-23T05:03:37.9211737+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:06:09.0973082+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:53:50.6045612+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:03:04.3469123+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:06:09.0973398+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:50:20.7748612+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:53:50.6045982+00:00"
 }

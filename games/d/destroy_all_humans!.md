@@ -6,49 +6,49 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~94 |
-| Shop Til They Drop | 65.00% | ~92 |
-| Lie Back and Think of Albion | 60.00% | ~85 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~80 |
-| Yettisoned | 56.00% | ~79 |
-| I Look Up As I Walk to Takoshima | 52.00% | ~73 |
-| Lobster Blisque | 50.00% | ~70 |
-| Perfect Probulator | 49.00% | ~69 |
-| Pimp My Raid | 44.00% | ~62 |
-| Fly Me to the Moon Base | 43.00% | ~61 |
-| Earthly Pleasures | 40.00% | ~56 |
-| Ducks in a Row, Fish in a Barrel | 40.00% | ~56 |
-| Freshly Squeezed | 35.00% | ~49 |
-| Upgreatest | 32.00% | ~45 |
-| Forbidden Donut | 30.00% | ~42 |
-| Bodied Sattva | 28.00% | ~39 |
-| Trans-Siberian Express | 26.00% | ~37 |
-| Deincarnated | 25.00% | ~35 |
-| Rock of the Bay | 25.00% | ~35 |
-| Furon Fashion | 23.00% | ~32 |
-| Re-Return of the Clone of the Invasion II-2 | 23.00% | ~32 |
+| Kaijuiced | 68.00% | ~99 |
+| Shop Til They Drop | 66.00% | ~96 |
+| Lie Back and Think of Albion | 61.00% | ~88 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~84 |
+| Yettisoned | 56.00% | ~81 |
+| I Look Up As I Walk to Takoshima | 51.00% | ~74 |
+| Lobster Blisque | 49.00% | ~71 |
+| Perfect Probulator | 49.00% | ~71 |
+| Pimp My Raid | 43.00% | ~62 |
+| Fly Me to the Moon Base | 42.00% | ~61 |
+| Ducks in a Row, Fish in a Barrel | 41.00% | ~59 |
+| Earthly Pleasures | 40.00% | ~58 |
+| Freshly Squeezed | 34.00% | ~49 |
+| Upgreatest | 32.00% | ~46 |
+| Forbidden Donut | 31.00% | ~45 |
+| Bodied Sattva | 28.00% | ~41 |
+| Rock of the Bay | 25.00% | ~36 |
+| Trans-Siberian Express | 25.00% | ~36 |
+| Deincarnated | 24.00% | ~35 |
+| Furon Fashion | 23.00% | ~33 |
+| Re-Return of the Clone of the Invasion II-2 | 22.00% | ~32 |
 | Arkvoodle Doodle | 16.00% | ~23 |
-| If You Know What I Mean | 13.00% | ~18 |
-| Die Nasty | 13.00% | ~18 |
-| Hidden Human Hive Harvest | 13.00% | ~18 |
-| Mash Machine | 13.00% | ~18 |
+| If You Know What I Mean | 13.00% | ~19 |
+| Die Nasty | 13.00% | ~19 |
 | Ouch of Body Experience | 12.00% | ~17 |
+| Hidden Human Hive Harvest | 12.00% | ~17 |
+| Mash Machine | 12.00% | ~17 |
 | Dusted | 12.00% | ~17 |
 | Albion Bridge Is for Falling Down | 11.00% | ~16 |
-| Scuttled | 8.00% | ~11 |
-| Higher Than the Futen Zoku | 8.00% | ~11 |
+| Scuttled | 8.00% | ~12 |
+| Higher Than the Futen Zoku | 8.00% | ~12 |
 | PK Slam Dunk | 7.00% | ~10 |
-| Arty Facts | 6.00% | ~8 |
+| Arty Facts | 6.00% | ~9 |
 | Cult Following | 4.00% | ~6 |
-| Path of the Furon | 4.00% | ~6 |
 | To Russia With Love | 3.00% | ~4 |
+| Path of the Furon | 3.00% | ~4 |
 | Transmitting From Sol-3 | 1.00% | ~1 |
 | Toilet Break | 1.00% | ~1 |
 | Steezy Down the Spine | 0.70% | ~1 |
 | Against All Odds | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 440)  
-Completed: 1 (0.71%) (Ranked 194)  
+Progressed: 145 (Ranked 438)  
+Completed: 1 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,6 +59,7 @@ Completed: 1 (0.71%) (Ranked 194)
 | 2023-12-22 | 106 | 0 |
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 141 | 1 |
+| 2023-12-25 | 145 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 497)  
 Sum: 34 (Ranked 523)  

@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 32)
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 166  (Ranked 315)  
-Sum: 547 (Ranked 325)  
+Sum: 549 (Ranked 325)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -13,14 +13,14 @@ Diff (max vs sum): -10
 | This game is Great for Quick Sessions | 51 |
 | This game is Great for Beginners | 50 |
 | This game is Extremely Fun | 48 |
+| This game is Highly Recommended | 44 |
 | This game has Quickly Understood Controls | 43 |
-| This game is Highly Recommended | 43 |
 | This game is Relaxing | 36 |
 | This game has Competitive Players | 35 |
 | This game has Amazing Storytelling | 28 |
 | This game has Beautiful Visuals | 28 |
+| This game has Amazing Characters | 25 |
 | This game has Obsessive Gameplay | 24 |
-| This game has Amazing Characters | 24 |
 | This game has Challenging Combat | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -146,3 +146,4 @@ Diff (max vs sum): -10
 | 2023-12-20 | 4.86 | - | 165 | 545 |
 | 2023-12-22 | 4.86 | - | 165 | 546 |
 | 2023-12-24 | 4.86 | - | 166 | 547 |
+| 2023-12-25 | 4.86 | - | 166 | 549 |

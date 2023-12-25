@@ -6,33 +6,33 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,730 |
-| The Assault | 3.00% | ~22,297 |
-| Life is your teacher | 3.00% | ~22,297 |
-| Lightning Hands | 3.00% | ~22,297 |
-| The Hateful Pole Fighter | 2.00% | ~14,865 |
-| Stuntmaster | 2.00% | ~14,865 |
-| Street Fighting | 2.00% | ~14,865 |
-| State of constant learning | 2.00% | ~14,865 |
-| Qi Gong: Essence | 2.00% | ~14,865 |
-| Old Child | 2.00% | ~14,865 |
-| Rumble in the Hangar | 2.00% | ~14,865 |
-| A Lady's Blood in the Snow | 1.00% | ~7,432 |
-| Lady Wing Chun | 1.00% | ~7,432 |
-| Furious Fists | 1.00% | ~7,432 |
-| Kill Nil | 1.00% | ~7,432 |
-| Qi Gong: Mind | 1.00% | ~7,432 |
-| Qi Gong: Breath | 1.00% | ~7,432 |
-| I know Kung-Fu | 1.00% | ~7,432 |
-| Path of the Prospect | 1.00% | ~7,432 |
-| Take damage to save time | 1.00% | ~7,432 |
-| Project Arena | 1.00% | ~525 |
-| Diligence as a goal | 1.00% | ~525 |
+| The Old Grandmaster | 4.00% | ~29,732 |
+| The Assault | 3.00% | ~22,299 |
+| Life is your teacher | 3.00% | ~22,299 |
+| Lightning Hands | 3.00% | ~22,299 |
+| The Hateful Pole Fighter | 2.00% | ~14,866 |
+| Stuntmaster | 2.00% | ~14,866 |
+| Street Fighting | 2.00% | ~14,866 |
+| State of constant learning | 2.00% | ~14,866 |
+| Qi Gong: Essence | 2.00% | ~14,866 |
+| Old Child | 2.00% | ~14,866 |
+| Rumble in the Hangar | 2.00% | ~14,866 |
+| A Lady's Blood in the Snow | 1.00% | ~7,433 |
+| Lady Wing Chun | 1.00% | ~7,433 |
+| Furious Fists | 1.00% | ~7,433 |
+| Kill Nil | 1.00% | ~7,433 |
+| Qi Gong: Mind | 1.00% | ~7,433 |
+| Qi Gong: Breath | 1.00% | ~7,433 |
+| I know Kung-Fu | 1.00% | ~7,433 |
+| Path of the Prospect | 1.00% | ~7,433 |
+| Take damage to save time | 1.00% | ~7,433 |
+| Project Arena | 1.00% | ~526 |
+| Diligence as a goal | 1.00% | ~526 |
 | Scareless | 0.80% | ~5,946 |
 | Kung-Fu Tussle | 0.80% | ~5,946 |
 | Dance of the Praying Mantis | 0.70% | ~5,203 |
 | Fight the way you practice | 0.70% | ~368 |
-| Martial Hub | 0.60% | ~315 |
+| Martial Hub | 0.60% | ~316 |
 | Muk Yan Master | 0.50% | ~3,716 |
 | Bloody Sport | 0.50% | ~263 |
 | Tiger on Fire | 0.40% | ~2,973 |
@@ -45,14 +45,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,230 |
 | The Pit Protector | 0.30% | ~2,230 |
 | The best strikes are the ones we avoid | 0.30% | ~158 |
-| Drunken Fighter | 0.20% | ~1,486 |
-| Martial Artist | 0.20% | ~1,486 |
-| Knowledge Greed | 0.20% | ~1,486 |
-| Healing Memory | 0.20% | ~1,486 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,486 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,486 |
-| Be like water my friend | 0.20% | ~1,486 |
-| Come Snap With Me | 0.20% | ~1,486 |
+| Drunken Fighter | 0.20% | ~1,487 |
+| Martial Artist | 0.20% | ~1,487 |
+| Knowledge Greed | 0.20% | ~1,487 |
+| Healing Memory | 0.20% | ~1,487 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,487 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,487 |
+| Be like water my friend | 0.20% | ~1,487 |
+| Come Snap With Me | 0.20% | ~1,487 |
 | Deadly Venom | 0.20% | ~105 |
 | A Touch of Acumen | 0.20% | ~105 |
 | Skill and an even stronger will | 0.20% | ~105 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~53 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,248 (Ranked 23)  
-Completed: 12,963 (1.74%) (Ranked 141)  
+Progressed: 743,292 (Ranked 23)  
+Completed: 12,964 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,7 +316,7 @@ Completed: 12,963 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 743,248 | 12,963 |
+| 2023-12-25 | 743,292 | 12,964 |
 ## Awards
 Max (Great Boss Battles): 6,999  (Ranked 55)  
 Sum: 12,282 (Ranked 84)  

@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4594,6 +4594,11 @@
       "Time": "2023-12-24T20:11:07.1839438+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T01:58:07.5740509+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4773,7 +4778,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "elemental_stones_2",
@@ -4821,7 +4826,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "from_day_to_day_2",
@@ -5132,14 +5137,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:10:12.9440069+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:58:07.5740503+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.237449+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:00:30.9964945+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:10:12.9440801+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:47:57.8023086+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:58:07.5741144+00:00"
 }

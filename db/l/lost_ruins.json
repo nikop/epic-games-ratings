@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 599,
+  "EOS_Progressed": 600,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -1519,6 +1519,11 @@
       "Time": "2023-12-24T19:10:19.512635+00:00",
       "NumProgressed": 599,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T01:58:04.694535+00:00",
+      "NumProgressed": 600,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1849,7 +1854,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 1
     }
   ],
@@ -1857,8 +1862,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:10:10.5427733+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:58:04.6945346+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:02:50.9487508+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:10:10.5428057+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:50:01.6266733+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:58:04.6945627+00:00"
 }

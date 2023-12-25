@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 457,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19161,
+  "EOS_Progressed": 19162,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -14069,6 +14069,11 @@
       "Time": "2023-12-24T23:04:08.8128889+00:00",
       "NumProgressed": 19161,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T01:52:08.4900163+00:00",
+      "NumProgressed": 19162,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14080,7 +14085,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "0002",
@@ -14096,7 +14101,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "0004",
@@ -14216,7 +14221,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "0019",
@@ -14264,7 +14269,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "0025",
@@ -14367,7 +14372,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19161,
+      "Progressed": 19162,
       "Completed": 4
     }
   ],
@@ -14375,8 +14380,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:04:21.7993107+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:52:08.4900158+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:00:34.5471003+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:04:21.7994012+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:48:01.1602408+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:52:08.4900887+00:00"
 }

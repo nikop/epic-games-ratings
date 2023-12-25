@@ -6,9 +6,9 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 75.00% | ~135 |
-| Mash Machine | 68.00% | ~122 |
-| Ducks in a Row, Fish in a Barrel | 49.00% | ~88 |
+| Rock of the Bay | 76.00% | ~137 |
+| Mash Machine | 69.00% | ~124 |
+| Ducks in a Row, Fish in a Barrel | 50.00% | ~90 |
 | Furon Fashion | 43.00% | ~77 |
 | Shop Til They Drop | 38.00% | ~68 |
 | Bodied Sattva | 34.00% | ~61 |
@@ -28,9 +28,9 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 7.00% | ~13 |
 | Scuttled | 6.00% | ~11 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~11 |
+| Ultimate Smoothie | 3.00% | ~5 |
 | Lobster Blisque | 3.00% | ~5 |
 | Yettisoned | 3.00% | ~5 |
-| Ultimate Smoothie | 2.00% | ~4 |
 | Deincarnated | 2.00% | ~4 |
 | Arkvoodle Doodle | 2.00% | ~4 |
 | The Optional Mandate | 1.00% | ~2 |

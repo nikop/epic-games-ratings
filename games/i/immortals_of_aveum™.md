@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,560 |
+| Unforeseen | 88.00% | ~1,578 |
 | Battlefields Have Memories | 80.00% | ~1,434 |
 | Enlisted | 73.00% | ~1,309 |
 | Maybe Engage a Little | 68.00% | ~1,219 |
@@ -14,7 +14,7 @@ Rating: 4.18 (Ranked 951)
 | Thrada-Kul | 31.00% | ~556 |
 | Gravity-Challenged Rocks | 25.00% | ~448 |
 | Socialite | 23.00% | ~412 |
-| Soldier | 20.00% | ~359 |
+| Soldier | 21.00% | ~377 |
 | All the Major Food Groups | 20.00% | ~359 |
 | Beggars Would Ride | 18.00% | ~323 |
 | Control is an Illusion | 17.00% | ~305 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 951)
 | Lights Army | 7.00% | ~126 |
 | Periapt Cerulean | 6.00% | ~108 |
 | Good Boy | 6.00% | ~108 |
+| Best Dressed | 5.00% | ~90 |
 | Periapt Viridian | 5.00% | ~90 |
-| Best Dressed | 4.00% | ~72 |
 | Shroudfane Explorer | 4.00% | ~72 |
 | Scholar | 3.00% | ~54 |
 | Kitted Out | 3.00% | ~54 |

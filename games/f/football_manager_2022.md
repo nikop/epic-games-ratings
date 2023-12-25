@@ -6,31 +6,31 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,150 |
-| He's Signed! | 50.00% | ~239,150 |
-| First Victory | 50.00% | ~239,150 |
-| He's Sold! | 48.00% | ~229,584 |
-| I'm The Boss! | 42.00% | ~200,886 |
-| Hat-trick | 41.00% | ~196,103 |
-| Scoring Streak | 38.00% | ~181,754 |
-| Unbeatable! | 37.00% | ~176,971 |
-| Thumping | 37.00% | ~176,971 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,405 |
-| Total Support | 32.00% | ~153,056 |
-| Record Signing | 32.00% | ~153,056 |
-| He's a Natural | 31.00% | ~148,273 |
-| Millionaire's Club | 31.00% | ~148,273 |
-| Team Performance | 30.00% | ~143,490 |
-| Parked The Bus | 29.00% | ~138,707 |
-| Shrewd Spender | 29.00% | ~138,707 |
-| Star Man | 29.00% | ~138,707 |
-| Attack! | 28.00% | ~133,924 |
-| You're On Fire | 27.00% | ~129,141 |
-| Tremendous Trio | 27.00% | ~129,141 |
-| Record Sale | 27.00% | ~129,141 |
-| On A Roll | 26.00% | ~124,358 |
-| Unstoppable Force | 26.00% | ~124,358 |
-| Armchair Expert | 25.00% | ~119,575 |
+| Clean Sheet | 50.00% | ~239,151 |
+| He's Signed! | 50.00% | ~239,151 |
+| First Victory | 50.00% | ~239,151 |
+| He's Sold! | 48.00% | ~229,585 |
+| I'm The Boss! | 42.00% | ~200,887 |
+| Hat-trick | 41.00% | ~196,104 |
+| Scoring Streak | 38.00% | ~181,755 |
+| Unbeatable! | 37.00% | ~176,972 |
+| Thumping | 37.00% | ~176,972 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,406 |
+| Total Support | 32.00% | ~153,057 |
+| Record Signing | 32.00% | ~153,057 |
+| He's a Natural | 31.00% | ~148,274 |
+| Millionaire's Club | 31.00% | ~148,274 |
+| Team Performance | 30.00% | ~143,491 |
+| Parked The Bus | 29.00% | ~138,708 |
+| Shrewd Spender | 29.00% | ~138,708 |
+| Star Man | 29.00% | ~138,708 |
+| Attack! | 28.00% | ~133,925 |
+| You're On Fire | 27.00% | ~129,142 |
+| Tremendous Trio | 27.00% | ~129,142 |
+| Record Sale | 27.00% | ~129,142 |
+| On A Roll | 26.00% | ~124,359 |
+| Unstoppable Force | 26.00% | ~124,359 |
+| Armchair Expert | 25.00% | ~119,576 |
 | Fantastic Five | 24.00% | ~114,792 |
 | Full Faith | 24.00% | ~114,792 |
 | Iron Curtain | 24.00% | ~114,792 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,300 (Ranked 42)  
+Progressed: 478,302 (Ranked 42)  
 Completed: 22 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 22 (0.00%) (Ranked 388)
 | 2023-12-22 | 478,179 | 22 |
 | 2023-12-23 | 478,238 | 22 |
 | 2023-12-24 | 478,298 | 22 |
-| 2023-12-25 | 478,300 | 22 |
+| 2023-12-25 | 478,302 | 22 |
 ## Awards
 Max (Relaxing): 6,486  (Ranked 60)  
 Sum: 51,173 (Ranked 30)  

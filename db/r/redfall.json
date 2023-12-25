@@ -3,12 +3,12 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1067,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 568,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.59,
+  "Rating": 3.58,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -289,15 +289,29 @@
       "Rating": 3.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-25T01:47:06.1967748+00:00",
+      "Rating": 3.58,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
-  "EOS_Progressed": 2049,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 20
+    }
+  ],
+  "EOS_Progressed": 2050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3240,6 +3254,11 @@
       "Time": "2023-12-25T00:06:22.6309621+00:00",
       "NumProgressed": 2049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T01:54:09.1499533+00:00",
+      "NumProgressed": 2050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3251,7 +3270,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement_002",
@@ -3299,7 +3318,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_009",
@@ -3307,7 +3326,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_010",
@@ -3403,7 +3422,7 @@
       "Name": "Radio Silence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement_022",
@@ -3417,9 +3436,9 @@
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 41
     },
     {
       "ID": "Achievement_024",
@@ -3441,9 +3460,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_027",
@@ -3465,9 +3484,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 123
     },
     {
       "ID": "Achievement_030",
@@ -3529,9 +3548,9 @@
       "ID": "Achievement_037",
       "SetID": "6b34g18",
       "Name": "Sisterhood",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_038",
@@ -3778,16 +3797,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2049,
+      "Progressed": 2050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-24T11:58:56.6191346+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:06:22.6309618+00:00",
+  "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:54:09.1499529+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:59:51.7694769+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:06:22.6310153+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:47:06.1967751+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:54:09.1500122+00:00"
 }

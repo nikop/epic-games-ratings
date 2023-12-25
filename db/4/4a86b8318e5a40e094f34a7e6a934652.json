@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1624,9 +1624,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 187
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1664,9 +1664,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 165
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1751,8 +1751,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-25T00:03:36.2026371+00:00",
+  "LastChanged_Achievements": "2023-12-25T01:51:07.5306913+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-24T23:57:48.2674611+00:00",
-  "LastUpdate_Achievements": "2023-12-25T00:03:36.2026542+00:00"
+  "LastUpdate_Ratings": "2023-12-25T01:44:54.2872095+00:00",
+  "LastUpdate_Achievements": "2023-12-25T01:51:07.5307093+00:00"
 }
