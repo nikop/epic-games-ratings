@@ -5,31 +5,31 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~440 |
-| Rail Rat | 31.00% | ~341 |
-| The Mysterious Stranger | 30.00% | ~330 |
-| Immaculate Aim | 25.00% | ~275 |
-| The Brass Boss | 25.00% | ~275 |
-| Make Up For Lost Time | 24.00% | ~264 |
-| Time Flies | 24.00% | ~264 |
-| The Prince in Heels | 24.00% | ~264 |
-| The Harder They Fall | 23.00% | ~253 |
-| No, Thanks! | 23.00% | ~253 |
-| Honest Mistake | 23.00% | ~253 |
-| Fast Learner | 23.00% | ~253 |
-| Immaculate Aim | 23.00% | ~253 |
-| The Steel Shadow | 22.00% | ~242 |
-| Breaking Down Barriers | 22.00% | ~242 |
-| The Wicked Twins | 22.00% | ~242 |
-| Golem Chaser | 21.00% | ~231 |
-| Right On Time | 20.00% | ~220 |
-| Like Clockwork | 20.00% | ~220 |
-| The Betrayer | 20.00% | ~220 |
-| The Loose Cannon | 19.00% | ~209 |
-| Check Your Pulse | 19.00% | ~209 |
-| The Man Who Shattered Time | 18.00% | ~198 |
-| The Family Fortune | 18.00% | ~198 |
-| Street Style | 17.00% | ~187 |
+| Time Heals All Wounds | 40.00% | ~441 |
+| Rail Rat | 31.00% | ~342 |
+| The Mysterious Stranger | 30.00% | ~331 |
+| Immaculate Aim | 25.00% | ~276 |
+| The Brass Boss | 25.00% | ~276 |
+| Make Up For Lost Time | 24.00% | ~265 |
+| Time Flies | 24.00% | ~265 |
+| The Harder They Fall | 23.00% | ~254 |
+| No, Thanks! | 23.00% | ~254 |
+| The Prince in Heels | 23.00% | ~254 |
+| Honest Mistake | 23.00% | ~254 |
+| Fast Learner | 23.00% | ~254 |
+| Immaculate Aim | 23.00% | ~254 |
+| The Steel Shadow | 22.00% | ~243 |
+| Breaking Down Barriers | 22.00% | ~243 |
+| The Wicked Twins | 22.00% | ~243 |
+| Golem Chaser | 21.00% | ~232 |
+| Right On Time | 20.00% | ~221 |
+| Like Clockwork | 20.00% | ~221 |
+| The Betrayer | 20.00% | ~221 |
+| The Loose Cannon | 19.00% | ~210 |
+| Check Your Pulse | 19.00% | ~210 |
+| The Man Who Shattered Time | 18.00% | ~199 |
+| The Family Fortune | 18.00% | ~199 |
+| Street Style | 17.00% | ~188 |
 | Whiz Kid | 15.00% | ~165 |
 | Good Neighbor | 14.00% | ~154 |
 | Treasure Trove | 13.00% | ~143 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,101 (Ranked 277)  
+Progressed: 1,103 (Ranked 277)  
 Completed: 6 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 6 (0.54%) (Ranked 210)
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
-| 2023-12-25 | 1,101 | 6 |
+| 2023-12-25 | 1,103 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

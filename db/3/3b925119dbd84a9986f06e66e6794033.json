@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-12-25T13:13:48.1432127+00:00",
       "NumProgressed": 492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T15:09:23.9222488+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1759,9 +1764,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1800,14 +1805,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:09:36.6145591+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:09:23.9222482+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:58:41.4623215+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:09:36.6145779+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:58:51.0356668+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:09:23.9222712+00:00"
 }

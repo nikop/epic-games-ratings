@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Introduction completed | 84.00% | ~27 |
 | Chapter 1 | 50.00% | ~16 |
-| Chapter 2 | 44.00% | ~14 |
+| Chapter 2 | 47.00% | ~15 |
 | Chapter 3 | 44.00% | ~14 |
 | It's In My Nature | 44.00% | ~14 |
 | Chapter 4 | 41.00% | ~13 |
@@ -34,7 +34,7 @@
 | The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 570)  
+Progressed: 32 (Ranked 571)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

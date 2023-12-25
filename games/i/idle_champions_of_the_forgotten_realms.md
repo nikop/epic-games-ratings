@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,445 |
+| The Cursed Farmer | 0.70% | ~1,711 |
 | Welcome to Sigil | 0.70% | ~1,475 |
-| The Cursed Farmer | 0.60% | ~1,467 |
-| Fast Food | 0.60% | ~1,264 |
+| Fast Food | 0.60% | ~1,265 |
 | Beast Intentions | 0.50% | ~1,222 |
 | The Mad Wizard | 0.50% | ~1,222 |
 | The Overgrown Grove | 0.40% | ~843 |
@@ -28,8 +28,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~489 |
 | Friendly Imps | 0.20% | ~489 |
 | Pure Energy | 0.20% | ~489 |
-| Arcane Suppression | 0.20% | ~421 |
-| Welcome to the Vrocks | 0.20% | ~421 |
+| Arcane Suppression | 0.20% | ~422 |
+| Welcome to the Vrocks | 0.20% | ~422 |
 | Maddening | 0.10% | ~244 |
 | Pros and CONs | 0.10% | ~244 |
 | Upholding the Law | 0.10% | ~244 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,472 (Ranked 67)  
+Progressed: 244,493 (Ranked 67)  
 Completed: 2,560 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -802,7 +802,7 @@ Completed: 2,560 (1.05%) (Ranked 169)
 | 2023-12-22 | 243,457 | 2,556 |
 | 2023-12-23 | 243,900 | 2,557 |
 | 2023-12-24 | 244,276 | 2,558 |
-| 2023-12-25 | 244,472 | 2,560 |
+| 2023-12-25 | 244,493 | 2,560 |
 ## Awards
 Max (Great for Beginners): 5,691  (Ranked 71)  
 Sum: 33,072 (Ranked 41)  

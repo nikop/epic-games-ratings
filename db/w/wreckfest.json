@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-12-25T14:08:35.1744813+00:00",
       "NumProgressed": 356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T15:08:23.0438347+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1056,15 +1061,15 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "CareerChamp1",
@@ -1112,15 +1117,15 @@
       "Name": "Storm Warning",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "CollectVehiclesB",
@@ -1200,7 +1205,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1215,7 +1220,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 358,
       "Completed": 0
     }
   ],
@@ -1223,8 +1228,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:08:35.1744809+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:08:23.0438343+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:59:31.7636608+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:08:35.1744953+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:59:41.6569089+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:08:23.0438573+00:00"
 }

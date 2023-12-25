@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~465 |
-| Lost and Found | 6.00% | ~279 |
-| This Belongs in a Museum | 5.00% | ~6,489 |
-| Autodidact | 5.00% | ~6,489 |
-| This guy... again? | 5.00% | ~232 |
-| Serenity Now! | 4.00% | ~5,191 |
-| Creep and Sleep | 4.00% | ~5,191 |
-| Meat and Greet | 4.00% | ~5,191 |
-| Catch and Decease | 4.00% | ~5,191 |
-| Overdue Notice | 4.00% | ~5,191 |
-| Escape from the Black Hole | 4.00% | ~5,191 |
-| Ploughshares to Swords | 4.00% | ~186 |
-| Bloody Graduation | 4.00% | ~186 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,893 |
-| It Rings a Bell | 3.00% | ~3,893 |
-| Not Today! | 3.00% | ~3,893 |
-| It Happens | 3.00% | ~3,893 |
-| Rush Hour | 3.00% | ~3,893 |
-| Merry Time | 3.00% | ~3,893 |
-| Harvest Festival | 3.00% | ~3,893 |
-| To Grandmother's House | 3.00% | ~3,893 |
-| Whale | 3.00% | ~3,893 |
-| A Place to Lay Your Head | 3.00% | ~3,893 |
-| FNG | 3.00% | ~3,893 |
-| Nope | 3.00% | ~3,893 |
+| Malpractice Assurance | 10.00% | ~466 |
+| Lost and Found | 6.00% | ~280 |
+| This Belongs in a Museum | 5.00% | ~6,490 |
+| Autodidact | 5.00% | ~6,490 |
+| This guy... again? | 5.00% | ~233 |
+| Serenity Now! | 4.00% | ~5,192 |
+| Creep and Sleep | 4.00% | ~5,192 |
+| Meat and Greet | 4.00% | ~5,192 |
+| Catch and Decease | 4.00% | ~5,192 |
+| Overdue Notice | 4.00% | ~5,192 |
+| Escape from the Black Hole | 4.00% | ~5,192 |
+| Ploughshares to Swords | 4.00% | ~187 |
+| Bloody Graduation | 4.00% | ~187 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,894 |
+| It Rings a Bell | 3.00% | ~3,894 |
+| Not Today! | 3.00% | ~3,894 |
+| It Happens | 3.00% | ~3,894 |
+| Rush Hour | 3.00% | ~3,894 |
+| Merry Time | 3.00% | ~3,894 |
+| Harvest Festival | 3.00% | ~3,894 |
+| To Grandmother's House | 3.00% | ~3,894 |
+| Whale | 3.00% | ~3,894 |
+| A Place to Lay Your Head | 3.00% | ~3,894 |
+| FNG | 3.00% | ~3,894 |
+| Nope | 3.00% | ~3,894 |
 | Friends 'Til the End | 3.00% | ~140 |
 | Resurrection | 2.00% | ~2,596 |
 | Unleash Hell | 2.00% | ~2,596 |
@@ -59,7 +59,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 1.00% | ~1,298 |
 | Hot Air | 1.00% | ~1,298 |
 | Eyes Up | 1.00% | ~1,298 |
-| Slap on the Wrist | 1.00% | ~46 |
+| Slap on the Wrist | 1.00% | ~47 |
 | Handled | 0.90% | ~1,168 |
 | For Old Time' Sake | 0.90% | ~42 |
 | Shrine of Reflection | 0.80% | ~1,038 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,781 (Ranked 87)  
+Progressed: 129,795 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,20 +325,20 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,781 | 3 |
+| 2023-12-25 | 129,795 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
-Sum: 21,061 (Ranked 58)  
+Sum: 21,070 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,863 |
 | This game has Diverse Characters | 1,767 |
-| This game has Challenging Combat | 1,632 |
+| This game has Challenging Combat | 1,634 |
 | This game is Highly Recommended | 1,567 |
 | This game is Extremely Fun | 1,491 |
 | This game has Amazing Characters | 1,487 |
-| This game has Unique Visuals | 1,415 |
+| This game has Unique Visuals | 1,422 |
 | This game has Amazing Storytelling | 1,409 |
 | This game has Quickly Understood Controls | 1,380 |
 | This game has a Creative Community | 1,050 |
@@ -678,4 +678,4 @@ Diff (max vs sum): -8
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
-| 2023-12-25 | 4.68 | - | 7,863 | 21,061 |
+| 2023-12-25 | 4.68 | - | 7,863 | 21,070 |

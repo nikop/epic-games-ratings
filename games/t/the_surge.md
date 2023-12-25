@@ -6,9 +6,9 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,760 |
-| I'll Be Back | 84.00% | ~4,254 |
-| Sorry, I Dropped This | 77.00% | ~3,899 |
+| On My Own Two Feet | 94.00% | ~4,761 |
+| I'll Be Back | 84.00% | ~4,255 |
+| Sorry, I Dropped This | 77.00% | ~3,900 |
 | First Day on the Job | 76.00% | ~3,849 |
 | Butcher's Bill | 54.00% | ~2,735 |
 | P.A.X | 37.00% | ~1,874 |
@@ -17,7 +17,7 @@ Number of Ratings: 62  (23.09.2022)
 | It's Blue Light | 33.00% | ~1,671 |
 | Most Wanted | 26.00% | ~1,317 |
 | Infidel | 23.00% | ~1,165 |
-| GOLIATH | 21.00% | ~1,063 |
+| GOLIATH | 21.00% | ~1,064 |
 | Firebug | 20.00% | ~1,013 |
 | Nothing to Lose | 18.00% | ~912 |
 | I Choose You | 17.00% | ~861 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Pusher Man | 8.00% | ~405 |
 | Squad Chief Helvig | 8.00% | ~405 |
 | No More Marching | 8.00% | ~405 |
-| Duty-Bound | 7.00% | ~354 |
-| Follow the White Rabbit | 7.00% | ~354 |
-| Liberation | 7.00% | ~354 |
-| Risk Assessment | 7.00% | ~354 |
+| Duty-Bound | 7.00% | ~355 |
+| Follow the White Rabbit | 7.00% | ~355 |
+| Liberation | 7.00% | ~355 |
+| Risk Assessment | 7.00% | ~355 |
 | Sunglasses at Night | 6.00% | ~304 |
 | Carbon Cat | 6.00% | ~304 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~253 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,064 (Ranked 201)  
+Progressed: 5,065 (Ranked 201)  
 Completed: 18 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 18 (0.36%) (Ranked 236)
 | 2023-12-22 | 5,031 | 18 |
 | 2023-12-23 | 5,048 | 18 |
 | 2023-12-24 | 5,061 | 18 |
-| 2023-12-25 | 5,064 | 18 |
+| 2023-12-25 | 5,065 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 514)  
 Sum: 30 (Ranked 532)  

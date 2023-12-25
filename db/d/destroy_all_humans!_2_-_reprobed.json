@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 186,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1189,9 +1189,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1269,9 +1269,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1382,8 +1382,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:08:53.753303+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:08:41.2330237+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:57:23.6140443+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:08:53.7533306+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:57:32.6447868+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:08:41.2330541+00:00"
 }

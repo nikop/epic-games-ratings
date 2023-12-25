@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 116,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58416,
+  "EOS_Progressed": 58417,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14696,6 +14696,11 @@
       "Time": "2023-12-25T14:05:56.0420994+00:00",
       "NumProgressed": 58416,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T15:06:03.8292846+00:00",
+      "NumProgressed": 58417,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14867,7 +14872,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "IsThisPossible",
@@ -14891,7 +14896,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "LordOfHFZ",
@@ -15051,7 +15056,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "TotalBummer",
@@ -15059,7 +15064,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "TrulyEvil",
@@ -15098,7 +15103,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58416,
+      "Progressed": 58417,
       "Completed": 6
     }
   ],
@@ -15106,8 +15111,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:05:56.0420991+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:06:03.8292843+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:58:40.0247598+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:05:56.0421876+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:58:49.6183704+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:06:03.8293622+00:00"
 }

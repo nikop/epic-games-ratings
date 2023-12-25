@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1117,9 +1117,9 @@
       "ID": "ACHIEVEMENT_ID_14",
       "SetID": "c504de6",
       "Name": "Perfect Soldier",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -1428,8 +1428,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:05:13.9948853+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:05:20.1774696+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:00:22.9135411+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:05:13.9949174+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:00:34.2905093+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:05:20.1775033+00:00"
 }

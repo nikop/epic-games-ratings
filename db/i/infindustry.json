@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-04-26T07:04:01.8730008+00:00",
@@ -664,6 +664,11 @@
       "Time": "2023-12-21T10:06:04.2904643+00:00",
       "NumProgressed": 129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T15:04:57.7675848+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 12,
@@ -715,7 +720,7 @@
       "Name": "Harvester",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Healer",
@@ -770,14 +775,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:04:51.4787192+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:04:57.7675842+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.1676741+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:00:42.6808116+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:04:51.4787313+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:00:52.3999057+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:04:57.7676002+00:00"
 }

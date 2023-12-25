@@ -2,12 +2,12 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 10,
+  "Ranking_Rating": 11,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -241,9 +241,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1133,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3036,6 +3036,11 @@
       "Time": "2023-12-25T14:03:16.940109+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T15:03:35.9937396+00:00",
+      "NumProgressed": 1133,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3142,9 +3147,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 249
     },
     {
       "ID": "EasternWetlands",
@@ -3264,7 +3269,7 @@
       "Name": "Museum Explorer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MuseumVisitor",
@@ -3304,7 +3309,7 @@
       "Name": "Overload",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Persistent",
@@ -3312,7 +3317,7 @@
       "Name": "Persistent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PrometheusUnbound",
@@ -3328,7 +3333,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3336,7 +3341,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "RenaissanceRobot",
@@ -3448,7 +3453,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TheWordEndures",
@@ -3464,7 +3469,7 @@
       "Name": "Touch Grass",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TrevorsBiographer",
@@ -3519,7 +3524,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1133,
       "Completed": 2
     }
   ],
@@ -3527,8 +3532,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:03:16.9401085+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:03:35.9937389+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:58:25.7988919+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:03:16.9401639+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:58:35.5282955+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:03:35.9937909+00:00"
 }

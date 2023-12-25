@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
@@ -2605,6 +2605,11 @@
       "Time": "2023-12-24T23:09:37.3867788+00:00",
       "NumProgressed": 718,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T15:09:20.039637+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2649,7 +2654,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_14",
@@ -2673,15 +2678,15 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_18",
@@ -2713,7 +2718,7 @@
       "Name": "From Many, One",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_5",
@@ -2745,7 +2750,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 51,
       "XP": 35,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "achievement_9",
@@ -2760,13 +2765,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:09:32.7786893+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:09:20.0396366+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:57:53.1351708+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:09:32.7787081+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:58:03.2412668+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:09:20.039665+00:00"
 }

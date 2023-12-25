@@ -10,13 +10,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.50% | ~80 |
 | Settler | 0.50% | ~80 |
 | Architect | 0.40% | ~64 |
+| Good | 0.40% | ~64 |
 | Intrepid | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
 | Friendly Family | 0.40% | ~64 |
+| Hanging Gardens | 0.40% | ~64 |
 | Able | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
-| Good | 0.30% | ~48 |
 | Just | 0.30% | ~48 |
 | Keystone | 0.30% | ~48 |
 | Learned | 0.30% | ~48 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
-| Hanging Gardens | 0.30% | ~48 |
 | Oracle | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |

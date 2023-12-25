@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2970,
+  "EOS_Progressed": 2971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7252,6 +7252,11 @@
       "Time": "2023-12-25T14:04:44.2943079+00:00",
       "NumProgressed": 2970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T15:04:50.7978052+00:00",
+      "NumProgressed": 2971,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7304,7 +7309,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -7472,7 +7477,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7552,7 +7557,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7655,14 +7660,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2970,
+      "Progressed": 2971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:04:44.2943074+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:04:50.7978047+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:57:44.3954423+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:04:44.2943633+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:57:53.1866047+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:04:50.7978708+00:00"
 }

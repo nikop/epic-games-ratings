@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 41,
+  "Ranking_Rating": 40,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 141,
@@ -1518,9 +1518,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26710,
+  "EOS_Progressed": 26721,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11818,6 +11818,11 @@
       "Time": "2023-12-25T14:09:40.7650259+00:00",
       "NumProgressed": 26710,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-25T15:09:28.1279669+00:00",
+      "NumProgressed": 26721,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11893,7 +11898,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -11957,7 +11962,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11971,9 +11976,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 534
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12021,7 +12026,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "EndTimerFail",
@@ -12140,21 +12145,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26710,
+      "Progressed": 26721,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5640,
+      "Progressed": 5651,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-25T04:57:04.2152067+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:09:40.7650254+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:09:28.1279666+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:57:19.2569356+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:09:40.7650881+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:57:28.0875506+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:09:28.1280391+00:00"
 }

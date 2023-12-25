@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4236,
+  "EOS_Progressed": 4237,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6991,6 +6991,11 @@
       "Time": "2023-12-25T13:12:01.0354673+00:00",
       "NumProgressed": 4236,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T15:06:48.6282781+00:00",
+      "NumProgressed": 4237,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7002,7 +7007,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "AceDetective_9",
@@ -7026,7 +7031,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7042,7 +7047,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "CrowdPleaser",
@@ -7058,7 +7063,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "Eureka_23",
@@ -7194,7 +7199,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7322,7 +7327,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7337,15 +7342,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4236,
+      "Progressed": 4237,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:08:20.7662944+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:06:48.6282776+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:02:41.2346104+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:08:20.7663545+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:02:58.6865001+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:06:48.6283428+00:00"
 }

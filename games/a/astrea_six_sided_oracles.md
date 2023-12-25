@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 79.00% | ~189 |
-| Purification Pioneer | 74.00% | ~177 |
-| Mechanical Buddy | 70.00% | ~167 |
+| Purification Pioneer | 75.00% | ~179 |
+| Mechanical Buddy | 71.00% | ~170 |
 | Dicesmithing Time! | 62.00% | ~148 |
 | Sanctuary Guardian | 54.00% | ~129 |
 | Endless Tricks | 49.00% | ~117 |
 | Wild's Keeper | 46.00% | ~110 |
 | Mind Illuminator | 42.00% | ~100 |
-| Stellar Dismantler | 34.00% | ~81 |
-| Noctuan Champion | 34.00% | ~81 |
+| Stellar Dismantler | 35.00% | ~84 |
+| Noctuan Champion | 35.00% | ~84 |
 | Anomaly Destroyer | 31.00% | ~74 |
 | Astral Adventurer | 29.00% | ~69 |
 | Star Killer | 26.00% | ~62 |
@@ -61,13 +61,13 @@
 | Reflexive Mind | 2.00% | ~5 |
 | Sentinelphobic | 2.00% | ~5 |
 | The Raging Skies | 2.00% | ~5 |
+| Apian Mastery | 2.00% | ~5 |
 | Aquarian Mastery | 2.00% | ~5 |
 | Eridanian Mastery | 2.00% | ~5 |
 | Noctuan Mastery | 2.00% | ~5 |
 | Anomaly Master | 1.00% | ~2 |
 | Royal Choir | 1.00% | ~2 |
 | Unepic Hero | 1.00% | ~2 |
-| Apian Mastery | 1.00% | ~2 |
 | Astral Tinkerer | 0.80% | ~2 |
 | Astrea's Saviors | 0.80% | ~2 |
 | Astrium Specialist | 0.80% | ~2 |

@@ -25,12 +25,12 @@
 | Irene Court-Smyth | 29.00% | ~19 |
 | An odd series of events | 27.00% | ~18 |
 | The Apartment | 27.00% | ~18 |
-| Nathaniel Dryden | 24.00% | ~16 |
-| Bartholomew | 24.00% | ~16 |
-| A rude awakening | 23.00% | ~15 |
-| The Scheme | 23.00% | ~15 |
-| Well-acquainted | 21.00% | ~14 |
-| Anastasia Babanin | 21.00% | ~14 |
+| Nathaniel Dryden | 26.00% | ~17 |
+| Bartholomew | 26.00% | ~17 |
+| A rude awakening | 24.00% | ~16 |
+| The Scheme | 24.00% | ~16 |
+| Well-acquainted | 23.00% | ~15 |
+| Anastasia Babanin | 23.00% | ~15 |
 | Zakariya Demir | 21.00% | ~14 |
 | Truth from within | 20.00% | ~13 |
 | A curious phrase | 18.00% | ~12 |

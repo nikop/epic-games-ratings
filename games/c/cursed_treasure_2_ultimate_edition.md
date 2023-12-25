@@ -42,7 +42,7 @@
 | Starry: Tanglewood | 48.00% | ~87 |
 | Starry: Arcania | 45.00% | ~82 |
 | Sing, My Angel | 43.00% | ~78 |
-| The Coreland | 40.00% | ~73 |
+| The Coreland | 41.00% | ~75 |
 | Feed the Fishes | 39.00% | ~71 |
 | Starry: The Coreland | 38.00% | ~69 |
 | Brilliant: Wasteland | 35.00% | ~64 |

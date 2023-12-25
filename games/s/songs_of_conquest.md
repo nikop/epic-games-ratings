@@ -16,7 +16,7 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 8.00% | ~59 |
 | Veni, Vidi, Vici | 8.00% | ~59 |
 | Master | 7.00% | ~52 |
-| Landlord Extraordinaire | 6.00% | ~44 |
+| Landlord Extraordinaire | 6.00% | ~45 |
 | Whoops! | 5.00% | ~37 |
 | Don't Touch My Stuff | 4.00% | ~30 |
 | Trojan Horse | 4.00% | ~30 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741 (Ranked 300)  
+Progressed: 742 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 665 | 0 |
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
-| 2023-12-25 | 741 | 0 |
+| 2023-12-25 | 742 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 529)  
 Sum: 194 (Ranked 414)  

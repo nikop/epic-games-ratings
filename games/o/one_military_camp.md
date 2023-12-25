@@ -14,8 +14,8 @@
 | Great Producer | 10.00% | ~24 |
 | Health Care | 8.00% | ~19 |
 | Desert Rat | 8.00% | ~19 |
+| Perfect Soldier | 7.00% | ~17 |
 | Ammo Tycoon | 7.00% | ~17 |
-| Perfect Soldier | 6.00% | ~14 |
 | Healing | 6.00% | ~14 |
 | Good payer | 6.00% | ~14 |
 | Pathfinder | 6.00% | ~14 |

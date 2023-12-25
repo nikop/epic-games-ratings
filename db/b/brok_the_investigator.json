@@ -2,7 +2,7 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 570,
+  "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 147,
@@ -215,9 +215,9 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CHAPTER3",
@@ -416,8 +416,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:04:17.9648412+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:04:25.6566172+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:36.3188484+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:57:43.9446054+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:04:17.9648563+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:57:52.7461949+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:04:25.6566325+00:00"
 }

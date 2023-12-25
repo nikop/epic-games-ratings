@@ -9,13 +9,13 @@
 | Supermart Heisted | 2.00% | ~174 |
 | Sewer Objectives Complete | 1.00% | ~87 |
 | Bank Heisted | 0.60% | ~52 |
+| Crocodile Maxed Out | 0.20% | ~17 |
 | Nuclear Plant Heisted | 0.20% | ~17 |
 | All Objectives Complete | 0.10% | ~9 |
 | All Gold Chest Slots Unlocked | 0.10% | ~9 |
 | Bandit Camp Heisted | 0.10% | ~9 |
 | Bank Objectives Complete | 0.10% | ~9 |
 | Chicken Maxed Out | 0.10% | ~9 |
-| Crocodile Maxed Out | 0.10% | ~9 |
 | All Weapons Purchased | 0.10% | ~9 |
 | Military Base Heisted | 0.10% | ~9 |
 | Monkey Maxed Out | 0.10% | ~9 |

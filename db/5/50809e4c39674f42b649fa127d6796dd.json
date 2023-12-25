@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 399
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1694,8 +1694,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:05:17.2431834+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:05:25.1625278+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:02:51.6485674+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:05:17.2432196+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:03:09.4385178+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:05:25.1625558+00:00"
 }

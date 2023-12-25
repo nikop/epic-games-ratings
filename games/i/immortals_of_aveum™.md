@@ -5,24 +5,24 @@ Rating: 4.17 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,592 |
-| Battlefields Have Memories | 80.00% | ~1,464 |
-| Enlisted | 73.00% | ~1,336 |
-| Maybe Engage a Little | 67.00% | ~1,226 |
-| No More Names | 50.00% | ~915 |
-| Initiate | 35.00% | ~640 |
-| Thrada-Kul | 31.00% | ~567 |
+| Unforeseen | 87.00% | ~1,595 |
+| Battlefields Have Memories | 80.00% | ~1,466 |
+| Enlisted | 73.00% | ~1,338 |
+| Maybe Engage a Little | 67.00% | ~1,228 |
+| No More Names | 50.00% | ~916 |
+| Initiate | 35.00% | ~642 |
+| Thrada-Kul | 31.00% | ~568 |
 | Gravity-Challenged Rocks | 25.00% | ~458 |
-| Socialite | 23.00% | ~421 |
-| Soldier | 21.00% | ~384 |
-| All the Major Food Groups | 20.00% | ~366 |
-| Beggars Would Ride | 18.00% | ~329 |
-| Control is an Illusion | 17.00% | ~311 |
-| The Means to Save It | 14.00% | ~256 |
+| Socialite | 23.00% | ~422 |
+| Soldier | 21.00% | ~385 |
+| All the Major Food Groups | 20.00% | ~367 |
+| Beggars Would Ride | 18.00% | ~330 |
+| Control is an Illusion | 17.00% | ~312 |
+| The Means to Save It | 14.00% | ~257 |
 | Resilience to Sin | 12.00% | ~220 |
 | A Familiar Nest | 12.00% | ~220 |
 | Periapt Alizarin | 12.00% | ~220 |
-| Geas Aristeya | 11.00% | ~201 |
+| Geas Aristeya | 11.00% | ~202 |
 | A Perfect Cycle | 10.00% | ~183 |
 | Recruit | 10.00% | ~183 |
 | Armsman | 9.00% | ~165 |
@@ -53,7 +53,7 @@ Rating: 4.17 (Ranked 956)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,830 (Ranked 240)  
+Progressed: 1,833 (Ranked 240)  
 Completed: 2 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.11%) (Ranked 303)
 | 2023-12-22 | 1,602 | 2 |
 | 2023-12-23 | 1,709 | 2 |
 | 2023-12-24 | 1,789 | 2 |
-| 2023-12-25 | 1,830 | 2 |
+| 2023-12-25 | 1,833 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

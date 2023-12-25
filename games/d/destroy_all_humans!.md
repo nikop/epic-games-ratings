@@ -7,21 +7,21 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Kaijuiced | 68.00% | ~103 |
-| Shop Til They Drop | 67.00% | ~101 |
+| Shop Til They Drop | 67.00% | ~102 |
 | Lie Back and Think of Albion | 62.00% | ~94 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~88 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~90 |
 | Yettisoned | 56.00% | ~85 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~79 |
-| Perfect Probulator | 51.00% | ~77 |
+| Perfect Probulator | 51.00% | ~78 |
 | Lobster Blisque | 49.00% | ~74 |
 | Pimp My Raid | 45.00% | ~68 |
-| Fly Me to the Moon Base | 42.00% | ~63 |
-| Earthly Pleasures | 42.00% | ~63 |
+| Earthly Pleasures | 42.00% | ~64 |
+| Fly Me to the Moon Base | 41.00% | ~62 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~62 |
 | Freshly Squeezed | 33.00% | ~50 |
-| Forbidden Donut | 32.00% | ~48 |
-| Upgreatest | 30.00% | ~45 |
-| Bodied Sattva | 30.00% | ~45 |
+| Forbidden Donut | 32.00% | ~49 |
+| Upgreatest | 30.00% | ~46 |
+| Bodied Sattva | 30.00% | ~46 |
 | Rock of the Bay | 25.00% | ~38 |
 | Furon Fashion | 24.00% | ~36 |
 | Trans-Siberian Express | 24.00% | ~36 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 0.70% | ~1 |
 | Against All Odds | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 435)  
+Progressed: 152 (Ranked 435)  
 Completed: 1 (0.66%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1 (0.66%) (Ranked 198)
 | 2023-12-22 | 106 | 0 |
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 141 | 1 |
-| 2023-12-25 | 151 | 1 |
+| 2023-12-25 | 152 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 499)  
 Sum: 34 (Ranked 523)  

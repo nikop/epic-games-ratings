@@ -16,11 +16,11 @@
 | Honey, honey, honey… | 31.00% | ~28 |
 | So soothing... | 31.00% | ~28 |
 | A very special drink | 30.00% | ~27 |
+| NOW GO AWAY! | 30.00% | ~27 |
 | Sorry Grandpa | 30.00% | ~27 |
 | Roostwig has entered the building | 30.00% | ~27 |
 | Game Over! | 29.00% | ~26 |
 | GG | 29.00% | ~26 |
-| NOW GO AWAY! | 29.00% | ~26 |
 | Shattered | 28.00% | ~25 |
 | You've got mail! | 28.00% | ~25 |
 | Beekeeper | 28.00% | ~25 |
@@ -39,7 +39,7 @@
 | Makeover | 17.00% | ~15 |
 | Singstar | 17.00% | ~15 |
 | Cameodalic | 17.00% | ~15 |
-| Guilty conscience | 14.00% | ~13 |
+| Guilty conscience | 16.00% | ~14 |
 | Clever reference #451 | 13.00% | ~12 |
 | What a mess | 10.00% | ~9 |
 | Posterboy! | 8.00% | ~7 |

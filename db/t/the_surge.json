@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5064,
+  "EOS_Progressed": 5065,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4069,6 +4069,11 @@
       "Time": "2023-12-25T13:08:02.4492162+00:00",
       "NumProgressed": 5064,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-25T15:04:01.9112773+00:00",
+      "NumProgressed": 5065,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4128,7 +4133,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4136,7 +4141,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4760
+      "UsersEstimate": 4761
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4144,7 +4149,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3900
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4272,7 +4277,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -4288,7 +4293,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -4304,7 +4309,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -4416,7 +4421,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4608,22 +4613,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5064,
+      "Progressed": 5065,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:03:53.4695821+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:04:01.9112768+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:58:03.4166128+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:03:53.4696657+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:58:14.3837897+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:04:01.9113528+00:00"
 }

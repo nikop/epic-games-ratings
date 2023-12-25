@@ -30,7 +30,7 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 22.00% | ~158 |
 | Bullseye! | 22.00% | ~158 |
 | Sorrow | 20.00% | ~143 |
-| Atonement | 17.00% | ~122 |
+| Atonement | 18.00% | ~129 |
 | Food Massacre | 17.00% | ~122 |
 | Helping Hand | 16.00% | ~115 |
 | Without a Second Thought | 15.00% | ~107 |

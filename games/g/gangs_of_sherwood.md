@@ -28,7 +28,7 @@
 | Take Action! | 16.00% | ~16 |
 | Ultra Combo | 15.00% | ~15 |
 | Ascending Will | 14.00% | ~14 |
-| Into the Lion's Den | 11.00% | ~11 |
+| Into the Lion's Den | 12.00% | ~12 |
 | Sky High Fighter | 10.00% | ~10 |
 | Haute Couture | 10.00% | ~10 |
 | The Gang prevails | 7.00% | ~7 |

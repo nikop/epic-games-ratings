@@ -1,13 +1,13 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.48 (Ranked 643)  
+Rating: 4.48 (Ranked 641)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Soul Cache | 5.00% | ~11 |
-| Mint I | 3.00% | ~6 |
+| Mint I | 4.00% | ~9 |
 | Close the Rift | 1.00% | ~2 |
 | Astarte | 0.90% | ~2 |
 | Hell's Forge | 0.90% | ~2 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 409)  
+Progressed: 216 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,11 +49,11 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 138 | 0 |
 | 2023-12-23 | 171 | 0 |
 | 2023-12-24 | 196 | 0 |
-| 2023-12-25 | 212 | 0 |
+| 2023-12-25 | 216 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 459)  
+Max (Great Boss Battles): 45  (Ranked 460)  
 Sum: 45 (Ranked 507)  
-Diff (max vs sum): -48  
+Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 45 |

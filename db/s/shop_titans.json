@@ -7753,9 +7753,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147534,
+  "EOS_Progressed": 147541,
   "EOS_Completed": 334,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -33888,6 +33888,11 @@
       "Time": "2023-12-25T14:05:56.6374067+00:00",
       "NumProgressed": 147534,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-12-25T15:06:04.687088+00:00",
+      "NumProgressed": 147541,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 112,
@@ -33899,7 +33904,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "advlevel02",
@@ -34035,7 +34040,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "boss02",
@@ -34067,7 +34072,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13278
+      "UsersEstimate": 13279
     },
     {
       "ID": "chest02",
@@ -34171,7 +34176,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "craft03",
@@ -34203,7 +34208,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "damage02",
@@ -34451,7 +34456,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "jackslot02",
@@ -34523,7 +34528,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "loot02",
@@ -34555,7 +34560,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5901
+      "UsersEstimate": 5902
     },
     {
       "ID": "master02",
@@ -34715,7 +34720,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13278
+      "UsersEstimate": 13279
     },
     {
       "ID": "twinenchant01",
@@ -34794,15 +34799,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147534,
+      "Progressed": 147541,
       "Completed": 334
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-25T13:06:54.883867+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:05:56.6374062+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:06:04.6870875+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:02:56.4569758+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:05:56.6376105+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:03:14.2492192+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:06:04.6872961+00:00"
 }

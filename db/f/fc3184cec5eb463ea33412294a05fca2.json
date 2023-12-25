@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.79,
+  "EOS_Completed_Percentage": 8.76,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1469,6 +1469,11 @@
       "Time": "2023-12-23T04:04:49.0361748+00:00",
       "NumProgressed": 330,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-25T15:05:02.7137056+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 16,
@@ -1480,7 +1485,7 @@
       "Name": "Three is company",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1542,9 +1547,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1560,7 +1565,7 @@
       "Name": "Catch a flight",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1568,7 +1573,7 @@
       "Name": "Way to the shore",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1576,7 +1581,7 @@
       "Name": "Private pool",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1584,15 +1589,15 @@
       "Name": "Abducktion",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 125
+      "UsersEstimate": 122
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1607,14 +1612,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:04:56.4555525+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:05:02.7137054+00:00",
   "LastUpdate_AppInfo": "2023-12-24T04:57:03.3422722+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:00:26.9582394+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:04:56.4555761+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:00:37.5567174+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:05:02.7137207+00:00"
 }

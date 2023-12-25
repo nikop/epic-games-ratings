@@ -3825,9 +3825,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32676,
+  "EOS_Progressed": 32678,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23410,6 +23410,11 @@
       "Time": "2023-12-25T13:12:06.0252513+00:00",
       "NumProgressed": 32676,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-25T15:06:52.4564709+00:00",
+      "NumProgressed": 32678,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23507,9 +23512,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1961
     },
     {
       "ID": "Dont_Need_These",
@@ -23828,7 +23833,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32676,
+      "Progressed": 32678,
       "Completed": 70
     }
   ],
@@ -23836,8 +23841,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-25T03:57:48.9606045+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:08:24.2635908+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:06:52.4564705+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:58:13.6611413+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:08:24.2637055+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:58:24.007851+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:06:52.4566129+00:00"
 }

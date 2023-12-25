@@ -1,18 +1,18 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.55 (Ranked 512)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,399 |
-| First Steps | 80.00% | ~35,612 |
-| Control the Shadows | 67.00% | ~29,825 |
-| Tools of the Trade | 63.00% | ~28,044 |
-| Apprentice | 60.00% | ~26,709 |
+| Awakening | 93.00% | ~41,400 |
+| First Steps | 80.00% | ~35,613 |
+| Control the Shadows | 67.00% | ~29,826 |
+| Tools of the Trade | 63.00% | ~28,045 |
+| Apprentice | 60.00% | ~26,710 |
 | Secret Seeker | 57.00% | ~25,374 |
-| Forge of Assassins | 55.00% | ~24,483 |
+| Forge of Assassins | 55.00% | ~24,484 |
 | Revenant | 52.00% | ~23,148 |
 | I don’t Care! | 45.00% | ~20,032 |
 | Bird of Prey | 37.00% | ~16,471 |
@@ -20,13 +20,13 @@ Number of Ratings: 88  (23.09.2022)
 | Lady | 31.00% | ~13,800 |
 | Fashionable Assassin | 27.00% | ~12,019 |
 | Apex Predator | 24.00% | ~10,684 |
-| Soul Reaver | 23.00% | ~10,238 |
-| Embers | 22.00% | ~9,793 |
+| Soul Reaver | 23.00% | ~10,239 |
+| Embers | 22.00% | ~9,794 |
 | Wall Lizard | 20.00% | ~8,903 |
 | Clinging to Life | 18.00% | ~8,013 |
 | Burning | 17.00% | ~7,568 |
-| Look Behind You | 16.00% | ~7,122 |
-| Sleeping on the Job | 16.00% | ~7,122 |
+| Look Behind You | 16.00% | ~7,123 |
+| Sleeping on the Job | 16.00% | ~7,123 |
 | Family | 14.00% | ~6,232 |
 | War Engines | 14.00% | ~6,232 |
 | Signature Move | 14.00% | ~6,232 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~890 |
 | Legacy | 2.00% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,515 (Ranked 124)  
+Progressed: 44,516 (Ranked 124)  
 Completed: 247 (0.55%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 247 (0.55%) (Ranked 208)
 | 2023-12-22 | 44,443 | 247 |
 | 2023-12-23 | 44,471 | 247 |
 | 2023-12-24 | 44,502 | 247 |
-| 2023-12-25 | 44,515 | 247 |
+| 2023-12-25 | 44,516 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -343,3 +343,4 @@ Completed: 247 (0.55%) (Ranked 208)
 | 2023-08-30 | 4.55 | - | 0 | 0 |
 | 2023-12-03 | 4.56 | - | 0 | 0 |
 | 2023-12-17 | 4.54 | - | 0 | 0 |
+| 2023-12-25 | 4.55 | - | 0 | 0 |

@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 124,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 88,
   "RatingHistory": [
     {
@@ -245,13 +245,19 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-25T15:03:11.7209748+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44515,
+  "EOS_Progressed": 44516,
   "EOS_Completed": 247,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -19596,6 +19602,11 @@
       "Time": "2023-12-25T14:04:27.5444788+00:00",
       "NumProgressed": 44515,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-25T15:04:35.1592933+00:00",
+      "NumProgressed": 44516,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19623,7 +19634,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9793
+      "UsersEstimate": 9794
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19727,7 +19738,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35612
+      "UsersEstimate": 35613
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19767,7 +19778,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7122
+      "UsersEstimate": 7123
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -19783,7 +19794,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -19791,7 +19802,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7122
+      "UsersEstimate": 7123
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -19831,7 +19842,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24483
+      "UsersEstimate": 24484
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19847,7 +19858,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28044
+      "UsersEstimate": 28045
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19871,7 +19882,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26709
+      "UsersEstimate": 26710
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19879,7 +19890,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29825
+      "UsersEstimate": 29826
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19943,7 +19954,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41399
+      "UsersEstimate": 41400
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19958,16 +19969,16 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44515,
+      "Progressed": 44516,
       "Completed": 247
     }
   ],
   "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
-  "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-25T14:04:27.5444784+00:00",
+  "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
+  "LastChanged_Achievements": "2023-12-25T15:04:35.1592929+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:02:53.8804776+00:00",
-  "LastUpdate_Achievements": "2023-12-25T14:04:27.5445925+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:03:11.7209754+00:00",
+  "LastUpdate_Achievements": "2023-12-25T15:04:35.1594151+00:00"
 }
