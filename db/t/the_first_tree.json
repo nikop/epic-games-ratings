@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39498,
+  "EOS_Progressed": 39500,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 1,
@@ -22032,6 +22032,11 @@
       "Time": "2023-12-25T22:06:24.5040077+00:00",
       "NumProgressed": 39498,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-25T23:06:09.7097387+00:00",
+      "NumProgressed": 39500,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 14,
@@ -22059,7 +22064,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10270
     },
     {
       "ID": "allItems",
@@ -22083,7 +22088,7 @@
       "Name": "Easter Bunny",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "carving",
@@ -22131,7 +22136,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30413
+      "UsersEstimate": 30415
     },
     {
       "ID": "roots",
@@ -22154,15 +22159,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39498,
+      "Progressed": 39500,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:06:24.5040075+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:06:09.7097381+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:57:58.4755927+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:06:24.5041474+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:57:58.718114+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:06:09.7098449+00:00"
 }

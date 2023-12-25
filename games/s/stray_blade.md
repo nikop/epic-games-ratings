@@ -16,9 +16,12 @@
 | Freezing Cold | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
+| A Deceiving Gift | 1.00% | ~1 |
 | The Golden Flash | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
-| A Deceiving Gift | 0.70% | ~1 |
+| Nothing but the Truth | 0.70% | ~1 |
+| Trailblazer | 0.70% | ~1 |
+| Finally! | 0.70% | ~1 |
 | Expert | 0.70% | ~1 |
 | The Power of the Mountains | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
@@ -39,13 +42,10 @@
 | Knowledge is King | 0.00% | ~0 |
 | Witch | 0.00% | ~0 |
 | Wizard | 0.00% | ~0 |
-| Nothing but the Truth | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
-| Trailblazer | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
-| Finally! | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | But what of the Acreans? | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |

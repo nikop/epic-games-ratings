@@ -40,11 +40,11 @@ Number of Ratings: 28  (23.09.2022)
 | Forgotten | 3.00% | ~18 |
 | Lucky vandal | 3.00% | ~18 |
 | Salesman | 1.00% | ~6 |
+| BBQ | 0.70% | ~4 |
 | Maniac vandal | 0.70% | ~4 |
-| BBQ | 0.50% | ~3 |
+| Mega-railroad | 0.50% | ~3 |
 | Juggler | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
-| Mega-railroad | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 589 (Ranked 324)  
 Completed: 2 (0.34%) (Ranked 243)  

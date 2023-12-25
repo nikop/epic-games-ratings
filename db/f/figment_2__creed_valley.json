@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "shards_all_remembranes",
       "SetID": "7e96e7l",
       "Name": "Come full circle",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "shards_all_shards_all_levels",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:09:43.9063478+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:10:05.370712+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.3876673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:58:22.0266809+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:09:43.9063579+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:58:19.8175339+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:10:05.370725+00:00"
 }

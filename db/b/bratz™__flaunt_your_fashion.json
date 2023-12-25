@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -426,6 +426,11 @@
       "Time": "2023-12-25T21:06:22.2675003+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T23:06:05.7993845+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -437,7 +442,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "10",
@@ -461,7 +466,7 @@
       "Name": "Stilesville Hidden Style",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "13",
@@ -475,7 +480,7 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -515,9 +520,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "2",
@@ -539,9 +544,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "5",
@@ -549,23 +554,23 @@
       "Name": "We will need a bigger wardrobe",
       "Percentage": 41,
       "XP": 70,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "8",
@@ -588,7 +593,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
@@ -596,8 +601,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:06:20.4392445+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:06:05.7993838+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.2924165+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:00:41.7708386+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:06:20.4392571+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:02:35.9278784+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:06:05.7994022+00:00"
 }

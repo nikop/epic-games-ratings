@@ -2,7 +2,7 @@
   "ID": "8ad9396e01f046aaa784a33f7e60dfbe",
   "Name": "Mafia III: Definitive Edition",
   "ProductSlug": "mafia-iii-definitive-edition",
-  "Ranking_Rating": 936,
+  "Ranking_Rating": 945,
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 816,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA,KW,BH,YE,OM,AE"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "NumberOfRatings": 1289,
   "RatingHistory": [
     {
@@ -1201,6 +1201,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 495,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-12-25T22:57:38.2419302+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 495,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
@@ -1286,8 +1292,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2023-12-23T22:01:08.8423394+00:00",
+  "LastChanged": "2023-12-25T22:57:38.2419301+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.5288976+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:57:36.8434563+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:06:48.3288424+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:57:38.2419305+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:08:32.8168719+00:00"
 }

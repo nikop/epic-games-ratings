@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~137 |
+| A Second Chance | 58.00% | ~140 |
 | Press-ganged | 42.00% | ~101 |
-| The Package | 26.00% | ~62 |
+| The Package | 26.00% | ~63 |
 | Conquered | 20.00% | ~48 |
 | Randomized | 18.00% | ~43 |
 | Scribe | 12.00% | ~29 |
@@ -14,10 +14,10 @@
 | Tactician | 10.00% | ~24 |
 | Conciliator | 9.00% | ~22 |
 | Fight Another Day | 9.00% | ~22 |
-| Acquaintance | 8.00% | ~19 |
 | Taskmaster | 8.00% | ~19 |
 | The More the Merrier | 7.00% | ~17 |
 | Harbinger | 7.00% | ~17 |
+| Acquaintance | 7.00% | ~17 |
 | Tail-wind | 7.00% | ~17 |
 | Scholar | 6.00% | ~14 |
 | Strategist | 5.00% | ~12 |
@@ -31,24 +31,24 @@
 | Been There | 4.00% | ~10 |
 | Spiritual Journey | 4.00% | ~10 |
 | Unseen Patterns | 4.00% | ~10 |
-| Bounty Hunter | 3.00% | ~7 |
-| Huntress Unbound | 3.00% | ~7 |
 | Xevarian Gambit | 3.00% | ~7 |
 | The Voice of Hereafter | 3.00% | ~7 |
 | Despised | 3.00% | ~7 |
 | A Terrible Will | 3.00% | ~7 |
-| Life... Finds a Way | 3.00% | ~7 |
 | Inquisitions of Discord | 3.00% | ~7 |
-| Insectoid Propagator | 3.00% | ~7 |
+| Bounty Hunter | 2.00% | ~5 |
 | Supercargo | 2.00% | ~5 |
 | Talent Nurtured | 2.00% | ~5 |
+| Huntress Unbound | 2.00% | ~5 |
 | Business As Usual | 2.00% | ~5 |
 | Legacy of a Mercenary | 2.00% | ~5 |
 | Delayed | 2.00% | ~5 |
 | A Real Battle | 2.00% | ~5 |
 | The Darkness Within | 2.00% | ~5 |
+| Life... Finds a Way | 2.00% | ~5 |
 | Merchant Lord | 2.00% | ~5 |
 | Glorious leader | 2.00% | ~5 |
+| Insectoid Propagator | 2.00% | ~5 |
 | Making Contact | 1.00% | ~2 |
 | Watcher | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 399)  
+Progressed: 241 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 229 | 0 |
 | 2023-12-23 | 231 | 0 |
 | 2023-12-24 | 238 | 0 |
-| 2023-12-25 | 240 | 0 |
+| 2023-12-25 | 241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,19 +5,19 @@ Rating: 4.52 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 66.00% | ~659 |
-| The Teleprobe | 51.00% | ~509 |
-| The City | 46.00% | ~460 |
-| The field base | 41.00% | ~410 |
-| Survivors | 35.00% | ~350 |
-| The Alliance | 34.00% | ~340 |
-| The Condor | 33.00% | ~330 |
-| The End | 33.00% | ~330 |
-| The Necroevolution | 27.00% | ~270 |
+| The Camp | 66.00% | ~661 |
+| The Teleprobe | 51.00% | ~511 |
+| The City | 46.00% | ~461 |
+| The field base | 41.00% | ~411 |
+| The Alliance | 35.00% | ~351 |
+| Survivors | 35.00% | ~351 |
+| The Condor | 33.00% | ~331 |
+| The End | 33.00% | ~331 |
+| The Necroevolution | 27.00% | ~271 |
 | Krauta is alive | 25.00% | ~250 |
 | Peacemaker | 21.00% | ~210 |
-| On her own | 20.00% | ~200 |
 | Volcanologist | 20.00% | ~200 |
+| On her own | 19.00% | ~190 |
 | Fierce fight | 18.00% | ~180 |
 | Evacuation | 18.00% | ~180 |
 | Beyond divisions | 16.00% | ~160 |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 564)
 | Convoy list | 0.90% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999 (Ranked 283)  
+Progressed: 1,002 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 887 | 0 |
 | 2023-12-23 | 928 | 0 |
 | 2023-12-24 | 960 | 0 |
-| 2023-12-25 | 999 | 0 |
+| 2023-12-25 | 1,002 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,12 +24,12 @@
 | Don't Feel a Loan | 22.00% | ~97 |
 | Artfully Done | 20.00% | ~88 |
 | People Mover | 20.00% | ~88 |
+| Leveled Up Shops | 20.00% | ~88 |
 | Lux Living | 19.00% | ~84 |
 | Emporium Empire | 19.00% | ~84 |
-| Leveled Up Shops | 19.00% | ~84 |
 | We Don't Need No Education | 19.00% | ~84 |
+| Get Electrified | 19.00% | ~84 |
 | Tasty Profits | 18.00% | ~79 |
-| Get Electrified | 18.00% | ~79 |
 | Rehab Expert | 17.00% | ~75 |
 | Established Fame | 17.00% | ~75 |
 | Under One Roof | 15.00% | ~66 |

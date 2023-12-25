@@ -49,6 +49,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
+| Champions | 0.20% | ~32 |
+| Patrons | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
@@ -70,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
+| Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -131,11 +134,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
 | Artisans | 0.10% | ~16 |
-| Champions | 0.10% | ~16 |
 | Clerics | 0.10% | ~16 |
 | Hunters | 0.10% | ~16 |
 | Landowners | 0.10% | ~16 |
-| Patrons | 0.10% | ~16 |
 | Riders | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
@@ -268,7 +269,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library | 0.10% | ~16 |
 | Yazilikaya | 0.10% | ~16 |
 | Colosseum in Roma | 0.10% | ~16 |
-| Centenarian | 0.00% | ~0 |
 | Alexander the who? | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |

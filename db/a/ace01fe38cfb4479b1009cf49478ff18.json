@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 514,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -1774,6 +1774,11 @@
       "Time": "2023-12-25T22:05:41.4799285+00:00",
       "NumProgressed": 512,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T23:05:28.7554104+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1784,9 +1789,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1881,14 +1886,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 514,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:05:41.4799281+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:05:28.75541+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:59:53.0255997+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:05:41.479946+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:59:49.3190465+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:05:28.7554487+00:00"
 }

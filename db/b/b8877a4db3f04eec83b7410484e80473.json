@@ -2,9 +2,9 @@
   "ID": "b8877a4db3f04eec83b7410484e80473",
   "Name": "Railbreak",
   "ProductSlug": "railbreak-f87a0c",
-  "Ranking_EOS_Progress": 631,
+  "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -87,6 +87,11 @@
       "Time": "2023-12-25T21:08:41.2321261+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T23:08:41.4403252+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T01:52:57.8819176+00:00",
@@ -121,7 +126,7 @@
       "ID": "BETTER_FILL_UP_ACH",
       "SetID": "af7amn3",
       "Name": "Better Fill Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -129,7 +134,7 @@
       "ID": "CITY_CENTER_ACH",
       "SetID": "af7amn3",
       "Name": "City Center",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -137,7 +142,7 @@
       "ID": "CYPRESS_RIDGE_PARK_ACH",
       "SetID": "af7amn3",
       "Name": "Cypress Ridge Park",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -145,39 +150,39 @@
       "ID": "DINNER_WITH_FRIENDS_ACH",
       "SetID": "af7amn3",
       "Name": "Dinner with Friends",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EXPLOSIVE_TEMPER_ACH",
       "SetID": "af7amn3",
       "Name": "Explosive Temper",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "HEADSHOT_ACH",
       "SetID": "af7amn3",
       "Name": "Headshot",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "MAIN_STREET_ACH",
       "SetID": "af7amn3",
       "Name": "Main Street",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEDICAL_EXCELLENCE_ACH",
       "SetID": "af7amn3",
       "Name": "Medical Excellence",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -193,7 +198,7 @@
       "ID": "PARK_PICNIC_ACH",
       "SetID": "af7amn3",
       "Name": "Park Picnic",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -201,7 +206,7 @@
       "ID": "SHOPPING_SPREE_ACH",
       "SetID": "af7amn3",
       "Name": "Shopping Spree",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -209,7 +214,7 @@
       "ID": "STATION_OF_THE_DEAD_ACH",
       "SetID": "af7amn3",
       "Name": "Station of the Dead",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -217,7 +222,7 @@
       "ID": "TAKE_IN_THE_TOWN_ACH",
       "SetID": "af7amn3",
       "Name": "Take in the Town",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -233,7 +238,7 @@
       "ID": "THE_CHEF_ACH",
       "SetID": "af7amn3",
       "Name": "The Chef",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -241,7 +246,7 @@
       "ID": "THE_JOURNALIST_ACH",
       "SetID": "af7amn3",
       "Name": "The Journalist",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -249,15 +254,15 @@
       "ID": "THE_LAST_SHOT_BAR_ACH",
       "SetID": "af7amn3",
       "Name": "The Last Shot Bar",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "THE_MAYOR_ACH",
       "SetID": "af7amn3",
       "Name": "The Mayor",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -265,7 +270,7 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -273,9 +278,9 @@
       "ID": "THE_SINGER_ACH",
       "SetID": "af7amn3",
       "Name": "The Singer",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "THE_STUDENT_ACH",
@@ -289,22 +294,22 @@
       "ID": "WEAK_KNEES_ACH",
       "SetID": "af7amn3",
       "Name": "Weak Knees",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "af7amn3",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:06:57.6460098+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:08:41.4403249+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:07.1314256+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:58:23.5655977+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:06:57.6460267+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:58:21.4902032+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:08:41.4403485+00:00"
 }

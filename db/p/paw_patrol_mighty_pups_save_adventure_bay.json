@@ -300,9 +300,9 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "1",
@@ -549,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:04:14.7805249+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:04:05.471508+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.6397047+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:59:34.4177137+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:04:14.78054+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:59:30.6597383+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:04:05.4715307+00:00"
 }

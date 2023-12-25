@@ -2,7 +2,7 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 148,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-12-25T22:04:06.338656+00:00",
       "NumProgressed": 288,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T23:03:57.5822274+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -954,7 +959,7 @@
       "Name": "Blabber",
       "Percentage": 48,
       "XP": 145,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach3",
@@ -992,23 +997,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 145,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:04:06.3386556+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:03:57.582227+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:58:31.136306+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:04:06.3386678+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:58:28.7182445+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:03:57.5822373+00:00"
 }

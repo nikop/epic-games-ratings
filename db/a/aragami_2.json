@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44526,
+  "EOS_Progressed": 44529,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -19642,6 +19642,11 @@
       "Time": "2023-12-25T22:04:43.859505+00:00",
       "NumProgressed": 44526,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-25T23:04:33.7365204+00:00",
+      "NumProgressed": 44529,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19653,7 +19658,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25380
+      "UsersEstimate": 25382
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19661,7 +19666,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13803
+      "UsersEstimate": 13804
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19677,7 +19682,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7569
+      "UsersEstimate": 7570
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -19709,7 +19714,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -19773,7 +19778,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35621
+      "UsersEstimate": 35623
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -19797,7 +19802,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -19813,7 +19818,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -19821,7 +19826,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -19829,7 +19834,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10241
+      "UsersEstimate": 10242
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -19837,7 +19842,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -19845,7 +19850,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16475
+      "UsersEstimate": 16476
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -19861,7 +19866,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -19869,7 +19874,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10686
+      "UsersEstimate": 10687
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -19877,7 +19882,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24489
+      "UsersEstimate": 24491
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -19885,7 +19890,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14248
+      "UsersEstimate": 14249
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -19893,7 +19898,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28051
+      "UsersEstimate": 28053
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -19901,7 +19906,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12022
+      "UsersEstimate": 12023
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19917,7 +19922,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26716
+      "UsersEstimate": 26717
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19925,7 +19930,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29832
+      "UsersEstimate": 29834
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19957,7 +19962,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20037
+      "UsersEstimate": 20038
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19989,7 +19994,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41409
+      "UsersEstimate": 41412
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19997,14 +20002,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23154
+      "UsersEstimate": 23155
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44526,
+      "Progressed": 44529,
       "Completed": 247
     }
   ],
@@ -20012,8 +20017,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:04:43.8595047+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:04:33.7365201+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:03:08.0304472+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:04:43.8596166+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:03:00.9953887+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:04:33.7366184+00:00"
 }

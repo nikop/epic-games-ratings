@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:09:34.2041984+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:09:55.4951048+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:00:16.9653034+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:09:34.2042123+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:00:10.3327972+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:09:55.4951206+00:00"
 }

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2162,
+  "EOS_Progressed": 2164,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
@@ -6199,6 +6199,11 @@
       "Time": "2023-12-25T22:09:49.8918392+00:00",
       "NumProgressed": 2162,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T23:10:11.9776344+00:00",
+      "NumProgressed": 2164,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6307,7 +6312,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_21",
@@ -6323,7 +6328,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_23",
@@ -6347,7 +6352,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_26",
@@ -6355,7 +6360,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_27",
@@ -6435,7 +6440,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "achievement_36",
@@ -6451,7 +6456,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "achievement_38",
@@ -6475,7 +6480,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_40",
@@ -6483,7 +6488,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_41",
@@ -6515,7 +6520,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_45",
@@ -6714,13 +6719,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2162,
+      "Progressed": 2164,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2162,
+      "Progressed": 2164,
       "Completed": 1
     }
   ],
@@ -6728,8 +6733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:09:49.891839+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:10:11.9776341+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:00:20.7227191+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:09:49.8919352+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:00:13.9052807+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:10:11.9777065+00:00"
 }

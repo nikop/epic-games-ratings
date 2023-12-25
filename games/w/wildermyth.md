@@ -10,9 +10,9 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 6.00% | ~93 |
 | Passing Shadow | 5.00% | ~78 |
 | This Too Shall Pass | 5.00% | ~78 |
+| How Romantic! | 5.00% | ~78 |
 | Cutthroat Competitors | 5.00% | ~78 |
 | Gotta Ca... Must Collect All of Them | 4.00% | ~62 |
-| How Romantic! | 4.00% | ~62 |
 | Daybreak | 4.00% | ~62 |
 | Completing the Look | 3.00% | ~47 |
 | War Endured | 3.00% | ~47 |
@@ -30,12 +30,13 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.80% | ~12 |
 | Everfading | 0.80% | ~12 |
 | Plague Doctor | 0.70% | ~11 |
-| In Soil, In Smoke | 0.60% | ~9 |
+| In Soil, In Smoke | 0.70% | ~11 |
+| No Time for Clawmonsters | 0.70% | ~11 |
 | All My Birds, Safely Home | 0.60% | ~9 |
 | Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
-| No Time for Clawmonsters | 0.60% | ~9 |
 | Storied Past | 0.50% | ~8 |
+| Worldwalker | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
@@ -43,7 +44,6 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | Lochias's Hunger | 0.50% | ~8 |
-| Worldwalker | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Fight Like a Bird | 0.40% | ~6 |
 | Into Mulch | 0.40% | ~6 |

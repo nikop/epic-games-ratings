@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10066,18 +10066,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21079,
       "NumberOfAwardsMax": 7863
+    },
+    {
+      "Time": "2023-12-25T22:58:25.8723692+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21091,
+      "NumberOfAwardsMax": 7875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21079,
-  "NumberOfAwardsMax": 7863,
+  "NumberOfAwards": 21091,
+  "NumberOfAwardsMax": 7875,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7863
+      "Count": 7875
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10146,9 +10152,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129855,
+  "EOS_Progressed": 129858,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1466,
+  "EOS_NewPlayers": 1460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36796,6 +36802,11 @@
       "Time": "2023-12-25T22:09:09.409879+00:00",
       "NumProgressed": 129855,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T23:09:31.0366587+00:00",
+      "NumProgressed": 129858,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37343,7 +37354,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "combat_kill_collector",
@@ -37407,7 +37418,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37438,21 +37449,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129855,
+      "Progressed": 129858,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4724,
+      "Progressed": 4727,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-25T21:58:28.1948895+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:09:09.4098782+00:00",
+  "LastChanged": "2023-12-25T22:58:25.872369+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:09:31.0366583+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:58:28.1948901+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:09:09.4100583+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:58:25.8723697+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:09:31.036812+00:00"
 }

@@ -1,27 +1,27 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 280)  
+Rating: 4.67 (Ranked 281)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,598 |
-| A thief's beginning | 11.00% | ~24,382 |
-| Thorough | 11.00% | ~24,382 |
+| Genin | 12.00% | ~26,599 |
+| A thief's beginning | 11.00% | ~24,383 |
+| Thorough | 11.00% | ~24,383 |
 | Disguised | 9.00% | ~19,949 |
 | Rescue Takuma | 9.00% | ~19,949 |
 | Rollin' | 9.00% | ~19,949 |
 | Tanuki Time | 9.00% | ~19,949 |
-| Stoned Ox | 8.00% | ~17,732 |
+| Stoned Ox | 8.00% | ~17,733 |
 | Happy Planning | 7.00% | ~15,516 |
 | Ice Ice Yuki | 7.00% | ~15,516 |
 | Jonin | 7.00% | ~15,516 |
 | Mugen Unchained | 7.00% | ~15,516 |
 | Yabu | 7.00% | ~15,516 |
-| Chunin | 6.00% | ~13,299 |
-| Flying Rocks | 6.00% | ~13,299 |
-| Warzone | 6.00% | ~13,299 |
+| Chunin | 6.00% | ~13,300 |
+| Flying Rocks | 6.00% | ~13,300 |
+| Warzone | 6.00% | ~13,300 |
 | Happy little accidents | 5.00% | ~11,083 |
 | Okkoto | 5.00% | ~11,083 |
 | Prisoners | 5.00% | ~11,083 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~222 |
 | Release the Kraken | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,654 (Ranked 76)  
+Progressed: 221,660 (Ranked 76)  
 Completed: 102 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,11 +300,11 @@ Completed: 102 (0.05%) (Ranked 336)
 | 2023-12-22 | 220,925 | 102 |
 | 2023-12-23 | 221,197 | 102 |
 | 2023-12-24 | 221,429 | 102 |
-| 2023-12-25 | 221,654 | 102 |
+| 2023-12-25 | 221,660 | 102 |
 ## Awards
 Max (Great for Beginners): 589  (Ranked 203)  
-Sum: 4,927 (Ranked 147)  
-Diff (max vs sum): 56  
+Sum: 4,927 (Ranked 146)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 589 |

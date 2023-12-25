@@ -5,13 +5,13 @@ Rating: 4.03 (Ranked 1,015)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,539 |
-| World Map | 78.00% | ~2,968 |
-| Temple of Eternals | 56.00% | ~2,131 |
-| Prestigious | 53.00% | ~2,017 |
-| Fellowship Power | 42.00% | ~1,598 |
-| Full Party | 26.00% | ~989 |
-| Guild Power | 23.00% | ~875 |
+| Victor | 93.00% | ~3,541 |
+| World Map | 78.00% | ~2,969 |
+| Temple of Eternals | 56.00% | ~2,132 |
+| Prestigious | 53.00% | ~2,018 |
+| Fellowship Power | 42.00% | ~1,599 |
+| Full Party | 26.00% | ~990 |
+| Guild Power | 23.00% | ~876 |
 | Prestigious x10 | 20.00% | ~761 |
 | The game is on | 18.00% | ~685 |
 | Exotic Merchant | 16.00% | ~609 |
@@ -27,17 +27,17 @@ Rating: 4.03 (Ranked 1,015)
 | Natural Talent | 11.00% | ~419 |
 | Superior | 11.00% | ~419 |
 | The Unstoppable | 11.00% | ~419 |
-| Scientist | 10.00% | ~380 |
-| Daily Quest Completionist | 9.00% | ~342 |
-| Doing My Part | 9.00% | ~342 |
-| Hunter | 9.00% | ~342 |
-| The power of Awakening | 9.00% | ~342 |
-| Challenger | 8.00% | ~304 |
-| Frostfire Liberator | 8.00% | ~304 |
-| Mastery | 8.00% | ~304 |
-| Moving Up The Ladder | 8.00% | ~304 |
-| Relic Of The Past | 8.00% | ~304 |
-| Scroll Master | 8.00% | ~304 |
+| Scientist | 10.00% | ~381 |
+| Daily Quest Completionist | 9.00% | ~343 |
+| Doing My Part | 9.00% | ~343 |
+| Hunter | 9.00% | ~343 |
+| The power of Awakening | 9.00% | ~343 |
+| Challenger | 8.00% | ~305 |
+| Frostfire Liberator | 8.00% | ~305 |
+| Mastery | 8.00% | ~305 |
+| Moving Up The Ladder | 8.00% | ~305 |
+| Relic Of The Past | 8.00% | ~305 |
+| Scroll Master | 8.00% | ~305 |
 | Four Leaf Clover | 7.00% | ~266 |
 | Here We Go Again | 7.00% | ~266 |
 | Master Enchanter | 7.00% | ~266 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,015)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,805 (Ranked 209)  
+Progressed: 3,807 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-22 | 3,677 | 2 |
 | 2023-12-23 | 3,733 | 2 |
 | 2023-12-24 | 3,773 | 2 |
-| 2023-12-25 | 3,805 | 2 |
+| 2023-12-25 | 3,807 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
 Sum: 127 (Ranked 443)  

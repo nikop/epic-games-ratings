@@ -17222,10 +17222,10 @@
       "Count": 16830
     }
   ],
-  "EOS_Progressed": 981393,
-  "EOS_Completed": 2973,
-  "EOS_NewPlayers": 2940,
-  "EOS_NewCompleters": 38,
+  "EOS_Progressed": 981401,
+  "EOS_Completed": 2974,
+  "EOS_NewPlayers": 2936,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -45687,6 +45687,11 @@
       "Time": "2023-12-25T22:04:58.1257151+00:00",
       "NumProgressed": 981393,
       "NumCompleted": 2973
+    },
+    {
+      "Time": "2023-12-25T23:04:47.5446034+00:00",
+      "NumProgressed": 981401,
+      "NumCompleted": 2974
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45771,7 +45776,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78511
+      "UsersEstimate": 78512
     },
     {
       "ID": "Gunslinger",
@@ -46027,7 +46032,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117767
+      "UsersEstimate": 117768
     },
     {
       "ID": "YipMan",
@@ -46139,7 +46144,7 @@
       "Name": "Relic Ruler",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "UltimateSurvivor",
@@ -46234,21 +46239,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981393,
-      "Completed": 2973
+      "Progressed": 981401,
+      "Completed": 2974
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110016,
+      "Progressed": 110024,
       "Completed": 10459
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-25T22:03:05.4363088+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:04:58.1257147+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:04:47.5446031+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:03:05.4363093+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:04:58.1259465+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:02:58.4630014+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:04:47.5447511+00:00"
 }

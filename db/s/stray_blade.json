@@ -910,9 +910,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -926,9 +926,9 @@
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_BEAR",
       "SetID": "7i20me3",
       "Name": "Trailblazer",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_LIZARD",
@@ -958,9 +958,9 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_WOODEN_CLUB",
@@ -1022,7 +1022,7 @@
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
       "SetID": "7i20me3",
       "Name": "A Deceiving Gift",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1149,8 +1149,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:09:45.8746344+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:10:07.6642309+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.7737079+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:02:49.1470099+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:09:45.8746724+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:02:42.4308805+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:10:07.6642688+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 1320,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
@@ -4779,9 +4779,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 528
+      "UsersEstimate": 541
     },
     {
       "ID": "MQ07_1",
@@ -4795,9 +4795,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 515
+      "UsersEstimate": 528
     },
     {
       "ID": "MQ08_1",
@@ -4844,8 +4844,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-25T11:02:59.9594634+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:05:17.1912076+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:05:05.5265835+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:03:07.6595529+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:05:17.1912469+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:03:00.6394982+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:05:05.5266369+00:00"
 }

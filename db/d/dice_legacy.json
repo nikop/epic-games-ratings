@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -2554,6 +2554,11 @@
       "Time": "2023-12-25T22:04:42.419063+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T23:04:32.486398+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2749,7 +2754,7 @@
       "Name": "The City",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GOLDMASTER",
@@ -2924,7 +2929,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 0
     }
   ],
@@ -2932,8 +2937,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:04:42.4190627+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:04:32.4863977+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:24.1709228+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:03:01.7058095+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:04:42.4190998+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:02:54.8030155+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:04:32.4864388+00:00"
 }

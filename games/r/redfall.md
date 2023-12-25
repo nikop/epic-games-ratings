@@ -26,7 +26,6 @@ Rating: 3.58 (Ranked 1,067)
 | Radio Silence | 3.00% | ~62 |
 | Sic Transit Umbra | 2.00% | ~41 |
 | Bell-ringer | 2.00% | ~41 |
-| Silence Is Golden | 2.00% | ~41 |
 | Good Morning | 2.00% | ~41 |
 | From the Shadows | 2.00% | ~41 |
 | Starve the Beast | 2.00% | ~41 |
@@ -36,6 +35,7 @@ Rating: 3.58 (Ranked 1,067)
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
 | Block Party | 1.00% | ~21 |
+| Silence Is Golden | 1.00% | ~21 |
 | You Clean It Up | 1.00% | ~21 |
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,066 (Ranked 237)  
+Progressed: 2,067 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
-| 2023-12-25 | 2,066 | 0 |
+| 2023-12-25 | 2,067 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

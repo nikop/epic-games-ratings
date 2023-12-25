@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 4.00% | ~29,778 |
-| The Assault | 3.00% | ~22,333 |
-| Life is your teacher | 3.00% | ~22,333 |
-| Lightning Hands | 3.00% | ~22,333 |
+| The Assault | 3.00% | ~22,334 |
+| Life is your teacher | 3.00% | ~22,334 |
+| Lightning Hands | 3.00% | ~22,334 |
 | The Hateful Pole Fighter | 2.00% | ~14,889 |
 | Stuntmaster | 2.00% | ~14,889 |
 | Street Fighting | 2.00% | ~14,889 |
@@ -17,22 +17,22 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 2.00% | ~14,889 |
 | Old Child | 2.00% | ~14,889 |
 | Rumble in the Hangar | 2.00% | ~14,889 |
-| A Lady's Blood in the Snow | 1.00% | ~7,444 |
-| Lady Wing Chun | 1.00% | ~7,444 |
-| Furious Fists | 1.00% | ~7,444 |
-| Kill Nil | 1.00% | ~7,444 |
-| Qi Gong: Mind | 1.00% | ~7,444 |
-| Qi Gong: Breath | 1.00% | ~7,444 |
-| I know Kung-Fu | 1.00% | ~7,444 |
-| Path of the Prospect | 1.00% | ~7,444 |
-| Take damage to save time | 1.00% | ~7,444 |
-| Project Arena | 1.00% | ~537 |
-| Diligence as a goal | 1.00% | ~537 |
+| A Lady's Blood in the Snow | 1.00% | ~7,445 |
+| Lady Wing Chun | 1.00% | ~7,445 |
+| Furious Fists | 1.00% | ~7,445 |
+| Kill Nil | 1.00% | ~7,445 |
+| Qi Gong: Mind | 1.00% | ~7,445 |
+| Qi Gong: Breath | 1.00% | ~7,445 |
+| I know Kung-Fu | 1.00% | ~7,445 |
+| Path of the Prospect | 1.00% | ~7,445 |
+| Take damage to save time | 1.00% | ~7,445 |
+| Project Arena | 1.00% | ~538 |
+| Diligence as a goal | 1.00% | ~538 |
 | Scareless | 0.80% | ~5,956 |
 | Dance of the Praying Mantis | 0.80% | ~5,956 |
 | Kung-Fu Tussle | 0.80% | ~5,956 |
 | Fight the way you practice | 0.70% | ~376 |
-| Martial Hub | 0.60% | ~322 |
+| Martial Hub | 0.60% | ~323 |
 | Muk Yan Master | 0.50% | ~3,722 |
 | Detective Story | 0.50% | ~3,722 |
 | Bloody Sport | 0.50% | ~269 |
@@ -53,11 +53,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,489 |
 | Be like water my friend | 0.20% | ~1,489 |
 | Come Snap With Me | 0.20% | ~1,489 |
-| Deadly Venom | 0.20% | ~107 |
-| A Touch of Acumen | 0.20% | ~107 |
-| Skill and an even stronger will | 0.20% | ~107 |
-| Master of the Flying Assassins | 0.20% | ~107 |
-| Beatmaker | 0.20% | ~107 |
+| Deadly Venom | 0.20% | ~108 |
+| A Touch of Acumen | 0.20% | ~108 |
+| Skill and an even stronger will | 0.20% | ~108 |
+| Master of the Flying Assassins | 0.20% | ~108 |
+| Beatmaker | 0.20% | ~108 |
 | Warriors from the Mountain | 0.10% | ~744 |
 | Secure, Protect, Leave | 0.10% | ~54 |
 | Crouching Tiger | 0.10% | ~54 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~54 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744,443 (Ranked 23)  
+Progressed: 744,462 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 744,443 | 12,966 |
+| 2023-12-25 | 744,462 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
 Sum: 11,862 (Ranked 87)  

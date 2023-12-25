@@ -9,16 +9,16 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 78.00% | ~144 |
 | First of many… | 67.00% | ~123 |
 | Helping Hand | 66.00% | ~121 |
-| Increased Vigor | 60.00% | ~110 |
-| Fight Fire with Fire | 59.00% | ~109 |
-| Increased Capacity | 55.00% | ~101 |
+| Increased Vigor | 61.00% | ~112 |
+| Fight Fire with Fire | 60.00% | ~110 |
+| Increased Capacity | 56.00% | ~103 |
 | Just the start | 51.00% | ~94 |
 | Perfect Storm | 47.00% | ~86 |
 | All That Glitters | 46.00% | ~85 |
 | Enhance! | 43.00% | ~79 |
 | One Of the Chosen | 41.00% | ~75 |
 | Throne Potato | 39.00% | ~72 |
-| Devil's in the Details | 37.00% | ~68 |
+| Devil's in the Details | 38.00% | ~70 |
 | 25 to Life | 36.00% | ~66 |
 | Soul Harvester | 35.00% | ~64 |
 | Five's a Crowd | 35.00% | ~64 |
@@ -37,8 +37,8 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 22.00% | ~40 |
 | Maximum Capacity | 21.00% | ~39 |
 | Big Spender | 21.00% | ~39 |
-| Demon Meddler | 19.00% | ~35 |
-| Seeing Red | 18.00% | ~33 |
+| Demon Meddler | 20.00% | ~37 |
+| Seeing Red | 19.00% | ~35 |
 | Egomaniac | 17.00% | ~31 |
 | Protector of Humanity | 15.00% | ~28 |
 | Everybody Wants to Rule the World | 15.00% | ~28 |

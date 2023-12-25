@@ -6,9 +6,9 @@
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1787,
+  "EOS_Progressed": 1788,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2970,6 +2970,11 @@
       "Time": "2023-12-25T22:05:30.8795993+00:00",
       "NumProgressed": 1787,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-25T23:05:18.5541434+00:00",
+      "NumProgressed": 1788,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -2981,7 +2986,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3029,7 +3034,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3045,7 +3050,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3077,7 +3082,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3085,7 +3090,7 @@
       "Name": "Sous Chef",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENTS_15",
@@ -3149,7 +3154,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3221,7 +3226,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3261,7 +3266,7 @@
       "Name": "Grape Supplier",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENTS_37",
@@ -3284,7 +3289,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1787,
+      "Progressed": 1788,
       "Completed": 11
     }
   ],
@@ -3292,8 +3297,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:05:30.879599+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:05:18.5541431+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:59:49.301672+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:05:30.8796329+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:59:45.7055558+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:05:18.5541803+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~930 |
-| Welcome to the Tower | 48.00% | ~858 |
-| The great escape | 40.00% | ~715 |
-| The Preacher's fate | 38.00% | ~679 |
-| A new dawn | 32.00% | ~572 |
-| Scholar | 27.00% | ~483 |
-| True G3M4R | 26.00% | ~465 |
-| The darkness | 26.00% | ~465 |
-| A good beginning | 25.00% | ~447 |
-| Rascal | 22.00% | ~393 |
-| One last step | 22.00% | ~393 |
-| I did it | 21.00% | ~375 |
-| Cable guy | 21.00% | ~375 |
-| Half the way | 21.00% | ~375 |
-| In this together | 20.00% | ~358 |
-| Peace walker | 20.00% | ~358 |
-| Champollion | 20.00% | ~358 |
-| Open door | 18.00% | ~322 |
-| Feels like springtime | 17.00% | ~304 |
-| Alchemists Express | 17.00% | ~304 |
-| Free at last | 15.00% | ~268 |
-| A Link to the Past | 13.00% | ~232 |
+| That's the spirit | 52.00% | ~932 |
+| Welcome to the Tower | 48.00% | ~861 |
+| The great escape | 39.00% | ~699 |
+| The Preacher's fate | 38.00% | ~681 |
+| A new dawn | 32.00% | ~574 |
+| Scholar | 27.00% | ~484 |
+| True G3M4R | 26.00% | ~466 |
+| The darkness | 26.00% | ~466 |
+| A good beginning | 25.00% | ~448 |
+| Rascal | 22.00% | ~394 |
+| One last step | 22.00% | ~394 |
+| I did it | 21.00% | ~377 |
+| Cable guy | 21.00% | ~377 |
+| Half the way | 21.00% | ~377 |
+| In this together | 20.00% | ~359 |
+| Peace walker | 20.00% | ~359 |
+| Champollion | 20.00% | ~359 |
+| Open door | 18.00% | ~323 |
+| Feels like springtime | 17.00% | ~305 |
+| Alchemists Express | 17.00% | ~305 |
+| Free at last | 15.00% | ~269 |
+| A Link to the Past | 13.00% | ~233 |
 | A great audience | 12.00% | ~215 |
 | For its own good | 12.00% | ~215 |
-| Fashion victim | 7.00% | ~125 |
+| Fashion victim | 7.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,788 (Ranked 243)  
-Completed: 104 (5.82%) (Ranked 72)  
+Progressed: 1,793 (Ranked 243)  
+Completed: 105 (5.86%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 104 (5.82%) (Ranked 72)
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
 | 2023-12-24 | 1,732 | 99 |
-| 2023-12-25 | 1,788 | 104 |
+| 2023-12-25 | 1,793 | 105 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

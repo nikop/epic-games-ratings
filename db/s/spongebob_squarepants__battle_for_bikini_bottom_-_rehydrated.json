@@ -6,9 +6,9 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1057,6 +1057,11 @@
       "Time": "2023-12-25T22:04:17.6689059+00:00",
       "NumProgressed": 377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T23:04:08.2265671+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1171,9 +1176,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1267,9 +1272,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1324,15 +1329,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:04:17.6689054+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:04:08.2265668+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:58:38.8331972+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:04:17.6689311+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:58:36.1367682+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:04:08.2265895+00:00"
 }

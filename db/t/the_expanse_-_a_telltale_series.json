@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17422,
+  "EOS_Progressed": 17425,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15136,6 +15136,11 @@
       "Time": "2023-12-25T22:03:54.8939562+00:00",
       "NumProgressed": 17422,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-25T23:03:46.8493957+00:00",
+      "NumProgressed": 17425,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15172,7 +15177,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "13",
@@ -15180,7 +15185,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "14",
@@ -15204,7 +15209,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "17",
@@ -15268,7 +15273,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "24",
@@ -15284,7 +15289,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "26",
@@ -15324,7 +15329,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "30",
@@ -15388,7 +15393,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "32",
@@ -15427,22 +15432,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17422,
+      "Progressed": 17425,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3376,
-      "Completed": 1045
+      "Progressed": 3379,
+      "Completed": 1049
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:03:54.8939558+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:03:46.8493953+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:59:05.6529352+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:03:54.8940461+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:59:02.1465755+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:03:46.8494738+00:00"
 }

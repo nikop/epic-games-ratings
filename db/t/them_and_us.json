@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1541,6 +1541,11 @@
       "Time": "2023-12-25T21:05:37.2109096+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T23:05:23.2306959+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1584,7 +1589,7 @@
       "Name": "Back In Time",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -1616,7 +1621,7 @@
       "Name": "Retro Player",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_DieAnotherDay",
@@ -1648,7 +1653,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1704,7 +1709,7 @@
       "Name": "Open Sesame",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ETUA_OutRage",
@@ -1728,7 +1733,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ETUA_Researcher",
@@ -1736,7 +1741,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -1758,9 +1763,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 116
     },
     {
       "ID": "ETUA_StayDead",
@@ -1768,7 +1773,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1784,7 +1789,7 @@
       "Name": "The 5th Element",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -1832,7 +1837,7 @@
       "Name": "This Mansion Is Clean",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
@@ -1840,7 +1845,7 @@
       "Name": "A Night To Remember",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ETUA_Trapped",
@@ -1856,7 +1861,7 @@
       "Name": "What A Mansion",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -1871,7 +1876,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 1
     }
   ],
@@ -1879,8 +1884,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-25T22:05:35.5959181+00:00",
+  "LastChanged_Achievements": "2023-12-25T23:05:23.2306956+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-25T21:57:46.6296088+00:00",
-  "LastUpdate_Achievements": "2023-12-25T22:05:35.5959453+00:00"
+  "LastUpdate_Ratings": "2023-12-25T22:57:47.2179704+00:00",
+  "LastUpdate_Achievements": "2023-12-25T23:05:23.2307254+00:00"
 }

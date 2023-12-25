@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~616 |
-| Training Simulation | 79.00% | ~523 |
-| Kuku Bird Hunter | 66.00% | ~437 |
-| Storm Traveller | 60.00% | ~397 |
-| Wolf King Killer | 55.00% | ~364 |
+| Travel Streamer | 93.00% | ~617 |
+| Training Simulation | 79.00% | ~524 |
+| Kuku Bird Hunter | 66.00% | ~438 |
+| Storm Traveller | 60.00% | ~398 |
+| Wolf King Killer | 55.00% | ~365 |
 | Fashion Connoisseur | 53.00% | ~351 |
-| Arms Mechanic | 49.00% | ~324 |
-| Flower Thief | 44.00% | ~291 |
-| Apostle of Flame | 39.00% | ~258 |
+| Arms Mechanic | 49.00% | ~325 |
+| Flower Thief | 44.00% | ~292 |
+| Apostle of Flame | 39.00% | ~259 |
 | Beginner Artificer | 38.00% | ~252 |
 | Beginner Cook | 37.00% | ~245 |
 | Seal Breaker | 32.00% | ~212 |
-| Handyman | 28.00% | ~185 |
+| Handyman | 28.00% | ~186 |
 | Giant Lizard Killer | 26.00% | ~172 |
 | Guardian | 25.00% | ~166 |
 | Nosebleeder | 25.00% | ~166 |
@@ -37,7 +37,7 @@
 | Giantess Slayer | 10.00% | ~66 |
 | Warden Slayer | 9.00% | ~60 |
 | Master Cook | 8.00% | ~53 |
-| Silver Moon Wolf King Challenge | 4.00% | ~26 |
+| Silver Moon Wolf King Challenge | 4.00% | ~27 |
 | Flying Kobold Challenge | 3.00% | ~20 |
 | Furious Scorpion Challenge | 3.00% | ~20 |
 | Giant Lizard Challenge | 3.00% | ~20 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~13 |
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662 (Ranked 310)  
+Progressed: 663 (Ranked 310)  
 Completed: 2 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 2 (0.30%) (Ranked 253)
 | 2023-12-22 | 647 | 1 |
 | 2023-12-23 | 654 | 2 |
 | 2023-12-24 | 661 | 2 |
-| 2023-12-25 | 662 | 2 |
+| 2023-12-25 | 663 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

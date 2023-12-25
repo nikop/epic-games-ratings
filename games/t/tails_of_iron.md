@@ -24,11 +24,11 @@ Rating: 4.56 (Ranked 496)
 | Return Power To The Depths | 0.60% | ~14 |
 | Defeat Croakhis Khan | 0.60% | ~6 |
 | I Remember My First Beer | 0.60% | ~6 |
+| Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |
 | Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
-| Defeat Ratnor Rodentson | 0.40% | ~9 |
 | Fix the Travellers Wagon | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Defeat the Grub Buster | 0.40% | ~4 |

@@ -15,11 +15,11 @@
 | Right between the eyes | 40.00% | ~40 |
 | Spring Board | 40.00% | ~40 |
 | Starry Night | 38.00% | ~38 |
-| Locksley's Tears | 36.00% | ~36 |
-| Rebel Unleashed | 35.00% | ~35 |
+| Locksley's Tears | 37.00% | ~37 |
+| Rebel Unleashed | 36.00% | ~36 |
 | Merry Co-operation | 31.00% | ~31 |
 | Finish Him! | 25.00% | ~25 |
-| Assault on the Ram | 24.00% | ~24 |
+| Assault on the Ram | 25.00% | ~25 |
 | Ultra Rebel Instinct | 23.00% | ~23 |
 | First Aid | 23.00% | ~23 |
 | Merry Go Round | 22.00% | ~22 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 479)  
+Progressed: 99 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
