@@ -6,10 +6,10 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 13.00% | ~44 |
+| Spatula Seeker | 14.00% | ~48 |
 | Sponge Smasher | 13.00% | ~44 |
 | Jellyfish Jam | 12.00% | ~41 |
-| Jellyfishing | 8.00% | ~27 |
+| Jellyfishing | 9.00% | ~31 |
 | Time For Tutorial | 8.00% | ~27 |
 | Life's as extreme as you wanna make it! | 6.00% | ~20 |
 | Sweet Victory | 6.00% | ~20 |

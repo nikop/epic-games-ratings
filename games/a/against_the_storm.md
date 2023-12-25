@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,9 +43,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 1.00% | ~192 |
 | Defying the Crown | 0.90% | ~172 |
 | Serving Ale | 0.80% | ~153 |
+| Fishmen Ritual Site | 0.80% | ~153 |
 | Victory Through Prosperity | 0.80% | ~153 |
 | Into the Forest | 0.80% | ~153 |
-| Fishmen Ritual Site | 0.70% | ~134 |
 | Efficient Explorer | 0.60% | ~115 |
 | Refinery | 0.60% | ~115 |
 | Dangerous Lands | 0.60% | ~115 |

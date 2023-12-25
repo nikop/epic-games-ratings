@@ -7,11 +7,11 @@ Rating: 4.55 (Ranked 512)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 15.00% | ~2,602 |
 | Captain Drummer | 11.00% | ~1,908 |
-| The Pit and the Pirates | 10.00% | ~1,734 |
-| Martian Music | 10.00% | ~1,734 |
-| Bosmang | 10.00% | ~1,734 |
-| Celebrations are in Order | 10.00% | ~1,734 |
-| Impossible Objects | 10.00% | ~1,734 |
+| The Pit and the Pirates | 10.00% | ~1,735 |
+| Martian Music | 10.00% | ~1,735 |
+| Bosmang | 10.00% | ~1,735 |
+| Celebrations are in Order | 10.00% | ~1,735 |
+| Impossible Objects | 10.00% | ~1,735 |
 | Drone Dodger | 9.00% | ~1,561 |
 | Stogie for Fogey | 8.00% | ~1,388 |
 | Spore Taste | 8.00% | ~1,388 |
@@ -34,14 +34,14 @@ Rating: 4.55 (Ranked 512)
 | No Belter Left Behind | 2.00% | ~347 |
 | Debris Spree | 2.00% | ~347 |
 | Data Master | 2.00% | ~347 |
+| Urshanabi Hoarder | 1.00% | ~173 |
 | Data Recoverer | 1.00% | ~173 |
-| Urshanabi Hoarder | 0.90% | ~156 |
 | Data Miner | 0.50% | ~87 |
 | Grave Robber | 0.50% | ~87 |
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,345 (Ranked 155)  
+Progressed: 17,349 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 52 (0.30%) (Ranked 251)
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
-| 2023-12-25 | 17,345 | 52 |
+| 2023-12-25 | 17,349 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

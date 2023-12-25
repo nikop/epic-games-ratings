@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,724 |
+| V for Vendetta | 12.00% | ~117,725 |
 | Gun Fu | 8.00% | ~78,483 |
-| The Fool | 7.00% | ~68,672 |
+| The Fool | 7.00% | ~68,673 |
 | Right Back At Ya | 6.00% | ~58,862 |
 | The Lovers | 6.00% | ~58,862 |
 | Full Body Conversion | 5.00% | ~49,052 |
 | True Soldier | 5.00% | ~49,052 |
-| Christmas Tree Attack | 4.00% | ~39,241 |
-| Stanislavski's Method | 4.00% | ~39,241 |
-| The Hermit | 4.00% | ~39,241 |
-| The Wheel of Fortune | 4.00% | ~39,241 |
-| All the President's Men | 4.00% | ~4,386 |
-| Arachnophobia | 4.00% | ~4,386 |
+| Christmas Tree Attack | 4.00% | ~39,242 |
+| Stanislavski's Method | 4.00% | ~39,242 |
+| The Hermit | 4.00% | ~39,242 |
+| The Wheel of Fortune | 4.00% | ~39,242 |
+| All the President's Men | 4.00% | ~4,387 |
+| Arachnophobia | 4.00% | ~4,387 |
 | Master Crafter | 3.00% | ~29,431 |
 | The Quick and the Dead | 3.00% | ~29,431 |
 | Life of the Road | 3.00% | ~29,431 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,035 (Ranked 16)  
+Progressed: 981,040 (Ranked 16)  
 Completed: 2,970 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,17 +323,17 @@ Completed: 2,970 (0.30%) (Ranked 251)
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
-| 2023-12-25 | 981,035 | 2,970 |
+| 2023-12-25 | 981,040 | 2,970 |
 ## Awards
 Max (Character Customization): 127,101  (Ranked 8)  
-Sum: 442,014 (Ranked 9)  
+Sum: 442,188 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 127,101 |
 | This game has Great Boss Battles | 93,757 |
 | This game is Great for Beginners | 27,719 |
-| This game has Diverse Characters | 26,997 |
+| This game has Diverse Characters | 27,171 |
 | This game is Highly Recommended | 25,833 |
 | This game has Amazing Storytelling | 25,383 |
 | This game is Extremely Fun | 25,184 |
@@ -684,4 +684,4 @@ Diff (max vs sum): -1
 | 2023-12-22 | 4.66 | - | 126,294 | 437,314 |
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
-| 2023-12-25 | 4.66 | - | 127,101 | 442,014 |
+| 2023-12-25 | 4.66 | - | 127,101 | 442,188 |

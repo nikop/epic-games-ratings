@@ -136,9 +136,9 @@
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "entertainment",
@@ -248,9 +248,9 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "toomany",
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:26:45.5823063+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:05:21.1898819+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:13.9639515+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:20:58.8571139+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:26:45.5823255+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:59:23.3836178+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:05:21.1898976+00:00"
 }

@@ -20,13 +20,13 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 3.00% | ~225 |
 | License to Gill | 2.00% | ~150 |
 | I'm Hooked! | 2.00% | ~150 |
-| Diamond in the Rough | 0.90% | ~67 |
+| Diamond in the Rough | 0.90% | ~68 |
 | I'm the Captain Now | 0.80% | ~60 |
 | Marathon | 0.80% | ~60 |
 | Hook, Line and Sinker | 0.60% | ~45 |
-| More than a Tourist | 0.50% | ~37 |
-| No Fin left to give | 0.50% | ~37 |
-| Gonna Need a Bigger Boat | 0.50% | ~37 |
+| More than a Tourist | 0.50% | ~38 |
+| No Fin left to give | 0.50% | ~38 |
+| Gonna Need a Bigger Boat | 0.50% | ~38 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~27 |
 | Aguas Claras Conquistador | 0.40% | ~27 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
@@ -36,10 +36,10 @@ Number of Ratings: 281  (23.09.2022)
 | Golden Ridge Ranger | 0.20% | ~15 |
 | Rod and Troll | 0.20% | ~14 |
 | Three Square Meals | 0.20% | ~14 |
-| Head for Heights | 0.10% | ~7 |
-| Taylor Made | 0.10% | ~7 |
-| Lost and Flounder | 0.10% | ~7 |
-| Buckaroo | 0.10% | ~7 |
+| Head for Heights | 0.10% | ~8 |
+| Taylor Made | 0.10% | ~8 |
+| Lost and Flounder | 0.10% | ~8 |
+| Buckaroo | 0.10% | ~8 |
 | Trollsporet Tale Teller | 0.10% | ~7 |
 | Fish upon a Star | 0.10% | ~7 |
 | Cache and Carry | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,498 (Ranked 188)  
+Progressed: 7,500 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 7,389 | 0 |
 | 2023-12-23 | 7,447 | 0 |
 | 2023-12-24 | 7,496 | 0 |
-| 2023-12-25 | 7,498 | 0 |
+| 2023-12-25 | 7,500 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 471)  
 Sum: 211 (Ranked 405)  

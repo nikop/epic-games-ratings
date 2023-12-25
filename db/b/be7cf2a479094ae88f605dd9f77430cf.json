@@ -2,9 +2,9 @@
   "ID": "be7cf2a479094ae88f605dd9f77430cf",
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
     {
       "Time": "2023-12-24T22:04:01.6746564+00:00",
       "NumProgressed": 27,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T03:04:10.6954274+00:00",
+      "NumProgressed": 28,
       "NumCompleted": 0
     }
   ],
@@ -330,9 +335,9 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "9",
@@ -387,14 +392,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:25:52.887536+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:04:10.6954269+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:07.0349473+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:22:27.9639195+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:25:52.8875568+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:01:26.2367251+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:04:10.6954404+00:00"
 }

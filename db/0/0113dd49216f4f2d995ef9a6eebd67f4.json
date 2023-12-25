@@ -933,17 +933,17 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1092,8 +1092,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:30:58.2978889+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:09:14.1388671+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:21:06.6176705+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:30:58.2979163+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:59:34.1294738+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:09:14.1389213+00:00"
 }

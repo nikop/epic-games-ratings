@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 198,
-  "Ranking_Popularity": 467,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 388,
@@ -161,9 +161,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 7274,
+  "EOS_Progressed": 7276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2287,
+  "EOS_NewPlayers": 2284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2266,6 +2266,11 @@
       "Time": "2023-12-25T02:31:48.7435071+00:00",
       "NumProgressed": 7274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T03:10:19.6760812+00:00",
+      "NumProgressed": 7276,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2278,7 +2283,7 @@
       "Name": "Conspiracy",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "03_TheStolenStar",
@@ -2366,7 +2371,7 @@
       "Name": "Doom Trader",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -2374,15 +2379,15 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 582
     },
     {
       "ID": "16_TheRise",
@@ -2454,7 +2459,7 @@
       "Name": "Highrise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "25_DynastyProspers",
@@ -2502,7 +2507,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "31_DontTouchThis",
@@ -2526,7 +2531,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2558,7 +2563,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -2590,7 +2595,7 @@
       "Name": "Jungle Heat",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2598,7 +2603,7 @@
       "Name": "Iron Judgement",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -2630,7 +2635,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "47_AFlame",
@@ -2694,7 +2699,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -2718,7 +2723,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -2797,7 +2802,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 7274,
+      "Progressed": 7276,
       "Completed": 0
     }
   ],
@@ -2805,8 +2810,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-24T20:00:33.6134232+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:31:48.7435067+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:10:19.6760808+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:21:43.8121544+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:31:48.7435686+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:00:25.7560494+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:10:19.6761305+00:00"
 }

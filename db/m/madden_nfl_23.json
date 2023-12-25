@@ -967,9 +967,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4161,
+  "EOS_Progressed": 4162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7692,6 +7692,11 @@
       "Time": "2023-12-25T02:28:15.9941681+00:00",
       "NumProgressed": 4161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T03:07:20.6910134+00:00",
+      "NumProgressed": 4162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7710,9 +7715,9 @@
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2331
     },
     {
       "ID": "achievement_11",
@@ -7728,7 +7733,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "achievement_13",
@@ -7736,7 +7741,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "achievement_14",
@@ -7792,7 +7797,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_20",
@@ -7832,7 +7837,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "achievement_6",
@@ -7840,7 +7845,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "achievement_7",
@@ -7871,7 +7876,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4161,
+      "Progressed": 4162,
       "Completed": 0
     }
   ],
@@ -7879,8 +7884,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-24T20:01:29.5920403+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:28:15.9941676+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:07:20.6910131+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:22:22.9495294+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:28:15.9942066+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:01:20.3514465+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:07:20.6910551+00:00"
 }

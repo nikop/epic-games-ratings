@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -428,9 +428,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_018",
@@ -739,8 +739,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:31:36.4371209+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:10:03.1040225+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:19:26.0184965+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:31:36.437148+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:57:19.9035171+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:10:03.1040482+00:00"
 }

@@ -20,9 +20,9 @@ Number of Ratings: 2,731  (23.09.2022)
 | Curiosity | 18.00% | ~15,731 |
 | Master | 18.00% | ~15,731 |
 | Self-sufficient | 17.00% | ~14,857 |
-| Money money | 15.00% | ~13,109 |
-| Biggest Reward | 14.00% | ~12,235 |
-| First Journey | 13.00% | ~11,361 |
+| Money money | 15.00% | ~13,110 |
+| Biggest Reward | 14.00% | ~12,236 |
+| First Journey | 13.00% | ~11,362 |
 | Acquired knowledge | 12.00% | ~10,488 |
 | Landlord | 11.00% | ~9,614 |
 | Most Achievements | 11.00% | ~9,614 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,622 |
 | Opportunity | 3.00% | ~2,622 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,396 (Ranked 99)  
+Progressed: 87,397 (Ranked 99)  
 Completed: 176 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 176 (0.20%) (Ranked 273)
 | 2023-12-22 | 87,082 | 176 |
 | 2023-12-23 | 87,237 | 176 |
 | 2023-12-24 | 87,384 | 176 |
-| 2023-12-25 | 87,396 | 176 |
+| 2023-12-25 | 87,397 | 176 |
 ## Awards
 Max (Relaxing): 534  (Ranked 212)  
 Sum: 3,309 (Ranked 175)  

@@ -5,19 +5,19 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,563 |
-| Battlefields Have Memories | 80.00% | ~1,438 |
-| Enlisted | 73.00% | ~1,312 |
-| Maybe Engage a Little | 68.00% | ~1,222 |
-| No More Names | 50.00% | ~898 |
-| Initiate | 35.00% | ~629 |
-| Thrada-Kul | 31.00% | ~557 |
-| Gravity-Challenged Rocks | 25.00% | ~449 |
-| Socialite | 23.00% | ~413 |
-| Soldier | 20.00% | ~359 |
-| All the Major Food Groups | 20.00% | ~359 |
-| Beggars Would Ride | 18.00% | ~323 |
-| Control is an Illusion | 17.00% | ~305 |
+| Unforeseen | 87.00% | ~1,568 |
+| Battlefields Have Memories | 80.00% | ~1,442 |
+| Enlisted | 73.00% | ~1,315 |
+| Maybe Engage a Little | 68.00% | ~1,225 |
+| No More Names | 50.00% | ~901 |
+| Initiate | 35.00% | ~631 |
+| Thrada-Kul | 31.00% | ~559 |
+| Gravity-Challenged Rocks | 25.00% | ~450 |
+| Socialite | 23.00% | ~414 |
+| Soldier | 20.00% | ~360 |
+| All the Major Food Groups | 20.00% | ~360 |
+| Beggars Would Ride | 18.00% | ~324 |
+| Control is an Illusion | 17.00% | ~306 |
 | The Means to Save It | 14.00% | ~252 |
 | Resilience to Sin | 12.00% | ~216 |
 | A Familiar Nest | 12.00% | ~216 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 951)
 | Lights Army | 7.00% | ~126 |
 | Periapt Cerulean | 6.00% | ~108 |
 | Good Boy | 6.00% | ~108 |
-| Best Dressed | 5.00% | ~90 |
 | Periapt Viridian | 5.00% | ~90 |
+| Best Dressed | 4.00% | ~72 |
 | Shroudfane Explorer | 4.00% | ~72 |
 | Scholar | 3.00% | ~54 |
 | Kitted Out | 3.00% | ~54 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 951)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,797 (Ranked 241)  
+Progressed: 1,802 (Ranked 241)  
 Completed: 2 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.11%) (Ranked 302)
 | 2023-12-22 | 1,602 | 2 |
 | 2023-12-23 | 1,709 | 2 |
 | 2023-12-24 | 1,789 | 2 |
-| 2023-12-25 | 1,797 | 2 |
+| 2023-12-25 | 1,802 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

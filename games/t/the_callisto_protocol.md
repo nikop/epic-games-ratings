@@ -5,20 +5,20 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 17.00% | ~3,252 |
-| The Outer Way | 17.00% | ~3,252 |
+| Flesh Wound | 17.00% | ~3,253 |
+| The Outer Way | 17.00% | ~3,253 |
 | Desperate Times | 16.00% | ~3,061 |
-| Get a Grip | 15.00% | ~2,869 |
-| Paper Jams | 15.00% | ~2,869 |
+| Get a Grip | 15.00% | ~2,870 |
+| Paper Jams | 15.00% | ~2,870 |
 | Chew 'Em Up | 13.00% | ~2,487 |
-| Float Like A Butterfly | 12.00% | ~2,295 |
-| Reforged | 12.00% | ~2,295 |
+| Float Like A Butterfly | 12.00% | ~2,296 |
+| Reforged | 12.00% | ~2,296 |
 | Workplace Hazard | 10.00% | ~1,913 |
 | If the SHU Fits... | 10.00% | ~1,913 |
 | Without A Paddle | 9.00% | ~1,722 |
-| Two Heads Are Better Than One | 8.00% | ~1,530 |
-| In the Pipe, Five by Five | 8.00% | ~1,530 |
-| Crash Site | 8.00% | ~1,530 |
+| Two Heads Are Better Than One | 8.00% | ~1,531 |
+| In the Pipe, Five by Five | 8.00% | ~1,531 |
+| Crash Site | 8.00% | ~1,531 |
 | Terminated | 7.00% | ~1,339 |
 | What Lies Beneath | 7.00% | ~1,339 |
 | Full Circle | 7.00% | ~1,339 |
@@ -26,7 +26,7 @@ Rating: 4.20 (Ranked 936)
 | Giving Back | 6.00% | ~1,148 |
 | You Need a Gun | 6.00% | ~1,148 |
 | I Do Belong Here | 6.00% | ~1,148 |
-| Keep Fighting | 6.00% | ~423 |
+| Keep Fighting | 6.00% | ~424 |
 | It's Time | 5.00% | ~353 |
 | The Commonality | 4.00% | ~765 |
 | In Striking Distance | 3.00% | ~574 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,129 (Ranked 151)  
+Progressed: 19,134 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
-| 2023-12-25 | 19,129 | 82 |
+| 2023-12-25 | 19,134 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 379)  
 Sum: 502 (Ranked 332)  

@@ -10122,9 +10122,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129703,
+  "EOS_Progressed": 129709,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1528,
+  "EOS_NewPlayers": 1527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36672,6 +36672,11 @@
       "Time": "2023-12-25T02:31:28.4752884+00:00",
       "NumProgressed": 129703,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T03:09:53.3617073+00:00",
+      "NumProgressed": 129709,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37219,7 +37224,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "combat_kill_collector",
@@ -37283,7 +37288,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37314,21 +37319,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129703,
+      "Progressed": 129709,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4572,
+      "Progressed": 4578,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-24T22:57:52.8256351+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:31:28.4752879+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:09:53.361707+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:20:11.5617788+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:31:28.4754569+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:58:21.0302031+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:09:53.3618544+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.89 (Ranked 10)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 48.00% | ~5,628 |
-| Start with a bang! | 47.00% | ~5,511 |
-| You can pet the cat! | 42.00% | ~4,924 |
-| Who put gears in there? | 34.00% | ~3,987 |
-| Cream of the Crop | 30.00% | ~3,518 |
-| Thanks for the free chip, Peppermint! | 29.00% | ~3,400 |
-| You got this, Peppermint? | 24.00% | ~2,814 |
+| Feeling the beat! | 48.00% | ~5,630 |
+| Start with a bang! | 47.00% | ~5,513 |
+| You can pet the cat! | 42.00% | ~4,926 |
+| Who put gears in there? | 34.00% | ~3,988 |
+| Cream of the Crop | 30.00% | ~3,519 |
+| Thanks for the free chip, Peppermint! | 29.00% | ~3,401 |
+| You got this, Peppermint? | 24.00% | ~2,815 |
 | Perfect Parry | 22.00% | ~2,580 |
 | Alright, that felt AWESOME! | 22.00% | ~2,580 |
-| I play my own way! | 20.00% | ~2,345 |
-| This will cost you big time | 17.00% | ~1,993 |
-| Uh, they were broken when I got here | 17.00% | ~1,993 |
-| Z-shielding's got nothing on us! | 16.00% | ~1,876 |
+| I play my own way! | 20.00% | ~2,346 |
+| This will cost you big time | 17.00% | ~1,994 |
+| Uh, they were broken when I got here | 17.00% | ~1,994 |
+| Z-shielding's got nothing on us! | 16.00% | ~1,877 |
 | Kissing the sky! | 15.00% | ~1,759 |
 | Does that say weakpoint? | 14.00% | ~1,642 |
-| Whoa! There's ANOTHER health bar!? | 13.00% | ~1,524 |
+| Whoa! There's ANOTHER health bar!? | 13.00% | ~1,525 |
 | The Negotiator | 12.00% | ~1,407 |
 | You must like calling me in, Chai | 11.00% | ~1,290 |
-| Out in a puff of smoke | 10.00% | ~1,172 |
-| I look cool. But I can look COOLER. | 10.00% | ~1,172 |
-| Headliner | 9.00% | ~1,055 |
-| Perfecter Parry-er! | 9.00% | ~1,055 |
+| Out in a puff of smoke | 10.00% | ~1,173 |
+| I look cool. But I can look COOLER. | 10.00% | ~1,173 |
+| Headliner | 9.00% | ~1,056 |
+| Perfecter Parry-er! | 9.00% | ~1,056 |
 | Time to pay up! | 8.00% | ~938 |
 | Who's the boss now? | 8.00% | ~938 |
 | I have to read these things? | 8.00% | ~938 |
@@ -39,9 +39,9 @@ Rating: 4.89 (Ranked 10)
 | Chip-tuned | 3.00% | ~352 |
 | Wanna hear my playlist? | 3.00% | ~352 |
 | Check out my moves! | 3.00% | ~352 |
-| We're Jammin' | 2.00% | ~234 |
-| I hit things with a guitar really well. | 2.00% | ~234 |
-| You ever parry a volcano? | 2.00% | ~234 |
+| We're Jammin' | 2.00% | ~235 |
+| I hit things with a guitar really well. | 2.00% | ~235 |
+| You ever parry a volcano? | 2.00% | ~235 |
 | I think I deserve some praise, here! | 1.00% | ~117 |
 | I think I found your calling, Macaron | 1.00% | ~117 |
 | This is a breeze! | 1.00% | ~117 |
@@ -50,7 +50,7 @@ Rating: 4.89 (Ranked 10)
 | Call me Turbo Chai | 1.00% | ~102 |
 | Easy Listening | 0.80% | ~94 |
 | OK, well THEY came after ME! | 0.60% | ~70 |
-| New bad guys? No problem! | 0.60% | ~61 |
+| New bad guys? No problem! | 0.60% | ~62 |
 | Problem solved... wait, what? | 0.30% | ~35 |
 | Now this is how you fight like a team! | 0.30% | ~35 |
 | Choose your own adventure | 0.30% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.89 (Ranked 10)
 | Voices from within | 0.10% | ~10 |
 | Low budget finish | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,725 (Ranked 171)  
+Progressed: 11,729 (Ranked 171)  
 Completed: 8 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 8 (0.07%) (Ranked 321)
 | 2023-12-22 | 10,702 | 8 |
 | 2023-12-23 | 11,217 | 8 |
 | 2023-12-24 | 11,697 | 8 |
-| 2023-12-25 | 11,725 | 8 |
+| 2023-12-25 | 11,729 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

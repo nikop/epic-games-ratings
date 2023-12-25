@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,535 |
-| Cavalier | 25.00% | ~203,543 |
+| Blacksmith's Son | 32.00% | ~260,536 |
+| Cavalier | 25.00% | ~203,544 |
 | Fatso | 23.00% | ~187,260 |
-| Awakening | 21.00% | ~170,976 |
+| Awakening | 21.00% | ~170,977 |
 | Ranger | 20.00% | ~162,835 |
 | Scrooge | 20.00% | ~162,835 |
 | Anorectic | 16.00% | ~130,268 |
 | Firestarter | 16.00% | ~130,268 |
 | Bookworm | 15.00% | ~122,126 |
-| Insomniac | 13.00% | ~105,842 |
+| Insomniac | 13.00% | ~105,843 |
 | Buddy | 12.00% | ~97,701 |
 | Thief | 12.00% | ~97,701 |
 | Sinner | 11.00% | ~89,559 |
 | Traveller | 11.00% | ~89,559 |
-| Convict | 10.00% | ~81,417 |
+| Convict | 10.00% | ~81,418 |
 | Haggler | 9.00% | ~73,276 |
 | McLovin | 7.00% | ~56,992 |
 | Runt | 7.00% | ~56,992 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,425 |
 | Ginger in a Pickle | 3.00% | ~24,425 |
 | Kingdom did not come | 3.00% | ~24,425 |
-| Completionist | 2.00% | ~16,283 |
-| Death by splinter | 2.00% | ~16,283 |
-| King Charming | 2.00% | ~16,283 |
-| Knightrider | 2.00% | ~16,283 |
-| Level Cap | 2.00% | ~16,283 |
-| Arena Master | 2.00% | ~16,283 |
-| Robber Baron | 2.00% | ~16,283 |
-| Talmberger | 2.00% | ~16,283 |
-| The End | 2.00% | ~16,283 |
+| Completionist | 2.00% | ~16,284 |
+| Death by splinter | 2.00% | ~16,284 |
+| King Charming | 2.00% | ~16,284 |
+| Knightrider | 2.00% | ~16,284 |
+| Level Cap | 2.00% | ~16,284 |
+| Arena Master | 2.00% | ~16,284 |
+| Robber Baron | 2.00% | ~16,284 |
+| Talmberger | 2.00% | ~16,284 |
+| The End | 2.00% | ~16,284 |
 | Woman's Lot | 1.00% | ~8,142 |
 | Chivalrous Soul | 1.00% | ~8,142 |
 | Spoilsport | 1.00% | ~8,142 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,173 (Ranked 19)  
+Progressed: 814,175 (Ranked 19)  
 Completed: 52 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 52 (0.01%) (Ranked 365)
 | 2023-12-22 | 813,782 | 52 |
 | 2023-12-23 | 813,967 | 52 |
 | 2023-12-24 | 814,160 | 52 |
-| 2023-12-25 | 814,173 | 52 |
+| 2023-12-25 | 814,175 | 52 |
 ## Awards
 Max (Character Customization): 7,702  (Ranked 52)  
 Sum: 28,601 (Ranked 50)  

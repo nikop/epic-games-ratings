@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -815,9 +815,9 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -1088,8 +1088,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:26:13.6007198+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:04:38.2847349+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:25:07.0614096+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:26:13.600765+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:03:06.4212056+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:04:38.2847731+00:00"
 }

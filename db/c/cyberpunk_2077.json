@@ -17088,10 +17088,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 442014,
       "NumberOfAwardsMax": 127101
+    },
+    {
+      "Time": "2023-12-25T03:03:25.1001831+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 442188,
+      "NumberOfAwardsMax": 127101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 442014,
+  "NumberOfAwards": 442188,
   "NumberOfAwardsMax": 127101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17111,7 +17117,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26997
+      "Count": 27171
     },
     {
       "Text": "This game is Relaxing",
@@ -17168,9 +17174,9 @@
       "Count": 16749
     }
   ],
-  "EOS_Progressed": 981035,
+  "EOS_Progressed": 981040,
   "EOS_Completed": 2970,
-  "EOS_NewPlayers": 2969,
+  "EOS_NewPlayers": 2961,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45533,6 +45539,11 @@
       "Time": "2023-12-25T02:26:50.2894066+00:00",
       "NumProgressed": 981035,
       "NumCompleted": 2970
+    },
+    {
+      "Time": "2023-12-25T03:05:27.6206804+00:00",
+      "NumProgressed": 981040,
+      "NumCompleted": 2970
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45665,7 +45676,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39241
+      "UsersEstimate": 39242
     },
     {
       "ID": "MaxPain",
@@ -45721,7 +45732,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39241
+      "UsersEstimate": 39242
     },
     {
       "ID": "Specialist",
@@ -45761,7 +45772,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68672
+      "UsersEstimate": 68673
     },
     {
       "ID": "TheHermit",
@@ -45769,7 +45780,7 @@
       "Name": "The Hermit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39241
+      "UsersEstimate": 39242
     },
     {
       "ID": "TheHightPriestess",
@@ -45809,7 +45820,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39241
+      "UsersEstimate": 39242
     },
     {
       "ID": "TheWorld",
@@ -45873,7 +45884,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117724
+      "UsersEstimate": 117725
     },
     {
       "ID": "YipMan",
@@ -46001,7 +46012,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "HydraIsDead",
@@ -46017,7 +46028,7 @@
       "Name": "Arachnophobia",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "KingOfTheCups",
@@ -46080,21 +46091,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981035,
+      "Progressed": 981040,
       "Completed": 2970
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 109658,
+      "Progressed": 109663,
       "Completed": 10452
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-25T00:03:06.9576677+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:26:50.2894061+00:00",
+  "LastChanged": "2023-12-25T03:03:25.1001829+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:05:27.6206799+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:25:20.5437679+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:26:50.2895504+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:03:25.1001835+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:05:27.6208143+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 73.00% | ~42,314 |
+| Own use | 73.00% | ~42,315 |
 | I read Shakespeare and stuff | 61.00% | ~35,359 |
-| Just a sprinkle | 60.00% | ~34,779 |
+| Just a sprinkle | 60.00% | ~34,780 |
 | I'm stumped | 58.00% | ~33,620 |
-| Plant get enough | 57.00% | ~33,040 |
+| Plant get enough | 57.00% | ~33,041 |
 | This is just my weekend vehicle | 55.00% | ~31,881 |
 | It's just the beginning | 55.00% | ~31,881 |
-| Hard work pays off | 50.00% | ~28,982 |
+| Hard work pays off | 50.00% | ~28,983 |
 | It's never too late to farm | 47.00% | ~27,244 |
-| All out of Land | 42.00% | ~24,345 |
+| All out of Land | 42.00% | ~24,346 |
 | Field Trip | 41.00% | ~23,766 |
 | I like to switch it up | 38.00% | ~22,027 |
-| Help me to help you | 36.00% | ~20,867 |
+| Help me to help you | 36.00% | ~20,868 |
 | Ultimutt Pawesomeness | 26.00% | ~15,071 |
 | Van Gogh | 24.00% | ~13,912 |
 | You wood not believe it | 21.00% | ~12,173 |
@@ -32,7 +32,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Fix me up | 12.00% | ~6,956 |
 | It's sow easy | 11.00% | ~6,376 |
 | Rock on | 11.00% | ~6,376 |
-| Highly cultivated | 10.00% | ~5,796 |
+| Highly cultivated | 10.00% | ~5,797 |
 | Giddy-up! | 9.00% | ~5,217 |
 | Cowherd | 7.00% | ~4,058 |
 | Fluffyness | 6.00% | ~3,478 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~232 |
 | Raisin the stakes | 0.30% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,965 (Ranked 117)  
+Progressed: 57,966 (Ranked 117)  
 Completed: 6 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 6 (0.01%) (Ranked 365)
 | 2023-12-22 | 57,345 | 6 |
 | 2023-12-23 | 57,640 | 6 |
 | 2023-12-24 | 57,928 | 6 |
-| 2023-12-25 | 57,965 | 6 |
+| 2023-12-25 | 57,966 | 6 |
 ## Awards
 Max (Great for Beginners): 5,902  (Ranked 66)  
 Sum: 44,650 (Ranked 34)  

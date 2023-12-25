@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 150,
@@ -3583,7 +3583,7 @@
   ],
   "EOS_Progressed": 19154,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17184,9 +17184,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 153
     },
     {
       "ID": "WinNearForbidden",
@@ -17496,8 +17496,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T01:45:03.4767246+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:26:18.500326+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:04:44.8770898+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:20:06.2993751+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:26:18.5004355+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:58:13.7419166+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:04:44.8771758+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.83 (Ranked 59)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~903 |
-| Welcome to the Tower | 47.00% | ~816 |
-| The great escape | 40.00% | ~695 |
-| The Preacher's fate | 38.00% | ~660 |
-| A new dawn | 31.00% | ~538 |
-| Scholar | 27.00% | ~469 |
+| That's the spirit | 52.00% | ~904 |
+| Welcome to the Tower | 47.00% | ~817 |
+| The great escape | 40.00% | ~696 |
+| The Preacher's fate | 38.00% | ~661 |
+| A new dawn | 31.00% | ~539 |
+| Scholar | 27.00% | ~470 |
 | True G3M4R | 26.00% | ~452 |
 | The darkness | 26.00% | ~452 |
-| A good beginning | 25.00% | ~434 |
-| One last step | 22.00% | ~382 |
+| A good beginning | 24.00% | ~417 |
+| One last step | 22.00% | ~383 |
 | Cable guy | 21.00% | ~365 |
 | Half the way | 21.00% | ~365 |
 | Rascal | 21.00% | ~365 |
-| I did it | 20.00% | ~347 |
-| Peace walker | 20.00% | ~347 |
+| I did it | 20.00% | ~348 |
+| Peace walker | 20.00% | ~348 |
 | In this together | 19.00% | ~330 |
 | Champollion | 19.00% | ~330 |
 | Open door | 18.00% | ~313 |
-| Feels like springtime | 17.00% | ~295 |
-| Alchemists Express | 17.00% | ~295 |
+| Feels like springtime | 17.00% | ~296 |
+| Alchemists Express | 17.00% | ~296 |
 | Free at last | 15.00% | ~261 |
 | A Link to the Past | 13.00% | ~226 |
-| A great audience | 11.00% | ~191 |
+| A great audience | 12.00% | ~209 |
 | For its own good | 11.00% | ~191 |
 | Fashion victim | 7.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,737 (Ranked 245)  
-Completed: 99 (5.70%) (Ranked 73)  
+Progressed: 1,739 (Ranked 245)  
+Completed: 99 (5.69%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 99 (5.70%) (Ranked 73)
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
 | 2023-12-24 | 1,732 | 99 |
-| 2023-12-25 | 1,737 | 99 |
+| 2023-12-25 | 1,739 | 99 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

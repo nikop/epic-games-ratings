@@ -10,7 +10,7 @@
 | The battle of Great Britain | 31.00% | ~21 |
 | Pulp! Where Monsters Dwell | 27.00% | ~18 |
 | A continent with chemistry | 22.00% | ~15 |
-| The happy farmer girl | 19.00% | ~13 |
+| The happy farmer girl | 21.00% | ~14 |
 | Giant | 18.00% | ~12 |
 | Pulp! Terror Tales in the Night | 18.00% | ~12 |
 | Pulp! Out of this World | 18.00% | ~12 |
@@ -39,12 +39,12 @@
 | Pulp! True Adventures | 7.00% | ~5 |
 | The scholar | 6.00% | ~4 |
 | America had no Faith | 6.00% | ~4 |
+| The barbarian invasions | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~2 |
 | Pulp! Tales from the Crypt | 3.00% | ~2 |
 | Thirst for Oleum | 3.00% | ~2 |
-| The barbarian invasions | 3.00% | ~2 |
 | Troy is burning! | 3.00% | ~2 |
 | A new Hindenburg | 3.00% | ~2 |
 | Pulp! The Perfect Crime | 1.00% | ~1 |

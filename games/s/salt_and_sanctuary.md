@@ -6,15 +6,15 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,768 |
-| The Three | 64.00% | ~346,809 |
-| The Banquet | 40.00% | ~216,756 |
-| Devara's Light | 31.00% | ~167,986 |
-| The Iron Ones | 19.00% | ~102,959 |
-| The Village | 17.00% | ~92,121 |
-| The Forest | 15.00% | ~81,283 |
-| The Imposter | 14.00% | ~75,864 |
-| The Keep | 14.00% | ~75,864 |
+| Find Sanctuary | 83.00% | ~449,771 |
+| The Three | 64.00% | ~346,812 |
+| The Banquet | 40.00% | ~216,757 |
+| Devara's Light | 31.00% | ~167,987 |
+| The Iron Ones | 19.00% | ~102,960 |
+| The Village | 17.00% | ~92,122 |
+| The Forest | 15.00% | ~81,284 |
+| The Imposter | 14.00% | ~75,865 |
+| The Keep | 14.00% | ~75,865 |
 | Branded | 13.00% | ~70,446 |
 | The Castle | 11.00% | ~59,608 |
 | The Dome | 9.00% | ~48,770 |
@@ -22,14 +22,14 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Sacrifice | 9.00% | ~48,770 |
 | The Cave | 8.00% | ~43,351 |
 | The Ziggurat | 8.00% | ~43,351 |
-| The Mire | 7.00% | ~37,932 |
-| The Stone Roots | 7.00% | ~37,932 |
-| Storied | 6.00% | ~32,513 |
-| The Construct | 6.00% | ~32,513 |
-| The Lake | 6.00% | ~32,513 |
-| The Ruins | 6.00% | ~32,513 |
-| The Alkymancery | 5.00% | ~27,094 |
-| The Pitchwoods | 5.00% | ~27,094 |
+| The Mire | 7.00% | ~37,933 |
+| The Stone Roots | 7.00% | ~37,933 |
+| Storied | 6.00% | ~32,514 |
+| The Construct | 6.00% | ~32,514 |
+| The Lake | 6.00% | ~32,514 |
+| The Ruins | 6.00% | ~32,514 |
+| The Alkymancery | 5.00% | ~27,095 |
+| The Pitchwoods | 5.00% | ~27,095 |
 | Honed | 4.00% | ~21,676 |
 | The House of Splendor | 4.00% | ~21,676 |
 | The Crypt | 4.00% | ~21,676 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,838 |
 | Fading Fast | 1.00% | ~5,419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541,889 (Ranked 34)  
+Progressed: 541,893 (Ranked 34)  
 Completed: 1,654 (0.31%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 1,654 (0.31%) (Ranked 248)
 | 2023-12-22 | 541,645 | 1,653 |
 | 2023-12-23 | 541,772 | 1,653 |
 | 2023-12-24 | 541,880 | 1,654 |
-| 2023-12-25 | 541,889 | 1,654 |
+| 2023-12-25 | 541,893 | 1,654 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 259)  
 Sum: 2,016 (Ranked 216)  

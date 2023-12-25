@@ -12846,9 +12846,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 57965,
+  "EOS_Progressed": 57966,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1499,
+  "EOS_NewPlayers": 1498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36126,6 +36126,11 @@
       "Time": "2023-12-25T02:26:24.3727798+00:00",
       "NumProgressed": 57965,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T03:04:52.8429588+00:00",
+      "NumProgressed": 57966,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -36209,7 +36214,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5797
     },
     {
       "ID": "CultivateFirst",
@@ -36273,7 +36278,7 @@
       "Name": "Plant get enough",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 33040
+      "UsersEstimate": 33041
     },
     {
       "ID": "Harvested",
@@ -36289,7 +36294,7 @@
       "Name": "Own use",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 42314
+      "UsersEstimate": 42315
     },
     {
       "ID": "HorseJumps",
@@ -36337,7 +36342,7 @@
       "Name": "Help me to help you",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 20867
+      "UsersEstimate": 20868
     },
     {
       "ID": "Money",
@@ -36345,7 +36350,7 @@
       "Name": "Hard work pays off",
       "Percentage": 50,
       "XP": 55,
-      "UsersEstimate": 28982
+      "UsersEstimate": 28983
     },
     {
       "ID": "NumBeehives",
@@ -36369,7 +36374,7 @@
       "Name": "All out of Land",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 24345
+      "UsersEstimate": 24346
     },
     {
       "ID": "NumProductionPoints",
@@ -36425,7 +36430,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 34779
+      "UsersEstimate": 34780
     },
     {
       "ID": "Stones",
@@ -36480,15 +36485,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 57965,
+      "Progressed": 57966,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-24T22:57:05.0998462+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:26:24.3727793+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:04:52.8429577+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.1767727+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:19:22.9948751+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:26:24.3729258+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:57:14.8012329+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:04:52.8430875+00:00"
 }

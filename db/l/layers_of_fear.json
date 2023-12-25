@@ -1232,9 +1232,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "something_important",
@@ -1304,9 +1304,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1327,8 +1327,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-25T02:28:12.5782659+00:00",
+  "LastChanged_Achievements": "2023-12-25T03:07:16.0729735+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:19:25.5412121+00:00",
-  "LastUpdate_Achievements": "2023-12-25T02:28:12.578312+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:57:19.1660567+00:00",
+  "LastUpdate_Achievements": "2023-12-25T03:07:16.073007+00:00"
 }
