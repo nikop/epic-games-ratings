@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 583,
-  "Ranking_Popularity": 320,
+  "Ranking_Rating": 582,
+  "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17378,
+  "EOS_Progressed": 17379,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -16985,6 +16985,11 @@
       "Time": "2023-12-25T14:06:28.4817428+00:00",
       "NumProgressed": 17378,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-25T16:08:10.1717256+00:00",
+      "NumProgressed": 17379,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 41,
@@ -17060,7 +17065,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "tpote_achievement_18",
@@ -17212,7 +17217,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "tpote_achievement_35",
@@ -17260,7 +17265,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6951
+      "UsersEstimate": 6952
     },
     {
       "ID": "tpote_achievement_40",
@@ -17300,7 +17305,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "tpote_achievement_8",
@@ -17308,7 +17313,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3649
+      "UsersEstimate": 3650
     },
     {
       "ID": "tpote_achievement_9",
@@ -17323,15 +17328,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17378,
+      "Progressed": 17379,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:06:37.1070746+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:10.1717253+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:58:18.2980216+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:06:37.1072+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:57:57.8676747+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:10.1718348+00:00"
 }

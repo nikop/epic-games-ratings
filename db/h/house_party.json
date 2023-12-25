@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 191,
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6875,
+  "EOS_Progressed": 6878,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7592,6 +7592,11 @@
       "Time": "2023-12-25T15:08:19.0529942+00:00",
       "NumProgressed": 6875,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T16:08:31.9539221+00:00",
+      "NumProgressed": 6878,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7715,7 +7720,7 @@
       "Name": "Deck the Balls",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DnD_Ashley",
@@ -7779,7 +7784,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "GoodRiddance",
@@ -7883,7 +7888,7 @@
       "Name": "Life Found a Way",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "MoneyShot",
@@ -8154,21 +8159,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3914,
+      "Progressed": 3917,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6875,
+      "Progressed": 6878,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:19.0529939+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:31.953922+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:57:48.6343863+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:19.0530818+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:57:28.9069625+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:31.9540138+00:00"
 }

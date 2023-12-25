@@ -23,10 +23,10 @@
 | Essence Blow | 9.00% | ~110 |
 | The Mentor | 7.00% | ~86 |
 | Calm before the Storm | 6.00% | ~73 |
+| Miner | 6.00% | ~73 |
 | To Battle | 5.00% | ~61 |
 | Godslayer | 5.00% | ~61 |
 | Airborne | 5.00% | ~61 |
-| Miner | 5.00% | ~61 |
 | Clear Sight | 3.00% | ~37 |
 | Shatterer | 3.00% | ~37 |
 | Fine Feathers Make Fine Birds | 3.00% | ~37 |

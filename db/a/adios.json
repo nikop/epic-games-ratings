@@ -5,7 +5,7 @@
   "Ranking_Rating": 1069,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 101,
+  "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 27,
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81590,
+  "EOS_Progressed": 81592,
   "EOS_Completed": 896,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -27905,6 +27905,11 @@
       "Time": "2023-12-25T15:04:29.0007173+00:00",
       "NumProgressed": 81590,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-25T16:04:34.7939834+00:00",
+      "NumProgressed": 81592,
+      "NumCompleted": 896
     }
   ],
   "TotalAchievements": 25,
@@ -27956,7 +27961,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14686
+      "UsersEstimate": 14687
     },
     {
       "ID": "Butcher",
@@ -27972,7 +27977,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4896
     },
     {
       "ID": "Fair\u0027sFair",
@@ -28044,7 +28049,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13054
+      "UsersEstimate": 13055
     },
     {
       "ID": "Nothing Left to Say",
@@ -28115,7 +28120,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81590,
+      "Progressed": 81592,
       "Completed": 896
     }
   ],
@@ -28123,8 +28128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:04:29.000717+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:04:34.7939831+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:23.1894031+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:04:29.0008407+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:07.8741089+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:04:34.7941138+00:00"
 }

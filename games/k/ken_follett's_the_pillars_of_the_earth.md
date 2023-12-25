@@ -1,12 +1,12 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 583)  
+Rating: 4.51 (Ranked 582)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,951 |
+| Tattletale | 40.00% | ~6,952 |
 | Man of politics | 34.00% | ~5,909 |
 | Yet another secret | 33.00% | ~5,735 |
 | Friends of sorts | 32.00% | ~5,561 |
@@ -15,12 +15,12 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~4,171 |
 | Wannabe knight | 23.00% | ~3,997 |
 | Full house | 23.00% | ~3,997 |
-| Help an old friend | 21.00% | ~3,649 |
+| Help an old friend | 21.00% | ~3,650 |
 | Two of us | 20.00% | ~3,476 |
 | Negotiation skills | 18.00% | ~3,128 |
 | Workers' union | 18.00% | ~3,128 |
 | End of Book Two | 18.00% | ~3,128 |
-| Everything's in order | 16.00% | ~2,780 |
+| Everything's in order | 16.00% | ~2,781 |
 | Twist of Fate | 14.00% | ~2,433 |
 | Jack was here! | 14.00% | ~2,433 |
 | Exterminator | 13.00% | ~2,259 |
@@ -35,8 +35,8 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,564 |
 | The End. | 9.00% | ~1,564 |
 | Nothing but make-believe | 8.00% | ~1,390 |
-| A cry for help | 7.00% | ~1,216 |
-| Silentium est aureum | 7.00% | ~1,216 |
+| A cry for help | 7.00% | ~1,217 |
+| Silentium est aureum | 7.00% | ~1,217 |
 | Rebel without a cause | 6.00% | ~1,043 |
 | Staring contest champion | 5.00% | ~869 |
 | Lone wolf | 5.00% | ~869 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~521 |
 | Boy of mystery | 2.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,378 (Ranked 157)  
-Completed: 121 (0.70%) (Ranked 195)  
+Progressed: 17,379 (Ranked 157)  
+Completed: 121 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,11 +297,11 @@ Completed: 121 (0.70%) (Ranked 195)
 | 2023-12-22 | 17,285 | 119 |
 | 2023-12-23 | 17,320 | 119 |
 | 2023-12-24 | 17,360 | 120 |
-| 2023-12-25 | 17,378 | 121 |
+| 2023-12-25 | 17,379 | 121 |
 ## Awards
-Max (Easy Puzzles): 156  (Ranked 320)  
+Max (Easy Puzzles): 156  (Ranked 321)  
 Sum: 200 (Ranked 409)  
-Diff (max vs sum): -89  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 156 |

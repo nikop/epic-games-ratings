@@ -1,17 +1,17 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.50 (Ranked 603)  
+Rating: 4.49 (Ranked 623)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~134 |
+| Green with Envy | 78.00% | ~136 |
+| Helping Hand | 66.00% | ~115 |
 | First of many… | 66.00% | ~115 |
-| Helping Hand | 65.00% | ~113 |
 | Increased Vigor | 60.00% | ~104 |
 | Fight Fire with Fire | 59.00% | ~103 |
-| Increased Capacity | 54.00% | ~94 |
+| Increased Capacity | 55.00% | ~96 |
 | Just the start | 50.00% | ~87 |
 | Perfect Storm | 46.00% | ~80 |
 | All That Glitters | 45.00% | ~78 |
@@ -37,14 +37,14 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 22.00% | ~38 |
 | Big Spender | 22.00% | ~38 |
 | Maximum Capacity | 20.00% | ~35 |
+| Seeing Red | 20.00% | ~35 |
 | Demon Meddler | 19.00% | ~33 |
-| Seeing Red | 19.00% | ~33 |
 | Egomaniac | 17.00% | ~30 |
 | Protector of Humanity | 15.00% | ~26 |
 | Everybody Wants to Rule the World | 15.00% | ~26 |
+| A Parting Gift | 13.00% | ~23 |
 | Community Outreach | 13.00% | ~23 |
 | Unbreakable Will | 11.00% | ~19 |
-| A Parting Gift | 11.00% | ~19 |
 | Path of the Horseman | 11.00% | ~19 |
 | Take it to the Limit | 11.00% | ~19 |
 | Holy Keeper | 10.00% | ~17 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 1.00% | ~2 |
 | Beast Mode | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 422)  
-Completed: 1 (0.57%) (Ranked 204)  
+Progressed: 174 (Ranked 423)  
+Completed: 1 (0.57%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,3 +170,4 @@ Diff (max vs sum): -78
 | 2023-12-22 | 4.49 | - | 93 | 93 |
 | 2023-12-23 | 4.50 | - | 93 | 93 |
 | 2023-12-24 | 4.50 | - | 94 | 94 |
+| 2023-12-25 | 4.49 | - | 94 | 94 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 882,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2023-12-25T15:08:23.0438347+00:00",
       "NumProgressed": 358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T16:08:36.2363399+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1069,7 +1074,7 @@
       "Name": "Highballer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CareerChamp1",
@@ -1077,7 +1082,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CareerChamp2",
@@ -1125,7 +1130,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CollectVehiclesB",
@@ -1141,7 +1146,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GetWreckedA",
@@ -1173,7 +1178,7 @@
       "Name": "Dirty Roller",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PlayerRankB",
@@ -1220,7 +1225,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 0
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:23.0438343+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:36.2363213+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:41.6569089+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:23.0438573+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:26.7148944+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:36.2363549+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4167,
+  "EOS_Progressed": 4168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7712,6 +7712,11 @@
       "Time": "2023-12-25T15:06:15.8756348+00:00",
       "NumProgressed": 4167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T16:06:27.6579534+00:00",
+      "NumProgressed": 4168,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7762,9 +7767,9 @@
       "ID": "achievement_14",
       "SetID": "c8fif6p",
       "Name": "Dealmaker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1626
     },
     {
       "ID": "achievement_15",
@@ -7772,7 +7777,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "achievement_16",
@@ -7780,7 +7785,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "achievement_17",
@@ -7852,7 +7857,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_6",
@@ -7860,7 +7865,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_7",
@@ -7891,7 +7896,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4167,
+      "Progressed": 4168,
       "Completed": 0
     }
   ],
@@ -7899,8 +7904,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-24T20:01:29.5920403+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:06:15.8756343+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:06:27.6579531+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:00:32.8549825+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:06:15.8757113+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:00:18.771898+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:06:27.6579947+00:00"
 }

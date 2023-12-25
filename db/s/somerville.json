@@ -2,12 +2,12 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 487,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1678,
+  "EOS_Progressed": 1679,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-12-25T14:09:12.9631419+00:00",
       "NumProgressed": 1678,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-12-25T16:09:15.9598605+00:00",
+      "NumProgressed": 1679,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 11,
@@ -926,7 +931,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1678,
+      "Progressed": 1679,
       "Completed": 32
     }
   ],
@@ -934,8 +939,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:09:00.2320814+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:09:15.9598602+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:12.4242263+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:32.1047595+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:09:00.2320935+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:17.3555379+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:09:15.9598698+00:00"
 }

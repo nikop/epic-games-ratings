@@ -6,7 +6,7 @@
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6183,
+  "EOS_Progressed": 6189,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9132,6 +9132,11 @@
       "Time": "2023-12-25T15:03:29.4058241+00:00",
       "NumProgressed": 6183,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T16:03:32.3253333+00:00",
+      "NumProgressed": 6189,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9143,7 +9148,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "10",
@@ -9159,7 +9164,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "12",
@@ -9167,7 +9172,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "13",
@@ -9183,7 +9188,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "15",
@@ -9271,7 +9276,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "25",
@@ -9295,7 +9300,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "28",
@@ -9311,7 +9316,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "3",
@@ -9343,7 +9348,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "33",
@@ -9351,7 +9356,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "34",
@@ -9359,7 +9364,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "35",
@@ -9391,7 +9396,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "39",
@@ -9415,7 +9420,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "41",
@@ -9447,7 +9452,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "5",
@@ -9455,7 +9460,7 @@
       "Name": "Grexolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "6",
@@ -9463,7 +9468,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "7",
@@ -9543,7 +9548,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "52",
@@ -9622,13 +9627,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6183,
+      "Progressed": 6189,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6183,
+      "Progressed": 6189,
       "Completed": 7
     }
   ],
@@ -9636,8 +9641,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:03:29.4058236+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:03:32.3253329+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:20.9262517+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:03:29.4059223+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:05.6941304+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:03:32.3254015+00:00"
 }

@@ -1479,9 +1479,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6655,
+  "EOS_Progressed": 6657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15224,6 +15224,11 @@
       "Time": "2023-12-25T15:06:33.9946535+00:00",
       "NumProgressed": 6655,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T16:08:06.9914166+00:00",
+      "NumProgressed": 6657,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15251,7 +15256,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -15291,7 +15296,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -15307,7 +15312,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -15331,7 +15336,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15363,7 +15368,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -15387,7 +15392,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -15395,7 +15400,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15491,7 +15496,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15507,7 +15512,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15554,15 +15559,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6655,
+      "Progressed": 6657,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-25T08:59:34.0661377+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:06:33.9946532+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:06.9914164+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:37.3649533+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:06:33.9947529+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:22.1736927+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:06.9915063+00:00"
 }

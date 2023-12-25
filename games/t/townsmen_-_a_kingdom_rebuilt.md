@@ -21,10 +21,10 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 7.00% | ~308 |
 | I like to build stuff... II | 7.00% | ~308 |
 | Completionist I | 7.00% | ~308 |
+| A time consuming game II | 7.00% | ~308 |
 | Not a small trader anymore | 6.00% | ~264 |
 | Full-time job II | 6.00% | ~264 |
 | Tax-man III | 6.00% | ~264 |
-| A time consuming game II | 6.00% | ~264 |
 | Tools of the trade I | 6.00% | ~264 |
 | Knee deep in snow | 6.00% | ~264 |
 | Bread for the people II | 5.00% | ~220 |
@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,405 (Ranked 203)  
-Completed: 4 (0.09%) (Ranked 314)  
+Completed: 4 (0.09%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

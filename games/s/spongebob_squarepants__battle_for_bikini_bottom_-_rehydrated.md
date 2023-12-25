@@ -13,14 +13,14 @@ Number of Ratings: 76  (23.09.2022)
 | Time For Tutorial | 9.00% | ~32 |
 | Sweet Victory | 7.00% | ~25 |
 | Sock Getter | 7.00% | ~25 |
-| Life's as extreme as you wanna make it! | 6.00% | ~21 |
-| Surf's Up! | 6.00% | ~21 |
+| Life's as extreme as you wanna make it! | 6.00% | ~22 |
+| Super Spatula Seeker | 6.00% | ~22 |
+| Surf's Up! | 6.00% | ~22 |
 | Uptown and Downtown | 5.00% | ~18 |
-| Super Spatula Seeker | 5.00% | ~18 |
+| Squirrel Smasher | 5.00% | ~18 |
 | Shrimp Catcher | 4.00% | ~14 |
 | Toxic Terror | 4.00% | ~14 |
 | Hit Rock Bottom | 4.00% | ~14 |
-| Squirrel Smasher | 4.00% | ~14 |
 | Star Smasher | 4.00% | ~14 |
 | Robot encyclopedia | 3.00% | ~11 |
 | Are you ready now? | 3.00% | ~11 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358 (Ranked 362)  
+Progressed: 360 (Ranked 362)  
 Completed: 1 (0.28%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 1 (0.28%) (Ranked 257)
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
-| 2023-12-25 | 358 | 1 |
+| 2023-12-25 | 360 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 499)  
 Sum: 34 (Ranked 523)  

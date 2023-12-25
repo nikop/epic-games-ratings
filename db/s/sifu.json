@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8493,9 +8493,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 744184,
+  "EOS_Progressed": 744250,
   "EOS_Completed": 12966,
-  "EOS_NewPlayers": 9707,
+  "EOS_NewPlayers": 9672,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -30878,6 +30878,11 @@
       "Time": "2023-12-25T15:08:40.7339937+00:00",
       "NumProgressed": 744184,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-25T16:08:55.2504986+00:00",
+      "NumProgressed": 744250,
+      "NumCompleted": 12966
     }
   ],
   "TotalAchievements": 60,
@@ -30889,7 +30894,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29767
+      "UsersEstimate": 29770
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30897,7 +30902,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22326
+      "UsersEstimate": 22328
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30905,7 +30910,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30977,7 +30982,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5953
+      "UsersEstimate": 5954
     },
     {
       "ID": "13_LowAge",
@@ -31041,15 +31046,15 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5209
+      "UsersEstimate": 5954
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31057,7 +31062,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31065,7 +31070,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22326
+      "UsersEstimate": 22328
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31073,7 +31078,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "25_ShrineMind",
@@ -31097,7 +31102,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31137,7 +31142,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "33_BladeOneShot",
@@ -31153,7 +31158,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22326
+      "UsersEstimate": 22328
     },
     {
       "ID": "35_WideStrike",
@@ -31161,7 +31166,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5953
+      "UsersEstimate": 5954
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -31177,7 +31182,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14884
+      "UsersEstimate": 14885
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31225,7 +31230,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -31233,7 +31238,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31241,7 +31246,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31265,7 +31270,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -31273,7 +31278,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -31289,7 +31294,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -31297,7 +31302,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -31321,7 +31326,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -31329,7 +31334,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "57_Arena_Car",
@@ -31337,7 +31342,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "58_Arena_Music",
@@ -31353,7 +31358,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -31361,28 +31366,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 53485,
+      "Progressed": 53551,
       "Completed": 10782
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 744184,
+      "Progressed": 744250,
       "Completed": 12966
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-25T15:03:04.7397075+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:40.7339931+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:55.2504984+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:03:04.7397081+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:40.7341246+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:03:02.6894834+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:55.25061+00:00"
 }

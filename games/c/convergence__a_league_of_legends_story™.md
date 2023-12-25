@@ -12,9 +12,9 @@ Rating: 4.65 (Ranked 321)
 | The Brass Boss | 25.00% | ~276 |
 | Make Up For Lost Time | 24.00% | ~265 |
 | Time Flies | 24.00% | ~265 |
+| The Prince in Heels | 24.00% | ~265 |
 | The Harder They Fall | 23.00% | ~254 |
 | No, Thanks! | 23.00% | ~254 |
-| The Prince in Heels | 23.00% | ~254 |
 | Honest Mistake | 23.00% | ~254 |
 | Fast Learner | 23.00% | ~254 |
 | Immaculate Aim | 23.00% | ~254 |
@@ -37,7 +37,7 @@ Rating: 4.65 (Ranked 321)
 | Cartographer | 13.00% | ~143 |
 | Ask Questions Later | 13.00% | ~143 |
 | Chaincrawler Explorer | 12.00% | ~132 |
-| Syron for Hope | 11.00% | ~121 |
+| Syron for Hope | 12.00% | ~132 |
 | Factorywood Explorer | 10.00% | ~110 |
 | Sump Explorer | 10.00% | ~110 |
 | Theater Explorer | 10.00% | ~110 |
@@ -60,7 +60,7 @@ Rating: 4.65 (Ranked 321)
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,103 (Ranked 277)  
-Completed: 6 (0.54%) (Ranked 210)  
+Completed: 6 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1521,6 +1521,11 @@
       "Time": "2023-12-25T13:10:02.9161364+00:00",
       "NumProgressed": 344,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T16:05:35.2210398+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1538,9 +1543,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1548,7 +1553,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1628,7 +1633,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1778,9 +1783,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1826,9 +1831,9 @@
       "ID": "ETUA_Trapped",
       "SetID": "65jc0ap",
       "Name": "Trapped",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1844,14 +1849,14 @@
       "Name": "What have I done!?",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 1
     }
   ],
@@ -1859,8 +1864,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:05:26.8624689+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:05:35.2210396+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:57:48.6356284+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:05:26.8624961+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:57:28.9977505+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:05:35.2210725+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 28.00% | ~27 |
+| Entrepreneur | 29.00% | ~28 |
 | Best Buddy | 27.00% | ~26 |
 | Civilian | 22.00% | ~21 |
 | Role Model | 20.00% | ~19 |
-| Creator | 14.00% | ~14 |
+| Creator | 15.00% | ~15 |
 | Festival-goer | 13.00% | ~13 |
 | Military Leader | 12.00% | ~12 |
-| Commander | 9.00% | ~9 |
+| Commander | 11.00% | ~11 |
 | Long-Haul Flyer | 8.00% | ~8 |
 | Peddler | 7.00% | ~7 |
 | Berserker | 7.00% | ~7 |

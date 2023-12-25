@@ -5,34 +5,34 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~920 |
-| Welcome to the Tower | 48.00% | ~850 |
-| The great escape | 39.00% | ~690 |
-| The Preacher's fate | 38.00% | ~673 |
-| A new dawn | 32.00% | ~566 |
-| Scholar | 27.00% | ~478 |
-| True G3M4R | 26.00% | ~460 |
-| The darkness | 26.00% | ~460 |
-| A good beginning | 25.00% | ~442 |
-| Rascal | 22.00% | ~389 |
-| One last step | 22.00% | ~389 |
+| That's the spirit | 52.00% | ~922 |
+| Welcome to the Tower | 48.00% | ~851 |
+| The great escape | 40.00% | ~709 |
+| The Preacher's fate | 38.00% | ~674 |
+| A new dawn | 32.00% | ~567 |
+| Scholar | 27.00% | ~479 |
+| True G3M4R | 26.00% | ~461 |
+| The darkness | 26.00% | ~461 |
+| A good beginning | 25.00% | ~443 |
+| Rascal | 22.00% | ~390 |
+| One last step | 22.00% | ~390 |
 | I did it | 21.00% | ~372 |
 | Cable guy | 21.00% | ~372 |
 | Half the way | 21.00% | ~372 |
-| Peace walker | 20.00% | ~354 |
-| Champollion | 20.00% | ~354 |
-| In this together | 19.00% | ~336 |
+| In this together | 20.00% | ~355 |
+| Peace walker | 20.00% | ~355 |
+| Champollion | 20.00% | ~355 |
 | Open door | 18.00% | ~319 |
 | Feels like springtime | 17.00% | ~301 |
 | Alchemists Express | 17.00% | ~301 |
 | Free at last | 15.00% | ~266 |
 | A Link to the Past | 13.00% | ~230 |
-| A great audience | 12.00% | ~212 |
-| For its own good | 12.00% | ~212 |
+| A great audience | 12.00% | ~213 |
+| For its own good | 12.00% | ~213 |
 | Fashion victim | 7.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,770 (Ranked 244)  
-Completed: 102 (5.76%) (Ranked 73)  
+Progressed: 1,773 (Ranked 244)  
+Completed: 103 (5.81%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 102 (5.76%) (Ranked 73)
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
 | 2023-12-24 | 1,732 | 99 |
-| 2023-12-25 | 1,770 | 102 |
+| 2023-12-25 | 1,773 | 103 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

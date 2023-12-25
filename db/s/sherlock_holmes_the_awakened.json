@@ -2,13 +2,13 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 1317,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.89,
   "EosHistory": [
@@ -4652,9 +4652,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 540
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ03_3",
@@ -4716,9 +4716,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 540
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ05_3",
@@ -4829,8 +4829,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-25T11:02:59.9594634+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:05:07.5130414+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:05:16.3031322+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:03:11.3646025+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:05:07.5130718+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:03:09.7465327+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:05:16.3031699+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9611,
+  "EOS_Progressed": 9612,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10006,6 +10006,11 @@
       "Time": "2023-12-25T14:09:01.602904+00:00",
       "NumProgressed": 9611,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T16:09:04.2030116+00:00",
+      "NumProgressed": 9612,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10025,7 +10030,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10209,7 +10214,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10353,7 +10358,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10376,7 +10381,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9611,
+      "Progressed": 9612,
       "Completed": 10
     }
   ],
@@ -10384,8 +10389,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:48.9768219+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:09:04.2030114+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:12.2539769+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:48.9768814+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:58:55.2876318+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:09:04.2030657+00:00"
 }

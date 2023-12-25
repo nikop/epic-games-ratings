@@ -12,13 +12,13 @@ Rating: 4.55 (Ranked 512)
 | Bosmang | 10.00% | ~1,739 |
 | Celebrations are in Order | 10.00% | ~1,739 |
 | Impossible Objects | 10.00% | ~1,739 |
+| Spore Taste | 9.00% | ~1,565 |
 | Drone Dodger | 9.00% | ~1,565 |
-| Stogie for Fogey | 8.00% | ~1,391 |
-| Spore Taste | 8.00% | ~1,391 |
+| Stogie for Fogey | 8.00% | ~1,392 |
 | Safe Cracker | 8.00% | ~268 |
 | Zen Master | 8.00% | ~268 |
 | Madame Undersecretary | 8.00% | ~268 |
-| Call it Even | 7.00% | ~1,217 |
+| Call it Even | 7.00% | ~1,218 |
 | Keep Arjun in Check | 7.00% | ~234 |
 | Data Archivist | 6.00% | ~1,044 |
 | Drug Gifter | 6.00% | ~1,044 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,392 (Ranked 156)  
+Progressed: 17,394 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
-| 2023-12-25 | 17,392 | 52 |
+| 2023-12-25 | 17,394 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

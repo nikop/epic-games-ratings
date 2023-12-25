@@ -2,7 +2,7 @@
   "ID": "14d712e338ee4fe5b5304d959cd75cd2",
   "Name": "Spelldrifter",
   "ProductSlug": "spelldrifter",
-  "Ranking_Rating": 1059,
+  "Ranking_Rating": 1054,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 816,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.79,
+  "Rating": 3.82,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:19.3460949+00:00",
@@ -307,6 +307,12 @@
       "Rating": 3.79,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-12-25T16:02:50.5020654+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -333,8 +339,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:12.9716912+00:00",
   "FirstSeenRating": "2023-03-31T05:58:19.3460946+00:00",
-  "LastChanged": "2023-12-24T16:03:03.1575401+00:00",
+  "LastChanged": "2023-12-25T16:02:50.5020652+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.3901623+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:02:54.823097+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:03:48.3203083+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:02:50.5020657+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:03:52.3244589+00:00"
 }

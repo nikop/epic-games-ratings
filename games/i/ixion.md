@@ -5,13 +5,13 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,149 |
+| Wakey Wakey | 31.00% | ~1,150 |
 | Sputnik 2049 | 27.00% | ~1,001 |
 | Infinite Growth... | 26.00% | ~964 |
 | Without Breaking Some Eggs... | 25.00% | ~927 |
-| A Thousand Strong | 18.00% | ~667 |
-| Ready for a New World | 18.00% | ~667 |
-| Space Society | 17.00% | ~630 |
+| A Thousand Strong | 18.00% | ~668 |
+| Ready for a New World | 18.00% | ~668 |
+| Space Society | 17.00% | ~631 |
 | Permanent Redesigns | 16.00% | ~593 |
 | Fully Recycled | 14.00% | ~519 |
 | Ain't Nobody Got Time for That | 14.00% | ~519 |
@@ -25,11 +25,11 @@ Rating: 4.58 (Ranked 457)
 | Power Outage | 8.00% | ~297 |
 | Convenient Transport | 8.00% | ~297 |
 | Please Make it Stop! | 8.00% | ~297 |
-| Sightseeing | 7.00% | ~259 |
-| Necessary Enhancement | 7.00% | ~259 |
-| From the Past | 7.00% | ~259 |
-| Access Granted | 6.00% | ~222 |
-| All in Good Health | 6.00% | ~222 |
+| Sightseeing | 7.00% | ~260 |
+| Necessary Enhancement | 7.00% | ~260 |
+| From the Past | 7.00% | ~260 |
+| Access Granted | 6.00% | ~223 |
+| All in Good Health | 6.00% | ~223 |
 | Oats | 5.00% | ~185 |
 | What They Hide From Us | 5.00% | ~185 |
 | ...  in a finite world | 5.00% | ~185 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,707 (Ranked 211)  
+Progressed: 3,709 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
-| 2023-12-25 | 3,707 | 0 |
+| 2023-12-25 | 3,709 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

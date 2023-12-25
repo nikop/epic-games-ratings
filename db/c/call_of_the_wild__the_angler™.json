@@ -1009,7 +1009,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7532,
+  "EOS_Progressed": 7536,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
@@ -12234,6 +12234,11 @@
       "Time": "2023-12-25T15:05:23.4538419+00:00",
       "NumProgressed": 7532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T16:05:32.4531552+00:00",
+      "NumProgressed": 7536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12245,7 +12250,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12253,7 +12258,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -12269,7 +12274,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -12301,7 +12306,7 @@
       "Name": "Scaling up",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -12564,13 +12569,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7532,
+      "Progressed": 7536,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6904,
+      "Progressed": 6908,
       "Completed": 113
     }
   ],
@@ -12578,8 +12583,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-24T18:58:58.6953669+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:05:23.4538416+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:05:32.453155+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:12.5308167+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:05:23.4539251+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:58:55.6156835+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:05:32.4532335+00:00"
 }

@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~408 |
-| Your first fight | 85.00% | ~394 |
-| Good Person Chip | 83.00% | ~385 |
-| First winning | 82.00% | ~380 |
-| Your first job | 81.00% | ~376 |
+| Such a strange dream… | 88.00% | ~409 |
+| Your first fight | 85.00% | ~395 |
+| Good Person Chip | 83.00% | ~386 |
+| First winning | 82.00% | ~381 |
+| Your first job | 81.00% | ~377 |
 | Depressed visitor | 76.00% | ~353 |
-| Old movies enjoyer | 75.00% | ~348 |
-| Neurotrainer – power gainer! | 75.00% | ~348 |
-| Fitness professional | 74.00% | ~343 |
-| Employee of the week | 74.00% | ~343 |
-| Your own amateur gym | 69.00% | ~320 |
+| Old movies enjoyer | 75.00% | ~349 |
+| Neurotrainer – power gainer! | 75.00% | ~349 |
+| Fitness professional | 74.00% | ~344 |
+| Employee of the week | 74.00% | ~344 |
+| Your own amateur gym | 69.00% | ~321 |
+| Run K, run! | 69.00% | ~321 |
 | First defeat | 68.00% | ~316 |
-| Run K, run! | 68.00% | ~316 |
-| Hello, world! | 67.00% | ~311 |
-| No bullying more | 66.00% | ~306 |
+| No bullying more | 66.00% | ~307 |
+| Hello, world! | 66.00% | ~307 |
 | Fighting is cool | 65.00% | ~302 |
-| Pal of your father? | 64.00% | ~297 |
+| Pal of your father? | 63.00% | ~293 |
 | Spirit of the past | 62.00% | ~288 |
-| Employee of the month | 60.00% | ~278 |
-| Law student | 59.00% | ~274 |
-| Handyman | 56.00% | ~260 |
-| Workout professional | 55.00% | ~255 |
-| Little hacker | 55.00% | ~255 |
-| Champion – starter pack | 55.00% | ~255 |
+| Employee of the month | 60.00% | ~279 |
+| Law student | 58.00% | ~270 |
+| Workout professional | 55.00% | ~256 |
+| Little hacker | 55.00% | ~256 |
+| Handyman | 55.00% | ~256 |
+| Champion – starter pack | 55.00% | ~256 |
 | Fight for life | 54.00% | ~251 |
 | It's good to be alive | 54.00% | ~251 |
 | Own four walls | 54.00% | ~251 |
 | Employee of the year | 54.00% | ~251 |
 | Intriguing candies | 53.00% | ~246 |
-| Legal courier | 50.00% | ~232 |
 | Extreme neuropower! | 50.00% | ~232 |
-| Escaped from a big trouble | 47.00% | ~218 |
+| Legal courier | 49.00% | ~228 |
+| Escaped from a big trouble | 47.00% | ~219 |
 | Now you are worthy | 43.00% | ~200 |
 | Fight is life | 42.00% | ~195 |
 | Mysterious voice | 42.00% | ~195 |
-| Guiding on the right path | 41.00% | ~190 |
+| Guiding on the right path | 41.00% | ~191 |
 | No blades in the gym | 40.00% | ~186 |
-| Champion – no way back | 38.00% | ~176 |
-| Responsible approach | 38.00% | ~176 |
+| Champion – no way back | 38.00% | ~177 |
+| Responsible approach | 38.00% | ~177 |
 | Underground dwellers | 37.00% | ~172 |
 | Deal with life | 36.00% | ~167 |
-| GYM professional | 36.00% | ~167 |
-| Mom got better | 35.00% | ~162 |
+| Mom got better | 35.00% | ~163 |
+| GYM professional | 35.00% | ~163 |
 | Poisoned fighter | 34.00% | ~158 |
 | Get out of my apartment! | 34.00% | ~158 |
 | The die is cast | 34.00% | ~158 |
-| Gang wrangler | 32.00% | ~148 |
-| Seashell hunter | 32.00% | ~148 |
-| Undercover robot | 32.00% | ~148 |
+| Gang wrangler | 32.00% | ~149 |
+| Seashell hunter | 32.00% | ~149 |
+| Undercover robot | 32.00% | ~149 |
 | Problems of cyborgs | 31.00% | ~144 |
 | Absolute Champion! | 31.00% | ~144 |
-| Not little hacker | 30.00% | ~139 |
+| Not little hacker | 30.00% | ~140 |
 | Trap disarmed | 29.00% | ~135 |
 | Another world | 29.00% | ~135 |
 | The lonesome road | 29.00% | ~135 |
@@ -67,11 +67,11 @@
 | The heart of the Resistance | 29.00% | ~135 |
 | Your own way | 29.00% | ~135 |
 | The last bell ring | 28.00% | ~130 |
-| The only right decision | 27.00% | ~125 |
 | Silver’s past | 26.00% | ~121 |
 | Better cooking at home | 26.00% | ~121 |
+| The only right decision | 26.00% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464 (Ranked 338)  
+Progressed: 465 (Ranked 338)  
 Completed: 9 (1.94%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,4 +175,4 @@ Completed: 9 (1.94%) (Ranked 136)
 | 2023-12-22 | 447 | 9 |
 | 2023-12-23 | 452 | 9 |
 | 2023-12-24 | 461 | 9 |
-| 2023-12-25 | 464 | 9 |
+| 2023-12-25 | 465 | 9 |

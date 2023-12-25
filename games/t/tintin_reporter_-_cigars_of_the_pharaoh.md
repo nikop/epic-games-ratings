@@ -9,8 +9,8 @@
 | Abandon Ship! | 26.00% | ~27 |
 | The Tomb of Kih-Oskh | 21.00% | ~21 |
 | The Weighing of the Soul | 19.00% | ~19 |
-| The Curse of Kih-Oskh | 15.00% | ~15 |
-| It's a Deal! | 10.00% | ~10 |
+| The Curse of Kih-Oskh | 16.00% | ~16 |
+| It's a Deal! | 11.00% | ~11 |
 | Mummy Nightmare | 9.00% | ~9 |
 | Cat Lover | 9.00% | ~9 |
 | Dynamite, Treason and Coconuts | 8.00% | ~8 |
@@ -42,7 +42,7 @@
 | Escaping War | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 474)  
+Progressed: 102 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

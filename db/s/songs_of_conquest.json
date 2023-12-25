@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2778,6 +2778,11 @@
       "Time": "2023-12-25T15:08:34.3244119+00:00",
       "NumProgressed": 742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T16:08:48.9249871+00:00",
+      "NumProgressed": 744,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2814,7 +2819,7 @@
       "Name": "Dressed For Success",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "AttackCount",
@@ -2934,7 +2939,7 @@
       "Name": "Double Kill",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "FlameAttackKillCount",
@@ -2998,7 +3003,7 @@
       "Name": "Multi Kill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "MultiplayerWins",
@@ -3070,7 +3075,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3118,7 +3123,7 @@
       "Name": "Adept",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "WielderLevel2",
@@ -3150,7 +3155,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3174,7 +3179,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3221,15 +3226,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 744,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:34.3244102+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:48.9249868+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:00:41.9667485+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:34.3244512+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:02:38.5748399+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:48.9250358+00:00"
 }

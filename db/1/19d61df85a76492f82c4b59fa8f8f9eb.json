@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 344,
-  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.38,
+  "EOS_Completed_Percentage": 9.36,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2044,6 +2044,11 @@
       "Time": "2023-12-25T09:08:58.3967727+00:00",
       "NumProgressed": 437,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-25T16:08:55.0767462+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 6,
@@ -2055,7 +2060,7 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -2102,14 +2107,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:40.4636181+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:55.0767459+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.5196626+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:14.765972+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:40.4636361+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:58:58.5699399+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:55.0767619+00:00"
 }

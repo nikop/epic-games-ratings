@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 853,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -2971,6 +2971,11 @@
       "Time": "2023-12-25T13:11:38.337645+00:00",
       "NumProgressed": 852,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T16:08:06.6000354+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2982,7 +2987,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "cool-shirts",
@@ -3006,7 +3011,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "female-conqueror",
@@ -3030,7 +3035,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "kill-lieutenants",
@@ -3046,7 +3051,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "play-at-night",
@@ -3068,9 +3073,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 384
     },
     {
       "ID": "rename-lieutenant",
@@ -3094,7 +3099,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "send-smuggling",
@@ -3102,7 +3107,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "unlock-residences",
@@ -3133,15 +3138,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 853,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:06:33.6177681+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:06.6000351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:15.8700745+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:06:33.6178211+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:00.3736504+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:06.6000603+00:00"
 }

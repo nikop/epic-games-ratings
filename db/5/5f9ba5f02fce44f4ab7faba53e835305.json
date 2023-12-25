@@ -4,7 +4,7 @@
   "ProductSlug": "trekkingandcamping-655909",
   "Ranking_EOS_Progress": 699,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 487,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-04T00:00:00+00:00",
@@ -186,8 +186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-13T15:04:04.2930323+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:08:18.9390264+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:08:31.9021883+00:00",
   "LastUpdate_AppInfo": "2023-12-24T17:57:03.9689803+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:58:04.8734183+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:08:18.9390406+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:57:45.2288158+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:08:31.9021964+00:00"
 }

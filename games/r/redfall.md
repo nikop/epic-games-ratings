@@ -5,17 +5,17 @@ Rating: 3.58 (Ranked 1,067)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 13.00% | ~267 |
-| Catch and Release | 10.00% | ~205 |
+| I Like My Stakes Rare! | 13.00% | ~268 |
+| Catch and Release | 10.00% | ~206 |
 | Home Is Where the Heart Is | 9.00% | ~185 |
-| ICU | 8.00% | ~164 |
-| Wounded Whispers | 8.00% | ~164 |
+| ICU | 8.00% | ~165 |
+| Wounded Whispers | 8.00% | ~165 |
 | Blood Will Have Blood | 7.00% | ~144 |
 | Ne Plus Ultra | 7.00% | ~144 |
 | Fly Fisher | 7.00% | ~144 |
 | Peek-a-boo | 7.00% | ~144 |
-| Throw The First Stone | 6.00% | ~123 |
-| Sucks To Be You | 6.00% | ~123 |
+| Throw The First Stone | 6.00% | ~124 |
+| Sucks To Be You | 6.00% | ~124 |
 | Enter of Your Own Free Will | 5.00% | ~103 |
 | Welcome to the Neighborhood | 5.00% | ~103 |
 | Heart Attack | 5.00% | ~103 |
@@ -39,8 +39,8 @@ Rating: 3.58 (Ranked 1,067)
 | You Clean It Up | 1.00% | ~21 |
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |
-| Blacklight Down | 0.90% | ~18 |
-| Curious Finch | 0.90% | ~18 |
+| Blacklight Down | 0.90% | ~19 |
+| Curious Finch | 0.90% | ~19 |
 | Empty Nest Syndrome | 0.60% | ~12 |
 | What Lies Below | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,054 (Ranked 237)  
+Progressed: 2,060 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
-| 2023-12-25 | 2,054 | 0 |
+| 2023-12-25 | 2,060 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -53,7 +53,7 @@
   "Tags": [],
   "EOS_Progressed": 1103,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3420,9 +3420,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 265
     },
     {
       "ID": "RewindDamage1",
@@ -3492,9 +3492,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 132
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3573,8 +3573,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:09:38.0680101+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:09:55.6226172+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:58:17.6843442+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:09:38.0680659+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:57:57.2330838+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:09:55.6226598+00:00"
 }

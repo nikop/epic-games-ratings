@@ -14,10 +14,10 @@
 | Chapter 5 Complete | 20.00% | ~21 |
 | Chapter 6 Complete | 19.00% | ~20 |
 | The Truth | 19.00% | ~20 |
+| Reconciliation | 19.00% | ~20 |
 | Always Watchful | 18.00% | ~19 |
 | Chapter 7 Complete | 18.00% | ~19 |
 | Plant Enchanter | 18.00% | ~19 |
-| Reconciliation | 18.00% | ~19 |
 | Bounty Hunter | 16.00% | ~16 |
 | The Terror | 16.00% | ~16 |
 | Battle Ready | 14.00% | ~14 |

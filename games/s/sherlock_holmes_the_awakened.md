@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.49 (Ranked 624)  
+Rating: 4.49 (Ranked 623)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,9 +17,9 @@ Rating: 4.49 (Ranked 624)
 | Open Sesame | 43.00% | ~566 |
 | Sticky Fingers | 43.00% | ~566 |
 | Knives Out | 43.00% | ~566 |
+| Lock, Stock, And Barrel | 42.00% | ~553 |
+| Back In The Saddle | 42.00% | ~553 |
 | Land, Ho! | 42.00% | ~553 |
-| Lock, Stock, And Barrel | 41.00% | ~540 |
-| Back In The Saddle | 41.00% | ~540 |
 | No Man Is An Island | 40.00% | ~527 |
 | At Wits' End | 39.00% | ~514 |
 | Fhtagn! | 38.00% | ~500 |

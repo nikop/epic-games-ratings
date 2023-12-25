@@ -11,14 +11,14 @@
 | My lost nightingale | 34.00% | ~31 |
 | Through the woods | 33.00% | ~30 |
 | Back to the anvil | 32.00% | ~29 |
+| So soothing... | 32.00% | ~29 |
 | Kekekeke... | 32.00% | ~29 |
 | Mystery solved | 31.00% | ~28 |
 | Honey, honey, honey… | 31.00% | ~28 |
-| So soothing... | 31.00% | ~28 |
+| Sorry Grandpa | 31.00% | ~28 |
+| Roostwig has entered the building | 31.00% | ~28 |
 | A very special drink | 30.00% | ~27 |
 | NOW GO AWAY! | 30.00% | ~27 |
-| Sorry Grandpa | 30.00% | ~27 |
-| Roostwig has entered the building | 30.00% | ~27 |
 | Game Over! | 29.00% | ~26 |
 | GG | 29.00% | ~26 |
 | Shattered | 28.00% | ~25 |

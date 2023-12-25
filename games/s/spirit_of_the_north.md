@@ -1,38 +1,38 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 795)  
+Rating: 4.36 (Ranked 794)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~53,715 |
-| INFUSED WITH LIGHT | 53.00% | ~41,259 |
-| FOXIN' AROUND | 29.00% | ~22,576 |
-| FETCH | 28.00% | ~21,797 |
-| BLOOMS OF LIGHT | 26.00% | ~20,240 |
-| AWAKEN | 22.00% | ~17,127 |
-| BEST FRIENDS | 22.00% | ~17,127 |
-| ERADICATE | 21.00% | ~16,348 |
-| SPIRIT BARK | 21.00% | ~16,348 |
-| GARDEN OF LIGHT | 18.00% | ~14,013 |
-| SPIRIT FORM | 17.00% | ~13,234 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~53,719 |
+| INFUSED WITH LIGHT | 53.00% | ~41,262 |
+| FOXIN' AROUND | 29.00% | ~22,577 |
+| FETCH | 28.00% | ~21,799 |
+| BLOOMS OF LIGHT | 26.00% | ~20,242 |
+| AWAKEN | 22.00% | ~17,128 |
+| BEST FRIENDS | 22.00% | ~17,128 |
+| ERADICATE | 21.00% | ~16,349 |
+| SPIRIT BARK | 21.00% | ~16,349 |
+| GARDEN OF LIGHT | 18.00% | ~14,014 |
+| SPIRIT FORM | 17.00% | ~13,235 |
 | UPROOTING DARKNESS | 16.00% | ~12,456 |
 | WRITTEN IN STONE | 16.00% | ~12,456 |
 | WEIGHTLESS | 12.00% | ~9,342 |
-| SPIRIT DASH | 11.00% | ~8,563 |
-| OLD COMPANION | 9.00% | ~7,006 |
-| PLAGUE DOCTOR | 9.00% | ~7,006 |
+| SPIRIT DASH | 11.00% | ~8,564 |
+| OLD COMPANION | 9.00% | ~7,007 |
+| PLAGUE DOCTOR | 9.00% | ~7,007 |
 | MATCH MAKER | 8.00% | ~6,228 |
 | NORTHERN LIGHTS | 8.00% | ~6,228 |
 | SPIRITED AWAY | 8.00% | ~6,228 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,114 |
-| ANCIENT HISTORY | 3.00% | ~2,335 |
+| ANCIENT HISTORY | 3.00% | ~2,336 |
 | NONE FORGOTTEN | 2.00% | ~1,557 |
 | KINDRED SPIRITS | 0.60% | ~467 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,848 (Ranked 105)  
-Completed: 417 (0.54%) (Ranked 210)  
+Progressed: 77,853 (Ranked 105)  
+Completed: 418 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 417 (0.54%) (Ranked 210)
 | 2023-12-22 | 77,550 | 416 |
 | 2023-12-23 | 77,682 | 417 |
 | 2023-12-24 | 77,784 | 417 |
-| 2023-12-25 | 77,848 | 417 |
+| 2023-12-25 | 77,853 | 418 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 529)  
 Sum: 116 (Ranked 450)  

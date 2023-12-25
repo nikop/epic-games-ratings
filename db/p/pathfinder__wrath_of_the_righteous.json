@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4697,9 +4697,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12753,
+  "EOS_Progressed": 12756,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17992,6 +17992,11 @@
       "Time": "2023-12-25T15:09:47.0013474+00:00",
       "NumProgressed": 12753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T16:10:04.7861387+00:00",
+      "NumProgressed": 12756,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18003,7 +18008,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "02_BurningCity",
@@ -18019,7 +18024,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "04_FithCrusade",
@@ -18057,9 +18062,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 765
     },
     {
       "ID": "09_PathOfDemon",
@@ -18203,7 +18208,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "28_GreatUpstart",
@@ -18251,7 +18256,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18371,7 +18376,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "49_Flame",
@@ -18930,21 +18935,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11535,
+      "Progressed": 11538,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12753,
+      "Progressed": 12756,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-25T00:00:26.0268289+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:09:47.0013471+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:10:04.7861385+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:00:18.8268885+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:09:47.0015047+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:00:03.6524026+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:10:04.7862971+00:00"
 }

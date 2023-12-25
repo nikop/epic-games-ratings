@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3587,
+  "EOS_Progressed": 3589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4861,6 +4861,11 @@
       "Time": "2023-12-25T14:04:58.0386494+00:00",
       "NumProgressed": 3587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T16:05:13.0307192+00:00",
+      "NumProgressed": 3589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4960,7 +4965,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ExtractorSkullUses",
@@ -5062,9 +5067,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 538
     },
     {
       "ID": "Kills_Exterminator",
@@ -5136,7 +5141,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -5240,7 +5245,7 @@
       "Name": "A Foul Creche",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5415,21 +5420,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3587,
+      "Progressed": 3589,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3587,
+      "Progressed": 3589,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:05:04.471979+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:05:13.0307189+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:03:11.9597078+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:05:04.4720506+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:03:10.380959+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:05:13.0307772+00:00"
 }

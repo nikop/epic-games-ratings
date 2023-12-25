@@ -2,10 +2,10 @@
   "ID": "b9857458d4d5405bb222610cd9f979d9",
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 174,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.47,
   "EosHistory": [
     {
@@ -1006,8 +1006,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-12-25T15:05:38.6470397+00:00",
+  "LastChanged_Achievements": "2023-12-25T16:05:48.394545+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.1606923+00:00",
-  "LastUpdate_Ratings": "2023-12-25T14:59:56.9110322+00:00",
-  "LastUpdate_Achievements": "2023-12-25T15:05:38.6470541+00:00"
+  "LastUpdate_Ratings": "2023-12-25T15:59:42.3582544+00:00",
+  "LastUpdate_Achievements": "2023-12-25T16:05:48.3945599+00:00"
 }
