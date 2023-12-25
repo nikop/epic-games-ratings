@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Use 10 hints | 6.00% | ~5 |
 | Complete 25 levels | 5.00% | ~4 |
-| Use 20 hints | 4.00% | ~3 |
-| Fast 6x6 | 3.00% | ~2 |
+| Use 20 hints | 5.00% | ~4 |
+| Fast 6x6 | 4.00% | ~3 |
 | Complete 50 levels | 3.00% | ~2 |
 | Switch off the light | 3.00% | ~2 |
 | Use 50 hints | 3.00% | ~2 |

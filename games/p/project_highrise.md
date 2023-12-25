@@ -48,12 +48,12 @@
 | Master of Puppets | 8.00% | ~35 |
 | Phoning It In | 8.00% | ~35 |
 | Water Features | 7.00% | ~31 |
+| Golden Opportunity | 7.00% | ~31 |
 | Careful Constructor | 6.00% | ~26 |
 | Meet Me at HQ | 6.00% | ~26 |
 | Profound Proceeds | 6.00% | ~26 |
 | Maximum Reuse | 6.00% | ~26 |
 | Revenue Royalty | 6.00% | ~26 |
-| Golden Opportunity | 6.00% | ~26 |
 | It's a Gas | 6.00% | ~26 |
 | Pipe Up | 6.00% | ~26 |
 | Penthouse in the Sky | 5.00% | ~22 |

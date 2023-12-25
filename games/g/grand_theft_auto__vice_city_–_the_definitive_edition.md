@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 563)
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~6,393 |
 | Greasy Palms | 42.00% | ~5,837 |
-| South American Connection | 25.00% | ~3,474 |
+| South American Connection | 26.00% | ~3,613 |
 | Life of the Party | 20.00% | ~2,780 |
 | Chauffeur | 15.00% | ~2,085 |
 | Tommy Two-Wheels | 15.00% | ~2,085 |

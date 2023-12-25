@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.50 (Ranked 602)  
+Rating: 4.50 (Ranked 603)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.50 (Ranked 602)
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,326 (Ranked 261)  
-Completed: 9 (0.68%) (Ranked 197)  
+Completed: 9 (0.68%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -9,18 +9,18 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~239,152 |
 | He's Signed! | 50.00% | ~239,152 |
 | First Victory | 50.00% | ~239,152 |
-| He's Sold! | 48.00% | ~229,585 |
-| I'm The Boss! | 42.00% | ~200,887 |
-| Hat-trick | 41.00% | ~196,104 |
-| Scoring Streak | 38.00% | ~181,755 |
-| Unbeatable! | 37.00% | ~176,972 |
-| Thumping | 37.00% | ~176,972 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,406 |
-| Total Support | 32.00% | ~153,057 |
-| Record Signing | 32.00% | ~153,057 |
-| He's a Natural | 31.00% | ~148,274 |
-| Millionaire's Club | 31.00% | ~148,274 |
-| Team Performance | 30.00% | ~143,491 |
+| He's Sold! | 48.00% | ~229,586 |
+| I'm The Boss! | 42.00% | ~200,888 |
+| Hat-trick | 41.00% | ~196,105 |
+| Scoring Streak | 38.00% | ~181,756 |
+| Unbeatable! | 37.00% | ~176,973 |
+| Thumping | 37.00% | ~176,973 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,407 |
+| Total Support | 32.00% | ~153,058 |
+| Record Signing | 32.00% | ~153,058 |
+| He's a Natural | 31.00% | ~148,275 |
+| Millionaire's Club | 31.00% | ~148,275 |
+| Team Performance | 30.00% | ~143,492 |
 | Parked The Bus | 29.00% | ~138,708 |
 | Shrewd Spender | 29.00% | ~138,708 |
 | Star Man | 29.00% | ~138,708 |
@@ -46,15 +46,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~90,878 |
 | Top Form | 17.00% | ~81,312 |
 | Cash To Burn | 17.00% | ~81,312 |
-| Beating Expectations | 16.00% | ~76,528 |
-| Overachiever! | 16.00% | ~76,528 |
-| Rushed signing | 16.00% | ~76,528 |
-| Window Shopping | 15.00% | ~71,745 |
-| Eyes and Ears | 14.00% | ~66,962 |
-| Comeback King! | 14.00% | ~66,962 |
-| You're Up! | 13.00% | ~62,179 |
-| Money, Money, Money | 12.00% | ~57,396 |
-| Invincible! | 11.00% | ~52,613 |
+| Beating Expectations | 16.00% | ~76,529 |
+| Overachiever! | 16.00% | ~76,529 |
+| Rushed signing | 16.00% | ~76,529 |
+| Window Shopping | 15.00% | ~71,746 |
+| Eyes and Ears | 14.00% | ~66,963 |
+| Comeback King! | 14.00% | ~66,963 |
+| You're Up! | 13.00% | ~62,180 |
+| Money, Money, Money | 12.00% | ~57,397 |
+| Invincible! | 11.00% | ~52,614 |
 | Superb Strike | 10.00% | ~47,830 |
 | International Superstar | 10.00% | ~47,830 |
 | Best In The World | 10.00% | ~47,830 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,303 (Ranked 42)  
+Progressed: 478,305 (Ranked 42)  
 Completed: 22 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 22 (0.00%) (Ranked 388)
 | 2023-12-22 | 478,179 | 22 |
 | 2023-12-23 | 478,238 | 22 |
 | 2023-12-24 | 478,298 | 22 |
-| 2023-12-25 | 478,303 | 22 |
+| 2023-12-25 | 478,305 | 22 |
 ## Awards
 Max (Relaxing): 6,486  (Ranked 60)  
 Sum: 51,173 (Ranked 30)  

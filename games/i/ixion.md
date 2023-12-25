@@ -22,7 +22,7 @@ Rating: 4.58 (Ranked 457)
 | Breaking Protocol | 12.00% | ~444 |
 | Hope Seeker | 12.00% | ~444 |
 | Man's Best Friend | 9.00% | ~333 |
-| Power Outage | 8.00% | ~296 |
+| Power Outage | 9.00% | ~333 |
 | Convenient Transport | 8.00% | ~296 |
 | Please Make it Stop! | 8.00% | ~296 |
 | Sightseeing | 7.00% | ~259 |

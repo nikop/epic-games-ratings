@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1013,
+  "Ranking_Rating": 1015,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.04,
+  "Rating": 4.03,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -611,10 +611,16 @@
       "Rating": 4.04,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-25T07:01:06.4311518+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 148,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147,
+  "NumberOfAwards": 148,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -628,7 +634,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11377,9 +11383,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-12-22T22:58:35.5003837+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:09:13.6649869+00:00",
+  "LastChanged": "2023-12-25T07:01:06.4311517+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:09:25.1763862+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:01:20.8565107+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:09:13.6651104+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:01:06.4311521+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:09:25.1765092+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10128,9 +10128,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129727,
+  "EOS_Progressed": 129734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1515,
+  "EOS_NewPlayers": 1508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36698,6 +36698,11 @@
       "Time": "2023-12-25T06:10:18.3619534+00:00",
       "NumProgressed": 129727,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T07:10:26.6010238+00:00",
+      "NumProgressed": 129734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36837,7 +36842,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37061,7 +37066,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6486
+      "UsersEstimate": 6487
     },
     {
       "ID": "hero_story_complete_all",
@@ -37340,21 +37345,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129727,
+      "Progressed": 129734,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4596,
+      "Progressed": 4603,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-25T04:58:12.946757+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:10:18.3619532+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:10:26.6010234+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:58:46.1831651+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:10:18.3621097+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:58:40.928629+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:10:26.6011753+00:00"
 }

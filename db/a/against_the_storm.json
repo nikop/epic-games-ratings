@@ -3581,9 +3581,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19165,
+  "EOS_Progressed": 19167,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17021,6 +17021,11 @@
       "Time": "2023-12-25T06:05:12.821218+00:00",
       "NumProgressed": 19165,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T07:05:07.8221022+00:00",
+      "NumProgressed": 19167,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17271,9 +17276,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 134
     },
     {
       "ID": "WinNearTorrent",
@@ -17361,7 +17366,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WinWithEvents",
@@ -17417,7 +17422,7 @@
       "Name": "Defying the Crown",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Year1Dangerous",
@@ -17504,15 +17509,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19165,
+      "Progressed": 19167,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T01:45:03.4767246+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:05:12.8212177+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:05:07.8221017+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:58:38.326113+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:05:12.8213165+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:58:33.5867757+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:05:07.8222086+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tuto | 59.00% | ~261 |
-| Joma | 42.00% | ~186 |
+| Joma | 43.00% | ~190 |
 | Campaign Bronze | 35.00% | ~155 |
 | Lorian | 30.00% | ~133 |
 | Metropolis | 27.00% | ~120 |

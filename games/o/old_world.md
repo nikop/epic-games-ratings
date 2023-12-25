@@ -183,6 +183,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
+| Play a Hotseat Game | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
 | Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
@@ -315,7 +316,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
-| Play a Hotseat Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |

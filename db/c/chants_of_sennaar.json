@@ -67,10 +67,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1744,
+  "EOS_Progressed": 1745,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 431,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 429,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 5.73,
   "EosHistory": [
     {
@@ -5172,6 +5172,11 @@
       "Time": "2023-12-25T06:04:26.193735+00:00",
       "NumProgressed": 1744,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-25T07:04:23.2563169+00:00",
+      "NumProgressed": 1745,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 25,
@@ -5181,9 +5186,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 349
+      "UsersEstimate": 366
     },
     {
       "ID": "END_GOOD",
@@ -5191,7 +5196,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "META_ALL_LINK",
@@ -5247,7 +5252,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5279,7 +5284,7 @@
       "Name": "Alchemists Express",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5295,7 +5300,7 @@
       "Name": "True G3M4R",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5317,9 +5322,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 331
+      "UsersEstimate": 349
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -5367,7 +5372,7 @@
       "Name": "The darkness",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "PROGRESS_N5",
@@ -5382,7 +5387,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1744,
+      "Progressed": 1745,
       "Completed": 100
     }
   ],
@@ -5390,8 +5395,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:04:26.1937346+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:04:23.2563165+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:57:17.1518404+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:04:26.1937672+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:57:17.5876383+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:04:23.2563563+00:00"
 }

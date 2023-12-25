@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6164,
+  "EOS_Progressed": 6167,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9097,6 +9097,11 @@
       "Time": "2023-12-25T05:08:27.3198301+00:00",
       "NumProgressed": 6164,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T07:09:04.8295258+00:00",
+      "NumProgressed": 6167,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9116,7 +9121,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "11",
@@ -9140,7 +9145,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "14",
@@ -9172,7 +9177,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "18",
@@ -9204,7 +9209,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "21",
@@ -9228,7 +9233,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "24",
@@ -9244,7 +9249,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "26",
@@ -9388,7 +9393,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "42",
@@ -9580,20 +9585,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6164,
+      "Progressed": 6167,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6164,
+      "Progressed": 6167,
       "Completed": 7
     }
   ],
@@ -9601,8 +9606,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:08:51.6884699+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:09:04.8295255+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:00:12.2693227+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:08:51.6885664+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:00:02.4886508+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:09:04.8296099+00:00"
 }

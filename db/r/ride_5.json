@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2963,
+  "EOS_Progressed": 2964,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7227,6 +7227,11 @@
       "Time": "2023-12-25T06:05:59.1670165+00:00",
       "NumProgressed": 2963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T07:05:52.040342+00:00",
+      "NumProgressed": 2964,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7311,7 +7316,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7415,7 +7420,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -7447,7 +7452,7 @@
       "Name": "Clean Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7527,7 +7532,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7630,14 +7635,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2963,
+      "Progressed": 2964,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:05:59.167016+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:05:52.0403417+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:57:53.7898193+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:05:59.1670738+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:57:51.7773104+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:05:52.0404034+00:00"
 }

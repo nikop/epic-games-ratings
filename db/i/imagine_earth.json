@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -622,9 +622,9 @@
       "ID": "PlanetJoma",
       "SetID": "c2k469b",
       "Name": "Joma",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "PlanetLorian",
@@ -703,8 +703,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:06:48.8884099+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:06:38.6073514+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.2881005+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:00:21.3883486+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:06:48.8884256+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:00:11.1406668+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:06:38.6073684+00:00"
 }

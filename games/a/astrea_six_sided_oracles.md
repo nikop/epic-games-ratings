@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 78.00% | ~183 |
-| Purification Pioneer | 74.00% | ~174 |
-| Mechanical Buddy | 70.00% | ~164 |
-| Dicesmithing Time! | 61.00% | ~143 |
+| Meissa's Savior | 78.00% | ~184 |
+| Purification Pioneer | 74.00% | ~175 |
+| Mechanical Buddy | 70.00% | ~165 |
+| Dicesmithing Time! | 61.00% | ~144 |
 | Sanctuary Guardian | 54.00% | ~127 |
-| Endless Tricks | 49.00% | ~115 |
-| Wild's Keeper | 46.00% | ~108 |
-| Mind Illuminator | 43.00% | ~101 |
-| Noctuan Champion | 35.00% | ~82 |
-| Stellar Dismantler | 34.00% | ~80 |
+| Endless Tricks | 48.00% | ~113 |
+| Wild's Keeper | 46.00% | ~109 |
+| Mind Illuminator | 42.00% | ~99 |
+| Noctuan Champion | 35.00% | ~83 |
+| Stellar Dismantler | 33.00% | ~78 |
 | Anomaly Destroyer | 31.00% | ~73 |
 | Astral Adventurer | 29.00% | ~68 |
-| Star Killer | 27.00% | ~63 |
-| Eridanian Champion | 24.00% | ~56 |
+| Star Killer | 27.00% | ~64 |
+| Eridanian Champion | 24.00% | ~57 |
 | Loyal Partner | 22.00% | ~52 |
 | Lacertian Champion | 22.00% | ~52 |
 | Apian Champion | 20.00% | ~47 |
@@ -68,12 +68,12 @@
 | Royal Choir | 1.00% | ~2 |
 | Unepic Hero | 1.00% | ~2 |
 | Apian Mastery | 1.00% | ~2 |
-| Astral Tinkerer | 0.90% | ~2 |
-| Astrea's Saviors | 0.90% | ~2 |
-| Astrium Specialist | 0.90% | ~2 |
-| Plague Doctor | 0.90% | ~2 |
-| Six-Sided Mastery | 0.90% | ~2 |
-| This is Fine | 0.90% | ~2 |
+| Astral Tinkerer | 0.80% | ~2 |
+| Astrea's Saviors | 0.80% | ~2 |
+| Astrium Specialist | 0.80% | ~2 |
+| Plague Doctor | 0.80% | ~2 |
+| Six-Sided Mastery | 0.80% | ~2 |
+| This is Fine | 0.80% | ~2 |
 | Arch-Oracle | 0.40% | ~1 |
 | Dice Specialist | 0.40% | ~1 |
 | Gotta tinker'em all! | 0.40% | ~1 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 400)  
+Progressed: 236 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,4 +163,4 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 214 | 0 |
 | 2023-12-23 | 223 | 0 |
 | 2023-12-24 | 234 | 0 |
-| 2023-12-25 | 235 | 0 |
+| 2023-12-25 | 236 | 0 |

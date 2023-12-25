@@ -10,26 +10,26 @@ Rating: 4.65 (Ranked 320)
 | The Mysterious Stranger | 30.00% | ~329 |
 | Immaculate Aim | 25.00% | ~274 |
 | The Brass Boss | 25.00% | ~274 |
-| Make Up For Lost Time | 24.00% | ~263 |
-| Time Flies | 24.00% | ~263 |
-| The Prince in Heels | 24.00% | ~263 |
-| The Harder They Fall | 23.00% | ~252 |
-| No, Thanks! | 23.00% | ~252 |
-| Honest Mistake | 23.00% | ~252 |
-| Fast Learner | 23.00% | ~252 |
-| Immaculate Aim | 23.00% | ~252 |
-| The Steel Shadow | 22.00% | ~241 |
-| Breaking Down Barriers | 22.00% | ~241 |
-| The Wicked Twins | 22.00% | ~241 |
-| Right On Time | 21.00% | ~230 |
-| Like Clockwork | 21.00% | ~230 |
-| Golem Chaser | 21.00% | ~230 |
-| The Betrayer | 20.00% | ~219 |
-| The Loose Cannon | 19.00% | ~208 |
-| Check Your Pulse | 19.00% | ~208 |
-| The Man Who Shattered Time | 18.00% | ~197 |
-| The Family Fortune | 18.00% | ~197 |
-| Street Style | 17.00% | ~186 |
+| Make Up For Lost Time | 24.00% | ~264 |
+| The Prince in Heels | 24.00% | ~264 |
+| Time Flies | 23.00% | ~253 |
+| The Harder They Fall | 23.00% | ~253 |
+| No, Thanks! | 23.00% | ~253 |
+| Honest Mistake | 23.00% | ~253 |
+| Fast Learner | 23.00% | ~253 |
+| Immaculate Aim | 23.00% | ~253 |
+| The Steel Shadow | 22.00% | ~242 |
+| Breaking Down Barriers | 22.00% | ~242 |
+| The Wicked Twins | 22.00% | ~242 |
+| Golem Chaser | 21.00% | ~231 |
+| Right On Time | 20.00% | ~220 |
+| Like Clockwork | 20.00% | ~220 |
+| The Betrayer | 20.00% | ~220 |
+| The Loose Cannon | 19.00% | ~209 |
+| Check Your Pulse | 19.00% | ~209 |
+| The Man Who Shattered Time | 18.00% | ~198 |
+| The Family Fortune | 18.00% | ~198 |
+| Street Style | 17.00% | ~187 |
 | Whiz Kid | 15.00% | ~165 |
 | Good Neighbor | 14.00% | ~154 |
 | Treasure Trove | 13.00% | ~143 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,097 (Ranked 277)  
+Progressed: 1,098 (Ranked 277)  
 Completed: 6 (0.55%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 6 (0.55%) (Ranked 206)
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
-| 2023-12-25 | 1,097 | 6 |
+| 2023-12-25 | 1,098 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

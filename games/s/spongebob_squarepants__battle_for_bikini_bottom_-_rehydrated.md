@@ -11,8 +11,8 @@ Number of Ratings: 76  (23.09.2022)
 | Jellyfish Jam | 12.00% | ~42 |
 | Jellyfishing | 9.00% | ~31 |
 | Time For Tutorial | 8.00% | ~28 |
+| Life's as extreme as you wanna make it! | 6.00% | ~21 |
 | Sweet Victory | 6.00% | ~21 |
-| Life's as extreme as you wanna make it! | 5.00% | ~17 |
 | Sock Getter | 5.00% | ~17 |
 | Surf's Up! | 5.00% | ~17 |
 | Uptown and Downtown | 4.00% | ~14 |
@@ -26,11 +26,11 @@ Number of Ratings: 76  (23.09.2022)
 | Shrimp Catcher | 3.00% | ~10 |
 | Hit Rock Bottom | 3.00% | ~10 |
 | Are you ready now? | 2.00% | ~7 |
+| Ship Shape | 1.00% | ~3 |
+| Shanghaied | 1.00% | ~3 |
 | Kelp Forest of Fear | 1.00% | ~3 |
 | Sleepy Time | 1.00% | ~3 |
 | Ultra Spatula Seeker | 1.00% | ~3 |
-| Ship Shape | 0.90% | ~3 |
-| Shanghaied | 0.90% | ~3 |
 | Sock Concert | 0.90% | ~3 |
 | The Small Does Not Rule | 0.60% | ~2 |
 | SpongeBob vs SpongeBob! | 0.60% | ~2 |
@@ -53,9 +53,9 @@ Completed: 1 (0.29%) (Ranked 255)
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 347 | 1 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 498)  
+Max (Great Boss Battles): 34  (Ranked 499)  
 Sum: 34 (Ranked 523)  
-Diff (max vs sum): -25  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

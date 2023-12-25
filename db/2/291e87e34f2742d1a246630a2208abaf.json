@@ -2,9 +2,9 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -719,10 +719,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 104,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-12-25T06:59:18.986325+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 104,
+  "NumberOfAwards": 127,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -736,7 +742,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -749,6 +755,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -763,8 +775,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2023-12-22T18:57:27.0831551+00:00",
+  "LastChanged": "2023-12-25T06:59:18.9863249+00:00",
   "LastUpdate_AppInfo": "2023-12-18T10:57:15.026132+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:59:25.9650109+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:05:09.8451723+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:59:18.9863254+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:05:04.787275+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117773,
+  "EOS_Progressed": 117776,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -22500,6 +22500,11 @@
       "Time": "2023-12-25T06:11:05.2222825+00:00",
       "NumProgressed": 117773,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-25T07:11:11.3054463+00:00",
+      "NumProgressed": 117776,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22519,7 +22524,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90685
+      "UsersEstimate": 90688
     },
     {
       "ID": "EAwards_10",
@@ -22535,7 +22540,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31799
+      "UsersEstimate": 31800
     },
     {
       "ID": "EAwards_12",
@@ -22567,7 +22572,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11777
+      "UsersEstimate": 11778
     },
     {
       "ID": "EAwards_16",
@@ -22583,7 +22588,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43576
+      "UsersEstimate": 43577
     },
     {
       "ID": "EAwards_18",
@@ -22599,7 +22604,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "EAwards_2",
@@ -22607,7 +22612,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57709
+      "UsersEstimate": 57710
     },
     {
       "ID": "EAwards_20",
@@ -22631,7 +22636,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "EAwards_23",
@@ -22671,7 +22676,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11777
+      "UsersEstimate": 11778
     },
     {
       "ID": "EAwards_28",
@@ -22727,7 +22732,7 @@
       "Name": "Mr. Worldwide",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "EAwards_34",
@@ -22751,7 +22756,7 @@
       "Name": "Legend of the Timelines",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "EAwards_37",
@@ -22783,7 +22788,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15311
     },
     {
       "ID": "EAwards_40",
@@ -22863,7 +22868,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11777
+      "UsersEstimate": 11778
     },
     {
       "ID": "EAwards_6",
@@ -22902,7 +22907,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117773,
+      "Progressed": 117776,
       "Completed": 53
     }
   ],
@@ -22910,8 +22915,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:11:05.2222823+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:11:11.3054459+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:58:33.8512662+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:11:05.2223934+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:58:28.8754861+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:11:11.3055605+00:00"
 }

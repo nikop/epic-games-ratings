@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 3780,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3612,
+  "EOS_Progressed": 3613,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": -0.78,
+  "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:12.6590744+00:00",
@@ -774,6 +774,11 @@
       "Time": "2023-12-24T23:08:38.0399452+00:00",
       "NumProgressed": 3612,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-12-25T07:09:28.2193669+00:00",
+      "NumProgressed": 3613,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -785,7 +790,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "10",
@@ -865,7 +870,7 @@
       "Name": "Emperor\u0027s Hubris",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "2",
@@ -913,7 +918,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "25",
@@ -1064,7 +1069,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3612,
+      "Progressed": 3613,
       "Completed": -28
     }
   ],
@@ -1072,8 +1077,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:09:16.7112827+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:09:28.2193666+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.313726+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:59:33.0382511+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:09:16.7113249+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:59:24.7946848+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:09:28.2193912+00:00"
 }

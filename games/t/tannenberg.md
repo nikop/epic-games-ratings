@@ -7,36 +7,36 @@ Number of Ratings: 13,393  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Immovable Object | 89.00% | ~126,870 |
-| Comeback | 82.00% | ~116,891 |
-| Information is Key | 80.00% | ~114,040 |
-| Unlucky | 70.00% | ~99,785 |
-| Anarchist | 68.00% | ~96,934 |
+| Comeback | 82.00% | ~116,892 |
+| Information is Key | 80.00% | ~114,041 |
+| Unlucky | 70.00% | ~99,786 |
+| Anarchist | 68.00% | ~96,935 |
 | Wallhack | 65.00% | ~92,658 |
-| Steady Supply | 60.00% | ~85,530 |
+| Steady Supply | 60.00% | ~85,531 |
 | Lucky Shot | 53.00% | ~75,552 |
-| Ring Ring! | 52.00% | ~74,126 |
-| Forward Observer | 51.00% | ~72,700 |
+| Ring Ring! | 52.00% | ~74,127 |
+| Forward Observer | 51.00% | ~72,701 |
 | Bossing Around | 45.00% | ~64,148 |
 | Frostbite | 45.00% | ~64,148 |
 | Night Owl | 44.00% | ~62,722 |
 | Strength in Numbers | 44.00% | ~62,722 |
 | Fog of War | 41.00% | ~58,446 |
-| Rasputin | 39.00% | ~55,594 |
-| Stronghold Denied | 39.00% | ~55,594 |
+| Rasputin | 39.00% | ~55,595 |
+| Stronghold Denied | 39.00% | ~55,595 |
 | Anyone Else? | 38.00% | ~54,169 |
 | Hydra | 36.00% | ~51,318 |
 | This Belongs to Us Now | 36.00% | ~51,318 |
-| Stronghold | 35.00% | ~49,892 |
+| Stronghold | 35.00% | ~49,893 |
 | Leeroy | 33.00% | ~47,042 |
 | Lost Batallion | 33.00% | ~47,042 |
 | This is MY Machine Gun! | 32.00% | ~45,616 |
-| Together As One | 31.00% | ~44,190 |
-| Gavrilo Princip | 27.00% | ~38,488 |
+| Together As One | 31.00% | ~44,191 |
+| Gavrilo Princip | 27.00% | ~38,489 |
 | Lead Harvest | 25.00% | ~35,638 |
-| Skynet Confirmed | 23.00% | ~32,786 |
+| Skynet Confirmed | 23.00% | ~32,787 |
 | Kesselschlacht | 22.00% | ~31,361 |
 | Democracy Works! | 20.00% | ~28,510 |
-| Switch, Please! | 19.00% | ~27,084 |
+| Switch, Please! | 19.00% | ~27,085 |
 | At Least This Way I Can Win... | 18.00% | ~25,659 |
 | Tourist | 18.00% | ~25,659 |
 | I've Seen It All | 17.00% | ~24,234 |
@@ -58,9 +58,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | Gott Mit Uns | 4.00% | ~5,702 |
 | Indivisibiliter ac Inseparabiliter | 4.00% | ~5,702 |
 | Living on the Edge | 4.00% | ~5,702 |
-| Chivalrous | 3.00% | ~4,276 |
-| S nami Bog! | 3.00% | ~4,276 |
-| Za veru, Tsarya i otechestvo | 3.00% | ~4,276 |
+| Chivalrous | 3.00% | ~4,277 |
+| S nami Bog! | 3.00% | ~4,277 |
+| Za veru, Tsarya i otechestvo | 3.00% | ~4,277 |
 | Cheeki Breeki | 2.00% | ~2,851 |
 | Na Nozh! | 2.00% | ~2,851 |
 | Pe aici nu se trece | 2.00% | ~2,851 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,283 |
 | Road to Berlin | 0.70% | ~998 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,550 (Ranked 84)  
+Progressed: 142,551 (Ranked 84)  
 Completed: 34 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 34 (0.02%) (Ranked 357)
 | 2023-12-22 | 142,246 | 34 |
 | 2023-12-23 | 142,398 | 34 |
 | 2023-12-24 | 142,531 | 34 |
-| 2023-12-25 | 142,550 | 34 |
+| 2023-12-25 | 142,551 | 34 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 248)  
 Sum: 3,296 (Ranked 176)  

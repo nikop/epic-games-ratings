@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,729 |
-| Gun Fu | 8.00% | ~78,486 |
-| The Fool | 7.00% | ~68,675 |
+| V for Vendetta | 12.00% | ~117,730 |
+| Gun Fu | 8.00% | ~78,487 |
+| The Fool | 7.00% | ~68,676 |
 | Right Back At Ya | 6.00% | ~58,865 |
 | The Lovers | 6.00% | ~58,865 |
 | Full Body Conversion | 5.00% | ~49,054 |
@@ -19,12 +19,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 4.00% | ~39,243 |
 | All the President's Men | 4.00% | ~4,388 |
 | Arachnophobia | 4.00% | ~4,388 |
-| Master Crafter | 3.00% | ~29,432 |
-| The Quick and the Dead | 3.00% | ~29,432 |
-| Life of the Road | 3.00% | ~29,432 |
-| The High Priestess | 3.00% | ~29,432 |
-| True Warrior | 3.00% | ~29,432 |
-| Legend of The Afterlife | 3.00% | ~29,432 |
+| Master Crafter | 3.00% | ~29,433 |
+| The Quick and the Dead | 3.00% | ~29,433 |
+| Life of the Road | 3.00% | ~29,433 |
+| The High Priestess | 3.00% | ~29,433 |
+| True Warrior | 3.00% | ~29,433 |
+| Legend of The Afterlife | 3.00% | ~29,433 |
 | Relic Ruler | 3.00% | ~3,291 |
 | Bushido and Chill | 2.00% | ~19,622 |
 | To Protect and Serve | 2.00% | ~19,622 |
@@ -44,9 +44,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.80% | ~7,849 |
 | Judgement Day | 0.70% | ~768 |
 | The Tower | 0.70% | ~768 |
-| Autojock | 0.60% | ~5,886 |
-| Must Be Rats | 0.60% | ~5,886 |
-| Temperance | 0.60% | ~5,886 |
+| Autojock | 0.60% | ~5,887 |
+| Must Be Rats | 0.60% | ~5,887 |
+| Temperance | 0.60% | ~5,887 |
 | The APB is Not Enough | 0.60% | ~658 |
 | King of Pentacles | 0.60% | ~658 |
 | King of Swords | 0.60% | ~658 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,076 (Ranked 16)  
+Progressed: 981,086 (Ranked 16)  
 Completed: 2,970 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 2,970 (0.30%) (Ranked 251)
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
-| 2023-12-25 | 981,076 | 2,970 |
+| 2023-12-25 | 981,086 | 2,970 |
 ## Awards
 Max (Character Customization): 127,101  (Ranked 8)  
 Sum: 442,188 (Ranked 9)  

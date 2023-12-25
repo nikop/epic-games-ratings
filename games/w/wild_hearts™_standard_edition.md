@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~852 |
+| Land of the Rising Sun | 99.00% | ~853 |
 | Hidden History | 70.00% | ~603 |
 | Commencing of Quests | 62.00% | ~534 |
 | Budding Conjuror | 60.00% | ~517 |
 | Man-Machine Master | 49.00% | ~422 |
-| Charmed by the Hunt | 48.00% | ~413 |
+| Charmed by the Hunt | 48.00% | ~414 |
 | Mountain Splitter | 47.00% | ~405 |
 | Subsistence Skills | 47.00% | ~405 |
-| Fusion Conjuror | 45.00% | ~387 |
-| Memory Rouser | 45.00% | ~387 |
-| Kemono Hunter | 40.00% | ~344 |
+| Fusion Conjuror | 45.00% | ~388 |
+| Memory Rouser | 45.00% | ~388 |
+| Kemono Hunter | 40.00% | ~345 |
 | Helpful Heart | 39.00% | ~336 |
-| Expert Conjuror | 38.00% | ~327 |
+| Expert Conjuror | 38.00% | ~328 |
 | Flawless Crystal | 37.00% | ~319 |
 | Bonds of Enmity | 36.00% | ~310 |
 | Distance Devourer | 34.00% | ~293 |
 | Counter Specialist | 32.00% | ~276 |
 | Master of the Skies | 31.00% | ~267 |
 | Axer of Auspice | 28.00% | ~241 |
-| Fair Means or Foul | 27.00% | ~232 |
+| Fair Means or Foul | 27.00% | ~233 |
 | Mighty Marmelizer | 26.00% | ~224 |
 | Kemono at Heart | 26.00% | ~224 |
 | Single Minded | 24.00% | ~207 |
@@ -45,15 +45,15 @@
 | Karakuri Fortress | 11.00% | ~95 |
 | Haven Hunter | 11.00% | ~95 |
 | Volatile Vocation | 10.00% | ~86 |
-| Tender Touch | 9.00% | ~77 |
-| Superlative View | 9.00% | ~77 |
+| Tender Touch | 9.00% | ~78 |
+| Superlative View | 9.00% | ~78 |
 | Relentless Kemono Hunter | 8.00% | ~69 |
 | Vanquisher of the Volatile | 7.00% | ~60 |
 | Big Spender | 6.00% | ~52 |
 | Bewitched by Bathing | 5.00% | ~43 |
 | Tsukumo Whisperer | 3.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 861 (Ranked 287)  
+Progressed: 862 (Ranked 287)  
 Completed: 8 (0.93%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,4 +154,4 @@ Completed: 8 (0.93%) (Ranked 177)
 | 2023-12-22 | 784 | 8 |
 | 2023-12-23 | 820 | 8 |
 | 2023-12-24 | 853 | 8 |
-| 2023-12-25 | 861 | 8 |
+| 2023-12-25 | 862 | 8 |

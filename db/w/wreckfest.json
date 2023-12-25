@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2023-12-25T06:09:18.0407075+00:00",
       "NumProgressed": 340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T07:09:29.4669574+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1035,9 +1040,9 @@
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "CareerChamp2",
@@ -1045,7 +1050,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CareerChamp3",
@@ -1077,7 +1082,7 @@
       "Name": "Storm Warning",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "CollectVehiclesA",
@@ -1180,7 +1185,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 0
     }
   ],
@@ -1188,8 +1193,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:09:18.0407071+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:09:29.466957+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:00:43.4176371+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:09:18.0407257+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:00:31.3888231+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:09:29.4669718+00:00"
 }

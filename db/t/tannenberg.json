@@ -3737,9 +3737,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 142550,
+  "EOS_Progressed": 142551,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -31747,6 +31747,11 @@
       "Time": "2023-12-25T06:05:08.8597718+00:00",
       "NumProgressed": 142550,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-25T07:05:04.0449164+00:00",
+      "NumProgressed": 142551,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 67,
@@ -31758,7 +31763,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 96934
+      "UsersEstimate": 96935
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -31814,7 +31819,7 @@
       "Name": "Chivalrous",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "TANNENBERG_ACH_CLOSE_CALL",
@@ -31830,7 +31835,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 116891
+      "UsersEstimate": 116892
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -31886,7 +31891,7 @@
       "Name": "Forward Observer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 72700
+      "UsersEstimate": 72701
     },
     {
       "ID": "TANNENBERG_ACH_FOR_THE_EMPEROR",
@@ -31926,7 +31931,7 @@
       "Name": "Gavrilo Princip",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 38488
+      "UsersEstimate": 38489
     },
     {
       "ID": "TANNENBERG_ACH_GOTT_MIT_UNS",
@@ -31982,7 +31987,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 114040
+      "UsersEstimate": 114041
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -32118,7 +32123,7 @@
       "Name": "Rasputin",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 55594
+      "UsersEstimate": 55595
     },
     {
       "ID": "TANNENBERG_ACH_RING_RING",
@@ -32126,7 +32131,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 74126
+      "UsersEstimate": 74127
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -32150,7 +32155,7 @@
       "Name": "Skynet Confirmed",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 32786
+      "UsersEstimate": 32787
     },
     {
       "ID": "TANNENBERG_ACH_STEADY_SUPPLY",
@@ -32158,7 +32163,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 85530
+      "UsersEstimate": 85531
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -32174,7 +32179,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 49892
+      "UsersEstimate": 49893
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -32182,7 +32187,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 55594
+      "UsersEstimate": 55595
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -32190,7 +32195,7 @@
       "Name": "Switch, Please!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27084
+      "UsersEstimate": 27085
     },
     {
       "ID": "TANNENBERG_ACH_S_NAMI_BOG",
@@ -32198,7 +32203,7 @@
       "Name": "S nami Bog!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "TANNENBERG_ACH_TALK_MUCH",
@@ -32238,7 +32243,7 @@
       "Name": "Together As One",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 44190
+      "UsersEstimate": 44191
     },
     {
       "ID": "TANNENBERG_ACH_TOURIST",
@@ -32262,7 +32267,7 @@
       "Name": "Unlucky",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 99785
+      "UsersEstimate": 99786
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -32286,22 +32291,22 @@
       "Name": "Za veru, Tsarya i otechestvo",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     }
   ],
   "AchievementSets": [
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 142550,
+      "Progressed": 142551,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-12-24T02:59:45.2944297+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:05:08.8597715+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:05:04.044916+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.7456525+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:01:34.0384969+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:05:08.8599364+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:01:18.9141354+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:05:04.0450824+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 494,
+  "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 299,
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4230,
+  "EOS_Progressed": 4231,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -6971,6 +6971,11 @@
       "Time": "2023-12-25T06:08:57.2296087+00:00",
       "NumProgressed": 4230,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T07:09:10.1165171+00:00",
+      "NumProgressed": 4231,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -6982,7 +6987,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "AceDetective_9",
@@ -7006,7 +7011,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7038,7 +7043,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "Eureka_23",
@@ -7046,7 +7051,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7054,7 +7059,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ForAllAurai_8",
@@ -7086,7 +7091,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "HouseofCards_19",
@@ -7206,7 +7211,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7302,7 +7307,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7317,15 +7322,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4230,
+      "Progressed": 4231,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:08:57.2296083+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:09:10.1165168+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:03:27.5804973+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:08:57.2296639+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:03:26.9321964+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:09:10.116571+00:00"
 }

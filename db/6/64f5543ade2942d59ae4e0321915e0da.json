@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 240,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1266,9 +1266,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1337,8 +1337,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:06:14.6502389+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:06:06.4008068+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:00:06.714462+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:06:14.6502713+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:59:57.0878588+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:06:06.4008388+00:00"
 }

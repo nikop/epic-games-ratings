@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,11 +161,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1285,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.65,
+  "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4391,6 +4391,11 @@
       "Time": "2023-12-25T06:07:59.9709205+00:00",
       "NumProgressed": 1285,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-25T07:07:46.3127493+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4411,7 +4416,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "_03_FinishAct1",
@@ -4419,7 +4424,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4451,7 +4456,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "_08_Completion_10",
@@ -4459,7 +4464,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "_09_Completion_20",
@@ -4521,9 +4526,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 308
+      "UsersEstimate": 296
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4563,7 +4568,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4610,7 +4615,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1285,
+      "Progressed": 1286,
       "Completed": 34
     }
   ],
@@ -4618,8 +4623,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:07:59.9709202+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:07:46.3127489+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:02:01.7748266+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:07:59.9709523+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:01:45.8822163+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:07:46.3127879+00:00"
 }

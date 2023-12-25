@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1070,
+  "Ranking_Rating": 1069,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 101,
@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81549,
+  "EOS_Progressed": 81550,
   "EOS_Completed": 896,
   "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 11,
@@ -27860,6 +27860,11 @@
       "Time": "2023-12-25T06:05:28.7023678+00:00",
       "NumProgressed": 81549,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-25T07:05:22.91037+00:00",
+      "NumProgressed": 81550,
+      "NumCompleted": 896
     }
   ],
   "TotalAchievements": 25,
@@ -27959,7 +27964,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7339
+      "UsersEstimate": 7340
     },
     {
       "ID": "Magnetic Miracles",
@@ -27967,7 +27972,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     },
     {
       "ID": "Master, Commander",
@@ -27975,7 +27980,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17125
+      "UsersEstimate": 17126
     },
     {
       "ID": "Meaty",
@@ -28007,7 +28012,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "Piano Man",
@@ -28031,7 +28036,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "Spicy",
@@ -28070,7 +28075,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81549,
+      "Progressed": 81550,
       "Completed": 896
     }
   ],
@@ -28078,8 +28083,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:05:28.7023672+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:05:22.9103694+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:00:15.4973497+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:05:28.7024931+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:00:05.6958998+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:05:22.9104983+00:00"
 }

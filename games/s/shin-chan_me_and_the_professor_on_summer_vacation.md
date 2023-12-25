@@ -18,6 +18,7 @@
 | My Fair Ladybug | 10.00% | ~4 |
 | Farm Life! | 10.00% | ~4 |
 | Did Someone Order Ramen? | 10.00% | ~4 |
+| Top-Notch Journalist | 10.00% | ~4 |
 | Ptera Pal | 10.00% | ~4 |
 | Stego Stooge | 10.00% | ~4 |
 | DJ Superstar | 10.00% | ~4 |
@@ -26,7 +27,6 @@
 | The Holly Grail | 8.00% | ~3 |
 | Love Is in the Air! | 8.00% | ~3 |
 | That Was a Snap! | 8.00% | ~3 |
-| Top-Notch Journalist | 8.00% | ~3 |
 | Asso Bridge Enthusiast | 8.00% | ~3 |
 | Beetle Savant | 5.00% | ~2 |
 | Cicada Connoisseur | 5.00% | ~2 |

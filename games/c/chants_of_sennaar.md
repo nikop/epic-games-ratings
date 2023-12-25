@@ -11,27 +11,27 @@ Rating: 4.85 (Ranked 41)
 | The Preacher's fate | 38.00% | ~663 |
 | A new dawn | 31.00% | ~541 |
 | Scholar | 27.00% | ~471 |
-| True G3M4R | 26.00% | ~453 |
-| The darkness | 26.00% | ~453 |
+| True G3M4R | 26.00% | ~454 |
+| The darkness | 26.00% | ~454 |
 | A good beginning | 24.00% | ~419 |
 | One last step | 22.00% | ~384 |
+| I did it | 21.00% | ~366 |
 | Cable guy | 21.00% | ~366 |
 | Half the way | 21.00% | ~366 |
 | Rascal | 21.00% | ~366 |
-| I did it | 20.00% | ~349 |
 | Peace walker | 20.00% | ~349 |
-| In this together | 19.00% | ~331 |
-| Champollion | 19.00% | ~331 |
+| Champollion | 20.00% | ~349 |
+| In this together | 19.00% | ~332 |
 | Open door | 18.00% | ~314 |
-| Feels like springtime | 17.00% | ~296 |
-| Alchemists Express | 17.00% | ~296 |
+| Feels like springtime | 17.00% | ~297 |
+| Alchemists Express | 17.00% | ~297 |
 | Free at last | 15.00% | ~262 |
 | A Link to the Past | 13.00% | ~227 |
 | A great audience | 12.00% | ~209 |
 | For its own good | 11.00% | ~192 |
 | Fashion victim | 7.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,744 (Ranked 245)  
+Progressed: 1,745 (Ranked 245)  
 Completed: 100 (5.73%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 100 (5.73%) (Ranked 73)
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
 | 2023-12-24 | 1,732 | 99 |
-| 2023-12-25 | 1,744 | 100 |
+| 2023-12-25 | 1,745 | 100 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

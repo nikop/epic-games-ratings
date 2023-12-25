@@ -1959,9 +1959,9 @@
       "ID": "ach_scenarios_1",
       "SetID": "b8gh1fi",
       "Name": "Golden Opportunity",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_scenarios_2",
@@ -2072,8 +2072,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:06:20.1856119+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:06:11.5468705+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:58:12.3161748+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:06:20.1856896+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:58:10.1432779+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:06:11.5469451+00:00"
 }

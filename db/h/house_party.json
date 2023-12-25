@@ -7624,9 +7624,9 @@
       "ID": "BeyondTheCall",
       "SetID": "bmkn7o4",
       "Name": "Beyond the Call of Dude-y",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "Brahdyssey",
@@ -8142,8 +8142,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:09:12.4398584+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:09:24.2489116+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:57:46.4960726+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:09:12.4399369+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:57:45.0029556+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:09:24.2489929+00:00"
 }

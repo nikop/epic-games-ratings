@@ -41,6 +41,7 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.40% | ~27 |
 | The Elder Brahs | 0.40% | ~27 |
 | Good Ol' Days | 0.40% | ~27 |
+| Beyond the Call of Dude-y | 0.30% | ~21 |
 | The Bride | 0.30% | ~21 |
 | Drunk and Disorderly: Madison | 0.30% | ~21 |
 | Do Not Burn | 0.30% | ~21 |
@@ -49,7 +50,6 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.30% | ~21 |
 | The Muse: Derek | 0.30% | ~21 |
 | Derezzed | 0.30% | ~21 |
-| Beyond the Call of Dude-y | 0.20% | ~14 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | I Know Grump-Fu | 0.20% | ~14 |
 | Ronin | 0.20% | ~14 |

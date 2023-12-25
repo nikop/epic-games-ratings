@@ -6,14 +6,14 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,579 |
-| A thief's beginning | 11.00% | ~24,364 |
-| Thorough | 11.00% | ~24,364 |
-| Disguised | 9.00% | ~19,934 |
-| Rescue Takuma | 9.00% | ~19,934 |
-| Rollin' | 9.00% | ~19,934 |
-| Tanuki Time | 9.00% | ~19,934 |
-| Stoned Ox | 8.00% | ~17,719 |
+| Genin | 12.00% | ~26,580 |
+| A thief's beginning | 11.00% | ~24,365 |
+| Thorough | 11.00% | ~24,365 |
+| Disguised | 9.00% | ~19,935 |
+| Rescue Takuma | 9.00% | ~19,935 |
+| Rollin' | 9.00% | ~19,935 |
+| Tanuki Time | 9.00% | ~19,935 |
+| Stoned Ox | 8.00% | ~17,720 |
 | Happy Planning | 7.00% | ~15,505 |
 | Ice Ice Yuki | 7.00% | ~15,505 |
 | Jonin | 7.00% | ~15,505 |
@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 2.00% | ~4,430 |
 | Meticulous | 1.00% | ~2,215 |
 | Undeserved Honor | 1.00% | ~2,215 |
-| When Cut Across the Neck | 0.90% | ~1,993 |
+| When Cut Across the Neck | 0.90% | ~1,994 |
 | High Five the Moon | 0.80% | ~1,772 |
 | The Cave | 0.80% | ~1,772 |
 | Time Paradox | 0.60% | ~1,329 |
-| Merciful | 0.50% | ~1,107 |
+| Merciful | 0.50% | ~1,108 |
 | Five Shadows | 0.40% | ~886 |
 | Complete Mastery | 0.20% | ~443 |
 | Praise the Shogun | 0.20% | ~443 |
-| Chicken Dinner | 0.10% | ~221 |
-| Mimimi | 0.10% | ~221 |
-| Release the Kraken | 0.10% | ~221 |
+| Chicken Dinner | 0.10% | ~222 |
+| Mimimi | 0.10% | ~222 |
+| Release the Kraken | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,493 (Ranked 76)  
+Progressed: 221,504 (Ranked 76)  
 Completed: 102 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 102 (0.05%) (Ranked 335)
 | 2023-12-22 | 220,925 | 102 |
 | 2023-12-23 | 221,197 | 102 |
 | 2023-12-24 | 221,429 | 102 |
-| 2023-12-25 | 221,493 | 102 |
+| 2023-12-25 | 221,504 | 102 |
 ## Awards
 Max (Great for Beginners): 589  (Ranked 202)  
 Sum: 4,927 (Ranked 147)  

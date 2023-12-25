@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.89,
   "EosHistory": [
@@ -4576,6 +4576,11 @@
       "Time": "2023-12-25T05:05:24.7381911+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T07:06:15.7991678+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4587,7 +4592,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "MQ01_2",
@@ -4627,7 +4632,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MQ03_1",
@@ -4651,7 +4656,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ03_4",
@@ -4683,7 +4688,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "MQ04_3",
@@ -4755,7 +4760,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MQ07_1",
@@ -4771,7 +4776,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "MQ08_1",
@@ -4803,14 +4808,14 @@
       "Name": "Reawakened",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 38
     }
   ],
@@ -4818,8 +4823,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-24T11:02:58.3706215+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:06:24.6975815+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:06:15.7991676+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-25T06:03:47.4982584+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:06:24.697619+00:00"
+  "LastUpdate_Ratings": "2023-12-25T07:03:47.3487534+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:06:15.7992065+00:00"
 }

@@ -1518,9 +1518,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26649,
+  "EOS_Progressed": 26652,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1388,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11778,6 +11778,11 @@
       "Time": "2023-12-25T06:10:50.7780203+00:00",
       "NumProgressed": 26649,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-25T07:10:57.35788+00:00",
+      "NumProgressed": 26652,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11869,7 +11874,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -11901,7 +11906,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -11917,7 +11922,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -11933,7 +11938,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12045,7 +12050,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "RogueMode",
@@ -12100,21 +12105,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26649,
+      "Progressed": 26652,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5579,
+      "Progressed": 5582,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-25T04:57:04.2152067+00:00",
-  "LastChanged_Achievements": "2023-12-25T06:10:50.7780201+00:00",
+  "LastChanged_Achievements": "2023-12-25T07:10:57.3578793+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:57:15.0462664+00:00",
-  "LastUpdate_Achievements": "2023-12-25T06:10:50.7780776+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:57:15.6170743+00:00",
+  "LastUpdate_Achievements": "2023-12-25T07:10:57.3579503+00:00"
 }
