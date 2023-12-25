@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 373)  
+Rating: 4.62 (Ranked 374)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,10 +49,10 @@ Rating: 4.62 (Ranked 373)
 | Dawn of the Dread | 1.00% | ~62 |
 | The Goddess of Nature | 0.90% | ~56 |
 | I've Got Everything I Need Right Here | 0.80% | ~49 |
+| Manufactured War | 0.80% | ~49 |
 | Pruning for Progress | 0.80% | ~49 |
 | Grexolis | 0.80% | ~49 |
 | One for All, All for One | 0.80% | ~49 |
-| Manufactured War | 0.70% | ~43 |
 | Duality | 0.70% | ~43 |
 | Betrayal Most Foul | 0.50% | ~31 |
 | Snap Out of It! | 0.30% | ~19 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,176 (Ranked 193)  
+Progressed: 6,178 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
 | 2023-12-24 | 6,152 | 7 |
-| 2023-12-25 | 6,176 | 7 |
+| 2023-12-25 | 6,178 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
 Sum: 136 (Ranked 437)  

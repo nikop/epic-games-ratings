@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3907,
+  "EOS_Progressed": 3908,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5112,6 +5112,11 @@
       "Time": "2023-12-24T22:04:44.4895471+00:00",
       "NumProgressed": 3907,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-25T14:04:15.3545466+00:00",
+      "NumProgressed": 3908,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5131,7 +5136,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "bonus3",
@@ -5171,7 +5176,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "campaign10",
@@ -5179,7 +5184,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "campaign11",
@@ -5195,7 +5200,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "campaign13",
@@ -5227,7 +5232,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "campaign17",
@@ -5259,7 +5264,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "campaign20",
@@ -5275,7 +5280,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "campaign4",
@@ -5386,7 +5391,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3907,
+      "Progressed": 3908,
       "Completed": 11
     }
   ],
@@ -5394,8 +5399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:32.1320517+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:15.3545462+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:05:13.3021236+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:32.1320894+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:00:19.0370336+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:15.3545948+00:00"
 }

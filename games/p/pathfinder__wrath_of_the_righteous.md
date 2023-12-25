@@ -6,34 +6,34 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,442 |
-| A Spark | 19.00% | ~2,422 |
+| Devoured by Darkness | 27.00% | ~3,443 |
+| A Spark | 19.00% | ~2,423 |
 | Burning City | 18.00% | ~2,295 |
 | Defender's Heart | 16.00% | ~2,040 |
-| Mythic Choices | 15.00% | ~1,912 |
+| Mythic Choices | 15.00% | ~1,913 |
 | Banner over the Citadel | 14.00% | ~1,785 |
 | Queen's Gratitude | 12.00% | ~1,530 |
-| Fifth Crusade | 9.00% | ~1,147 |
-| Embrace of the Abyss | 7.00% | ~892 |
-| Path of the Angel | 7.00% | ~892 |
-| Demonic and Divine | 7.00% | ~892 |
+| Fifth Crusade | 9.00% | ~1,148 |
+| Embrace of the Abyss | 7.00% | ~893 |
+| Path of the Angel | 7.00% | ~893 |
+| Demonic and Divine | 7.00% | ~893 |
 | Great Upstart | 6.00% | ~765 |
 | All Paths Open | 6.00% | ~765 |
-| Path of the Azata | 5.00% | ~637 |
-| Transformation | 5.00% | ~637 |
-| The Legacy | 5.00% | ~637 |
-| Voice from Your Dreams | 5.00% | ~637 |
-| Next-Door Play | 5.00% | ~637 |
-| Get the Toad | 5.00% | ~637 |
+| Path of the Azata | 5.00% | ~638 |
+| Transformation | 5.00% | ~638 |
+| The Legacy | 5.00% | ~638 |
+| Voice from Your Dreams | 5.00% | ~638 |
+| Next-Door Play | 5.00% | ~638 |
+| Get the Toad | 5.00% | ~638 |
 | Heart of the Fallen Land | 4.00% | ~510 |
 | Divide and Rule | 4.00% | ~510 |
 | Mythic Reinforcements | 4.00% | ~510 |
 | A Flame | 4.00% | ~510 |
 | Hey, I Know You! | 4.00% | ~510 |
-| Path of the Trickster | 3.00% | ~382 |
-| Path of the Lich | 3.00% | ~382 |
-| Heroic Victory | 3.00% | ~382 |
-| Core of the Riddle | 3.00% | ~382 |
+| Path of the Trickster | 3.00% | ~383 |
+| Path of the Lich | 3.00% | ~383 |
+| Heroic Victory | 3.00% | ~383 |
+| Core of the Riddle | 3.00% | ~383 |
 | Hanged Man's Notes | 3.00% | ~346 |
 | Sarkoris Will Be Green | 3.00% | ~346 |
 | The Lady of the Forest | 3.00% | ~346 |
@@ -44,12 +44,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~255 |
 | Truly Important Deed | 2.00% | ~255 |
 | Stay Underground | 2.00% | ~231 |
-| The Final Threshold | 1.00% | ~127 |
-| Path of the Dragon | 1.00% | ~127 |
-| Path of the Legend | 1.00% | ~127 |
-| Strategic Victory | 1.00% | ~127 |
-| Abyssal Conspiracy | 1.00% | ~127 |
-| Truly Profane Gift | 1.00% | ~127 |
+| The Final Threshold | 1.00% | ~128 |
+| Path of the Dragon | 1.00% | ~128 |
+| Path of the Legend | 1.00% | ~128 |
+| Strategic Victory | 1.00% | ~128 |
+| Abyssal Conspiracy | 1.00% | ~128 |
+| Truly Profane Gift | 1.00% | ~128 |
 | This Wall Won't Fall | 1.00% | ~115 |
 | Not the Last Sarkorian | 1.00% | ~115 |
 | End of Eternal Guard | 0.90% | ~115 |
@@ -60,8 +60,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Ashes to Ashes | 0.40% | ~51 |
 | Masterful Dispel | 0.30% | ~38 |
 | Just Pathetic | 0.30% | ~38 |
-| Path of the Swarm | 0.20% | ~25 |
-| Spirit of Adventure | 0.20% | ~25 |
+| Path of the Swarm | 0.20% | ~26 |
+| Spirit of Adventure | 0.20% | ~26 |
 | Equal to Aroden | 0.10% | ~13 |
 | Test of the Starstone | 0.10% | ~13 |
 | Masterful Craftsmanship | 0.10% | ~13 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,749 (Ranked 169)  
+Progressed: 12,752 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,7 +372,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 12,617 | 0 |
 | 2023-12-23 | 12,670 | 0 |
 | 2023-12-24 | 12,716 | 0 |
-| 2023-12-25 | 12,749 | 0 |
+| 2023-12-25 | 12,752 | 0 |
 ## Awards
 Max (Character Customization): 1,769  (Ranked 124)  
 Sum: 7,165 (Ranked 123)  

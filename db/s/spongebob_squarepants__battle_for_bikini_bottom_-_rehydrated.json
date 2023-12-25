@@ -5,9 +5,9 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 356,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1011,6 +1011,11 @@
       "Time": "2023-12-25T13:08:12.9477488+00:00",
       "NumProgressed": 354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T14:04:01.7317202+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1133,9 +1138,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1197,9 +1202,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1245,9 +1250,9 @@
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
       "SetID": "biiejkc",
       "Name": "Squirrel Smasher",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1278,15 +1283,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 356,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:12.9477483+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:01.7317198+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:02:26.1260925+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:12.9477757+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:58:29.0428709+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:01.7317421+00:00"
 }

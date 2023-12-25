@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.74,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -386,6 +386,11 @@
       "Time": "2023-12-24T06:04:51.6505116+00:00",
       "NumProgressed": 89,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T14:04:29.0626715+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -395,9 +400,9 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "aq_achievement_10",
@@ -483,7 +488,7 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -499,7 +504,7 @@
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 55,
       "UsersEstimate": 22
     },
@@ -571,7 +576,7 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -635,7 +640,7 @@
       "ID": "aq_achievement_37",
       "SetID": "7jh86ne",
       "Name": "Guilty conscience",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 13
     },
@@ -659,7 +664,7 @@
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -675,7 +680,7 @@
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -708,7 +713,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 6
     }
   ],
@@ -716,8 +721,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:51.2849779+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:29.0626711+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:57.2404374+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:44.4166577+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:51.2850035+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:00:01.0026438+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:29.0626942+00:00"
 }

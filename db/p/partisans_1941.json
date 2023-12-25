@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1891,
+  "EOS_Progressed": 1892,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4594,6 +4594,11 @@
       "Time": "2023-12-25T12:09:11.5200985+00:00",
       "NumProgressed": 1891,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T14:09:22.4109015+00:00",
+      "NumProgressed": 1892,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4693,7 +4698,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Experienced_strategist",
@@ -4733,7 +4738,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "High_noon",
@@ -4844,15 +4849,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1891,
+      "Progressed": 1892,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:13:28.0101558+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:09:22.4109012+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:06:31.4164365+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:13:28.0101919+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:02:41.644961+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:09:22.4109458+00:00"
 }

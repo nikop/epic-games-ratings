@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_Completed_Percentage": 5.23,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -779,6 +779,11 @@
       "Time": "2023-12-25T12:09:38.211967+00:00",
       "NumProgressed": 171,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-25T14:09:48.3700372+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -791,7 +796,7 @@
       "Name": "Follow to the brother",
       "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "creepytaleach10",
@@ -799,7 +804,7 @@
       "Name": "Intuition",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "creepytaleach11",
@@ -807,7 +812,7 @@
       "Name": "Alchemist",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "creepytaleach12",
@@ -823,15 +828,15 @@
       "Name": "True fisherman",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "creepytaleach3",
@@ -839,7 +844,7 @@
       "Name": "Happy end",
       "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "creepytaleach4",
@@ -853,9 +858,9 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "creepytaleach6",
@@ -894,14 +899,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:14:04.9986922+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:09:48.3700368+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.7348534+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:03:38.7108625+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:14:04.9987114+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:59:17.811106+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:09:48.3700508+00:00"
 }

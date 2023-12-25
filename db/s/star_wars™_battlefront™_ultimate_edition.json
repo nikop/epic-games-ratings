@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2138,
+  "EOS_Progressed": 2140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6159,6 +6159,11 @@
       "Time": "2023-12-25T11:10:27.2617107+00:00",
       "NumProgressed": 2138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T14:09:57.9047703+00:00",
+      "NumProgressed": 2140,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6275,7 +6280,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_22",
@@ -6395,7 +6400,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1883
     },
     {
       "ID": "achievement_36",
@@ -6411,7 +6416,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "achievement_38",
@@ -6443,7 +6448,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "achievement_41",
@@ -6475,7 +6480,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "achievement_45",
@@ -6674,13 +6679,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2138,
+      "Progressed": 2140,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2138,
+      "Progressed": 2140,
       "Completed": 1
     }
   ],
@@ -6688,8 +6693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:14:17.9303841+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:09:57.90477+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:54.3725664+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:14:17.9304814+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:00:06.6556363+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:09:57.9048422+00:00"
 }

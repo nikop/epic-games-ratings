@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -3822,9 +3822,9 @@
       "ID": "KRAINA_GRZYBOW_1",
       "SetID": "bf13m8j",
       "Name": "Kraina Grzybow",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 149
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3998,8 +3998,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:14:07.3524377+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:09:50.2825765+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:05:17.2320744+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:14:07.3524788+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:00:21.6571918+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:09:50.2826151+00:00"
 }

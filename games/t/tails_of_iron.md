@@ -23,9 +23,9 @@ Rating: 4.56 (Ranked 496)
 | Rescue Redgi's Brothers | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
 | Defeat Croakhis Khan | 0.60% | ~6 |
+| I Remember My First Beer | 0.60% | ~6 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |
-| I Remember My First Beer | 0.50% | ~5 |
 | Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Defeat Ratnor Rodentson | 0.40% | ~9 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 496)
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,281 (Ranked 232)  
-Completed: 12 (0.53%) (Ranked 213)  
+Completed: 12 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

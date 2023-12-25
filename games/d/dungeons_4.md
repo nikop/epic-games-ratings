@@ -28,8 +28,8 @@
 | The Cathedral of Light | 47.00% | ~298 |
 | Shame! Shame! Shame! | 46.00% | ~292 |
 | Pure Dynamite! | 45.00% | ~286 |
+| Tanos' Crusade Against Thalya | 45.00% | ~286 |
 | Dungeonlord Gorgu | 44.00% | ~279 |
-| Tanos' Crusade Against Thalya | 44.00% | ~279 |
 | Mana Cannon | 41.00% | ~260 |
 | All’s Well That Ends Evil | 40.00% | ~254 |
 | The Duel | 37.00% | ~235 |

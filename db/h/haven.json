@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,11 +183,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1769,
+  "EOS_Progressed": 1770,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -2898,6 +2898,11 @@
       "Time": "2023-12-25T12:03:48.8910633+00:00",
       "NumProgressed": 1769,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T14:03:52.4947822+00:00",
+      "NumProgressed": 1770,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2965,7 +2970,7 @@
       "Name": "My little pony",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "17",
@@ -2973,7 +2978,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "18",
@@ -3037,7 +3042,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "25",
@@ -3067,9 +3072,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 690
     },
     {
       "ID": "30",
@@ -3148,15 +3153,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1769,
+      "Progressed": 1770,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:01.0775152+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:03:52.4947818+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:02:07.1238003+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:01.0775753+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:58:16.46709+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:03:52.4948179+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FirstTry",
@@ -436,9 +436,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "HideAndSeek",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:09:14.51093+00:00",
-  "LastUpdate_AppInfo": "2023-12-18T13:57:00.6991865+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:00:52.0337426+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:09:14.5109444+00:00"
+  "LastChanged_Achievements": "2023-12-25T14:04:46.1083457+00:00",
+  "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
+  "LastUpdate_Ratings": "2023-12-25T13:57:26.8492073+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:46.108359+00:00"
 }

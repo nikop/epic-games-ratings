@@ -2,10 +2,10 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -1352,6 +1352,11 @@
       "Time": "2023-12-25T12:05:12.536636+00:00",
       "NumProgressed": 491,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T14:05:17.2431838+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1428,7 +1433,7 @@
       "Name": "Perfect Run",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1466,9 +1471,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 394
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1500,7 +1505,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1508,7 +1513,7 @@
       "Name": "Koco Leader",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1540,7 +1545,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1556,7 +1561,7 @@
       "Name": "The Journey Begins",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1612,7 +1617,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1628,7 +1633,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1676,21 +1681,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:10:00.140052+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:05:17.2431834+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:06:47.8315012+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:10:00.140083+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:02:51.6485674+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:05:17.2432196+00:00"
 }

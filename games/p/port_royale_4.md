@@ -6,9 +6,9 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~898 |
+| Cabin boy | 80.00% | ~899 |
 | My little farm | 64.00% | ~719 |
-| Every beginning is difficult | 63.00% | ~707 |
+| Every beginning is difficult | 62.00% | ~697 |
 | Gofer | 56.00% | ~629 |
 | 3, 2, 1, mine | 55.00% | ~618 |
 | O Captain! My Captain! | 55.00% | ~618 |
@@ -20,7 +20,7 @@ Number of Ratings: 53  (23.09.2022)
 | Licence to Kill | 37.00% | ~416 |
 | Pirates! | 34.00% | ~382 |
 | Collectionitis | 29.00% | ~326 |
-| Megalomania | 28.00% | ~314 |
+| Megalomania | 28.00% | ~315 |
 | Christening | 27.00% | ~303 |
 | Groundskeeper | 25.00% | ~281 |
 | Wholesale | 22.00% | ~247 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~8 |
 | Davy Jones' locker | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,123 (Ranked 276)  
+Progressed: 1,124 (Ranked 276)  
 Completed: 1 (0.09%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 1 (0.09%) (Ranked 314)
 | 2023-12-22 | 1,113 | 1 |
 | 2023-12-23 | 1,116 | 1 |
 | 2023-12-24 | 1,122 | 1 |
-| 2023-12-25 | 1,123 | 1 |
+| 2023-12-25 | 1,124 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

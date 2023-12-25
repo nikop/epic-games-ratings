@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1014,
+  "EOS_Progressed": 1015,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -2452,6 +2452,11 @@
       "Time": "2023-12-25T10:04:26.3327563+00:00",
       "NumProgressed": 1014,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T14:04:21.6885416+00:00",
+      "NumProgressed": 1015,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2520,7 +2525,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "CompleteChapter10",
@@ -2552,7 +2557,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "CompleteChapter14",
@@ -2624,7 +2629,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "CompleteChapter5",
@@ -2712,7 +2717,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2759,14 +2764,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1014,
+      "Progressed": 1015,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:41.4155789+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:21.688541+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:25.9725117+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:41.4156068+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:59:48.7037421+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:21.6885698+00:00"
 }

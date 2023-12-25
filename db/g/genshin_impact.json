@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -15999,10 +15999,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1467644,
       "NumberOfAwardsMax": 321596
+    },
+    {
+      "Time": "2023-12-25T14:02:40.0107857+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1467828,
+      "NumberOfAwardsMax": 321596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1467644,
+  "NumberOfAwards": 1467828,
   "NumberOfAwardsMax": 321596,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16016,7 +16022,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 157528
+      "Count": 157662
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16064,7 +16070,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 115659
+      "Count": 115709
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -16084,8 +16090,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-12-25T12:02:48.2267622+00:00",
+  "LastChanged": "2023-12-25T14:02:40.0107856+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:43.8883555+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:06:29.1694771+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:09:48.0830689+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:02:40.0107861+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:05:08.6722972+00:00"
 }

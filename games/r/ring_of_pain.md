@@ -8,8 +8,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Steps | 1.00% | ~2,417 |
 | Uncharted Territory | 1.00% | ~2,417 |
-| Matching | 1.00% | ~31 |
-| Getting A Glimpse | 0.80% | ~1,933 |
+| Matching | 1.00% | ~32 |
+| Getting A Glimpse | 0.90% | ~2,175 |
 | That Was Quick | 0.80% | ~1,933 |
 | Colorful Corpse | 0.80% | ~1,933 |
 | Defeat The Dark | 0.80% | ~1,933 |
@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.70% | ~1,692 |
 | Goodbye, Frog Friend | 0.70% | ~1,692 |
 | Heartless | 0.70% | ~1,692 |
+| What's Yours Is Mine | 0.70% | ~1,692 |
 | Spine Breaker | 0.70% | ~1,692 |
 | A Donation | 0.70% | ~1,692 |
 | C-C-Combo | 0.70% | ~1,692 |
@@ -34,7 +35,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.60% | ~1,450 |
 | I Am Overburdened | 0.60% | ~1,450 |
 | The Bestiary | 0.60% | ~1,450 |
-| What's Yours Is Mine | 0.60% | ~1,450 |
 | Shootout | 0.60% | ~1,450 |
 | Stone Touch | 0.60% | ~1,450 |
 | Toxic | 0.60% | ~1,450 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,666 (Ranked 68)  
+Progressed: 241,670 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 301 (0.12%) (Ranked 300)
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
-| 2023-12-25 | 241,666 | 301 |
+| 2023-12-25 | 241,670 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

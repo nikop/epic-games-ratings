@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -544,9 +544,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -616,9 +616,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -632,9 +632,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -727,8 +727,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:13:56.6799657+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:09:42.5420568+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:47.989341+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:13:56.679978+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:00:03.1167041+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:09:42.542074+00:00"
 }

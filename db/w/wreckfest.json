@@ -5,10 +5,10 @@
   "Ranking_Rating": 882,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1039,6 +1039,11 @@
       "Time": "2023-12-25T12:08:22.9180871+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T14:08:35.1744813+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1051,7 +1056,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CareerAllChallenges",
@@ -1059,7 +1064,7 @@
       "Name": "Highballer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CareerChamp1",
@@ -1067,7 +1072,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "CareerChamp2",
@@ -1075,7 +1080,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CareerChamp3",
@@ -1083,7 +1088,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CareerChamp4",
@@ -1107,7 +1112,7 @@
       "Name": "Storm Warning",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 196
     },
     {
       "ID": "CollectVehiclesA",
@@ -1115,7 +1120,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CollectVehiclesB",
@@ -1123,7 +1128,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CreditsEarnedA",
@@ -1137,7 +1142,7 @@
       "ID": "GetWreckedA",
       "SetID": "5hd282c",
       "Name": "Glutton For Punishment",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1163,7 +1168,7 @@
       "Name": "Dirty Roller",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PlayerRankB",
@@ -1171,7 +1176,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "PlayerRankC",
@@ -1193,9 +1198,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1210,7 +1215,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 356,
       "Completed": 0
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:12:21.9008496+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:08:35.1744809+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:01.9669735+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:12:21.9008713+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:59:31.7636608+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:08:35.1744953+00:00"
 }

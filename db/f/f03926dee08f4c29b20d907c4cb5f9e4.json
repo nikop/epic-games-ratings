@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_26_BALLOON_PARTY",
@@ -595,9 +595,9 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:28.4828979+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:12.8030259+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.0678113+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:43.4850148+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:28.4829418+00:00"
+  "LastUpdate_Ratings": "2023-12-25T14:00:00.3892911+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:12.803051+00:00"
 }

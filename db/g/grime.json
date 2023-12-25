@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1729,10 +1729,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164408,
-  "EOS_Completed": 403,
-  "EOS_NewPlayers": 1241,
-  "EOS_NewCompleters": 58,
+  "EOS_Progressed": 164419,
+  "EOS_Completed": 404,
+  "EOS_NewPlayers": 1247,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20549,6 +20549,11 @@
       "Time": "2023-12-25T13:08:48.4754918+00:00",
       "NumProgressed": 164408,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-12-25T14:04:27.0655324+00:00",
+      "NumProgressed": 164419,
+      "NumCompleted": 404
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20697,7 +20702,7 @@
       "Name": "Harmless",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -20753,7 +20758,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -20928,21 +20933,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163991,
+      "Progressed": 164002,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164408,
-      "Completed": 403
+      "Progressed": 164419,
+      "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-24T03:57:44.1190154+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:08:48.4754915+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:27.0655321+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:02:00.8364045+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:08:48.4755935+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:58:12.174097+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:27.0656676+00:00"
 }

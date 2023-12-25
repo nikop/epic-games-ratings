@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -241,9 +241,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3031,6 +3031,11 @@
       "Time": "2023-12-25T09:03:32.027463+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T14:03:16.940109+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3099,7 +3104,7 @@
       "Name": "Bridge Builder",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ChasingTheLight",
@@ -3163,7 +3168,7 @@
       "Name": "Excellent",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "FloodedValley",
@@ -3451,7 +3456,7 @@
       "Name": "The Word Endures",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "TouchGrass",
@@ -3467,7 +3472,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "VerdantCanyon",
@@ -3507,14 +3512,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 2
     }
   ],
@@ -3522,8 +3527,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:07:25.2601567+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:03:16.9401085+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:02:21.189608+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:07:25.2602348+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:58:25.7988919+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:03:16.9401639+00:00"
 }

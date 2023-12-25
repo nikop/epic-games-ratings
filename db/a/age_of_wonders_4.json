@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6176,
+  "EOS_Progressed": 6178,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9122,6 +9122,11 @@
       "Time": "2023-12-25T13:07:15.5528994+00:00",
       "NumProgressed": 6176,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T14:03:10.532738+00:00",
+      "NumProgressed": 6178,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9379,9 +9384,9 @@
       "ID": "38",
       "SetID": "3aa2279",
       "Name": "Manufactured War",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "39",
@@ -9612,13 +9617,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6176,
+      "Progressed": 6178,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6176,
+      "Progressed": 6178,
       "Completed": 7
     }
   ],
@@ -9626,8 +9631,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:07:15.552899+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:03:10.5327376+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:03:30.8850233+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:07:15.5529887+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:59:12.600162+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:03:10.5328412+00:00"
 }

@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.50% | ~80 |
 | Architect | 0.40% | ~64 |
 | Intrepid | 0.40% | ~64 |
+| Mason | 0.40% | ~64 |
 | Friendly Family | 0.40% | ~64 |
 | Able | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
@@ -19,10 +20,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.30% | ~48 |
 | Keystone | 0.30% | ~48 |
 | Learned | 0.30% | ~48 |
-| Mason | 0.30% | ~48 |
 | Noble | 0.30% | ~48 |
 | Pioneer | 0.30% | ~48 |
 | Strong | 0.30% | ~48 |
+| Warrior | 0.30% | ~48 |
+| Developing Cities | 0.30% | ~48 |
+| Strong Cities | 0.30% | ~48 |
 | Hanging Gardens | 0.30% | ~48 |
 | Oracle | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
@@ -31,20 +34,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Ambitious | 0.20% | ~32 |
+| Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
 | Fountainhead | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
 | Intercessor | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
-| Warrior | 0.20% | ~32 |
 | Wise | 0.20% | ~32 |
-| Developing Cities | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
-| Strong Cities | 0.20% | ~32 |
 | Able Difficulty | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
+| Sages | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
 | Apadana | 0.20% | ~32 |
@@ -62,8 +64,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.20% | ~32 |
 | Babylonian Paganism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
+| Egyptian Paganism | 0.20% | ~32 |
 | Roman Paganism | 0.20% | ~32 |
 | Zoroastrianism | 0.20% | ~32 |
+| Building Wonders | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
@@ -102,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
 | Avenger | 0.10% | ~16 |
-| Beloved | 0.10% | ~16 |
 | Capable | 0.10% | ~16 |
 | Conqueror | 0.10% | ~16 |
 | Destroyer | 0.10% | ~16 |
@@ -133,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.10% | ~16 |
 | Patrons | 0.10% | ~16 |
 | Riders | 0.10% | ~16 |
-| Sages | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
@@ -191,12 +193,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
-| Egyptian Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
 | Persian Paganism | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
-| Building Wonders | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
 | Economic Reform | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,938 (Ranked 162)  
+Progressed: 15,940 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,938 | 5 |
+| 2023-12-25 | 15,940 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

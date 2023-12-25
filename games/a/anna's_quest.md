@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 76.00% | ~68 |
+| Escape artist | 77.00% | ~69 |
 | Ooh, it's shiny! | 49.00% | ~44 |
 | Book Worm | 48.00% | ~43 |
 | Fussy eater | 36.00% | ~32 |
-| My lost nightingale | 35.00% | ~31 |
-| Through the woods | 34.00% | ~30 |
-| Back to the anvil | 33.00% | ~29 |
-| Kekekeke... | 33.00% | ~29 |
+| My lost nightingale | 34.00% | ~31 |
+| Through the woods | 33.00% | ~30 |
+| Back to the anvil | 32.00% | ~29 |
+| Kekekeke... | 32.00% | ~29 |
 | Mystery solved | 31.00% | ~28 |
 | Honey, honey, honey… | 31.00% | ~28 |
 | So soothing... | 31.00% | ~28 |
@@ -30,7 +30,7 @@
 | Mischief maker | 26.00% | ~23 |
 | No posters allowed | 26.00% | ~23 |
 | Little genius | 26.00% | ~23 |
-| Turn the last page | 25.00% | ~22 |
+| Turn the last page | 24.00% | ~22 |
 | Pain in the hands | 22.00% | ~20 |
 | Kill it! KILL IT! | 21.00% | ~19 |
 | Ring-a-ding-ding | 20.00% | ~18 |
@@ -39,13 +39,13 @@
 | Makeover | 17.00% | ~15 |
 | Singstar | 17.00% | ~15 |
 | Cameodalic | 17.00% | ~15 |
-| Guilty conscience | 15.00% | ~13 |
+| Guilty conscience | 14.00% | ~13 |
 | Clever reference #451 | 13.00% | ~12 |
 | What a mess | 10.00% | ~9 |
 | Posterboy! | 8.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 490)  
-Completed: 6 (6.74%) (Ranked 62)  
+Progressed: 90 (Ranked 490)  
+Completed: 6 (6.67%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 6 (6.74%) (Ranked 62)
 | 2023-12-20 | 87 | 6 |
 | 2023-12-21 | 88 | 6 |
 | 2023-12-24 | 89 | 6 |
+| 2023-12-25 | 90 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

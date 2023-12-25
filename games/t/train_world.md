@@ -55,7 +55,7 @@
 | Industrial Revolution | 0.00% | ~0 |
 | Double Trouble | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 610)  
+Progressed: 21 (Ranked 607)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 18 | 0 |
 | 2023-12-23 | 19 | 0 |
 | 2023-12-24 | 20 | 0 |
+| 2023-12-25 | 21 | 0 |

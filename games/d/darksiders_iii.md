@@ -6,73 +6,73 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~131 |
-| First of many… | 67.00% | ~113 |
-| Helping Hand | 66.00% | ~111 |
-| Increased Vigor | 61.00% | ~102 |
-| Fight Fire with Fire | 60.00% | ~101 |
-| Increased Capacity | 54.00% | ~91 |
-| Just the start | 51.00% | ~86 |
-| Perfect Storm | 46.00% | ~77 |
-| All That Glitters | 46.00% | ~77 |
-| Enhance! | 43.00% | ~72 |
-| One Of the Chosen | 39.00% | ~66 |
-| Throne Potato | 39.00% | ~66 |
-| Devil's in the Details | 38.00% | ~64 |
-| 25 to Life | 37.00% | ~62 |
-| Soul Harvester | 35.00% | ~59 |
-| Five's a Crowd | 35.00% | ~59 |
-| Salvation | 34.00% | ~57 |
-| Unshakable Fortitude | 33.00% | ~55 |
-| Delusions of Grandeur | 32.00% | ~54 |
-| I Wanna Rock | 31.00% | ~52 |
-| Love Tap | 30.00% | ~50 |
-| Maximum Vigor | 29.00% | ~49 |
-| Freeze Frame | 29.00% | ~49 |
-| Eat Your Heart Out | 29.00% | ~49 |
-| For Whom the Bell Tolls | 27.00% | ~45 |
-| Unyielding Strength | 24.00% | ~40 |
-| Can you restore the Balance? | 22.00% | ~37 |
-| Cleanup Crew | 21.00% | ~35 |
-| Crowd Source | 21.00% | ~35 |
-| Big Spender | 21.00% | ~35 |
+| Green with Envy | 77.00% | ~132 |
+| First of many… | 66.00% | ~113 |
+| Helping Hand | 65.00% | ~111 |
+| Increased Vigor | 60.00% | ~103 |
+| Fight Fire with Fire | 59.00% | ~101 |
+| Increased Capacity | 54.00% | ~92 |
+| Just the start | 50.00% | ~86 |
+| Perfect Storm | 46.00% | ~79 |
+| All That Glitters | 46.00% | ~79 |
+| Enhance! | 43.00% | ~74 |
+| One Of the Chosen | 40.00% | ~68 |
+| Throne Potato | 39.00% | ~67 |
+| Devil's in the Details | 37.00% | ~63 |
+| 25 to Life | 37.00% | ~63 |
+| Soul Harvester | 35.00% | ~60 |
+| Five's a Crowd | 35.00% | ~60 |
+| Salvation | 34.00% | ~58 |
+| Unshakable Fortitude | 33.00% | ~56 |
+| Delusions of Grandeur | 32.00% | ~55 |
+| I Wanna Rock | 31.00% | ~53 |
+| Love Tap | 30.00% | ~51 |
+| Maximum Vigor | 29.00% | ~50 |
+| Freeze Frame | 29.00% | ~50 |
+| Eat Your Heart Out | 29.00% | ~50 |
+| For Whom the Bell Tolls | 27.00% | ~46 |
+| Unyielding Strength | 24.00% | ~41 |
+| Cleanup Crew | 22.00% | ~38 |
+| Can you restore the Balance? | 22.00% | ~38 |
+| Crowd Source | 22.00% | ~38 |
+| Big Spender | 22.00% | ~38 |
 | Maximum Capacity | 20.00% | ~34 |
-| Demon Meddler | 18.00% | ~30 |
-| Seeing Red | 18.00% | ~30 |
+| Demon Meddler | 18.00% | ~31 |
+| Seeing Red | 18.00% | ~31 |
 | Egomaniac | 17.00% | ~29 |
-| Protector of Humanity | 15.00% | ~25 |
-| Everybody Wants to Rule the World | 15.00% | ~25 |
+| Protector of Humanity | 15.00% | ~26 |
+| Everybody Wants to Rule the World | 15.00% | ~26 |
 | Community Outreach | 13.00% | ~22 |
-| Path of the Horseman | 12.00% | ~20 |
-| Unbreakable Will | 11.00% | ~18 |
-| A Parting Gift | 11.00% | ~18 |
-| Take it to the Limit | 11.00% | ~18 |
-| Holy Keeper | 10.00% | ~17 |
+| Unbreakable Will | 12.00% | ~21 |
+| A Parting Gift | 12.00% | ~21 |
+| Path of the Horseman | 12.00% | ~21 |
+| Take it to the Limit | 12.00% | ~21 |
+| Holy Keeper | 11.00% | ~19 |
 | Demon Keeper | 9.00% | ~15 |
+| Soul Reaper | 9.00% | ~15 |
 | Humanitarian | 9.00% | ~15 |
-| Soul Reaper | 8.00% | ~13 |
-| My Evil Twin | 7.00% | ~12 |
-| Keeper of the Bonfire | 5.00% | ~8 |
-| Keeper of the Vale | 5.00% | ~8 |
-| Keeper of the Sky | 5.00% | ~8 |
-| Keep it 100! | 5.00% | ~8 |
-| Made of Sterner Stuff | 5.00% | ~8 |
-| Purity of Power | 4.00% | ~7 |
+| My Evil Twin | 8.00% | ~14 |
+| Keeper of the Bonfire | 6.00% | ~10 |
+| Keeper of the Sky | 6.00% | ~10 |
+| Purity of Power | 5.00% | ~9 |
+| Keeper of the Vale | 5.00% | ~9 |
+| Keep it 100! | 5.00% | ~9 |
+| Made of Sterner Stuff | 5.00% | ~9 |
 | Balance in all things | 4.00% | ~7 |
+| "Impressive!" | 4.00% | ~7 |
 | Keeper of Colossal Automata | 4.00% | ~7 |
 | Keeper of the Tempo | 4.00% | ~7 |
-| "Impressive!" | 3.00% | ~5 |
+| BFA | 4.00% | ~7 |
 | "Incredible!" | 3.00% | ~5 |
 | Proceed on your way to Armageddon | 3.00% | ~5 |
-| BFA | 3.00% | ~5 |
 | "Amazing!" | 2.00% | ~3 |
 | Death Incarnate | 2.00% | ~3 |
 | Quite Proper | 1.00% | ~2 |
 | "Apocalyptic!" | 1.00% | ~2 |
 | Beast Mode | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 428)  
-Completed: 1 (0.60%) (Ranked 201)  
+Progressed: 171 (Ranked 427)  
+Completed: 1 (0.58%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 1 (0.60%) (Ranked 201)
 | 2023-12-22 | 84 | 0 |
 | 2023-12-23 | 121 | 1 |
 | 2023-12-24 | 159 | 1 |
-| 2023-12-25 | 168 | 1 |
+| 2023-12-25 | 171 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 384)  
 Sum: 94 (Ranked 462)  

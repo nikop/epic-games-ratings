@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10113,
+  "EOS_Progressed": 10114,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13287,6 +13287,11 @@
       "Time": "2023-12-25T12:04:51.5995544+00:00",
       "NumProgressed": 10113,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T14:04:56.1873865+00:00",
+      "NumProgressed": 10114,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -13298,7 +13303,7 @@
       "Name": "Adventure Time",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7585
+      "UsersEstimate": 7586
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -13322,7 +13327,7 @@
       "Name": "Clips and Crits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -13330,7 +13335,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -13394,7 +13399,7 @@
       "Name": "Guardian Angel",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -13442,7 +13447,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8697
+      "UsersEstimate": 8698
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13450,7 +13455,7 @@
       "Name": "Light My Fire",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -13498,7 +13503,7 @@
       "Name": "Photogenic",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 8394
+      "UsersEstimate": 8395
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -13506,7 +13511,7 @@
       "Name": "Playing With Power",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 7382
+      "UsersEstimate": 7383
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -13514,7 +13519,7 @@
       "Name": "Plug It In",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -13554,7 +13559,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -13602,7 +13607,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8091
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -13666,7 +13671,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4248
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -13690,22 +13695,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5461
+      "UsersEstimate": 5462
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10113,
+      "Progressed": 10114,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:09:28.7263236+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:04:56.187386+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.6113768+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:03:22.3837175+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:09:28.7263974+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:59:06.9813999+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:04:56.1874846+00:00"
 }

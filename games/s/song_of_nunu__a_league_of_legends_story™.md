@@ -15,8 +15,8 @@ Rating: 4.50 (Ranked 603)
 | Krugmazing | 64.00% | ~851 |
 | The Fire Below the Mountain | 61.00% | ~811 |
 | Moneyball | 60.00% | ~798 |
+| No Bites | 55.00% | ~732 |
 | Iceborn | 55.00% | ~732 |
-| No Bites | 54.00% | ~718 |
 | Boom Things | 53.00% | ~705 |
 | Tear of Freedom | 52.00% | ~692 |
 | My Darkest Day | 48.00% | ~638 |
@@ -51,7 +51,7 @@ Rating: 4.50 (Ranked 603)
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,330 (Ranked 261)  
-Completed: 9 (0.68%) (Ranked 196)  
+Completed: 9 (0.68%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

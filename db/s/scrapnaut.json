@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -157,10 +157,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 567,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.53,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -1926,6 +1926,11 @@
       "Time": "2023-12-24T21:08:59.4972861+00:00",
       "NumProgressed": 567,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T14:09:08.6769034+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2135,9 +2140,9 @@
       "ID": "ACH_PERMADEATH",
       "SetID": "7c4cldc",
       "Name": "Invincible",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SMELTER",
@@ -2185,15 +2190,15 @@
       "ID": "7c4cldc",
       "IsBase": true,
       "Progressed": 567,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:32:19.6180607+00:00",
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:13:08.8257786+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:09:08.6769028+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:00:43.5971688+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:13:08.8258054+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:57:21.0840395+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:09:08.6769297+00:00"
 }

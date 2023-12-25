@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241666,
+  "EOS_Progressed": 241670,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29476,6 +29476,11 @@
       "Time": "2023-12-25T13:14:21.3364232+00:00",
       "NumProgressed": 241666,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-25T14:10:00.802831+00:00",
+      "NumProgressed": 241670,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29605,9 +29610,9 @@
       "ID": "DEPTH6",
       "SetID": "5l8oe0h",
       "Name": "Getting A Glimpse",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 2175
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -29989,9 +29994,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1692
     },
     {
       "ID": "KILLREFLECT10",
@@ -30583,20 +30588,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241666,
+      "Progressed": 241670,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3146,
+      "Progressed": 3150,
       "Completed": 413
     }
   ],
@@ -30604,8 +30609,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:14:21.336423+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:10:00.8028305+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:01:43.0016806+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:14:21.3366935+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:58:00.0576872+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:10:00.8030751+00:00"
 }

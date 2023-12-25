@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4447,9 +4447,9 @@
       "ID": "FirstBeer",
       "SetID": "cbf1i0c",
       "Name": "I Remember My First Beer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4478,8 +4478,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:10:18.6855921+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:05:30.1821668+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:04:25.4148265+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:10:18.6856289+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:59:48.3300443+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:05:30.1822125+00:00"
 }

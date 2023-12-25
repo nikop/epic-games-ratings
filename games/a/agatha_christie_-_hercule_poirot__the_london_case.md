@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 71.00% | ~46 |
-| Little ideas | 68.00% | ~44 |
-| The Ship | 62.00% | ~40 |
-| Seeking the truth | 49.00% | ~32 |
-| An old friend | 48.00% | ~31 |
-| The Gala | 46.00% | ~30 |
-| A curious gathering | 46.00% | ~30 |
-| Little grey cells | 45.00% | ~29 |
-| Impossible is possible | 45.00% | ~29 |
-| The Missing Magdalene | 45.00% | ~29 |
-| Arthur Hastings | 45.00% | ~29 |
-| Everything matters | 42.00% | ~27 |
-| An expert mediator | 40.00% | ~26 |
-| DI Hardwicke | 40.00% | ~26 |
-| Order and method | 37.00% | ~24 |
-| Betty Allen | 34.00% | ~22 |
-| The Investigation Begins | 31.00% | ~20 |
-| Ms. Camilla B. Culsham | 28.00% | ~18 |
-| Irene Court-Smyth | 28.00% | ~18 |
-| An odd series of events | 26.00% | ~17 |
-| The Apartment | 26.00% | ~17 |
-| Nathaniel Dryden | 25.00% | ~16 |
-| Bartholomew | 25.00% | ~16 |
+| Marc Allard | 70.00% | ~46 |
+| Little ideas | 67.00% | ~44 |
+| The Ship | 61.00% | ~40 |
+| Seeking the truth | 50.00% | ~33 |
+| An old friend | 48.00% | ~32 |
+| The Gala | 47.00% | ~31 |
+| A curious gathering | 47.00% | ~31 |
+| Little grey cells | 45.00% | ~30 |
+| Impossible is possible | 45.00% | ~30 |
+| The Missing Magdalene | 45.00% | ~30 |
+| Arthur Hastings | 45.00% | ~30 |
+| Everything matters | 42.00% | ~28 |
+| An expert mediator | 41.00% | ~27 |
+| DI Hardwicke | 41.00% | ~27 |
+| Order and method | 36.00% | ~24 |
+| Betty Allen | 35.00% | ~23 |
+| The Investigation Begins | 32.00% | ~21 |
+| Ms. Camilla B. Culsham | 29.00% | ~19 |
+| Irene Court-Smyth | 29.00% | ~19 |
+| An odd series of events | 27.00% | ~18 |
+| The Apartment | 27.00% | ~18 |
+| Nathaniel Dryden | 24.00% | ~16 |
+| Bartholomew | 24.00% | ~16 |
 | A rude awakening | 23.00% | ~15 |
 | The Scheme | 23.00% | ~15 |
-| Well-acquainted | 22.00% | ~14 |
-| Anastasia Babanin | 22.00% | ~14 |
-| Zakariya Demir | 22.00% | ~14 |
+| Well-acquainted | 21.00% | ~14 |
+| Anastasia Babanin | 21.00% | ~14 |
+| Zakariya Demir | 21.00% | ~14 |
 | Truth from within | 20.00% | ~13 |
 | A curious phrase | 18.00% | ~12 |
 | Evelyn Lakshmi Warbeck | 17.00% | ~11 |
@@ -51,8 +51,8 @@
 | A true performance | 11.00% | ~7 |
 | Perkins | 8.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 514)  
-Completed: 2 (3.08%) (Ranked 110)  
+Progressed: 66 (Ranked 514)  
+Completed: 2 (3.03%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,4 +100,4 @@ Completed: 2 (3.08%) (Ranked 110)
 | 2023-12-22 | 58 | 2 |
 | 2023-12-23 | 59 | 2 |
 | 2023-12-24 | 63 | 2 |
-| 2023-12-25 | 65 | 2 |
+| 2023-12-25 | 66 | 2 |

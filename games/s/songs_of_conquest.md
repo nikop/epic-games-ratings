@@ -6,17 +6,17 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 43.00% | ~318 |
-| Double Kill | 36.00% | ~266 |
-| Critical Hit | 19.00% | ~140 |
-| Veteran | 19.00% | ~140 |
+| Adept | 43.00% | ~319 |
+| Double Kill | 36.00% | ~267 |
+| Critical Hit | 19.00% | ~141 |
+| Veteran | 19.00% | ~141 |
 | Dressed For Success | 13.00% | ~96 |
+| Multi Kill | 8.00% | ~59 |
 | Sorcerous Spree | 8.00% | ~59 |
 | Humiliation | 8.00% | ~59 |
 | Veni, Vidi, Vici | 8.00% | ~59 |
-| Multi Kill | 7.00% | ~52 |
+| Master | 7.00% | ~52 |
 | Landlord Extraordinaire | 6.00% | ~44 |
-| Master | 6.00% | ~44 |
 | Whoops! | 5.00% | ~37 |
 | Don't Touch My Stuff | 4.00% | ~30 |
 | Trojan Horse | 4.00% | ~30 |
@@ -29,9 +29,9 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~15 |
 | Versatile Wielder | 1.00% | ~7 |
 | Infernal Influence | 1.00% | ~7 |
+| From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
 | Together For Her | 0.90% | ~7 |
-| From the Ashes | 0.90% | ~7 |
 | Grand Master | 0.90% | ~7 |
 | Unlimited Power! | 0.50% | ~4 |
 | In The Thick of It | 0.50% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 300)  
+Progressed: 741 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 665 | 0 |
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
-| 2023-12-25 | 739 | 0 |
+| 2023-12-25 | 741 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 529)  
 Sum: 194 (Ranked 414)  

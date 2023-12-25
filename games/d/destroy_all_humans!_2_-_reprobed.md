@@ -14,11 +14,11 @@ Number of Ratings: 90  (23.09.2022)
 | Bodied Sattva | 34.00% | ~63 |
 | Cult Following | 32.00% | ~60 |
 | Earthly Pleasures | 32.00% | ~60 |
-| Lie Back and Think of Albion | 24.00% | ~45 |
+| Lie Back and Think of Albion | 25.00% | ~46 |
 | Upgreatest | 24.00% | ~45 |
 | Pimp My Raid | 24.00% | ~45 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~33 |
-| Freshly Squeezed | 17.00% | ~32 |
+| Freshly Squeezed | 18.00% | ~33 |
 | Perfect Probulator | 16.00% | ~30 |
 | Die Nasty | 15.00% | ~28 |
 | Transmitting From Sol-3 | 13.00% | ~24 |

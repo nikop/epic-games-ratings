@@ -9,11 +9,11 @@
 | Mechanical Buddy | 70.00% | ~167 |
 | Dicesmithing Time! | 62.00% | ~148 |
 | Sanctuary Guardian | 54.00% | ~129 |
-| Endless Tricks | 48.00% | ~115 |
+| Endless Tricks | 49.00% | ~117 |
 | Wild's Keeper | 46.00% | ~110 |
 | Mind Illuminator | 42.00% | ~100 |
+| Stellar Dismantler | 34.00% | ~81 |
 | Noctuan Champion | 34.00% | ~81 |
-| Stellar Dismantler | 33.00% | ~79 |
 | Anomaly Destroyer | 31.00% | ~74 |
 | Astral Adventurer | 29.00% | ~69 |
 | Star Killer | 26.00% | ~62 |
@@ -47,6 +47,7 @@
 | Lacertian Hero | 4.00% | ~10 |
 | Noctuan Hero | 4.00% | ~10 |
 | Astrarium of Holding | 3.00% | ~7 |
+| Critical Twist | 3.00% | ~7 |
 | If I Had Failed... | 3.00% | ~7 |
 | Pocket Astrarium | 3.00% | ~7 |
 | Purification Avatar | 3.00% | ~7 |
@@ -57,7 +58,6 @@
 | Eridanian Hero | 3.00% | ~7 |
 | Lacertian Mastery | 3.00% | ~7 |
 | Astromancer | 2.00% | ~5 |
-| Critical Twist | 2.00% | ~5 |
 | Reflexive Mind | 2.00% | ~5 |
 | Sentinelphobic | 2.00% | ~5 |
 | The Raging Skies | 2.00% | ~5 |

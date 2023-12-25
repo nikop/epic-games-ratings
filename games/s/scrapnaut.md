@@ -36,10 +36,10 @@ Number of Ratings: 38  (23.09.2022)
 | Survival Master | 5.00% | ~28 |
 | Traveler | 3.00% | ~17 |
 | Forest Killer | 2.00% | ~11 |
-| Invincible | 0.40% | ~2 |
+| Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 567 (Ranked 327)  
-Completed: 3 (0.53%) (Ranked 213)  
+Completed: 4 (0.71%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,6 +202,7 @@ Completed: 3 (0.53%) (Ranked 213)
 | 2023-12-22 | 549 | 3 |
 | 2023-12-23 | 561 | 3 |
 | 2023-12-24 | 567 | 3 |
+| 2023-12-25 | 567 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

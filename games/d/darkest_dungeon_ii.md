@@ -1,12 +1,12 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~464 |
+| Malpractice Assurance | 10.00% | ~465 |
 | Lost and Found | 6.00% | ~279 |
 | This Belongs in a Museum | 5.00% | ~6,489 |
 | Autodidact | 5.00% | ~6,489 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,893 |
 | FNG | 3.00% | ~3,893 |
 | Nope | 3.00% | ~3,893 |
-| Friends 'Til the End | 3.00% | ~139 |
+| Friends 'Til the End | 3.00% | ~140 |
 | Resurrection | 2.00% | ~2,596 |
 | Unleash Hell | 2.00% | ~2,596 |
 | Funny Guy | 2.00% | ~2,596 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~46 |
 | Handled | 0.90% | ~1,168 |
 | For Old Time' Sake | 0.90% | ~42 |
+| Shrine of Reflection | 0.80% | ~1,038 |
 | Body of Work | 0.80% | ~1,038 |
-| Shrine of Reflection | 0.70% | ~908 |
 | Et Tu, Riposte? | 0.70% | ~33 |
 | Clearing the Ledger | 0.60% | ~779 |
 | Triage | 0.60% | ~779 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,776 (Ranked 87)  
+Progressed: 129,781 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,776 | 3 |
+| 2023-12-25 | 129,781 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
 Sum: 21,061 (Ranked 58)  

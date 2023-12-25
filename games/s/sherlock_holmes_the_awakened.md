@@ -13,10 +13,10 @@ Rating: 4.49 (Ranked 625)
 | A Method To His Madness | 47.00% | ~619 |
 | History Check | 46.00% | ~606 |
 | The New World | 44.00% | ~579 |
+| Gaze Into The Abyss | 43.00% | ~566 |
 | Open Sesame | 43.00% | ~566 |
 | Sticky Fingers | 43.00% | ~566 |
 | Knives Out | 43.00% | ~566 |
-| Gaze Into The Abyss | 42.00% | ~553 |
 | Land, Ho! | 42.00% | ~553 |
 | Lock, Stock, And Barrel | 41.00% | ~540 |
 | Back In The Saddle | 41.00% | ~540 |

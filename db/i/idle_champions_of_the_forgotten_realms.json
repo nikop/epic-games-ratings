@@ -9049,9 +9049,9 @@
       "Count": 3592
     }
   ],
-  "EOS_Progressed": 244454,
+  "EOS_Progressed": 244472,
   "EOS_Completed": 2560,
-  "EOS_NewPlayers": 2757,
+  "EOS_NewPlayers": 2758,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37189,6 +37189,11 @@
       "Time": "2023-12-25T13:14:23.1560977+00:00",
       "NumProgressed": 244454,
       "NumCompleted": 2560
+    },
+    {
+      "Time": "2023-12-25T14:10:02.3074594+00:00",
+      "NumProgressed": 244472,
+      "NumCompleted": 2560
     }
   ],
   "TotalAchievements": 546,
@@ -41567,21 +41572,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210728,
+      "Progressed": 210746,
       "Completed": 4063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244454,
+      "Progressed": 244472,
       "Completed": 2560
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-25T04:57:20.6229289+00:00",
-  "LastChanged_Achievements": "2023-12-25T13:14:23.156097+00:00",
+  "LastChanged_Achievements": "2023-12-25T14:10:02.3074591+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-25T13:01:02.5797341+00:00",
-  "LastUpdate_Achievements": "2023-12-25T13:14:23.158345+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:57:33.2939382+00:00",
+  "LastUpdate_Achievements": "2023-12-25T14:10:02.3098121+00:00"
 }

@@ -21,9 +21,9 @@ Rating: 4.26 (Ranked 888)
 | True Survivor | 21.00% | ~497 |
 | Offensive Defense | 20.00% | ~474 |
 | Shocking | 20.00% | ~474 |
+| Unforeseeable Consequences | 20.00% | ~474 |
 | Court Martial | 19.00% | ~450 |
 | Clean Cut | 19.00% | ~450 |
-| Unforeseeable Consequences | 19.00% | ~450 |
 | Dead Again | 18.00% | ~426 |
 | Full Arsenal | 17.00% | ~403 |
 | Can't Trust Banks | 15.00% | ~355 |
@@ -64,7 +64,7 @@ Rating: 4.26 (Ranked 888)
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,369 (Ranked 230)  
-Completed: 13 (0.55%) (Ranked 207)  
+Completed: 13 (0.55%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

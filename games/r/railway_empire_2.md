@@ -35,9 +35,9 @@ Rating: 4.42 (Ranked 724)
 | Country Life | 28.00% | ~705 |
 | Hostile Takeover | 25.00% | ~629 |
 | Seven at one stroke | 24.00% | ~604 |
+| Trailblazer | 22.00% | ~554 |
 | Traffic Junction | 22.00% | ~554 |
 | Breaking Ground | 22.00% | ~554 |
-| Trailblazer | 21.00% | ~529 |
 | Traffic Jam | 19.00% | ~478 |
 | Networker | 18.00% | ~453 |
 | Resistance is futile | 17.00% | ~428 |
