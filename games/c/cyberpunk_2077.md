@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,753 |
-| Gun Fu | 8.00% | ~78,502 |
-| The Fool | 7.00% | ~68,689 |
-| Right Back At Ya | 6.00% | ~58,877 |
-| The Lovers | 6.00% | ~58,877 |
-| Full Body Conversion | 5.00% | ~49,064 |
-| True Soldier | 5.00% | ~49,064 |
-| Christmas Tree Attack | 4.00% | ~39,251 |
-| Stanislavski's Method | 4.00% | ~39,251 |
-| The Hermit | 4.00% | ~39,251 |
-| The Wheel of Fortune | 4.00% | ~39,251 |
-| All the President's Men | 4.00% | ~4,396 |
-| Arachnophobia | 4.00% | ~4,396 |
-| Master Crafter | 3.00% | ~29,438 |
-| The Quick and the Dead | 3.00% | ~29,438 |
-| Life of the Road | 3.00% | ~29,438 |
-| The High Priestess | 3.00% | ~29,438 |
-| True Warrior | 3.00% | ~29,438 |
-| Legend of The Afterlife | 3.00% | ~29,438 |
-| Relic Ruler | 3.00% | ~3,297 |
+| V for Vendetta | 12.00% | ~117,756 |
+| Gun Fu | 8.00% | ~78,504 |
+| The Fool | 7.00% | ~68,691 |
+| Right Back At Ya | 6.00% | ~58,878 |
+| The Lovers | 6.00% | ~58,878 |
+| Full Body Conversion | 5.00% | ~49,065 |
+| True Soldier | 5.00% | ~49,065 |
+| Christmas Tree Attack | 4.00% | ~39,252 |
+| Stanislavski's Method | 4.00% | ~39,252 |
+| The Hermit | 4.00% | ~39,252 |
+| The Wheel of Fortune | 4.00% | ~39,252 |
+| All the President's Men | 4.00% | ~4,397 |
+| Arachnophobia | 4.00% | ~4,397 |
+| Master Crafter | 3.00% | ~29,439 |
+| The Quick and the Dead | 3.00% | ~29,439 |
+| Life of the Road | 3.00% | ~29,439 |
+| The High Priestess | 3.00% | ~29,439 |
+| True Warrior | 3.00% | ~29,439 |
+| Legend of The Afterlife | 3.00% | ~29,439 |
+| Relic Ruler | 3.00% | ~3,298 |
 | Bushido and Chill | 2.00% | ~19,626 |
 | To Protect and Serve | 2.00% | ~19,626 |
 | I Am The Law | 2.00% | ~19,626 |
@@ -48,8 +48,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.70% | ~769 |
 | Must Be Rats | 0.60% | ~5,888 |
 | Temperance | 0.60% | ~5,888 |
-| King of Pentacles | 0.60% | ~659 |
-| King of Swords | 0.60% | ~659 |
+| King of Pentacles | 0.60% | ~660 |
+| King of Swords | 0.60% | ~660 |
 | City Lights | 0.30% | ~2,944 |
 | Little Tokyo | 0.30% | ~2,944 |
 | The Devil | 0.30% | ~2,944 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,278 (Ranked 16)  
+Progressed: 981,302 (Ranked 16)  
 Completed: 2,972 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,16 +323,16 @@ Completed: 2,972 (0.30%) (Ranked 253)
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
-| 2023-12-25 | 981,278 | 2,972 |
+| 2023-12-25 | 981,302 | 2,972 |
 ## Awards
 Max (Character Customization): 127,101  (Ranked 8)  
-Sum: 442,922 (Ranked 9)  
+Sum: 443,158 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 127,101 |
 | This game has Great Boss Battles | 94,075 |
-| This game is Great for Beginners | 27,719 |
+| This game is Great for Beginners | 27,874 |
 | This game has Diverse Characters | 27,171 |
 | This game is Highly Recommended | 25,975 |
 | This game has Amazing Storytelling | 25,542 |
@@ -340,7 +340,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 24,988 |
 | This game has Quickly Understood Controls | 24,210 |
 | This game is Relaxing | 24,208 |
-| This game has a Creative Community | 16,749 |
+| This game has a Creative Community | 16,830 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -684,4 +684,4 @@ Diff (max vs sum): -1
 | 2023-12-22 | 4.66 | - | 126,294 | 437,314 |
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
-| 2023-12-25 | 4.66 | - | 127,101 | 442,922 |
+| 2023-12-25 | 4.66 | - | 127,101 | 443,158 |

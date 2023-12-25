@@ -9,9 +9,9 @@
 | Beast Quest | 36.00% | ~27 |
 | Space worm! | 36.00% | ~27 |
 | Monster Hunt | 34.00% | ~26 |
+| Beast Hunter | 32.00% | ~24 |
 | Fly, you fool! | 32.00% | ~24 |
 | Loot, loot! | 32.00% | ~24 |
-| Beast Hunter | 30.00% | ~23 |
 | Vanquisher! | 29.00% | ~22 |
 | Orb Collector | 29.00% | ~22 |
 | Twin slayer! | 29.00% | ~22 |

@@ -2245,9 +2245,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 121
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -2364,8 +2364,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:08:43.3689646+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:09:18.9513812+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:58:39.0430919+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:08:43.400725+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:59:41.382677+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:09:18.9514399+00:00"
 }

@@ -9,25 +9,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.60% | ~96 |
 | Explorer | 0.50% | ~80 |
 | Settler | 0.50% | ~80 |
+| Able | 0.40% | ~64 |
 | Architect | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
 | Intrepid | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
+| Noble | 0.40% | ~64 |
 | Friendly Family | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
-| Able | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
+| Fountainhead | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
 | Just | 0.30% | ~48 |
 | Keystone | 0.30% | ~48 |
 | Learned | 0.30% | ~48 |
-| Noble | 0.30% | ~48 |
 | Pioneer | 0.30% | ~48 |
 | Strong | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Oracle | 0.30% | ~48 |
+| Pyramids | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
 | Naming Landmarks | 0.30% | ~48 |
@@ -37,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |
-| Fountainhead | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
 | Intercessor | 0.20% | ~32 |
 | Magnificent | 0.20% | ~32 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.20% | ~32 |
 | Musaeum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
-| Pyramids | 0.20% | ~32 |
 | Learn to Play 1 | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,941 (Ranked 162)  
+Progressed: 15,942 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,11 +614,11 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,941 | 5 |
+| 2023-12-25 | 15,942 | 5 |
 ## Awards
-Max (Relaxing): 229  (Ranked 280)  
+Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |

@@ -11,8 +11,8 @@ Rating: 4.50 (Ranked 603)
 | Notai Notes | 66.00% | ~879 |
 | Blue Dreams | 65.00% | ~866 |
 | He's Famous! | 65.00% | ~866 |
+| Cutie Poro | 65.00% | ~866 |
 | Krugmazing | 64.00% | ~852 |
-| Cutie Poro | 64.00% | ~852 |
 | Moneyball | 60.00% | ~799 |
 | The Fire Below the Mountain | 60.00% | ~799 |
 | Iceborn | 55.00% | ~733 |

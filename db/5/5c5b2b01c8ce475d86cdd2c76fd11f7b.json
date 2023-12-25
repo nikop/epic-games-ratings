@@ -319,9 +319,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "7on801h",
       "Name": "God Killer",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -575,9 +575,9 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "7on801h",
       "Name": "Fresh Out of the Package",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_15",
@@ -940,8 +940,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:05:23.7265072+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:06:38.6294356+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:59:22.214084+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:05:23.7265787+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:44.9550936+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:06:38.6294965+00:00"
 }

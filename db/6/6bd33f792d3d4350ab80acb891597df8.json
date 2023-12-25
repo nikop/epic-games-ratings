@@ -2,7 +2,7 @@
   "ID": "6bd33f792d3d4350ab80acb891597df8",
   "Name": "The House of Da Vinci 3",
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 147,
@@ -577,9 +577,9 @@
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -721,17 +721,17 @@
       "ID": "CgkIxYDzrbcPEAIQGw",
       "SetID": "4egpam7",
       "Name": "Slow and Steady",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
@@ -760,8 +760,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:03:28.4262052+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:04:01.1195351+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:50.9700241+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:02:49.6791307+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:03:28.4262254+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:03:08.6149715+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:04:01.1195564+00:00"
 }

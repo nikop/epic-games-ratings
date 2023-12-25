@@ -20,8 +20,8 @@ Rating: 4.63 (Ranked 353)
 | Oui, Chef! | 0.80% | ~69 |
 | Exit Through The Gift Shop | 0.80% | ~10 |
 | Search for the Hairy Grell | 0.60% | ~52 |
+| Higher Tax Bracket | 0.60% | ~52 |
 | Beach Comber | 0.50% | ~43 |
-| Higher Tax Bracket | 0.50% | ~43 |
 | Botanical Breakthrough | 0.50% | ~43 |
 | Azorian Anniversary | 0.50% | ~43 |
 | Skilled | 0.50% | ~43 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,664 (Ranked 182)  
+Progressed: 8,666 (Ranked 182)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-22 | 8,600 | 1 |
 | 2023-12-23 | 8,616 | 1 |
 | 2023-12-24 | 8,649 | 1 |
-| 2023-12-25 | 8,664 | 1 |
+| 2023-12-25 | 8,666 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

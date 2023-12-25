@@ -35,6 +35,7 @@
 | Instinct of self-preservation | 5.00% | ~10 |
 | We Are Not Alone | 4.00% | ~8 |
 | The Perfect Storm | 4.00% | ~8 |
+| Se7en Seas | 3.00% | ~6 |
 | Something to think about | 2.00% | ~4 |
 | I remember It Like Was Yesterday | 2.00% | ~4 |
 | Body of Work | 2.00% | ~4 |
@@ -42,7 +43,6 @@
 | Immortalized in my heart | 2.00% | ~4 |
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
-| Se7en Seas | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |
 | The Big Picture | 1.00% | ~2 |
 | Dark correspondence | 1.00% | ~2 |

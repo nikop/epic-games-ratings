@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -784,6 +784,11 @@
       "Time": "2023-12-25T04:08:31.6304276+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T17:09:28.3720593+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -796,7 +801,7 @@
       "Name": "Abdication",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -866,9 +871,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 128
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -900,7 +905,7 @@
       "Name": "Heartbreaker",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -930,9 +935,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -940,7 +945,7 @@
       "Name": "My Time To Shine",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -964,7 +969,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -972,7 +977,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -996,7 +1001,7 @@
       "Name": "Talk To The Hand",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_THEANSWERISYOU",
@@ -1020,7 +1025,7 @@
       "Name": "The Deep End",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1091,14 +1096,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:08:50.0602553+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:09:28.3720589+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:59:02.6814189+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:08:50.0602789+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:17.8830131+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:09:28.3720887+00:00"
 }

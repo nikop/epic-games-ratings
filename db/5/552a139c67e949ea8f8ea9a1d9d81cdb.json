@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1637,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3977,6 +3977,11 @@
       "Time": "2023-12-25T15:05:39.5992415+00:00",
       "NumProgressed": 1637,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T17:07:12.5749498+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -3989,7 +3994,7 @@
       "Name": "Rookie",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4059,9 +4064,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "5k00jcd",
       "Name": "Drift champ",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4187,9 +4192,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "5k00jcd",
       "Name": "The Nitro Bot",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -4356,20 +4361,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1637,
+      "Progressed": 1638,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1305,
+      "Progressed": 1306,
       "Completed": 1002
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:05:49.2464284+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:07:12.5749495+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:58:55.2123757+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:05:49.2464978+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:04.9140734+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:07:12.5749952+00:00"
 }

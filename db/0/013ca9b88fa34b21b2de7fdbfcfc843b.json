@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8664,
+  "EOS_Progressed": 8666,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9090,6 +9090,11 @@
       "Time": "2023-12-25T16:10:00.8366299+00:00",
       "NumProgressed": 8664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T17:11:03.5123098+00:00",
+      "NumProgressed": 8666,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9284,9 +9289,9 @@
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -9445,13 +9450,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8664,
+      "Progressed": 8666,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1281,
+      "Progressed": 1283,
       "Completed": 1050
     }
   ],
@@ -9459,8 +9464,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:10:00.8366297+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:11:03.5123095+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:03:15.3085394+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:10:00.8366874+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:03:42.3522661+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:11:03.51237+00:00"
 }

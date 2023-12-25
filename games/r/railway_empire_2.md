@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 724)  
+Rating: 4.43 (Ranked 704)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.42 (Ranked 724)
 | Trailblazer | 22.00% | ~554 |
 | Traffic Junction | 22.00% | ~554 |
 | Breaking Ground | 22.00% | ~554 |
-| Traffic Jam | 19.00% | ~478 |
+| Traffic Jam | 20.00% | ~503 |
 | Networker | 18.00% | ~453 |
 | Resistance is futile | 17.00% | ~428 |
 | Bold and beautiful | 16.00% | ~403 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 724)
 | United States | 0.60% | ~15 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,517 (Ranked 227)  
+Progressed: 2,517 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,3 +327,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-11-30 | 4.43 | 0 | 0 |
 | 2023-12-06 | 4.41 | 0 | 0 |
 | 2023-12-07 | 4.42 | 0 | 0 |
+| 2023-12-25 | 4.43 | 0 | 0 |

@@ -1075,9 +1075,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1091,9 +1091,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "AC_BOSS_01",
@@ -1323,9 +1323,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1362,8 +1362,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:05:09.3052351+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:06:19.408283+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:59:01.9112575+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:05:09.3052672+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:15.5474889+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:06:19.408308+00:00"
 }

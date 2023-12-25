@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5733,
+  "EOS_Progressed": 5734,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -4968,6 +4968,11 @@
       "Time": "2023-12-25T13:07:40.1540836+00:00",
       "NumProgressed": 5733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T17:04:30.8444859+00:00",
+      "NumProgressed": 5734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5091,7 +5096,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5249,9 +5254,9 @@
       "ID": "ach_campaign_special7",
       "SetID": "8cb3id7",
       "Name": "Merry-Go-Around: Self-Made",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_campaign_special8",
@@ -5586,15 +5591,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5733,
+      "Progressed": 5734,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:03:50.4154019+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:04:30.8444855+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.9204048+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:00:05.4042367+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:03:50.4154709+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:01:49.8299951+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:04:30.8445722+00:00"
 }

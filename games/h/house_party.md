@@ -32,10 +32,10 @@ Number of Ratings: 177  (23.09.2022)
 | Vickie | 0.70% | ~48 |
 | Te Amo Lety | 0.70% | ~48 |
 | Benedict Brahrnold | 0.60% | ~41 |
+| I'll Be Back | 0.60% | ~41 |
 | Deck the Balls | 0.60% | ~24 |
 | Now It's a Party! | 0.60% | ~41 |
 | Ashley | 0.50% | ~34 |
-| I'll Be Back | 0.50% | ~34 |
 | Love Conquers All | 0.50% | ~34 |
 | Rule 34 | 0.40% | ~28 |
 | Rachael | 0.40% | ~28 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,878 (Ranked 191)  
+Progressed: 6,882 (Ranked 191)  
 Completed: 3 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.04%) (Ranked 346)
 | 2023-12-22 | 6,811 | 3 |
 | 2023-12-23 | 6,833 | 3 |
 | 2023-12-24 | 6,863 | 3 |
-| 2023-12-25 | 6,878 | 3 |
+| 2023-12-25 | 6,882 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

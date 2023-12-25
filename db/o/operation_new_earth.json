@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2083,
+  "EOS_Progressed": 2085,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7979,6 +7979,11 @@
       "Time": "2023-12-25T06:07:42.2442765+00:00",
       "NumProgressed": 2083,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T17:07:47.1104526+00:00",
+      "NumProgressed": 2085,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8070,7 +8075,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "objective_headquarters_15",
@@ -8102,7 +8107,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8142,7 +8147,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -8166,7 +8171,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8198,7 +8203,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8230,7 +8235,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8286,14 +8291,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2083,
+      "Progressed": 2085,
       "Completed": 1
     }
   ],
@@ -8301,8 +8306,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:06:14.9076418+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:07:47.110452+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:58:01.4896116+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:06:14.9076872+00:00"
+  "LastUpdate_Ratings": "2023-12-25T16:58:46.8597124+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:07:47.1105191+00:00"
 }

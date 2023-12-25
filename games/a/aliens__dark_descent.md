@@ -1,24 +1,24 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.54 (Ranked 534)  
+Rating: 4.54 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~3,929 |
-| Keep 'Em Coming | 67.00% | ~3,419 |
-| Snatched Out | 66.00% | ~3,368 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~3,930 |
+| Keep 'Em Coming | 67.00% | ~3,420 |
+| Snatched Out | 66.00% | ~3,369 |
 | Cleaning Lethe, One Nest At A Time | 59.00% | ~3,011 |
 | Call Me Snake | 55.00% | ~2,807 |
 | Something Lurks Under The Hills | 54.00% | ~2,756 |
 | This Was No Papercut | 52.00% | ~2,654 |
-| People Person | 49.00% | ~2,500 |
-| The Shrink Hates Me | 49.00% | ~2,500 |
-| Use The Bumper, That's What It's For | 46.00% | ~2,347 |
-| First Steps Into Madness | 45.00% | ~2,296 |
-| Colonial Barrels | 43.00% | ~2,194 |
-| Harper's Hell | 39.00% | ~1,990 |
-| Making a Stand | 38.00% | ~1,939 |
+| The Shrink Hates Me | 50.00% | ~2,552 |
+| People Person | 49.00% | ~2,501 |
+| Use The Bumper, That's What It's For | 46.00% | ~2,348 |
+| First Steps Into Madness | 45.00% | ~2,297 |
+| Colonial Barrels | 43.00% | ~2,195 |
+| Harper's Hell | 39.00% | ~1,991 |
+| Making a Stand | 38.00% | ~1,940 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,837 |
 | Where It All Begun | 34.00% | ~1,735 |
 | Recouped Investment | 33.00% | ~1,684 |
@@ -37,8 +37,8 @@ Rating: 4.54 (Ranked 534)
 | Abysmal Horrors | 18.00% | ~919 |
 | One For Every Occasion | 17.00% | ~868 |
 | The Cable Guy | 17.00% | ~868 |
-| Bandage Lover | 16.00% | ~816 |
-| Regicide | 13.00% | ~663 |
+| Bandage Lover | 16.00% | ~817 |
+| Regicide | 13.00% | ~664 |
 | This Went Smoothly | 12.00% | ~612 |
 | Flawless Victory | 11.00% | ~561 |
 | Heavy Steps | 11.00% | ~561 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 534)
 | This Ain't No Picnic | 0.60% | ~31 |
 | Chalk It Up To Experience | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,103 (Ranked 200)  
+Progressed: 5,104 (Ranked 200)  
 Completed: 3 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 3 (0.06%) (Ranked 329)
 | 2023-12-22 | 4,830 | 3 |
 | 2023-12-23 | 4,939 | 3 |
 | 2023-12-24 | 5,040 | 3 |
-| 2023-12-25 | 5,103 | 3 |
+| 2023-12-25 | 5,104 | 3 |
 ## Awards
 Max (Great Boss Battles): 50  (Ranked 446)  
 Sum: 50 (Ranked 498)  

@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 40.00% | ~30,114 |
-| As Far Away As Possible | 19.00% | ~14,304 |
-| A Most Unstable Organism | 13.00% | ~9,787 |
-| More Power to You | 11.00% | ~8,281 |
-| No Time to Follow Protocol | 10.00% | ~7,528 |
-| Float Like a Butterfly... | 8.00% | ~6,023 |
-| Nano Connoisseur | 7.00% | ~5,270 |
-| In Two Places At Once | 6.00% | ~4,517 |
-| Pulling Your Weight | 3.00% | ~2,259 |
-| Reaping Rivals | 3.00% | ~2,259 |
+| Your Lucky Day | 40.00% | ~30,131 |
+| As Far Away As Possible | 19.00% | ~14,312 |
+| A Most Unstable Organism | 13.00% | ~9,793 |
+| More Power to You | 11.00% | ~8,286 |
+| No Time to Follow Protocol | 10.00% | ~7,533 |
+| Float Like a Butterfly... | 8.00% | ~6,026 |
+| Nano Connoisseur | 7.00% | ~5,273 |
+| In Two Places At Once | 6.00% | ~4,520 |
+| Pulling Your Weight | 3.00% | ~2,260 |
+| Reaping Rivals | 3.00% | ~2,260 |
 | fifteenth Time's the Charm | 1.00% | ~753 |
 | Gone Rogue | 0.70% | ~527 |
 | Memory Keeper | 0.40% | ~301 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 973)
 | Runs for Your Money | 0.30% | ~226 |
 | Past Master | 0.30% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,285 (Ranked 107)  
+Progressed: 75,327 (Ranked 107)  
 Completed: 60 (0.08%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,14 +142,14 @@ Completed: 60 (0.08%) (Ranked 321)
 | 2023-12-22 | 72,919 | 59 |
 | 2023-12-23 | 73,848 | 60 |
 | 2023-12-24 | 74,816 | 60 |
-| 2023-12-25 | 75,285 | 60 |
+| 2023-12-25 | 75,327 | 60 |
 ## Awards
-Max (Great for Beginners): 118  (Ranked 348)  
-Sum: 466 (Ranked 337)  
+Max (Great for Beginners): 120  (Ranked 348)  
+Sum: 468 (Ranked 337)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 118 |
+| This game is Great for Beginners | 120 |
 | This game has Diverse Characters | 80 |
 | This game is Highly Recommended | 59 |
 | This game is Extremely Fun | 57 |
@@ -260,4 +260,4 @@ Diff (max vs sum): 11
 | 2023-12-22 | 4.15 | 116 | 490 |
 | 2023-12-23 | 4.15 | 118 | 501 |
 | 2023-12-24 | 4.15 | 118 | 462 |
-| 2023-12-25 | 4.15 | 118 | 466 |
+| 2023-12-25 | 4.15 | 120 | 468 |

@@ -16,8 +16,8 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 8.00% | ~60 |
 | Veni, Vidi, Vici | 8.00% | ~60 |
 | Master | 7.00% | ~52 |
+| Whoops! | 6.00% | ~45 |
 | Landlord Extraordinaire | 6.00% | ~45 |
-| Whoops! | 5.00% | ~37 |
 | Don't Touch My Stuff | 4.00% | ~30 |
 | Trojan Horse | 4.00% | ~30 |
 | The Song of Stoutheart | 3.00% | ~22 |
@@ -25,10 +25,10 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~22 |
 | This Spot's Taken | 2.00% | ~15 |
 | Deepstrike | 2.00% | ~15 |
+| Infernal Influence | 2.00% | ~15 |
 | Ultra Kill | 2.00% | ~15 |
 | Pyrrhic Victory | 2.00% | ~15 |
 | Versatile Wielder | 1.00% | ~7 |
-| Infernal Influence | 1.00% | ~7 |
 | From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
 | Together For Her | 0.90% | ~7 |

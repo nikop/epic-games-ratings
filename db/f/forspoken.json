@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 121,
@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45175,
+  "EOS_Progressed": 45179,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16409,6 +16409,11 @@
       "Time": "2023-12-25T16:05:17.2378398+00:00",
       "NumProgressed": 45175,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T17:06:30.0207616+00:00",
+      "NumProgressed": 45179,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16468,7 +16473,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4969
+      "UsersEstimate": 4970
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16612,7 +16617,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16660,7 +16665,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16708,7 +16713,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16732,7 +16737,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -16772,7 +16777,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "STAYING_AIR",
@@ -16843,22 +16848,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45175,
+      "Progressed": 45179,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10012,
-      "Completed": 10012
+      "Progressed": 10016,
+      "Completed": 10016
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:05:17.2378393+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:06:30.0207612+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:59:00.7497038+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:05:17.2379461+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:11.2478423+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:06:30.0208572+00:00"
 }

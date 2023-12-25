@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -1123,6 +1123,11 @@
       "Time": "2023-12-25T15:08:20.7981725+00:00",
       "NumProgressed": 610,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T17:09:05.5923353+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1182,7 +1187,7 @@
       "Name": "Between the Covers",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Gamer",
@@ -1220,9 +1225,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 312
     },
     {
       "ID": "Hitman",
@@ -1254,7 +1259,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Leisurely_Strol",
@@ -1294,7 +1299,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Ninja",
@@ -1350,7 +1355,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1365,7 +1370,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 6
     }
   ],
@@ -1373,8 +1378,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:08:33.7345834+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:09:05.5923349+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:03:23.2059009+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:08:33.7346083+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:03:51.7833414+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:09:05.5923572+00:00"
 }

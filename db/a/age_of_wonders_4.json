@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6189,
+  "EOS_Progressed": 6193,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9137,6 +9137,11 @@
       "Time": "2023-12-25T16:03:32.3253333+00:00",
       "NumProgressed": 6189,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T17:04:06.3936469+00:00",
+      "NumProgressed": 6193,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9194,9 +9199,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 186
     },
     {
       "ID": "16",
@@ -9292,7 +9297,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "27",
@@ -9306,9 +9311,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 434
     },
     {
       "ID": "29",
@@ -9340,7 +9345,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "32",
@@ -9612,7 +9617,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "60",
@@ -9627,13 +9632,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6189,
+      "Progressed": 6193,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6189,
+      "Progressed": 6193,
       "Completed": 7
     }
   ],
@@ -9641,8 +9646,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:03:32.3253329+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:04:06.3936465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:59:05.6941304+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:03:32.3254015+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:22.2959541+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:04:06.3937351+00:00"
 }

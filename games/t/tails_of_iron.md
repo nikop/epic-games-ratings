@@ -34,12 +34,12 @@ Rating: 4.56 (Ranked 496)
 | Defeat the Grub Buster | 0.40% | ~4 |
 | Defeat the Stalker Queen | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
+| Complete Arena Faction | 0.30% | ~7 |
 | Complete the Chefs Book | 0.30% | ~7 |
 | Complete Ranger Faction | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | King of Kings | 0.20% | ~5 |
-| Complete Arena Faction | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,281 (Ranked 232)  

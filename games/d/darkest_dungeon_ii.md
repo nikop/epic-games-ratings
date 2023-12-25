@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~467 |
-| Lost and Found | 6.00% | ~280 |
-| This Belongs in a Museum | 5.00% | ~6,490 |
-| Autodidact | 5.00% | ~6,490 |
+| Malpractice Assurance | 10.00% | ~469 |
+| Lost and Found | 6.00% | ~281 |
+| This Belongs in a Museum | 5.00% | ~6,491 |
+| Autodidact | 5.00% | ~6,491 |
 | This guy... again? | 5.00% | ~234 |
-| Serenity Now! | 4.00% | ~5,192 |
-| Creep and Sleep | 4.00% | ~5,192 |
-| Meat and Greet | 4.00% | ~5,192 |
-| Catch and Decease | 4.00% | ~5,192 |
-| Overdue Notice | 4.00% | ~5,192 |
-| Escape from the Black Hole | 4.00% | ~5,192 |
+| Serenity Now! | 4.00% | ~5,193 |
+| Creep and Sleep | 4.00% | ~5,193 |
+| Meat and Greet | 4.00% | ~5,193 |
+| Catch and Decease | 4.00% | ~5,193 |
+| Overdue Notice | 4.00% | ~5,193 |
+| Escape from the Black Hole | 4.00% | ~5,193 |
 | Ploughshares to Swords | 4.00% | ~187 |
 | Bloody Graduation | 4.00% | ~187 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,894 |
-| It Rings a Bell | 3.00% | ~3,894 |
-| Not Today! | 3.00% | ~3,894 |
-| It Happens | 3.00% | ~3,894 |
-| Rush Hour | 3.00% | ~3,894 |
-| Merry Time | 3.00% | ~3,894 |
-| Harvest Festival | 3.00% | ~3,894 |
-| To Grandmother's House | 3.00% | ~3,894 |
-| Whale | 3.00% | ~3,894 |
-| A Place to Lay Your Head | 3.00% | ~3,894 |
-| FNG | 3.00% | ~3,894 |
-| Nope | 3.00% | ~3,894 |
-| Friends 'Til the End | 3.00% | ~140 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,895 |
+| It Rings a Bell | 3.00% | ~3,895 |
+| Not Today! | 3.00% | ~3,895 |
+| It Happens | 3.00% | ~3,895 |
+| Rush Hour | 3.00% | ~3,895 |
+| Merry Time | 3.00% | ~3,895 |
+| Harvest Festival | 3.00% | ~3,895 |
+| To Grandmother's House | 3.00% | ~3,895 |
+| Whale | 3.00% | ~3,895 |
+| A Place to Lay Your Head | 3.00% | ~3,895 |
+| FNG | 3.00% | ~3,895 |
+| Nope | 3.00% | ~3,895 |
+| Friends 'Til the End | 3.00% | ~141 |
 | Resurrection | 2.00% | ~2,596 |
 | Unleash Hell | 2.00% | ~2,596 |
 | Funny Guy | 2.00% | ~2,596 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~47 |
 | Handled | 0.90% | ~1,168 |
 | For Old Time' Sake | 0.90% | ~42 |
-| Shrine of Reflection | 0.80% | ~1,038 |
-| Body of Work | 0.80% | ~1,038 |
+| Shrine of Reflection | 0.80% | ~1,039 |
+| Body of Work | 0.80% | ~1,039 |
 | Et Tu, Riposte? | 0.70% | ~33 |
 | Clearing the Ledger | 0.60% | ~779 |
 | Triage | 0.60% | ~779 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,801 (Ranked 87)  
+Progressed: 129,817 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,801 | 3 |
+| 2023-12-25 | 129,817 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
 Sum: 21,070 (Ranked 58)  

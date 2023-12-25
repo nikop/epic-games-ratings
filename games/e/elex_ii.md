@@ -14,8 +14,8 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 13.00% | ~13 |
 | Military Leader | 12.00% | ~12 |
 | Commander | 11.00% | ~11 |
+| Peddler | 8.00% | ~8 |
 | Long-Haul Flyer | 8.00% | ~8 |
-| Peddler | 7.00% | ~7 |
 | Berserker | 7.00% | ~7 |
 | Pass A38 | 7.00% | ~7 |
 | Family Reunion | 6.00% | ~6 |
@@ -31,6 +31,7 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 3.00% | ~3 |
 | Idealist | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
+| Treasure Hunter | 1.00% | ~1 |
 | Alchemist | 1.00% | ~1 |
 | Defector | 1.00% | ~1 |
 | Outlaw | 1.00% | ~1 |
@@ -42,7 +43,6 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
-| Treasure Hunter | 0.00% | ~0 |
 | Beam Me Up | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 482)  
+Progressed: 97 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

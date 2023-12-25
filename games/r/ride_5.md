@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 47.00% | ~1,396 |
-| First Love | 44.00% | ~1,307 |
-| Clean Race | 42.00% | ~1,248 |
-| Hear That Roar! | 41.00% | ~1,218 |
-| Rivals to the End | 30.00% | ~891 |
-| Bitter Rivalry | 29.00% | ~862 |
-| Champagne Spray | 27.00% | ~802 |
-| We're Going to Need a Bigger Garage | 26.00% | ~772 |
-| I Want One Too! | 20.00% | ~594 |
-| Quick Pit Stop | 20.00% | ~594 |
-| Restored and Ready | 19.00% | ~564 |
-| Legendary!!! | 19.00% | ~564 |
-| Go-Faster Stripes | 17.00% | ~505 |
+| Eat My Dust | 47.00% | ~1,398 |
+| First Love | 44.00% | ~1,309 |
+| Clean Race | 42.00% | ~1,250 |
+| Hear That Roar! | 41.00% | ~1,220 |
+| Rivals to the End | 30.00% | ~892 |
+| Bitter Rivalry | 29.00% | ~863 |
+| Champagne Spray | 27.00% | ~803 |
+| We're Going to Need a Bigger Garage | 26.00% | ~774 |
+| I Want One Too! | 20.00% | ~595 |
+| Quick Pit Stop | 20.00% | ~595 |
+| Restored and Ready | 19.00% | ~565 |
+| Legendary!!! | 19.00% | ~565 |
+| Go-Faster Stripes | 17.00% | ~506 |
 | I'm Here Too! | 15.00% | ~446 |
-| We've Just Begun | 13.00% | ~386 |
-| Is It the Right Size? | 9.00% | ~267 |
+| We've Just Begun | 13.00% | ~387 |
+| Is It the Right Size? | 9.00% | ~268 |
 | Stamina Star | 8.00% | ~238 |
 | Evangelist | 6.00% | ~178 |
 | Make It Your Own! | 5.00% | ~149 |
@@ -31,11 +31,11 @@
 | I Make the Rules! | 3.00% | ~89 |
 | Rounding Off | 3.00% | ~89 |
 | My Work Here Is Done | 3.00% | ~89 |
-| Iconic! | 2.00% | ~59 |
-| I'll Be the Best! | 2.00% | ~59 |
-| Back in Blighty | 2.00% | ~59 |
-| Still Here | 2.00% | ~59 |
-| Overtaking the Master | 2.00% | ~59 |
+| Iconic! | 2.00% | ~60 |
+| I'll Be the Best! | 2.00% | ~60 |
+| Back in Blighty | 2.00% | ~60 |
+| Still Here | 2.00% | ~60 |
+| Overtaking the Master | 2.00% | ~60 |
 | Next Level | 1.00% | ~30 |
 | I Don't Stop | 1.00% | ~30 |
 | Exhausted but Happy | 0.70% | ~21 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,971 (Ranked 221)  
+Progressed: 2,975 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,4 +169,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 2,873 | 0 |
 | 2023-12-23 | 2,914 | 0 |
 | 2023-12-24 | 2,955 | 0 |
-| 2023-12-25 | 2,971 | 0 |
+| 2023-12-25 | 2,975 | 0 |

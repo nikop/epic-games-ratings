@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 44.00% | ~12 |
+| Silent Assassin | 48.00% | ~13 |
 | Liberator | 30.00% | ~8 |
 | Parry Mastery | 26.00% | ~7 |
 | Famine Defeated | 19.00% | ~5 |

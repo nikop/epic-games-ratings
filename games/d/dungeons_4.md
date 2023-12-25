@@ -51,8 +51,8 @@
 | The Rune Sockets of Finitude (Part 2) | 22.00% | ~140 |
 | The Last Stand - This Time For Real! | 21.00% | ~134 |
 | Rubble and Ashes | 20.00% | ~127 |
+| Lavalumps on Ice! | 19.00% | ~121 |
 | My Little Torture Chamber | 18.00% | ~114 |
-| Lavalumps on Ice! | 18.00% | ~114 |
 | To Infinity And Beyond! | 18.00% | ~114 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~108 |
 | To the Max! | 17.00% | ~108 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -65,7 +65,7 @@
   "Tags": [],
   "EOS_Progressed": 1332,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -3572,9 +3572,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 866
     },
     {
       "ID": "EV_ACH30",
@@ -3709,8 +3709,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-25T16:10:02.6042597+00:00",
+  "LastChanged_Achievements": "2023-12-25T17:11:05.7366357+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-25T15:59:24.2244851+00:00",
-  "LastUpdate_Achievements": "2023-12-25T16:10:02.6043134+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:00:47.5831031+00:00",
+  "LastUpdate_Achievements": "2023-12-25T17:11:05.7366811+00:00"
 }

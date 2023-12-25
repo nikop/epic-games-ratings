@@ -5,7 +5,7 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~441 |
+| Time Heals All Wounds | 40.00% | ~442 |
 | Rail Rat | 31.00% | ~342 |
 | The Mysterious Stranger | 30.00% | ~331 |
 | Immaculate Aim | 25.00% | ~276 |
@@ -30,12 +30,12 @@ Rating: 4.65 (Ranked 321)
 | The Man Who Shattered Time | 18.00% | ~199 |
 | The Family Fortune | 18.00% | ~199 |
 | Street Style | 17.00% | ~188 |
-| Whiz Kid | 15.00% | ~165 |
-| Good Neighbor | 14.00% | ~154 |
-| Treasure Trove | 13.00% | ~143 |
-| Family Memories | 13.00% | ~143 |
-| Cartographer | 13.00% | ~143 |
-| Ask Questions Later | 13.00% | ~143 |
+| Whiz Kid | 15.00% | ~166 |
+| Good Neighbor | 14.00% | ~155 |
+| Treasure Trove | 13.00% | ~144 |
+| Family Memories | 13.00% | ~144 |
+| Cartographer | 13.00% | ~144 |
+| Ask Questions Later | 13.00% | ~144 |
 | Chaincrawler Explorer | 12.00% | ~132 |
 | Syron for Hope | 12.00% | ~132 |
 | Factorywood Explorer | 10.00% | ~110 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,103 (Ranked 277)  
+Progressed: 1,104 (Ranked 277)  
 Completed: 6 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 6 (0.54%) (Ranked 211)
 | 2023-12-22 | 1,068 | 6 |
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
-| 2023-12-25 | 1,103 | 6 |
+| 2023-12-25 | 1,104 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

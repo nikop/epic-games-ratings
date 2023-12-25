@@ -1,7 +1,7 @@
 # Way of the Hunter
 [Store](https://store.epicgames.com/en-US/p/way-of-the-hunter)  
 [View Rawdata](../../db/w/way_of_the_hunter.json)  
-Rating: 4.40 (Ranked 753)  
+Rating: 4.40 (Ranked 752)  
 Number of Ratings: 190  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 190  (23.09.2022)
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 268)  
+Progressed: 1,242 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 1,013 | 0 |
 | 2023-12-23 | 1,097 | 0 |
 | 2023-12-24 | 1,186 | 0 |
-| 2023-12-25 | 1,232 | 0 |
+| 2023-12-25 | 1,242 | 0 |
 ## Awards
 Max (Highly Recommended): 61  (Ranked 423)  
 Sum: 353 (Ranked 359)  

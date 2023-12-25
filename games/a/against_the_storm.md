@@ -11,14 +11,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 5.00% | ~961 |
 | No Deaths | 5.00% | ~961 |
 | Petrified Necropolis | 5.00% | ~961 |
-| First Real Expedition | 4.00% | ~768 |
-| Overcoming Difficulty | 4.00% | ~768 |
-| Coral Forest | 4.00% | ~768 |
-| The Marshlands | 4.00% | ~768 |
-| Frosts | 4.00% | ~768 |
-| Land of Greed | 4.00% | ~768 |
-| Ominous Presence | 4.00% | ~768 |
-| Gathering Storm | 4.00% | ~768 |
+| First Real Expedition | 4.00% | ~769 |
+| Overcoming Difficulty | 4.00% | ~769 |
+| Coral Forest | 4.00% | ~769 |
+| The Marshlands | 4.00% | ~769 |
+| Frosts | 4.00% | ~769 |
+| Land of Greed | 4.00% | ~769 |
+| Ominous Presence | 4.00% | ~769 |
+| Gathering Storm | 4.00% | ~769 |
 | The Scarlet Orchard | 3.00% | ~576 |
 | Homesick | 2.00% | ~384 |
 | Ruined Armory | 2.00% | ~384 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.80% | ~154 |
 | Victory Through Prosperity | 0.80% | ~154 |
 | Into the Forest | 0.80% | ~154 |
-| Forsaken Gods Temple | 0.70% | ~134 |
+| Forsaken Gods Temple | 0.70% | ~135 |
 | Efficient Explorer | 0.60% | ~115 |
 | Refinery | 0.60% | ~115 |
 | Dangerous Lands | 0.60% | ~115 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,211 (Ranked 150)  
+Progressed: 19,216 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,211 | 38 |
+| 2023-12-25 | 19,216 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,291 (Ranked 177)  
