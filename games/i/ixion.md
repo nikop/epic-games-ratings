@@ -5,22 +5,22 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,150 |
-| Sputnik 2049 | 27.00% | ~1,002 |
-| Infinite Growth... | 26.00% | ~965 |
+| Wakey Wakey | 31.00% | ~1,151 |
+| Sputnik 2049 | 27.00% | ~1,003 |
+| Infinite Growth... | 26.00% | ~966 |
 | Without Breaking Some Eggs... | 25.00% | ~928 |
-| A Thousand Strong | 18.00% | ~668 |
-| Ready for a New World | 18.00% | ~668 |
+| A Thousand Strong | 18.00% | ~669 |
+| Ready for a New World | 18.00% | ~669 |
 | Space Society | 17.00% | ~631 |
 | Permanent Redesigns | 16.00% | ~594 |
 | Fully Recycled | 14.00% | ~520 |
 | Ain't Nobody Got Time for That | 14.00% | ~520 |
 | The Ship of Theseus | 14.00% | ~520 |
-| Guy de Borderlands | 13.00% | ~482 |
-| A Hunk of Junk | 12.00% | ~445 |
-| Exceeding Capacity | 12.00% | ~445 |
-| Breaking Protocol | 12.00% | ~445 |
-| Hope Seeker | 12.00% | ~445 |
+| Guy de Borderlands | 13.00% | ~483 |
+| A Hunk of Junk | 12.00% | ~446 |
+| Exceeding Capacity | 12.00% | ~446 |
+| Breaking Protocol | 12.00% | ~446 |
+| Hope Seeker | 12.00% | ~446 |
 | Man's Best Friend | 9.00% | ~334 |
 | Power Outage | 8.00% | ~297 |
 | Convenient Transport | 8.00% | ~297 |
@@ -36,9 +36,9 @@ Rating: 4.58 (Ranked 457)
 | BRAWL! | 5.00% | ~186 |
 | Drill-dozer | 5.00% | ~186 |
 | What the Ruins Teach Us | 5.00% | ~186 |
-| Sustainable Energy | 4.00% | ~148 |
-| In Dolos We Trust | 4.00% | ~148 |
-| Pedal to the Metal | 4.00% | ~148 |
+| Sustainable Energy | 4.00% | ~149 |
+| In Dolos We Trust | 4.00% | ~149 |
+| Pedal to the Metal | 4.00% | ~149 |
 | Praise the Hull! | 3.00% | ~111 |
 | Delivery! | 3.00% | ~111 |
 | Help of the Forgotten Member | 3.00% | ~111 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,711 (Ranked 211)  
+Progressed: 3,714 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
-| 2023-12-25 | 3,711 | 0 |
+| 2023-12-25 | 3,714 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4238,
+  "EOS_Progressed": 4239,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7001,6 +7001,11 @@
       "Time": "2023-12-25T16:08:22.1702035+00:00",
       "NumProgressed": 4238,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T18:07:58.5710762+00:00",
+      "NumProgressed": 4239,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7212,7 +7217,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7236,7 +7241,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7284,7 +7289,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7347,15 +7352,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4238,
+      "Progressed": 4239,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:08:49.9160017+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:07:58.571076+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:03:15.8474639+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:08:49.9160582+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:02:34.2621683+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:07:58.5711341+00:00"
 }

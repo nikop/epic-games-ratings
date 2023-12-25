@@ -3,8 +3,8 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 354,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -759,6 +759,11 @@
       "Time": "2023-12-25T03:06:40.6585184+00:00",
       "NumProgressed": 382,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T18:05:32.3615038+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -866,7 +871,7 @@
       "Name": "Wild Ox",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -890,14 +895,14 @@
       "Name": "Magic Ball",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 4
     }
   ],
@@ -905,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:07:20.4497788+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:05:32.3615035+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:38.7969974+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:43.9950307+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:07:20.4497922+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:22.5699164+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:05:32.3615164+00:00"
 }

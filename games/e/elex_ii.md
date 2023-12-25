@@ -14,7 +14,7 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 13.00% | ~13 |
 | Military Leader | 12.00% | ~12 |
 | Commander | 11.00% | ~11 |
-| Peddler | 8.00% | ~8 |
+| Peddler | 9.00% | ~9 |
 | Long-Haul Flyer | 8.00% | ~8 |
 | Berserker | 7.00% | ~7 |
 | Pass A38 | 7.00% | ~7 |

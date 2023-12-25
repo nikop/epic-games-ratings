@@ -6,17 +6,18 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.60% | ~96 |
 | Play a Single Player Game | 0.60% | ~96 |
 | Explorer | 0.50% | ~80 |
-| Settler | 0.50% | ~80 |
+| Friendly Family | 0.50% | ~80 |
 | Able | 0.40% | ~64 |
 | Architect | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
 | Intrepid | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
 | Noble | 0.40% | ~64 |
-| Friendly Family | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
+| Oracle | 0.40% | ~64 |
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
-| Oracle | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,942 (Ranked 162)  
+Progressed: 15,944 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,942 | 5 |
+| 2023-12-25 | 15,944 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

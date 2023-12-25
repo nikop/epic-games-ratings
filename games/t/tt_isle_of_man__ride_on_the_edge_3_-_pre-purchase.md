@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 95.00% | ~210 |
 | To Each Their Own | 43.00% | ~95 |
+| Like Phileas Fogg | 19.00% | ~42 |
 | You Get An Upgrade, You Get An Upgrade! | 19.00% | ~42 |
-| Like Phileas Fogg | 18.00% | ~40 |
 | Onwards and Upwards | 14.00% | ~31 |
 | Serial Winner | 10.00% | ~22 |
 | Start Your Engines | 9.00% | ~20 |

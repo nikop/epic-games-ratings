@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1785,
+  "EOS_Progressed": 1786,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2960,6 +2960,11 @@
       "Time": "2023-12-25T17:06:47.73905+00:00",
       "NumProgressed": 1785,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-25T18:05:08.0570923+00:00",
+      "NumProgressed": 1786,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -2971,7 +2976,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2979,7 +2984,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3003,7 +3008,7 @@
       "Name": "Being a donut...",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENTS_06",
@@ -3011,7 +3016,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -3027,7 +3032,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3139,7 +3144,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3147,7 +3152,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3163,7 +3168,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3274,7 +3279,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1785,
+      "Progressed": 1786,
       "Completed": 11
     }
   ],
@@ -3282,8 +3287,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-23T09:58:26.8266867+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:06:47.7390497+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:05:08.0570919+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:01:00.4376943+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:06:47.739088+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:33.478616+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:05:08.0571311+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2167,9 +2167,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 298
     },
     {
       "ID": "met_k",
@@ -2183,9 +2183,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 289
     },
     {
       "ID": "mike_resurect",
@@ -2414,8 +2414,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:18.0342397+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:05.8582018+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:59.1456496+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:18.0342913+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:32.2547549+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:05.85825+00:00"
 }

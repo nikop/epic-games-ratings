@@ -1,32 +1,32 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.27 (Ranked 882)  
+Rating: 4.27 (Ranked 881)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 55.00% | ~198 |
-| Dirty Roller | 30.00% | ~108 |
-| Regional Juniors Champion | 29.00% | ~104 |
-| Highballer | 28.00% | ~101 |
-| Wheeler Dealer | 23.00% | ~83 |
-| Look Mom, I Can Fly | 22.00% | ~79 |
+| Storm Warning | 55.00% | ~201 |
+| Dirty Roller | 30.00% | ~110 |
+| Highballer | 29.00% | ~106 |
+| Regional Juniors Champion | 29.00% | ~106 |
+| Look Mom, I Can Fly | 22.00% | ~80 |
+| Wheeler Dealer | 22.00% | ~80 |
 | National Amateurs Champion | 16.00% | ~58 |
-| Hating Them Tin Cans | 15.00% | ~54 |
-| Junk Collector | 14.00% | ~50 |
-| Trashing Around | 14.00% | ~50 |
-| Challengers Champion | 12.00% | ~43 |
-| Pro Internationals Champion | 7.00% | ~25 |
+| Hating Them Tin Cans | 15.00% | ~55 |
+| Junk Collector | 14.00% | ~51 |
+| Trashing Around | 14.00% | ~51 |
+| Challengers Champion | 12.00% | ~44 |
+| Pro Internationals Champion | 7.00% | ~26 |
 | Cash For Crashes | 6.00% | ~22 |
-| Maniac Driver | 4.00% | ~14 |
-| World Masters Champion | 3.00% | ~11 |
+| Maniac Driver | 4.00% | ~15 |
 | Showing Some Dedication | 3.00% | ~11 |
+| World Masters Champion | 2.00% | ~7 |
 | Garden Variety | 1.00% | ~4 |
 | Glutton For Punishment | 0.80% | ~3 |
 | Human Lover | 0.30% | ~1 |
 | Rocketeer | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360 (Ranked 363)  
+Progressed: 365 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,7 +38,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 242 | 0 |
 | 2023-12-23 | 295 | 0 |
 | 2023-12-24 | 333 | 0 |
-| 2023-12-25 | 360 | 0 |
+| 2023-12-25 | 365 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2023-12-25T17:06:28.7998924+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T18:04:53.3347669+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -547,7 +552,7 @@
       "ID": "c1",
       "SetID": "b1ggf28",
       "Name": "Thorough Cleaning",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -571,9 +576,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "dl2",
@@ -643,9 +648,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 66
     },
     {
       "ID": "g2",
@@ -659,9 +664,9 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "j1",
@@ -693,7 +698,7 @@
       "Name": "Infrastructure",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "jg2",
@@ -741,7 +746,7 @@
       "Name": "Builder",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "jz2",
@@ -948,14 +953,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:06:28.7998922+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:53.3347666+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:03:15.4745593+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:06:28.7999209+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:02:34.0135942+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:53.334798+00:00"
 }

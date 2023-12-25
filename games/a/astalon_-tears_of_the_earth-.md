@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 49.00% | ~37 |
+| Horn prize! | 50.00% | ~38 |
 | Orb Gatherer | 36.00% | ~27 |
 | Beast Quest | 36.00% | ~27 |
 | Space worm! | 36.00% | ~27 |
@@ -12,11 +12,11 @@
 | Beast Hunter | 32.00% | ~24 |
 | Fly, you fool! | 32.00% | ~24 |
 | Loot, loot! | 32.00% | ~24 |
+| Unmasked! | 30.00% | ~23 |
 | Vanquisher! | 29.00% | ~22 |
 | Orb Collector | 29.00% | ~22 |
 | Twin slayer! | 29.00% | ~22 |
 | Snakehead! | 29.00% | ~22 |
-| Unmasked! | 29.00% | ~22 |
 | Mercenary! | 29.00% | ~22 |
 | Beast Knight | 28.00% | ~21 |
 | Relic Collector | 25.00% | ~19 |

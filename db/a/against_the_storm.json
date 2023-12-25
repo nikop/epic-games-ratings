@@ -3593,9 +3593,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19216,
+  "EOS_Progressed": 19224,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17088,6 +17088,11 @@
       "Time": "2023-12-25T17:05:16.9816704+00:00",
       "NumProgressed": 19216,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T18:04:00.8994687+00:00",
+      "NumProgressed": 19224,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17388,7 +17393,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "WinPrestige10",
@@ -17571,15 +17576,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19216,
+      "Progressed": 19224,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T13:02:02.8849461+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:05:16.98167+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:00.8994684+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:58:49.692433+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:05:16.981782+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:58:04.8774981+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:00.8995881+00:00"
 }

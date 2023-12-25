@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 147,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-12-25T17:09:28.3720593+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T18:08:29.0602504+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -807,9 +812,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -871,9 +876,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 127
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -881,7 +886,7 @@
       "Name": "Everything Has Changed",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_FIERY",
@@ -937,7 +942,7 @@
       "Name": "Meant To Be",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -953,7 +958,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -991,9 +996,9 @@
       "ID": "SG_SNAKECHARMER",
       "SetID": "bj5g0n4",
       "Name": "Snake Charmer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -1049,7 +1054,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1096,14 +1101,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:09:28.3720589+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:08:29.0602501+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:17.8830131+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:09:28.3720887+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:02.5240674+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:08:29.0602789+00:00"
 }

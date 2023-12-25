@@ -10054,10 +10054,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21070,
       "NumberOfAwardsMax": 7863
+    },
+    {
+      "Time": "2023-12-25T17:58:10.7610795+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21074,
+      "NumberOfAwardsMax": 7863
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21070,
+  "NumberOfAwards": 21074,
   "NumberOfAwardsMax": 7863,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10107,7 +10113,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1767
+      "Count": 1771
     },
     {
       "Text": "This game is Relaxing",
@@ -10134,9 +10140,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129817,
+  "EOS_Progressed": 129821,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36759,6 +36765,11 @@
       "Time": "2023-12-25T17:10:10.3624407+00:00",
       "NumProgressed": 129817,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T18:09:00.0894374+00:00",
+      "NumProgressed": 129821,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37354,7 +37365,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37362,7 +37373,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "quest_complete_crusader",
@@ -37401,21 +37412,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129817,
+      "Progressed": 129821,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4686,
+      "Progressed": 4690,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-25T14:58:28.8239307+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:10.3624404+00:00",
+  "LastChanged": "2023-12-25T17:58:10.7610793+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:00.0894371+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:58:57.4104466+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:10.3626041+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:58:10.7610799+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:00.0896125+00:00"
 }

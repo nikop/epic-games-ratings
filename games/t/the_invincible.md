@@ -5,9 +5,9 @@ Rating: 4.52 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 65.00% | ~644 |
+| The Camp | 66.00% | ~654 |
 | The Teleprobe | 51.00% | ~505 |
-| The City | 45.00% | ~446 |
+| The City | 46.00% | ~456 |
 | The field base | 41.00% | ~406 |
 | Survivors | 35.00% | ~347 |
 | The Alliance | 34.00% | ~337 |

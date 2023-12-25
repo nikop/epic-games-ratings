@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2023-12-25T16:09:40.7097935+00:00",
       "NumProgressed": 495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T18:09:19.9740948+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1683,7 +1688,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1769,9 +1774,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1810,14 +1815,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 496,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:37.5644123+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:19.9740943+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:59:32.0222834+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:37.5644325+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:58:34.000559+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:19.9741154+00:00"
 }

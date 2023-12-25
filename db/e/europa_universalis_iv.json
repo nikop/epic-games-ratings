@@ -13621,11 +13621,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 62219,
       "NumberOfAwardsMax": 7548
+    },
+    {
+      "Time": "2023-12-25T17:59:50.5048328+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62236,
+      "NumberOfAwardsMax": 7558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62219,
-  "NumberOfAwardsMax": 7548,
+  "NumberOfAwards": 62236,
+  "NumberOfAwardsMax": 7558,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -13656,7 +13662,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7548
+      "Count": 7558
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13686,7 +13692,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5826
+      "Count": 5833
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13695,9 +13701,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 483876,
+  "EOS_Progressed": 483925,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5288,
+  "EOS_NewPlayers": 5301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42390,6 +42396,11 @@
       "Time": "2023-12-25T17:08:51.3846693+00:00",
       "NumProgressed": 483876,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T18:07:59.6237569+00:00",
+      "NumProgressed": 483925,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45304,21 +45315,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 483876,
+      "Progressed": 483925,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 483876,
+      "Progressed": 483925,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-25T15:00:03.3613752+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:08:51.3846691+00:00",
+  "LastChanged": "2023-12-25T17:59:50.5048327+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:07:59.6237567+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:01:24.3004368+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:08:51.3856649+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:50.5048332+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:07:59.6248669+00:00"
 }

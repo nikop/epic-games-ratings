@@ -38,8 +38,8 @@ Rating: 4.65 (Ranked 321)
 | Ask Questions Later | 13.00% | ~144 |
 | Chaincrawler Explorer | 12.00% | ~132 |
 | Syron for Hope | 12.00% | ~132 |
+| Sump Explorer | 11.00% | ~121 |
 | Factorywood Explorer | 10.00% | ~110 |
-| Sump Explorer | 10.00% | ~110 |
 | Theater Explorer | 10.00% | ~110 |
 | Cultivair Explorer | 9.00% | ~99 |
 | Fairgrounds Explorer | 9.00% | ~99 |

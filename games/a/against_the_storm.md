@@ -19,7 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 4.00% | ~769 |
 | Ominous Presence | 4.00% | ~769 |
 | Gathering Storm | 4.00% | ~769 |
-| The Scarlet Orchard | 3.00% | ~576 |
+| The Scarlet Orchard | 3.00% | ~577 |
 | Homesick | 2.00% | ~384 |
 | Ruined Armory | 2.00% | ~384 |
 | Fertile Meadows | 2.00% | ~384 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,216 (Ranked 150)  
+Progressed: 19,224 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,216 | 38 |
+| 2023-12-25 | 19,224 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,291 (Ranked 177)  

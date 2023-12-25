@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3909,
+  "EOS_Progressed": 3910,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5122,6 +5122,11 @@
       "Time": "2023-12-25T16:04:28.9054356+00:00",
       "NumProgressed": 3909,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-25T18:04:06.3259155+00:00",
+      "NumProgressed": 3910,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5181,7 +5186,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "campaign10",
@@ -5261,7 +5266,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "campaign2",
@@ -5277,7 +5282,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "campaign3",
@@ -5285,7 +5290,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "campaign4",
@@ -5301,7 +5306,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "campaign6",
@@ -5317,7 +5322,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "campaign8",
@@ -5339,9 +5344,9 @@
       "ID": "scenario1",
       "SetID": "2h56gn1",
       "Name": "Do the Splits",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1447
     },
     {
       "ID": "scenario2",
@@ -5357,7 +5362,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "scenario4",
@@ -5373,7 +5378,7 @@
       "Name": "We Have the Technology",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "scenario6",
@@ -5396,7 +5401,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3909,
+      "Progressed": 3910,
       "Completed": 11
     }
   ],
@@ -5404,8 +5409,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:05:24.197527+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:06.3259151+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:02:06.2452524+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:05:24.1975808+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:00:17.7895287+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:06.325954+00:00"
 }

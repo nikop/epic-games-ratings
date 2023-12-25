@@ -6,36 +6,36 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,513 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,514 |
 | Say goodbye, creep! | 66.00% | ~29,187 |
 | Blood splattered | 66.00% | ~29,187 |
 | Choo choo! | 63.00% | ~27,860 |
 | Groovy | 62.00% | ~27,418 |
 | Cleanup on aisle 4! | 57.00% | ~25,207 |
-| Gold | 51.00% | ~22,553 |
+| Gold | 51.00% | ~22,554 |
 | The boat can leave now...tell the crew | 49.00% | ~21,669 |
-| Give me something to shoot! | 47.00% | ~20,784 |
-| Stand back boy! | 47.00% | ~20,784 |
+| Give me something to shoot! | 47.00% | ~20,785 |
+| Stand back boy! | 47.00% | ~20,785 |
 | Chain reaction | 45.00% | ~19,900 |
 | Weird science | 44.00% | ~19,458 |
-| What did you say, Blain? | 42.00% | ~18,573 |
+| What did you say, Blain? | 42.00% | ~18,574 |
 | Look mummy! A shark! | 41.00% | ~18,131 |
 | In the dark dark woods... | 39.00% | ~17,247 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,804 |
-| Double tap | 37.00% | ~16,362 |
-| Cranial blowout! | 37.00% | ~16,362 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,805 |
+| Double tap | 37.00% | ~16,363 |
+| Cranial blowout! | 37.00% | ~16,363 |
 | All of this has happened before… | 36.00% | ~15,920 |
 | Zombie killin' machine | 36.00% | ~15,920 |
 | Every bullet counts | 36.00% | ~15,920 |
-| All roads lead to Rome | 34.00% | ~15,035 |
-| You've got red on you | 34.00% | ~15,035 |
+| All roads lead to Rome | 34.00% | ~15,036 |
+| You've got red on you | 34.00% | ~15,036 |
 | You're all going to die down here | 32.00% | ~14,151 |
 | He did Nazi that coming | 32.00% | ~14,151 |
 | Kill of the week | 31.00% | ~13,709 |
 | I never liked them anyway | 31.00% | ~13,709 |
 | Is it over? | 28.00% | ~12,382 |
 | Got your back | 27.00% | ~11,940 |
-| Gore soaked | 24.00% | ~10,613 |
+| Gore soaked | 24.00% | ~10,614 |
 | Shock therapy | 23.00% | ~10,171 |
 | Leave the limbs you've lost | 23.00% | ~10,171 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,402 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,222 (Ranked 125)  
+Progressed: 44,223 (Ranked 125)  
 Completed: 25 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 25 (0.06%) (Ranked 329)
 | 2023-12-22 | 44,194 | 25 |
 | 2023-12-23 | 44,210 | 25 |
 | 2023-12-24 | 44,220 | 25 |
-| 2023-12-25 | 44,222 | 25 |
+| 2023-12-25 | 44,223 | 25 |
 ## Awards
 Max (Great Boss Battles): 861  (Ranked 171)  
-Sum: 2,603 (Ranked 196)  
+Sum: 2,604 (Ranked 196)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): -25
 | This game has Diverse Characters | 223 |
 | This game is Highly Recommended | 221 |
 | This game has Amazing Storytelling | 216 |
-| This game is Extremely Fun | 212 |
+| This game is Extremely Fun | 213 |
 | This game has Quickly Understood Controls | 210 |
 | This game is Relaxing | 192 |
 | This game has Amazing Characters | 190 |
@@ -580,3 +580,4 @@ Diff (max vs sum): -25
 | 2023-12-21 | 4.69 | - | 860 | 2,599 |
 | 2023-12-22 | 4.69 | - | 860 | 2,602 |
 | 2023-12-23 | 4.69 | - | 861 | 2,603 |
+| 2023-12-25 | 4.69 | - | 861 | 2,604 |

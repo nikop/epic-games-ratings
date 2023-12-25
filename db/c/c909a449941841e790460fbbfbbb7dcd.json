@@ -2,9 +2,9 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 407,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.52,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -994,6 +994,11 @@
       "Time": "2023-12-25T13:10:25.912472+00:00",
       "NumProgressed": 220,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T18:05:30.1157068+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -1006,7 +1011,7 @@
       "Name": "Kaboom!",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -1014,7 +1019,7 @@
       "Name": "Laser Beam",
       "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -1046,7 +1051,7 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1062,7 +1067,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 65,
       "XP": 60,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1092,9 +1097,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1118,7 +1123,7 @@
       "Name": "Powerful",
       "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1132,23 +1137,23 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:07:17.4582995+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:05:30.1157061+00:00",
   "LastUpdate_AppInfo": "2023-12-19T22:56:53.2873593+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:58:13.0235572+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:07:17.4583122+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:57:37.4853816+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:05:30.1157233+00:00"
 }

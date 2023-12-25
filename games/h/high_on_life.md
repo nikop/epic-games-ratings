@@ -5,8 +5,8 @@ Rating: 4.64 (Ranked 342)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 5.00% | ~1,243 |
-| Cold-Blooded Driller | 5.00% | ~1,243 |
+| Satisfied Gus-tomer | 5.00% | ~1,244 |
+| Cold-Blooded Driller | 5.00% | ~1,244 |
 | Are You Packin'? | 4.00% | ~995 |
 | Bring A Knife to a Gun Fight | 4.00% | ~995 |
 | Sweezy Like Sunday Morning | 4.00% | ~995 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 342)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,869 (Ranked 143)  
+Progressed: 24,872 (Ranked 143)  
 Completed: 14 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 14 (0.06%) (Ranked 329)
 | 2023-12-22 | 24,828 | 14 |
 | 2023-12-23 | 24,840 | 14 |
 | 2023-12-24 | 24,852 | 14 |
-| 2023-12-25 | 24,869 | 14 |
+| 2023-12-25 | 24,872 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

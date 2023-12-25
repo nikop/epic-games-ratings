@@ -7,23 +7,23 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~136 |
+| Helping Hand | 66.00% | ~116 |
 | First of many… | 66.00% | ~116 |
-| Helping Hand | 65.00% | ~114 |
 | Increased Vigor | 60.00% | ~106 |
 | Fight Fire with Fire | 59.00% | ~104 |
-| Increased Capacity | 54.00% | ~95 |
-| Just the start | 49.00% | ~86 |
-| Perfect Storm | 46.00% | ~81 |
+| Increased Capacity | 55.00% | ~97 |
+| Just the start | 50.00% | ~88 |
+| Perfect Storm | 47.00% | ~83 |
 | All That Glitters | 45.00% | ~79 |
 | Enhance! | 43.00% | ~76 |
-| One Of the Chosen | 39.00% | ~69 |
-| Throne Potato | 38.00% | ~67 |
-| Devil's in the Details | 37.00% | ~65 |
+| One Of the Chosen | 40.00% | ~70 |
+| Throne Potato | 39.00% | ~69 |
+| Devil's in the Details | 38.00% | ~67 |
 | 25 to Life | 36.00% | ~63 |
 | Soul Harvester | 35.00% | ~62 |
 | Five's a Crowd | 35.00% | ~62 |
+| Unshakable Fortitude | 34.00% | ~60 |
 | Salvation | 34.00% | ~60 |
-| Unshakable Fortitude | 32.00% | ~56 |
 | I Wanna Rock | 31.00% | ~55 |
 | Delusions of Grandeur | 31.00% | ~55 |
 | Love Tap | 30.00% | ~53 |
@@ -31,10 +31,10 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 28.00% | ~49 |
 | Eat Your Heart Out | 28.00% | ~49 |
 | For Whom the Bell Tolls | 27.00% | ~48 |
-| Unyielding Strength | 23.00% | ~40 |
+| Unyielding Strength | 24.00% | ~42 |
+| Crowd Source | 23.00% | ~40 |
 | Cleanup Crew | 22.00% | ~39 |
 | Can you restore the Balance? | 22.00% | ~39 |
-| Crowd Source | 22.00% | ~39 |
 | Big Spender | 22.00% | ~39 |
 | Maximum Capacity | 20.00% | ~35 |
 | Demon Meddler | 19.00% | ~33 |
@@ -42,8 +42,8 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 17.00% | ~30 |
 | Protector of Humanity | 15.00% | ~26 |
 | Everybody Wants to Rule the World | 15.00% | ~26 |
+| Community Outreach | 14.00% | ~25 |
 | A Parting Gift | 13.00% | ~23 |
-| Community Outreach | 13.00% | ~23 |
 | Unbreakable Will | 11.00% | ~19 |
 | Path of the Horseman | 11.00% | ~19 |
 | Take it to the Limit | 11.00% | ~19 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 1.00% | ~2 |
 | Beast Mode | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 421)  
+Progressed: 176 (Ranked 423)  
 Completed: 1 (0.57%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |

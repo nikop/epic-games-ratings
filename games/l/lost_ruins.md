@@ -19,7 +19,7 @@
 | Gladiator | 12.00% | ~73 |
 | Lumberjack | 12.00% | ~73 |
 | The End | 12.00% | ~73 |
-| Troubleshooter | 10.00% | ~60 |
+| Troubleshooter | 10.00% | ~61 |
 | Money Swag | 8.00% | ~48 |
 | Oops | 7.00% | ~42 |
 | Shield Crusher | 7.00% | ~42 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 605 (Ranked 322)  
+Progressed: 606 (Ranked 322)  
 Completed: 1 (0.17%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.17%) (Ranked 283)
 | 2023-12-22 | 588 | 1 |
 | 2023-12-23 | 594 | 1 |
 | 2023-12-24 | 599 | 1 |
-| 2023-12-25 | 605 | 1 |
+| 2023-12-25 | 606 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

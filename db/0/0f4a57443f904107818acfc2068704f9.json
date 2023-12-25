@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2472,6 +2472,11 @@
       "Time": "2023-12-25T17:05:33.1981138+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T18:04:12.9763678+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2492,7 +2497,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2538,9 +2543,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 791
     },
     {
       "ID": "CompleteChapter10",
@@ -2548,7 +2553,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteChapter11",
@@ -2572,7 +2577,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "CompleteChapter14",
@@ -2628,7 +2633,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 614
+      "UsersEstimate": 616
     },
     {
       "ID": "CompleteChapter3",
@@ -2636,7 +2641,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 411
     },
     {
       "ID": "CompleteChapter4",
@@ -2644,7 +2649,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "CompleteChapter5",
@@ -2652,7 +2657,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "CompleteChapter6",
@@ -2668,7 +2673,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CompleteChapter8",
@@ -2684,7 +2689,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -2732,7 +2737,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2779,14 +2784,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1027,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:05:33.1981135+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:12.9763676+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:01:16.9968144+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:05:33.1981508+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:44.7015539+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:12.9763948+00:00"
 }

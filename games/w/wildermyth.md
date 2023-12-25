@@ -8,9 +8,9 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | Me and My Familiar | 6.00% | ~93 |
 | The Cost of Heroism | 6.00% | ~93 |
-| Passing Shadow | 5.00% | ~77 |
-| This Too Shall Pass | 5.00% | ~77 |
-| Cutthroat Competitors | 5.00% | ~77 |
+| Passing Shadow | 5.00% | ~78 |
+| This Too Shall Pass | 5.00% | ~78 |
+| Cutthroat Competitors | 5.00% | ~78 |
 | Gotta Ca... Must Collect All of Them | 4.00% | ~62 |
 | How Romantic! | 4.00% | ~62 |
 | Daybreak | 4.00% | ~62 |
@@ -19,12 +19,12 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 3.00% | ~46 |
 | A Mythic Menagerie | 2.00% | ~31 |
 | Who's Counting? | 2.00% | ~31 |
-| Let Me Get My Chisel | 1.00% | ~15 |
-| Thematic Divergence | 1.00% | ~15 |
-| Pyrrhic Victory | 1.00% | ~15 |
-| Echoes Die | 1.00% | ~15 |
-| A Story of Heroes | 1.00% | ~15 |
-| Turncoat | 1.00% | ~15 |
+| Let Me Get My Chisel | 1.00% | ~16 |
+| Thematic Divergence | 1.00% | ~16 |
+| Pyrrhic Victory | 1.00% | ~16 |
+| Echoes Die | 1.00% | ~16 |
+| A Story of Heroes | 1.00% | ~16 |
+| Turncoat | 1.00% | ~16 |
 | Another Tale to Tell | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
@@ -41,10 +41,10 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.50% | ~8 |
 | Bears are Scary | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
+| Lochias's Hunger | 0.50% | ~8 |
 | Worldwalker | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Grillmaster | 0.40% | ~6 |
-| Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | A Hunger, Sated | 0.30% | ~5 |
 | Fight Like a Bird | 0.30% | ~5 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 254)  
+Progressed: 1,550 (Ranked 254)  
 Completed: 7 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.45%) (Ranked 224)
 | 2023-12-22 | 1,540 | 7 |
 | 2023-12-23 | 1,545 | 7 |
 | 2023-12-24 | 1,547 | 7 |
-| 2023-12-25 | 1,549 | 7 |
+| 2023-12-25 | 1,550 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 519)  
 Sum: 29 (Ranked 536)  

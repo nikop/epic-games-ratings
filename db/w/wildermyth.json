@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2221,6 +2221,11 @@
       "Time": "2023-12-25T06:11:13.4892576+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T18:09:40.8321133+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2280,7 +2285,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -2304,7 +2309,7 @@
       "Name": "Passing Shadow",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2392,7 +2397,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2424,7 +2429,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2432,7 +2437,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -2448,7 +2453,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "completedStory_cvawn",
@@ -2488,7 +2493,7 @@
       "Name": "Echoes Die",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "completedStory_procedural",
@@ -2496,7 +2501,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "completedStory_ulstryx",
@@ -2552,7 +2557,7 @@
       "Name": "Turncoat",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -2662,9 +2667,9 @@
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -2679,15 +2684,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:11:05.4249871+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:40.8321131+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.6061916+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:57:16.1481354+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:11:05.4250273+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:56:57.7225246+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:40.8321522+00:00"
 }

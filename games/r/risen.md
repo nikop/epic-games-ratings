@@ -5,20 +5,20 @@ Rating: 4.52 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~110 |
-| Map reader | 67.00% | ~80 |
-| Adventurer | 64.00% | ~77 |
-| Philanthropist | 62.00% | ~74 |
-| Archer | 44.00% | ~53 |
+| Beginner | 92.00% | ~112 |
+| Map reader | 66.00% | ~81 |
+| Adventurer | 63.00% | ~77 |
+| Philanthropist | 61.00% | ~74 |
 | The brave little tailor | 43.00% | ~52 |
-| Field hand | 41.00% | ~49 |
-| Well-to-do | 36.00% | ~43 |
-| Samaritan | 35.00% | ~42 |
-| The merciful one | 33.00% | ~40 |
-| Ladies' man | 32.00% | ~38 |
-| Ferocious wild boars | 27.00% | ~32 |
-| Idiot | 26.00% | ~31 |
-| Beast slayer | 23.00% | ~28 |
+| Archer | 43.00% | ~52 |
+| Field hand | 40.00% | ~49 |
+| Well-to-do | 35.00% | ~43 |
+| Samaritan | 34.00% | ~41 |
+| The merciful one | 32.00% | ~39 |
+| Ladies' man | 31.00% | ~38 |
+| Ferocious wild boars | 26.00% | ~32 |
+| Idiot | 25.00% | ~30 |
+| Beast slayer | 22.00% | ~27 |
 | Family man | 20.00% | ~24 |
 | Archaeologist | 20.00% | ~24 |
 | Wise man | 19.00% | ~23 |
@@ -28,35 +28,35 @@ Rating: 4.52 (Ranked 564)
 | Little hero | 18.00% | ~22 |
 | The fourth triplet | 18.00% | ~22 |
 | Sidelined | 18.00% | ~22 |
-| Fence | 17.00% | ~20 |
-| Master detective | 17.00% | ~20 |
-| Pandora's box | 16.00% | ~19 |
+| Pandora's box | 16.00% | ~20 |
+| Fence | 16.00% | ~20 |
+| Master detective | 16.00% | ~20 |
 | Ghost hunter | 15.00% | ~18 |
 | Peacekeeper | 14.00% | ~17 |
 | Defender | 13.00% | ~16 |
 | Workaholic | 13.00% | ~16 |
-| Showdown | 12.00% | ~14 |
 | Freedom fighter | 11.00% | ~13 |
+| Showdown | 11.00% | ~13 |
 | Safecracker | 11.00% | ~13 |
 | Master thief | 11.00% | ~13 |
 | Titan Lord | 9.00% | ~11 |
 | King of the handymen | 9.00% | ~11 |
 | Terror of the hens | 8.00% | ~10 |
-| Expert | 8.00% | ~10 |
+| Expert | 7.00% | ~9 |
 | The traveler | 6.00% | ~7 |
 | Moneybags | 6.00% | ~7 |
 | Rune master | 4.00% | ~5 |
 | King Midas | 4.00% | ~5 |
-| Big game hunter | 3.00% | ~4 |
-| Mage | 3.00% | ~4 |
 | Fervent swimmer | 3.00% | ~4 |
 | Jester | 3.00% | ~4 |
+| Big game hunter | 2.00% | ~2 |
+| Mage | 2.00% | ~2 |
 | Sharpshooter | 2.00% | ~2 |
 | Gladiator | 0.80% | ~1 |
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 463)  
+Progressed: 122 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 107 | 0 |
 | 2023-12-23 | 113 | 0 |
 | 2023-12-24 | 118 | 0 |
-| 2023-12-25 | 120 | 0 |
+| 2023-12-25 | 122 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

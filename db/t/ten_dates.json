@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1021,6 +1021,11 @@
       "Time": "2023-12-25T15:09:13.2577866+00:00",
       "NumProgressed": 401,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T18:09:08.5498645+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1064,7 +1069,7 @@
       "Name": "Let it begin",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "profile_ryan",
@@ -1072,7 +1077,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ryan_date2_all",
@@ -1160,7 +1165,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "success_ty",
@@ -1183,7 +1188,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 5
     }
   ],
@@ -1191,8 +1196,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:21.9506392+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:08.5498643+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.9685233+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:26.0371659+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:21.9506566+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:09.1452504+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:08.5498752+00:00"
 }

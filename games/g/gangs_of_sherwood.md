@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~86 |
+| Act of Kindness | 87.00% | ~86 |
 | Air Fighter | 74.00% | ~73 |
 | Oo-De-Lally | 69.00% | ~68 |
 | The Altruist | 65.00% | ~64 |
 | Treasure Hunter | 64.00% | ~63 |
 | Watch your Step! | 53.00% | ~52 |
 | Tap Dancing | 51.00% | ~50 |
-| MAX LEVEL | 50.00% | ~49 |
-| Right between the eyes | 40.00% | ~39 |
-| Spring Board | 40.00% | ~39 |
-| Starry Night | 38.00% | ~37 |
-| Locksley's Tears | 37.00% | ~36 |
-| Rebel Unleashed | 36.00% | ~35 |
-| Merry Co-operation | 32.00% | ~31 |
-| Finish Him! | 26.00% | ~25 |
+| MAX LEVEL | 49.00% | ~49 |
+| Right between the eyes | 39.00% | ~39 |
+| Spring Board | 39.00% | ~39 |
+| Starry Night | 37.00% | ~37 |
+| Locksley's Tears | 36.00% | ~36 |
+| Rebel Unleashed | 35.00% | ~35 |
+| Merry Co-operation | 31.00% | ~31 |
+| Finish Him! | 25.00% | ~25 |
 | Assault on the Ram | 24.00% | ~24 |
 | Ultra Rebel Instinct | 23.00% | ~23 |
 | First Aid | 23.00% | ~23 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 481)  
+Progressed: 99 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,4 +91,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 90 | 0 |
 | 2023-12-23 | 94 | 0 |
 | 2023-12-24 | 97 | 0 |
-| 2023-12-25 | 98 | 0 |
+| 2023-12-25 | 99 | 0 |

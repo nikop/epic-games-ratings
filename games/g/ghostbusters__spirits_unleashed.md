@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,268 |
+| Stylish | 10.00% | ~3,269 |
 | Meticulously Efficient | 8.00% | ~2,615 |
 | Advancement | 7.00% | ~2,288 |
 | Discovery | 6.00% | ~1,961 |
@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 603)
 | Fully Upgraded | 5.00% | ~1,634 |
 | Teamwork | 5.00% | ~1,634 |
 | Vaporous Expansion | 5.00% | ~1,634 |
-| Clutch Capture | 4.00% | ~1,307 |
-| Cultured | 4.00% | ~1,307 |
-| Daily Dose | 4.00% | ~1,307 |
-| Ghostbuster In Training | 4.00% | ~1,307 |
-| There you are! | 4.00% | ~1,307 |
-| Whoopsie | 4.00% | ~1,307 |
+| Clutch Capture | 4.00% | ~1,308 |
+| Cultured | 4.00% | ~1,308 |
+| Daily Dose | 4.00% | ~1,308 |
+| Ghostbuster In Training | 4.00% | ~1,308 |
+| There you are! | 4.00% | ~1,308 |
+| Whoopsie | 4.00% | ~1,308 |
 | Animated | 3.00% | ~981 |
 | Back Off | 3.00% | ~981 |
 | We have the best insurance | 3.00% | ~981 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 603)
 | Rivalry | 1.00% | ~327 |
 | Surprise! | 1.00% | ~327 |
 | Terrifying | 1.00% | ~327 |
-| Therapeutic | 0.80% | ~261 |
+| Therapeutic | 0.80% | ~262 |
 | Rift Seeker | 0.60% | ~196 |
 | Master Collector | 0.50% | ~163 |
 | Ghost Expert | 0.30% | ~98 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 603)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,684 (Ranked 133)  
+Progressed: 32,688 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 70 (0.21%) (Ranked 272)
 | 2023-12-22 | 32,549 | 69 |
 | 2023-12-23 | 32,608 | 69 |
 | 2023-12-24 | 32,658 | 69 |
-| 2023-12-25 | 32,684 | 70 |
+| 2023-12-25 | 32,688 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 251)  
 Sum: 2,925 (Ranked 182)  

@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -496,9 +496,9 @@
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Defeat_Gor",
@@ -728,9 +728,9 @@
       "ID": "MainCampaign_Artificer",
       "SetID": "7b9f97e",
       "Name": "Master Artificer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MainCampaign_CirclePage_All_Antagonists",
@@ -808,9 +808,9 @@
       "ID": "MainCampaign_Unbalanced",
       "SetID": "7b9f97e",
       "Name": "Impossible Mission",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Max_Reputation_Alluvyan",
@@ -993,8 +993,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:03.830305+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:08:55.2660943+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:23.0652851+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:03.8303523+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:06.380318+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:08:55.2661406+00:00"
 }

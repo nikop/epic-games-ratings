@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -342,9 +342,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:05:38.1991306+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:16.6171193+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:09.1723699+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:59:26.9472884+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:05:38.1991548+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:58:30.6272424+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:16.6171454+00:00"
 }

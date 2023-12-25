@@ -6,34 +6,34 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,953 |
-| Man of politics | 34.00% | ~5,910 |
-| Yet another secret | 33.00% | ~5,736 |
-| Friends of sorts | 32.00% | ~5,562 |
-| Let there be darkness | 31.00% | ~5,388 |
+| Tattletale | 40.00% | ~6,954 |
+| Man of politics | 34.00% | ~5,911 |
+| Yet another secret | 33.00% | ~5,737 |
+| Friends of sorts | 32.00% | ~5,563 |
+| Let there be darkness | 31.00% | ~5,389 |
 | End of Book One | 29.00% | ~5,041 |
 | Garden of Eden | 24.00% | ~4,172 |
 | Wannabe knight | 23.00% | ~3,998 |
 | Full house | 23.00% | ~3,998 |
-| Help an old friend | 21.00% | ~3,650 |
-| Two of us | 20.00% | ~3,476 |
+| Help an old friend | 21.00% | ~3,651 |
+| Two of us | 20.00% | ~3,477 |
 | Negotiation skills | 18.00% | ~3,129 |
 | Workers' union | 18.00% | ~3,129 |
 | End of Book Two | 18.00% | ~3,129 |
 | Everything's in order | 16.00% | ~2,781 |
-| Twist of Fate | 14.00% | ~2,433 |
-| Jack was here! | 14.00% | ~2,433 |
+| Twist of Fate | 14.00% | ~2,434 |
+| Jack was here! | 14.00% | ~2,434 |
 | Exterminator | 13.00% | ~2,260 |
 | Whodunnit | 12.00% | ~2,086 |
 | Good midwife | 10.00% | ~1,738 |
 | Friar Tuck | 10.00% | ~1,738 |
 | First profit | 10.00% | ~1,738 |
 | Team player | 10.00% | ~1,738 |
-| Skilled merchant | 9.00% | ~1,564 |
-| Brother Marcus | 9.00% | ~1,564 |
-| The oath | 9.00% | ~1,564 |
-| The truth revealed | 9.00% | ~1,564 |
-| The End. | 9.00% | ~1,564 |
+| Skilled merchant | 9.00% | ~1,565 |
+| Brother Marcus | 9.00% | ~1,565 |
+| The oath | 9.00% | ~1,565 |
+| The truth revealed | 9.00% | ~1,565 |
+| The End. | 9.00% | ~1,565 |
 | Nothing but make-believe | 8.00% | ~1,391 |
 | A cry for help | 7.00% | ~1,217 |
 | Silentium est aureum | 7.00% | ~1,217 |
@@ -43,12 +43,12 @@ Number of Ratings: 368  (23.09.2022)
 | Vox Populi | 5.00% | ~869 |
 | Revenge | 4.00% | ~695 |
 | Countess Aliena | 4.00% | ~695 |
-| Care, like a brother cares | 3.00% | ~521 |
-| A brush with death | 3.00% | ~521 |
-| Self-defense | 3.00% | ~521 |
+| Care, like a brother cares | 3.00% | ~522 |
+| A brush with death | 3.00% | ~522 |
+| Self-defense | 3.00% | ~522 |
 | Boy of mystery | 2.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,382 (Ranked 157)  
+Progressed: 17,384 (Ranked 157)  
 Completed: 121 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 121 (0.70%) (Ranked 196)
 | 2023-12-22 | 17,285 | 119 |
 | 2023-12-23 | 17,320 | 119 |
 | 2023-12-24 | 17,360 | 120 |
-| 2023-12-25 | 17,382 | 121 |
+| 2023-12-25 | 17,384 | 121 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 321)  
 Sum: 200 (Ranked 409)  

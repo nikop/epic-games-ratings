@@ -6,7 +6,7 @@
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31369,
+  "EOS_Progressed": 31376,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28086,6 +28086,11 @@
       "Time": "2023-12-25T17:10:38.0049179+00:00",
       "NumProgressed": 31369,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-25T18:09:20.2902547+00:00",
+      "NumProgressed": 31376,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28105,7 +28110,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "1017",
@@ -28113,7 +28118,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "1018",
@@ -28121,7 +28126,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "1019",
@@ -28137,7 +28142,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "1021",
@@ -28145,7 +28150,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "1022",
@@ -28153,7 +28158,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "1023",
@@ -28177,7 +28182,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "1026",
@@ -28193,7 +28198,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "1028",
@@ -28201,7 +28206,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5646
+      "UsersEstimate": 5648
     },
     {
       "ID": "1029",
@@ -28217,7 +28222,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     },
     {
       "ID": "1031",
@@ -28225,7 +28230,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "1032",
@@ -28233,7 +28238,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12548
+      "UsersEstimate": 12550
     },
     {
       "ID": "1033",
@@ -28257,7 +28262,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "1036",
@@ -28272,15 +28277,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31369,
+      "Progressed": 31376,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:38.0049176+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:20.2902546+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:57:21.356087+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:38.0050798+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:57:01.4625431+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:20.290381+00:00"
 }

@@ -1,23 +1,23 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 888)  
+Rating: 4.26 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,872 |
-| Don't I Know You...? | 76.00% | ~1,801 |
-| Jailbreak | 65.00% | ~1,540 |
+| Rigged And Ready | 79.00% | ~1,873 |
+| Don't I Know You...? | 76.00% | ~1,802 |
+| Jailbreak | 65.00% | ~1,541 |
 | HEADSHOT! | 38.00% | ~901 |
 | Suited and Booted | 38.00% | ~901 |
 | Sleeping With The Fishes | 35.00% | ~830 |
 | Overheated | 30.00% | ~711 |
 | High Performance | 30.00% | ~711 |
 | Powered Up | 28.00% | ~664 |
-| Studied The Blade | 25.00% | ~592 |
+| Studied The Blade | 25.00% | ~593 |
 | Home Invasion | 23.00% | ~545 |
-| Luminary | 22.00% | ~521 |
-| It's a Trap | 22.00% | ~521 |
+| Luminary | 22.00% | ~522 |
+| It's a Trap | 22.00% | ~522 |
 | True Survivor | 21.00% | ~498 |
 | Offensive Defense | 20.00% | ~474 |
 | Shocking | 20.00% | ~474 |
@@ -32,9 +32,9 @@ Rating: 4.26 (Ranked 888)
 | Where It All Began | 13.00% | ~308 |
 | Risk Tolerant | 13.00% | ~308 |
 | What A Catchy Song | 13.00% | ~308 |
-| Corrupted Beauty | 12.00% | ~284 |
-| Marked For Success | 12.00% | ~284 |
-| Sorry, Didn't See You There | 12.00% | ~284 |
+| Corrupted Beauty | 12.00% | ~285 |
+| Marked For Success | 12.00% | ~285 |
+| Sorry, Didn't See You There | 12.00% | ~285 |
 | Stimulating The Local Economy | 10.00% | ~237 |
 | Triplets | 10.00% | ~237 |
 | Denying Prophecy | 9.00% | ~213 |
@@ -46,10 +46,10 @@ Rating: 4.26 (Ranked 888)
 | Remote Surgery | 6.00% | ~142 |
 | Turbo Booster | 6.00% | ~142 |
 | Squid Pro Quo | 6.00% | ~142 |
-| Hello Darkness My Old Friend | 5.00% | ~118 |
-| Counter-Sniper | 5.00% | ~118 |
-| Shrimp Cocktail | 5.00% | ~118 |
-| Juiced Up | 5.00% | ~118 |
+| Hello Darkness My Old Friend | 5.00% | ~119 |
+| Counter-Sniper | 5.00% | ~119 |
+| Shrimp Cocktail | 5.00% | ~119 |
+| Juiced Up | 5.00% | ~119 |
 | Geronimo! | 4.00% | ~95 |
 | Plank of Wood | 4.00% | ~95 |
 | Gotta Craft 'em All | 3.00% | ~71 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 888)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,370 (Ranked 230)  
+Progressed: 2,371 (Ranked 230)  
 Completed: 13 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 13 (0.55%) (Ranked 209)
 | 2023-12-22 | 2,340 | 13 |
 | 2023-12-23 | 2,352 | 13 |
 | 2023-12-24 | 2,366 | 13 |
-| 2023-12-25 | 2,370 | 13 |
+| 2023-12-25 | 2,371 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 4.00% | ~5,193 |
 | Overdue Notice | 4.00% | ~5,193 |
 | Escape from the Black Hole | 4.00% | ~5,193 |
-| Ploughshares to Swords | 4.00% | ~187 |
-| Bloody Graduation | 4.00% | ~187 |
+| Ploughshares to Swords | 4.00% | ~188 |
+| Bloody Graduation | 4.00% | ~188 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,895 |
 | It Rings a Bell | 3.00% | ~3,895 |
 | Not Today! | 3.00% | ~3,895 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,817 (Ranked 87)  
+Progressed: 129,821 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,15 +325,15 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,817 | 3 |
+| 2023-12-25 | 129,821 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
-Sum: 21,070 (Ranked 58)  
+Sum: 21,074 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,863 |
-| This game has Diverse Characters | 1,767 |
+| This game has Diverse Characters | 1,771 |
 | This game has Challenging Combat | 1,634 |
 | This game is Highly Recommended | 1,567 |
 | This game is Extremely Fun | 1,491 |
@@ -678,4 +678,4 @@ Diff (max vs sum): -8
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
-| 2023-12-25 | 4.68 | - | 7,863 | 21,070 |
+| 2023-12-25 | 4.68 | - | 7,863 | 21,074 |

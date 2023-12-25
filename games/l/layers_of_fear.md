@@ -29,9 +29,9 @@
 | A new way | 7.00% | ~14 |
 | Breaking free | 7.00% | ~14 |
 | True Reflection | 7.00% | ~14 |
+| Casting Finished | 6.00% | ~12 |
 | Heavy Burden | 6.00% | ~12 |
 | Fisherman | 6.00% | ~12 |
-| Casting Finished | 5.00% | ~10 |
 | Instinct of self-preservation | 5.00% | ~10 |
 | We Are Not Alone | 4.00% | ~8 |
 | The Perfect Storm | 4.00% | ~8 |

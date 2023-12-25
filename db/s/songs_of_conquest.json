@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 745,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
@@ -2783,6 +2783,11 @@
       "Time": "2023-12-25T16:08:48.9249871+00:00",
       "NumProgressed": 744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T18:08:27.8982568+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2899,7 +2904,7 @@
       "Name": "Critical Hit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Deepstrike",
@@ -3131,7 +3136,7 @@
       "Name": "Veteran",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "WielderLevel3",
@@ -3226,15 +3231,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 745,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:09:26.7992637+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:08:27.8982565+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:02:51.4222694+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:09:26.7993145+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:00:28.0252393+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:08:27.8983133+00:00"
 }

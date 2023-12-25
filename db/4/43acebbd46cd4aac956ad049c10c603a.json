@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -243,7 +243,7 @@
   ],
   "EOS_Progressed": 1136,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3480,9 +3480,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 91
     },
     {
       "ID": "VerdantCanyon",
@@ -3537,8 +3537,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:04:15.7459433+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:03:15.8497327+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:59:08.1623989+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:04:15.7459903+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:58:17.7411813+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:03:15.8497777+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 353,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -794,6 +794,11 @@
       "Time": "2023-12-25T16:04:00.0569007+00:00",
       "NumProgressed": 153,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T18:03:36.9880176+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -806,7 +811,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -814,7 +819,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -862,7 +867,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -886,7 +891,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -902,7 +907,7 @@
       "Name": "Ouch of Body Experience",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -940,7 +945,7 @@
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
       "SetID": "cefn62b",
       "Name": "Steezy Down the Spine",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -956,9 +961,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -966,7 +971,7 @@
       "Name": "Kaijuiced",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -982,7 +987,7 @@
       "Name": "Die Nasty",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -1004,17 +1009,17 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
       "SetID": "cefn62b",
       "Name": "Arty Facts",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -1044,9 +1049,9 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -1076,15 +1081,15 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
       "SetID": "cefn62b",
       "Name": "Against All Odds",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -1102,7 +1107,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1116,24 +1121,24 @@
       "ID": "ACH_UPGRADE_TOPTIER",
       "SetID": "cefn62b",
       "Name": "Trans-Siberian Express",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:04:44.7065944+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:03:36.9880174+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:57:22.1158452+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:04:44.7066189+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:57:01.977137+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:03:36.9880382+00:00"
 }

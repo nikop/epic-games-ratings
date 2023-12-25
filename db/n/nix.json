@@ -3,7 +3,7 @@
   "Name": "Nix",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:49.8033575+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:01:03.0877744+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:04:42.2906643+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:35.4220453+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:03:35.1561601+00:00"
 }

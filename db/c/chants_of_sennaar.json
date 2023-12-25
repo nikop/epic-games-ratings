@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1778,
+  "EOS_Progressed": 1779,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 5.79,
   "EosHistory": [
@@ -5227,6 +5227,11 @@
       "Time": "2023-12-25T17:04:28.9285933+00:00",
       "NumProgressed": 1778,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-12-25T18:03:25.3760663+00:00",
+      "NumProgressed": 1779,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 25,
@@ -5238,7 +5243,7 @@
       "Name": "I did it",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "END_GOOD",
@@ -5262,7 +5267,7 @@
       "Name": "Cable guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "META_FIRST_LINK",
@@ -5270,7 +5275,7 @@
       "Name": "A good beginning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "META_HALF_LINK",
@@ -5278,7 +5283,7 @@
       "Name": "Half the way",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "META_RESULT_1-2",
@@ -5350,7 +5355,7 @@
       "Name": "True G3M4R",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5366,7 +5371,7 @@
       "Name": "Fashion victim",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -5398,7 +5403,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "PROGRESS_N2",
@@ -5406,7 +5411,7 @@
       "Name": "The great escape",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "PROGRESS_N3",
@@ -5422,7 +5427,7 @@
       "Name": "The darkness",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "PROGRESS_N5",
@@ -5437,7 +5442,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1778,
+      "Progressed": 1779,
       "Completed": 103
     }
   ],
@@ -5445,8 +5450,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:04:28.928593+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:03:25.376066+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:57:30.3675987+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:04:28.9286354+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:57:07.4490811+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:03:25.3761081+00:00"
 }

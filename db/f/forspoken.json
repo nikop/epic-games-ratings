@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45179,
+  "EOS_Progressed": 45190,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16414,6 +16414,11 @@
       "Time": "2023-12-25T17:06:30.0207616+00:00",
       "NumProgressed": 45179,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T18:04:54.3909349+00:00",
+      "NumProgressed": 45190,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16441,7 +16446,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -16457,7 +16462,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16473,7 +16478,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16481,7 +16486,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16489,7 +16494,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -16577,7 +16582,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16585,7 +16590,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16601,7 +16606,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "JUSTCOUNTER",
@@ -16641,7 +16646,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16681,7 +16686,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "MAGIC_IVY",
@@ -16729,7 +16734,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "PARKOUR_TIME",
@@ -16761,7 +16766,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "SPRING_ALL",
@@ -16848,22 +16853,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45179,
+      "Progressed": 45190,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10016,
-      "Completed": 10016
+      "Progressed": 10027,
+      "Completed": 10027
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:06:30.0207612+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:54.3909345+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:11.2478423+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:06:30.0208572+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:59:00.6346484+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:54.3910722+00:00"
 }

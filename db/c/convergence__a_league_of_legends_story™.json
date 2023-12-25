@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3489,9 +3489,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 121
     },
     {
       "ID": "SyronGift",
@@ -3578,8 +3578,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:10:56.9290515+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:09:34.2966097+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-25T16:58:40.6092519+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:10:56.929103+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:57:58.2862386+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:09:34.2966574+00:00"
 }

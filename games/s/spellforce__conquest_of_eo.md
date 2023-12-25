@@ -15,7 +15,7 @@
 | Artificer's Apprentice | 51.00% | ~41 |
 | Fly the friendly Sky | 46.00% | ~37 |
 | Get out of here! | 44.00% | ~35 |
-| Necromancer's Apprentice | 40.00% | ~32 |
+| Necromancer's Apprentice | 41.00% | ~33 |
 | Alchemist's Apprentice | 39.00% | ~31 |
 | Friend of Lyraine | 38.00% | ~30 |
 | The Circle | 34.00% | ~27 |
@@ -54,6 +54,7 @@
 | Lytra's Tale | 5.00% | ~4 |
 | Crypt of the Revenant | 5.00% | ~4 |
 | Tuscari Sea Portal | 5.00% | ~4 |
+| Master Artificer | 5.00% | ~4 |
 | Heroes | 5.00% | ~4 |
 | Friend of Grey Dusk Vale | 5.00% | ~4 |
 | Defeat Ianna | 4.00% | ~3 |
@@ -61,7 +62,6 @@
 | Defeat Rohen | 4.00% | ~3 |
 | Defeat Yria | 4.00% | ~3 |
 | Master Alchemist | 4.00% | ~3 |
-| Master Artificer | 4.00% | ~3 |
 | A Monopoly of Might | 4.00% | ~3 |
 | My Friends! | 4.00% | ~3 |
 | Master Necromancer | 4.00% | ~3 |
@@ -70,7 +70,7 @@
 | Breaking the circle | 3.00% | ~2 |
 | Misty Coast Dragonbones | 1.00% | ~1 |
 | Hard Life | 1.00% | ~1 |
-| Impossible Mission | 0.00% | ~0 |
+| Impossible Mission | 1.00% | ~1 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |

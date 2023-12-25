@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3589,
+  "EOS_Progressed": 3590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4866,6 +4866,11 @@
       "Time": "2023-12-25T16:05:13.0307192+00:00",
       "NumProgressed": 3589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T18:04:50.254708+00:00",
+      "NumProgressed": 3590,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4973,7 +4978,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5085,7 +5090,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Kills_Interactable",
@@ -5420,21 +5425,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3589,
+      "Progressed": 3590,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3589,
+      "Progressed": 3590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:06:24.4643703+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:04:50.2547077+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:03:36.1109277+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:06:24.4644303+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:02:48.2720206+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:04:50.2547734+00:00"
 }

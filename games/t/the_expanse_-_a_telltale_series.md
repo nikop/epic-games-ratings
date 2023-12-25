@@ -24,10 +24,10 @@ Rating: 4.55 (Ranked 512)
 | Drug Gifter | 6.00% | ~1,044 |
 | Heal Thy Medic | 6.00% | ~1,044 |
 | Doctor Approved | 5.00% | ~870 |
+| Bottoms up! | 5.00% | ~870 |
 | Thorston Mayer | 5.00% | ~870 |
 | Khan's Revenge | 5.00% | ~870 |
 | Master Negotiator | 5.00% | ~168 |
-| Bottoms up! | 4.00% | ~696 |
 | Data Logger | 3.00% | ~522 |
 | Miraculous Maya | 3.00% | ~522 |
 | Brother's Reaper | 2.00% | ~348 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,398 (Ranked 156)  
+Progressed: 17,400 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
-| 2023-12-25 | 17,398 | 52 |
+| 2023-12-25 | 17,400 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

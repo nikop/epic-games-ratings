@@ -4,7 +4,7 @@
   "ProductSlug": "haunted-house-c5a71b",
   "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-12T07:00:00+00:00",
@@ -251,8 +251,8 @@
   ],
   "FirstSeen": "2023-11-22T19:58:29.2616051+00:00",
   "FirstSeenAchievements": "2023-10-10T18:03:06.981062+00:00",
-  "LastChanged_Achievements": "2023-12-25T17:04:31.9476489+00:00",
+  "LastChanged_Achievements": "2023-12-25T18:03:27.6223433+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.3832914+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:00:05.0995186+00:00",
-  "LastUpdate_Achievements": "2023-12-25T17:04:31.9476623+00:00"
+  "LastUpdate_Ratings": "2023-12-25T17:58:56.4696884+00:00",
+  "LastUpdate_Achievements": "2023-12-25T18:03:27.6223569+00:00"
 }

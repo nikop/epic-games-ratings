@@ -14,9 +14,9 @@
 | Cat Lover | 10.00% | ~10 |
 | Mummy Nightmare | 9.00% | ~9 |
 | Dynamite, Treason and Coconuts | 9.00% | ~9 |
+| In the Name of the Law | 8.00% | ~8 |
+| Au Revoir, Abudin | 8.00% | ~8 |
 | Save a Friend | 8.00% | ~8 |
-| In the Name of the Law | 7.00% | ~7 |
-| Au Revoir, Abudin | 7.00% | ~7 |
 | Mysterious Bungalow | 7.00% | ~7 |
 | The Eyes! | 6.00% | ~6 |
 | Keep the Doctor Away | 6.00% | ~6 |
@@ -42,7 +42,7 @@
 | Escaping War | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 475)  
+Progressed: 102 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
