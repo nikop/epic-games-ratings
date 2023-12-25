@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1241,9 +1241,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -1529,9 +1529,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -1598,8 +1598,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:03:50.0925898+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:08:03.0214817+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:19.0566267+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:03:50.092648+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:09.1422601+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:08:03.0215376+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.49,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -799,6 +799,11 @@
       "Time": "2023-12-25T04:04:12.7712951+00:00",
       "NumProgressed": 154,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T13:08:51.5826812+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -865,9 +870,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Kour",
@@ -875,7 +880,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KrabiPyramida",
@@ -891,7 +896,7 @@
       "Name": "Knife",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Kvitky",
@@ -899,7 +904,7 @@
       "Name": "Blossoms",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MluviciPapouch",
@@ -915,7 +920,7 @@
       "Name": "Singing Mouse",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Netopyrci",
@@ -931,7 +936,7 @@
       "Name": "Liana Bats",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Pejsek",
@@ -939,7 +944,7 @@
       "Name": "Dog",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Poustevnik",
@@ -979,7 +984,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Sputnik2",
@@ -987,7 +992,7 @@
       "Name": "Sputnik",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Stonozka",
@@ -1027,7 +1032,7 @@
       "Name": "Rockheads",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Zelvak",
@@ -1041,23 +1046,23 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:04:24.3178338+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:08:51.5826809+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:02:48.2404468+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:04:24.3178558+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:29.2486812+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:08:51.5827+00:00"
 }

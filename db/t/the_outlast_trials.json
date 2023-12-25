@@ -4,11 +4,11 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 298,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -3829,10 +3829,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1377,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-12-25T13:05:23.6444378+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1381,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1377,
+  "NumberOfAwards": 1381,
   "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3840,7 +3846,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3858,7 +3864,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3876,7 +3882,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game is Educational",
@@ -3909,8 +3915,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-12-25T10:00:44.6580631+00:00",
+  "LastChanged": "2023-12-25T13:05:23.6444376+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:05.1980251+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:00:11.6406611+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:06:21.0637708+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:05:23.6444382+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:07:10.6702037+00:00"
 }

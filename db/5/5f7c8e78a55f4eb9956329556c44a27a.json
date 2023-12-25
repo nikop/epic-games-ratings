@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 221,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -948,9 +948,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1163,8 +1163,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:03:27.2029708+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:07:30.2823265+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:02.2829018+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:46.0878925+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:03:27.2030074+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:47.0580669+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:07:30.2823474+00:00"
 }

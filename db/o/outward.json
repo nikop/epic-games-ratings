@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4233,
+  "EOS_Progressed": 4236,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6986,6 +6986,11 @@
       "Time": "2023-12-25T12:08:08.5171489+00:00",
       "NumProgressed": 4233,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-25T13:12:01.0354673+00:00",
+      "NumProgressed": 4236,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7037,7 +7042,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "CrowdPleaser",
@@ -7061,7 +7066,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7069,7 +7074,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ForAllAurai_8",
@@ -7101,7 +7106,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "HouseofCards_19",
@@ -7109,7 +7114,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -7125,7 +7130,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "LightofLevant_18",
@@ -7181,7 +7186,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2076
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7189,7 +7194,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2626
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7197,7 +7202,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7205,7 +7210,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7221,7 +7226,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7261,7 +7266,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7317,7 +7322,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3092
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7332,15 +7337,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4233,
+      "Progressed": 4236,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:08.5171485+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:12:01.0354669+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:02:49.5371832+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:08.517195+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:30.7625935+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:12:01.0355311+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -751,9 +751,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "DiggingAHole",
@@ -950,8 +950,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:06:06.0935907+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:11:16.5175878+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:03:06.3035959+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:06:06.0936104+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:56.0996907+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:11:16.5176129+00:00"
 }

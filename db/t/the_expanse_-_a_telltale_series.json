@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17377,
+  "EOS_Progressed": 17384,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15086,6 +15086,11 @@
       "Time": "2023-12-25T12:03:35.653013+00:00",
       "NumProgressed": 17377,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-25T13:07:42.4130412+00:00",
+      "NumProgressed": 17384,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15130,7 +15135,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "14",
@@ -15146,7 +15151,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "16",
@@ -15162,7 +15167,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "18",
@@ -15186,7 +15191,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "20",
@@ -15202,7 +15207,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "22",
@@ -15226,7 +15231,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "25",
@@ -15242,7 +15247,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "27",
@@ -15274,7 +15279,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "30",
@@ -15338,7 +15343,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "32",
@@ -15346,7 +15351,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "33",
@@ -15354,7 +15359,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "34",
@@ -15370,20 +15375,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17377,
+      "Progressed": 17384,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3331,
+      "Progressed": 3338,
       "Completed": 1037
     }
   ],
@@ -15391,8 +15396,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:03:35.6530124+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:07:42.4130408+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:58:35.8436215+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:03:35.6530974+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:03:04.7574286+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:07:42.4131184+00:00"
 }

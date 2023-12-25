@@ -5,10 +5,10 @@
   "Ranking_Rating": 603,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -583,6 +583,11 @@
       "Time": "2023-12-24T20:05:08.2284823+00:00",
       "NumProgressed": 461,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T13:08:38.6376078+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -626,7 +631,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "collect-discounted-items2",
@@ -642,7 +647,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "different-items1",
@@ -650,7 +655,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "different-items2",
@@ -674,7 +679,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "finished-quest-flight",
@@ -690,7 +695,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "finished-quest-nurgle",
@@ -706,7 +711,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "finished-quest-rat",
@@ -746,7 +751,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "get-all",
@@ -762,7 +767,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "last-hero",
@@ -808,9 +813,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 356
     },
     {
       "ID": "win-first-level",
@@ -818,7 +823,7 @@
       "Name": "Good start!",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "win-koth-fights1",
@@ -826,7 +831,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "win-koth-fights2",
@@ -873,7 +878,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 1
     }
   ],
@@ -881,8 +886,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:04:15.205069+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:08:38.6376073+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:00:03.2244011+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:04:15.2050925+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:05:12.033809+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:08:38.6376496+00:00"
 }

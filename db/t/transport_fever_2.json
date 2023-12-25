@@ -2,13 +2,13 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -849,7 +849,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2140,
+  "EOS_Progressed": 2141,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -5814,6 +5814,11 @@
       "Time": "2023-12-25T11:09:05.0775963+00:00",
       "NumProgressed": 2140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T13:12:24.6356502+00:00",
+      "NumProgressed": 2141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -5865,7 +5870,7 @@
       "Name": "Transport millionaire",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achAircraftEarnings",
@@ -5921,7 +5926,7 @@
       "Name": "First bus stop",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "achBuildTrainStation",
@@ -5929,7 +5934,7 @@
       "Name": "First train station",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "achCannotGetEnough",
@@ -5961,7 +5966,7 @@
       "Name": "Old timer",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achCompleteCampaignB",
@@ -5985,7 +5990,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achCreateLine",
@@ -5993,7 +5998,7 @@
       "Name": "First line",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "achCrowdInATrain",
@@ -6073,7 +6078,7 @@
       "Name": "First passenger on board",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -6081,15 +6086,15 @@
       "Name": "First passenger waiting",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achFirstShipArrived",
       "SetID": "dgl390n",
       "Name": "First ship arrived",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 921
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -6121,7 +6126,7 @@
       "Name": "Settled down",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "achHq20",
@@ -6145,7 +6150,7 @@
       "Name": "Sculpturer",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achLongestTrain",
@@ -6169,7 +6174,7 @@
       "Name": "Mass production",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "achMetropolis",
@@ -6185,7 +6190,7 @@
       "Name": "Exemplary student",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "achMuseumLine",
@@ -6241,7 +6246,7 @@
       "Name": "The ugly smell of success",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -6297,7 +6302,7 @@
       "Name": "Truck Fever",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achTunnelLength",
@@ -6312,15 +6317,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2140,
+      "Progressed": 2141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-24T13:01:01.7727187+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:24.9246517+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:12:24.6356499+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.2154452+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:58:46.9105141+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:24.9247102+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:03:21.1710041+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:12:24.6357468+00:00"
 }

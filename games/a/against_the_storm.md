@@ -6,19 +6,19 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,151 |
-| Overgrown Library | 6.00% | ~1,151 |
+| Abandoned Settlement | 6.00% | ~1,152 |
+| Overgrown Library | 6.00% | ~1,152 |
 | Taking Action | 5.00% | ~960 |
 | No Deaths | 5.00% | ~960 |
 | Petrified Necropolis | 5.00% | ~960 |
 | First Real Expedition | 4.00% | ~768 |
+| Overcoming Difficulty | 4.00% | ~768 |
 | Coral Forest | 4.00% | ~768 |
 | The Marshlands | 4.00% | ~768 |
 | Frosts | 4.00% | ~768 |
 | Land of Greed | 4.00% | ~768 |
 | Ominous Presence | 4.00% | ~768 |
 | Gathering Storm | 4.00% | ~768 |
-| Overcoming Difficulty | 3.00% | ~576 |
 | The Scarlet Orchard | 3.00% | ~576 |
 | Homesick | 2.00% | ~384 |
 | Ruined Armory | 2.00% | ~384 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,191 (Ranked 150)  
+Progressed: 19,196 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,191 | 38 |
+| 2023-12-25 | 19,196 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
-Sum: 3,290 (Ranked 177)  
+Sum: 3,291 (Ranked 177)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): 51
 | This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 334 |
 | This game has Amazing Storytelling | 324 |
-| This game has Amazing Characters | 290 |
+| This game has Amazing Characters | 291 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
 ## Ratings History
@@ -599,4 +599,4 @@ Diff (max vs sum): 51
 | 2023-12-22 | 4.82 | - | 442 | 3,283 |
 | 2023-12-23 | 4.82 | - | 443 | 3,284 |
 | 2023-12-24 | 4.82 | - | 443 | 3,288 |
-| 2023-12-25 | 4.82 | - | 444 | 3,290 |
+| 2023-12-25 | 4.82 | - | 444 | 3,291 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -916,9 +916,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1164,9 +1164,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1212,9 +1212,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1348,8 +1348,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-24T16:00:39.7415053+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:06:18.9792208+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:11:35.1325768+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:57:02.7045773+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:06:18.9792702+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:00:44.5508506+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:11:35.1326171+00:00"
 }

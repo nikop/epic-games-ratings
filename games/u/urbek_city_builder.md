@@ -20,8 +20,8 @@
 | King of fish | 2.00% | ~9 |
 | I love parks | 2.00% | ~9 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
+| Rebel city | 1.00% | ~5 |
 | Metropolurbek | 0.90% | ~4 |
-| Rebel city | 0.90% | ~4 |
 | Banking city | 0.70% | ~3 |
 | City crisis | 0.70% | ~3 |
 | I am very happy! | 0.70% | ~3 |

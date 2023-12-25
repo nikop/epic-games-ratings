@@ -6,20 +6,20 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,135 |
-| Powergamer | 27.00% | ~69,023 |
-| Write that down | 25.00% | ~63,910 |
-| Barely scratched the surface | 25.00% | ~63,910 |
-| Guns, lots of guns | 13.00% | ~33,233 |
+| I will finish what you started | 29.00% | ~74,136 |
+| Powergamer | 27.00% | ~69,024 |
+| Write that down | 25.00% | ~63,911 |
+| Barely scratched the surface | 25.00% | ~63,911 |
+| Guns, lots of guns | 13.00% | ~33,234 |
 | Collector | 12.00% | ~30,677 |
 | Elementary! | 9.00% | ~23,008 |
 | Griever | 8.00% | ~20,451 |
 | Pumpkin Jack | 8.00% | ~20,451 |
 | Wake up! | 8.00% | ~20,451 |
 | It's honest work | 7.00% | ~17,895 |
-| Me smart | 6.00% | ~15,338 |
-| Trash compactor | 6.00% | ~15,338 |
-| Valedictorian | 6.00% | ~15,338 |
+| Me smart | 6.00% | ~15,339 |
+| Trash compactor | 6.00% | ~15,339 |
+| Valedictorian | 6.00% | ~15,339 |
 | Good listener | 5.00% | ~12,782 |
 | BOY! | 4.00% | ~10,226 |
 | Ka-ching! | 4.00% | ~10,226 |
@@ -46,7 +46,7 @@ Number of Ratings: 33  (23.09.2022)
 | Let's try another | 0.90% | ~2,301 |
 | It's blue, always blue | 0.80% | ~2,045 |
 | Home run | 0.80% | ~2,045 |
-| I have the high ground | 0.70% | ~1,789 |
+| I have the high ground | 0.70% | ~1,790 |
 | Enjoy these little moments | 0.50% | ~1,278 |
 | Who wouldn't love a troll? | 0.50% | ~1,278 |
 | Irondec | 0.40% | ~1,023 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,639 (Ranked 64)  
+Progressed: 255,643 (Ranked 64)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-22 | 255,356 | 7 |
 | 2023-12-23 | 255,488 | 7 |
 | 2023-12-24 | 255,587 | 8 |
-| 2023-12-25 | 255,639 | 8 |
+| 2023-12-25 | 255,643 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 385)  
 Sum: 93 (Ranked 463)  

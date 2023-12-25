@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8880,10 +8880,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51175,
       "NumberOfAwardsMax": 6487
+    },
+    {
+      "Time": "2023-12-25T13:04:41.3505061+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51176,
+      "NumberOfAwardsMax": 6487
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51175,
+  "NumberOfAwards": 51176,
   "NumberOfAwardsMax": 6487,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8927,7 +8933,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5929
+      "Count": 5930
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8954,9 +8960,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478316,
+  "EOS_Progressed": 478317,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34104,6 +34110,11 @@
       "Time": "2023-12-25T12:05:00.8062354+00:00",
       "NumProgressed": 478316,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-25T13:09:43.1763217+00:00",
+      "NumProgressed": 478317,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -34131,7 +34142,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129145
+      "UsersEstimate": 129146
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -34203,7 +34214,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129145
+      "UsersEstimate": 129146
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -34331,7 +34342,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 43048
+      "UsersEstimate": 43049
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -34363,7 +34374,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14350
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -34379,7 +34390,7 @@
       "Name": "National Service",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43048
+      "UsersEstimate": 43049
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -34403,7 +34414,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133928
+      "UsersEstimate": 133929
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -34419,7 +34430,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14350
     },
     {
       "ID": "achievement_good_finance_control",
@@ -34451,7 +34462,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43048
+      "UsersEstimate": 43049
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -34611,7 +34622,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129145
+      "UsersEstimate": 129146
     },
     {
       "ID": "achievement_record_signing",
@@ -34707,7 +34718,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43048
+      "UsersEstimate": 43049
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -34731,7 +34742,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71747
+      "UsersEstimate": 71748
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -34763,7 +34774,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14350
     },
     {
       "ID": "achievement_won_promotion",
@@ -34779,7 +34790,7 @@
       "Name": "On Top Of The World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14350
     },
     {
       "ID": "achievement_world_player_of_the_year",
@@ -34898,15 +34909,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478316,
+      "Progressed": 478317,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-12-25T09:00:09.5592236+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:05:00.8062351+00:00",
+  "LastChanged": "2023-12-25T13:04:41.3505059+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:09:43.1763211+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:56.0435906+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:42.1348213+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:05:00.8064018+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:41.3505068+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:09:43.1764989+00:00"
 }

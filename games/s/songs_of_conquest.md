@@ -39,10 +39,10 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.40% | ~3 |
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
+| Barbecue | 0.40% | ~3 |
 | Killing Spree | 0.40% | ~3 |
 | Cleave | 0.40% | ~3 |
 | Attack Bonanza | 0.30% | ~2 |
-| Barbecue | 0.30% | ~2 |
 | Oops! | 0.30% | ~2 |
 | The Marsh Expands | 0.30% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
@@ -108,9 +108,9 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 739 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 528)  
+Max (Quickly Understood Controls): 27  (Ranked 529)  
 Sum: 194 (Ranked 414)  
-Diff (max vs sum): 114  
+Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

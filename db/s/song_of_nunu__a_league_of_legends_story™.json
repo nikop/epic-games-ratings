@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3442,9 +3442,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 705
     },
     {
       "ID": "EV_ACH15",
@@ -3610,9 +3610,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 811
     },
     {
       "ID": "EV_ACH36",
@@ -3699,8 +3699,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-20T19:57:10.1945786+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:09:46.9441721+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:14:16.9756209+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:11.662796+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:09:46.9442064+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:03:57.9493367+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:14:16.9756631+00:00"
 }

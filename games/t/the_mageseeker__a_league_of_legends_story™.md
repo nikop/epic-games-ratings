@@ -10,13 +10,13 @@ Rating: 4.79 (Ranked 100)
 | Everfrost | 77.00% | ~2,335 |
 | Pentakill | 76.00% | ~2,305 |
 | Dark Forest | 76.00% | ~2,305 |
-| The use of petricite | 73.00% | ~2,214 |
+| The use of petricite | 74.00% | ~2,244 |
 | You can pet the dog | 60.00% | ~1,820 |
 | Thornbarrow | 41.00% | ~1,244 |
 | Big Helmet Bro | 40.00% | ~1,213 |
 | Clarion Cove | 39.00% | ~1,183 |
+| Ternmoat Headquarters | 38.00% | ~1,153 |
 | Past trauma | 37.00% | ~1,122 |
-| Ternmoat Headquarters | 37.00% | ~1,122 |
 | Elemental master | 36.00% | ~1,092 |
 | Cypress Glen Headquarters | 34.00% | ~1,031 |
 | Petricite Burst | 33.00% | ~1,001 |

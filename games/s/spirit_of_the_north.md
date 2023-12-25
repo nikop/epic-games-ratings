@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~53,703 |
-| INFUSED WITH LIGHT | 53.00% | ~41,250 |
-| FOXIN' AROUND | 29.00% | ~22,571 |
-| FETCH | 28.00% | ~21,793 |
-| BLOOMS OF LIGHT | 26.00% | ~20,236 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~53,705 |
+| INFUSED WITH LIGHT | 53.00% | ~41,252 |
+| FOXIN' AROUND | 29.00% | ~22,572 |
+| FETCH | 28.00% | ~21,794 |
+| BLOOMS OF LIGHT | 26.00% | ~20,237 |
 | AWAKEN | 22.00% | ~17,123 |
 | BEST FRIENDS | 22.00% | ~17,123 |
 | ERADICATE | 21.00% | ~16,345 |
 | SPIRIT BARK | 21.00% | ~16,345 |
 | GARDEN OF LIGHT | 18.00% | ~14,010 |
-| SPIRIT FORM | 17.00% | ~13,231 |
+| SPIRIT FORM | 17.00% | ~13,232 |
 | UPROOTING DARKNESS | 16.00% | ~12,453 |
 | WRITTEN IN STONE | 16.00% | ~12,453 |
 | WEIGHTLESS | 12.00% | ~9,340 |
-| SPIRIT DASH | 11.00% | ~8,561 |
+| SPIRIT DASH | 11.00% | ~8,562 |
 | OLD COMPANION | 9.00% | ~7,005 |
 | PLAGUE DOCTOR | 9.00% | ~7,005 |
-| MATCH MAKER | 8.00% | ~6,226 |
-| NORTHERN LIGHTS | 8.00% | ~6,226 |
-| SPIRITED AWAY | 8.00% | ~6,226 |
+| MATCH MAKER | 8.00% | ~6,227 |
+| NORTHERN LIGHTS | 8.00% | ~6,227 |
+| SPIRITED AWAY | 8.00% | ~6,227 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,113 |
 | ANCIENT HISTORY | 3.00% | ~2,335 |
 | NONE FORGOTTEN | 2.00% | ~1,557 |
 | KINDRED SPIRITS | 0.60% | ~467 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,831 (Ranked 105)  
+Progressed: 77,834 (Ranked 105)  
 Completed: 417 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,11 +280,11 @@ Completed: 417 (0.54%) (Ranked 210)
 | 2023-12-22 | 77,550 | 416 |
 | 2023-12-23 | 77,682 | 417 |
 | 2023-12-24 | 77,784 | 417 |
-| 2023-12-25 | 77,831 | 417 |
+| 2023-12-25 | 77,834 | 417 |
 ## Awards
-Max (Extremely Fun): 27  (Ranked 528)  
+Max (Extremely Fun): 27  (Ranked 529)  
 Sum: 116 (Ranked 450)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

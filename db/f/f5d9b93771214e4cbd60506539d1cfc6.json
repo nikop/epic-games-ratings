@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158078,
+  "EOS_Progressed": 158079,
   "EOS_Completed": 368,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -22863,6 +22863,11 @@
       "Time": "2023-12-25T12:08:18.6160989+00:00",
       "NumProgressed": 158078,
       "NumCompleted": 368
+    },
+    {
+      "Time": "2023-12-25T13:12:15.8182711+00:00",
+      "NumProgressed": 158079,
+      "NumCompleted": 368
     }
   ],
   "TotalAchievements": 31,
@@ -22898,7 +22903,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33196
+      "UsersEstimate": 33197
     },
     {
       "ID": "EAwards_12",
@@ -22922,7 +22927,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 63231
+      "UsersEstimate": 63232
     },
     {
       "ID": "EAwards_15",
@@ -23121,7 +23126,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 158078,
+      "Progressed": 158079,
       "Completed": 368
     }
   ],
@@ -23129,8 +23134,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:18.6160984+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:12:15.8182704+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.0676889+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:37.3227523+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:18.6162073+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:34.0324409+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:12:15.818395+00:00"
 }

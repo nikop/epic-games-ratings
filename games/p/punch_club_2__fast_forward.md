@@ -67,9 +67,9 @@
 | Anyone can resist | 29.00% | ~134 |
 | The heart of the Resistance | 29.00% | ~134 |
 | Your own way | 29.00% | ~134 |
+| Silver’s past | 26.00% | ~120 |
 | Better cooking at home | 26.00% | ~120 |
 | The only right decision | 26.00% | ~120 |
-| Silver’s past | 25.00% | ~116 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 463 (Ranked 338)  
 Completed: 9 (1.94%) (Ranked 136)  

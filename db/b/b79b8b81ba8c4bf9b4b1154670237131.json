@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -149,9 +149,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15819,
+  "EOS_Progressed": 15820,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4779,6 +4779,11 @@
       "Time": "2023-12-25T12:09:05.9039902+00:00",
       "NumProgressed": 15819,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-25T13:13:20.5281223+00:00",
+      "NumProgressed": 15820,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -4791,7 +4796,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH_AE_10",
@@ -4823,7 +4828,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11864
+      "UsersEstimate": 11865
     },
     {
       "ID": "ACH_AE_14",
@@ -4847,7 +4852,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "ACH_AE_17",
@@ -4903,7 +4908,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3638
+      "UsersEstimate": 3639
     },
     {
       "ID": "ACH_AE_23",
@@ -5023,7 +5028,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "ACH_AE_5",
@@ -5070,7 +5075,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15819,
+      "Progressed": 15820,
       "Completed": 14
     }
   ],
@@ -5078,8 +5083,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-22T16:02:27.6856053+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:09:05.9039899+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:13:20.5281219+00:00",
   "LastUpdate_AppInfo": "2023-12-19T17:57:04.7850695+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:58:00.0948498+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:09:05.9040444+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:02:10.714809+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:13:20.5281546+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2541,6 +2541,11 @@
       "Time": "2023-12-25T10:09:59.5168996+00:00",
       "NumProgressed": 826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T13:14:10.9204941+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2744,7 +2749,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "TheGuardian",
@@ -2807,7 +2812,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 1
     }
   ],
@@ -2815,8 +2820,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:09:42.7289786+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:14:10.9204939+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.4651467+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:38.6101383+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:09:42.7290043+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:35.9357188+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:14:10.9205209+00:00"
 }

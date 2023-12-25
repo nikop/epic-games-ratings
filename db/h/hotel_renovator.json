@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -245,7 +245,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -2980,6 +2980,11 @@
       "Time": "2023-12-25T12:08:06.2245852+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-25T13:11:57.8261277+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2999,7 +3004,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -3007,7 +3012,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3079,7 +3084,7 @@
       "Name": "Memento",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3095,7 +3100,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3109,9 +3114,9 @@
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3127,7 +3132,7 @@
       "Name": "Let there be light",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3143,7 +3148,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "ACH_STAR_2",
@@ -3199,14 +3204,14 @@
       "Name": "I think you dropped this",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 18
     }
   ],
@@ -3214,8 +3219,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-23T01:40:38.043834+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:06.2245848+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:11:57.8261273+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:50.8997518+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:06.2246226+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:55.8748078+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:11:57.8261528+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1301,6 +1301,11 @@
       "Time": "2023-12-24T20:11:06.1818064+00:00",
       "NumProgressed": 303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T13:14:16.2525997+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1456,7 +1461,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "achEva",
@@ -1711,7 +1716,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 0
     }
   ],
@@ -1719,8 +1724,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:09:46.4440478+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:14:16.2525992+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.5149396+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:00:01.4007935+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:09:46.4440889+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:05:09.1996199+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:14:16.2526328+00:00"
 }

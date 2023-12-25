@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 851,
+  "EOS_Progressed": 852,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -2966,6 +2966,11 @@
       "Time": "2023-12-25T11:06:19.24628+00:00",
       "NumProgressed": 851,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T13:11:38.337645+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3017,7 +3022,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "hire-lieutenant",
@@ -3025,7 +3030,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "kill-lieutenants",
@@ -3041,7 +3046,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "play-at-night",
@@ -3049,7 +3054,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "product-profit",
@@ -3065,7 +3070,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "rename-lieutenant",
@@ -3113,7 +3118,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "use-submarine",
@@ -3128,15 +3133,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 851,
+      "Progressed": 852,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:06:21.3110222+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:11:38.3376448+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:58:48.2236513+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:06:21.3110424+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:03:23.1580295+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:11:38.3376726+00:00"
 }

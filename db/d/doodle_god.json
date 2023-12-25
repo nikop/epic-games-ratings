@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.77,
+  "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -409,6 +409,11 @@
       "Time": "2023-12-21T20:06:43.5601856+00:00",
       "NumProgressed": 265,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T13:12:11.8310566+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -420,23 +425,23 @@
       "Name": "Good Start",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "605742",
       "SetID": "4lpaifm",
       "Name": "Creator of Diversity",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 221
     },
     {
       "ID": "605762",
@@ -444,7 +449,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "605772",
@@ -458,9 +463,9 @@
       "ID": "605782",
       "SetID": "4lpaifm",
       "Name": "Creator of Technology",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "605792",
@@ -484,7 +489,7 @@
       "Name": "God of Fun",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "605822",
@@ -524,7 +529,7 @@
       "Name": "Half the Kingdom",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "605872",
@@ -532,7 +537,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "605892",
@@ -540,7 +545,7 @@
       "Name": "Similar to Similar",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "605912",
@@ -580,7 +585,7 @@
       "Name": "Honorable Santa",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "844452",
@@ -595,7 +600,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 10
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:15.8462285+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:12:11.8310563+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.7169826+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:02:43.7752786+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:15.8462435+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:22.1307958+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:12:11.8310727+00:00"
 }

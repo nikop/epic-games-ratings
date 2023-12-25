@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 9.00% | ~13,277 |
 | Basic in Bulk | 8.00% | ~11,802 |
 | Tinkle of Coins | 8.00% | ~11,802 |
-| Disintermediation | 6.00% | ~8,851 |
-| It's Free Real Estate | 6.00% | ~8,851 |
-| Capitalism Ho! | 6.00% | ~8,851 |
+| Disintermediation | 6.00% | ~8,852 |
+| It's Free Real Estate | 6.00% | ~8,852 |
+| Capitalism Ho! | 6.00% | ~8,852 |
 | One Easy Payment | 5.00% | ~7,376 |
 | Some Assembly Required | 5.00% | ~7,376 |
 | Another Satisfied Customer | 5.00% | ~7,376 |
@@ -44,61 +44,61 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 3.00% | ~4,426 |
 | Magical Harmony | 3.00% | ~4,426 |
 | Arcane Industries | 3.00% | ~4,426 |
-| A Notch Above the Rest | 2.00% | ~2,950 |
-| Cream of the Crop | 2.00% | ~2,950 |
-| Top of the World | 2.00% | ~2,950 |
-| Proud Paladin | 2.00% | ~2,950 |
-| Above the Norm | 2.00% | ~2,950 |
-| Constellated | 2.00% | ~2,950 |
-| A Ronin Reborn | 2.00% | ~2,950 |
-| Tax not Included | 2.00% | ~2,950 |
-| The King's Caprice | 2.00% | ~2,950 |
-| Thirst for Knowledge | 2.00% | ~2,950 |
-| Big Game Hunting | 2.00% | ~2,950 |
-| For the Hoard! | 2.00% | ~2,950 |
-| Booty by the Boatload | 2.00% | ~2,950 |
-| Scrapbooker | 2.00% | ~2,950 |
-| Archivist | 2.00% | ~2,950 |
-| Locally Sourced | 2.00% | ~2,950 |
-| Flying off the Shelves | 2.00% | ~2,950 |
-| Industrial Evolution | 2.00% | ~2,950 |
-| This Power Level...! | 2.00% | ~2,950 |
-| Omae wa Mou Shindeiru | 2.00% | ~2,950 |
-| Master of Transmutation | 2.00% | ~2,950 |
-| Hidden Potential | 2.00% | ~2,950 |
-| Supercharged | 2.00% | ~2,950 |
-| Expansion in Session | 2.00% | ~2,950 |
-| Ritualist | 2.00% | ~2,950 |
-| Cranked up to 11 | 2.00% | ~2,950 |
-| Fit for a King | 2.00% | ~2,950 |
-| By Your Powers Combined... | 2.00% | ~2,950 |
-| A Legend is Born | 2.00% | ~2,950 |
-| Trash to Treasure | 2.00% | ~2,950 |
-| Royal Ransom | 2.00% | ~2,950 |
-| Mammonite | 2.00% | ~2,950 |
-| Wealth Beyond Measure | 2.00% | ~2,950 |
-| Fat Cat Tag Team | 2.00% | ~2,950 |
-| Necromancer Queen | 2.00% | ~2,950 |
-| Item of Renown | 2.00% | ~2,950 |
-| Master Merchant | 2.00% | ~2,950 |
-| Miracle Alchemist | 2.00% | ~2,950 |
-| Laden with Loot | 2.00% | ~2,950 |
-| Bountiful Harvest | 2.00% | ~2,950 |
-| Seasoned Journeyman | 2.00% | ~2,950 |
-| Precision Engineering | 2.00% | ~2,950 |
-| Scourge of the Seas | 2.00% | ~2,950 |
-| Attrition Mission | 2.00% | ~2,950 |
-| Glittering Collection | 2.00% | ~2,950 |
-| Treasure Trove | 2.00% | ~2,950 |
-| Moment of Respite | 2.00% | ~2,950 |
-| Black Friday Special | 2.00% | ~2,950 |
-| King's Shadow | 2.00% | ~2,950 |
-| Master Recycler | 2.00% | ~2,950 |
-| All Accounted For | 2.00% | ~2,950 |
-| Special Ingredient | 2.00% | ~2,950 |
-| Exotic Commodities | 2.00% | ~2,950 |
-| Complete Monopoly | 2.00% | ~2,950 |
-| King's Blade | 2.00% | ~2,950 |
+| A Notch Above the Rest | 2.00% | ~2,951 |
+| Cream of the Crop | 2.00% | ~2,951 |
+| Top of the World | 2.00% | ~2,951 |
+| Proud Paladin | 2.00% | ~2,951 |
+| Above the Norm | 2.00% | ~2,951 |
+| Constellated | 2.00% | ~2,951 |
+| A Ronin Reborn | 2.00% | ~2,951 |
+| Tax not Included | 2.00% | ~2,951 |
+| The King's Caprice | 2.00% | ~2,951 |
+| Thirst for Knowledge | 2.00% | ~2,951 |
+| Big Game Hunting | 2.00% | ~2,951 |
+| For the Hoard! | 2.00% | ~2,951 |
+| Booty by the Boatload | 2.00% | ~2,951 |
+| Scrapbooker | 2.00% | ~2,951 |
+| Archivist | 2.00% | ~2,951 |
+| Locally Sourced | 2.00% | ~2,951 |
+| Flying off the Shelves | 2.00% | ~2,951 |
+| Industrial Evolution | 2.00% | ~2,951 |
+| This Power Level...! | 2.00% | ~2,951 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,951 |
+| Master of Transmutation | 2.00% | ~2,951 |
+| Hidden Potential | 2.00% | ~2,951 |
+| Supercharged | 2.00% | ~2,951 |
+| Expansion in Session | 2.00% | ~2,951 |
+| Ritualist | 2.00% | ~2,951 |
+| Cranked up to 11 | 2.00% | ~2,951 |
+| Fit for a King | 2.00% | ~2,951 |
+| By Your Powers Combined... | 2.00% | ~2,951 |
+| A Legend is Born | 2.00% | ~2,951 |
+| Trash to Treasure | 2.00% | ~2,951 |
+| Royal Ransom | 2.00% | ~2,951 |
+| Mammonite | 2.00% | ~2,951 |
+| Wealth Beyond Measure | 2.00% | ~2,951 |
+| Fat Cat Tag Team | 2.00% | ~2,951 |
+| Necromancer Queen | 2.00% | ~2,951 |
+| Item of Renown | 2.00% | ~2,951 |
+| Master Merchant | 2.00% | ~2,951 |
+| Miracle Alchemist | 2.00% | ~2,951 |
+| Laden with Loot | 2.00% | ~2,951 |
+| Bountiful Harvest | 2.00% | ~2,951 |
+| Seasoned Journeyman | 2.00% | ~2,951 |
+| Precision Engineering | 2.00% | ~2,951 |
+| Scourge of the Seas | 2.00% | ~2,951 |
+| Attrition Mission | 2.00% | ~2,951 |
+| Glittering Collection | 2.00% | ~2,951 |
+| Treasure Trove | 2.00% | ~2,951 |
+| Moment of Respite | 2.00% | ~2,951 |
+| Black Friday Special | 2.00% | ~2,951 |
+| King's Shadow | 2.00% | ~2,951 |
+| Master Recycler | 2.00% | ~2,951 |
+| All Accounted For | 2.00% | ~2,951 |
+| Special Ingredient | 2.00% | ~2,951 |
+| Exotic Commodities | 2.00% | ~2,951 |
+| Complete Monopoly | 2.00% | ~2,951 |
+| King's Blade | 2.00% | ~2,951 |
 | The Free Encyclopedia | 1.00% | ~1,475 |
 | Fillin' the Bin | 1.00% | ~1,475 |
 | Thank You Tom Nook | 1.00% | ~1,475 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~590 |
 | Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,520 (Ranked 83)  
+Progressed: 147,527 (Ranked 83)  
 Completed: 334 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,10 +368,10 @@ Completed: 334 (0.23%) (Ranked 268)
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
 | 2023-12-24 | 147,460 | 333 |
-| 2023-12-25 | 147,520 | 334 |
+| 2023-12-25 | 147,527 | 334 |
 ## Awards
 Max (Great for Beginners): 4,914  (Ranked 75)  
-Sum: 27,801 (Ranked 51)  
+Sum: 27,803 (Ranked 51)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -381,7 +381,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,987 |
 | This game is Highly Recommended | 3,801 |
 | This game has Easy Combat | 3,753 |
-| This game has Playful Visuals | 3,225 |
+| This game has Playful Visuals | 3,227 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -714,3 +714,4 @@ Diff (max vs sum): 24
 | 2023-12-22 | 3.99 | - | 4,906 | 27,779 |
 | 2023-12-23 | 3.99 | - | 4,910 | 27,793 |
 | 2023-12-24 | 3.99 | - | 4,914 | 27,801 |
+| 2023-12-25 | 3.99 | - | 4,914 | 27,803 |

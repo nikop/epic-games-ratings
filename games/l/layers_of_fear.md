@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 82.00% | ~163 |
-| A piece of the story | 60.00% | ~119 |
-| Wanderer | 55.00% | ~109 |
+| Something important | 82.00% | ~164 |
+| A piece of the story | 60.00% | ~120 |
+| Wanderer | 55.00% | ~110 |
 | It's covered up for a reason | 50.00% | ~100 |
 | Scraps of love | 46.00% | ~92 |
 | The artist’s impression | 44.00% | ~88 |
 | Do what you have to | 42.00% | ~84 |
 | Sign of weakness | 38.00% | ~76 |
 | Refuse to look | 33.00% | ~66 |
-| Face your fears | 26.00% | ~52 |
-| Finished it | 25.00% | ~50 |
+| Face your fears | 27.00% | ~54 |
+| Finished it | 26.00% | ~52 |
 | Whispers long forgotten | 14.00% | ~28 |
 | Debut | 11.00% | ~22 |
 | The art of movement | 11.00% | ~22 |
@@ -44,11 +44,11 @@
 | It was worth a try | 2.00% | ~4 |
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
+| Sword of the Serpent | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |
 | The Big Picture | 1.00% | ~2 |
 | In One Take | 1.00% | ~2 |
 | Rocket Science | 1.00% | ~2 |
-| Sword of the Serpent | 1.00% | ~2 |
 | You Can’t Handle the Truth | 0.50% | ~1 |
 | The Tree and the Apple | 0.50% | ~1 |
 | The whole story | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 412)  
+Progressed: 200 (Ranked 412)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,4 +120,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 179 | 0 |
 | 2023-12-23 | 189 | 0 |
 | 2023-12-24 | 197 | 0 |
-| 2023-12-25 | 199 | 0 |
+| 2023-12-25 | 200 | 0 |

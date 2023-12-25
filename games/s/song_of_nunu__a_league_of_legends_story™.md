@@ -13,12 +13,12 @@ Rating: 4.50 (Ranked 603)
 | He's Famous! | 65.00% | ~864 |
 | Cutie Poro | 65.00% | ~864 |
 | Krugmazing | 64.00% | ~851 |
+| The Fire Below the Mountain | 61.00% | ~811 |
 | Moneyball | 60.00% | ~798 |
-| The Fire Below the Mountain | 60.00% | ~798 |
 | Iceborn | 55.00% | ~732 |
 | No Bites | 54.00% | ~718 |
+| Boom Things | 53.00% | ~705 |
 | Tear of Freedom | 52.00% | ~692 |
-| Boom Things | 52.00% | ~692 |
 | My Darkest Day | 48.00% | ~638 |
 | Rhythm Of Willump | 46.00% | ~612 |
 | The Relentless Storm | 46.00% | ~612 |

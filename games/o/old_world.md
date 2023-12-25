@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 0.60% | ~96 |
 | Explorer | 0.50% | ~80 |
 | Settler | 0.50% | ~80 |
-| Play a Single Player Game | 0.50% | ~80 |
 | Architect | 0.40% | ~64 |
 | Intrepid | 0.40% | ~64 |
 | Friendly Family | 0.40% | ~64 |
@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.20% | ~32 |
 | Roman Paganism | 0.20% | ~32 |
 | Zoroastrianism | 0.20% | ~32 |
+| Win a Single Player Game | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -234,7 +235,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
 | Win a Network Game | 0.10% | ~16 |
-| Win a Single Player Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |

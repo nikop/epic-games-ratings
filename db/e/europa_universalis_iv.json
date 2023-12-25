@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13689,9 +13689,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 483641,
+  "EOS_Progressed": 483683,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5250,
+  "EOS_NewPlayers": 5252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42359,6 +42359,11 @@
       "Time": "2023-12-25T12:08:07.9072414+00:00",
       "NumProgressed": 483641,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T13:12:00.5427424+00:00",
+      "NumProgressed": 483683,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44648,9 +44653,9 @@
       "ID": "achievement_that_is_mine",
       "SetID": "8p2n7he",
       "Name": "That is mine!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1935
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -45273,21 +45278,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 483641,
+      "Progressed": 483683,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 483641,
+      "Progressed": 483683,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-25T10:00:06.4031853+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:07.907241+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:12:00.5427422+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:36.8680006+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:07.9083994+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:33.3168047+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:12:00.543828+00:00"
 }

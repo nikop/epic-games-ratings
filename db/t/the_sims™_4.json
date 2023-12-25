@@ -3,12 +3,12 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 81,
+  "Ranking_Popularity": 104,
+  "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -11015,11 +11015,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 13156,
       "NumberOfAwardsMax": 2515
+    },
+    {
+      "Time": "2023-12-25T13:06:25.7465603+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 13187,
+      "NumberOfAwardsMax": 2530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13156,
-  "NumberOfAwardsMax": 2515,
+  "NumberOfAwards": 13187,
+  "NumberOfAwardsMax": 2530,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11032,7 +11038,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2515
+      "Count": 2530
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11056,13 +11062,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1145
+      "Count": 1157
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 918
+      "Count": 922
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11109,9 +11115,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-12-25T12:02:46.0898152+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:04:48.2436209+00:00",
+  "LastChanged": "2023-12-25T13:06:25.7465601+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:09:23.9422725+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.6288564+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:02:46.0898157+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:04:48.2436226+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:25.7465608+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:09:23.9422765+00:00"
 }

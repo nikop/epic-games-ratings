@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2394,
+  "EOS_Progressed": 2423,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2388,
+  "EOS_NewPlayers": 2417,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-12-25T12:08:59.0075481+00:00",
       "NumProgressed": 2394,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T13:13:11.4018183+00:00",
+      "NumProgressed": 2423,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -521,7 +526,7 @@
       "Name": "Final Destination",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1260
     },
     {
       "ID": "Document1",
@@ -529,7 +534,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "Document2",
@@ -537,7 +542,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Document3",
@@ -545,7 +550,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Document4",
@@ -584,14 +589,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 2394,
+      "Progressed": 2423,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:08:59.0075476+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:13:11.4018181+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:09.4196414+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:08:59.0075626+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:03:54.5472057+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:13:11.4018323+00:00"
 }

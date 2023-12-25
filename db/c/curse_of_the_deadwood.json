@@ -2,10 +2,10 @@
   "ID": "f847aa02bd6c455ca51a11093354684b",
   "Name": "Curse of the Deadwood",
   "ProductSlug": "curse-of-the-deadwood-3dcda7",
-  "Ranking_EOS_Progress": 721,
+  "Ranking_EOS_Progress": 722,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-07-28T16:00:00+00:00",
     "PcReleaseDate": "2022-07-28T16:00:00+00:00",
@@ -618,8 +618,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.0266209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00",
   "LastChanged": "2023-03-31T05:57:59.026621+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:09:46.2026389+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:14:15.916496+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.0545109+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:03:04.8585462+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:09:46.2026862+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:53.7061222+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:14:15.9165433+00:00"
 }

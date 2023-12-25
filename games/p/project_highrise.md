@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~249 |
+| In the Black | 58.00% | ~253 |
 | Starting Skyward | 52.00% | ~227 |
 | Grime is Not Good | 45.00% | ~196 |
 | Floor Galore | 39.00% | ~170 |
+| Campaign Launch | 39.00% | ~170 |
 | Dinner Dash | 39.00% | ~170 |
-| Campaign Launch | 38.00% | ~166 |
 | Need a Consult | 36.00% | ~157 |
+| It's Technical | 36.00% | ~157 |
 | Upgrade Unlock | 35.00% | ~153 |
-| It's Technical | 35.00% | ~153 |
 | Delegate Maintenance | 32.00% | ~140 |
 | Destination Destiny | 31.00% | ~135 |
 | Proper Walls | 30.00% | ~131 |
@@ -27,14 +27,14 @@
 | Lux Living | 19.00% | ~83 |
 | Emporium Empire | 19.00% | ~83 |
 | Leveled Up Shops | 19.00% | ~83 |
+| We Don't Need No Education | 19.00% | ~83 |
+| Get Electrified | 19.00% | ~83 |
 | Tasty Profits | 18.00% | ~78 |
-| We Don't Need No Education | 18.00% | ~78 |
-| Get Electrified | 18.00% | ~78 |
 | Rehab Expert | 17.00% | ~74 |
 | Established Fame | 17.00% | ~74 |
 | Under One Roof | 15.00% | ~65 |
+| Cashflow Chief | 15.00% | ~65 |
 | Starred Dining | 14.00% | ~61 |
-| Cashflow Chief | 14.00% | ~61 |
 | Smooth Operator | 12.00% | ~52 |
 | Boutique Benefits | 12.00% | ~52 |
 | Terrifically Trashed | 12.00% | ~52 |

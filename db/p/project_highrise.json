@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1447,9 +1447,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     },
     {
       "ID": "ach_campaigns_1",
@@ -1759,9 +1759,9 @@
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_office_2",
@@ -1823,9 +1823,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_profit_1",
@@ -1935,9 +1935,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_revs_2",
@@ -1999,9 +1999,9 @@
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_util_cable",
@@ -2031,9 +2031,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_util_water",
@@ -2072,8 +2072,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:04:54.3447508+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:09:32.5635934+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:57:38.4816926+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:04:54.3448301+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:01:38.2245398+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:09:32.5636667+00:00"
 }

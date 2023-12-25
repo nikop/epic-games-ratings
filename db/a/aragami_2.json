@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44512,
+  "EOS_Progressed": 44513,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -19586,6 +19586,11 @@
       "Time": "2023-12-25T12:04:22.3283118+00:00",
       "NumProgressed": 44512,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-25T13:08:48.9780725+00:00",
+      "NumProgressed": 44513,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19637,7 +19642,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19685,7 +19690,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19693,7 +19698,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -19709,7 +19714,7 @@
       "Name": "Heart of Fire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -19789,7 +19794,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16469
+      "UsersEstimate": 16470
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -19805,7 +19810,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8902
+      "UsersEstimate": 8903
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -19845,7 +19850,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12018
+      "UsersEstimate": 12019
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -19861,7 +19866,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26707
+      "UsersEstimate": 26708
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -19869,7 +19874,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29823
+      "UsersEstimate": 29824
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -19901,7 +19906,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20030
+      "UsersEstimate": 20031
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -19933,7 +19938,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41396
+      "UsersEstimate": 41397
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -19941,14 +19946,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23146
+      "UsersEstimate": 23147
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44512,
+      "Progressed": 44513,
       "Completed": 247
     }
   ],
@@ -19956,8 +19961,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-17T19:02:52.186594+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:04:22.3283114+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:08:48.9780722+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-25T12:03:03.2622605+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:04:22.3284835+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:06:51.2342071+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:08:48.9781951+00:00"
 }

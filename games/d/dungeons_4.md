@@ -7,7 +7,7 @@
 | The Last Stand | 88.00% | ~559 |
 | Thalya – Simply Immortal | 88.00% | ~559 |
 | For the Horde! | 82.00% | ~521 |
-| Hammer Time, Round Two | 80.00% | ~508 |
+| Hammer Time, Round Two | 81.00% | ~514 |
 | The Hellwoods | 76.00% | ~483 |
 | The Plains of Strothalm | 72.00% | ~457 |
 | Experienced Thalya | 71.00% | ~451 |
@@ -25,7 +25,7 @@
 | The Big Eaty | 53.00% | ~337 |
 | “… like son” | 50.00% | ~318 |
 | YOU SHALL NOT PASS! | 49.00% | ~311 |
-| The Cathedral of Light | 46.00% | ~292 |
+| The Cathedral of Light | 47.00% | ~298 |
 | Shame! Shame! Shame! | 46.00% | ~292 |
 | Pure Dynamite! | 45.00% | ~286 |
 | Dungeonlord Gorgu | 44.00% | ~279 |
@@ -39,9 +39,9 @@
 | The Finitude Drill | 31.00% | ~197 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~184 |
 | Doom Hill | 28.00% | ~178 |
+| Hungry, Hungry Gorgu! | 27.00% | ~171 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~171 |
 | Forbidden Knowledge | 27.00% | ~171 |
-| Hungry, Hungry Gorgu! | 26.00% | ~165 |
 | Stop Tanos! | 26.00% | ~165 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~165 |
 | Sabotage! | 25.00% | ~159 |

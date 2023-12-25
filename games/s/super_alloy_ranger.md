@@ -18,9 +18,9 @@
 | Mr. Want It All | 14.00% | ~19 |
 | Toe to Toe | 14.00% | ~19 |
 | The Abyss Conqueror | 10.00% | ~14 |
+| Space Warrior: Prologue | 10.00% | ~14 |
 | The Fortress Conqueror | 9.00% | ~13 |
 | Grand Escape | 9.00% | ~13 |
-| Space Warrior: Prologue | 9.00% | ~13 |
 | Keep it Up, rookie! | 7.00% | ~10 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~8 |
 | he Ultra Fortress Conqueror | 6.00% | ~8 |
@@ -39,9 +39,9 @@
 | The Truth? | 4.00% | ~6 |
 | Rapidfire | 4.00% | ~6 |
 | Air Interception | 4.00% | ~6 |
+| Break Through the Forbidden | 3.00% | ~4 |
 | Breaking the Limit | 3.00% | ~4 |
 | Bye Bye Gravity | 3.00% | ~4 |
-| Break Through the Forbidden | 2.00% | ~3 |
 | Pumped Up | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |
 | Burn After Reading | 2.00% | ~3 |

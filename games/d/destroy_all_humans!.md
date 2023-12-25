@@ -6,22 +6,22 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kaijuiced | 67.00% | ~101 |
+| Kaijuiced | 68.00% | ~103 |
 | Shop Til They Drop | 67.00% | ~101 |
-| Lie Back and Think of Albion | 61.00% | ~92 |
+| Lie Back and Think of Albion | 62.00% | ~94 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~88 |
 | Yettisoned | 56.00% | ~85 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~79 |
-| Perfect Probulator | 50.00% | ~76 |
+| Perfect Probulator | 51.00% | ~77 |
 | Lobster Blisque | 49.00% | ~74 |
 | Pimp My Raid | 45.00% | ~68 |
+| Fly Me to the Moon Base | 42.00% | ~63 |
 | Earthly Pleasures | 42.00% | ~63 |
-| Fly Me to the Moon Base | 41.00% | ~62 |
-| Ducks in a Row, Fish in a Barrel | 40.00% | ~60 |
+| Ducks in a Row, Fish in a Barrel | 41.00% | ~62 |
 | Freshly Squeezed | 33.00% | ~50 |
 | Forbidden Donut | 32.00% | ~48 |
 | Upgreatest | 30.00% | ~45 |
-| Bodied Sattva | 29.00% | ~44 |
+| Bodied Sattva | 30.00% | ~45 |
 | Rock of the Bay | 25.00% | ~38 |
 | Furon Fashion | 24.00% | ~36 |
 | Trans-Siberian Express | 24.00% | ~36 |

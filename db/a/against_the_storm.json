@@ -3519,10 +3519,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3290,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-12-25T13:02:02.8849463+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3291,
+      "NumberOfAwardsMax": 444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3290,
+  "NumberOfAwards": 3291,
   "NumberOfAwardsMax": 444,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3566,7 +3572,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 290
+      "Count": 291
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3587,9 +3593,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19191,
+  "EOS_Progressed": 19196,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17057,6 +17063,11 @@
       "Time": "2023-12-25T12:04:05.8170918+00:00",
       "NumProgressed": 19191,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T13:08:25.0817918+00:00",
+      "NumProgressed": 19196,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17163,9 +17174,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 768
     },
     {
       "ID": "WinImpossible",
@@ -17469,7 +17480,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "WinNearFrosts",
@@ -17493,7 +17504,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "WinNearPetrified",
@@ -17540,15 +17551,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19191,
+      "Progressed": 19196,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-25T10:57:56.6646403+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:04:05.8170914+00:00",
+  "LastChanged": "2023-12-25T13:02:02.8849461+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:08:25.0817914+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:57:54.8205966+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:04:05.817179+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:02:02.8849467+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:08:25.0818751+00:00"
 }

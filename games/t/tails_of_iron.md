@@ -6,8 +6,8 @@ Rating: 4.56 (Ranked 496)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 1.00% | ~23 |
+| Become King | 0.90% | ~21 |
 | The Bright Fir | 0.90% | ~8 |
-| Become King | 0.80% | ~18 |
 | Ranged Weapon | 0.70% | ~16 |
 | Two Handed Weapon | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
@@ -22,9 +22,9 @@ Rating: 4.56 (Ranked 496)
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Rescue Redgi's Brothers | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
+| Defeat Croakhis Khan | 0.60% | ~6 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |
-| Defeat Croakhis Khan | 0.50% | ~5 |
 | I Remember My First Beer | 0.50% | ~5 |
 | Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 496)
 | Complete Arena Faction | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,280 (Ranked 232)  
+Progressed: 2,281 (Ranked 232)  
 Completed: 12 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 12 (0.53%) (Ranked 213)
 | 2023-12-22 | 2,269 | 12 |
 | 2023-12-23 | 2,274 | 12 |
 | 2023-12-24 | 2,279 | 12 |
-| 2023-12-25 | 2,280 | 12 |
+| 2023-12-25 | 2,281 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

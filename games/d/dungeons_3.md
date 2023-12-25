@@ -6,9 +6,9 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~31,286 |
-| The Evilest Evil | 59.00% | ~26,370 |
-| Twistram is devastated | 58.00% | ~25,923 |
+| The Shadow strikes | 70.00% | ~31,287 |
+| The Evilest Evil | 59.00% | ~26,371 |
+| Twistram is devastated | 58.00% | ~25,924 |
 | The Gehenna Stones | 50.00% | ~22,348 |
 | No one has to die today! | 47.00% | ~21,007 |
 | Death and destruction! | 46.00% | ~20,560 |
@@ -16,14 +16,14 @@ Number of Ratings: 1,635  (23.09.2022)
 | Rusty Steel | 41.00% | ~18,325 |
 | The One-Huge-Army-Building Evil | 40.00% | ~17,878 |
 | Braiiiiins! | 38.00% | ~16,984 |
-| The last burger | 37.00% | ~16,537 |
-| Hands off the Dungeonheart! | 36.00% | ~16,090 |
-| A trip on sea, what fun it can be | 34.00% | ~15,196 |
-| Damned good | 33.00% | ~14,749 |
-| Stock Market Crash | 31.00% | ~13,855 |
-| Factory farming | 31.00% | ~13,855 |
-| Shadow hunter | 30.00% | ~13,408 |
-| Not-So-Overproud | 30.00% | ~13,408 |
+| The last burger | 37.00% | ~16,538 |
+| Hands off the Dungeonheart! | 36.00% | ~16,091 |
+| A trip on sea, what fun it can be | 34.00% | ~15,197 |
+| Damned good | 33.00% | ~14,750 |
+| Stock Market Crash | 31.00% | ~13,856 |
+| Factory farming | 31.00% | ~13,856 |
+| Shadow hunter | 30.00% | ~13,409 |
+| Not-So-Overproud | 30.00% | ~13,409 |
 | For a handfull of Catapults | 28.00% | ~12,515 |
 | Thirst quencher | 27.00% | ~12,068 |
 | Ogre Solo! | 27.00% | ~12,068 |
@@ -43,8 +43,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Flat as a pancake | 17.00% | ~7,598 |
 | Lifeguard | 17.00% | ~7,598 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,704 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~5,363 |
-| Then let them eat cake! | 12.00% | ~5,363 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~5,364 |
+| Then let them eat cake! | 12.00% | ~5,364 |
 | The White Knight | 10.00% | ~4,470 |
 | Please, no interruptions! | 10.00% | ~4,470 |
 | Use the terrain | 9.00% | ~4,023 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~894 |
 | Sacrifices! | 2.00% | ~894 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,695 (Ranked 123)  
-Completed: 361 (0.81%) (Ranked 185)  
+Progressed: 44,696 (Ranked 123)  
+Completed: 362 (0.81%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,7 +316,7 @@ Completed: 361 (0.81%) (Ranked 185)
 | 2023-12-22 | 44,346 | 359 |
 | 2023-12-23 | 44,508 | 359 |
 | 2023-12-24 | 44,655 | 361 |
-| 2023-12-25 | 44,695 | 361 |
+| 2023-12-25 | 44,696 | 362 |
 ## Awards
 Max (Great for Beginners): 392  (Ranked 237)  
 Sum: 2,825 (Ranked 185)  

@@ -5,14 +5,14 @@ Rating: 4.26 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,871 |
+| Rigged And Ready | 79.00% | ~1,872 |
 | Don't I Know You...? | 76.00% | ~1,800 |
-| Jailbreak | 65.00% | ~1,539 |
+| Jailbreak | 65.00% | ~1,540 |
 | HEADSHOT! | 38.00% | ~900 |
 | Suited and Booted | 38.00% | ~900 |
 | Sleeping With The Fishes | 35.00% | ~829 |
-| Overheated | 30.00% | ~710 |
-| High Performance | 30.00% | ~710 |
+| Overheated | 30.00% | ~711 |
+| High Performance | 30.00% | ~711 |
 | Powered Up | 28.00% | ~663 |
 | Studied The Blade | 25.00% | ~592 |
 | Home Invasion | 23.00% | ~545 |
@@ -38,9 +38,9 @@ Rating: 4.26 (Ranked 888)
 | Stimulating The Local Economy | 10.00% | ~237 |
 | Triplets | 10.00% | ~237 |
 | Denying Prophecy | 9.00% | ~213 |
-| A Little Banged Up | 8.00% | ~189 |
-| Following In Their Footsteps | 8.00% | ~189 |
-| Defense in Depth | 8.00% | ~189 |
+| A Little Banged Up | 8.00% | ~190 |
+| Following In Their Footsteps | 8.00% | ~190 |
+| Defense in Depth | 8.00% | ~190 |
 | Reverse Engineering | 7.00% | ~166 |
 | Reborn | 6.00% | ~142 |
 | Remote Surgery | 6.00% | ~142 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 888)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,368 (Ranked 230)  
+Progressed: 2,369 (Ranked 230)  
 Completed: 13 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 13 (0.55%) (Ranked 207)
 | 2023-12-22 | 2,340 | 13 |
 | 2023-12-23 | 2,352 | 13 |
 | 2023-12-24 | 2,366 | 13 |
-| 2023-12-25 | 2,368 | 13 |
+| 2023-12-25 | 2,369 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

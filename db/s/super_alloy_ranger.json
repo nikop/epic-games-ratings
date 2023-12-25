@@ -4,8 +4,8 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -794,9 +794,9 @@
       "ID": "Achi_14",
       "SetID": "51a97k7",
       "Name": "Break Through the Forbidden",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_15",
@@ -818,9 +818,9 @@
       "ID": "Achi_17",
       "SetID": "51a97k7",
       "Name": "Space Warrior: Prologue",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_18",
@@ -1099,8 +1099,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-25T12:03:43.581536+00:00",
+  "LastChanged_Achievements": "2023-12-25T13:07:53.7782028+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:57.3788075+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:59:44.1067368+00:00",
-  "LastUpdate_Achievements": "2023-12-25T12:03:43.5815718+00:00"
+  "LastUpdate_Ratings": "2023-12-25T13:04:44.2243834+00:00",
+  "LastUpdate_Achievements": "2023-12-25T13:07:53.7782393+00:00"
 }
