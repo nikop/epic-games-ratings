@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6161,
+  "EOS_Progressed": 6164,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9092,6 +9092,11 @@
       "Time": "2023-12-25T04:07:59.9574299+00:00",
       "NumProgressed": 6161,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T05:08:27.3198301+00:00",
+      "NumProgressed": 6164,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9119,7 +9124,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "12",
@@ -9143,7 +9148,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "15",
@@ -9231,7 +9236,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "25",
@@ -9245,9 +9250,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 308
     },
     {
       "ID": "27",
@@ -9271,7 +9276,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "3",
@@ -9295,7 +9300,7 @@
       "Name": "Magical Synergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "32",
@@ -9311,7 +9316,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "34",
@@ -9319,7 +9324,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "35",
@@ -9469,9 +9474,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 43
     },
     {
       "ID": "48",
@@ -9582,13 +9587,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6161,
+      "Progressed": 6164,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6161,
+      "Progressed": 6164,
       "Completed": 7
     }
   ],
@@ -9596,8 +9601,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:07:59.9574296+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:08:27.3198297+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:58:50.9203321+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:07:59.9575253+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:59:19.907958+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:08:27.3199092+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1444,18 +1444,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 1706,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-12-25T04:57:04.2152068+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1707,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1706,
-  "NumberOfAwardsMax": 224,
+  "NumberOfAwards": 1707,
+  "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game is Relaxing",
@@ -1512,9 +1518,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26640,
+  "EOS_Progressed": 26643,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1414,
+  "EOS_NewPlayers": 1399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11762,6 +11768,11 @@
       "Time": "2023-12-25T04:09:24.5907354+00:00",
       "NumProgressed": 26640,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-25T05:09:59.6315749+00:00",
+      "NumProgressed": 26643,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11781,7 +11792,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "AllEquipment",
@@ -11805,7 +11816,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "AllScarsBronze",
@@ -12084,21 +12095,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26640,
+      "Progressed": 26643,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5570,
+      "Progressed": 5573,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-12-22T21:00:22.4989911+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:09:24.5907346+00:00",
+  "LastChanged": "2023-12-25T04:57:04.2152067+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:09:59.6315745+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:01:49.566486+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:09:24.5908099+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:04.2152073+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:09:59.6316323+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-12-24T23:06:02.7244706+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T05:06:53.9536781+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -483,7 +488,7 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -499,7 +504,7 @@
       "ID": "completeGame",
       "SetID": "cfe0fhi",
       "Name": "Kiwinter Kiwonderland",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -509,13 +514,13 @@
       "Name": "You\u0027re Hired",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
       "UsersEstimate": 37
     },
@@ -525,13 +530,13 @@
       "Name": "Learn the Ropes",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -539,9 +544,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "goldOnAllLevels",
@@ -596,13 +601,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 97,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 95,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
@@ -610,8 +615,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:06:07.6780227+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:06:53.9536778+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.7482599+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:58:11.2601636+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:06:07.6780399+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:58:32.0704454+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:06:53.9536915+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3695,
+  "EOS_Progressed": 3697,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5961,6 +5961,11 @@
       "Time": "2023-12-25T03:03:55.0935503+00:00",
       "NumProgressed": 3695,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T05:03:49.2036502+00:00",
+      "NumProgressed": 3697,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -5996,7 +6001,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "MOVE_ON",
@@ -6036,7 +6041,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6044,7 +6049,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "THE_END",
@@ -6068,14 +6073,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3695,
+      "Progressed": 3697,
       "Completed": 6
     }
   ],
@@ -6083,8 +6088,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:03:16.1538057+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:03:49.2036498+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:58:01.6174976+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:03:16.1538547+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:58:21.2155551+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:03:49.2036905+00:00"
 }

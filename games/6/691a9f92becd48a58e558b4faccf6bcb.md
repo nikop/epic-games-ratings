@@ -10,10 +10,10 @@
 | Golden Carrot | 5.00% | ~16 |
 | Silver Button | 4.00% | ~13 |
 | Silver Carrot | 4.00% | ~13 |
-| At least you tried | 3.00% | ~10 |
 | Golden Button | 3.00% | ~10 |
 | Golden Hat | 3.00% | ~10 |
 | A new HOME | 2.00% | ~6 |
+| At least you tried | 2.00% | ~6 |
 | Silver Scarf | 2.00% | ~6 |
 | Minimalist lifestyle | 0.90% | ~3 |
 | I deliver the presents! | 0.90% | ~3 |
@@ -23,7 +23,7 @@
 | So close! | 0.60% | ~2 |
 | Bling Bling | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 372)  
+Progressed: 321 (Ranked 372)  
 Completed: 1 (0.31%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,3 +109,4 @@ Completed: 1 (0.31%) (Ranked 248)
 | 2023-12-21 | 315 | 1 |
 | 2023-12-23 | 318 | 1 |
 | 2023-12-24 | 320 | 1 |
+| 2023-12-25 | 321 | 1 |

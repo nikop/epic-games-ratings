@@ -872,9 +872,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -896,9 +896,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -936,9 +936,9 @@
       "ID": "Collect_Lurchers_1000000",
       "SetID": "7a5k76n",
       "Name": "Soul Reaper",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Collect_PickUp_500",
@@ -1168,9 +1168,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1328,8 +1328,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-24T16:00:39.7415053+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:06:07.7266461+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:06:54.202059+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:56:54.7162565+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:06:07.7266896+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:06.9276421+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:06:54.2021016+00:00"
 }

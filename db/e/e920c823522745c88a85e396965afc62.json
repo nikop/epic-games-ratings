@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "halls",
       "SetID": "d4692al",
       "Name": "Not enough halls",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "happyVisitors",
@@ -240,9 +240,9 @@
       "ID": "sight",
       "SetID": "d4692al",
       "Name": "A sight to behold",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "store",
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:04:20.9146019+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:04:58.7759548+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:13.9639515+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:58:39.9392667+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:04:20.914621+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:59:06.6899274+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:04:58.7759703+00:00"
 }

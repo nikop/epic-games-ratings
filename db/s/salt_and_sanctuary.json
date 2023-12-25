@@ -2904,7 +2904,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 541898,
+  "EOS_Progressed": 541901,
   "EOS_Completed": 1654,
   "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 8,
@@ -30414,6 +30414,11 @@
       "Time": "2023-12-25T04:04:31.2641891+00:00",
       "NumProgressed": 541898,
       "NumCompleted": 1654
+    },
+    {
+      "Time": "2023-12-25T05:05:09.9347871+00:00",
+      "NumProgressed": 541901,
+      "NumCompleted": 1654
     }
   ],
   "TotalAchievements": 37,
@@ -30441,7 +30446,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167988
+      "UsersEstimate": 167989
     },
     {
       "ID": "DEVOTED",
@@ -30481,7 +30486,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 449775
+      "UsersEstimate": 449778
     },
     {
       "ID": "HONED",
@@ -30537,7 +30542,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216759
+      "UsersEstimate": 216760
     },
     {
       "ID": "THE_CASTLE",
@@ -30681,7 +30686,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346815
+      "UsersEstimate": 346817
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -30720,15 +30725,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 541898,
+      "Progressed": 541901,
       "Completed": 1654
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-24T23:59:28.5044361+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:04:31.2641886+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:05:09.9347868+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7182261+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:58:53.1605161+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:04:31.2643589+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:59:22.517592+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:05:09.9349004+00:00"
 }

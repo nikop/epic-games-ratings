@@ -2,12 +2,12 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 59,
+  "Ranking_Rating": 41,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.83,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-12-16T17:01:08.7568687+00:00",
@@ -55,17 +55,23 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-25T04:57:05.7620728+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1741,
+  "EOS_Progressed": 1743,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 5.69,
+  "EOS_Completed_Percentage": 5.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5156,6 +5162,11 @@
       "Time": "2023-12-25T04:03:20.4314199+00:00",
       "NumProgressed": 1741,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-12-25T05:03:54.0822674+00:00",
+      "NumProgressed": 1743,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 25,
@@ -5165,9 +5176,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 349
     },
     {
       "ID": "END_GOOD",
@@ -5183,7 +5194,7 @@
       "Name": "Peace walker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5215,7 +5226,7 @@
       "Name": "Open door",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5255,7 +5266,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5311,7 +5322,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5319,7 +5330,7 @@
       "Name": "Scholar",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "PROGRESS_N1",
@@ -5327,7 +5338,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "PROGRESS_N2",
@@ -5335,7 +5346,7 @@
       "Name": "The great escape",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "PROGRESS_N3",
@@ -5366,16 +5377,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1741,
+      "Progressed": 1743,
       "Completed": 99
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:03:20.4314194+00:00",
+  "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:03:54.082267+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:01:51.5894051+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:03:20.4314748+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:05.7620731+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:03:54.0823228+00:00"
 }

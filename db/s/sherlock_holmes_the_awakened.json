@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.89,
   "EosHistory": [
@@ -4571,6 +4571,11 @@
       "Time": "2023-12-24T17:06:27.2498628+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T05:05:24.7381911+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4582,7 +4587,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "MQ01_2",
@@ -4590,7 +4595,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MQ02_1",
@@ -4598,7 +4603,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "MQ02_2",
@@ -4630,7 +4635,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MQ03_2",
@@ -4638,7 +4643,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "MQ03_3",
@@ -4654,7 +4659,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ03_5",
@@ -4662,7 +4667,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "MQ04_1",
@@ -4670,7 +4675,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MQ04_2",
@@ -4694,7 +4699,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "MQ05_2",
@@ -4702,7 +4707,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "MQ05_3",
@@ -4710,7 +4715,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "MQ05_4",
@@ -4718,7 +4723,7 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "MQ06_1",
@@ -4726,7 +4731,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MQ06_2",
@@ -4742,7 +4747,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ06_4",
@@ -4805,7 +4810,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 38
     }
   ],
@@ -4813,8 +4818,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-24T11:02:58.3706215+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:04:44.6040611+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:05:24.7381907+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:02:56.5248855+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:04:44.6041017+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:03:26.2125728+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:05:24.7382283+00:00"
 }

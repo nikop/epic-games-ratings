@@ -1,38 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.83 (Ranked 59)  
+Rating: 4.85 (Ranked 41)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~905 |
-| Welcome to the Tower | 47.00% | ~818 |
-| The great escape | 40.00% | ~696 |
+| That's the spirit | 52.00% | ~906 |
+| Welcome to the Tower | 47.00% | ~819 |
+| The great escape | 40.00% | ~697 |
 | The Preacher's fate | 38.00% | ~662 |
 | A new dawn | 31.00% | ~540 |
-| Scholar | 27.00% | ~470 |
+| Scholar | 27.00% | ~471 |
 | True G3M4R | 26.00% | ~453 |
 | The darkness | 26.00% | ~453 |
 | A good beginning | 24.00% | ~418 |
 | One last step | 22.00% | ~383 |
-| I did it | 21.00% | ~366 |
 | Cable guy | 21.00% | ~366 |
 | Half the way | 21.00% | ~366 |
 | Rascal | 21.00% | ~366 |
-| Peace walker | 20.00% | ~348 |
+| I did it | 20.00% | ~349 |
+| Peace walker | 20.00% | ~349 |
 | In this together | 19.00% | ~331 |
 | Champollion | 19.00% | ~331 |
-| Open door | 18.00% | ~313 |
+| Open door | 18.00% | ~314 |
 | Feels like springtime | 17.00% | ~296 |
 | Alchemists Express | 17.00% | ~296 |
 | Free at last | 15.00% | ~261 |
-| A Link to the Past | 13.00% | ~226 |
+| A Link to the Past | 13.00% | ~227 |
 | A great audience | 12.00% | ~209 |
 | For its own good | 11.00% | ~192 |
 | Fashion victim | 7.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,741 (Ranked 245)  
-Completed: 99 (5.69%) (Ranked 73)  
+Progressed: 1,743 (Ranked 245)  
+Completed: 99 (5.68%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 99 (5.69%) (Ranked 73)
 | 2023-12-22 | 1,576 | 85 |
 | 2023-12-23 | 1,672 | 90 |
 | 2023-12-24 | 1,732 | 99 |
-| 2023-12-25 | 1,741 | 99 |
+| 2023-12-25 | 1,743 | 99 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -197,3 +197,4 @@ Completed: 99 (5.69%) (Ranked 73)
 | 2023-12-21 | 4.85 | 0 | 0 |
 | 2023-12-22 | 4.86 | 0 | 0 |
 | 2023-12-23 | 4.83 | 0 | 0 |
+| 2023-12-25 | 4.85 | 0 | 0 |

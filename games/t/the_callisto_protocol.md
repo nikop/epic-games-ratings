@@ -7,27 +7,27 @@ Rating: 4.20 (Ranked 936)
 | ---- | ---------- | ----- |
 | Flesh Wound | 17.00% | ~3,254 |
 | The Outer Way | 17.00% | ~3,254 |
-| Desperate Times | 16.00% | ~3,062 |
-| Get a Grip | 15.00% | ~2,871 |
-| Paper Jams | 15.00% | ~2,871 |
-| Chew 'Em Up | 13.00% | ~2,488 |
+| Desperate Times | 16.00% | ~3,063 |
+| Get a Grip | 15.00% | ~2,872 |
+| Paper Jams | 15.00% | ~2,872 |
+| Chew 'Em Up | 13.00% | ~2,489 |
 | Float Like A Butterfly | 12.00% | ~2,297 |
 | Reforged | 12.00% | ~2,297 |
 | Workplace Hazard | 10.00% | ~1,914 |
 | If the SHU Fits... | 10.00% | ~1,914 |
 | Without A Paddle | 9.00% | ~1,723 |
-| Two Heads Are Better Than One | 8.00% | ~1,531 |
-| In the Pipe, Five by Five | 8.00% | ~1,531 |
-| Crash Site | 8.00% | ~1,531 |
+| Two Heads Are Better Than One | 8.00% | ~1,532 |
+| In the Pipe, Five by Five | 8.00% | ~1,532 |
+| Crash Site | 8.00% | ~1,532 |
 | Terminated | 7.00% | ~1,340 |
 | What Lies Beneath | 7.00% | ~1,340 |
 | Full Circle | 7.00% | ~1,340 |
 | Power Up | 7.00% | ~1,340 |
-| Giving Back | 6.00% | ~1,148 |
-| You Need a Gun | 6.00% | ~1,148 |
-| I Do Belong Here | 6.00% | ~1,148 |
+| Giving Back | 6.00% | ~1,149 |
+| You Need a Gun | 6.00% | ~1,149 |
+| I Do Belong Here | 6.00% | ~1,149 |
 | Keep Fighting | 6.00% | ~424 |
-| It's Time | 5.00% | ~353 |
+| It's Time | 5.00% | ~354 |
 | The Commonality | 4.00% | ~766 |
 | In Striking Distance | 3.00% | ~574 |
 | One Last Job | 2.00% | ~141 |
@@ -45,15 +45,15 @@ Rating: 4.20 (Ranked 936)
 | Don't Let It Mellow | 0.30% | ~21 |
 | The Protocol is About Life | 0.20% | ~38 |
 | Recidivist | 0.20% | ~14 |
+| Bear Trap | 0.20% | ~14 |
 | It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~7 |
 | You Belong Here | 0.10% | ~7 |
 | Lifer | 0.10% | ~7 |
 | Big Game Hunter | 0.10% | ~7 |
-| Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,139 (Ranked 151)  
+Progressed: 19,144 (Ranked 151)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
-| 2023-12-25 | 19,139 | 82 |
+| 2023-12-25 | 19,144 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 379)  
 Sum: 502 (Ranked 332)  

@@ -5,8 +5,8 @@ Rating: 3.58 (Ranked 1,067)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 13.00% | ~266 |
-| Catch and Release | 9.00% | ~184 |
+| I Like My Stakes Rare! | 13.00% | ~267 |
+| Catch and Release | 9.00% | ~185 |
 | Home Is Where the Heart Is | 8.00% | ~164 |
 | ICU | 8.00% | ~164 |
 | Wounded Whispers | 8.00% | ~164 |
@@ -16,9 +16,9 @@ Rating: 3.58 (Ranked 1,067)
 | Peek-a-boo | 6.00% | ~123 |
 | Throw The First Stone | 6.00% | ~123 |
 | Sucks To Be You | 6.00% | ~123 |
-| Enter of Your Own Free Will | 5.00% | ~102 |
-| Welcome to the Neighborhood | 5.00% | ~102 |
-| Heart Attack | 5.00% | ~102 |
+| Enter of Your Own Free Will | 5.00% | ~103 |
+| Welcome to the Neighborhood | 5.00% | ~103 |
+| Heart Attack | 5.00% | ~103 |
 | Bad Wiring | 4.00% | ~82 |
 | Grounded | 4.00% | ~82 |
 | Skin of Their Teeth | 4.00% | ~82 |
@@ -33,12 +33,12 @@ Rating: 3.58 (Ranked 1,067)
 | Harvest’s End | 2.00% | ~41 |
 | Helping Hand | 2.00% | ~41 |
 | I Spit On Your Grave | 2.00% | ~41 |
-| Revelations | 1.00% | ~20 |
-| Contingency Plans | 1.00% | ~20 |
-| Block Party | 1.00% | ~20 |
-| You Clean It Up | 1.00% | ~20 |
-| Check, Please! | 1.00% | ~20 |
-| Nice Try | 1.00% | ~20 |
+| Revelations | 1.00% | ~21 |
+| Contingency Plans | 1.00% | ~21 |
+| Block Party | 1.00% | ~21 |
+| You Clean It Up | 1.00% | ~21 |
+| Check, Please! | 1.00% | ~21 |
+| Nice Try | 1.00% | ~21 |
 | Blacklight Down | 0.90% | ~18 |
 | Curious Finch | 0.90% | ~18 |
 | Empty Nest Syndrome | 0.60% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,050 (Ranked 237)  
+Progressed: 2,051 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
-| 2023-12-25 | 2,050 | 0 |
+| 2023-12-25 | 2,051 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

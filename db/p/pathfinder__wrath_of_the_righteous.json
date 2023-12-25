@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4697,9 +4697,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12727,
+  "EOS_Progressed": 12729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17937,6 +17937,11 @@
       "Time": "2023-12-25T04:09:43.4213865+00:00",
       "NumProgressed": 12727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T05:10:20.033274+00:00",
+      "NumProgressed": 12729,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17948,7 +17953,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "02_BurningCity",
@@ -17972,7 +17977,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -18196,7 +18201,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18316,7 +18321,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "49_Flame",
@@ -18875,21 +18880,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11509,
+      "Progressed": 11511,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12727,
+      "Progressed": 12729,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-25T00:00:26.0268289+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:09:43.421386+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:10:20.0332736+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:59:49.3149736+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:09:43.4215813+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:00:23.772503+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:10:20.0334308+00:00"
 }

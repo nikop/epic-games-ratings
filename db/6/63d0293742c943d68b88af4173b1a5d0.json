@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1649,6 +1649,11 @@
       "Time": "2023-12-25T01:51:53.0146307+00:00",
       "NumProgressed": 517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T05:04:39.2815412+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1733,7 +1738,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Remake_005",
@@ -1757,7 +1762,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Remake_008",
@@ -1771,9 +1776,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 130
     },
     {
       "ID": "Remake_010",
@@ -1884,14 +1889,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:04:02.6044755+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:04:39.2815408+00:00",
   "LastUpdate_AppInfo": "2023-12-19T01:44:23.8086343+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:57:10.340353+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:04:02.6045036+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:24.8115994+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:04:39.2815675+00:00"
 }

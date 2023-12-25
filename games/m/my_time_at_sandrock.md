@@ -15,9 +15,9 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 95.00% | ~634 |
 | Officially Official | 92.00% | ~614 |
 | One of the Cool Kids | 84.00% | ~560 |
-| No Mountain Wide Enough | 82.00% | ~547 |
+| No Mountain Wide Enough | 83.00% | ~554 |
+| Pack Mule | 80.00% | ~534 |
 | Diamonds are Forever | 80.00% | ~534 |
-| Pack Mule | 79.00% | ~527 |
 | Better Late than Never | 79.00% | ~527 |
 | I Do! | 78.00% | ~520 |
 | Yakmel Whisperer | 76.00% | ~507 |

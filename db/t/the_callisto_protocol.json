@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1823,9 +1823,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19139,
+  "EOS_Progressed": 19144,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1348,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -11078,6 +11078,11 @@
       "Time": "2023-12-25T04:09:02.0441+00:00",
       "NumProgressed": 19139,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-25T05:09:34.6823507+00:00",
+      "NumProgressed": 19144,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11105,7 +11110,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -11113,7 +11118,7 @@
       "Name": "You Need a Gun",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "DISARM_ENEMY",
@@ -11153,7 +11158,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -11193,7 +11198,7 @@
       "Name": "Get a Grip",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11209,7 +11214,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -11217,7 +11222,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "KILL_ROBOT",
@@ -11265,7 +11270,7 @@
       "Name": "Paper Jams",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11305,7 +11310,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11321,7 +11326,7 @@
       "Name": "Desperate Times",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11329,7 +11334,7 @@
       "Name": "Crash Site",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "STORY_TOWER",
@@ -11375,9 +11380,9 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -11449,7 +11454,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -11464,13 +11469,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19139,
+      "Progressed": 19144,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7065,
+      "Progressed": 7070,
       "Completed": 29
     }
   ],
@@ -11478,8 +11483,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-24T22:03:30.5341757+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:09:02.0440995+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:09:34.6823504+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:03:00.4382491+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:09:02.0441869+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:03:30.2014352+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:09:34.6824238+00:00"
 }

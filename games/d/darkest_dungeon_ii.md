@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~458 |
+| Malpractice Assurance | 10.00% | ~459 |
 | Lost and Found | 6.00% | ~275 |
+| This Belongs in a Museum | 5.00% | ~6,486 |
 | Autodidact | 5.00% | ~6,486 |
 | This guy... again? | 5.00% | ~229 |
-| This Belongs in a Museum | 4.00% | ~5,189 |
+| Serenity Now! | 4.00% | ~5,189 |
 | Creep and Sleep | 4.00% | ~5,189 |
 | Meat and Greet | 4.00% | ~5,189 |
 | Catch and Decease | 4.00% | ~5,189 |
 | Overdue Notice | 4.00% | ~5,189 |
 | Escape from the Black Hole | 4.00% | ~5,189 |
-| Ploughshares to Swords | 4.00% | ~183 |
-| Bloody Graduation | 4.00% | ~183 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,891 |
-| Serenity Now! | 3.00% | ~3,891 |
-| It Rings a Bell | 3.00% | ~3,891 |
-| Not Today! | 3.00% | ~3,891 |
-| It Happens | 3.00% | ~3,891 |
-| Rush Hour | 3.00% | ~3,891 |
-| Merry Time | 3.00% | ~3,891 |
-| Harvest Festival | 3.00% | ~3,891 |
-| To Grandmother's House | 3.00% | ~3,891 |
-| Whale | 3.00% | ~3,891 |
-| A Place to Lay Your Head | 3.00% | ~3,891 |
-| FNG | 3.00% | ~3,891 |
-| Nope | 3.00% | ~3,891 |
-| Friends 'Til the End | 3.00% | ~137 |
+| Ploughshares to Swords | 4.00% | ~184 |
+| Bloody Graduation | 4.00% | ~184 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,892 |
+| It Rings a Bell | 3.00% | ~3,892 |
+| Not Today! | 3.00% | ~3,892 |
+| It Happens | 3.00% | ~3,892 |
+| Rush Hour | 3.00% | ~3,892 |
+| Merry Time | 3.00% | ~3,892 |
+| Harvest Festival | 3.00% | ~3,892 |
+| To Grandmother's House | 3.00% | ~3,892 |
+| Whale | 3.00% | ~3,892 |
+| A Place to Lay Your Head | 3.00% | ~3,892 |
+| FNG | 3.00% | ~3,892 |
+| Nope | 3.00% | ~3,892 |
+| Friends 'Til the End | 3.00% | ~138 |
 | Resurrection | 2.00% | ~2,594 |
 | Unleash Hell | 2.00% | ~2,594 |
 | Funny Guy | 2.00% | ~2,594 |
@@ -67,7 +67,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.70% | ~32 |
 | Clearing the Ledger | 0.60% | ~778 |
 | Triage | 0.60% | ~778 |
-| No Mercy | 0.60% | ~27 |
+| No Mercy | 0.60% | ~28 |
 | Hat Trick | 0.50% | ~649 |
 | A Life Well Lived | 0.40% | ~519 |
 | The World As It Was | 0.40% | ~519 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,713 (Ranked 87)  
+Progressed: 129,719 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,713 | 3 |
+| 2023-12-25 | 129,719 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
-Sum: 21,059 (Ranked 58)  
+Sum: 21,061 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,415 |
 | This game has Amazing Storytelling | 1,409 |
-| This game has Quickly Understood Controls | 1,378 |
+| This game has Quickly Understood Controls | 1,380 |
 | This game has a Creative Community | 1,050 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -678,3 +678,4 @@ Diff (max vs sum): -8
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
+| 2023-12-25 | 4.68 | - | 7,863 | 21,061 |

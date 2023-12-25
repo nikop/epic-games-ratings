@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -2903,6 +2903,11 @@
       "Time": "2023-12-25T04:08:52.1971641+00:00",
       "NumProgressed": 860,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-25T05:09:23.6311427+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -2915,15 +2920,15 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "achievement_10",
       "SetID": "2cpn27e",
       "Name": "Karakuri Trail",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_11",
@@ -2971,7 +2976,7 @@
       "Name": "Distance Devourer",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_17",
@@ -2987,7 +2992,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_19",
@@ -2995,7 +3000,7 @@
       "Name": "Counter Specialist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_2",
@@ -3003,7 +3008,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_20",
@@ -3011,7 +3016,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_21",
@@ -3043,7 +3048,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_25",
@@ -3075,15 +3080,15 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_3",
@@ -3155,7 +3160,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "achievement_38",
@@ -3227,7 +3232,7 @@
       "Name": "Helpful Heart",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_46",
@@ -3259,7 +3264,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_6",
@@ -3267,7 +3272,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_7",
@@ -3275,7 +3280,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_8",
@@ -3291,20 +3296,20 @@
       "Name": "Karakuri Minato",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:08:52.1971639+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:09:23.6311424+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:59:00.9217724+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:08:52.1972196+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:59:30.8399651+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:09:23.6311808+00:00"
 }

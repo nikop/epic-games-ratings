@@ -10,7 +10,7 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 66.00% | ~108 |
 | Helping Hand | 64.00% | ~104 |
 | Increased Vigor | 59.00% | ~96 |
-| Fight Fire with Fire | 57.00% | ~93 |
+| Fight Fire with Fire | 58.00% | ~95 |
 | Increased Capacity | 52.00% | ~85 |
 | Just the start | 50.00% | ~82 |
 | Perfect Storm | 45.00% | ~73 |
@@ -28,15 +28,15 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 31.00% | ~51 |
 | Love Tap | 30.00% | ~49 |
 | Freeze Frame | 29.00% | ~47 |
+| Eat Your Heart Out | 29.00% | ~47 |
 | Maximum Vigor | 28.00% | ~46 |
-| Eat Your Heart Out | 28.00% | ~46 |
 | For Whom the Bell Tolls | 28.00% | ~46 |
 | Unyielding Strength | 24.00% | ~39 |
 | Can you restore the Balance? | 22.00% | ~36 |
 | Cleanup Crew | 21.00% | ~34 |
 | Crowd Source | 21.00% | ~34 |
 | Big Spender | 21.00% | ~34 |
-| Maximum Capacity | 19.00% | ~31 |
+| Maximum Capacity | 20.00% | ~33 |
 | Demon Meddler | 17.00% | ~28 |
 | Seeing Red | 17.00% | ~28 |
 | Egomaniac | 16.00% | ~26 |
@@ -49,7 +49,7 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 10.00% | ~16 |
 | Path of the Horseman | 10.00% | ~16 |
 | Demon Keeper | 9.00% | ~15 |
-| Soul Reaper | 8.00% | ~13 |
+| Soul Reaper | 9.00% | ~15 |
 | Humanitarian | 8.00% | ~13 |
 | My Evil Twin | 7.00% | ~11 |
 | Keeper of the Bonfire | 6.00% | ~10 |

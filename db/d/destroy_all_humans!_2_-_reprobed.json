@@ -3,12 +3,12 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 549,
-  "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1091,9 +1091,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1372,8 +1372,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:08:36.8441062+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:09:07.4590754+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:56:56.5443545+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:08:36.8441372+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:08.8931756+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:09:07.4590995+00:00"
 }

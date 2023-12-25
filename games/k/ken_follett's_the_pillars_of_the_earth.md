@@ -1,25 +1,25 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 582)  
+Rating: 4.51 (Ranked 581)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,945 |
-| Man of politics | 34.00% | ~5,903 |
+| Tattletale | 40.00% | ~6,946 |
+| Man of politics | 34.00% | ~5,904 |
 | Yet another secret | 33.00% | ~5,730 |
 | Friends of sorts | 32.00% | ~5,556 |
 | Let there be darkness | 31.00% | ~5,383 |
-| End of Book One | 29.00% | ~5,035 |
+| End of Book One | 29.00% | ~5,036 |
 | Garden of Eden | 24.00% | ~4,167 |
-| Wannabe knight | 23.00% | ~3,993 |
-| Full house | 23.00% | ~3,993 |
+| Wannabe knight | 23.00% | ~3,994 |
+| Full house | 23.00% | ~3,994 |
 | Help an old friend | 21.00% | ~3,646 |
 | Two of us | 20.00% | ~3,473 |
-| Negotiation skills | 18.00% | ~3,125 |
-| Workers' union | 18.00% | ~3,125 |
-| End of Book Two | 18.00% | ~3,125 |
+| Negotiation skills | 18.00% | ~3,126 |
+| Workers' union | 18.00% | ~3,126 |
+| End of Book Two | 18.00% | ~3,126 |
 | Everything's in order | 16.00% | ~2,778 |
 | Twist of Fate | 14.00% | ~2,431 |
 | Jack was here! | 14.00% | ~2,431 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~521 |
 | Boy of mystery | 2.00% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,363 (Ranked 154)  
+Progressed: 17,364 (Ranked 155)  
 Completed: 120 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 120 (0.69%) (Ranked 195)
 | 2023-12-22 | 17,285 | 119 |
 | 2023-12-23 | 17,320 | 119 |
 | 2023-12-24 | 17,360 | 120 |
-| 2023-12-25 | 17,363 | 120 |
+| 2023-12-25 | 17,364 | 120 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 409)  

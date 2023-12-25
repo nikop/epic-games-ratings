@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievements.firstexpedition",
@@ -439,8 +439,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:03:48.9751985+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:04:24.7312206+00:00",
   "LastUpdate_AppInfo": "2023-12-22T18:57:04.5424905+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:57:31.7561215+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:03:48.9752093+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:47.6366631+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:04:24.7312321+00:00"
 }

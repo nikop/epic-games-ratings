@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2175,17 +2175,17 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2199,9 +2199,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -2334,8 +2334,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:05:14.1285496+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:05:56.7350362+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.6062309+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:57:37.4378891+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:05:14.1285793+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:57:53.0762496+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:05:56.7350611+00:00"
 }

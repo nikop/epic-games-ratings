@@ -1,11 +1,11 @@
 # Risk of Rain 2
 [Store](https://store.epicgames.com/en-US/p/risk-of-rain-2)  
 [View Rawdata](../../db/r/risk_of_rain_2.json)  
-Rating: 4.83 (Ranked 59)  
+Rating: 4.83 (Ranked 60)  
 Number of Ratings: 1,310  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 279  (Ranked 263)  
-Sum: 2,644 (Ranked 193)  
+Sum: 2,645 (Ranked 193)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 70
 | This game has Amazing Characters | 251 |
 | This game has Quickly Understood Controls | 246 |
 | This game has Challenging Combat | 241 |
-| This game is Highly Recommended | 234 |
+| This game is Highly Recommended | 235 |
 | This game has Amazing Storytelling | 221 |
 | This game has Unique Visuals | 216 |
 | This game has a Creative Community | 178 |
@@ -289,4 +289,4 @@ Diff (max vs sum): 70
 | 2023-12-22 | 4.83 | - | 277 | 2,629 |
 | 2023-12-23 | 4.83 | - | 277 | 2,634 |
 | 2023-12-24 | 4.83 | - | 277 | 2,642 |
-| 2023-12-25 | 4.83 | - | 279 | 2,644 |
+| 2023-12-25 | 4.83 | - | 279 | 2,645 |

@@ -6,12 +6,12 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 13.00% | ~975 |
-| Hey Good Hookin | 11.00% | ~825 |
-| More Fish in the Sea | 11.00% | ~825 |
-| Can you smell what the Rod is Hooking | 10.00% | ~750 |
-| Scaling up | 10.00% | ~750 |
-| I'm on a Boat! | 9.00% | ~675 |
+| Fish Just Got Reel | 13.00% | ~976 |
+| Hey Good Hookin | 11.00% | ~826 |
+| More Fish in the Sea | 11.00% | ~826 |
+| Can you smell what the Rod is Hooking | 10.00% | ~751 |
+| Scaling up | 10.00% | ~751 |
+| I'm on a Boat! | 9.00% | ~676 |
 | Ready to Rod and Roll | 7.00% | ~525 |
 | Fish Out of Water | 5.00% | ~375 |
 | Things that go Splash in the Night | 5.00% | ~375 |
@@ -27,8 +27,8 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.50% | ~38 |
 | No Fin left to give | 0.50% | ~38 |
 | Gonna Need a Bigger Boat | 0.50% | ~38 |
-| Live by the Rod, Diez by the Rod! | 0.40% | ~27 |
-| Aguas Claras Conquistador | 0.40% | ~27 |
+| Live by the Rod, Diez by the Rod! | 0.40% | ~28 |
+| Aguas Claras Conquistador | 0.40% | ~28 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
 | The Beetles | 0.20% | ~15 |
 | Lake Me up Before You Go Go | 0.20% | ~15 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,502 (Ranked 188)  
+Progressed: 7,507 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 7,389 | 0 |
 | 2023-12-23 | 7,447 | 0 |
 | 2023-12-24 | 7,496 | 0 |
-| 2023-12-25 | 7,502 | 0 |
+| 2023-12-25 | 7,507 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 471)  
 Sum: 211 (Ranked 405)  

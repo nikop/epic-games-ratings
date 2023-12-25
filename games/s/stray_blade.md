@@ -15,10 +15,10 @@
 | Defeat Tezuth | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
+| The Golden Flash | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | Freezing Cold | 0.70% | ~1 |
 | A Deceiving Gift | 0.70% | ~1 |
-| The Golden Flash | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1096,
+  "EOS_Progressed": 1097,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -3106,6 +3106,11 @@
       "Time": "2023-12-25T01:57:58.7792064+00:00",
       "NumProgressed": 1096,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T05:10:10.7168304+00:00",
+      "NumProgressed": 1097,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3141,7 +3146,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3213,7 +3218,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "FactorywoodChests1",
@@ -3269,7 +3274,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "GrindingTime1",
@@ -3317,7 +3322,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NoCritterSump",
@@ -3405,7 +3410,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "RewindParry",
@@ -3509,7 +3514,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "WatcherSpared",
@@ -3517,7 +3522,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3540,7 +3545,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1096,
+      "Progressed": 1097,
       "Completed": 6
     }
   ],
@@ -3548,8 +3553,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:09:34.6218748+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:10:10.7168301+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:57:42.6241459+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:09:34.6219282+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:58:00.6934502+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:10:10.7168722+00:00"
 }

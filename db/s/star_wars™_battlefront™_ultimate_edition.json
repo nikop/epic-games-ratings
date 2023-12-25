@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2131,
+  "EOS_Progressed": 2132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6134,6 +6134,11 @@
       "Time": "2023-12-25T04:09:42.2606953+00:00",
       "NumProgressed": 2131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T05:10:18.748337+00:00",
+      "NumProgressed": 2132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6362,7 +6367,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_35",
@@ -6370,7 +6375,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "achievement_36",
@@ -6394,7 +6399,7 @@
       "Name": "Survivor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_39",
@@ -6418,7 +6423,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "achievement_41",
@@ -6450,7 +6455,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_45",
@@ -6649,13 +6654,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2131,
+      "Progressed": 2132,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2131,
+      "Progressed": 2132,
       "Completed": 1
     }
   ],
@@ -6663,8 +6668,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-25T04:09:42.2606949+00:00",
+  "LastChanged_Achievements": "2023-12-25T05:10:18.7483367+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:59:47.9404662+00:00",
-  "LastUpdate_Achievements": "2023-12-25T04:09:42.2608118+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:00:22.2647911+00:00",
+  "LastUpdate_Achievements": "2023-12-25T05:10:18.7484149+00:00"
 }

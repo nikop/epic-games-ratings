@@ -1,23 +1,23 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 582)  
+Rating: 4.51 (Ranked 581)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~572,338 |
-| Error: Stack Overflow | 66.00% | ~406,175 |
-| We need more gold | 61.00% | ~375,404 |
-| The dawn of civilization | 53.00% | ~326,171 |
-| More FPS for the FPS god! | 50.00% | ~307,708 |
-| Beauty and harmony | 48.00% | ~295,400 |
-| One more! | 44.00% | ~270,783 |
-| Overmind | 24.00% | ~147,700 |
-| RNG is my best friend now | 18.00% | ~110,775 |
-| Cosplay | 14.00% | ~86,158 |
-| Evolution in progress... | 13.00% | ~80,004 |
-| Step by step | 8.00% | ~49,233 |
+| First.. Bit? | 93.00% | ~572,342 |
+| Error: Stack Overflow | 66.00% | ~406,178 |
+| We need more gold | 61.00% | ~375,407 |
+| The dawn of civilization | 53.00% | ~326,173 |
+| More FPS for the FPS god! | 50.00% | ~307,710 |
+| Beauty and harmony | 48.00% | ~295,402 |
+| One more! | 44.00% | ~270,785 |
+| Overmind | 24.00% | ~147,701 |
+| RNG is my best friend now | 18.00% | ~110,776 |
+| Cosplay | 14.00% | ~86,159 |
+| Evolution in progress... | 13.00% | ~80,005 |
+| Step by step | 8.00% | ~49,234 |
 | README reader | 4.00% | ~24,617 |
 | Data scientist | 3.00% | ~18,463 |
 | One small step for a man... | 3.00% | ~18,463 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,462 |
 | The Scrooge | 0.10% | ~615 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615,417 (Ranked 31)  
+Progressed: 615,421 (Ranked 31)  
 Completed: 560 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 560 (0.09%) (Ranked 313)
 | 2023-12-22 | 615,047 | 559 |
 | 2023-12-23 | 615,240 | 559 |
 | 2023-12-24 | 615,394 | 560 |
-| 2023-12-25 | 615,417 | 560 |
+| 2023-12-25 | 615,421 | 560 |
 ## Awards
 Max (Challenging Puzzles): 139  (Ranked 331)  
 Sum: 139 (Ranked 437)  

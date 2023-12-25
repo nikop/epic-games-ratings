@@ -21,7 +21,7 @@ Number of Ratings: 90  (23.09.2022)
 | Freshly Squeezed | 16.00% | ~29 |
 | Perfect Probulator | 15.00% | ~27 |
 | Die Nasty | 14.00% | ~25 |
-| Transmitting From Sol-3 | 12.00% | ~22 |
+| Transmitting From Sol-3 | 13.00% | ~24 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 9.00% | ~16 |
 | Dusted | 9.00% | ~16 |
 | Fly Me to the Moon Base | 7.00% | ~13 |
@@ -82,8 +82,8 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-24 | 179 | 0 |
 | 2023-12-25 | 181 | 0 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 488)  
-Sum: 36 (Ranked 520)  
+Max (Great Boss Battles): 36  (Ranked 489)  
+Sum: 36 (Ranked 521)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
