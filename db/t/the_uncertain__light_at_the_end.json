@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 608,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -1108,6 +1108,11 @@
       "Time": "2023-12-24T17:09:36.368594+00:00",
       "NumProgressed": 607,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T12:08:20.4739172+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1239,7 +1244,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Leisurely_Strol",
@@ -1287,7 +1292,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Old_Friend",
@@ -1311,7 +1316,7 @@
       "Name": "Catch You Later",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Party",
@@ -1350,7 +1355,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 608,
       "Completed": 6
     }
   ],
@@ -1358,8 +1363,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:09:00.6941676+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:08:20.4739165+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:03:11.9071137+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:09:00.6941949+00:00"
+  "LastUpdate_Ratings": "2023-12-25T12:03:13.382608+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:08:20.4739399+00:00"
 }

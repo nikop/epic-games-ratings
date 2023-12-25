@@ -2,10 +2,10 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1347,6 +1347,11 @@
       "Time": "2023-12-24T13:07:39.2764746+00:00",
       "NumProgressed": 490,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T12:05:12.536636+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1405,9 +1410,9 @@
       "ID": "ENEMY_DEFEATED_ALL",
       "SetID": "apihg0e",
       "Name": "Easy Prey",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1447,7 +1452,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1461,9 +1466,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 393
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1471,7 +1476,7 @@
       "Name": "Speed Demon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1479,7 +1484,7 @@
       "Name": "Superior Ranking",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1541,9 +1546,9 @@
       "ID": "MAIN_CLEAR_LAST",
       "SetID": "apihg0e",
       "Name": "A Land at Peace",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -1599,15 +1604,15 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hearty Hedgehog",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1678,14 +1683,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:05:10.1578645+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:05:12.5366356+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:15.6866052+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:02:57.9792228+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:05:10.1578962+00:00"
+  "LastUpdate_Ratings": "2023-12-25T12:03:00.51703+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:05:12.5366695+00:00"
 }

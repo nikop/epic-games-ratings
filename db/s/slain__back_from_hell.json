@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -252,7 +252,7 @@
   ],
   "EOS_Progressed": 42720,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27392,9 +27392,9 @@
       "ID": "ACH_18_DEFEATED_IMP",
       "SetID": "443p4o4",
       "Name": "Smack My Imp Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -27505,8 +27505,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:03:30.1275837+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:03:32.8027984+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:58:44.5760908+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:03:30.1277056+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:58:38.2435904+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:03:32.8029505+00:00"
 }

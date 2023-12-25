@@ -6,14 +6,14 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~129 |
-| First of many… | 66.00% | ~111 |
-| Helping Hand | 65.00% | ~109 |
-| Increased Vigor | 60.00% | ~101 |
-| Fight Fire with Fire | 58.00% | ~97 |
-| Increased Capacity | 51.00% | ~86 |
+| Green with Envy | 78.00% | ~131 |
+| First of many… | 67.00% | ~113 |
+| Helping Hand | 66.00% | ~111 |
+| Increased Vigor | 61.00% | ~102 |
+| Fight Fire with Fire | 59.00% | ~99 |
+| Increased Capacity | 54.00% | ~91 |
 | Just the start | 51.00% | ~86 |
-| Perfect Storm | 45.00% | ~76 |
+| Perfect Storm | 46.00% | ~77 |
 | All That Glitters | 45.00% | ~76 |
 | Enhance! | 43.00% | ~72 |
 | One Of the Chosen | 39.00% | ~66 |
@@ -27,9 +27,9 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 32.00% | ~54 |
 | I Wanna Rock | 31.00% | ~52 |
 | Love Tap | 30.00% | ~50 |
+| Maximum Vigor | 29.00% | ~49 |
 | Freeze Frame | 29.00% | ~49 |
 | Eat Your Heart Out | 29.00% | ~49 |
-| Maximum Vigor | 28.00% | ~47 |
 | For Whom the Bell Tolls | 27.00% | ~45 |
 | Unyielding Strength | 24.00% | ~40 |
 | Can you restore the Balance? | 22.00% | ~37 |

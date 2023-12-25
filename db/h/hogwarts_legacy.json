@@ -12409,10 +12409,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 52969,
       "NumberOfAwardsMax": 26418
+    },
+    {
+      "Time": "2023-12-25T11:59:10.5681161+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 52976,
+      "NumberOfAwardsMax": 26418
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52969,
+  "NumberOfAwards": 52976,
   "NumberOfAwardsMax": 26418,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12486,12 +12492,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 894
+      "Count": 901
     }
   ],
-  "EOS_Progressed": 341228,
+  "EOS_Progressed": 341352,
   "EOS_Completed": 533,
-  "EOS_NewPlayers": 17804,
+  "EOS_NewPlayers": 17837,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -39284,6 +39290,11 @@
       "Time": "2023-12-25T11:09:11.0776557+00:00",
       "NumProgressed": 341228,
       "NumCompleted": 533
+    },
+    {
+      "Time": "2023-12-25T12:08:30.9928458+00:00",
+      "NumProgressed": 341352,
+      "NumCompleted": 533
     }
   ],
   "TotalAchievements": 45,
@@ -39295,7 +39306,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 81895
+      "UsersEstimate": 81924
     },
     {
       "ID": "PFA_10",
@@ -39303,7 +39314,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_11",
@@ -39311,7 +39322,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_12",
@@ -39319,7 +39330,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_13",
@@ -39327,7 +39338,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 34123
+      "UsersEstimate": 34135
     },
     {
       "ID": "PFA_14",
@@ -39335,7 +39346,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 20474
+      "UsersEstimate": 20481
     },
     {
       "ID": "PFA_15",
@@ -39343,15 +39354,15 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27298
+      "UsersEstimate": 27308
     },
     {
       "ID": "PFA_16",
       "SetID": "1hf4dep",
       "Name": "The Defender of Dragons",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 40947
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_17",
@@ -39359,7 +39370,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27298
+      "UsersEstimate": 27308
     },
     {
       "ID": "PFA_18",
@@ -39367,7 +39378,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27298
+      "UsersEstimate": 27308
     },
     {
       "ID": "PFA_19",
@@ -39375,7 +39386,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 27298
+      "UsersEstimate": 27308
     },
     {
       "ID": "PFA_2",
@@ -39383,7 +39394,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20474
+      "UsersEstimate": 20481
     },
     {
       "ID": "PFA_20",
@@ -39391,7 +39402,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6827
     },
     {
       "ID": "PFA_21",
@@ -39399,7 +39410,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_22",
@@ -39415,7 +39426,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 58009
+      "UsersEstimate": 58030
     },
     {
       "ID": "PFA_24",
@@ -39423,7 +39434,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40947
+      "UsersEstimate": 40962
     },
     {
       "ID": "PFA_25",
@@ -39431,7 +39442,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20474
+      "UsersEstimate": 20481
     },
     {
       "ID": "PFA_26",
@@ -39447,7 +39458,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13649
+      "UsersEstimate": 13654
     },
     {
       "ID": "PFA_28",
@@ -39455,7 +39466,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10237
+      "UsersEstimate": 10241
     },
     {
       "ID": "PFA_29",
@@ -39463,7 +39474,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20474
+      "UsersEstimate": 20481
     },
     {
       "ID": "PFA_3",
@@ -39471,7 +39482,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10237
+      "UsersEstimate": 10241
     },
     {
       "ID": "PFA_30",
@@ -39479,7 +39490,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47772
+      "UsersEstimate": 47789
     },
     {
       "ID": "PFA_31",
@@ -39487,7 +39498,7 @@
       "Name": "Savvy Spender",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6827
     },
     {
       "ID": "PFA_32",
@@ -39495,7 +39506,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13649
+      "UsersEstimate": 13654
     },
     {
       "ID": "PFA_33",
@@ -39503,7 +39514,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "PFA_34",
@@ -39511,7 +39522,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10237
+      "UsersEstimate": 10241
     },
     {
       "ID": "PFA_35",
@@ -39519,7 +39530,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_36",
@@ -39527,7 +39538,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6827
     },
     {
       "ID": "PFA_37",
@@ -39535,7 +39546,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3414
     },
     {
       "ID": "PFA_38",
@@ -39543,7 +39554,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13649
+      "UsersEstimate": 13654
     },
     {
       "ID": "PFA_39",
@@ -39551,7 +39562,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 37535
+      "UsersEstimate": 37549
     },
     {
       "ID": "PFA_4",
@@ -39559,7 +39570,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20474
+      "UsersEstimate": 20481
     },
     {
       "ID": "PFA_40",
@@ -39567,7 +39578,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6827
     },
     {
       "ID": "PFA_41",
@@ -39575,7 +39586,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 17061
+      "UsersEstimate": 17068
     },
     {
       "ID": "PFA_42",
@@ -39583,7 +39594,7 @@
       "Name": "Raising Expectations",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23895
     },
     {
       "ID": "PFA_43",
@@ -39591,7 +39602,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6827
     },
     {
       "ID": "PFA_44",
@@ -39599,7 +39610,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 30711
+      "UsersEstimate": 30722
     },
     {
       "ID": "PFA_45",
@@ -39607,7 +39618,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6825
+      "UsersEstimate": 6827
     },
     {
       "ID": "PFA_5",
@@ -39615,7 +39626,7 @@
       "Name": "The Wise Owl",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17061
+      "UsersEstimate": 17068
     },
     {
       "ID": "PFA_6",
@@ -39623,7 +39634,7 @@
       "Name": "First Class Student",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 71658
+      "UsersEstimate": 71684
     },
     {
       "ID": "PFA_7",
@@ -39631,7 +39642,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 64833
+      "UsersEstimate": 64857
     },
     {
       "ID": "PFA_8",
@@ -39639,7 +39650,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 47772
+      "UsersEstimate": 47789
     },
     {
       "ID": "PFA_9",
@@ -39647,23 +39658,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 30711
+      "UsersEstimate": 30722
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 341228,
+      "Progressed": 341352,
       "Completed": 533
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-12-25T07:00:26.0179551+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:09:11.0776553+00:00",
+  "LastChanged": "2023-12-25T11:59:10.568116+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:08:30.9928454+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:06.1339146+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:16.8175943+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:09:11.0777864+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:10.5681165+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:08:30.9929743+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -313,7 +313,7 @@
   ],
   "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1096,9 +1096,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1136,9 +1136,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1192,9 +1192,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1216,9 +1216,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1256,9 +1256,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1280,8 +1280,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:03:55.2741727+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:03:57.2274679+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:58:13.3612908+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:03:55.2741952+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:58:10.7602517+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:03:57.2274875+00:00"
 }

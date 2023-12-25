@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -457,9 +457,9 @@
       "ID": "DM",
       "SetID": "2621k8c",
       "Name": "Dance Master",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DP",
@@ -505,9 +505,9 @@
       "ID": "EE",
       "SetID": "2621k8c",
       "Name": "Eyeglass Enthusiast",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EI",
@@ -609,9 +609,9 @@
       "ID": "HE",
       "SetID": "2621k8c",
       "Name": "Hat Enthusiast",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HH",
@@ -689,9 +689,9 @@
       "ID": "JE",
       "SetID": "2621k8c",
       "Name": "Jewelry Enthusiast",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Jealous",
@@ -777,9 +777,9 @@
       "ID": "MC",
       "SetID": "2621k8c",
       "Name": "Motion Capture",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MS",
@@ -881,9 +881,9 @@
       "ID": "Phantasmagoria",
       "SetID": "2621k8c",
       "Name": "Phantasmagoria",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Poor",
@@ -1160,8 +1160,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:10:27.9441164+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:48.4594271+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:12.9538681+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:06.1530915+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:10:27.9442122+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:00.43605+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:48.4595133+00:00"
 }

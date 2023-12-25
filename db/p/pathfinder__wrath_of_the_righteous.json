@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4697,9 +4697,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12742,
+  "EOS_Progressed": 12745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17972,6 +17972,11 @@
       "Time": "2023-12-25T11:10:28.7249005+00:00",
       "NumProgressed": 12742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T12:09:49.2155356+00:00",
+      "NumProgressed": 12745,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17983,7 +17988,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3441
     },
     {
       "ID": "02_BurningCity",
@@ -18119,7 +18124,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "19_EqualToAroden",
@@ -18351,7 +18356,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "49_Flame",
@@ -18855,7 +18860,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -18910,21 +18915,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11524,
+      "Progressed": 11527,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12742,
+      "Progressed": 12745,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-25T00:00:26.0268289+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:10:28.7249002+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:49.2155353+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:58.9525655+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:10:28.7250977+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:51.2364217+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:49.2157009+00:00"
 }

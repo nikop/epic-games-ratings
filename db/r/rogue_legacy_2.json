@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1518,9 +1518,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26679,
+  "EOS_Progressed": 26687,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1344,
+  "EOS_NewPlayers": 1322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11803,6 +11803,11 @@
       "Time": "2023-12-25T11:10:09.0520835+00:00",
       "NumProgressed": 26679,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-25T12:09:30.1295773+00:00",
+      "NumProgressed": 26687,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11942,7 +11947,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12125,21 +12130,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26679,
+      "Progressed": 26687,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5609,
+      "Progressed": 5617,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-25T04:57:04.2152067+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:10:09.0520831+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:30.1295771+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:00.6165458+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:10:09.0521427+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:00.38359+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:30.1296486+00:00"
 }

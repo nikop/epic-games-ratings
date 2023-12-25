@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10128,7 +10128,7 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129757,
+  "EOS_Progressed": 129768,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1496,
   "EOS_NewCompleters": 0,
@@ -36723,6 +36723,11 @@
       "Time": "2023-12-25T11:09:46.0544819+00:00",
       "NumProgressed": 129757,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T12:09:07.1776512+00:00",
+      "NumProgressed": 129768,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36742,7 +36747,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -36894,7 +36899,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36934,7 +36939,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -36950,7 +36955,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "combat_kill_librarian",
@@ -36958,7 +36963,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "combat_kill_pillagers",
@@ -36974,7 +36979,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37270,7 +37275,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "combat_kill_collector",
@@ -37278,7 +37283,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37365,21 +37370,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129757,
+      "Progressed": 129768,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4626,
+      "Progressed": 4637,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-25T04:58:12.946757+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:09:46.0544814+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:07.1776509+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:58:01.9723289+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:09:46.0546694+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:58:00.1987164+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:07.1778193+00:00"
 }

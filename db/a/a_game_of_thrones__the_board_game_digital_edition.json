@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31339,
+  "EOS_Progressed": 31342,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28056,6 +28056,11 @@
       "Time": "2023-12-25T11:10:05.3654485+00:00",
       "NumProgressed": 31339,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-25T12:09:26.3227668+00:00",
+      "NumProgressed": 31342,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28075,7 +28080,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "1017",
@@ -28083,7 +28088,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "1018",
@@ -28123,7 +28128,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "1023",
@@ -28171,7 +28176,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5641
+      "UsersEstimate": 5642
     },
     {
       "ID": "1029",
@@ -28187,7 +28192,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "1031",
@@ -28203,7 +28208,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "1033",
@@ -28242,15 +28247,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31339,
+      "Progressed": 31342,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:10:05.365448+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:26.3227665+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:56:56.0014738+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:10:05.3656083+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:56:55.3763918+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:26.3229067+00:00"
 }

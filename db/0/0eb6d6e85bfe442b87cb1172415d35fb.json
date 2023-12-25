@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-12-25T09:07:00.2437227+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T12:08:01.1896548+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -449,7 +454,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -457,7 +462,7 @@
       "ID": "OrACEO",
       "SetID": "d11cl5p",
       "Name": "Or\u2026 a CEO!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -481,7 +486,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -515,13 +520,13 @@
       "Name": "Small airfield",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TakeMeToYourHeaven",
       "SetID": "d11cl5p",
       "Name": "Take me to your heaven",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -531,7 +536,7 @@
       "Name": "Taking off",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TheAirportCEO",
@@ -553,7 +558,7 @@
       "ID": "TheLuxuryTrap",
       "SetID": "d11cl5p",
       "Name": "The luxury trap",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -569,7 +574,7 @@
       "ID": "ThereAndBackAgain",
       "SetID": "d11cl5p",
       "Name": "There and back again",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -602,14 +607,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:06:29.6890488+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:08:01.1896544+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:20.3127817+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:06:29.6890713+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:18.9473286+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:08:01.1896759+00:00"
 }

@@ -21,33 +21,33 @@ Rating: 3.95 (Ranked 1,033)
 | Track Star | 1.00% | ~925 |
 | True Player | 1.00% | ~925 |
 | Rockay Rex | 1.00% | ~925 |
-| Headhunter | 0.90% | ~832 |
-| I Like Trains | 0.70% | ~647 |
-| Freebooter | 0.70% | ~647 |
+| Headhunter | 0.90% | ~833 |
+| I Like Trains | 0.70% | ~648 |
+| Freebooter | 0.70% | ~648 |
 | Legend Looter | 0.60% | ~555 |
 | Foo Finder | 0.60% | ~555 |
 | Moneybags | 0.60% | ~555 |
-| Imports and Exports | 0.50% | ~462 |
-| Savvy Seeker | 0.50% | ~462 |
-| Olympus Ascended | 0.50% | ~462 |
-| Ding Dong | 0.50% | ~462 |
+| Imports and Exports | 0.50% | ~463 |
+| Savvy Seeker | 0.50% | ~463 |
+| Olympus Ascended | 0.50% | ~463 |
+| Ding Dong | 0.50% | ~463 |
 | All that Glitters | 0.40% | ~83 |
-| Rockay Raider | 0.30% | ~277 |
-| Rockay Knight | 0.30% | ~277 |
-| Groundhog Days | 0.30% | ~277 |
-| Cracked the Jack | 0.30% | ~277 |
-| Red Star | 0.30% | ~277 |
-| Classy Joint | 0.30% | ~277 |
+| Rockay Raider | 0.30% | ~278 |
+| Rockay Knight | 0.30% | ~278 |
+| Groundhog Days | 0.30% | ~278 |
+| Cracked the Jack | 0.30% | ~278 |
+| Red Star | 0.30% | ~278 |
+| Classy Joint | 0.30% | ~278 |
 | All for One | 0.30% | ~63 |
 | Privateer | 0.20% | ~185 |
 | Talent Scout | 0.20% | ~185 |
 | Impossible Dreamer | 0.20% | ~185 |
 | One for All | 0.20% | ~42 |
 | Now You See Me | 0.20% | ~42 |
-| Full House | 0.10% | ~92 |
-| Geek Out | 0.10% | ~92 |
+| Full House | 0.10% | ~93 |
+| Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,498 (Ranked 97)  
+Progressed: 92,501 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 58 (0.06%) (Ranked 329)
 | 2023-12-22 | 92,351 | 58 |
 | 2023-12-23 | 92,411 | 58 |
 | 2023-12-24 | 92,476 | 58 |
-| 2023-12-25 | 92,498 | 58 |
+| 2023-12-25 | 92,501 | 58 |
 ## Awards
 Max (Diverse Characters): 575  (Ranked 209)  
 Sum: 2,715 (Ranked 190)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1729,11 +1729,11 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164383,
-  "EOS_Completed": 402,
-  "EOS_NewPlayers": 1230,
-  "EOS_NewCompleters": 57,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Progressed": 164400,
+  "EOS_Completed": 403,
+  "EOS_NewPlayers": 1241,
+  "EOS_NewCompleters": 58,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:06.2765882+00:00",
@@ -20539,6 +20539,11 @@
       "Time": "2023-12-25T11:04:20.6365291+00:00",
       "NumProgressed": 164383,
       "NumCompleted": 402
+    },
+    {
+      "Time": "2023-12-25T12:04:21.9477516+00:00",
+      "NumProgressed": 164400,
+      "NumCompleted": 403
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20918,21 +20923,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 163966,
+      "Progressed": 163983,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164383,
-      "Completed": 402
+      "Progressed": 164400,
+      "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-24T03:57:44.1190154+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:04:20.6365285+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:04:21.9477513+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:55.4256324+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:04:20.6366515+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:53.4470174+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:04:21.9478543+00:00"
 }

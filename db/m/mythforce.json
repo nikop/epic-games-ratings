@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -842,9 +842,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5807,
+  "EOS_Progressed": 5808,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11787,6 +11787,11 @@
       "Time": "2023-12-25T11:06:01.4447184+00:00",
       "NumProgressed": 5807,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T12:06:03.5452226+00:00",
+      "NumProgressed": 5808,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11855,7 +11860,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -11909,9 +11914,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1336
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -11951,7 +11956,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -11982,15 +11987,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5807,
+      "Progressed": 5808,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-17T11:57:49.7030504+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:06:01.4447181+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:06:03.5452223+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:59.1851921+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:06:01.4447889+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:57.2866257+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:06:03.5452901+00:00"
 }

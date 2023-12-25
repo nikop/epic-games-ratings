@@ -5,11 +5,11 @@ Rating: 4.52 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 65.00% | ~634 |
+| The Camp | 65.00% | ~635 |
 | The Teleprobe | 51.00% | ~498 |
 | The City | 46.00% | ~449 |
-| The field base | 41.00% | ~400 |
-| Survivors | 36.00% | ~351 |
+| The field base | 41.00% | ~401 |
+| Survivors | 36.00% | ~352 |
 | The Alliance | 34.00% | ~332 |
 | The Condor | 34.00% | ~332 |
 | The End | 33.00% | ~322 |
@@ -21,7 +21,7 @@ Rating: 4.52 (Ranked 563)
 | Fierce fight | 18.00% | ~176 |
 | Evacuation | 18.00% | ~176 |
 | Beyond divisions | 16.00% | ~156 |
-| Flying Objects Operator | 15.00% | ~146 |
+| Flying Objects Operator | 15.00% | ~147 |
 | I remember everything! | 13.00% | ~127 |
 | Another giant | 12.00% | ~117 |
 | Violent solution | 9.00% | ~88 |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 563)
 | Convoy list | 0.90% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976 (Ranked 283)  
+Progressed: 977 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 887 | 0 |
 | 2023-12-23 | 928 | 0 |
 | 2023-12-24 | 960 | 0 |
-| 2023-12-25 | 976 | 0 |
+| 2023-12-25 | 977 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

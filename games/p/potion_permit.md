@@ -23,7 +23,7 @@ Rating: 3.83 (Ranked 1,051)
 | Fishing Guru | 21.00% | ~374 |
 | Spark of Love | 18.00% | ~321 |
 | Community Helper | 17.00% | ~303 |
-| Expert Chemist | 14.00% | ~249 |
+| Expert Chemist | 15.00% | ~267 |
 | Stone Specialist | 14.00% | ~249 |
 | Sociable | 13.00% | ~232 |
 | Line Cook | 12.00% | ~214 |

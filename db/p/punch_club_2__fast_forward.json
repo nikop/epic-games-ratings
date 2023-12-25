@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 463,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -1928,9 +1928,9 @@
       "ID": "any_stat_30",
       "SetID": "69co12a",
       "Name": "GYM professional",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "any_stat_5",
@@ -2399,8 +2399,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:09:51.2501456+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:12.4363699+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:26.2784848+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:09:51.2501957+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:18.5565838+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:12.4364192+00:00"
 }

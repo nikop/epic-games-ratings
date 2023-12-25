@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1768,
+  "EOS_Progressed": 1769,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2893,6 +2893,11 @@
       "Time": "2023-12-25T09:04:00.6309853+00:00",
       "NumProgressed": 1768,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T12:03:48.8910633+00:00",
+      "NumProgressed": 1769,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2952,7 +2957,7 @@
       "Name": "Back to rust",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "16",
@@ -2992,7 +2997,7 @@
       "Name": "Flower Powered",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "20",
@@ -3000,7 +3005,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "21",
@@ -3064,7 +3069,7 @@
       "Name": "Hug therapy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "30",
@@ -3112,7 +3117,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "7",
@@ -3120,7 +3125,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "8",
@@ -3128,7 +3133,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "9",
@@ -3143,15 +3148,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1768,
+      "Progressed": 1769,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:03:46.7380084+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:03:48.8910629+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:59.6682827+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:03:46.7380336+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:57.7044565+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:03:48.8910983+00:00"
 }

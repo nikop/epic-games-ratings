@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,539 |
+| Getting Started | 81.00% | ~13,541 |
 | Pay 'n' Spray | 50.00% | ~8,358 |
 | All Dressed Up for San Fierro | 25.00% | ~4,179 |
-| The American Dream | 18.00% | ~3,009 |
+| The American Dream | 19.00% | ~3,176 |
 | School's Out | 17.00% | ~2,842 |
-| Smooth Moves | 16.00% | ~2,674 |
-| Today Was a Good Day | 15.00% | ~2,507 |
+| Smooth Moves | 16.00% | ~2,675 |
+| Today Was a Good Day | 15.00% | ~2,508 |
 | What happens in Las Venturas... | 14.00% | ~2,340 |
 | Horror of the Santa Maria | 10.00% | ~1,672 |
-| Liberty City State of Mind | 9.00% | ~1,504 |
+| Liberty City State of Mind | 9.00% | ~1,505 |
 | Original Gangster | 8.00% | ~1,337 |
 | With Extra Dip | 7.00% | ~1,170 |
 | The End of the Line | 7.00% | ~1,170 |
@@ -22,8 +22,8 @@ Rating: 4.54 (Ranked 534)
 | Rescue a Kitten Too? | 5.00% | ~836 |
 | They Can’t Stop All of Us | 4.00% | ~669 |
 | What are the Odds | 4.00% | ~669 |
-| Bike or Biker | 3.00% | ~501 |
-| What the City Needs | 3.00% | ~501 |
+| Bike or Biker | 3.00% | ~502 |
+| What the City Needs | 3.00% | ~502 |
 | A Legitimate Business | 2.00% | ~334 |
 | I’ll Have Two Number 9s | 2.00% | ~334 |
 | Who Needs Directions? | 2.00% | ~334 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 534)
 | ...Here we go again | 0.50% | ~84 |
 | I Ain't No Buster | 0.40% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,715 (Ranked 159)  
+Progressed: 16,717 (Ranked 159)  
 Completed: 63 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 63 (0.38%) (Ranked 234)
 | 2023-12-22 | 16,205 | 62 |
 | 2023-12-23 | 16,429 | 62 |
 | 2023-12-24 | 16,638 | 63 |
-| 2023-12-25 | 16,715 | 63 |
+| 2023-12-25 | 16,717 | 63 |
 ## Awards
-Max (Great Boss Battles): 508  (Ranked 217)  
+Max (Great Boss Battles): 508  (Ranked 218)  
 Sum: 817 (Ranked 284)  
-Diff (max vs sum): -67  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 508 |

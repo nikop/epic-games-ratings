@@ -5,13 +5,13 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,606 |
+| Oyedang, Kopengs | 15.00% | ~2,607 |
 | Captain Drummer | 11.00% | ~1,911 |
-| The Pit and the Pirates | 10.00% | ~1,737 |
-| Martian Music | 10.00% | ~1,737 |
-| Bosmang | 10.00% | ~1,737 |
-| Celebrations are in Order | 10.00% | ~1,737 |
-| Impossible Objects | 10.00% | ~1,737 |
+| The Pit and the Pirates | 10.00% | ~1,738 |
+| Martian Music | 10.00% | ~1,738 |
+| Bosmang | 10.00% | ~1,738 |
+| Celebrations are in Order | 10.00% | ~1,738 |
+| Impossible Objects | 10.00% | ~1,738 |
 | Drone Dodger | 9.00% | ~1,564 |
 | Stogie for Fogey | 8.00% | ~1,390 |
 | Spore Taste | 8.00% | ~1,390 |
@@ -20,20 +20,20 @@ Rating: 4.55 (Ranked 512)
 | Call it Even | 7.00% | ~1,216 |
 | Keep Arjun in Check | 7.00% | ~233 |
 | Madame Undersecretary | 7.00% | ~233 |
-| Data Archivist | 6.00% | ~1,042 |
-| Drug Gifter | 6.00% | ~1,042 |
-| Heal Thy Medic | 6.00% | ~1,042 |
+| Data Archivist | 6.00% | ~1,043 |
+| Drug Gifter | 6.00% | ~1,043 |
+| Heal Thy Medic | 6.00% | ~1,043 |
 | Doctor Approved | 5.00% | ~869 |
 | Thorston Mayer | 5.00% | ~869 |
 | Khan's Revenge | 5.00% | ~869 |
-| Master Negotiator | 5.00% | ~166 |
+| Master Negotiator | 5.00% | ~167 |
 | Bottoms up! | 4.00% | ~695 |
 | Data Logger | 3.00% | ~521 |
 | Miraculous Maya | 3.00% | ~521 |
-| Brother's Reaper | 2.00% | ~347 |
-| No Belter Left Behind | 2.00% | ~347 |
-| Debris Spree | 2.00% | ~347 |
-| Data Master | 2.00% | ~347 |
+| Brother's Reaper | 2.00% | ~348 |
+| No Belter Left Behind | 2.00% | ~348 |
+| Debris Spree | 2.00% | ~348 |
+| Data Master | 2.00% | ~348 |
 | Urshanabi Hoarder | 1.00% | ~174 |
 | Data Recoverer | 1.00% | ~174 |
 | Data Miner | 0.50% | ~87 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,373 (Ranked 156)  
+Progressed: 17,377 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-22 | 17,122 | 47 |
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
-| 2023-12-25 | 17,373 | 52 |
+| 2023-12-25 | 17,377 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

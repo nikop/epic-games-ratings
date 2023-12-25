@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2614,9 +2614,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 416
     },
     {
       "ID": "CompleteChapter4",
@@ -2765,8 +2765,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:04:15.5290096+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:04:16.9069115+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:38.3588699+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:04:15.529053+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:31.6808876+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:04:16.9069446+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1295,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
@@ -2975,6 +2975,11 @@
       "Time": "2023-12-25T08:08:17.8041091+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-25T12:08:06.2245852+00:00",
+      "NumProgressed": 1295,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -2986,7 +2991,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3010,7 +3015,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3018,7 +3023,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -3034,7 +3039,7 @@
       "Name": "Love is in the air",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3066,7 +3071,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -3074,7 +3079,7 @@
       "Name": "Memento",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3082,7 +3087,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3098,7 +3103,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -3138,7 +3143,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_STAR_2",
@@ -3154,7 +3159,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_STAR_4",
@@ -3184,9 +3189,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3201,7 +3206,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1295,
       "Completed": 18
     }
   ],
@@ -3209,8 +3214,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-23T01:40:38.043834+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:08:46.2877699+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:08:06.2245848+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:58.643058+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:08:46.2878221+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:50.8997518+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:08:06.2246226+00:00"
 }

@@ -8,16 +8,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,151 |
 | Overgrown Library | 6.00% | ~1,151 |
-| Taking Action | 5.00% | ~959 |
-| No Deaths | 5.00% | ~959 |
-| Petrified Necropolis | 5.00% | ~959 |
-| First Real Expedition | 4.00% | ~767 |
-| Coral Forest | 4.00% | ~767 |
-| The Marshlands | 4.00% | ~767 |
-| Frosts | 4.00% | ~767 |
-| Land of Greed | 4.00% | ~767 |
-| Ominous Presence | 4.00% | ~767 |
-| Gathering Storm | 4.00% | ~767 |
+| Taking Action | 5.00% | ~960 |
+| No Deaths | 5.00% | ~960 |
+| Petrified Necropolis | 5.00% | ~960 |
+| First Real Expedition | 4.00% | ~768 |
+| Coral Forest | 4.00% | ~768 |
+| The Marshlands | 4.00% | ~768 |
+| Frosts | 4.00% | ~768 |
+| Land of Greed | 4.00% | ~768 |
+| Ominous Presence | 4.00% | ~768 |
+| Gathering Storm | 4.00% | ~768 |
 | Overcoming Difficulty | 3.00% | ~576 |
 | The Scarlet Orchard | 3.00% | ~576 |
 | Homesick | 2.00% | ~384 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~192 |
 | Cursed Lands | 1.00% | ~192 |
 | Defying the Crown | 0.90% | ~173 |
-| Serving Ale | 0.80% | ~153 |
-| Fishmen Ritual Site | 0.80% | ~153 |
-| Victory Through Prosperity | 0.80% | ~153 |
-| Into the Forest | 0.80% | ~153 |
+| Serving Ale | 0.80% | ~154 |
+| Fishmen Ritual Site | 0.80% | ~154 |
+| Victory Through Prosperity | 0.80% | ~154 |
+| Into the Forest | 0.80% | ~154 |
 | Forsaken Gods Temple | 0.70% | ~134 |
 | Efficient Explorer | 0.60% | ~115 |
 | Refinery | 0.60% | ~115 |
@@ -56,17 +56,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.40% | ~77 |
 | Blood Flower Farmer | 0.30% | ~58 |
 | Human Utopia | 0.20% | ~38 |
+| Lizard Utopia | 0.20% | ~38 |
 | Prestigious Expedition | 0.20% | ~38 |
 | Paradise | 0.10% | ~19 |
 | Higher Needs | 0.10% | ~19 |
 | Beaver Utopia | 0.10% | ~19 |
 | Harpy Utopia | 0.10% | ~19 |
-| Lizard Utopia | 0.10% | ~19 |
 | The Queen's Chosen | 0.10% | ~19 |
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,184 (Ranked 150)  
+Progressed: 19,191 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,184 | 38 |
+| 2023-12-25 | 19,191 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,290 (Ranked 177)  

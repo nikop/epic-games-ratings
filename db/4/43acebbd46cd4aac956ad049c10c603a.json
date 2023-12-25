@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3289,17 +3289,17 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 102
     },
     {
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 294
     },
     {
       "ID": "Persistent",
@@ -3522,8 +3522,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:03:21.0120429+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:03:23.8977273+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:58:09.9722958+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:03:21.0121004+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:58:07.6241327+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:03:23.8978011+00:00"
 }

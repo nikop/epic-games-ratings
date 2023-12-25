@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39464,
+  "EOS_Progressed": 39465,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21971,6 +21971,11 @@
       "Time": "2023-12-25T11:06:00.0820275+00:00",
       "NumProgressed": 39464,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-25T12:06:02.2268792+00:00",
+      "NumProgressed": 39465,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 14,
@@ -22062,7 +22067,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9471
+      "UsersEstimate": 9472
     },
     {
       "ID": "firstItem",
@@ -22070,7 +22075,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30387
+      "UsersEstimate": 30388
     },
     {
       "ID": "roots",
@@ -22093,15 +22098,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39464,
+      "Progressed": 39465,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:06:00.0820271+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:06:02.2268789+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:33.9601546+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:06:00.0821185+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:32.1865183+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:06:02.2270077+00:00"
 }

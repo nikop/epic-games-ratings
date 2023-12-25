@@ -6,12 +6,12 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~486 |
-| Cowardice | 61.00% | ~436 |
-| NO LIFE IS WORTH SAVING... | 45.00% | ~322 |
+| Explorer | 68.00% | ~487 |
+| Cowardice | 61.00% | ~437 |
+| NO LIFE IS WORTH SAVING... | 46.00% | ~329 |
 | The Breaking Point | 44.00% | ~315 |
 | Eat Lead! | 44.00% | ~315 |
-| Here Comes the Boom | 41.00% | ~293 |
+| Here Comes the Boom | 41.00% | ~294 |
 | Prospector | 40.00% | ~286 |
 | Sniper Wolf | 38.00% | ~272 |
 | Treasure Hunter | 37.00% | ~265 |
@@ -21,18 +21,18 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 33.00% | ~236 |
 | King of Knives | 32.00% | ~229 |
 | Consequences | 31.00% | ~222 |
-| Opportunities | 30.00% | ~214 |
+| Opportunities | 30.00% | ~215 |
 | The Horror | 28.00% | ~200 |
 | The Difference | 26.00% | ~186 |
 | It's Just an Accident | 25.00% | ~179 |
 | Vengeance | 24.00% | ~172 |
-| Collectibles of Chapter II | 22.00% | ~157 |
-| Broken Hopes | 22.00% | ~157 |
-| Bullseye! | 22.00% | ~157 |
+| Collectibles of Chapter II | 22.00% | ~158 |
+| Broken Hopes | 22.00% | ~158 |
+| Bullseye! | 22.00% | ~158 |
 | Sorrow | 20.00% | ~143 |
 | Atonement | 17.00% | ~122 |
 | Food Massacre | 17.00% | ~122 |
-| Helping Hand | 16.00% | ~114 |
+| Helping Hand | 16.00% | ~115 |
 | Without a Second Thought | 15.00% | ~107 |
 | Collectibles of Chapter III | 13.00% | ~93 |
 | Collectibles of Chapter IV | 13.00% | ~93 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715 (Ranked 304)  
+Progressed: 716 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 700 | 0 |
 | 2023-12-23 | 712 | 0 |
 | 2023-12-24 | 714 | 0 |
-| 2023-12-25 | 715 | 0 |
+| 2023-12-25 | 716 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

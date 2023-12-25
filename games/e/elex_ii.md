@@ -6,15 +6,15 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 28.00% | ~26 |
+| Entrepreneur | 27.00% | ~26 |
 | Best Buddy | 24.00% | ~23 |
+| Civilian | 21.00% | ~20 |
 | Role Model | 20.00% | ~19 |
-| Civilian | 20.00% | ~19 |
 | Creator | 14.00% | ~13 |
 | Military Leader | 13.00% | ~12 |
-| Festival-goer | 11.00% | ~10 |
-| Commander | 10.00% | ~9 |
-| Long-Haul Flyer | 9.00% | ~8 |
+| Festival-goer | 13.00% | ~12 |
+| Commander | 9.00% | ~9 |
+| Long-Haul Flyer | 8.00% | ~8 |
 | Peddler | 7.00% | ~7 |
 | Berserker | 7.00% | ~7 |
 | Family Reunion | 6.00% | ~6 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 485)  
+Progressed: 95 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 67 | 0 |
 | 2023-12-23 | 75 | 0 |
 | 2023-12-24 | 88 | 0 |
-| 2023-12-25 | 94 | 0 |
+| 2023-12-25 | 95 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

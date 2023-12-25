@@ -27,10 +27,10 @@
 | Hate is... addictive | 12.00% | ~8 |
 | Kirlian's best disciple | 12.00% | ~8 |
 | Welcome to Hellville | 12.00% | ~8 |
+| Bread and bocaua | 10.00% | ~7 |
+| Fanatacism is... poisonous | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
 | Blood Red Island | 9.00% | ~6 |
-| Bread and bocaua | 9.00% | ~6 |
-| Fanatacism is... poisonous | 9.00% | ~6 |
 | The adventurer | 9.00% | ~6 |
 | Pulp! The Beyond | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |

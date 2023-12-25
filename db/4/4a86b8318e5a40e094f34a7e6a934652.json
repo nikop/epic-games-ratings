@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1751,9 +1751,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     }
   ],
   "AchievementSets": [
@@ -1766,8 +1766,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:03:37.787559+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:03:40.2418826+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:50.1885525+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:03:37.7875744+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:48.0510913+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:03:40.2418983+00:00"
 }

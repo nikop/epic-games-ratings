@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 217,
+  "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 234,
@@ -1957,9 +1957,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16715,
+  "EOS_Progressed": 16717,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1443,
+  "EOS_NewPlayers": 1437,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17537,6 +17537,11 @@
       "Time": "2023-12-25T11:10:13.1910574+00:00",
       "NumProgressed": 16715,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-25T12:09:34.066632+00:00",
+      "NumProgressed": 16717,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 35,
@@ -17548,7 +17553,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13539
+      "UsersEstimate": 13541
     },
     {
       "ID": "ACH02",
@@ -17594,9 +17599,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3176
     },
     {
       "ID": "ACH08",
@@ -17612,7 +17617,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH10",
@@ -17628,7 +17633,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "ACH12",
@@ -17668,7 +17673,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "ACH17",
@@ -17676,7 +17681,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH18",
@@ -17772,7 +17777,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "ACH30",
@@ -17827,7 +17832,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16715,
+      "Progressed": 16717,
       "Completed": 63
     }
   ],
@@ -17835,8 +17840,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-25T07:02:01.9675694+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:10:13.191057+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:34.0666317+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-25T11:00:26.9296569+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:10:13.1911352+00:00"
+  "LastUpdate_Ratings": "2023-12-25T12:02:28.9070423+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:34.0667594+00:00"
 }

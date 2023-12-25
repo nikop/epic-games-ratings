@@ -45,8 +45,8 @@
 | Responsible approach | 38.00% | ~176 |
 | Underground dwellers | 37.00% | ~171 |
 | Deal with life | 36.00% | ~167 |
+| GYM professional | 36.00% | ~167 |
 | Mom got better | 35.00% | ~162 |
-| GYM professional | 35.00% | ~162 |
 | The die is cast | 35.00% | ~162 |
 | Poisoned fighter | 34.00% | ~157 |
 | Get out of my apartment! | 34.00% | ~157 |

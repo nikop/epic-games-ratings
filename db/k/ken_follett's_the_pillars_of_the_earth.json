@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,11 +570,11 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17372,
-  "EOS_Completed": 120,
-  "EOS_NewPlayers": 210,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Progressed": 17373,
+  "EOS_Completed": 121,
+  "EOS_NewPlayers": 211,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:32.3721818+00:00",
@@ -16970,6 +16970,11 @@
       "Time": "2023-12-25T11:06:24.0623224+00:00",
       "NumProgressed": 17372,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-25T12:07:55.513408+00:00",
+      "NumProgressed": 17373,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 41,
@@ -17093,7 +17098,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "tpote_achievement_23",
@@ -17149,7 +17154,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "tpote_achievement_3",
@@ -17157,7 +17162,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "tpote_achievement_30",
@@ -17213,7 +17218,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "tpote_achievement_37",
@@ -17237,7 +17242,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "tpote_achievement_4",
@@ -17253,7 +17258,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "tpote_achievement_41",
@@ -17261,7 +17266,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "tpote_achievement_5",
@@ -17269,7 +17274,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "tpote_achievement_6",
@@ -17301,22 +17306,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5906
+      "UsersEstimate": 5907
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17372,
-      "Completed": 120
+      "Progressed": 17373,
+      "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:06:24.0623216+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:07:55.5134077+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:51.4440067+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:06:24.0624222+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:49.3542599+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:07:55.5135051+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 444,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 136,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 59,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
     {
       "Time": "2023-11-01T21:05:35.9101781+00:00",
@@ -579,6 +579,11 @@
       "Time": "2023-12-25T10:08:48.4313508+00:00",
       "NumProgressed": 136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T12:08:37.0300876+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.6097562+00:00",
@@ -845,9 +850,9 @@
       "ID": "Ach-05-burak",
       "SetID": "2pjo9pi",
       "Name": "Burak",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach-05-chameleon",
@@ -893,17 +898,17 @@
       "ID": "Ach-05-krava",
       "SetID": "2pjo9pi",
       "Name": "Krava",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach-05-krotitel",
       "SetID": "2pjo9pi",
       "Name": "Krotitel",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach-05-loutky",
@@ -933,9 +938,9 @@
       "ID": "Ach-05-zavod",
       "SetID": "2pjo9pi",
       "Name": "Zavod",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach-05-zelva",
@@ -949,9 +954,9 @@
       "ID": "Ach-05-zloC",
       "SetID": "2pjo9pi",
       "Name": "Zlo C",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach-level-1",
@@ -989,9 +994,9 @@
       "ID": "Ach-level-5",
       "SetID": "2pjo9pi",
       "Name": "Level 5",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach-level-6",
@@ -1015,13 +1020,13 @@
       "ID": "2pjo9pi",
       "IsBase": true,
       "Progressed": 136,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:09:16.9010498+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:08:37.030087+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:04.4834278+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:39.781316+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:09:16.9011058+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:33.0797836+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:08:37.0301362+00:00"
 }

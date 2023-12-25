@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1557,
+  "EOS_Progressed": 1559,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -2830,6 +2830,11 @@
       "Time": "2023-12-25T07:11:02.9724655+00:00",
       "NumProgressed": 1557,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-25T12:09:34.3236892+00:00",
+      "NumProgressed": 1559,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2841,7 +2846,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1528
     },
     {
       "ID": "booty_call",
@@ -2849,7 +2854,7 @@
       "Name": "Booty Call",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "crash_and_burn",
@@ -2865,7 +2870,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1497
     },
     {
       "ID": "hold_my_beer",
@@ -2873,15 +2878,15 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "in_contempt_of_duvet",
       "SetID": "c4ipj3h",
       "Name": "In Contempt of Duvet",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 343
+      "UsersEstimate": 327
     },
     {
       "ID": "interrogation",
@@ -2937,7 +2942,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "sore_loser",
@@ -2960,7 +2965,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1557,
+      "Progressed": 1559,
       "Completed": 11
     }
   ],
@@ -2968,8 +2973,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:10:13.4288751+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:09:34.3236888+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.2204919+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:59:56.485884+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:10:13.4289002+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:59:48.9580303+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:09:34.323709+00:00"
 }

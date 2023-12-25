@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -67,11 +67,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1757,
-  "EOS_Completed": 101,
-  "EOS_NewPlayers": 429,
-  "EOS_NewCompleters": 31,
-  "EOS_Completed_Percentage": 5.75,
+  "EOS_Progressed": 1758,
+  "EOS_Completed": 102,
+  "EOS_NewPlayers": 426,
+  "EOS_NewCompleters": 32,
+  "EOS_Completed_Percentage": 5.8,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5197,6 +5197,11 @@
       "Time": "2023-12-25T11:03:30.0463522+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-12-25T12:03:32.6665344+00:00",
+      "NumProgressed": 1758,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 25,
@@ -5224,7 +5229,7 @@
       "Name": "Peace walker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5240,7 +5245,7 @@
       "Name": "A good beginning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "META_HALF_LINK",
@@ -5296,7 +5301,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5344,15 +5349,15 @@
       "Name": "Champollion",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 932
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5360,7 +5365,7 @@
       "Name": "Scholar",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "PROGRESS_N1",
@@ -5368,7 +5373,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "PROGRESS_N2",
@@ -5407,16 +5412,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1757,
-      "Completed": 101
+      "Progressed": 1758,
+      "Completed": 102
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-25T11:03:30.0463518+00:00",
+  "LastChanged_Achievements": "2023-12-25T12:03:32.6665334+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T10:57:01.8851132+00:00",
-  "LastUpdate_Achievements": "2023-12-25T11:03:30.0463891+00:00"
+  "LastUpdate_Ratings": "2023-12-25T11:57:01.6856939+00:00",
+  "LastUpdate_Achievements": "2023-12-25T12:03:32.6667386+00:00"
 }
