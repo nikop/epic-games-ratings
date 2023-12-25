@@ -9,7 +9,7 @@
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 574 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,971 | 116 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 574 |
-| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,058 | 41 |
+| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,075 | 41 |
 | 10 | [Firework](games/f/firework.md) | 4.89 | 0 | 574 |
 | 10 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 574 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 465 | 224 |
@@ -155,7 +155,7 @@
 | 147 | [Journey](games/j/journey.md) | 4.75 | 0 | 574 |
 | 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 574 |
 | 147 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 574 |
-| 147 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 866 | 169 |
+| 147 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 866 | 170 |
 | 147 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 0 | 574 |
 | 147 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 13,323 | 32 |
 | 147 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 428 | 231 |
@@ -314,7 +314,7 @@
 | 298 | [Road 96](games/r/road_96.md) | 4.66 | 0 | 574 |
 | 298 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 34 | 499 |
 | 298 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 574 |
-| 298 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 252 | 276 |
+| 298 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 254 | 275 |
 | 298 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,032 | 64 |
 | 298 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,230 | 84 |
 | 298 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 105 | 363 |
@@ -363,7 +363,7 @@
 | 353 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,721 | 126 |
 | 353 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 574 |
 | 353 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 574 |
-| 353 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 648 | 193 |
+| 353 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 652 | 193 |
 | 353 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 574 |
 | 353 | [Prey](games/p/prey.md) | 4.63 | 5,841 | 67 |
 | 353 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 189 | 300 |
@@ -431,7 +431,7 @@
 | 426 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 227 | 282 |
 | 426 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 80 | 398 |
 | 426 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 574 |
-| 426 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 14,184 | 28 |
+| 426 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 14,201 | 28 |
 | 426 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.60 | 0 | 574 |
 | 426 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 133 | 336 |
 | 426 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 833 | 174 |
@@ -586,7 +586,7 @@
 | 583 | [Anno 2070](games/a/anno_2070.md) | 4.51 | 0 | 574 |
 | 583 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 138 | 332 |
 | 583 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.51 | 199 | 296 |
-| 583 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 864 | 170 |
+| 583 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 867 | 169 |
 | 583 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,158 | 85 |
 | 583 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 574 |
 | 583 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 38,575 | 15 |
@@ -662,7 +662,7 @@
 | 649 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 574 |
 | 649 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 574 |
 | 662 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 574 |
-| 662 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,857 | 91 |
+| 662 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,864 | 91 |
 | 662 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 574 |
 | 662 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 574 |
 | 662 | [ELEX](games/e/elex.md) | 4.46 | 24 | 546 |

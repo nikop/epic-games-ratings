@@ -27,7 +27,7 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,509 | 4.60 | 426 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,662 | 4.58 | 457 |
 | 27 | [Satisfactory](games/s/satisfactory.md) | 14,385 | 4.87 | 24 |
-| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,184 | 4.60 | 426 |
+| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,201 | 4.60 | 426 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,020 | 4.43 | 704 |
 | 30 | [Maneater](games/m/maneater.md) | 13,875 | 4.49 | 625 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,574 | 4.85 | 41 |
@@ -40,7 +40,7 @@
 | 38 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 11,083 | 4.58 | 457 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,643 | 4.61 | 395 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,082 | 4.58 | 457 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,058 | 4.89 | 10 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,075 | 4.89 | 10 |
 | 42 | [Control](games/c/control.md) | 8,958 | 4.61 | 395 |
 | 43 | [Bloons TD 6](games/b/bloons_td_6.md) | 8,939 | 4.77 | 114 |
 | 44 | [Dead Island 2](games/d/dead_island_2.md) | 8,772 | 4.54 | 533 |
@@ -90,7 +90,7 @@
 | 88 | [Paladins](games/p/paladins.md) | 3,950 | 4.32 | 842 |
 | 89 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,903 | 4.27 | 881 |
 | 90 | [Remnant 2](games/r/remnant_2.md) | 3,878 | 4.73 | 171 |
-| 91 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,857 | 4.46 | 662 |
+| 91 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,864 | 4.46 | 662 |
 | 92 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,707 | 4.35 | 807 |
 | 93 | [Gloomhaven](games/g/gloomhaven.md) | 3,604 | 4.47 | 649 |
 | 94 | [Hades](games/h/hades.md) | 3,472 | 4.92 | 4 |
@@ -168,8 +168,8 @@
 | 166 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 878 | 4.75 | 147 |
 | 167 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 877 | 4.24 | 905 |
 | 168 | [The Long Dark](games/t/the_long_dark.md) | 870 | 4.74 | 160 |
-| 169 | [Riders Republic](games/r/riders_republic.md) | 866 | 4.75 | 147 |
-| 170 | [Auto Chess](games/a/auto_chess.md) | 864 | 4.51 | 583 |
+| 169 | [Auto Chess](games/a/auto_chess.md) | 867 | 4.51 | 583 |
+| 170 | [Riders Republic](games/r/riders_republic.md) | 866 | 4.75 | 147 |
 | 171 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 861 | 4.69 | 230 |
 | 172 | [Frostpunk](games/f/frostpunk.md) | 855 | 4.74 | 160 |
 | 173 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 835 | 4.79 | 100 |
@@ -192,7 +192,7 @@
 | 190 | [Dishonored 2](games/d/dishonored_2.md) | 709 | 4.79 | 100 |
 | 191 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 659 | 4.73 | 171 |
 | 192 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 658 | 4.50 | 603 |
-| 193 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 648 | 4.63 | 353 |
+| 193 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 652 | 4.63 | 353 |
 | 194 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 632 | 4.61 | 395 |
 | 195 | [Brawlhalla](games/b/brawlhalla.md) | 623 | 4.60 | 426 |
 | 196 | [Dark Deity](games/d/dark_deity.md) | 622 | 4.16 | 963 |
@@ -275,7 +275,7 @@
 | 273 | [Predecessor](games/p/predecessor.md) | 260 | 4.32 | 842 |
 | 274 | [Crysis Remastered](games/c/crysis_remastered.md) | 258 | 4.42 | 724 |
 | 275 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 254 | 4.59 | 442 |
-| 276 | [The Outlast Trials](games/t/the_outlast_trials.md) | 252 | 4.66 | 298 |
+| 275 | [The Outlast Trials](games/t/the_outlast_trials.md) | 254 | 4.66 | 298 |
 | 277 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 245 | 4.82 | 71 |
 | 278 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 233 | 4.58 | 457 |
 | 279 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 231 | 4.58 | 457 |
