@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1645,
+  "EOS_Progressed": 1646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4123,6 +4123,11 @@
       "Time": "2023-12-24T17:11:38.1693714+00:00",
       "NumProgressed": 1645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T04:09:41.510053+00:00",
+      "NumProgressed": 1646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4142,7 +4147,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -4150,7 +4155,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4214,7 +4219,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "CRUELTY",
@@ -4246,7 +4251,7 @@
       "Name": "Limp Richard",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4254,7 +4259,7 @@
       "Name": "Jarhead",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -4278,7 +4283,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ENDGAME",
@@ -4318,7 +4323,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4366,7 +4371,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4374,7 +4379,7 @@
       "Name": "Hold The Line",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "IM_THE_LAW",
@@ -4382,7 +4387,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "INFILTRATOR",
@@ -4502,7 +4507,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4541,7 +4546,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1645,
+      "Progressed": 1646,
       "Completed": 0
     }
   ],
@@ -4549,8 +4554,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:10:45.7099844+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:09:41.5100527+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:03:24.55257+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:10:45.7100276+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:02:53.8321701+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:09:41.5101032+00:00"
 }

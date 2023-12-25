@@ -20,11 +20,11 @@ Rating: 4.64 (Ranked 342)
 | Self-Actualization | 3.00% | ~746 |
 | Who's The Boss? | 3.00% | ~746 |
 | Fallout Doesn't Let You Do This | 3.00% | ~746 |
+| Spent 15 Hours At The Alien Strip Club | 3.00% | ~746 |
 | Eatin' Good in the Neighborhood | 2.00% | ~497 |
 | Lezduit! | 2.00% | ~497 |
 | Eye Scream, You Scream | 2.00% | ~497 |
 | Legendary Bounty Hunter | 2.00% | ~497 |
-| Spent 15 Hours At The Alien Strip Club | 2.00% | ~497 |
 | Series Wrap on Suit-O | 2.00% | ~497 |
 | Bathe With A Giant Nude Alien | 2.00% | ~43 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~21 |

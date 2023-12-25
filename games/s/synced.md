@@ -5,24 +5,24 @@ Rating: 4.15 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 40.00% | ~29,971 |
-| As Far Away As Possible | 19.00% | ~14,236 |
-| A Most Unstable Organism | 13.00% | ~9,741 |
-| No Time to Follow Protocol | 10.00% | ~7,493 |
-| More Power to You | 10.00% | ~7,493 |
-| Float Like a Butterfly... | 8.00% | ~5,994 |
-| Nano Connoisseur | 6.00% | ~4,496 |
-| In Two Places At Once | 6.00% | ~4,496 |
+| Your Lucky Day | 40.00% | ~29,979 |
+| As Far Away As Possible | 19.00% | ~14,240 |
+| A Most Unstable Organism | 13.00% | ~9,743 |
+| No Time to Follow Protocol | 10.00% | ~7,495 |
+| More Power to You | 10.00% | ~7,495 |
+| Float Like a Butterfly... | 8.00% | ~5,996 |
+| Nano Connoisseur | 7.00% | ~5,246 |
+| In Two Places At Once | 6.00% | ~4,497 |
 | Pulling Your Weight | 3.00% | ~2,248 |
 | Reaping Rivals | 3.00% | ~2,248 |
 | fifteenth Time's the Charm | 1.00% | ~749 |
-| Gone Rogue | 0.70% | ~524 |
+| Gone Rogue | 0.70% | ~525 |
 | Memory Keeper | 0.40% | ~300 |
 | Completely Customizable | 0.40% | ~300 |
 | Runs for Your Money | 0.30% | ~225 |
 | Past Master | 0.30% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,928 (Ranked 106)  
+Progressed: 74,948 (Ranked 106)  
 Completed: 60 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,18 +142,18 @@ Completed: 60 (0.08%) (Ranked 320)
 | 2023-12-22 | 72,919 | 59 |
 | 2023-12-23 | 73,848 | 60 |
 | 2023-12-24 | 74,816 | 60 |
-| 2023-12-25 | 74,928 | 60 |
+| 2023-12-25 | 74,948 | 60 |
 ## Awards
 Max (Great for Beginners): 118  (Ranked 348)  
-Sum: 462 (Ranked 338)  
+Sum: 464 (Ranked 338)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 118 |
 | This game has Diverse Characters | 78 |
 | This game is Highly Recommended | 59 |
+| This game is Extremely Fun | 57 |
 | This game has Amazing Characters | 57 |
-| This game is Extremely Fun | 55 |
 | This game has a Competitive Community | 54 |
 | This game has Amazing Storytelling | 50 |
 | This game has Quickly Understood Controls | 45 |
@@ -260,3 +260,4 @@ Diff (max vs sum): 10
 | 2023-12-22 | 4.15 | 116 | 490 |
 | 2023-12-23 | 4.15 | 118 | 501 |
 | 2023-12-24 | 4.15 | 118 | 462 |
+| 2023-12-25 | 4.15 | 118 | 464 |

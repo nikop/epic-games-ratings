@@ -3,12 +3,12 @@
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 855,
-  "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 377,
+  "Ranking_Popularity": 455,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -763,11 +763,17 @@
       "Rating": 4.3,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-12-25T03:58:54.8262867+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 291,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 291,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -780,7 +786,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Educational",
@@ -842,8 +848,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-12-24T20:59:04.8686282+00:00",
+  "LastChanged": "2023-12-25T03:58:54.8262865+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.6027727+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:59:44.4242434+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:07:03.5943745+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:58:54.826287+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:05:37.7444204+00:00"
 }

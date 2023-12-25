@@ -384,7 +384,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207750,
+  "EOS_Progressed": 207753,
   "EOS_Completed": 547,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 4,
@@ -26969,6 +26969,11 @@
       "Time": "2023-12-25T03:08:19.3643989+00:00",
       "NumProgressed": 207750,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-12-25T04:08:05.2288718+00:00",
+      "NumProgressed": 207753,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 29,
@@ -27004,7 +27009,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195285
+      "UsersEstimate": 195288
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -27028,7 +27033,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -27052,7 +27057,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -27148,7 +27153,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -27156,7 +27161,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -27211,7 +27216,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207750,
+      "Progressed": 207753,
       "Completed": 547
     }
   ],
@@ -27219,8 +27224,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-24T14:58:22.247429+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:08:19.3643984+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:08:05.2288711+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.0466234+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:58:02.4540246+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:08:19.3645057+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:57:40.525713+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:08:05.2290236+00:00"
 }

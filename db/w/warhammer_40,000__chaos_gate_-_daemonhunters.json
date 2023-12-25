@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3577,
+  "EOS_Progressed": 3579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4821,6 +4821,11 @@
       "Time": "2023-12-25T01:52:43.5770505+00:00",
       "NumProgressed": 3577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T04:04:40.5574813+00:00",
+      "NumProgressed": 3579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4848,7 +4853,7 @@
       "Name": "Look Over There!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "BloodAndIron",
@@ -5000,7 +5005,7 @@
       "Name": "Not So Fast...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Kills_Bleed",
@@ -5008,7 +5013,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -5056,7 +5061,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Kills_Streak",
@@ -5080,7 +5085,7 @@
       "Name": "An Ill Omen",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5222,9 +5227,9 @@
       "ID": "Preservationist",
       "SetID": "2im8phi",
       "Name": "Preservationist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -5375,21 +5380,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3577,
+      "Progressed": 3579,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3577,
+      "Progressed": 3579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:05:47.4636551+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:04:40.557481+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:03:29.1817578+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:05:47.4637277+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:02:57.022942+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:04:40.5575403+00:00"
 }

@@ -12,7 +12,7 @@
 | The artist’s impression | 43.00% | ~85 |
 | Do what you have to | 41.00% | ~81 |
 | Sign of weakness | 37.00% | ~73 |
-| Refuse to look | 32.00% | ~63 |
+| Refuse to look | 33.00% | ~65 |
 | Face your fears | 26.00% | ~51 |
 | Finished it | 25.00% | ~50 |
 | Whispers long forgotten | 14.00% | ~28 |

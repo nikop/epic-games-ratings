@@ -8,20 +8,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 10.00% | ~458 |
 | Lost and Found | 6.00% | ~275 |
-| Autodidact | 5.00% | ~6,485 |
+| Autodidact | 5.00% | ~6,486 |
 | This guy... again? | 5.00% | ~229 |
-| This Belongs in a Museum | 4.00% | ~5,188 |
-| Creep and Sleep | 4.00% | ~5,188 |
-| Catch and Decease | 4.00% | ~5,188 |
-| Overdue Notice | 4.00% | ~5,188 |
-| Escape from the Black Hole | 4.00% | ~5,188 |
+| This Belongs in a Museum | 4.00% | ~5,189 |
+| Creep and Sleep | 4.00% | ~5,189 |
+| Meat and Greet | 4.00% | ~5,189 |
+| Catch and Decease | 4.00% | ~5,189 |
+| Overdue Notice | 4.00% | ~5,189 |
+| Escape from the Black Hole | 4.00% | ~5,189 |
 | Ploughshares to Swords | 4.00% | ~183 |
 | Bloody Graduation | 4.00% | ~183 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,891 |
 | Serenity Now! | 3.00% | ~3,891 |
 | It Rings a Bell | 3.00% | ~3,891 |
 | Not Today! | 3.00% | ~3,891 |
-| Meat and Greet | 3.00% | ~3,891 |
 | It Happens | 3.00% | ~3,891 |
 | Rush Hour | 3.00% | ~3,891 |
 | Merry Time | 3.00% | ~3,891 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,709 (Ranked 87)  
+Progressed: 129,713 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,709 | 3 |
+| 2023-12-25 | 129,713 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
 Sum: 21,059 (Ranked 58)  

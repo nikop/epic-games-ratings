@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31317,
+  "EOS_Progressed": 31319,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28016,6 +28016,11 @@
       "Time": "2023-12-25T02:31:48.3751989+00:00",
       "NumProgressed": 31317,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-25T04:09:20.8739877+00:00",
+      "NumProgressed": 31319,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28099,7 +28104,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "1025",
@@ -28139,7 +28144,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "1030",
@@ -28147,7 +28152,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5950
+      "UsersEstimate": 5951
     },
     {
       "ID": "1031",
@@ -28163,7 +28168,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "1033",
@@ -28202,15 +28207,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31317,
+      "Progressed": 31319,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:10:19.1083667+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:09:20.8739873+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:01:59.7351735+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:10:19.1084651+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:02:30.7555461+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:09:20.874206+00:00"
 }

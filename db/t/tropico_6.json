@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1473,9 +1473,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6647,
+  "EOS_Progressed": 6648,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15188,6 +15188,11 @@
       "Time": "2023-12-25T03:07:45.1151907+00:00",
       "NumProgressed": 6647,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T04:06:10.2435324+00:00",
+      "NumProgressed": 6648,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15359,7 +15364,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15383,7 +15388,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -15455,7 +15460,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2992
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15518,15 +15523,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6647,
+      "Progressed": 6648,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-24T08:59:45.6313546+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:07:45.1151902+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:06:10.2435318+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:00:00.0233287+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:07:45.1152866+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:59:06.6373203+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:06:10.2436651+00:00"
 }

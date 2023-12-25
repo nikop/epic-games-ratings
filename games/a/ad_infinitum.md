@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Path of Despair | 83.00% | ~105 |
-| Morgengrauen | 81.00% | ~103 |
+| Morgengrauen | 82.00% | ~104 |
 | Not alone | 58.00% | ~74 |
 | Hunger | 50.00% | ~64 |
 | Awaken | 39.00% | ~50 |

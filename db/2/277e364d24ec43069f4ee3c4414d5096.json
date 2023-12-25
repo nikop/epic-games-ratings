@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117759,
+  "EOS_Progressed": 117762,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 0,
@@ -22485,6 +22485,11 @@
       "Time": "2023-12-25T03:10:37.5266411+00:00",
       "NumProgressed": 117759,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-25T04:09:34.8487442+00:00",
+      "NumProgressed": 117762,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22504,7 +22509,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90674
+      "UsersEstimate": 90677
     },
     {
       "ID": "EAwards_10",
@@ -22520,7 +22525,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31795
+      "UsersEstimate": 31796
     },
     {
       "ID": "EAwards_12",
@@ -22568,7 +22573,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43571
+      "UsersEstimate": 43572
     },
     {
       "ID": "EAwards_18",
@@ -22576,7 +22581,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10598
+      "UsersEstimate": 10599
     },
     {
       "ID": "EAwards_19",
@@ -22592,7 +22597,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57702
+      "UsersEstimate": 57703
     },
     {
       "ID": "EAwards_20",
@@ -22600,7 +22605,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "EAwards_21",
@@ -22640,7 +22645,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22374
+      "UsersEstimate": 22375
     },
     {
       "ID": "EAwards_26",
@@ -22648,7 +22653,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "EAwards_27",
@@ -22696,7 +22701,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "EAwards_32",
@@ -22728,7 +22733,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10598
+      "UsersEstimate": 10599
     },
     {
       "ID": "EAwards_36",
@@ -22856,7 +22861,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10598
+      "UsersEstimate": 10599
     },
     {
       "ID": "EAwards_7",
@@ -22880,14 +22885,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117759,
+      "Progressed": 117762,
       "Completed": 53
     }
   ],
@@ -22895,8 +22900,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:10:37.5266407+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:09:34.848744+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:58:09.4516919+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:10:37.5267524+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:57:45.4536465+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:09:34.848913+00:00"
 }

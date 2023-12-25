@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -725,9 +725,9 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_07",
@@ -1094,8 +1094,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:04:15.5801794+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:03:31.7465432+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:57.3788075+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:00:49.1996634+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:04:15.5802166+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:59:41.8829168+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:03:31.7465775+00:00"
 }

@@ -483,7 +483,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 140,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
@@ -6023,6 +6023,11 @@
       "Time": "2023-12-25T02:26:55.3409854+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-25T04:04:30.6036262+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6072,9 +6077,9 @@
       "ID": "ACH_EASY_AS_PIE",
       "SetID": "4kfb9pd",
       "Name": "Easy As Pie",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6138,14 +6143,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3601,
       "Completed": 140
     }
   ],
@@ -6153,8 +6158,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:05:34.3223794+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:04:30.6036259+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:58:06.4303123+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:05:34.3224082+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:57:43.2940792+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:04:30.6036677+00:00"
 }

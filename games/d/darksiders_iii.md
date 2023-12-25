@@ -9,7 +9,7 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 77.00% | ~126 |
 | First of many… | 66.00% | ~108 |
 | Helping Hand | 64.00% | ~104 |
-| Increased Vigor | 58.00% | ~95 |
+| Increased Vigor | 59.00% | ~96 |
 | Fight Fire with Fire | 57.00% | ~93 |
 | Increased Capacity | 52.00% | ~85 |
 | Just the start | 50.00% | ~82 |
@@ -18,7 +18,7 @@ Number of Ratings: 116  (23.09.2022)
 | Enhance! | 44.00% | ~72 |
 | One Of the Chosen | 39.00% | ~64 |
 | Throne Potato | 39.00% | ~64 |
-| Devil's in the Details | 37.00% | ~60 |
+| Devil's in the Details | 38.00% | ~62 |
 | 25 to Life | 37.00% | ~60 |
 | Five's a Crowd | 36.00% | ~59 |
 | Soul Harvester | 35.00% | ~57 |
@@ -31,7 +31,7 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 28.00% | ~46 |
 | Eat Your Heart Out | 28.00% | ~46 |
 | For Whom the Bell Tolls | 28.00% | ~46 |
-| Unyielding Strength | 23.00% | ~37 |
+| Unyielding Strength | 24.00% | ~39 |
 | Can you restore the Balance? | 22.00% | ~36 |
 | Cleanup Crew | 21.00% | ~34 |
 | Crowd Source | 21.00% | ~34 |

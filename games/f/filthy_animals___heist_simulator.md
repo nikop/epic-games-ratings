@@ -33,7 +33,7 @@
 | Spaceship Objectives Complete | 0.00% | ~0 |
 | Spaceship Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,686 (Ranked 181)  
+Progressed: 8,687 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 8,654 | 0 |
 | 2023-12-23 | 8,672 | 0 |
 | 2023-12-24 | 8,685 | 0 |
-| 2023-12-25 | 8,686 | 0 |
+| 2023-12-25 | 8,687 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

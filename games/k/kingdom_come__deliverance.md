@@ -1,30 +1,30 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 199)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,536 |
-| Cavalier | 25.00% | ~203,544 |
-| Fatso | 23.00% | ~187,260 |
-| Awakening | 21.00% | ~170,977 |
-| Ranger | 20.00% | ~162,835 |
-| Scrooge | 20.00% | ~162,835 |
-| Anorectic | 16.00% | ~130,268 |
-| Firestarter | 16.00% | ~130,268 |
-| Bookworm | 15.00% | ~122,126 |
+| Blacksmith's Son | 32.00% | ~260,537 |
+| Cavalier | 25.00% | ~203,545 |
+| Fatso | 23.00% | ~187,261 |
+| Awakening | 21.00% | ~170,978 |
+| Ranger | 20.00% | ~162,836 |
+| Scrooge | 20.00% | ~162,836 |
+| Anorectic | 16.00% | ~130,269 |
+| Firestarter | 16.00% | ~130,269 |
+| Bookworm | 15.00% | ~122,127 |
 | Insomniac | 13.00% | ~105,843 |
 | Buddy | 12.00% | ~97,701 |
 | Thief | 12.00% | ~97,701 |
-| Sinner | 11.00% | ~89,559 |
-| Traveller | 11.00% | ~89,559 |
+| Sinner | 11.00% | ~89,560 |
+| Traveller | 11.00% | ~89,560 |
 | Convict | 10.00% | ~81,418 |
 | Haggler | 9.00% | ~73,276 |
-| McLovin | 7.00% | ~56,992 |
-| Runt | 7.00% | ~56,992 |
-| Casanova | 6.00% | ~48,850 |
+| McLovin | 7.00% | ~56,993 |
+| Runt | 7.00% | ~56,993 |
+| Casanova | 6.00% | ~48,851 |
 | Bad Trip | 5.00% | ~40,709 |
 | Monk | 5.00% | ~40,709 |
 | Serial Killer | 5.00% | ~40,709 |
@@ -89,8 +89,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,175 (Ranked 19)  
-Completed: 52 (0.01%) (Ranked 365)  
+Progressed: 814,179 (Ranked 19)  
+Completed: 52 (0.01%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,10 +338,10 @@ Completed: 52 (0.01%) (Ranked 365)
 | 2023-12-22 | 813,782 | 52 |
 | 2023-12-23 | 813,967 | 52 |
 | 2023-12-24 | 814,160 | 52 |
-| 2023-12-25 | 814,175 | 52 |
+| 2023-12-25 | 814,179 | 52 |
 ## Awards
 Max (Character Customization): 7,702  (Ranked 52)  
-Sum: 28,601 (Ranked 50)  
+Sum: 28,603 (Ranked 50)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): 2
 | This game has Great Boss Battles | 5,632 |
 | This game has Challenging Combat | 1,791 |
 | This game has Diverse Characters | 1,759 |
-| This game has Amazing Storytelling | 1,741 |
+| This game has Amazing Storytelling | 1,743 |
 | This game is Highly Recommended | 1,716 |
 | This game is Extremely Fun | 1,708 |
 | This game has Realistic Visuals | 1,688 |
@@ -692,4 +692,4 @@ Diff (max vs sum): 2
 | 2023-12-22 | 4.71 | - | 7,698 | 28,583 |
 | 2023-12-23 | 4.71 | - | 7,702 | 28,594 |
 | 2023-12-24 | 4.71 | - | 7,702 | 28,600 |
-| 2023-12-25 | 4.71 | - | 7,702 | 28,601 |
+| 2023-12-25 | 4.71 | - | 7,702 | 28,603 |

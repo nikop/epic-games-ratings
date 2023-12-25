@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6159,
+  "EOS_Progressed": 6161,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9087,6 +9087,11 @@
       "Time": "2023-12-25T02:30:26.4552494+00:00",
       "NumProgressed": 6159,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T04:07:59.9574299+00:00",
+      "NumProgressed": 6161,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9240,9 +9245,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 370
     },
     {
       "ID": "27",
@@ -9496,9 +9501,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 123
     },
     {
       "ID": "52",
@@ -9577,13 +9582,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6159,
+      "Progressed": 6161,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6159,
+      "Progressed": 6161,
       "Completed": 7
     }
   ],
@@ -9591,8 +9596,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:08:12.2080709+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:07:59.9574296+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:59:38.2918109+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:08:12.2081389+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:58:50.9203321+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:07:59.9575253+00:00"
 }

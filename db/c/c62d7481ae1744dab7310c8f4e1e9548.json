@@ -2,8 +2,8 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.54,
+  "EOS_Completed_Percentage": 6.49,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -794,6 +794,11 @@
       "Time": "2023-12-24T21:04:03.624272+00:00",
       "NumProgressed": 153,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-25T04:04:12.7712951+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -838,7 +843,7 @@
       "Name": "Four Flutes",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Houby",
@@ -862,7 +867,7 @@
       "Name": "Chamois",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Kour",
@@ -878,23 +883,23 @@
       "Name": "Crab Pyramid",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "MluviciPapouch",
@@ -950,7 +955,7 @@
       "Name": "Cosmic Ring",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Rybka",
@@ -972,9 +977,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "Sputnik2",
@@ -1006,7 +1011,7 @@
       "Name": "Saint Termite",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Truhlice",
@@ -1030,7 +1035,7 @@
       "Name": "Goldbug",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ZpivajiciHouba",
@@ -1038,21 +1043,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:05:10.5156502+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:04:12.7712947+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:03:06.7731574+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:05:10.5156722+00:00"
+  "LastUpdate_Ratings": "2023-12-25T04:02:42.0578046+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:04:12.7713173+00:00"
 }

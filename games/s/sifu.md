@@ -6,42 +6,42 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,733 |
-| The Assault | 3.00% | ~22,300 |
-| Life is your teacher | 3.00% | ~22,300 |
-| Lightning Hands | 3.00% | ~22,300 |
-| The Hateful Pole Fighter | 2.00% | ~14,867 |
-| Stuntmaster | 2.00% | ~14,867 |
-| Street Fighting | 2.00% | ~14,867 |
-| State of constant learning | 2.00% | ~14,867 |
-| Qi Gong: Essence | 2.00% | ~14,867 |
-| Old Child | 2.00% | ~14,867 |
-| Rumble in the Hangar | 2.00% | ~14,867 |
-| A Lady's Blood in the Snow | 1.00% | ~7,433 |
-| Lady Wing Chun | 1.00% | ~7,433 |
-| Furious Fists | 1.00% | ~7,433 |
-| Kill Nil | 1.00% | ~7,433 |
-| Qi Gong: Mind | 1.00% | ~7,433 |
-| Qi Gong: Breath | 1.00% | ~7,433 |
-| I know Kung-Fu | 1.00% | ~7,433 |
-| Path of the Prospect | 1.00% | ~7,433 |
-| Take damage to save time | 1.00% | ~7,433 |
-| Project Arena | 1.00% | ~526 |
-| Diligence as a goal | 1.00% | ~526 |
+| The Old Grandmaster | 4.00% | ~29,736 |
+| The Assault | 3.00% | ~22,302 |
+| Life is your teacher | 3.00% | ~22,302 |
+| Lightning Hands | 3.00% | ~22,302 |
+| The Hateful Pole Fighter | 2.00% | ~14,868 |
+| Stuntmaster | 2.00% | ~14,868 |
+| Street Fighting | 2.00% | ~14,868 |
+| State of constant learning | 2.00% | ~14,868 |
+| Qi Gong: Essence | 2.00% | ~14,868 |
+| Old Child | 2.00% | ~14,868 |
+| Rumble in the Hangar | 2.00% | ~14,868 |
+| A Lady's Blood in the Snow | 1.00% | ~7,434 |
+| Lady Wing Chun | 1.00% | ~7,434 |
+| Furious Fists | 1.00% | ~7,434 |
+| Kill Nil | 1.00% | ~7,434 |
+| Qi Gong: Mind | 1.00% | ~7,434 |
+| Qi Gong: Breath | 1.00% | ~7,434 |
+| I know Kung-Fu | 1.00% | ~7,434 |
+| Path of the Prospect | 1.00% | ~7,434 |
+| Take damage to save time | 1.00% | ~7,434 |
+| Project Arena | 1.00% | ~527 |
+| Diligence as a goal | 1.00% | ~527 |
 | Scareless | 0.80% | ~5,947 |
 | Kung-Fu Tussle | 0.80% | ~5,947 |
-| Dance of the Praying Mantis | 0.70% | ~5,203 |
-| Fight the way you practice | 0.70% | ~368 |
+| Dance of the Praying Mantis | 0.70% | ~5,204 |
+| Fight the way you practice | 0.70% | ~369 |
 | Martial Hub | 0.60% | ~316 |
 | Muk Yan Master | 0.50% | ~3,717 |
 | Bloody Sport | 0.50% | ~263 |
-| Tiger on Fire | 0.40% | ~2,973 |
-| Source of Flying Daggers | 0.40% | ~2,973 |
-| Iron Money | 0.40% | ~2,973 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,973 |
-| Detective Story | 0.40% | ~2,973 |
-| Sword Stained With Blood | 0.40% | ~2,973 |
-| Prodigal Child | 0.30% | ~2,230 |
+| Tiger on Fire | 0.40% | ~2,974 |
+| Source of Flying Daggers | 0.40% | ~2,974 |
+| Iron Money | 0.40% | ~2,974 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,974 |
+| Prodigal Child | 0.40% | ~2,974 |
+| Detective Story | 0.40% | ~2,974 |
+| Sword Stained With Blood | 0.40% | ~2,974 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,230 |
 | The Pit Protector | 0.30% | ~2,230 |
 | The best strikes are the ones we avoid | 0.30% | ~158 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~53 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,330 (Ranked 23)  
-Completed: 12,964 (1.74%) (Ranked 141)  
+Progressed: 743,388 (Ranked 23)  
+Completed: 12,965 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,15 +316,15 @@ Completed: 12,964 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 743,330 | 12,964 |
+| 2023-12-25 | 743,388 | 12,965 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
-Sum: 12,293 (Ranked 84)  
+Sum: 12,295 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,010 |
-| This game has Diverse Characters | 681 |
+| This game has Diverse Characters | 683 |
 | This game has Challenging Combat | 629 |
 | This game has Amazing Storytelling | 610 |
 | This game has Amazing Characters | 596 |
@@ -679,4 +679,4 @@ Diff (max vs sum): -29
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
 | 2023-12-23 | 4.82 | - | 6,999 | 12,278 |
 | 2023-12-24 | 4.82 | - | 6,999 | 12,282 |
-| 2023-12-25 | 4.82 | - | 7,010 | 12,293 |
+| 2023-12-25 | 4.82 | - | 7,010 | 12,295 |

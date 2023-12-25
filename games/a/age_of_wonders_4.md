@@ -9,8 +9,8 @@ Rating: 4.62 (Ranked 373)
 | Realm Estate | 8.00% | ~493 |
 | A Wonderful Discovery | 7.00% | ~431 |
 | Walls Cannot Stop Us | 7.00% | ~431 |
+| Bone Peddler | 6.00% | ~370 |
 | From Friends to Family | 6.00% | ~370 |
-| Bone Peddler | 5.00% | ~308 |
 | But this one is mine | 5.00% | ~308 |
 | There Can Only Be One! | 4.00% | ~246 |
 | Full Ascension | 4.00% | ~246 |
@@ -22,7 +22,6 @@ Rating: 4.62 (Ranked 373)
 | Digging for Treasure | 3.00% | ~185 |
 | My Final Form | 3.00% | ~185 |
 | Intimidation Tactics | 3.00% | ~185 |
-| Freed Lands of Manuhari | 3.00% | ~185 |
 | Return of the Wizard King | 2.00% | ~123 |
 | Enchanted Archipelago | 2.00% | ~123 |
 | Crimson Caldera | 2.00% | ~123 |
@@ -33,6 +32,7 @@ Rating: 4.62 (Ranked 373)
 | Here be Dragons | 2.00% | ~123 |
 | Tipping the Scales | 2.00% | ~123 |
 | Mighty Hoard | 2.00% | ~123 |
+| Freed Lands of Manuhari | 2.00% | ~123 |
 | Sehiran Oasis | 2.00% | ~123 |
 | Chaos Surge | 2.00% | ~123 |
 | Spoils of War | 2.00% | ~123 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 373)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,159 (Ranked 193)  
+Progressed: 6,161 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-22 | 6,001 | 7 |
 | 2023-12-23 | 6,077 | 7 |
 | 2023-12-24 | 6,152 | 7 |
-| 2023-12-25 | 6,159 | 7 |
+| 2023-12-25 | 6,161 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
 Sum: 136 (Ranked 438)  

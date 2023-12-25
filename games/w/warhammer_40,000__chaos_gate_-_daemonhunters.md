@@ -7,12 +7,12 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 14.00% | ~501 |
-| Look Over There! | 11.00% | ~393 |
-| Not So Fast... | 11.00% | ~393 |
-| Watch Where You Step... | 11.00% | ~393 |
-| An Ill Omen | 11.00% | ~393 |
+| Look Over There! | 11.00% | ~394 |
+| Not So Fast... | 11.00% | ~394 |
+| Watch Where You Step... | 11.00% | ~394 |
+| An Ill Omen | 11.00% | ~394 |
 | Purging Spree | 8.00% | ~286 |
-| Blood for the Blood God! | 7.00% | ~250 |
+| Blood for the Blood God! | 7.00% | ~251 |
 | Bloodless | 6.00% | ~215 |
 | Surgical Excision | 5.00% | ~179 |
 | Friendly Fire | 5.00% | ~179 |
@@ -33,13 +33,13 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 1.00% | ~36 |
 | Mind Like a Fortress | 1.00% | ~36 |
 | Only in Death | 1.00% | ~36 |
-| Preservationist | 1.00% | ~36 |
 | Junk Banishment | 1.00% | ~36 |
 | Long Distance Call | 1.00% | ~36 |
 | Tactical Flexibility | 1.00% | ~36 |
 | Tactical Sabotage | 1.00% | ~36 |
 | Patron of Deimos | 0.90% | ~32 |
 | For the Machine God | 0.90% | ~32 |
+| Preservationist | 0.90% | ~32 |
 | Death Comes For All | 0.90% | ~32 |
 | Engine Kill | 0.80% | ~29 |
 | Harvest No More | 0.80% | ~29 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,577 (Ranked 215)  
+Progressed: 3,579 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 3,530 | 0 |
 | 2023-12-23 | 3,552 | 0 |
 | 2023-12-24 | 3,576 | 0 |
-| 2023-12-25 | 3,577 | 0 |
+| 2023-12-25 | 3,579 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 279)  
 Sum: 492 (Ranked 334)  

@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -976,6 +976,11 @@
       "Time": "2023-12-25T02:26:10.7125156+00:00",
       "NumProgressed": 341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T04:03:45.7238035+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -986,9 +991,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1020,7 +1025,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1034,9 +1039,9 @@
       "ID": "ACH_FD_GRAVEYARD",
       "SetID": "biiejkc",
       "Name": "Ship Shape",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -1050,9 +1055,9 @@
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shanghaied",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -1108,7 +1113,7 @@
       "Name": "Sweet Victory",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1170,7 +1175,7 @@
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1243,15 +1248,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:04:34.3258845+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:03:45.7238031+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:58:36.3874049+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:04:34.3259081+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:58:04.6984555+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:03:45.7238271+00:00"
 }

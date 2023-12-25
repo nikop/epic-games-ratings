@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 87.00% | ~243 |
+| What's going on here? | 88.00% | ~246 |
 | Brute force | 82.00% | ~229 |
-| Nimble fingers | 76.00% | ~212 |
-| Room 104 | 76.00% | ~212 |
-| Face to face | 75.00% | ~209 |
+| Nimble fingers | 77.00% | ~215 |
+| Room 104 | 77.00% | ~215 |
+| Face to face | 76.00% | ~212 |
+| Now or never | 73.00% | ~204 |
 | Let's play a game… | 72.00% | ~201 |
-| Now or never | 72.00% | ~201 |
 | Soundtrack | 61.00% | ~170 |
 | First aid | 58.00% | ~162 |
 | Antidote | 51.00% | ~142 |

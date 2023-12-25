@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1330,9 +1330,9 @@
       "ID": "ACH_BATHROOM",
       "SetID": "511e31d",
       "Name": "What\u0027s going on here?",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1466,9 +1466,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1490,9 +1490,9 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_ROOM203",
@@ -1522,9 +1522,9 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1538,9 +1538,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
@@ -1553,8 +1553,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:06:52.0534061+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:05:29.244497+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.1804937+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:00:16.5781205+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:06:52.0534268+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:59:18.188501+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:05:29.2445295+00:00"
 }

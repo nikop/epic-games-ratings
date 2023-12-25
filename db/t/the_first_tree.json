@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39450,
+  "EOS_Progressed": 39452,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -21931,6 +21931,11 @@
       "Time": "2023-12-25T01:54:16.4536002+00:00",
       "NumProgressed": 39450,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-25T04:05:49.8230058+00:00",
+      "NumProgressed": 39452,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 14,
@@ -21942,7 +21947,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "150stars",
@@ -21958,7 +21963,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "allItems",
@@ -21990,7 +21995,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3551
     },
     {
       "ID": "completionist",
@@ -22030,7 +22035,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30376
+      "UsersEstimate": 30378
     },
     {
       "ID": "roots",
@@ -22046,22 +22051,22 @@
       "Name": "Well Hidden",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     }
   ],
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39450,
+      "Progressed": 39452,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-09T15:00:19.5920578+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:07:19.5298319+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:05:49.8230052+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:57:42.3880481+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:07:19.5299332+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:57:24.4927002+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:05:49.8231601+00:00"
 }

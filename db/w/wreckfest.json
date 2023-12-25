@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-12-25T01:56:17.8186967+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T04:08:18.6408646+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1014,7 +1019,7 @@
       "Name": "Highballer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CareerChamp1",
@@ -1046,7 +1051,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CareerComplete",
@@ -1062,7 +1067,7 @@
       "Name": "Storm Warning",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CollectVehiclesA",
@@ -1118,7 +1123,7 @@
       "Name": "Dirty Roller",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "PlayerRankB",
@@ -1165,7 +1170,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 0
     }
   ],
@@ -1173,8 +1178,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:08:36.8600805+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:08:18.6408642+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T03:00:06.83929+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:08:36.8600975+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:59:10.9588042+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:08:18.6408866+00:00"
 }

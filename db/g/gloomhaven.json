@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2741,9 +2741,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 28578,
+  "EOS_Progressed": 28581,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14321,6 +14321,11 @@
       "Time": "2023-12-25T03:09:50.4818873+00:00",
       "NumProgressed": 28578,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T04:08:59.3386027+00:00",
+      "NumProgressed": 28581,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14501,7 +14506,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4573
     },
     {
       "ID": "Achievement_Trophy23",
@@ -14517,7 +14522,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 11431
+      "UsersEstimate": 11432
     },
     {
       "ID": "Achievement_Trophy25",
@@ -14525,7 +14530,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "Achievement_Trophy26",
@@ -14533,7 +14538,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 9717
+      "UsersEstimate": 9718
     },
     {
       "ID": "Achievement_Trophy27",
@@ -14549,7 +14554,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9145
+      "UsersEstimate": 9146
     },
     {
       "ID": "Achievement_Trophy29",
@@ -14565,7 +14570,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "Achievement_Trophy31",
@@ -14573,7 +14578,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "Achievement_Trophy32",
@@ -14589,7 +14594,7 @@
       "Name": "Pack leader",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "Achievement_Trophy34",
@@ -14629,7 +14634,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4859
     },
     {
       "ID": "Achievement_Trophy39",
@@ -14653,7 +14658,7 @@
       "Name": "Obstacle race",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 3429
+      "UsersEstimate": 3430
     },
     {
       "ID": "Achievement_Trophy42",
@@ -14669,7 +14674,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "Achievement_Trophy44",
@@ -14820,7 +14825,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 28578,
+      "Progressed": 28581,
       "Completed": 1
     }
   ],
@@ -14828,8 +14833,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-24T02:23:21.4649303+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:09:50.481887+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:08:59.3386018+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:59:32.7843999+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:09:50.4819657+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:58:47.2660672+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:08:59.3387284+00:00"
 }

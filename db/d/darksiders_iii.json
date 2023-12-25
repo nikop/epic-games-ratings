@@ -816,9 +816,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -880,9 +880,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1128,9 +1128,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1328,8 +1328,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-24T16:00:39.7415053+00:00",
-  "LastChanged_Achievements": "2023-12-25T03:07:41.8427929+00:00",
+  "LastChanged_Achievements": "2023-12-25T04:06:07.7266461+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-25T02:56:59.9882115+00:00",
-  "LastUpdate_Achievements": "2023-12-25T03:07:41.8428447+00:00"
+  "LastUpdate_Ratings": "2023-12-25T03:56:54.7162565+00:00",
+  "LastUpdate_Achievements": "2023-12-25T04:06:07.7266896+00:00"
 }
