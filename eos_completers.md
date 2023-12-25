@@ -72,7 +72,7 @@
 | 70 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.00% |
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.73% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.36% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
@@ -111,8 +111,8 @@
 | 108 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 110 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 3.09% |
 | 111 | [HordeCore](games/h/hordecore.md) | 3.04% |
-| 112 | [Time on Frog Island](games/t/time_on_frog_island.md) | 3.03% |
-| 113 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.99% |
+| 112 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.99% |
+| 113 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.94% |
 | 114 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 115 | [The Complex](games/t/the_complex.md) | 2.92% |
 | 116 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.89% |
@@ -134,7 +134,7 @@
 | 132 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.34% |
 | 133 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.26% |
 | 134 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.08% |
-| 135 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.07% |
+| 135 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.06% |
 | 136 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.95% |
 | 137 | [Somerville](games/s/somerville.md) | 1.91% |
 | 138 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
@@ -142,7 +142,7 @@
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 141 | [Frogun](games/f/frogun.md) | 1.74% |
 | 141 | [Sifu](games/s/sifu.md) | 1.74% |
-| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.63% |
+| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.64% |
 | 144 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.57% |
 | 145 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.56% |
 | 145 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.56% |
