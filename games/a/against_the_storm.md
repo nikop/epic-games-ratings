@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,153 |
-| Overgrown Library | 6.00% | ~1,153 |
+| Abandoned Settlement | 6.00% | ~1,154 |
+| Overgrown Library | 6.00% | ~1,154 |
 | Taking Action | 5.00% | ~961 |
 | No Deaths | 5.00% | ~961 |
 | Petrified Necropolis | 5.00% | ~961 |
@@ -20,17 +20,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 4.00% | ~769 |
 | Gathering Storm | 4.00% | ~769 |
 | The Scarlet Orchard | 3.00% | ~577 |
-| Homesick | 2.00% | ~384 |
-| Ruined Armory | 2.00% | ~384 |
-| Fertile Meadows | 2.00% | ~384 |
-| Levitating Monument | 2.00% | ~384 |
-| Monastery of the Holy Flame | 2.00% | ~384 |
-| Royal Outpost | 2.00% | ~384 |
-| Lost Colonies | 2.00% | ~384 |
-| Watchtower | 2.00% | ~384 |
-| A Real Challenge | 2.00% | ~384 |
-| Trade Baron | 2.00% | ~384 |
-| Untamed Wilds | 2.00% | ~384 |
+| Homesick | 2.00% | ~385 |
+| Ruined Armory | 2.00% | ~385 |
+| Fertile Meadows | 2.00% | ~385 |
+| Levitating Monument | 2.00% | ~385 |
+| Monastery of the Holy Flame | 2.00% | ~385 |
+| Royal Outpost | 2.00% | ~385 |
+| Lost Colonies | 2.00% | ~385 |
+| Watchtower | 2.00% | ~385 |
+| A Real Challenge | 2.00% | ~385 |
+| Trade Baron | 2.00% | ~385 |
+| Untamed Wilds | 2.00% | ~385 |
 | Against All Odds | 1.00% | ~192 |
 | Bandit Camp | 1.00% | ~192 |
 | Barren Lands | 1.00% | ~192 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,224 (Ranked 150)  
+Progressed: 19,226 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,224 | 38 |
+| 2023-12-25 | 19,226 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,291 (Ranked 177)  

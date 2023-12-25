@@ -4,14 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Starting to take notes | 70.00% | ~257 |
-| The first of many | 57.00% | ~209 |
+| Starting to take notes | 70.00% | ~258 |
+| The first of many | 57.00% | ~210 |
 | Graduated in contraptions | 19.00% | ~70 |
 | First medium level | 9.00% | ~33 |
 | Easy group | 5.00% | ~18 |
 | First hard level | 2.00% | ~7 |
 | Medium group | 1.00% | ~4 |
 | Hard group | 0.30% | ~1 |
+| Mountain for amateurs | 0.30% | ~1 |
 | First extreme level | 0.30% | ~1 |
 | Easy group with gold stars | 0.00% | ~0 |
 | Easy group with silver stars | 0.00% | ~0 |
@@ -30,12 +31,11 @@
 | Professional contraption engineer | 0.00% | ~0 |
 | Experienced contraption engineer | 0.00% | ~0 |
 | Master contraption engineer | 0.00% | ~0 |
-| Mountain for amateurs | 0.00% | ~0 |
 | Experienced climber | 0.00% | ~0 |
 | Beginner climber | 0.00% | ~0 |
 | Mountain master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367 (Ranked 360)  
+Progressed: 368 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,3 +148,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 362 | 0 |
 | 2023-12-23 | 363 | 0 |
 | 2023-12-24 | 367 | 0 |
+| 2023-12-25 | 368 | 0 |

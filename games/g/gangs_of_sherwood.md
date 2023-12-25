@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~86 |
+| Act of Kindness | 88.00% | ~87 |
 | Air Fighter | 74.00% | ~73 |
-| Oo-De-Lally | 69.00% | ~68 |
+| Oo-De-Lally | 70.00% | ~69 |
 | The Altruist | 65.00% | ~64 |
 | Treasure Hunter | 64.00% | ~63 |
 | Watch your Step! | 53.00% | ~52 |
 | Tap Dancing | 51.00% | ~50 |
 | MAX LEVEL | 49.00% | ~49 |
-| Right between the eyes | 39.00% | ~39 |
+| Right between the eyes | 40.00% | ~40 |
 | Spring Board | 39.00% | ~39 |
 | Starry Night | 37.00% | ~37 |
 | Locksley's Tears | 36.00% | ~36 |

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,892 |
-| Off to a good start | 63.00% | ~1,354 |
-| Do... or do not. There is no try | 52.00% | ~1,118 |
-| A good blaster at your side | 27.00% | ~580 |
-| I suggest a new strategy | 18.00% | ~387 |
+| New Recruit | 88.00% | ~1,895 |
+| Off to a good start | 63.00% | ~1,356 |
+| Do... or do not. There is no try | 52.00% | ~1,120 |
+| A good blaster at your side | 27.00% | ~581 |
+| I suggest a new strategy | 18.00% | ~388 |
 | Scrap collector | 16.00% | ~344 |
 | All right, I'll give it a try | 16.00% | ~344 |
 | Great shot, kid! | 16.00% | ~344 |
@@ -28,11 +28,11 @@
 | Support the troops | 5.00% | ~108 |
 | Distinguished | 4.00% | ~86 |
 | A tremor in the Force | 4.00% | ~86 |
-| On the ball | 3.00% | ~64 |
-| Safety ain't the point of a joyride | 3.00% | ~64 |
-| Not bad for a little furball | 3.00% | ~64 |
-| Patience you must have | 3.00% | ~64 |
-| Don't underestimate the Force | 3.00% | ~64 |
+| On the ball | 3.00% | ~65 |
+| Safety ain't the point of a joyride | 3.00% | ~65 |
+| Not bad for a little furball | 3.00% | ~65 |
+| Patience you must have | 3.00% | ~65 |
+| Don't underestimate the Force | 3.00% | ~65 |
 | The Force is strong with this one | 2.00% | ~43 |
 | I've been waiting for you | 2.00% | ~43 |
 | When 900 years old you reach... | 2.00% | ~43 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,150 (Ranked 233)  
+Progressed: 2,153 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-22 | 2,014 | 1 |
 | 2023-12-23 | 2,067 | 1 |
 | 2023-12-24 | 2,124 | 1 |
-| 2023-12-25 | 2,150 | 1 |
+| 2023-12-25 | 2,153 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

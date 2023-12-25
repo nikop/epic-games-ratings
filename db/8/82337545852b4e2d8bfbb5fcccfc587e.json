@@ -2,10 +2,10 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.4,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -699,6 +699,11 @@
       "Time": "2023-12-25T02:30:59.1680545+00:00",
       "NumProgressed": 131,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-25T19:08:55.3506347+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -711,13 +716,13 @@
       "Name": "I am Deeeer.",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 70,
       "UsersEstimate": 111
     },
@@ -725,9 +730,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 70,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "EpicACHV_12",
@@ -741,9 +746,9 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 70,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "EpicACHV_14",
@@ -751,7 +756,7 @@
       "Name": "Rhinosaber",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "EpicACHV_15",
@@ -759,23 +764,23 @@
       "Name": "The Divine Move",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "EpicACHV_2",
@@ -783,7 +788,7 @@
       "Name": "Self-sacrifice",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "EpicACHV_3",
@@ -791,7 +796,7 @@
       "Name": "13th Deer",
       "Percentage": 30,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "EpicACHV_4",
@@ -799,7 +804,7 @@
       "Name": "The Trudeer Show",
       "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "EpicACHV_5",
@@ -807,7 +812,7 @@
       "Name": "Like a Truck",
       "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "EpicACHV_6",
@@ -823,7 +828,7 @@
       "Name": "Town Musicians of Bremen",
       "Percentage": 77,
       "XP": 70,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "EpicACHV_8",
@@ -837,7 +842,7 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 30,
       "UsersEstimate": 98
     }
@@ -846,14 +851,14 @@
     {
       "ID": "acn799d",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:08:29.5404992+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:08:55.3506344+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:11.4118743+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:49.9771724+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:08:29.5405109+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:02.8270856+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:08:55.3506486+00:00"
 }

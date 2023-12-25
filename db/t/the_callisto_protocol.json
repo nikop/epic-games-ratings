@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1835,9 +1835,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19244,
+  "EOS_Progressed": 19246,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1344,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -11160,6 +11160,11 @@
       "Time": "2023-12-25T18:09:00.4812144+00:00",
       "NumProgressed": 19244,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-25T19:09:26.8006865+00:00",
+      "NumProgressed": 19246,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11203,7 +11208,7 @@
       "Name": "Flesh Wound",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11265,9 +11270,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -11331,7 +11336,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -11339,15 +11344,15 @@
       "Name": "Reforged",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 3079
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11363,7 +11368,7 @@
       "Name": "The Outer Way",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11531,7 +11536,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -11546,13 +11551,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19244,
+      "Progressed": 19246,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7170,
+      "Progressed": 7172,
       "Completed": 29
     }
   ],
@@ -11560,8 +11565,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-25T15:03:15.0837164+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:09:00.4812142+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:09:26.8006862+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:02:51.5999088+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:09:00.4812887+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:03:13.6293368+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:09:26.8007672+00:00"
 }

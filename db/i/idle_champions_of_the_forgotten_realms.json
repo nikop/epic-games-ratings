@@ -9049,10 +9049,10 @@
       "Count": 3592
     }
   ],
-  "EOS_Progressed": 244551,
-  "EOS_Completed": 2560,
+  "EOS_Progressed": 244568,
+  "EOS_Completed": 2561,
   "EOS_NewPlayers": 2787,
-  "EOS_NewCompleters": 20,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37214,6 +37214,11 @@
       "Time": "2023-12-25T18:09:46.505945+00:00",
       "NumProgressed": 244551,
       "NumCompleted": 2560
+    },
+    {
+      "Time": "2023-12-25T19:10:12.6542652+00:00",
+      "NumProgressed": 244568,
+      "NumCompleted": 2561
     }
   ],
   "TotalAchievements": 546,
@@ -41521,7 +41526,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_completed_1562",
@@ -41537,7 +41542,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_completed_598",
@@ -41553,7 +41558,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_completed_678",
@@ -41577,7 +41582,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_completed_865",
@@ -41585,28 +41590,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210825,
+      "Progressed": 210842,
       "Completed": 4063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244551,
-      "Completed": 2560
+      "Progressed": 244568,
+      "Completed": 2561
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-25T04:57:20.6229289+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:09:46.5059446+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:10:12.654265+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:21.2794568+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:09:46.5082122+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:57:35.280587+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:10:12.6564744+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2150,
+  "EOS_Progressed": 2153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6184,6 +6184,11 @@
       "Time": "2023-12-25T18:09:41.8873331+00:00",
       "NumProgressed": 2150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T19:10:08.065858+00:00",
+      "NumProgressed": 2153,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6364,7 +6369,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_3",
@@ -6404,7 +6409,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_34",
@@ -6420,7 +6425,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1895
     },
     {
       "ID": "achievement_36",
@@ -6436,7 +6441,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1356
     },
     {
       "ID": "achievement_38",
@@ -6460,7 +6465,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_40",
@@ -6468,7 +6473,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1120
     },
     {
       "ID": "achievement_41",
@@ -6484,7 +6489,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_43",
@@ -6500,7 +6505,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "achievement_45",
@@ -6516,7 +6521,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_47",
@@ -6684,7 +6689,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_9",
@@ -6699,13 +6704,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2150,
+      "Progressed": 2153,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2150,
+      "Progressed": 2153,
       "Completed": 1
     }
   ],
@@ -6713,8 +6718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:09:41.8873328+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:10:08.0658579+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:00:04.6524323+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:09:41.887422+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:00:16.3960593+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:10:08.0659275+00:00"
 }

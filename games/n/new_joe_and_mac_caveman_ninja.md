@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The T-Rex plain. | 50.00% | ~133 |
-| Crazy Jungle. | 32.00% | ~85 |
+| The T-Rex plain. | 50.00% | ~134 |
+| Crazy Jungle. | 33.00% | ~88 |
 | A turbulent river. | 18.00% | ~48 |
 | In the treetops. | 17.00% | ~45 |
 | At the top of the mountain. | 17.00% | ~45 |
@@ -20,8 +20,8 @@
 | Passing the carcass. | 5.00% | ~13 |
 | Lightning swamp. | 5.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 390)  
-Completed: 6 (2.26%) (Ranked 133)  
+Progressed: 267 (Ranked 390)  
+Completed: 6 (2.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 6 (2.26%) (Ranked 133)
 | 2023-12-22 | 260 | 6 |
 | 2023-12-23 | 261 | 6 |
 | 2023-12-24 | 265 | 6 |
-| 2023-12-25 | 266 | 6 |
+| 2023-12-25 | 267 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

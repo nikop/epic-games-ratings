@@ -6,16 +6,16 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 83.00% | ~900 |
+| Kickstarter Backer | 83.00% | ~899 |
 | Completed Act I | 31.00% | ~336 |
 | 5 Upgrades in Stronghold | 26.00% | ~282 |
 | First 5 Levels of Od Nua | 25.00% | ~271 |
 | Make an Adventurer | 23.00% | ~249 |
 | Completed Act II | 16.00% | ~173 |
-| Enchanter | 15.00% | ~163 |
-| Disposition | 15.00% | ~163 |
-| The Watcher With Eight Friends | 15.00% | ~163 |
-| Middle 5 Levels of Od Nua | 15.00% | ~163 |
+| Enchanter | 15.00% | ~162 |
+| Disposition | 15.00% | ~162 |
+| The Watcher With Eight Friends | 15.00% | ~162 |
+| Middle 5 Levels of Od Nua | 15.00% | ~162 |
 | Super Murderer | 14.00% | ~152 |
 | All Upgrades in Stronghold | 14.00% | ~152 |
 | Soulbinder | 14.00% | ~152 |
@@ -23,9 +23,9 @@ Number of Ratings: 2,847  (23.09.2022)
 | Last 5 Levels of Od Nua | 12.00% | ~130 |
 | Bounty Hunter | 11.00% | ~119 |
 | The Giftbearer | 11.00% | ~119 |
-| Trappy | 9.00% | ~98 |
-| Herald of the Old Flame | 9.00% | ~98 |
-| Watcher at the Breach | 9.00% | ~98 |
+| Trappy | 9.00% | ~97 |
+| Herald of the Old Flame | 9.00% | ~97 |
+| Watcher at the Breach | 9.00% | ~97 |
 | Completed Act III | 8.00% | ~87 |
 | Fish Guts and Murder | 8.00% | ~87 |
 | Alchemist | 7.00% | ~76 |
@@ -39,15 +39,15 @@ Number of Ratings: 2,847  (23.09.2022)
 | Terror of the White March | 5.00% | ~54 |
 | Scribe | 4.00% | ~43 |
 | The Storied Adventurer | 4.00% | ~43 |
-| Won the Game!!! | 3.00% | ~33 |
+| Won the Game!!! | 3.00% | ~32 |
 | Among the Moss and Peat | 2.00% | ~22 |
 | Legendary Enchanter | 1.00% | ~11 |
-| Path of the Damned | 0.60% | ~7 |
-| Expert | 0.60% | ~7 |
-| Solo | 0.60% | ~7 |
-| Triple Crown | 0.60% | ~7 |
-| Trial of Iron | 0.60% | ~7 |
-| Frozen Crown Solo | 0.60% | ~7 |
+| Path of the Damned | 0.60% | ~6 |
+| Expert | 0.60% | ~6 |
+| Solo | 0.60% | ~6 |
+| Triple Crown | 0.60% | ~6 |
+| Trial of Iron | 0.60% | ~6 |
+| Frozen Crown Solo | 0.60% | ~6 |
 | Relative Pacifism | 0.50% | ~5 |
 | Zero Knockouts | 0.50% | ~5 |
 | No Rest for the Pro | 0.50% | ~5 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,084 (Ranked 278)  
+Progressed: 1,083 (Ranked 278)  
 Completed: 2 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 2 (0.18%) (Ranked 279)
 | 2023-12-15 | 1,085 | 2 |
 | 2023-12-18 | 1,085 | 2 |
 | 2023-12-19 | 1,084 | 2 |
+| 2023-12-25 | 1,083 | 2 |
 ## Awards
 Max (Character Customization): 1,952  (Ranked 118)  
 Sum: 4,798 (Ranked 148)  

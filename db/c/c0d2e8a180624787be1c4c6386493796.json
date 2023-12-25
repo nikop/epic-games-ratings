@@ -1083,9 +1083,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1219,9 +1219,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -1339,9 +1339,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1395,9 +1395,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -1531,9 +1531,9 @@
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
       "SetID": "caeik3h",
       "Name": "Supreme Defender",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "KR4_ACHIEVEMENT_T800",
@@ -1608,8 +1608,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:03:45.0712288+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:04:08.6092703+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:59:32.9831925+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:03:45.071288+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:59:45.3818802+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:04:08.6093329+00:00"
 }

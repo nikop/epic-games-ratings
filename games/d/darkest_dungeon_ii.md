@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~469 |
-| Lost and Found | 6.00% | ~281 |
+| Malpractice Assurance | 10.00% | ~470 |
+| Lost and Found | 6.00% | ~282 |
 | This Belongs in a Museum | 5.00% | ~6,491 |
 | Autodidact | 5.00% | ~6,491 |
-| This guy... again? | 5.00% | ~234 |
+| This guy... again? | 5.00% | ~235 |
 | Serenity Now! | 4.00% | ~5,193 |
 | Creep and Sleep | 4.00% | ~5,193 |
 | Meat and Greet | 4.00% | ~5,193 |
@@ -32,26 +32,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 3.00% | ~3,895 |
 | Nope | 3.00% | ~3,895 |
 | Friends 'Til the End | 3.00% | ~141 |
-| Resurrection | 2.00% | ~2,596 |
-| Unleash Hell | 2.00% | ~2,596 |
-| Funny Guy | 2.00% | ~2,596 |
-| Long Live the King | 2.00% | ~2,596 |
-| Wyrdly Reconstructed | 2.00% | ~2,596 |
-| Boxcar Kid | 2.00% | ~2,596 |
-| Unfulfilled Desires | 2.00% | ~2,596 |
-| Predator | 2.00% | ~2,596 |
-| Dissector | 2.00% | ~2,596 |
-| Banishment | 2.00% | ~2,596 |
-| Deprogramming | 2.00% | ~2,596 |
-| Now Stay Dead | 2.00% | ~2,596 |
-| Reverse Banditry | 2.00% | ~2,596 |
-| Spelunker | 2.00% | ~2,596 |
-| Ramble On | 2.00% | ~2,596 |
-| A Clear Conscience | 2.00% | ~2,596 |
-| When You Want Something Done Right | 2.00% | ~2,596 |
-| Utopia | 2.00% | ~2,596 |
-| Unshackled | 2.00% | ~2,596 |
-| Road Trip | 2.00% | ~2,596 |
+| Resurrection | 2.00% | ~2,597 |
+| Unleash Hell | 2.00% | ~2,597 |
+| Funny Guy | 2.00% | ~2,597 |
+| Long Live the King | 2.00% | ~2,597 |
+| Wyrdly Reconstructed | 2.00% | ~2,597 |
+| Boxcar Kid | 2.00% | ~2,597 |
+| Unfulfilled Desires | 2.00% | ~2,597 |
+| Predator | 2.00% | ~2,597 |
+| Dissector | 2.00% | ~2,597 |
+| Banishment | 2.00% | ~2,597 |
+| Deprogramming | 2.00% | ~2,597 |
+| Now Stay Dead | 2.00% | ~2,597 |
+| Reverse Banditry | 2.00% | ~2,597 |
+| Spelunker | 2.00% | ~2,597 |
+| Ramble On | 2.00% | ~2,597 |
+| A Clear Conscience | 2.00% | ~2,597 |
+| When You Want Something Done Right | 2.00% | ~2,597 |
+| Utopia | 2.00% | ~2,597 |
+| Unshackled | 2.00% | ~2,597 |
+| Road Trip | 2.00% | ~2,597 |
 | This Looks Familiar | 1.00% | ~1,298 |
 | Hope Rekindled | 1.00% | ~1,298 |
 | Ichthyophobic | 1.00% | ~1,298 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,821 (Ranked 87)  
+Progressed: 129,828 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-22 | 129,196 | 3 |
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
-| 2023-12-25 | 129,821 | 3 |
+| 2023-12-25 | 129,828 | 3 |
 ## Awards
 Max (Character Customization): 7,863  (Ranked 50)  
 Sum: 21,074 (Ranked 58)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1639,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4045,9 +4045,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -4077,9 +4077,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4349,9 +4349,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "8jfk4dl",
       "Name": "The Speed of Silence",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4373,13 +4373,13 @@
       "ID": "8jfk4dl",
       "IsBase": false,
       "Progressed": 1307,
-      "Completed": 1002
+      "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:26.7787896+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:05:48.6090774+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:58:56.3483522+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:26.7788304+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:59:08.4801095+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:05:48.6091313+00:00"
 }

@@ -10,10 +10,10 @@
 | Assembly Line Work | 90.00% | ~101 |
 | Solitude | 86.00% | ~96 |
 | Pinewood, Here we come! | 78.00% | ~87 |
-| The Van | 71.00% | ~80 |
-| Road-Trip | 65.00% | ~73 |
-| A Musical Pause | 64.00% | ~72 |
-| Briget's | 54.00% | ~60 |
+| The Van | 72.00% | ~81 |
+| Road-Trip | 66.00% | ~74 |
+| A Musical Pause | 65.00% | ~73 |
+| Briget's | 55.00% | ~62 |
 | Sound of Noise | 50.00% | ~56 |
 | Big City Music | 48.00% | ~54 |
 | Love at First Sight | 46.00% | ~52 |

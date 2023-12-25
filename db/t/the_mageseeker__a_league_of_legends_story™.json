@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3043,
+  "EOS_Progressed": 3044,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -5172,6 +5172,11 @@
       "Time": "2023-12-25T18:05:04.7345179+00:00",
       "NumProgressed": 3043,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-25T19:05:27.0731944+00:00",
+      "NumProgressed": 3044,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5231,7 +5236,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -5247,7 +5252,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5263,7 +5268,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5287,7 +5292,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5319,7 +5324,7 @@
       "Name": "Old friend",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -5367,7 +5372,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5415,7 +5420,7 @@
       "Name": "Clarion Cove",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5423,7 +5428,7 @@
       "Name": "Devineur",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -5439,7 +5444,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -5535,7 +5540,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5551,7 +5556,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -5559,7 +5564,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5599,14 +5604,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3043,
+      "Progressed": 3044,
       "Completed": 17
     }
   ],
@@ -5614,8 +5619,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:04.7345176+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:05:27.0731942+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:47.1775395+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:04.7345791+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:00.6969939+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:05:27.0732423+00:00"
 }

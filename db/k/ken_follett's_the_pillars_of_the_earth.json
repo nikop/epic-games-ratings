@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17384,
+  "EOS_Progressed": 17385,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17000,6 +17000,11 @@
       "Time": "2023-12-25T18:06:27.7927823+00:00",
       "NumProgressed": 17384,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-25T19:08:16.6092441+00:00",
+      "NumProgressed": 17385,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 41,
@@ -17027,7 +17032,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "tpote_achievement_12",
@@ -17075,7 +17080,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "tpote_achievement_18",
@@ -17115,7 +17120,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "tpote_achievement_22",
@@ -17307,7 +17312,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "tpote_achievement_7",
@@ -17338,15 +17343,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17384,
+      "Progressed": 17385,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:06:27.792782+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:08:16.6092435+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:58.9312682+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:06:27.7929059+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:10.7598602+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:08:16.6093601+00:00"
 }

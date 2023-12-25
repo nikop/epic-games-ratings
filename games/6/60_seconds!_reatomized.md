@@ -5,28 +5,28 @@ Rating: 4.52 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,562 |
-| I will survive! | 93.00% | ~5,503 |
-| All thumbs | 92.00% | ~5,444 |
-| Home, sweet home | 91.00% | ~5,384 |
-| Survivalist | 90.00% | ~5,325 |
-| One way ticket | 85.00% | ~5,029 |
+| Prepper | 94.00% | ~5,563 |
+| I will survive! | 93.00% | ~5,504 |
+| All thumbs | 92.00% | ~5,445 |
+| Home, sweet home | 91.00% | ~5,385 |
+| Survivalist | 90.00% | ~5,326 |
+| One way ticket | 85.00% | ~5,030 |
 | Last man standing | 80.00% | ~4,734 |
-| Family guy | 77.00% | ~4,556 |
-| Out of the Bag | 76.00% | ~4,497 |
-| The Dark Side | 71.00% | ~4,201 |
-| Duck and cover! | 66.00% | ~3,905 |
-| Souper! | 65.00% | ~3,846 |
-| Pacifist | 60.00% | ~3,550 |
-| 2-1-6 | 59.00% | ~3,491 |
-| A gift | 55.00% | ~3,254 |
-| Girl Power | 49.00% | ~2,899 |
+| Family guy | 77.00% | ~4,557 |
+| Out of the Bag | 76.00% | ~4,498 |
+| The Dark Side | 71.00% | ~4,202 |
+| Duck and cover! | 66.00% | ~3,906 |
+| Souper! | 65.00% | ~3,847 |
+| Pacifist | 60.00% | ~3,551 |
+| 2-1-6 | 59.00% | ~3,492 |
+| A gift | 55.00% | ~3,255 |
+| Girl Power | 49.00% | ~2,900 |
 | What goes around... | 45.00% | ~2,663 |
 | Be Prepared | 39.00% | ~2,308 |
-| Unbreakable | 37.00% | ~2,189 |
+| Unbreakable | 37.00% | ~2,190 |
 | Gotta get 'em all | 34.00% | ~2,012 |
 | This is the end | 34.00% | ~2,012 |
-| Atomic drill | 32.00% | ~1,893 |
+| Atomic drill | 32.00% | ~1,894 |
 | Disco Roach | 28.00% | ~1,657 |
 | Dawkins Residence | 22.00% | ~1,302 |
 | Rescue time! | 19.00% | ~1,124 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 564)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,917 (Ranked 196)  
+Progressed: 5,918 (Ranked 196)  
 Completed: 1 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 1 (0.02%) (Ranked 358)
 | 2023-12-22 | 5,882 | 1 |
 | 2023-12-23 | 5,893 | 1 |
 | 2023-12-24 | 5,906 | 1 |
-| 2023-12-25 | 5,917 | 1 |
+| 2023-12-25 | 5,918 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

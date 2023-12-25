@@ -19,19 +19,19 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 5.00% | ~18 |
 | Toxic Terror | 5.00% | ~18 |
 | Squirrel Smasher | 5.00% | ~18 |
+| Star Smasher | 5.00% | ~18 |
 | Keep it Rolling | 4.00% | ~15 |
 | Shrimp Catcher | 4.00% | ~15 |
 | Hit Rock Bottom | 4.00% | ~15 |
-| Star Smasher | 4.00% | ~15 |
 | Robot encyclopedia | 3.00% | ~11 |
 | Are you ready now? | 2.00% | ~7 |
 | Ship Shape | 2.00% | ~7 |
 | Hello, Bikini Bottom | 2.00% | ~7 |
 | Sleepy Time | 2.00% | ~7 |
+| Ultra Spatula Seeker | 2.00% | ~7 |
 | Shanghaied | 1.00% | ~4 |
 | Kelp Forest of Fear | 1.00% | ~4 |
 | Sock Concert | 1.00% | ~4 |
-| Ultra Spatula Seeker | 1.00% | ~4 |
 | The Small Does Not Rule | 0.80% | ~3 |
 | SpongeBob vs SpongeBob! | 0.80% | ~3 |
 | 100% SpongeBob | 0.30% | ~1 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368 (Ranked 359)  
+Progressed: 368 (Ranked 360)  
 Completed: 1 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |

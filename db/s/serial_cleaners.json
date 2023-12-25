@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.06,
+  "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -714,6 +714,11 @@
       "Time": "2023-12-25T06:07:50.6792162+00:00",
       "NumProgressed": 291,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-25T19:06:19.299965+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -749,7 +754,7 @@
       "Name": "Off to a Good Start",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -909,20 +914,20 @@
       "Name": "Hackathon",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 6
     }
   ],
@@ -930,8 +935,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:58.8876726+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:06:19.2999647+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.7268064+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:59:31.5895568+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:58.8876886+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:59:44.1340957+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:06:19.2999872+00:00"
 }

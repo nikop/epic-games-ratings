@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,269 |
-| Meticulously Efficient | 8.00% | ~2,615 |
-| Advancement | 7.00% | ~2,288 |
-| Discovery | 6.00% | ~1,961 |
-| Solo Capture | 6.00% | ~1,961 |
-| Swift Rift Removers | 6.00% | ~1,961 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,634 |
-| Fully Upgraded | 5.00% | ~1,634 |
-| Teamwork | 5.00% | ~1,634 |
-| Vaporous Expansion | 5.00% | ~1,634 |
+| Stylish | 10.00% | ~3,270 |
+| Meticulously Efficient | 8.00% | ~2,616 |
+| Advancement | 7.00% | ~2,289 |
+| Discovery | 6.00% | ~1,962 |
+| Solo Capture | 6.00% | ~1,962 |
+| Swift Rift Removers | 6.00% | ~1,962 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,635 |
+| Fully Upgraded | 5.00% | ~1,635 |
+| Teamwork | 5.00% | ~1,635 |
+| Vaporous Expansion | 5.00% | ~1,635 |
 | Clutch Capture | 4.00% | ~1,308 |
 | Cultured | 4.00% | ~1,308 |
 | Daily Dose | 4.00% | ~1,308 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 603)
 | Ultimate Defense | 0.20% | ~65 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,688 (Ranked 133)  
+Progressed: 32,696 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,17 +306,17 @@ Completed: 70 (0.21%) (Ranked 272)
 | 2023-12-22 | 32,549 | 69 |
 | 2023-12-23 | 32,608 | 69 |
 | 2023-12-24 | 32,658 | 69 |
-| 2023-12-25 | 32,688 | 70 |
+| 2023-12-25 | 32,696 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 251)  
-Sum: 2,925 (Ranked 182)  
+Sum: 2,926 (Ranked 182)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 325 |
 | This game is Great for Quick Sessions | 322 |
 | This game has Diverse Characters | 308 |
-| This game has Amazing Storytelling | 290 |
+| This game has Amazing Storytelling | 291 |
 | This game is Highly Recommended | 289 |
 | This game has Competitive Players | 285 |
 | This game is Relaxing | 283 |
@@ -574,4 +574,4 @@ Diff (max vs sum): 69
 | 2023-12-20 | 4.50 | 324 | 2,919 |
 | 2023-12-22 | 4.50 | 324 | 2,922 |
 | 2023-12-24 | 4.50 | 325 | 2,923 |
-| 2023-12-25 | 4.50 | 325 | 2,925 |
+| 2023-12-25 | 4.50 | 325 | 2,926 |

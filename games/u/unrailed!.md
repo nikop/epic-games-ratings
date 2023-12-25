@@ -6,28 +6,28 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,045 |
-| Incurious | 18.00% | ~121,306 |
-| Stroller | 16.00% | ~107,828 |
-| Climate Change | 16.00% | ~107,828 |
-| Toy Train | 14.00% | ~94,349 |
-| Advanced Hiker | 13.00% | ~87,610 |
-| Hiker | 12.00% | ~80,871 |
-| Mojave Courier | 6.00% | ~40,435 |
-| Saved by Nausicaä | 6.00% | ~40,435 |
-| Advanced Voyager | 4.00% | ~26,957 |
-| Expert Stroller | 4.00% | ~26,957 |
-| Orient Express | 4.00% | ~26,957 |
+| Advanced Stroller | 19.00% | ~128,050 |
+| Incurious | 18.00% | ~121,311 |
+| Stroller | 16.00% | ~107,832 |
+| Climate Change | 16.00% | ~107,832 |
+| Toy Train | 14.00% | ~94,353 |
+| Advanced Hiker | 13.00% | ~87,614 |
+| Hiker | 12.00% | ~80,874 |
+| Mojave Courier | 6.00% | ~40,437 |
+| Saved by Nausicaä | 6.00% | ~40,437 |
+| Advanced Voyager | 4.00% | ~26,958 |
+| Expert Stroller | 4.00% | ~26,958 |
+| Orient Express | 4.00% | ~26,958 |
 | Voyager | 3.00% | ~20,218 |
 | Marathon | 3.00% | ~20,218 |
 | Destructionist | 3.00% | ~20,218 |
-| Expert Hiker | 2.00% | ~13,478 |
-| Lost | 2.00% | ~13,478 |
-| Rocketman | 0.80% | ~5,391 |
-| Expert Voyager | 0.70% | ~4,717 |
-| Nanuk | 0.70% | ~4,717 |
-| Shopaholic | 0.70% | ~4,717 |
-| Dynamite Fishing | 0.70% | ~4,717 |
+| Expert Hiker | 2.00% | ~13,479 |
+| Lost | 2.00% | ~13,479 |
+| Rocketman | 0.80% | ~5,392 |
+| Expert Voyager | 0.70% | ~4,718 |
+| Nanuk | 0.70% | ~4,718 |
+| Shopaholic | 0.70% | ~4,718 |
+| Dynamite Fishing | 0.70% | ~4,718 |
 | Terminal Station | 0.60% | ~4,044 |
 | Scrooge | 0.50% | ~3,370 |
 | Wayfarer | 0.40% | ~2,696 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~674 |
 | 20 Miles under the Sea | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,922 (Ranked 28)  
+Progressed: 673,950 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 12 (0.00%) (Ranked 389)
 | 2023-12-22 | 672,556 | 12 |
 | 2023-12-23 | 673,132 | 12 |
 | 2023-12-24 | 673,616 | 12 |
-| 2023-12-25 | 673,922 | 12 |
+| 2023-12-25 | 673,950 | 12 |
 ## Awards
 Max (Great for Beginners): 207  (Ranked 291)  
 Sum: 1,618 (Ranked 232)  

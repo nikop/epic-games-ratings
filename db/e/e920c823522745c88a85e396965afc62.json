@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -77,9 +77,9 @@
       "ID": "articland",
       "SetID": "d4692al",
       "Name": "Articland",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beautiful",
@@ -197,9 +197,9 @@
       "ID": "indoorlands",
       "SetID": "d4692al",
       "Name": "Indoorlands",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "keepComing",
@@ -261,9 +261,9 @@
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "upgrades",
@@ -301,9 +301,9 @@
       "ID": "visitorSat",
       "SetID": "d4692al",
       "Name": "Visitor Satisfaction Wanted",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "wealthy",
@@ -324,8 +324,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:04:29.0556335+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:04:51.4374525+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:13.9639515+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:58:54.7989847+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:04:29.0556478+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:59:07.3113689+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:04:51.4374701+00:00"
 }

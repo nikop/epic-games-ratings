@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24872,
+  "EOS_Progressed": 24874,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8150,6 +8150,11 @@
       "Time": "2023-12-25T18:06:04.118013+00:00",
       "NumProgressed": 24872,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-25T19:06:24.5455521+00:00",
+      "NumProgressed": 24874,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8489,7 +8494,7 @@
       "Name": "Meet Frasier from Frasier",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_RIDDLE_MASTER",
@@ -8512,13 +8517,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24872,
+      "Progressed": 24874,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2165,
+      "Progressed": 2167,
       "Completed": 1376
     }
   ],
@@ -8526,8 +8531,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:06:04.1180128+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:06:24.5455519+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-25T18:02:31.5339663+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:06:04.118065+00:00"
+  "LastUpdate_Ratings": "2023-12-25T19:02:52.2093651+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:06:24.545622+00:00"
 }

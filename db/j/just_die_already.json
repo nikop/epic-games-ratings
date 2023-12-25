@@ -4,11 +4,11 @@
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 564,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
     "PcReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1752,10 +1752,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 778,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2023-12-25T18:57:34.7434674+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 779,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 778,
+  "NumberOfAwards": 779,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1817,7 +1823,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1843,8 +1849,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-12-24T11:00:09.0690044+00:00",
+  "LastChanged": "2023-12-25T18:57:34.7434673+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:28.2852946+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:20.6284174+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:58.662509+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:57:34.7434677+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:06:18.9419771+00:00"
 }

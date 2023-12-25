@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1644,6 +1644,11 @@
       "Time": "2023-12-25T18:09:19.9740948+00:00",
       "NumProgressed": 496,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T19:09:45.6424678+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1720,7 +1725,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1728,7 +1733,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1744,7 +1749,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "TIME_JINX",
@@ -1815,14 +1820,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:09:19.9740943+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:09:45.6424675+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:58:34.000559+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:09:19.9741154+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:46.0452117+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:09:45.6424877+00:00"
 }

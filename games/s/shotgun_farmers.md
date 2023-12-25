@@ -29,12 +29,12 @@
 | Getting Started | 16.00% | ~57 |
 | Eggtraordinary | 15.00% | ~53 |
 | Oh My Gourd | 14.00% | ~43 |
-| Perfect | 12.00% | ~37 |
+| Perfect | 13.00% | ~40 |
 | Summers Here | 12.00% | ~37 |
 | Fresh Pancake | 11.00% | ~39 |
 | Quit Horsin' Around | 11.00% | ~39 |
 | Quadsparagus | 10.00% | ~31 |
-| Bring Home The Bacon | 8.00% | ~28 |
+| Bring Home The Bacon | 9.00% | ~32 |
 | Expert Survivor | 8.00% | ~24 |
 | Early Bird | 6.00% | ~21 |
 | Chick Magnet | 5.00% | ~18 |

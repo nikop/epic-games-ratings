@@ -10,7 +10,7 @@ Rating: 4.68 (Ranked 260)
 | Devil's in the details | 14.00% | ~116 |
 | Uprooting | 13.00% | ~108 |
 | Forbidden techniques | 12.00% | ~99 |
-| Devoted | 9.00% | ~75 |
+| Devoted | 10.00% | ~83 |
 | Slavic squatter | 8.00% | ~66 |
 | Gold rush | 7.00% | ~58 |
 | Spirit animal | 7.00% | ~58 |

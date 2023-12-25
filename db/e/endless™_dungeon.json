@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1392,
+  "EOS_Progressed": 1393,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -2865,6 +2865,11 @@
       "Time": "2023-12-25T13:10:46.6636736+00:00",
       "NumProgressed": 1392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T19:06:07.0032164+00:00",
+      "NumProgressed": 1393,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2941,7 +2946,7 @@
       "Name": "Team Builder",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -2957,7 +2962,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3021,7 +3026,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3116,14 +3121,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1392,
+      "Progressed": 1393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:45.8129275+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:06:07.0032162+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:54.8823776+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:45.8129579+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:06.8745812+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:06:07.0032412+00:00"
 }

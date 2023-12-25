@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Home Sweet Home | 86.00% | ~69 |
 | Enough rooms to swing a cat | 81.00% | ~65 |
-| First to the post | 80.00% | ~64 |
+| First to the post | 81.00% | ~65 |
 | A kind of Magic | 76.00% | ~61 |
 | Connected | 69.00% | ~55 |
 | Expansion | 64.00% | ~51 |
@@ -19,7 +19,7 @@
 | Alchemist's Apprentice | 39.00% | ~31 |
 | Friend of Lyraine | 38.00% | ~30 |
 | The Circle | 34.00% | ~27 |
-| Redecorating | 31.00% | ~25 |
+| Redecorating | 33.00% | ~26 |
 | Bad JuJu | 24.00% | ~19 |
 | Friend of Sevenkeeps | 21.00% | ~17 |
 | Slave to the rhythm | 20.00% | ~16 |

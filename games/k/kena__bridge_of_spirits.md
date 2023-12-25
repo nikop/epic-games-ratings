@@ -1,38 +1,38 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 216)  
+Rating: 4.70 (Ranked 215)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,383 |
+| Found a Friend | 95.00% | ~408,384 |
 | Haikyo | 80.00% | ~343,902 |
-| Good as New | 72.00% | ~309,511 |
-| Into the Woods | 70.00% | ~300,914 |
-| Hunter in the Forest | 60.00% | ~257,926 |
-| Rot Commander | 60.00% | ~257,926 |
-| Taro's Fear | 56.00% | ~240,731 |
-| Between the Eyes | 47.00% | ~202,042 |
-| Taro's Love | 46.00% | ~197,743 |
+| Good as New | 72.00% | ~309,512 |
+| Into the Woods | 70.00% | ~300,915 |
+| Hunter in the Forest | 60.00% | ~257,927 |
+| Rot Commander | 60.00% | ~257,927 |
+| Taro's Fear | 56.00% | ~240,732 |
+| Between the Eyes | 47.00% | ~202,043 |
+| Taro's Love | 46.00% | ~197,744 |
 | Taro's Regret | 44.00% | ~189,146 |
-| Spirit Guide | 42.00% | ~180,548 |
+| Spirit Guide | 42.00% | ~180,549 |
 | Harness Your Power | 39.00% | ~167,652 |
-| The Open Range | 37.00% | ~159,054 |
-| Adira's Love | 34.00% | ~146,158 |
-| Adira's Fear | 33.00% | ~141,859 |
+| The Open Range | 37.00% | ~159,055 |
+| Adira's Love | 34.00% | ~146,159 |
+| Adira's Fear | 33.00% | ~141,860 |
 | Weigh Them Down | 31.00% | ~133,262 |
 | Adira's Regret | 31.00% | ~133,262 |
 | A Heavy Hammer | 30.00% | ~128,963 |
 | Quick Draw | 30.00% | ~128,963 |
-| Crossing Over | 29.00% | ~124,664 |
+| Crossing Over | 29.00% | ~124,665 |
 | Toshi's Fear | 28.00% | ~120,366 |
 | Toshi's Regret | 27.00% | ~116,067 |
 | Toshi's Love | 27.00% | ~116,067 |
 | A Leader Walks Alone | 26.00% | ~111,768 |
 | Bow Master | 26.00% | ~111,768 |
 | The Lonely Path | 26.00% | ~111,768 |
-| Restore Balance | 25.00% | ~107,469 |
+| Restore Balance | 25.00% | ~107,470 |
 | Say Cheese | 16.00% | ~68,780 |
 | Skillful Spirit Guide | 15.00% | ~64,482 |
 | Piercing Blow | 14.00% | ~60,183 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,869 |
 | Master Spirit Guide | 0.30% | ~1,290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,877 (Ranked 44)  
+Progressed: 429,878 (Ranked 44)  
 Completed: 553 (0.13%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 553 (0.13%) (Ranked 297)
 | 2023-12-22 | 429,790 | 553 |
 | 2023-12-23 | 429,826 | 553 |
 | 2023-12-24 | 429,858 | 553 |
-| 2023-12-25 | 429,877 | 553 |
+| 2023-12-25 | 429,878 | 553 |
 ## Awards
 Max (Great Boss Battles): 1,345  (Ranked 136)  
 Sum: 1,764 (Ranked 221)  

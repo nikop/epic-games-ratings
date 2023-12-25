@@ -6,28 +6,28 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~452 |
+| Getting started | 77.00% | ~453 |
 | Close call! | 72.00% | ~423 |
-| Builder | 52.00% | ~305 |
-| Pangs of conscience | 44.00% | ~258 |
-| Living it large! | 44.00% | ~258 |
-| Collector | 43.00% | ~252 |
+| Builder | 52.00% | ~306 |
+| Pangs of conscience | 44.00% | ~259 |
+| Living it large! | 44.00% | ~259 |
+| Collector | 43.00% | ~253 |
 | Need to think | 42.00% | ~247 |
 | Completely nuts! | 41.00% | ~241 |
 | Just in time! | 33.00% | ~194 |
 | Europe | 32.00% | ~188 |
 | Madness! | 31.00% | ~182 |
-| It's no coincidence. | 29.00% | ~170 |
+| It's no coincidence. | 29.00% | ~171 |
 | Philatelist | 26.00% | ~153 |
 | Let's roll! | 26.00% | ~153 |
 | Ouroboros | 25.00% | ~147 |
 | Non Stop! | 24.00% | ~141 |
 | Foreman | 21.00% | ~123 |
-| Russia | 20.00% | ~117 |
+| Russia | 20.00% | ~118 |
 | America | 18.00% | ~106 |
 | Missed it! | 18.00% | ~106 |
 | Sabotage | 16.00% | ~94 |
-| Achtung! | 12.00% | ~70 |
+| Achtung! | 12.00% | ~71 |
 | Japan | 11.00% | ~65 |
 | Woodcutter | 11.00% | ~65 |
 | Engineer | 10.00% | ~59 |
@@ -35,8 +35,8 @@ Number of Ratings: 28  (23.09.2022)
 | Germany | 7.00% | ~41 |
 | Supercrash! | 5.00% | ~29 |
 | Chuck Norris | 5.00% | ~29 |
-| Сhancellor | 4.00% | ~23 |
-| Peacemaker | 4.00% | ~23 |
+| Сhancellor | 4.00% | ~24 |
+| Peacemaker | 4.00% | ~24 |
 | Forgotten | 3.00% | ~18 |
 | Lucky vandal | 3.00% | ~18 |
 | Salesman | 1.00% | ~6 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 | Mega-railroad | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587 (Ranked 324)  
+Progressed: 588 (Ranked 324)  
 Completed: 2 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2 (0.34%) (Ranked 243)
 | 2023-12-22 | 575 | 2 |
 | 2023-12-23 | 580 | 2 |
 | 2023-12-24 | 584 | 2 |
-| 2023-12-25 | 587 | 2 |
+| 2023-12-25 | 588 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

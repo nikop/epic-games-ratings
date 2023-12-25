@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3886,9 +3886,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1279
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -3950,17 +3950,17 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1209
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 987
+      "UsersEstimate": 1001
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -4134,9 +4134,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1070
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -4334,9 +4334,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1042
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -4446,9 +4446,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 904
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -4503,8 +4503,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:17.4986682+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:05:39.3667591+00:00",
   "LastUpdate_AppInfo": "2023-12-18T18:57:14.4494443+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:47.6024078+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:17.4987574+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:01.2045061+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:05:39.3668657+00:00"
 }

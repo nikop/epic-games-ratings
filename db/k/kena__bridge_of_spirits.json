@@ -2,13 +2,13 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1493,9 +1493,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429877,
+  "EOS_Progressed": 429878,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17913,6 +17913,11 @@
       "Time": "2023-12-25T18:05:17.8818978+00:00",
       "NumProgressed": 429877,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2023-12-25T19:05:39.7544829+00:00",
+      "NumProgressed": 429878,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 41,
@@ -17940,7 +17945,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257926
+      "UsersEstimate": 257927
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -17948,7 +17953,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124664
+      "UsersEstimate": 124665
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -17956,7 +17961,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107469
+      "UsersEstimate": 107470
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -17964,7 +17969,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180548
+      "UsersEstimate": 180549
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -18004,7 +18009,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257926
+      "UsersEstimate": 257927
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -18060,7 +18065,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 202042
+      "UsersEstimate": 202043
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -18092,7 +18097,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408383
+      "UsersEstimate": 408384
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -18108,7 +18113,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309511
+      "UsersEstimate": 309512
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -18116,7 +18121,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 159054
+      "UsersEstimate": 159055
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -18124,7 +18129,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300914
+      "UsersEstimate": 300915
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -18172,7 +18177,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197743
+      "UsersEstimate": 197744
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -18180,7 +18185,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141859
+      "UsersEstimate": 141860
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -18204,7 +18209,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240731
+      "UsersEstimate": 240732
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -18220,7 +18225,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146158
+      "UsersEstimate": 146159
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -18251,15 +18256,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429877,
+      "Progressed": 429878,
       "Completed": 553
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-12-17T01:52:52.0072587+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:17.8818975+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:05:39.7544827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1695233+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:57:01.5974728+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:17.8819919+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:57:14.8855386+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:05:39.7545829+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2085,
+  "EOS_Progressed": 2086,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -7984,6 +7984,11 @@
       "Time": "2023-12-25T17:07:47.1104526+00:00",
       "NumProgressed": 2085,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T19:06:13.5165896+00:00",
+      "NumProgressed": 2086,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8123,7 +8128,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8187,7 +8192,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8219,7 +8224,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8251,7 +8256,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8298,7 +8303,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2085,
+      "Progressed": 2086,
       "Completed": 1
     }
   ],
@@ -8306,8 +8311,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:05:53.2799118+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:06:13.5165895+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:58:02.7765083+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:05:53.2799716+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:58:14.3766156+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:06:13.5166384+00:00"
 }

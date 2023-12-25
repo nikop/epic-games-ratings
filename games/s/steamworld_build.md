@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 87.00% | ~159 |
-| Digging a Hole | 77.00% | ~141 |
+| Digging a Hole | 78.00% | ~143 |
 | It's Yours, My Friend | 73.00% | ~134 |
-| Conducted Trade | 66.00% | ~121 |
+| Conducted Trade | 67.00% | ~123 |
 | Going Places | 66.00% | ~121 |
 | Aristocratic | 62.00% | ~113 |
 | Tutti Frutti | 56.00% | ~102 |
@@ -24,8 +24,8 @@
 | Steam Powered | 17.00% | ~31 |
 | Steaming Rich | 16.00% | ~29 |
 | Room To Spare | 15.00% | ~27 |
+| Click 'Em All | 4.00% | ~7 |
 | Stack Overflow | 4.00% | ~7 |
-| Click 'Em All | 3.00% | ~5 |
 | Real Purdy | 3.00% | ~5 |
 | Accustomed Customer | 2.00% | ~4 |
 | Interstellar Performance | 2.00% | ~4 |

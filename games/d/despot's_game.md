@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 603)
 | Assemble a Meganewbie | 25.00% | ~116 |
 | Frugal | 22.00% | ~102 |
 | Feed a God | 21.00% | ~97 |
-| To the Moon and Back | 20.00% | ~93 |
+| To the Moon and Back | 21.00% | ~97 |
 | Great Flight | 19.00% | ~88 |
 | Holy Vengeance | 17.00% | ~79 |
 | Honorary Cultist | 13.00% | ~60 |

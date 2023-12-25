@@ -9,8 +9,8 @@
 | Welcome to the Club | 8.00% | ~12 |
 | Don't Cry Wolf | 7.00% | ~10 |
 | A new World ahead | 7.00% | ~10 |
+| Apprentice | 4.00% | ~6 |
 | Craftsmen | 3.00% | ~4 |
-| Apprentice | 3.00% | ~4 |
 | Defeat Tezuth | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | Freezing Cold | 1.00% | ~1 |
@@ -19,6 +19,8 @@
 | The Golden Flash | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | A Deceiving Gift | 0.70% | ~1 |
+| Expert | 0.70% | ~1 |
+| The Power of the Mountains | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -48,8 +50,6 @@
 | But what of the Acreans? | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
-| Expert | 0.00% | ~0 |
-| The Power of the Mountains | 0.00% | ~0 |
 | Changing the World | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |

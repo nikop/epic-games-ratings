@@ -6,12 +6,12 @@ Rating: 4.45 (Ranked 676)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,931 |
-| Confirming Suspicions | 42.00% | ~1,725 |
+| Confirming Suspicions | 42.00% | ~1,726 |
 | The Kraken Wakes | 37.00% | ~1,520 |
 | It's Starting to Crack | 34.00% | ~1,397 |
-| Lord of War | 31.00% | ~1,273 |
-| Change the Channel | 31.00% | ~1,273 |
-| Taking it back | 29.00% | ~1,191 |
+| Lord of War | 31.00% | ~1,274 |
+| Change the Channel | 31.00% | ~1,274 |
+| Taking it back | 29.00% | ~1,192 |
 | Resourceful | 27.00% | ~1,109 |
 | Target America | 27.00% | ~1,109 |
 | The Kraken Sleeps | 25.00% | ~1,027 |
@@ -21,9 +21,9 @@ Rating: 4.45 (Ranked 676)
 | Sharpshooter | 23.00% | ~945 |
 | Gunslinger | 19.00% | ~781 |
 | Explosive Efficiency | 19.00% | ~781 |
-| Climbing the Ladder | 17.00% | ~698 |
-| Just a Flesh Wound | 17.00% | ~698 |
-| Der Geist | 17.00% | ~698 |
+| Climbing the Ladder | 17.00% | ~699 |
+| Just a Flesh Wound | 17.00% | ~699 |
+| Der Geist | 17.00% | ~699 |
 | Close Quarters | 16.00% | ~657 |
 | Snake in the Grass | 16.00% | ~657 |
 | Skirmisher | 15.00% | ~616 |
@@ -38,7 +38,7 @@ Rating: 4.45 (Ranked 676)
 | My Little Friend | 10.00% | ~411 |
 | Rigged to Blow | 9.00% | ~370 |
 | Herr Today, Gone Tomorrow | 7.00% | ~284 |
-| The Long Game | 6.00% | ~246 |
+| The Long Game | 6.00% | ~247 |
 | Operation Foxley | 6.00% | ~244 |
 | Strategist | 5.00% | ~205 |
 | Tinkerer | 5.00% | ~205 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 676)
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,108 (Ranked 206)  
+Progressed: 4,109 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-22 | 4,086 | 11 |
 | 2023-12-23 | 4,097 | 11 |
 | 2023-12-24 | 4,106 | 11 |
-| 2023-12-25 | 4,108 | 11 |
+| 2023-12-25 | 4,109 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  

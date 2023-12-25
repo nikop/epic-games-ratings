@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -135,10 +135,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81610,
-  "EOS_Completed": 896,
-  "EOS_NewPlayers": 654,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 81620,
+  "EOS_Completed": 897,
+  "EOS_NewPlayers": 660,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
@@ -27920,6 +27920,11 @@
       "Time": "2023-12-25T18:04:12.2020471+00:00",
       "NumProgressed": 81610,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-25T19:04:34.7661802+00:00",
+      "NumProgressed": 81620,
+      "NumCompleted": 897
     }
   ],
   "TotalAchievements": 25,
@@ -27931,7 +27936,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -27939,7 +27944,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "Adios, Friendo",
@@ -27947,7 +27952,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15506
+      "UsersEstimate": 15508
     },
     {
       "ID": "Audiophile",
@@ -27963,7 +27968,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17954
+      "UsersEstimate": 17956
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27971,7 +27976,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14690
+      "UsersEstimate": 14692
     },
     {
       "ID": "Butcher",
@@ -27979,7 +27984,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "Cut Call",
@@ -27995,7 +28000,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "HardWorker",
@@ -28003,7 +28008,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16322
+      "UsersEstimate": 16324
     },
     {
       "ID": "Hearty",
@@ -28011,7 +28016,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "LazyBones",
@@ -28019,7 +28024,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7345
+      "UsersEstimate": 7346
     },
     {
       "ID": "Magnetic Miracles",
@@ -28027,7 +28032,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "Master, Commander",
@@ -28035,7 +28040,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17138
+      "UsersEstimate": 17140
     },
     {
       "ID": "Meaty",
@@ -28043,7 +28048,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "Mechanic",
@@ -28051,7 +28056,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15506
+      "UsersEstimate": 15508
     },
     {
       "ID": "Nice Try",
@@ -28059,7 +28064,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13058
+      "UsersEstimate": 13059
     },
     {
       "ID": "Nothing Left to Say",
@@ -28075,7 +28080,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8977
+      "UsersEstimate": 8978
     },
     {
       "ID": "Right On Target",
@@ -28083,7 +28088,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11425
+      "UsersEstimate": 11427
     },
     {
       "ID": "Sniper",
@@ -28099,7 +28104,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "Taco Toto",
@@ -28107,7 +28112,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "Tape Head",
@@ -28123,23 +28128,23 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6529
+      "UsersEstimate": 6530
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81610,
-      "Completed": 896
+      "Progressed": 81620,
+      "Completed": 897
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:04:12.2020467+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:04:34.76618+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:59:08.7930417+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:04:12.2022119+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:59:21.6263749+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:04:34.766322+00:00"
 }

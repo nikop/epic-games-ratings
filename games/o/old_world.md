@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.30% | ~48 |
 | Keystone | 0.30% | ~48 |
 | Learned | 0.30% | ~48 |
+| Magnificent | 0.30% | ~48 |
 | Pioneer | 0.30% | ~48 |
 | Strong | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
 | Intercessor | 0.20% | ~32 |
-| Magnificent | 0.20% | ~32 |
 | Wise | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
 | Able Difficulty | 0.20% | ~32 |
@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~32 |
 | Learn to Play 1 | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
+| Learn to Play 3 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
 | Babylonian Paganism | 0.20% | ~32 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
-| Learn to Play 3 | 0.10% | ~16 |
 | Learn to Play 4 | 0.10% | ~16 |
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,944 (Ranked 162)  
+Progressed: 15,945 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,944 | 5 |
+| 2023-12-25 | 15,945 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

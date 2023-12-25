@@ -5,13 +5,13 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,151 |
+| Wakey Wakey | 31.00% | ~1,152 |
 | Sputnik 2049 | 27.00% | ~1,003 |
 | Infinite Growth... | 26.00% | ~966 |
-| Without Breaking Some Eggs... | 25.00% | ~928 |
+| Without Breaking Some Eggs... | 25.00% | ~929 |
 | A Thousand Strong | 18.00% | ~669 |
 | Ready for a New World | 18.00% | ~669 |
-| Space Society | 17.00% | ~631 |
+| Space Society | 17.00% | ~632 |
 | Permanent Redesigns | 16.00% | ~594 |
 | Fully Recycled | 14.00% | ~520 |
 | Ain't Nobody Got Time for That | 14.00% | ~520 |
@@ -54,16 +54,16 @@ Rating: 4.58 (Ranked 457)
 | Gregor Spinoza | 1.00% | ~37 |
 | Scientifically Accurate | 1.00% | ~37 |
 | Work Harder | 0.60% | ~22 |
-| Crunch Culture | 0.40% | ~15 |
 | Soylent Green | 0.40% | ~15 |
 | A Junker's Dream | 0.30% | ~11 |
+| Crunch Culture | 0.30% | ~11 |
 | Scenic View | 0.20% | ~7 |
 | I Give You the Stars | 0.20% | ~4 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,714 (Ranked 211)  
+Progressed: 3,715 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 3,645 | 0 |
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
-| 2023-12-25 | 3,714 | 0 |
+| 2023-12-25 | 3,715 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

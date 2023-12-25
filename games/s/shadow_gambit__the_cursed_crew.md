@@ -5,7 +5,7 @@ Rating: 4.83 (Ranked 60)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~866 |
+| A New Journey | 68.00% | ~879 |
 | The Adventure Begins | 50.00% | ~646 |
 | Swabbie | 37.00% | ~478 |
 | With Great Power… | 37.00% | ~478 |

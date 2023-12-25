@@ -19,8 +19,8 @@
 | MVP - Most Vanishing Person | 14.00% | ~102 |
 | Deadly Secret | 12.00% | ~87 |
 | Get Out Of This Alive | 10.00% | ~72 |
+| The Promise | 9.00% | ~65 |
 | People Pleaser | 9.00% | ~65 |
-| The Promise | 8.00% | ~58 |
 | The Nano Glitches And The Martyr | 7.00% | ~51 |
 | Second Chances | 7.00% | ~51 |
 | Not A People Person | 4.00% | ~29 |

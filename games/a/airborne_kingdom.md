@@ -1,22 +1,22 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,297 |
-| A Grove Replanted | 53.00% | ~4,067 |
-| Fields Watered | 41.00% | ~3,146 |
-| Seekers Found | 41.00% | ~3,146 |
-| Settling the Skies | 41.00% | ~3,146 |
+| A Small Community | 56.00% | ~4,298 |
+| A Grove Replanted | 53.00% | ~4,068 |
+| Fields Watered | 41.00% | ~3,147 |
+| Seekers Found | 41.00% | ~3,147 |
+| Settling the Skies | 41.00% | ~3,147 |
 | Wind Powered | 40.00% | ~3,070 |
-| It Takes a Village | 34.00% | ~2,609 |
+| It Takes a Village | 34.00% | ~2,610 |
 | On the Town | 28.00% | ~2,149 |
-| Daylight Found | 26.00% | ~1,995 |
-| Irons Scorched | 25.00% | ~1,918 |
-| Islands Connected | 25.00% | ~1,918 |
+| Daylight Found | 26.00% | ~1,996 |
+| Irons Scorched | 25.00% | ~1,919 |
+| Islands Connected | 25.00% | ~1,919 |
 | Harp Tuned | 23.00% | ~1,765 |
 | Pyre Ignited | 23.00% | ~1,765 |
 | Travelers Returned | 23.00% | ~1,765 |
@@ -30,11 +30,11 @@ Number of Ratings: 74  (23.09.2022)
 | A Wanderer’s Guide | 11.00% | ~844 |
 | Knowledge Seeker | 6.00% | ~460 |
 | The Cycle Continues | 3.00% | ~230 |
-| Glowing Waters | 2.00% | ~153 |
-| Sparkling Alloys | 2.00% | ~153 |
-| A True Challenge | 2.00% | ~153 |
+| Glowing Waters | 2.00% | ~154 |
+| Sparkling Alloys | 2.00% | ~154 |
+| A True Challenge | 2.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,674 (Ranked 186)  
+Progressed: 7,675 (Ranked 186)  
 Completed: 58 (0.76%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 58 (0.76%) (Ranked 192)
 | 2023-12-22 | 7,656 | 58 |
 | 2023-12-23 | 7,664 | 58 |
 | 2023-12-24 | 7,671 | 58 |
-| 2023-12-25 | 7,674 | 58 |
+| 2023-12-25 | 7,675 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

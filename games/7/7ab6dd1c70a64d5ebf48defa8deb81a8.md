@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 56.00% | ~690 |
-| Trinity | 26.00% | ~320 |
-| Find Allies | 20.00% | ~246 |
-| A Taste of Wrath | 20.00% | ~246 |
-| I Found It | 20.00% | ~246 |
-| The Collector | 20.00% | ~246 |
-| Geared Up | 19.00% | ~234 |
-| Shatter Them All | 18.00% | ~222 |
-| Scholar | 18.00% | ~222 |
-| Adventurer | 17.00% | ~209 |
-| Tributes of Caladrias | 16.00% | ~197 |
-| Fashion Victim | 16.00% | ~197 |
-| Stone Collection | 16.00% | ~197 |
-| Powerful Allies | 15.00% | ~185 |
+| Break Out | 56.00% | ~694 |
+| Trinity | 25.00% | ~310 |
+| Find Allies | 20.00% | ~248 |
+| A Taste of Wrath | 20.00% | ~248 |
+| The Collector | 20.00% | ~248 |
+| I Found It | 19.00% | ~235 |
+| Shatter Them All | 18.00% | ~223 |
+| Geared Up | 18.00% | ~223 |
+| Scholar | 18.00% | ~223 |
+| Adventurer | 17.00% | ~211 |
+| Tributes of Caladrias | 16.00% | ~198 |
+| Fashion Victim | 16.00% | ~198 |
+| Stone Collection | 16.00% | ~198 |
+| Powerful Allies | 15.00% | ~186 |
 | Big Bazar | 11.00% | ~136 |
-| Alchemist | 10.00% | ~123 |
-| Essence Blow | 9.00% | ~111 |
-| The Mentor | 7.00% | ~86 |
+| Alchemist | 10.00% | ~124 |
+| Essence Blow | 9.00% | ~112 |
+| The Mentor | 7.00% | ~87 |
 | Calm before the Storm | 6.00% | ~74 |
 | Miner | 6.00% | ~74 |
 | To Battle | 5.00% | ~62 |
@@ -31,8 +31,8 @@
 | Shatterer | 3.00% | ~37 |
 | Fine Feathers Make Fine Birds | 3.00% | ~37 |
 | Slayer | 2.00% | ~25 |
+| Flawless Victory | 2.00% | ~25 |
 | Shardbearer | 1.00% | ~12 |
-| Flawless Victory | 1.00% | ~12 |
 | All There Is | 1.00% | ~12 |
 | False God | 1.00% | ~12 |
 | A Queen's Tale | 1.00% | ~12 |
@@ -41,7 +41,7 @@
 | Summiter | 0.60% | ~7 |
 | Feeling Fancy | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 269)  
+Progressed: 1,239 (Ranked 269)  
 Completed: 3 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 3 (0.24%) (Ranked 267)
 | 2023-12-22 | 1,066 | 3 |
 | 2023-12-23 | 1,128 | 3 |
 | 2023-12-24 | 1,187 | 3 |
-| 2023-12-25 | 1,232 | 3 |
+| 2023-12-25 | 1,239 | 3 |

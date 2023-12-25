@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,604 |
 | Dapper Capper | 7.00% | ~2,025 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,928 (Ranked 135)  
+Progressed: 28,928 (Ranked 136)  
 Completed: 1,415 (4.89%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,12 +288,12 @@ Completed: 1,415 (4.89%) (Ranked 77)
 | 2023-12-25 | 28,928 | 1,415 |
 ## Awards
 Max (Amazing Storytelling): 44  (Ranked 465)  
-Sum: 372 (Ranked 355)  
+Sum: 373 (Ranked 355)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 44 |
-| This game is Great for Beginners | 37 |
+| This game is Great for Beginners | 38 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Amazing Characters | 36 |
 | This game is Highly Recommended | 34 |
@@ -434,3 +434,4 @@ Diff (max vs sum): 110
 | 2023-12-14 | 4.86 | - | 43 | 370 |
 | 2023-12-16 | 4.86 | - | 44 | 371 |
 | 2023-12-21 | 4.86 | - | 44 | 372 |
+| 2023-12-25 | 4.86 | - | 44 | 373 |

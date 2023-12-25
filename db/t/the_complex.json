@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 725,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.9,
   "EosHistory": [
@@ -1452,9 +1452,9 @@
       "ID": "ending_4",
       "SetID": "d4f4pll",
       "Name": "The Promise",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 65
     },
     {
       "ID": "ending_5",
@@ -1573,8 +1573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-25T18:09:07.1231413+00:00",
+  "LastChanged_Achievements": "2023-12-25T19:09:33.2649128+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-25T17:58:49.8166613+00:00",
-  "LastUpdate_Achievements": "2023-12-25T18:09:07.1231556+00:00"
+  "LastUpdate_Ratings": "2023-12-25T18:59:02.3120481+00:00",
+  "LastUpdate_Achievements": "2023-12-25T19:09:33.2649317+00:00"
 }
