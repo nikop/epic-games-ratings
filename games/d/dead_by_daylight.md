@@ -1,66 +1,66 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 581)  
+Rating: 4.51 (Ranked 582)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 4.00% | ~44,673 |
-| It wakes | 4.00% | ~44,673 |
-| Skillful | 4.00% | ~44,673 |
-| Not half bad | 3.00% | ~33,504 |
-| Apt Survivor | 3.00% | ~33,504 |
-| Survival Treasures | 3.00% | ~33,504 |
-| Make Some Noise | 3.00% | ~33,504 |
-| The Grand Sacrifice | 2.00% | ~22,336 |
-| Agonizing Escape | 2.00% | ~22,336 |
-| Backdoor Escape | 2.00% | ~22,336 |
-| I've got your back | 2.00% | ~22,336 |
-| No one left behind | 2.00% | ~22,336 |
-| Medic | 2.00% | ~22,336 |
-| Handyman | 2.00% | ~22,336 |
-| Perfect Escape | 2.00% | ~22,336 |
-| Perfect Killing | 2.00% | ~22,336 |
-| Bloody Millionaire | 2.00% | ~22,336 |
-| Apt Killer | 2.00% | ~22,336 |
-| Risk it all | 2.00% | ~22,336 |
-| I | 2.00% | ~22,336 |
-| II | 2.00% | ~22,336 |
-| Engineer | 2.00% | ~22,336 |
-| Sorted | 2.00% | ~22,336 |
-| Healthy Obsession | 2.00% | ~22,336 |
-| Resurgence | 2.00% | ~22,336 |
-| Close Shave | 2.00% | ~22,336 |
-| Preemptive Strike | 2.00% | ~22,336 |
-| Humanitarian | 2.00% | ~22,336 |
-| Blood on your hands | 1.00% | ~11,168 |
-| Escape Artist | 1.00% | ~11,168 |
-| Vulture | 1.00% | ~11,168 |
-| III | 1.00% | ~11,168 |
-| Unforgettable Getaway | 1.00% | ~11,168 |
-| Wounded Healer | 1.00% | ~11,168 |
-| First to the Punch | 1.00% | ~11,168 |
-| Operation: Survival | 1.00% | ~11,168 |
-| Old West Oasis | 1.00% | ~11,168 |
-| Every Last Drop | 1.00% | ~11,168 |
-| Raccoon City Recruit | 1.00% | ~11,168 |
-| With Scars to Show | 1.00% | ~11,168 |
-| Flight to Freedom | 1.00% | ~11,168 |
-| Lifting The Fog | 1.00% | ~11,168 |
-| Chorus of Chaos | 1.00% | ~11,168 |
-| Second Act | 1.00% | ~11,168 |
-| Made it out alive! | 0.90% | ~10,051 |
-| Gifts for the Fog | 0.90% | ~10,051 |
-| III-50 | 0.90% | ~10,051 |
-| Item of Obsession | 0.90% | ~10,051 |
-| House of Pain | 0.90% | ~10,051 |
-| Holiday Get-Together | 0.90% | ~10,051 |
-| Near-Death Experience | 0.90% | ~10,051 |
-| Cherish your Life | 0.90% | ~10,051 |
-| Cutting Out | 0.90% | ~10,051 |
-| Classy Act | 0.90% | ~10,051 |
-| One More Step | 0.90% | ~10,051 |
+| Zealous | 4.00% | ~44,674 |
+| It wakes | 4.00% | ~44,674 |
+| Skillful | 4.00% | ~44,674 |
+| Not half bad | 3.00% | ~33,506 |
+| Apt Survivor | 3.00% | ~33,506 |
+| Survival Treasures | 3.00% | ~33,506 |
+| Make Some Noise | 3.00% | ~33,506 |
+| The Grand Sacrifice | 2.00% | ~22,337 |
+| Agonizing Escape | 2.00% | ~22,337 |
+| Backdoor Escape | 2.00% | ~22,337 |
+| I've got your back | 2.00% | ~22,337 |
+| No one left behind | 2.00% | ~22,337 |
+| Medic | 2.00% | ~22,337 |
+| Handyman | 2.00% | ~22,337 |
+| Perfect Escape | 2.00% | ~22,337 |
+| Perfect Killing | 2.00% | ~22,337 |
+| Bloody Millionaire | 2.00% | ~22,337 |
+| Apt Killer | 2.00% | ~22,337 |
+| Risk it all | 2.00% | ~22,337 |
+| I | 2.00% | ~22,337 |
+| II | 2.00% | ~22,337 |
+| Engineer | 2.00% | ~22,337 |
+| Sorted | 2.00% | ~22,337 |
+| Healthy Obsession | 2.00% | ~22,337 |
+| Resurgence | 2.00% | ~22,337 |
+| Close Shave | 2.00% | ~22,337 |
+| Preemptive Strike | 2.00% | ~22,337 |
+| Humanitarian | 2.00% | ~22,337 |
+| Blood on your hands | 1.00% | ~11,169 |
+| Escape Artist | 1.00% | ~11,169 |
+| Vulture | 1.00% | ~11,169 |
+| III | 1.00% | ~11,169 |
+| Unforgettable Getaway | 1.00% | ~11,169 |
+| Wounded Healer | 1.00% | ~11,169 |
+| First to the Punch | 1.00% | ~11,169 |
+| Operation: Survival | 1.00% | ~11,169 |
+| Old West Oasis | 1.00% | ~11,169 |
+| Every Last Drop | 1.00% | ~11,169 |
+| Raccoon City Recruit | 1.00% | ~11,169 |
+| With Scars to Show | 1.00% | ~11,169 |
+| Flight to Freedom | 1.00% | ~11,169 |
+| Lifting The Fog | 1.00% | ~11,169 |
+| Chorus of Chaos | 1.00% | ~11,169 |
+| Second Act | 1.00% | ~11,169 |
+| Made it out alive! | 0.90% | ~10,052 |
+| Gifts for the Fog | 0.90% | ~10,052 |
+| III-50 | 0.90% | ~10,052 |
+| Item of Obsession | 0.90% | ~10,052 |
+| House of Pain | 0.90% | ~10,052 |
+| Holiday Get-Together | 0.90% | ~10,052 |
+| Near-Death Experience | 0.90% | ~10,052 |
+| Cherish your Life | 0.90% | ~10,052 |
+| Cutting Out | 0.90% | ~10,052 |
+| Classy Act | 0.90% | ~10,052 |
+| One More Step | 0.90% | ~10,052 |
 | Nerves of steel | 0.80% | ~8,935 |
 | Shock Therapy | 0.80% | ~8,935 |
 | All Aboard | 0.80% | ~8,935 |
@@ -80,6 +80,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outta Nowhere | 0.70% | ~7,818 |
 | Hemophobia | 0.60% | ~6,701 |
 | Serial Killer | 0.60% | ~6,701 |
+| Game Over | 0.60% | ~6,701 |
 | Devoted Gatekeeping | 0.60% | ~6,701 |
 | Shrine Apparatus | 0.60% | ~6,701 |
 | Broken Bodies | 0.60% | ~6,701 |
@@ -90,7 +91,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.50% | ~5,584 |
 | Deep Cleansing | 0.50% | ~5,584 |
 | Texas BBQ | 0.50% | ~5,584 |
-| Game Over | 0.50% | ~5,584 |
 | Party Crasher | 0.50% | ~5,584 |
 | Outrage | 0.50% | ~5,584 |
 | I See You | 0.50% | ~5,584 |
@@ -104,11 +104,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.40% | ~4,467 |
 | Triage | 0.40% | ~4,467 |
 | Kitted Out | 0.40% | ~4,467 |
-| Looter | 0.30% | ~3,350 |
-| Death of Ignorance | 0.30% | ~3,350 |
-| Ghost in the Machine | 0.30% | ~3,350 |
-| Hack the Mainframe | 0.30% | ~3,350 |
-| Disarm and Dismember | 0.30% | ~3,350 |
+| Looter | 0.30% | ~3,351 |
+| Death of Ignorance | 0.30% | ~3,351 |
+| Ghost in the Machine | 0.30% | ~3,351 |
+| Hack the Mainframe | 0.30% | ~3,351 |
+| Disarm and Dismember | 0.30% | ~3,351 |
 | A feast for the Entity | 0.20% | ~2,234 |
 | In the void she walks | 0.20% | ~2,234 |
 | Mad House | 0.20% | ~2,234 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,117 |
 | Adept Good Guy | 0.10% | ~1,117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,116,816 (Ranked 13)  
+Progressed: 1,116,851 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -488,7 +488,7 @@ Completed: 65 (0.01%) (Ranked 365)
 | 2023-12-22 | 1,111,919 | 64 |
 | 2023-12-23 | 1,114,469 | 64 |
 | 2023-12-24 | 1,116,612 | 65 |
-| 2023-12-25 | 1,116,816 | 65 |
+| 2023-12-25 | 1,116,851 | 65 |
 ## Awards
 Max (Diverse Characters): 38,519  (Ranked 15)  
 Sum: 291,291 (Ranked 12)  

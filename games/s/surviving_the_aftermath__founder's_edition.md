@@ -6,46 +6,46 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 85.00% | ~407,195 |
-| Leader | 49.00% | ~234,736 |
-| Healer | 39.00% | ~186,831 |
-| Explorer | 37.00% | ~177,250 |
-| Aspiring Inventor | 29.00% | ~138,925 |
-| Adventurer | 28.00% | ~134,135 |
-| Famous Healer | 25.00% | ~119,763 |
-| Local Leader | 22.00% | ~105,392 |
-| New Opportunities | 21.00% | ~100,601 |
-| Energized | 21.00% | ~100,601 |
-| Famous Explorer | 20.00% | ~95,811 |
-| Survivor | 20.00% | ~95,811 |
-| The Great Healer | 19.00% | ~91,020 |
-| The Long Haul | 19.00% | ~91,020 |
-| Catastrofan | 18.00% | ~86,230 |
-| Cleaner | 17.00% | ~81,439 |
-| Legendary Explorer | 16.00% | ~76,648 |
-| Finders, Keepers | 15.00% | ~71,858 |
-| Mentor | 14.00% | ~67,067 |
-| Top Notch | 14.00% | ~67,067 |
-| Real Survivor | 14.00% | ~67,067 |
-| Great Leader | 13.00% | ~62,277 |
-| Ice Lakes | 13.00% | ~62,277 |
-| Merchant | 12.00% | ~57,486 |
-| Rocket Surgeon | 12.00% | ~57,486 |
-| Spreading Influence | 11.00% | ~52,696 |
-| Around the World | 10.00% | ~47,905 |
-| War Never Changes | 10.00% | ~47,905 |
-| Big Game Hunter | 9.00% | ~43,115 |
-| Bookworm | 9.00% | ~43,115 |
-| Sky Burial | 9.00% | ~43,115 |
-| Friendly | 8.00% | ~38,324 |
-| Famous Adventurer | 8.00% | ~38,324 |
-| Prepared for Anything | 8.00% | ~38,324 |
-| Big Catastrofan | 8.00% | ~38,324 |
-| It's a Finnish Thing | 6.00% | ~28,743 |
-| Bread and Circuses | 5.00% | ~23,953 |
-| Trader | 4.00% | ~19,162 |
-| New Eden | 4.00% | ~19,162 |
-| Amped Up | 4.00% | ~19,162 |
+| First Step | 85.00% | ~407,210 |
+| Leader | 49.00% | ~234,744 |
+| Healer | 39.00% | ~186,837 |
+| Explorer | 37.00% | ~177,256 |
+| Aspiring Inventor | 29.00% | ~138,930 |
+| Adventurer | 28.00% | ~134,140 |
+| Famous Healer | 25.00% | ~119,768 |
+| Local Leader | 22.00% | ~105,395 |
+| New Opportunities | 21.00% | ~100,605 |
+| Energized | 21.00% | ~100,605 |
+| Famous Explorer | 20.00% | ~95,814 |
+| Survivor | 20.00% | ~95,814 |
+| The Great Healer | 19.00% | ~91,023 |
+| The Long Haul | 19.00% | ~91,023 |
+| Catastrofan | 18.00% | ~86,233 |
+| Cleaner | 17.00% | ~81,442 |
+| Legendary Explorer | 16.00% | ~76,651 |
+| Finders, Keepers | 15.00% | ~71,860 |
+| Mentor | 14.00% | ~67,070 |
+| Top Notch | 14.00% | ~67,070 |
+| Real Survivor | 14.00% | ~67,070 |
+| Great Leader | 13.00% | ~62,279 |
+| Ice Lakes | 13.00% | ~62,279 |
+| Merchant | 12.00% | ~57,488 |
+| Rocket Surgeon | 12.00% | ~57,488 |
+| Spreading Influence | 11.00% | ~52,698 |
+| Around the World | 10.00% | ~47,907 |
+| War Never Changes | 10.00% | ~47,907 |
+| Big Game Hunter | 9.00% | ~43,116 |
+| Bookworm | 9.00% | ~43,116 |
+| Sky Burial | 9.00% | ~43,116 |
+| Friendly | 8.00% | ~38,326 |
+| Famous Adventurer | 8.00% | ~38,326 |
+| Prepared for Anything | 8.00% | ~38,326 |
+| Big Catastrofan | 8.00% | ~38,326 |
+| It's a Finnish Thing | 6.00% | ~28,744 |
+| Bread and Circuses | 5.00% | ~23,954 |
+| Trader | 4.00% | ~19,163 |
+| New Eden | 4.00% | ~19,163 |
+| Amped Up | 4.00% | ~19,163 |
 | Look, no Hands! | 3.00% | ~14,372 |
 | Really Friendly | 2.00% | ~9,581 |
 | Ranch Hand | 2.00% | ~9,581 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.10% | ~479 |
 | Customized calamities | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,053 (Ranked 41)  
+Progressed: 479,070 (Ranked 41)  
 Completed: 46 (0.01%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 46 (0.01%) (Ranked 365)
 | 2023-12-22 | 475,801 | 45 |
 | 2023-12-23 | 477,517 | 45 |
 | 2023-12-24 | 478,951 | 46 |
-| 2023-12-25 | 479,053 | 46 |
+| 2023-12-25 | 479,070 | 46 |
 ## Awards
 Max (Great for Beginners): 226  (Ranked 283)  
-Sum: 1,376 (Ranked 244)  
+Sum: 1,378 (Ranked 244)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): 39
 | This game has Quickly Understood Controls | 175 |
 | This game is Highly Recommended | 159 |
 | This game has Amazing Characters | 151 |
-| This game has a Creative Community | 93 |
+| This game has a Creative Community | 95 |
 | This game has Diverse Characters | 83 |
 | This game has Obsessive Gameplay | 58 |
 ## Ratings History
@@ -514,3 +514,4 @@ Diff (max vs sum): 39
 | 2023-12-22 | 4.40 | - | 220 | 1,350 |
 | 2023-12-23 | 4.40 | - | 224 | 1,361 |
 | 2023-12-24 | 4.40 | - | 226 | 1,376 |
+| 2023-12-25 | 4.40 | - | 226 | 1,378 |

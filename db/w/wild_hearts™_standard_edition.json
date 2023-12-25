@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 855,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -3167,9 +3167,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_40",
@@ -3263,9 +3263,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 522
     },
     {
       "ID": "achievement_8",
@@ -3293,8 +3293,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:57:01.9787786+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:31:18.8797023+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:46:42.2872802+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:57:01.9788264+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:21:19.9876929+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:18.8797421+00:00"
 }

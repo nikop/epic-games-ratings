@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4697,9 +4697,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12720,
+  "EOS_Progressed": 12722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17927,6 +17927,11 @@
       "Time": "2023-12-25T01:58:10.1528445+00:00",
       "NumProgressed": 12720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T02:32:11.2374974+00:00",
+      "NumProgressed": 12722,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -17938,7 +17943,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "02_BurningCity",
@@ -17970,7 +17975,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -17994,7 +17999,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "09_PathOfDemon",
@@ -18138,7 +18143,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "28_GreatUpstart",
@@ -18186,15 +18191,15 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "34_CapitulationIsNowMoot",
       "SetID": "989of5o",
       "Name": "Capitulation Is Now Moot",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 254
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -18330,7 +18335,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18865,21 +18870,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11502,
+      "Progressed": 11504,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12720,
+      "Progressed": 12722,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-25T00:00:26.0268289+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:58:10.1528439+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:32:11.237497+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:47:50.624392+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:58:10.1530051+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:22:08.9413934+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:32:11.2376591+00:00"
 }

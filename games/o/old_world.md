@@ -6,13 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.50% | ~80 |
 | Settler | 0.50% | ~80 |
 | Play a Single Player Game | 0.50% | ~80 |
-| Explorer | 0.40% | ~64 |
+| Architect | 0.40% | ~64 |
 | Intrepid | 0.40% | ~64 |
 | Friendly Family | 0.40% | ~64 |
 | Able | 0.30% | ~48 |
-| Architect | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
 | Good | 0.30% | ~48 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
+| Naming Landmarks | 0.30% | ~48 |
 | Trade Caravan | 0.30% | ~48 |
 | Regicide | 0.20% | ~32 |
 | Ambitious | 0.20% | ~32 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.20% | ~32 |
 | Roman Paganism | 0.20% | ~32 |
 | Zoroastrianism | 0.20% | ~32 |
-| Naming Landmarks | 0.20% | ~32 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,930 (Ranked 162)  
+Progressed: 15,931 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,930 | 5 |
+| 2023-12-25 | 15,931 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

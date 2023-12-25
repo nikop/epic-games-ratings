@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "Tags": [],
   "EOS_Progressed": 1737,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 5.7,
   "EosHistory": [
@@ -5187,9 +5187,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 434
     },
     {
       "ID": "META_HALF_LINK",
@@ -5339,9 +5339,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 434
+      "UsersEstimate": 452
     },
     {
       "ID": "PROGRESS_N5",
@@ -5364,8 +5364,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-23T04:00:47.1248595+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:50:57.332845+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:25:45.3738893+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:49:39.4910509+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:50:57.3328824+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:22:46.5217912+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:25:45.3739306+00:00"
 }

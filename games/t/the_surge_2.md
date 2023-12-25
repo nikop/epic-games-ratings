@@ -5,15 +5,15 @@ Rating: 4.26 (Ranked 888)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,869 |
-| Don't I Know You...? | 76.00% | ~1,798 |
-| Jailbreak | 65.00% | ~1,538 |
+| Rigged And Ready | 79.00% | ~1,870 |
+| Don't I Know You...? | 76.00% | ~1,799 |
+| Jailbreak | 65.00% | ~1,539 |
 | HEADSHOT! | 38.00% | ~899 |
 | Suited and Booted | 38.00% | ~899 |
 | Sleeping With The Fishes | 35.00% | ~828 |
 | Overheated | 30.00% | ~710 |
 | High Performance | 30.00% | ~710 |
-| Powered Up | 28.00% | ~662 |
+| Powered Up | 28.00% | ~663 |
 | Studied The Blade | 25.00% | ~592 |
 | Home Invasion | 23.00% | ~544 |
 | Luminary | 22.00% | ~521 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 888)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,366 (Ranked 229)  
+Progressed: 2,367 (Ranked 229)  
 Completed: 13 (0.55%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,6 +249,7 @@ Completed: 13 (0.55%) (Ranked 207)
 | 2023-12-22 | 2,340 | 13 |
 | 2023-12-23 | 2,352 | 13 |
 | 2023-12-24 | 2,366 | 13 |
+| 2023-12-25 | 2,367 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

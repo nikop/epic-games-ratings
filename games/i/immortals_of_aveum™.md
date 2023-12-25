@@ -5,27 +5,27 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~1,578 |
-| Battlefields Have Memories | 80.00% | ~1,434 |
-| Enlisted | 73.00% | ~1,309 |
-| Maybe Engage a Little | 68.00% | ~1,219 |
-| No More Names | 50.00% | ~896 |
-| Initiate | 35.00% | ~628 |
-| Thrada-Kul | 31.00% | ~556 |
-| Gravity-Challenged Rocks | 25.00% | ~448 |
-| Socialite | 23.00% | ~412 |
-| Soldier | 21.00% | ~377 |
+| Unforeseen | 87.00% | ~1,563 |
+| Battlefields Have Memories | 80.00% | ~1,438 |
+| Enlisted | 73.00% | ~1,312 |
+| Maybe Engage a Little | 68.00% | ~1,222 |
+| No More Names | 50.00% | ~898 |
+| Initiate | 35.00% | ~629 |
+| Thrada-Kul | 31.00% | ~557 |
+| Gravity-Challenged Rocks | 25.00% | ~449 |
+| Socialite | 23.00% | ~413 |
+| Soldier | 20.00% | ~359 |
 | All the Major Food Groups | 20.00% | ~359 |
 | Beggars Would Ride | 18.00% | ~323 |
 | Control is an Illusion | 17.00% | ~305 |
-| The Means to Save It | 14.00% | ~251 |
-| Resilience to Sin | 12.00% | ~215 |
-| A Familiar Nest | 12.00% | ~215 |
-| Periapt Alizarin | 12.00% | ~215 |
-| Geas Aristeya | 11.00% | ~197 |
-| A Perfect Cycle | 10.00% | ~179 |
-| Recruit | 10.00% | ~179 |
-| Armsman | 9.00% | ~161 |
+| The Means to Save It | 14.00% | ~252 |
+| Resilience to Sin | 12.00% | ~216 |
+| A Familiar Nest | 12.00% | ~216 |
+| Periapt Alizarin | 12.00% | ~216 |
+| Geas Aristeya | 11.00% | ~198 |
+| A Perfect Cycle | 10.00% | ~180 |
+| Recruit | 10.00% | ~180 |
+| Armsman | 9.00% | ~162 |
 | Lights Army | 7.00% | ~126 |
 | Periapt Cerulean | 6.00% | ~108 |
 | Good Boy | 6.00% | ~108 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 951)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,793 (Ranked 242)  
+Progressed: 1,797 (Ranked 241)  
 Completed: 2 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.11%) (Ranked 302)
 | 2023-12-22 | 1,602 | 2 |
 | 2023-12-23 | 1,709 | 2 |
 | 2023-12-24 | 1,789 | 2 |
-| 2023-12-25 | 1,793 | 2 |
+| 2023-12-25 | 1,797 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

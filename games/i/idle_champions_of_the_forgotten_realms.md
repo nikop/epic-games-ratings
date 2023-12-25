@@ -9,9 +9,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~2,443 |
 | Welcome to Sigil | 0.70% | ~1,474 |
 | The Cursed Farmer | 0.60% | ~1,466 |
-| Fast Food | 0.60% | ~1,263 |
+| Fast Food | 0.60% | ~1,264 |
 | Beast Intentions | 0.50% | ~1,222 |
-| The Mad Wizard | 0.40% | ~977 |
+| The Mad Wizard | 0.50% | ~1,222 |
 | The Overgrown Grove | 0.40% | ~842 |
 | Flames of Avernus | 0.40% | ~842 |
 | Mental Gymnastics | 0.40% | ~842 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,308 (Ranked 67)  
+Progressed: 244,313 (Ranked 67)  
 Completed: 2,560 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -802,7 +802,7 @@ Completed: 2,560 (1.05%) (Ranked 168)
 | 2023-12-22 | 243,457 | 2,556 |
 | 2023-12-23 | 243,900 | 2,557 |
 | 2023-12-24 | 244,276 | 2,558 |
-| 2023-12-25 | 244,308 | 2,560 |
+| 2023-12-25 | 244,313 | 2,560 |
 ## Awards
 Max (Great for Beginners): 5,691  (Ranked 71)  
 Sum: 33,069 (Ranked 41)  

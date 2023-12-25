@@ -3,12 +3,12 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 177,
+  "Ranking_Popularity": 142,
+  "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -2399,18 +2399,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 3287,
       "NumberOfAwardsMax": 1205
+    },
+    {
+      "Time": "2023-12-25T02:21:32.2653433+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3315,
+      "NumberOfAwardsMax": 1228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3287,
-  "NumberOfAwardsMax": 1205,
+  "NumberOfAwards": 3315,
+  "NumberOfAwardsMax": 1228,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1205
+      "Count": 1228
     },
     {
       "Text": "This game is Relaxing",
@@ -2440,7 +2446,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 203
+      "Count": 208
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2491,8 +2497,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-12-24T23:59:49.1752353+00:00",
+  "LastChanged": "2023-12-25T02:21:32.2653431+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:16.4990174+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:47:00.9081245+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:52:33.0707993+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:21:32.2653436+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:26:57.294159+00:00"
 }

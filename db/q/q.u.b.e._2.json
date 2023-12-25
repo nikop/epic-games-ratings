@@ -11855,17 +11855,17 @@
       "ID": "ACH_DLC1GOLD",
       "SetID": "232494e",
       "Name": "Gold collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 449
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_DLC1SILVER",
       "SetID": "232494e",
       "Name": "Silver collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 449
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_DLC1TELEPORTER",
@@ -12047,8 +12047,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:57:07.9796549+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:31:23.3006977+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:05.5759929+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:46:22.5917061+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:57:07.979737+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:21:05.98305+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:23.3007628+00:00"
 }

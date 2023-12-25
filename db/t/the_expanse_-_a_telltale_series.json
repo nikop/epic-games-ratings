@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17341,
+  "EOS_Progressed": 17345,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15031,6 +15031,11 @@
       "Time": "2023-12-25T01:51:01.1319547+00:00",
       "NumProgressed": 17341,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-25T02:25:48.1697778+00:00",
+      "NumProgressed": 17345,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15067,7 +15072,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "13",
@@ -15075,7 +15080,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "14",
@@ -15091,7 +15096,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "16",
@@ -15099,7 +15104,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "17",
@@ -15107,7 +15112,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "18",
@@ -15163,7 +15168,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "24",
@@ -15322,13 +15327,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17341,
+      "Progressed": 17345,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3295,
+      "Progressed": 3299,
       "Completed": 1032
     }
   ],
@@ -15336,8 +15341,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:51:01.1319541+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:25:48.1697773+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:46:02.8784657+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:51:01.1320346+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:20:50.8738309+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:25:48.169876+00:00"
 }

@@ -17168,10 +17168,10 @@
       "Count": 16749
     }
   ],
-  "EOS_Progressed": 981029,
+  "EOS_Progressed": 981035,
   "EOS_Completed": 2970,
-  "EOS_NewPlayers": 2973,
-  "EOS_NewCompleters": 39,
+  "EOS_NewPlayers": 2969,
+  "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -45528,6 +45528,11 @@
       "Time": "2023-12-25T01:52:23.8006374+00:00",
       "NumProgressed": 981029,
       "NumCompleted": 2970
+    },
+    {
+      "Time": "2023-12-25T02:26:50.2894066+00:00",
+      "NumProgressed": 981035,
+      "NumCompleted": 2970
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45564,7 +45569,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49051
+      "UsersEstimate": 49052
     },
     {
       "ID": "Denied",
@@ -45612,7 +45617,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78482
+      "UsersEstimate": 78483
     },
     {
       "ID": "Gunslinger",
@@ -45836,7 +45841,7 @@
       "Name": "True Soldier",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49051
+      "UsersEstimate": 49052
     },
     {
       "ID": "TrueWarrior",
@@ -45868,7 +45873,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117723
+      "UsersEstimate": 117724
     },
     {
       "ID": "YipMan",
@@ -46075,21 +46080,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981029,
+      "Progressed": 981035,
       "Completed": 2970
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 109652,
+      "Progressed": 109658,
       "Completed": 10452
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-25T00:03:06.9576677+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:52:23.8006371+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:26:50.2894061+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:50:23.8313801+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:52:23.8007815+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:25:20.5437679+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:26:50.2895504+00:00"
 }

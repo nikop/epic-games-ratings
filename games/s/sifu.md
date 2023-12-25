@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.70% | ~5,203 |
 | Fight the way you practice | 0.70% | ~368 |
 | Martial Hub | 0.60% | ~316 |
-| Muk Yan Master | 0.50% | ~3,716 |
+| Muk Yan Master | 0.50% | ~3,717 |
 | Bloody Sport | 0.50% | ~263 |
 | Tiger on Fire | 0.40% | ~2,973 |
 | Source of Flying Daggers | 0.40% | ~2,973 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~53 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,292 (Ranked 23)  
+Progressed: 743,305 (Ranked 23)  
 Completed: 12,964 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,14 +316,14 @@ Completed: 12,964 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 743,292 | 12,964 |
+| 2023-12-25 | 743,305 | 12,964 |
 ## Awards
-Max (Great Boss Battles): 6,999  (Ranked 55)  
-Sum: 12,282 (Ranked 84)  
+Max (Great Boss Battles): 7,010  (Ranked 55)  
+Sum: 12,293 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,999 |
+| This game has Great Boss Battles | 7,010 |
 | This game has Diverse Characters | 681 |
 | This game has Challenging Combat | 629 |
 | This game has Amazing Storytelling | 610 |
@@ -679,3 +679,4 @@ Diff (max vs sum): -29
 | 2023-12-22 | 4.82 | - | 6,989 | 11,814 |
 | 2023-12-23 | 4.82 | - | 6,999 | 12,278 |
 | 2023-12-24 | 4.82 | - | 6,999 | 12,282 |
+| 2023-12-25 | 4.82 | - | 7,010 | 12,293 |

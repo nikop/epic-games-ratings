@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4160,
+  "EOS_Progressed": 4161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7687,6 +7687,11 @@
       "Time": "2023-12-25T01:54:17.9084677+00:00",
       "NumProgressed": 4160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T02:28:15.9941681+00:00",
+      "NumProgressed": 4161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7705,9 +7710,9 @@
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2289
     },
     {
       "ID": "achievement_11",
@@ -7715,7 +7720,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "achievement_12",
@@ -7739,7 +7744,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "achievement_15",
@@ -7747,7 +7752,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "achievement_16",
@@ -7755,7 +7760,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "achievement_17",
@@ -7866,7 +7871,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4160,
+      "Progressed": 4161,
       "Completed": 0
     }
   ],
@@ -7874,8 +7879,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-24T20:01:29.5920403+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:54:17.9084674+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:28:15.9941676+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:48:09.3789083+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:54:17.9085093+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:22:22.9495294+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:28:15.9942066+00:00"
 }

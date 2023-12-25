@@ -24,10 +24,10 @@ Number of Ratings: 94  (23.09.2022)
 | Laser Sharp | 3.00% | ~1,348 |
 | Bronze collector | 2.00% | ~899 |
 | Home Stretch | 2.00% | ~899 |
+| Gold collector | 2.00% | ~899 |
+| Silver collector | 2.00% | ~899 |
 | Get me out of here | 2.00% | ~899 |
 | True collector | 1.00% | ~449 |
-| Gold collector | 1.00% | ~449 |
-| Silver collector | 1.00% | ~449 |
 | King of the Collectables | 1.00% | ~449 |
 | Competent Collector | 1.00% | ~449 |
 | Puzzle Master | 1.00% | ~449 |

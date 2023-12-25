@@ -2386,7 +2386,7 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 221458,
+  "EOS_Progressed": 221461,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 1477,
   "EOS_NewCompleters": 1,
@@ -30951,6 +30951,11 @@
       "Time": "2023-12-25T01:50:50.8082652+00:00",
       "NumProgressed": 221458,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-25T02:25:40.5691779+00:00",
+      "NumProgressed": 221461,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -30962,7 +30967,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24360
+      "UsersEstimate": 24361
     },
     {
       "ID": "AtheistOx",
@@ -30986,7 +30991,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13287
+      "UsersEstimate": 13288
     },
     {
       "ID": "CompleteMastery",
@@ -31018,7 +31023,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13287
+      "UsersEstimate": 13288
     },
     {
       "ID": "GearUp",
@@ -31250,7 +31255,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24360
+      "UsersEstimate": 24361
     },
     {
       "ID": "TimeParadox",
@@ -31282,7 +31287,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13287
+      "UsersEstimate": 13288
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -31313,15 +31318,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 221458,
+      "Progressed": 221461,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-23T16:58:01.6948832+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:50:50.8082643+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:25:40.5691775+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:45:50.7446085+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:50:50.8083984+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:20:40.7907876+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:25:40.5693444+00:00"
 }

@@ -8,8 +8,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,149 |
 | Overgrown Library | 6.00% | ~1,149 |
-| Taking Action | 5.00% | ~957 |
-| Petrified Necropolis | 5.00% | ~957 |
+| Taking Action | 5.00% | ~958 |
+| Petrified Necropolis | 5.00% | ~958 |
 | First Real Expedition | 4.00% | ~766 |
 | The Marshlands | 4.00% | ~766 |
 | No Deaths | 4.00% | ~766 |
@@ -17,9 +17,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 4.00% | ~766 |
 | Ominous Presence | 4.00% | ~766 |
 | Gathering Storm | 4.00% | ~766 |
-| Overcoming Difficulty | 3.00% | ~574 |
-| Coral Forest | 3.00% | ~574 |
-| The Scarlet Orchard | 3.00% | ~574 |
+| Overcoming Difficulty | 3.00% | ~575 |
+| Coral Forest | 3.00% | ~575 |
+| The Scarlet Orchard | 3.00% | ~575 |
 | Homesick | 2.00% | ~383 |
 | Ruined Armory | 2.00% | ~383 |
 | Fertile Meadows | 2.00% | ~383 |
@@ -31,16 +31,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~383 |
 | Trade Baron | 2.00% | ~383 |
 | Untamed Wilds | 2.00% | ~383 |
-| Against All Odds | 1.00% | ~191 |
-| Bandit Camp | 1.00% | ~191 |
-| Barren Lands | 1.00% | ~191 |
-| Ancient Battleground | 1.00% | ~191 |
-| Sparkdew Crystals | 1.00% | ~191 |
-| Haunted Forest | 1.00% | ~191 |
-| Flooded Mines | 1.00% | ~191 |
-| Statue of the Forefathers | 1.00% | ~191 |
-| Corrosive Torrent | 1.00% | ~191 |
-| Cursed Lands | 1.00% | ~191 |
+| Against All Odds | 1.00% | ~192 |
+| Bandit Camp | 1.00% | ~192 |
+| Barren Lands | 1.00% | ~192 |
+| Ancient Battleground | 1.00% | ~192 |
+| Sparkdew Crystals | 1.00% | ~192 |
+| Haunted Forest | 1.00% | ~192 |
+| Flooded Mines | 1.00% | ~192 |
+| Statue of the Forefathers | 1.00% | ~192 |
+| Corrosive Torrent | 1.00% | ~192 |
+| Cursed Lands | 1.00% | ~192 |
 | Defying the Crown | 0.90% | ~172 |
 | Serving Ale | 0.80% | ~153 |
 | Victory Through Prosperity | 0.80% | ~153 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,149 (Ranked 150)  
+Progressed: 19,154 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,11 +315,11 @@ Completed: 38 (0.20%) (Ranked 273)
 | 2023-12-22 | 18,944 | 39 |
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
-| 2023-12-25 | 19,149 | 38 |
+| 2023-12-25 | 19,154 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 443  (Ranked 228)  
-Sum: 3,289 (Ranked 176)  
-Diff (max vs sum): 52  
+Sum: 3,289 (Ranked 177)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 443 |

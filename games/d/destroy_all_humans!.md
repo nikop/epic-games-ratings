@@ -11,10 +11,10 @@ Number of Ratings: 85  (23.09.2022)
 | Lie Back and Think of Albion | 61.00% | ~88 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~84 |
 | Yettisoned | 56.00% | ~81 |
-| I Look Up As I Walk to Takoshima | 51.00% | ~74 |
+| I Look Up As I Walk to Takoshima | 52.00% | ~75 |
+| Perfect Probulator | 50.00% | ~72 |
 | Lobster Blisque | 49.00% | ~71 |
-| Perfect Probulator | 49.00% | ~71 |
-| Pimp My Raid | 43.00% | ~62 |
+| Pimp My Raid | 44.00% | ~64 |
 | Fly Me to the Moon Base | 42.00% | ~61 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~59 |
 | Earthly Pleasures | 40.00% | ~58 |
@@ -28,9 +28,9 @@ Number of Ratings: 85  (23.09.2022)
 | Furon Fashion | 23.00% | ~33 |
 | Re-Return of the Clone of the Invasion II-2 | 22.00% | ~32 |
 | Arkvoodle Doodle | 16.00% | ~23 |
+| Ouch of Body Experience | 13.00% | ~19 |
 | If You Know What I Mean | 13.00% | ~19 |
 | Die Nasty | 13.00% | ~19 |
-| Ouch of Body Experience | 12.00% | ~17 |
 | Hidden Human Hive Harvest | 12.00% | ~17 |
 | Mash Machine | 12.00% | ~17 |
 | Dusted | 12.00% | ~17 |

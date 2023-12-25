@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,017 |
-| Alt+F4 | 10.00% | ~24,449 |
-| Where's that freaking Dwarf? | 9.00% | ~22,004 |
-| Déjà vu | 7.00% | ~17,114 |
+| Sowwy! | 36.00% | ~88,018 |
+| Alt+F4 | 10.00% | ~24,450 |
+| Where's that freaking Dwarf? | 9.00% | ~22,005 |
+| Déjà vu | 7.00% | ~17,115 |
 | Sock! SOCK! | 6.00% | ~14,670 |
 | A beer, two curses, three companions | 5.00% | ~12,225 |
 | GG EZ | 5.00% | ~12,225 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~244 |
 | Dwarf Candy | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,492 (Ranked 66)  
+Progressed: 244,495 (Ranked 66)  
 Completed: 7 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,14 +303,14 @@ Completed: 7 (0.00%) (Ranked 388)
 | 2023-12-22 | 244,079 | 7 |
 | 2023-12-23 | 244,299 | 7 |
 | 2023-12-24 | 244,469 | 7 |
-| 2023-12-25 | 244,492 | 7 |
+| 2023-12-25 | 244,495 | 7 |
 ## Awards
-Max (Character Customization): 253  (Ranked 274)  
-Sum: 534 (Ranked 326)  
+Max (Character Customization): 254  (Ranked 274)  
+Sum: 535 (Ranked 326)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 253 |
+| This game has Inclusive Character Customization | 254 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
 | This game is Highly Recommended | 33 |
@@ -523,3 +523,4 @@ Diff (max vs sum): -52
 | 2023-12-20 | 4.59 | - | 250 | 526 |
 | 2023-12-22 | 4.59 | - | 250 | 529 |
 | 2023-12-23 | 4.59 | - | 253 | 534 |
+| 2023-12-25 | 4.59 | - | 254 | 535 |

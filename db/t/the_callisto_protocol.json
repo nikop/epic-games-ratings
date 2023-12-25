@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1823,9 +1823,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19125,
+  "EOS_Progressed": 19129,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1343,
+  "EOS_NewPlayers": 1344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -11063,6 +11063,11 @@
       "Time": "2023-12-25T01:57:15.462215+00:00",
       "NumProgressed": 19125,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-25T02:31:28.9319905+00:00",
+      "NumProgressed": 19129,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11106,7 +11111,7 @@
       "Name": "Flesh Wound",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11202,7 +11207,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "KILL_ROBOT",
@@ -11218,7 +11223,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11266,7 +11271,7 @@
       "Name": "The Outer Way",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11274,7 +11279,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "STORY_HABITAT",
@@ -11282,7 +11287,7 @@
       "Name": "Without A Paddle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "STORY_HANGAR",
@@ -11304,9 +11309,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2869
+      "UsersEstimate": 3061
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11449,13 +11454,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19125,
+      "Progressed": 19129,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7051,
+      "Progressed": 7055,
       "Completed": 29
     }
   ],
@@ -11463,8 +11468,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-24T22:03:30.5341757+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:57:15.4622146+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:31:28.93199+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:50:33.7283569+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:57:15.4623114+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:25:27.8015569+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:28.9320558+00:00"
 }

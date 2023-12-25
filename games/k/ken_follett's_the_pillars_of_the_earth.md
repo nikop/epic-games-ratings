@@ -1,12 +1,12 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 581)  
+Rating: 4.51 (Ranked 582)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,944 |
+| Tattletale | 40.00% | ~6,945 |
 | Man of politics | 34.00% | ~5,903 |
 | Yet another secret | 33.00% | ~5,729 |
 | Friends of sorts | 32.00% | ~5,556 |
@@ -29,11 +29,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,736 |
 | First profit | 10.00% | ~1,736 |
 | Team player | 10.00% | ~1,736 |
-| Skilled merchant | 9.00% | ~1,562 |
-| Brother Marcus | 9.00% | ~1,562 |
-| The oath | 9.00% | ~1,562 |
-| The truth revealed | 9.00% | ~1,562 |
-| The End. | 9.00% | ~1,562 |
+| Skilled merchant | 9.00% | ~1,563 |
+| Brother Marcus | 9.00% | ~1,563 |
+| The oath | 9.00% | ~1,563 |
+| The truth revealed | 9.00% | ~1,563 |
+| The End. | 9.00% | ~1,563 |
 | Nothing but make-believe | 8.00% | ~1,389 |
 | A cry for help | 7.00% | ~1,215 |
 | Silentium est aureum | 7.00% | ~1,215 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~521 |
 | Boy of mystery | 2.00% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,361 (Ranked 154)  
+Progressed: 17,362 (Ranked 154)  
 Completed: 120 (0.69%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 120 (0.69%) (Ranked 195)
 | 2023-12-22 | 17,285 | 119 |
 | 2023-12-23 | 17,320 | 119 |
 | 2023-12-24 | 17,360 | 120 |
-| 2023-12-25 | 17,361 | 120 |
+| 2023-12-25 | 17,362 | 120 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 320)  
 Sum: 200 (Ranked 409)  

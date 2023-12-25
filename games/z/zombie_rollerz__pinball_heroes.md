@@ -49,12 +49,12 @@ Rating: 4.29 (Ranked 862)
 | The Exorcist | 5.00% | ~10 |
 | Mithril | 5.00% | ~10 |
 | Aluminum | 5.00% | ~10 |
+| It's a Trap! | 3.00% | ~6 |
 | Analyzed | 3.00% | ~6 |
 | Tongs | 3.00% | ~6 |
 | Platinum | 3.00% | ~6 |
 | Hammer | 3.00% | ~6 |
 | Combo Master | 2.00% | ~4 |
-| It's a Trap! | 2.00% | ~4 |
 | Blaze | 2.00% | ~4 |
 | Topaz | 2.00% | ~4 |
 | Chorus | 2.00% | ~4 |

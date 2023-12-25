@@ -12,8 +12,8 @@ Rating: 4.83 (Ranked 59)
 | A new dawn | 31.00% | ~538 |
 | Scholar | 27.00% | ~469 |
 | True G3M4R | 26.00% | ~452 |
-| The darkness | 25.00% | ~434 |
-| A good beginning | 24.00% | ~417 |
+| The darkness | 26.00% | ~452 |
+| A good beginning | 25.00% | ~434 |
 | One last step | 22.00% | ~382 |
 | Cable guy | 21.00% | ~365 |
 | Half the way | 21.00% | ~365 |

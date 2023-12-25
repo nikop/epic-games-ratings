@@ -32,8 +32,8 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 69.00% | ~461 |
 | Chatterbox | 69.00% | ~461 |
 | Elementary, My Dear | 68.00% | ~454 |
+| Lifeline Pipeline | 64.00% | ~428 |
 | What Plants Crave | 63.00% | ~421 |
-| Lifeline Pipeline | 63.00% | ~421 |
 | Waste Not Want Not | 63.00% | ~421 |
 | Builder of the Month | 62.00% | ~414 |
 | Martle's Dream | 60.00% | ~401 |

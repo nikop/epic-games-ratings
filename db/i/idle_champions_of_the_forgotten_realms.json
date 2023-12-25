@@ -9043,9 +9043,9 @@
       "Count": 3592
     }
   ],
-  "EOS_Progressed": 244308,
+  "EOS_Progressed": 244313,
   "EOS_Completed": 2560,
-  "EOS_NewPlayers": 2729,
+  "EOS_NewPlayers": 2727,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37123,6 +37123,11 @@
       "Time": "2023-12-25T01:58:12.8806561+00:00",
       "NumProgressed": 244308,
       "NumCompleted": 2560
+    },
+    {
+      "Time": "2023-12-25T02:32:14.2187089+00:00",
+      "NumProgressed": 244313,
+      "NumCompleted": 2560
     }
   ],
   "TotalAchievements": 546,
@@ -40276,9 +40281,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 1222
     },
     {
       "ID": "objective_completed_70",
@@ -41438,7 +41443,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "objective_completed_1563",
@@ -41501,21 +41506,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210582,
+      "Progressed": 210587,
       "Completed": 4063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244308,
+      "Progressed": 244313,
       "Completed": 2560
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-25T01:44:05.4263825+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:58:12.8806558+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:32:14.2187085+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:44:05.4263831+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:58:12.8830654+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:19:24.1378616+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:32:14.2211154+00:00"
 }

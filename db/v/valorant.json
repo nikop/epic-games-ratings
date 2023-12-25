@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -13283,10 +13283,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 636261,
       "NumberOfAwardsMax": 89076
+    },
+    {
+      "Time": "2023-12-25T02:21:33.1983781+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 636376,
+      "NumberOfAwardsMax": 89076
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 636261,
+  "NumberOfAwards": 636376,
   "NumberOfAwardsMax": 89076,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13342,7 +13348,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 64499
+      "Count": 64614
     },
     {
       "Text": "This game has a Competitive Community",
@@ -13362,8 +13368,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-12-25T01:47:02.1813152+00:00",
+  "LastChanged": "2023-12-25T02:21:33.198378+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.4670015+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:47:02.1813156+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:56:39.1671208+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:21:33.1983786+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:01.2387888+00:00"
 }

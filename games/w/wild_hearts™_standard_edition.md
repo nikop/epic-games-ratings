@@ -7,7 +7,7 @@
 | Land of the Rising Sun | 99.00% | ~846 |
 | Hidden History | 71.00% | ~607 |
 | Commencing of Quests | 62.00% | ~530 |
-| Budding Conjuror | 60.00% | ~513 |
+| Budding Conjuror | 61.00% | ~522 |
 | Man-Machine Master | 49.00% | ~419 |
 | Charmed by the Hunt | 48.00% | ~410 |
 | Mountain Splitter | 47.00% | ~402 |
@@ -22,7 +22,7 @@
 | Distance Devourer | 34.00% | ~291 |
 | Counter Specialist | 32.00% | ~274 |
 | Master of the Skies | 31.00% | ~265 |
-| Axer of Auspice | 28.00% | ~239 |
+| Axer of Auspice | 29.00% | ~248 |
 | Fair Means or Foul | 27.00% | ~231 |
 | Mighty Marmelizer | 26.00% | ~222 |
 | Kemono at Heart | 26.00% | ~222 |

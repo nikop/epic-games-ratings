@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-12-25T00:09:07.6709189+00:00",
       "NumProgressed": 180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T02:31:03.5258327+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1008,7 +1013,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1040,7 +1045,7 @@
       "Name": "Furon Fashion",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1136,7 +1141,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1144,7 +1149,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1160,7 +1165,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1176,7 +1181,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1344,7 +1349,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1359,7 +1364,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
@@ -1367,8 +1372,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:56:42.2231196+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:31:03.5258322+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-25T00:01:01.2963931+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:56:42.2231853+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:19:13.5129454+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:03.5258649+00:00"
 }

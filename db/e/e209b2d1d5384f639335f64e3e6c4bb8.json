@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -281,9 +281,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 335268,
+  "EOS_Progressed": 335269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2085,
+  "EOS_NewPlayers": 2082,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14961,6 +14961,11 @@
       "Time": "2023-12-25T01:52:14.794594+00:00",
       "NumProgressed": 335268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T02:26:43.7589138+00:00",
+      "NumProgressed": 335269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -15061,7 +15066,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26821
+      "UsersEstimate": 26822
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -15069,7 +15074,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26821
+      "UsersEstimate": 26822
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -15356,13 +15361,13 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 335268,
+      "Progressed": 335269,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 335257,
+      "Progressed": 335258,
       "Completed": 1
     }
   ],
@@ -15370,8 +15375,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-23T14:03:01.9146724+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:52:14.7945936+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:26:43.7589133+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.4899054+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:50:05.3462737+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:52:14.7946765+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:25:05.7183596+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:26:43.75901+00:00"
 }

@@ -1,18 +1,18 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 564)  
+Rating: 4.52 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,383 |
-| Greasy Palms | 42.00% | ~5,828 |
-| South American Connection | 26.00% | ~3,608 |
-| Life of the Party | 20.00% | ~2,775 |
-| Chauffeur | 15.00% | ~2,081 |
-| Tommy Two-Wheels | 15.00% | ~2,081 |
+| Legal Counsel | 46.00% | ~6,384 |
+| Greasy Palms | 42.00% | ~5,829 |
+| South American Connection | 25.00% | ~3,470 |
+| Life of the Party | 20.00% | ~2,776 |
+| Chauffeur | 15.00% | ~2,082 |
+| Tommy Two-Wheels | 15.00% | ~2,082 |
 | Big Heat from Little Havana | 14.00% | ~1,943 |
-| Salutations My Little Friend | 11.00% | ~1,526 |
+| Salutations My Little Friend | 11.00% | ~1,527 |
 | Iron-y | 10.00% | ~1,388 |
 | Gun for Hire | 9.00% | ~1,249 |
 | Mischief Managed | 8.00% | ~1,110 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 564)
 | Done it All | 0.90% | ~125 |
 | Kingpin | 0.50% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,876 (Ranked 167)  
+Progressed: 13,879 (Ranked 167)  
 Completed: 75 (0.54%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,14 +289,14 @@ Completed: 75 (0.54%) (Ranked 209)
 | 2023-12-22 | 13,474 | 74 |
 | 2023-12-23 | 13,682 | 75 |
 | 2023-12-24 | 13,863 | 75 |
-| 2023-12-25 | 13,876 | 75 |
+| 2023-12-25 | 13,879 | 75 |
 ## Awards
-Max (Great Boss Battles): 139  (Ranked 330)  
-Sum: 139 (Ranked 436)  
-Diff (max vs sum): -106  
+Max (Great Boss Battles): 144  (Ranked 327)  
+Sum: 144 (Ranked 436)  
+Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 139 |
+| This game has Great Boss Battles | 144 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -454,3 +454,4 @@ Diff (max vs sum): -106
 | 2023-12-21 | 4.53 | 133 | 133 |
 | 2023-12-22 | 4.52 | 135 | 135 |
 | 2023-12-23 | 4.52 | 139 | 139 |
+| 2023-12-25 | 4.52 | 144 | 144 |

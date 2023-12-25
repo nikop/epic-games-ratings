@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81536,
+  "EOS_Progressed": 81538,
   "EOS_Completed": 896,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -27840,6 +27840,11 @@
       "Time": "2023-12-25T01:51:56.795991+00:00",
       "NumProgressed": 81536,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-25T02:26:30.0767721+00:00",
+      "NumProgressed": 81538,
+      "NumCompleted": 896
     }
   ],
   "TotalAchievements": 25,
@@ -27891,7 +27896,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14676
+      "UsersEstimate": 14677
     },
     {
       "ID": "Butcher",
@@ -27899,7 +27904,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "Cut Call",
@@ -27915,7 +27920,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "HardWorker",
@@ -27923,7 +27928,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16307
+      "UsersEstimate": 16308
     },
     {
       "ID": "Hearty",
@@ -28019,7 +28024,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "Taco Toto",
@@ -28050,7 +28055,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81536,
+      "Progressed": 81538,
       "Completed": 896
     }
   ],
@@ -28058,8 +28063,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:51:56.7959904+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:26:30.0767717+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:46:30.8267902+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:51:56.7961164+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:21:12.1481696+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:26:30.076899+00:00"
 }

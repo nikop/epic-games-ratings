@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -992,9 +992,9 @@
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1327,8 +1327,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:52:39.32504+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:27:02.020748+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:46:22.4053065+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:52:39.3250664+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:21:05.8648365+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:27:02.0207735+00:00"
 }

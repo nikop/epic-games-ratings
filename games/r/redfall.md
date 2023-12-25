@@ -41,8 +41,8 @@ Rating: 3.58 (Ranked 1,067)
 | Nice Try | 1.00% | ~20 |
 | Blacklight Down | 0.90% | ~18 |
 | Curious Finch | 0.90% | ~18 |
+| Empty Nest Syndrome | 0.60% | ~12 |
 | What Lies Below | 0.50% | ~10 |
-| Empty Nest Syndrome | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |

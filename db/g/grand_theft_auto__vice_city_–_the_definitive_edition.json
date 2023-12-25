@@ -2,8 +2,8 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 564,
-  "Ranking_Popularity": 330,
+  "Ranking_Rating": 563,
+  "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 209,
@@ -977,23 +977,29 @@
       "Rating": 4.52,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2023-12-25T02:22:18.7517245+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 139,
-  "NumberOfAwardsMax": 139,
+  "NumberOfAwards": 144,
+  "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 139
+      "Count": 144
     }
   ],
-  "EOS_Progressed": 13876,
+  "EOS_Progressed": 13879,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1250,
+  "EOS_NewPlayers": 1249,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15691,6 +15697,11 @@
       "Time": "2023-12-25T01:57:28.452435+00:00",
       "NumProgressed": 13876,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-25T02:31:39.2996701+00:00",
+      "NumProgressed": 13879,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 34,
@@ -15782,7 +15793,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ACH12",
@@ -15806,7 +15817,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5828
+      "UsersEstimate": 5829
     },
     {
       "ID": "ACH15",
@@ -15862,7 +15873,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6384
     },
     {
       "ID": "ACH22",
@@ -15870,15 +15881,15 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3470
     },
     {
       "ID": "ACH24",
@@ -15894,7 +15905,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "ACH26",
@@ -15902,7 +15913,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "ACH27",
@@ -15973,16 +15984,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 13876,
+      "Progressed": 13879,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-12-23T22:00:10.9056531+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:57:28.4524345+00:00",
+  "LastChanged": "2023-12-25T02:22:18.7517243+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:31:39.2996697+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:48:03.4957651+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:57:28.4525137+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:22:18.7517248+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:39.2997585+00:00"
 }

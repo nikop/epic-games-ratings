@@ -8389,18 +8389,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 12282,
       "NumberOfAwardsMax": 6999
+    },
+    {
+      "Time": "2023-12-25T02:25:14.0504356+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12293,
+      "NumberOfAwardsMax": 7010
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12282,
-  "NumberOfAwardsMax": 6999,
+  "NumberOfAwards": 12293,
+  "NumberOfAwardsMax": 7010,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6999
+      "Count": 7010
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8469,9 +8475,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 743292,
+  "EOS_Progressed": 743305,
   "EOS_Completed": 12964,
-  "EOS_NewPlayers": 10203,
+  "EOS_NewPlayers": 10190,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -30784,6 +30790,11 @@
       "Time": "2023-12-25T01:56:41.4382477+00:00",
       "NumProgressed": 743292,
       "NumCompleted": 12964
+    },
+    {
+      "Time": "2023-12-25T02:31:03.1109816+00:00",
+      "NumProgressed": 743305,
+      "NumCompleted": 12964
     }
   ],
   "TotalAchievements": 60,
@@ -30843,7 +30854,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "08_Wude_H2",
@@ -31274,21 +31285,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 52593,
+      "Progressed": 52606,
       "Completed": 10782
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 743292,
+      "Progressed": 743305,
       "Completed": 12964
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-24T16:03:13.8335778+00:00",
-  "LastChanged_Achievements": "2023-12-25T01:56:41.4382472+00:00",
+  "LastChanged": "2023-12-25T02:25:14.0504354+00:00",
+  "LastChanged_Achievements": "2023-12-25T02:31:03.1109812+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T01:50:17.4922451+00:00",
-  "LastUpdate_Achievements": "2023-12-25T01:56:41.4383777+00:00"
+  "LastUpdate_Ratings": "2023-12-25T02:25:14.050436+00:00",
+  "LastUpdate_Achievements": "2023-12-25T02:31:03.1111086+00:00"
 }
