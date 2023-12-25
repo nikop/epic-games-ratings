@@ -20,7 +20,7 @@ Rating: 4.50 (Ranked 603)
 | Boom Things | 53.00% | ~704 |
 | Tear of Freedom | 52.00% | ~691 |
 | My Darkest Day | 48.00% | ~637 |
-| Rhythm Of Willump | 46.00% | ~611 |
+| Rhythm Of Willump | 47.00% | ~624 |
 | The Relentless Storm | 46.00% | ~611 |
 | A Tragic Reminder | 44.00% | ~584 |
 | 3000 Year Blackout | 44.00% | ~584 |

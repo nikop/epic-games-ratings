@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -158,10 +158,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3030,
-  "EOS_Completed": 16,
-  "EOS_NewPlayers": 186,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.53,
+  "EOS_Completed": 17,
+  "EOS_NewPlayers": 185,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -5137,6 +5137,11 @@
       "Time": "2023-12-25T09:05:25.8937219+00:00",
       "NumProgressed": 3030,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-12-25T10:05:20.5548834+00:00",
+      "NumProgressed": 3030,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5378,9 +5383,9 @@
       "ID": "STB_MISSION2B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Clarion Cove",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1212
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5572,15 +5577,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 3030,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:05:25.8937215+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:05:20.5548829+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:57:52.3568259+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:05:25.8937781+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:57:52.9983724+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:05:20.5549309+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -6178,9 +6178,9 @@
       "ID": "achMissionAllMedals",
       "SetID": "dgl390n",
       "Name": "Exemplary student",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 898
     },
     {
       "ID": "achMuseumLine",
@@ -6314,8 +6314,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-24T13:01:01.7727187+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:08:40.9323471+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:08:35.4299276+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.2154452+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:59:09.1586022+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:08:40.9324107+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:59:10.8964379+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:08:35.4299873+00:00"
 }

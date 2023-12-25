@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.20% | ~32 |
 | Lighthouse | 0.20% | ~32 |
 | Mausoleum | 0.20% | ~32 |
+| Musaeum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
 | Pyramids | 0.20% | ~32 |
 | Learn to Play 1 | 0.20% | ~32 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
-| Musaeum | 0.10% | ~16 |
 | Pantheon | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,934 (Ranked 162)  
+Progressed: 15,936 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,934 | 5 |
+| 2023-12-25 | 15,936 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 280)  
 Sum: 1,909 (Ranked 220)  

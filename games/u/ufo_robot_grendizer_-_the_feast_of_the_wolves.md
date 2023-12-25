@@ -7,8 +7,8 @@
 | Life of Pi | 60.00% | ~18 |
 | The Remains of Fleed | 57.00% | ~17 |
 | The Legend | 57.00% | ~17 |
-| Escape from Fleed | 40.00% | ~12 |
-| First Contact | 37.00% | ~11 |
+| Escape from Fleed | 43.00% | ~13 |
+| First Contact | 40.00% | ~12 |
 | Strength in Defeat | 37.00% | ~11 |
 | Technology first! | 27.00% | ~8 |
 | The Keeper of Fleed | 27.00% | ~8 |

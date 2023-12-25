@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -2970,9 +2970,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 306
     },
     {
       "ID": "cool-shirts",
@@ -3130,8 +3130,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:06:48.9469279+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:06:44.4218342+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:59:10.5473078+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:06:48.9469485+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:59:12.3214659+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:06:44.4218586+00:00"
 }

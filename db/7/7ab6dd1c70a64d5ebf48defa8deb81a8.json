@@ -2,10 +2,10 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
@@ -2385,6 +2385,11 @@
       "Time": "2023-12-25T09:10:06.6691952+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T10:10:01.155821+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2396,7 +2401,7 @@
       "Name": "Break Out",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_02",
@@ -2412,7 +2417,7 @@
       "Name": "Powerful Allies",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_04",
@@ -2428,7 +2433,7 @@
       "Name": "To Battle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_06",
@@ -2436,7 +2441,7 @@
       "Name": "Godslayer",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_07",
@@ -2468,7 +2473,7 @@
       "Name": "Trinity",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_11",
@@ -2500,7 +2505,7 @@
       "Name": "Airborne",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_15",
@@ -2508,7 +2513,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_16",
@@ -2588,7 +2593,7 @@
       "Name": "Fashion Victim",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_26",
@@ -2636,7 +2641,7 @@
       "Name": "Stone Collection",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_33",
@@ -2683,14 +2688,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1211,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:10:06.6691949+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:10:01.1558206+00:00",
   "LastUpdate_AppInfo": "2023-12-18T22:57:01.8233893+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:00:09.3832829+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:10:06.6692324+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:00:12.205631+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:10:01.1558493+00:00"
 }

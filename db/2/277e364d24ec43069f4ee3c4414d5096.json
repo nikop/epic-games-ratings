@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117781,
+  "EOS_Progressed": 117783,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22515,6 +22515,11 @@
       "Time": "2023-12-25T09:10:02.1563693+00:00",
       "NumProgressed": 117781,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-25T10:09:56.9705212+00:00",
+      "NumProgressed": 117783,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22534,7 +22539,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90691
+      "UsersEstimate": 90693
     },
     {
       "ID": "EAwards_10",
@@ -22598,7 +22603,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43579
+      "UsersEstimate": 43580
     },
     {
       "ID": "EAwards_18",
@@ -22622,7 +22627,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57713
+      "UsersEstimate": 57714
     },
     {
       "ID": "EAwards_20",
@@ -22654,7 +22659,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "EAwards_24",
@@ -22670,7 +22675,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22378
+      "UsersEstimate": 22379
     },
     {
       "ID": "EAwards_26",
@@ -22710,7 +22715,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23556
+      "UsersEstimate": 23557
     },
     {
       "ID": "EAwards_30",
@@ -22917,7 +22922,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117781,
+      "Progressed": 117783,
       "Completed": 53
     }
   ],
@@ -22925,8 +22930,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:10:02.1563689+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:09:56.9705205+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:58:05.8699577+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:10:02.1564754+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:58:07.3970395+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:09:56.9706349+00:00"
 }

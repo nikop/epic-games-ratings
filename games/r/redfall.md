@@ -6,8 +6,8 @@ Rating: 3.58 (Ranked 1,067)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 13.00% | ~267 |
-| Catch and Release | 10.00% | ~205 |
 | Home Is Where the Heart Is | 9.00% | ~185 |
+| Catch and Release | 9.00% | ~185 |
 | ICU | 8.00% | ~164 |
 | Wounded Whispers | 8.00% | ~164 |
 | Blood Will Have Blood | 7.00% | ~144 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,067)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 237)  
+Progressed: 2,053 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 1,992 | 0 |
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
-| 2023-12-25 | 2,052 | 0 |
+| 2023-12-25 | 2,053 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

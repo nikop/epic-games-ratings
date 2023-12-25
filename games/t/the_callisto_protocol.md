@@ -5,17 +5,17 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 17.00% | ~3,259 |
-| The Outer Way | 17.00% | ~3,259 |
-| Desperate Times | 16.00% | ~3,067 |
-| Get a Grip | 15.00% | ~2,875 |
-| Paper Jams | 15.00% | ~2,875 |
-| Chew 'Em Up | 13.00% | ~2,492 |
-| Float Like A Butterfly | 12.00% | ~2,300 |
-| Reforged | 12.00% | ~2,300 |
+| Flesh Wound | 17.00% | ~3,260 |
+| The Outer Way | 17.00% | ~3,260 |
+| Desperate Times | 16.00% | ~3,068 |
+| Get a Grip | 15.00% | ~2,876 |
+| Paper Jams | 15.00% | ~2,876 |
+| Chew 'Em Up | 13.00% | ~2,493 |
+| Float Like A Butterfly | 12.00% | ~2,301 |
+| Reforged | 12.00% | ~2,301 |
 | Workplace Hazard | 10.00% | ~1,917 |
 | If the SHU Fits... | 10.00% | ~1,917 |
-| Without A Paddle | 9.00% | ~1,725 |
+| Without A Paddle | 9.00% | ~1,726 |
 | Two Heads Are Better Than One | 8.00% | ~1,534 |
 | In the Pipe, Five by Five | 8.00% | ~1,534 |
 | Crash Site | 8.00% | ~1,534 |
@@ -40,7 +40,7 @@ Rating: 4.20 (Ranked 936)
 | Instigator | 0.80% | ~57 |
 | Information Overload | 0.80% | ~57 |
 | Quick Pick | 0.70% | ~50 |
-| Subject Alpha | 0.50% | ~35 |
+| Subject Alpha | 0.50% | ~36 |
 | Hoard Mode | 0.30% | ~21 |
 | Don't Let It Mellow | 0.30% | ~21 |
 | The Protocol is About Life | 0.20% | ~38 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,169 (Ranked 150)  
+Progressed: 19,174 (Ranked 150)  
 Completed: 82 (0.43%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 82 (0.43%) (Ranked 225)
 | 2023-12-22 | 18,670 | 82 |
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
-| 2023-12-25 | 19,169 | 82 |
+| 2023-12-25 | 19,174 | 82 |
 ## Awards
 Max (Amazing Characters): 97  (Ranked 379)  
 Sum: 502 (Ranked 332)  

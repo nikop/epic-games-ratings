@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1643,9 +1643,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7504,
+  "EOS_Progressed": 7505,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -15413,6 +15413,11 @@
       "Time": "2023-12-25T09:08:41.724925+00:00",
       "NumProgressed": 7504,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-25T10:08:36.2405314+00:00",
+      "NumProgressed": 7505,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15424,7 +15429,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5703
+      "UsersEstimate": 5704
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15432,7 +15437,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -15464,7 +15469,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5703
+      "UsersEstimate": 5704
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15472,7 +15477,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5478
+      "UsersEstimate": 5479
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15544,7 +15549,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15552,7 +15557,7 @@
       "Name": "Feast or Famine",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -15584,7 +15589,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -15600,7 +15605,7 @@
       "Name": "Heating Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -15624,7 +15629,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -15648,7 +15653,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -15656,7 +15661,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -15664,22 +15669,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7504,
+      "Progressed": 7505,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:08:41.7249243+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:08:36.240531+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.6112107+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:58:45.2775026+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:08:41.7250044+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:58:47.6456623+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:08:36.2406245+00:00"
 }

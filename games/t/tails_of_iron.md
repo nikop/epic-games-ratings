@@ -13,22 +13,23 @@ Rating: 4.56 (Ranked 496)
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Defeat 25 Frogs | 0.70% | ~16 |
 | Shield Maiden Yellow Tongue | 0.70% | ~6 |
+| Collect Gold | 0.60% | ~14 |
+| Collect Iron Ore | 0.60% | ~14 |
 | Collect Monster Parts | 0.60% | ~14 |
 | End of the Mozis | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
+| Smithy Ready to Craft | 0.60% | ~14 |
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Rescue Redgi's Brothers | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
-| Collect Gold | 0.50% | ~11 |
-| Collect Iron Ore | 0.50% | ~11 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |
-| Smithy Ready to Craft | 0.50% | ~11 |
 | Defeat Croakhis Khan | 0.50% | ~5 |
 | I Remember My First Beer | 0.50% | ~5 |
 | Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Defeat Ratnor Rodentson | 0.40% | ~9 |
+| Fix the Travellers Wagon | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Defeat the Grub Buster | 0.40% | ~4 |
 | Defeat the Stalker Queen | 0.40% | ~4 |
@@ -36,14 +37,13 @@ Rating: 4.56 (Ranked 496)
 | Complete the Chefs Book | 0.30% | ~7 |
 | Complete Ranger Faction | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
-| Fix the Travellers Wagon | 0.30% | ~7 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | King of Kings | 0.20% | ~5 |
 | Complete Arena Faction | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,280 (Ranked 232)  
-Completed: 12 (0.53%) (Ranked 211)  
+Completed: 12 (0.53%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

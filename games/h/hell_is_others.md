@@ -5,11 +5,11 @@ Rating: 4.39 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,522 |
-| Predator I | 23.00% | ~59,742 |
+| Survivor | 31.00% | ~80,523 |
+| Predator I | 23.00% | ~59,743 |
 | Fixer I | 10.00% | ~25,975 |
 | A week in Century City | 10.00% | ~25,975 |
-| The Wait | 7.00% | ~18,182 |
+| The Wait | 7.00% | ~18,183 |
 | Green thumb I | 6.00% | ~15,585 |
 | Cleaning Company | 6.00% | ~15,585 |
 | Well-oiled machine | 5.00% | ~12,988 |
@@ -18,10 +18,10 @@ Rating: 4.39 (Ranked 764)
 | Pacifist | 4.00% | ~10,390 |
 | Vandalism | 4.00% | ~10,390 |
 | Capitalist I | 4.00% | ~10,390 |
-| Fixer II | 3.00% | ~7,792 |
-| It took a while | 3.00% | ~7,792 |
-| Adrenaline | 3.00% | ~7,792 |
-| Predator II | 3.00% | ~7,792 |
+| Fixer II | 3.00% | ~7,793 |
+| It took a while | 3.00% | ~7,793 |
+| Adrenaline | 3.00% | ~7,793 |
+| Predator II | 3.00% | ~7,793 |
 | By a hair | 2.00% | ~5,195 |
 | Samurai | 2.00% | ~5,195 |
 | I Left You a Present | 2.00% | ~5,195 |
@@ -37,8 +37,8 @@ Rating: 4.39 (Ranked 764)
 | Run the Economy | 1.00% | ~2,598 |
 | Committed Relationship | 0.80% | ~2,078 |
 | Number 1 | 0.80% | ~2,078 |
-| A major purchase | 0.60% | ~1,558 |
-| Interior designer | 0.60% | ~1,558 |
+| A major purchase | 0.60% | ~1,559 |
+| Interior designer | 0.60% | ~1,559 |
 | The Gamble | 0.50% | ~1,299 |
 | The Descent | 0.50% | ~1,299 |
 | Expert Hunter | 0.40% | ~1,039 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 764)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,750 (Ranked 63)  
+Progressed: 259,753 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 3 (0.00%) (Ranked 388)
 | 2023-12-22 | 259,640 | 3 |
 | 2023-12-23 | 259,690 | 3 |
 | 2023-12-24 | 259,736 | 3 |
-| 2023-12-25 | 259,750 | 3 |
+| 2023-12-25 | 259,753 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 53  (Ranked 438)  
 Sum: 366 (Ranked 358)  

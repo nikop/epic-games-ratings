@@ -34,8 +34,8 @@
 | Heart Gate | 8.00% | ~19 |
 | The Corruption Goddess | 8.00% | ~19 |
 | The Goddes Avatar | 8.00% | ~19 |
+| Anomaly Control | 6.00% | ~14 |
 | Can't touch this | 6.00% | ~14 |
-| Anomaly Control | 5.00% | ~12 |
 | Artificer | 5.00% | ~12 |
 | Prestidigitation | 5.00% | ~12 |
 | The Dark Moon | 5.00% | ~12 |
@@ -48,6 +48,7 @@
 | Noctuan Hero | 4.00% | ~10 |
 | Astrarium of Holding | 3.00% | ~7 |
 | If I Had Failed... | 3.00% | ~7 |
+| Pocket Astrarium | 3.00% | ~7 |
 | Purification Avatar | 3.00% | ~7 |
 | The Abyssal Terror | 3.00% | ~7 |
 | The Ardent Prince | 3.00% | ~7 |
@@ -57,7 +58,6 @@
 | Lacertian Mastery | 3.00% | ~7 |
 | Astromancer | 2.00% | ~5 |
 | Critical Twist | 2.00% | ~5 |
-| Pocket Astrarium | 2.00% | ~5 |
 | Reflexive Mind | 2.00% | ~5 |
 | Sentinelphobic | 2.00% | ~5 |
 | The Raging Skies | 2.00% | ~5 |

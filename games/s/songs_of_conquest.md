@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 43.00% | ~316 |
+| Adept | 43.00% | ~317 |
 | Double Kill | 36.00% | ~265 |
 | Critical Hit | 20.00% | ~147 |
 | Veteran | 19.00% | ~140 |
@@ -29,10 +29,10 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~15 |
 | Versatile Wielder | 1.00% | ~7 |
 | Infernal Influence | 1.00% | ~7 |
-| Together For Her | 1.00% | ~7 |
-| From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
-| Grand Master | 1.00% | ~7 |
+| Together For Her | 0.90% | ~7 |
+| From the Ashes | 0.90% | ~7 |
+| Grand Master | 0.90% | ~7 |
 | Unlimited Power! | 0.50% | ~4 |
 | In The Thick of It | 0.50% | ~4 |
 | Get Over Here! | 0.50% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 300)  
+Progressed: 737 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 665 | 0 |
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
-| 2023-12-25 | 736 | 0 |
+| 2023-12-25 | 737 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 528)  
 Sum: 194 (Ranked 414)  

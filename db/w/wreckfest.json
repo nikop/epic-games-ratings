@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-12-25T09:08:38.7450063+00:00",
       "NumProgressed": 344,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T10:08:33.3009727+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1044,7 +1049,7 @@
       "Name": "Highballer",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CareerChamp1",
@@ -1052,7 +1057,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CareerChamp2",
@@ -1068,7 +1073,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CareerChamp4",
@@ -1092,7 +1097,7 @@
       "Name": "Storm Warning",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "CollectVehiclesA",
@@ -1100,7 +1105,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CollectVehiclesB",
@@ -1178,9 +1183,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1195,7 +1200,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 346,
       "Completed": 0
     }
   ],
@@ -1203,8 +1208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:08:38.7450059+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:08:33.3009723+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:59:38.7772741+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:08:38.7450271+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:59:41.1679998+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:08:33.3009957+00:00"
 }

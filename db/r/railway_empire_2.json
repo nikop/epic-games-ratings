@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7209,9 +7209,9 @@
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 554
     },
     {
       "ID": "A03",
@@ -7642,8 +7642,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-07T22:58:14.7831098+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:06:05.6629872+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:06:01.1229479+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:58:37.6646428+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:06:05.6630469+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:58:40.0976231+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:06:01.123036+00:00"
 }

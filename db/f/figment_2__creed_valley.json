@@ -2,10 +2,10 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -287,6 +287,11 @@
       "Time": "2023-12-25T07:11:13.2610191+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T10:09:58.7165451+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -296,7 +301,7 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -304,7 +309,7 @@
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -320,7 +325,7 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -408,7 +413,7 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -424,15 +429,15 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 8
     }
@@ -441,7 +446,7 @@
     {
       "ID": "7e96e7l",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
@@ -449,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:10:03.9684427+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:09:58.7165448+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.3876673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:58:08.409583+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:10:03.9684528+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:58:09.9259582+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:09:58.7165554+00:00"
 }

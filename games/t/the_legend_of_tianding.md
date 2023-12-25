@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 88.00% | ~44 |
-| Eat the Rich | 60.00% | ~30 |
-| Death Battle | 48.00% | ~24 |
-| Phantom Kunoichi | 48.00% | ~24 |
-| Killing Machine | 48.00% | ~24 |
-| Divine Retribution | 44.00% | ~22 |
-| Captain Mustache | 42.00% | ~21 |
-| Final Showdown | 38.00% | ~19 |
-| Dispel Rumors | 38.00% | ~19 |
-| The End of an Outlaw | 38.00% | ~19 |
-| Sewer Rat | 32.00% | ~16 |
-| Demon Slayer | 30.00% | ~15 |
-| Urban Explorer | 30.00% | ~15 |
-| Steal Her Away | 30.00% | ~15 |
-| Fight Fire With Fire | 30.00% | ~15 |
-| Not Today | 28.00% | ~14 |
-| Big Eater | 26.00% | ~13 |
-| Tour Guide | 26.00% | ~13 |
-| Coward | 24.00% | ~12 |
-| Tomb Raider | 24.00% | ~12 |
-| The Real O.G. | 22.00% | ~11 |
+| Hero Arrives | 88.00% | ~45 |
+| Eat the Rich | 61.00% | ~31 |
+| Death Battle | 49.00% | ~25 |
+| Phantom Kunoichi | 49.00% | ~25 |
+| Killing Machine | 49.00% | ~25 |
+| Divine Retribution | 45.00% | ~23 |
+| Captain Mustache | 43.00% | ~22 |
+| Final Showdown | 39.00% | ~20 |
+| Dispel Rumors | 39.00% | ~20 |
+| The End of an Outlaw | 39.00% | ~20 |
+| Steal Her Away | 33.00% | ~17 |
+| Sewer Rat | 33.00% | ~17 |
+| Fight Fire With Fire | 33.00% | ~17 |
+| Demon Slayer | 31.00% | ~16 |
+| Urban Explorer | 31.00% | ~16 |
+| Not Today | 29.00% | ~15 |
+| Big Eater | 27.00% | ~14 |
+| Tour Guide | 27.00% | ~14 |
+| Coward | 25.00% | ~13 |
+| Tomb Raider | 25.00% | ~13 |
+| The Real O.G. | 24.00% | ~12 |
 | The Hero of the People | 18.00% | ~9 |
-| Talk to the Fist | 14.00% | ~7 |
-| Collector | 10.00% | ~5 |
+| Talk to the Fist | 16.00% | ~8 |
+| Collector | 12.00% | ~6 |
 | Taoist | 10.00% | ~5 |
 | The Legend | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 535)  
-Completed: 4 (8.00%) (Ranked 50)  
+Progressed: 51 (Ranked 535)  
+Completed: 4 (7.84%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,6 +72,7 @@ Completed: 4 (8.00%) (Ranked 50)
 | 2023-12-17 | 42 | 3 |
 | 2023-12-18 | 45 | 3 |
 | 2023-12-23 | 50 | 4 |
+| 2023-12-25 | 51 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~231 |
 | Initiate's Resolve | 6.00% | ~231 |
-| Missilis | 5.00% | ~192 |
-| Modest Earnings | 5.00% | ~192 |
-| Armaments of the Pantheon | 5.00% | ~192 |
-| Persephone's Guidance | 5.00% | ~192 |
-| Lochos | 5.00% | ~192 |
-| Strength of Herakles | 5.00% | ~192 |
-| Reign in Blood | 5.00% | ~192 |
+| Missilis | 5.00% | ~193 |
+| Modest Earnings | 5.00% | ~193 |
+| Armaments of the Pantheon | 5.00% | ~193 |
+| Persephone's Guidance | 5.00% | ~193 |
+| Lochos | 5.00% | ~193 |
+| Strength of Herakles | 5.00% | ~193 |
+| Reign in Blood | 5.00% | ~193 |
 | Immolator | 4.00% | ~154 |
 | Go For the Head | 4.00% | ~154 |
 | Spartan Sandal | 4.00% | ~154 |
@@ -44,15 +44,15 @@
 | Baby Crabs They Ain't | 2.00% | ~77 |
 | Mors Omnibus | 2.00% | ~77 |
 | Blot Out the Sky | 2.00% | ~77 |
-| The Nameless One | 1.00% | ~38 |
-| Rule of Thirds | 1.00% | ~38 |
-| Pyr Demon | 1.00% | ~38 |
-| Don't Pay the Ferryman | 1.00% | ~38 |
-| Biotechnology | 1.00% | ~38 |
-| The Archimedes Principle | 1.00% | ~38 |
-| Rites at Sea | 1.00% | ~38 |
-| Close Shut the Doors | 1.00% | ~38 |
-| Scrap Metal | 1.00% | ~38 |
+| The Nameless One | 1.00% | ~39 |
+| Rule of Thirds | 1.00% | ~39 |
+| Pyr Demon | 1.00% | ~39 |
+| Don't Pay the Ferryman | 1.00% | ~39 |
+| Biotechnology | 1.00% | ~39 |
+| The Archimedes Principle | 1.00% | ~39 |
+| Rites at Sea | 1.00% | ~39 |
+| Close Shut the Doors | 1.00% | ~39 |
+| Scrap Metal | 1.00% | ~39 |
 | Athenian Treasury | 0.90% | ~35 |
 | Invicta | 0.80% | ~31 |
 | Olympian | 0.60% | ~23 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,850 (Ranked 208)  
+Progressed: 3,851 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 3,832 | 0 |
 | 2023-12-23 | 3,844 | 0 |
 | 2023-12-24 | 3,848 | 0 |
-| 2023-12-25 | 3,850 | 0 |
+| 2023-12-25 | 3,851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

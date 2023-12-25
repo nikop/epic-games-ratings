@@ -5,10 +5,10 @@
   "Ranking_Rating": 549,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1001,6 +1001,11 @@
       "Time": "2023-12-25T02:31:03.5258327+00:00",
       "NumProgressed": 181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T10:08:53.5184424+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1011,9 +1016,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1035,7 +1040,7 @@
       "ID": "ACH_BASKETBALL_SLAM",
       "SetID": "4n84pon",
       "Name": "PK Slam Dunk",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1043,15 +1048,15 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
       "SetID": "4n84pon",
       "Name": "Arty Facts",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1059,7 +1064,7 @@
       "ID": "ACH_COLLECT_DIEGETIC_ART",
       "SetID": "4n84pon",
       "Name": "Gotta Catch All the Pop Art",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1067,7 +1072,7 @@
       "ID": "ACH_COLLECT_SOUNDTRACKS",
       "SetID": "4n84pon",
       "Name": "This Is Earth Radio",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1075,7 +1080,7 @@
       "ID": "ACH_COMPLETE_ALL_OJ",
       "SetID": "4n84pon",
       "Name": "Against All Odds",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1085,7 +1090,7 @@
       "Name": "Cult Following",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1099,7 +1104,7 @@
       "ID": "ACH_COP_THROUGH_DONUT",
       "SetID": "4n84pon",
       "Name": "Forbidden Donut",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1107,7 +1112,7 @@
       "ID": "ACH_DESTROY_HIVES",
       "SetID": "4n84pon",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -1123,7 +1128,7 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 90
     },
@@ -1139,9 +1144,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1149,7 +1154,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1171,9 +1176,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1187,9 +1192,9 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1213,7 +1218,7 @@
       "Name": "Die Nasty",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1235,9 +1240,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1261,7 +1266,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1269,7 +1274,7 @@
       "Name": "Upgreatest",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1299,9 +1304,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1349,7 +1354,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1364,7 +1369,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 183,
       "Completed": 0
     }
   ],
@@ -1372,8 +1377,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:08:58.6980814+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:08:53.518442+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:57:11.4286459+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:08:58.6981091+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:57:11.9151088+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:08:53.5184781+00:00"
 }

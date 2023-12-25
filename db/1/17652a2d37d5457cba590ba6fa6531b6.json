@@ -2,10 +2,10 @@
   "ID": "17652a2d37d5457cba590ba6fa6531b6",
   "Name": "Dust to the End",
   "ProductSlug": "dust-to-the-end-4297b0",
-  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Progress": 699,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-21T07:00:00+00:00",
     "PcReleaseDate": "2021-08-11T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2023-08-28T03:05:03.9712815+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T10:06:03.0461006+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -305,9 +310,9 @@
       "ID": "Achievement_MillionGold",
       "SetID": "cc9np4n",
       "Name": "Millionaire",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_MillionMilesVehicle",
@@ -426,14 +431,14 @@
     {
       "ID": "cc9np4n",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-23T03:57:18.1724654+00:00",
   "FirstSeenAchievements": "2023-08-21T02:14:13.1182057+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:06:07.6342535+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:06:03.0461002+00:00",
   "LastUpdate_AppInfo": "2023-12-18T10:57:13.902539+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:02:34.3966546+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:06:07.6342787+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:00:54.7814754+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:06:03.0461261+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
@@ -1839,6 +1839,11 @@
       "Time": "2023-12-25T05:08:54.4718702+00:00",
       "NumProgressed": 632,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-25T10:08:40.1819626+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1851,7 +1856,7 @@
       "Name": "The Last Stand",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ach_main01begin_die",
@@ -1859,7 +1864,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1867,7 +1872,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ach_main02horde_completed",
@@ -1875,7 +1880,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -1883,7 +1888,7 @@
       "Name": "For the Horde!",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1907,7 +1912,7 @@
       "Name": "Master of Magic",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_main03demon_spells",
@@ -1923,7 +1928,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1937,9 +1942,9 @@
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_main05evil_completed",
@@ -1961,9 +1966,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 386
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -1971,7 +1976,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -1979,15 +1984,15 @@
       "Name": "Mana Cannon",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 310
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2011,7 +2016,7 @@
       "Name": "Pure Dynamite!",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2059,7 +2064,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2075,7 +2080,7 @@
       "Name": "The Cathedral of Light",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -2099,7 +2104,7 @@
       "Name": "Tanos\u0027 Crusade Against Thalya",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2107,7 +2112,7 @@
       "Name": "Ghost Pirates? Ghost Heroes!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -2121,9 +2126,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2131,7 +2136,7 @@
       "Name": "Stop Tanos!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_main12race_torture",
@@ -2235,7 +2240,7 @@
       "Name": "Rubble and Ashes",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2251,7 +2256,7 @@
       "Name": "Brimstone Shaken, Not Stirred",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2275,7 +2280,7 @@
       "Name": "To the Max!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_main18unholy_training",
@@ -2338,14 +2343,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:08:45.714858+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:08:40.1819623+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:58:48.7599821+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:08:45.7149214+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:58:50.9389405+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:08:40.1820262+00:00"
 }

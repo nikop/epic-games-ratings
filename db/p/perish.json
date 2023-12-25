@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3850,
+  "EOS_Progressed": 3851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4331,6 +4331,11 @@
       "Time": "2023-12-25T05:07:08.2425838+00:00",
       "NumProgressed": 3850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T10:06:56.2123995+00:00",
+      "NumProgressed": 3851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4342,7 +4347,7 @@
       "Name": "The Nameless One",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_B_DP",
@@ -4414,7 +4419,7 @@
       "Name": "Rule of Thirds",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_K_A1",
@@ -4438,7 +4443,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_MC",
@@ -4478,7 +4483,7 @@
       "Name": "Modest Earnings",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_M_D2",
@@ -4518,7 +4523,7 @@
       "Name": "Pyr Demon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_M_I",
@@ -4534,7 +4539,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_M_SC",
@@ -4550,7 +4555,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_OB_BB",
@@ -4582,7 +4587,7 @@
       "Name": "Don\u0027t Pay the Ferryman",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_OB_CR",
@@ -4630,7 +4635,7 @@
       "Name": "Biotechnology",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_OB_HC",
@@ -4646,7 +4651,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_OB_LS",
@@ -4678,7 +4683,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_OB_SD",
@@ -4694,7 +4699,7 @@
       "Name": "The Archimedes Principle",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_OB_TP",
@@ -4702,7 +4707,7 @@
       "Name": "Rites at Sea",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_OL",
@@ -4750,7 +4755,7 @@
       "Name": "Close Shut the Doors",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_TF",
@@ -4766,7 +4771,7 @@
       "Name": "Reign in Blood",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_TP",
@@ -4822,7 +4827,7 @@
       "Name": "Scrap Metal",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KKA",
@@ -4845,7 +4850,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3850,
+      "Progressed": 3851,
       "Completed": 0
     }
   ],
@@ -4853,8 +4858,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:07:00.3311697+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:06:56.212399+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:17.7377939+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:57:49.8866539+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:07:00.3312264+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:57:50.7707859+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:06:56.2124734+00:00"
 }

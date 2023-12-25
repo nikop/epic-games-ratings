@@ -2,10 +2,10 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 535,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -940,8 +940,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:05:22.1370524+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:05:17.0104424+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.9726855+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:59:33.9291466+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:05:22.1371191+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:59:35.3792448+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:05:17.0105057+00:00"
 }

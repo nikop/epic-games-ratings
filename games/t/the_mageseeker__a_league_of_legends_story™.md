@@ -14,7 +14,7 @@ Rating: 4.79 (Ranked 100)
 | You can pet the dog | 60.00% | ~1,818 |
 | Thornbarrow | 41.00% | ~1,242 |
 | Big Helmet Bro | 40.00% | ~1,212 |
-| Clarion Cove | 39.00% | ~1,182 |
+| Clarion Cove | 40.00% | ~1,212 |
 | Past trauma | 37.00% | ~1,121 |
 | Ternmoat Headquarters | 37.00% | ~1,121 |
 | Elemental master | 36.00% | ~1,091 |
@@ -60,7 +60,7 @@ Rating: 4.79 (Ranked 100)
 | The Unshackled | 1.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,030 (Ranked 219)  
-Completed: 16 (0.53%) (Ranked 211)  
+Completed: 17 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 16 (0.53%) (Ranked 211)
 | 2023-12-22 | 2,952 | 16 |
 | 2023-12-23 | 2,991 | 16 |
 | 2023-12-24 | 3,025 | 16 |
-| 2023-12-25 | 3,030 | 16 |
+| 2023-12-25 | 3,030 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

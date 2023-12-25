@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42863,
+  "EOS_Progressed": 42864,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26161,6 +26161,11 @@
       "Time": "2023-12-25T09:05:54.3622427+00:00",
       "NumProgressed": 42863,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T10:05:49.7887307+00:00",
+      "NumProgressed": 42864,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26524,7 +26529,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7716
     },
     {
       "ID": "ach_terror100",
@@ -26540,7 +26545,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6429
+      "UsersEstimate": 6430
     },
     {
       "ID": "ach_undercurrent",
@@ -26603,15 +26608,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42863,
+      "Progressed": 42864,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:05:54.3622422+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:05:49.7887302+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:58:00.1173146+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:05:54.3623887+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:58:00.5995843+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:05:49.7889108+00:00"
 }

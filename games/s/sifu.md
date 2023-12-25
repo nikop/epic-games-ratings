@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,747 |
-| The Assault | 3.00% | ~22,310 |
-| Life is your teacher | 3.00% | ~22,310 |
-| Lightning Hands | 3.00% | ~22,310 |
-| The Hateful Pole Fighter | 2.00% | ~14,873 |
-| Stuntmaster | 2.00% | ~14,873 |
-| Street Fighting | 2.00% | ~14,873 |
-| State of constant learning | 2.00% | ~14,873 |
-| Qi Gong: Essence | 2.00% | ~14,873 |
-| Old Child | 2.00% | ~14,873 |
-| Rumble in the Hangar | 2.00% | ~14,873 |
+| The Old Grandmaster | 4.00% | ~29,749 |
+| The Assault | 3.00% | ~22,312 |
+| Life is your teacher | 3.00% | ~22,312 |
+| Lightning Hands | 3.00% | ~22,312 |
+| The Hateful Pole Fighter | 2.00% | ~14,875 |
+| Stuntmaster | 2.00% | ~14,875 |
+| Street Fighting | 2.00% | ~14,875 |
+| State of constant learning | 2.00% | ~14,875 |
+| Qi Gong: Essence | 2.00% | ~14,875 |
+| Old Child | 2.00% | ~14,875 |
+| Rumble in the Hangar | 2.00% | ~14,875 |
 | A Lady's Blood in the Snow | 1.00% | ~7,437 |
 | Lady Wing Chun | 1.00% | ~7,437 |
 | Furious Fists | 1.00% | ~7,437 |
@@ -28,13 +28,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,437 |
 | Project Arena | 1.00% | ~530 |
 | Diligence as a goal | 1.00% | ~530 |
-| Scareless | 0.80% | ~5,949 |
-| Kung-Fu Tussle | 0.80% | ~5,949 |
+| Scareless | 0.80% | ~5,950 |
+| Kung-Fu Tussle | 0.80% | ~5,950 |
 | Dance of the Praying Mantis | 0.70% | ~5,206 |
 | Fight the way you practice | 0.70% | ~371 |
 | Martial Hub | 0.60% | ~318 |
-| Muk Yan Master | 0.50% | ~3,718 |
-| Detective Story | 0.50% | ~3,718 |
+| Muk Yan Master | 0.50% | ~3,719 |
+| Detective Story | 0.50% | ~3,719 |
 | Bloody Sport | 0.50% | ~265 |
 | Tiger on Fire | 0.40% | ~2,975 |
 | Source of Flying Daggers | 0.40% | ~2,975 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~53 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,670 (Ranked 23)  
+Progressed: 743,728 (Ranked 23)  
 Completed: 12,965 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 12,965 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 743,670 | 12,965 |
+| 2023-12-25 | 743,728 | 12,965 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
 Sum: 12,295 (Ranked 84)  

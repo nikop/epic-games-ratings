@@ -6,14 +6,14 @@ Rating: 4.52 (Ranked 563)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 92.00% | ~109 |
-| Map reader | 68.00% | ~80 |
-| Adventurer | 64.00% | ~76 |
-| Philanthropist | 63.00% | ~74 |
-| Archer | 45.00% | ~53 |
+| Map reader | 67.00% | ~80 |
+| Adventurer | 65.00% | ~77 |
+| Philanthropist | 62.00% | ~74 |
+| Archer | 45.00% | ~54 |
 | The brave little tailor | 44.00% | ~52 |
-| Field hand | 42.00% | ~50 |
-| Samaritan | 36.00% | ~42 |
-| Well-to-do | 36.00% | ~42 |
+| Field hand | 41.00% | ~49 |
+| Well-to-do | 36.00% | ~43 |
+| Samaritan | 35.00% | ~42 |
 | The merciful one | 33.00% | ~39 |
 | Ladies' man | 32.00% | ~38 |
 | Ferocious wild boars | 27.00% | ~32 |
@@ -21,28 +21,28 @@ Rating: 4.52 (Ranked 563)
 | Beast slayer | 23.00% | ~27 |
 | Family man | 20.00% | ~24 |
 | Archaeologist | 20.00% | ~24 |
-| Wise man | 19.00% | ~22 |
-| Death of a legend | 19.00% | ~22 |
-| Little hero | 19.00% | ~22 |
-| Ogre friend | 19.00% | ~22 |
-| Hard worker | 19.00% | ~22 |
-| The fourth triplet | 19.00% | ~22 |
-| Sidelined | 19.00% | ~22 |
+| Wise man | 19.00% | ~23 |
+| Death of a legend | 19.00% | ~23 |
+| Ogre friend | 19.00% | ~23 |
+| Hard worker | 19.00% | ~23 |
+| Little hero | 18.00% | ~21 |
+| The fourth triplet | 18.00% | ~21 |
+| Sidelined | 18.00% | ~21 |
 | Fence | 17.00% | ~20 |
 | Master detective | 17.00% | ~20 |
 | Pandora's box | 16.00% | ~19 |
 | Ghost hunter | 15.00% | ~18 |
-| Defender | 14.00% | ~17 |
-| Workaholic | 14.00% | ~17 |
 | Peacekeeper | 14.00% | ~17 |
+| Defender | 13.00% | ~15 |
+| Workaholic | 13.00% | ~15 |
 | Showdown | 12.00% | ~14 |
 | Freedom fighter | 11.00% | ~13 |
 | Safecracker | 11.00% | ~13 |
 | Master thief | 11.00% | ~13 |
 | Titan Lord | 9.00% | ~11 |
 | King of the handymen | 9.00% | ~11 |
-| Terror of the hens | 8.00% | ~9 |
-| Expert | 8.00% | ~9 |
+| Terror of the hens | 8.00% | ~10 |
+| Expert | 8.00% | ~10 |
 | The traveler | 6.00% | ~7 |
 | Moneybags | 6.00% | ~7 |
 | Rune master | 4.00% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 563)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 465)  
+Progressed: 119 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 107 | 0 |
 | 2023-12-23 | 113 | 0 |
 | 2023-12-24 | 118 | 0 |
+| 2023-12-25 | 119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

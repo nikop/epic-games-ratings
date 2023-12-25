@@ -13,7 +13,7 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 57.00% | ~95 |
 | Increased Capacity | 51.00% | ~85 |
 | Just the start | 50.00% | ~83 |
-| Perfect Storm | 45.00% | ~75 |
+| Perfect Storm | 46.00% | ~76 |
 | All That Glitters | 45.00% | ~75 |
 | Enhance! | 43.00% | ~71 |
 | One Of the Chosen | 39.00% | ~65 |
@@ -40,12 +40,12 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 18.00% | ~30 |
 | Seeing Red | 18.00% | ~30 |
 | Egomaniac | 17.00% | ~28 |
-| Protector of Humanity | 14.00% | ~23 |
-| Everybody Wants to Rule the World | 14.00% | ~23 |
+| Protector of Humanity | 15.00% | ~25 |
+| Everybody Wants to Rule the World | 15.00% | ~25 |
 | Community Outreach | 13.00% | ~22 |
+| Path of the Horseman | 12.00% | ~20 |
 | Unbreakable Will | 11.00% | ~18 |
 | A Parting Gift | 11.00% | ~18 |
-| Path of the Horseman | 11.00% | ~18 |
 | Take it to the Limit | 11.00% | ~18 |
 | Holy Keeper | 10.00% | ~17 |
 | Demon Keeper | 9.00% | ~15 |

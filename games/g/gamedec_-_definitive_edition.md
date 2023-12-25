@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,628 (Ranked 64)  
+Progressed: 255,629 (Ranked 64)  
 Completed: 8 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 8 (0.00%) (Ranked 388)
 | 2023-12-22 | 255,356 | 7 |
 | 2023-12-23 | 255,488 | 7 |
 | 2023-12-24 | 255,587 | 8 |
-| 2023-12-25 | 255,628 | 8 |
+| 2023-12-25 | 255,629 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 385)  
 Sum: 93 (Ranked 463)  

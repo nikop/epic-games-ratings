@@ -5,15 +5,15 @@ Rating: 4.55 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,160 |
+| Fresh Prince of Trudograd | 87.00% | ~1,161 |
 | Household | 7.00% | ~93 |
 | An Old Friend | 6.00% | ~80 |
 | Lot 49 | 5.00% | ~67 |
 | Viva La Revolution | 5.00% | ~67 |
-| Walking Fortress | 5.00% | ~67 |
 | Atomic Soda | 4.00% | ~53 |
 | Mysterious Knife | 4.00% | ~53 |
 | Shadow over Trudograd | 4.00% | ~53 |
+| Walking Fortress | 4.00% | ~53 |
 | Freelance Police | 3.00% | ~40 |
 | The Great and Powerful | 3.00% | ~40 |
 | Albino Bloodsucker | 2.00% | ~27 |
@@ -22,7 +22,7 @@ Rating: 4.55 (Ranked 512)
 | Death of the Author | 1.00% | ~13 |
 | Memoirs of a Nibbler | 0.90% | ~12 |
 | Rising Star | 0.90% | ~12 |
-| KGB Bunker | 0.80% | ~11 |
+| KGB Bunker | 0.70% | ~9 |
 | Sixth Sense | 0.70% | ~9 |
 | Baby Eater | 0.60% | ~8 |
 | Admiral | 0.40% | ~5 |
@@ -34,11 +34,11 @@ Rating: 4.55 (Ranked 512)
 | Second Thought | 0.30% | ~4 |
 | Sick Freak | 0.30% | ~4 |
 | Goodbye ATOM | 0.20% | ~3 |
-| Escalation of Conflict | 0.20% | ~3 |
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
+| Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,333 (Ranked 260)  
+Progressed: 1,334 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 1,320 | 0 |
 | 2023-12-23 | 1,329 | 0 |
 | 2023-12-24 | 1,333 | 0 |
+| 2023-12-25 | 1,334 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 536)  
 Sum: 26 (Ranked 545)  

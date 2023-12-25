@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70089,
+  "EOS_Progressed": 70102,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 2111,
+  "EOS_NewPlayers": 2116,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4847,6 +4847,11 @@
       "Time": "2023-12-25T09:06:06.2356814+00:00",
       "NumProgressed": 70089,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-12-25T10:06:01.6980968+00:00",
+      "NumProgressed": 70102,
+      "NumCompleted": 96
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4859,7 +4864,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 25933
+      "UsersEstimate": 25938
     },
     {
       "ID": "Achievement_10",
@@ -4939,7 +4944,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "Achievement_2",
@@ -4947,7 +4952,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18924
+      "UsersEstimate": 18928
     },
     {
       "ID": "Achievement_20",
@@ -4995,7 +5000,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "Achievement_26",
@@ -5035,7 +5040,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8411
+      "UsersEstimate": 8412
     },
     {
       "ID": "Achievement_30",
@@ -5075,7 +5080,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "Achievement_4",
@@ -5083,7 +5088,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "Achievement_5",
@@ -5091,7 +5096,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "Achievement_6",
@@ -5130,7 +5135,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70089,
+      "Progressed": 70102,
       "Completed": 96
     }
   ],
@@ -5138,8 +5143,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:06:06.2356811+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:06:01.6980963+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:03:07.7815604+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:06:06.2357226+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:02:58.2035356+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:06:01.6981491+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8481,9 +8481,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 743670,
+  "EOS_Progressed": 743728,
   "EOS_Completed": 12965,
-  "EOS_NewPlayers": 10014,
+  "EOS_NewPlayers": 9960,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -30836,6 +30836,11 @@
       "Time": "2023-12-25T09:08:58.2189049+00:00",
       "NumProgressed": 743670,
       "NumCompleted": 12965
+    },
+    {
+      "Time": "2023-12-25T10:08:53.0653885+00:00",
+      "NumProgressed": 743728,
+      "NumCompleted": 12965
     }
   ],
   "TotalAchievements": 60,
@@ -30847,7 +30852,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29747
+      "UsersEstimate": 29749
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30855,7 +30860,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22310
+      "UsersEstimate": 22312
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30863,7 +30868,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30895,7 +30900,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "08_Wude_H2",
@@ -30935,7 +30940,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "13_LowAge",
@@ -30959,7 +30964,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "16_Detective_H2",
@@ -30999,7 +31004,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31015,7 +31020,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31023,7 +31028,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22310
+      "UsersEstimate": 22312
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31031,7 +31036,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "25_ShrineMind",
@@ -31055,7 +31060,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31095,7 +31100,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "33_BladeOneShot",
@@ -31111,7 +31116,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22310
+      "UsersEstimate": 22312
     },
     {
       "ID": "35_WideStrike",
@@ -31119,7 +31124,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -31135,7 +31140,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14875
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31326,21 +31331,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 52971,
+      "Progressed": 53029,
       "Completed": 10782
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 743670,
+      "Progressed": 743728,
       "Completed": 12965
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-25T04:02:49.1864351+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:08:58.2189045+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:08:53.0653882+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:03:04.9856513+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:08:58.2190204+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:02:54.9517259+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:08:53.0655603+00:00"
 }

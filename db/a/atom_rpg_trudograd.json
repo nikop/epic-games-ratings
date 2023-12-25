@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -246,9 +246,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1891,6 +1891,11 @@
       "Time": "2023-12-24T18:10:21.8432646+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T10:09:23.9469828+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1964,9 +1969,9 @@
       "ID": "ESCALATION_OF_CONFLICT",
       "SetID": "62d2oh4",
       "Name": "Escalation of Conflict",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "FIGHT_CLUB",
@@ -2020,9 +2025,9 @@
       "ID": "KGB_BUNKER",
       "SetID": "62d2oh4",
       "Name": "KGB Bunker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "LOT_49",
@@ -2140,9 +2145,9 @@
       "ID": "WALKING_FORTRESS",
       "SetID": "62d2oh4",
       "Name": "Walking Fortress",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 53
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2150,14 +2155,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 0
     }
   ],
@@ -2165,8 +2170,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-11-22T02:59:27.1616324+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:09:28.4266359+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:09:23.9469823+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.8915743+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:57:31.4202155+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:09:28.426659+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:57:33.5114335+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:09:23.9470101+00:00"
 }

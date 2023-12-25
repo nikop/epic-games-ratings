@@ -161,7 +161,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
@@ -4401,6 +4401,11 @@
       "Time": "2023-12-25T09:06:29.4273185+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-25T10:06:24.352903+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4421,7 +4426,7 @@
       "Name": "A New Journey",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "_03_FinishAct1",
@@ -4469,7 +4474,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "_09_Completion_20",
@@ -4485,7 +4490,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "_11_Completion_40",
@@ -4517,7 +4522,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "_15_Completion_80",
@@ -4541,7 +4546,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4565,7 +4570,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4620,7 +4625,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 34
     }
   ],
@@ -4628,8 +4633,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-25T09:06:29.4273182+00:00",
+  "LastChanged_Achievements": "2023-12-25T10:06:24.3529025+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-25T09:00:38.196787+00:00",
-  "LastUpdate_Achievements": "2023-12-25T09:06:29.4273506+00:00"
+  "LastUpdate_Ratings": "2023-12-25T10:00:40.3637925+00:00",
+  "LastUpdate_Achievements": "2023-12-25T10:06:24.3529334+00:00"
 }
