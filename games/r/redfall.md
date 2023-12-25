@@ -13,7 +13,7 @@ Rating: 3.58 (Ranked 1,067)
 | Blood Will Have Blood | 7.00% | ~144 |
 | Ne Plus Ultra | 7.00% | ~144 |
 | Fly Fisher | 7.00% | ~144 |
-| Peek-a-boo | 6.00% | ~123 |
+| Peek-a-boo | 7.00% | ~144 |
 | Throw The First Stone | 6.00% | ~123 |
 | Sucks To Be You | 6.00% | ~123 |
 | Enter of Your Own Free Will | 5.00% | ~103 |
@@ -200,8 +200,8 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,051 | 0 |
 ## Awards
-Max (Great Boss Battles): 20  (Ranked 568)  
-Sum: 20 (Ranked 569)  
+Max (Great Boss Battles): 20  (Ranked 569)  
+Sum: 20 (Ranked 570)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

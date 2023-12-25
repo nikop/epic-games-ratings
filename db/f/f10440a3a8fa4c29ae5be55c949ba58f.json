@@ -2,7 +2,7 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 80,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2263,
+  "EOS_Progressed": 2279,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2258,
+  "EOS_NewPlayers": 2274,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -474,6 +474,11 @@
       "Time": "2023-12-25T05:09:26.2557475+00:00",
       "NumProgressed": 2263,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T06:10:08.1429043+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -486,7 +491,7 @@
       "Name": "Final Destination",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1185
     },
     {
       "ID": "Document1",
@@ -494,7 +499,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 228
     },
     {
       "ID": "Document2",
@@ -518,7 +523,7 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Document5",
@@ -542,21 +547,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 2263,
+      "Progressed": 2279,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:09:26.2557471+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:10:08.142904+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:59:37.4127995+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:09:26.2557578+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:00:36.0845155+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:10:08.1429123+00:00"
 }

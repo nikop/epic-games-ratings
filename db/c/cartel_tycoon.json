@@ -5,7 +5,7 @@
   "Ranking_Rating": 795,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 142,
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-12-24T23:06:05.8721875+00:00",
       "NumProgressed": 849,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T06:08:26.4141916+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2967,7 +2972,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "cool-shirts",
@@ -2991,7 +2996,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "female-conqueror",
@@ -3015,7 +3020,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "kill-lieutenants",
@@ -3047,7 +3052,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "rage-quit",
@@ -3063,7 +3068,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "rob-village",
@@ -3071,7 +3076,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "sell-variety",
@@ -3079,7 +3084,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "send-smuggling",
@@ -3087,7 +3092,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "unlock-residences",
@@ -3095,7 +3100,7 @@
       "Name": "Pampered Life",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "upgrade-building",
@@ -3103,7 +3108,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "use-submarine",
@@ -3118,15 +3123,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:06:57.0890118+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:08:26.4141913+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:59:12.126846+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:06:57.0890377+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:00:04.3730341+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:08:26.4142159+00:00"
 }

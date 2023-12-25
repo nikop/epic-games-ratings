@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -979,6 +979,11 @@
       "Time": "2023-12-25T04:04:37.3580749+00:00",
       "NumProgressed": 239,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T06:06:14.6502393+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1061,9 +1066,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "AC_BOSS_01",
@@ -1101,9 +1106,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_COMBO_2",
@@ -1157,9 +1162,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1173,17 +1178,17 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1191,7 +1196,7 @@
       "Name": "Journey",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1326,14 +1331,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:05:16.4147783+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:06:14.6502389+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:59:14.9321889+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:05:16.4148101+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:00:06.714462+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:06:14.6502713+00:00"
 }

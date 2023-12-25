@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2023-12-24T05:07:32.498754+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T06:08:29.4366054+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -616,7 +621,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -626,7 +631,7 @@
       "Name": "Braving Miasma",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "InnkeeperQuestlineThird",
@@ -666,7 +671,7 @@
       "Name": "Riddlesolver",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -738,7 +743,7 @@
       "Name": "Uncut Gem",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -898,7 +903,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "thanks_but_why?",
@@ -921,7 +926,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
@@ -929,8 +934,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:06:59.3338961+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:08:29.436605+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.0228118+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:57:32.2564144+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:06:59.3339238+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:57:52.6655352+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:08:29.4366366+00:00"
 }

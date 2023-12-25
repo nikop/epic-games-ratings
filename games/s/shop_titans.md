@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,273 |
-| Titan's First Steps | 9.00% | ~13,273 |
-| Basic in Bulk | 8.00% | ~11,798 |
-| Tinkle of Coins | 8.00% | ~11,798 |
+| Sponsored by Argon | 9.00% | ~13,274 |
+| Titan's First Steps | 9.00% | ~13,274 |
+| Basic in Bulk | 8.00% | ~11,799 |
+| Tinkle of Coins | 8.00% | ~11,799 |
 | Disintermediation | 6.00% | ~8,849 |
 | It's Free Real Estate | 6.00% | ~8,849 |
 | Capitalism Ho! | 6.00% | ~8,849 |
@@ -26,23 +26,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,899 |
 | Dungeon Imports | 4.00% | ~5,899 |
 | Through Repetition, Perfection | 4.00% | ~5,899 |
-| On the Path to Greatness | 3.00% | ~4,424 |
-| Ascended | 3.00% | ~4,424 |
-| Research & Development | 3.00% | ~4,424 |
-| Vanity, Verily | 3.00% | ~4,424 |
-| Fated Encounters | 3.00% | ~4,424 |
-| Blank Page Syndrome | 3.00% | ~4,424 |
-| Demand for Supplies | 3.00% | ~4,424 |
-| Power of Love | 3.00% | ~4,424 |
-| Efficient Floor Space | 3.00% | ~4,424 |
-| Flawless Fusion | 3.00% | ~4,424 |
-| Gem Expert | 3.00% | ~4,424 |
-| Gild-Gotten Goods | 3.00% | ~4,424 |
-| Helping Hand | 3.00% | ~4,424 |
-| Accomplished Merchant | 3.00% | ~4,424 |
-| Natural 20 | 3.00% | ~4,424 |
-| Did we pack lunch? | 3.00% | ~4,424 |
-| Arcane Industries | 3.00% | ~4,424 |
+| On the Path to Greatness | 3.00% | ~4,425 |
+| Ascended | 3.00% | ~4,425 |
+| Research & Development | 3.00% | ~4,425 |
+| Vanity, Verily | 3.00% | ~4,425 |
+| Fated Encounters | 3.00% | ~4,425 |
+| Blank Page Syndrome | 3.00% | ~4,425 |
+| Demand for Supplies | 3.00% | ~4,425 |
+| Power of Love | 3.00% | ~4,425 |
+| Efficient Floor Space | 3.00% | ~4,425 |
+| Flawless Fusion | 3.00% | ~4,425 |
+| Gem Expert | 3.00% | ~4,425 |
+| Gild-Gotten Goods | 3.00% | ~4,425 |
+| Helping Hand | 3.00% | ~4,425 |
+| Accomplished Merchant | 3.00% | ~4,425 |
+| Natural 20 | 3.00% | ~4,425 |
+| Did we pack lunch? | 3.00% | ~4,425 |
+| Arcane Industries | 3.00% | ~4,425 |
 | A Notch Above the Rest | 2.00% | ~2,950 |
 | Cream of the Crop | 2.00% | ~2,950 |
 | Top of the World | 2.00% | ~2,950 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~590 |
 | Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,477 (Ranked 83)  
+Progressed: 147,486 (Ranked 83)  
 Completed: 333 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 333 (0.23%) (Ranked 267)
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
 | 2023-12-24 | 147,460 | 333 |
-| 2023-12-25 | 147,477 | 333 |
+| 2023-12-25 | 147,486 | 333 |
 ## Awards
 Max (Great for Beginners): 4,914  (Ranked 75)  
 Sum: 27,801 (Ranked 51)  

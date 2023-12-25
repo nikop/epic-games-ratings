@@ -7,7 +7,7 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 29.00% | ~26 |
-| Best Buddy | 26.00% | ~23 |
+| Best Buddy | 25.00% | ~23 |
 | Role Model | 21.00% | ~19 |
 | Civilian | 20.00% | ~18 |
 | Military Leader | 13.00% | ~12 |
@@ -20,9 +20,9 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 7.00% | ~6 |
 | Irissa's Fate | 7.00% | ~6 |
 | Pass A38 | 7.00% | ~6 |
-| Hotshot | 6.00% | ~5 |
-| Alb | 6.00% | ~5 |
-| Eternal Oblivion | 6.00% | ~5 |
+| Hotshot | 5.00% | ~5 |
+| Alb | 5.00% | ~5 |
+| Eternal Oblivion | 5.00% | ~5 |
 | Storyteller | 4.00% | ~4 |
 | Globetrotter | 4.00% | ~4 |
 | Self-Sufficient | 4.00% | ~4 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 489)  
+Progressed: 91 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 67 | 0 |
 | 2023-12-23 | 75 | 0 |
 | 2023-12-24 | 88 | 0 |
-| 2023-12-25 | 90 | 0 |
+| 2023-12-25 | 91 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

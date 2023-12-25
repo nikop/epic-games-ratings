@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 70.00% | ~23 |
-| Sea Legs | 61.00% | ~20 |
-| What?! | 39.00% | ~13 |
+| Shipwrecked! | 68.00% | ~23 |
+| Sea Legs | 59.00% | ~20 |
+| What?! | 38.00% | ~13 |
 | Frogs Legs | 24.00% | ~8 |
 | Mad Scientist | 21.00% | ~7 |
 | Socialite | 18.00% | ~6 |
@@ -40,8 +40,8 @@
 | Falling with Style | 3.00% | ~1 |
 | Froggy Friendship | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 569)  
-Completed: 1 (3.03%) (Ranked 112)  
+Progressed: 34 (Ranked 567)  
+Completed: 1 (2.94%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,6 +72,7 @@ Completed: 1 (3.03%) (Ranked 112)
 | 2023-12-22 | 30 | 1 |
 | 2023-12-23 | 32 | 1 |
 | 2023-12-24 | 33 | 1 |
+| 2023-12-25 | 34 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

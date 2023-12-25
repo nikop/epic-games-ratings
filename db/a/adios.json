@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81546,
+  "EOS_Progressed": 81549,
   "EOS_Completed": 896,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -27855,6 +27855,11 @@
       "Time": "2023-12-25T05:04:42.1508809+00:00",
       "NumProgressed": 81546,
       "NumCompleted": 896
+    },
+    {
+      "Time": "2023-12-25T06:05:28.7023678+00:00",
+      "NumProgressed": 81549,
+      "NumCompleted": 896
     }
   ],
   "TotalAchievements": 25,
@@ -27898,7 +27903,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17940
+      "UsersEstimate": 17941
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -27906,7 +27911,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14678
+      "UsersEstimate": 14679
     },
     {
       "ID": "Butcher",
@@ -27938,7 +27943,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16309
+      "UsersEstimate": 16310
     },
     {
       "ID": "Hearty",
@@ -27994,7 +27999,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13047
+      "UsersEstimate": 13048
     },
     {
       "ID": "Nothing Left to Say",
@@ -28018,7 +28023,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11416
+      "UsersEstimate": 11417
     },
     {
       "ID": "Sniper",
@@ -28065,7 +28070,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81546,
+      "Progressed": 81549,
       "Completed": 896
     }
   ],
@@ -28073,8 +28078,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:04:42.1508807+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:05:28.7023672+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:59:22.4277834+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:04:42.1509939+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:00:15.4973497+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:05:28.7024931+00:00"
 }

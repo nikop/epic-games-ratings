@@ -15,7 +15,7 @@
 | C'who? | 12.00% | ~14 |
 | It's about the journey | 12.00% | ~14 |
 | There be sand in me shorts | 12.00% | ~14 |
-| Peaceful skies | 9.00% | ~11 |
+| Peaceful skies | 10.00% | ~12 |
 | Make it rain | 8.00% | ~10 |
 | Holy Crops! | 8.00% | ~10 |
 | It gets everywhere | 8.00% | ~10 |

@@ -4697,7 +4697,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12729,
+  "EOS_Progressed": 12730,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -17942,6 +17942,11 @@
       "Time": "2023-12-25T05:10:20.033274+00:00",
       "NumProgressed": 12729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T06:11:16.1452738+00:00",
+      "NumProgressed": 12730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18089,7 +18094,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "19_EqualToAroden",
@@ -18153,7 +18158,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "28_GreatUpstart",
@@ -18880,21 +18885,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11511,
+      "Progressed": 11512,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12729,
+      "Progressed": 12730,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-25T00:00:26.0268289+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:10:20.0332736+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:11:16.1452736+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:00:23.772503+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:10:20.0334308+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:01:39.2536585+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:11:16.1454302+00:00"
 }

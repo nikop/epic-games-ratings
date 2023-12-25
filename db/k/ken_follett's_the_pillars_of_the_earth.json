@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17364,
+  "EOS_Progressed": 17365,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -16950,6 +16950,11 @@
       "Time": "2023-12-25T05:07:02.2628577+00:00",
       "NumProgressed": 17364,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-25T06:08:33.291744+00:00",
+      "NumProgressed": 17365,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 41,
@@ -17001,7 +17006,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5556
+      "UsersEstimate": 5557
     },
     {
       "ID": "tpote_achievement_15",
@@ -17177,7 +17182,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "tpote_achievement_35",
@@ -17249,7 +17254,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "tpote_achievement_6",
@@ -17265,7 +17270,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "tpote_achievement_8",
@@ -17273,7 +17278,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "tpote_achievement_9",
@@ -17288,15 +17293,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17364,
+      "Progressed": 17365,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:07:02.2628574+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:08:33.2917437+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:58:01.2541168+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:07:02.2629346+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:58:30.0262217+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:08:33.2918478+00:00"
 }

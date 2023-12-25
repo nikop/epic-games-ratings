@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8481,10 +8481,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 743455,
+  "EOS_Progressed": 743512,
   "EOS_Completed": 12965,
-  "EOS_NewPlayers": 10122,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 10095,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
     {
@@ -30816,6 +30816,11 @@
       "Time": "2023-12-25T05:09:07.1259496+00:00",
       "NumProgressed": 743455,
       "NumCompleted": 12965
+    },
+    {
+      "Time": "2023-12-25T06:09:42.9253257+00:00",
+      "NumProgressed": 743512,
+      "NumCompleted": 12965
     }
   ],
   "TotalAchievements": 60,
@@ -30827,7 +30832,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29738
+      "UsersEstimate": 29740
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30835,7 +30840,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22304
+      "UsersEstimate": 22305
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30843,7 +30848,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "04_Vengeance_H3",
@@ -30875,7 +30880,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "08_Wude_H2",
@@ -30979,7 +30984,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -30987,7 +30992,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5205
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -30995,7 +31000,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31003,7 +31008,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22304
+      "UsersEstimate": 22305
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31011,7 +31016,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "25_ShrineMind",
@@ -31035,7 +31040,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31043,7 +31048,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -31075,7 +31080,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "33_BladeOneShot",
@@ -31091,7 +31096,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22304
+      "UsersEstimate": 22305
     },
     {
       "ID": "35_WideStrike",
@@ -31115,7 +31120,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14869
+      "UsersEstimate": 14870
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31123,7 +31128,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -31147,7 +31152,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -31291,7 +31296,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -31306,21 +31311,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 52756,
+      "Progressed": 52813,
       "Completed": 10782
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 743455,
+      "Progressed": 743512,
       "Completed": 12965
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-25T04:02:49.1864351+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:09:07.1259494+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:09:42.9253254+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:03:17.3663861+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:09:07.1260751+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:03:36.6413073+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:09:42.9254925+00:00"
 }

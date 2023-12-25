@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109426,
+  "EOS_Progressed": 109427,
   "EOS_Completed": 5223,
-  "EOS_NewPlayers": 1530,
+  "EOS_NewPlayers": 1529,
   "EOS_NewCompleters": 126,
   "EOS_Completed_Percentage": 4.77,
   "EosHistory": [
@@ -11940,6 +11940,11 @@
       "Time": "2023-12-25T05:05:22.3002729+00:00",
       "NumProgressed": 109426,
       "NumCompleted": 5223
+    },
+    {
+      "Time": "2023-12-25T06:06:21.733169+00:00",
+      "NumProgressed": 109427,
+      "NumCompleted": 5223
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -11952,7 +11957,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 68938
+      "UsersEstimate": 68939
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -12000,7 +12005,7 @@
       "Name": "The Art of Parley",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 83164
+      "UsersEstimate": 83165
     },
     {
       "ID": "TheGoldenRatio",
@@ -12024,7 +12029,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 85352
+      "UsersEstimate": 85353
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -12047,7 +12052,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 109426,
+      "Progressed": 109427,
       "Completed": 5223
     }
   ],
@@ -12055,8 +12060,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-12-06T21:57:26.986764+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:05:22.3002726+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:06:21.7331684+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.1061387+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:59:34.9721598+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:05:22.3003353+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:00:32.740036+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:06:21.7332366+00:00"
 }

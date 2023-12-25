@@ -8929,9 +8929,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 367433,
+  "EOS_Progressed": 367434,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1631,
+  "EOS_NewPlayers": 1630,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37084,6 +37084,11 @@
       "Time": "2023-12-25T05:10:21.4182243+00:00",
       "NumProgressed": 367433,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-25T06:11:17.6244725+00:00",
+      "NumProgressed": 367434,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 100,
@@ -37191,7 +37196,7 @@
       "Name": "Team Performance",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 113904
+      "UsersEstimate": 113905
     },
     {
       "ID": "achievement_beat_a_rival",
@@ -37199,7 +37204,7 @@
       "Name": "\u0022I Would Love It If We Beat Them\u0022",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 157996
+      "UsersEstimate": 157997
     },
     {
       "ID": "achievement_beating_expectations",
@@ -37383,7 +37388,7 @@
       "Name": "Goal Rush",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 102881
+      "UsersEstimate": 102882
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -37399,7 +37404,7 @@
       "Name": "Hat-trick",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 169019
+      "UsersEstimate": 169020
     },
     {
       "ID": "achievement_head_to_head",
@@ -37503,7 +37508,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 227808
+      "UsersEstimate": 227809
     },
     {
       "ID": "achievement_people_pleaser",
@@ -37583,7 +37588,7 @@
       "Name": "Scoring Streak",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 146973
+      "UsersEstimate": 146974
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -37599,7 +37604,7 @@
       "Name": "Off the Books",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 191065
+      "UsersEstimate": 191066
     },
     {
       "ID": "achievement_shots_for_days",
@@ -37639,7 +37644,7 @@
       "Name": "Super-Sub",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 191065
+      "UsersEstimate": 191066
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -37663,7 +37668,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 249854
+      "UsersEstimate": 249855
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -37735,7 +37740,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 146973
+      "UsersEstimate": 146974
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -37783,7 +37788,7 @@
       "Name": "First Victory",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 202088
+      "UsersEstimate": 202089
     },
     {
       "ID": "achievement_won_international_championship",
@@ -37894,7 +37899,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 367433,
+      "Progressed": 367434,
       "Completed": 29
     }
   ],
@@ -37902,8 +37907,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-12-24T23:02:36.4200717+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:10:21.4182241+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:11:17.6244723+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.4503669+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:03:03.0929208+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:10:21.4184474+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:03:15.624179+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:11:17.6246569+00:00"
 }

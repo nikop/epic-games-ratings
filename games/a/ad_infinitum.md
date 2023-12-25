@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of Despair | 82.00% | ~105 |
-| Morgengrauen | 81.00% | ~104 |
+| Path of Despair | 83.00% | ~106 |
+| Morgengrauen | 82.00% | ~105 |
 | Not alone | 58.00% | ~74 |
 | Hunger | 49.00% | ~63 |
 | Awaken | 39.00% | ~50 |

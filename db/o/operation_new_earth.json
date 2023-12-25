@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2082,
+  "EOS_Progressed": 2083,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7974,6 +7974,11 @@
       "Time": "2023-12-25T04:05:38.6548426+00:00",
       "NumProgressed": 2082,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T06:07:42.2442765+00:00",
+      "NumProgressed": 2083,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8089,7 +8094,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8241,7 +8246,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8288,7 +8293,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2082,
+      "Progressed": 2083,
       "Completed": 1
     }
   ],
@@ -8296,8 +8301,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:06:23.6025745+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:07:42.2442763+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:58:05.1605391+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:06:23.6026499+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:58:35.6581429+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:07:42.2443383+00:00"
 }

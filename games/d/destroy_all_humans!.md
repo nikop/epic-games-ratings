@@ -19,31 +19,31 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~59 |
 | Earthly Pleasures | 40.00% | ~58 |
 | Freshly Squeezed | 34.00% | ~49 |
+| Forbidden Donut | 32.00% | ~46 |
 | Upgreatest | 32.00% | ~46 |
-| Forbidden Donut | 31.00% | ~45 |
 | Bodied Sattva | 28.00% | ~41 |
 | Rock of the Bay | 25.00% | ~36 |
 | Trans-Siberian Express | 25.00% | ~36 |
 | Deincarnated | 24.00% | ~35 |
 | Furon Fashion | 23.00% | ~33 |
-| Re-Return of the Clone of the Invasion II-2 | 22.00% | ~32 |
+| Re-Return of the Clone of the Invasion II-2 | 23.00% | ~33 |
 | Arkvoodle Doodle | 16.00% | ~23 |
+| Die Nasty | 14.00% | ~20 |
 | Ouch of Body Experience | 13.00% | ~19 |
 | If You Know What I Mean | 13.00% | ~19 |
-| Die Nasty | 13.00% | ~19 |
+| Mash Machine | 13.00% | ~19 |
 | Hidden Human Hive Harvest | 12.00% | ~17 |
-| Mash Machine | 12.00% | ~17 |
 | Dusted | 12.00% | ~17 |
 | Albion Bridge Is for Falling Down | 11.00% | ~16 |
 | Scuttled | 8.00% | ~12 |
+| PK Slam Dunk | 8.00% | ~12 |
 | Higher Than the Futen Zoku | 8.00% | ~12 |
-| PK Slam Dunk | 7.00% | ~10 |
 | Arty Facts | 6.00% | ~9 |
 | Cult Following | 4.00% | ~6 |
 | To Russia With Love | 3.00% | ~4 |
 | Path of the Furon | 3.00% | ~4 |
+| Toilet Break | 2.00% | ~3 |
 | Transmitting From Sol-3 | 1.00% | ~1 |
-| Toilet Break | 1.00% | ~1 |
 | Steezy Down the Spine | 0.70% | ~1 |
 | Against All Odds | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)

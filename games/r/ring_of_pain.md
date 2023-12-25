@@ -16,16 +16,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.80% | ~1,933 |
 | An Offering | 0.80% | ~1,933 |
 | Not Touching You | 0.80% | ~25 |
-| Nothing To Lose | 0.70% | ~1,691 |
-| Heavy Hitter | 0.70% | ~1,691 |
-| Delving Deeper | 0.70% | ~1,691 |
-| That Was Quick | 0.70% | ~1,691 |
-| Goodbye, Frog Friend | 0.70% | ~1,691 |
-| Heartless | 0.70% | ~1,691 |
-| Spine Breaker | 0.70% | ~1,691 |
-| A Donation | 0.70% | ~1,691 |
-| C-C-Combo | 0.70% | ~1,691 |
-| Deflection | 0.70% | ~1,691 |
+| Nothing To Lose | 0.70% | ~1,692 |
+| Heavy Hitter | 0.70% | ~1,692 |
+| Delving Deeper | 0.70% | ~1,692 |
+| That Was Quick | 0.70% | ~1,692 |
+| Goodbye, Frog Friend | 0.70% | ~1,692 |
+| Heartless | 0.70% | ~1,692 |
+| Spine Breaker | 0.70% | ~1,692 |
+| A Donation | 0.70% | ~1,692 |
+| C-C-Combo | 0.70% | ~1,692 |
+| Deflection | 0.70% | ~1,692 |
 | Ambitious Intent | 0.60% | ~1,450 |
 | R.I.P | 0.60% | ~1,450 |
 | Dig Your Own Grave | 0.60% | ~1,450 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,641 (Ranked 68)  
+Progressed: 241,644 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 301 (0.12%) (Ranked 299)
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
-| 2023-12-25 | 241,641 | 301 |
+| 2023-12-25 | 241,644 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,759 (Ranked 88)  

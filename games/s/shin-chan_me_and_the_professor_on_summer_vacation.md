@@ -22,14 +22,14 @@
 | Stego Stooge | 10.00% | ~4 |
 | DJ Superstar | 10.00% | ~4 |
 | A New Time | 8.00% | ~3 |
+| Dragonfly Whiz | 8.00% | ~3 |
 | The Holly Grail | 8.00% | ~3 |
+| Love Is in the Air! | 8.00% | ~3 |
 | That Was a Snap! | 8.00% | ~3 |
 | Top-Notch Journalist | 8.00% | ~3 |
 | Asso Bridge Enthusiast | 8.00% | ~3 |
 | Beetle Savant | 5.00% | ~2 |
 | Cicada Connoisseur | 5.00% | ~2 |
-| Dragonfly Whiz | 5.00% | ~2 |
-| Love Is in the Air! | 5.00% | ~2 |
 | Biwa Be Mine | 5.00% | ~2 |
 | Ice Fishing | 5.00% | ~2 |
 | T-Rex Wrangler | 5.00% | ~2 |

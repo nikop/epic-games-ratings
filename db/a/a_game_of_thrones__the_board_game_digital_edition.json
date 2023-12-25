@@ -1356,9 +1356,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31325,
+  "EOS_Progressed": 31326,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28026,6 +28026,11 @@
       "Time": "2023-12-25T05:09:55.5864707+00:00",
       "NumProgressed": 31325,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-25T06:10:45.3680207+00:00",
+      "NumProgressed": 31326,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28117,7 +28122,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "1026",
@@ -28141,7 +28146,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "1029",
@@ -28212,15 +28217,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31325,
+      "Progressed": 31326,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-23T01:41:22.2670195+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:09:55.5864703+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:10:45.3680204+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:02:57.4333585+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:09:55.5866417+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:02:37.4173607+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:10:45.3681304+00:00"
 }

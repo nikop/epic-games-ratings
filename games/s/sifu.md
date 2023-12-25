@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,738 |
-| The Assault | 3.00% | ~22,304 |
-| Life is your teacher | 3.00% | ~22,304 |
-| Lightning Hands | 3.00% | ~22,304 |
-| The Hateful Pole Fighter | 2.00% | ~14,869 |
-| Stuntmaster | 2.00% | ~14,869 |
-| Street Fighting | 2.00% | ~14,869 |
-| State of constant learning | 2.00% | ~14,869 |
-| Qi Gong: Essence | 2.00% | ~14,869 |
-| Old Child | 2.00% | ~14,869 |
-| Rumble in the Hangar | 2.00% | ~14,869 |
+| The Old Grandmaster | 4.00% | ~29,740 |
+| The Assault | 3.00% | ~22,305 |
+| Life is your teacher | 3.00% | ~22,305 |
+| Lightning Hands | 3.00% | ~22,305 |
+| The Hateful Pole Fighter | 2.00% | ~14,870 |
+| Stuntmaster | 2.00% | ~14,870 |
+| Street Fighting | 2.00% | ~14,870 |
+| State of constant learning | 2.00% | ~14,870 |
+| Qi Gong: Essence | 2.00% | ~14,870 |
+| Old Child | 2.00% | ~14,870 |
+| Rumble in the Hangar | 2.00% | ~14,870 |
 | A Lady's Blood in the Snow | 1.00% | ~7,435 |
 | Lady Wing Chun | 1.00% | ~7,435 |
 | Furious Fists | 1.00% | ~7,435 |
@@ -30,10 +30,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 1.00% | ~528 |
 | Scareless | 0.80% | ~5,948 |
 | Kung-Fu Tussle | 0.80% | ~5,948 |
-| Dance of the Praying Mantis | 0.70% | ~5,204 |
-| Fight the way you practice | 0.70% | ~369 |
+| Dance of the Praying Mantis | 0.70% | ~5,205 |
+| Fight the way you practice | 0.70% | ~370 |
 | Martial Hub | 0.60% | ~317 |
-| Muk Yan Master | 0.50% | ~3,717 |
+| Muk Yan Master | 0.50% | ~3,718 |
 | Bloody Sport | 0.50% | ~264 |
 | Tiger on Fire | 0.40% | ~2,974 |
 | Source of Flying Daggers | 0.40% | ~2,974 |
@@ -42,8 +42,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,974 |
 | Detective Story | 0.40% | ~2,974 |
 | Sword Stained With Blood | 0.40% | ~2,974 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,230 |
-| The Pit Protector | 0.30% | ~2,230 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,231 |
+| The Pit Protector | 0.30% | ~2,231 |
 | The best strikes are the ones we avoid | 0.30% | ~158 |
 | Drunken Fighter | 0.20% | ~1,487 |
 | Martial Artist | 0.20% | ~1,487 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.20% | ~106 |
 | Skill and an even stronger will | 0.20% | ~106 |
 | Beatmaker | 0.20% | ~106 |
-| Warriors from the Mountain | 0.10% | ~743 |
+| Warriors from the Mountain | 0.10% | ~744 |
 | Secure, Protect, Leave | 0.10% | ~53 |
 | Crouching Tiger | 0.10% | ~53 |
 | Hidden Dragon | 0.10% | ~53 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~53 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,455 (Ranked 23)  
+Progressed: 743,512 (Ranked 23)  
 Completed: 12,965 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 12,965 (1.74%) (Ranked 141)
 | 2023-12-22 | 740,313 | 12,959 |
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
-| 2023-12-25 | 743,455 | 12,965 |
+| 2023-12-25 | 743,512 | 12,965 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
 Sum: 12,295 (Ranked 84)  

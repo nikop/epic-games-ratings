@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 40.00% | ~29,986 |
-| As Far Away As Possible | 19.00% | ~14,244 |
-| A Most Unstable Organism | 13.00% | ~9,746 |
-| No Time to Follow Protocol | 10.00% | ~7,497 |
-| More Power to You | 10.00% | ~7,497 |
-| Float Like a Butterfly... | 8.00% | ~5,997 |
-| Nano Connoisseur | 7.00% | ~5,248 |
-| In Two Places At Once | 6.00% | ~4,498 |
+| Your Lucky Day | 40.00% | ~29,993 |
+| As Far Away As Possible | 19.00% | ~14,247 |
+| A Most Unstable Organism | 13.00% | ~9,748 |
+| No Time to Follow Protocol | 10.00% | ~7,498 |
+| More Power to You | 10.00% | ~7,498 |
+| Float Like a Butterfly... | 8.00% | ~5,999 |
+| Nano Connoisseur | 7.00% | ~5,249 |
+| In Two Places At Once | 6.00% | ~4,499 |
 | Pulling Your Weight | 3.00% | ~2,249 |
 | Reaping Rivals | 3.00% | ~2,249 |
 | fifteenth Time's the Charm | 1.00% | ~750 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 973)
 | Runs for Your Money | 0.30% | ~225 |
 | Past Master | 0.30% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,966 (Ranked 106)  
+Progressed: 74,982 (Ranked 106)  
 Completed: 60 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,15 +142,15 @@ Completed: 60 (0.08%) (Ranked 320)
 | 2023-12-22 | 72,919 | 59 |
 | 2023-12-23 | 73,848 | 60 |
 | 2023-12-24 | 74,816 | 60 |
-| 2023-12-25 | 74,966 | 60 |
+| 2023-12-25 | 74,982 | 60 |
 ## Awards
 Max (Great for Beginners): 118  (Ranked 348)  
-Sum: 464 (Ranked 338)  
-Diff (max vs sum): 10  
+Sum: 466 (Ranked 337)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 118 |
-| This game has Diverse Characters | 78 |
+| This game has Diverse Characters | 80 |
 | This game is Highly Recommended | 59 |
 | This game is Extremely Fun | 57 |
 | This game has Amazing Characters | 57 |
@@ -260,4 +260,4 @@ Diff (max vs sum): 10
 | 2023-12-22 | 4.15 | 116 | 490 |
 | 2023-12-23 | 4.15 | 118 | 501 |
 | 2023-12-24 | 4.15 | 118 | 462 |
-| 2023-12-25 | 4.15 | 118 | 464 |
+| 2023-12-25 | 4.15 | 118 | 466 |

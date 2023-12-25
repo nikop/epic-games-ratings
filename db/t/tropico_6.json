@@ -1473,9 +1473,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6648,
+  "EOS_Progressed": 6650,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15193,6 +15193,11 @@
       "Time": "2023-12-25T04:06:10.2435324+00:00",
       "NumProgressed": 6648,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T06:08:26.1757967+00:00",
+      "NumProgressed": 6650,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15236,7 +15241,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -15244,7 +15249,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -15260,7 +15265,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -15276,7 +15281,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -15290,9 +15295,9 @@
       "ID": "ACH_EP_ONEPERCENTERS",
       "SetID": "1p8ab95",
       "Name": "Beware The Betman",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -15300,7 +15305,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15324,7 +15329,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15340,7 +15345,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -15348,7 +15353,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -15364,7 +15369,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4920
+      "UsersEstimate": 4921
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15396,7 +15401,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_MYWAYS",
@@ -15412,7 +15417,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -15468,7 +15473,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -15476,7 +15481,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15484,7 +15489,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -15508,7 +15513,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -15523,15 +15528,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6648,
+      "Progressed": 6650,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-24T08:59:45.6313546+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:06:56.8969213+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:08:26.1757965+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:59:37.9102041+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:06:56.8970055+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:00:36.7902924+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:08:26.1758714+00:00"
 }

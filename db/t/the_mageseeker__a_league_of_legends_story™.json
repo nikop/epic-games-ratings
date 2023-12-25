@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 3028,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -5357,9 +5357,9 @@
       "ID": "STB_MISSION1_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Dark Forest",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2332
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5574,8 +5574,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:05:35.3319677+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:06:38.51234+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:57:48.5619852+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:05:35.3320137+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:58:14.26096+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:06:38.5124009+00:00"
 }

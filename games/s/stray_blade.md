@@ -11,8 +11,8 @@
 | A new World ahead | 7.00% | ~10 |
 | Craftsmen | 3.00% | ~4 |
 | Apprentice | 3.00% | ~4 |
+| Defeat Tezuth | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
-| Defeat Tezuth | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
 | The Golden Flash | 1.00% | ~1 |

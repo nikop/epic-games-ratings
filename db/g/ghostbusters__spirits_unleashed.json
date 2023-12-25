@@ -3825,9 +3825,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32665,
+  "EOS_Progressed": 32666,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23375,6 +23375,11 @@
       "Time": "2023-12-25T05:08:34.8869473+00:00",
       "NumProgressed": 32665,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-25T06:09:01.7575902+00:00",
+      "NumProgressed": 32666,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 51,
@@ -23472,9 +23477,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1960
     },
     {
       "ID": "Dont_Need_These",
@@ -23528,9 +23533,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 1307
     },
     {
       "ID": "Ghost_Expert",
@@ -23690,7 +23695,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "Summoner",
@@ -23793,7 +23798,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32665,
+      "Progressed": 32666,
       "Completed": 69
     }
   ],
@@ -23801,8 +23806,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-25T03:57:48.9606045+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:08:34.886947+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:09:01.7575899+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:58:07.59151+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:08:34.8870554+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:58:38.8984405+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:09:01.7577172+00:00"
 }

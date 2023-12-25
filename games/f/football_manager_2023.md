@@ -6,28 +6,28 @@ Rating: 4.76 (Ranked 130)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Motivational Speaker | 69.00% | ~253,529 |
-| The Player Whisperer | 68.00% | ~249,854 |
-| One of Us, One of Us! | 62.00% | ~227,808 |
-| First Victory | 55.00% | ~202,088 |
+| The Player Whisperer | 68.00% | ~249,855 |
+| One of Us, One of Us! | 62.00% | ~227,809 |
+| First Victory | 55.00% | ~202,089 |
 | Clean Sheet | 54.00% | ~198,414 |
 | #DoneDeal | 54.00% | ~198,414 |
-| Off the Books | 52.00% | ~191,065 |
-| Super-Sub | 52.00% | ~191,065 |
-| Hat-trick | 46.00% | ~169,019 |
+| Off the Books | 52.00% | ~191,066 |
+| Super-Sub | 52.00% | ~191,066 |
+| Hat-trick | 46.00% | ~169,020 |
 | Planned Signing | 44.00% | ~161,671 |
-| "I Would Love It If We Beat Them" | 43.00% | ~157,996 |
-| Scoring Streak | 40.00% | ~146,973 |
-| Wheeler Dealer | 40.00% | ~146,973 |
+| "I Would Love It If We Beat Them" | 43.00% | ~157,997 |
+| Scoring Streak | 40.00% | ~146,974 |
+| Wheeler Dealer | 40.00% | ~146,974 |
 | Thumping | 39.00% | ~143,299 |
 | People Pleaser | 39.00% | ~143,299 |
 | Unbeatable! | 38.00% | ~139,625 |
 | One Of Our Own | 36.00% | ~132,276 |
 | They're a Natural | 32.00% | ~117,579 |
 | Record Signing | 32.00% | ~117,579 |
-| Team Performance | 31.00% | ~113,904 |
+| Team Performance | 31.00% | ~113,905 |
 | The Only Stat That Matters | 30.00% | ~110,230 |
 | Star Player | 29.00% | ~106,556 |
-| Goal Rush | 28.00% | ~102,881 |
+| Goal Rush | 28.00% | ~102,882 |
 | Parked The Bus | 27.00% | ~99,207 |
 | Full Faith | 27.00% | ~99,207 |
 | Squad Goals | 27.00% | ~99,207 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 130)
 | 200 Club | 0.10% | ~367 |
 | Draft Value | 0.10% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367,433 (Ranked 48)  
+Progressed: 367,434 (Ranked 48)  
 Completed: 29 (0.01%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 29 (0.01%) (Ranked 366)
 | 2023-12-22 | 366,864 | 29 |
 | 2023-12-23 | 367,172 | 29 |
 | 2023-12-24 | 367,404 | 29 |
-| 2023-12-25 | 367,433 | 29 |
+| 2023-12-25 | 367,434 | 29 |
 ## Awards
 Max (Diverse Characters): 1,312  (Ranked 138)  
 Sum: 9,033 (Ranked 98)  

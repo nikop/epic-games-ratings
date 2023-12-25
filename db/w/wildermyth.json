@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1548,
+  "EOS_Progressed": 1549,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-12-25T03:10:45.4244892+00:00",
       "NumProgressed": 1548,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T06:11:13.4892576+00:00",
+      "NumProgressed": 1549,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2537,9 +2542,9 @@
       "ID": "enduringWar_destroyEnduring",
       "SetID": "95dc8p",
       "Name": "War-Ender",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -2674,15 +2679,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1548,
+      "Progressed": 1549,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:10:17.8042054+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:11:13.4892574+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.6061916+00:00",
-  "LastUpdate_Ratings": "2023-12-25T05:00:46.5837389+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:10:17.8042714+00:00"
+  "LastUpdate_Ratings": "2023-12-25T06:02:10.7238588+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:11:13.4892964+00:00"
 }

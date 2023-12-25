@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -786,9 +786,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -857,8 +857,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:09:08.6233053+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:09:44.7858813+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.9683486+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:58:35.7445734+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:09:08.6233229+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:59:16.7354653+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:09:44.7859028+00:00"
 }

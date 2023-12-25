@@ -3760,9 +3760,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241641,
+  "EOS_Progressed": 241644,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29430,6 +29430,11 @@
       "Time": "2023-12-25T05:10:21.7677451+00:00",
       "NumProgressed": 241641,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-25T06:11:17.845191+00:00",
+      "NumProgressed": 241644,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -29481,7 +29486,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -29521,7 +29526,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -29537,7 +29542,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "DEPTH12HARD",
@@ -29617,7 +29622,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -29929,7 +29934,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "KILLNICEDOG",
@@ -29937,7 +29942,7 @@
       "Name": "Heartless",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "KILLPARANOIA",
@@ -29969,7 +29974,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "KILLSPITTER",
@@ -30025,7 +30030,7 @@
       "Name": "A Donation",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -30041,7 +30046,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "NOEPIC",
@@ -30073,7 +30078,7 @@
       "Name": "Deflection",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -30544,13 +30549,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241641,
+      "Progressed": 241644,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3121,
+      "Progressed": 3124,
       "Completed": 412
     }
   ],
@@ -30558,8 +30563,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T03:57:35.6011004+00:00",
-  "LastChanged_Achievements": "2023-12-25T05:10:21.7677447+00:00",
+  "LastChanged_Achievements": "2023-12-25T06:11:17.8451908+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T04:57:50.9899526+00:00",
-  "LastUpdate_Achievements": "2023-12-25T05:10:21.7679838+00:00"
+  "LastUpdate_Ratings": "2023-12-25T05:58:17.7526414+00:00",
+  "LastUpdate_Achievements": "2023-12-25T06:11:17.8454474+00:00"
 }

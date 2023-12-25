@@ -14,9 +14,9 @@
 | Shatter Them All | 18.00% | ~216 |
 | Geared Up | 18.00% | ~216 |
 | Scholar | 18.00% | ~216 |
+| Stone Collection | 17.00% | ~204 |
 | Tributes of Caladrias | 16.00% | ~192 |
 | Fashion Victim | 16.00% | ~192 |
-| Stone Collection | 16.00% | ~192 |
 | Powerful Allies | 15.00% | ~180 |
 | Big Bazar | 11.00% | ~132 |
 | Essence Blow | 9.00% | ~108 |
@@ -32,9 +32,9 @@
 | Fine Feathers Make Fine Birds | 3.00% | ~36 |
 | Slayer | 2.00% | ~24 |
 | Flawless Victory | 2.00% | ~24 |
+| All There Is | 2.00% | ~24 |
 | A Queen's Tale | 2.00% | ~24 |
 | Shardbearer | 1.00% | ~12 |
-| All There Is | 1.00% | ~12 |
 | False God | 1.00% | ~12 |
 | Forgemaster | 0.80% | ~10 |
 | Summiter | 0.70% | ~8 |
