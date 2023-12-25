@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-12-25T20:08:54.8939355+00:00",
       "NumProgressed": 373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T21:08:49.2915558+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1092,17 +1097,17 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "CareerChamp2",
@@ -1110,7 +1115,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CareerChamp3",
@@ -1134,15 +1139,15 @@
       "Name": "World Masters Champion",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "CollectVehiclesA",
@@ -1158,7 +1163,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CreditsEarnedA",
@@ -1188,9 +1193,9 @@
       "ID": "MultiplayerEventsWonA",
       "SetID": "5hd282c",
       "Name": "Human Lover",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PlayerRankA",
@@ -1206,15 +1211,15 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PlayerRankC",
       "SetID": "5hd282c",
       "Name": "Showing Some Dedication",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "RocketSpeedReached",
@@ -1245,7 +1250,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
@@ -1253,8 +1258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:08:54.8939351+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:08:49.2915553+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:41.0271143+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:08:54.8939537+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:52.4167326+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:08:49.291577+00:00"
 }

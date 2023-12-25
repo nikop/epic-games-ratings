@@ -796,7 +796,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 42902,
+  "EOS_Progressed": 42904,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
@@ -26216,6 +26216,11 @@
       "Time": "2023-12-25T20:06:10.9918747+00:00",
       "NumProgressed": 42902,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T21:05:56.035254+00:00",
+      "NumProgressed": 42904,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26243,7 +26248,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7293
+      "UsersEstimate": 7294
     },
     {
       "ID": "ach_antiquarian10",
@@ -26435,7 +26440,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "ach_legacysalvager",
@@ -26579,7 +26584,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7722
+      "UsersEstimate": 7723
     },
     {
       "ID": "ach_terror100",
@@ -26595,7 +26600,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6435
+      "UsersEstimate": 6436
     },
     {
       "ID": "ach_undercurrent",
@@ -26658,15 +26663,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 42902,
+      "Progressed": 42904,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:06:10.9918744+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:05:56.0352534+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:13.069073+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:06:10.9920828+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:20.2980757+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:05:56.0353891+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1581,9 +1581,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244637,
+  "EOS_Progressed": 244645,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23656,6 +23656,11 @@
       "Time": "2023-12-25T20:10:13.7957613+00:00",
       "NumProgressed": 244637,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-25T21:10:09.7371781+00:00",
+      "NumProgressed": 244645,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -23683,7 +23688,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "BarbarianEpic",
@@ -24067,7 +24072,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22017
+      "UsersEstimate": 22018
     },
     {
       "ID": "DwarfElf15Support",
@@ -24099,7 +24104,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14678
+      "UsersEstimate": 14679
     },
     {
       "ID": "ElfEpic",
@@ -24115,7 +24120,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88069
+      "UsersEstimate": 88072
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24139,7 +24144,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9785
+      "UsersEstimate": 9786
     },
     {
       "ID": "EndGameCursed",
@@ -24179,7 +24184,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "InsultLoose",
@@ -24363,28 +24368,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9785
+      "UsersEstimate": 9786
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244637,
+      "Progressed": 244645,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244637,
+      "Progressed": 244645,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-25T02:21:17.3774764+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:10:13.7957611+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:10:09.7371777+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:28.3491532+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:10:13.7959186+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:38.7307986+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:10:09.7373258+00:00"
 }

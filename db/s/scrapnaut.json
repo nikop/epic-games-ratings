@@ -156,11 +156,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -1931,6 +1931,11 @@
       "Time": "2023-12-25T14:09:08.6769034+00:00",
       "NumProgressed": 567,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T21:09:24.0724035+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -1966,7 +1971,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2038,7 +2043,7 @@
       "Name": "Cook",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2054,7 +2059,7 @@
       "Name": "Lumberjack",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2078,7 +2083,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_KILL_100",
@@ -2086,7 +2091,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_KILL_20",
@@ -2094,7 +2099,7 @@
       "Name": "Scrapper",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_KILL_50",
@@ -2134,7 +2139,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -2180,16 +2185,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 244
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 4
     }
   ],
@@ -2197,8 +2202,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:29.1835616+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:24.0724025+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:57:26.7122047+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:29.1835852+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:57:31.7924252+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:24.0724347+00:00"
 }

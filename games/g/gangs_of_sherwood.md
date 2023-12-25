@@ -7,10 +7,10 @@
 | Act of Kindness | 88.00% | ~87 |
 | Air Fighter | 75.00% | ~74 |
 | Oo-De-Lally | 70.00% | ~69 |
+| The Altruist | 66.00% | ~65 |
 | Treasure Hunter | 65.00% | ~64 |
-| The Altruist | 65.00% | ~64 |
 | Watch your Step! | 53.00% | ~52 |
-| Tap Dancing | 51.00% | ~50 |
+| Tap Dancing | 52.00% | ~51 |
 | MAX LEVEL | 51.00% | ~50 |
 | Right between the eyes | 40.00% | ~40 |
 | Spring Board | 40.00% | ~40 |
@@ -29,7 +29,7 @@
 | Ultra Combo | 15.00% | ~15 |
 | Ascending Will | 14.00% | ~14 |
 | Into the Lion's Den | 12.00% | ~12 |
-| Sky High Fighter | 10.00% | ~10 |
+| Sky High Fighter | 11.00% | ~11 |
 | Haute Couture | 10.00% | ~10 |
 | The Gang prevails | 7.00% | ~7 |
 | Brilliant Executioner | 6.00% | ~6 |

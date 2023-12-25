@@ -6,27 +6,27 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 14.00% | ~52 |
+| Spatula Seeker | 15.00% | ~56 |
 | Sponge Smasher | 14.00% | ~52 |
 | Jellyfish Jam | 13.00% | ~48 |
-| Jellyfishing | 9.00% | ~33 |
-| Time For Tutorial | 9.00% | ~33 |
-| Sweet Victory | 7.00% | ~26 |
-| Sock Getter | 7.00% | ~26 |
+| Jellyfishing | 9.00% | ~34 |
+| Time For Tutorial | 9.00% | ~34 |
+| Sweet Victory | 8.00% | ~30 |
+| Sock Getter | 8.00% | ~30 |
 | Life's as extreme as you wanna make it! | 6.00% | ~22 |
+| Uptown and Downtown | 6.00% | ~22 |
 | Super Spatula Seeker | 6.00% | ~22 |
 | Surf's Up! | 6.00% | ~22 |
-| Uptown and Downtown | 5.00% | ~18 |
-| Toxic Terror | 5.00% | ~18 |
-| Hit Rock Bottom | 5.00% | ~18 |
-| Squirrel Smasher | 5.00% | ~18 |
-| Star Smasher | 5.00% | ~18 |
+| Toxic Terror | 5.00% | ~19 |
+| Hit Rock Bottom | 5.00% | ~19 |
+| Squirrel Smasher | 5.00% | ~19 |
+| Star Smasher | 5.00% | ~19 |
 | Keep it Rolling | 4.00% | ~15 |
 | Shrimp Catcher | 4.00% | ~15 |
 | Robot encyclopedia | 3.00% | ~11 |
-| Are you ready now? | 2.00% | ~7 |
+| Are you ready now? | 3.00% | ~11 |
+| Hello, Bikini Bottom | 3.00% | ~11 |
 | Ship Shape | 2.00% | ~7 |
-| Hello, Bikini Bottom | 2.00% | ~7 |
 | Sleepy Time | 2.00% | ~7 |
 | Ultra Spatula Seeker | 2.00% | ~7 |
 | Shanghaied | 1.00% | ~4 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
 | Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369 (Ranked 360)  
+Progressed: 373 (Ranked 360)  
 Completed: 1 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 1 (0.27%) (Ranked 258)
 | 2023-12-22 | 216 | 0 |
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
-| 2023-12-25 | 369 | 1 |
+| 2023-12-25 | 373 | 1 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

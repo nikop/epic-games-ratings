@@ -4,7 +4,7 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "completeFall",
       "SetID": "cfe0fhi",
       "Name": "Pumpkins and Postage Stamps",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "completeGame",
@@ -630,8 +630,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:03:21.5708017+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:03:29.5606591+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.7482599+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:43.7929727+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:03:21.5708203+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:50.9460273+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:03:29.5606877+00:00"
 }

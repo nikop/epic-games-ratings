@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 604)
 | Knowledge is Power | 44.00% | ~204 |
 | Through the Darkness | 44.00% | ~204 |
 | No Mercy | 43.00% | ~200 |
-| The Return of a Rat | 41.00% | ~190 |
+| The Return of a Rat | 42.00% | ~195 |
 | Fat of the Earth | 36.00% | ~167 |
 | Last Man Standing | 32.00% | ~148 |
 | Great Hero | 28.00% | ~130 |

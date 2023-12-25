@@ -16,8 +16,8 @@
 | Dynamite, Treason and Coconuts | 9.00% | ~9 |
 | In the Name of the Law | 8.00% | ~8 |
 | Au Revoir, Abudin | 8.00% | ~8 |
+| Mysterious Bungalow | 8.00% | ~8 |
 | Save a Friend | 8.00% | ~8 |
-| Mysterious Bungalow | 7.00% | ~7 |
 | The Eyes! | 6.00% | ~6 |
 | Keep the Doctor Away | 6.00% | ~6 |
 | Just a Palm Tree | 6.00% | ~6 |
@@ -31,9 +31,9 @@
 | Mountain Runner | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
+| Jungle Runner | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
 | Subtlety | 2.00% | ~2 |
-| Jungle Runner | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |

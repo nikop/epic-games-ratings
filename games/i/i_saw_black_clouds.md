@@ -9,10 +9,10 @@
 | Origin | 49.00% | ~187 |
 | Nonconsensual | 33.00% | ~126 |
 | Realist | 28.00% | ~107 |
-| Escape | 20.00% | ~76 |
+| Escape | 21.00% | ~80 |
 | Wrong | 19.00% | ~72 |
 | Jack | 16.00% | ~61 |
-| Tough | 12.00% | ~46 |
+| Tough | 13.00% | ~50 |
 | Clear | 4.00% | ~15 |
 | Unfinished | 4.00% | ~15 |
 | All endings | 2.00% | ~8 |

@@ -2,9 +2,9 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 571,
-  "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -204,9 +204,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "All_Human_Missions",
@@ -228,9 +228,9 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Boss_Cita",
@@ -244,9 +244,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Boss_King",
@@ -260,9 +260,9 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Boss_Sphere",
@@ -276,9 +276,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Boss_Tree",
@@ -300,9 +300,9 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "No_Lose_All_Human_Missions",
@@ -316,9 +316,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PvP_Mission",
@@ -387,8 +387,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:44.853498+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:39.6453738+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.1534507+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:08.9331189+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:44.8535107+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:17.2284546+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:39.6453873+00:00"
 }

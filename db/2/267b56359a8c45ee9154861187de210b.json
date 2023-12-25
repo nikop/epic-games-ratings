@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -679,25 +679,25 @@
       "ID": "beat_c3_diamond",
       "SetID": "3448go",
       "Name": "Power-Levelling",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "beat_c3a_bronze",
@@ -1079,9 +1079,9 @@
       "ID": "trophies_25",
       "SetID": "3448go",
       "Name": "Marble Detector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "trophies_50",
@@ -1134,8 +1134,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:08:52.6301401+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:08:47.2172809+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:07.2439225+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:54.1709651+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:08:52.6302198+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:01.7113208+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:08:47.2173745+00:00"
 }

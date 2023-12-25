@@ -62,6 +62,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.40% | ~967 |
 | Acid Bath | 0.40% | ~967 |
 | Antivenom | 0.40% | ~967 |
+| Who Needs Luck? | 0.40% | ~13 |
 | A Rough Road | 0.30% | ~725 |
 | Berzerker | 0.30% | ~725 |
 | Juggernaut | 0.30% | ~725 |
@@ -70,7 +71,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.30% | ~725 |
 | The Long Run | 0.30% | ~725 |
 | Precious | 0.30% | ~725 |
-| Who Needs Luck? | 0.30% | ~10 |
 | Achievement Hunter | 0.20% | ~483 |
 | Challenge Increases | 0.20% | ~483 |
 | A Long Climb | 0.20% | ~483 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,688 (Ranked 69)  
+Progressed: 241,691 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
-| 2023-12-25 | 241,688 | 302 |
+| 2023-12-25 | 241,691 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

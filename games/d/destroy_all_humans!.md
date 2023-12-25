@@ -6,30 +6,30 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Kaijuiced | 68.00% | ~107 |
 | Shop Til They Drop | 68.00% | ~107 |
-| Kaijuiced | 67.00% | ~105 |
 | Lie Back and Think of Albion | 61.00% | ~96 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~91 |
 | Yettisoned | 57.00% | ~89 |
 | I Look Up As I Walk to Takoshima | 53.00% | ~83 |
-| Perfect Probulator | 50.00% | ~78 |
-| Lobster Blisque | 48.00% | ~75 |
+| Perfect Probulator | 51.00% | ~80 |
+| Lobster Blisque | 50.00% | ~78 |
 | Pimp My Raid | 46.00% | ~72 |
 | Earthly Pleasures | 43.00% | ~68 |
+| Fly Me to the Moon Base | 42.00% | ~66 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~66 |
-| Fly Me to the Moon Base | 41.00% | ~64 |
 | Freshly Squeezed | 32.00% | ~50 |
 | Bodied Sattva | 32.00% | ~50 |
 | Forbidden Donut | 31.00% | ~49 |
-| Upgreatest | 30.00% | ~47 |
+| Upgreatest | 31.00% | ~49 |
 | Rock of the Bay | 24.00% | ~38 |
 | Furon Fashion | 24.00% | ~38 |
 | Trans-Siberian Express | 24.00% | ~38 |
 | Deincarnated | 23.00% | ~36 |
 | Re-Return of the Clone of the Invasion II-2 | 22.00% | ~35 |
-| Arkvoodle Doodle | 15.00% | ~24 |
+| Arkvoodle Doodle | 16.00% | ~25 |
+| Ouch of Body Experience | 14.00% | ~22 |
 | Die Nasty | 14.00% | ~22 |
-| Ouch of Body Experience | 13.00% | ~20 |
 | If You Know What I Mean | 13.00% | ~20 |
 | Hidden Human Hive Harvest | 13.00% | ~20 |
 | Mash Machine | 13.00% | ~20 |

@@ -3837,9 +3837,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32698,
+  "EOS_Progressed": 32701,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23452,6 +23452,11 @@
       "Time": "2023-12-25T20:08:44.6518168+00:00",
       "NumProgressed": 32698,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-25T21:08:39.5628602+00:00",
+      "NumProgressed": 32701,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23663,7 +23668,7 @@
       "Name": "Master Collector",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Mycophile",
@@ -23870,7 +23875,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32698,
+      "Progressed": 32701,
       "Completed": 70
     }
   ],
@@ -23878,8 +23883,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-25T18:58:16.4810099+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:08:44.6518163+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:08:39.5628596+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:21.7412514+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:08:44.6519477+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:28.727457+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:08:39.5629768+00:00"
 }

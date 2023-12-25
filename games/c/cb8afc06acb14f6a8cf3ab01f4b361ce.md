@@ -1,15 +1,15 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 928)  
+Rating: 4.21 (Ranked 929)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,405 |
-| The touch of Chaos | 4.00% | ~13,405 |
+| May the Torchbearer light our way | 4.00% | ~13,406 |
+| The touch of Chaos | 4.00% | ~13,406 |
 | A powerful aura was here | 3.00% | ~10,054 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,351 |
-| Let's raise the stakes!! | 1.00% | ~3,351 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,352 |
+| Let's raise the stakes!! | 1.00% | ~3,352 |
 | Rumors are true | 0.90% | ~3,016 |
 | We'll be careful | 0.80% | ~2,681 |
 | Pride is a sin, young Knight | 0.80% | ~2,681 |
@@ -20,10 +20,10 @@ Rating: 4.21 (Ranked 928)
 | We need to talk | 0.50% | ~1,676 |
 | I feel drawn to it | 0.50% | ~1,676 |
 | Here to stay | 0.50% | ~1,676 |
-| Counting on you | 0.40% | ~1,340 |
-| This is the end | 0.40% | ~1,340 |
-| We can choose to fight | 0.40% | ~1,340 |
-| I took a risk | 0.40% | ~1,340 |
+| Counting on you | 0.40% | ~1,341 |
+| This is the end | 0.40% | ~1,341 |
+| We can choose to fight | 0.40% | ~1,341 |
+| I took a risk | 0.40% | ~1,341 |
 | Their fate is sealed | 0.30% | ~1,005 |
 | Not even from this world | 0.30% | ~1,005 |
 | Chaos be damned! | 0.20% | ~670 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 928)
 | Something... unnatural | 0.10% | ~335 |
 | We strike as one | 0.10% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,118 (Ranked 54)  
+Progressed: 335,150 (Ranked 54)  
 Completed: 6 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,10 +139,10 @@ Completed: 6 (0.00%) (Ranked 389)
 | 2023-12-22 | 333,231 | 5 |
 | 2023-12-23 | 333,926 | 5 |
 | 2023-12-24 | 334,583 | 5 |
-| 2023-12-25 | 335,118 | 6 |
+| 2023-12-25 | 335,150 | 6 |
 ## Awards
-Max (Great Boss Battles): 72  (Ranked 408)  
-Sum: 72 (Ranked 476)  
+Max (Great Boss Battles): 72  (Ranked 409)  
+Sum: 72 (Ranked 477)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |

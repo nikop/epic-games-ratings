@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
+| Able Difficulty | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.20% | ~32 |
 | Wise | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
-| Able Difficulty | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,946 (Ranked 162)  
+Progressed: 15,948 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -614,7 +614,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-22 | 15,884 | 5 |
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
-| 2023-12-25 | 15,946 | 5 |
+| 2023-12-25 | 15,948 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

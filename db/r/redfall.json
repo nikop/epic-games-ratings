@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -309,9 +309,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2063,
+  "EOS_Progressed": 2066,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3289,6 +3289,11 @@
       "Time": "2023-12-25T20:06:36.6137678+00:00",
       "NumProgressed": 2063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T21:06:21.8916741+00:00",
+      "NumProgressed": 2066,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3348,7 +3353,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Achievement_009",
@@ -3356,7 +3361,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Achievement_010",
@@ -3436,7 +3441,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Achievement_020",
@@ -3492,7 +3497,7 @@
       "Name": "Fly Fisher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Achievement_027",
@@ -3500,7 +3505,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Achievement_028",
@@ -3556,7 +3561,7 @@
       "Name": "Catch and Release",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Achievement_035",
@@ -3827,7 +3832,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2063,
+      "Progressed": 2066,
       "Completed": 0
     }
   ],
@@ -3835,8 +3840,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:06:36.6137673+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:06:21.8916737+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:46.1833651+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:06:36.6138233+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:57.5935538+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:06:21.8917332+00:00"
 }

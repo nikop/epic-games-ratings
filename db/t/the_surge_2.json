@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2371,
+  "EOS_Progressed": 2372,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3873,6 +3873,11 @@
       "Time": "2023-12-25T18:04:12.450972+00:00",
       "NumProgressed": 2371,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-25T21:04:38.7312847+00:00",
+      "NumProgressed": 2372,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3892,7 +3897,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "ACHV_03",
@@ -3908,7 +3913,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHV_05",
@@ -3924,7 +3929,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACHV_07",
@@ -3932,7 +3937,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHV_08",
@@ -4084,7 +4089,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ACHV_27",
@@ -4092,7 +4097,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHV_28",
@@ -4100,7 +4105,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHV_29",
@@ -4188,7 +4193,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACHV_40",
@@ -4244,7 +4249,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHV_47",
@@ -4339,7 +4344,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2371,
+      "Progressed": 2372,
       "Completed": 13
     }
   ],
@@ -4347,8 +4352,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:04:53.790115+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:04:38.7312845+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:38.9704837+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:04:53.7901635+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:45.9738007+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:04:38.7313322+00:00"
 }

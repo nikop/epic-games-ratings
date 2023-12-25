@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -3082,9 +3082,9 @@
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_22",
@@ -3368,8 +3368,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:29.7110283+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:24.7746068+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:31.3508451+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:29.7110826+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:42.4284567+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:24.774648+00:00"
 }

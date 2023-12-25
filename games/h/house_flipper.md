@@ -1,15 +1,15 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.69 (Ranked 229)  
+Rating: 4.69 (Ranked 228)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,649 |
-| Strongman | 31.00% | ~6,738 |
-| Just Enough | 20.00% | ~4,347 |
-| Alpha Male | 20.00% | ~4,347 |
+| First money | 95.00% | ~20,651 |
+| Strongman | 31.00% | ~6,739 |
+| Just Enough | 20.00% | ~4,348 |
+| Alpha Male | 20.00% | ~4,348 |
 | Pro-creative | 19.00% | ~4,130 |
 | Worth Every Penny | 14.00% | ~3,043 |
 | Family man | 13.00% | ~2,826 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~130 |
 | Senior Estate Agent | 0.60% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,736 (Ranked 147)  
+Progressed: 21,738 (Ranked 147)  
 Completed: 21 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 21 (0.10%) (Ranked 307)
 | 2023-12-22 | 21,671 | 21 |
 | 2023-12-23 | 21,692 | 21 |
 | 2023-12-24 | 21,718 | 21 |
-| 2023-12-25 | 21,736 | 21 |
+| 2023-12-25 | 21,738 | 21 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 250)  
-Sum: 2,280 (Ranked 206)  
+Sum: 2,282 (Ranked 206)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -289,8 +289,8 @@ Diff (max vs sum): 44
 | This game is Educational | 243 |
 | This game is Relaxing | 234 |
 | This game is Extremely Fun | 232 |
+| This game has a Creative Community | 224 |
 | This game has Quickly Understood Controls | 222 |
-| This game has a Creative Community | 222 |
 | This game is Highly Recommended | 221 |
 | This game has Amazing Storytelling | 219 |
 | This game has Amazing Characters | 193 |
@@ -491,4 +491,4 @@ Diff (max vs sum): 44
 | 2023-12-20 | 4.69 | - | 328 | 2,274 |
 | 2023-12-21 | 4.69 | - | 328 | 2,276 |
 | 2023-12-22 | 4.69 | - | 328 | 2,277 |
-| 2023-12-25 | 4.69 | - | 328 | 2,280 |
+| 2023-12-25 | 4.69 | - | 328 | 2,282 |

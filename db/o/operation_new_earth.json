@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2086,
+  "EOS_Progressed": 2088,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7989,6 +7989,11 @@
       "Time": "2023-12-25T19:06:13.5165896+00:00",
       "NumProgressed": 2086,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T21:06:15.6729183+00:00",
+      "NumProgressed": 2088,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8032,7 +8037,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -8104,7 +8109,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8120,7 +8125,7 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8176,7 +8181,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8184,7 +8189,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8216,7 +8221,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -8303,7 +8308,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2086,
+      "Progressed": 2088,
       "Completed": 1
     }
   ],
@@ -8311,8 +8316,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-11T08:59:11.5639448+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:06:30.461262+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:06:15.6729178+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:19.6097334+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:06:30.4613112+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:26.6526242+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:06:15.6729783+00:00"
 }

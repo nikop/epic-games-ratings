@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1536,6 +1536,11 @@
       "Time": "2023-12-25T19:05:35.1059761+00:00",
       "NumProgressed": 347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T21:05:37.2109096+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1563,7 +1568,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 248
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1643,7 +1648,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1651,7 +1656,7 @@
       "Name": "Them and Us",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1707,7 +1712,7 @@
       "Name": "OUTRAGE",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ETUA_PTD",
@@ -1755,7 +1760,7 @@
       "Name": "Safe...For now?",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ETUA_StayDead",
@@ -1835,7 +1840,7 @@
       "Name": "A Night To Remember",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ETUA_Trapped",
@@ -1866,7 +1871,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 349,
       "Completed": 1
     }
   ],
@@ -1874,8 +1879,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:05:52.455294+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:05:37.2109091+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:57:46.0430354+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:05:52.4553273+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:57:51.6139334+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:05:37.2109423+00:00"
 }

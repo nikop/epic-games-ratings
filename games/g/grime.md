@@ -11,22 +11,22 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 2.00% | ~3,290 |
 | Weeper | 1.00% | ~1,645 |
 | Ravenous | 1.00% | ~1,645 |
-| Devourer | 0.70% | ~1,151 |
+| Devourer | 0.70% | ~1,152 |
 | Harmless | 0.60% | ~987 |
 | Silenced Whispers | 0.60% | ~987 |
-| Yank | 0.50% | ~822 |
-| Sharpened Vessel | 0.50% | ~822 |
+| Feast | 0.50% | ~823 |
+| Yank | 0.50% | ~823 |
+| Sharpened Vessel | 0.50% | ~823 |
 | Scion | 0.40% | ~656 |
 | Jawcrab | 0.40% | ~658 |
 | Jawstag | 0.40% | ~658 |
-| Feast | 0.40% | ~658 |
 | Watcher | 0.40% | ~658 |
-| Assimilation | 0.30% | ~493 |
-| Shapely | 0.30% | ~493 |
+| Assimilation | 0.30% | ~494 |
+| Shapely | 0.30% | ~494 |
 | Glare | 0.30% | ~492 |
 | Host | 0.30% | ~492 |
-| Celebration | 0.30% | ~493 |
-| Predator | 0.30% | ~493 |
+| Celebration | 0.30% | ~494 |
+| Predator | 0.30% | ~494 |
 | Breath | 0.20% | ~329 |
 | Hunt Down | 0.20% | ~329 |
 | Artisan | 0.20% | ~329 |
@@ -37,24 +37,24 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.20% | ~329 |
 | Dream | 0.20% | ~328 |
 | Spiral Heart | 0.10% | ~161 |
-| Bloodhunter | 0.10% | ~164 |
-| Skinmaker | 0.10% | ~164 |
-| Instruments | 0.10% | ~164 |
+| Bloodhunter | 0.10% | ~165 |
+| Skinmaker | 0.10% | ~165 |
+| Instruments | 0.10% | ~165 |
 | Zygote | 0.10% | ~164 |
-| Kinship | 0.10% | ~164 |
-| Weakness | 0.10% | ~164 |
-| Passage | 0.10% | ~164 |
-| Generous | 0.10% | ~164 |
+| Kinship | 0.10% | ~165 |
+| Weakness | 0.10% | ~165 |
+| Passage | 0.10% | ~165 |
+| Generous | 0.10% | ~165 |
 | Kin | 0.10% | ~164 |
 | Listen | 0.10% | ~164 |
-| Proportions | 0.10% | ~164 |
+| Proportions | 0.10% | ~165 |
 | The Nightmare | 0.10% | ~164 |
 | Touch of Otherwhere | 0.10% | ~164 |
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,491 (Ranked 81)  
-Completed: 405 (0.25%) (Ranked 264)  
+Progressed: 164,507 (Ranked 81)  
+Completed: 406 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,11 +279,11 @@ Completed: 405 (0.25%) (Ranked 264)
 | 2023-12-22 | 163,906 | 387 |
 | 2023-12-23 | 164,107 | 393 |
 | 2023-12-24 | 164,303 | 399 |
-| 2023-12-25 | 164,491 | 405 |
+| 2023-12-25 | 164,507 | 406 |
 ## Awards
-Max (Unique Visuals): 59  (Ranked 426)  
+Max (Unique Visuals): 59  (Ranked 427)  
 Sum: 421 (Ranked 344)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 59 |

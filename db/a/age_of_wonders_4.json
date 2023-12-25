@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6203,
+  "EOS_Progressed": 6206,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9157,6 +9157,11 @@
       "Time": "2023-12-25T20:03:48.854718+00:00",
       "NumProgressed": 6203,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-25T21:03:37.2642778+00:00",
+      "NumProgressed": 6206,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9296,7 +9301,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "25",
@@ -9438,9 +9443,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 248
     },
     {
       "ID": "41",
@@ -9647,13 +9652,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6203,
+      "Progressed": 6206,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6203,
+      "Progressed": 6206,
       "Completed": 7
     }
   ],
@@ -9661,8 +9666,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:03:48.8547174+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:03:37.2642774+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:21.1147685+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:03:48.8548071+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:30.674547+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:03:37.2643698+00:00"
 }

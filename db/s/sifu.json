@@ -8413,10 +8413,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11861,
       "NumberOfAwardsMax": 7010
+    },
+    {
+      "Time": "2023-12-25T21:03:02.2412335+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11862,
+      "NumberOfAwardsMax": 7010
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11861,
+  "NumberOfAwards": 11862,
   "NumberOfAwardsMax": 7010,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8436,7 +8442,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 589
+      "Count": 590
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8493,7 +8499,7 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 744402,
+  "EOS_Progressed": 744425,
   "EOS_Completed": 12966,
   "EOS_NewPlayers": 9646,
   "EOS_NewCompleters": 10,
@@ -30903,6 +30909,11 @@
       "Time": "2023-12-25T20:09:13.5506881+00:00",
       "NumProgressed": 744402,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-25T21:09:08.4956216+00:00",
+      "NumProgressed": 744425,
+      "NumCompleted": 12966
     }
   ],
   "TotalAchievements": 60,
@@ -30914,7 +30925,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29776
+      "UsersEstimate": 29777
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30922,7 +30933,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22332
+      "UsersEstimate": 22333
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31090,7 +31101,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22332
+      "UsersEstimate": 22333
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31178,7 +31189,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22332
+      "UsersEstimate": 22333
     },
     {
       "ID": "35_WideStrike",
@@ -31393,21 +31404,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 53703,
+      "Progressed": 53726,
       "Completed": 10783
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 744402,
+      "Progressed": 744425,
       "Completed": 12966
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-25T15:03:04.7397075+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:13.5506875+00:00",
+  "LastChanged": "2023-12-25T21:03:02.2412333+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:08.4956213+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:02:58.3824801+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:13.5508481+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:03:02.241234+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:08.4957534+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -1296,9 +1296,9 @@
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1576,9 +1576,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1761,8 +1761,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:04:23.8915636+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:04:12.2840745+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:13.3339368+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:04:23.8916492+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:20.5352035+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:04:12.2841605+00:00"
 }

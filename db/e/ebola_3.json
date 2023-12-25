@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1306,6 +1306,11 @@
       "Time": "2023-12-25T13:14:16.2525997+00:00",
       "NumProgressed": 304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T21:10:14.7732356+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1339,9 +1344,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 165
     },
     {
       "ID": "achBett",
@@ -1381,7 +1386,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achCity",
@@ -1517,7 +1522,7 @@
       "Name": "Fright \u2714",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achLizun",
@@ -1699,9 +1704,9 @@
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "achWorms",
@@ -1716,7 +1721,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 0
     }
   ],
@@ -1724,8 +1729,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:10:19.0359912+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:10:14.7732351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.5149396+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:00:26.5064297+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:10:19.0360248+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:00:41.7069912+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:10:14.7732688+00:00"
 }

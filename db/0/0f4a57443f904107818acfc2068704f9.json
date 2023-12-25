@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2665,9 +2665,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 258
     },
     {
       "ID": "CompleteChapter6",
@@ -2800,8 +2800,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:04:54.1405958+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:04:39.0914502+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:57.9373983+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:04:54.1406593+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:00:09.0027033+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:04:39.0914843+00:00"
 }

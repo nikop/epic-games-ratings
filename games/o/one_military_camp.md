@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 54.00% | ~129 |
+| First Step | 53.00% | ~127 |
 | The 4 Pillars | 50.00% | ~120 |
 | Capitalism | 20.00% | ~48 |
 | Green Energy | 11.00% | ~26 |
@@ -29,9 +29,9 @@
 | Medicine Tycoon | 4.00% | ~10 |
 | Tear Down the Wall! | 3.00% | ~7 |
 | Supersoldier | 3.00% | ~7 |
+| Vive le Résistance | 3.00% | ~7 |
 | Human Resources | 3.00% | ~7 |
 | Training Camp | 3.00% | ~7 |
-| Vive le Résistance | 2.00% | ~5 |
 | No News is Good News | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
 | Economist | 1.00% | ~2 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 399)  
+Progressed: 240 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,3 +133,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 226 | 0 |
 | 2023-12-23 | 234 | 0 |
 | 2023-12-24 | 239 | 0 |
+| 2023-12-25 | 240 | 0 |

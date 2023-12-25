@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
@@ -2625,6 +2625,11 @@
       "Time": "2023-12-25T20:08:56.6184733+00:00",
       "NumProgressed": 763,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-25T21:08:51.2546708+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2637,7 +2642,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_eou1",
@@ -2653,7 +2658,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_eou3",
@@ -2661,7 +2666,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_eou4",
@@ -2740,14 +2745,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:08:56.6184725+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:08:51.2546703+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:05.4491443+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:08:56.6184947+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:13.5972655+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:08:51.2546919+00:00"
 }

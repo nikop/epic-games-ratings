@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10140,9 +10140,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129837,
+  "EOS_Progressed": 129842,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1464,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36780,6 +36780,11 @@
       "Time": "2023-12-25T20:09:38.9102425+00:00",
       "NumProgressed": 129837,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-25T21:09:33.8474816+00:00",
+      "NumProgressed": 129842,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36799,7 +36804,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -36951,7 +36956,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "combat_kill_fanatics",
@@ -36991,7 +36996,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37007,7 +37012,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "combat_kill_librarian",
@@ -37015,7 +37020,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37031,7 +37036,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37335,7 +37340,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37391,7 +37396,7 @@
       "Name": "Lost and Found",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37422,21 +37427,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129837,
+      "Progressed": 129842,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4706,
+      "Progressed": 4711,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-25T17:58:10.7610793+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:38.910242+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:33.8474813+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:26.6230903+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:38.9104263+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:34.072031+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:33.8476378+00:00"
 }

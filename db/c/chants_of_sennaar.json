@@ -5,9 +5,9 @@
   "Ranking_Rating": 40,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -67,11 +67,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1784,
+  "EOS_Progressed": 1786,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 5.83,
+  "EOS_Completed_Percentage": 5.82,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5242,6 +5242,11 @@
       "Time": "2023-12-25T20:04:04.8149317+00:00",
       "NumProgressed": 1784,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-12-25T21:03:53.0525739+00:00",
+      "NumProgressed": 1786,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 25,
@@ -5317,7 +5322,7 @@
       "Name": "Feels like springtime",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5349,7 +5354,7 @@
       "Name": "Alchemists Express",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5357,7 +5362,7 @@
       "Name": "Rascal",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5373,7 +5378,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5397,7 +5402,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5413,7 +5418,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "PROGRESS_N2",
@@ -5429,7 +5434,7 @@
       "Name": "A new dawn",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "PROGRESS_N4",
@@ -5445,14 +5450,14 @@
       "Name": "One last step",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1784,
+      "Progressed": 1786,
       "Completed": 104
     }
   ],
@@ -5460,8 +5465,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:04:04.8149312+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:03:53.0525733+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:57:26.2020141+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:04:04.8149656+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:57:31.2720391+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:03:53.0526152+00:00"
 }

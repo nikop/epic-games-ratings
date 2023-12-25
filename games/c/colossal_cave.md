@@ -9,7 +9,7 @@
 | The Birdman of The Caves | 50.00% | ~52 |
 | I've Fallen & I Can't Get Up | 49.00% | ~50 |
 | Charmin' the Snake | 34.00% | ~35 |
-| Drums in the Deep | 22.00% | ~23 |
+| Drums in the Deep | 23.00% | ~24 |
 | Bridge Builder | 22.00% | ~23 |
 | Treasure Seeker | 20.00% | ~21 |
 | Green Thumb Goliath | 17.00% | ~18 |
@@ -29,7 +29,7 @@
 | Master Cave Plunderer | 4.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 473)  
+Progressed: 103 (Ranked 474)  
 Completed: 1 (0.97%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |

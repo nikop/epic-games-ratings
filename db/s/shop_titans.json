@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7709,10 +7709,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27812,
       "NumberOfAwardsMax": 4914
+    },
+    {
+      "Time": "2023-12-25T21:03:13.3446912+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27816,
+      "NumberOfAwardsMax": 4914
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27812,
+  "NumberOfAwards": 27816,
   "NumberOfAwardsMax": 4914,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7744,7 +7750,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4056
+      "Count": 4058
     },
     {
       "Text": "This game is Relaxing",
@@ -7762,12 +7768,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3801
+      "Count": 3803
     }
   ],
-  "EOS_Progressed": 147588,
+  "EOS_Progressed": 147596,
   "EOS_Completed": 334,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -33930,6 +33936,11 @@
       "Time": "2023-12-25T20:06:31.5944004+00:00",
       "NumProgressed": 147588,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-12-25T21:06:16.8681523+00:00",
+      "NumProgressed": 147596,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 112,
@@ -34021,7 +34032,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "bigsale02",
@@ -34045,7 +34056,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "blueprint02",
@@ -34109,7 +34120,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13283
+      "UsersEstimate": 13284
     },
     {
       "ID": "chest02",
@@ -34173,7 +34184,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11807
+      "UsersEstimate": 11808
     },
     {
       "ID": "commonres02",
@@ -34205,7 +34216,7 @@
       "Name": "Disintermediation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "craft02",
@@ -34293,7 +34304,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "energy02",
@@ -34317,7 +34328,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "expansion02",
@@ -34413,7 +34424,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11807
+      "UsersEstimate": 11808
     },
     {
       "ID": "gold02",
@@ -34421,7 +34432,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "gold03",
@@ -34525,7 +34536,7 @@
       "Name": "Budding Merchant",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "level02",
@@ -34717,7 +34728,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "sell02",
@@ -34757,7 +34768,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13283
+      "UsersEstimate": 13284
     },
     {
       "ID": "twinenchant01",
@@ -34805,7 +34816,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7379
+      "UsersEstimate": 7380
     },
     {
       "ID": "workers02",
@@ -34836,15 +34847,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147588,
+      "Progressed": 147596,
       "Completed": 334
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-25T17:03:39.3239102+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:06:31.5943999+00:00",
+  "LastChanged": "2023-12-25T21:03:13.344691+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:06:16.8681518+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:03:07.8019123+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:06:31.5946386+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:03:13.3446917+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:06:16.8683615+00:00"
 }

@@ -1460,9 +1460,9 @@
       "ID": "ending_5",
       "SetID": "d4f4pll",
       "Name": "Lab Rat",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 181
     },
     {
       "ID": "ending_6",
@@ -1573,8 +1573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:45.8226067+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:40.5517269+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:05.5610473+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:45.8226263+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:13.7373402+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:40.5517426+00:00"
 }

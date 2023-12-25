@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 637,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -2122,9 +2122,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 287
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2369,8 +2369,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:09:01.8125995+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:08:56.516328+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:56.5243522+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:09:01.8126992+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:04.1324935+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:08:56.5163817+00:00"
 }

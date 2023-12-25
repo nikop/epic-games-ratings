@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241688,
+  "EOS_Progressed": 241691,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29511,6 +29511,11 @@
       "Time": "2023-12-25T20:10:22.9831679+00:00",
       "NumProgressed": 241688,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-25T21:10:18.650979+00:00",
+      "NumProgressed": 241691,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30504,9 +30509,9 @@
       "ID": "FINISHGAMELOWCHANCESTATS",
       "SetID": "1peahb6",
       "Name": "Who Needs Luck?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -30625,13 +30630,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241688,
+      "Progressed": 241691,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3168,
+      "Progressed": 3171,
       "Completed": 413
     }
   ],
@@ -30639,8 +30644,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:10:22.9831674+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:10:18.6509786+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:08.1368463+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:10:22.983407+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:14.2955318+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:10:18.6512343+00:00"
 }

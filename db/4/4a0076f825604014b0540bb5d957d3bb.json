@@ -548,9 +548,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -620,9 +620,9 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:10:04.0362984+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:09:59.6596009+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:00:13.1956415+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:10:04.0363159+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:00:26.2773023+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:09:59.6596201+00:00"
 }

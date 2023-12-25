@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,032)
 | Savvy Seeker | 0.50% | ~463 |
 | Olympus Ascended | 0.50% | ~463 |
 | Ding Dong | 0.50% | ~463 |
-| All that Glitters | 0.40% | ~83 |
+| All that Glitters | 0.40% | ~84 |
 | Rockay Raider | 0.30% | ~278 |
 | Rockay Knight | 0.30% | ~278 |
 | Groundhog Days | 0.30% | ~278 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,032)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,526 (Ranked 97)  
+Progressed: 92,531 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,15 +296,15 @@ Completed: 58 (0.06%) (Ranked 329)
 | 2023-12-22 | 92,351 | 58 |
 | 2023-12-23 | 92,411 | 58 |
 | 2023-12-24 | 92,476 | 58 |
-| 2023-12-25 | 92,526 | 58 |
+| 2023-12-25 | 92,531 | 58 |
 ## Awards
 Max (Diverse Characters): 578  (Ranked 207)  
-Sum: 2,718 (Ranked 190)  
+Sum: 2,721 (Ranked 190)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 578 |
-| This game is Highly Recommended | 554 |
+| This game is Highly Recommended | 557 |
 | This game has Quickly Understood Controls | 536 |
 | This game has Amazing Characters | 528 |
 | This game is Extremely Fun | 522 |
@@ -581,4 +581,4 @@ Diff (max vs sum): 17
 | 2023-12-22 | 3.95 | 574 | 2,704 |
 | 2023-12-23 | 3.95 | 575 | 2,708 |
 | 2023-12-24 | 3.95 | 575 | 2,710 |
-| 2023-12-25 | 3.95 | 578 | 2,718 |
+| 2023-12-25 | 3.95 | 578 | 2,721 |

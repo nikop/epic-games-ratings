@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,554 |
-| Battering Crew | 19.00% | ~5,963 |
-| The Kingsroad | 18.00% | ~5,649 |
-| Well Stocked | 13.00% | ~4,080 |
-| Royal Fleet | 13.00% | ~4,080 |
+| Conqueror | 40.00% | ~12,558 |
+| Battering Crew | 19.00% | ~5,965 |
+| The Kingsroad | 18.00% | ~5,651 |
+| Well Stocked | 13.00% | ~4,081 |
+| Royal Fleet | 13.00% | ~4,081 |
 | The Kraken’s Grasp | 9.00% | ~2,825 |
-| Daggers in the Dark | 8.00% | ~2,511 |
-| Alliance | 8.00% | ~2,511 |
-| Winter is Coming | 7.00% | ~2,197 |
-| Oathkeeper | 7.00% | ~2,197 |
-| Influential | 7.00% | ~2,197 |
-| A Long Journey | 7.00% | ~2,197 |
-| Ours is the Fury | 6.00% | ~1,883 |
-| We Do Not Sow | 6.00% | ~1,883 |
-| Defender of the Wall | 6.00% | ~1,883 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,569 |
-| Growing Strong | 5.00% | ~1,569 |
-| Hear me Roar! | 5.00% | ~1,569 |
+| Daggers in the Dark | 8.00% | ~2,512 |
+| Alliance | 8.00% | ~2,512 |
+| Winter is Coming | 7.00% | ~2,198 |
+| Oathkeeper | 7.00% | ~2,198 |
+| Influential | 7.00% | ~2,198 |
+| A Long Journey | 7.00% | ~2,198 |
+| Ours is the Fury | 6.00% | ~1,884 |
+| We Do Not Sow | 6.00% | ~1,884 |
+| Defender of the Wall | 6.00% | ~1,884 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,570 |
+| Growing Strong | 5.00% | ~1,570 |
+| Hear me Roar! | 5.00% | ~1,570 |
 | What is Dead may Never Die | 3.00% | ~942 |
 | The Swift | 3.00% | ~942 |
 | King in the North | 2.00% | ~628 |
 | War of the Five Kings | 1.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,386 (Ranked 134)  
+Progressed: 31,394 (Ranked 134)  
 Completed: 85 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 85 (0.27%) (Ranked 258)
 | 2023-12-22 | 31,085 | 85 |
 | 2023-12-23 | 31,194 | 85 |
 | 2023-12-24 | 31,305 | 85 |
-| 2023-12-25 | 31,386 | 85 |
+| 2023-12-25 | 31,394 | 85 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 343)  
-Sum: 804 (Ranked 286)  
+Sum: 805 (Ranked 286)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -290,7 +290,7 @@ Diff (max vs sum): 57
 | This game is Highly Recommended | 112 |
 | This game has Competitive Players | 100 |
 | This game is Relaxing | 98 |
-| This game has Amazing Storytelling | 92 |
+| This game has Amazing Storytelling | 93 |
 | This game has Amazing Characters | 88 |
 | This game has a Competitive Community | 75 |
 | This game has Playful Visuals | 20 |
@@ -393,3 +393,4 @@ Diff (max vs sum): 57
 | 2023-12-16 | 4.20 | - | 127 | 802 |
 | 2023-12-21 | 4.20 | - | 127 | 803 |
 | 2023-12-23 | 4.20 | - | 127 | 804 |
+| 2023-12-25 | 4.20 | - | 127 | 805 |

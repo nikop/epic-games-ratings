@@ -513,9 +513,9 @@
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement13",
@@ -649,9 +649,9 @@
       "ID": "Achievement28",
       "SetID": "9fa3l5n",
       "Name": "Jungle Runner",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement29",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:05:58.2645315+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:05:42.6848714+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:58.6706602+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:05:58.2645575+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:00:09.7451269+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:05:42.684901+00:00"
 }

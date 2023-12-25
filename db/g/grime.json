@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 442,
-  "Ranking_Popularity": 426,
+  "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 264,
@@ -1729,10 +1729,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164491,
-  "EOS_Completed": 405,
-  "EOS_NewPlayers": 1275,
-  "EOS_NewCompleters": 58,
+  "EOS_Progressed": 164507,
+  "EOS_Completed": 406,
+  "EOS_NewPlayers": 1284,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20584,6 +20584,11 @@
       "Time": "2023-12-25T20:04:59.4674824+00:00",
       "NumProgressed": 164491,
       "NumCompleted": 405
+    },
+    {
+      "Time": "2023-12-25T21:04:44.218754+00:00",
+      "NumProgressed": 164507,
+      "NumCompleted": 406
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20604,7 +20609,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -20612,7 +20617,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -20620,7 +20625,7 @@
       "Name": "Assimilation",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -20628,7 +20633,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -20692,7 +20697,7 @@
       "Name": "Shapely",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -20756,7 +20761,7 @@
       "Name": "Celebration",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -20770,9 +20775,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 823
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -20796,7 +20801,7 @@
       "Name": "Devourer",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -20820,7 +20825,7 @@
       "Name": "Predator",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -20828,7 +20833,7 @@
       "Name": "Kinship",
       "Percentage": 0.1,
       "XP": 120,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -20836,7 +20841,7 @@
       "Name": "Weakness",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -20852,7 +20857,7 @@
       "Name": "Yank",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -20860,7 +20865,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -20884,7 +20889,7 @@
       "Name": "Passage",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "QUEST_CHILD",
@@ -20900,7 +20905,7 @@
       "Name": "Generous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "QUEST_KIN",
@@ -20924,7 +20929,7 @@
       "Name": "Proportions",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -20963,21 +20968,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164074,
+      "Progressed": 164090,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164491,
-      "Completed": 405
+      "Progressed": 164507,
+      "Completed": 406
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-24T03:57:44.1190154+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:04:59.4674819+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:04:44.2187535+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:58:20.1237839+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:04:59.4675742+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:58:27.1824179+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:04:44.218868+00:00"
 }

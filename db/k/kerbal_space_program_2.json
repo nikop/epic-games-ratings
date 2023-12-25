@@ -2,7 +2,7 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 816,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-27T02:15:09.7091153+00:00",
@@ -827,10 +827,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-12-25T21:03:22.9700878+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
+  "NumberOfAwards": 248,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -862,7 +868,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Relaxing",
@@ -874,7 +880,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
@@ -901,8 +907,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-12-25T05:03:40.1665467+00:00",
+  "LastChanged": "2023-12-25T21:03:22.9700876+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.8170775+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:03:16.7477274+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:06:21.4156611+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:03:22.9700882+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:06:06.5089766+00:00"
 }

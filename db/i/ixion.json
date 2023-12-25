@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3716,
+  "EOS_Progressed": 3719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7133,6 +7133,11 @@
       "Time": "2023-12-25T20:06:23.9631345+00:00",
       "NumProgressed": 3716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T21:06:08.9173462+00:00",
+      "NumProgressed": 3719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7144,7 +7149,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_BASE_10",
@@ -7152,7 +7157,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_BASE_11",
@@ -7208,7 +7213,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH_BASE_19",
@@ -7232,7 +7237,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_BASE_22",
@@ -7256,7 +7261,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_BASE_25",
@@ -7320,7 +7325,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_BASE_32",
@@ -7328,7 +7333,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_BASE_33",
@@ -7336,7 +7341,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_BASE_34",
@@ -7432,7 +7437,7 @@
       "Name": "Delivery!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_BASE_48",
@@ -7448,7 +7453,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_BASE_5",
@@ -7472,7 +7477,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_BASE_52",
@@ -7496,7 +7501,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_BASE_57",
@@ -7520,7 +7525,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_BASE_6",
@@ -7560,7 +7565,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_BASE_64",
@@ -7592,20 +7597,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1900,
+      "Progressed": 1903,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3716,
+      "Progressed": 3719,
       "Completed": 0
     }
   ],
@@ -7613,8 +7618,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:06:23.963134+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:06:08.9173457+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-25T19:59:15.2872179+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:06:23.9632026+00:00"
+  "LastUpdate_Ratings": "2023-12-25T20:59:24.8843358+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:06:08.9174237+00:00"
 }

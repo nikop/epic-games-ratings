@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 15.00% | ~15,851 |
-| I've Had Enough! | 12.00% | ~12,681 |
-| Fists, Fury & a lot of Rage | 8.00% | ~8,454 |
-| All For One and One For All | 7.00% | ~7,397 |
-| Seasoned Fighter | 7.00% | ~7,397 |
-| Home Sweet Home? | 5.00% | ~5,284 |
-| A New Age | 4.00% | ~4,227 |
-| Oh Baby, A Triple | 3.00% | ~3,170 |
-| Battle Hardened | 2.00% | ~2,113 |
-| Master of Disguise | 2.00% | ~2,113 |
-| It's Mayhem! | 2.00% | ~2,113 |
-| Symbiotic | 2.00% | ~2,113 |
+| All Grown Up! | 15.00% | ~15,859 |
+| I've Had Enough! | 12.00% | ~12,687 |
+| Fists, Fury & a lot of Rage | 8.00% | ~8,458 |
+| All For One and One For All | 7.00% | ~7,401 |
+| Seasoned Fighter | 7.00% | ~7,401 |
+| Home Sweet Home? | 5.00% | ~5,286 |
+| A New Age | 4.00% | ~4,229 |
+| Oh Baby, A Triple | 3.00% | ~3,172 |
+| Battle Hardened | 2.00% | ~2,114 |
+| Master of Disguise | 2.00% | ~2,114 |
+| It's Mayhem! | 2.00% | ~2,114 |
+| Symbiotic | 2.00% | ~2,114 |
 | Cautious Veteran | 1.00% | ~1,057 |
 | Double Punch! | 1.00% | ~1,057 |
 | Martyrdom | 1.00% | ~1,057 |
 | Right back at'cha | 1.00% | ~1,057 |
 | Spectacular Finisher | 1.00% | ~1,057 |
-| Katamari | 0.80% | ~845 |
-| Zero-sum Game | 0.80% | ~845 |
+| Katamari | 0.80% | ~846 |
+| Zero-sum Game | 0.80% | ~846 |
 | Ninja Reflex | 0.70% | ~740 |
 | Taste Your Own Medicine | 0.60% | ~634 |
 | This is GigaBash! | 0.40% | ~423 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 535)
 | What's Mine is Yours | 0.10% | ~106 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105,674 (Ranked 94)  
+Progressed: 105,725 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 100,514 | 0 |
 | 2023-12-23 | 102,487 | 0 |
 | 2023-12-24 | 104,255 | 0 |
-| 2023-12-25 | 105,674 | 0 |
+| 2023-12-25 | 105,725 | 0 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 478)  
 Sum: 38 (Ranked 517)  

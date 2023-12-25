@@ -5,40 +5,40 @@ Rating: 4.52 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~112 |
-| Map reader | 66.00% | ~81 |
-| Adventurer | 63.00% | ~77 |
-| Philanthropist | 61.00% | ~74 |
-| The brave little tailor | 43.00% | ~52 |
-| Archer | 43.00% | ~52 |
-| Field hand | 40.00% | ~49 |
+| Beginner | 91.00% | ~113 |
+| Map reader | 65.00% | ~81 |
+| Adventurer | 63.00% | ~78 |
+| Philanthropist | 60.00% | ~74 |
+| Archer | 44.00% | ~55 |
+| The brave little tailor | 43.00% | ~53 |
+| Field hand | 40.00% | ~50 |
+| Samaritan | 35.00% | ~43 |
 | Well-to-do | 35.00% | ~43 |
-| Samaritan | 34.00% | ~41 |
-| The merciful one | 32.00% | ~39 |
+| The merciful one | 32.00% | ~40 |
 | Ladies' man | 31.00% | ~38 |
 | Ferocious wild boars | 26.00% | ~32 |
-| Idiot | 25.00% | ~30 |
+| Idiot | 26.00% | ~32 |
 | Beast slayer | 22.00% | ~27 |
-| Family man | 20.00% | ~24 |
-| Archaeologist | 20.00% | ~24 |
-| Wise man | 19.00% | ~23 |
-| Death of a legend | 19.00% | ~23 |
-| Ogre friend | 19.00% | ~23 |
-| Hard worker | 19.00% | ~23 |
+| Wise man | 19.00% | ~24 |
+| Family man | 19.00% | ~24 |
+| Death of a legend | 19.00% | ~24 |
+| Archaeologist | 19.00% | ~24 |
+| Ogre friend | 19.00% | ~24 |
+| Hard worker | 19.00% | ~24 |
+| Sidelined | 19.00% | ~24 |
 | Little hero | 18.00% | ~22 |
 | The fourth triplet | 18.00% | ~22 |
-| Sidelined | 18.00% | ~22 |
-| Pandora's box | 16.00% | ~20 |
-| Fence | 16.00% | ~20 |
+| Fence | 17.00% | ~21 |
 | Master detective | 16.00% | ~20 |
-| Ghost hunter | 15.00% | ~18 |
+| Pandora's box | 15.00% | ~19 |
+| Ghost hunter | 15.00% | ~19 |
 | Peacekeeper | 14.00% | ~17 |
 | Defender | 13.00% | ~16 |
 | Workaholic | 13.00% | ~16 |
-| Freedom fighter | 11.00% | ~13 |
-| Showdown | 11.00% | ~13 |
-| Safecracker | 11.00% | ~13 |
-| Master thief | 11.00% | ~13 |
+| Showdown | 11.00% | ~14 |
+| Master thief | 11.00% | ~14 |
+| Freedom fighter | 10.00% | ~12 |
+| Safecracker | 10.00% | ~12 |
 | Titan Lord | 9.00% | ~11 |
 | King of the handymen | 9.00% | ~11 |
 | Terror of the hens | 8.00% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 564)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 463)  
+Progressed: 124 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 107 | 0 |
 | 2023-12-23 | 113 | 0 |
 | 2023-12-24 | 118 | 0 |
-| 2023-12-25 | 122 | 0 |
+| 2023-12-25 | 124 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

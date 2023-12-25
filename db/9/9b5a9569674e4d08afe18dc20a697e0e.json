@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2023-12-24T11:04:55.4065461+00:00",
       "NumProgressed": 148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T21:05:44.0495403+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -601,15 +606,15 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "CHAIR",
@@ -617,7 +622,7 @@
       "Name": "A nice view",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CRASHING",
@@ -625,7 +630,7 @@
       "Name": "Crashing the economy",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CULT",
@@ -649,7 +654,7 @@
       "Name": "How to train your...",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DRESSED",
@@ -697,7 +702,7 @@
       "Name": "Hero",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KING",
@@ -705,7 +710,7 @@
       "Name": "King",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LIBERATOR",
@@ -713,7 +718,7 @@
       "Name": "Liberator",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LIBRARY",
@@ -721,7 +726,7 @@
       "Name": "The library",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LOVERS",
@@ -729,7 +734,7 @@
       "Name": "Lover\u0027s dream",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "MERCENARY",
@@ -737,7 +742,7 @@
       "Name": "Mercenary",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MINES",
@@ -761,7 +766,7 @@
       "Name": "Moist",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MOUNTAINEER",
@@ -777,7 +782,7 @@
       "Name": "The prison",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RECOVERING",
@@ -785,7 +790,7 @@
       "Name": "Growing the economy",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SAVIOR",
@@ -793,7 +798,7 @@
       "Name": "Savior of the people",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SKILLED",
@@ -807,17 +812,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "WASHING",
@@ -848,14 +853,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-25T20:05:59.6104215+00:00",
+  "LastChanged_Achievements": "2023-12-25T21:05:44.0495397+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:57:01.5928962+00:00",
-  "LastUpdate_Ratings": "2023-12-25T20:00:24.5353363+00:00",
-  "LastUpdate_Achievements": "2023-12-25T20:05:59.6104402+00:00"
+  "LastUpdate_Ratings": "2023-12-25T21:00:38.5696133+00:00",
+  "LastUpdate_Achievements": "2023-12-25T21:05:44.0495622+00:00"
 }
