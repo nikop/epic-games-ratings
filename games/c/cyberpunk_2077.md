@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,732 |
-| Gun Fu | 8.00% | ~78,488 |
-| The Fool | 7.00% | ~68,677 |
-| Right Back At Ya | 6.00% | ~58,866 |
-| The Lovers | 6.00% | ~58,866 |
-| Full Body Conversion | 5.00% | ~49,055 |
-| True Soldier | 5.00% | ~49,055 |
-| Christmas Tree Attack | 4.00% | ~39,244 |
-| Stanislavski's Method | 4.00% | ~39,244 |
-| The Hermit | 4.00% | ~39,244 |
-| The Wheel of Fortune | 4.00% | ~39,244 |
+| V for Vendetta | 12.00% | ~117,734 |
+| Gun Fu | 8.00% | ~78,489 |
+| The Fool | 7.00% | ~68,678 |
+| Right Back At Ya | 6.00% | ~58,867 |
+| The Lovers | 6.00% | ~58,867 |
+| Full Body Conversion | 5.00% | ~49,056 |
+| True Soldier | 5.00% | ~49,056 |
+| Christmas Tree Attack | 4.00% | ~39,245 |
+| Stanislavski's Method | 4.00% | ~39,245 |
+| The Hermit | 4.00% | ~39,245 |
+| The Wheel of Fortune | 4.00% | ~39,245 |
 | All the President's Men | 4.00% | ~4,389 |
 | Arachnophobia | 4.00% | ~4,389 |
 | Master Crafter | 3.00% | ~29,433 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,622 |
 | Two Heads, One Bullet | 2.00% | ~19,622 |
 | Judy vs Night City | 2.00% | ~19,622 |
-| Spin Doctor | 2.00% | ~2,194 |
+| Spin Doctor | 2.00% | ~2,195 |
 | To Bad Decisions! | 1.00% | ~9,811 |
 | The Wandering Fool | 1.00% | ~9,811 |
 | Ten out of Ten | 1.00% | ~9,811 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,096 (Ranked 16)  
+Progressed: 981,113 (Ranked 16)  
 Completed: 2,970 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 2,970 (0.30%) (Ranked 252)
 | 2023-12-22 | 980,059 | 2,955 |
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
-| 2023-12-25 | 981,096 | 2,970 |
+| 2023-12-25 | 981,113 | 2,970 |
 ## Awards
 Max (Character Customization): 127,101  (Ranked 8)  
 Sum: 442,188 (Ranked 9)  

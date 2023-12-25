@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7782,
+  "EOS_Progressed": 7784,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -8118,6 +8118,11 @@
       "Time": "2023-12-25T08:04:48.075863+00:00",
       "NumProgressed": 7782,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-12-25T09:04:19.9886583+00:00",
+      "NumProgressed": 7784,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -8130,7 +8135,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6772
     },
     {
       "ID": "achievement_01_02",
@@ -8138,7 +8143,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "achievement_01_03",
@@ -8146,7 +8151,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4980
+      "UsersEstimate": 4982
     },
     {
       "ID": "achievement_01_04",
@@ -8154,7 +8159,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5759
+      "UsersEstimate": 5760
     },
     {
       "ID": "achievement_01_05",
@@ -8162,7 +8167,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "achievement_01_06",
@@ -8170,7 +8175,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "achievement_01_07",
@@ -8178,7 +8183,7 @@
       "Name": "Car Workshop",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "achievement_01_08",
@@ -8186,7 +8191,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5836
+      "UsersEstimate": 5838
     },
     {
       "ID": "achievement_01_09",
@@ -8194,7 +8199,7 @@
       "Name": "Right Foot",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "achievement_01_10",
@@ -8202,7 +8207,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 4280
+      "UsersEstimate": 4281
     },
     {
       "ID": "achievement_02_01",
@@ -8242,7 +8247,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "achievement_02_06",
@@ -8258,7 +8263,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "achievement_02_08",
@@ -8266,7 +8271,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "achievement_03_01",
@@ -8290,7 +8295,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "achievement_03_04",
@@ -8314,7 +8319,7 @@
       "Name": "Passport Complete",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_03_07",
@@ -8362,7 +8367,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "achievement_04_02",
@@ -8370,7 +8375,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "achievement_04_03",
@@ -8378,7 +8383,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4126
     },
     {
       "ID": "achievement_04_04",
@@ -8394,7 +8399,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "achievement_04_06",
@@ -8410,7 +8415,7 @@
       "Name": "Nitro Saver",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "achievement_04_08",
@@ -8418,7 +8423,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6693
+      "UsersEstimate": 6694
     },
     {
       "ID": "achievement_04_09",
@@ -8433,7 +8438,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 7782,
+      "Progressed": 7784,
       "Completed": 47
     }
   ],
@@ -8441,8 +8446,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-20T14:59:57.7914737+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:48.0758627+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:04:19.9886574+00:00",
   "LastUpdate_AppInfo": "2023-12-21T23:57:02.6189043+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:59:24.0750769+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:48.0759229+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:58:58.2271759+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:04:19.9887091+00:00"
 }

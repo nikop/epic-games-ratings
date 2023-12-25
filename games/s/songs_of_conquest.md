@@ -13,8 +13,8 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 13.00% | ~96 |
 | Humiliation | 8.00% | ~59 |
 | Veni, Vidi, Vici | 8.00% | ~59 |
-| Multi Kill | 7.00% | ~51 |
-| Sorcerous Spree | 7.00% | ~51 |
+| Multi Kill | 7.00% | ~52 |
+| Sorcerous Spree | 7.00% | ~52 |
 | Landlord Extraordinaire | 6.00% | ~44 |
 | Master | 6.00% | ~44 |
 | Whoops! | 5.00% | ~37 |
@@ -33,10 +33,10 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 1.00% | ~7 |
 | Such A Fungi | 1.00% | ~7 |
 | Grand Master | 1.00% | ~7 |
+| Unlimited Power! | 0.50% | ~4 |
 | In The Thick of It | 0.50% | ~4 |
 | Get Over Here! | 0.50% | ~4 |
 | Death To Diplomacy | 0.40% | ~3 |
-| Unlimited Power! | 0.40% | ~3 |
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
 | Killing Spree | 0.40% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735 (Ranked 300)  
+Progressed: 736 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 388)
 | 2023-12-22 | 665 | 0 |
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
-| 2023-12-25 | 735 | 0 |
+| 2023-12-25 | 736 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 528)  
 Sum: 194 (Ranked 414)  

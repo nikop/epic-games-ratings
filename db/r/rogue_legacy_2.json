@@ -1518,9 +1518,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26656,
+  "EOS_Progressed": 26663,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1370,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -11788,6 +11788,11 @@
       "Time": "2023-12-25T08:10:08.53151+00:00",
       "NumProgressed": 26656,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-25T09:09:50.7908697+00:00",
+      "NumProgressed": 26663,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -11863,15 +11868,15 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 240
     },
     {
       "ID": "BossCastleDefeated",
@@ -11941,9 +11946,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 533
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -11991,7 +11996,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "EndTimerFail",
@@ -12110,21 +12115,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26656,
+      "Progressed": 26663,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5586,
+      "Progressed": 5593,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-25T04:57:04.2152067+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:10:08.5315097+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:09:50.7908694+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:57:00.7470026+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:10:08.531572+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:57:06.4048331+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:09:50.7909423+00:00"
 }

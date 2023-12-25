@@ -26,6 +26,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.70% | ~1,692 |
 | C-C-Combo | 0.70% | ~1,692 |
 | Deflection | 0.70% | ~1,692 |
+| Sneaky | 0.70% | ~1,692 |
 | Ambitious Intent | 0.60% | ~1,450 |
 | R.I.P | 0.60% | ~1,450 |
 | Dig Your Own Grave | 0.60% | ~1,450 |
@@ -37,7 +38,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.60% | ~1,450 |
 | Stone Touch | 0.60% | ~1,450 |
 | Toxic | 0.60% | ~1,450 |
-| Sneaky | 0.60% | ~1,450 |
 | Shadow Walker | 0.60% | ~1,450 |
 | Consecutive Curses | 0.50% | ~1,208 |
 | Who To Trust? | 0.50% | ~1,208 |
@@ -61,10 +61,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.40% | ~967 |
 | Spreading Plague | 0.40% | ~967 |
 | Acid Bath | 0.40% | ~967 |
+| Antivenom | 0.40% | ~967 |
 | A Rough Road | 0.30% | ~725 |
 | Berzerker | 0.30% | ~725 |
 | Chain Reaction | 0.30% | ~725 |
-| Antivenom | 0.30% | ~725 |
 | Decisions, Decisions | 0.30% | ~725 |
 | Snake Sneak | 0.30% | ~725 |
 | The Long Run | 0.30% | ~725 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,647 (Ranked 68)  
+Progressed: 241,650 (Ranked 68)  
 Completed: 301 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 301 (0.12%) (Ranked 299)
 | 2023-12-22 | 241,477 | 300 |
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
-| 2023-12-25 | 241,647 | 301 |
+| 2023-12-25 | 241,650 | 301 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,759 (Ranked 88)  

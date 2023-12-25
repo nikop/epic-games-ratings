@@ -231,9 +231,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1730,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4126,6 +4126,11 @@
       "Time": "2023-12-25T08:04:18.5103562+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T09:03:55.808642+00:00",
+      "NumProgressed": 1730,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4146,7 +4151,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "AC02",
@@ -4162,7 +4167,7 @@
       "Name": "Blood and Gold",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "AC04",
@@ -4184,9 +4189,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 847
+      "UsersEstimate": 830
     },
     {
       "ID": "AC07",
@@ -4202,7 +4207,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "AC09",
@@ -4266,7 +4271,7 @@
       "Name": "Weight of Penance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AC17",
@@ -4274,7 +4279,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AC18",
@@ -4298,7 +4303,7 @@
       "Name": "Still Among Us",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "AC21",
@@ -4378,7 +4383,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "AC31",
@@ -4442,7 +4447,7 @@
       "Name": "Edge of Orison",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "AC39",
@@ -4505,7 +4510,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1730,
       "Completed": 0
     }
   ],
@@ -4513,8 +4518,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-25T02:59:45.293197+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:18.5103557+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:03:55.8086413+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:59:55.3039247+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:18.5104067+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:59:21.7204965+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:03:55.8086827+00:00"
 }

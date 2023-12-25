@@ -28,16 +28,16 @@
 | Champion – starter pack | 56.00% | ~259 |
 | Workout professional | 55.00% | ~254 |
 | Little hacker | 55.00% | ~254 |
+| It's good to be alive | 55.00% | ~254 |
+| Employee of the year | 55.00% | ~254 |
 | Fight for life | 54.00% | ~249 |
-| It's good to be alive | 54.00% | ~249 |
 | Own four walls | 54.00% | ~249 |
 | Intriguing candies | 54.00% | ~249 |
-| Employee of the year | 54.00% | ~249 |
 | Extreme neuropower! | 51.00% | ~236 |
 | Legal courier | 50.00% | ~231 |
 | Escaped from a big trouble | 47.00% | ~217 |
 | Now you are worthy | 44.00% | ~203 |
-| Fight is life | 42.00% | ~194 |
+| Fight is life | 43.00% | ~199 |
 | Mysterious voice | 42.00% | ~194 |
 | Guiding on the right path | 42.00% | ~194 |
 | No blades in the gym | 40.00% | ~185 |

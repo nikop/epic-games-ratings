@@ -1913,7 +1913,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 67402,
+  "EOS_Progressed": 67403,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
@@ -29328,6 +29328,11 @@
       "Time": "2023-12-25T06:08:37.840322+00:00",
       "NumProgressed": 67402,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-25T09:06:57.9249721+00:00",
+      "NumProgressed": 67403,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -29339,7 +29344,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 37071
+      "UsersEstimate": 37072
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -29459,7 +29464,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16176
+      "UsersEstimate": 16177
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -29627,7 +29632,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42463
+      "UsersEstimate": 42464
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -29651,7 +29656,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15502
+      "UsersEstimate": 15503
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -29683,7 +29688,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16850
+      "UsersEstimate": 16851
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -29810,15 +29815,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 67402,
+      "Progressed": 67403,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-24T11:00:06.4166235+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:08:01.9747888+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:06:57.9249718+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0401656+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:02:48.3402246+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:08:01.9749858+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:02:43.519042+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:06:57.9251173+00:00"
 }

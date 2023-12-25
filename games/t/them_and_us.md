@@ -12,9 +12,9 @@
 | What have I done!? | 19.00% | ~65 |
 | Them and Us | 18.00% | ~62 |
 | OUTRAGE | 18.00% | ~62 |
+| Alone In The Dark | 15.00% | ~51 |
 | The Cultists | 15.00% | ~51 |
 | This Coffin Has Your Name On It! | 15.00% | ~51 |
-| Alone In The Dark | 14.00% | ~48 |
 | The Forgotten Tower | 14.00% | ~48 |
 | Parasite Exterminated | 13.00% | ~45 |
 | Trapped | 12.00% | ~41 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 366)  
+Progressed: 343 (Ranked 367)  
 Completed: 1 (0.29%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |

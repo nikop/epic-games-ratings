@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -580,9 +580,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -620,9 +620,9 @@
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -755,8 +755,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:07:53.0879956+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:06:50.5269645+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:50.9700241+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:02:59.129506+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:07:53.0880114+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:02:51.8096524+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:06:50.5269825+00:00"
 }

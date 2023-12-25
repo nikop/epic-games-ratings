@@ -599,7 +599,7 @@
   ],
   "EOS_Progressed": 6170,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9252,17 +9252,17 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 494
     },
     {
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 370
     },
     {
       "ID": "27",
@@ -9611,8 +9611,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:08:15.5846128+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:08:18.0454476+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:59:48.3946204+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:08:15.5846832+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:59:16.3241957+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:08:18.0455265+00:00"
 }

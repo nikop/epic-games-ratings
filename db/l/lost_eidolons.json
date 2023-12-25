@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1141,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2001,6 +2001,11 @@
       "Time": "2023-12-25T08:06:57.9097268+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T09:06:05.8736887+00:00",
+      "NumProgressed": 1141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2050,9 +2055,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 764
     },
     {
       "ID": "07",
@@ -2060,7 +2065,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 616
     },
     {
       "ID": "08",
@@ -2068,7 +2073,7 @@
       "Name": "Monster Slayer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 342
     },
     {
       "ID": "09",
@@ -2076,7 +2081,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 262
     },
     {
       "ID": "10",
@@ -2138,9 +2143,9 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 730
     },
     {
       "ID": "18",
@@ -2188,14 +2193,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 205
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1141,
       "Completed": 1
     }
   ],
@@ -2203,8 +2208,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:06:57.9097266+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:06:05.8736884+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:58:14.8256066+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:06:57.9097439+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:58:04.9807695+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:06:05.8737089+00:00"
 }

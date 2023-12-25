@@ -311,9 +311,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-12-25T08:04:36.0640672+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-25T09:04:10.0724934+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1014,17 +1019,17 @@
       "ID": "ACH_ARE_YOU_READY_NOW",
       "SetID": "biiejkc",
       "Name": "Are you ready now?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1056,7 +1061,7 @@
       "Name": "Ship Shape",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -1072,7 +1077,7 @@
       "Name": "Shanghaied",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -1080,7 +1085,7 @@
       "Name": "Jellyfishing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1096,7 +1101,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -1118,9 +1123,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1134,25 +1139,25 @@
       "ID": "ACH_ROBO_SB_BOSS",
       "SetID": "biiejkc",
       "Name": "SpongeBob vs SpongeBob!",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SLEEPY_TIME",
       "SetID": "biiejkc",
       "Name": "Sleepy Time",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1192,7 +1197,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1224,7 +1229,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1232,7 +1237,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1248,7 +1253,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1263,15 +1268,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-17T16:58:22.2973338+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:36.0640668+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:04:10.072493+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:58:43.9131516+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:36.0640894+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:58:26.534809+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:04:10.0725126+00:00"
 }

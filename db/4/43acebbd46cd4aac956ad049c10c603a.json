@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -235,9 +235,9 @@
       "Count": 83
     }
   ],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3020,6 +3020,11 @@
       "Time": "2023-12-25T03:03:48.7546982+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-25T09:03:32.027463+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3032,7 +3037,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AbInitio",
@@ -3040,7 +3045,7 @@
       "Name": "Ab Initio",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AnthropicHills",
@@ -3072,7 +3077,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "BreakTheLoop",
@@ -3126,9 +3131,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 238
     },
     {
       "ID": "EasternWetlands",
@@ -3168,7 +3173,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GoodCitizen",
@@ -3200,7 +3205,7 @@
       "Name": "Into the Machine",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "JustOneLap",
@@ -3216,7 +3221,7 @@
       "Name": "Lord of the Files",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "LostMarshes",
@@ -3256,7 +3261,7 @@
       "Name": "Museum Visitor",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "NewBeginning",
@@ -3288,7 +3293,7 @@
       "Name": "Overload",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Persistent",
@@ -3472,7 +3477,7 @@
       "Name": "Wanderers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "WesternDelta",
@@ -3503,7 +3508,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 2
     }
   ],
@@ -3511,8 +3516,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-24T13:57:49.2610926+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:03:49.9641837+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:03:32.0274625+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:58:39.0951214+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:03:49.9642405+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:58:22.9679813+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:03:32.0275312+00:00"
 }

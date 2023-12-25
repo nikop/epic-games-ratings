@@ -3581,9 +3581,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19169,
+  "EOS_Progressed": 19173,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17031,6 +17031,11 @@
       "Time": "2023-12-25T08:04:47.2063442+00:00",
       "NumProgressed": 19169,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-25T09:04:19.236244+00:00",
+      "NumProgressed": 19173,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17379,7 +17384,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "WinWithResolve",
@@ -17417,9 +17422,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 959
     },
     {
       "ID": "WinWithoutOrders",
@@ -17475,7 +17480,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "WinNearPresence",
@@ -17514,15 +17519,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19169,
+      "Progressed": 19173,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T01:45:03.4767246+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:47.2063439+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:04:19.2362437+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:58:20.2614891+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:47.2064505+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:58:09.149807+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:04:19.2363492+00:00"
 }

@@ -9,8 +9,8 @@ Number of Ratings: 34  (23.09.2022)
 | Explorer | 68.00% | ~486 |
 | Cowardice | 61.00% | ~436 |
 | NO LIFE IS WORTH SAVING... | 45.00% | ~322 |
+| The Breaking Point | 44.00% | ~315 |
 | Eat Lead! | 44.00% | ~315 |
-| The Breaking Point | 43.00% | ~307 |
 | Here Comes the Boom | 41.00% | ~293 |
 | Prospector | 40.00% | ~286 |
 | Sniper Wolf | 38.00% | ~272 |
@@ -24,8 +24,8 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 30.00% | ~214 |
 | The Horror | 28.00% | ~200 |
 | The Difference | 26.00% | ~186 |
+| It's Just an Accident | 25.00% | ~179 |
 | Vengeance | 24.00% | ~172 |
-| It's Just an Accident | 24.00% | ~172 |
 | Collectibles of Chapter II | 22.00% | ~157 |
 | Broken Hopes | 22.00% | ~157 |
 | Bullseye! | 22.00% | ~157 |
@@ -36,8 +36,8 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 15.00% | ~107 |
 | Collectibles of Chapter III | 13.00% | ~93 |
 | Collectibles of Chapter IV | 13.00% | ~93 |
+| Tiptoe Around | 11.00% | ~79 |
 | Collectibles of Chapter V | 10.00% | ~72 |
-| Tiptoe Around | 10.00% | ~72 |
 | Such is War! | 8.00% | ~57 |
 | Collectibles of Chapter XII | 7.00% | ~50 |
 | Collectibles of Chapter VII | 6.00% | ~43 |

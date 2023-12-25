@@ -631,7 +631,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10538,
+  "EOS_Progressed": 10542,
   "EOS_Completed": 68,
   "EOS_NewPlayers": 864,
   "EOS_NewCompleters": 7,
@@ -13471,6 +13471,11 @@
       "Time": "2023-12-25T08:06:35.4037628+00:00",
       "NumProgressed": 10538,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-25T09:05:47.5864385+00:00",
+      "NumProgressed": 10542,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 29,
@@ -13482,7 +13487,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8747
+      "UsersEstimate": 8750
     },
     {
       "ID": "ACH02",
@@ -13490,7 +13495,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3583
+      "UsersEstimate": 3584
     },
     {
       "ID": "ACH03",
@@ -13506,7 +13511,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4006
     },
     {
       "ID": "ACH05",
@@ -13522,7 +13527,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACH07",
@@ -13554,7 +13559,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "ACH11",
@@ -13586,7 +13591,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACH15",
@@ -13602,7 +13607,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2636
     },
     {
       "ID": "ACH17",
@@ -13713,7 +13718,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10538,
+      "Progressed": 10542,
       "Completed": 68
     }
   ],
@@ -13721,8 +13726,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-25T08:02:48.3065291+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:06:35.4037625+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:05:47.586438+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:02:48.3065297+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:06:35.4038768+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:02:43.3681049+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:05:47.5865134+00:00"
 }

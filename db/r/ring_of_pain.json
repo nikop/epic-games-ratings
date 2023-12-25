@@ -3760,9 +3760,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241647,
+  "EOS_Progressed": 241650,
   "EOS_Completed": 301,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29445,6 +29445,11 @@
       "Time": "2023-12-25T08:10:34.5125114+00:00",
       "NumProgressed": 241647,
       "NumCompleted": 301
+    },
+    {
+      "Time": "2023-12-25T09:10:13.1911389+00:00",
+      "NumProgressed": 241650,
+      "NumCompleted": 301
     }
   ],
   "TotalAchievements": 138,
@@ -30158,9 +30163,9 @@
       "ID": "POISONSNAKE",
       "SetID": "5l8oe0h",
       "Name": "Antivenom",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 967
     },
     {
       "ID": "REROLL30TIMES",
@@ -30222,9 +30227,9 @@
       "ID": "STEALTH10",
       "SetID": "5l8oe0h",
       "Name": "Sneaky",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1692
     },
     {
       "ID": "STEALTH100",
@@ -30559,22 +30564,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241647,
+      "Progressed": 241650,
       "Completed": 301
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3127,
-      "Completed": 412
+      "Progressed": 3130,
+      "Completed": 413
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T03:57:35.6011004+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:10:34.5125113+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:10:13.1911385+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:58:01.8128981+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:10:34.5127838+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:57:54.7457341+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:10:13.1913849+00:00"
 }

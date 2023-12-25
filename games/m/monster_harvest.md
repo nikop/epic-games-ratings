@@ -15,7 +15,7 @@
 | Save the Slimes! | 12.00% | ~38 |
 | So long, Slime Co! | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 373)  
+Progressed: 316 (Ranked 374)  
 Completed: 10 (3.16%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

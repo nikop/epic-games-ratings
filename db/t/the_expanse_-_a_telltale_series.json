@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17363,
+  "EOS_Progressed": 17365,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15066,6 +15066,11 @@
       "Time": "2023-12-25T08:04:06.4464377+00:00",
       "NumProgressed": 17363,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-25T09:03:45.7041391+00:00",
+      "NumProgressed": 17365,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15110,7 +15115,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "14",
@@ -15222,7 +15227,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "27",
@@ -15326,7 +15331,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "33",
@@ -15334,7 +15339,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "34",
@@ -15357,13 +15362,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17363,
+      "Progressed": 17365,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3317,
+      "Progressed": 3319,
       "Completed": 1034
     }
   ],
@@ -15371,8 +15376,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:06.4464372+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:03:45.7041384+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:59:22.4720658+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:06.4465293+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:58:56.9085328+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:03:45.7042165+00:00"
 }

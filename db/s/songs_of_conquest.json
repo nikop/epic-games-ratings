@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2753,6 +2753,11 @@
       "Time": "2023-12-25T07:09:45.1753693+00:00",
       "NumProgressed": 735,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-25T09:08:51.4147782+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2843,9 +2848,9 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ChargerCount",
@@ -2973,7 +2978,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MultiplayerWins",
@@ -3045,7 +3050,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3196,15 +3201,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:08:56.2110181+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:08:51.4147778+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:01:48.9587562+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:08:56.2110935+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:00:50.7497327+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:08:51.4148312+00:00"
 }

@@ -8,13 +8,13 @@ Rating: 4.56 (Ranked 496)
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 0.90% | ~8 |
 | Become King | 0.80% | ~18 |
+| Ranged Weapon | 0.70% | ~16 |
 | Two Handed Weapon | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Defeat 25 Frogs | 0.70% | ~16 |
 | Shield Maiden Yellow Tongue | 0.70% | ~6 |
 | Collect Monster Parts | 0.60% | ~14 |
 | End of the Mozis | 0.60% | ~14 |
-| Ranged Weapon | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Rescue Redgi's Brothers | 0.60% | ~14 |

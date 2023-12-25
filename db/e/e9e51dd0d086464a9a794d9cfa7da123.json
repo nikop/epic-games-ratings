@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 388,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -521,17 +521,17 @@
       "ID": "Empathy",
       "SetID": "2621k8c",
       "Name": "Empathy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Equal",
       "SetID": "2621k8c",
       "Name": "Equal",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FOC",
@@ -561,9 +561,9 @@
       "ID": "Foodie",
       "SetID": "2621k8c",
       "Name": "Foodie",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Frivolous",
@@ -617,9 +617,9 @@
       "ID": "HH",
       "SetID": "2621k8c",
       "Name": "High Heels",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HT",
@@ -665,9 +665,9 @@
       "ID": "Ignore",
       "SetID": "2621k8c",
       "Name": "Ignore",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Impetuous",
@@ -833,9 +833,9 @@
       "ID": "PL",
       "SetID": "2621k8c",
       "Name": "Perfect Lover",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PLMALBM",
@@ -905,9 +905,9 @@
       "ID": "Rationality",
       "SetID": "2621k8c",
       "Name": "Rationality",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Regret",
@@ -945,9 +945,9 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SOC",
@@ -969,9 +969,9 @@
       "ID": "SelflessLove",
       "SetID": "2621k8c",
       "Name": "Selfless Love",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Sensitive",
@@ -1081,9 +1081,9 @@
       "ID": "Takeout",
       "SetID": "2621k8c",
       "Name": "Takeout",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Thirsty",
@@ -1105,9 +1105,9 @@
       "ID": "Unfeeling",
       "SetID": "2621k8c",
       "Name": "Unfeeling",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Unreasonable",
@@ -1160,8 +1160,8 @@
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:10:32.2071633+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:10:10.9673955+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:12.9538681+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:59:56.7833732+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:10:32.2072367+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:59:23.042931+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:10:10.9674965+00:00"
 }

@@ -31,10 +31,10 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.70% | ~48 |
 | Vickie | 0.70% | ~48 |
 | Te Amo Lety | 0.70% | ~48 |
+| Benedict Brahrnold | 0.60% | ~41 |
 | Deck the Balls | 0.60% | ~23 |
 | Now It's a Party! | 0.60% | ~41 |
 | Ashley | 0.50% | ~34 |
-| Benedict Brahrnold | 0.50% | ~34 |
 | I'll Be Back | 0.50% | ~34 |
 | Love Conquers All | 0.50% | ~34 |
 | Rule 34 | 0.40% | ~27 |

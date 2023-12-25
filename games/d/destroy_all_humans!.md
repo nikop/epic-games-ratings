@@ -7,37 +7,37 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Kaijuiced | 67.00% | ~98 |
-| Shop Til They Drop | 66.00% | ~96 |
+| Shop Til They Drop | 67.00% | ~98 |
 | Lie Back and Think of Albion | 62.00% | ~91 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~85 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~87 |
 | Yettisoned | 56.00% | ~82 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~76 |
-| Perfect Probulator | 50.00% | ~73 |
-| Lobster Blisque | 49.00% | ~72 |
+| Lobster Blisque | 50.00% | ~74 |
+| Perfect Probulator | 50.00% | ~74 |
 | Pimp My Raid | 45.00% | ~66 |
-| Fly Me to the Moon Base | 42.00% | ~61 |
-| Earthly Pleasures | 40.00% | ~58 |
-| Ducks in a Row, Fish in a Barrel | 40.00% | ~58 |
+| Fly Me to the Moon Base | 41.00% | ~60 |
+| Earthly Pleasures | 41.00% | ~60 |
+| Ducks in a Row, Fish in a Barrel | 41.00% | ~60 |
 | Freshly Squeezed | 34.00% | ~50 |
-| Forbidden Donut | 32.00% | ~47 |
-| Upgreatest | 32.00% | ~47 |
-| Bodied Sattva | 29.00% | ~42 |
-| Rock of the Bay | 25.00% | ~36 |
-| Trans-Siberian Express | 25.00% | ~36 |
+| Forbidden Donut | 33.00% | ~49 |
+| Upgreatest | 31.00% | ~46 |
+| Bodied Sattva | 29.00% | ~43 |
+| Rock of the Bay | 26.00% | ~38 |
 | Deincarnated | 24.00% | ~35 |
-| Furon Fashion | 23.00% | ~34 |
-| Re-Return of the Clone of the Invasion II-2 | 23.00% | ~34 |
-| Arkvoodle Doodle | 16.00% | ~23 |
-| Die Nasty | 14.00% | ~20 |
-| Ouch of Body Experience | 13.00% | ~19 |
+| Furon Fashion | 24.00% | ~35 |
+| Trans-Siberian Express | 24.00% | ~35 |
+| Re-Return of the Clone of the Invasion II-2 | 22.00% | ~32 |
+| Arkvoodle Doodle | 16.00% | ~24 |
+| Ouch of Body Experience | 14.00% | ~21 |
+| Die Nasty | 14.00% | ~21 |
 | If You Know What I Mean | 13.00% | ~19 |
 | Hidden Human Hive Harvest | 13.00% | ~19 |
 | Mash Machine | 13.00% | ~19 |
 | Dusted | 12.00% | ~18 |
 | Albion Bridge Is for Falling Down | 11.00% | ~16 |
-| Scuttled | 8.00% | ~12 |
-| PK Slam Dunk | 8.00% | ~12 |
-| Higher Than the Futen Zoku | 8.00% | ~12 |
+| Scuttled | 7.00% | ~10 |
+| PK Slam Dunk | 7.00% | ~10 |
+| Higher Than the Futen Zoku | 7.00% | ~10 |
 | Arty Facts | 6.00% | ~9 |
 | Cult Following | 4.00% | ~6 |
 | To Russia With Love | 3.00% | ~4 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 0.70% | ~1 |
 | Against All Odds | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 438)  
+Progressed: 147 (Ranked 437)  
 Completed: 1 (0.68%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1 (0.68%) (Ranked 196)
 | 2023-12-22 | 106 | 0 |
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 141 | 1 |
-| 2023-12-25 | 146 | 1 |
+| 2023-12-25 | 147 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 499)  
 Sum: 34 (Ranked 523)  

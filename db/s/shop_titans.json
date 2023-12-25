@@ -7747,9 +7747,9 @@
       "Count": 3801
     }
   ],
-  "EOS_Progressed": 147495,
+  "EOS_Progressed": 147500,
   "EOS_Completed": 333,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1327,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -33852,6 +33852,11 @@
       "Time": "2023-12-25T08:07:10.5468419+00:00",
       "NumProgressed": 147495,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-12-25T09:06:15.819934+00:00",
+      "NumProgressed": 147500,
+      "NumCompleted": 333
     }
   ],
   "TotalAchievements": 112,
@@ -34159,7 +34164,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "damage01",
@@ -34471,7 +34476,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "lilu_a",
@@ -34551,7 +34556,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "masterpiece",
@@ -34559,7 +34564,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "polonia_a",
@@ -34685,9 +34690,9 @@
       "ID": "twinenchant01",
       "SetID": "anfd17p",
       "Name": "Magical Harmony",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2950
+      "UsersEstimate": 4425
     },
     {
       "ID": "typeunlock01",
@@ -34758,15 +34763,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147495,
+      "Progressed": 147500,
       "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-24T18:03:33.6539097+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:07:10.5468416+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:06:15.8199333+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:03:29.1180526+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:07:10.5471012+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:03:16.022196+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:06:15.8201385+00:00"
 }

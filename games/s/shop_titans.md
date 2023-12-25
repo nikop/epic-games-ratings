@@ -42,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 3.00% | ~4,425 |
 | Natural 20 | 3.00% | ~4,425 |
 | Did we pack lunch? | 3.00% | ~4,425 |
+| Magical Harmony | 3.00% | ~4,425 |
 | Arcane Industries | 3.00% | ~4,425 |
 | A Notch Above the Rest | 2.00% | ~2,950 |
 | Cream of the Crop | 2.00% | ~2,950 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 2.00% | ~2,950 |
 | King's Shadow | 2.00% | ~2,950 |
 | Master Recycler | 2.00% | ~2,950 |
-| Magical Harmony | 2.00% | ~2,950 |
 | All Accounted For | 2.00% | ~2,950 |
 | Special Ingredient | 2.00% | ~2,950 |
 | Exotic Commodities | 2.00% | ~2,950 |
@@ -105,21 +105,21 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,475 |
 | Eternal Crusade | 1.00% | ~1,475 |
 | Economy of Scarce | 1.00% | ~1,475 |
-| The Greatest Grind | 0.90% | ~1,327 |
-| All or Nothing! | 0.90% | ~1,327 |
+| The Greatest Grind | 0.90% | ~1,328 |
+| All or Nothing! | 0.90% | ~1,328 |
 | Anything not Nailed Down | 0.80% | ~1,180 |
 | Marvels from the World Over | 0.80% | ~1,180 |
 | Bane of Legends | 0.70% | ~1,032 |
 | Ultimate Collector | 0.60% | ~885 |
 | Unleashed Potential | 0.60% | ~885 |
 | JACKPOT!!! | 0.60% | ~885 |
-| Oligarch Monarch | 0.50% | ~737 |
-| Merchant Extraordinaire | 0.50% | ~737 |
+| Oligarch Monarch | 0.50% | ~738 |
+| Merchant Extraordinaire | 0.50% | ~738 |
 | To Hell and Back | 0.40% | ~590 |
 | Cash Only Please | 0.40% | ~590 |
 | Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,495 (Ranked 83)  
+Progressed: 147,500 (Ranked 83)  
 Completed: 333 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 333 (0.23%) (Ranked 267)
 | 2023-12-22 | 147,019 | 330 |
 | 2023-12-23 | 147,242 | 331 |
 | 2023-12-24 | 147,460 | 333 |
-| 2023-12-25 | 147,495 | 333 |
+| 2023-12-25 | 147,500 | 333 |
 ## Awards
 Max (Great for Beginners): 4,914  (Ranked 75)  
 Sum: 27,801 (Ranked 51)  

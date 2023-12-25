@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,543 |
-| Cavalier | 25.00% | ~203,549 |
-| Fatso | 23.00% | ~187,265 |
-| Awakening | 21.00% | ~170,981 |
-| Ranger | 20.00% | ~162,839 |
-| Scrooge | 20.00% | ~162,839 |
-| Anorectic | 16.00% | ~130,272 |
-| Firestarter | 16.00% | ~130,272 |
-| Bookworm | 15.00% | ~122,130 |
-| Insomniac | 13.00% | ~105,846 |
-| Buddy | 12.00% | ~97,704 |
-| Thief | 12.00% | ~97,704 |
-| Sinner | 11.00% | ~89,562 |
-| Traveller | 11.00% | ~89,562 |
-| Convict | 10.00% | ~81,420 |
-| Haggler | 9.00% | ~73,278 |
+| Blacksmith's Son | 32.00% | ~260,546 |
+| Cavalier | 25.00% | ~203,552 |
+| Fatso | 23.00% | ~187,267 |
+| Awakening | 21.00% | ~170,983 |
+| Ranger | 20.00% | ~162,841 |
+| Scrooge | 20.00% | ~162,841 |
+| Anorectic | 16.00% | ~130,273 |
+| Firestarter | 16.00% | ~130,273 |
+| Bookworm | 15.00% | ~122,131 |
+| Insomniac | 13.00% | ~105,847 |
+| Buddy | 12.00% | ~97,705 |
+| Thief | 12.00% | ~97,705 |
+| Sinner | 11.00% | ~89,563 |
+| Traveller | 11.00% | ~89,563 |
+| Convict | 10.00% | ~81,421 |
+| Haggler | 9.00% | ~73,279 |
 | McLovin | 7.00% | ~56,994 |
 | Runt | 7.00% | ~56,994 |
 | Casanova | 6.00% | ~48,852 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,197 (Ranked 19)  
+Progressed: 814,206 (Ranked 19)  
 Completed: 52 (0.01%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 52 (0.01%) (Ranked 366)
 | 2023-12-22 | 813,782 | 52 |
 | 2023-12-23 | 813,967 | 52 |
 | 2023-12-24 | 814,160 | 52 |
-| 2023-12-25 | 814,197 | 52 |
+| 2023-12-25 | 814,206 | 52 |
 ## Awards
 Max (Character Customization): 7,709  (Ranked 53)  
-Sum: 28,613 (Ranked 50)  
+Sum: 28,616 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +351,7 @@ Diff (max vs sum): 3
 | This game has Diverse Characters | 1,759 |
 | This game has Amazing Storytelling | 1,743 |
 | This game is Highly Recommended | 1,716 |
-| This game is Extremely Fun | 1,708 |
+| This game is Extremely Fun | 1,711 |
 | This game has Realistic Visuals | 1,688 |
 | This game has Amazing Characters | 1,686 |
 | This game is Educational | 1,624 |
@@ -692,4 +692,4 @@ Diff (max vs sum): 3
 | 2023-12-22 | 4.71 | - | 7,698 | 28,583 |
 | 2023-12-23 | 4.71 | - | 7,702 | 28,594 |
 | 2023-12-24 | 4.71 | - | 7,702 | 28,600 |
-| 2023-12-25 | 4.71 | - | 7,709 | 28,613 |
+| 2023-12-25 | 4.71 | - | 7,709 | 28,616 |

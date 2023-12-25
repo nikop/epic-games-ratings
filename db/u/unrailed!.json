@@ -2915,9 +2915,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 673712,
+  "EOS_Progressed": 673722,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2538,
+  "EOS_NewPlayers": 2544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31450,6 +31450,11 @@
       "Time": "2023-12-25T08:10:27.9026376+00:00",
       "NumProgressed": 673712,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-25T09:10:07.2988913+00:00",
+      "NumProgressed": 673722,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -31461,7 +31466,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 107794
+      "UsersEstimate": 107796
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -31469,7 +31474,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 80845
+      "UsersEstimate": 80847
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -31477,7 +31482,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20212
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -31501,7 +31506,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 121268
+      "UsersEstimate": 121270
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -31509,7 +31514,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 87583
+      "UsersEstimate": 87584
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -31517,7 +31522,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26948
+      "UsersEstimate": 26949
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -31541,7 +31546,7 @@
       "Name": "Expert Stroller",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26948
+      "UsersEstimate": 26949
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -31581,7 +31586,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 94320
+      "UsersEstimate": 94321
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -31589,7 +31594,7 @@
       "Name": "Orient Express",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26948
+      "UsersEstimate": 26949
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -31629,7 +31634,7 @@
       "Name": "Marathon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20212
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -31661,7 +31666,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20212
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -31709,7 +31714,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 121268
+      "UsersEstimate": 121270
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -31781,7 +31786,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 107794
+      "UsersEstimate": 107796
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -31876,15 +31881,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 673712,
+      "Progressed": 673722,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-25T04:57:36.1524909+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:10:27.9026374+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:10:07.298891+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:05.8431082+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:57:43.623786+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:10:27.902767+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:57:39.6887873+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:10:07.2990475+00:00"
 }

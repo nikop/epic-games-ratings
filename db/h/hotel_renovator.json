@@ -247,7 +247,7 @@
   "Tags": [],
   "EOS_Progressed": 1294,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
@@ -3104,9 +3104,9 @@
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3209,8 +3209,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-23T01:40:38.043834+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:08:17.8041087+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:08:19.8351721+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-25T08:01:10.7934927+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:08:17.8041346+00:00"
+  "LastUpdate_Ratings": "2023-12-25T09:00:19.6410198+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:08:19.8351965+00:00"
 }

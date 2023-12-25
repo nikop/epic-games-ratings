@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -67,11 +67,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1750,
-  "EOS_Completed": 100,
-  "EOS_NewPlayers": 432,
-  "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Progressed": 1751,
+  "EOS_Completed": 101,
+  "EOS_NewPlayers": 431,
+  "EOS_NewCompleters": 31,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5182,6 +5182,11 @@
       "Time": "2023-12-25T08:04:02.4289651+00:00",
       "NumProgressed": 1750,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-12-25T09:03:42.3952216+00:00",
+      "NumProgressed": 1751,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 25,
@@ -5201,7 +5206,7 @@
       "Name": "In this together",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "META_ALL_LINK",
@@ -5223,9 +5228,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 420
+      "UsersEstimate": 438
     },
     {
       "ID": "META_HALF_LINK",
@@ -5249,7 +5254,7 @@
       "Name": "Free at last",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5273,7 +5278,7 @@
       "Name": "For its own good",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "META_RESULT_3-4",
@@ -5335,9 +5340,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 911
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5351,9 +5356,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 840
     },
     {
       "ID": "PROGRESS_N2",
@@ -5369,7 +5374,7 @@
       "Name": "A new dawn",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "PROGRESS_N4",
@@ -5392,16 +5397,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1750,
-      "Completed": 100
+      "Progressed": 1751,
+      "Completed": 101
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:02.4289647+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:03:42.3952211+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:57:02.7727019+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:02.4290113+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:57:07.9169252+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:03:42.3952626+00:00"
 }

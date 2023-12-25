@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1319,9 +1319,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-25T08:04:20.9101931+00:00",
+  "LastChanged_Achievements": "2023-12-25T09:03:57.8482422+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.5316374+00:00",
-  "LastUpdate_Ratings": "2023-12-25T07:57:57.8572317+00:00",
-  "LastUpdate_Achievements": "2023-12-25T08:04:20.9102252+00:00"
+  "LastUpdate_Ratings": "2023-12-25T08:57:51.8886867+00:00",
+  "LastUpdate_Achievements": "2023-12-25T09:03:57.8483071+00:00"
 }
