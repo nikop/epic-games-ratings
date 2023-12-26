@@ -5,10 +5,10 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1127,6 +1127,11 @@
       "Time": "2023-12-26T14:04:29.0570509+00:00",
       "NumProgressed": 402,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T15:04:30.2599066+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1249,9 +1254,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1394,15 +1399,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:04:29.0570506+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:04:30.2599062+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:58:49.3637736+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:04:29.0570735+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:51.8604567+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:04:30.2599256+00:00"
 }

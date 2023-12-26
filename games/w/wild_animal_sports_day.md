@@ -15,7 +15,7 @@
 | Trampolining Pro | 0.00% | ~0 |
 | Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 630)  
+Progressed: 14 (Ranked 631)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

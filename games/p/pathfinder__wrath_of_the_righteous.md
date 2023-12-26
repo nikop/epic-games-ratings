@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,451 |
+| Devoured by Darkness | 27.00% | ~3,452 |
 | A Spark | 19.00% | ~2,429 |
 | Burning City | 18.00% | ~2,301 |
-| Defender's Heart | 16.00% | ~2,045 |
-| Mythic Choices | 15.00% | ~1,917 |
-| Banner over the Citadel | 14.00% | ~1,789 |
+| Defender's Heart | 16.00% | ~2,046 |
+| Mythic Choices | 15.00% | ~1,918 |
+| Banner over the Citadel | 14.00% | ~1,790 |
 | Queen's Gratitude | 12.00% | ~1,534 |
-| Fifth Crusade | 9.00% | ~1,150 |
+| Fifth Crusade | 9.00% | ~1,151 |
 | Embrace of the Abyss | 7.00% | ~895 |
 | Demonic and Divine | 7.00% | ~895 |
 | Path of the Angel | 6.00% | ~767 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~511 |
 | A Flame | 4.00% | ~511 |
 | Hey, I Know You! | 4.00% | ~511 |
-| Path of the Trickster | 3.00% | ~383 |
-| Path of the Lich | 3.00% | ~383 |
-| Heroic Victory | 3.00% | ~383 |
-| Capitulation Is Now Moot | 3.00% | ~383 |
-| Core of the Riddle | 3.00% | ~383 |
+| Path of the Trickster | 3.00% | ~384 |
+| Path of the Lich | 3.00% | ~384 |
+| Heroic Victory | 3.00% | ~384 |
+| Capitulation Is Now Moot | 3.00% | ~384 |
+| Core of the Riddle | 3.00% | ~384 |
 | Hanged Man's Notes | 3.00% | ~347 |
 | Sarkoris Will Be Green | 3.00% | ~347 |
 | The Lady of the Forest | 3.00% | ~347 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,782 (Ranked 169)  
+Progressed: 12,785 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 12,670 | 0 |
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
-| 2023-12-26 | 12,782 | 0 |
+| 2023-12-26 | 12,785 | 0 |
 ## Awards
 Max (Character Customization): 1,772  (Ranked 124)  
 Sum: 7,168 (Ranked 123)  

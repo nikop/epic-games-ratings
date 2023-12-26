@@ -6,27 +6,27 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 86.00% | ~661 |
-| All Bark, No Bite | 75.00% | ~577 |
-| Hopeful Hunter | 64.00% | ~492 |
+| Plenty More to Go | 86.00% | ~662 |
+| All Bark, No Bite | 75.00% | ~578 |
+| Hopeful Hunter | 64.00% | ~493 |
 | Amateur Adventurer | 62.00% | ~477 |
-| The Road to Recovery | 61.00% | ~469 |
+| The Road to Recovery | 61.00% | ~470 |
 | Partners? | 59.00% | ~454 |
 | Magical Mineral Golem | 53.00% | ~408 |
 | On Outlander Lane | 52.00% | ~400 |
 | First Time Fishing | 49.00% | ~377 |
-| A Girl About the Town | 48.00% | ~369 |
-| First Time Hunting | 47.00% | ~361 |
+| A Girl About the Town | 48.00% | ~370 |
+| First Time Hunting | 47.00% | ~362 |
 | Rune Wall Wreckage | 46.00% | ~354 |
 | ...And Your Tax Money | 45.00% | ~346 |
-| The Lords of the Snowpeak | 38.00% | ~292 |
-| The Go-To Girl | 35.00% | ~269 |
-| Scavenger's Honor | 35.00% | ~269 |
-| Natural Born Monster-Killer | 35.00% | ~269 |
-| The Lava Mantor Wyrm | 34.00% | ~261 |
-| One Mean Merc | 34.00% | ~261 |
-| Money, Money, Money | 34.00% | ~261 |
-| The Great Forest...On Foot! | 34.00% | ~261 |
+| The Lords of the Snowpeak | 38.00% | ~293 |
+| The Go-To Girl | 35.00% | ~270 |
+| Scavenger's Honor | 35.00% | ~270 |
+| Natural Born Monster-Killer | 35.00% | ~270 |
+| The Lava Mantor Wyrm | 34.00% | ~262 |
+| One Mean Merc | 34.00% | ~262 |
+| Money, Money, Money | 34.00% | ~262 |
+| The Great Forest...On Foot! | 34.00% | ~262 |
 | Adept, for an Acting Mayor | 33.00% | ~254 |
 | Rune Wall Master | 32.00% | ~246 |
 | The Quarry...On Foot! | 29.00% | ~223 |
@@ -39,7 +39,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Pride of the Town | 22.00% | ~169 |
 | This Treasure I've Found | 20.00% | ~154 |
 | New Nevaeh's Number One Customer | 20.00% | ~154 |
-| Arms Master | 18.00% | ~138 |
+| Arms Master | 18.00% | ~139 |
 | Rune Scholar | 16.00% | ~123 |
 | No Treasure Left Behind | 13.00% | ~100 |
 | One-Hundred Resident Record | 11.00% | ~85 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~62 |
 | Rising Champion | 7.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 298)  
-Completed: 60 (7.80%) (Ranked 52)  
+Progressed: 770 (Ranked 298)  
+Completed: 60 (7.79%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,7 +115,7 @@ Completed: 60 (7.80%) (Ranked 52)
 | 2023-12-22 | 760 | 60 |
 | 2023-12-23 | 761 | 60 |
 | 2023-12-24 | 765 | 60 |
-| 2023-12-26 | 769 | 60 |
+| 2023-12-26 | 770 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

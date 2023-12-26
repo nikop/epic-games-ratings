@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -1584,6 +1584,11 @@
       "Time": "2023-12-26T09:10:10.9957275+00:00",
       "NumProgressed": 613,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T15:10:07.4547061+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1611,7 +1616,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Assassin",
@@ -1873,9 +1878,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "TreasureHunter",
@@ -1914,7 +1919,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 1
     }
   ],
@@ -1922,8 +1927,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:56.3784436+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:10:07.4547055+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:24.5842262+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:56.3784746+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:26.5136136+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:10:07.4547414+00:00"
 }

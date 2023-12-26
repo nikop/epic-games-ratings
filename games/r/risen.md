@@ -1,50 +1,50 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.52 (Ranked 563)  
+Rating: 4.52 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~113 |
-| Map reader | 65.00% | ~81 |
-| Adventurer | 63.00% | ~78 |
-| Philanthropist | 60.00% | ~74 |
+| Beginner | 91.00% | ~114 |
+| Map reader | 66.00% | ~82 |
+| Adventurer | 63.00% | ~79 |
+| Philanthropist | 61.00% | ~76 |
+| Archer | 45.00% | ~56 |
 | The brave little tailor | 44.00% | ~55 |
-| Archer | 44.00% | ~55 |
-| Field hand | 40.00% | ~50 |
-| Samaritan | 35.00% | ~43 |
-| Well-to-do | 35.00% | ~43 |
-| The merciful one | 32.00% | ~40 |
-| Ladies' man | 31.00% | ~38 |
-| Ferocious wild boars | 27.00% | ~33 |
+| Field hand | 41.00% | ~51 |
+| Well-to-do | 36.00% | ~45 |
+| Samaritan | 35.00% | ~44 |
+| The merciful one | 33.00% | ~41 |
+| Ladies' man | 32.00% | ~40 |
+| Ferocious wild boars | 27.00% | ~34 |
 | Idiot | 26.00% | ~32 |
-| Beast slayer | 22.00% | ~27 |
-| Family man | 20.00% | ~25 |
-| Wise man | 19.00% | ~24 |
+| Beast slayer | 22.00% | ~28 |
+| Family man | 21.00% | ~26 |
 | Death of a legend | 19.00% | ~24 |
 | Archaeologist | 19.00% | ~24 |
 | Ogre friend | 19.00% | ~24 |
-| Hard worker | 19.00% | ~24 |
 | Sidelined | 19.00% | ~24 |
+| Wise man | 18.00% | ~22 |
 | Little hero | 18.00% | ~22 |
+| Hard worker | 18.00% | ~22 |
 | The fourth triplet | 18.00% | ~22 |
-| Fence | 17.00% | ~21 |
+| Fence | 18.00% | ~22 |
 | Master detective | 16.00% | ~20 |
 | Pandora's box | 15.00% | ~19 |
 | Ghost hunter | 15.00% | ~19 |
-| Peacekeeper | 14.00% | ~17 |
+| Workaholic | 14.00% | ~18 |
+| Peacekeeper | 14.00% | ~18 |
 | Defender | 13.00% | ~16 |
-| Workaholic | 13.00% | ~16 |
 | Showdown | 11.00% | ~14 |
+| Safecracker | 11.00% | ~14 |
 | Master thief | 11.00% | ~14 |
 | Freedom fighter | 10.00% | ~12 |
-| Safecracker | 10.00% | ~12 |
 | Titan Lord | 9.00% | ~11 |
 | King of the handymen | 9.00% | ~11 |
 | Terror of the hens | 8.00% | ~10 |
 | Expert | 7.00% | ~9 |
-| The traveler | 6.00% | ~7 |
-| Moneybags | 6.00% | ~7 |
+| The traveler | 6.00% | ~8 |
+| Moneybags | 6.00% | ~8 |
 | Rune master | 4.00% | ~5 |
 | King Midas | 4.00% | ~5 |
 | Fervent swimmer | 3.00% | ~4 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 563)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 460)  
+Progressed: 125 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 113 | 0 |
 | 2023-12-24 | 118 | 0 |
 | 2023-12-25 | 124 | 0 |
+| 2023-12-26 | 125 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

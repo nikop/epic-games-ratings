@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1922,9 +1922,9 @@
       "ID": "adriana_sick",
       "SetID": "69co12a",
       "Name": "Deal with life",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "airpods",
@@ -1946,9 +1946,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "all_promotion_6",
@@ -1986,9 +1986,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 356
     },
     {
       "ID": "buy_trainer",
@@ -2018,9 +2018,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 322
     },
     {
       "ID": "fight_win_1",
@@ -2449,8 +2449,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:25.0752721+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:36.3868787+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:00:03.2105527+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:25.0753205+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:00:03.3939574+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:36.386965+00:00"
 }

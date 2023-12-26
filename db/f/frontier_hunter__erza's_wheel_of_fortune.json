@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2448,9 +2448,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "7pimpda",
       "Name": "Boss challenge",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2625,8 +2625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:05.5884431+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:15.7323015+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:00:12.9166277+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:05.5884849+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:00:12.479293+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:15.7323359+00:00"
 }

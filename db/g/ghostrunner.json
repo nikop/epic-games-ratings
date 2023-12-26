@@ -4,11 +4,11 @@
   "ProductSlug": "ghostrunner",
   "Ranking_Rating": 186,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1423,10 +1423,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 744,
       "NumberOfAwardsMax": 530
+    },
+    {
+      "Time": "2023-12-26T14:58:44.9755837+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 716,
+      "NumberOfAwardsMax": 530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 744,
+  "NumberOfAwards": 716,
   "NumberOfAwardsMax": 530,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1491,9 +1497,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 25152,
+  "EOS_Progressed": 25154,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28451,6 +28457,11 @@
       "Time": "2023-12-26T14:03:49.0013443+00:00",
       "NumProgressed": 25152,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-12-26T15:03:49.8946818+00:00",
+      "NumProgressed": 25154,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 45,
@@ -28478,7 +28489,7 @@
       "Name": "Artificial selection",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "BackToHell",
@@ -28494,7 +28505,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "DeadInTheAir",
@@ -28502,7 +28513,7 @@
       "Name": "Dead in the air",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -28550,7 +28561,7 @@
       "Name": "Homerunner",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 11067
+      "UsersEstimate": 11068
     },
     {
       "ID": "ICallItLuck",
@@ -28558,7 +28569,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 10815
+      "UsersEstimate": 10816
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -28598,7 +28609,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 19116
+      "UsersEstimate": 19117
     },
     {
       "ID": "MoreThanHuman",
@@ -28614,7 +28625,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "ObedientMachine",
@@ -28646,7 +28657,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 11067
+      "UsersEstimate": 11068
     },
     {
       "ID": "Perfection",
@@ -28686,7 +28697,7 @@
       "Name": "Running out of breath",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "RunningWild",
@@ -28734,7 +28745,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 15343
+      "UsersEstimate": 15344
     },
     {
       "ID": "SwordToAGunfight",
@@ -28742,7 +28753,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7294
+      "UsersEstimate": 7295
     },
     {
       "ID": "TripleA",
@@ -28758,7 +28769,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5533
+      "UsersEstimate": 5534
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -28774,7 +28785,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 7294
+      "UsersEstimate": 7295
     },
     {
       "ID": "Wallrunner",
@@ -28782,7 +28793,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "WaveOfMutilation",
@@ -28798,7 +28809,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 10061
+      "UsersEstimate": 10062
     },
     {
       "ID": "WhereHeStood",
@@ -28814,28 +28825,28 @@
       "Name": "Why not both",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 7294
+      "UsersEstimate": 7295
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 25152,
+      "Progressed": 25154,
       "Completed": 68
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 25152,
+      "Progressed": 25154,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "LastChanged": "2023-12-26T13:58:42.251838+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:03:49.001344+00:00",
+  "LastChanged": "2023-12-26T14:58:44.9755835+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:03:49.8946815+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.5913812+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:58:42.2518384+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:03:49.0015041+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:44.9755841+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:03:49.8948256+00:00"
 }

@@ -390,9 +390,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 207833,
+  "EOS_Progressed": 207836,
   "EOS_Completed": 549,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -27115,6 +27115,11 @@
       "Time": "2023-12-26T14:08:29.9014522+00:00",
       "NumProgressed": 207833,
       "NumCompleted": 549
+    },
+    {
+      "Time": "2023-12-26T15:08:40.6576437+00:00",
+      "NumProgressed": 207836,
+      "NumCompleted": 549
     }
   ],
   "TotalAchievements": 29,
@@ -27150,7 +27155,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195363
+      "UsersEstimate": 195366
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -27310,7 +27315,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20783
+      "UsersEstimate": 20784
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -27357,7 +27362,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 207833,
+      "Progressed": 207836,
       "Completed": 549
     }
   ],
@@ -27365,8 +27370,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-12-26T09:59:27.3277994+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:08:29.901452+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:08:40.6576432+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.0466234+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:58:24.2397307+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:08:29.9016031+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:26.6405306+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:08:40.6578141+00:00"
 }

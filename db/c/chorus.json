@@ -2,12 +2,12 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 649,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -2753,6 +2753,11 @@
       "Time": "2023-12-26T03:10:22.5670238+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-26T15:09:36.9498777+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 43,
@@ -2764,7 +2769,7 @@
       "Name": "Demigod",
       "Percentage": 74,
       "XP": 150,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "DieInPermadeath",
@@ -2788,7 +2793,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2804,7 +2809,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2820,7 +2825,7 @@
       "Name": "Born to Drift",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "KillWithALargeShip",
@@ -2836,7 +2841,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MasteryOfRites",
@@ -2892,7 +2897,7 @@
       "Name": "Payback",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2900,7 +2905,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -2956,7 +2961,7 @@
       "Name": "Rise as One",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MissionOldFriend",
@@ -2964,7 +2969,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2980,7 +2985,7 @@
       "Name": "Shields Down",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "MissionScavengingJob",
@@ -2988,7 +2993,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "MissionShipyard",
@@ -3012,7 +3017,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -3028,7 +3033,7 @@
       "Name": "Origin",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Overcharge",
@@ -3060,7 +3065,7 @@
       "Name": "Huntress",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "RiteOfTheStar",
@@ -3076,7 +3081,7 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "UseRepairDrones",
@@ -3084,7 +3089,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "VisitAllLocations",
@@ -3100,22 +3105,22 @@
       "Name": "Relentless",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-12-22T19:01:41.4529576+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:25.7304293+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:36.9498773+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.386194+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:58:30.740854+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:25.7304603+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:33.6689873+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:36.9499174+00:00"
 }

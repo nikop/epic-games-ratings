@@ -10,13 +10,13 @@
 | First winning | 82.00% | ~389 |
 | Your first job | 81.00% | ~384 |
 | Depressed visitor | 76.00% | ~360 |
+| Fitness professional | 75.00% | ~356 |
 | Old movies enjoyer | 75.00% | ~356 |
 | Neurotrainer – power gainer! | 75.00% | ~356 |
-| Fitness professional | 74.00% | ~351 |
 | Employee of the week | 74.00% | ~351 |
 | Your own amateur gym | 69.00% | ~327 |
+| First defeat | 68.00% | ~322 |
 | Run K, run! | 68.00% | ~322 |
-| First defeat | 67.00% | ~318 |
 | No bullying more | 66.00% | ~313 |
 | Hello, world! | 66.00% | ~313 |
 | Fighting is cool | 64.00% | ~303 |
@@ -44,17 +44,17 @@
 | Champion – no way back | 38.00% | ~180 |
 | Responsible approach | 38.00% | ~180 |
 | Underground dwellers | 37.00% | ~175 |
+| Deal with life | 36.00% | ~171 |
 | Mom got better | 35.00% | ~166 |
-| Deal with life | 35.00% | ~166 |
 | GYM professional | 35.00% | ~166 |
 | Poisoned fighter | 34.00% | ~161 |
 | Get out of my apartment! | 34.00% | ~161 |
 | The die is cast | 34.00% | ~161 |
 | Gang wrangler | 32.00% | ~152 |
 | Seashell hunter | 32.00% | ~152 |
+| Problems of cyborgs | 31.00% | ~147 |
 | Absolute Champion! | 31.00% | ~147 |
 | Undercover robot | 31.00% | ~147 |
-| Problems of cyborgs | 30.00% | ~142 |
 | Not little hacker | 30.00% | ~142 |
 | Another world | 29.00% | ~137 |
 | The lonesome road | 29.00% | ~137 |

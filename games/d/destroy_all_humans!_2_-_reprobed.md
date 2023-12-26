@@ -20,17 +20,17 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 19.00% | ~38 |
 | Freshly Squeezed | 17.00% | ~34 |
 | Perfect Probulator | 16.00% | ~32 |
-| Die Nasty | 15.00% | ~30 |
+| Die Nasty | 16.00% | ~32 |
 | Transmitting From Sol-3 | 13.00% | ~26 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~22 |
 | Dusted | 10.00% | ~20 |
 | Fly Me to the Moon Base | 9.00% | ~18 |
 | Kaijuiced | 9.00% | ~18 |
 | Scuttled | 7.00% | ~14 |
-| Re-Return of the Clone of the Invasion II-2 | 6.00% | ~12 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~14 |
+| Ultimate Smoothie | 4.00% | ~8 |
 | Lobster Blisque | 4.00% | ~8 |
 | Yettisoned | 4.00% | ~8 |
-| Ultimate Smoothie | 3.00% | ~6 |
 | Deincarnated | 3.00% | ~6 |
 | Arkvoodle Doodle | 3.00% | ~6 |
 | The Optional Mandate | 2.00% | ~4 |

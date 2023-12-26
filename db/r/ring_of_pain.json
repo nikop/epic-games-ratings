@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3766,10 +3766,10 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241740,
+  "EOS_Progressed": 241746,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 448,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 450,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -29601,6 +29601,11 @@
       "Time": "2023-12-26T14:10:01.6190728+00:00",
       "NumProgressed": 241740,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-26T15:10:12.6721958+00:00",
+      "NumProgressed": 241746,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30042,9 +30047,9 @@
       "ID": "KILL20TYPES",
       "SetID": "5l8oe0h",
       "Name": "The Bestiary",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1692
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -30715,13 +30720,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241740,
+      "Progressed": 241746,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3220,
+      "Progressed": 3226,
       "Completed": 413
     }
   ],
@@ -30729,8 +30734,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:10:01.6190726+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:10:12.6721956+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:58:18.9749863+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:10:01.6193164+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:21.6079635+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:10:12.6724469+00:00"
 }

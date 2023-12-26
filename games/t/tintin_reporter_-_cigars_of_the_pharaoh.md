@@ -12,10 +12,10 @@
 | The Curse of Kih-Oskh | 16.00% | ~16 |
 | It's a Deal! | 11.00% | ~11 |
 | Cat Lover | 10.00% | ~10 |
+| In the Name of the Law | 9.00% | ~9 |
 | Mummy Nightmare | 9.00% | ~9 |
 | Dynamite, Treason and Coconuts | 9.00% | ~9 |
 | Save a Friend | 9.00% | ~9 |
-| In the Name of the Law | 8.00% | ~8 |
 | Au Revoir, Abudin | 8.00% | ~8 |
 | Mysterious Bungalow | 8.00% | ~8 |
 | The Eyes! | 7.00% | ~7 |
@@ -25,8 +25,8 @@
 | Under the Hood | 6.00% | ~6 |
 | Long Live Gaipajama! | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
+| Tintin, Reporter | 5.00% | ~5 |
 | Eyes Shut | 5.00% | ~5 |
-| Tintin, Reporter | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Mountain Runner | 3.00% | ~3 |
 | Subtlety | 3.00% | ~3 |

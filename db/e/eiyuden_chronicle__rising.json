@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.8,
+  "EOS_Completed_Percentage": 7.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -681,6 +681,11 @@
       "Time": "2023-12-26T13:11:03.4607028+00:00",
       "NumProgressed": 769,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-26T15:08:45.7045208+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -692,7 +697,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -716,7 +721,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -732,7 +737,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -740,7 +745,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -756,7 +761,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -772,7 +777,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -780,7 +785,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -804,7 +809,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -812,7 +817,7 @@
       "Name": "One Mean Merc",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -860,7 +865,7 @@
       "Name": "Arms Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -884,7 +889,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -900,7 +905,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -956,7 +961,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -972,7 +977,7 @@
       "Name": "First Time Hunting",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -1012,7 +1017,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -1091,15 +1096,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:08:34.9276519+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:08:45.7045203+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:23.3548036+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:08:34.9276845+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:25.5091706+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:08:45.7045629+00:00"
 }

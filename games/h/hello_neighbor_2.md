@@ -18,9 +18,9 @@ Rating: 4.44 (Ranked 690)
 | Imprisonment | 23.00% | ~835 |
 | Mad Scientist | 23.00% | ~835 |
 | Reunion | 23.00% | ~835 |
-| Dog Person | 18.00% | ~653 |
+| Dog Person | 18.00% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,630 (Ranked 213)  
+Progressed: 3,631 (Ranked 213)  
 Completed: 140 (3.86%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 140 (3.86%) (Ranked 93)
 | 2023-12-23 | 3,569 | 139 |
 | 2023-12-24 | 3,596 | 140 |
 | 2023-12-25 | 3,623 | 140 |
-| 2023-12-26 | 3,630 | 140 |
+| 2023-12-26 | 3,631 | 140 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

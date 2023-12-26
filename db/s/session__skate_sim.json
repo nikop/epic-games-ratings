@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 217,
@@ -1309,9 +1309,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3386,
+  "EOS_Progressed": 3388,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6939,6 +6939,11 @@
       "Time": "2023-12-26T14:05:27.0362004+00:00",
       "NumProgressed": 3386,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T15:05:29.0936002+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7062,7 +7067,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_GOLDEN",
@@ -7086,7 +7091,7 @@
       "Name": "Hoarder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -7102,7 +7107,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7174,7 +7179,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -7254,7 +7259,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -7326,22 +7331,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2101
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3386,
+      "Progressed": 3388,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-25T23:57:34.3841441+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:05:27.0361999+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:05:29.0936+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:51.970302+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:05:27.0362453+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:55.4730076+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:05:29.0936555+00:00"
 }

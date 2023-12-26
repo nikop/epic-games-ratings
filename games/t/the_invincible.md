@@ -1,32 +1,32 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.52 (Ranked 563)  
+Rating: 4.52 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 66.00% | ~673 |
-| The Teleprobe | 52.00% | ~530 |
-| The City | 46.00% | ~469 |
-| The field base | 41.00% | ~418 |
-| The Alliance | 35.00% | ~357 |
-| Survivors | 35.00% | ~357 |
-| The Condor | 33.00% | ~337 |
-| The End | 33.00% | ~337 |
-| The Necroevolution | 27.00% | ~275 |
-| Krauta is alive | 26.00% | ~265 |
-| Peacemaker | 21.00% | ~214 |
-| Volcanologist | 20.00% | ~204 |
-| On her own | 19.00% | ~194 |
+| The Camp | 66.00% | ~676 |
+| The Teleprobe | 52.00% | ~532 |
+| The City | 46.00% | ~471 |
+| The field base | 42.00% | ~430 |
+| The Alliance | 35.00% | ~358 |
+| Survivors | 35.00% | ~358 |
+| The Condor | 33.00% | ~338 |
+| The End | 33.00% | ~338 |
+| Krauta is alive | 26.00% | ~266 |
+| The Necroevolution | 26.00% | ~266 |
+| Peacemaker | 21.00% | ~215 |
+| Volcanologist | 20.00% | ~205 |
+| On her own | 19.00% | ~195 |
 | Fierce fight | 18.00% | ~184 |
 | Evacuation | 18.00% | ~184 |
-| Beyond divisions | 16.00% | ~163 |
-| Flying Objects Operator | 15.00% | ~153 |
+| Beyond divisions | 16.00% | ~164 |
+| Flying Objects Operator | 15.00% | ~154 |
 | I remember everything! | 13.00% | ~133 |
-| Another giant | 12.00% | ~122 |
+| Another giant | 12.00% | ~123 |
 | Violent solution | 8.00% | ~82 |
 | I leave no man behind | 8.00% | ~82 |
-| Innate curiosity | 7.00% | ~71 |
+| Innate curiosity | 7.00% | ~72 |
 | Strong objection | 6.00% | ~61 |
 | Ubiquitous holes | 5.00% | ~51 |
 | The Invincible | 5.00% | ~51 |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 563)
 | Convoy list | 0.90% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,020 (Ranked 282)  
+Progressed: 1,024 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 928 | 0 |
 | 2023-12-24 | 960 | 0 |
 | 2023-12-25 | 1,002 | 0 |
-| 2023-12-26 | 1,020 | 0 |
+| 2023-12-26 | 1,024 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

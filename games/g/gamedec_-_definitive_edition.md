@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,170 |
-| Powergamer | 27.00% | ~69,055 |
-| Write that down | 25.00% | ~63,940 |
-| Barely scratched the surface | 25.00% | ~63,940 |
-| Guns, lots of guns | 13.00% | ~33,249 |
-| Collector | 12.00% | ~30,691 |
-| Elementary! | 9.00% | ~23,018 |
-| Griever | 8.00% | ~20,461 |
-| Pumpkin Jack | 8.00% | ~20,461 |
-| Wake up! | 8.00% | ~20,461 |
-| It's honest work | 7.00% | ~17,903 |
+| I will finish what you started | 29.00% | ~74,173 |
+| Powergamer | 27.00% | ~69,058 |
+| Write that down | 25.00% | ~63,942 |
+| Barely scratched the surface | 25.00% | ~63,942 |
+| Guns, lots of guns | 13.00% | ~33,250 |
+| Collector | 12.00% | ~30,692 |
+| Elementary! | 9.00% | ~23,019 |
+| Griever | 8.00% | ~20,462 |
+| Pumpkin Jack | 8.00% | ~20,462 |
+| Wake up! | 8.00% | ~20,462 |
+| It's honest work | 7.00% | ~17,904 |
 | Me smart | 6.00% | ~15,346 |
 | Trash compactor | 6.00% | ~15,346 |
 | Valedictorian | 6.00% | ~15,346 |
 | Good listener | 5.00% | ~12,788 |
-| BOY! | 4.00% | ~10,230 |
-| Ka-ching! | 4.00% | ~10,230 |
-| So you like to read? | 4.00% | ~10,230 |
+| BOY! | 4.00% | ~10,231 |
+| Ka-ching! | 4.00% | ~10,231 |
+| So you like to read? | 4.00% | ~10,231 |
 | Hoarder | 3.00% | ~7,673 |
 | I like to sniff around | 3.00% | ~7,673 |
 | Mind reader | 3.00% | ~7,673 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~512 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,759 (Ranked 64)  
+Progressed: 255,770 (Ranked 64)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-23 | 255,488 | 7 |
 | 2023-12-24 | 255,587 | 8 |
 | 2023-12-25 | 255,705 | 8 |
-| 2023-12-26 | 255,759 | 8 |
+| 2023-12-26 | 255,770 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 385)  
 Sum: 93 (Ranked 463)  

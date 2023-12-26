@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2188,
+  "EOS_Progressed": 2192,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6264,6 +6264,11 @@
       "Time": "2023-12-26T14:09:59.2254692+00:00",
       "NumProgressed": 2188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T15:10:10.1913394+00:00",
+      "NumProgressed": 2192,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6308,7 +6313,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_14",
@@ -6340,7 +6345,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_18",
@@ -6348,7 +6353,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_19",
@@ -6468,7 +6473,7 @@
       "Name": "Scrap collector",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_32",
@@ -6476,7 +6481,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_33",
@@ -6500,7 +6505,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1929
     },
     {
       "ID": "achievement_36",
@@ -6508,7 +6513,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_37",
@@ -6516,7 +6521,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1381
     },
     {
       "ID": "achievement_38",
@@ -6540,7 +6545,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_40",
@@ -6548,7 +6553,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1140
     },
     {
       "ID": "achievement_41",
@@ -6556,7 +6561,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_42",
@@ -6580,7 +6585,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "achievement_45",
@@ -6628,7 +6633,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_50",
@@ -6684,7 +6689,7 @@
       "Name": "Support the troops",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_57",
@@ -6716,7 +6721,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_60",
@@ -6779,13 +6784,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2188,
+      "Progressed": 2192,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2188,
+      "Progressed": 2192,
       "Completed": 1
     }
   ],
@@ -6793,8 +6798,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:59.225469+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:10:10.1913391+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:00:31.6583401+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:59.2255352+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:00:31.1257135+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:10:10.1914183+00:00"
 }

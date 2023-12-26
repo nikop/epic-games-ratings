@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-12-26T13:06:21.3007509+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T15:03:33.5447554+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -774,7 +779,7 @@
       "Name": "Aristocratic",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Botropolis",
@@ -782,7 +787,7 @@
       "Name": "Botropolis",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ClickEmAll",
@@ -796,9 +801,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "DiggingAHole",
@@ -806,7 +811,7 @@
       "Name": "Digging a Hole",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "DopaMiner",
@@ -828,9 +833,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "ImALumberbot",
@@ -852,9 +857,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 141
     },
     {
       "ID": "ManicMechanic",
@@ -870,7 +875,7 @@
       "Name": "Mathematic",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "MineSweeper",
@@ -910,15 +915,15 @@
       "Name": "Room To Spare",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "StackOverflow",
@@ -950,7 +955,7 @@
       "Name": "Systematic",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TuttiFrutti",
@@ -972,9 +977,9 @@
       "ID": "Whoa",
       "SetID": "4bd750m",
       "Name": "Whoa!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "Yup",
@@ -989,14 +994,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:03:32.9356444+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:03:33.544755+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:03:05.7929499+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:03:32.9356622+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:03:04.9387052+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:03:33.5447753+00:00"
 }

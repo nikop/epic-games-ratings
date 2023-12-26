@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 2.00% | ~3,293 |
 | Imprint | 2.00% | ~3,293 |
 | Ravenous | 2.00% | ~3,293 |
-| Weeper | 1.00% | ~1,646 |
+| Weeper | 1.00% | ~1,647 |
 | Devourer | 0.70% | ~1,153 |
 | Harmless | 0.60% | ~988 |
 | Silenced Whispers | 0.60% | ~988 |
@@ -35,6 +35,7 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.20% | ~329 |
 | Breathsmith | 0.20% | ~329 |
 | Unwrap the Gift | 0.20% | ~329 |
+| Passage | 0.20% | ~329 |
 | Dream | 0.20% | ~328 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~165 |
@@ -43,7 +44,6 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 0.10% | ~164 |
 | Kinship | 0.10% | ~165 |
 | Weakness | 0.10% | ~165 |
-| Passage | 0.10% | ~165 |
 | Generous | 0.10% | ~165 |
 | Kin | 0.10% | ~164 |
 | Listen | 0.10% | ~164 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,643 (Ranked 81)  
+Progressed: 164,652 (Ranked 81)  
 Completed: 411 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 411 (0.25%) (Ranked 264)
 | 2023-12-23 | 164,107 | 393 |
 | 2023-12-24 | 164,303 | 399 |
 | 2023-12-25 | 164,530 | 406 |
-| 2023-12-26 | 164,643 | 411 |
+| 2023-12-26 | 164,652 | 411 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 426)  
 Sum: 423 (Ranked 344)  

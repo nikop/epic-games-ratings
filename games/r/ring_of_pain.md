@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.80% | ~26 |
 | Nothing To Lose | 0.70% | ~1,692 |
 | Delving Deeper | 0.70% | ~1,692 |
+| The Bestiary | 0.70% | ~1,692 |
 | Heartless | 0.70% | ~1,692 |
 | What's Yours Is Mine | 0.70% | ~1,692 |
 | Spine Breaker | 0.70% | ~1,692 |
@@ -35,7 +36,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.60% | ~1,450 |
 | Cold Hearted | 0.60% | ~1,450 |
 | I Am Overburdened | 0.60% | ~1,450 |
-| The Bestiary | 0.60% | ~1,450 |
 | Shootout | 0.60% | ~1,450 |
 | Stone Touch | 0.60% | ~1,450 |
 | Toxic | 0.60% | ~1,450 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,740 (Ranked 69)  
+Progressed: 241,746 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
-| 2023-12-26 | 241,740 | 302 |
+| 2023-12-26 | 241,746 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

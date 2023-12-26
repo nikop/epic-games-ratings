@@ -17,9 +17,9 @@ Rating: 4.49 (Ranked 623)
 | Open Sesame | 43.00% | ~570 |
 | Sticky Fingers | 43.00% | ~570 |
 | Knives Out | 43.00% | ~570 |
+| Lock, Stock, And Barrel | 42.00% | ~556 |
 | Back In The Saddle | 42.00% | ~556 |
 | Land, Ho! | 42.00% | ~556 |
-| Lock, Stock, And Barrel | 41.00% | ~543 |
 | No Man Is An Island | 41.00% | ~543 |
 | At Wits' End | 40.00% | ~530 |
 | Up In Flames | 38.00% | ~504 |
@@ -28,7 +28,7 @@ Rating: 4.49 (Ranked 623)
 | Going Once... | 35.00% | ~464 |
 | Let Me Be Frank | 33.00% | ~437 |
 | No Stone Unturned | 32.00% | ~424 |
-| Brain Food | 30.00% | ~398 |
+| Brain Food | 31.00% | ~411 |
 | Read It And Weep | 19.00% | ~252 |
 | Curiosity Killed The Cat | 18.00% | ~238 |
 | Big Breakthrough | 12.00% | ~159 |

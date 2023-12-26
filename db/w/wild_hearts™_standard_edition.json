@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 908,
+  "EOS_Progressed": 909,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
@@ -3043,6 +3043,11 @@
       "Time": "2023-12-26T14:09:10.4440587+00:00",
       "NumProgressed": 908,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T15:09:20.6938821+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3055,7 +3060,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "achievement_10",
@@ -3071,7 +3076,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_12",
@@ -3101,9 +3106,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_16",
@@ -3119,7 +3124,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_18",
@@ -3135,7 +3140,7 @@
       "Name": "Counter Specialist",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_2",
@@ -3167,7 +3172,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "achievement_23",
@@ -3311,7 +3316,7 @@
       "Name": "Big Spender",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_4",
@@ -3373,9 +3378,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_47",
@@ -3397,9 +3402,9 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_6",
@@ -3421,9 +3426,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_9",
@@ -3438,13 +3443,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 908,
+      "Progressed": 909,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:10.4440584+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:20.6938818+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:59:49.0637536+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:10.4440956+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:59:47.2297671+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:20.693924+00:00"
 }

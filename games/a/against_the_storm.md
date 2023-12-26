@@ -15,12 +15,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 4.00% | ~772 |
 | Coral Forest | 4.00% | ~772 |
 | The Marshlands | 4.00% | ~772 |
+| The Scarlet Orchard | 4.00% | ~772 |
 | Frosts | 4.00% | ~772 |
 | Land of Greed | 4.00% | ~772 |
 | Ominous Presence | 4.00% | ~772 |
 | Gathering Storm | 4.00% | ~772 |
 | Royal Outpost | 3.00% | ~579 |
-| The Scarlet Orchard | 3.00% | ~579 |
 | Homesick | 2.00% | ~386 |
 | Ruined Armory | 2.00% | ~386 |
 | Bandit Camp | 2.00% | ~386 |
@@ -41,17 +41,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 1.00% | ~193 |
 | Corrosive Torrent | 1.00% | ~193 |
 | Cursed Lands | 1.00% | ~193 |
+| Victory Through Prosperity | 0.90% | ~174 |
 | Defying the Crown | 0.90% | ~174 |
 | Into the Forest | 0.90% | ~174 |
 | Serving Ale | 0.80% | ~154 |
 | Fishmen Ritual Site | 0.80% | ~154 |
-| Victory Through Prosperity | 0.80% | ~154 |
 | Efficient Explorer | 0.70% | ~135 |
 | Refinery | 0.70% | ~135 |
 | Dangerous Lands | 0.70% | ~135 |
 | Forsaken Gods Temple | 0.70% | ~135 |
 | Forbidden Lands | 0.60% | ~116 |
-| Fox Utopia | 0.50% | ~96 |
+| Fox Utopia | 0.50% | ~97 |
 | Feeding The People | 0.40% | ~77 |
 | Like a Machine | 0.40% | ~77 |
 | Prestigious Expedition | 0.30% | ~58 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,297 (Ranked 150)  
+Progressed: 19,301 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,297 | 38 |
+| 2023-12-26 | 19,301 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,293 (Ranked 177)  

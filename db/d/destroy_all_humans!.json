@@ -6,9 +6,9 @@
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 169,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -849,6 +849,11 @@
       "Time": "2023-12-26T14:04:15.5069679+00:00",
       "NumProgressed": 167,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T15:04:16.4588876+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -861,7 +866,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -877,7 +882,7 @@
       "Name": "Scuttled",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -885,7 +890,7 @@
       "Name": "Deincarnated",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -901,7 +906,7 @@
       "Name": "Yettisoned",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -917,7 +922,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -925,7 +930,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -933,15 +938,15 @@
       "Name": "Rock of the Bay",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -949,15 +954,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
       "SetID": "cefn62b",
       "Name": "Ouch of Body Experience",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -981,7 +986,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -989,7 +994,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -1011,9 +1016,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1021,15 +1026,15 @@
       "Name": "Kaijuiced",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1037,7 +1042,7 @@
       "Name": "Die Nasty",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -1045,7 +1050,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1053,7 +1058,7 @@
       "Name": "Higher Than the Futen Zoku",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -1067,9 +1072,9 @@
       "ID": "ACH_ENEMY_SILHOUETTE",
       "SetID": "cefn62b",
       "Name": "Arty Facts",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -1083,15 +1088,15 @@
       "ID": "ACH_INVADE_CAPITOL",
       "SetID": "cefn62b",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 78
     },
@@ -1099,17 +1104,17 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1133,15 +1138,15 @@
       "Name": "Bodied Sattva",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
       "SetID": "cefn62b",
       "Name": "Against All Odds",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_REVISIT_MISSION",
@@ -1149,7 +1154,7 @@
       "Name": "Dusted",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1157,7 +1162,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1165,7 +1170,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1173,22 +1178,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 169,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:04:15.5069674+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:04:16.4588866+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:32.2655282+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:04:15.5069893+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:34.4322287+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:04:16.4589149+00:00"
 }

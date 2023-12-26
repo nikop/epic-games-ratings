@@ -1,56 +1,56 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 72.00% | ~42,106 |
-| I read Shakespeare and stuff | 60.00% | ~35,089 |
-| Just a sprinkle | 59.00% | ~34,504 |
-| I'm stumped | 57.00% | ~33,334 |
-| Plant get enough | 57.00% | ~33,334 |
-| This is just my weekend vehicle | 55.00% | ~32,165 |
-| It's just the beginning | 55.00% | ~32,165 |
-| Hard work pays off | 50.00% | ~29,240 |
-| It's never too late to farm | 47.00% | ~27,486 |
-| All out of Land | 42.00% | ~24,562 |
-| Field Trip | 41.00% | ~23,977 |
-| I like to switch it up | 38.00% | ~22,223 |
-| Help me to help you | 36.00% | ~21,053 |
-| Ultimutt Pawesomeness | 26.00% | ~15,205 |
-| Van Gogh | 24.00% | ~14,035 |
-| Vehicle fleet | 21.00% | ~12,281 |
-| You wood not believe it | 20.00% | ~11,696 |
-| The plot thickens | 15.00% | ~8,772 |
-| Large-scale supplier | 15.00% | ~8,772 |
-| Well-Oiled Machine | 15.00% | ~8,772 |
-| Long haul | 15.00% | ~8,772 |
-| Clucky Streak | 14.00% | ~8,187 |
-| That's a wrap | 14.00% | ~8,187 |
-| Fix me up | 12.00% | ~7,018 |
-| It's sow easy | 11.00% | ~6,433 |
-| Rock on | 11.00% | ~6,433 |
-| Highly cultivated | 10.00% | ~5,848 |
-| Giddy-up! | 9.00% | ~5,263 |
-| Cowherd | 7.00% | ~4,094 |
-| Fluffyness | 6.00% | ~3,509 |
-| Road Trip | 5.00% | ~2,924 |
-| Helper A does not stop … ever | 5.00% | ~2,924 |
-| Bringing in the Honey | 5.00% | ~2,924 |
-| Three little piggies… | 4.00% | ~2,339 |
-| Game on | 3.00% | ~1,754 |
+| Own use | 72.00% | ~42,121 |
+| I read Shakespeare and stuff | 60.00% | ~35,101 |
+| Just a sprinkle | 59.00% | ~34,516 |
+| I'm stumped | 57.00% | ~33,346 |
+| Plant get enough | 57.00% | ~33,346 |
+| This is just my weekend vehicle | 55.00% | ~32,176 |
+| It's just the beginning | 55.00% | ~32,176 |
+| Hard work pays off | 50.00% | ~29,251 |
+| It's never too late to farm | 47.00% | ~27,496 |
+| All out of Land | 42.00% | ~24,571 |
+| Field Trip | 41.00% | ~23,986 |
+| I like to switch it up | 38.00% | ~22,231 |
+| Help me to help you | 36.00% | ~21,061 |
+| Ultimutt Pawesomeness | 26.00% | ~15,211 |
+| Van Gogh | 24.00% | ~14,040 |
+| Vehicle fleet | 21.00% | ~12,285 |
+| You wood not believe it | 20.00% | ~11,700 |
+| The plot thickens | 15.00% | ~8,775 |
+| Large-scale supplier | 15.00% | ~8,775 |
+| Well-Oiled Machine | 15.00% | ~8,775 |
+| Long haul | 15.00% | ~8,775 |
+| Clucky Streak | 14.00% | ~8,190 |
+| That's a wrap | 14.00% | ~8,190 |
+| Fix me up | 12.00% | ~7,020 |
+| It's sow easy | 11.00% | ~6,435 |
+| Rock on | 11.00% | ~6,435 |
+| Highly cultivated | 10.00% | ~5,850 |
+| Giddy-up! | 9.00% | ~5,265 |
+| Cowherd | 7.00% | ~4,095 |
+| Fluffyness | 6.00% | ~3,510 |
+| Road Trip | 5.00% | ~2,925 |
+| Helper A does not stop … ever | 5.00% | ~2,925 |
+| Bringing in the Honey | 5.00% | ~2,925 |
+| Three little piggies… | 4.00% | ~2,340 |
+| Game on | 3.00% | ~1,755 |
 | Pretty colourful | 0.80% | ~468 |
-| Original grain | 0.70% | ~409 |
-| Gone but not for cotton | 0.50% | ~292 |
-| Thoroughbred! | 0.50% | ~292 |
+| Original grain | 0.70% | ~410 |
+| Gone but not for cotton | 0.50% | ~293 |
+| Thoroughbred! | 0.50% | ~293 |
 | Cheese it | 0.40% | ~234 |
 | Olea europaea | 0.40% | ~234 |
 | You are not a kangaroo | 0.40% | ~234 |
-| Raisin the stakes | 0.30% | ~175 |
+| Raisin the stakes | 0.30% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,481 (Ranked 116)  
+Progressed: 58,502 (Ranked 116)  
 Completed: 6 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 6 (0.01%) (Ranked 367)
 | 2023-12-23 | 57,640 | 6 |
 | 2023-12-24 | 57,928 | 6 |
 | 2023-12-25 | 58,341 | 6 |
-| 2023-12-26 | 58,481 | 6 |
+| 2023-12-26 | 58,502 | 6 |
 ## Awards
 Max (Great for Beginners): 5,912  (Ranked 66)  
 Sum: 44,717 (Ranked 34)  

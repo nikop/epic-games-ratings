@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6900,
+  "EOS_Progressed": 6904,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7662,6 +7662,11 @@
       "Time": "2023-12-26T14:08:35.1370374+00:00",
       "NumProgressed": 6900,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T15:08:46.0700769+00:00",
+      "NumProgressed": 6904,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7697,7 +7702,7 @@
       "Name": "Ashley",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BBrahrnold",
@@ -7945,7 +7950,7 @@
       "Name": "Love Conquers All",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LifeFoundAWay",
@@ -8224,21 +8229,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3939,
+      "Progressed": 3943,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6900,
+      "Progressed": 6904,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:08:35.1370372+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:08:46.0700764+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:56.7052945+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:08:35.1371079+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:00.293889+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:08:46.0701677+00:00"
 }

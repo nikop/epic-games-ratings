@@ -1,16 +1,16 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~484 |
-| Lost and Found | 7.00% | ~339 |
+| Malpractice Assurance | 10.00% | ~485 |
+| Lost and Found | 7.00% | ~340 |
 | This Belongs in a Museum | 5.00% | ~6,499 |
 | Autodidact | 5.00% | ~6,499 |
-| This guy... again? | 5.00% | ~242 |
+| This guy... again? | 5.00% | ~243 |
 | Serenity Now! | 4.00% | ~5,199 |
 | Creep and Sleep | 4.00% | ~5,199 |
 | Meat and Greet | 4.00% | ~5,199 |
@@ -19,48 +19,48 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,199 |
 | Ploughshares to Swords | 4.00% | ~194 |
 | Bloody Graduation | 4.00% | ~194 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,899 |
-| It Rings a Bell | 3.00% | ~3,899 |
-| Not Today! | 3.00% | ~3,899 |
-| It Happens | 3.00% | ~3,899 |
-| Rush Hour | 3.00% | ~3,899 |
-| Merry Time | 3.00% | ~3,899 |
-| Harvest Festival | 3.00% | ~3,899 |
-| To Grandmother's House | 3.00% | ~3,899 |
-| Whale | 3.00% | ~3,899 |
-| A Place to Lay Your Head | 3.00% | ~3,899 |
-| FNG | 3.00% | ~3,899 |
-| Nope | 3.00% | ~3,899 |
-| Friends 'Til the End | 3.00% | ~145 |
-| Resurrection | 2.00% | ~2,599 |
-| Unleash Hell | 2.00% | ~2,599 |
-| Funny Guy | 2.00% | ~2,599 |
-| Long Live the King | 2.00% | ~2,599 |
-| Wyrdly Reconstructed | 2.00% | ~2,599 |
-| Boxcar Kid | 2.00% | ~2,599 |
-| Unfulfilled Desires | 2.00% | ~2,599 |
-| Hope Rekindled | 2.00% | ~2,599 |
-| Predator | 2.00% | ~2,599 |
-| Dissector | 2.00% | ~2,599 |
-| Banishment | 2.00% | ~2,599 |
-| Deprogramming | 2.00% | ~2,599 |
-| Now Stay Dead | 2.00% | ~2,599 |
-| Reverse Banditry | 2.00% | ~2,599 |
-| Spelunker | 2.00% | ~2,599 |
-| Ramble On | 2.00% | ~2,599 |
-| A Clear Conscience | 2.00% | ~2,599 |
-| When You Want Something Done Right | 2.00% | ~2,599 |
-| Utopia | 2.00% | ~2,599 |
-| Unshackled | 2.00% | ~2,599 |
-| Road Trip | 2.00% | ~2,599 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,900 |
+| It Rings a Bell | 3.00% | ~3,900 |
+| Not Today! | 3.00% | ~3,900 |
+| It Happens | 3.00% | ~3,900 |
+| Rush Hour | 3.00% | ~3,900 |
+| Merry Time | 3.00% | ~3,900 |
+| Harvest Festival | 3.00% | ~3,900 |
+| To Grandmother's House | 3.00% | ~3,900 |
+| Whale | 3.00% | ~3,900 |
+| A Place to Lay Your Head | 3.00% | ~3,900 |
+| FNG | 3.00% | ~3,900 |
+| Nope | 3.00% | ~3,900 |
+| Friends 'Til the End | 3.00% | ~146 |
+| Resurrection | 2.00% | ~2,600 |
+| Unleash Hell | 2.00% | ~2,600 |
+| Funny Guy | 2.00% | ~2,600 |
+| Long Live the King | 2.00% | ~2,600 |
+| Wyrdly Reconstructed | 2.00% | ~2,600 |
+| Boxcar Kid | 2.00% | ~2,600 |
+| Unfulfilled Desires | 2.00% | ~2,600 |
+| Hope Rekindled | 2.00% | ~2,600 |
+| Predator | 2.00% | ~2,600 |
+| Dissector | 2.00% | ~2,600 |
+| Banishment | 2.00% | ~2,600 |
+| Deprogramming | 2.00% | ~2,600 |
+| Now Stay Dead | 2.00% | ~2,600 |
+| Reverse Banditry | 2.00% | ~2,600 |
+| Spelunker | 2.00% | ~2,600 |
+| Ramble On | 2.00% | ~2,600 |
+| A Clear Conscience | 2.00% | ~2,600 |
+| When You Want Something Done Right | 2.00% | ~2,600 |
+| Utopia | 2.00% | ~2,600 |
+| Unshackled | 2.00% | ~2,600 |
+| Road Trip | 2.00% | ~2,600 |
 | This Looks Familiar | 1.00% | ~1,300 |
 | Ichthyophobic | 1.00% | ~1,300 |
 | No More Mouths to Feed | 1.00% | ~1,300 |
 | Worldly Traveller | 1.00% | ~1,300 |
 | Hot Air | 1.00% | ~1,300 |
 | Eyes Up | 1.00% | ~1,300 |
-| Slap on the Wrist | 1.00% | ~48 |
-| For Old Time' Sake | 1.00% | ~48 |
+| Slap on the Wrist | 1.00% | ~49 |
+| For Old Time' Sake | 1.00% | ~49 |
 | Handled | 0.90% | ~1,170 |
 | Shrine of Reflection | 0.80% | ~1,040 |
 | Body of Work | 0.80% | ~1,040 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,973 (Ranked 87)  
+Progressed: 129,984 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 129,973 | 3 |
+| 2023-12-26 | 129,984 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
 Sum: 21,108 (Ranked 58)  

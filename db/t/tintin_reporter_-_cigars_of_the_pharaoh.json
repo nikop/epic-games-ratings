@@ -497,9 +497,9 @@
       "ID": "Achievement10",
       "SetID": "9fa3l5n",
       "Name": "In the Name of the Law",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement11",
@@ -569,9 +569,9 @@
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 85,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement2",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:05:51.7223692+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:05:53.6354784+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:00:16.9784586+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:05:51.7223944+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:00:16.7060893+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:05:53.6355029+00:00"
 }

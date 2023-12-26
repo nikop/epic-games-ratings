@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
       "SetID": "4n84pon",
       "Name": "Ultimate Smoothie",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
@@ -1266,9 +1266,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1338,9 +1338,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "4n84pon",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1427,8 +1427,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:08:54.7325264+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:04.7376651+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:40.5005831+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:08:54.7325526+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:43.1389777+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:04.7376914+00:00"
 }

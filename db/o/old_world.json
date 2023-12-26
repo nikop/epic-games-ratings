@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2190,9 +2190,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15956,
+  "EOS_Progressed": 15958,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18390,6 +18390,11 @@
       "Time": "2023-12-26T14:10:02.6860318+00:00",
       "NumProgressed": 15956,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-26T15:10:13.8061426+00:00",
+      "NumProgressed": 15958,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18783,9 +18788,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -18991,9 +18996,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
       "SetID": "9201eeb",
       "Name": "Pioneer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -19751,9 +19756,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -20207,9 +20212,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -20263,9 +20268,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -20599,9 +20604,9 @@
       "ID": "ACHIEVEMENT_VICTORY_TIME",
       "SetID": "7l38kb8",
       "Name": "Time Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_WASET_NECROPOLIS",
@@ -21264,21 +21269,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15956,
+      "Progressed": 15958,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15956,
+      "Progressed": 15958,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-24T01:52:51.4909286+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:10:02.6860316+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:10:13.806142+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:02:52.2388356+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:10:02.6871071+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:02:50.4352815+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:10:13.8071404+00:00"
 }

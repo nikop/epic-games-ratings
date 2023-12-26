@@ -1,31 +1,31 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.18 (Ranked 952)  
+Rating: 4.19 (Ranked 946)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,686 |
-| Battlefields Have Memories | 80.00% | ~1,550 |
-| Enlisted | 73.00% | ~1,415 |
-| Maybe Engage a Little | 67.00% | ~1,298 |
-| No More Names | 49.00% | ~950 |
-| Initiate | 35.00% | ~678 |
+| Unforeseen | 87.00% | ~1,688 |
+| Battlefields Have Memories | 80.00% | ~1,552 |
+| Enlisted | 73.00% | ~1,416 |
+| Maybe Engage a Little | 67.00% | ~1,300 |
+| No More Names | 49.00% | ~951 |
+| Initiate | 35.00% | ~679 |
 | Thrada-Kul | 31.00% | ~601 |
-| Gravity-Challenged Rocks | 24.00% | ~465 |
+| Gravity-Challenged Rocks | 24.00% | ~466 |
 | Socialite | 23.00% | ~446 |
-| Soldier | 20.00% | ~388 |
+| Soldier | 21.00% | ~407 |
 | All the Major Food Groups | 20.00% | ~388 |
 | Beggars Would Ride | 18.00% | ~349 |
-| Control is an Illusion | 17.00% | ~329 |
-| The Means to Save It | 14.00% | ~271 |
+| Control is an Illusion | 17.00% | ~330 |
+| The Means to Save It | 14.00% | ~272 |
 | Resilience to Sin | 12.00% | ~233 |
 | A Familiar Nest | 12.00% | ~233 |
 | Periapt Alizarin | 12.00% | ~233 |
 | Geas Aristeya | 11.00% | ~213 |
 | A Perfect Cycle | 10.00% | ~194 |
 | Recruit | 10.00% | ~194 |
-| Armsman | 9.00% | ~174 |
+| Armsman | 9.00% | ~175 |
 | Lights Army | 7.00% | ~136 |
 | Periapt Cerulean | 6.00% | ~116 |
 | Good Boy | 6.00% | ~116 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 952)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,938 (Ranked 239)  
+Progressed: 1,940 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 2 (0.10%) (Ranked 306)
 | 2023-12-23 | 1,709 | 2 |
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
-| 2023-12-26 | 1,938 | 2 |
+| 2023-12-26 | 1,940 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -182,3 +182,4 @@ Completed: 2 (0.10%) (Ranked 306)
 | 2023-12-22 | 4.21 | 0 | 0 |
 | 2023-12-24 | 4.23 | 0 | 0 |
 | 2023-12-25 | 4.18 | 0 | 0 |
+| 2023-12-26 | 4.19 | 0 | 0 |

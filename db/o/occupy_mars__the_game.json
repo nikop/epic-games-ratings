@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1821,
+  "EOS_Progressed": 1822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4767,6 +4767,11 @@
       "Time": "2023-12-25T21:09:27.478271+00:00",
       "NumProgressed": 1821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T15:09:23.6720875+00:00",
+      "NumProgressed": 1822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4858,7 +4863,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4896,9 +4901,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 583
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4970,7 +4975,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5026,7 +5031,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5050,7 +5055,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5161,7 +5166,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1821,
+      "Progressed": 1822,
       "Completed": 0
     }
   ],
@@ -5169,8 +5174,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:13.0937234+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:23.6720871+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.6449043+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:01.1327508+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:13.0937649+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:04.9005846+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:23.672134+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~87 |
-| Air Fighter | 75.00% | ~74 |
-| Oo-De-Lally | 70.00% | ~69 |
-| The Altruist | 66.00% | ~65 |
-| Treasure Hunter | 65.00% | ~64 |
-| Watch your Step! | 53.00% | ~52 |
-| Tap Dancing | 52.00% | ~51 |
-| MAX LEVEL | 51.00% | ~50 |
-| Right between the eyes | 40.00% | ~40 |
+| Act of Kindness | 87.00% | ~87 |
+| Air Fighter | 74.00% | ~74 |
+| Oo-De-Lally | 69.00% | ~69 |
+| The Altruist | 65.00% | ~65 |
+| Treasure Hunter | 64.00% | ~64 |
+| Watch your Step! | 52.00% | ~52 |
+| Tap Dancing | 51.00% | ~51 |
+| MAX LEVEL | 50.00% | ~50 |
+| Right between the eyes | 41.00% | ~41 |
 | Spring Board | 40.00% | ~40 |
 | Starry Night | 38.00% | ~38 |
 | Locksley's Tears | 37.00% | ~37 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 480)  
+Progressed: 100 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,3 +92,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 94 | 0 |
 | 2023-12-24 | 97 | 0 |
 | 2023-12-25 | 99 | 0 |
+| 2023-12-26 | 100 | 0 |

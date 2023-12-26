@@ -3,11 +3,11 @@
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
   "Ranking_Rating": 282,
-  "Ranking_Popularity": 188,
+  "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -4371,30 +4371,36 @@
       "Rating": 4.67,
       "NumberOfAwards": 5596,
       "NumberOfAwardsMax": 722
+    },
+    {
+      "Time": "2023-12-26T14:57:09.2490196+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5602,
+      "NumberOfAwardsMax": 724
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5596,
-  "NumberOfAwardsMax": 722,
+  "NumberOfAwards": 5602,
+  "NumberOfAwardsMax": 724,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 722
+      "Count": 724
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 643
+      "Count": 645
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 636
+      "Count": 637
     },
     {
       "Text": "This game is Relaxing",
@@ -4406,7 +4412,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 507
+      "Count": 508
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4450,8 +4456,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-12-25T07:01:43.3105341+00:00",
+  "LastChanged": "2023-12-26T14:57:09.2490195+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.7700966+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:06.7096942+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:05:45.8826858+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:09.2490201+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:05:48.0360838+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1304,
+  "EOS_Progressed": 1305,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
@@ -4461,6 +4461,11 @@
       "Time": "2023-12-26T13:10:39.4953697+00:00",
       "NumProgressed": 1304,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-26T15:08:22.8027487+00:00",
+      "NumProgressed": 1305,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4497,7 +4502,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "_05_FinishAct2",
@@ -4505,7 +4510,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4529,7 +4534,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "_09_Completion_20",
@@ -4601,7 +4606,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4657,7 +4662,7 @@
       "Name": "Jaded Judge",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4665,7 +4670,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4680,7 +4685,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1304,
+      "Progressed": 1305,
       "Completed": 34
     }
   ],
@@ -4688,8 +4693,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:06:31.1062426+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:08:22.8027484+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:10.9426916+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:06:31.1062764+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:13.7192114+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:08:22.8027847+00:00"
 }

@@ -1,24 +1,24 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 563)  
+Rating: 4.52 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,495 |
-| Greasy Palms | 42.00% | ~5,930 |
-| South American Connection | 25.00% | ~3,530 |
-| Life of the Party | 20.00% | ~2,824 |
-| Chauffeur | 15.00% | ~2,118 |
-| Tommy Two-Wheels | 15.00% | ~2,118 |
-| Big Heat from Little Havana | 14.00% | ~1,977 |
-| Salutations My Little Friend | 11.00% | ~1,553 |
-| Iron-y | 10.00% | ~1,412 |
+| Legal Counsel | 46.00% | ~6,498 |
+| Greasy Palms | 42.00% | ~5,933 |
+| South American Connection | 25.00% | ~3,532 |
+| Life of the Party | 20.00% | ~2,825 |
+| Chauffeur | 15.00% | ~2,119 |
+| Tommy Two-Wheels | 15.00% | ~2,119 |
+| Big Heat from Little Havana | 14.00% | ~1,978 |
+| Salutations My Little Friend | 11.00% | ~1,554 |
+| Iron-y | 10.00% | ~1,413 |
 | Gun for Hire | 9.00% | ~1,271 |
 | Mischief Managed | 8.00% | ~1,130 |
-| Vice City Mogul | 6.00% | ~847 |
-| Catch Me if You Can | 6.00% | ~847 |
-| Bloodstained Hands | 6.00% | ~847 |
+| Vice City Mogul | 6.00% | ~848 |
+| Catch Me if You Can | 6.00% | ~848 |
+| Bloodstained Hands | 6.00% | ~848 |
 | Not my First Time | 5.00% | ~706 |
 | Grand Theft Auto | 5.00% | ~706 |
 | Pie Guy | 4.00% | ~565 |
@@ -28,11 +28,11 @@ Rating: 4.52 (Ranked 563)
 | Somebody Call the Wambulance? | 3.00% | ~424 |
 | Just Like the Real Thing | 3.00% | ~424 |
 | Don't Need Roads | 3.00% | ~424 |
-| Running Rampant | 2.00% | ~282 |
-| One is Better Than Two | 2.00% | ~282 |
-| Take the Cannoli | 2.00% | ~282 |
-| Chopper’d Up | 2.00% | ~282 |
-| City Sleuth | 2.00% | ~282 |
+| Running Rampant | 2.00% | ~283 |
+| One is Better Than Two | 2.00% | ~283 |
+| Take the Cannoli | 2.00% | ~283 |
+| Chopper’d Up | 2.00% | ~283 |
+| City Sleuth | 2.00% | ~283 |
 | Born in the 80’s | 1.00% | ~141 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~141 |
 | I'm Famous! | 1.00% | ~141 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 563)
 | Done it All | 0.90% | ~127 |
 | Kingpin | 0.50% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,119 (Ranked 167)  
+Progressed: 14,127 (Ranked 167)  
 Completed: 76 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 76 (0.54%) (Ranked 211)
 | 2023-12-23 | 13,682 | 75 |
 | 2023-12-24 | 13,863 | 75 |
 | 2023-12-25 | 14,030 | 76 |
-| 2023-12-26 | 14,119 | 76 |
+| 2023-12-26 | 14,127 | 76 |
 ## Awards
 Max (Great Boss Battles): 147  (Ranked 325)  
 Sum: 147 (Ranked 434)  

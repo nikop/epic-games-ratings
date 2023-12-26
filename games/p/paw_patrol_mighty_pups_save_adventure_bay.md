@@ -16,9 +16,9 @@
 | Paw patrol member | 37.00% | ~20 |
 | Robot Out of Control | 37.00% | ~20 |
 | Never Miss | 35.00% | ~19 |
+| Break Time | 33.00% | ~18 |
+| Master of the Rope | 33.00% | ~18 |
 | In the Air | 33.00% | ~18 |
-| Break Time | 31.00% | ~17 |
-| Master of the Rope | 31.00% | ~17 |
 | Training Day | 30.00% | ~16 |
 | Animal Sighting | 26.00% | ~14 |
 | The Fastest | 24.00% | ~13 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -764,9 +764,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "get-all",
@@ -780,9 +780,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 130
     },
     {
       "ID": "last-hero",
@@ -901,8 +901,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:04:47.6461609+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:04:49.2299351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:57:07.6905161+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:04:47.6461841+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:57:10.456572+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:04:49.2299553+00:00"
 }

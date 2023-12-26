@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1704,6 +1704,11 @@
       "Time": "2023-12-26T09:09:52.2697269+00:00",
       "NumProgressed": 522,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T15:09:48.6552884+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1826,9 +1831,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 146
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1875,14 +1880,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:09:37.3126132+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:09:48.6552881+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:59:04.4774919+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:09:37.3126331+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:59:06.4562523+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:09:48.6553118+00:00"
 }

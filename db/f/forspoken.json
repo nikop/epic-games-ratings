@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45272,
+  "EOS_Progressed": 45278,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 868,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16520,6 +16520,11 @@
       "Time": "2023-12-26T14:05:28.9278941+00:00",
       "NumProgressed": 45272,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T15:05:31.1378995+00:00",
+      "NumProgressed": 45278,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16579,7 +16584,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4980
+      "UsersEstimate": 4981
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16603,7 +16608,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -16611,7 +16616,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -16619,7 +16624,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -16731,7 +16736,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -16779,7 +16784,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -16803,7 +16808,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "MONUMENT_ALL",
@@ -16867,7 +16872,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4527
+      "UsersEstimate": 4528
     },
     {
       "ID": "SPRING_ALL",
@@ -16883,7 +16888,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "STAYING_AIR",
@@ -16954,22 +16959,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45272,
+      "Progressed": 45278,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10109,
-      "Completed": 10109
+      "Progressed": 10115,
+      "Completed": 10115
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-26T06:59:48.6579528+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:05:28.9278939+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:05:31.137899+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:59:31.7024264+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:05:28.9279789+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:59:31.5887362+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:05:31.1379952+00:00"
 }

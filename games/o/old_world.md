@@ -16,11 +16,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
 | Noble | 0.40% | ~64 |
+| Pioneer | 0.40% | ~64 |
 | Strong | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
 | Oracle | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Ambitious | 0.30% | ~48 |
+| Brilliant | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
@@ -28,23 +30,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.30% | ~48 |
 | Learned | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
-| Pioneer | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
+| Great Ziggurat | 0.30% | ~48 |
 | Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
 | Learn to Play 1 | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
+| Babylonian Paganism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
 | Roman Paganism | 0.30% | ~48 |
+| Zoroastrianism | 0.30% | ~48 |
 | Naming Landmarks | 0.30% | ~48 |
 | Trade Caravan | 0.30% | ~48 |
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
-| Brilliant | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
 | Intercessor | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
@@ -59,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.20% | ~32 |
 | Apadana | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
-| Great Ziggurat | 0.20% | ~32 |
 | Mausoleum | 0.20% | ~32 |
 | Musaeum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
@@ -67,10 +69,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.20% | ~32 |
 | Christianity | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
-| Babylonian Paganism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
-| Zoroastrianism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
@@ -233,6 +233,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Families | 0.10% | ~16 |
 | Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |
+| Time Victory | 0.10% | ~16 |
 | Necropolis in Waset | 0.10% | ~16 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
@@ -321,7 +322,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
-| Time Victory | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,956 (Ranked 163)  
+Progressed: 15,958 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
-| 2023-12-26 | 15,956 | 5 |
+| 2023-12-26 | 15,958 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

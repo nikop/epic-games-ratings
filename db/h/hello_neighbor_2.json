@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -483,9 +483,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3630,
+  "EOS_Progressed": 3631,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
@@ -6103,6 +6103,11 @@
       "Time": "2023-12-26T14:05:13.68602+00:00",
       "NumProgressed": 3630,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-26T15:05:15.5595373+00:00",
+      "NumProgressed": 3631,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6146,7 +6151,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -6225,7 +6230,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3630,
+      "Progressed": 3631,
       "Completed": 140
     }
   ],
@@ -6233,8 +6238,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-26T14:05:13.6860197+00:00",
+  "LastChanged_Achievements": "2023-12-26T15:05:15.5595369+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:58:27.1382991+00:00",
-  "LastUpdate_Achievements": "2023-12-26T14:05:13.6860524+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:58:29.6138729+00:00",
+  "LastUpdate_Achievements": "2023-12-26T15:05:15.5595806+00:00"
 }
