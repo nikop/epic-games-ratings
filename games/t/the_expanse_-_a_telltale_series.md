@@ -6,8 +6,8 @@ Rating: 4.55 (Ranked 511)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 15.00% | ~2,619 |
-| Captain Drummer | 11.00% | ~1,920 |
-| Celebrations are in Order | 11.00% | ~1,920 |
+| Captain Drummer | 11.00% | ~1,921 |
+| Celebrations are in Order | 11.00% | ~1,921 |
 | The Pit and the Pirates | 10.00% | ~1,746 |
 | Martian Music | 10.00% | ~1,746 |
 | Drone Dodger | 10.00% | ~1,746 |
@@ -21,9 +21,9 @@ Rating: 4.55 (Ranked 511)
 | Heal Thy Medic | 7.00% | ~1,222 |
 | Call it Even | 7.00% | ~1,222 |
 | Keep Arjun in Check | 7.00% | ~239 |
-| Data Archivist | 6.00% | ~1,047 |
-| Drug Gifter | 6.00% | ~1,047 |
-| Khan's Revenge | 6.00% | ~1,047 |
+| Data Archivist | 6.00% | ~1,048 |
+| Drug Gifter | 6.00% | ~1,048 |
+| Khan's Revenge | 6.00% | ~1,048 |
 | Doctor Approved | 5.00% | ~873 |
 | Bottoms up! | 5.00% | ~873 |
 | Thorston Mayer | 5.00% | ~873 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 511)
 | Scavenger Star | 0.30% | ~52 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,457 (Ranked 156)  
+Progressed: 17,460 (Ranked 156)  
 Completed: 53 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 53 (0.30%) (Ranked 254)
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
-| 2023-12-26 | 17,457 | 53 |
+| 2023-12-26 | 17,460 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

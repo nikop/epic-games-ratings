@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -612,9 +612,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:05:18.5732374+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:05:45.2191404+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:13.0376587+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:59:54.4595085+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:05:18.573262+00:00"
+  "LastUpdate_Ratings": "2023-12-26T12:00:13.5640249+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:05:45.2191673+00:00"
 }

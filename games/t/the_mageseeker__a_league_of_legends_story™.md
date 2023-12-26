@@ -5,24 +5,24 @@ Rating: 4.79 (Ranked 100)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,902 |
-| No more cages! | 91.00% | ~2,780 |
-| Everfrost | 77.00% | ~2,352 |
-| Pentakill | 76.00% | ~2,322 |
-| Dark Forest | 76.00% | ~2,322 |
-| The use of petricite | 73.00% | ~2,230 |
-| You can pet the dog | 60.00% | ~1,833 |
-| Thornbarrow | 42.00% | ~1,283 |
+| For Demacia | 95.00% | ~2,903 |
+| No more cages! | 91.00% | ~2,781 |
+| Everfrost | 77.00% | ~2,353 |
+| Pentakill | 76.00% | ~2,323 |
+| Dark Forest | 76.00% | ~2,323 |
+| The use of petricite | 73.00% | ~2,231 |
+| You can pet the dog | 60.00% | ~1,834 |
+| Thornbarrow | 42.00% | ~1,284 |
 | Big Helmet Bro | 40.00% | ~1,222 |
 | Clarion Cove | 40.00% | ~1,222 |
 | Ternmoat Headquarters | 38.00% | ~1,161 |
-| Past trauma | 37.00% | ~1,130 |
+| Past trauma | 37.00% | ~1,131 |
 | Elemental master | 36.00% | ~1,100 |
 | Cypress Glen Headquarters | 34.00% | ~1,039 |
 | Petricite Burst | 33.00% | ~1,008 |
 | Old friend | 32.00% | ~978 |
 | Devineur | 31.00% | ~947 |
-| Hijack | 30.00% | ~916 |
+| Hijack | 30.00% | ~917 |
 | Whispers in the Woods I | 27.00% | ~825 |
 | I chose my shackles | 27.00% | ~825 |
 | Ancient power | 27.00% | ~825 |
@@ -36,8 +36,8 @@ Rating: 4.79 (Ranked 100)
 | No more holding back | 18.00% | ~550 |
 | Terbisia | 18.00% | ~550 |
 | Quickmoore Headquarters | 18.00% | ~550 |
-| Whispers in the Woods III | 17.00% | ~519 |
-| Friendly fire | 17.00% | ~519 |
+| Whispers in the Woods III | 17.00% | ~520 |
+| Friendly fire | 17.00% | ~520 |
 | My heart and sword always for Demacia | 16.00% | ~489 |
 | True power | 16.00% | ~489 |
 | Meltridge | 16.00% | ~489 |
@@ -59,8 +59,8 @@ Rating: 4.79 (Ranked 100)
 | Silverwing nest | 2.00% | ~61 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,055 (Ranked 220)  
-Completed: 17 (0.56%) (Ranked 206)  
+Progressed: 3,056 (Ranked 220)  
+Completed: 17 (0.56%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 17 (0.56%) (Ranked 206)
 | 2023-12-23 | 2,991 | 16 |
 | 2023-12-24 | 3,025 | 16 |
 | 2023-12-25 | 3,050 | 17 |
-| 2023-12-26 | 3,055 | 17 |
+| 2023-12-26 | 3,056 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

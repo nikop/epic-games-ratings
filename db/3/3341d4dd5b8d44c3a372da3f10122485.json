@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 193,
-  "EOS_Completed": 83,
+  "EOS_Completed": 84,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 43.01,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 43.52,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1294,6 +1294,11 @@
       "Time": "2023-12-26T07:09:10.6387933+00:00",
       "NumProgressed": 193,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-26T12:09:13.379631+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 84
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1344,9 +1349,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "Majak",
@@ -1400,9 +1405,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
@@ -1410,13 +1415,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 193,
-      "Completed": 83
+      "Completed": 84
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:08:43.5313245+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:09:13.3796305+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.6934755+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:35.3389418+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:08:43.5313369+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:58:43.8333849+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:09:13.3796435+00:00"
 }

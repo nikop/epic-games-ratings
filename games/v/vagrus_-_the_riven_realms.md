@@ -38,6 +38,7 @@
 | Inquisitions of Discord | 3.00% | ~7 |
 | Bounty Hunter | 2.00% | ~5 |
 | Supercargo | 2.00% | ~5 |
+| Watcher | 2.00% | ~5 |
 | Talent Nurtured | 2.00% | ~5 |
 | Huntress Unbound | 2.00% | ~5 |
 | Business As Usual | 2.00% | ~5 |
@@ -50,7 +51,7 @@
 | Glorious leader | 2.00% | ~5 |
 | Insectoid Propagator | 2.00% | ~5 |
 | Making Contact | 1.00% | ~2 |
-| Watcher | 1.00% | ~2 |
+| Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
 | Ever After | 1.00% | ~2 |
@@ -58,7 +59,6 @@
 | Moving At Odd Angles | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
-| Executor | 0.80% | ~2 |
 | Embellished | 0.80% | ~2 |
 | Manticore | 0.80% | ~2 |
 | Huntsmaster | 0.80% | ~2 |

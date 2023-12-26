@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 434,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1654,6 +1654,11 @@
       "Time": "2023-12-25T16:05:55.2924574+00:00",
       "NumProgressed": 432,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T12:06:31.0471596+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1690,7 +1695,7 @@
       "Name": "Full load",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Island",
@@ -1706,7 +1711,7 @@
       "Name": "In the last second",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Master",
@@ -1777,14 +1782,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 434,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:06:00.8949271+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:06:31.0471581+00:00",
   "LastUpdate_AppInfo": "2023-12-26T03:57:05.7358666+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:55.4862348+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:06:00.8949442+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:05.9368216+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:06:31.0471778+00:00"
 }

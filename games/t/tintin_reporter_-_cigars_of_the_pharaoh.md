@@ -18,22 +18,22 @@
 | Au Revoir, Abudin | 8.00% | ~8 |
 | Mysterious Bungalow | 8.00% | ~8 |
 | Save a Friend | 8.00% | ~8 |
-| The Eyes! | 6.00% | ~6 |
+| The Eyes! | 7.00% | ~7 |
 | Keep the Doctor Away | 6.00% | ~6 |
 | Just a Palm Tree | 6.00% | ~6 |
 | Under the Hood | 6.00% | ~6 |
 | Long Live Gaipajama! | 6.00% | ~6 |
 | Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
+| Eyes Shut | 5.00% | ~5 |
 | Tintin, Reporter | 4.00% | ~4 |
-| Eyes Shut | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | Mountain Runner | 3.00% | ~3 |
+| Subtlety | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
-| Subtlety | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -459,9 +459,9 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SaveMatsumoto",
@@ -499,9 +499,9 @@
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TombExplorer",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:06:00.499939+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:06:30.5991+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:36.5797746+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:57:49.7273142+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:06:00.4999537+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:57:53.5595574+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:06:30.5991135+00:00"
 }

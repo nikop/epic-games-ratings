@@ -6,21 +6,21 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,748 |
-| Apprentice | 58.00% | ~386,463 |
-| Close Shave | 25.00% | ~166,579 |
-| Mercenary | 23.00% | ~153,253 |
-| Ninja | 23.00% | ~153,253 |
-| Northern Scourge | 17.00% | ~113,274 |
-| Thief Bane | 14.00% | ~93,284 |
-| Master of Arms | 12.00% | ~79,958 |
+| The Fool | 72.00% | ~479,751 |
+| Apprentice | 58.00% | ~386,466 |
+| Close Shave | 25.00% | ~166,580 |
+| Mercenary | 23.00% | ~153,254 |
+| Ninja | 23.00% | ~153,254 |
+| Northern Scourge | 17.00% | ~113,275 |
+| Thief Bane | 14.00% | ~93,285 |
+| Master of Arms | 12.00% | ~79,959 |
 | Gambler | 10.00% | ~66,632 |
 | Dice Master | 10.00% | ~66,632 |
-| Swordsman | 9.00% | ~59,968 |
-| Knight | 8.00% | ~53,305 |
-| Cure for Corruption | 8.00% | ~53,305 |
-| Focused | 8.00% | ~53,305 |
-| Flurry of Fury | 8.00% | ~53,305 |
+| Swordsman | 9.00% | ~59,969 |
+| Knight | 8.00% | ~53,306 |
+| Cure for Corruption | 8.00% | ~53,306 |
+| Focused | 8.00% | ~53,306 |
+| Flurry of Fury | 8.00% | ~53,306 |
 | Long Shot | 7.00% | ~46,642 |
 | Devil Dice | 7.00% | ~46,642 |
 | Broken Heart | 7.00% | ~46,642 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,979 |
 | Jack of all Trades | 5.00% | ~33,316 |
 | Smithy | 5.00% | ~33,316 |
-| Leap of Faith | 3.00% | ~19,989 |
-| Combat Ready | 3.00% | ~19,989 |
-| Stuffed Potato | 3.00% | ~19,989 |
+| Leap of Faith | 3.00% | ~19,990 |
+| Combat Ready | 3.00% | ~19,990 |
+| Stuffed Potato | 3.00% | ~19,990 |
 | Card Sharp | 2.00% | ~13,326 |
 | Magician | 2.00% | ~13,326 |
 | Draknar's Bane | 2.00% | ~13,326 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,316 (Ranked 29)  
+Progressed: 666,321 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 174 (0.03%) (Ranked 350)
 | 2023-12-23 | 666,186 | 174 |
 | 2023-12-24 | 666,240 | 174 |
 | 2023-12-25 | 666,293 | 174 |
-| 2023-12-26 | 666,316 | 174 |
+| 2023-12-26 | 666,321 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 488)  
 Sum: 193 (Ranked 415)  

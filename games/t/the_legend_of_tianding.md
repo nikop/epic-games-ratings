@@ -14,16 +14,16 @@
 | Dispel Rumors | 41.00% | ~21 |
 | Final Showdown | 39.00% | ~20 |
 | The End of an Outlaw | 39.00% | ~20 |
+| Steal Her Away | 35.00% | ~18 |
 | Demon Slayer | 33.00% | ~17 |
-| Steal Her Away | 33.00% | ~17 |
 | Sewer Rat | 33.00% | ~17 |
 | Fight Fire With Fire | 33.00% | ~17 |
 | Urban Explorer | 31.00% | ~16 |
 | Not Today | 29.00% | ~15 |
 | Big Eater | 27.00% | ~14 |
 | Tour Guide | 27.00% | ~14 |
+| Coward | 27.00% | ~14 |
 | The Real O.G. | 25.00% | ~13 |
-| Coward | 25.00% | ~13 |
 | Tomb Raider | 25.00% | ~13 |
 | The Hero of the People | 18.00% | ~9 |
 | Talk to the Fist | 16.00% | ~8 |

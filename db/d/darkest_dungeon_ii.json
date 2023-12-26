@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10176,9 +10176,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 129940,
+  "EOS_Progressed": 129949,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1464,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36891,6 +36891,11 @@
       "Time": "2023-12-26T11:09:11.4339693+00:00",
       "NumProgressed": 129940,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T12:09:43.0517537+00:00",
+      "NumProgressed": 129949,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37382,7 +37387,7 @@
       "Name": "Handled",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "run_victory_act05",
@@ -37438,7 +37443,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "combat_kill_collector",
@@ -37446,7 +37451,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37486,7 +37491,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37494,7 +37499,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "quest_complete_crusader",
@@ -37510,7 +37515,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -37533,21 +37538,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129940,
+      "Progressed": 129949,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4809,
+      "Progressed": 4818,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-26T07:58:34.6714656+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:09:11.4339691+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:09:43.0517534+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:43.6544073+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:11.434127+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:58:52.9355965+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:09:43.0519019+00:00"
 }

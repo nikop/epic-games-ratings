@@ -5,45 +5,45 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 18.00% | ~3,482 |
-| The Outer Way | 18.00% | ~3,482 |
-| Get a Grip | 16.00% | ~3,095 |
-| Paper Jams | 16.00% | ~3,095 |
-| Desperate Times | 16.00% | ~3,095 |
-| Chew 'Em Up | 14.00% | ~2,708 |
-| Float Like A Butterfly | 13.00% | ~2,515 |
-| Reforged | 12.00% | ~2,321 |
-| Workplace Hazard | 11.00% | ~2,128 |
-| If the SHU Fits... | 11.00% | ~2,128 |
-| Without A Paddle | 9.00% | ~1,741 |
+| Flesh Wound | 18.00% | ~3,483 |
+| The Outer Way | 18.00% | ~3,483 |
+| Get a Grip | 16.00% | ~3,096 |
+| Paper Jams | 16.00% | ~3,096 |
+| Desperate Times | 16.00% | ~3,096 |
+| Chew 'Em Up | 14.00% | ~2,709 |
+| Float Like A Butterfly | 13.00% | ~2,516 |
+| Reforged | 12.00% | ~2,322 |
+| Workplace Hazard | 11.00% | ~2,129 |
+| If the SHU Fits... | 11.00% | ~2,129 |
+| Without A Paddle | 9.00% | ~1,742 |
 | Two Heads Are Better Than One | 8.00% | ~1,548 |
 | In the Pipe, Five by Five | 8.00% | ~1,548 |
 | Crash Site | 8.00% | ~1,548 |
-| Terminated | 7.00% | ~1,354 |
-| What Lies Beneath | 7.00% | ~1,354 |
-| Full Circle | 7.00% | ~1,354 |
-| Power Up | 7.00% | ~1,354 |
+| Power Up | 8.00% | ~1,548 |
+| Terminated | 7.00% | ~1,355 |
+| What Lies Beneath | 7.00% | ~1,355 |
+| Full Circle | 7.00% | ~1,355 |
 | Giving Back | 6.00% | ~1,161 |
 | You Need a Gun | 6.00% | ~1,161 |
 | I Do Belong Here | 6.00% | ~1,161 |
-| Keep Fighting | 6.00% | ~436 |
+| Keep Fighting | 6.00% | ~437 |
 | It's Time | 5.00% | ~364 |
 | The Commonality | 4.00% | ~774 |
-| In Striking Distance | 3.00% | ~580 |
-| One Last Job | 2.00% | ~145 |
+| In Striking Distance | 3.00% | ~581 |
+| One Last Job | 2.00% | ~146 |
 | Armed to the Teeth | 1.00% | ~73 |
-| Mugshot | 1.00% | ~193 |
+| Mugshot | 1.00% | ~194 |
 | Big Spender | 1.00% | ~73 |
 | This Isn't About Escape | 1.00% | ~73 |
-| Instigator | 0.90% | ~65 |
+| Instigator | 0.90% | ~66 |
 | Grim Reaper | 0.80% | ~155 |
 | Parole Denied | 0.80% | ~58 |
 | Information Overload | 0.80% | ~58 |
 | Quick Pick | 0.70% | ~51 |
 | Subject Alpha | 0.50% | ~36 |
+| The Protocol is About Life | 0.30% | ~58 |
 | Hoard Mode | 0.30% | ~22 |
 | Don't Let It Mellow | 0.30% | ~22 |
-| The Protocol is About Life | 0.20% | ~39 |
 | Recidivist | 0.20% | ~15 |
 | It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~7 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 936)
 | Bear Trap | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,345 (Ranked 149)  
-Completed: 82 (0.42%) (Ranked 229)  
+Progressed: 19,352 (Ranked 149)  
+Completed: 82 (0.42%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
-| 2023-12-26 | 19,345 | 82 |
+| 2023-12-26 | 19,352 | 82 |
 ## Awards
 Max (Amazing Characters): 100  (Ranked 369)  
 Sum: 510 (Ranked 329)  

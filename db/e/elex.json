@@ -3,12 +3,12 @@
   "Name": "ELEX",
   "ProductSlug": "elex",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-17T15:00:00+00:00",
@@ -351,6 +351,6 @@
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
   "LastChanged": "2023-12-26T03:57:09.8176094+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.5649873+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:57:15.0331333+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:05:44.7573379+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:57:13.6833324+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:06:13.4186463+00:00"
 }

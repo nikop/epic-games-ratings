@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4703,9 +4703,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12779,
+  "EOS_Progressed": 12780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18073,6 +18073,11 @@
       "Time": "2023-12-26T11:09:52.7006215+00:00",
       "NumProgressed": 12779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T12:10:27.6877413+00:00",
+      "NumProgressed": 12780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18084,7 +18089,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "02_BurningCity",
@@ -18284,7 +18289,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "28_GreatUpstart",
@@ -19011,21 +19016,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11561,
+      "Progressed": 11562,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12779,
+      "Progressed": 12780,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-26T00:00:09.2028081+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:09:52.7006213+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:10:27.6877408+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:00:39.1867623+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:52.7007795+00:00"
+  "LastUpdate_Ratings": "2023-12-26T12:02:40.6993955+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:10:27.6878952+00:00"
 }

@@ -67,9 +67,9 @@
 | Your own way | 29.00% | ~137 |
 | Trap disarmed | 28.00% | ~132 |
 | The last bell ring | 28.00% | ~132 |
+| Silver’s past | 26.00% | ~123 |
 | Better cooking at home | 26.00% | ~123 |
 | The only right decision | 26.00% | ~123 |
-| Silver’s past | 25.00% | ~118 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 472 (Ranked 337)  
 Completed: 9 (1.91%) (Ranked 136)  

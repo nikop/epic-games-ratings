@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -701,9 +701,9 @@
       "ID": "ACHIEVEMENT003",
       "SetID": "dejhjd5",
       "Name": "...And Your Tax Money",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -1093,8 +1093,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:08:25.8677582+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:08:53.5260777+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:57:29.7600335+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:08:25.8678136+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:57:28.3090981+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:08:53.5261147+00:00"
 }

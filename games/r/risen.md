@@ -16,7 +16,7 @@ Rating: 4.52 (Ranked 563)
 | Well-to-do | 35.00% | ~43 |
 | The merciful one | 32.00% | ~40 |
 | Ladies' man | 31.00% | ~38 |
-| Ferocious wild boars | 26.00% | ~32 |
+| Ferocious wild boars | 27.00% | ~33 |
 | Idiot | 26.00% | ~32 |
 | Beast slayer | 22.00% | ~27 |
 | Family man | 20.00% | ~25 |

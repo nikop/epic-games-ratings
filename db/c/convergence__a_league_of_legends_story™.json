@@ -6,9 +6,9 @@
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1110,
+  "EOS_Progressed": 1111,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3156,6 +3156,11 @@
       "Time": "2023-12-26T01:53:32.1036043+00:00",
       "NumProgressed": 1110,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T12:10:18.9722743+00:00",
+      "NumProgressed": 1111,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3175,7 +3180,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3319,7 +3324,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "GrindingTime1",
@@ -3359,7 +3364,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MapCompletion1",
@@ -3407,7 +3412,7 @@
       "Name": "Time Flies",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ParryBoss",
@@ -3415,15 +3420,15 @@
       "Name": "The Harder They Fall",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 256
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3447,7 +3452,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "RewindDamage1",
@@ -3455,7 +3460,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "RewindParry",
@@ -3463,7 +3468,7 @@
       "Name": "Honest Mistake",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3495,7 +3500,7 @@
       "Name": "Fast Learner",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "SpeedRun",
@@ -3551,7 +3556,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "WatcherFought",
@@ -3567,7 +3572,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3590,7 +3595,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1110,
+      "Progressed": 1111,
       "Completed": 6
     }
   ],
@@ -3598,8 +3603,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:09:44.3555038+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:10:18.9722741+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:32.0796736+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:44.3555459+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:58:39.1810498+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:10:18.9723156+00:00"
 }

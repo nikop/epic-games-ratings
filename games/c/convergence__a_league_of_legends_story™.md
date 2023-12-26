@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 41.00% | ~455 |
+| Time Heals All Wounds | 41.00% | ~456 |
 | Rail Rat | 31.00% | ~344 |
 | The Mysterious Stranger | 30.00% | ~333 |
 | Immaculate Aim | 26.00% | ~289 |
 | The Brass Boss | 25.00% | ~278 |
-| Make Up For Lost Time | 24.00% | ~266 |
-| Time Flies | 24.00% | ~266 |
-| No, Thanks! | 24.00% | ~266 |
-| The Prince in Heels | 24.00% | ~266 |
-| Immaculate Aim | 24.00% | ~266 |
-| The Steel Shadow | 23.00% | ~255 |
-| The Harder They Fall | 23.00% | ~255 |
-| Honest Mistake | 23.00% | ~255 |
-| Fast Learner | 23.00% | ~255 |
+| Make Up For Lost Time | 24.00% | ~267 |
+| Time Flies | 24.00% | ~267 |
+| The Prince in Heels | 24.00% | ~267 |
+| Immaculate Aim | 24.00% | ~267 |
+| The Steel Shadow | 23.00% | ~256 |
+| The Harder They Fall | 23.00% | ~256 |
+| No, Thanks! | 23.00% | ~256 |
+| Honest Mistake | 23.00% | ~256 |
+| Fast Learner | 23.00% | ~256 |
 | Breaking Down Barriers | 22.00% | ~244 |
 | The Wicked Twins | 22.00% | ~244 |
 | Right On Time | 21.00% | ~233 |
@@ -30,8 +30,8 @@ Rating: 4.65 (Ranked 321)
 | Street Style | 18.00% | ~200 |
 | The Man Who Shattered Time | 18.00% | ~200 |
 | The Family Fortune | 18.00% | ~200 |
-| Whiz Kid | 15.00% | ~166 |
-| Good Neighbor | 14.00% | ~155 |
+| Whiz Kid | 15.00% | ~167 |
+| Good Neighbor | 14.00% | ~156 |
 | Treasure Trove | 13.00% | ~144 |
 | Family Memories | 13.00% | ~144 |
 | Cartographer | 13.00% | ~144 |
@@ -59,8 +59,8 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,110 (Ranked 277)  
-Completed: 6 (0.54%) (Ranked 210)  
+Progressed: 1,111 (Ranked 277)  
+Completed: 6 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 6 (0.54%) (Ranked 210)
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
-| 2023-12-26 | 1,110 | 6 |
+| 2023-12-26 | 1,111 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

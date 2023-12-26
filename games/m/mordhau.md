@@ -5,29 +5,29 @@ Rating: 4.38 (Ranked 774)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~773,362 |
-| The ABCs | 43.00% | ~678,665 |
-| Home Run | 41.00% | ~647,099 |
-| Keeps Coming Off | 41.00% | ~647,099 |
-| Guts | 19.00% | ~299,875 |
-| Meat Grinder | 19.00% | ~299,875 |
-| Burning Man | 16.00% | ~252,526 |
-| Lived to Tell the Tale | 12.00% | ~189,395 |
-| Highlander | 10.00% | ~157,829 |
-| Unstoppable | 10.00% | ~157,829 |
-| Just a Scratch | 9.00% | ~142,046 |
-| Tough Nut to Crack | 6.00% | ~94,697 |
-| Yoink | 6.00% | ~94,697 |
-| Long List of Names | 4.00% | ~63,132 |
-| Pyromaniac | 4.00% | ~63,132 |
-| The Queen of Weapons | 4.00% | ~63,132 |
-| This isn’t Sparta | 3.00% | ~47,349 |
-| Crybaby | 2.00% | ~31,566 |
-| Eagle Eye | 2.00% | ~31,566 |
-| I Know Kung Fu | 2.00% | ~31,566 |
-| Poacher | 2.00% | ~31,566 |
-| Put That Away | 2.00% | ~31,566 |
-| You’re Welcome | 2.00% | ~31,566 |
+| Justice from the Grave | 49.00% | ~773,384 |
+| The ABCs | 43.00% | ~678,684 |
+| Home Run | 41.00% | ~647,117 |
+| Keeps Coming Off | 41.00% | ~647,117 |
+| Guts | 19.00% | ~299,884 |
+| Meat Grinder | 19.00% | ~299,884 |
+| Burning Man | 16.00% | ~252,534 |
+| Lived to Tell the Tale | 12.00% | ~189,400 |
+| Highlander | 10.00% | ~157,834 |
+| Unstoppable | 10.00% | ~157,834 |
+| Just a Scratch | 9.00% | ~142,050 |
+| Tough Nut to Crack | 6.00% | ~94,700 |
+| Yoink | 6.00% | ~94,700 |
+| Long List of Names | 4.00% | ~63,133 |
+| Pyromaniac | 4.00% | ~63,133 |
+| The Queen of Weapons | 4.00% | ~63,133 |
+| This isn’t Sparta | 3.00% | ~47,350 |
+| Crybaby | 2.00% | ~31,567 |
+| Eagle Eye | 2.00% | ~31,567 |
+| I Know Kung Fu | 2.00% | ~31,567 |
+| Poacher | 2.00% | ~31,567 |
+| Put That Away | 2.00% | ~31,567 |
+| You’re Welcome | 2.00% | ~31,567 |
 | Chambermaid | 1.00% | ~15,783 |
 | Coming Through | 1.00% | ~15,783 |
 | Boxer | 0.90% | ~14,205 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 774)
 | That’s No Ordinary Cold | 0.10% | ~1,578 |
 | Stairway to Hell | 0.10% | ~1,578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,578,290 (Ranked 7)  
+Progressed: 1,578,335 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 70 (0.00%) (Ranked 389)
 | 2023-12-23 | 1,576,764 | 70 |
 | 2023-12-24 | 1,577,463 | 70 |
 | 2023-12-25 | 1,578,078 | 70 |
-| 2023-12-26 | 1,578,290 | 70 |
+| 2023-12-26 | 1,578,335 | 70 |
 ## Awards
 Max (Diverse Characters): 1,113  (Ranked 148)  
-Sum: 5,821 (Ranked 135)  
+Sum: 5,822 (Ranked 135)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): 13
 | This game is Extremely Fun | 758 |
 | This game has Amazing Characters | 753 |
 | This game has Competitive Players | 717 |
-| This game has Amazing Storytelling | 627 |
+| This game has Amazing Storytelling | 628 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -568,4 +568,4 @@ Diff (max vs sum): 13
 | 2023-12-23 | 4.38 | 1,100 | 5,752 |
 | 2023-12-24 | 4.38 | 1,106 | 5,798 |
 | 2023-12-25 | 4.38 | 1,113 | 5,813 |
-| 2023-12-26 | 4.38 | 1,113 | 5,821 |
+| 2023-12-26 | 4.38 | 1,113 | 5,822 |

@@ -5,17 +5,17 @@ Rating: 3.58 (Ranked 1,068)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 14.00% | ~290 |
-| Catch and Release | 10.00% | ~207 |
+| I Like My Stakes Rare! | 14.00% | ~291 |
+| Catch and Release | 10.00% | ~208 |
 | Home Is Where the Heart Is | 9.00% | ~187 |
+| ICU | 9.00% | ~187 |
 | Wounded Whispers | 9.00% | ~187 |
-| ICU | 8.00% | ~166 |
 | Blood Will Have Blood | 7.00% | ~145 |
 | Ne Plus Ultra | 7.00% | ~145 |
 | Fly Fisher | 7.00% | ~145 |
 | Peek-a-boo | 7.00% | ~145 |
-| Throw The First Stone | 6.00% | ~124 |
-| Sucks To Be You | 6.00% | ~124 |
+| Throw The First Stone | 6.00% | ~125 |
+| Sucks To Be You | 6.00% | ~125 |
 | Enter of Your Own Free Will | 5.00% | ~104 |
 | Welcome to the Neighborhood | 5.00% | ~104 |
 | Heart Attack | 5.00% | ~104 |
@@ -24,14 +24,14 @@ Rating: 3.58 (Ranked 1,068)
 | Skin of Their Teeth | 4.00% | ~83 |
 | Neighborhood Revitalization | 3.00% | ~62 |
 | Radio Silence | 3.00% | ~62 |
-| Sic Transit Umbra | 2.00% | ~41 |
-| Bell-ringer | 2.00% | ~41 |
-| Good Morning | 2.00% | ~41 |
-| From the Shadows | 2.00% | ~41 |
-| Starve the Beast | 2.00% | ~41 |
-| Harvest’s End | 2.00% | ~41 |
-| Helping Hand | 2.00% | ~41 |
-| I Spit On Your Grave | 2.00% | ~41 |
+| Sic Transit Umbra | 2.00% | ~42 |
+| Bell-ringer | 2.00% | ~42 |
+| Good Morning | 2.00% | ~42 |
+| From the Shadows | 2.00% | ~42 |
+| Starve the Beast | 2.00% | ~42 |
+| Harvest’s End | 2.00% | ~42 |
+| Helping Hand | 2.00% | ~42 |
+| I Spit On Your Grave | 2.00% | ~42 |
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
 | Block Party | 1.00% | ~21 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,068)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,074 (Ranked 237)  
+Progressed: 2,076 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
-| 2023-12-26 | 2,074 | 0 |
+| 2023-12-26 | 2,076 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

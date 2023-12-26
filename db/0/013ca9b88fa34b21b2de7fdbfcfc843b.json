@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -237,7 +237,7 @@
   "Tags": [],
   "EOS_Progressed": 8679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9289,9 +9289,9 @@
       "ID": "DISCOVER_SCROLLS_2",
       "SetID": "9eia0f5",
       "Name": "Scattered Scroll Scrounger",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -9504,8 +9504,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:09:49.4515004+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:10:24.215877+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:03:05.4813042+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:49.4515538+00:00"
+  "LastUpdate_Ratings": "2023-12-26T12:03:19.5652857+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:10:24.2159321+00:00"
 }

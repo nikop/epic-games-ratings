@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -4223,9 +4223,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4428,8 +4428,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:05:55.7887309+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:06:25.4895535+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:59:28.9160583+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:05:55.7887708+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:44.958665+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:06:25.4896081+00:00"
 }

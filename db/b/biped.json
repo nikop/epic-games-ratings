@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8891,
+  "EOS_Progressed": 8897,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15044,6 +15044,11 @@
       "Time": "2023-12-26T11:05:53.2375505+00:00",
       "NumProgressed": 8891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T12:06:22.6775567+00:00",
+      "NumProgressed": 8897,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15055,7 +15060,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3025
     },
     {
       "ID": "10",
@@ -15071,7 +15076,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "12",
@@ -15111,7 +15116,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "3",
@@ -15119,7 +15124,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "4",
@@ -15127,7 +15132,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "5",
@@ -15135,7 +15140,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "6",
@@ -15143,7 +15148,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "7",
@@ -15174,7 +15179,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8891,
+      "Progressed": 8897,
       "Completed": 0
     }
   ],
@@ -15182,8 +15187,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:05:53.2375503+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:06:22.6775562+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:26.5304161+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:05:53.2376236+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:58:34.6251782+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:06:22.6776429+00:00"
 }

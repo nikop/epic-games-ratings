@@ -6,7 +6,7 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~454 |
+| Getting started | 78.00% | ~460 |
 | Close call! | 72.00% | ~425 |
 | Builder | 52.00% | ~307 |
 | Pangs of conscience | 44.00% | ~260 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 590 (Ranked 325)  
-Completed: 2 (0.34%) (Ranked 243)  
+Completed: 2 (0.34%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

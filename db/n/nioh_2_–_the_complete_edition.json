@@ -4,11 +4,11 @@
   "ProductSlug": "nioh-2-the-complete-edition",
   "Ranking_Rating": 89,
   "Ranking_Popularity": 103,
-  "Ranking_PopularitySum": 118,
+  "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-23T14:56:18+00:00",
     "PcReleaseDate": "2021-02-05T00:00:00+00:00",
@@ -4730,10 +4730,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 7407,
       "NumberOfAwardsMax": 2570
+    },
+    {
+      "Time": "2023-12-26T11:59:05.3361012+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 7413,
+      "NumberOfAwardsMax": 2570
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7407,
+  "NumberOfAwards": 7413,
   "NumberOfAwardsMax": 2570,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4747,7 +4753,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1896
+      "Count": 1902
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4821,8 +4827,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2023-12-26T08:58:58.3430256+00:00",
+  "LastChanged": "2023-12-26T11:59:05.3361011+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.607822+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:55.1096007+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:08.9354223+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:05.3361016+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:09:40.0962037+00:00"
 }

@@ -30,11 +30,11 @@ Rating: 4.63 (Ranked 353)
 | Right Tool For the Job | 0.40% | ~35 |
 | Fae Farmer | 0.30% | ~26 |
 | Got to Catch Them All | 0.30% | ~26 |
+| Scattered Scroll Scrounger | 0.30% | ~26 |
 | Rumble in the Jumble | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
 | Going Down | 0.30% | ~4 |
-| Scattered Scroll Scrounger | 0.20% | ~17 |
 | I Now Pronounce You... | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |

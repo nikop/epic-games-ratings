@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -603,9 +603,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6236,
+  "EOS_Progressed": 6237,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9233,6 +9233,11 @@
       "Time": "2023-12-26T11:03:43.6968587+00:00",
       "NumProgressed": 6236,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T12:04:01.8902633+00:00",
+      "NumProgressed": 6237,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9266,9 +9271,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "13",
@@ -9354,9 +9359,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 561
     },
     {
       "ID": "23",
@@ -9723,13 +9728,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6236,
+      "Progressed": 6237,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6236,
+      "Progressed": 6237,
       "Completed": 7
     }
   ],
@@ -9737,8 +9742,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T10:01:09.8924336+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:03:43.6968585+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:04:01.890263+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:59:39.0457902+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:03:43.6969273+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:55.4553175+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:04:01.8903326+00:00"
 }

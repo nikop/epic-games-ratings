@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17457,
+  "EOS_Progressed": 17460,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15196,6 +15196,11 @@
       "Time": "2023-12-26T11:04:01.9181639+00:00",
       "NumProgressed": 17457,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-26T12:04:21.3003858+00:00",
+      "NumProgressed": 17460,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15232,7 +15237,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "13",
@@ -15264,7 +15269,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "17",
@@ -15344,7 +15349,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "26",
@@ -15384,7 +15389,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "30",
@@ -15416,7 +15421,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "7",
@@ -15487,22 +15492,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17457,
+      "Progressed": 17460,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3411,
-      "Completed": 1053
+      "Progressed": 3414,
+      "Completed": 1054
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:04:01.9181637+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:04:21.3003854+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:59:20.234747+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:04:01.918233+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:34.4932161+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:04:21.3004594+00:00"
 }

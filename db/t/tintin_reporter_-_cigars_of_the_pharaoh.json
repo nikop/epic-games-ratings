@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -521,9 +521,9 @@
       "ID": "Achievement13",
       "SetID": "9fa3l5n",
       "Name": "The Eyes!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement14",
@@ -593,9 +593,9 @@
       "ID": "Achievement21",
       "SetID": "9fa3l5n",
       "Name": "Eyes Shut",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement22",
@@ -713,9 +713,9 @@
       "ID": "Achievement35",
       "SetID": "9fa3l5n",
       "Name": "Subtlety",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement36",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:05:47.4587817+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:06:16.4583117+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:00:20.1096749+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:05:47.4588009+00:00"
+  "LastUpdate_Ratings": "2023-12-26T12:00:38.8931672+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:06:16.4583363+00:00"
 }

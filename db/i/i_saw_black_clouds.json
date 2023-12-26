@@ -4,8 +4,8 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -850,9 +850,9 @@
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "realist",
@@ -899,8 +899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:04:12.2566273+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:04:32.8588829+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:30.3758548+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:59:37.1817133+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:04:12.2566354+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:53.3333474+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:04:32.8588958+00:00"
 }

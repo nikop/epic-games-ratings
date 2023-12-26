@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1018,
+  "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2697,6 +2697,11 @@
       "Time": "2023-12-26T11:09:14.5331154+00:00",
       "NumProgressed": 1018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T12:09:46.2777533+00:00",
+      "NumProgressed": 1019,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2709,7 +2714,7 @@
       "Name": "The Teleprobe",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "AchvAllMemories",
@@ -2725,7 +2730,7 @@
       "Name": "On her own",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "AchvBattleScore",
@@ -2749,7 +2754,7 @@
       "Name": "Violent solution",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AchvConvoyList",
@@ -2773,7 +2778,7 @@
       "Name": "The Alliance",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "AchvDoom",
@@ -2821,7 +2826,7 @@
       "Name": "I leave no man behind",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -2835,9 +2840,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 265
     },
     {
       "ID": "AchvNest",
@@ -2877,7 +2882,7 @@
       "Name": "The field base",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "AchvReachCamp",
@@ -2885,7 +2890,7 @@
       "Name": "The Camp",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "AchvReachCity",
@@ -2893,7 +2898,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "AchvReachCondor",
@@ -2909,7 +2914,7 @@
       "Name": "Survivors",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -2940,7 +2945,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1018,
+      "Progressed": 1019,
       "Completed": 0
     }
   ],
@@ -2948,8 +2953,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-24T16:57:52.2929542+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:09:14.5331152+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:09:46.2777529+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:10.4664205+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:14.5331455+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:58:16.7636252+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:09:46.2777811+00:00"
 }

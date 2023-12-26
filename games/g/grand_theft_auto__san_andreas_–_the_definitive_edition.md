@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,688 |
-| Pay 'n' Spray | 50.00% | ~8,450 |
-| All Dressed Up for San Fierro | 25.00% | ~4,225 |
-| The American Dream | 18.00% | ~3,042 |
-| School's Out | 17.00% | ~2,873 |
-| Smooth Moves | 16.00% | ~2,704 |
-| Today Was a Good Day | 15.00% | ~2,535 |
-| What happens in Las Venturas... | 14.00% | ~2,366 |
-| Horror of the Santa Maria | 10.00% | ~1,690 |
-| Liberty City State of Mind | 9.00% | ~1,521 |
+| Getting Started | 81.00% | ~13,694 |
+| Pay 'n' Spray | 50.00% | ~8,453 |
+| All Dressed Up for San Fierro | 25.00% | ~4,226 |
+| The American Dream | 18.00% | ~3,043 |
+| School's Out | 17.00% | ~2,874 |
+| Smooth Moves | 16.00% | ~2,705 |
+| Today Was a Good Day | 15.00% | ~2,536 |
+| What happens in Las Venturas... | 14.00% | ~2,367 |
+| Horror of the Santa Maria | 10.00% | ~1,691 |
+| Liberty City State of Mind | 9.00% | ~1,522 |
 | Original Gangster | 8.00% | ~1,352 |
 | With Extra Dip | 7.00% | ~1,183 |
 | The End of the Line | 7.00% | ~1,183 |
@@ -38,11 +38,11 @@ Rating: 4.54 (Ranked 536)
 | Not a Player | 1.00% | ~169 |
 | Chick Magnet | 1.00% | ~169 |
 | Remastered | 0.70% | ~118 |
-| ...Here we go again | 0.50% | ~84 |
+| ...Here we go again | 0.50% | ~85 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,899 (Ranked 159)  
-Completed: 64 (0.38%) (Ranked 235)  
+Progressed: 16,906 (Ranked 159)  
+Completed: 64 (0.38%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,14 +291,14 @@ Completed: 64 (0.38%) (Ranked 235)
 | 2023-12-23 | 16,429 | 62 |
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
-| 2023-12-26 | 16,899 | 64 |
+| 2023-12-26 | 16,906 | 64 |
 ## Awards
-Max (Great Boss Battles): 508  (Ranked 218)  
-Sum: 781 (Ranked 286)  
-Diff (max vs sum): -68  
+Max (Great Boss Battles): 519  (Ranked 215)  
+Sum: 792 (Ranked 286)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 508 |
+| This game has Great Boss Battles | 519 |
 | This game is Relaxing | 46 |
 | This game has Amazing Characters | 42 |
 | This game is Great for Beginners | 40 |
@@ -522,4 +522,4 @@ Diff (max vs sum): -68
 | 2023-12-23 | 4.54 | 483 | 788 |
 | 2023-12-24 | 4.54 | 492 | 801 |
 | 2023-12-25 | 4.54 | 508 | 821 |
-| 2023-12-26 | 4.54 | 508 | 781 |
+| 2023-12-26 | 4.54 | 519 | 792 |

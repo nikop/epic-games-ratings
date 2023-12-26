@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117933,
+  "EOS_Progressed": 117939,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22645,6 +22645,11 @@
       "Time": "2023-12-26T11:09:44.1088361+00:00",
       "NumProgressed": 117933,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-26T12:10:18.5712282+00:00",
+      "NumProgressed": 117939,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22664,7 +22669,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90808
+      "UsersEstimate": 90813
     },
     {
       "ID": "EAwards_10",
@@ -22672,7 +22677,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14152
+      "UsersEstimate": 14153
     },
     {
       "ID": "EAwards_11",
@@ -22680,7 +22685,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31842
+      "UsersEstimate": 31844
     },
     {
       "ID": "EAwards_12",
@@ -22688,7 +22693,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "EAwards_13",
@@ -22712,7 +22717,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11793
+      "UsersEstimate": 11794
     },
     {
       "ID": "EAwards_16",
@@ -22720,7 +22725,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "EAwards_17",
@@ -22728,7 +22733,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43635
+      "UsersEstimate": 43637
     },
     {
       "ID": "EAwards_18",
@@ -22736,7 +22741,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10615
     },
     {
       "ID": "EAwards_19",
@@ -22752,7 +22757,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57787
+      "UsersEstimate": 57790
     },
     {
       "ID": "EAwards_20",
@@ -22768,7 +22773,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "EAwards_22",
@@ -22792,7 +22797,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "EAwards_25",
@@ -22800,7 +22805,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22407
+      "UsersEstimate": 22408
     },
     {
       "ID": "EAwards_26",
@@ -22816,7 +22821,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11793
+      "UsersEstimate": 11794
     },
     {
       "ID": "EAwards_28",
@@ -22840,7 +22845,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23587
+      "UsersEstimate": 23588
     },
     {
       "ID": "EAwards_30",
@@ -22848,7 +22853,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "EAwards_31",
@@ -22864,7 +22869,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "EAwards_33",
@@ -22888,7 +22893,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10615
     },
     {
       "ID": "EAwards_36",
@@ -22928,7 +22933,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15331
+      "UsersEstimate": 15332
     },
     {
       "ID": "EAwards_40",
@@ -23008,7 +23013,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11793
+      "UsersEstimate": 11794
     },
     {
       "ID": "EAwards_6",
@@ -23016,7 +23021,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10615
     },
     {
       "ID": "EAwards_7",
@@ -23024,7 +23029,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14152
+      "UsersEstimate": 14153
     },
     {
       "ID": "EAwards_8",
@@ -23032,7 +23037,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14152
+      "UsersEstimate": 14153
     },
     {
       "ID": "EAwards_9",
@@ -23047,7 +23052,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 117933,
+      "Progressed": 117939,
       "Completed": 53
     }
   ],
@@ -23055,8 +23060,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:09:44.108836+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:10:18.571228+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:58:35.0877644+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:09:44.1089463+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:58:43.5091939+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:10:18.5713324+00:00"
 }

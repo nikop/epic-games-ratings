@@ -5,10 +5,10 @@
   "Ranking_Rating": 833,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58441,
+  "EOS_Progressed": 58443,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14771,6 +14771,11 @@
       "Time": "2023-12-26T10:08:29.6029933+00:00",
       "NumProgressed": 58441,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T12:08:10.1977491+00:00",
+      "NumProgressed": 58443,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14854,7 +14859,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "FlyingPresentMaster",
@@ -14926,7 +14931,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "HarshLove",
@@ -15173,7 +15178,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58441,
+      "Progressed": 58443,
       "Completed": 6
     }
   ],
@@ -15181,8 +15186,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:06:18.5232432+00:00",
+  "LastChanged_Achievements": "2023-12-26T12:08:10.1977488+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:59:05.8007712+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:06:18.5233203+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:59:17.5048121+00:00",
+  "LastUpdate_Achievements": "2023-12-26T12:08:10.1978361+00:00"
 }
