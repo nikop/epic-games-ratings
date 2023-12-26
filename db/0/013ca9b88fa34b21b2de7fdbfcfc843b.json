@@ -9234,9 +9234,9 @@
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -9354,9 +9354,9 @@
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -9489,8 +9489,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:37.0700406+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:59.3854942+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:46:47.8781164+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:37.0701136+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:22:19.819849+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:59.3855574+00:00"
 }

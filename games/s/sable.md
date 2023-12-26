@@ -6,34 +6,34 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~36,262 |
-| Just The Two of Us | 33.00% | ~35,195 |
-| Up On High | 25.00% | ~26,663 |
-| Under The Hood | 25.00% | ~26,663 |
+| Simoon | 34.00% | ~36,263 |
+| Just The Two of Us | 33.00% | ~35,196 |
+| Up On High | 25.00% | ~26,664 |
+| Under The Hood | 25.00% | ~26,664 |
 | Got Your Nose | 24.00% | ~25,597 |
 | The Gift of Gab | 24.00% | ~25,597 |
 | Wrapping Up | 22.00% | ~23,464 |
 | More Than A Box Of Sand | 18.00% | ~19,198 |
-| The Dunboyne | 17.00% | ~18,131 |
-| Badge Hobbyist | 17.00% | ~18,131 |
-| Chum Novice | 16.00% | ~17,064 |
-| Silver-Tongued Sable | 16.00% | ~17,064 |
-| Sticky Paws | 16.00% | ~17,064 |
-| Bubble Up | 16.00% | ~17,064 |
+| The Dunboyne | 17.00% | ~18,132 |
+| Badge Hobbyist | 17.00% | ~18,132 |
+| Chum Novice | 16.00% | ~17,065 |
+| Silver-Tongued Sable | 16.00% | ~17,065 |
+| Sticky Paws | 16.00% | ~17,065 |
+| Bubble Up | 16.00% | ~17,065 |
 | Thread The Needle | 15.00% | ~15,998 |
-| Power to the People | 14.00% | ~14,931 |
-| Nesting Giant | 14.00% | ~14,931 |
+| Power to the People | 14.00% | ~14,932 |
+| Nesting Giant | 14.00% | ~14,932 |
 | Take That! | 13.00% | ~13,865 |
 | Treasure Tracker | 13.00% | ~13,865 |
 | Big Spender | 13.00% | ~13,865 |
-| Badge Collector | 12.00% | ~12,798 |
-| Quite The Catch | 12.00% | ~12,798 |
+| Badge Collector | 12.00% | ~12,799 |
+| Quite The Catch | 12.00% | ~12,799 |
 | Rowleys Way | 11.00% | ~11,732 |
-| The Machinist Mask | 10.00% | ~10,665 |
-| The Cartographer Mask | 10.00% | ~10,665 |
-| Balfron Connection | 10.00% | ~10,665 |
-| Ceiling Of Stars | 10.00% | ~10,665 |
-| Playing Dress Up | 10.00% | ~10,665 |
+| The Machinist Mask | 10.00% | ~10,666 |
+| The Cartographer Mask | 10.00% | ~10,666 |
+| Balfron Connection | 10.00% | ~10,666 |
+| Ceiling Of Stars | 10.00% | ~10,666 |
+| Playing Dress Up | 10.00% | ~10,666 |
 | Many Different Faces | 9.00% | ~9,599 |
 | Trellick's Pillar | 9.00% | ~9,599 |
 | Centre Of Brunswick | 9.00% | ~9,599 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,200 |
 | Vivacious Vivarium | 2.00% | ~2,133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106,653 (Ranked 93)  
+Progressed: 106,656 (Ranked 93)  
 Completed: 1,081 (1.01%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 1,081 (1.01%) (Ranked 172)
 | 2023-12-23 | 106,152 | 1,077 |
 | 2023-12-24 | 106,398 | 1,077 |
 | 2023-12-25 | 106,640 | 1,080 |
-| 2023-12-26 | 106,653 | 1,081 |
+| 2023-12-26 | 106,656 | 1,081 |
 ## Awards
 Max (Extremely Fun): 29  (Ranked 519)  
 Sum: 122 (Ranked 447)  

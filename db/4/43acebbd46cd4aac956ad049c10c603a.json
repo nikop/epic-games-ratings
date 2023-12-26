@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -241,9 +241,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1140,
+  "EOS_Progressed": 1141,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3066,6 +3066,11 @@
       "Time": "2023-12-26T01:47:21.9693988+00:00",
       "NumProgressed": 1140,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T02:22:58.6637+00:00",
+      "NumProgressed": 1141,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3132,9 +3137,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 319
     },
     {
       "ID": "ChasingTheLight",
@@ -3278,7 +3283,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Mnemosyne",
@@ -3302,7 +3307,7 @@
       "Name": "Museum Visitor",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "NewBeginning",
@@ -3334,7 +3339,7 @@
       "Name": "Overload",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Persistent",
@@ -3438,7 +3443,7 @@
       "Name": "The All-Gifted",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3549,7 +3554,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1140,
+      "Progressed": 1141,
       "Completed": 2
     }
   ],
@@ -3557,8 +3562,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:47:21.9693986+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:22:58.6636994+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:42:05.0390293+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:47:21.9694555+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:17:56.8307278+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:22:58.6637542+00:00"
 }

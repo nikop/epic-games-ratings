@@ -7,11 +7,11 @@ Rating: 4.63 (Ranked 353)
 | ---- | ---------- | ----- |
 | Azoria Beckons | 2.00% | ~174 |
 | A Thorny Situation | 2.00% | ~174 |
+| Break-Net Speed | 2.00% | ~174 |
 | ... And Spit Back Out | 2.00% | ~174 |
 | Calm Sailing | 1.00% | ~87 |
 | Open the Gate! | 1.00% | ~87 |
 | Miner 49er | 1.00% | ~87 |
-| Break-Net Speed | 1.00% | ~87 |
 | Humble Collector | 1.00% | ~87 |
 | Mist Walker | 1.00% | ~87 |
 | Bramble Breaker | 1.00% | ~87 |
@@ -21,8 +21,8 @@ Rating: 4.63 (Ranked 353)
 | Exit Through The Gift Shop | 0.80% | ~10 |
 | Search for the Hairy Grell | 0.70% | ~61 |
 | Higher Tax Bracket | 0.60% | ~52 |
+| Botanical Breakthrough | 0.60% | ~52 |
 | Beach Comber | 0.50% | ~43 |
-| Botanical Breakthrough | 0.50% | ~43 |
 | Azorian Anniversary | 0.50% | ~43 |
 | Skilled | 0.50% | ~43 |
 | Flaming Hot Completos | 0.40% | ~35 |

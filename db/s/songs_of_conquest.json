@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 229,
+  "Ranking_Rating": 230,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 300,
@@ -3159,9 +3159,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 150
     },
     {
       "ID": "WielderLevel3",
@@ -3263,8 +3263,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:27.3123761+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:27:41.819948+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:40:34.7029853+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:27.312419+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:16:19.9380831+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:27:41.8199919+00:00"
 }

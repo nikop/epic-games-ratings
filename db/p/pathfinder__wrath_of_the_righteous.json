@@ -4703,9 +4703,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12770,
+  "EOS_Progressed": 12772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18038,6 +18038,11 @@
       "Time": "2023-12-26T01:53:40.5410548+00:00",
       "NumProgressed": 12770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T02:29:03.0317229+00:00",
+      "NumProgressed": 12772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18121,7 +18126,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "11_PathOfAeon",
@@ -18177,7 +18182,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "18_MythicChoices",
@@ -18233,7 +18238,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "25_MasterfulDispell",
@@ -18249,7 +18254,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "28_GreatUpstart",
@@ -18297,7 +18302,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18393,7 +18398,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "46_AllPathsOpen",
@@ -18417,7 +18422,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "49_Flame",
@@ -18473,7 +18478,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "56_GetToad",
@@ -18481,7 +18486,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "57_PathOfDevil",
@@ -18976,21 +18981,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11552,
+      "Progressed": 11554,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12770,
+      "Progressed": 12772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-26T00:00:09.2028081+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:40.5410547+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:29:03.0317224+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:43:52.7904568+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:40.5412182+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:19:51.286016+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:29:03.0318833+00:00"
 }

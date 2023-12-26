@@ -54,6 +54,7 @@ Rating: 4.29 (Ranked 862)
 | Tongs | 3.00% | ~6 |
 | Platinum | 3.00% | ~6 |
 | Hammer | 3.00% | ~6 |
+| Gunpowder | 3.00% | ~6 |
 | Combo Master | 2.00% | ~4 |
 | Blaze | 2.00% | ~4 |
 | Topaz | 2.00% | ~4 |
@@ -63,7 +64,6 @@ Rating: 4.29 (Ranked 862)
 | Rocket | 2.00% | ~4 |
 | Adamantite | 2.00% | ~4 |
 | Concluded | 2.00% | ~4 |
-| Gunpowder | 2.00% | ~4 |
 | Satellite | 2.00% | ~4 |
 | Really Bad Luck | 1.00% | ~2 |
 | Immortality | 1.00% | ~2 |
@@ -80,7 +80,7 @@ Rating: 4.29 (Ranked 862)
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 208 (Ranked 411)  
-Completed: 1 (0.48%) (Ranked 220)  
+Completed: 1 (0.48%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

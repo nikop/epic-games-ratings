@@ -8,10 +8,10 @@
 | Purification Pioneer | 75.00% | ~181 |
 | Mechanical Buddy | 70.00% | ~169 |
 | Dicesmithing Time! | 62.00% | ~149 |
-| Sanctuary Guardian | 54.00% | ~130 |
+| Sanctuary Guardian | 55.00% | ~133 |
 | Endless Tricks | 49.00% | ~118 |
 | Wild's Keeper | 45.00% | ~108 |
-| Mind Illuminator | 42.00% | ~101 |
+| Mind Illuminator | 43.00% | ~104 |
 | Noctuan Champion | 35.00% | ~84 |
 | Stellar Dismantler | 34.00% | ~82 |
 | Anomaly Destroyer | 31.00% | ~75 |

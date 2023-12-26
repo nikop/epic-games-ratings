@@ -997,9 +997,9 @@
       "Count": 144
     }
   ],
-  "EOS_Progressed": 14046,
+  "EOS_Progressed": 14047,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1269,
+  "EOS_NewPlayers": 1263,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15812,6 +15812,11 @@
       "Time": "2023-12-26T01:53:09.1133271+00:00",
       "NumProgressed": 14046,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-26T02:28:28.0351715+00:00",
+      "NumProgressed": 14047,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 34,
@@ -15927,7 +15932,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5899
+      "UsersEstimate": 5900
     },
     {
       "ID": "ACH15",
@@ -15983,7 +15988,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6461
+      "UsersEstimate": 6462
     },
     {
       "ID": "ACH22",
@@ -16007,7 +16012,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "ACH25",
@@ -16015,7 +16020,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "ACH26",
@@ -16094,7 +16099,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14046,
+      "Progressed": 14047,
       "Completed": 76
     }
   ],
@@ -16102,8 +16107,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-25T02:22:18.7517243+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:09.1133269+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:28.035171+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:44:02.7594957+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:09.1133969+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:20:02.3157214+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:28.0352592+00:00"
 }

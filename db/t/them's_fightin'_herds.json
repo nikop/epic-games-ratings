@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234246,
+  "EOS_Progressed": 234251,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25671,6 +25671,11 @@
       "Time": "2023-12-26T01:52:51.8411437+00:00",
       "NumProgressed": 234246,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T02:28:09.0208297+00:00",
+      "NumProgressed": 234251,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -25746,7 +25751,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84329
+      "UsersEstimate": 84330
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -25818,7 +25823,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -25826,7 +25831,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79644
+      "UsersEstimate": 79645
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -25842,7 +25847,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51534
+      "UsersEstimate": 51535
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -25850,7 +25855,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7027
+      "UsersEstimate": 7028
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -25866,7 +25871,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -25890,7 +25895,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39822
+      "UsersEstimate": 39823
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -25898,14 +25903,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234246,
+      "Progressed": 234251,
       "Completed": 6
     }
   ],
@@ -25913,8 +25918,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-22T09:02:10.2313691+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:51.8411435+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:09.020829+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.6096514+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:42:15.2141811+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:51.8412847+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:18:07.5662296+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:09.0209614+00:00"
 }

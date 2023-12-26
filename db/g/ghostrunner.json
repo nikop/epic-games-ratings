@@ -6,9 +6,9 @@
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1485,9 +1485,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 25099,
+  "EOS_Progressed": 25101,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -28380,6 +28380,11 @@
       "Time": "2023-12-26T01:47:14.2888216+00:00",
       "NumProgressed": 25099,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-12-26T02:22:50.2608993+00:00",
+      "NumProgressed": 25101,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 45,
@@ -28519,7 +28524,7 @@
       "Name": "Legacy Drivers",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Longrunner",
@@ -28527,7 +28532,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 19075
+      "UsersEstimate": 19077
     },
     {
       "ID": "MoreThanHuman",
@@ -28615,7 +28620,7 @@
       "Name": "Running out of breath",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13302
+      "UsersEstimate": 13304
     },
     {
       "ID": "RunningWild",
@@ -28639,7 +28644,7 @@
       "Name": "Sticks And Stones",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "StrafingRun",
@@ -28663,7 +28668,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15312
     },
     {
       "ID": "SwordToAGunfight",
@@ -28711,7 +28716,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 13302
+      "UsersEstimate": 13304
     },
     {
       "ID": "WaveOfMutilation",
@@ -28750,21 +28755,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 25099,
+      "Progressed": 25101,
       "Completed": 67
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 25099,
+      "Progressed": 25101,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-24T05:57:59.1594172+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:47:14.2888214+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:22:50.2608989+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.5913812+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:42:01.600175+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:47:14.288985+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:17:53.1824131+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:22:50.2611507+00:00"
 }

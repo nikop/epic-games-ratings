@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1896,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4609,6 +4609,11 @@
       "Time": "2023-12-25T21:09:38.4150703+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T02:28:22.1186895+00:00",
+      "NumProgressed": 1896,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4620,7 +4625,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Auditor",
@@ -4652,7 +4657,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Commandos",
@@ -4700,7 +4705,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "Everyone_is_here",
@@ -4724,7 +4729,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Grenadier",
@@ -4732,7 +4737,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Hard_Serpent",
@@ -4762,9 +4767,9 @@
       "ID": "How",
       "SetID": "85nb4h3",
       "Name": "How?!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Its_very_spicy",
@@ -4772,7 +4777,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "KillAllM2",
@@ -4804,7 +4809,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "MoskitoBite",
@@ -4812,7 +4817,7 @@
       "Name": "Mosquito bite",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "Scout",
@@ -4836,7 +4841,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "We_were_not_here",
@@ -4859,15 +4864,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1896,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:03.7186406+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:22.118689+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:46:30.1888049+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:03.7186768+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:21:59.057173+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:22.1187217+00:00"
 }

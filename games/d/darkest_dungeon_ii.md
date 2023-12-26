@@ -10,7 +10,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 6.00% | ~285 |
 | This Belongs in a Museum | 5.00% | ~6,494 |
 | Autodidact | 5.00% | ~6,494 |
-| This guy... again? | 5.00% | ~237 |
+| This guy... again? | 5.00% | ~238 |
 | Serenity Now! | 4.00% | ~5,195 |
 | Creep and Sleep | 4.00% | ~5,195 |
 | Meat and Greet | 4.00% | ~5,195 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,896 |
 | FNG | 3.00% | ~3,896 |
 | Nope | 3.00% | ~3,896 |
-| Friends 'Til the End | 3.00% | ~142 |
+| Friends 'Til the End | 3.00% | ~143 |
 | Resurrection | 2.00% | ~2,598 |
 | Unleash Hell | 2.00% | ~2,598 |
 | Funny Guy | 2.00% | ~2,598 |
@@ -59,7 +59,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 1.00% | ~1,299 |
 | Hot Air | 1.00% | ~1,299 |
 | Eyes Up | 1.00% | ~1,299 |
-| Slap on the Wrist | 1.00% | ~47 |
+| Slap on the Wrist | 1.00% | ~48 |
 | Handled | 0.90% | ~1,169 |
 | For Old Time' Sake | 0.90% | ~43 |
 | Shrine of Reflection | 0.80% | ~1,039 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.70% | ~33 |
 | Hat Trick | 0.60% | ~779 |
 | Triage | 0.60% | ~779 |
-| No Mercy | 0.60% | ~28 |
+| No Mercy | 0.60% | ~29 |
 | A Life Well Lived | 0.40% | ~520 |
 | The World As It Was | 0.40% | ~520 |
 | Bacon Bits | 0.40% | ~520 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,878 (Ranked 87)  
+Progressed: 129,883 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 129,878 | 3 |
+| 2023-12-26 | 129,883 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
 Sum: 21,099 (Ranked 58)  

@@ -1374,9 +1374,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1470,9 +1470,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "Sentinelphobic",
@@ -1805,8 +1805,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:51:54.8919311+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:26:06.340542+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:43:55.1461866+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:51:54.8920645+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:19:54.0101718+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:26:06.3406183+00:00"
 }

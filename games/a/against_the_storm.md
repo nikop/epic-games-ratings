@@ -46,8 +46,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.80% | ~154 |
 | Fishmen Ritual Site | 0.80% | ~154 |
 | Victory Through Prosperity | 0.80% | ~154 |
+| Efficient Explorer | 0.70% | ~135 |
 | Forsaken Gods Temple | 0.70% | ~135 |
-| Efficient Explorer | 0.60% | ~116 |
 | Refinery | 0.60% | ~116 |
 | Dangerous Lands | 0.60% | ~116 |
 | Forbidden Lands | 0.60% | ~116 |

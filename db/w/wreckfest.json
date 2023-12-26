@@ -5,7 +5,7 @@
   "Ranking_Rating": 881,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 149,
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1099,6 +1099,11 @@
       "Time": "2023-12-26T01:52:15.1806358+00:00",
       "NumProgressed": 382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T02:27:28.2177669+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1109,9 +1114,9 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "CareerAllChallenges",
@@ -1159,7 +1164,7 @@
       "Name": "World Masters Champion",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CareerFirstWin",
@@ -1167,7 +1172,7 @@
       "Name": "Storm Warning",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "CollectVehiclesA",
@@ -1183,7 +1188,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "CreditsEarnedA",
@@ -1223,7 +1228,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "PlayerRankB",
@@ -1231,7 +1236,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "PlayerRankC",
@@ -1255,7 +1260,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1270,7 +1275,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 384,
       "Completed": 0
     }
   ],
@@ -1278,8 +1283,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:15.1806354+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:27:28.2177663+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:43:16.6559656+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:15.1806554+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:19:11.7257517+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:27:28.2177823+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 149,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1674,6 +1674,11 @@
       "Time": "2023-12-26T01:53:17.6015081+00:00",
       "NumProgressed": 513,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T02:28:37.8503563+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1718,7 +1723,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1740,17 +1745,17 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 15
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1772,17 +1777,17 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "TIME_ORWELL",
@@ -1845,14 +1850,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 515,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:17.6015079+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:37.850356+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:42:22.9010939+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:17.6015275+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:18:15.183214+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:37.8503727+00:00"
 }

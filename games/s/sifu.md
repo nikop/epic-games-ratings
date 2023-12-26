@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,781 |
-| The Assault | 3.00% | ~22,335 |
-| Life is your teacher | 3.00% | ~22,335 |
-| Lightning Hands | 3.00% | ~22,335 |
-| The Hateful Pole Fighter | 2.00% | ~14,890 |
-| Stuntmaster | 2.00% | ~14,890 |
-| Street Fighting | 2.00% | ~14,890 |
-| State of constant learning | 2.00% | ~14,890 |
-| Qi Gong: Essence | 2.00% | ~14,890 |
-| Old Child | 2.00% | ~14,890 |
-| Rumble in the Hangar | 2.00% | ~14,890 |
+| The Old Grandmaster | 4.00% | ~29,782 |
+| The Assault | 3.00% | ~22,336 |
+| Life is your teacher | 3.00% | ~22,336 |
+| Lightning Hands | 3.00% | ~22,336 |
+| The Hateful Pole Fighter | 2.00% | ~14,891 |
+| Stuntmaster | 2.00% | ~14,891 |
+| Street Fighting | 2.00% | ~14,891 |
+| State of constant learning | 2.00% | ~14,891 |
+| Qi Gong: Essence | 2.00% | ~14,891 |
+| Old Child | 2.00% | ~14,891 |
+| Rumble in the Hangar | 2.00% | ~14,891 |
 | A Lady's Blood in the Snow | 1.00% | ~7,445 |
 | Lady Wing Chun | 1.00% | ~7,445 |
 | Furious Fists | 1.00% | ~7,445 |
@@ -44,7 +44,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.40% | ~2,978 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,234 |
 | The Pit Protector | 0.30% | ~2,234 |
-| The best strikes are the ones we avoid | 0.30% | ~161 |
+| The best strikes are the ones we avoid | 0.30% | ~162 |
 | Drunken Fighter | 0.20% | ~1,489 |
 | Martial Artist | 0.20% | ~1,489 |
 | Knowledge Greed | 0.20% | ~1,489 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~54 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744,516 (Ranked 23)  
+Progressed: 744,538 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 744,516 | 12,966 |
+| 2023-12-26 | 744,538 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
 Sum: 11,864 (Ranked 87)  

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33712,
+  "EOS_Progressed": 33714,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2655,
+  "EOS_NewPlayers": 2651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11519,6 +11519,11 @@
       "Time": "2023-12-26T01:53:36.3620691+00:00",
       "NumProgressed": 33712,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T02:28:58.5306928+00:00",
+      "NumProgressed": 33714,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -11547,7 +11552,7 @@
       "Name": "Great Shot, Kid",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_12",
@@ -11579,7 +11584,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6405
+      "UsersEstimate": 6406
     },
     {
       "ID": "achievement_16",
@@ -11643,7 +11648,7 @@
       "Name": "Fearless",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_23",
@@ -11651,7 +11656,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_24",
@@ -11739,7 +11744,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "achievement_34",
@@ -11755,7 +11760,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 32026
+      "UsersEstimate": 32028
     },
     {
       "ID": "achievement_36",
@@ -11803,7 +11808,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_41",
@@ -11811,7 +11816,7 @@
       "Name": "Baited",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_42",
@@ -11899,14 +11904,14 @@
       "Name": "A Promising Career",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 33712,
+      "Progressed": 33714,
       "Completed": 3
     }
   ],
@@ -11914,8 +11919,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:36.3620689+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:58.5306924+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.5159253+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:46:48.2945544+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:36.3621629+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:22:20.6677762+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:58.5307719+00:00"
 }

@@ -12,11 +12,11 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~92 |
 | Yettisoned | 56.00% | ~91 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~84 |
-| Perfect Probulator | 50.00% | ~81 |
+| Perfect Probulator | 51.00% | ~83 |
 | Lobster Blisque | 49.00% | ~79 |
-| Pimp My Raid | 45.00% | ~73 |
+| Pimp My Raid | 46.00% | ~75 |
 | Earthly Pleasures | 43.00% | ~70 |
-| Fly Me to the Moon Base | 41.00% | ~66 |
+| Fly Me to the Moon Base | 42.00% | ~68 |
 | Ducks in a Row, Fish in a Barrel | 41.00% | ~66 |
 | Freshly Squeezed | 31.00% | ~50 |
 | Bodied Sattva | 31.00% | ~50 |
@@ -32,8 +32,8 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 14.00% | ~23 |
 | Hidden Human Hive Harvest | 13.00% | ~21 |
 | Mash Machine | 13.00% | ~21 |
+| Dusted | 13.00% | ~21 |
 | If You Know What I Mean | 12.00% | ~19 |
-| Dusted | 12.00% | ~19 |
 | Albion Bridge Is for Falling Down | 11.00% | ~18 |
 | Scuttled | 7.00% | ~11 |
 | PK Slam Dunk | 7.00% | ~11 |

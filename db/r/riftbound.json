@@ -350,9 +350,9 @@
       "ID": "ACH_GettingGoodAtThis",
       "SetID": "1od64h3",
       "Name": "Getting Good At This",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_HoldTheLine",
@@ -461,8 +461,8 @@
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:53:20.4228534+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:41.143686+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.7355696+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:43:35.2672175+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:53:20.4228703+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:19:31.821238+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:41.1437013+00:00"
 }

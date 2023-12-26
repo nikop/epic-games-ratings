@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3837,9 +3837,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32712,
+  "EOS_Progressed": 32713,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23477,6 +23477,11 @@
       "Time": "2023-12-26T01:52:07.2773737+00:00",
       "NumProgressed": 32712,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-26T02:26:19.7947727+00:00",
+      "NumProgressed": 32713,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23528,7 +23533,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "Collect_Spores",
@@ -23552,7 +23557,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "Daily_Dose",
@@ -23560,7 +23565,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "Diabolical",
@@ -23632,7 +23637,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "Ghost_Expert",
@@ -23848,7 +23853,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "Tobins_Prodigy",
@@ -23888,14 +23893,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32712,
+      "Progressed": 32713,
       "Completed": 70
     }
   ],
@@ -23903,8 +23908,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-25T18:58:16.4810099+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:07.2773735+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:26:19.7947722+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:41:52.4272459+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:07.2774889+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:17:43.7281562+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:26:19.7948889+00:00"
 }

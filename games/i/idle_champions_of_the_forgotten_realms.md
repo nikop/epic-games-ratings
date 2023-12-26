@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.30% | ~633 |
 | Were-verpowered | 0.20% | ~489 |
 | A Persistent Buzzing | 0.20% | ~489 |
+| Terror in the Dark | 0.20% | ~489 |
 | Seeking Allies | 0.20% | ~489 |
 | Mad Cow Disease | 0.20% | ~489 |
 | Friendly Imps | 0.20% | ~489 |
@@ -166,7 +167,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Band | 0.10% | ~211 |
 | Beast Mode | 0.10% | ~245 |
 | The Forbidden City | 0.10% | ~245 |
-| Terror in the Dark | 0.10% | ~245 |
 | Periodic Petrification | 0.10% | ~245 |
 | No Good at All | 0.10% | ~245 |
 | Fall From Grace | 0.10% | ~245 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,682 (Ranked 68)  
+Progressed: 244,689 (Ranked 68)  
 Completed: 2,564 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -803,7 +803,7 @@ Completed: 2,564 (1.05%) (Ranked 168)
 | 2023-12-23 | 243,900 | 2,557 |
 | 2023-12-24 | 244,276 | 2,558 |
 | 2023-12-25 | 244,638 | 2,562 |
-| 2023-12-26 | 244,682 | 2,564 |
+| 2023-12-26 | 244,689 | 2,564 |
 ## Awards
 Max (Great for Beginners): 5,691  (Ranked 71)  
 Sum: 33,079 (Ranked 41)  

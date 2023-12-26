@@ -6,10 +6,10 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~19,075 |
-| Sword Runner | 61.00% | ~15,310 |
-| Running out of breath | 53.00% | ~13,302 |
-| Wallrunner | 53.00% | ~13,302 |
+| Longrunner | 76.00% | ~19,077 |
+| Sword Runner | 61.00% | ~15,312 |
+| Running out of breath | 53.00% | ~13,304 |
+| Wallrunner | 53.00% | ~13,304 |
 | Homerunner | 44.00% | ~11,044 |
 | Out of order | 44.00% | ~11,044 |
 | I call it luck | 43.00% | ~10,793 |
@@ -46,14 +46,14 @@ Number of Ratings: 1,047  (23.09.2022)
 | Hit me if you can | 1.00% | ~251 |
 | Obedient Machine | 0.90% | ~226 |
 | Everyone Needs A Hobby | 0.70% | ~176 |
-| Legacy Drivers | 0.50% | ~125 |
-| Sticks And Stones | 0.50% | ~125 |
+| Legacy Drivers | 0.50% | ~126 |
+| Sticks And Stones | 0.50% | ~126 |
 | A Grade | 0.40% | ~100 |
 | GR Project Complete | 0.40% | ~100 |
 | Up Close And Personal | 0.40% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,099 (Ranked 142)  
-Completed: 95 (0.38%) (Ranked 234)  
+Progressed: 25,101 (Ranked 142)  
+Completed: 95 (0.38%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 95 (0.38%) (Ranked 234)
 | 2023-12-23 | 24,943 | 94 |
 | 2023-12-24 | 25,020 | 95 |
 | 2023-12-25 | 25,095 | 95 |
-| 2023-12-26 | 25,099 | 95 |
+| 2023-12-26 | 25,101 | 95 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
 Sum: 743 (Ranked 295)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17437,
+  "EOS_Progressed": 17440,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15151,6 +15151,11 @@
       "Time": "2023-12-26T01:47:32.9368473+00:00",
       "NumProgressed": 17437,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-26T02:23:11.3863924+00:00",
+      "NumProgressed": 17440,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15227,7 +15232,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "18",
@@ -15267,7 +15272,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "22",
@@ -15403,7 +15408,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "32",
@@ -15411,7 +15416,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "33",
@@ -15419,7 +15424,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "34",
@@ -15435,20 +15440,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17437,
+      "Progressed": 17440,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3391,
+      "Progressed": 3394,
       "Completed": 1051
     }
   ],
@@ -15456,8 +15461,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:47:32.9368471+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:23:11.386392+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:42:35.942102+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:47:32.9369364+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:18:29.6879114+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:23:11.3864678+00:00"
 }

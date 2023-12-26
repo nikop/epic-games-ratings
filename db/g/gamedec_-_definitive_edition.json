@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -501,7 +501,7 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 255715,
+  "EOS_Progressed": 255717,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 1,
@@ -28461,6 +28461,11 @@
       "Time": "2023-12-26T01:50:03.0826288+00:00",
       "NumProgressed": 255715,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T02:25:54.8028501+00:00",
+      "NumProgressed": 255717,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28472,7 +28477,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69043
+      "UsersEstimate": 69044
     },
     {
       "ID": "ACH_AON",
@@ -28544,7 +28549,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7671
+      "UsersEstimate": 7672
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -28552,7 +28557,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23014
+      "UsersEstimate": 23015
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -28592,7 +28597,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7671
+      "UsersEstimate": 7672
     },
     {
       "ID": "ACH_IRONDEC",
@@ -28616,7 +28621,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74157
+      "UsersEstimate": 74158
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28768,7 +28773,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7671
+      "UsersEstimate": 7672
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -28887,7 +28892,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255715,
+      "Progressed": 255717,
       "Completed": 8
     }
   ],
@@ -28895,8 +28900,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-24T10:02:49.5700162+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:50:03.0826285+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:25:54.8028495+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:46:33.5810692+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:50:03.0827744+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:22:03.6269831+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:25:54.8029861+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2242,6 +2242,11 @@
       "Time": "2023-12-25T23:09:17.3809742+00:00",
       "NumProgressed": 663,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T02:28:01.8483632+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2253,7 +2258,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2261,7 +2266,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2293,7 +2298,7 @@
       "Name": "Youth Magnet",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2325,7 +2330,7 @@
       "Name": "Kind Adventurer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2333,7 +2338,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2341,7 +2346,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2365,7 +2370,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2405,7 +2410,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2612,7 +2617,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 2
     }
   ],
@@ -2620,8 +2625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:45.3202366+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:28:01.8483629+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:43:30.4279631+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:45.3202776+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:19:26.3397026+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:28:01.8483997+00:00"
 }

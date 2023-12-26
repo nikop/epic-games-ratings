@@ -44,9 +44,9 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~173 |
 | Stop Tanos! | 26.00% | ~166 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~166 |
+| Bonus Evilness | 25.00% | ~160 |
 | Sabotage! | 25.00% | ~160 |
 | The Rune Sockets of Finitude (Part 1) | 25.00% | ~160 |
-| Bonus Evilness | 24.00% | ~153 |
 | Raiders of the Lost Stone | 24.00% | ~153 |
 | The Rune Sockets of Finitude (Part 2) | 23.00% | ~147 |
 | The Last Stand - This Time For Real! | 21.00% | ~134 |

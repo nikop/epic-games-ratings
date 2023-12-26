@@ -26,11 +26,11 @@ Rating: 4.20 (Ranked 936)
 | Giving Back | 6.00% | ~1,158 |
 | You Need a Gun | 6.00% | ~1,158 |
 | I Do Belong Here | 6.00% | ~1,158 |
-| Keep Fighting | 6.00% | ~433 |
+| Keep Fighting | 6.00% | ~434 |
 | It's Time | 5.00% | ~361 |
 | The Commonality | 4.00% | ~772 |
 | In Striking Distance | 3.00% | ~579 |
-| One Last Job | 2.00% | ~144 |
+| One Last Job | 2.00% | ~145 |
 | Armed to the Teeth | 1.00% | ~72 |
 | Mugshot | 1.00% | ~193 |
 | Big Spender | 1.00% | ~72 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 936)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,298 (Ranked 149)  
-Completed: 82 (0.42%) (Ranked 228)  
+Progressed: 19,302 (Ranked 149)  
+Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 82 (0.42%) (Ranked 228)
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
-| 2023-12-26 | 19,298 | 82 |
+| 2023-12-26 | 19,302 | 82 |
 ## Awards
 Max (Amazing Characters): 100  (Ranked 370)  
 Sum: 510 (Ranked 329)  

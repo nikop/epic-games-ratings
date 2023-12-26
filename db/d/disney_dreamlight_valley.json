@@ -5535,9 +5535,9 @@
       "Count": 544
     }
   ],
-  "EOS_Progressed": 13191,
+  "EOS_Progressed": 13197,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -23055,6 +23055,11 @@
       "Time": "2023-12-26T01:52:39.1072192+00:00",
       "NumProgressed": 13191,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-12-26T02:27:55.1132332+00:00",
+      "NumProgressed": 13197,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 15,
@@ -23066,7 +23071,7 @@
       "Name": "Angler",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "Banker",
@@ -23074,7 +23079,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5147
     },
     {
       "ID": "Bestest_Friend",
@@ -23082,7 +23087,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 5936
+      "UsersEstimate": 5939
     },
     {
       "ID": "Chef_Cook",
@@ -23090,7 +23095,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "Chit_Chatter",
@@ -23106,7 +23111,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6598
     },
     {
       "ID": "Duty_Bound",
@@ -23114,7 +23119,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "Gardener",
@@ -23122,7 +23127,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4091
     },
     {
       "ID": "Generous",
@@ -23130,7 +23135,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "Goofys_Investor",
@@ -23138,7 +23143,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 8970
+      "UsersEstimate": 8974
     },
     {
       "ID": "Miner",
@@ -23146,7 +23151,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "Photographer",
@@ -23154,7 +23159,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 8838
+      "UsersEstimate": 8842
     },
     {
       "ID": "Renovator",
@@ -23162,7 +23167,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6598
     },
     {
       "ID": "Thorn_Cleaner",
@@ -23170,7 +23175,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "Valleys_Helper",
@@ -23178,14 +23183,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 7915
+      "UsersEstimate": 7918
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13191,
+      "Progressed": 13197,
       "Completed": 325
     }
   ],
@@ -23193,8 +23198,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-26T01:42:32.0026402+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:39.1072184+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:27:55.1132326+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:42:32.0026407+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:39.1073158+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:18:25.2200954+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:27:55.1133248+00:00"
 }

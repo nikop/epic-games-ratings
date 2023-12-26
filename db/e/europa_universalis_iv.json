@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 229,
+  "Ranking_Rating": 230,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
@@ -13719,9 +13719,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 484200,
+  "EOS_Progressed": 484209,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5344,
+  "EOS_NewPlayers": 5345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42454,6 +42454,11 @@
       "Time": "2023-12-26T01:52:06.061858+00:00",
       "NumProgressed": 484200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T02:26:18.6836812+00:00",
+      "NumProgressed": 484209,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45368,21 +45373,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 484200,
+      "Progressed": 484209,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 484200,
+      "Progressed": 484209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-25T23:00:01.020047+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:52:06.0618579+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:26:18.6836807+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:43:38.3011312+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:52:06.0630458+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:19:35.4015703+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:26:18.6846935+00:00"
 }

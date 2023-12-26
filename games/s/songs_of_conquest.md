@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 229)  
+Rating: 4.69 (Ranked 230)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 44.00% | ~330 |
 | Double Kill | 37.00% | ~278 |
 | Critical Hit | 20.00% | ~150 |
-| Veteran | 19.00% | ~142 |
+| Veteran | 20.00% | ~150 |
 | Dressed For Success | 13.00% | ~98 |
 | Sorcerous Spree | 8.00% | ~60 |
 | Humiliation | 8.00% | ~60 |

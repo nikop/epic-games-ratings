@@ -6,7 +6,7 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5067,
+  "EOS_Progressed": 5068,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4084,6 +4084,11 @@
       "Time": "2023-12-26T01:47:47.6420776+00:00",
       "NumProgressed": 5067,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-26T02:23:27.2178464+00:00",
+      "NumProgressed": 5068,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4103,7 +4108,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4143,7 +4148,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4151,7 +4156,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4763
+      "UsersEstimate": 4764
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4311,7 +4316,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3851
+      "UsersEstimate": 3852
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4343,7 +4348,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4359,7 +4364,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4367,7 +4372,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4383,7 +4388,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4630,15 +4635,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5067,
+      "Progressed": 5068,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-26T01:47:47.6420773+00:00",
+  "LastChanged_Achievements": "2023-12-26T02:23:27.2178456+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-26T01:41:42.862579+00:00",
-  "LastUpdate_Achievements": "2023-12-26T01:47:47.642139+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:17:32.3034769+00:00",
+  "LastUpdate_Achievements": "2023-12-26T02:23:27.217922+00:00"
 }

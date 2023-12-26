@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Adventure Time | 96.00% | ~43 |
 | Master Of The Arts | 71.00% | ~32 |
+| Getting Good At This | 22.00% | ~10 |
 | Close Call | 20.00% | ~9 |
-| Getting Good At This | 20.00% | ~9 |
 | Evolution Revolution | 9.00% | ~4 |
 | Five Of A Kind | 9.00% | ~4 |
 | I'm A Wizard | 7.00% | ~3 |

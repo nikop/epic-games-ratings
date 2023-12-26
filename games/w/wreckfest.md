@@ -5,28 +5,28 @@ Rating: 4.27 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 57.00% | ~218 |
-| Dirty Roller | 32.00% | ~122 |
+| Storm Warning | 57.00% | ~219 |
+| Dirty Roller | 32.00% | ~123 |
 | Highballer | 30.00% | ~115 |
 | Regional Juniors Champion | 30.00% | ~115 |
-| Look Mom, I Can Fly | 24.00% | ~92 |
+| Look Mom, I Can Fly | 23.00% | ~88 |
 | Wheeler Dealer | 23.00% | ~88 |
 | National Amateurs Champion | 18.00% | ~69 |
-| Trashing Around | 15.00% | ~57 |
-| Hating Them Tin Cans | 15.00% | ~57 |
-| Junk Collector | 14.00% | ~53 |
+| Trashing Around | 15.00% | ~58 |
+| Hating Them Tin Cans | 15.00% | ~58 |
+| Junk Collector | 14.00% | ~54 |
 | Challengers Champion | 12.00% | ~46 |
 | Pro Internationals Champion | 8.00% | ~31 |
 | Cash For Crashes | 6.00% | ~23 |
 | Showing Some Dedication | 4.00% | ~15 |
 | Maniac Driver | 4.00% | ~15 |
-| World Masters Champion | 3.00% | ~11 |
+| World Masters Champion | 3.00% | ~12 |
 | Garden Variety | 1.00% | ~4 |
 | Glutton For Punishment | 0.80% | ~3 |
 | Human Lover | 0.50% | ~2 |
 | Rocketeer | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 382 (Ranked 355)  
+Progressed: 384 (Ranked 354)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -39,7 +39,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 295 | 0 |
 | 2023-12-24 | 333 | 0 |
 | 2023-12-25 | 380 | 0 |
-| 2023-12-26 | 382 | 0 |
+| 2023-12-26 | 384 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
