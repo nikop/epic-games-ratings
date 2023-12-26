@@ -54,12 +54,13 @@
 | Loremaster | 1.00% | ~2 |
 | Adept | 1.00% | ~2 |
 | Ever After | 1.00% | ~2 |
+| Trailblazer | 1.00% | ~2 |
 | Moving At Odd Angles | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Voracity Confronted | 1.00% | ~2 |
 | Executor | 0.80% | ~2 |
 | Embellished | 0.80% | ~2 |
-| Trailblazer | 0.80% | ~2 |
+| Manticore | 0.80% | ~2 |
 | Huntsmaster | 0.80% | ~2 |
 | Loader | 0.80% | ~2 |
 | Mercenary | 0.80% | ~2 |
@@ -75,7 +76,7 @@
 | Conqueror | 0.40% | ~1 |
 | Forager | 0.40% | ~1 |
 | Forged in Battle | 0.40% | ~1 |
-| Manticore | 0.40% | ~1 |
+| Captain | 0.40% | ~1 |
 | Chromatic Collector | 0.40% | ~1 |
 | Despoiler | 0.40% | ~1 |
 | Celebrity | 0.40% | ~1 |
@@ -94,7 +95,6 @@
 | Factotum | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
-| Captain | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 | Mercenary Lord | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |

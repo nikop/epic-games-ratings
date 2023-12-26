@@ -25,17 +25,17 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 73.00% | ~505 |
 | Can We Keep It? | 73.00% | ~505 |
 | Mole Masher | 73.00% | ~505 |
-| Knowledge is Power | 71.00% | ~491 |
+| Knowledge is Power | 72.00% | ~498 |
 | Big Game Hunter | 71.00% | ~491 |
 | Unboxing | 71.00% | ~491 |
 | First Love | 70.00% | ~484 |
-| Panda-kin | 68.00% | ~471 |
+| Panda-kin | 69.00% | ~477 |
 | Chatterbox | 68.00% | ~471 |
 | Elementary, My Dear | 67.00% | ~464 |
 | What Plants Crave | 63.00% | ~436 |
 | Lifeline Pipeline | 63.00% | ~436 |
+| Builder of the Month | 62.00% | ~429 |
 | Waste Not Want Not | 62.00% | ~429 |
-| Builder of the Month | 61.00% | ~422 |
 | Martle's Dream | 59.00% | ~408 |
 | Commissions, commissions...! | 57.00% | ~394 |
 | Happier-est Place on Earth | 57.00% | ~394 |

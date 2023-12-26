@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Those Were Mine | 0.10% | ~16 |
 | What's 'hubris' in Greek? | 0.10% | ~16 |
 | Three's a Crowd | 0.10% | ~16 |
+| Mausoleum in Halicarnassus | 0.10% | ~16 |
 | Hittite Iron | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
@@ -238,6 +239,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Network Game | 0.10% | ~16 |
 | The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
+| Five Cults | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
 | Pilgrimage | 0.10% | ~16 |
 | Poetic Leader | 0.10% | ~16 |
@@ -311,7 +313,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
-| Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
@@ -326,7 +327,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
-| Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |

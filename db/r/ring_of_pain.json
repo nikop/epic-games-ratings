@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241725,
+  "EOS_Progressed": 241726,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29576,6 +29576,11 @@
       "Time": "2023-12-26T09:10:16.478709+00:00",
       "NumProgressed": 241725,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-26T10:11:19.0556084+00:00",
+      "NumProgressed": 241726,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29665,9 +29670,9 @@
       "ID": "DEAL25DAMAGE",
       "SetID": "5l8oe0h",
       "Name": "Heavy Hitter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1934
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -30073,9 +30078,9 @@
       "ID": "KILLFROG",
       "SetID": "5l8oe0h",
       "Name": "Goodbye, Frog Friend",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1934
     },
     {
       "ID": "KILLNICEDOG",
@@ -30690,13 +30695,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241725,
+      "Progressed": 241726,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3205,
+      "Progressed": 3206,
       "Completed": 413
     }
   ],
@@ -30704,8 +30709,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:10:16.4787086+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:11:19.0556081+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:58:30.0478026+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:10:16.478942+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:59:19.6117264+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:11:19.0558508+00:00"
 }

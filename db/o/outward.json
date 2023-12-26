@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4250,
+  "EOS_Progressed": 4251,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7031,6 +7031,11 @@
       "Time": "2023-12-26T05:06:37.1386154+00:00",
       "NumProgressed": 4250,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-26T10:09:13.0637039+00:00",
+      "NumProgressed": 4251,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7074,7 +7079,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "CordonBleu_28",
@@ -7114,7 +7119,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ForAllAurai_8",
@@ -7146,7 +7151,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "HouseofCards_19",
@@ -7226,7 +7231,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7234,7 +7239,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7282,7 +7287,7 @@
       "Name": "The blood is life",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ThePowerOfAmbition_45",
@@ -7314,7 +7319,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7354,7 +7359,7 @@
       "Name": "Vanquisher of nightmares",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "VentureOutward_21",
@@ -7362,7 +7367,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7377,15 +7382,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4250,
+      "Progressed": 4251,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:08:44.9309167+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:09:13.0637038+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:03:14.7002024+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:08:44.9310249+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:03:41.3189008+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:09:13.0637727+00:00"
 }

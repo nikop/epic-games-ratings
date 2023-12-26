@@ -4,11 +4,11 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 958,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -987,9 +987,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7464,
+  "EOS_Progressed": 7465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9397,6 +9397,11 @@
       "Time": "2023-12-26T01:53:28.0208093+00:00",
       "NumProgressed": 7464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T10:11:02.2617275+00:00",
+      "NumProgressed": 7465,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9448,7 +9453,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Control_All_Relics",
@@ -9512,7 +9517,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "First_Race_Met",
@@ -9520,7 +9525,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5374
+      "UsersEstimate": 5375
     },
     {
       "ID": "First_Ship_Designed",
@@ -9528,7 +9533,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "First_Stream_Travel",
@@ -9624,7 +9629,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "Play_1000_Hours",
@@ -9712,7 +9717,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -9728,7 +9733,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9983,15 +9988,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7464,
+      "Progressed": 7465,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:10:02.9775808+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:11:02.2617273+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:59:47.7928989+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:10:02.9776664+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:01:19.7302756+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:11:02.2618309+00:00"
 }

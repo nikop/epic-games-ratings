@@ -9,15 +9,15 @@
 | Death Battle | 49.00% | ~25 |
 | Phantom Kunoichi | 49.00% | ~25 |
 | Killing Machine | 49.00% | ~25 |
-| Divine Retribution | 45.00% | ~23 |
-| Captain Mustache | 43.00% | ~22 |
+| Divine Retribution | 47.00% | ~24 |
+| Captain Mustache | 45.00% | ~23 |
+| Dispel Rumors | 41.00% | ~21 |
 | Final Showdown | 39.00% | ~20 |
-| Dispel Rumors | 39.00% | ~20 |
 | The End of an Outlaw | 39.00% | ~20 |
+| Demon Slayer | 33.00% | ~17 |
 | Steal Her Away | 33.00% | ~17 |
 | Sewer Rat | 33.00% | ~17 |
 | Fight Fire With Fire | 33.00% | ~17 |
-| Demon Slayer | 31.00% | ~16 |
 | Urban Explorer | 31.00% | ~16 |
 | Not Today | 29.00% | ~15 |
 | Big Eater | 27.00% | ~14 |

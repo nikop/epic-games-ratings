@@ -1,24 +1,24 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.18 (Ranked 951)  
+Rating: 4.18 (Ranked 952)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,668 |
-| Battlefields Have Memories | 80.00% | ~1,534 |
-| Enlisted | 73.00% | ~1,399 |
-| Maybe Engage a Little | 67.00% | ~1,284 |
-| No More Names | 49.00% | ~939 |
-| Initiate | 35.00% | ~671 |
-| Thrada-Kul | 31.00% | ~594 |
-| Gravity-Challenged Rocks | 24.00% | ~460 |
-| Socialite | 23.00% | ~441 |
-| Soldier | 21.00% | ~403 |
-| All the Major Food Groups | 20.00% | ~383 |
-| Beggars Would Ride | 18.00% | ~345 |
+| Unforeseen | 87.00% | ~1,670 |
+| Battlefields Have Memories | 80.00% | ~1,536 |
+| Enlisted | 73.00% | ~1,402 |
+| Maybe Engage a Little | 67.00% | ~1,286 |
+| No More Names | 49.00% | ~941 |
+| Initiate | 35.00% | ~672 |
+| Thrada-Kul | 31.00% | ~595 |
+| Gravity-Challenged Rocks | 24.00% | ~461 |
+| Socialite | 23.00% | ~442 |
+| Soldier | 20.00% | ~384 |
+| All the Major Food Groups | 20.00% | ~384 |
+| Beggars Would Ride | 18.00% | ~346 |
 | Control is an Illusion | 17.00% | ~326 |
-| The Means to Save It | 14.00% | ~268 |
+| The Means to Save It | 14.00% | ~269 |
 | Resilience to Sin | 12.00% | ~230 |
 | A Familiar Nest | 12.00% | ~230 |
 | Periapt Alizarin | 12.00% | ~230 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 951)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,917 (Ranked 239)  
+Progressed: 1,920 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 2 (0.10%) (Ranked 306)
 | 2023-12-23 | 1,709 | 2 |
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
-| 2023-12-26 | 1,917 | 2 |
+| 2023-12-26 | 1,920 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

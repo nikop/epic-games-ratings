@@ -5,44 +5,44 @@ Rating: 4.10 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 56.00% | ~712 |
-| Trinity | 26.00% | ~331 |
-| Find Allies | 20.00% | ~254 |
-| A Taste of Wrath | 20.00% | ~254 |
+| Break Out | 56.00% | ~715 |
+| Trinity | 26.00% | ~332 |
+| Find Allies | 20.00% | ~255 |
+| A Taste of Wrath | 20.00% | ~255 |
+| The Collector | 20.00% | ~255 |
 | Shatter Them All | 19.00% | ~242 |
 | I Found It | 19.00% | ~242 |
-| The Collector | 19.00% | ~242 |
-| Geared Up | 18.00% | ~229 |
-| Scholar | 18.00% | ~229 |
-| Adventurer | 17.00% | ~216 |
+| Geared Up | 18.00% | ~230 |
+| Scholar | 18.00% | ~230 |
+| Adventurer | 17.00% | ~217 |
 | Tributes of Caladrias | 16.00% | ~204 |
 | Fashion Victim | 16.00% | ~204 |
 | Stone Collection | 16.00% | ~204 |
 | Powerful Allies | 15.00% | ~191 |
 | Big Bazar | 11.00% | ~140 |
-| Alchemist | 10.00% | ~127 |
-| Essence Blow | 9.00% | ~114 |
+| Alchemist | 10.00% | ~128 |
+| Essence Blow | 9.00% | ~115 |
 | The Mentor | 7.00% | ~89 |
-| Calm before the Storm | 6.00% | ~76 |
-| Miner | 6.00% | ~76 |
+| Calm before the Storm | 6.00% | ~77 |
+| Miner | 6.00% | ~77 |
 | To Battle | 5.00% | ~64 |
 | Godslayer | 5.00% | ~64 |
 | Airborne | 5.00% | ~64 |
 | Clear Sight | 3.00% | ~38 |
 | Shatterer | 3.00% | ~38 |
 | Fine Feathers Make Fine Birds | 3.00% | ~38 |
-| Slayer | 2.00% | ~25 |
-| Flawless Victory | 2.00% | ~25 |
-| A Queen's Tale | 2.00% | ~25 |
+| Slayer | 2.00% | ~26 |
+| Flawless Victory | 2.00% | ~26 |
+| A Queen's Tale | 2.00% | ~26 |
 | Shardbearer | 1.00% | ~13 |
 | All There Is | 1.00% | ~13 |
 | False God | 1.00% | ~13 |
 | Forgemaster | 0.90% | ~11 |
-| All That Gold | 0.60% | ~8 |
 | Summiter | 0.60% | ~8 |
+| All That Gold | 0.50% | ~6 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,272 (Ranked 267)  
+Progressed: 1,276 (Ranked 267)  
 Completed: 3 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 3 (0.24%) (Ranked 267)
 | 2023-12-23 | 1,128 | 3 |
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
-| 2023-12-26 | 1,272 | 3 |
+| 2023-12-26 | 1,276 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

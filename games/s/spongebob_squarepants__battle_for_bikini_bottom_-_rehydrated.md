@@ -7,25 +7,25 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 15.00% | ~59 |
-| Sponge Smasher | 14.00% | ~55 |
 | Jellyfish Jam | 13.00% | ~51 |
+| Sponge Smasher | 13.00% | ~51 |
 | Jellyfishing | 9.00% | ~35 |
 | Time For Tutorial | 9.00% | ~35 |
 | Sweet Victory | 8.00% | ~31 |
 | Sock Getter | 8.00% | ~31 |
-| Surf's Up! | 7.00% | ~27 |
+| Surf's Up! | 7.00% | ~28 |
 | Life's as extreme as you wanna make it! | 6.00% | ~24 |
 | Uptown and Downtown | 6.00% | ~24 |
 | Super Spatula Seeker | 6.00% | ~24 |
 | Star Smasher | 6.00% | ~24 |
+| Shrimp Catcher | 5.00% | ~20 |
 | Toxic Terror | 5.00% | ~20 |
 | Hit Rock Bottom | 5.00% | ~20 |
 | Squirrel Smasher | 5.00% | ~20 |
+| Hello, Bikini Bottom | 4.00% | ~16 |
 | Keep it Rolling | 4.00% | ~16 |
-| Shrimp Catcher | 4.00% | ~16 |
 | Robot encyclopedia | 3.00% | ~12 |
 | Are you ready now? | 3.00% | ~12 |
-| Hello, Bikini Bottom | 3.00% | ~12 |
 | Ship Shape | 2.00% | ~8 |
 | Shanghaied | 2.00% | ~8 |
 | Kelp Forest of Fear | 2.00% | ~8 |
@@ -34,12 +34,12 @@ Number of Ratings: 76  (23.09.2022)
 | The Small Does Not Rule | 1.00% | ~4 |
 | SpongeBob vs SpongeBob! | 1.00% | ~4 |
 | Sock Concert | 1.00% | ~4 |
+| Mega Spatula Seeker | 0.80% | ~3 |
 | 100% SpongeBob | 0.50% | ~2 |
 | Sock Opera | 0.50% | ~2 |
 | Super Ultra Mega Spatula Seeker | 0.50% | ~2 |
-| Mega Spatula Seeker | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392 (Ranked 352)  
+Progressed: 393 (Ranked 352)  
 Completed: 2 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 2 (0.51%) (Ranked 217)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
-| 2023-12-26 | 392 | 2 |
+| 2023-12-26 | 393 | 2 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 494)  
 Sum: 35 (Ranked 521)  

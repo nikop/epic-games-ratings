@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -2806,10 +2806,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2331,
       "NumberOfAwardsMax": 1629
+    },
+    {
+      "Time": "2023-12-26T10:01:27.4940885+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2332,
+      "NumberOfAwardsMax": 1629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2331,
+  "NumberOfAwards": 2332,
   "NumberOfAwardsMax": 1629,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2835,7 +2841,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2891,8 +2897,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-12-26T06:01:27.2197923+00:00",
+  "LastChanged": "2023-12-26T10:01:27.4940883+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.7515182+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:59:53.5121713+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:06:36.279507+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:01:27.4940889+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:08:34.6320049+00:00"
 }

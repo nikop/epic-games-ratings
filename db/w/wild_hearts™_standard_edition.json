@@ -2,10 +2,10 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 901,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -3018,6 +3018,11 @@
       "Time": "2023-12-26T09:09:25.5624794+00:00",
       "NumProgressed": 899,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T10:10:10.1185708+00:00",
+      "NumProgressed": 901,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3030,7 +3035,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 892
     },
     {
       "ID": "achievement_10",
@@ -3108,9 +3113,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_2",
@@ -3270,7 +3275,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_38",
@@ -3348,9 +3353,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_47",
@@ -3382,15 +3387,15 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 532
     },
     {
       "ID": "achievement_8",
@@ -3413,13 +3418,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 901,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:09:25.562479+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:10:10.1185705+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:59:51.8036811+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:09:25.5625236+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:01:25.207837+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:10:10.1186338+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,652 |
-| Worth it | 63.00% | ~42,526 |
-| Eagle Eye | 55.00% | ~37,126 |
-| Corpseman I | 40.00% | ~27,001 |
-| Blast fishing | 37.00% | ~24,976 |
-| Not alone | 32.00% | ~21,601 |
-| Headhunter I | 26.00% | ~17,551 |
-| Manual Labour I | 25.00% | ~16,876 |
-| Developers, Developers, Developers | 24.00% | ~16,200 |
-| Basic Training | 23.00% | ~15,525 |
-| Furchtlos und Treu | 13.00% | ~8,775 |
-| Gott Mit Uns | 12.00% | ~8,100 |
-| This We'll Defend! | 9.00% | ~6,075 |
-| Anker wirf! | 9.00% | ~6,075 |
-| Providentiea Memor | 9.00% | ~6,075 |
-| For King and Country | 9.00% | ~6,075 |
-| Battle hardened | 8.00% | ~5,400 |
-| Semper Fidelis! | 7.00% | ~4,725 |
-| Honneur et Patrie | 7.00% | ~4,725 |
+| Setting an example | 78.00% | ~52,656 |
+| Worth it | 63.00% | ~42,530 |
+| Eagle Eye | 55.00% | ~37,129 |
+| Corpseman I | 40.00% | ~27,003 |
+| Blast fishing | 37.00% | ~24,978 |
+| Not alone | 32.00% | ~21,603 |
+| Headhunter I | 26.00% | ~17,552 |
+| Manual Labour I | 25.00% | ~16,877 |
+| Developers, Developers, Developers | 24.00% | ~16,202 |
+| Basic Training | 23.00% | ~15,527 |
+| Furchtlos und Treu | 13.00% | ~8,776 |
+| Gott Mit Uns | 12.00% | ~8,101 |
+| This We'll Defend! | 9.00% | ~6,076 |
+| Anker wirf! | 9.00% | ~6,076 |
+| Providentiea Memor | 9.00% | ~6,076 |
+| For King and Country | 9.00% | ~6,076 |
+| Battle hardened | 8.00% | ~5,401 |
+| Semper Fidelis! | 7.00% | ~4,726 |
+| Honneur et Patrie | 7.00% | ~4,726 |
 | In Treue Fest | 5.00% | ~3,375 |
 | Voor De Koning | 5.00% | ~3,375 |
 | Extreme Headhunter | 5.00% | ~3,375 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,502 (Ranked 113)  
+Progressed: 67,508 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-23 | 67,249 | 4 |
 | 2023-12-24 | 67,382 | 4 |
 | 2023-12-25 | 67,464 | 4 |
-| 2023-12-26 | 67,502 | 4 |
+| 2023-12-26 | 67,508 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 823 (Ranked 282)  

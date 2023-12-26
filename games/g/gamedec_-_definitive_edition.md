@@ -1,29 +1,29 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 862)  
+Rating: 4.28 (Ranked 871)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,164 |
-| Powergamer | 27.00% | ~69,049 |
-| Write that down | 25.00% | ~63,934 |
-| Barely scratched the surface | 25.00% | ~63,934 |
-| Guns, lots of guns | 13.00% | ~33,246 |
-| Collector | 12.00% | ~30,688 |
-| Elementary! | 9.00% | ~23,016 |
-| Griever | 8.00% | ~20,459 |
-| Pumpkin Jack | 8.00% | ~20,459 |
-| Wake up! | 8.00% | ~20,459 |
+| I will finish what you started | 29.00% | ~74,166 |
+| Powergamer | 27.00% | ~69,051 |
+| Write that down | 25.00% | ~63,936 |
+| Barely scratched the surface | 25.00% | ~63,936 |
+| Guns, lots of guns | 13.00% | ~33,247 |
+| Collector | 12.00% | ~30,689 |
+| Elementary! | 9.00% | ~23,017 |
+| Griever | 8.00% | ~20,460 |
+| Pumpkin Jack | 8.00% | ~20,460 |
+| Wake up! | 8.00% | ~20,460 |
 | It's honest work | 7.00% | ~17,902 |
-| Me smart | 6.00% | ~15,344 |
-| Trash compactor | 6.00% | ~15,344 |
-| Valedictorian | 6.00% | ~15,344 |
+| Me smart | 6.00% | ~15,345 |
+| Trash compactor | 6.00% | ~15,345 |
+| Valedictorian | 6.00% | ~15,345 |
 | Good listener | 5.00% | ~12,787 |
-| BOY! | 4.00% | ~10,229 |
-| Ka-ching! | 4.00% | ~10,229 |
-| So you like to read? | 4.00% | ~10,229 |
+| BOY! | 4.00% | ~10,230 |
+| Ka-ching! | 4.00% | ~10,230 |
+| So you like to read? | 4.00% | ~10,230 |
 | Hoarder | 3.00% | ~7,672 |
 | I like to sniff around | 3.00% | ~7,672 |
 | Mind reader | 3.00% | ~7,672 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~511 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,737 (Ranked 64)  
+Progressed: 255,744 (Ranked 64)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-23 | 255,488 | 7 |
 | 2023-12-24 | 255,587 | 8 |
 | 2023-12-25 | 255,705 | 8 |
-| 2023-12-26 | 255,737 | 8 |
+| 2023-12-26 | 255,744 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 385)  
 Sum: 93 (Ranked 463)  
@@ -403,3 +403,4 @@ Diff (max vs sum): -78
 | 2023-11-22 | 4.29 | - | 91 | 91 |
 | 2023-11-30 | 4.29 | - | 92 | 92 |
 | 2023-12-24 | 4.29 | - | 93 | 93 |
+| 2023-12-26 | 4.28 | - | 93 | 93 |

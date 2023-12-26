@@ -17,16 +17,16 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 10.00% | ~10 |
 | Long-Haul Flyer | 10.00% | ~10 |
 | Irissa's Fate | 8.00% | ~8 |
+| Pass A38 | 8.00% | ~8 |
 | Eternal Oblivion | 8.00% | ~8 |
 | Berserker | 7.00% | ~7 |
-| Pass A38 | 7.00% | ~7 |
+| Hotshot | 6.00% | ~6 |
 | Family Reunion | 6.00% | ~6 |
-| Hotshot | 5.00% | ~5 |
+| Free as a Bird | 5.00% | ~5 |
 | Alb | 5.00% | ~5 |
 | Storyteller | 4.00% | ~4 |
 | Globetrotter | 4.00% | ~4 |
 | Self-Sufficient | 4.00% | ~4 |
-| Free as a Bird | 4.00% | ~4 |
 | Unbreakable | 4.00% | ~4 |
 | Idealist | 3.00% | ~3 |
 | Cleric | 3.00% | ~3 |

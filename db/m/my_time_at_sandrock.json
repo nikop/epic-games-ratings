@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1964,7 +1964,7 @@
   ],
   "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7807,9 +7807,9 @@
       "ID": "C_KNOWLEDGE",
       "SetID": "80dcan0",
       "Name": "Knowledge is Power",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 498
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -7831,9 +7831,9 @@
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 477
     },
     {
       "ID": "C_YEAR",
@@ -7927,9 +7927,9 @@
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 429
     },
     {
       "ID": "M_HOME_STAR",
@@ -8295,8 +8295,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-26T08:59:04.4326669+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:06:49.784769+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:08:53.4877227+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.7892311+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:59:04.4326677+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:06:49.784832+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:00:13.5667729+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:08:53.4878172+00:00"
 }

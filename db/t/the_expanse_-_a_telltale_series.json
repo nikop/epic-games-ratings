@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17451,
+  "EOS_Progressed": 17456,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15186,6 +15186,11 @@
       "Time": "2023-12-26T08:03:48.7537667+00:00",
       "NumProgressed": 17451,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-26T10:05:22.121658+00:00",
+      "NumProgressed": 17456,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15214,7 +15219,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "12",
@@ -15278,7 +15283,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "2",
@@ -15300,9 +15305,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1746
     },
     {
       "ID": "22",
@@ -15316,9 +15321,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1222
     },
     {
       "ID": "24",
@@ -15350,7 +15355,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "28",
@@ -15396,9 +15401,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 349
+      "UsersEstimate": 524
     },
     {
       "ID": "6",
@@ -15430,7 +15435,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "31",
@@ -15438,7 +15443,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "32",
@@ -15446,7 +15451,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "33",
@@ -15454,7 +15459,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "34",
@@ -15470,20 +15475,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17451,
+      "Progressed": 17456,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3405,
+      "Progressed": 3410,
       "Completed": 1053
     }
   ],
@@ -15491,8 +15496,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:04:21.8364407+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:05:22.1216578+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:59:23.4965664+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:04:21.8365226+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:00:42.3270268+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:05:22.1217674+00:00"
 }

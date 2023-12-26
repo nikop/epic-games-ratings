@@ -1,30 +1,30 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.18 (Ranked 951)  
+Rating: 4.18 (Ranked 952)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~8,851 |
-| Disposing of the Evidence | 38.00% | ~4,052 |
-| Without a Scratch | 34.00% | ~3,626 |
-| Wreckless Driving | 28.00% | ~2,986 |
-| A Marked Man | 25.00% | ~2,666 |
-| Street Sweeper | 18.00% | ~1,920 |
-| Liberty City Minute | 17.00% | ~1,813 |
-| Offshore Delivery | 14.00% | ~1,493 |
+| First Day on the Job | 83.00% | ~8,856 |
+| Disposing of the Evidence | 38.00% | ~4,055 |
+| Without a Scratch | 34.00% | ~3,628 |
+| Wreckless Driving | 28.00% | ~2,988 |
+| A Marked Man | 25.00% | ~2,668 |
+| Street Sweeper | 18.00% | ~1,921 |
+| Liberty City Minute | 17.00% | ~1,814 |
+| Offshore Delivery | 14.00% | ~1,494 |
 | Dirty Money | 12.00% | ~1,280 |
-| By a Mile | 10.00% | ~1,066 |
-| Not So Fast | 10.00% | ~1,066 |
-| Right-hand Man | 10.00% | ~1,066 |
-| A Gift from the King | 7.00% | ~746 |
+| By a Mile | 10.00% | ~1,067 |
+| Not So Fast | 10.00% | ~1,067 |
+| Right-hand Man | 10.00% | ~1,067 |
+| A Gift from the King | 7.00% | ~747 |
 | Full Artillery | 4.00% | ~427 |
 | Mob Boss | 3.00% | ~320 |
-| Escape Artist | 2.00% | ~213 |
 | Where To? | 2.00% | ~213 |
 | Splish Splash | 2.00% | ~213 |
 | Playing Doctor | 2.00% | ~213 |
 | Liberty City Secrets | 2.00% | ~213 |
+| Escape Artist | 1.00% | ~107 |
 | Planned Ahead | 1.00% | ~107 |
 | Got This Figured Out | 1.00% | ~107 |
 | Wheels Up | 1.00% | ~107 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 951)
 | Is That All You've Got? | 0.90% | ~96 |
 | King of Liberty City | 0.60% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,664 (Ranked 174)  
+Progressed: 10,670 (Ranked 174)  
 Completed: 69 (0.65%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 69 (0.65%) (Ranked 199)
 | 2023-12-23 | 10,392 | 66 |
 | 2023-12-24 | 10,505 | 66 |
 | 2023-12-25 | 10,628 | 69 |
-| 2023-12-26 | 10,664 | 69 |
+| 2023-12-26 | 10,670 | 69 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,794 |
-| The Assault | 3.00% | ~22,346 |
-| Life is your teacher | 3.00% | ~22,346 |
-| Lightning Hands | 3.00% | ~22,346 |
-| The Hateful Pole Fighter | 2.00% | ~14,897 |
-| Stuntmaster | 2.00% | ~14,897 |
-| Street Fighting | 2.00% | ~14,897 |
-| State of constant learning | 2.00% | ~14,897 |
-| Qi Gong: Essence | 2.00% | ~14,897 |
-| Old Child | 2.00% | ~14,897 |
-| Rumble in the Hangar | 2.00% | ~14,897 |
+| The Old Grandmaster | 4.00% | ~29,796 |
+| The Assault | 3.00% | ~22,347 |
+| Life is your teacher | 3.00% | ~22,347 |
+| Lightning Hands | 3.00% | ~22,347 |
+| The Hateful Pole Fighter | 2.00% | ~14,898 |
+| Stuntmaster | 2.00% | ~14,898 |
+| Street Fighting | 2.00% | ~14,898 |
+| State of constant learning | 2.00% | ~14,898 |
+| Qi Gong: Essence | 2.00% | ~14,898 |
+| Old Child | 2.00% | ~14,898 |
+| Rumble in the Hangar | 2.00% | ~14,898 |
 | A Lady's Blood in the Snow | 1.00% | ~7,449 |
 | Lady Wing Chun | 1.00% | ~7,449 |
 | Furious Fists | 1.00% | ~7,449 |
@@ -33,19 +33,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.80% | ~5,959 |
 | Fight the way you practice | 0.70% | ~379 |
 | Martial Hub | 0.60% | ~325 |
-| Muk Yan Master | 0.50% | ~3,724 |
-| Tiger on Fire | 0.50% | ~3,724 |
-| Detective Story | 0.50% | ~3,724 |
+| Muk Yan Master | 0.50% | ~3,725 |
+| Tiger on Fire | 0.50% | ~3,725 |
+| Detective Story | 0.50% | ~3,725 |
 | Bloody Sport | 0.50% | ~271 |
-| Source of Flying Daggers | 0.40% | ~2,979 |
-| Iron Money | 0.40% | ~2,979 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,979 |
-| Prodigal Child | 0.40% | ~2,979 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,979 |
-| Sword Stained With Blood | 0.40% | ~2,979 |
+| Source of Flying Daggers | 0.40% | ~2,980 |
+| Iron Money | 0.40% | ~2,980 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,980 |
+| Prodigal Child | 0.40% | ~2,980 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,980 |
+| Sword Stained With Blood | 0.40% | ~2,980 |
 | The Pit Protector | 0.30% | ~2,235 |
 | Come Snap With Me | 0.30% | ~2,235 |
-| The best strikes are the ones we avoid | 0.30% | ~162 |
+| The best strikes are the ones we avoid | 0.30% | ~163 |
 | Drunken Fighter | 0.20% | ~1,490 |
 | Martial Artist | 0.20% | ~1,490 |
 | Knowledge Greed | 0.20% | ~1,490 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~54 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744,852 (Ranked 23)  
+Progressed: 744,907 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 744,852 | 12,966 |
+| 2023-12-26 | 744,907 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,874 (Ranked 87)  

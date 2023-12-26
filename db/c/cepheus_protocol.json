@@ -4,8 +4,8 @@
   "ProductSlug": "cepheus-protocol-388fe9",
   "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-10T19:00:00+00:00",
     "PcReleaseDate": "2020-05-15T08:00:00+00:00",
@@ -90,8 +90,8 @@
   ],
   "FirstSeen": "2023-06-15T20:58:52.4965868+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:53.2478251+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:05:33.0833042+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:07:04.2688258+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.2637866+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:57:52.4028975+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:05:33.08331+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:58:23.5864173+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:07:04.2688311+00:00"
 }

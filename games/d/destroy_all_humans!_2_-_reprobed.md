@@ -24,8 +24,8 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 13.00% | ~25 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~21 |
 | Dusted | 10.00% | ~19 |
+| Fly Me to the Moon Base | 9.00% | ~17 |
 | Kaijuiced | 9.00% | ~17 |
-| Fly Me to the Moon Base | 8.00% | ~16 |
 | Scuttled | 6.00% | ~12 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~12 |
 | Lobster Blisque | 4.00% | ~8 |

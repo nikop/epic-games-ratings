@@ -23,13 +23,13 @@ Rating: 4.65 (Ranked 321)
 | The Wicked Twins | 22.00% | ~244 |
 | Right On Time | 21.00% | ~233 |
 | Like Clockwork | 21.00% | ~233 |
+| The Betrayer | 21.00% | ~233 |
 | Golem Chaser | 21.00% | ~233 |
-| The Betrayer | 20.00% | ~222 |
 | The Loose Cannon | 19.00% | ~211 |
 | Check Your Pulse | 19.00% | ~211 |
+| Street Style | 18.00% | ~200 |
 | The Man Who Shattered Time | 18.00% | ~200 |
 | The Family Fortune | 18.00% | ~200 |
-| Street Style | 17.00% | ~189 |
 | Whiz Kid | 15.00% | ~166 |
 | Good Neighbor | 14.00% | ~155 |
 | Treasure Trove | 13.00% | ~144 |

@@ -1735,10 +1735,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164594,
+  "EOS_Progressed": 164601,
   "EOS_Completed": 410,
-  "EOS_NewPlayers": 1308,
-  "EOS_NewCompleters": 59,
+  "EOS_NewPlayers": 1314,
+  "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20655,6 +20655,11 @@
       "Time": "2023-12-26T09:05:07.5217388+00:00",
       "NumProgressed": 164594,
       "NumCompleted": 410
+    },
+    {
+      "Time": "2023-12-26T10:06:27.8528535+00:00",
+      "NumProgressed": 164601,
+      "NumCompleted": 410
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20761,9 +20766,9 @@
       "ID": "DEFEAT_FIDUS",
       "SetID": "ccc0dlh",
       "Name": "Shapely",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 658
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -21034,21 +21039,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164177,
+      "Progressed": 164184,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164594,
+      "Progressed": 164601,
       "Completed": 410
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T02:59:16.7945534+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:05:07.5217383+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:06:27.8528532+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:58:41.4753738+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:05:07.5218775+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:59:37.8211318+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:06:27.8529824+00:00"
 }

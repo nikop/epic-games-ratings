@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3237,9 +3237,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 200
     },
     {
       "ID": "CultivairChests1",
@@ -3293,9 +3293,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 233
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3598,8 +3598,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:10:06.6818108+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:11:07.086334+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:58:36.8841617+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:10:06.6818609+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:59:30.2455864+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:11:07.0863975+00:00"
 }

@@ -2241,9 +2241,9 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -2281,9 +2281,9 @@
       "ID": "ach_main17stone_completed",
       "SetID": "4hg22ll",
       "Name": "Raiders of the Lost Stone",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2384,8 +2384,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:08:59.7069957+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:09:33.805984+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:59:17.1908309+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:08:59.7070476+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:00:31.5251753+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:09:33.8060566+00:00"
 }

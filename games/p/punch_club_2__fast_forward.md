@@ -10,9 +10,9 @@
 | First winning | 82.00% | ~387 |
 | Your first job | 81.00% | ~382 |
 | Depressed visitor | 76.00% | ~359 |
+| Fitness professional | 75.00% | ~354 |
 | Old movies enjoyer | 75.00% | ~354 |
 | Neurotrainer – power gainer! | 75.00% | ~354 |
-| Fitness professional | 74.00% | ~349 |
 | Employee of the week | 74.00% | ~349 |
 | Your own amateur gym | 69.00% | ~326 |
 | First defeat | 68.00% | ~321 |
@@ -52,9 +52,9 @@
 | Get out of my apartment! | 34.00% | ~160 |
 | Gang wrangler | 32.00% | ~151 |
 | Seashell hunter | 32.00% | ~151 |
+| Undercover robot | 32.00% | ~151 |
+| Problems of cyborgs | 31.00% | ~146 |
 | Absolute Champion! | 31.00% | ~146 |
-| Undercover robot | 31.00% | ~146 |
-| Problems of cyborgs | 30.00% | ~142 |
 | Not little hacker | 30.00% | ~142 |
 | The lonesome road | 29.00% | ~137 |
 | Keep nature safe | 29.00% | ~137 |

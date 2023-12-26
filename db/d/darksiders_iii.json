@@ -5,10 +5,10 @@
   "Ranking_Rating": 623,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 462,
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -444,9 +444,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -894,6 +894,11 @@
       "Time": "2023-12-26T09:08:35.6509542+00:00",
       "NumProgressed": 192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T10:09:00.3940846+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -930,7 +935,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -970,7 +975,7 @@
       "Name": "Maximum Capacity",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -978,7 +983,7 @@
       "Name": "Increased Vigor",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -994,7 +999,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1016,17 +1021,17 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1058,7 +1063,7 @@
       "Name": "Salvation",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1082,7 +1087,7 @@
       "Name": "Enhance!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1098,7 +1103,7 @@
       "Name": "My Evil Twin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Crucible_Wave_100",
@@ -1210,7 +1215,7 @@
       "Name": "Demon Meddler",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -1224,9 +1229,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1240,9 +1245,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1256,17 +1261,17 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1274,7 +1279,7 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -1298,7 +1303,7 @@
       "Name": "Seeing Red",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Level_Up_100",
@@ -1360,9 +1365,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1400,9 +1405,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1417,15 +1422,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-26T09:08:35.6509538+00:00",
+  "LastChanged_Achievements": "2023-12-26T10:09:00.3940843+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:57:51.1898784+00:00",
-  "LastUpdate_Achievements": "2023-12-26T09:08:35.6510377+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:58:21.5228721+00:00",
+  "LastUpdate_Achievements": "2023-12-26T10:09:00.3941404+00:00"
 }

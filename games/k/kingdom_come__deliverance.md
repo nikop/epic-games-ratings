@@ -6,24 +6,24 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,600 |
-| Cavalier | 25.00% | ~203,594 |
-| Fatso | 23.00% | ~187,306 |
-| Awakening | 21.00% | ~171,019 |
-| Ranger | 20.00% | ~162,875 |
-| Scrooge | 20.00% | ~162,875 |
-| Anorectic | 16.00% | ~130,300 |
-| Firestarter | 16.00% | ~130,300 |
-| Bookworm | 15.00% | ~122,156 |
-| Insomniac | 13.00% | ~105,869 |
-| Buddy | 12.00% | ~97,725 |
-| Thief | 12.00% | ~97,725 |
-| Sinner | 11.00% | ~89,581 |
-| Traveller | 11.00% | ~89,581 |
+| Blacksmith's Son | 32.00% | ~260,602 |
+| Cavalier | 25.00% | ~203,596 |
+| Fatso | 23.00% | ~187,308 |
+| Awakening | 21.00% | ~171,020 |
+| Ranger | 20.00% | ~162,876 |
+| Scrooge | 20.00% | ~162,876 |
+| Anorectic | 16.00% | ~130,301 |
+| Firestarter | 16.00% | ~130,301 |
+| Bookworm | 15.00% | ~122,157 |
+| Insomniac | 13.00% | ~105,870 |
+| Buddy | 12.00% | ~97,726 |
+| Thief | 12.00% | ~97,726 |
+| Sinner | 11.00% | ~89,582 |
+| Traveller | 11.00% | ~89,582 |
 | Convict | 10.00% | ~81,438 |
 | Haggler | 9.00% | ~73,294 |
-| McLovin | 7.00% | ~57,006 |
-| Runt | 7.00% | ~57,006 |
+| McLovin | 7.00% | ~57,007 |
+| Runt | 7.00% | ~57,007 |
 | Casanova | 6.00% | ~48,863 |
 | Bad Trip | 5.00% | ~40,719 |
 | Monk | 5.00% | ~40,719 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,376 (Ranked 19)  
+Progressed: 814,382 (Ranked 19)  
 Completed: 52 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,14 +339,14 @@ Completed: 52 (0.01%) (Ranked 367)
 | 2023-12-23 | 813,967 | 52 |
 | 2023-12-24 | 814,160 | 52 |
 | 2023-12-25 | 814,325 | 52 |
-| 2023-12-26 | 814,376 | 52 |
+| 2023-12-26 | 814,382 | 52 |
 ## Awards
-Max (Character Customization): 7,709  (Ranked 53)  
-Sum: 28,620 (Ranked 50)  
+Max (Character Customization): 7,713  (Ranked 53)  
+Sum: 28,624 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,709 |
+| This game has Inclusive Character Customization | 7,713 |
 | This game has Great Boss Battles | 5,635 |
 | This game has Challenging Combat | 1,792 |
 | This game has Diverse Characters | 1,760 |
@@ -694,4 +694,4 @@ Diff (max vs sum): 3
 | 2023-12-23 | 4.71 | - | 7,702 | 28,594 |
 | 2023-12-24 | 4.71 | - | 7,702 | 28,600 |
 | 2023-12-25 | 4.71 | - | 7,709 | 28,618 |
-| 2023-12-26 | 4.71 | - | 7,709 | 28,620 |
+| 2023-12-26 | 4.71 | - | 7,713 | 28,624 |

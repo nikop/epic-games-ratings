@@ -19,13 +19,13 @@ Number of Ratings: 85  (23.09.2022)
 | Fly Me to the Moon Base | 43.00% | ~71 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~69 |
 | Freshly Squeezed | 33.00% | ~54 |
+| Upgreatest | 32.00% | ~53 |
 | Bodied Sattva | 32.00% | ~53 |
-| Upgreatest | 31.00% | ~51 |
 | Forbidden Donut | 30.00% | ~50 |
 | Furon Fashion | 25.00% | ~41 |
+| Trans-Siberian Express | 24.00% | ~40 |
+| Deincarnated | 23.00% | ~38 |
 | Rock of the Bay | 23.00% | ~38 |
-| Trans-Siberian Express | 23.00% | ~38 |
-| Deincarnated | 22.00% | ~36 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~35 |
 | Arkvoodle Doodle | 16.00% | ~26 |
 | Ouch of Body Experience | 16.00% | ~26 |

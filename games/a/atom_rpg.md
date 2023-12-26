@@ -6,9 +6,9 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,484 |
+| Atom Agent | 99.00% | ~1,485 |
 | One HIT wonder | 35.00% | ~525 |
-| Wanderer | 33.00% | ~495 |
+| Wanderer | 34.00% | ~510 |
 | One shot, one kill | 27.00% | ~405 |
 | Traveler | 24.00% | ~360 |
 | Grave Robber | 18.00% | ~270 |
@@ -31,19 +31,19 @@ Number of Ratings: 54  (23.09.2022)
 | Career criminal | 2.00% | ~30 |
 | Neanderthal | 1.00% | ~15 |
 | Cosmic Horror | 1.00% | ~15 |
-| It was worth a shot | 0.90% | ~13 |
+| It was worth a shot | 0.90% | ~14 |
 | Ghostbuster | 0.60% | ~9 |
-| Comrade Yogi | 0.50% | ~7 |
-| Tourist Korallov | 0.50% | ~7 |
+| Comrade Yogi | 0.50% | ~8 |
+| Tourist Korallov | 0.50% | ~8 |
 | Cheeki Breeki | 0.40% | ~6 |
 | It's a classic! | 0.30% | ~4 |
 | Expert | 0.30% | ~4 |
 | Mystical relics | 0.20% | ~3 |
-| 27 Club | 0.10% | ~1 |
-| No Name, No Slogan | 0.10% | ~1 |
-| Pacifist | 0.10% | ~1 |
+| 27 Club | 0.10% | ~2 |
+| No Name, No Slogan | 0.10% | ~2 |
+| Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 255)  
+Progressed: 1,500 (Ranked 255)  
 Completed: 1 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 1 (0.07%) (Ranked 322)
 | 2023-12-23 | 1,480 | 1 |
 | 2023-12-24 | 1,491 | 1 |
 | 2023-12-25 | 1,496 | 1 |
-| 2023-12-26 | 1,499 | 1 |
+| 2023-12-26 | 1,500 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 439)  
 Sum: 52 (Ranked 493)  

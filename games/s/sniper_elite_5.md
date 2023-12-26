@@ -74,8 +74,8 @@ Rating: 4.45 (Ranked 676)
 | Master of Pistols | 0.80% | ~33 |
 | Operation Overlord | 0.80% | ~33 |
 | Master-at-arms | 0.60% | ~25 |
+| Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
-| Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,112 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
