@@ -405,7 +405,7 @@
   ],
   "EOS_Progressed": 1500,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3846,9 +3846,9 @@
       "ID": "INDY_1",
       "SetID": "bf13m8j",
       "Name": "Indy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 60
     },
     {
       "ID": "KORALOV",
@@ -4038,8 +4038,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:11:05.5420322+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:09:43.0227947+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:57:42.455568+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:11:05.54206+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:16.1100034+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:09:43.0228323+00:00"
 }

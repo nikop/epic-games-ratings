@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 4.00% | ~44,783 |
-| It wakes | 4.00% | ~44,783 |
-| Skillful | 4.00% | ~44,783 |
-| Not half bad | 3.00% | ~33,587 |
-| Apt Survivor | 3.00% | ~33,587 |
-| Survival Treasures | 3.00% | ~33,587 |
-| I | 3.00% | ~33,587 |
-| Make Some Noise | 3.00% | ~33,587 |
-| The Grand Sacrifice | 2.00% | ~22,391 |
-| Agonizing Escape | 2.00% | ~22,391 |
-| Backdoor Escape | 2.00% | ~22,391 |
-| I've got your back | 2.00% | ~22,391 |
-| No one left behind | 2.00% | ~22,391 |
-| Medic | 2.00% | ~22,391 |
-| Handyman | 2.00% | ~22,391 |
-| Perfect Escape | 2.00% | ~22,391 |
-| Perfect Killing | 2.00% | ~22,391 |
-| Bloody Millionaire | 2.00% | ~22,391 |
-| Apt Killer | 2.00% | ~22,391 |
-| Risk it all | 2.00% | ~22,391 |
-| II | 2.00% | ~22,391 |
-| Engineer | 2.00% | ~22,391 |
-| Sorted | 2.00% | ~22,391 |
-| Wounded Healer | 2.00% | ~22,391 |
-| Healthy Obsession | 2.00% | ~22,391 |
-| Resurgence | 2.00% | ~22,391 |
-| Close Shave | 2.00% | ~22,391 |
-| Preemptive Strike | 2.00% | ~22,391 |
-| Humanitarian | 2.00% | ~22,391 |
+| Zealous | 4.00% | ~44,785 |
+| It wakes | 4.00% | ~44,785 |
+| Skillful | 4.00% | ~44,785 |
+| Not half bad | 3.00% | ~33,589 |
+| Apt Survivor | 3.00% | ~33,589 |
+| Survival Treasures | 3.00% | ~33,589 |
+| I | 3.00% | ~33,589 |
+| Make Some Noise | 3.00% | ~33,589 |
+| The Grand Sacrifice | 2.00% | ~22,393 |
+| Agonizing Escape | 2.00% | ~22,393 |
+| Backdoor Escape | 2.00% | ~22,393 |
+| I've got your back | 2.00% | ~22,393 |
+| No one left behind | 2.00% | ~22,393 |
+| Medic | 2.00% | ~22,393 |
+| Handyman | 2.00% | ~22,393 |
+| Perfect Escape | 2.00% | ~22,393 |
+| Perfect Killing | 2.00% | ~22,393 |
+| Bloody Millionaire | 2.00% | ~22,393 |
+| Apt Killer | 2.00% | ~22,393 |
+| Risk it all | 2.00% | ~22,393 |
+| II | 2.00% | ~22,393 |
+| Engineer | 2.00% | ~22,393 |
+| Sorted | 2.00% | ~22,393 |
+| Wounded Healer | 2.00% | ~22,393 |
+| Healthy Obsession | 2.00% | ~22,393 |
+| Resurgence | 2.00% | ~22,393 |
+| Close Shave | 2.00% | ~22,393 |
+| Preemptive Strike | 2.00% | ~22,393 |
+| Humanitarian | 2.00% | ~22,393 |
 | Blood on your hands | 1.00% | ~11,196 |
 | Escape Artist | 1.00% | ~11,196 |
 | Gifts for the Fog | 1.00% | ~11,196 |
@@ -54,15 +54,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 1.00% | ~11,196 |
 | Chorus of Chaos | 1.00% | ~11,196 |
 | Second Act | 1.00% | ~11,196 |
-| Made it out alive! | 0.90% | ~10,076 |
-| All Aboard | 0.90% | ~10,076 |
-| Item of Obsession | 0.90% | ~10,076 |
-| House of Pain | 0.90% | ~10,076 |
-| Holiday Get-Together | 0.90% | ~10,076 |
-| Near-Death Experience | 0.90% | ~10,076 |
-| Cutting Out | 0.90% | ~10,076 |
-| One More Step | 0.90% | ~10,076 |
-| MU/TH/UR Dearest | 0.90% | ~10,076 |
+| Made it out alive! | 0.90% | ~10,077 |
+| All Aboard | 0.90% | ~10,077 |
+| Item of Obsession | 0.90% | ~10,077 |
+| House of Pain | 0.90% | ~10,077 |
+| Holiday Get-Together | 0.90% | ~10,077 |
+| Near-Death Experience | 0.90% | ~10,077 |
+| Cutting Out | 0.90% | ~10,077 |
+| One More Step | 0.90% | ~10,077 |
+| MU/TH/UR Dearest | 0.90% | ~10,077 |
 | Blood on your face | 0.80% | ~8,957 |
 | Nerves of steel | 0.80% | ~8,957 |
 | Shock Therapy | 0.80% | ~8,957 |
@@ -79,31 +79,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Devoted Gatekeeping | 0.70% | ~7,837 |
 | End of Days | 0.70% | ~7,837 |
 | Outrun the Overlap | 0.70% | ~7,837 |
+| Rebuilding The Borgo | 0.70% | ~7,837 |
 | Extraterrestrial | 0.70% | ~7,837 |
-| Jump Scares | 0.60% | ~6,717 |
-| Hemophobia | 0.60% | ~6,717 |
-| Serial Killer | 0.60% | ~6,717 |
-| Game Over | 0.60% | ~6,717 |
-| Shrine Apparatus | 0.60% | ~6,717 |
-| Broken Bodies | 0.60% | ~6,717 |
-| Selfless Survival | 0.60% | ~6,717 |
-| Insult and Injury | 0.60% | ~6,717 |
-| High Speed Pursuit | 0.60% | ~6,717 |
-| Rebuilding The Borgo | 0.60% | ~6,717 |
+| Jump Scares | 0.60% | ~6,718 |
+| Hemophobia | 0.60% | ~6,718 |
+| Serial Killer | 0.60% | ~6,718 |
+| Game Over | 0.60% | ~6,718 |
+| Shrine Apparatus | 0.60% | ~6,718 |
+| Broken Bodies | 0.60% | ~6,718 |
+| Selfless Survival | 0.60% | ~6,718 |
+| Insult and Injury | 0.60% | ~6,718 |
+| High Speed Pursuit | 0.60% | ~6,718 |
 | Deep Cleansing | 0.50% | ~5,598 |
 | Texas BBQ | 0.50% | ~5,598 |
 | Party Crasher | 0.50% | ~5,598 |
 | Outrage | 0.50% | ~5,598 |
 | I See You | 0.50% | ~5,598 |
 | Complete the Evolution | 0.50% | ~5,598 |
-| Blood in your mouth | 0.40% | ~4,478 |
-| Whiffing to Success | 0.40% | ~4,478 |
-| Heavy Burden | 0.40% | ~4,478 |
-| Power Moves | 0.40% | ~4,478 |
-| Punch Drunk | 0.40% | ~4,478 |
-| Prowler | 0.40% | ~4,478 |
-| Triage | 0.40% | ~4,478 |
-| Kitted Out | 0.40% | ~4,478 |
+| Blood in your mouth | 0.40% | ~4,479 |
+| Whiffing to Success | 0.40% | ~4,479 |
+| Heavy Burden | 0.40% | ~4,479 |
+| Power Moves | 0.40% | ~4,479 |
+| Punch Drunk | 0.40% | ~4,479 |
+| Prowler | 0.40% | ~4,479 |
+| Triage | 0.40% | ~4,479 |
+| Kitted Out | 0.40% | ~4,479 |
 | Looter | 0.30% | ~3,359 |
 | Denied! | 0.30% | ~3,359 |
 | Death of Ignorance | 0.30% | ~3,359 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,120 |
 | Adept Good Guy | 0.10% | ~1,120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,119,565 (Ranked 13)  
+Progressed: 1,119,636 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -489,10 +489,10 @@ Completed: 65 (0.01%) (Ranked 367)
 | 2023-12-23 | 1,114,469 | 64 |
 | 2023-12-24 | 1,116,612 | 65 |
 | 2023-12-25 | 1,118,749 | 65 |
-| 2023-12-26 | 1,119,565 | 65 |
+| 2023-12-26 | 1,119,636 | 65 |
 ## Awards
 Max (Diverse Characters): 38,635  (Ranked 15)  
-Sum: 291,750 (Ranked 12)  
+Sum: 291,798 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -502,7 +502,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 32,616 |
 | This game is Extremely Fun | 32,328 |
 | This game has Challenging Combat | 32,289 |
-| This game has Quickly Understood Controls | 31,375 |
+| This game has Quickly Understood Controls | 31,423 |
 | This game has Amazing Storytelling | 29,754 |
 | This game has a Competitive Community | 28,554 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -846,4 +846,4 @@ Diff (max vs sum): 3
 | 2023-12-23 | 4.51 | - | 38,441 | 290,827 |
 | 2023-12-24 | 4.51 | - | 38,519 | 291,291 |
 | 2023-12-25 | 4.51 | - | 38,575 | 291,690 |
-| 2023-12-26 | 4.51 | - | 38,635 | 291,750 |
+| 2023-12-26 | 4.51 | - | 38,635 | 291,798 |

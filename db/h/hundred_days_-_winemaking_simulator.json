@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 806,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 155,
@@ -1099,9 +1099,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17640,
+  "EOS_Progressed": 17646,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -14979,6 +14979,11 @@
       "Time": "2023-12-26T10:10:37.6784062+00:00",
       "NumProgressed": 17640,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-26T11:09:22.0817561+00:00",
+      "NumProgressed": 17646,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -14991,7 +14996,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "a_10",
@@ -15039,7 +15044,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7409
+      "UsersEstimate": 7411
     },
     {
       "ID": "a_19",
@@ -15047,7 +15052,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "a_2",
@@ -15063,7 +15068,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "a_21",
@@ -15071,7 +15076,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "a_22",
@@ -15087,7 +15092,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "a_25",
@@ -15199,7 +15204,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "a_6",
@@ -15238,7 +15243,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17640,
+      "Progressed": 17646,
       "Completed": 13
     }
   ],
@@ -15246,8 +15251,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-26T03:58:11.2420844+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:10:37.6784059+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:09:22.081756+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:09.648683+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:59:09.3062751+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:10:37.6785177+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:58:16.0641569+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:09:22.0818271+00:00"
 }

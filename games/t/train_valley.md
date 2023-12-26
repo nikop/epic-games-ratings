@@ -6,22 +6,22 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~459 |
-| Close call! | 72.00% | ~424 |
-| Builder | 52.00% | ~306 |
-| Pangs of conscience | 44.00% | ~259 |
-| Living it large! | 44.00% | ~259 |
-| Collector | 43.00% | ~253 |
-| Need to think | 42.00% | ~247 |
-| Completely nuts! | 41.00% | ~241 |
-| Just in time! | 33.00% | ~194 |
-| Europe | 32.00% | ~188 |
+| Getting started | 77.00% | ~454 |
+| Close call! | 72.00% | ~425 |
+| Builder | 52.00% | ~307 |
+| Pangs of conscience | 44.00% | ~260 |
+| Living it large! | 44.00% | ~260 |
+| Collector | 43.00% | ~254 |
+| Need to think | 42.00% | ~248 |
+| Completely nuts! | 41.00% | ~242 |
+| Just in time! | 33.00% | ~195 |
+| Europe | 32.00% | ~189 |
 | Madness! | 31.00% | ~183 |
 | It's no coincidence. | 29.00% | ~171 |
 | Philatelist | 26.00% | ~153 |
 | Let's roll! | 26.00% | ~153 |
-| Ouroboros | 25.00% | ~147 |
-| Non Stop! | 24.00% | ~141 |
+| Ouroboros | 25.00% | ~148 |
+| Non Stop! | 24.00% | ~142 |
 | Foreman | 21.00% | ~124 |
 | Russia | 20.00% | ~118 |
 | America | 18.00% | ~106 |
@@ -33,8 +33,8 @@ Number of Ratings: 28  (23.09.2022)
 | Engineer | 10.00% | ~59 |
 | Tycoon | 9.00% | ~53 |
 | Germany | 7.00% | ~41 |
-| Supercrash! | 5.00% | ~29 |
-| Chuck Norris | 5.00% | ~29 |
+| Supercrash! | 5.00% | ~30 |
+| Chuck Norris | 5.00% | ~30 |
 | Сhancellor | 4.00% | ~24 |
 | Peacemaker | 4.00% | ~24 |
 | Forgotten | 3.00% | ~18 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589 (Ranked 325)  
+Progressed: 590 (Ranked 325)  
 Completed: 2 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 2 (0.34%) (Ranked 243)
 | 2023-12-23 | 580 | 2 |
 | 2023-12-24 | 584 | 2 |
 | 2023-12-25 | 589 | 2 |
+| 2023-12-26 | 590 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

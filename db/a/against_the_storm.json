@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 3783,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3599,9 +3599,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19280,
+  "EOS_Progressed": 19287,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17174,6 +17174,11 @@
       "Time": "2023-12-26T10:06:05.4577666+00:00",
       "NumProgressed": 19280,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T11:04:33.3892617+00:00",
+      "NumProgressed": 19287,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17402,7 +17407,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "WinNearRuins",
@@ -17474,15 +17479,15 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 58
     },
     {
       "ID": "WinPrestige20",
@@ -17657,15 +17662,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19280,
+      "Progressed": 19287,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-26T06:58:49.0084189+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:06:05.4577663+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:04:33.3892614+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:59:39.8065409+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:06:05.4578945+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:58:38.3251573+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:04:33.3893552+00:00"
 }

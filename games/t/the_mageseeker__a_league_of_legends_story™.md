@@ -5,31 +5,31 @@ Rating: 4.79 (Ranked 100)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,901 |
-| No more cages! | 91.00% | ~2,779 |
+| For Demacia | 95.00% | ~2,902 |
+| No more cages! | 91.00% | ~2,780 |
 | Everfrost | 77.00% | ~2,352 |
-| Pentakill | 76.00% | ~2,321 |
-| Dark Forest | 76.00% | ~2,321 |
-| The use of petricite | 74.00% | ~2,260 |
-| You can pet the dog | 60.00% | ~1,832 |
+| Pentakill | 76.00% | ~2,322 |
+| Dark Forest | 76.00% | ~2,322 |
+| The use of petricite | 73.00% | ~2,230 |
+| You can pet the dog | 60.00% | ~1,833 |
 | Thornbarrow | 42.00% | ~1,283 |
 | Big Helmet Bro | 40.00% | ~1,222 |
 | Clarion Cove | 40.00% | ~1,222 |
 | Ternmoat Headquarters | 38.00% | ~1,161 |
-| Elemental master | 37.00% | ~1,130 |
 | Past trauma | 37.00% | ~1,130 |
-| Cypress Glen Headquarters | 34.00% | ~1,038 |
+| Elemental master | 36.00% | ~1,100 |
+| Cypress Glen Headquarters | 34.00% | ~1,039 |
 | Petricite Burst | 33.00% | ~1,008 |
-| Old friend | 32.00% | ~977 |
+| Old friend | 32.00% | ~978 |
 | Devineur | 31.00% | ~947 |
 | Hijack | 30.00% | ~916 |
 | Whispers in the Woods I | 27.00% | ~825 |
 | I chose my shackles | 27.00% | ~825 |
 | Ancient power | 27.00% | ~825 |
 | Sacred Woods | 25.00% | ~764 |
-| Little light | 23.00% | ~702 |
-| Capelworth | 23.00% | ~702 |
-| Full equipped | 23.00% | ~702 |
+| Little light | 23.00% | ~703 |
+| Capelworth | 23.00% | ~703 |
+| Full equipped | 23.00% | ~703 |
 | Glyndemere | 22.00% | ~672 |
 | Iffighain Headquarters | 22.00% | ~672 |
 | Whispers in the Woods II | 18.00% | ~550 |
@@ -50,16 +50,16 @@ Rating: 4.79 (Ranked 100)
 | The Great City of Demacia | 13.00% | ~397 |
 | Truth is a dark mirror | 13.00% | ~397 |
 | Call it 'redistribution of magic | 13.00% | ~397 |
-| Back to sleep, then... | 12.00% | ~366 |
+| Back to sleep, then... | 12.00% | ~367 |
 | Do you trust me? | 11.00% | ~336 |
 | The great mage rebellion starts now | 11.00% | ~336 |
-| Chains master | 10.00% | ~305 |
-| You can pet the... horse | 10.00% | ~305 |
-| Spellcrafting | 10.00% | ~305 |
+| Chains master | 10.00% | ~306 |
+| You can pet the... horse | 10.00% | ~306 |
+| Spellcrafting | 10.00% | ~306 |
 | Silverwing nest | 2.00% | ~61 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,054 (Ranked 220)  
+Progressed: 3,055 (Ranked 220)  
 Completed: 17 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 17 (0.56%) (Ranked 206)
 | 2023-12-23 | 2,991 | 16 |
 | 2023-12-24 | 3,025 | 16 |
 | 2023-12-25 | 3,050 | 17 |
-| 2023-12-26 | 3,054 | 17 |
+| 2023-12-26 | 3,055 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

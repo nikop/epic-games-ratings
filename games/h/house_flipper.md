@@ -6,11 +6,11 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,656 |
-| Strongman | 31.00% | ~6,740 |
+| First money | 95.00% | ~20,658 |
+| Strongman | 31.00% | ~6,741 |
 | Just Enough | 20.00% | ~4,349 |
 | Alpha Male | 20.00% | ~4,349 |
-| Pro-creative | 19.00% | ~4,131 |
+| Pro-creative | 19.00% | ~4,132 |
 | Worth Every Penny | 14.00% | ~3,044 |
 | Family man | 13.00% | ~2,827 |
 | Junior Estate Agent | 13.00% | ~2,827 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~130 |
 | Senior Estate Agent | 0.60% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,743 (Ranked 147)  
+Progressed: 21,745 (Ranked 147)  
 Completed: 21 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 21 (0.10%) (Ranked 306)
 | 2023-12-23 | 21,692 | 21 |
 | 2023-12-24 | 21,718 | 21 |
 | 2023-12-25 | 21,739 | 21 |
-| 2023-12-26 | 21,743 | 21 |
+| 2023-12-26 | 21,745 | 21 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 250)  
-Sum: 2,282 (Ranked 206)  
+Sum: 2,283 (Ranked 206)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -291,8 +291,8 @@ Diff (max vs sum): 44
 | This game is Relaxing | 234 |
 | This game is Extremely Fun | 232 |
 | This game has a Creative Community | 224 |
+| This game is Highly Recommended | 222 |
 | This game has Quickly Understood Controls | 222 |
-| This game is Highly Recommended | 221 |
 | This game has Amazing Storytelling | 219 |
 | This game has Amazing Characters | 193 |
 | This game has Obsessive Gameplay | 173 |
@@ -493,3 +493,4 @@ Diff (max vs sum): 44
 | 2023-12-21 | 4.69 | - | 328 | 2,276 |
 | 2023-12-22 | 4.69 | - | 328 | 2,277 |
 | 2023-12-25 | 4.69 | - | 328 | 2,282 |
+| 2023-12-26 | 4.69 | - | 328 | 2,283 |

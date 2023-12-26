@@ -56,6 +56,7 @@
 | Problems of cyborgs | 31.00% | ~146 |
 | Absolute Champion! | 31.00% | ~146 |
 | Not little hacker | 30.00% | ~142 |
+| Another world | 29.00% | ~137 |
 | The lonesome road | 29.00% | ~137 |
 | Keep nature safe | 29.00% | ~137 |
 | Family comes first | 29.00% | ~137 |
@@ -65,7 +66,6 @@
 | The heart of the Resistance | 29.00% | ~137 |
 | Your own way | 29.00% | ~137 |
 | Trap disarmed | 28.00% | ~132 |
-| Another world | 28.00% | ~132 |
 | The last bell ring | 28.00% | ~132 |
 | Better cooking at home | 26.00% | ~123 |
 | The only right decision | 26.00% | ~123 |

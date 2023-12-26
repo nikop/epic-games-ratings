@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~251 |
-| Starting Skyward | 52.00% | ~229 |
+| Starting Skyward | 51.00% | ~225 |
 | Grime is Not Good | 45.00% | ~198 |
 | Floor Galore | 39.00% | ~172 |
 | Campaign Launch | 39.00% | ~172 |
 | Dinner Dash | 39.00% | ~172 |
-| Need a Consult | 36.00% | ~158 |
+| Need a Consult | 36.00% | ~159 |
 | Upgrade Unlock | 35.00% | ~154 |
 | It's Technical | 35.00% | ~154 |
-| Delegate Maintenance | 31.00% | ~136 |
+| Delegate Maintenance | 31.00% | ~137 |
 | Proper Walls | 30.00% | ~132 |
 | Destination Destiny | 30.00% | ~132 |
 | Happy Tenants | 25.00% | ~110 |
-| Potent Potables | 25.00% | ~110 |
 | Your Prestige is Rising | 24.00% | ~106 |
+| Potent Potables | 24.00% | ~106 |
 | Smooth Service | 24.00% | ~106 |
 | Retail Revenue | 23.00% | ~101 |
 | Don't Feel a Loan | 22.00% | ~97 |
@@ -29,8 +29,8 @@
 | Emporium Empire | 19.00% | ~84 |
 | We Don't Need No Education | 19.00% | ~84 |
 | Get Electrified | 19.00% | ~84 |
-| Rehab Expert | 18.00% | ~79 |
 | Tasty Profits | 18.00% | ~79 |
+| Rehab Expert | 17.00% | ~75 |
 | Established Fame | 17.00% | ~75 |
 | Under One Roof | 15.00% | ~66 |
 | Cashflow Chief | 15.00% | ~66 |
@@ -43,10 +43,10 @@
 | 28 Days Later | 10.00% | ~44 |
 | Swimming in Surplus | 10.00% | ~44 |
 | Refined Palates | 9.00% | ~40 |
-| First 100 Days | 8.00% | ~35 |
 | Plaza Plan | 8.00% | ~35 |
 | Master of Puppets | 8.00% | ~35 |
 | Phoning It In | 8.00% | ~35 |
+| First 100 Days | 7.00% | ~31 |
 | Water Features | 7.00% | ~31 |
 | Golden Opportunity | 7.00% | ~31 |
 | Careful Constructor | 6.00% | ~26 |
@@ -64,16 +64,16 @@
 | Meet ADA/360 | 4.00% | ~18 |
 | Sandbagger | 4.00% | ~18 |
 | Decorator's Touch | 3.00% | ~13 |
-| Apartment Awareness | 3.00% | ~13 |
 | Office Bigwigs | 3.00% | ~13 |
 | Luxury Boutiques | 3.00% | ~13 |
 | Three of a Kind | 3.00% | ~13 |
-| Four of a Kind | 3.00% | ~13 |
+| Apartment Awareness | 2.00% | ~9 |
 | Loft Life | 2.00% | ~9 |
 | Glut of Gastronomy | 2.00% | ~9 |
 | Plebs Are Needed | 2.00% | ~9 |
 | Royal Flush | 2.00% | ~9 |
 | The King of Cool | 2.00% | ~9 |
+| Four of a Kind | 2.00% | ~9 |
 | In the Money | 2.00% | ~9 |
 | It is Payday | 2.00% | ~9 |
 | Scenario Success | 2.00% | ~9 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440 (Ranked 346)  
+Progressed: 441 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 427 | 0 |
 | 2023-12-24 | 434 | 0 |
 | 2023-12-25 | 440 | 0 |
+| 2023-12-26 | 441 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

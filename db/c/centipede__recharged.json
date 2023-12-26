@@ -347,7 +347,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24092,
+  "EOS_Progressed": 24093,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
@@ -21072,6 +21072,11 @@
       "Time": "2023-12-26T10:07:52.0678109+00:00",
       "NumProgressed": 24092,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-26T11:05:51.6885211+00:00",
+      "NumProgressed": 24093,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -21179,7 +21184,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11564
+      "UsersEstimate": 11565
     },
     {
       "ID": "Sole_Survivor",
@@ -21187,7 +21192,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8432
+      "UsersEstimate": 8433
     },
     {
       "ID": "Still_Burning",
@@ -21210,15 +21215,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24092,
+      "Progressed": 24093,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-22T12:00:46.2933916+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:07:52.0678105+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:05:51.6885208+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0171346+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:58:20.4110889+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:07:52.0679702+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:43.6061902+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:05:51.688636+00:00"
 }

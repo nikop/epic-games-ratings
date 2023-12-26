@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-12-26T06:08:43.2336377+00:00",
       "NumProgressed": 206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T11:06:27.4789524+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -946,7 +951,7 @@
       "Name": "A new way",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "another_perspective",
@@ -970,7 +975,7 @@
       "Name": "Breaking free",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "casting_finished",
@@ -1026,7 +1031,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "decrypt_one_myth",
@@ -1272,9 +1277,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "something_important",
@@ -1282,7 +1287,7 @@
       "Name": "Something important",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "spy_one_item",
@@ -1330,7 +1335,7 @@
       "Name": "True Reflection",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "view_most_of_photos",
@@ -1346,7 +1351,7 @@
       "Name": "Wanderer",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1361,14 +1366,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:08:41.5826436+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:06:27.478952+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:58:41.0266736+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:08:41.5826779+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:58.0366374+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:06:27.4789913+00:00"
 }

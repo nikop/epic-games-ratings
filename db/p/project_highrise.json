@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1370,6 +1370,11 @@
       "Time": "2023-12-25T22:05:14.7441664+00:00",
       "NumProgressed": 440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T11:05:21.9333143+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1379,9 +1384,9 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_ada",
@@ -1475,9 +1480,9 @@
       "ID": "ach_campaigns_1",
       "SetID": "b8gh1fi",
       "Name": "Apartment Awareness",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_campaigns_2",
@@ -1517,7 +1522,7 @@
       "Name": "Need a Consult",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_consultant_1",
@@ -1659,9 +1664,9 @@
       "ID": "ach_ep1_reviews_2",
       "SetID": "b8gh1fi",
       "Name": "Four of a Kind",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_ep1_revs_1",
@@ -1683,9 +1688,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 225
     },
     {
       "ID": "ach_floors_1",
@@ -1725,15 +1730,15 @@
       "Name": "Delegate Maintenance",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach_grime_2",
       "SetID": "b8gh1fi",
       "Name": "Rehab Expert",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_happy",
@@ -1907,9 +1912,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_restaurants_5",
@@ -2084,7 +2089,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 0
     }
   ],
@@ -2092,8 +2097,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:07:12.311004+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:05:21.9333139+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:59:15.161272+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:07:12.3110743+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:58:20.435904+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:05:21.933386+00:00"
 }

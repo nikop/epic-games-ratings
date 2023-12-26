@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 81.00% | ~43 |
-| Grand Re-Opening | 70.00% | ~37 |
-| Pup Pup Boogie | 66.00% | ~35 |
-| Summer Day | 62.00% | ~33 |
-| Mr. Porter | 55.00% | ~29 |
-| Risky Rescue | 51.00% | ~27 |
-| Carlos Is Tangled | 49.00% | ~26 |
-| Clear the Road | 42.00% | ~22 |
-| Mandy Family | 42.00% | ~22 |
-| Paw patrol member | 38.00% | ~20 |
-| Robot Out of Control | 38.00% | ~20 |
-| Never Miss | 36.00% | ~19 |
-| In the Air | 34.00% | ~18 |
-| Break Time | 32.00% | ~17 |
-| Master of the Rope | 32.00% | ~17 |
+| Mighty Powers | 81.00% | ~44 |
+| Grand Re-Opening | 69.00% | ~37 |
+| Pup Pup Boogie | 65.00% | ~35 |
+| Summer Day | 61.00% | ~33 |
+| Mr. Porter | 54.00% | ~29 |
+| Risky Rescue | 50.00% | ~27 |
+| Carlos Is Tangled | 48.00% | ~26 |
+| Clear the Road | 41.00% | ~22 |
+| Mandy Family | 41.00% | ~22 |
+| Paw patrol member | 37.00% | ~20 |
+| Robot Out of Control | 37.00% | ~20 |
+| Never Miss | 35.00% | ~19 |
+| In the Air | 33.00% | ~18 |
+| Break Time | 31.00% | ~17 |
+| Master of the Rope | 31.00% | ~17 |
 | Training Day | 30.00% | ~16 |
 | Animal Sighting | 26.00% | ~14 |
-| The Fastest | 25.00% | ~13 |
-| Don’t Miss Any | 23.00% | ~12 |
-| Adventure Bay’s Citizen | 21.00% | ~11 |
+| The Fastest | 24.00% | ~13 |
+| Don’t Miss Any | 22.00% | ~12 |
+| Adventure Bay’s Citizen | 20.00% | ~11 |
 | You Have Been Everywhere | 19.00% | ~10 |
 | Mountain and Ice | 17.00% | ~9 |
 | Everything Under Control | 15.00% | ~8 |
 | Nothing Can Stop You | 9.00% | ~5 |
-| A Great Explorer | 8.00% | ~4 |
+| A Great Explorer | 7.00% | ~4 |
 | King of the Mountain | 4.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 532)  
+Progressed: 54 (Ranked 531)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 49 | 0 |
 | 2023-12-24 | 50 | 0 |
 | 2023-12-25 | 53 | 0 |
+| 2023-12-26 | 54 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,921 |
-| Off to a good start | 63.00% | ~1,375 |
-| Do... or do not. There is no try | 52.00% | ~1,135 |
+| New Recruit | 88.00% | ~1,924 |
+| Off to a good start | 63.00% | ~1,377 |
+| Do... or do not. There is no try | 52.00% | ~1,137 |
 | A good blaster at your side | 26.00% | ~568 |
 | I suggest a new strategy | 18.00% | ~393 |
-| Scrap collector | 16.00% | ~349 |
-| Great shot, kid! | 16.00% | ~349 |
-| All right, I'll give it a try | 15.00% | ~327 |
+| Scrap collector | 16.00% | ~350 |
+| Great shot, kid! | 16.00% | ~350 |
+| All right, I'll give it a try | 15.00% | ~328 |
 | The power of the Force | 13.00% | ~284 |
 | Shoot first | 13.00% | ~284 |
 | Collector | 12.00% | ~262 |
 | Together we can rule the galaxy | 12.00% | ~262 |
-| Tell Jabba that I've got his money | 9.00% | ~196 |
+| Tell Jabba that I've got his money | 9.00% | ~197 |
 | Best star-pilot in the galaxy | 8.00% | ~175 |
 | Survivor | 8.00% | ~175 |
 | Never tell me the odds! | 7.00% | ~153 |
@@ -28,11 +28,11 @@
 | Support the troops | 5.00% | ~109 |
 | Distinguished | 4.00% | ~87 |
 | A tremor in the Force | 4.00% | ~87 |
-| On the ball | 3.00% | ~65 |
-| Safety ain't the point of a joyride | 3.00% | ~65 |
-| Not bad for a little furball | 3.00% | ~65 |
-| Patience you must have | 3.00% | ~65 |
-| Don't underestimate the Force | 3.00% | ~65 |
+| On the ball | 3.00% | ~66 |
+| Safety ain't the point of a joyride | 3.00% | ~66 |
+| Not bad for a little furball | 3.00% | ~66 |
+| Patience you must have | 3.00% | ~66 |
+| Don't underestimate the Force | 3.00% | ~66 |
 | The Force is strong with this one | 2.00% | ~44 |
 | I've been waiting for you | 2.00% | ~44 |
 | When 900 years old you reach... | 2.00% | ~44 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,183 (Ranked 233)  
+Progressed: 2,186 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-23 | 2,067 | 1 |
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
-| 2023-12-26 | 2,183 | 1 |
+| 2023-12-26 | 2,186 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,11 +276,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 195,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1041,6 +1041,11 @@
       "Time": "2023-12-26T07:09:12.7217279+00:00",
       "NumProgressed": 194,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T11:08:45.3597856+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1053,7 +1058,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1085,7 +1090,7 @@
       "Name": "Furon Fashion",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1165,7 +1170,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1181,7 +1186,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1189,7 +1194,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1197,7 +1202,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1229,7 +1234,7 @@
       "Name": "Kaijuiced",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1243,9 +1248,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1309,7 +1314,7 @@
       "Name": "Upgreatest",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1341,7 +1346,7 @@
       "Name": "Dusted",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1397,14 +1402,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 195,
       "Completed": 1
     }
   ],
@@ -1412,8 +1417,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:09:48.2065222+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:08:45.3597855+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:58:24.7042203+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:09:48.2065554+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:46.441277+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:08:45.3598104+00:00"
 }

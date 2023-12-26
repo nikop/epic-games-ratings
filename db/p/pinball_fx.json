@@ -2075,10 +2075,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1626,
       "NumberOfAwardsMax": 210
+    },
+    {
+      "Time": "2023-12-26T11:03:09.9922915+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1627,
+      "NumberOfAwardsMax": 210
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1626,
+  "NumberOfAwards": 1627,
   "NumberOfAwardsMax": 210,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2158,12 +2164,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 112
+      "Count": 113
     }
   ],
-  "EOS_Progressed": 287134,
+  "EOS_Progressed": 287149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2822,
+  "EOS_NewPlayers": 2829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30781,6 +30787,11 @@
       "Time": "2023-12-26T10:09:30.1102279+00:00",
       "NumProgressed": 287134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T11:08:32.0325028+00:00",
+      "NumProgressed": 287149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -31103,21 +31114,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 287134,
+      "Progressed": 287149,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 5293,
+      "Progressed": 5308,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-12-24T13:05:50.9103136+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:09:30.1102276+00:00",
+  "LastChanged": "2023-12-26T11:03:09.9922913+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:08:32.0325026+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:00.8774128+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:04:13.0866806+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:09:30.1103684+00:00"
+  "LastUpdate_Ratings": "2023-12-26T11:03:09.9922918+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:08:32.0326313+00:00"
 }

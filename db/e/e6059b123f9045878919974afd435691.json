@@ -3681,9 +3681,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 622
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3768,8 +3768,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:11:17.2898726+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:09:52.626715+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:01:04.745476+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:11:17.289957+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:59:35.6742468+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:09:52.6267876+00:00"
 }

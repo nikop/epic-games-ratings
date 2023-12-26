@@ -7,7 +7,7 @@ Number of Ratings: 67  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Soul Cache | 5.00% | ~11 |
-| Mint I | 4.00% | ~9 |
+| Mint I | 3.00% | ~7 |
 | Close the Rift | 1.00% | ~2 |
 | Astarte | 0.90% | ~2 |
 | Hell's Forge | 0.90% | ~2 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 403)  
+Progressed: 229 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 171 | 0 |
 | 2023-12-24 | 196 | 0 |
 | 2023-12-25 | 221 | 0 |
-| 2023-12-26 | 228 | 0 |
+| 2023-12-26 | 229 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 461)  
 Sum: 45 (Ranked 507)  

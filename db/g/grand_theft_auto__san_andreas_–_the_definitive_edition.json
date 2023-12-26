@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1981,9 +1981,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16897,
+  "EOS_Progressed": 16899,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1426,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17676,6 +17676,11 @@
       "Time": "2023-12-26T10:10:58.7371088+00:00",
       "NumProgressed": 16897,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-26T11:09:37.952057+00:00",
+      "NumProgressed": 16899,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -17687,7 +17692,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13687
+      "UsersEstimate": 13688
     },
     {
       "ID": "ACH02",
@@ -17735,7 +17740,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "ACH08",
@@ -17743,7 +17748,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8450
     },
     {
       "ID": "ACH09",
@@ -17783,7 +17788,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ACH14",
@@ -17863,7 +17868,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4225
     },
     {
       "ID": "ACH24",
@@ -17966,7 +17971,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16897,
+      "Progressed": 16899,
       "Completed": 64
     }
   ],
@@ -17974,8 +17979,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-26T07:57:16.062846+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:10:58.7371085+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:09:37.952055+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:57:46.7707558+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:10:58.7372381+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:19.1976409+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:09:37.9521572+00:00"
 }

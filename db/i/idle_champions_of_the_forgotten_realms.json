@@ -9029,10 +9029,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33094,
       "NumberOfAwardsMax": 5696
+    },
+    {
+      "Time": "2023-12-26T10:57:56.5377086+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33100,
+      "NumberOfAwardsMax": 5696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33094,
+  "NumberOfAwards": 33100,
   "NumberOfAwardsMax": 5696,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9052,7 +9058,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4858
+      "Count": 4864
     },
     {
       "Text": "This game is Relaxing",
@@ -9079,10 +9085,10 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244785,
-  "EOS_Completed": 2564,
-  "EOS_NewPlayers": 2847,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 244796,
+  "EOS_Completed": 2565,
+  "EOS_NewPlayers": 2849,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37324,6 +37330,11 @@
       "Time": "2023-12-26T10:11:20.9846237+00:00",
       "NumProgressed": 244785,
       "NumCompleted": 2564
+    },
+    {
+      "Time": "2023-12-26T11:09:56.0549804+00:00",
+      "NumProgressed": 244796,
+      "NumCompleted": 2565
     }
   ],
   "TotalAchievements": 546,
@@ -39007,7 +39018,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "objective_completed_34",
@@ -41702,21 +41713,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211059,
+      "Progressed": 211070,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244785,
-      "Completed": 2564
+      "Progressed": 244796,
+      "Completed": 2565
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-26T06:58:02.6712249+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:11:20.9846235+00:00",
+  "LastChanged": "2023-12-26T10:57:56.5377084+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:09:56.0549802+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:58:38.7991485+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:11:20.9868522+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:56.537709+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:09:56.0573733+00:00"
 }

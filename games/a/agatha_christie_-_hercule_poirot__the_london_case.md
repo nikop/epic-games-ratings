@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 73.00% | ~49 |
-| Little ideas | 69.00% | ~46 |
-| The Ship | 64.00% | ~43 |
-| Seeking the truth | 51.00% | ~34 |
+| Marc Allard | 72.00% | ~49 |
+| Little ideas | 68.00% | ~46 |
+| The Ship | 63.00% | ~43 |
+| Seeking the truth | 50.00% | ~34 |
 | An old friend | 49.00% | ~33 |
-| The Gala | 48.00% | ~32 |
-| A curious gathering | 48.00% | ~32 |
-| Little grey cells | 45.00% | ~30 |
-| Impossible is possible | 45.00% | ~30 |
-| The Missing Magdalene | 45.00% | ~30 |
-| Arthur Hastings | 45.00% | ~30 |
-| Everything matters | 42.00% | ~28 |
+| The Gala | 47.00% | ~32 |
+| A curious gathering | 47.00% | ~32 |
+| Little grey cells | 44.00% | ~30 |
+| Impossible is possible | 44.00% | ~30 |
+| The Missing Magdalene | 44.00% | ~30 |
+| Arthur Hastings | 44.00% | ~30 |
+| Everything matters | 41.00% | ~28 |
 | An expert mediator | 40.00% | ~27 |
 | DI Hardwicke | 40.00% | ~27 |
-| Order and method | 36.00% | ~24 |
+| Order and method | 35.00% | ~24 |
 | Betty Allen | 34.00% | ~23 |
 | The Investigation Begins | 31.00% | ~21 |
 | Ms. Camilla B. Culsham | 28.00% | ~19 |
 | Irene Court-Smyth | 28.00% | ~19 |
-| An odd series of events | 27.00% | ~18 |
-| The Apartment | 27.00% | ~18 |
+| An odd series of events | 26.00% | ~18 |
+| The Apartment | 26.00% | ~18 |
 | Nathaniel Dryden | 25.00% | ~17 |
 | Bartholomew | 25.00% | ~17 |
 | A rude awakening | 24.00% | ~16 |
@@ -51,8 +51,8 @@
 | A true performance | 10.00% | ~7 |
 | Perkins | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 512)  
-Completed: 2 (2.99%) (Ranked 111)  
+Progressed: 68 (Ranked 511)  
+Completed: 2 (2.94%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,3 +101,4 @@ Completed: 2 (2.99%) (Ranked 111)
 | 2023-12-23 | 59 | 2 |
 | 2023-12-24 | 63 | 2 |
 | 2023-12-25 | 67 | 2 |
+| 2023-12-26 | 68 | 2 |

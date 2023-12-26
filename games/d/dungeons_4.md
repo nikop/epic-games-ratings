@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 81.00% | ~518 |
 | The Hellwoods | 77.00% | ~493 |
 | The Plains of Strothalm | 72.00% | ~461 |
-| Experienced Thalya | 71.00% | ~454 |
+| Experienced Thalya | 72.00% | ~461 |
 | Thalya's Concentrated Fury | 69.00% | ~442 |
 | Bad Elves Go Everywhere | 68.00% | ~435 |
 | Master of Magic | 63.00% | ~403 |
@@ -38,10 +38,10 @@
 | Master of the Undead | 34.00% | ~218 |
 | The Finitude Drill | 31.00% | ~198 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~186 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~179 |
 | Forbidden Knowledge | 28.00% | ~179 |
 | Doom Hill | 28.00% | ~179 |
 | Hungry, Hungry Gorgu! | 27.00% | ~173 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~173 |
 | Stop Tanos! | 26.00% | ~166 |
 | Sabotage! | 26.00% | ~166 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~166 |

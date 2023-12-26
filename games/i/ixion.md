@@ -7,10 +7,10 @@ Rating: 4.58 (Ranked 456)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 31.00% | ~1,155 |
 | Sputnik 2049 | 27.00% | ~1,006 |
-| Infinite Growth... | 26.00% | ~968 |
-| Without Breaking Some Eggs... | 25.00% | ~931 |
-| A Thousand Strong | 18.00% | ~670 |
-| Ready for a New World | 18.00% | ~670 |
+| Infinite Growth... | 26.00% | ~969 |
+| Without Breaking Some Eggs... | 25.00% | ~932 |
+| A Thousand Strong | 18.00% | ~671 |
+| Ready for a New World | 18.00% | ~671 |
 | Space Society | 17.00% | ~633 |
 | Permanent Redesigns | 16.00% | ~596 |
 | Fully Recycled | 14.00% | ~522 |
@@ -43,12 +43,12 @@ Rating: 4.58 (Ranked 456)
 | Delivery! | 3.00% | ~112 |
 | Help of the Forgotten Member | 3.00% | ~112 |
 | Pulsar Disciple | 3.00% | ~112 |
-| Mutual Loyalty | 2.00% | ~74 |
-| Tiqqun Contender | 2.00% | ~74 |
-| Catastrophe Avoided | 2.00% | ~74 |
-| You Had One Job... | 2.00% | ~74 |
-| Space Greenhouse | 2.00% | ~74 |
-| Tiqqun Unchained | 2.00% | ~74 |
+| Mutual Loyalty | 2.00% | ~75 |
+| Tiqqun Contender | 2.00% | ~75 |
+| Catastrophe Avoided | 2.00% | ~75 |
+| You Had One Job... | 2.00% | ~75 |
+| Space Greenhouse | 2.00% | ~75 |
+| Tiqqun Unchained | 2.00% | ~75 |
 | Better Him Than Me | 1.00% | ~37 |
 | Remember the Dead | 1.00% | ~37 |
 | Gregor Spinoza | 1.00% | ~37 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,725 (Ranked 211)  
+Progressed: 3,726 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
 | 2023-12-25 | 3,722 | 0 |
-| 2023-12-26 | 3,725 | 0 |
+| 2023-12-26 | 3,726 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-12-26T01:48:58.6245878+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T11:05:27.8943737+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -573,7 +578,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 88
     },
@@ -583,7 +588,7 @@
       "Name": "End Day",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Brand_25",
@@ -599,7 +604,7 @@
       "Name": "Maimed Bodies",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Challenger_1",
@@ -701,9 +706,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -735,7 +740,7 @@
       "Name": "Exorcism",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -749,9 +754,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -805,9 +810,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -831,7 +836,7 @@
       "Name": "Deus Ex Machina",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Purgatory_1",
@@ -861,17 +866,17 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "Epic_ShellBreaking_1",
       "SetID": "ba1m2fc",
       "Name": "Shellbreaking Day",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Epic_Shotgun_1",
@@ -925,9 +930,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -958,14 +963,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:07:20.266505+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:05:27.8943735+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.2904596+00:00",
-  "LastUpdate_Ratings": "2023-12-26T10:00:27.5540176+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:07:20.266534+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:59:11.0650074+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:05:27.8944007+00:00"
 }

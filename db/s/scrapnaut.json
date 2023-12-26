@@ -5,7 +5,7 @@
   "Ranking_Rating": 862,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 100,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1936,6 +1936,11 @@
       "Time": "2023-12-25T21:09:24.0724035+00:00",
       "NumProgressed": 568,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-26T11:09:00.5169864+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -1979,7 +1984,7 @@
       "Name": "Scrap Master",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1993,9 +1998,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2035,7 +2040,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_COOK",
@@ -2057,9 +2062,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2163,7 +2168,7 @@
       "Name": "Survivor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2187,14 +2192,14 @@
       "Name": "Teleport",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 4
     }
   ],
@@ -2202,8 +2207,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:10:08.3762252+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:09:00.5169861+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:58:20.6065902+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:10:08.3762503+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:43.7449196+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:09:00.5170109+00:00"
 }

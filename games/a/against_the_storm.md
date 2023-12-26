@@ -19,8 +19,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 4.00% | ~771 |
 | Ominous Presence | 4.00% | ~771 |
 | Gathering Storm | 4.00% | ~771 |
-| Royal Outpost | 3.00% | ~578 |
-| The Scarlet Orchard | 3.00% | ~578 |
+| Royal Outpost | 3.00% | ~579 |
+| The Scarlet Orchard | 3.00% | ~579 |
 | Homesick | 2.00% | ~386 |
 | Ruined Armory | 2.00% | ~386 |
 | Bandit Camp | 2.00% | ~386 |
@@ -54,10 +54,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.50% | ~96 |
 | Feeding The People | 0.40% | ~77 |
 | Like a Machine | 0.40% | ~77 |
+| Prestigious Expedition | 0.30% | ~58 |
 | Blood Flower Farmer | 0.30% | ~58 |
 | Human Utopia | 0.20% | ~39 |
 | Lizard Utopia | 0.20% | ~39 |
-| Prestigious Expedition | 0.20% | ~39 |
 | Paradise | 0.10% | ~19 |
 | Higher Needs | 0.10% | ~19 |
 | Beaver Utopia | 0.10% | ~19 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,280 (Ranked 150)  
+Progressed: 19,287 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,280 | 38 |
+| 2023-12-26 | 19,287 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,292 (Ranked 177)  

@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1016,
+  "Ranking_Rating": 1019,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 209,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.03,
+  "Rating": 4.01,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -623,6 +623,12 @@
       "Rating": 4.03,
       "NumberOfAwards": 127,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-26T10:57:05.5454419+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
@@ -667,7 +673,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3825,
+  "EOS_Progressed": 3826,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
@@ -10882,6 +10888,11 @@
       "Time": "2023-12-26T09:03:49.3514364+00:00",
       "NumProgressed": 3825,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T11:03:27.0056162+00:00",
+      "NumProgressed": 3826,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10949,7 +10960,7 @@
       "Name": "Cauldron Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "challenger",
@@ -11037,7 +11048,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "engineermastery",
@@ -11077,7 +11088,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "fourleafclover",
@@ -11101,7 +11112,7 @@
       "Name": "Full Party",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "gearenchanting",
@@ -11117,7 +11128,7 @@
       "Name": "Guardian Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "guildpower",
@@ -11277,7 +11288,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "prestigious",
@@ -11285,7 +11296,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "prestigiousx10",
@@ -11317,7 +11328,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "scrollmaster",
@@ -11349,7 +11360,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "thealchemist",
@@ -11381,7 +11392,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "thepowerofawakening",
@@ -11453,7 +11464,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "warmachinesarmy",
@@ -11477,7 +11488,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "worldmap",
@@ -11492,16 +11503,16 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3825,
+      "Progressed": 3826,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-12-25T10:59:46.8542147+00:00",
-  "LastChanged_Achievements": "2023-12-26T10:04:35.7444759+00:00",
+  "LastChanged": "2023-12-26T10:57:05.5454417+00:00",
+  "LastChanged_Achievements": "2023-12-26T11:03:27.005616+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-26T09:57:28.2642087+00:00",
-  "LastUpdate_Achievements": "2023-12-26T10:04:35.7447161+00:00"
+  "LastUpdate_Ratings": "2023-12-26T10:57:05.5454422+00:00",
+  "LastUpdate_Achievements": "2023-12-26T11:03:27.0057283+00:00"
 }

@@ -27,8 +27,8 @@ Rating: 4.64 (Ranked 342)
 | Legendary Bounty Hunter | 2.00% | ~498 |
 | Series Wrap on Suit-O | 2.00% | ~498 |
 | Bathe With A Giant Nude Alien | 2.00% | ~44 |
+| Gunning For Your Job | 1.00% | ~249 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
-| Gunning For Your Job | 0.90% | ~224 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.80% | ~199 |
 | Mux Ado About Shipping | 0.80% | ~17 |
 | Sequel-Bait | 0.50% | ~124 |

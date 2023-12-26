@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 1,016)  
+Rating: 4.01 (Ranked 1,019)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,557 |
+| Victor | 93.00% | ~3,558 |
 | World Map | 78.00% | ~2,984 |
-| Temple of Eternals | 56.00% | ~2,142 |
-| Prestigious | 53.00% | ~2,027 |
-| Fellowship Power | 42.00% | ~1,606 |
-| Full Party | 26.00% | ~994 |
+| Temple of Eternals | 56.00% | ~2,143 |
+| Prestigious | 53.00% | ~2,028 |
+| Fellowship Power | 42.00% | ~1,607 |
+| Full Party | 26.00% | ~995 |
 | Guild Power | 23.00% | ~880 |
 | Prestigious x10 | 20.00% | ~765 |
-| The game is on | 18.00% | ~688 |
+| The game is on | 18.00% | ~689 |
 | Exotic Merchant | 16.00% | ~612 |
 | Dragon Clicker | 15.00% | ~574 |
 | Miner Clicker | 15.00% | ~574 |
@@ -27,7 +27,7 @@ Rating: 4.03 (Ranked 1,016)
 | Natural Talent | 11.00% | ~421 |
 | Superior | 11.00% | ~421 |
 | The Unstoppable | 11.00% | ~421 |
-| Scientist | 10.00% | ~382 |
+| Scientist | 10.00% | ~383 |
 | Doing My Part | 9.00% | ~344 |
 | Hunter | 9.00% | ~344 |
 | The power of Awakening | 9.00% | ~344 |
@@ -63,11 +63,11 @@ Rating: 4.03 (Ranked 1,016)
 | Ebony Jungle Liberator | 3.00% | ~115 |
 | Gear Enchanting | 3.00% | ~115 |
 | Mythic Power | 3.00% | ~115 |
-| Cauldron Liberator | 2.00% | ~76 |
-| Enchanting skill x5 | 2.00% | ~76 |
-| Guardian Master | 2.00% | ~76 |
-| Pokerface | 2.00% | ~76 |
-| What lies behind the bush | 2.00% | ~76 |
+| Cauldron Liberator | 2.00% | ~77 |
+| Enchanting skill x5 | 2.00% | ~77 |
+| Guardian Master | 2.00% | ~77 |
+| Pokerface | 2.00% | ~77 |
+| What lies behind the bush | 2.00% | ~77 |
 | Conqueror | 1.00% | ~38 |
 | Enhanced War Machines | 1.00% | ~38 |
 | Titan Power | 1.00% | ~38 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,016)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,825 (Ranked 209)  
+Progressed: 3,826 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-23 | 3,733 | 2 |
 | 2023-12-24 | 3,773 | 2 |
 | 2023-12-25 | 3,807 | 2 |
-| 2023-12-26 | 3,825 | 2 |
+| 2023-12-26 | 3,826 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 127 (Ranked 444)  
@@ -421,3 +421,4 @@ Diff (max vs sum): 35
 | 2023-12-17 | 4.04 | 38 | 145 |
 | 2023-12-22 | 4.05 | 38 | 147 |
 | 2023-12-25 | 4.03 | 38 | 148 |
+| 2023-12-26 | 4.01 | 38 | 127 |

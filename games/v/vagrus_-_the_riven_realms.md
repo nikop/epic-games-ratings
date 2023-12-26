@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~142 |
+| A Second Chance | 57.00% | ~140 |
 | Press-ganged | 42.00% | ~103 |
-| The Package | 27.00% | ~66 |
+| The Package | 26.00% | ~64 |
 | Conquered | 19.00% | ~47 |
-| Randomized | 18.00% | ~44 |
+| Randomized | 17.00% | ~42 |
 | Scribe | 11.00% | ~27 |
 | Breached | 11.00% | ~27 |
+| Tactician | 10.00% | ~25 |
 | Conciliator | 9.00% | ~22 |
-| Tactician | 9.00% | ~22 |
 | Fight Another Day | 9.00% | ~22 |
 | Taskmaster | 8.00% | ~20 |
 | The More the Merrier | 7.00% | ~17 |
@@ -65,7 +65,9 @@
 | Loader | 0.80% | ~2 |
 | Mercenary | 0.80% | ~2 |
 | Escort | 0.80% | ~2 |
+| Despoiler | 0.80% | ~2 |
 | Ruiner | 0.80% | ~2 |
+| Arcanite | 0.80% | ~2 |
 | What Lies Below | 0.80% | ~2 |
 | The Last Voyage | 0.80% | ~2 |
 | Theory to Practice | 0.80% | ~2 |
@@ -73,14 +75,14 @@
 | Carpenter | 0.40% | ~1 |
 | General | 0.40% | ~1 |
 | Company of Heroes | 0.40% | ~1 |
+| Diplomat | 0.40% | ~1 |
+| Factotum | 0.40% | ~1 |
 | Conqueror | 0.40% | ~1 |
 | Forager | 0.40% | ~1 |
 | Forged in Battle | 0.40% | ~1 |
 | Captain | 0.40% | ~1 |
 | Chromatic Collector | 0.40% | ~1 |
-| Despoiler | 0.40% | ~1 |
 | Celebrity | 0.40% | ~1 |
-| Arcanite | 0.40% | ~1 |
 | Tax Evasion | 0.40% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -91,8 +93,6 @@
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |
 | Hired Help | 0.00% | ~0 |
-| Diplomat | 0.00% | ~0 |
-| Factotum | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 398)  
+Progressed: 246 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 231 | 0 |
 | 2023-12-24 | 238 | 0 |
 | 2023-12-25 | 241 | 0 |
-| 2023-12-26 | 245 | 0 |
+| 2023-12-26 | 246 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

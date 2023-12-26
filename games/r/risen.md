@@ -19,8 +19,8 @@ Rating: 4.52 (Ranked 563)
 | Ferocious wild boars | 26.00% | ~32 |
 | Idiot | 26.00% | ~32 |
 | Beast slayer | 22.00% | ~27 |
+| Family man | 20.00% | ~25 |
 | Wise man | 19.00% | ~24 |
-| Family man | 19.00% | ~24 |
 | Death of a legend | 19.00% | ~24 |
 | Archaeologist | 19.00% | ~24 |
 | Ogre friend | 19.00% | ~24 |
