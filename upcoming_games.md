@@ -2,8 +2,10 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Otok](games/c/cb2b40b6713d48768e5950e2d77f9fd8.md) | 2023-12-26 | - |  | - | - |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 5 | - | - |
+| [Scaryy Bingo](games/7/7f359e1dcc134507aefd7780e1249c5c.md) | 2023-12-27 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 50 | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles](games/a/af3dedaf653943779d7161fa3531229f.md) | 2023-12-27 | - |  | - | - |
+| [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 0 | - | - |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 1 | - | - |
 | [Sakura Day 2 Mahjong](games/c/ca3057f83651427394eb172a4addc286.md) | 2023-12-30 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
@@ -13,7 +15,6 @@
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2023-12-31 | - |  | - | - |
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2023-12-31 | - |  | - | - |
 | [Bogdan's Cross](games/b/bogdan's_cross.md) | 2023-12-31 | - |  | - | - |
-| [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-31 | 69 (1,000 XP) | 0 | - | - |
 | [Capes](games/c/capes.md) | 2023-12-31 | - |  | - | - |
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2023-12-31 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2023-12-31 | - |  | - | - |
@@ -440,7 +441,6 @@
 | [SAE](games/6/686efc1d997044d9ad89f3601f859f68.md) | 2099-01-01 | - |  | - | - |
 | [Savant - Ascent REMIX](games/a/a013d93390c34ff588ab136bee0cde71.md) | 2099-01-01 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | - |  | - | - |
-| [Scaryy Bingo](games/7/7f359e1dcc134507aefd7780e1249c5c.md) | 2099-01-01 | - |  | - | - |
 | [SCP Horror Series 2](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | - |  | - | - |
 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2099-01-01 | - |  | - | - |
