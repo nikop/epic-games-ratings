@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -930,9 +930,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:05:34.8113423+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:05:59.4373726+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.2904596+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:09.3710365+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:05:34.8113747+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:59:30.0375803+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:05:59.4374083+00:00"
 }

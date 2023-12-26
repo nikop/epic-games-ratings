@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1305,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
@@ -4492,9 +4492,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 652
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4540,9 +4540,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 352
     },
     {
       "ID": "_10_Completion_30",
@@ -4693,8 +4693,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:08:22.8027484+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:08:18.7063158+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:57:13.7192114+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:08:22.8027847+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:57:31.9208992+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:08:18.7063473+00:00"
 }

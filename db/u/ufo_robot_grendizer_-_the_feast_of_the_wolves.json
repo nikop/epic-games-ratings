@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
@@ -476,8 +476,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:06:05.1609497+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:06:31.9483859+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:58:01.0109104+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:06:05.1609681+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:20.4988301+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:06:31.9484052+00:00"
 }

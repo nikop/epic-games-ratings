@@ -19,8 +19,8 @@
 | Magic Accidents | 59.00% | ~378 |
 | The Ascent | 58.00% | ~372 |
 | It's Warm and Cozy at Home | 58.00% | ~372 |
+| Minions, Minions! | 56.00% | ~359 |
 | Trap Master | 55.00% | ~353 |
-| Minions, Minions! | 55.00% | ~353 |
 | Hard Work | 53.00% | ~340 |
 | The Big Eaty | 53.00% | ~340 |
 | “… like son” | 50.00% | ~320 |

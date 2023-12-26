@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 77.00% | ~69 |
-| Ooh, it's shiny! | 49.00% | ~44 |
-| Book Worm | 48.00% | ~43 |
-| Fussy eater | 36.00% | ~32 |
+| Escape artist | 77.00% | ~70 |
+| Ooh, it's shiny! | 48.00% | ~44 |
+| Book Worm | 47.00% | ~43 |
+| Fussy eater | 36.00% | ~33 |
 | My lost nightingale | 34.00% | ~31 |
 | Through the woods | 33.00% | ~30 |
 | Back to the anvil | 32.00% | ~29 |
@@ -21,31 +21,31 @@
 | NOW GO AWAY! | 30.00% | ~27 |
 | Game Over! | 29.00% | ~26 |
 | GG | 29.00% | ~26 |
-| Shattered | 28.00% | ~25 |
-| You've got mail! | 28.00% | ~25 |
-| Beekeeper | 28.00% | ~25 |
-| Far away from home | 28.00% | ~25 |
-| Show me your true self | 27.00% | ~24 |
-| Memories | 26.00% | ~23 |
-| Mischief maker | 26.00% | ~23 |
-| No posters allowed | 26.00% | ~23 |
-| Little genius | 26.00% | ~23 |
+| Shattered | 27.00% | ~25 |
+| You've got mail! | 27.00% | ~25 |
+| Beekeeper | 27.00% | ~25 |
+| Far away from home | 27.00% | ~25 |
+| Show me your true self | 26.00% | ~24 |
+| Memories | 25.00% | ~23 |
+| Mischief maker | 25.00% | ~23 |
+| No posters allowed | 25.00% | ~23 |
+| Little genius | 25.00% | ~23 |
 | Turn the last page | 24.00% | ~22 |
 | Pain in the hands | 22.00% | ~20 |
 | Kill it! KILL IT! | 21.00% | ~19 |
 | Ring-a-ding-ding | 20.00% | ~18 |
 | Close the deal | 19.00% | ~17 |
 | Bahahahaha... | 18.00% | ~16 |
-| Makeover | 17.00% | ~15 |
-| Singstar | 17.00% | ~15 |
-| Cameodalic | 17.00% | ~15 |
-| Guilty conscience | 16.00% | ~14 |
+| Makeover | 16.00% | ~15 |
+| Singstar | 16.00% | ~15 |
+| Cameodalic | 16.00% | ~15 |
+| Guilty conscience | 15.00% | ~14 |
 | Clever reference #451 | 13.00% | ~12 |
 | What a mess | 10.00% | ~9 |
 | Posterboy! | 8.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 490)  
-Completed: 6 (6.67%) (Ranked 62)  
+Progressed: 91 (Ranked 490)  
+Completed: 6 (6.59%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 6 (6.67%) (Ranked 62)
 | 2023-12-21 | 88 | 6 |
 | 2023-12-24 | 89 | 6 |
 | 2023-12-25 | 90 | 6 |
+| 2023-12-26 | 91 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

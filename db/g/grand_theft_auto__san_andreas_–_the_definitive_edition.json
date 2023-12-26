@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1993,9 +1993,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16931,
+  "EOS_Progressed": 16938,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1428,
+  "EOS_NewPlayers": 1423,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -17713,6 +17713,11 @@
       "Time": "2023-12-26T15:09:56.8253687+00:00",
       "NumProgressed": 16931,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-26T16:09:55.9975209+00:00",
+      "NumProgressed": 16938,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -17724,7 +17729,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13714
+      "UsersEstimate": 13720
     },
     {
       "ID": "ACH02",
@@ -17732,7 +17737,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACH03",
@@ -17740,7 +17745,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACH04",
@@ -17772,7 +17777,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "ACH08",
@@ -17780,7 +17785,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8466
+      "UsersEstimate": 8469
     },
     {
       "ID": "ACH09",
@@ -17820,7 +17825,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "ACH14",
@@ -17828,7 +17833,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ACH15",
@@ -17836,7 +17841,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH16",
@@ -17844,7 +17849,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "ACH17",
@@ -17892,7 +17897,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "ACH23",
@@ -17900,7 +17905,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "ACH24",
@@ -17916,7 +17921,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH26",
@@ -17940,7 +17945,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "ACH29",
@@ -17948,7 +17953,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "ACH30",
@@ -18003,7 +18008,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 16931,
+      "Progressed": 16938,
       "Completed": 64
     }
   ],
@@ -18011,8 +18016,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-26T13:00:04.6466604+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:56.8253682+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:09:55.9975206+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:57:16.3065592+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:56.8254802+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:57:34.6666154+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:09:55.997635+00:00"
 }

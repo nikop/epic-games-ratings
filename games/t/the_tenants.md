@@ -7,6 +7,8 @@ Number of Ratings: 82  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | And So It Begins | 0.40% | ~39 |
+| Still Kind Of Poor | 0.40% | ~39 |
+| Well Off | 0.40% | ~39 |
 | Agent | 0.30% | ~29 |
 | A Real Landlord | 0.30% | ~29 |
 | Gotta Start Somewhere | 0.30% | ~29 |
@@ -15,9 +17,7 @@ Number of Ratings: 82  (23.09.2022)
 | Lured In | 0.30% | ~29 |
 | Renovator | 0.30% | ~29 |
 | Master Renovator | 0.30% | ~29 |
-| Still Kind Of Poor | 0.30% | ~29 |
 | Treasure Hunter | 0.30% | ~29 |
-| Well Off | 0.30% | ~29 |
 | Master Agent | 0.20% | ~20 |
 | Babysitter | 0.20% | ~20 |
 | Cleaning Service | 0.20% | ~20 |

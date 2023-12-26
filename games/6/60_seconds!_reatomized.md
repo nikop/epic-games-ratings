@@ -5,25 +5,25 @@ Rating: 4.52 (Ranked 562)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,575 |
-| I will survive! | 93.00% | ~5,516 |
+| Prepper | 94.00% | ~5,576 |
+| I will survive! | 93.00% | ~5,517 |
 | All thumbs | 92.00% | ~5,457 |
-| Home, sweet home | 91.00% | ~5,397 |
-| Survivalist | 90.00% | ~5,338 |
-| One way ticket | 85.00% | ~5,041 |
-| Last man standing | 80.00% | ~4,745 |
-| Family guy | 77.00% | ~4,567 |
+| Home, sweet home | 91.00% | ~5,398 |
+| Survivalist | 90.00% | ~5,339 |
+| One way ticket | 85.00% | ~5,042 |
+| Last man standing | 80.00% | ~4,746 |
+| Family guy | 77.00% | ~4,568 |
 | Out of the Bag | 76.00% | ~4,508 |
-| The Dark Side | 71.00% | ~4,211 |
-| Duck and cover! | 66.00% | ~3,914 |
-| Souper! | 65.00% | ~3,855 |
+| The Dark Side | 71.00% | ~4,212 |
+| Duck and cover! | 66.00% | ~3,915 |
+| Souper! | 65.00% | ~3,856 |
 | Pacifist | 60.00% | ~3,559 |
-| 2-1-6 | 59.00% | ~3,499 |
-| A gift | 55.00% | ~3,262 |
-| Girl Power | 49.00% | ~2,906 |
+| 2-1-6 | 59.00% | ~3,500 |
+| A gift | 55.00% | ~3,263 |
+| Girl Power | 49.00% | ~2,907 |
 | What goes around... | 45.00% | ~2,669 |
 | Be Prepared | 39.00% | ~2,313 |
-| Unbreakable | 37.00% | ~2,194 |
+| Unbreakable | 37.00% | ~2,195 |
 | Gotta get 'em all | 34.00% | ~2,017 |
 | This is the end | 34.00% | ~2,017 |
 | Atomic drill | 32.00% | ~1,898 |
@@ -38,7 +38,7 @@ Rating: 4.52 (Ranked 562)
 | Men in Black | 13.00% | ~771 |
 | No stone unturned | 12.00% | ~712 |
 | Unplugged | 9.00% | ~534 |
-| Mad Hatter | 8.00% | ~474 |
+| Mad Hatter | 8.00% | ~475 |
 | Holidays! | 7.00% | ~415 |
 | Yes Man | 7.00% | ~415 |
 | Lumbersexual | 6.00% | ~356 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 562)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,931 (Ranked 196)  
+Progressed: 5,932 (Ranked 196)  
 Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 1 (0.02%) (Ranked 357)
 | 2023-12-23 | 5,893 | 1 |
 | 2023-12-24 | 5,906 | 1 |
 | 2023-12-25 | 5,923 | 1 |
-| 2023-12-26 | 5,931 | 1 |
+| 2023-12-26 | 5,932 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

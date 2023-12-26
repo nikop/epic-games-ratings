@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -4060,9 +4060,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4348,9 +4348,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "5k00jcd",
       "Name": "Spoiled for choice",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4433,8 +4433,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:06:01.7761052+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:06:28.3578217+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:27.4512417+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:06:01.7761705+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:59:47.8862869+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:06:28.357869+00:00"
 }

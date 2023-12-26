@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -854,9 +854,9 @@
       "ID": "killPlant20",
       "SetID": "ci65fo0",
       "Name": "Weed killer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "killPlant5",
@@ -1022,9 +1022,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "questBuildShip",
@@ -1126,9 +1126,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questKillGoblinMage",
@@ -1283,8 +1283,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:41.8637235+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:09:40.66301+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.1748657+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:58:05.1886953+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:41.8637821+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:24.480397+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:09:40.6630671+00:00"
 }

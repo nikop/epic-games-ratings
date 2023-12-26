@@ -24,12 +24,12 @@
 | Spirit of the past | 61.00% | ~289 |
 | Employee of the month | 59.00% | ~280 |
 | Law student | 58.00% | ~275 |
+| Workout professional | 55.00% | ~261 |
 | Little hacker | 55.00% | ~261 |
 | Handyman | 55.00% | ~261 |
 | Champion – starter pack | 55.00% | ~261 |
-| Workout professional | 54.00% | ~256 |
+| It's good to be alive | 54.00% | ~256 |
 | Fight for life | 53.00% | ~251 |
-| It's good to be alive | 53.00% | ~251 |
 | Own four walls | 53.00% | ~251 |
 | Intriguing candies | 53.00% | ~251 |
 | Employee of the year | 53.00% | ~251 |
@@ -47,9 +47,9 @@
 | Deal with life | 36.00% | ~171 |
 | Mom got better | 35.00% | ~166 |
 | GYM professional | 35.00% | ~166 |
+| The die is cast | 35.00% | ~166 |
 | Poisoned fighter | 34.00% | ~161 |
 | Get out of my apartment! | 34.00% | ~161 |
-| The die is cast | 34.00% | ~161 |
 | Gang wrangler | 32.00% | ~152 |
 | Seashell hunter | 32.00% | ~152 |
 | Problems of cyborgs | 31.00% | ~147 |

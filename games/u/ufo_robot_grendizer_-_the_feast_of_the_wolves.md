@@ -12,8 +12,8 @@
 | Strength in Defeat | 39.00% | ~15 |
 | Technology first! | 24.00% | ~9 |
 | The Keeper of Fleed | 21.00% | ~8 |
+| The Exterminator | 18.00% | ~7 |
 | Earth's Savior | 16.00% | ~6 |
-| The Exterminator | 16.00% | ~6 |
 | The Collector | 11.00% | ~4 |
 | Gold Seeker | 8.00% | ~3 |
 | The Planner | 8.00% | ~3 |

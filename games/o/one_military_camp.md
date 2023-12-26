@@ -15,9 +15,9 @@
 | Health Care | 8.00% | ~19 |
 | Desert Rat | 8.00% | ~19 |
 | Perfect Soldier | 7.00% | ~17 |
+| Good payer | 7.00% | ~17 |
 | Ammo Tycoon | 7.00% | ~17 |
 | Healing | 6.00% | ~15 |
-| Good payer | 6.00% | ~15 |
 | Pathfinder | 6.00% | ~15 |
 | Food Tycoon | 6.00% | ~15 |
 | Fuel Tycoon | 6.00% | ~15 |

@@ -1,16 +1,16 @@
 # Spiritfarer®: Farewell Edition
 [Store](https://store.epicgames.com/en-US/p/spiritfarer)  
 [View Rawdata](../../db/s/spiritfarer®__farewell_edition.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.88 (Ranked 18)  
 Number of Ratings: 178  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 23  (Ranked 553)  
-Sum: 63 (Ranked 487)  
-Diff (max vs sum): 66  
+Sum: 64 (Ranked 486)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 23 |
-| This game has Amazing Characters | 20 |
+| This game has Amazing Characters | 21 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -75,3 +75,4 @@ Diff (max vs sum): 66
 | 2023-12-01 | 4.87 | - | 23 | 23 |
 | 2023-12-07 | 4.88 | - | 23 | 43 |
 | 2023-12-23 | 4.87 | - | 23 | 63 |
+| 2023-12-26 | 4.88 | - | 23 | 64 |

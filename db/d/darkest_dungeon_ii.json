@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10176,9 +10176,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 129984,
+  "EOS_Progressed": 129994,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1462,
+  "EOS_NewPlayers": 1455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36911,6 +36911,11 @@
       "Time": "2023-12-26T15:09:30.9230266+00:00",
       "NumProgressed": 129984,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T16:09:29.3356141+00:00",
+      "NumProgressed": 129994,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36930,7 +36935,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37008,9 +37013,9 @@
       "ID": "altar_of_hope_upgrade_total_full",
       "SetID": "64l4lke",
       "Name": "The World As It Was",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 650
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -37050,7 +37055,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6500
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37082,7 +37087,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37122,7 +37127,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37138,7 +37143,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "combat_kill_librarian",
@@ -37146,7 +37151,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37162,7 +37167,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37274,7 +37279,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6500
     },
     {
       "ID": "hero_story_complete_all",
@@ -37458,7 +37463,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "combat_kill_collector",
@@ -37506,7 +37511,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37514,7 +37519,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "quest_complete_crusader",
@@ -37553,21 +37558,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129984,
+      "Progressed": 129994,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4853,
+      "Progressed": 4863,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-26T07:58:34.6714656+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:30.9230263+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:09:29.3356139+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:58:41.2027825+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:30.9232276+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:59:00.8703753+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:09:29.3358023+00:00"
 }

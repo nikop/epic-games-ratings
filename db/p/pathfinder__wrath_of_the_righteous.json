@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4629,10 +4629,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7168,
       "NumberOfAwardsMax": 1772
+    },
+    {
+      "Time": "2023-12-26T15:57:12.2739326+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7169,
+      "NumberOfAwardsMax": 1772
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7168,
+  "NumberOfAwards": 7169,
   "NumberOfAwardsMax": 1772,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4658,7 +4664,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 648
+      "Count": 649
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4703,9 +4709,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12785,
+  "EOS_Progressed": 12786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18088,6 +18094,11 @@
       "Time": "2023-12-26T15:10:11.5276515+00:00",
       "NumProgressed": 12785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T16:10:11.0566991+00:00",
+      "NumProgressed": 12786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18275,7 +18286,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "24_Legacy",
@@ -18411,7 +18422,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "42_JustPathetic",
@@ -18427,7 +18438,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "44_AshesToAshes",
@@ -19026,21 +19037,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11567,
+      "Progressed": 11568,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12785,
+      "Progressed": 12786,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-26T00:00:09.2028081+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:10:11.5276512+00:00",
+  "LastChanged": "2023-12-26T15:57:12.2739324+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:10:11.0566987+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:56:52.8430057+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:10:11.5278074+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:57:12.273933+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:10:11.0569+00:00"
 }

@@ -1735,10 +1735,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164652,
-  "EOS_Completed": 411,
-  "EOS_NewPlayers": 1334,
-  "EOS_NewCompleters": 58,
+  "EOS_Progressed": 164665,
+  "EOS_Completed": 412,
+  "EOS_NewPlayers": 1338,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20685,6 +20685,11 @@
       "Time": "2023-12-26T15:04:56.0759908+00:00",
       "NumProgressed": 164652,
       "NumCompleted": 411
+    },
+    {
+      "Time": "2023-12-26T16:05:19.2683229+00:00",
+      "NumProgressed": 164665,
+      "NumCompleted": 412
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20807,9 +20812,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 657
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -21064,21 +21069,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164235,
+      "Progressed": 164248,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164652,
-      "Completed": 411
+      "Progressed": 164665,
+      "Completed": 412
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T02:59:16.7945534+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:04:56.0759903+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:05:19.2683227+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:58:34.4045081+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:04:56.0761176+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:52.8353697+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:05:19.2684777+00:00"
 }

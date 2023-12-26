@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 79.00% | ~193 |
-| Purification Pioneer | 74.00% | ~181 |
+| Meissa's Savior | 80.00% | ~195 |
+| Purification Pioneer | 75.00% | ~183 |
 | Mechanical Buddy | 70.00% | ~171 |
 | Dicesmithing Time! | 61.00% | ~149 |
 | Sanctuary Guardian | 55.00% | ~134 |
-| Endless Tricks | 48.00% | ~117 |
+| Endless Tricks | 49.00% | ~120 |
 | Wild's Keeper | 46.00% | ~112 |
 | Mind Illuminator | 43.00% | ~105 |
 | Noctuan Champion | 35.00% | ~85 |
 | Stellar Dismantler | 34.00% | ~83 |
 | Anomaly Destroyer | 31.00% | ~76 |
-| Astral Adventurer | 29.00% | ~71 |
+| Astral Adventurer | 30.00% | ~73 |
 | Star Killer | 26.00% | ~63 |
 | Eridanian Champion | 24.00% | ~59 |
 | Loyal Partner | 22.00% | ~54 |
@@ -41,12 +41,12 @@
 | The Dark Moon | 5.00% | ~12 |
 | Apian Hero | 5.00% | ~12 |
 | Lacertian Hero | 5.00% | ~12 |
+| Astrarium of Holding | 4.00% | ~10 |
 | Denying Destiny | 4.00% | ~10 |
 | The Chaos Artisan | 4.00% | ~10 |
 | The Distorted Sage | 4.00% | ~10 |
 | Behenian Hero | 4.00% | ~10 |
 | Noctuan Hero | 4.00% | ~10 |
-| Astrarium of Holding | 3.00% | ~7 |
 | If I Had Failed... | 3.00% | ~7 |
 | Purification Avatar | 3.00% | ~7 |
 | The Abyssal Terror | 3.00% | ~7 |

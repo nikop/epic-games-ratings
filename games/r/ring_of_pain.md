@@ -6,8 +6,8 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 1.00% | ~2,417 |
-| Uncharted Territory | 1.00% | ~2,417 |
+| First Steps | 1.00% | ~2,418 |
+| Uncharted Territory | 1.00% | ~2,418 |
 | Matching | 1.00% | ~32 |
 | Getting A Glimpse | 0.90% | ~2,176 |
 | Heavy Hitter | 0.80% | ~1,934 |
@@ -29,18 +29,19 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.70% | ~1,692 |
 | Deflection | 0.70% | ~1,692 |
 | Sneaky | 0.70% | ~1,692 |
-| Ambitious Intent | 0.60% | ~1,450 |
-| R.I.P | 0.60% | ~1,450 |
-| Dig Your Own Grave | 0.60% | ~1,450 |
-| Who To Trust? | 0.60% | ~1,450 |
-| Walk It Off | 0.60% | ~1,450 |
-| Cold Hearted | 0.60% | ~1,450 |
-| I Am Overburdened | 0.60% | ~1,450 |
-| Shootout | 0.60% | ~1,450 |
-| Stone Touch | 0.60% | ~1,450 |
-| Toxic | 0.60% | ~1,450 |
-| Shadow Walker | 0.60% | ~1,450 |
-| Flesh Wound | 0.60% | ~1,450 |
+| Ambitious Intent | 0.60% | ~1,451 |
+| R.I.P | 0.60% | ~1,451 |
+| Dig Your Own Grave | 0.60% | ~1,451 |
+| Who To Trust? | 0.60% | ~1,451 |
+| Walk It Off | 0.60% | ~1,451 |
+| Cold Hearted | 0.60% | ~1,451 |
+| I Am Overburdened | 0.60% | ~1,451 |
+| Shootout | 0.60% | ~1,451 |
+| Stone Touch | 0.60% | ~1,451 |
+| Toxic | 0.60% | ~1,451 |
+| Shadow Walker | 0.60% | ~1,451 |
+| Flesh Wound | 0.60% | ~1,451 |
+| What Doesn't Kill You | 0.60% | ~19 |
 | Consecutive Curses | 0.50% | ~1,209 |
 | Just Chilling | 0.50% | ~1,209 |
 | Save Our Souls | 0.50% | ~1,209 |
@@ -49,7 +50,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.50% | ~1,209 |
 | Shapeshifting | 0.50% | ~1,209 |
 | Expensive Look | 0.50% | ~16 |
-| What Doesn't Kill You | 0.50% | ~16 |
 | Thank You, Friend | 0.40% | ~967 |
 | Shadow Spreads | 0.40% | ~967 |
 | Max Damage! | 0.40% | ~967 |
@@ -71,27 +71,27 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 0.30% | ~725 |
 | Snake Sneak | 0.30% | ~725 |
 | Precious | 0.30% | ~725 |
-| Achievement Hunter | 0.20% | ~483 |
-| Challenge Increases | 0.20% | ~483 |
-| A Long Climb | 0.20% | ~483 |
-| Dead Revels | 0.20% | ~483 |
-| New Game+ | 0.20% | ~483 |
-| Friend of Vermin | 0.20% | ~483 |
-| Barbecue | 0.20% | ~483 |
-| Explosive Betrayal | 0.20% | ~483 |
-| Grave Digger | 0.20% | ~483 |
-| Soul Stash | 0.20% | ~483 |
-| Gigantic | 0.20% | ~483 |
-| Become The Nightmare | 0.20% | ~483 |
-| Trail Of Death | 0.20% | ~483 |
-| Clearing The Room | 0.20% | ~483 |
-| Path To Enlightenment | 0.20% | ~483 |
-| Just Looking Around | 0.20% | ~483 |
-| Fragile Mortality | 0.20% | ~483 |
-| Fire Away! | 0.20% | ~483 |
-| Defuser | 0.20% | ~483 |
-| Obsessed | 0.20% | ~483 |
-| Sentimental Value | 0.20% | ~483 |
+| Achievement Hunter | 0.20% | ~484 |
+| Challenge Increases | 0.20% | ~484 |
+| A Long Climb | 0.20% | ~484 |
+| Dead Revels | 0.20% | ~484 |
+| New Game+ | 0.20% | ~484 |
+| Friend of Vermin | 0.20% | ~484 |
+| Barbecue | 0.20% | ~484 |
+| Explosive Betrayal | 0.20% | ~484 |
+| Grave Digger | 0.20% | ~484 |
+| Soul Stash | 0.20% | ~484 |
+| Gigantic | 0.20% | ~484 |
+| Become The Nightmare | 0.20% | ~484 |
+| Trail Of Death | 0.20% | ~484 |
+| Clearing The Room | 0.20% | ~484 |
+| Path To Enlightenment | 0.20% | ~484 |
+| Just Looking Around | 0.20% | ~484 |
+| Fragile Mortality | 0.20% | ~484 |
+| Fire Away! | 0.20% | ~484 |
+| Defuser | 0.20% | ~484 |
+| Obsessed | 0.20% | ~484 |
+| Sentimental Value | 0.20% | ~484 |
 | Diviner | 0.20% | ~6 |
 | Nuclear | 0.20% | ~6 |
 | Raw Power | 0.20% | ~6 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,746 (Ranked 69)  
+Progressed: 241,754 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
-| 2023-12-26 | 241,746 | 302 |
+| 2023-12-26 | 241,754 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

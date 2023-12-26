@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -603,9 +603,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6247,
+  "EOS_Progressed": 6251,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9253,6 +9253,11 @@
       "Time": "2023-12-26T15:03:50.9961547+00:00",
       "NumProgressed": 6247,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T16:04:11.7237189+00:00",
+      "NumProgressed": 6251,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9280,7 +9285,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "12",
@@ -9304,7 +9309,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "15",
@@ -9312,7 +9317,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "16",
@@ -9320,7 +9325,7 @@
       "Name": "God Emperor",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "17",
@@ -9328,7 +9333,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "18",
@@ -9336,7 +9341,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "19",
@@ -9344,7 +9349,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "2",
@@ -9360,7 +9365,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "21",
@@ -9368,7 +9373,7 @@
       "Name": "Eternal Lord",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "22",
@@ -9376,7 +9381,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "23",
@@ -9416,7 +9421,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "28",
@@ -9424,7 +9429,7 @@
       "Name": "From Friends to Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "29",
@@ -9456,7 +9461,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "32",
@@ -9464,7 +9469,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "33",
@@ -9528,7 +9533,7 @@
       "Name": "The Eternal Court",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "40",
@@ -9640,7 +9645,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "49",
@@ -9680,7 +9685,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "54",
@@ -9696,7 +9701,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "56",
@@ -9704,7 +9709,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "57",
@@ -9720,7 +9725,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "59",
@@ -9728,7 +9733,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "60",
@@ -9743,13 +9748,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6247,
+      "Progressed": 6251,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6247,
+      "Progressed": 6251,
       "Completed": 7
     }
   ],
@@ -9757,8 +9762,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T10:01:09.8924336+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:03:50.9961544+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:04:11.7237186+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:36.4150593+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:03:50.9962399+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:59:57.7767672+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:04:11.7238012+00:00"
 }

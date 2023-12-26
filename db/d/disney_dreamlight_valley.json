@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5541,7 +5541,7 @@
       "Count": 544
     }
   ],
-  "EOS_Progressed": 13232,
+  "EOS_Progressed": 13233,
   "EOS_Completed": 326,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 9,
@@ -23121,6 +23121,11 @@
       "Time": "2023-12-26T15:09:09.5016934+00:00",
       "NumProgressed": 13232,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-12-26T16:09:07.402882+00:00",
+      "NumProgressed": 13233,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 15,
@@ -23140,7 +23145,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 5160
+      "UsersEstimate": 5161
     },
     {
       "ID": "Bestest_Friend",
@@ -23148,7 +23153,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "Chef_Cook",
@@ -23220,7 +23225,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 8865
+      "UsersEstimate": 8866
     },
     {
       "ID": "Renovator",
@@ -23244,14 +23249,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13232,
+      "Progressed": 13233,
       "Completed": 326
     }
   ],
@@ -23259,8 +23264,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-26T10:00:34.8595399+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:09.501693+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:09:07.4028818+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:14.2129547+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:09.5018013+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:59:34.9995591+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:09:07.4030054+00:00"
 }

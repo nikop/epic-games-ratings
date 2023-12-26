@@ -32,10 +32,10 @@ Rating: 4.63 (Ranked 353)
 | Got to Catch Them All | 0.30% | ~26 |
 | Scattered Scroll Scrounger | 0.30% | ~26 |
 | Rumble in the Jumble | 0.30% | ~26 |
+| I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
 | Going Down | 0.30% | ~4 |
-| I Now Pronounce You... | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | House Proud | 0.20% | ~17 |
 | Polyglot | 0.20% | ~3 |

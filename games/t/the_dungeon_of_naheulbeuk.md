@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,125 |
-| Alt+F4 | 10.00% | ~24,479 |
-| Where's that freaking Dwarf? | 9.00% | ~22,031 |
-| Déjà vu | 7.00% | ~17,135 |
+| Sowwy! | 36.00% | ~88,127 |
+| Alt+F4 | 10.00% | ~24,480 |
+| Where's that freaking Dwarf? | 9.00% | ~22,032 |
+| Déjà vu | 7.00% | ~17,136 |
 | Sock! SOCK! | 6.00% | ~14,688 |
 | A beer, two curses, three companions | 5.00% | ~12,240 |
 | GG EZ | 5.00% | ~12,240 |
@@ -21,11 +21,11 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 3.00% | ~7,344 |
 | The demons' feast | 3.00% | ~7,344 |
 | The Great Library | 3.00% | ~7,344 |
+| Torture and Sensibility | 3.00% | ~7,344 |
 | The Woman in the High Castle | 3.00% | ~7,344 |
 | Team Building Exercise | 3.00% | ~7,344 |
 | Oh, when I'll be level 10... | 3.00% | ~7,344 |
 | Shiny and Crôm | 2.00% | ~4,896 |
-| Torture and Sensibility | 2.00% | ~4,896 |
 | Urik's Depths | 2.00% | ~4,896 |
 | The Dungeon Master | 2.00% | ~4,896 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,896 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,792 (Ranked 68)  
+Progressed: 244,798 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-23 | 244,299 | 7 |
 | 2023-12-24 | 244,469 | 7 |
 | 2023-12-25 | 244,664 | 8 |
-| 2023-12-26 | 244,792 | 8 |
+| 2023-12-26 | 244,798 | 8 |
 ## Awards
 Max (Character Customization): 256  (Ranked 276)  
 Sum: 537 (Ranked 326)  

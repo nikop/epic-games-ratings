@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
 | Learn to Play 1 | 0.30% | ~48 |
+| Christianity | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
-| Christianity | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,958 (Ranked 163)  
+Progressed: 15,959 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
-| 2023-12-26 | 15,958 | 5 |
+| 2023-12-26 | 15,959 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

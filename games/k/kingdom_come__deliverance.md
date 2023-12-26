@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,619 |
-| Cavalier | 25.00% | ~203,609 |
-| Fatso | 23.00% | ~187,320 |
-| Awakening | 21.00% | ~171,031 |
-| Ranger | 20.00% | ~162,887 |
-| Scrooge | 20.00% | ~162,887 |
-| Anorectic | 16.00% | ~130,310 |
-| Firestarter | 16.00% | ~130,310 |
-| Bookworm | 15.00% | ~122,165 |
-| Insomniac | 13.00% | ~105,877 |
-| Buddy | 12.00% | ~97,732 |
-| Thief | 12.00% | ~97,732 |
-| Sinner | 11.00% | ~89,588 |
-| Traveller | 11.00% | ~89,588 |
-| Convict | 10.00% | ~81,444 |
-| Haggler | 9.00% | ~73,299 |
-| McLovin | 7.00% | ~57,010 |
-| Runt | 7.00% | ~57,010 |
-| Casanova | 6.00% | ~48,866 |
+| Blacksmith's Son | 32.00% | ~260,623 |
+| Cavalier | 25.00% | ~203,612 |
+| Fatso | 23.00% | ~187,323 |
+| Awakening | 21.00% | ~171,034 |
+| Ranger | 20.00% | ~162,889 |
+| Scrooge | 20.00% | ~162,889 |
+| Anorectic | 16.00% | ~130,312 |
+| Firestarter | 16.00% | ~130,312 |
+| Bookworm | 15.00% | ~122,167 |
+| Insomniac | 13.00% | ~105,878 |
+| Buddy | 12.00% | ~97,734 |
+| Thief | 12.00% | ~97,734 |
+| Sinner | 11.00% | ~89,589 |
+| Traveller | 11.00% | ~89,589 |
+| Convict | 10.00% | ~81,445 |
+| Haggler | 9.00% | ~73,300 |
+| McLovin | 7.00% | ~57,011 |
+| Runt | 7.00% | ~57,011 |
+| Casanova | 6.00% | ~48,867 |
 | Bad Trip | 5.00% | ~40,722 |
 | Monk | 5.00% | ~40,722 |
 | Serial Killer | 5.00% | ~40,722 |
-| Bastard | 4.00% | ~32,577 |
-| Hunter | 4.00% | ~32,577 |
-| Plague Doctor | 4.00% | ~32,577 |
+| Bastard | 4.00% | ~32,578 |
+| Hunter | 4.00% | ~32,578 |
+| Plague Doctor | 4.00% | ~32,578 |
 | Bard | 3.00% | ~24,433 |
 | Conqueror | 3.00% | ~24,433 |
 | Ginger in a Pickle | 3.00% | ~24,433 |
@@ -53,7 +53,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~8,144 |
 | Bailiff | 0.90% | ~7,330 |
 | Tracker | 0.90% | ~7,330 |
-| David Horak | 0.80% | ~6,515 |
+| David Horak | 0.80% | ~6,516 |
 | Fighter | 0.70% | ~5,701 |
 | Mercenary's Honour | 0.70% | ~5,701 |
 | Saviour | 0.70% | ~5,701 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,435 (Ranked 19)  
+Progressed: 814,447 (Ranked 19)  
 Completed: 52 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 52 (0.01%) (Ranked 367)
 | 2023-12-23 | 813,967 | 52 |
 | 2023-12-24 | 814,160 | 52 |
 | 2023-12-25 | 814,325 | 52 |
-| 2023-12-26 | 814,435 | 52 |
+| 2023-12-26 | 814,447 | 52 |
 ## Awards
 Max (Character Customization): 7,713  (Ranked 53)  
 Sum: 28,631 (Ranked 50)  

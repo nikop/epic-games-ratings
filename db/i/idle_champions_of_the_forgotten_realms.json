@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9085,10 +9085,10 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244866,
-  "EOS_Completed": 2565,
-  "EOS_NewPlayers": 2858,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 244896,
+  "EOS_Completed": 2566,
+  "EOS_NewPlayers": 2876,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37355,6 +37355,11 @@
       "Time": "2023-12-26T15:10:14.9789036+00:00",
       "NumProgressed": 244866,
       "NumCompleted": 2565
+    },
+    {
+      "Time": "2023-12-26T16:10:14.0208349+00:00",
+      "NumProgressed": 244896,
+      "NumCompleted": 2566
     }
   ],
   "TotalAchievements": 546,
@@ -37366,7 +37371,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "objective_completed_10",
@@ -41662,7 +41667,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "objective_completed_1562",
@@ -41678,7 +41683,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "objective_completed_598",
@@ -41694,7 +41699,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "objective_completed_678",
@@ -41718,7 +41723,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "objective_completed_865",
@@ -41726,28 +41731,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211140,
+      "Progressed": 211170,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244866,
-      "Completed": 2565
+      "Progressed": 244896,
+      "Completed": 2566
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-26T10:57:56.5377084+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:10:14.9789029+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:10:14.0208345+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:57:53.2595482+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:10:14.9812358+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:12.3619969+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:10:14.023252+00:00"
 }

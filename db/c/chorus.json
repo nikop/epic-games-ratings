@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1351,
+  "EOS_Progressed": 1352,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -2758,6 +2758,11 @@
       "Time": "2023-12-26T15:09:36.9498777+00:00",
       "NumProgressed": 1351,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-26T16:09:35.5401974+00:00",
+      "NumProgressed": 1352,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 43,
@@ -2785,7 +2790,7 @@
       "Name": "Voices from the Past",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "Finish5SideMissions",
@@ -2801,7 +2806,7 @@
       "Name": "Paragon",
       "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "GatlingVsArmor",
@@ -2833,7 +2838,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "MasteryOfCombat",
@@ -2865,7 +2870,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -2913,7 +2918,7 @@
       "Name": "Full Arsenal",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "MissionEosReturn",
@@ -2937,7 +2942,7 @@
       "Name": "Disciple",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "MissionHelios",
@@ -2945,7 +2950,7 @@
       "Name": "Cult Slayer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -2953,7 +2958,7 @@
       "Name": "Safe Home",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2993,7 +2998,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "MissionShipyard",
@@ -3009,7 +3014,7 @@
       "Name": "The Path Forward",
       "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "MissionTemple",
@@ -3065,7 +3070,7 @@
       "Name": "Huntress",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "RiteOfTheStar",
@@ -3097,7 +3102,7 @@
       "Name": "Space Traveler",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "WinARace",
@@ -3112,15 +3117,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1351,
+      "Progressed": 1352,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-12-22T19:01:41.4529576+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:36.9498773+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:09:35.5401972+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.386194+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:58:33.6689873+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:36.9499174+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:52.0110843+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:09:35.5402306+00:00"
 }

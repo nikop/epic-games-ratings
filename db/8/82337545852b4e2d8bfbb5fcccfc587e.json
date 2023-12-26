@@ -3,9 +3,9 @@
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 134,
-  "EOS_Completed": 11,
+  "EOS_Completed": 12,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.21,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 8.96,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -714,6 +714,11 @@
       "Time": "2023-12-26T07:09:07.3756342+00:00",
       "NumProgressed": 134,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-26T16:08:57.4607029+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -724,9 +729,9 @@
       "ID": "EpicACHV_1",
       "SetID": "acn799d",
       "Name": "I am Deeeer.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EpicACHV_10",
@@ -772,25 +777,25 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EpicACHV_2",
@@ -812,9 +817,9 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "EpicACHV_5",
@@ -828,9 +833,9 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 70,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "EpicACHV_7",
@@ -844,9 +849,9 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "EpicACHV_9",
@@ -862,13 +867,13 @@
       "ID": "acn799d",
       "IsBase": true,
       "Progressed": 134,
-      "Completed": 11
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:00.058689+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:08:57.4607025+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:11.4118743+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:58:21.4714255+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:00.0587053+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:40.552092+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:08:57.4607166+00:00"
 }

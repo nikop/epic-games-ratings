@@ -53,9 +53,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~116 |
 | Not the Last Sarkorian | 1.00% | ~116 |
 | End of Eternal Guard | 0.90% | ~115 |
-| Masterful Charge | 0.70% | ~89 |
-| Playful Mood | 0.70% | ~89 |
-| Dreadful Dragon | 0.70% | ~89 |
+| Masterful Charge | 0.70% | ~90 |
+| Playful Mood | 0.70% | ~90 |
+| Dreadful Dragon | 0.70% | ~90 |
 | Prelate's Nemesis | 0.50% | ~64 |
 | Ashes to Ashes | 0.40% | ~51 |
 | Masterful Dispel | 0.30% | ~38 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,785 (Ranked 169)  
+Progressed: 12,786 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,10 +373,10 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 12,670 | 0 |
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
-| 2023-12-26 | 12,785 | 0 |
+| 2023-12-26 | 12,786 | 0 |
 ## Awards
 Max (Character Customization): 1,772  (Ranked 124)  
-Sum: 7,168 (Ranked 123)  
+Sum: 7,169 (Ranked 123)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -384,7 +384,7 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 662 |
 | This game is Highly Recommended | 655 |
 | This game has Diverse Characters | 651 |
-| This game has Amazing Characters | 648 |
+| This game has Amazing Characters | 649 |
 | This game has Amazing Storytelling | 629 |
 | This game has Challenging Combat | 598 |
 | This game has Quickly Understood Controls | 584 |
@@ -695,4 +695,4 @@ Diff (max vs sum): 1
 | 2023-12-22 | 4.76 | - | 1,765 | 7,158 |
 | 2023-12-23 | 4.76 | - | 1,767 | 7,163 |
 | 2023-12-25 | 4.76 | - | 1,769 | 7,165 |
-| 2023-12-26 | 4.76 | - | 1,772 | 7,168 |
+| 2023-12-26 | 4.76 | - | 1,772 | 7,169 |

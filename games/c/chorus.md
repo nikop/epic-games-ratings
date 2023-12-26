@@ -6,34 +6,34 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,135 |
-| Voices from the Past | 77.00% | ~1,040 |
-| Space Traveler | 77.00% | ~1,040 |
+| Another Life | 84.00% | ~1,136 |
+| Voices from the Past | 77.00% | ~1,041 |
+| Space Traveler | 77.00% | ~1,041 |
 | Demigod | 74.00% | ~1,000 |
-| The Great Destroyer | 73.00% | ~986 |
+| The Great Destroyer | 73.00% | ~987 |
 | Shields Down | 70.00% | ~946 |
 | Helping Hand | 66.00% | ~892 |
-| Safe Home | 65.00% | ~878 |
-| Paragon | 61.00% | ~824 |
+| Safe Home | 65.00% | ~879 |
+| Paragon | 61.00% | ~825 |
 | Old Days Born Anew | 60.00% | ~811 |
-| Full Arsenal | 55.00% | ~743 |
+| Full Arsenal | 55.00% | ~744 |
 | Controlled Demolition | 54.00% | ~730 |
 | Payback | 52.00% | ~703 |
-| Huntress | 51.00% | ~689 |
+| Huntress | 51.00% | ~690 |
 | Born to Drift | 50.00% | ~676 |
 | Relentless | 47.00% | ~635 |
-| The Path Forward | 44.00% | ~594 |
+| The Path Forward | 44.00% | ~595 |
 | Disruption | 43.00% | ~581 |
 | Phoenix | 43.00% | ~581 |
-| Cult Slayer | 40.00% | ~540 |
+| Cult Slayer | 40.00% | ~541 |
 | Origin | 39.00% | ~527 |
 | It Was An Accident | 39.00% | ~527 |
 | Set in Motion | 37.00% | ~500 |
 | In the Eye of the Storm | 37.00% | ~500 |
-| The Crimson Void | 34.00% | ~459 |
+| The Crimson Void | 34.00% | ~460 |
 | The Nameless Dread | 33.00% | ~446 |
 | Time to Spear | 31.00% | ~419 |
-| Disciple | 30.00% | ~405 |
+| Disciple | 30.00% | ~406 |
 | Mastery of Weapons | 29.00% | ~392 |
 | Uneasy Alliance | 25.00% | ~338 |
 | Ghosts | 25.00% | ~338 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~135 |
 | At Least You Tried | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351 (Ranked 259)  
+Progressed: 1,352 (Ranked 259)  
 Completed: 18 (1.33%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 18 (1.33%) (Ranked 154)
 | 2023-12-23 | 1,342 | 18 |
 | 2023-12-24 | 1,346 | 18 |
 | 2023-12-25 | 1,348 | 18 |
-| 2023-12-26 | 1,351 | 18 |
+| 2023-12-26 | 1,352 | 18 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 499)  
 Sum: 34 (Ranked 523)  

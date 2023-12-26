@@ -5,13 +5,13 @@ Rating: 4.58 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,156 |
-| Sputnik 2049 | 27.00% | ~1,007 |
+| Wakey Wakey | 31.00% | ~1,157 |
+| Sputnik 2049 | 27.00% | ~1,008 |
 | Infinite Growth... | 26.00% | ~970 |
-| Without Breaking Some Eggs... | 25.00% | ~932 |
-| Space Society | 18.00% | ~671 |
-| A Thousand Strong | 18.00% | ~671 |
-| Ready for a New World | 18.00% | ~671 |
+| Without Breaking Some Eggs... | 25.00% | ~933 |
+| Space Society | 18.00% | ~672 |
+| A Thousand Strong | 18.00% | ~672 |
+| Ready for a New World | 18.00% | ~672 |
 | Permanent Redesigns | 16.00% | ~597 |
 | Fully Recycled | 14.00% | ~522 |
 | Ain't Nobody Got Time for That | 14.00% | ~522 |
@@ -22,21 +22,21 @@ Rating: 4.58 (Ranked 456)
 | Breaking Protocol | 12.00% | ~448 |
 | Hope Seeker | 12.00% | ~448 |
 | Man's Best Friend | 9.00% | ~336 |
-| Power Outage | 8.00% | ~298 |
-| Convenient Transport | 8.00% | ~298 |
-| Please Make it Stop! | 8.00% | ~298 |
+| Power Outage | 9.00% | ~336 |
+| Convenient Transport | 8.00% | ~299 |
+| Please Make it Stop! | 8.00% | ~299 |
 | Sightseeing | 7.00% | ~261 |
 | Necessary Enhancement | 7.00% | ~261 |
 | From the Past | 7.00% | ~261 |
 | Access Granted | 6.00% | ~224 |
 | All in Good Health | 6.00% | ~224 |
-| Oats | 5.00% | ~186 |
-| What They Hide From Us | 5.00% | ~186 |
-| ...  in a finite world | 5.00% | ~186 |
-| In Dolos We Trust | 5.00% | ~186 |
-| BRAWL! | 5.00% | ~186 |
-| Drill-dozer | 5.00% | ~186 |
-| What the Ruins Teach Us | 5.00% | ~186 |
+| Oats | 5.00% | ~187 |
+| What They Hide From Us | 5.00% | ~187 |
+| ...  in a finite world | 5.00% | ~187 |
+| In Dolos We Trust | 5.00% | ~187 |
+| BRAWL! | 5.00% | ~187 |
+| Drill-dozer | 5.00% | ~187 |
+| What the Ruins Teach Us | 5.00% | ~187 |
 | Sustainable Energy | 4.00% | ~149 |
 | Pedal to the Metal | 4.00% | ~149 |
 | Praise the Hull! | 3.00% | ~112 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 456)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,730 (Ranked 211)  
+Progressed: 3,732 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
 | 2023-12-25 | 3,722 | 0 |
-| 2023-12-26 | 3,730 | 0 |
+| 2023-12-26 | 3,732 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

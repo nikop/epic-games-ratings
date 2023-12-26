@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -1709,6 +1709,11 @@
       "Time": "2023-12-26T15:04:47.1925057+00:00",
       "NumProgressed": 529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T16:05:10.3747932+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1785,7 +1790,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "REMAKE_004",
@@ -1793,7 +1798,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Remake_005",
@@ -1831,9 +1836,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 132
     },
     {
       "ID": "Remake_010",
@@ -1849,7 +1854,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Remake_12",
@@ -1944,14 +1949,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:04:47.1925051+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:05:10.3747929+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:57:57.388182+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:04:47.1925259+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:58:16.5828671+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:05:10.3748193+00:00"
 }

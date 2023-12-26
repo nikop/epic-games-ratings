@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,897 |
+| A Brief Tour of the Realms | 2.00% | ~4,898 |
 | The Cursed Farmer | 0.70% | ~1,714 |
 | Welcome to Sigil | 0.70% | ~1,478 |
 | Beast Intentions | 0.60% | ~1,469 |
@@ -18,11 +18,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.30% | ~735 |
 | The Ring of Regeneration | 0.30% | ~735 |
 | Are Ya Chicken? | 0.30% | ~735 |
-| Misaligned in Sigil | 0.30% | ~633 |
-| Chaos Theory | 0.30% | ~633 |
-| When Tentacles Attack | 0.30% | ~633 |
-| Don't Lose Your Head | 0.30% | ~633 |
-| Mind Spike | 0.30% | ~633 |
+| Misaligned in Sigil | 0.30% | ~634 |
+| Chaos Theory | 0.30% | ~634 |
+| When Tentacles Attack | 0.30% | ~634 |
+| Don't Lose Your Head | 0.30% | ~634 |
+| Mind Spike | 0.30% | ~634 |
 | Maddening | 0.20% | ~490 |
 | A Persistent Buzzing | 0.20% | ~490 |
 | Terror in the Dark | 0.20% | ~490 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,866 (Ranked 67)  
-Completed: 2,565 (1.05%) (Ranked 168)  
+Progressed: 244,896 (Ranked 67)  
+Completed: 2,566 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -803,7 +803,7 @@ Completed: 2,565 (1.05%) (Ranked 168)
 | 2023-12-23 | 243,900 | 2,557 |
 | 2023-12-24 | 244,276 | 2,558 |
 | 2023-12-25 | 244,638 | 2,562 |
-| 2023-12-26 | 244,866 | 2,565 |
+| 2023-12-26 | 244,896 | 2,566 |
 ## Awards
 Max (Great for Beginners): 5,696  (Ranked 71)  
 Sum: 33,100 (Ranked 41)  

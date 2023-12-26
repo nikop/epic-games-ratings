@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 74.00% | ~75 |
+| My Papyrus! | 74.00% | ~76 |
 | A Loyal Friend | 38.00% | ~39 |
 | Abandon Ship! | 26.00% | ~27 |
-| The Tomb of Kih-Oskh | 21.00% | ~21 |
-| The Weighing of the Soul | 19.00% | ~19 |
+| The Tomb of Kih-Oskh | 20.00% | ~21 |
+| The Weighing of the Soul | 18.00% | ~19 |
 | The Curse of Kih-Oskh | 16.00% | ~16 |
 | It's a Deal! | 11.00% | ~11 |
 | Cat Lover | 10.00% | ~10 |
@@ -21,28 +21,28 @@
 | The Eyes! | 7.00% | ~7 |
 | Keep the Doctor Away | 7.00% | ~7 |
 | Just a Palm Tree | 7.00% | ~7 |
+| Under the Hood | 7.00% | ~7 |
+| Long Live Gaipajama! | 7.00% | ~7 |
 | Punctual | 7.00% | ~7 |
-| Under the Hood | 6.00% | ~6 |
-| Long Live Gaipajama! | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
 | Tintin, Reporter | 5.00% | ~5 |
 | Eyes Shut | 5.00% | ~5 |
+| Mountain Runner | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
-| Mountain Runner | 3.00% | ~3 |
 | Subtlety | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
+| Broken Brotherhood | 1.00% | ~1 |
 | The Pharaoh's New Clothes | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
-| Broken Brotherhood | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 477)  
+Progressed: 103 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,3 +80,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-20 | 99 | 0 |
 | 2023-12-22 | 100 | 0 |
 | 2023-12-23 | 102 | 0 |
+| 2023-12-26 | 103 | 0 |

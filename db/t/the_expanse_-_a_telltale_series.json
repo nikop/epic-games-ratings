@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17469,
+  "EOS_Progressed": 17471,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15216,6 +15216,11 @@
       "Time": "2023-12-26T15:04:08.2762062+00:00",
       "NumProgressed": 17469,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-26T16:04:29.840347+00:00",
+      "NumProgressed": 17471,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15260,7 +15265,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "14",
@@ -15268,7 +15273,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "15",
@@ -15300,7 +15305,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "19",
@@ -15324,7 +15329,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "21",
@@ -15507,13 +15512,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17469,
+      "Progressed": 17471,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3423,
+      "Progressed": 3425,
       "Completed": 1058
     }
   ],
@@ -15521,8 +15526,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:04:08.2762058+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:04:29.8403465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:18.8917488+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:04:08.2762907+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:59:39.4230282+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:04:29.8404411+00:00"
 }

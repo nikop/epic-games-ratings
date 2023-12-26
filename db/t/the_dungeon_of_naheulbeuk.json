@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1587,9 +1587,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244792,
+  "EOS_Progressed": 244798,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1236,
+  "EOS_NewPlayers": 1234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23757,6 +23757,11 @@
       "Time": "2023-12-26T15:10:04.3291905+00:00",
       "NumProgressed": 244792,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T16:10:03.8367245+00:00",
+      "NumProgressed": 244798,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -23816,7 +23821,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17135
+      "UsersEstimate": 17136
     },
     {
       "ID": "Chapter2",
@@ -23854,9 +23859,9 @@
       "ID": "Chapter6",
       "SetID": "50chcgj",
       "Name": "Torture and Sensibility",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4896
+      "UsersEstimate": 7344
     },
     {
       "ID": "Chapter7",
@@ -24168,7 +24173,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22031
+      "UsersEstimate": 22032
     },
     {
       "ID": "DwarfElf15Support",
@@ -24216,7 +24221,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88125
+      "UsersEstimate": 88127
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24264,7 +24269,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24479
+      "UsersEstimate": 24480
     },
     {
       "ID": "FollowBraztok",
@@ -24471,21 +24476,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244792,
+      "Progressed": 244798,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244792,
+      "Progressed": 244798,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-26T03:00:57.5065586+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:10:04.3291902+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:10:03.8367241+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:43.8289587+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:10:04.3293708+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:00:04.8827527+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:10:03.8369632+00:00"
 }

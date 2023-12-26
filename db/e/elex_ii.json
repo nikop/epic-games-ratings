@@ -5,10 +5,10 @@
   "Ranking_Rating": 862,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -946,6 +946,11 @@
       "Time": "2023-12-26T13:10:36.0165921+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T16:08:14.8294588+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1084,7 +1089,7 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -1164,9 +1169,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CHOSEKLE",
@@ -1196,7 +1201,7 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -1212,15 +1217,15 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -1230,7 +1235,7 @@
       "Name": "Festival-goer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FINDCITY",
@@ -1260,9 +1265,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1348,24 +1353,24 @@
       "ID": "LOVECAJA",
       "SetID": "a1angca",
       "Name": "Lover",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:08:19.2590253+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:08:14.8294585+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:48.3348501+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:08:19.2590578+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:00:09.0952568+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:08:14.8294996+00:00"
 }

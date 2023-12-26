@@ -2,10 +2,10 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -339,6 +339,11 @@
       "Time": "2023-12-23T10:09:29.0634878+00:00",
       "NumProgressed": 128,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T16:09:41.379155+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -350,7 +355,7 @@
       "Name": "Another Brick in the Wall (Part 1)",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_ANOTHER_BRICK_2",
@@ -374,7 +379,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 92,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -382,7 +387,7 @@
       "Name": "Biding My Time",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BURNING_BRIDGES",
@@ -404,9 +409,9 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -420,9 +425,9 @@
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
@@ -469,7 +474,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 3
     }
   ],
@@ -477,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:09:42.6247543+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:09:41.3791547+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.048537+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:59:59.6965641+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:09:42.6247688+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:00:18.4672255+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:09:41.3791642+00:00"
 }

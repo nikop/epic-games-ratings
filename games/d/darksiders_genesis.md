@@ -7,7 +7,7 @@ Number of Ratings: 67  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Soul Cache | 5.00% | ~12 |
-| Mint I | 3.00% | ~7 |
+| Mint I | 4.00% | ~9 |
 | Close the Rift | 1.00% | ~2 |
 | Astarte | 0.90% | ~2 |
 | Hell's Forge | 0.90% | ~2 |

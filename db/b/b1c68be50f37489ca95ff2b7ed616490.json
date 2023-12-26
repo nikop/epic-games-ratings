@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -844,6 +844,11 @@
       "Time": "2023-12-26T12:04:07.673737+00:00",
       "NumProgressed": 192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T16:04:17.1453971+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -854,9 +859,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "10",
@@ -864,7 +869,7 @@
       "Name": "Masquerade",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "11",
@@ -968,7 +973,7 @@
       "Name": "I know kung fu",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "23",
@@ -1040,7 +1045,7 @@
       "Name": "A true detective",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "7",
@@ -1071,14 +1076,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:03:56.2042189+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:04:17.1453968+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:02:57.1958521+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:03:56.2042413+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:03:15.6213477+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:04:17.1454137+00:00"
 }

@@ -6,14 +6,14 @@ Rating: 4.83 (Ranked 60)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 68.00% | ~887 |
-| The Adventure Begins | 49.00% | ~639 |
+| The Adventure Begins | 50.00% | ~652 |
 | Swabbie | 37.00% | ~483 |
 | With Great Power… | 37.00% | ~483 |
 | This Belongs in a Museum | 33.00% | ~431 |
 | The Gambit Has Begun | 30.00% | ~392 |
+| Powder Monkey | 27.00% | ~352 |
 | Somewhere Deep in the Lost Caribbean | 26.00% | ~339 |
 | Mirror Mirror on the Wall | 26.00% | ~339 |
-| Powder Monkey | 26.00% | ~339 |
 | Pirates Assemble! | 23.00% | ~300 |
 | Buccaneer | 20.00% | ~261 |
 | Fishy Fish | 20.00% | ~261 |

@@ -2,10 +2,10 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-12-23T20:04:35.6262577+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T16:06:19.6560215+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -491,7 +496,7 @@
       "Name": "My Papyrus!",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Achievement10",
@@ -545,17 +550,17 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement17",
       "SetID": "9fa3l5n",
       "Name": "Long Live Gaipajama!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement18",
@@ -657,9 +662,9 @@
       "ID": "Achievement29",
       "SetID": "9fa3l5n",
       "Name": "Broken Brotherhood",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement3",
@@ -673,9 +678,9 @@
       "ID": "Achievement30",
       "SetID": "9fa3l5n",
       "Name": "Mountain Runner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement31",
@@ -737,7 +742,7 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -745,7 +750,7 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -786,14 +791,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:05:53.6354784+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:06:19.6560213+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:00:16.7060893+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:05:53.6355029+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:00:35.5361967+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:06:19.656047+00:00"
 }

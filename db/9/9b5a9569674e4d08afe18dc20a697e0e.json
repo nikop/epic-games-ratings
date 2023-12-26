@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-12-25T21:05:44.0495403+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T16:06:20.7222363+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -604,7 +609,7 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 100,
       "UsersEstimate": 122
     },
@@ -614,7 +619,7 @@
       "Name": "Baron",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CHAIR",
@@ -638,15 +643,15 @@
       "Name": "Dragon Cult",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "DRAGON",
@@ -662,7 +667,7 @@
       "Name": "Dressed for success",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GAMBLER",
@@ -732,9 +737,9 @@
       "ID": "LOVERS",
       "SetID": "40o4f14",
       "Name": "Lover\u0027s dream",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "MERCENARY",
@@ -766,7 +771,7 @@
       "Name": "Moist",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "MOUNTAINEER",
@@ -796,9 +801,9 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "SKILLED",
@@ -814,23 +819,23 @@
       "Name": "Sneaky",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "WITCH",
@@ -853,14 +858,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 152,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:05:54.5354056+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:06:20.7222361+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:57:01.5928962+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:02:35.1132645+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:05:54.5354247+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:02:51.9955339+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:06:20.722254+00:00"
 }

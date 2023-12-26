@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1279,9 +1279,9 @@
       "ID": "ACHIEVEMENT_ID_31",
       "SetID": "c504de6",
       "Name": "Good payer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
@@ -1438,8 +1438,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:05:43.1048526+00:00",
+  "LastChanged_Achievements": "2023-12-26T16:06:07.8877819+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-26T14:57:14.3800973+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:05:43.1048843+00:00"
+  "LastUpdate_Ratings": "2023-12-26T15:57:32.5547477+00:00",
+  "LastUpdate_Achievements": "2023-12-26T16:06:07.8878116+00:00"
 }
