@@ -6,10 +6,10 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 2.00% | ~3,293 |
-| Taste | 2.00% | ~3,293 |
-| Imprint | 2.00% | ~3,293 |
-| Ravenous | 2.00% | ~3,293 |
+| The Hunt | 2.00% | ~3,294 |
+| Taste | 2.00% | ~3,294 |
+| Imprint | 2.00% | ~3,294 |
+| Ravenous | 2.00% | ~3,294 |
 | Weeper | 1.00% | ~1,647 |
 | Devourer | 0.70% | ~1,153 |
 | Harmless | 0.60% | ~988 |
@@ -36,7 +36,7 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.20% | ~329 |
 | Unwrap the Gift | 0.20% | ~329 |
 | Passage | 0.20% | ~329 |
-| Dream | 0.20% | ~328 |
+| Dream | 0.20% | ~329 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~165 |
 | Skinmaker | 0.10% | ~165 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,665 (Ranked 81)  
+Progressed: 164,680 (Ranked 81)  
 Completed: 412 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,16 +280,16 @@ Completed: 412 (0.25%) (Ranked 264)
 | 2023-12-23 | 164,107 | 393 |
 | 2023-12-24 | 164,303 | 399 |
 | 2023-12-25 | 164,530 | 406 |
-| 2023-12-26 | 164,665 | 412 |
+| 2023-12-26 | 164,680 | 412 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 426)  
-Sum: 423 (Ranked 344)  
+Sum: 424 (Ranked 344)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 59 |
+| This game is Highly Recommended | 58 |
 | This game has Amazing Storytelling | 58 |
-| This game is Highly Recommended | 57 |
 | This game has Quickly Understood Controls | 56 |
 | This game has Challenging Combat | 53 |
 | This game is Extremely Fun | 52 |
@@ -465,4 +465,4 @@ Diff (max vs sum): 82
 | 2023-12-22 | 4.59 | - | 59 | 418 |
 | 2023-12-23 | 4.59 | - | 59 | 419 |
 | 2023-12-24 | 4.59 | - | 59 | 421 |
-| 2023-12-26 | 4.59 | - | 59 | 423 |
+| 2023-12-26 | 4.59 | - | 59 | 424 |

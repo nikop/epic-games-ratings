@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 272,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.37,
+  "EOS_Completed_Percentage": 10.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -710,6 +710,11 @@
       "Time": "2023-12-24T19:09:54.6279604+00:00",
       "NumProgressed": 270,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-26T17:10:53.1787829+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 17,
@@ -721,7 +726,7 @@
       "Name": "And away we go!",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 242
     },
     {
       "ID": "bless_the_rain",
@@ -737,7 +742,7 @@
       "Name": "Blow",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "brown_nosing",
@@ -753,7 +758,7 @@
       "Name": "Cheat",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "delusions",
@@ -769,15 +774,15 @@
       "Name": "Don\u0027t fear the baldness",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "job_one_done",
@@ -785,7 +790,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "just_like_me",
@@ -801,15 +806,15 @@
       "Name": "Making a murderer",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "sorry_kiddo",
@@ -817,23 +822,23 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 264
     },
     {
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "the_whole_truth",
       "SetID": "202dmm8",
       "Name": "The whole truth",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "toby_foolery",
@@ -841,7 +846,7 @@
       "Name": "Toby foolery",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -849,14 +854,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 272,
       "Completed": 28
     }
   ],
@@ -864,8 +869,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:43.4101704+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:10:53.1787823+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:09.2379523+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:14.3158877+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:43.4101872+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:24.5607847+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:10:53.1787987+00:00"
 }

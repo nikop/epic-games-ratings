@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "YOURE_PROBABLY_CHEATING_ACH",
@@ -164,8 +164,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:04:16.2446061+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:05:13.5244598+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:03.8890212+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:00:17.335379+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:16.2446138+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:01:57.0889297+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:13.524473+00:00"
 }

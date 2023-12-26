@@ -247,7 +247,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1144,
+  "EOS_Progressed": 1145,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
@@ -3092,6 +3092,11 @@
       "Time": "2023-12-26T12:04:09.4856944+00:00",
       "NumProgressed": 1144,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T17:05:17.3368128+00:00",
+      "NumProgressed": 1145,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3112,7 +3117,7 @@
       "Name": "Ab Initio",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "AnthropicHills",
@@ -3144,7 +3149,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "BreakTheLoop",
@@ -3160,15 +3165,15 @@
       "Name": "Bridge Builder",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 137
     },
     {
       "ID": "Chicken",
@@ -3304,7 +3309,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Mnemosyne",
@@ -3360,15 +3365,15 @@
       "Name": "Overload",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 160
     },
     {
       "ID": "PrometheusUnbound",
@@ -3382,9 +3387,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 160
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3448,7 +3453,7 @@
       "Name": "Team Spirit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TextAdventurer",
@@ -3575,7 +3580,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1144,
+      "Progressed": 1145,
       "Completed": 2
     }
   ],
@@ -3583,8 +3588,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:04:19.039438+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:05:17.3368122+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:07.9519567+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:19.0394876+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:14.5208331+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:17.3368738+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 34  (23.09.2022)
 | Sniper Wolf | 38.00% | ~274 |
 | The Motivation | 37.00% | ~267 |
 | Treasure Hunter | 36.00% | ~260 |
-| Heroism | 34.00% | ~245 |
+| Heroism | 35.00% | ~252 |
 | Collectibles of Chapter I | 33.00% | ~238 |
 | Missing in Action | 33.00% | ~238 |
 | King of Knives | 32.00% | ~231 |
@@ -24,8 +24,8 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 30.00% | ~216 |
 | The Horror | 28.00% | ~202 |
 | The Difference | 25.00% | ~180 |
+| It's Just an Accident | 25.00% | ~180 |
 | Vengeance | 24.00% | ~173 |
-| It's Just an Accident | 24.00% | ~173 |
 | Collectibles of Chapter II | 22.00% | ~159 |
 | Broken Hopes | 22.00% | ~159 |
 | Bullseye! | 21.00% | ~151 |

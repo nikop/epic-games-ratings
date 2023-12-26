@@ -3,12 +3,12 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 929,
-  "Ranking_Popularity": 408,
+  "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -423,11 +423,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-12-26T17:02:24.7755831+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
-  "NumberOfAwardsMax": 72,
+  "NumberOfAwards": 73,
+  "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -440,12 +446,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 72
+      "Count": 73
     }
   ],
-  "EOS_Progressed": 335614,
+  "EOS_Progressed": 335655,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4177,
+  "EOS_NewPlayers": 4197,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11053,6 +11059,11 @@
       "Time": "2023-12-26T16:08:41.217081+00:00",
       "NumProgressed": 335614,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T17:09:27.0402003+00:00",
+      "NumProgressed": 335655,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11065,7 +11076,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13425
+      "UsersEstimate": 13426
     },
     {
       "ID": "S02_BRDA",
@@ -11073,7 +11084,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10068
+      "UsersEstimate": 10070
     },
     {
       "ID": "S03_OTWA",
@@ -11137,7 +11148,7 @@
       "Name": "Counting on you",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "S11_MMR6",
@@ -11145,7 +11156,7 @@
       "Name": "This is the end",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "S12_ALL",
@@ -11153,7 +11164,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "S13_ALL_HARD",
@@ -11201,7 +11212,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13425
+      "UsersEstimate": 13426
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11289,7 +11300,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "S30_DIAMOND",
@@ -11369,7 +11380,7 @@
       "Name": "I took a risk",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "S40_BONUS",
@@ -11377,23 +11388,23 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 335614,
+      "Progressed": 335655,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:08:41.2170808+00:00",
+  "LastChanged": "2023-12-26T17:02:24.775583+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:09:27.0401999+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:00:35.5011835+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:08:41.2171926+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:02:24.7755839+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:27.040301+00:00"
 }

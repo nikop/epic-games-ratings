@@ -1,30 +1,30 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.10 (Ranked 991)  
+Rating: 4.10 (Ranked 990)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 56.00% | ~723 |
+| Break Out | 56.00% | ~724 |
 | Trinity | 26.00% | ~336 |
-| Find Allies | 20.00% | ~258 |
-| A Taste of Wrath | 20.00% | ~258 |
-| I Found It | 20.00% | ~258 |
-| The Collector | 20.00% | ~258 |
-| Shatter Them All | 19.00% | ~245 |
-| Geared Up | 19.00% | ~245 |
-| Scholar | 18.00% | ~232 |
-| Adventurer | 17.00% | ~219 |
-| Fashion Victim | 17.00% | ~219 |
+| Find Allies | 20.00% | ~259 |
+| A Taste of Wrath | 20.00% | ~259 |
+| I Found It | 20.00% | ~259 |
+| The Collector | 20.00% | ~259 |
+| Shatter Them All | 19.00% | ~246 |
+| Geared Up | 18.00% | ~233 |
+| Scholar | 18.00% | ~233 |
+| Adventurer | 17.00% | ~220 |
+| Fashion Victim | 17.00% | ~220 |
+| Stone Collection | 17.00% | ~220 |
 | Tributes of Caladrias | 16.00% | ~207 |
-| Stone Collection | 16.00% | ~207 |
 | Powerful Allies | 15.00% | ~194 |
 | Big Bazar | 11.00% | ~142 |
 | Alchemist | 10.00% | ~129 |
 | Essence Blow | 9.00% | ~116 |
-| The Mentor | 7.00% | ~90 |
-| Calm before the Storm | 6.00% | ~77 |
-| Miner | 6.00% | ~77 |
+| The Mentor | 7.00% | ~91 |
+| Calm before the Storm | 6.00% | ~78 |
+| Miner | 6.00% | ~78 |
 | To Battle | 5.00% | ~65 |
 | Godslayer | 5.00% | ~65 |
 | Airborne | 5.00% | ~65 |
@@ -42,7 +42,7 @@ Rating: 4.10 (Ranked 991)
 | All That Gold | 0.60% | ~8 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,291 (Ranked 267)  
+Progressed: 1,293 (Ranked 267)  
 Completed: 3 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 3 (0.23%) (Ranked 267)
 | 2023-12-23 | 1,128 | 3 |
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
-| 2023-12-26 | 1,291 | 3 |
+| 2023-12-26 | 1,293 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

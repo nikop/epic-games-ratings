@@ -2,13 +2,13 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
     "PcReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -10691,10 +10691,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 35345,
       "NumberOfAwardsMax": 5827
+    },
+    {
+      "Time": "2023-12-26T16:57:16.3834047+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 35347,
+      "NumberOfAwardsMax": 5827
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35345,
+  "NumberOfAwards": 35347,
   "NumberOfAwardsMax": 5827,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10744,7 +10750,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 4112
+      "Count": 4114
     }
   ],
   "EOS_Progressed": 0,
@@ -10758,8 +10764,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-12-26T09:00:27.8240614+00:00",
+  "LastChanged": "2023-12-26T16:57:16.3834045+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:11.5861401+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:00:24.7297056+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:09.7396338+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:57:16.383405+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:04.5089657+00:00"
 }

@@ -483,9 +483,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3632,
+  "EOS_Progressed": 3633,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -6113,6 +6113,11 @@
       "Time": "2023-12-26T16:05:39.5042624+00:00",
       "NumProgressed": 3632,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-26T17:07:07.3639762+00:00",
+      "NumProgressed": 3633,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6172,7 +6177,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6188,7 +6193,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6196,7 +6201,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_REUNION",
@@ -6204,7 +6209,7 @@
       "Name": "Reunion",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -6228,14 +6233,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3632,
+      "Progressed": 3633,
       "Completed": 140
     }
   ],
@@ -6243,8 +6248,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:39.5042611+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:07:07.3639756+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:58:49.0218658+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:39.5043115+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:59:48.3891389+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:07:07.364024+00:00"
 }

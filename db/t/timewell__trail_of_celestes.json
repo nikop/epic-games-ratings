@@ -4,8 +4,8 @@
   "ProductSlug": "timewell_trail_of_celestes-0c45ea",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-15T10:00:00+00:00",
     "PcReleaseDate": "2022-09-12T14:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.0341364+00:00",
   "LastChanged": "2023-03-31T05:58:13.0341364+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:03.4751723+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:57:33.9695298+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:08:49.7324878+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:57:53.3993068+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:39.2426961+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 394,
   "Ranking_Popularity": 194,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -8557,10 +8557,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4702,
       "NumberOfAwardsMax": 633
+    },
+    {
+      "Time": "2023-12-26T16:58:13.9588073+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4704,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4702,
+  "NumberOfAwards": 4704,
   "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8574,7 +8580,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 578
+      "Count": 580
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8636,8 +8642,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-12-26T10:57:32.2671546+00:00",
+  "LastChanged": "2023-12-26T16:58:13.9588071+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.2462688+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:57:46.7021988+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:08:59.4438011+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:58:13.9588078+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:53.3597249+00:00"
 }

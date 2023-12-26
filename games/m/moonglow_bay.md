@@ -14,10 +14,10 @@
 | Wise and Floofy | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
 | They Can Change | 0.80% | ~3 |
+| The Heart of Moonglow | 0.80% | ~3 |
 | Aquatic Expansion | 0.80% | ~3 |
 | Four-Legged Friends | 0.80% | ~3 |
 | Worth Your While | 0.80% | ~3 |
-| The Heart of Moonglow | 0.50% | ~2 |
 | From Beyond | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
 | Restored to Prosperity | 0.30% | ~1 |

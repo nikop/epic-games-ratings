@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -2100,9 +2100,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 132
+      "UsersEstimate": 136
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2123,8 +2123,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:01.4933129+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:09:56.3244208+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.5196626+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:50.69962+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:01.4933329+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:01:18.1196406+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:56.3244409+00:00"
 }

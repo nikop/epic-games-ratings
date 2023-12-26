@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 958,
   "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 393,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -839,10 +839,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 249,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-12-26T17:04:10.435925+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 249,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -899,6 +905,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 21
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -913,8 +925,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-12-26T14:03:14.3714366+00:00",
+  "LastChanged": "2023-12-26T17:04:10.4359248+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.8170775+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:03:31.2381583+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:06:41.6386842+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:04:10.4359255+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:08:32.8174323+00:00"
 }

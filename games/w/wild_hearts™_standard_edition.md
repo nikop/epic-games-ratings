@@ -9,8 +9,8 @@
 | Commencing of Quests | 61.00% | ~555 |
 | Budding Conjuror | 59.00% | ~537 |
 | Man-Machine Master | 48.00% | ~437 |
+| Mountain Splitter | 47.00% | ~428 |
 | Charmed by the Hunt | 47.00% | ~428 |
-| Mountain Splitter | 46.00% | ~419 |
 | Subsistence Skills | 46.00% | ~419 |
 | Memory Rouser | 45.00% | ~410 |
 | Fusion Conjuror | 44.00% | ~400 |
@@ -18,7 +18,7 @@
 | Helpful Heart | 38.00% | ~346 |
 | Expert Conjuror | 38.00% | ~346 |
 | Flawless Crystal | 36.00% | ~328 |
-| Bonds of Enmity | 35.00% | ~318 |
+| Bonds of Enmity | 36.00% | ~328 |
 | Distance Devourer | 34.00% | ~309 |
 | Counter Specialist | 32.00% | ~291 |
 | Master of the Skies | 30.00% | ~273 |
@@ -33,9 +33,9 @@
 | Team Hunter | 20.00% | ~182 |
 | Karakuri Isle | 18.00% | ~164 |
 | Reincarnation Cycle Stopper | 18.00% | ~164 |
+| Human Believer | 16.00% | ~146 |
 | Left Arm Leverager | 15.00% | ~136 |
 | Style Seeker | 15.00% | ~136 |
-| Human Believer | 15.00% | ~136 |
 | Unrivaled in Arms | 15.00% | ~136 |
 | Quintessence of Form | 15.00% | ~136 |
 | Threaded Harmony | 15.00% | ~136 |

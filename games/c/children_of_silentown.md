@@ -14,11 +14,11 @@
 | Blue's drawing | 52.00% | ~121 |
 | Mysterious footprints | 48.00% | ~112 |
 | Glass shards | 45.00% | ~105 |
-| Complicated padlock | 41.00% | ~96 |
+| Complicated padlock | 42.00% | ~98 |
 | Big metal ruler | 39.00% | ~91 |
 | Windmill | 39.00% | ~91 |
 | Doll | 36.00% | ~84 |
-| Mysterious paintings | 33.00% | ~77 |
+| Mysterious paintings | 34.00% | ~79 |
 | Cat | 32.00% | ~75 |
 | Depths of the well | 27.00% | ~63 |
 | Children | 23.00% | ~54 |

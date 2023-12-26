@@ -15,7 +15,7 @@ Number of Ratings: 20  (23.09.2022)
 | Fire and Flood | 41.00% | ~154 |
 | Spooky! | 38.00% | ~143 |
 | Shennong Herbalist | 36.00% | ~135 |
-| Treasure Hunt | 35.00% | ~132 |
+| Treasure Hunt | 36.00% | ~135 |
 | Good Mama | 33.00% | ~124 |
 | O Captain My Captain | 32.00% | ~120 |
 | Plunderer | 31.00% | ~117 |

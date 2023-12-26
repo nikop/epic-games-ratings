@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 6.00% | ~1,158 |
-| Overgrown Library | 6.00% | ~1,158 |
-| Petrified Necropolis | 6.00% | ~1,158 |
-| First Real Expedition | 5.00% | ~965 |
-| Taking Action | 5.00% | ~965 |
-| No Deaths | 5.00% | ~965 |
-| Overcoming Difficulty | 4.00% | ~772 |
-| Coral Forest | 4.00% | ~772 |
-| The Marshlands | 4.00% | ~772 |
-| The Scarlet Orchard | 4.00% | ~772 |
-| Frosts | 4.00% | ~772 |
-| Land of Greed | 4.00% | ~772 |
-| Ominous Presence | 4.00% | ~772 |
-| Gathering Storm | 4.00% | ~772 |
+| Abandoned Settlement | 6.00% | ~1,159 |
+| Overgrown Library | 6.00% | ~1,159 |
+| Petrified Necropolis | 6.00% | ~1,159 |
+| First Real Expedition | 5.00% | ~966 |
+| Taking Action | 5.00% | ~966 |
+| No Deaths | 5.00% | ~966 |
+| Overcoming Difficulty | 4.00% | ~773 |
+| Coral Forest | 4.00% | ~773 |
+| The Marshlands | 4.00% | ~773 |
+| The Scarlet Orchard | 4.00% | ~773 |
+| Frosts | 4.00% | ~773 |
+| Land of Greed | 4.00% | ~773 |
+| Ominous Presence | 4.00% | ~773 |
+| Gathering Storm | 4.00% | ~773 |
 | Royal Outpost | 3.00% | ~579 |
 | Homesick | 2.00% | ~386 |
 | Ruined Armory | 2.00% | ~386 |
@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 2.00% | ~386 |
 | Monastery of the Holy Flame | 2.00% | ~386 |
 | Lost Colonies | 2.00% | ~386 |
+| Corrosive Torrent | 2.00% | ~386 |
 | Watchtower | 2.00% | ~386 |
 | A Real Challenge | 2.00% | ~386 |
 | Trade Baron | 2.00% | ~386 |
@@ -39,13 +40,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 1.00% | ~193 |
 | Flooded Mines | 1.00% | ~193 |
 | Statue of the Forefathers | 1.00% | ~193 |
-| Corrosive Torrent | 1.00% | ~193 |
 | Cursed Lands | 1.00% | ~193 |
 | Victory Through Prosperity | 0.90% | ~174 |
 | Defying the Crown | 0.90% | ~174 |
 | Into the Forest | 0.90% | ~174 |
-| Serving Ale | 0.80% | ~154 |
-| Fishmen Ritual Site | 0.80% | ~154 |
+| Serving Ale | 0.80% | ~155 |
+| Fishmen Ritual Site | 0.80% | ~155 |
 | Efficient Explorer | 0.70% | ~135 |
 | Refinery | 0.70% | ~135 |
 | Dangerous Lands | 0.70% | ~135 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,305 (Ranked 150)  
+Progressed: 19,315 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,16 +316,16 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,305 | 38 |
+| 2023-12-26 | 19,315 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
-Sum: 3,293 (Ranked 177)  
+Sum: 3,294 (Ranked 177)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 444 |
 | This game is Relaxing | 441 |
-| This game is Great for Beginners | 433 |
+| This game is Great for Beginners | 434 |
 | This game is Extremely Fun | 414 |
 | This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 335 |
@@ -601,4 +601,4 @@ Diff (max vs sum): 51
 | 2023-12-23 | 4.82 | - | 443 | 3,284 |
 | 2023-12-24 | 4.82 | - | 443 | 3,288 |
 | 2023-12-25 | 4.82 | - | 444 | 3,291 |
-| 2023-12-26 | 4.82 | - | 444 | 3,293 |
+| 2023-12-26 | 4.82 | - | 444 | 3,294 |

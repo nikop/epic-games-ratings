@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1781,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2933,6 +2933,11 @@
       "Time": "2023-12-26T16:04:44.9190208+00:00",
       "NumProgressed": 1781,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T17:05:52.1830838+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2944,7 +2949,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "10",
@@ -2968,7 +2973,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "13",
@@ -3008,7 +3013,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "18",
@@ -3152,7 +3157,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "7",
@@ -3160,7 +3165,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "8",
@@ -3168,7 +3173,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "9",
@@ -3183,15 +3188,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1781,
+      "Progressed": 1782,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:04:44.9190204+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:05:52.1830833+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:58:58.6015252+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:44.9190482+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:00.4826641+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:52.1831164+00:00"
 }

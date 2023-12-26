@@ -1,41 +1,41 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.49 (Ranked 623)  
+Rating: 4.49 (Ranked 624)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 62.00% | ~822 |
-| To Hell In A Handcart | 61.00% | ~808 |
+| To Hell In A Handcart | 61.00% | ~809 |
 | High Profile | 54.00% | ~716 |
 | Whispers In The Dark | 51.00% | ~676 |
-| Fond Memories | 49.00% | ~649 |
+| Fond Memories | 49.00% | ~650 |
 | A Method To His Madness | 47.00% | ~623 |
 | History Check | 46.00% | ~610 |
-| The New World | 45.00% | ~596 |
+| The New World | 45.00% | ~597 |
 | Gaze Into The Abyss | 43.00% | ~570 |
 | Open Sesame | 43.00% | ~570 |
 | Sticky Fingers | 43.00% | ~570 |
 | Knives Out | 43.00% | ~570 |
-| Lock, Stock, And Barrel | 42.00% | ~556 |
-| Back In The Saddle | 42.00% | ~556 |
-| Land, Ho! | 42.00% | ~556 |
-| No Man Is An Island | 41.00% | ~543 |
+| Lock, Stock, And Barrel | 42.00% | ~557 |
+| Back In The Saddle | 42.00% | ~557 |
+| Land, Ho! | 42.00% | ~557 |
+| No Man Is An Island | 41.00% | ~544 |
 | At Wits' End | 40.00% | ~530 |
 | Up In Flames | 38.00% | ~504 |
 | Fhtagn! | 38.00% | ~504 |
-| Bookworm | 37.00% | ~490 |
+| Bookworm | 37.00% | ~491 |
 | Going Once... | 35.00% | ~464 |
-| Let Me Be Frank | 33.00% | ~437 |
+| Let Me Be Frank | 33.00% | ~438 |
 | No Stone Unturned | 32.00% | ~424 |
 | Brain Food | 31.00% | ~411 |
 | Read It And Weep | 19.00% | ~252 |
-| Curiosity Killed The Cat | 18.00% | ~238 |
+| Curiosity Killed The Cat | 18.00% | ~239 |
 | Big Breakthrough | 12.00% | ~159 |
 | Reawakened | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 262)  
-Completed: 38 (2.87%) (Ranked 114)  
+Progressed: 1,326 (Ranked 262)  
+Completed: 38 (2.87%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 38 (2.87%) (Ranked 114)
 | 2023-12-23 | 1,305 | 37 |
 | 2023-12-24 | 1,315 | 38 |
 | 2023-12-25 | 1,320 | 38 |
-| 2023-12-26 | 1,325 | 38 |
+| 2023-12-26 | 1,326 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

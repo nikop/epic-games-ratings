@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2792,9 +2792,9 @@
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2936,9 +2936,9 @@
       "ID": "ACH_KILL_ENV",
       "SetID": "1j25agn",
       "Name": "It\u0027s Just an Accident",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -3024,8 +3024,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:10:09.6930086+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:11:28.1867526+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:02:51.4917882+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:10:09.6930607+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:02:45.5205829+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:11:28.186814+00:00"
 }

@@ -9,10 +9,10 @@ Rating: 3.95 (Ranked 1,035)
 | Neophyte Ninja | 3.00% | ~2,777 |
 | Downed but Not Outed | 3.00% | ~2,777 |
 | Too Old for This | 3.00% | ~2,777 |
+| Fancy Pants | 3.00% | ~2,777 |
 | Underworld Initiate | 2.00% | ~1,851 |
 | Case Closed | 2.00% | ~1,851 |
 | King of the Hill | 2.00% | ~1,851 |
-| Fancy Pants | 2.00% | ~1,851 |
 | Off the Rocks | 2.00% | ~1,851 |
 | Raider’s Ruin | 2.00% | ~1,851 |
 | Dragonslayer | 2.00% | ~1,851 |

@@ -5,11 +5,11 @@ Rating: 4.21 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,425 |
-| The touch of Chaos | 4.00% | ~13,425 |
-| A powerful aura was here | 3.00% | ~10,068 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,356 |
-| Let's raise the stakes!! | 1.00% | ~3,356 |
+| May the Torchbearer light our way | 4.00% | ~13,426 |
+| The touch of Chaos | 4.00% | ~13,426 |
+| A powerful aura was here | 3.00% | ~10,070 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,357 |
+| Let's raise the stakes!! | 1.00% | ~3,357 |
 | Rumors are true | 0.90% | ~3,021 |
 | Pride is a sin, young Knight | 0.90% | ~3,021 |
 | We'll be careful | 0.80% | ~2,685 |
@@ -20,10 +20,10 @@ Rating: 4.21 (Ranked 929)
 | Bring it on! | 0.60% | ~2,014 |
 | I feel drawn to it | 0.50% | ~1,678 |
 | Here to stay | 0.50% | ~1,678 |
-| Counting on you | 0.40% | ~1,342 |
-| This is the end | 0.40% | ~1,342 |
-| We can choose to fight | 0.40% | ~1,342 |
-| I took a risk | 0.40% | ~1,342 |
+| Counting on you | 0.40% | ~1,343 |
+| This is the end | 0.40% | ~1,343 |
+| We can choose to fight | 0.40% | ~1,343 |
+| I took a risk | 0.40% | ~1,343 |
 | Their fate is sealed | 0.30% | ~1,007 |
 | Not even from this world | 0.30% | ~1,007 |
 | Chaos be damned! | 0.20% | ~671 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 929)
 | Something... unnatural | 0.10% | ~336 |
 | We strike as one | 0.10% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335,614 (Ranked 54)  
+Progressed: 335,655 (Ranked 54)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,14 +140,14 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-23 | 333,926 | 5 |
 | 2023-12-24 | 334,583 | 5 |
 | 2023-12-25 | 335,208 | 6 |
-| 2023-12-26 | 335,614 | 7 |
+| 2023-12-26 | 335,655 | 7 |
 ## Awards
-Max (Great Boss Battles): 72  (Ranked 408)  
-Sum: 72 (Ranked 478)  
-Diff (max vs sum): -70  
+Max (Great Boss Battles): 73  (Ranked 407)  
+Sum: 73 (Ranked 478)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 72 |
+| This game has Great Boss Battles | 73 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -199,3 +199,4 @@ Diff (max vs sum): -70
 | 2023-12-17 | 4.21 | 70 | 70 |
 | 2023-12-20 | 4.21 | 71 | 71 |
 | 2023-12-23 | 4.21 | 72 | 72 |
+| 2023-12-26 | 4.21 | 73 | 73 |

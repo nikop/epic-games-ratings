@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19167,
+  "EOS_Progressed": 19168,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -14099,6 +14099,11 @@
       "Time": "2023-12-26T08:04:37.4481538+00:00",
       "NumProgressed": 19167,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-26T17:06:44.6516231+00:00",
+      "NumProgressed": 19168,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14126,7 +14131,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "0004",
@@ -14174,7 +14179,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "0010",
@@ -14326,7 +14331,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "0029",
@@ -14397,7 +14402,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19167,
+      "Progressed": 19168,
       "Completed": 4
     }
   ],
@@ -14405,8 +14410,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:23.0451428+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:06:44.6516226+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:57:18.2392095+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:23.0452545+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:57:28.68474+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:06:44.6517587+00:00"
 }

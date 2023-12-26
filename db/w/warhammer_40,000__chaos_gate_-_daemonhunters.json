@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3603,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4916,6 +4916,11 @@
       "Time": "2023-12-26T16:05:51.8662003+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T17:07:24.4937525+00:00",
+      "NumProgressed": 3603,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5053,9 +5058,9 @@
       "ID": "FrequentWarpSurges",
       "SetID": "3jha1np",
       "Name": "Unstable Immaterium",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "FullBarracks",
@@ -5333,9 +5338,9 @@
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -5421,9 +5426,9 @@
       "ID": "ExperiencedEversor",
       "SetID": "2im8phi",
       "Name": "Killing Rampage",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "ExperiencedVindicare",
@@ -5470,21 +5475,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3600,
+      "Progressed": 3603,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3603,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:51.8662+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:07:24.4937522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:03:19.4469039+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:51.8662661+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:03:53.2939707+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:07:24.4938308+00:00"
 }

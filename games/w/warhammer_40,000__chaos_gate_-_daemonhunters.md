@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 456)  
+Rating: 4.58 (Ranked 457)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.90% | ~32 |
 | Death Comes For All | 0.90% | ~32 |
 | Engine Kill | 0.80% | ~29 |
-| Harvest No More | 0.80% | ~29 |
 | Hands-On Research | 0.70% | ~25 |
+| Harvest No More | 0.70% | ~25 |
 | Strike Force | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
 | Exercise in Restraint | 0.50% | ~18 |
@@ -51,14 +51,14 @@ Number of Ratings: 371  (23.09.2022)
 | Suffer Not the Mutant | 0.40% | ~14 |
 | Blood and Iron | 0.30% | ~11 |
 | Clean Slate | 0.30% | ~11 |
-| Unstable Immaterium | 0.30% | ~11 |
 | Warp Flickers | 0.30% | ~11 |
 | Abomination | 0.30% | ~11 |
-| Killing Rampage | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
+| Unstable Immaterium | 0.20% | ~7 |
 | Opportunist | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
+| Killing Rampage | 0.20% | ~7 |
 | Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~4 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600 (Ranked 215)  
+Progressed: 3,603 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 3,552 | 0 |
 | 2023-12-24 | 3,576 | 0 |
 | 2023-12-25 | 3,593 | 0 |
-| 2023-12-26 | 3,600 | 0 |
+| 2023-12-26 | 3,603 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 279)  
 Sum: 492 (Ranked 335)  

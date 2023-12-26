@@ -17,10 +17,10 @@
 | Your own amateur gym | 69.00% | ~327 |
 | First defeat | 68.00% | ~322 |
 | Run K, run! | 68.00% | ~322 |
+| Hello, world! | 67.00% | ~318 |
 | No bullying more | 66.00% | ~313 |
-| Hello, world! | 66.00% | ~313 |
-| Fighting is cool | 64.00% | ~303 |
-| Pal of your father? | 63.00% | ~299 |
+| Fighting is cool | 65.00% | ~308 |
+| Pal of your father? | 64.00% | ~303 |
 | Spirit of the past | 61.00% | ~289 |
 | Employee of the month | 59.00% | ~280 |
 | Law student | 58.00% | ~275 |
@@ -45,8 +45,8 @@
 | Responsible approach | 38.00% | ~180 |
 | Underground dwellers | 37.00% | ~175 |
 | Deal with life | 36.00% | ~171 |
+| GYM professional | 36.00% | ~171 |
 | Mom got better | 35.00% | ~166 |
-| GYM professional | 35.00% | ~166 |
 | The die is cast | 35.00% | ~166 |
 | Poisoned fighter | 34.00% | ~161 |
 | Get out of my apartment! | 34.00% | ~161 |

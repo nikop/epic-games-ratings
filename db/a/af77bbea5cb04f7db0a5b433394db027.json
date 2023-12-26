@@ -4,8 +4,8 @@
   "ProductSlug": "depthris-42ac0e",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-09-20T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T04:57:02.7182025+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:13.8189389+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:46.4124606+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:23.6648117+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:54.2187402+00:00"
 }

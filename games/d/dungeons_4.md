@@ -23,8 +23,8 @@
 | Trap Master | 55.00% | ~353 |
 | Hard Work | 53.00% | ~340 |
 | The Big Eaty | 53.00% | ~340 |
+| YOU SHALL NOT PASS! | 50.00% | ~320 |
 | “… like son” | 50.00% | ~320 |
-| YOU SHALL NOT PASS! | 49.00% | ~314 |
 | The Cathedral of Light | 47.00% | ~301 |
 | Shame! Shame! Shame! | 46.00% | ~295 |
 | Pure Dynamite! | 45.00% | ~288 |
@@ -48,7 +48,7 @@
 | Raiders of the Lost Stone | 25.00% | ~160 |
 | The Rune Sockets of Finitude (Part 1) | 25.00% | ~160 |
 | Bonus Evilness | 24.00% | ~154 |
-| The Rune Sockets of Finitude (Part 2) | 22.00% | ~141 |
+| The Rune Sockets of Finitude (Part 2) | 23.00% | ~147 |
 | The Last Stand - This Time For Real! | 21.00% | ~135 |
 | Rubble and Ashes | 20.00% | ~128 |
 | My Little Torture Chamber | 18.00% | ~115 |

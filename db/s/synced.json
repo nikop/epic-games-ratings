@@ -1491,9 +1491,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 76148,
+  "EOS_Progressed": 76239,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 4906,
+  "EOS_NewPlayers": 4978,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -14176,6 +14176,11 @@
       "Time": "2023-12-26T15:08:16.9455335+00:00",
       "NumProgressed": 76148,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-26T17:04:11.7743255+00:00",
+      "NumProgressed": 76239,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -14188,7 +14193,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 30459
+      "UsersEstimate": 30496
     },
     {
       "ID": "10",
@@ -14196,7 +14201,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "11",
@@ -14204,7 +14209,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2287
     },
     {
       "ID": "12",
@@ -14212,7 +14217,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2287
     },
     {
       "ID": "13",
@@ -14228,7 +14233,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 5330
+      "UsersEstimate": 5337
     },
     {
       "ID": "15",
@@ -14236,7 +14241,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "16",
@@ -14252,7 +14257,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14485
     },
     {
       "ID": "3",
@@ -14260,7 +14265,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 9899
+      "UsersEstimate": 9911
     },
     {
       "ID": "4",
@@ -14268,7 +14273,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7624
     },
     {
       "ID": "5",
@@ -14276,7 +14281,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 6092
+      "UsersEstimate": 6099
     },
     {
       "ID": "6",
@@ -14284,7 +14289,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4569
+      "UsersEstimate": 4574
     },
     {
       "ID": "7",
@@ -14292,7 +14297,7 @@
       "Name": "More Power to You",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 9138
+      "UsersEstimate": 9149
     },
     {
       "ID": "8",
@@ -14300,7 +14305,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "9",
@@ -14308,14 +14313,14 @@
       "Name": "Past Master",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 76148,
+      "Progressed": 76239,
       "Completed": 60
     }
   ],
@@ -14323,8 +14328,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-26T07:57:46.522314+00:00",
-  "LastChanged_Achievements": "2023-12-26T15:08:16.9455331+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:04:11.7743244+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.3926797+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:58:07.6698147+00:00",
-  "LastUpdate_Achievements": "2023-12-26T15:08:16.9456182+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:58:45.4414618+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:04:11.7761068+00:00"
 }

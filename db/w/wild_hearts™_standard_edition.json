@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 910,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -3151,9 +3151,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_20",
@@ -3239,9 +3239,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_30",
@@ -3271,9 +3271,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_34",
@@ -3453,8 +3453,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:19.3987842+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:10:19.8743064+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:00:08.3122124+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:19.3988361+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:01:43.4766644+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:10:19.8743572+00:00"
 }

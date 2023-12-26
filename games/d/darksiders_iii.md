@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 623)  
+Rating: 4.49 (Ranked 624)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,19 +16,19 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 49.00% | ~99 |
 | All That Glitters | 48.00% | ~97 |
 | Enhance! | 45.00% | ~91 |
-| One Of the Chosen | 43.00% | ~87 |
-| Devil's in the Details | 39.00% | ~79 |
+| One Of the Chosen | 44.00% | ~89 |
+| Devil's in the Details | 40.00% | ~81 |
 | Throne Potato | 39.00% | ~79 |
 | Five's a Crowd | 37.00% | ~75 |
 | 25 to Life | 37.00% | ~75 |
-| Soul Harvester | 35.00% | ~71 |
-| Unshakable Fortitude | 34.00% | ~69 |
-| Salvation | 33.00% | ~67 |
+| Soul Harvester | 36.00% | ~73 |
+| Unshakable Fortitude | 35.00% | ~71 |
+| Salvation | 34.00% | ~69 |
 | Delusions of Grandeur | 32.00% | ~65 |
 | I Wanna Rock | 31.00% | ~63 |
 | Love Tap | 30.00% | ~61 |
+| Maximum Vigor | 29.00% | ~59 |
 | Freeze Frame | 29.00% | ~59 |
-| Maximum Vigor | 28.00% | ~57 |
 | Eat Your Heart Out | 28.00% | ~57 |
 | For Whom the Bell Tolls | 27.00% | ~55 |
 | Unyielding Strength | 24.00% | ~49 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 413)  
-Completed: 1 (0.49%) (Ranked 220)  
+Completed: 1 (0.49%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

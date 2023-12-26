@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 82.00% | ~45 |
-| Grand Re-Opening | 67.00% | ~37 |
-| Pup Pup Boogie | 64.00% | ~35 |
-| Summer Day | 60.00% | ~33 |
+| Grand Re-Opening | 69.00% | ~38 |
+| Pup Pup Boogie | 65.00% | ~36 |
+| Summer Day | 62.00% | ~34 |
 | Mr. Porter | 53.00% | ~29 |
-| Risky Rescue | 49.00% | ~27 |
+| Risky Rescue | 51.00% | ~28 |
 | Carlos Is Tangled | 47.00% | ~26 |
-| Clear the Road | 40.00% | ~22 |
+| Clear the Road | 42.00% | ~23 |
 | Mandy Family | 40.00% | ~22 |
 | Paw patrol member | 36.00% | ~20 |
 | Robot Out of Control | 36.00% | ~20 |
@@ -23,7 +23,7 @@
 | Animal Sighting | 25.00% | ~14 |
 | The Fastest | 24.00% | ~13 |
 | Don’t Miss Any | 22.00% | ~12 |
-| Adventure Bay’s Citizen | 20.00% | ~11 |
+| Adventure Bay’s Citizen | 22.00% | ~12 |
 | You Have Been Everywhere | 18.00% | ~10 |
 | Mountain and Ice | 16.00% | ~9 |
 | Everything Under Control | 15.00% | ~8 |

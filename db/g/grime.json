@@ -1673,10 +1673,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 423,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-12-26T16:59:54.1683058+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 424,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 423,
+  "NumberOfAwards": 424,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1690,7 +1696,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1735,9 +1741,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164665,
+  "EOS_Progressed": 164680,
   "EOS_Completed": 412,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1344,
   "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20690,6 +20696,11 @@
       "Time": "2023-12-26T16:05:19.2683229+00:00",
       "NumProgressed": 164665,
       "NumCompleted": 412
+    },
+    {
+      "Time": "2023-12-26T17:06:39.6988799+00:00",
+      "NumProgressed": 164680,
+      "NumCompleted": 412
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20750,7 +20761,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -20766,7 +20777,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -20918,7 +20929,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -20974,7 +20985,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -20998,7 +21009,7 @@
       "Name": "Dream",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "QUEST_CODA",
@@ -21069,21 +21080,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164248,
+      "Progressed": 164263,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164665,
+      "Progressed": 164680,
       "Completed": 412
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-12-26T02:59:16.7945534+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:19.2683227+00:00",
+  "LastChanged": "2023-12-26T16:59:54.1683056+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:06:39.6988794+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:58:52.8353697+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:19.2684777+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:59:54.1683061+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:06:39.6990386+00:00"
 }

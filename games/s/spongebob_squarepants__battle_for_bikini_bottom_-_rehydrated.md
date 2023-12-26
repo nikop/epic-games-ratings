@@ -6,11 +6,11 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 15.00% | ~60 |
-| Jellyfish Jam | 14.00% | ~56 |
-| Sponge Smasher | 14.00% | ~56 |
-| Jellyfishing | 9.00% | ~36 |
-| Time For Tutorial | 9.00% | ~36 |
+| Spatula Seeker | 15.00% | ~61 |
+| Jellyfish Jam | 14.00% | ~57 |
+| Sponge Smasher | 14.00% | ~57 |
+| Jellyfishing | 9.00% | ~37 |
+| Time For Tutorial | 9.00% | ~37 |
 | Sweet Victory | 8.00% | ~32 |
 | Sock Getter | 8.00% | ~32 |
 | Surf's Up! | 7.00% | ~28 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.50% | ~2 |
 | Super Ultra Mega Spatula Seeker | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403 (Ranked 351)  
-Completed: 2 (0.50%) (Ranked 217)  
+Progressed: 406 (Ranked 351)  
+Completed: 2 (0.49%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,11 +52,11 @@ Completed: 2 (0.50%) (Ranked 217)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
-| 2023-12-26 | 403 | 2 |
+| 2023-12-26 | 406 | 2 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 494)  
-Sum: 35 (Ranked 521)  
-Diff (max vs sum): -27  
+Sum: 35 (Ranked 522)  
+Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

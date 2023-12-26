@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -1878,6 +1878,11 @@
       "Time": "2023-12-26T16:05:14.5172322+00:00",
       "NumProgressed": 657,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T17:06:32.9181782+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1913,7 +1918,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Chapter10",
@@ -1929,15 +1934,15 @@
       "Name": "The Maggot",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 145
     },
     {
       "ID": "Chapter4",
@@ -1993,7 +1998,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Collectibles2",
@@ -2041,7 +2046,7 @@
       "Name": "Like Flying...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "GollumChoices",
@@ -2111,9 +2116,9 @@
       "ID": "SIlly",
       "SetID": "70l3651",
       "Name": "So Silly!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "Scout",
@@ -2176,14 +2181,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:14.517232+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:06:32.9181776+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.3285704+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:04.8591797+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:14.5172577+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:09.660093+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:06:32.9182127+00:00"
 }

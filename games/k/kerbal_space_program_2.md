@@ -4,8 +4,8 @@
 Rating: 4.17 (Ranked 958)  
 ## Awards
 Max (Educational): 35  (Ranked 494)  
-Sum: 249 (Ranked 393)  
-Diff (max vs sum): 101  
+Sum: 270 (Ranked 386)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 35 |
@@ -17,6 +17,7 @@ Diff (max vs sum): 101
 | This game is Highly Recommended | 25 |
 | This game has Realistic Visuals | 23 |
 | This game has Amazing Storytelling | 21 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -132,4 +133,4 @@ Diff (max vs sum): 101
 | 2023-12-23 | 4.14 | 34 | 245 |
 | 2023-12-24 | 4.15 | 34 | 245 |
 | 2023-12-25 | 4.17 | 35 | 248 |
-| 2023-12-26 | 4.17 | 35 | 249 |
+| 2023-12-26 | 4.17 | 35 | 270 |

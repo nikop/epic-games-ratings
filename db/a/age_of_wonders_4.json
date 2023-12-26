@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -603,9 +603,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6251,
+  "EOS_Progressed": 6255,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9258,6 +9258,11 @@
       "Time": "2023-12-26T16:04:11.7237189+00:00",
       "NumProgressed": 6251,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T17:05:07.5256911+00:00",
+      "NumProgressed": 6255,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9397,7 +9402,7 @@
       "Name": "Secret Technique",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "25",
@@ -9475,9 +9480,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 313
     },
     {
       "ID": "34",
@@ -9748,13 +9753,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6251,
+      "Progressed": 6255,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6251,
+      "Progressed": 6255,
       "Completed": 7
     }
   ],
@@ -9762,8 +9767,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T10:01:09.8924336+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:04:11.7237186+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:05:07.5256905+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:57.7767672+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:11.7238012+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:01:28.3488147+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:07.5257939+00:00"
 }

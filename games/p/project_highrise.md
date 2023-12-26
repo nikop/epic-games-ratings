@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~251 |
+| In the Black | 57.00% | ~252 |
 | Starting Skyward | 51.00% | ~225 |
-| Grime is Not Good | 45.00% | ~198 |
+| Grime is Not Good | 45.00% | ~199 |
 | Floor Galore | 39.00% | ~172 |
-| Campaign Launch | 39.00% | ~172 |
 | Dinner Dash | 39.00% | ~172 |
+| Campaign Launch | 38.00% | ~168 |
 | Need a Consult | 36.00% | ~159 |
-| Upgrade Unlock | 35.00% | ~154 |
-| It's Technical | 35.00% | ~154 |
+| Upgrade Unlock | 35.00% | ~155 |
+| It's Technical | 35.00% | ~155 |
 | Delegate Maintenance | 31.00% | ~137 |
-| Proper Walls | 30.00% | ~132 |
-| Destination Destiny | 30.00% | ~132 |
+| Proper Walls | 30.00% | ~133 |
+| Destination Destiny | 30.00% | ~133 |
 | Happy Tenants | 25.00% | ~110 |
 | Your Prestige is Rising | 24.00% | ~106 |
 | Potent Potables | 24.00% | ~106 |
 | Smooth Service | 24.00% | ~106 |
-| Retail Revenue | 23.00% | ~101 |
+| Retail Revenue | 23.00% | ~102 |
 | Don't Feel a Loan | 22.00% | ~97 |
 | Artfully Done | 20.00% | ~88 |
 | People Mover | 20.00% | ~88 |
-| Leveled Up Shops | 20.00% | ~88 |
 | Lux Living | 19.00% | ~84 |
 | Emporium Empire | 19.00% | ~84 |
+| Leveled Up Shops | 19.00% | ~84 |
 | We Don't Need No Education | 19.00% | ~84 |
 | Get Electrified | 19.00% | ~84 |
-| Tasty Profits | 18.00% | ~79 |
+| Tasty Profits | 18.00% | ~80 |
 | Rehab Expert | 17.00% | ~75 |
 | Established Fame | 17.00% | ~75 |
 | Under One Roof | 15.00% | ~66 |
@@ -49,11 +49,11 @@
 | First 100 Days | 7.00% | ~31 |
 | Water Features | 7.00% | ~31 |
 | Golden Opportunity | 7.00% | ~31 |
-| Careful Constructor | 6.00% | ~26 |
-| Meet Me at HQ | 6.00% | ~26 |
-| Maximum Reuse | 6.00% | ~26 |
-| Revenue Royalty | 6.00% | ~26 |
-| Pipe Up | 6.00% | ~26 |
+| Careful Constructor | 6.00% | ~27 |
+| Meet Me at HQ | 6.00% | ~27 |
+| Maximum Reuse | 6.00% | ~27 |
+| Revenue Royalty | 6.00% | ~27 |
+| Pipe Up | 6.00% | ~27 |
 | Penthouse in the Sky | 5.00% | ~22 |
 | Baron of Business | 5.00% | ~22 |
 | I'm Busy Ruling | 5.00% | ~22 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441 (Ranked 346)  
+Progressed: 442 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 427 | 0 |
 | 2023-12-24 | 434 | 0 |
 | 2023-12-25 | 440 | 0 |
-| 2023-12-26 | 441 | 0 |
+| 2023-12-26 | 442 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

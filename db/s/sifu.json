@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8517,10 +8517,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745379,
+  "EOS_Progressed": 745412,
   "EOS_Completed": 12966,
-  "EOS_NewPlayers": 9308,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 9286,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
     {
@@ -31027,6 +31027,11 @@
       "Time": "2023-12-26T16:09:02.3024392+00:00",
       "NumProgressed": 745379,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-26T17:09:57.3418893+00:00",
+      "NumProgressed": 745412,
+      "NumCompleted": 12966
     }
   ],
   "TotalAchievements": 60,
@@ -31038,7 +31043,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29815
+      "UsersEstimate": 29816
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31046,7 +31051,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22361
+      "UsersEstimate": 22362
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31126,7 +31131,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6708
+      "UsersEstimate": 6709
     },
     {
       "ID": "13_LowAge",
@@ -31214,7 +31219,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22361
+      "UsersEstimate": 22362
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31302,7 +31307,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22361
+      "UsersEstimate": 22362
     },
     {
       "ID": "35_WideStrike",
@@ -31310,7 +31315,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6708
+      "UsersEstimate": 6709
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -31390,7 +31395,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31517,21 +31522,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54680,
+      "Progressed": 54713,
       "Completed": 10785
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745379,
+      "Progressed": 745412,
       "Completed": 12966
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:02.302439+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:09:57.3418889+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:03:10.4821103+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:02.3025881+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:03:42.4943701+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:57.3420558+00:00"
 }

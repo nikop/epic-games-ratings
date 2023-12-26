@@ -5,11 +5,11 @@ Rating: 3.58 (Ranked 1,068)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 14.00% | ~291 |
+| I Like My Stakes Rare! | 14.00% | ~292 |
 | Catch and Release | 10.00% | ~208 |
-| Home Is Where the Heart Is | 9.00% | ~187 |
-| ICU | 9.00% | ~187 |
-| Wounded Whispers | 9.00% | ~187 |
+| Home Is Where the Heart Is | 9.00% | ~188 |
+| ICU | 9.00% | ~188 |
+| Wounded Whispers | 9.00% | ~188 |
 | Blood Will Have Blood | 7.00% | ~146 |
 | Ne Plus Ultra | 7.00% | ~146 |
 | Fly Fisher | 7.00% | ~146 |
@@ -22,8 +22,8 @@ Rating: 3.58 (Ranked 1,068)
 | Bad Wiring | 4.00% | ~83 |
 | Grounded | 4.00% | ~83 |
 | Skin of Their Teeth | 4.00% | ~83 |
-| Neighborhood Revitalization | 3.00% | ~62 |
-| Radio Silence | 3.00% | ~62 |
+| Neighborhood Revitalization | 3.00% | ~63 |
+| Radio Silence | 3.00% | ~63 |
 | Sic Transit Umbra | 2.00% | ~42 |
 | Bell-ringer | 2.00% | ~42 |
 | Good Morning | 2.00% | ~42 |
@@ -41,7 +41,7 @@ Rating: 3.58 (Ranked 1,068)
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 1.00% | ~21 |
-| Empty Nest Syndrome | 0.60% | ~12 |
+| Empty Nest Syndrome | 0.60% | ~13 |
 | What Lies Below | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Right This Way | 0.50% | ~10 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,068)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,081 (Ranked 237)  
+Progressed: 2,084 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
-| 2023-12-26 | 2,081 | 0 |
+| 2023-12-26 | 2,084 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

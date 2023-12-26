@@ -7,30 +7,30 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 67.00% | ~115 |
-| Kaijuiced | 65.00% | ~111 |
-| Lie Back and Think of Albion | 60.00% | ~103 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~97 |
-| Yettisoned | 55.00% | ~94 |
+| Kaijuiced | 65.00% | ~112 |
+| Lie Back and Think of Albion | 59.00% | ~101 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~98 |
+| Yettisoned | 55.00% | ~95 |
 | I Look Up As I Walk to Takoshima | 52.00% | ~89 |
-| Perfect Probulator | 51.00% | ~87 |
+| Perfect Probulator | 51.00% | ~88 |
 | Lobster Blisque | 49.00% | ~84 |
-| Pimp My Raid | 46.00% | ~79 |
-| Earthly Pleasures | 44.00% | ~75 |
+| Pimp My Raid | 45.00% | ~77 |
+| Earthly Pleasures | 44.00% | ~76 |
 | Fly Me to the Moon Base | 42.00% | ~72 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~72 |
-| Freshly Squeezed | 33.00% | ~56 |
+| Freshly Squeezed | 33.00% | ~57 |
 | Bodied Sattva | 32.00% | ~55 |
 | Upgreatest | 31.00% | ~53 |
 | Forbidden Donut | 29.00% | ~50 |
-| Furon Fashion | 25.00% | ~43 |
+| Furon Fashion | 24.00% | ~41 |
 | Trans-Siberian Express | 24.00% | ~41 |
-| Deincarnated | 23.00% | ~39 |
-| Rock of the Bay | 23.00% | ~39 |
+| Deincarnated | 23.00% | ~40 |
+| Rock of the Bay | 23.00% | ~40 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~34 |
-| Arkvoodle Doodle | 16.00% | ~27 |
+| Arkvoodle Doodle | 16.00% | ~28 |
 | Ouch of Body Experience | 15.00% | ~26 |
+| Die Nasty | 14.00% | ~24 |
 | If You Know What I Mean | 13.00% | ~22 |
-| Die Nasty | 13.00% | ~22 |
 | Hidden Human Hive Harvest | 13.00% | ~22 |
 | Mash Machine | 13.00% | ~22 |
 | Dusted | 13.00% | ~22 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 1.00% | ~2 |
 | Steezy Down the Spine | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 429)  
+Progressed: 172 (Ranked 428)  
 Completed: 1 (0.58%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,11 +60,11 @@ Completed: 1 (0.58%) (Ranked 204)
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 141 | 1 |
 | 2023-12-25 | 161 | 1 |
-| 2023-12-26 | 171 | 1 |
+| 2023-12-26 | 172 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 499)  
-Sum: 34 (Ranked 523)  
-Diff (max vs sum): -24  
+Sum: 34 (Ranked 524)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

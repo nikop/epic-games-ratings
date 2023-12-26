@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10176,9 +10176,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 129994,
+  "EOS_Progressed": 130011,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1455,
+  "EOS_NewPlayers": 1461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36916,6 +36916,11 @@
       "Time": "2023-12-26T16:09:29.3356141+00:00",
       "NumProgressed": 129994,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T17:10:33.8458486+00:00",
+      "NumProgressed": 130011,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37055,7 +37060,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37279,7 +37284,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "hero_story_complete_all",
@@ -37463,7 +37468,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 488
     },
     {
       "ID": "combat_kill_collector",
@@ -37471,7 +37476,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37527,7 +37532,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 342
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37551,28 +37556,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129994,
+      "Progressed": 130011,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4863,
+      "Progressed": 4880,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-26T07:58:34.6714656+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:29.3356139+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:10:33.8458481+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:00.8703753+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:29.3358023+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:03.9915382+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:10:33.8460835+00:00"
 }

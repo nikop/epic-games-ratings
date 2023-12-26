@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2848,6 +2848,11 @@
       "Time": "2023-12-26T16:08:56.6184292+00:00",
       "NumProgressed": 759,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T17:09:49.2208202+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2884,7 +2889,7 @@
       "Name": "Dressed For Success",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AttackCount",
@@ -3004,7 +3009,7 @@
       "Name": "Double Kill",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3188,7 +3193,7 @@
       "Name": "Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WielderLevel2",
@@ -3291,15 +3296,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 761,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:08:56.6184286+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:09:49.2208198+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:57:34.8809761+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:08:56.6184691+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:57:54.7744567+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:49.2208944+00:00"
 }

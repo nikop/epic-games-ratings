@@ -3537,10 +3537,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3293,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-12-26T16:59:55.8893508+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3294,
+      "NumberOfAwardsMax": 444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3293,
+  "NumberOfAwards": 3294,
   "NumberOfAwardsMax": 444,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3578,7 +3584,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 433
+      "Count": 434
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3605,9 +3611,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19305,
+  "EOS_Progressed": 19315,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17210,6 +17216,11 @@
       "Time": "2023-12-26T16:05:03.0031112+00:00",
       "NumProgressed": 19305,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T17:06:16.6964281+00:00",
+      "NumProgressed": 19315,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17222,7 +17233,7 @@
       "Name": "Serving Ale",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "AllFood",
@@ -17310,7 +17321,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "WinHard",
@@ -17318,7 +17329,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinImpossible",
@@ -17390,7 +17401,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "WinNearForbidden",
@@ -17468,9 +17479,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 386
     },
     {
       "ID": "WinNearWatchtower",
@@ -17486,7 +17497,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinOnCursed",
@@ -17502,7 +17513,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinOnMoorlands",
@@ -17510,7 +17521,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinPrestige10",
@@ -17558,7 +17569,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "WinWithResolve",
@@ -17598,7 +17609,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "WinWithoutOrders",
@@ -17622,7 +17633,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "WinNearFrosts",
@@ -17630,7 +17641,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinNearGreed",
@@ -17638,7 +17649,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinNearLibrary",
@@ -17646,7 +17657,7 @@
       "Name": "Overgrown Library",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "WinNearPetrified",
@@ -17654,7 +17665,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "WinNearPresence",
@@ -17662,7 +17673,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinNearStorms",
@@ -17670,7 +17681,7 @@
       "Name": "Gathering Storm",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17693,15 +17704,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19305,
+      "Progressed": 19315,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-26T11:58:47.0345641+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:03.0031109+00:00",
+  "LastChanged": "2023-12-26T16:59:55.8893505+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:06:16.6964275+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:58:55.1194037+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:03.0032352+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:59:55.8893514+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:06:16.6965501+00:00"
 }

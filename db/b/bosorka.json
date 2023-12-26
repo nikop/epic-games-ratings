@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 523,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-12-19T12:07:37.6769539+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T17:07:53.5787775+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -425,7 +430,7 @@
       "Name": "It doesn\u0027t work like that",
       "Percentage": 23,
       "XP": 55,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
@@ -471,17 +476,17 @@
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
       "SetID": "9433p49",
       "Name": "Gold Digger",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 55,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -513,7 +518,7 @@
       "Name": "A small victory",
       "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "RUNE_STORM",
@@ -521,7 +526,7 @@
       "Name": "Path of purity",
       "Percentage": 83,
       "XP": 55,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -536,7 +541,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
@@ -544,8 +549,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:06:13.3211988+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:07:53.578777+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:11.6971048+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:19.3061315+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:06:13.3212161+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:32.5951638+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:07:53.5787886+00:00"
 }

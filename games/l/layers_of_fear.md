@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 82.00% | ~171 |
-| A piece of the story | 59.00% | ~123 |
+| A piece of the story | 60.00% | ~125 |
 | Wanderer | 56.00% | ~116 |
-| It's covered up for a reason | 50.00% | ~104 |
+| It's covered up for a reason | 51.00% | ~106 |
 | Scraps of love | 46.00% | ~96 |
-| The artist’s impression | 45.00% | ~94 |
+| The artist’s impression | 46.00% | ~96 |
 | Do what you have to | 43.00% | ~89 |
 | Sign of weakness | 38.00% | ~79 |
 | Refuse to look | 34.00% | ~71 |
 | Face your fears | 26.00% | ~54 |
 | Finished it | 25.00% | ~52 |
-| Whispers long forgotten | 13.00% | ~27 |
+| Whispers long forgotten | 14.00% | ~29 |
 | Debut | 11.00% | ~23 |
 | Playtime | 11.00% | ~23 |
 | The art of movement | 11.00% | ~23 |
@@ -35,12 +35,12 @@
 | Instinct of self-preservation | 5.00% | ~10 |
 | We Are Not Alone | 4.00% | ~8 |
 | The Perfect Storm | 4.00% | ~8 |
+| Immortalized in my heart | 3.00% | ~6 |
 | Se7en Seas | 3.00% | ~6 |
 | Something to think about | 2.00% | ~4 |
 | I remember It Like Was Yesterday | 2.00% | ~4 |
 | Body of Work | 2.00% | ~4 |
 | It was worth a try | 2.00% | ~4 |
-| Immortalized in my heart | 2.00% | ~4 |
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |

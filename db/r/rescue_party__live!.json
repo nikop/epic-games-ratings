@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -507,9 +507,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -531,9 +531,9 @@
       "ID": "ACH_LIFE_MATTERS",
       "SetID": "1p69hf1",
       "Name": "Life matters",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_LIGHT",
@@ -587,9 +587,9 @@
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
       "SetID": "1p69hf1",
       "Name": "Team assemble",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_RESCUE_WITH_CAUTION",
@@ -636,8 +636,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:08:34.6224132+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:09:18.0676246+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.703955+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:19.7080772+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:08:34.622429+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:33.2100062+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:09:18.067651+00:00"
 }

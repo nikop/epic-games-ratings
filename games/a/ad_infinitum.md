@@ -15,8 +15,8 @@
 | Path of Pain | 23.00% | ~31 |
 | Clarity | 17.00% | ~23 |
 | Mayhem | 17.00% | ~23 |
+| The shining | 16.00% | ~22 |
 | Reflections | 15.00% | ~20 |
-| The shining | 15.00% | ~20 |
 | Health | 13.00% | ~18 |
 | Art critic | 10.00% | ~14 |
 | Awaiting orders | 10.00% | ~14 |

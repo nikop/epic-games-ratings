@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1767,
+  "EOS_Progressed": 1768,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2023-12-26T16:09:52.1144255+00:00",
       "NumProgressed": 1767,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-12-26T17:11:05.0701726+00:00",
+      "NumProgressed": 1768,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 16,
@@ -3850,7 +3855,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -3874,7 +3879,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -3912,9 +3917,9 @@
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3977,7 +3982,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1767,
+      "Progressed": 1768,
       "Completed": 68
     }
   ],
@@ -3985,8 +3990,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:52.1144252+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:11:05.0701721+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:00:20.6043284+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:52.1144573+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:02:02.4751555+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:11:05.0702056+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5255,7 +5255,7 @@
   ],
   "EOS_Progressed": 92572,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29549,9 +29549,9 @@
       "ID": "ACH_0430",
       "SetID": "3kam13l",
       "Name": "Fancy Pants",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 2777
     },
     {
       "ID": "ACH_0431",
@@ -29660,8 +29660,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-26T12:00:47.4684769+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:05:26.7710993+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:06:49.3268685+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:00:41.0396374+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:05:26.771239+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:02:32.3895983+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:06:49.3270316+00:00"
 }

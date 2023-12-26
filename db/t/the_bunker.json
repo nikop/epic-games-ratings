@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -509,9 +509,9 @@
       "ID": "CHAPTER_07_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Air Filtration",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
@@ -662,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:04:58.946618+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:06:11.041822+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:47.5804082+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:00:26.9547862+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:58.9466354+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:02:11.608184+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:06:11.0418414+00:00"
 }

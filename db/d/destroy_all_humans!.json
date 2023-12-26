@@ -4,10 +4,10 @@
   "ProductSlug": "destroy-all-humans",
   "Ranking_Rating": 353,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 429,
+  "Ranking_PopularitySum": 524,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,7 +299,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
@@ -859,6 +859,11 @@
       "Time": "2023-12-26T16:04:38.4842481+00:00",
       "NumProgressed": 171,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T17:05:43.8627171+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -879,7 +884,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -895,7 +900,7 @@
       "Name": "Deincarnated",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -911,7 +916,7 @@
       "Name": "Yettisoned",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -943,7 +948,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -951,15 +956,15 @@
       "Name": "Freshly Squeezed",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -973,9 +978,9 @@
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1023,7 +1028,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1031,7 +1036,7 @@
       "Name": "Kaijuiced",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1039,15 +1044,15 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -1101,9 +1106,9 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1167,7 +1172,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1190,15 +1195,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:04:38.4842478+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:05:43.8627166+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:57:52.8968992+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:04:38.4842789+00:00"
+  "LastUpdate_Ratings": "2023-12-26T16:58:23.1712755+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:05:43.862747+00:00"
 }

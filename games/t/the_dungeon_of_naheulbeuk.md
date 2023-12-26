@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,127 |
-| Alt+F4 | 10.00% | ~24,480 |
-| Where's that freaking Dwarf? | 9.00% | ~22,032 |
-| Déjà vu | 7.00% | ~17,136 |
-| Sock! SOCK! | 6.00% | ~14,688 |
-| A beer, two curses, three companions | 5.00% | ~12,240 |
-| GG EZ | 5.00% | ~12,240 |
-| Speedrun | 5.00% | ~12,240 |
+| Sowwy! | 36.00% | ~88,132 |
+| Alt+F4 | 10.00% | ~24,481 |
+| Where's that freaking Dwarf? | 9.00% | ~22,033 |
+| Déjà vu | 7.00% | ~17,137 |
+| Sock! SOCK! | 6.00% | ~14,689 |
+| A beer, two curses, three companions | 5.00% | ~12,241 |
+| GG EZ | 5.00% | ~12,241 |
+| Speedrun | 5.00% | ~12,241 |
 | DM intervention | 4.00% | ~9,792 |
 | Fireproof Wizardess | 4.00% | ~9,792 |
 | Livin' in a dwarven paradise | 3.00% | ~7,344 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,798 (Ranked 68)  
+Progressed: 244,812 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-23 | 244,299 | 7 |
 | 2023-12-24 | 244,469 | 7 |
 | 2023-12-25 | 244,664 | 8 |
-| 2023-12-26 | 244,798 | 8 |
+| 2023-12-26 | 244,812 | 8 |
 ## Awards
 Max (Character Customization): 256  (Ranked 276)  
-Sum: 537 (Ranked 326)  
+Sum: 538 (Ranked 326)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): -50
 | This game is Highly Recommended | 33 |
 | This game has Amazing Storytelling | 33 |
 | This game has Quickly Understood Controls | 33 |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 30 |
 | This game has Amazing Characters | 28 |
 | This game is Extremely Fun | 28 |
 | This game has Playful Visuals | 21 |
@@ -525,4 +525,4 @@ Diff (max vs sum): -50
 | 2023-12-22 | 4.59 | - | 250 | 529 |
 | 2023-12-23 | 4.59 | - | 253 | 534 |
 | 2023-12-25 | 4.59 | - | 254 | 535 |
-| 2023-12-26 | 4.59 | - | 256 | 537 |
+| 2023-12-26 | 4.59 | - | 256 | 538 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2804,
+  "EOS_Progressed": 2805,
   "EOS_Completed": 257,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.17,
+  "EOS_Completed_Percentage": 9.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7996,6 +7996,11 @@
       "Time": "2023-12-26T12:09:20.5598936+00:00",
       "NumProgressed": 2804,
       "NumCompleted": 257
+    },
+    {
+      "Time": "2023-12-26T17:10:03.9376558+00:00",
+      "NumProgressed": 2805,
+      "NumCompleted": 257
     }
   ],
   "TotalAchievements": 12,
@@ -8071,7 +8076,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8095,14 +8100,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2804,
+      "Progressed": 2805,
       "Completed": 257
     }
   ],
@@ -8110,8 +8115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-26T16:09:07.2360489+00:00",
+  "LastChanged_Achievements": "2023-12-26T17:10:03.9376552+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:14.8198815+00:00",
-  "LastUpdate_Ratings": "2023-12-26T15:59:27.6674805+00:00",
-  "LastUpdate_Achievements": "2023-12-26T16:09:07.2361039+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:00:44.1952716+00:00",
+  "LastUpdate_Achievements": "2023-12-26T17:10:03.9377291+00:00"
 }
