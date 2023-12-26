@@ -14,8 +14,8 @@
 | Thalya's Concentrated Fury | 68.00% | ~436 |
 | Bad Elves Go Everywhere | 68.00% | ~436 |
 | Master of Magic | 63.00% | ~404 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~404 |
 | Heroes’ Gorge | 63.00% | ~404 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~397 |
 | Magic Accidents | 59.00% | ~378 |
 | The Ascent | 58.00% | ~372 |
 | It's Warm and Cozy at Home | 58.00% | ~372 |
@@ -45,17 +45,17 @@
 | Stop Tanos! | 26.00% | ~167 |
 | Sabotage! | 26.00% | ~167 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~167 |
+| Bonus Evilness | 25.00% | ~160 |
 | Raiders of the Lost Stone | 25.00% | ~160 |
 | The Rune Sockets of Finitude (Part 1) | 25.00% | ~160 |
-| Bonus Evilness | 24.00% | ~154 |
 | The Rune Sockets of Finitude (Part 2) | 23.00% | ~147 |
 | The Last Stand - This Time For Real! | 21.00% | ~135 |
 | Rubble and Ashes | 20.00% | ~128 |
 | My Little Torture Chamber | 18.00% | ~115 |
 | Lavalumps on Ice! | 18.00% | ~115 |
+| To the Max! | 18.00% | ~115 |
 | To Infinity And Beyond! | 18.00% | ~115 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~109 |
-| To the Max! | 17.00% | ~109 |
 | Evilification | 16.00% | ~103 |
 | Mirror, Mirror | 15.00% | ~96 |
 | Untouchable | 15.00% | ~96 |

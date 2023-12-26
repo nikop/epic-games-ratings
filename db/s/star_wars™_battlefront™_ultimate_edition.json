@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2200,
+  "EOS_Progressed": 2205,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6279,6 +6279,11 @@
       "Time": "2023-12-26T17:11:28.3228854+00:00",
       "NumProgressed": 2200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T18:10:35.5936354+00:00",
+      "NumProgressed": 2205,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6363,7 +6368,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_19",
@@ -6387,7 +6392,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_21",
@@ -6435,7 +6440,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_27",
@@ -6483,15 +6488,15 @@
       "Name": "Scrap collector",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_33",
@@ -6515,7 +6520,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1940
     },
     {
       "ID": "achievement_36",
@@ -6531,7 +6536,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1389
     },
     {
       "ID": "achievement_38",
@@ -6555,7 +6560,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_40",
@@ -6563,7 +6568,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1147
     },
     {
       "ID": "achievement_41",
@@ -6595,7 +6600,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "achievement_45",
@@ -6643,7 +6648,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_50",
@@ -6731,7 +6736,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_60",
@@ -6794,13 +6799,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2200,
+      "Progressed": 2205,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2200,
+      "Progressed": 2205,
       "Completed": 1
     }
   ],
@@ -6808,8 +6813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:11:28.3228851+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:10:35.5936351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:02:42.4453399+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:11:28.3229724+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:02:51.2505908+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:10:35.5937109+00:00"
 }

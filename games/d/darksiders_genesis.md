@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.48 (Ranked 642)  
+Rating: 4.48 (Ranked 641)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,11 +12,11 @@ Number of Ratings: 67  (23.09.2022)
 | Astarte | 0.90% | ~2 |
 | Hell's Forge | 0.90% | ~2 |
 | Mammon | 0.90% | ~2 |
+| Master of Strife | 0.90% | ~2 |
 | Master of War | 0.90% | ~2 |
 | Demolition Derby | 0.40% | ~1 |
 | Good Deeds | 0.40% | ~1 |
 | Infested | 0.40% | ~1 |
-| Master of Strife | 0.40% | ~1 |
 | Mint II | 0.40% | ~1 |
 | The Dead Court | 0.40% | ~1 |
 | Why'd It Have to Be Snakes? | 0.40% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 402)  
+Progressed: 233 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 171 | 0 |
 | 2023-12-24 | 196 | 0 |
 | 2023-12-25 | 221 | 0 |
-| 2023-12-26 | 231 | 0 |
+| 2023-12-26 | 233 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 462)  
 Sum: 45 (Ranked 507)  

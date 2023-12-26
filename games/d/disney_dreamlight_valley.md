@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 131)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~9,004 |
-| Photographer | 67.00% | ~8,871 |
-| Valley's Helper | 60.00% | ~7,945 |
-| Constructor | 50.00% | ~6,620 |
-| Renovator | 50.00% | ~6,620 |
-| Bestest Friend | 45.00% | ~5,958 |
-| Banker | 38.00% | ~5,032 |
-| Gardener | 31.00% | ~4,105 |
-| Generous | 25.00% | ~3,310 |
+| Goofy's Investor | 68.00% | ~9,006 |
+| Photographer | 67.00% | ~8,873 |
+| Valley's Helper | 60.00% | ~7,946 |
+| Constructor | 50.00% | ~6,622 |
+| Renovator | 50.00% | ~6,622 |
+| Bestest Friend | 45.00% | ~5,960 |
+| Banker | 38.00% | ~5,033 |
+| Gardener | 31.00% | ~4,106 |
+| Generous | 25.00% | ~3,311 |
 | Chef Cook | 19.00% | ~2,516 |
 | Miner | 11.00% | ~1,457 |
-| Duty Bound | 8.00% | ~1,059 |
-| Angler | 6.00% | ~794 |
-| Thorn Cleaner | 6.00% | ~794 |
+| Duty Bound | 8.00% | ~1,060 |
+| Angler | 6.00% | ~795 |
+| Thorn Cleaner | 6.00% | ~795 |
 | Chit Chatter | 3.00% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,241 (Ranked 168)  
+Progressed: 13,244 (Ranked 168)  
 Completed: 326 (2.46%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,15 +223,15 @@ Completed: 326 (2.46%) (Ranked 126)
 | 2023-12-23 | 13,034 | 325 |
 | 2023-12-24 | 13,094 | 325 |
 | 2023-12-25 | 13,181 | 325 |
-| 2023-12-26 | 13,241 | 326 |
+| 2023-12-26 | 13,244 | 326 |
 ## Awards
 Max (Great for Beginners): 1,157  (Ranked 146)  
-Sum: 8,252 (Ranked 107)  
+Sum: 8,255 (Ranked 107)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,157 |
-| This game has Diverse Characters | 959 |
+| This game has Diverse Characters | 962 |
 | This game is Highly Recommended | 859 |
 | This game has Amazing Characters | 837 |
 | This game is Relaxing | 822 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 39
 | 2023-12-23 | 4.76 | - | 1,157 | 8,239 |
 | 2023-12-24 | 4.76 | - | 1,157 | 8,244 |
 | 2023-12-25 | 4.76 | - | 1,157 | 8,248 |
-| 2023-12-26 | 4.76 | - | 1,157 | 8,252 |
+| 2023-12-26 | 4.76 | - | 1,157 | 8,255 |

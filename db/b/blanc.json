@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3730,
+  "EOS_Progressed": 3733,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6056,6 +6056,11 @@
       "Time": "2023-12-26T16:04:21.7311555+00:00",
       "NumProgressed": 3730,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T18:04:28.84941+00:00",
+      "NumProgressed": 3733,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6091,7 +6096,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MOVE_ON",
@@ -6131,7 +6136,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6155,7 +6160,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -6170,7 +6175,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3730,
+      "Progressed": 3733,
       "Completed": 6
     }
   ],
@@ -6178,8 +6183,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:05:20.8705481+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:04:28.8494095+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:00:14.910746+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:05:20.8706055+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:11.1429802+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:04:28.849452+00:00"
 }

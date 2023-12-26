@@ -8,7 +8,7 @@
 | Shelter Escape | 75.00% | ~483 |
 | The First Bond | 66.00% | ~425 |
 | Novice Scavenger | 59.00% | ~380 |
-| Master Craftsman | 47.00% | ~303 |
+| Master Craftsman | 48.00% | ~309 |
 | First wall | 46.00% | ~296 |
 | Piggyback Expert | 45.00% | ~290 |
 | Second wall | 33.00% | ~213 |
@@ -26,8 +26,8 @@
 | Flawless | 5.00% | ~32 |
 | Plushyboy | 4.00% | ~26 |
 | LOVEassistant | 3.00% | ~19 |
+| Dreamboat | 1.00% | ~6 |
 | True Player | 0.90% | ~6 |
-| Dreamboat | 0.90% | ~6 |
 | Bond Lord | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 644 (Ranked 315)  

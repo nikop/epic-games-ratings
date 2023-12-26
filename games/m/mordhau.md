@@ -5,29 +5,29 @@ Rating: 4.38 (Ranked 774)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~773,475 |
-| The ABCs | 43.00% | ~678,764 |
-| Home Run | 41.00% | ~647,193 |
-| Keeps Coming Off | 41.00% | ~647,193 |
-| Guts | 19.00% | ~299,919 |
-| Meat Grinder | 19.00% | ~299,919 |
-| Burning Man | 16.00% | ~252,563 |
-| Lived to Tell the Tale | 12.00% | ~189,422 |
-| Highlander | 10.00% | ~157,852 |
-| Unstoppable | 10.00% | ~157,852 |
-| Just a Scratch | 9.00% | ~142,067 |
-| Tough Nut to Crack | 6.00% | ~94,711 |
-| Yoink | 6.00% | ~94,711 |
-| Long List of Names | 4.00% | ~63,141 |
-| Pyromaniac | 4.00% | ~63,141 |
-| The Queen of Weapons | 4.00% | ~63,141 |
+| Justice from the Grave | 49.00% | ~773,487 |
+| The ABCs | 43.00% | ~678,774 |
+| Home Run | 41.00% | ~647,203 |
+| Keeps Coming Off | 41.00% | ~647,203 |
+| Guts | 19.00% | ~299,923 |
+| Meat Grinder | 19.00% | ~299,923 |
+| Burning Man | 16.00% | ~252,567 |
+| Lived to Tell the Tale | 12.00% | ~189,425 |
+| Highlander | 10.00% | ~157,854 |
+| Unstoppable | 10.00% | ~157,854 |
+| Just a Scratch | 9.00% | ~142,069 |
+| Tough Nut to Crack | 6.00% | ~94,713 |
+| Yoink | 6.00% | ~94,713 |
+| Long List of Names | 4.00% | ~63,142 |
+| Pyromaniac | 4.00% | ~63,142 |
+| The Queen of Weapons | 4.00% | ~63,142 |
 | This isn’t Sparta | 3.00% | ~47,356 |
-| Crybaby | 2.00% | ~31,570 |
-| Eagle Eye | 2.00% | ~31,570 |
-| I Know Kung Fu | 2.00% | ~31,570 |
-| Poacher | 2.00% | ~31,570 |
-| Put That Away | 2.00% | ~31,570 |
-| You’re Welcome | 2.00% | ~31,570 |
+| Crybaby | 2.00% | ~31,571 |
+| Eagle Eye | 2.00% | ~31,571 |
+| I Know Kung Fu | 2.00% | ~31,571 |
+| Poacher | 2.00% | ~31,571 |
+| Put That Away | 2.00% | ~31,571 |
+| You’re Welcome | 2.00% | ~31,571 |
 | Chambermaid | 1.00% | ~15,785 |
 | Coming Through | 1.00% | ~15,785 |
 | Boxer | 0.90% | ~14,207 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 774)
 | That’s No Ordinary Cold | 0.10% | ~1,579 |
 | Stairway to Hell | 0.10% | ~1,579 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,578,520 (Ranked 7)  
+Progressed: 1,578,544 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 70 (0.00%) (Ranked 389)
 | 2023-12-23 | 1,576,764 | 70 |
 | 2023-12-24 | 1,577,463 | 70 |
 | 2023-12-25 | 1,578,078 | 70 |
-| 2023-12-26 | 1,578,520 | 70 |
+| 2023-12-26 | 1,578,544 | 70 |
 ## Awards
 Max (Diverse Characters): 1,113  (Ranked 148)  
-Sum: 5,827 (Ranked 135)  
+Sum: 5,833 (Ranked 135)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -306,7 +306,7 @@ Diff (max vs sum): 13
 | This game is Highly Recommended | 901 |
 | This game is Extremely Fun | 758 |
 | This game has Amazing Characters | 753 |
-| This game has Competitive Players | 717 |
+| This game has Competitive Players | 723 |
 | This game has Amazing Storytelling | 628 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -568,4 +568,4 @@ Diff (max vs sum): 13
 | 2023-12-23 | 4.38 | 1,100 | 5,752 |
 | 2023-12-24 | 4.38 | 1,106 | 5,798 |
 | 2023-12-25 | 4.38 | 1,113 | 5,813 |
-| 2023-12-26 | 4.38 | 1,113 | 5,827 |
+| 2023-12-26 | 4.38 | 1,113 | 5,833 |

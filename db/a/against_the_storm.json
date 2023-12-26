@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 150,
@@ -3611,9 +3611,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19315,
+  "EOS_Progressed": 19319,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17221,6 +17221,11 @@
       "Time": "2023-12-26T17:06:16.6964281+00:00",
       "NumProgressed": 19315,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T18:05:18.8067941+00:00",
+      "NumProgressed": 19319,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17449,7 +17454,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "WinNearRuins",
@@ -17503,9 +17508,9 @@
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 386
     },
     {
       "ID": "WinOnMarshlands",
@@ -17655,9 +17660,9 @@
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1352
     },
     {
       "ID": "WinNearPetrified",
@@ -17679,9 +17684,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 966
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17704,15 +17709,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19315,
+      "Progressed": 19319,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-26T16:59:55.8893505+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:06:16.6964275+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:05:18.8067938+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:59:55.8893514+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:06:16.6965501+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:57.2765099+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:05:18.8068922+00:00"
 }

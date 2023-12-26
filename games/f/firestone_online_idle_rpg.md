@@ -5,18 +5,18 @@ Rating: 4.01 (Ranked 1,019)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,574 |
-| World Map | 78.00% | ~2,998 |
-| Temple of Eternals | 56.00% | ~2,152 |
-| Prestigious | 53.00% | ~2,037 |
-| Fellowship Power | 42.00% | ~1,614 |
-| Full Party | 26.00% | ~999 |
+| Victor | 93.00% | ~3,576 |
+| World Map | 78.00% | ~2,999 |
+| Temple of Eternals | 56.00% | ~2,153 |
+| Prestigious | 53.00% | ~2,038 |
+| Fellowship Power | 42.00% | ~1,615 |
+| Full Party | 26.00% | ~1,000 |
 | Guild Power | 23.00% | ~884 |
 | Prestigious x10 | 20.00% | ~769 |
 | The game is on | 18.00% | ~692 |
 | Exotic Merchant | 16.00% | ~615 |
-| Dragon Clicker | 15.00% | ~576 |
-| Miner Clicker | 15.00% | ~576 |
+| Dragon Clicker | 15.00% | ~577 |
+| Miner Clicker | 15.00% | ~577 |
 | Hero inspection | 14.00% | ~538 |
 | Inspection | 14.00% | ~538 |
 | Dragon Master | 13.00% | ~500 |
@@ -31,13 +31,13 @@ Rating: 4.01 (Ranked 1,019)
 | Doing My Part | 9.00% | ~346 |
 | Hunter | 9.00% | ~346 |
 | The power of Awakening | 9.00% | ~346 |
-| Challenger | 8.00% | ~307 |
-| Daily Quest Completionist | 8.00% | ~307 |
-| Frostfire Liberator | 8.00% | ~307 |
-| Mastery | 8.00% | ~307 |
-| Moving Up The Ladder | 8.00% | ~307 |
-| Relic Of The Past | 8.00% | ~307 |
-| Scroll Master | 8.00% | ~307 |
+| Challenger | 8.00% | ~308 |
+| Daily Quest Completionist | 8.00% | ~308 |
+| Frostfire Liberator | 8.00% | ~308 |
+| Mastery | 8.00% | ~308 |
+| Moving Up The Ladder | 8.00% | ~308 |
+| Relic Of The Past | 8.00% | ~308 |
+| Scroll Master | 8.00% | ~308 |
 | Four Leaf Clover | 7.00% | ~269 |
 | Here We Go Again | 7.00% | ~269 |
 | Master Enchanter | 7.00% | ~269 |
@@ -81,7 +81,7 @@ Rating: 4.01 (Ranked 1,019)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,843 (Ranked 209)  
+Progressed: 3,845 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-23 | 3,733 | 2 |
 | 2023-12-24 | 3,773 | 2 |
 | 2023-12-25 | 3,807 | 2 |
-| 2023-12-26 | 3,843 | 2 |
+| 2023-12-26 | 3,845 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 127 (Ranked 444)  

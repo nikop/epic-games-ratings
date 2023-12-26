@@ -28,8 +28,8 @@ Rating: 4.43 (Ranked 705)
 | Stoker | 34.00% | ~860 |
 | Full Steam ahead | 33.00% | ~835 |
 | All mine | 31.00% | ~784 |
+| Mole | 31.00% | ~784 |
 | Financial Shark | 31.00% | ~784 |
-| Mole | 30.00% | ~759 |
 | Socializer | 30.00% | ~759 |
 | General Manager | 28.00% | ~708 |
 | Country Life | 28.00% | ~708 |

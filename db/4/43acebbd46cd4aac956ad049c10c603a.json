@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3171,9 +3171,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 149
     },
     {
       "ID": "Chicken",
@@ -3588,8 +3588,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:05:17.3368122+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:04:25.8781862+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:00:14.5208331+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:05:17.3368738+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:10.8750457+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:04:25.8782488+00:00"
 }

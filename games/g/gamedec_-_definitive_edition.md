@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,178 |
-| Powergamer | 27.00% | ~69,062 |
-| Write that down | 25.00% | ~63,946 |
-| Barely scratched the surface | 25.00% | ~63,946 |
-| Guns, lots of guns | 13.00% | ~33,252 |
-| Collector | 12.00% | ~30,694 |
+| I will finish what you started | 29.00% | ~74,179 |
+| Powergamer | 27.00% | ~69,064 |
+| Write that down | 25.00% | ~63,948 |
+| Barely scratched the surface | 25.00% | ~63,948 |
+| Guns, lots of guns | 13.00% | ~33,253 |
+| Collector | 12.00% | ~30,695 |
 | Elementary! | 9.00% | ~23,021 |
 | Griever | 8.00% | ~20,463 |
 | Pumpkin Jack | 8.00% | ~20,463 |
@@ -20,10 +20,10 @@ Number of Ratings: 33  (23.09.2022)
 | Me smart | 6.00% | ~15,347 |
 | Trash compactor | 6.00% | ~15,347 |
 | Valedictorian | 6.00% | ~15,347 |
-| Good listener | 5.00% | ~12,789 |
-| BOY! | 4.00% | ~10,231 |
-| Ka-ching! | 4.00% | ~10,231 |
-| So you like to read? | 4.00% | ~10,231 |
+| Good listener | 5.00% | ~12,790 |
+| BOY! | 4.00% | ~10,232 |
+| Ka-ching! | 4.00% | ~10,232 |
+| So you like to read? | 4.00% | ~10,232 |
 | Hoarder | 3.00% | ~7,674 |
 | I like to sniff around | 3.00% | ~7,674 |
 | Mind reader | 3.00% | ~7,674 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~512 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,786 (Ranked 64)  
+Progressed: 255,791 (Ranked 64)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,11 +309,11 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-23 | 255,488 | 7 |
 | 2023-12-24 | 255,587 | 8 |
 | 2023-12-25 | 255,705 | 8 |
-| 2023-12-26 | 255,786 | 8 |
+| 2023-12-26 | 255,791 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 385)  
-Sum: 93 (Ranked 463)  
-Diff (max vs sum): -78  
+Sum: 93 (Ranked 464)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 93 |

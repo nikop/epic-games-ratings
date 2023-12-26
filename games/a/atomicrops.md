@@ -1,7 +1,7 @@
 # Atomicrops
 [Store](https://store.epicgames.com/en-US/p/atomicrops)  
 [View Rawdata](../../db/a/atomicrops.json)  
-Rating: 4.86 (Ranked 31)  
+Rating: 4.86 (Ranked 30)  
 Number of Ratings: 157  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 140  (Ranked 330)  

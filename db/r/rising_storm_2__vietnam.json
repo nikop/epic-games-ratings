@@ -2,13 +2,13 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -8656,10 +8656,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 8200,
       "NumberOfAwardsMax": 928
+    },
+    {
+      "Time": "2023-12-26T17:59:02.8838805+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 8204,
+      "NumberOfAwardsMax": 928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8200,
+  "NumberOfAwards": 8204,
   "NumberOfAwardsMax": 928,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8685,7 +8691,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 812
+      "Count": 816
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -8747,8 +8753,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-12-26T17:00:03.3798409+00:00",
+  "LastChanged": "2023-12-26T17:59:02.8838803+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.280289+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:00:03.3798415+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:09:10.1223145+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:02.8838808+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:08:45.1334725+00:00"
 }

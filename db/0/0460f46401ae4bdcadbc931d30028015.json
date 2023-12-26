@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1209,9 +1209,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6269,
+  "EOS_Progressed": 6281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1374,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8764,6 +8764,11 @@
       "Time": "2023-12-26T17:09:04.1034512+00:00",
       "NumProgressed": 6269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T18:08:40.253525+00:00",
+      "NumProgressed": 6281,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -8784,7 +8789,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2136
     },
     {
       "ID": "achievement_11",
@@ -8792,15 +8797,15 @@
       "Name": "Big Spender",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1131
     },
     {
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1633
     },
     {
       "ID": "achievement_13",
@@ -8808,7 +8813,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1821
     },
     {
       "ID": "achievement_14",
@@ -8816,7 +8821,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2136
     },
     {
       "ID": "achievement_15",
@@ -8872,7 +8877,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3580
     },
     {
       "ID": "achievement_21",
@@ -8880,7 +8885,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_3",
@@ -8888,7 +8893,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_4",
@@ -8904,7 +8909,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_6",
@@ -8912,7 +8917,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1633
     },
     {
       "ID": "achievement_7",
@@ -8928,7 +8933,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1633
     },
     {
       "ID": "achievement_9",
@@ -8936,14 +8941,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 6269,
+      "Progressed": 6281,
       "Completed": 0
     }
   ],
@@ -8951,8 +8956,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-26T17:01:28.1522867+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:09:04.1034507+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:08:40.2535246+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:12.8750926+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:01:28.1522872+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:09:04.1035228+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:00:04.5587634+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:08:40.2535682+00:00"
 }

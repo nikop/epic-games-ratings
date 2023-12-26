@@ -9085,9 +9085,9 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244921,
+  "EOS_Progressed": 244947,
   "EOS_Completed": 2566,
-  "EOS_NewPlayers": 2889,
+  "EOS_NewPlayers": 2902,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37365,6 +37365,11 @@
       "Time": "2023-12-26T17:11:33.6053872+00:00",
       "NumProgressed": 244921,
       "NumCompleted": 2566
+    },
+    {
+      "Time": "2023-12-26T18:10:40.4719244+00:00",
+      "NumProgressed": 244947,
+      "NumCompleted": 2566
     }
   ],
   "TotalAchievements": 546,
@@ -37376,7 +37381,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "objective_completed_10",
@@ -39048,7 +39053,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "objective_completed_34",
@@ -41664,7 +41669,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "objective_completed_1558",
@@ -41743,21 +41748,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211195,
+      "Progressed": 211221,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244921,
+      "Progressed": 244947,
       "Completed": 2566
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-26T10:57:56.5377084+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:11:33.6053866+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:10:40.471924+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:58:53.2172059+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:11:33.6076111+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:10.1831198+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:10:40.474328+00:00"
 }

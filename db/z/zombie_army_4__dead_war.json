@@ -6,9 +6,9 @@
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2598,9 +2598,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44229,
+  "EOS_Progressed": 44230,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10288,6 +10288,11 @@
       "Time": "2023-12-26T17:07:37.5155513+00:00",
       "NumProgressed": 44229,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-26T18:06:23.04747+00:00",
+      "NumProgressed": 44230,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10299,7 +10304,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27422
+      "UsersEstimate": 27423
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10307,7 +10312,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -10371,7 +10376,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18576
+      "UsersEstimate": 18577
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10403,7 +10408,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17249
+      "UsersEstimate": 17250
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -10419,7 +10424,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14153
+      "UsersEstimate": 14154
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -10467,7 +10472,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -10491,7 +10496,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27864
+      "UsersEstimate": 27865
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -10523,7 +10528,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14153
+      "UsersEstimate": 14154
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -10531,7 +10536,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -10547,7 +10552,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21672
+      "UsersEstimate": 21673
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10555,7 +10560,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15922
+      "UsersEstimate": 15923
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -10595,7 +10600,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18576
+      "UsersEstimate": 18577
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10627,7 +10632,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30518
+      "UsersEstimate": 30519
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10675,7 +10680,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15922
+      "UsersEstimate": 15923
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -10691,7 +10696,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19903
+      "UsersEstimate": 19904
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10699,7 +10704,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10755,7 +10760,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10819,22 +10824,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15922
+      "UsersEstimate": 15923
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44229,
+      "Progressed": 44230,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-26T13:59:28.1840143+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:07:37.515551+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:06:23.0474696+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.7383264+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:01:14.6968341+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:07:37.5156322+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:54.8123316+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:06:23.047565+00:00"
 }

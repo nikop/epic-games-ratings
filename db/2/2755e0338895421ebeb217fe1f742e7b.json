@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Nocturnal_Achivement_7_Letter",
@@ -355,9 +355,9 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
@@ -378,8 +378,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:11:15.783244+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:10:25.3428288+00:00",
   "LastUpdate_AppInfo": "2023-12-26T05:57:26.1982716+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:00:13.5835013+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:11:15.7832534+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:10.1809042+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:10:25.3428388+00:00"
 }

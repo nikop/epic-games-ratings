@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -694,9 +694,9 @@
       "ID": "digTreasure1",
       "SetID": "ci65fo0",
       "Name": "The first treasure",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "digTreasure10",
@@ -1283,8 +1283,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:10:49.1568715+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:10:02.9714993+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.1748657+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:59:10.5150749+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:10:49.1569467+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:23.0372683+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:10:02.9715673+00:00"
 }

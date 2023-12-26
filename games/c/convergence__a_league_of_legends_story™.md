@@ -6,8 +6,8 @@ Rating: 4.65 (Ranked 321)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 41.00% | ~456 |
-| Rail Rat | 31.00% | ~344 |
-| The Mysterious Stranger | 30.00% | ~333 |
+| Rail Rat | 31.00% | ~345 |
+| The Mysterious Stranger | 30.00% | ~334 |
 | Immaculate Aim | 26.00% | ~289 |
 | The Brass Boss | 25.00% | ~278 |
 | Make Up For Lost Time | 24.00% | ~267 |
@@ -19,12 +19,12 @@ Rating: 4.65 (Ranked 321)
 | The Steel Shadow | 23.00% | ~256 |
 | The Harder They Fall | 23.00% | ~256 |
 | Fast Learner | 23.00% | ~256 |
-| Breaking Down Barriers | 22.00% | ~244 |
-| The Wicked Twins | 22.00% | ~244 |
-| Right On Time | 21.00% | ~233 |
-| Like Clockwork | 21.00% | ~233 |
-| The Betrayer | 21.00% | ~233 |
-| Golem Chaser | 21.00% | ~233 |
+| Breaking Down Barriers | 22.00% | ~245 |
+| The Wicked Twins | 22.00% | ~245 |
+| Right On Time | 21.00% | ~234 |
+| Like Clockwork | 21.00% | ~234 |
+| The Betrayer | 21.00% | ~234 |
+| Golem Chaser | 21.00% | ~234 |
 | The Loose Cannon | 19.00% | ~211 |
 | Check Your Pulse | 19.00% | ~211 |
 | Street Style | 18.00% | ~200 |
@@ -32,10 +32,10 @@ Rating: 4.65 (Ranked 321)
 | The Family Fortune | 18.00% | ~200 |
 | Whiz Kid | 15.00% | ~167 |
 | Good Neighbor | 14.00% | ~156 |
-| Treasure Trove | 13.00% | ~144 |
-| Family Memories | 13.00% | ~144 |
-| Cartographer | 13.00% | ~144 |
-| Ask Questions Later | 13.00% | ~144 |
+| Treasure Trove | 13.00% | ~145 |
+| Family Memories | 13.00% | ~145 |
+| Cartographer | 13.00% | ~145 |
+| Ask Questions Later | 13.00% | ~145 |
 | Chaincrawler Explorer | 12.00% | ~133 |
 | Syron for Hope | 12.00% | ~133 |
 | Sump Explorer | 11.00% | ~122 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 277)  
+Progressed: 1,112 (Ranked 277)  
 Completed: 6 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 6 (0.54%) (Ranked 211)
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
-| 2023-12-26 | 1,111 | 6 |
+| 2023-12-26 | 1,112 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

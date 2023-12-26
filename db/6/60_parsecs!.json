@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 789,
+  "EOS_Progressed": 790,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-12-24T11:03:34.8555517+00:00",
       "NumProgressed": 789,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T18:05:13.2397343+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1149,7 +1154,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1173,7 +1178,7 @@
       "Name": "Extreme Makeover",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement_FeelsLikeHome",
@@ -1221,7 +1226,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1245,7 +1250,7 @@
       "Name": "Hands Full",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Achievement_HelloWorld",
@@ -1301,7 +1306,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1309,7 +1314,7 @@
       "Name": "Mutiny in making",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1365,7 +1370,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1373,7 +1378,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1413,7 +1418,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "Achievement_Traitor",
@@ -1428,7 +1433,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 789,
+      "Progressed": 790,
       "Completed": 1
     }
   ],
@@ -1436,8 +1441,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:06:09.7426324+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:05:13.239734+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.241152+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:01:05.7751232+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:06:09.742666+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:48.0298369+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:05:13.2397796+00:00"
 }

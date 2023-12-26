@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 383,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -1662,9 +1662,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "BRING_MARY",
@@ -1678,9 +1678,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1710,9 +1710,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 245
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1821,8 +1821,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:05:38.4240319+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:04:47.7600436+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:59:46.2217426+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:05:38.4240535+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:49.1253324+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:04:47.7600655+00:00"
 }

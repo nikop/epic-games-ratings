@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-12-26T17:06:53.3718525+00:00",
       "NumProgressed": 291,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T18:05:47.614034+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -701,7 +706,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "book_em_danny",
@@ -757,7 +762,7 @@
       "Name": "Highlander",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -789,7 +794,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "play_me_by_the_hour",
@@ -829,7 +834,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "the_big_sleep",
@@ -868,7 +873,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 3
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:06:53.371852+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:05:47.6140335+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.236705+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:03:50.6005029+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:06:53.3718709+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:03:19.4093805+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:05:47.6140507+00:00"
 }

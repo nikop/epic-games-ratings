@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2247,6 +2247,11 @@
       "Time": "2023-12-26T02:28:01.8483632+00:00",
       "NumProgressed": 664,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T18:09:33.8639636+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2296,9 +2301,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2386,15 +2391,15 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2426,7 +2431,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2442,7 +2447,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2514,7 +2519,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2578,7 +2583,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2586,7 +2591,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2602,7 +2607,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2617,7 +2622,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 2
     }
   ],
@@ -2625,8 +2630,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:10:13.0160387+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:09:33.8639632+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:02:18.5616139+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:10:13.0160812+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:00:42.5196138+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:09:33.8640055+00:00"
 }

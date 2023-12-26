@@ -4,8 +4,8 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -448,9 +448,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "dhh8kbc",
       "Name": "The Best Seeker",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 150,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -464,9 +464,9 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "dhh8kbc",
       "Name": "Seekers win!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 150,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:07:51.8780861+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:06:34.104863+00:00",
   "LastUpdate_AppInfo": "2023-12-22T13:57:10.4429178+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:00:16.6243278+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:07:51.8780947+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:12.4287431+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:06:34.1048729+00:00"
 }

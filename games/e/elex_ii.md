@@ -6,10 +6,10 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 34.00% | ~35 |
+| Entrepreneur | 35.00% | ~36 |
 | Best Buddy | 28.00% | ~29 |
 | Civilian | 25.00% | ~26 |
-| Role Model | 20.00% | ~21 |
+| Role Model | 21.00% | ~22 |
 | Creator | 15.00% | ~16 |
 | Festival-goer | 15.00% | ~16 |
 | Military Leader | 13.00% | ~14 |
@@ -30,8 +30,8 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 4.00% | ~4 |
 | Idealist | 3.00% | ~3 |
 | Cleric | 3.00% | ~3 |
+| Perfectionist | 3.00% | ~3 |
 | Morkon | 2.00% | ~2 |
-| Perfectionist | 2.00% | ~2 |
 | Detective | 2.00% | ~2 |
 | Lover | 2.00% | ~2 |
 | Treasure Hunter | 1.00% | ~1 |

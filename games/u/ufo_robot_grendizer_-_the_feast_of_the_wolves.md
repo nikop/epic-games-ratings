@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 58.00% | ~22 |
+| Life of Pi | 61.00% | ~23 |
 | The Remains of Fleed | 55.00% | ~21 |
 | The Legend | 55.00% | ~21 |
 | Escape from Fleed | 45.00% | ~17 |

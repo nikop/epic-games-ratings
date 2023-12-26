@@ -6,9 +6,9 @@
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,11 +276,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1066,6 +1066,11 @@
       "Time": "2023-12-26T17:09:57.5040381+00:00",
       "NumProgressed": 202,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T18:09:21.6847314+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1078,7 +1083,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1092,9 +1097,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1206,7 +1211,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1230,7 +1235,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1252,9 +1257,9 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1270,7 +1275,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1334,7 +1339,7 @@
       "Name": "Upgreatest",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1422,14 +1427,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 1
     }
   ],
@@ -1437,8 +1442,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:09:57.5040376+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:09:21.6847309+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:58:35.7056573+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:09:57.504083+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:57:58.7329107+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:09:21.684762+00:00"
 }

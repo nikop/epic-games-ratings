@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
 | Furious Family | 0.20% | ~32 |
+| Hittite Iron | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
 | Apadana | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | What's 'hubris' in Greek? | 0.10% | ~16 |
 | Three's a Crowd | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
-| Hittite Iron | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |

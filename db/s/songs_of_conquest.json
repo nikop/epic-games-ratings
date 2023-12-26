@@ -5,10 +5,10 @@
   "Ranking_Rating": 229,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 414,
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2853,6 +2853,11 @@
       "Time": "2023-12-26T17:09:49.2208202+00:00",
       "NumProgressed": 761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T18:09:15.1562915+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2873,7 +2878,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -2969,7 +2974,7 @@
       "Name": "Critical Hit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Deepstrike",
@@ -3009,7 +3014,7 @@
       "Name": "Double Kill",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3103,9 +3108,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 38
     },
     {
       "ID": "RanaCampaign",
@@ -3129,7 +3134,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3177,7 +3182,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "UltraKill",
@@ -3193,7 +3198,7 @@
       "Name": "Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 337
     },
     {
       "ID": "WielderLevel2",
@@ -3201,7 +3206,7 @@
       "Name": "Veteran",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "WielderLevel3",
@@ -3209,7 +3214,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WielderLevel4",
@@ -3296,15 +3301,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:09:49.2208198+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:09:15.1562913+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:57:54.7744567+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:09:49.2208944+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:57:29.6962855+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:09:15.1563289+00:00"
 }

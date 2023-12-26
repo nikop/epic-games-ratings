@@ -6,30 +6,30 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,816 |
-| Self-Improvement | 71.00% | ~1,449 |
-| Perky | 65.00% | ~1,327 |
-| Let’s Ride | 59.00% | ~1,204 |
-| Welcome to the Weird West | 56.00% | ~1,143 |
-| Dead or Alive | 55.00% | ~1,123 |
-| Full House | 37.00% | ~755 |
-| Off the Trail | 34.00% | ~694 |
-| Justice Served | 30.00% | ~612 |
-| Chain Reaction | 27.00% | ~551 |
+| Unforgiven | 89.00% | ~1,818 |
+| Self-Improvement | 71.00% | ~1,451 |
+| Perky | 65.00% | ~1,328 |
+| Let’s Ride | 59.00% | ~1,205 |
+| Welcome to the Weird West | 56.00% | ~1,144 |
+| Dead or Alive | 55.00% | ~1,124 |
+| Full House | 37.00% | ~756 |
+| Off the Trail | 34.00% | ~695 |
+| Justice Served | 30.00% | ~613 |
+| Chain Reaction | 27.00% | ~552 |
 | Through Their Eyes | 26.00% | ~531 |
-| Dishonored | 25.00% | ~510 |
-| Rain of Death | 25.00% | ~510 |
-| Scholar | 25.00% | ~510 |
-| The Great Escape | 23.00% | ~469 |
+| Dishonored | 25.00% | ~511 |
+| Rain of Death | 25.00% | ~511 |
+| Scholar | 25.00% | ~511 |
+| The Great Escape | 23.00% | ~470 |
 | That’s All, Folks | 19.00% | ~388 |
 | Fallen Star | 16.00% | ~327 |
 | For Balance | 16.00% | ~327 |
 | Here Comes Santa Claus | 16.00% | ~327 |
 | Winds of War | 16.00% | ~327 |
-| Dog Days | 13.00% | ~265 |
-| Out on the Ebb Tide | 13.00% | ~265 |
-| Turning the Tables | 13.00% | ~265 |
-| Workers' Rights | 13.00% | ~265 |
+| Dog Days | 13.00% | ~266 |
+| Out on the Ebb Tide | 13.00% | ~266 |
+| Turning the Tables | 13.00% | ~266 |
+| Workers' Rights | 13.00% | ~266 |
 | Elusive Prey | 12.00% | ~245 |
 | Power Behind the Pulpit | 12.00% | ~245 |
 | Something Wicked This Way Comes… | 12.00% | ~245 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~163 |
 | Knuckle Sandwich | 8.00% | ~163 |
 | Getting the Gang Back Together | 7.00% | ~143 |
-| Who You Gonna Call? | 6.00% | ~122 |
+| Who You Gonna Call? | 6.00% | ~123 |
 | Healing Old Wounds | 5.00% | ~102 |
 | This Is Sparta | 5.00% | ~102 |
 | What’s in the Box? | 5.00% | ~102 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,041 (Ranked 238)  
+Progressed: 2,043 (Ranked 238)  
 Completed: 7 (0.34%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 7 (0.34%) (Ranked 244)
 | 2023-12-20 | 2,038 | 7 |
 | 2023-12-22 | 2,039 | 7 |
 | 2023-12-24 | 2,041 | 7 |
+| 2023-12-26 | 2,043 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 518)  
 Sum: 29 (Ranked 536)  

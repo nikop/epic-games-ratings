@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~417 |
 | Your first fight | 85.00% | ~403 |
-| Good Person Chip | 83.00% | ~393 |
+| Good Person Chip | 84.00% | ~398 |
 | First winning | 82.00% | ~389 |
 | Your first job | 81.00% | ~384 |
 | Depressed visitor | 76.00% | ~360 |
@@ -22,19 +22,19 @@
 | Fighting is cool | 65.00% | ~308 |
 | Pal of your father? | 64.00% | ~303 |
 | Spirit of the past | 61.00% | ~289 |
-| Employee of the month | 59.00% | ~280 |
+| Employee of the month | 60.00% | ~284 |
 | Law student | 58.00% | ~275 |
 | Workout professional | 55.00% | ~261 |
 | Little hacker | 55.00% | ~261 |
 | Handyman | 55.00% | ~261 |
 | Champion – starter pack | 55.00% | ~261 |
+| Fight for life | 54.00% | ~256 |
 | It's good to be alive | 54.00% | ~256 |
-| Fight for life | 53.00% | ~251 |
-| Own four walls | 53.00% | ~251 |
+| Own four walls | 54.00% | ~256 |
+| Employee of the year | 54.00% | ~256 |
 | Intriguing candies | 53.00% | ~251 |
-| Employee of the year | 53.00% | ~251 |
+| Legal courier | 50.00% | ~237 |
 | Extreme neuropower! | 50.00% | ~237 |
-| Legal courier | 49.00% | ~232 |
 | Escaped from a big trouble | 46.00% | ~218 |
 | Now you are worthy | 43.00% | ~204 |
 | Fight is life | 42.00% | ~199 |
@@ -52,9 +52,9 @@
 | Get out of my apartment! | 34.00% | ~161 |
 | Gang wrangler | 32.00% | ~152 |
 | Seashell hunter | 32.00% | ~152 |
+| Undercover robot | 32.00% | ~152 |
 | Problems of cyborgs | 31.00% | ~147 |
 | Absolute Champion! | 31.00% | ~147 |
-| Undercover robot | 31.00% | ~147 |
 | Not little hacker | 30.00% | ~142 |
 | Another world | 29.00% | ~137 |
 | The lonesome road | 29.00% | ~137 |

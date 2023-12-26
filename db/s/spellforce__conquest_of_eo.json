@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Build_First_Room",
@@ -1008,8 +1008,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:10:26.2804479+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:09:44.6114896+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:01:28.5911117+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:10:26.2804948+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:00:04.8644376+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:09:44.6115377+00:00"
 }

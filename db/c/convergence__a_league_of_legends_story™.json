@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1111,
+  "EOS_Progressed": 1112,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3161,6 +3161,11 @@
       "Time": "2023-12-26T12:10:18.9722743+00:00",
       "NumProgressed": 1111,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T18:10:28.3122348+00:00",
+      "NumProgressed": 1112,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3196,7 +3201,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3204,7 +3209,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3220,7 +3225,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ClovemaryGift",
@@ -3268,7 +3273,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "FactorywoodChests1",
@@ -3292,7 +3297,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3300,7 +3305,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3332,7 +3337,7 @@
       "Name": "Rail Rat",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "HexlockGift",
@@ -3372,7 +3377,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "NoCritterSump",
@@ -3436,7 +3441,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3444,7 +3449,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PidgeDefeated",
@@ -3484,7 +3489,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "SkillCompletion1",
@@ -3564,7 +3569,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "WatcherSpared",
@@ -3595,7 +3600,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1111,
+      "Progressed": 1112,
       "Completed": 6
     }
   ],
@@ -3603,8 +3608,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:11:19.4347375+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:10:28.3122344+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:59:46.9748674+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:11:19.4347983+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:49.6925654+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:10:28.3122817+00:00"
 }

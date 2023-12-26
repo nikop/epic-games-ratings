@@ -5,36 +5,36 @@ Rating: 4.33 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~996 |
-| And so it begins | 72.00% | ~944 |
+| Good start | 76.00% | ~997 |
+| And so it begins | 72.00% | ~945 |
 | No pressure | 69.00% | ~905 |
 | Memento | 60.00% | ~787 |
-| Let there be light | 57.00% | ~747 |
+| Let there be light | 57.00% | ~748 |
 | I think you dropped this | 53.00% | ~695 |
 | Soulmate? | 51.00% | ~669 |
-| Excellent service | 47.00% | ~616 |
+| Excellent service | 47.00% | ~617 |
 | Roll with it | 44.00% | ~577 |
 | Humble beginnings | 43.00% | ~564 |
 | Love is in the air | 42.00% | ~551 |
 | Fine, I'll do it myself | 41.00% | ~538 |
-| Moving up | 40.00% | ~524 |
-| No need to call anyone | 39.00% | ~511 |
-| Big fortune | 31.00% | ~406 |
+| Moving up | 40.00% | ~525 |
+| No need to call anyone | 38.00% | ~499 |
+| Big fortune | 31.00% | ~407 |
 | Still more work ahead | 29.00% | ~380 |
 | Aesop's fable | 27.00% | ~354 |
 | Hotel sleuthing | 27.00% | ~354 |
 | Kaboom | 26.00% | ~341 |
 | Nearly there | 25.00% | ~328 |
-| Broken heart | 23.00% | ~302 |
-| Island boy | 21.00% | ~275 |
+| Broken heart | 22.00% | ~289 |
+| Island boy | 21.00% | ~276 |
 | You're a star | 20.00% | ~262 |
 | Unstoppable | 18.00% | ~236 |
 | Reunited | 18.00% | ~236 |
 | King of hospitality | 11.00% | ~144 |
 | Top spot in town | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 264)  
-Completed: 18 (1.37%) (Ranked 152)  
+Progressed: 1,312 (Ranked 264)  
+Completed: 18 (1.37%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 18 (1.37%) (Ranked 152)
 | 2023-12-23 | 1,278 | 18 |
 | 2023-12-24 | 1,293 | 18 |
 | 2023-12-25 | 1,304 | 18 |
-| 2023-12-26 | 1,311 | 18 |
+| 2023-12-26 | 1,312 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

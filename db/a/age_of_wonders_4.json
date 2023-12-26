@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -603,9 +603,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6255,
+  "EOS_Progressed": 6260,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9263,6 +9263,11 @@
       "Time": "2023-12-26T17:05:07.5256911+00:00",
       "NumProgressed": 6255,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T18:04:18.3273167+00:00",
+      "NumProgressed": 6260,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9394,7 +9399,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "24",
@@ -9410,7 +9415,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "26",
@@ -9418,7 +9423,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "27",
@@ -9753,13 +9758,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6255,
+      "Progressed": 6260,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6255,
+      "Progressed": 6260,
       "Completed": 7
     }
   ],
@@ -9767,8 +9772,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T10:01:09.8924336+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:05:07.5256905+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:04:18.3273163+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:01:28.3488147+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:05:07.5257939+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:00:04.7222864+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:04:18.3273865+00:00"
 }

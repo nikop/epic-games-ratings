@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70494,
+  "EOS_Progressed": 70511,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 2185,
+  "EOS_NewPlayers": 2184,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5007,6 +5007,11 @@
       "Time": "2023-12-26T17:08:34.324087+00:00",
       "NumProgressed": 70494,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-12-26T18:07:07.5826815+00:00",
+      "NumProgressed": 70511,
+      "NumCompleted": 97
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5019,7 +5024,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26089
     },
     {
       "ID": "Achievement_10",
@@ -5035,7 +5040,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "Achievement_12",
@@ -5067,7 +5072,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_16",
@@ -5107,7 +5112,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19033
+      "UsersEstimate": 19038
     },
     {
       "ID": "Achievement_20",
@@ -5115,7 +5120,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_21",
@@ -5139,7 +5144,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "Achievement_24",
@@ -5155,7 +5160,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "Achievement_26",
@@ -5171,7 +5176,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "Achievement_28",
@@ -5195,7 +5200,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8459
+      "UsersEstimate": 8461
     },
     {
       "ID": "Achievement_30",
@@ -5203,7 +5208,7 @@
       "Name": "Master Engineer",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_31",
@@ -5235,7 +5240,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "Achievement_4",
@@ -5243,7 +5248,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6346
     },
     {
       "ID": "Achievement_5",
@@ -5251,7 +5256,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "Achievement_6",
@@ -5290,7 +5295,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70494,
+      "Progressed": 70511,
       "Completed": 97
     }
   ],
@@ -5298,8 +5303,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:08:34.3240866+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:07:07.582681+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:03:45.1152674+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:08:34.3241382+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:03:14.671364+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:07:07.5827611+00:00"
 }

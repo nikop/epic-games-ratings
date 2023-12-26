@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~546,274 |
-| Every story has a beginning | 36.00% | ~248,935 |
-| The first of many | 31.00% | ~214,361 |
-| Positive word of mouth | 18.00% | ~124,467 |
-| Lawn in the U.S.A. | 15.00% | ~103,723 |
-| Blade Runner | 9.00% | ~62,234 |
-| Credible | 7.00% | ~48,404 |
-| Teamwork makes the dream work | 6.00% | ~41,489 |
-| Where there's muck there's brass | 4.00% | ~27,659 |
-| Bigger and better | 4.00% | ~27,659 |
-| Aggressive expansion | 4.00% | ~27,659 |
+| The dream begins | 79.00% | ~546,287 |
+| Every story has a beginning | 36.00% | ~248,941 |
+| The first of many | 31.00% | ~214,366 |
+| Positive word of mouth | 18.00% | ~124,470 |
+| Lawn in the U.S.A. | 15.00% | ~103,725 |
+| Blade Runner | 9.00% | ~62,235 |
+| Credible | 7.00% | ~48,405 |
+| Teamwork makes the dream work | 6.00% | ~41,490 |
+| Where there's muck there's brass | 4.00% | ~27,660 |
+| Bigger and better | 4.00% | ~27,660 |
+| Aggressive expansion | 4.00% | ~27,660 |
 | Size isn't everything | 3.00% | ~20,745 |
 | Close shave | 3.00% | ~20,745 |
 | Established | 3.00% | ~20,745 |
@@ -27,41 +27,41 @@ Number of Ratings: 5,086  (23.09.2022)
 | The top of the mountain | 2.00% | ~13,830 |
 | First step on the ladder | 2.00% | ~13,830 |
 | Trusted | 2.00% | ~13,830 |
-| Earn your stripes | 0.90% | ~6,223 |
-| Lawn & Order | 0.90% | ~6,223 |
-| The grass is always greener | 0.90% | ~6,223 |
-| Jack of all trades | 0.90% | ~6,223 |
-| All hands on deck | 0.90% | ~6,223 |
-| Professional | 0.90% | ~6,223 |
+| Earn your stripes | 0.90% | ~6,224 |
+| Lawn & Order | 0.90% | ~6,224 |
+| The grass is always greener | 0.90% | ~6,224 |
+| Jack of all trades | 0.90% | ~6,224 |
+| All hands on deck | 0.90% | ~6,224 |
+| Professional | 0.90% | ~6,224 |
 | Worked your grass off | 0.80% | ~5,532 |
 | Phoenix rises | 0.40% | ~2,766 |
 | Cut Loose | 0.40% | ~2,766 |
 | Esteemed | 0.40% | ~2,766 |
-| Hard times | 0.30% | ~2,074 |
+| Hard times | 0.30% | ~2,075 |
 | Zero to hero | 0.20% | ~1,383 |
 | In it for the long haul | 0.20% | ~1,383 |
 | Centurion | 0.20% | ~1,383 |
 | Distinguished | 0.20% | ~1,383 |
-| Amateur mower | 0.10% | ~691 |
-| Expert mower | 0.10% | ~691 |
-| Professional mower | 0.10% | ~691 |
-| Lawn on the 4th of July | 0.10% | ~691 |
-| A seat at the round table | 0.10% | ~691 |
-| Home game | 0.10% | ~691 |
-| Excalibur? | 0.10% | ~691 |
-| An axe to grind | 0.10% | ~691 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~691 |
-| Head of the family | 0.10% | ~691 |
-| Spared no expense | 0.10% | ~691 |
-| We’re going to make a fortune with this place | 0.10% | ~691 |
-| Don’t go into the long grass! | 0.10% | ~691 |
-| Clever girl | 0.10% | ~691 |
-| We have a T-Rex | 0.10% | ~691 |
-| Welcome to Dino Safari! | 0.10% | ~691 |
-| Lawn Enforcement Officer | 0.10% | ~691 |
-| Mo mowers, mo problems | 0.10% | ~691 |
+| Amateur mower | 0.10% | ~692 |
+| Expert mower | 0.10% | ~692 |
+| Professional mower | 0.10% | ~692 |
+| Lawn on the 4th of July | 0.10% | ~692 |
+| A seat at the round table | 0.10% | ~692 |
+| Home game | 0.10% | ~692 |
+| Excalibur? | 0.10% | ~692 |
+| An axe to grind | 0.10% | ~692 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~692 |
+| Head of the family | 0.10% | ~692 |
+| Spared no expense | 0.10% | ~692 |
+| We’re going to make a fortune with this place | 0.10% | ~692 |
+| Don’t go into the long grass! | 0.10% | ~692 |
+| Clever girl | 0.10% | ~692 |
+| We have a T-Rex | 0.10% | ~692 |
+| Welcome to Dino Safari! | 0.10% | ~692 |
+| Lawn Enforcement Officer | 0.10% | ~692 |
+| Mo mowers, mo problems | 0.10% | ~692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691,486 (Ranked 27)  
+Progressed: 691,502 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 19 (0.00%) (Ranked 389)
 | 2023-12-23 | 690,579 | 19 |
 | 2023-12-24 | 690,910 | 19 |
 | 2023-12-25 | 691,261 | 19 |
-| 2023-12-26 | 691,486 | 19 |
+| 2023-12-26 | 691,502 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 305)  
 Sum: 990 (Ranked 266)  

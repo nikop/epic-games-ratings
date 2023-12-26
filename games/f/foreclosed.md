@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Through | 71.00% | ~89 |
-| Silent Overload | 62.00% | ~78 |
-| Symbiotic Weapon | 55.00% | ~69 |
+| Silent Overload | 63.00% | ~79 |
+| Symbiotic Weapon | 56.00% | ~70 |
 | A.I. Training | 47.00% | ~59 |
 | Sniper | 38.00% | ~48 |
 | The Red Herring | 33.00% | ~41 |

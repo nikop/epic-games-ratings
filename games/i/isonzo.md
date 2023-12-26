@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,909 |
-| Tutti Eroi! | 50.00% | ~4,813 |
+| You Shall Not Pass | 51.00% | ~4,910 |
+| Tutti Eroi! | 50.00% | ~4,814 |
 | Peak Performance | 46.00% | ~4,428 |
-| Avanti Savoia! | 44.00% | ~4,235 |
+| Avanti Savoia! | 44.00% | ~4,236 |
 | Mamma Mia! | 35.00% | ~3,369 |
-| Conrad von Hotzensocks | 32.00% | ~3,080 |
-| Gabriele D'Annunzio | 32.00% | ~3,080 |
+| Conrad von Hotzensocks | 32.00% | ~3,081 |
+| Gabriele D'Annunzio | 32.00% | ~3,081 |
 | Silver Lining | 27.00% | ~2,599 |
-| Aurelio Baruzzi | 21.00% | ~2,021 |
+| Aurelio Baruzzi | 21.00% | ~2,022 |
 | Decimation | 20.00% | ~1,925 |
 | Donatello | 19.00% | ~1,829 |
 | Insubordination | 19.00% | ~1,829 |
 | The Italian Job | 19.00% | ~1,829 |
 | Veni Vidi Vici | 19.00% | ~1,829 |
-| Ragazzi del '99 | 17.00% | ~1,636 |
+| Ragazzi del '99 | 17.00% | ~1,637 |
 | Luigi Cadorna | 16.00% | ~1,540 |
 | The Lion of the Isonzo | 14.00% | ~1,348 |
-| Uomo Universale | 13.00% | ~1,251 |
+| Uomo Universale | 13.00% | ~1,252 |
 | Die Bosniaken Kommen! | 12.00% | ~1,155 |
 | Dirty Dozen | 12.00% | ~1,155 |
 | Shaken, Not Stirred | 12.00% | ~1,155 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,626 (Ranked 179)  
+Progressed: 9,627 (Ranked 179)  
 Completed: 10 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,11 +296,11 @@ Completed: 10 (0.10%) (Ranked 306)
 | 2023-12-23 | 9,580 | 10 |
 | 2023-12-24 | 9,598 | 10 |
 | 2023-12-25 | 9,619 | 10 |
-| 2023-12-26 | 9,626 | 10 |
+| 2023-12-26 | 9,627 | 10 |
 ## Awards
 Max (Diverse Characters): 40  (Ranked 472)  
-Sum: 331 (Ranked 364)  
-Diff (max vs sum): 108  
+Sum: 331 (Ranked 365)  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 40 |

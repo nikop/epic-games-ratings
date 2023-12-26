@@ -1,54 +1,54 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 131)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~14,133 |
-| I Challenge You To Save More Money! | 81.00% | ~13,009 |
-| I Love How Tough You Are | 65.00% | ~10,439 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~9,315 |
-| What I Want Is You | 53.00% | ~8,512 |
-| To Be Or Not To Be | 50.00% | ~8,030 |
-| Are You Alright? | 47.00% | ~7,548 |
-| Love Actually | 42.00% | ~6,745 |
-| Drama King | 36.00% | ~5,782 |
-| Go Clean up In Your Own Way | 33.00% | ~5,300 |
-| You're Really Something Else | 32.00% | ~5,139 |
-| Drama CP: Reel to Real | 31.00% | ~4,979 |
-| Happy Family | 30.00% | ~4,818 |
-| FIRST LOVE | 30.00% | ~4,818 |
-| Worthless Speech | 30.00% | ~4,818 |
-| ONE PUNCH | 29.00% | ~4,657 |
-| Absolutely Elegant | 28.00% | ~4,497 |
-| Still Single | 28.00% | ~4,497 |
-| Days Of Innocence | 26.00% | ~4,176 |
-| David | 26.00% | ~4,176 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,015 |
-| All I Have Is Money | 22.00% | ~3,533 |
-| A Slap In The Face! | 22.00% | ~3,533 |
-| Lover In Dark Alley | 21.00% | ~3,373 |
-| That's So You | 21.00% | ~3,373 |
-| SALUTE | 21.00% | ~3,373 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,212 |
-| Off We Sail Tonight | 15.00% | ~2,409 |
-| Can You Do This Or Not? | 14.00% | ~2,248 |
-| Love You Three Thousand | 13.00% | ~2,088 |
-| Doesn't Matter I'll Handle It | 12.00% | ~1,927 |
+| Last Night...Did We... | 88.00% | ~14,140 |
+| I Challenge You To Save More Money! | 81.00% | ~13,015 |
+| I Love How Tough You Are | 65.00% | ~10,444 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~9,319 |
+| What I Want Is You | 53.00% | ~8,516 |
+| To Be Or Not To Be | 50.00% | ~8,034 |
+| Are You Alright? | 47.00% | ~7,552 |
+| Love Actually | 42.00% | ~6,749 |
+| Drama King | 36.00% | ~5,784 |
+| Go Clean up In Your Own Way | 33.00% | ~5,302 |
+| You're Really Something Else | 32.00% | ~5,142 |
+| Drama CP: Reel to Real | 31.00% | ~4,981 |
+| Happy Family | 30.00% | ~4,820 |
+| FIRST LOVE | 30.00% | ~4,820 |
+| Worthless Speech | 30.00% | ~4,820 |
+| ONE PUNCH | 29.00% | ~4,660 |
+| Absolutely Elegant | 28.00% | ~4,499 |
+| Still Single | 28.00% | ~4,499 |
+| Days Of Innocence | 26.00% | ~4,178 |
+| David | 26.00% | ~4,178 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,017 |
+| All I Have Is Money | 22.00% | ~3,535 |
+| A Slap In The Face! | 22.00% | ~3,535 |
+| Lover In Dark Alley | 21.00% | ~3,374 |
+| That's So You | 21.00% | ~3,374 |
+| SALUTE | 21.00% | ~3,374 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,214 |
+| Off We Sail Tonight | 15.00% | ~2,410 |
+| Can You Do This Or Not? | 14.00% | ~2,250 |
+| Love You Three Thousand | 13.00% | ~2,089 |
+| Doesn't Matter I'll Handle It | 12.00% | ~1,928 |
 | The Flash | 11.00% | ~1,767 |
-| New Yoga Pose Unlocked | 10.00% | ~1,606 |
+| New Yoga Pose Unlocked | 10.00% | ~1,607 |
 | My Dear Love! | 8.00% | ~1,285 |
 | Counting Sheep? | 8.00% | ~1,285 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,285 |
-| Life Is A Rollercoaster | 7.00% | ~1,124 |
-| Boys Need To Protect Themselves | 7.00% | ~1,124 |
-| Stubborn Noob | 7.00% | ~1,124 |
+| Life Is A Rollercoaster | 7.00% | ~1,125 |
+| Boys Need To Protect Themselves | 7.00% | ~1,125 |
+| Stubborn Noob | 7.00% | ~1,125 |
 | Hurrah! | 2.00% | ~321 |
 | Tall; Grande; Venti | 2.00% | ~321 |
 | Limerence | 2.00% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,060 (Ranked 162)  
+Progressed: 16,068 (Ranked 162)  
 Completed: 263 (1.64%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 263 (1.64%) (Ranked 143)
 | 2023-12-23 | 15,339 | 251 |
 | 2023-12-24 | 15,640 | 255 |
 | 2023-12-25 | 15,849 | 260 |
-| 2023-12-26 | 16,060 | 263 |
+| 2023-12-26 | 16,068 | 263 |
 ## Awards
 Max (Impact the Story): 32  (Ranked 508)  
 Sum: 32 (Ranked 530)  

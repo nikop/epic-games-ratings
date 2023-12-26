@@ -13,9 +13,9 @@
 | Third Shard | 7.00% | ~24 |
 | Berry Nice | 6.00% | ~20 |
 | Keyu Exterminator | 6.00% | ~20 |
+| Fourth Shard | 6.00% | ~20 |
 | Big Fish | 5.00% | ~17 |
 | Tastes Like Chicken | 5.00% | ~17 |
-| Fourth Shard | 5.00% | ~17 |
 | Fifth Shard | 4.00% | ~14 |
 | Green Thumb | 3.00% | ~10 |
 | Bird Butcherer | 3.00% | ~10 |

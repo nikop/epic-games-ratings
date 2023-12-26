@@ -12,8 +12,8 @@
 | Apprentice | 4.00% | ~6 |
 | Craftsmen | 3.00% | ~4 |
 | Defeat Tezuth | 2.00% | ~3 |
+| Freezing Cold | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
-| Freezing Cold | 1.00% | ~1 |
 | Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
 | A Deceiving Gift | 1.00% | ~1 |

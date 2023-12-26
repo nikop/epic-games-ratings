@@ -4,8 +4,8 @@
   "ProductSlug": "dinobreak-307b09",
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -179,6 +179,11 @@
       "Time": "2023-12-26T06:08:53.018758+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T18:08:36.994904+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T15:02:12.9396867+00:00",
@@ -221,7 +226,7 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -245,9 +250,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -325,7 +330,7 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -341,7 +346,7 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -349,7 +354,7 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -390,14 +395,14 @@
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:08:59.7349902+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:08:36.9949037+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.4177593+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:03:40.8832171+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:08:59.735033+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:03:11.9036892+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:08:36.9949214+00:00"
 }

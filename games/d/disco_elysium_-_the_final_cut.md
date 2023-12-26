@@ -1,37 +1,37 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.86 (Ranked 31)  
+Rating: 4.86 (Ranked 30)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~37,971 |
-| Biggest Communism Builder | 24.00% | ~32,547 |
-| The World's Most Laughable Centrist | 20.00% | ~27,122 |
-| Il Coppo Del'Arte! | 18.00% | ~24,410 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,698 |
-| Hyperstellar Law Official | 15.00% | ~20,342 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,986 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,986 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,629 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,917 |
-| Unbelievably Boring **** | 9.00% | ~12,205 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,205 |
-| Enemy Of The Physical Realm | 8.00% | ~10,849 |
-| Hardie's Heroes | 6.00% | ~8,137 |
-| The Lawbringer | 4.00% | ~5,424 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,424 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,068 |
-| Bother Kim After Hours | 3.00% | ~4,068 |
+| Goodest Of The Good Cops | 28.00% | ~37,975 |
+| Biggest Communism Builder | 24.00% | ~32,550 |
+| The World's Most Laughable Centrist | 20.00% | ~27,125 |
+| Il Coppo Del'Arte! | 18.00% | ~24,412 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,700 |
+| Hyperstellar Law Official | 15.00% | ~20,344 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,988 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,988 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,631 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,919 |
+| Unbelievably Boring **** | 9.00% | ~12,206 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,206 |
+| Enemy Of The Physical Realm | 8.00% | ~10,850 |
+| Hardie's Heroes | 6.00% | ~8,138 |
+| The Lawbringer | 4.00% | ~5,425 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,425 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,069 |
+| Bother Kim After Hours | 3.00% | ~4,069 |
 | Baddest Of the Bad Cops | 2.00% | ~2,712 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,712 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,712 |
 | Wheel of Pleasure and Light | 2.00% | ~2,712 |
 | Massive Torque Dork | 1.00% | ~1,356 |
 | Avowed Inframaterialist | 1.00% | ~1,356 |
-| Venture into the HARDCORE | 0.90% | ~1,220 |
-| Real Musor | 0.90% | ~1,220 |
+| Venture into the HARDCORE | 0.90% | ~1,221 |
+| Real Musor | 0.90% | ~1,221 |
 | Baddest Brow in Town | 0.80% | ~1,085 |
 | Committee of la Responsabilité | 0.80% | ~1,085 |
 | Networthy Individual | 0.70% | ~949 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~136 |
 | What body? | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,611 (Ranked 86)  
+Progressed: 135,625 (Ranked 86)  
 Completed: 28 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 28 (0.02%) (Ranked 357)
 | 2023-12-23 | 134,998 | 28 |
 | 2023-12-24 | 135,242 | 28 |
 | 2023-12-25 | 135,437 | 28 |
-| 2023-12-26 | 135,611 | 28 |
+| 2023-12-26 | 135,625 | 28 |
 ## Awards
 Max (Character Customization): 754  (Ranked 185)  
 Sum: 1,149 (Ranked 257)  

@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 60,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.82,
   "RatingHistory": [
     {
       "Time": "2023-09-02T15:58:27.8231569+00:00",
@@ -155,13 +155,19 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-26T17:57:26.5223039+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1306,
+  "EOS_Progressed": 1307,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
@@ -4471,6 +4477,11 @@
       "Time": "2023-12-26T17:08:56.1559903+00:00",
       "NumProgressed": 1306,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-26T18:08:33.7867152+00:00",
+      "NumProgressed": 1307,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4481,9 +4492,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 353
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4491,7 +4502,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "_03_FinishAct1",
@@ -4499,7 +4510,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4539,7 +4550,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "_09_Completion_20",
@@ -4603,15 +4614,15 @@
       "Name": "Pirates Assemble!",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 471
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4690,16 +4701,16 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1306,
+      "Progressed": 1307,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:08:56.1559897+00:00",
+  "LastChanged": "2023-12-26T17:57:26.5223037+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:08:33.7867148+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:57:50.6409463+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:08:56.1560319+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:57:26.5223043+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:08:33.7867592+00:00"
 }

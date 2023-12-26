@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4118,
+  "EOS_Progressed": 4120,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9014,6 +9014,11 @@
       "Time": "2023-12-26T17:10:18.536993+00:00",
       "NumProgressed": 4118,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-26T18:09:38.4240265+00:00",
+      "NumProgressed": 4120,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9033,7 +9038,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9089,7 +9094,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9105,7 +9110,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9145,7 +9150,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9161,7 +9166,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9177,7 +9182,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9225,7 +9230,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9265,7 +9270,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9337,7 +9342,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9393,7 +9398,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9513,7 +9518,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -9521,7 +9526,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -9529,7 +9534,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -9592,13 +9597,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4069,
+      "Progressed": 4071,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4118,
+      "Progressed": 4120,
       "Completed": 11
     }
   ],
@@ -9606,8 +9611,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:10:18.5369926+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:09:38.4240261+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:59:57.641657+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:10:18.5371201+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:58.5761796+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:09:38.4241151+00:00"
 }

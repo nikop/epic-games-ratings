@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_014",
@@ -453,9 +453,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_018",
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:10:43.5428426+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:09:58.4913882+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-26T16:58:57.4651011+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:10:43.5428857+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:58:13.3138621+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:09:58.4914267+00:00"
 }

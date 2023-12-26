@@ -5,40 +5,40 @@ Rating: 4.55 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,001 |
-| Keep 'Em Coming | 66.00% | ~3,429 |
-| Snatched Out | 65.00% | ~3,377 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,066 |
-| Call Me Snake | 55.00% | ~2,858 |
-| Something Lurks Under The Hills | 53.00% | ~2,754 |
-| This Was No Papercut | 52.00% | ~2,702 |
-| The Shrink Hates Me | 49.00% | ~2,546 |
-| People Person | 48.00% | ~2,494 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,338 |
-| First Steps Into Madness | 45.00% | ~2,338 |
-| Colonial Barrels | 44.00% | ~2,286 |
-| Harper's Hell | 39.00% | ~2,026 |
-| Making a Stand | 37.00% | ~1,923 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,871 |
-| Where It All Begun | 34.00% | ~1,767 |
-| Recouped Investment | 32.00% | ~1,663 |
-| Living Nightmare | 28.00% | ~1,455 |
-| The More The Merrier | 28.00% | ~1,455 |
-| Omelette Du Fromage | 27.00% | ~1,403 |
-| The Darwin Era Was Here | 25.00% | ~1,299 |
-| Deep Into Insanity | 24.00% | ~1,247 |
-| The Passenger | 23.00% | ~1,195 |
-| Come on, You Wanna Live Forever? | 22.00% | ~1,143 |
-| The Spire | 21.00% | ~1,091 |
-| El Riesgo Siempre Vive | 20.00% | ~1,039 |
-| Stuff Of Nightmares | 19.00% | ~987 |
-| Excavating The Truth | 19.00% | ~987 |
-| Frontliner | 18.00% | ~935 |
-| Abysmal Horrors | 18.00% | ~935 |
-| One For Every Occasion | 17.00% | ~883 |
-| The Cable Guy | 17.00% | ~883 |
-| Bandage Lover | 16.00% | ~831 |
-| Regicide | 13.00% | ~675 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,006 |
+| Keep 'Em Coming | 66.00% | ~3,434 |
+| Snatched Out | 65.00% | ~3,382 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,070 |
+| Call Me Snake | 55.00% | ~2,862 |
+| Something Lurks Under The Hills | 53.00% | ~2,758 |
+| This Was No Papercut | 52.00% | ~2,706 |
+| The Shrink Hates Me | 49.00% | ~2,549 |
+| People Person | 48.00% | ~2,497 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,341 |
+| First Steps Into Madness | 45.00% | ~2,341 |
+| Colonial Barrels | 43.00% | ~2,237 |
+| Harper's Hell | 39.00% | ~2,029 |
+| Making a Stand | 37.00% | ~1,925 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,873 |
+| Where It All Begun | 34.00% | ~1,769 |
+| Recouped Investment | 32.00% | ~1,665 |
+| Living Nightmare | 28.00% | ~1,457 |
+| The More The Merrier | 28.00% | ~1,457 |
+| Omelette Du Fromage | 27.00% | ~1,405 |
+| The Darwin Era Was Here | 25.00% | ~1,301 |
+| Deep Into Insanity | 24.00% | ~1,249 |
+| The Passenger | 23.00% | ~1,197 |
+| Come on, You Wanna Live Forever? | 22.00% | ~1,145 |
+| The Spire | 21.00% | ~1,093 |
+| El Riesgo Siempre Vive | 20.00% | ~1,041 |
+| Stuff Of Nightmares | 19.00% | ~989 |
+| Excavating The Truth | 19.00% | ~989 |
+| Frontliner | 18.00% | ~937 |
+| Abysmal Horrors | 18.00% | ~937 |
+| One For Every Occasion | 17.00% | ~885 |
+| The Cable Guy | 17.00% | ~885 |
+| Bandage Lover | 16.00% | ~832 |
+| Regicide | 13.00% | ~676 |
 | This Went Smoothly | 12.00% | ~624 |
 | Flawless Victory | 11.00% | ~572 |
 | Heavy Steps | 11.00% | ~572 |
@@ -51,8 +51,8 @@ Rating: 4.55 (Ranked 511)
 | This Ain't No Picnic | 0.60% | ~31 |
 | Chalk It Up To Experience | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,196 (Ranked 200)  
-Completed: 3 (0.06%) (Ranked 328)  
+Progressed: 5,203 (Ranked 200)  
+Completed: 3 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,7 +234,7 @@ Completed: 3 (0.06%) (Ranked 328)
 | 2023-12-23 | 4,939 | 3 |
 | 2023-12-24 | 5,040 | 3 |
 | 2023-12-25 | 5,139 | 3 |
-| 2023-12-26 | 5,196 | 3 |
+| 2023-12-26 | 5,203 | 3 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 445)  
 Sum: 51 (Ranked 498)  

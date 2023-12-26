@@ -1,39 +1,39 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 650)  
+Rating: 4.47 (Ranked 649)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,269 |
-| Overkill | 34.00% | ~9,824 |
-| Vaccine Incoming | 32.00% | ~9,246 |
-| A normal day in Gloomhaven | 30.00% | ~8,668 |
-| Spread the plague | 28.00% | ~8,090 |
-| Get over here! | 24.00% | ~6,935 |
-| Just when I thought I was out... | 19.00% | ~5,490 |
-| Mine... All Mine... | 17.00% | ~4,912 |
-| Precious! | 16.00% | ~4,623 |
-| Grizzled veteran | 15.00% | ~4,334 |
-| Anatomy Lesson | 14.00% | ~4,045 |
-| Light of my life | 13.00% | ~3,756 |
-| You activated my trap card! | 12.00% | ~3,467 |
-| Obstacle race | 12.00% | ~3,467 |
-| Who's the Boss? | 11.00% | ~3,178 |
-| Augmented rat | 11.00% | ~3,178 |
-| Doom and gloom | 10.00% | ~2,889 |
-| Dungeon Veteran | 8.00% | ~2,312 |
-| Pain is your friend | 8.00% | ~2,312 |
-| Play it again, Sam | 8.00% | ~2,312 |
-| Pack leader | 7.00% | ~2,023 |
-| Black death | 7.00% | ~2,023 |
-| Quad damage | 6.00% | ~1,734 |
-| Power Up! | 5.00% | ~1,445 |
-| Merchant of doom | 5.00% | ~1,445 |
-| Caught off guard | 5.00% | ~1,445 |
-| Pretty lights! | 5.00% | ~1,445 |
-| Now you see me... | 5.00% | ~1,445 |
+| I'm not dead yet | 39.00% | ~11,275 |
+| Overkill | 33.00% | ~9,540 |
+| Vaccine Incoming | 32.00% | ~9,251 |
+| A normal day in Gloomhaven | 30.00% | ~8,673 |
+| Spread the plague | 28.00% | ~8,095 |
+| Get over here! | 24.00% | ~6,938 |
+| Just when I thought I was out... | 19.00% | ~5,493 |
+| Mine... All Mine... | 17.00% | ~4,915 |
+| Precious! | 16.00% | ~4,626 |
+| Grizzled veteran | 15.00% | ~4,336 |
+| Anatomy Lesson | 14.00% | ~4,047 |
+| Light of my life | 13.00% | ~3,758 |
+| You activated my trap card! | 12.00% | ~3,469 |
+| Obstacle race | 12.00% | ~3,469 |
+| Who's the Boss? | 11.00% | ~3,180 |
+| Augmented rat | 11.00% | ~3,180 |
+| Doom and gloom | 10.00% | ~2,891 |
+| Dungeon Veteran | 8.00% | ~2,313 |
+| Pain is your friend | 8.00% | ~2,313 |
+| Play it again, Sam | 8.00% | ~2,313 |
+| Pack leader | 7.00% | ~2,024 |
+| Black death | 7.00% | ~2,024 |
+| Quad damage | 6.00% | ~1,735 |
+| Power Up! | 5.00% | ~1,446 |
+| Merchant of doom | 5.00% | ~1,446 |
+| Caught off guard | 5.00% | ~1,446 |
+| Pretty lights! | 5.00% | ~1,446 |
+| Now you see me... | 5.00% | ~1,446 |
 | The Pro from Dover | 4.00% | ~1,156 |
 | I hate portals | 3.00% | ~867 |
 | Down the hatch | 3.00% | ~867 |
@@ -51,8 +51,8 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~289 |
 | Spoiler police! | 1.00% | ~289 |
 | New Blood | 1.00% | ~289 |
-| The Pacifist | 0.50% | ~144 |
-| Born Support | 0.50% | ~144 |
+| The Pacifist | 0.50% | ~145 |
+| Born Support | 0.50% | ~145 |
 | The evil that men do | 0.40% | ~116 |
 | MacReady Steady.. Go! | 0.40% | ~116 |
 | A tough job | 0.30% | ~87 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~29 |
 | Murder Death Kill | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,894 (Ranked 137)  
+Progressed: 28,910 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-23 | 28,327 | 1 |
 | 2023-12-24 | 28,539 | 1 |
 | 2023-12-25 | 28,745 | 1 |
-| 2023-12-26 | 28,894 | 1 |
+| 2023-12-26 | 28,910 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
-Sum: 8,434 (Ranked 105)  
+Sum: 8,435 (Ranked 105)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -185,8 +185,8 @@ Diff (max vs sum): -12
 | This game is Highly Recommended | 551 |
 | This game is Extremely Fun | 547 |
 | This game has Amazing Characters | 494 |
+| This game has Quickly Understood Controls | 492 |
 | This game is Relaxing | 492 |
-| This game has Quickly Understood Controls | 491 |
 | This game has Amazing Storytelling | 490 |
 | This game has Unique Visuals | 382 |
 | This game has a Creative Community | 220 |
@@ -442,4 +442,4 @@ Diff (max vs sum): -12
 | 2023-12-22 | 4.47 | - | 3,603 | 8,428 |
 | 2023-12-23 | 4.47 | - | 3,604 | 8,430 |
 | 2023-12-24 | 4.47 | - | 3,604 | 8,431 |
-| 2023-12-26 | 4.47 | - | 3,604 | 8,434 |
+| 2023-12-26 | 4.47 | - | 3,604 | 8,435 |

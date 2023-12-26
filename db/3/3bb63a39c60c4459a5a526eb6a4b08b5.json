@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -4067,9 +4067,9 @@
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 271
     },
     {
       "ID": "BudgetFlight",
@@ -4386,8 +4386,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:11:24.0140278+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:10:32.0290905+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:14.5538478+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:02:46.8593052+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:11:24.0140869+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:02:54.5943714+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:10:32.0291387+00:00"
 }

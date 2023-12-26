@@ -2,7 +2,7 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 159,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 112,
@@ -1983,7 +1983,7 @@
   ],
   "EOS_Progressed": 67964,
   "EOS_Completed": 1284,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
@@ -16343,9 +16343,9 @@
       "ID": "mummy",
       "SetID": "2jelldm",
       "Name": "The Exalted",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 38060
+      "UsersEstimate": 38739
     },
     {
       "ID": "necromancer",
@@ -16487,8 +16487,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-12-26T13:59:20.3980986+00:00",
-  "LastChanged_Achievements": "2023-12-26T17:06:47.9271309+00:00",
+  "LastChanged_Achievements": "2023-12-26T18:05:43.2427263+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:21.9381335+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:01:04.472283+00:00",
-  "LastUpdate_Achievements": "2023-12-26T17:06:47.9272204+00:00"
+  "LastUpdate_Ratings": "2023-12-26T17:59:47.0653604+00:00",
+  "LastUpdate_Achievements": "2023-12-26T18:05:43.2428437+00:00"
 }
