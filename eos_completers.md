@@ -25,7 +25,7 @@
 | 22 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 20.00% |
 | 24 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.59% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 19.15% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 19.14% |
 | 27 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 28 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 16.67% |
 | 29 | [Island Cities](games/i/island_cities.md) | 16.63% |
@@ -64,8 +64,8 @@
 | 62 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.67% |
 | 62 | [Time Loader](games/t/time_loader.md) | 6.67% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.59% |
-| 65 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.45% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.45% |
+| 66 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.42% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 69 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.21% |
@@ -101,13 +101,13 @@
 | 99 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.51% |
 | 100 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
 | 101 | [Bunny Park](games/b/bunny_park.md) | 3.28% |
-| 102 | [Dungeons 4](games/d/dungeons_4.md) | 3.27% |
+| 102 | [Dungeons 4](games/d/dungeons_4.md) | 3.26% |
 | 103 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.23% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.13% |
 | 105 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
-| 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
-| 107 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 3.06% |
-| 108 | [HordeCore](games/h/hordecore.md) | 3.04% |
+| 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
+| 107 | [HordeCore](games/h/hordecore.md) | 3.04% |
+| 108 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 3.03% |
 | 109 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.99% |
 | 110 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 111 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.94% |
@@ -152,8 +152,8 @@
 | 150 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.42% |
 | 151 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
 | 152 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.38% |
-| 153 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.37% |
 | 153 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.37% |
+| 154 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.36% |
 | 155 | [Chorus](games/c/chorus.md) | 1.33% |
 | 156 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 157 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.28% |
@@ -238,11 +238,11 @@
 | 235 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 235 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.38% |
 | 238 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.36% |
-| 238 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.36% |
-| 240 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
-| 240 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.35% |
-| 240 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 240 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 239 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
+| 239 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.35% |
+| 239 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 239 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.35% |
+| 239 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 244 | [Train Valley](games/t/train_valley.md) | 0.34% |
 | 244 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 246 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
