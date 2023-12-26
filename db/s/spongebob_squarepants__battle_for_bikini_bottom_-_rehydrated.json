@@ -6,8 +6,8 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 352,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 402,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1122,6 +1122,11 @@
       "Time": "2023-12-26T13:07:16.6637597+00:00",
       "NumProgressed": 400,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T14:04:29.0570509+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1188,9 +1193,9 @@
       "ID": "ACH_FIND_BB_SPATULAS",
       "SetID": "biiejkc",
       "Name": "Hello, Bikini Bottom",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1220,9 +1225,9 @@
       "ID": "ACH_KELP_FOREST",
       "SetID": "biiejkc",
       "Name": "Kelp Forest of Fear",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -1236,17 +1241,17 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1292,9 +1297,9 @@
       "ID": "ACH_SOCK_OPERA",
       "SetID": "biiejkc",
       "Name": "Sock Opera",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_STAT_100_SPATULA_SEEKER",
@@ -1324,7 +1329,7 @@
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Mega Spatula Seeker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1332,17 +1337,17 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1389,15 +1394,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 402,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:07:16.663759+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:04:29.0570506+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:37.6092286+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:07:16.6637825+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:58:49.3637736+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:04:29.0570735+00:00"
 }

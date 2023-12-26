@@ -673,7 +673,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3833,
+  "EOS_Progressed": 3836,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
@@ -10903,6 +10903,11 @@
       "Time": "2023-12-26T13:06:22.5329656+00:00",
       "NumProgressed": 3833,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T14:03:34.4167816+00:00",
+      "NumProgressed": 3836,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10930,7 +10935,7 @@
       "Name": "Angel Power",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "arenachallenger",
@@ -11026,7 +11031,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "dragonslayer",
@@ -11082,7 +11087,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "exoticmerchant",
@@ -11090,7 +11095,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "fellowshippower",
@@ -11098,7 +11103,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "fourleafclover",
@@ -11106,7 +11111,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "frostfireliberator",
@@ -11154,7 +11159,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "heroinspection",
@@ -11226,7 +11231,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "mastery",
@@ -11306,7 +11311,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2033
     },
     {
       "ID": "prestigiousx10",
@@ -11338,7 +11343,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "scrollmaster",
@@ -11370,7 +11375,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2148
     },
     {
       "ID": "thealchemist",
@@ -11394,7 +11399,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "thegameison",
@@ -11434,7 +11439,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -11474,7 +11479,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3567
     },
     {
       "ID": "warmachinesarmy",
@@ -11506,14 +11511,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2992
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3833,
+      "Progressed": 3836,
       "Completed": 2
     }
   ],
@@ -11521,8 +11526,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-26T10:57:05.5454417+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:06:22.5329652+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:03:34.4167814+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-26T12:59:50.1225491+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:06:22.5330735+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:56:59.7108673+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:03:34.4168683+00:00"
 }

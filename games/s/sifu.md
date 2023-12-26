@@ -6,46 +6,46 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,806 |
-| The Assault | 3.00% | ~22,354 |
-| Life is your teacher | 3.00% | ~22,354 |
-| Lightning Hands | 3.00% | ~22,354 |
-| The Hateful Pole Fighter | 2.00% | ~14,903 |
-| Stuntmaster | 2.00% | ~14,903 |
-| Street Fighting | 2.00% | ~14,903 |
-| State of constant learning | 2.00% | ~14,903 |
-| Qi Gong: Essence | 2.00% | ~14,903 |
-| Old Child | 2.00% | ~14,903 |
-| Rumble in the Hangar | 2.00% | ~14,903 |
-| A Lady's Blood in the Snow | 1.00% | ~7,451 |
-| Lady Wing Chun | 1.00% | ~7,451 |
-| Furious Fists | 1.00% | ~7,451 |
-| Kill Nil | 1.00% | ~7,451 |
-| Qi Gong: Mind | 1.00% | ~7,451 |
-| Qi Gong: Breath | 1.00% | ~7,451 |
-| I know Kung-Fu | 1.00% | ~7,451 |
-| Path of the Prospect | 1.00% | ~7,451 |
-| Take damage to save time | 1.00% | ~7,451 |
-| Project Arena | 1.00% | ~544 |
-| Diligence as a goal | 1.00% | ~544 |
-| Kung-Fu Tussle | 0.90% | ~6,706 |
-| Scareless | 0.80% | ~5,961 |
-| Dance of the Praying Mantis | 0.80% | ~5,961 |
-| Fight the way you practice | 0.70% | ~381 |
+| The Old Grandmaster | 4.00% | ~29,809 |
+| The Assault | 3.00% | ~22,357 |
+| Life is your teacher | 3.00% | ~22,357 |
+| Lightning Hands | 3.00% | ~22,357 |
+| The Hateful Pole Fighter | 2.00% | ~14,905 |
+| Stuntmaster | 2.00% | ~14,905 |
+| Street Fighting | 2.00% | ~14,905 |
+| State of constant learning | 2.00% | ~14,905 |
+| Qi Gong: Essence | 2.00% | ~14,905 |
+| Old Child | 2.00% | ~14,905 |
+| Rumble in the Hangar | 2.00% | ~14,905 |
+| A Lady's Blood in the Snow | 1.00% | ~7,452 |
+| Lady Wing Chun | 1.00% | ~7,452 |
+| Furious Fists | 1.00% | ~7,452 |
+| Kill Nil | 1.00% | ~7,452 |
+| Qi Gong: Mind | 1.00% | ~7,452 |
+| Qi Gong: Breath | 1.00% | ~7,452 |
+| I know Kung-Fu | 1.00% | ~7,452 |
+| Path of the Prospect | 1.00% | ~7,452 |
+| Take damage to save time | 1.00% | ~7,452 |
+| Project Arena | 1.00% | ~545 |
+| Diligence as a goal | 1.00% | ~545 |
+| Kung-Fu Tussle | 0.90% | ~6,707 |
+| Scareless | 0.80% | ~5,962 |
+| Dance of the Praying Mantis | 0.80% | ~5,962 |
+| Fight the way you practice | 0.70% | ~382 |
 | Martial Hub | 0.60% | ~327 |
 | Muk Yan Master | 0.50% | ~3,726 |
 | Tiger on Fire | 0.50% | ~3,726 |
 | Detective Story | 0.50% | ~3,726 |
-| Bloody Sport | 0.50% | ~272 |
+| Bloody Sport | 0.50% | ~273 |
 | Source of Flying Daggers | 0.40% | ~2,981 |
 | Iron Money | 0.40% | ~2,981 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,981 |
 | Prodigal Child | 0.40% | ~2,981 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,981 |
 | Sword Stained With Blood | 0.40% | ~2,981 |
-| The Pit Protector | 0.30% | ~2,235 |
-| Come Snap With Me | 0.30% | ~2,235 |
-| The best strikes are the ones we avoid | 0.30% | ~163 |
+| The Pit Protector | 0.30% | ~2,236 |
+| Come Snap With Me | 0.30% | ~2,236 |
+| The best strikes are the ones we avoid | 0.30% | ~164 |
 | Drunken Fighter | 0.20% | ~1,490 |
 | Martial Artist | 0.20% | ~1,490 |
 | Knowledge Greed | 0.20% | ~1,490 |
@@ -59,15 +59,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~109 |
 | Beatmaker | 0.20% | ~109 |
 | Warriors from the Mountain | 0.10% | ~745 |
-| Secure, Protect, Leave | 0.10% | ~54 |
-| Crouching Tiger | 0.10% | ~54 |
-| Hidden Dragon | 0.10% | ~54 |
-| Here Cometh the Iceman | 0.10% | ~54 |
-| Fighter in the Pond | 0.10% | ~54 |
-| Bonus Stage | 0.10% | ~54 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~54 |
+| Secure, Protect, Leave | 0.10% | ~55 |
+| Crouching Tiger | 0.10% | ~55 |
+| Hidden Dragon | 0.10% | ~55 |
+| Here Cometh the Iceman | 0.10% | ~55 |
+| Fighter in the Pond | 0.10% | ~55 |
+| Bonus Stage | 0.10% | ~55 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 745,138 (Ranked 23)  
+Progressed: 745,228 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 745,138 | 12,966 |
+| 2023-12-26 | 745,228 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,874 (Ranked 87)  

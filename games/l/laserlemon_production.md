@@ -26,7 +26,7 @@
 | Is Anybody Out There? | 25.00% | ~4 |
 | Little Lost Things | 25.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 620)  
+Progressed: 16 (Ranked 621)  
 Completed: 3 (18.75%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |

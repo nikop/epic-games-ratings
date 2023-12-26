@@ -12,7 +12,7 @@ Rating: 4.45 (Ranked 676)
 | Lord of War | 31.00% | ~1,275 |
 | Change the Channel | 31.00% | ~1,275 |
 | Taking it back | 29.00% | ~1,192 |
-| Resourceful | 27.00% | ~1,110 |
+| Resourceful | 28.00% | ~1,151 |
 | Target America | 27.00% | ~1,110 |
 | The Kraken Sleeps | 25.00% | ~1,028 |
 | As Quiet as a Mouse | 24.00% | ~987 |

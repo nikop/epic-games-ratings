@@ -3232,9 +3232,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 69
     },
     {
       "ID": "GoodCitizen",
@@ -3288,17 +3288,17 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 126
     },
     {
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 194
     },
     {
       "ID": "Mnemosyne",
@@ -3320,9 +3320,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 252
     },
     {
       "ID": "NewBeginning",
@@ -3360,9 +3360,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 172
     },
     {
       "ID": "PrometheusUnbound",
@@ -3408,9 +3408,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 183
     },
     {
       "ID": "SingleRod",
@@ -3577,8 +3577,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:06:44.6968153+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:03:56.8989172+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:34.0434127+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:06:44.696865+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:58:45.9491094+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:03:56.8989637+00:00"
 }

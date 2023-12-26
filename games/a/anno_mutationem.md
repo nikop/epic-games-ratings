@@ -13,7 +13,7 @@ Rating: 4.55 (Ranked 511)
 | Big Spender | 39.00% | ~312 |
 | That's gotta hurt | 37.00% | ~296 |
 | I think it's broke | 27.00% | ~216 |
-| The Ann Flores Combo Experience | 26.00% | ~208 |
+| The Ann Flores Combo Experience | 27.00% | ~216 |
 | Club Star | 25.00% | ~200 |
 | Fire in the hole! | 21.00% | ~168 |
 | Omnipotence | 20.00% | ~160 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -657,9 +657,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:12:09.6334099+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:09:43.182526+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:05:20.5541685+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:12:09.6334315+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:00:27.0710033+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:09:43.1825372+00:00"
 }

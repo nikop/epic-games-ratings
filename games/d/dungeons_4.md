@@ -38,10 +38,10 @@
 | Master of the Undead | 34.00% | ~218 |
 | The Finitude Drill | 32.00% | ~205 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~186 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~179 |
 | Forbidden Knowledge | 28.00% | ~179 |
 | Doom Hill | 28.00% | ~179 |
 | Hungry, Hungry Gorgu! | 27.00% | ~173 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~173 |
 | Stop Tanos! | 26.00% | ~167 |
 | Sabotage! | 26.00% | ~167 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~167 |

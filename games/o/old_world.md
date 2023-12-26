@@ -9,11 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.60% | ~96 |
 | Settler | 0.60% | ~96 |
 | Play a Single Player Game | 0.60% | ~96 |
+| Intrepid | 0.50% | ~80 |
 | Friendly Family | 0.50% | ~80 |
 | Able | 0.40% | ~64 |
 | Architect | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
-| Intrepid | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
 | Noble | 0.40% | ~64 |
 | Strong | 0.40% | ~64 |
@@ -33,11 +33,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
+| Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
 | Learn to Play 1 | 0.30% | ~48 |
 | Judaism | 0.30% | ~48 |
 | Greek Paganism | 0.30% | ~48 |
+| Roman Paganism | 0.30% | ~48 |
 | Naming Landmarks | 0.30% | ~48 |
 | Trade Caravan | 0.30% | ~48 |
 | Beloved | 0.20% | ~32 |
@@ -58,7 +60,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
 | Great Ziggurat | 0.20% | ~32 |
-| Ishtar Gate | 0.20% | ~32 |
 | Mausoleum | 0.20% | ~32 |
 | Musaeum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
-| Roman Paganism | 0.20% | ~32 |
 | Zoroastrianism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,954 (Ranked 163)  
+Progressed: 15,956 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
-| 2023-12-26 | 15,954 | 5 |
+| 2023-12-26 | 15,956 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

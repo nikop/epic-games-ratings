@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1941,6 +1941,11 @@
       "Time": "2023-12-26T11:09:00.5169864+00:00",
       "NumProgressed": 569,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-26T14:09:08.858673+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -1952,7 +1957,7 @@
       "Name": "Digger",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1992,7 +1997,7 @@
       "Name": "Herbalist",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -2000,7 +2005,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2032,7 +2037,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2040,15 +2045,15 @@
       "Name": "Scrap Gatherer",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2064,7 +2069,7 @@
       "Name": "Lumberjack",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2088,7 +2093,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_KILL_100",
@@ -2112,7 +2117,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2160,7 +2165,7 @@
       "Name": "Smelter",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2176,7 +2181,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2199,7 +2204,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 4
     }
   ],
@@ -2207,8 +2212,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:11:36.0289838+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:09:08.8586727+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:00:27.8735741+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:11:36.0290112+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:57:37.8198546+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:09:08.8586993+00:00"
 }

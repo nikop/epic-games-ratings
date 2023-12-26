@@ -34,20 +34,20 @@
 | No News is Good News | 2.00% | ~5 |
 | Human Resources | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
+| Researcher | 2.00% | ~5 |
 | Economist | 1.00% | ~2 |
 | Crisis Committee | 1.00% | ~2 |
 | Snowman | 1.00% | ~2 |
 | Reconquest | 1.00% | ~2 |
-| Researcher | 1.00% | ~2 |
 | Counter-espionage | 0.80% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
 | Against Adversity | 0.40% | ~1 |
+| People's Hero | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
-| People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 242 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 389)  

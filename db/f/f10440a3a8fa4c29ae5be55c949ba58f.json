@@ -2,7 +2,7 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 57,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3036,
+  "EOS_Progressed": 3062,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3028,
+  "EOS_NewPlayers": 3054,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-12-26T13:11:38.5049568+00:00",
       "NumProgressed": 3036,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-26T14:09:11.3526034+00:00",
+      "NumProgressed": 3062,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -646,7 +651,7 @@
       "Name": "Final Destination",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1592
     },
     {
       "ID": "Document1",
@@ -654,7 +659,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 306
     },
     {
       "ID": "Document2",
@@ -662,7 +667,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Document3",
@@ -670,7 +675,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Document4",
@@ -686,7 +691,7 @@
       "Name": "Master of Secrets",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Perservant",
@@ -709,14 +714,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 3036,
+      "Progressed": 3062,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:11:38.5049565+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:09:11.3526031+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:02:36.9934145+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:11:38.5049639+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:59:53.7848065+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:09:11.3526109+00:00"
 }

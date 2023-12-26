@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2092,
+  "EOS_Progressed": 2093,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8020,6 +8020,11 @@
       "Time": "2023-12-26T13:09:08.6628914+00:00",
       "NumProgressed": 2092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T14:06:21.104591+00:00",
+      "NumProgressed": 2093,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8039,7 +8044,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8135,7 +8140,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8334,7 +8339,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2092,
+      "Progressed": 2093,
       "Completed": 1
     }
   ],
@@ -8342,8 +8347,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:09:08.6628909+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:06:21.1045906+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:18.7778649+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:09:08.6629381+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:58:30.8668342+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:06:21.1046553+00:00"
 }

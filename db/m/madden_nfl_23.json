@@ -2,7 +2,7 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 205,
@@ -973,9 +973,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4178,
+  "EOS_Progressed": 4179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7773,6 +7773,11 @@
       "Time": "2023-12-26T13:10:39.4757839+00:00",
       "NumProgressed": 4178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T14:06:31.0691513+00:00",
+      "NumProgressed": 4179,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7785,7 +7790,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_10",
@@ -7809,7 +7814,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "achievement_13",
@@ -7817,7 +7822,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "achievement_14",
@@ -7825,7 +7830,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "achievement_15",
@@ -7833,7 +7838,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "achievement_16",
@@ -7937,7 +7942,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_9",
@@ -7952,7 +7957,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4178,
+      "Progressed": 4179,
       "Completed": 0
     }
   ],
@@ -7960,8 +7965,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-26T01:40:32.0740806+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:10:39.4757835+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:06:31.0691511+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:00:01.7954896+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:10:39.4758341+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:57:10.6948976+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:06:31.0691939+00:00"
 }

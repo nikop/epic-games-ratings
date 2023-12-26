@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 1397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4151,9 +4151,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 950
+      "UsersEstimate": 964
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -4343,9 +4343,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1146
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -4528,8 +4528,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:08:38.6589653+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:05:50.7587433+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:06.1833783+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:08:38.6590543+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:58:17.1839804+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:05:50.7588237+00:00"
 }

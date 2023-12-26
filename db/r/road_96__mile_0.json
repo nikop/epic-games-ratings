@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1982,6 +1982,11 @@
       "Time": "2023-12-26T09:10:06.0061528+00:00",
       "NumProgressed": 558,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T14:09:51.185032+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1993,7 +1998,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "completeact2",
@@ -2009,7 +2014,7 @@
       "Name": "On the Road",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "findalltapes",
@@ -2031,9 +2036,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 78
     },
     {
       "ID": "scoreminrankrb2",
@@ -2065,7 +2070,7 @@
       "Name": "Souvenirs",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "scoreminrankrp1",
@@ -2089,7 +2094,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "scoreminrankrv1",
@@ -2112,7 +2117,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 2
     }
   ],
@@ -2120,8 +2125,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:12:17.1845271+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:09:51.1850318+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:48.117361+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:12:17.1845467+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:59:00.6075598+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:09:51.1850453+00:00"
 }

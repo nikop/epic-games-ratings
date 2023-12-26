@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10130,
+  "EOS_Progressed": 10131,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13347,6 +13347,11 @@
       "Time": "2023-12-26T13:08:11.2991473+00:00",
       "NumProgressed": 10130,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T14:05:23.1082625+00:00",
+      "NumProgressed": 10131,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -13382,7 +13387,7 @@
       "Name": "Clips and Crits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -13502,7 +13507,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8712
+      "UsersEstimate": 8713
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13518,7 +13523,7 @@
       "Name": "Master of Arms",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_MECHING_ENEMIES",
@@ -13558,7 +13563,7 @@
       "Name": "Photogenic",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 8408
+      "UsersEstimate": 8409
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -13662,7 +13667,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8104
+      "UsersEstimate": 8105
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -13750,22 +13755,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5470
+      "UsersEstimate": 5471
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10130,
+      "Progressed": 10131,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:08:11.2991471+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:05:23.1082624+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.6113768+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:02:15.7148164+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:08:11.2992197+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:59:30.8397401+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:05:23.1083597+00:00"
 }

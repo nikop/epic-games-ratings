@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1051,6 +1051,11 @@
       "Time": "2023-12-26T13:11:22.2607887+00:00",
       "NumProgressed": 197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T14:08:54.7325266+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1063,7 +1068,7 @@
       "Name": "Mash Machine",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1133,9 +1138,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1191,7 +1196,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1215,7 +1220,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1255,7 +1260,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1309,9 +1314,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1319,7 +1324,7 @@
       "Name": "Upgreatest",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1405,16 +1410,16 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 1
     }
   ],
@@ -1422,8 +1427,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:11:22.2607883+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:08:54.7325264+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:00:30.6225167+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:11:22.2608151+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:57:40.5005831+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:08:54.7325526+00:00"
 }

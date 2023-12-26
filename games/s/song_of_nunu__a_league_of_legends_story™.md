@@ -5,12 +5,12 @@ Rating: 4.52 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~994 |
-| I Broke It | 73.00% | ~980 |
-| Better On Ice | 68.00% | ~913 |
-| Blue Dreams | 66.00% | ~886 |
-| Notai Notes | 66.00% | ~886 |
-| He's Famous! | 65.00% | ~873 |
+| Feels Familiar | 74.00% | ~995 |
+| I Broke It | 73.00% | ~981 |
+| Better On Ice | 68.00% | ~914 |
+| Blue Dreams | 66.00% | ~887 |
+| Notai Notes | 66.00% | ~887 |
+| He's Famous! | 65.00% | ~874 |
 | Krugmazing | 64.00% | ~860 |
 | Cutie Poro | 64.00% | ~860 |
 | Moneyball | 60.00% | ~806 |
@@ -18,11 +18,11 @@ Rating: 4.52 (Ranked 563)
 | No Bites | 55.00% | ~739 |
 | Iceborn | 55.00% | ~739 |
 | Boom Things | 53.00% | ~712 |
-| Tear of Freedom | 52.00% | ~698 |
+| Tear of Freedom | 52.00% | ~699 |
 | My Darkest Day | 48.00% | ~645 |
 | Rhythm Of Willump | 46.00% | ~618 |
 | The Relentless Storm | 46.00% | ~618 |
-| A Tragic Reminder | 45.00% | ~604 |
+| A Tragic Reminder | 44.00% | ~591 |
 | 3000 Year Blackout | 44.00% | ~591 |
 | So Close | 42.00% | ~564 |
 | The Finisher | 42.00% | ~564 |
@@ -32,12 +32,12 @@ Rating: 4.52 (Ranked 563)
 | Freeze The Ice Witch | 39.00% | ~524 |
 | Boosted! | 39.00% | ~524 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~524 |
-| True Legends | 38.00% | ~510 |
-| It Is Not Over | 36.00% | ~483 |
-| Bullseye | 36.00% | ~483 |
+| True Legends | 38.00% | ~511 |
+| It Is Not Over | 36.00% | ~484 |
+| Bullseye | 36.00% | ~484 |
 | On The Rocks | 34.00% | ~457 |
-| Snowy Poro | 31.00% | ~416 |
-| Never Gets Old | 31.00% | ~416 |
+| Snowy Poro | 31.00% | ~417 |
+| Never Gets Old | 31.00% | ~417 |
 | Vertical Power | 27.00% | ~363 |
 | One From The Heart | 14.00% | ~188 |
 | Yummy | 10.00% | ~134 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 563)
 | We Are Speed | 2.00% | ~27 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,343 (Ranked 260)  
+Progressed: 1,344 (Ranked 260)  
 Completed: 9 (0.67%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 9 (0.67%) (Ranked 199)
 | 2023-12-23 | 1,306 | 9 |
 | 2023-12-24 | 1,326 | 9 |
 | 2023-12-25 | 1,339 | 9 |
-| 2023-12-26 | 1,343 | 9 |
+| 2023-12-26 | 1,344 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

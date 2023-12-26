@@ -4,7 +4,7 @@
 Rating: 4.17 (Ranked 958)  
 ## Awards
 Max (Educational): 35  (Ranked 494)  
-Sum: 248 (Ranked 393)  
+Sum: 249 (Ranked 393)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 101
 | This game is Relaxing | 30 |
 | This game has Quickly Understood Controls | 26 |
 | This game is Extremely Fun | 25 |
-| This game is Highly Recommended | 24 |
+| This game is Highly Recommended | 25 |
 | This game has Realistic Visuals | 23 |
 | This game has Amazing Storytelling | 21 |
 ## Ratings History
@@ -132,3 +132,4 @@ Diff (max vs sum): 101
 | 2023-12-23 | 4.14 | 34 | 245 |
 | 2023-12-24 | 4.15 | 34 | 245 |
 | 2023-12-25 | 4.17 | 35 | 248 |
+| 2023-12-26 | 4.17 | 35 | 249 |

@@ -9085,7 +9085,7 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244826,
+  "EOS_Progressed": 244846,
   "EOS_Completed": 2565,
   "EOS_NewPlayers": 2854,
   "EOS_NewCompleters": 23,
@@ -37345,6 +37345,11 @@
       "Time": "2023-12-26T13:12:29.9257247+00:00",
       "NumProgressed": 244826,
       "NumCompleted": 2565
+    },
+    {
+      "Time": "2023-12-26T14:10:03.7436106+00:00",
+      "NumProgressed": 244846,
+      "NumCompleted": 2565
     }
   ],
   "TotalAchievements": 546,
@@ -37722,9 +37727,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1469
     },
     {
       "ID": "objective_completed_110",
@@ -38220,7 +38225,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_1203",
@@ -38682,9 +38687,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_20",
@@ -39036,15 +39041,15 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_36",
@@ -39220,7 +39225,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "objective_completed_40",
@@ -41723,21 +41728,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211100,
+      "Progressed": 211120,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244826,
+      "Progressed": 244846,
       "Completed": 2565
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-26T10:57:56.5377084+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:12:29.9257243+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:10:03.7436104+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:00:40.058035+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:12:29.9280276+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:57:50.1674111+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:10:03.7459774+00:00"
 }

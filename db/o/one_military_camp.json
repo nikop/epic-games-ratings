@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1407,9 +1407,9 @@
       "ID": "ACHIEVEMENT_ID_7",
       "SetID": "c504de6",
       "Name": "Researcher",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_8",
@@ -1423,9 +1423,9 @@
       "ID": "ACHIEVEMENT_ID_9",
       "SetID": "c504de6",
       "Name": "People\u0027s Hero",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -1438,8 +1438,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:08:28.963902+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:05:40.9365843+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:00:02.6649563+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:08:28.963934+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:57:11.5959225+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:05:40.9366113+00:00"
 }

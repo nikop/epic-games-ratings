@@ -11,10 +11,10 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 20.00% | ~151 |
 | Veteran | 20.00% | ~151 |
 | Dressed For Success | 14.00% | ~106 |
-| Multi Kill | 8.00% | ~60 |
-| Sorcerous Spree | 8.00% | ~60 |
-| Humiliation | 8.00% | ~60 |
-| Veni, Vidi, Vici | 8.00% | ~60 |
+| Multi Kill | 8.00% | ~61 |
+| Sorcerous Spree | 8.00% | ~61 |
+| Humiliation | 8.00% | ~61 |
+| Veni, Vidi, Vici | 8.00% | ~61 |
 | Master | 7.00% | ~53 |
 | Whoops! | 6.00% | ~45 |
 | Landlord Extraordinaire | 6.00% | ~45 |
@@ -36,11 +36,11 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.50% | ~4 |
 | Unlimited Power! | 0.50% | ~4 |
 | In The Thick of It | 0.50% | ~4 |
+| Killing Spree | 0.50% | ~4 |
 | Get Over Here! | 0.50% | ~4 |
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
 | Barbecue | 0.40% | ~3 |
-| Killing Spree | 0.40% | ~3 |
 | Cleave | 0.40% | ~3 |
 | Attack Bonanza | 0.30% | ~2 |
 | Oops! | 0.30% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756 (Ranked 300)  
+Progressed: 757 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
-| 2023-12-26 | 756 | 0 |
+| 2023-12-26 | 757 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 528)  
 Sum: 194 (Ranked 414)  

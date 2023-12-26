@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24890,
+  "EOS_Progressed": 24891,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -8215,6 +8215,11 @@
       "Time": "2023-12-26T13:10:38.7395711+00:00",
       "NumProgressed": 24890,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-26T14:06:30.3071991+00:00",
+      "NumProgressed": 24891,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8274,7 +8279,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -8354,7 +8359,7 @@
       "Name": "First Bounty Down",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -8386,7 +8391,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -8577,13 +8582,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24890,
+      "Progressed": 24891,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2183,
+      "Progressed": 2184,
       "Completed": 1376
     }
   ],
@@ -8591,8 +8596,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:10:38.7395706+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:06:30.3071989+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:05:38.2139909+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:10:38.7396318+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:02:46.8394113+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:06:30.3072509+00:00"
 }

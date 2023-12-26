@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -294,6 +294,11 @@
       "Time": "2023-12-09T05:04:50.2873377+00:00",
       "NumProgressed": 55,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T14:04:31.833046+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -328,7 +333,7 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 40,
       "UsersEstimate": 39
     },
@@ -360,7 +365,7 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 30,
       "UsersEstimate": 49
     },
@@ -368,7 +373,7 @@
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -408,9 +413,9 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievements.researches.upgradesall",
@@ -433,14 +438,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:07:19.367551+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:04:31.8330458+00:00",
   "LastUpdate_AppInfo": "2023-12-22T18:57:04.5424905+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:04.8418701+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:07:19.3675619+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:58:15.7889057+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:04:31.8330551+00:00"
 }

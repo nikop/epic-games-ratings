@@ -14,17 +14,17 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 15.00% | ~15 |
 | Military Leader | 14.00% | ~14 |
 | Commander | 13.00% | ~13 |
-| Peddler | 11.00% | ~11 |
+| Peddler | 12.00% | ~12 |
 | Long-Haul Flyer | 10.00% | ~10 |
-| Irissa's Fate | 8.00% | ~8 |
+| Irissa's Fate | 9.00% | ~9 |
 | Pass A38 | 8.00% | ~8 |
 | Eternal Oblivion | 8.00% | ~8 |
 | Berserker | 7.00% | ~7 |
 | Hotshot | 6.00% | ~6 |
+| Alb | 6.00% | ~6 |
 | Family Reunion | 6.00% | ~6 |
 | Storyteller | 5.00% | ~5 |
 | Free as a Bird | 5.00% | ~5 |
-| Alb | 5.00% | ~5 |
 | Globetrotter | 4.00% | ~4 |
 | Self-Sufficient | 4.00% | ~4 |
 | Unbreakable | 4.00% | ~4 |

@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-12-26T08:03:52.6352275+00:00",
       "NumProgressed": 379,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T14:04:11.6916926+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1641,7 +1646,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1655,9 +1660,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 239
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1705,7 +1710,7 @@
       "Name": "Farmer",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "HOUSEWARMING",
@@ -1753,7 +1758,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1783,31 +1788,31 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 281
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:06:59.1016023+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:04:11.6916924+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:01:14.2745984+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:06:59.101622+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:58:25.7086017+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:04:11.6917068+00:00"
 }

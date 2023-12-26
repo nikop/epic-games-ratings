@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3726,
+  "EOS_Progressed": 3728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7163,6 +7163,11 @@
       "Time": "2023-12-26T11:06:12.1080528+00:00",
       "NumProgressed": 3726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T14:03:18.5290449+00:00",
+      "NumProgressed": 3728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7182,7 +7187,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_BASE_11",
@@ -7254,7 +7259,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_BASE_21",
@@ -7262,7 +7267,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_BASE_22",
@@ -7276,9 +7281,9 @@
       "ID": "ACH_BASE_23",
       "SetID": "92iocjf",
       "Name": "Space Society",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_BASE_24",
@@ -7286,7 +7291,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ACH_BASE_25",
@@ -7350,7 +7355,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_BASE_32",
@@ -7558,7 +7563,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_BASE_60",
@@ -7629,13 +7634,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1910,
+      "Progressed": 1912,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3726,
+      "Progressed": 3728,
       "Completed": 0
     }
   ],
@@ -7643,8 +7648,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:06:06.4268184+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:03:18.5290447+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:02:16.0876967+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:06:06.4270021+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:59:31.2136825+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:03:18.5291052+00:00"
 }

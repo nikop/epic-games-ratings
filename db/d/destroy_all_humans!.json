@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -844,6 +844,11 @@
       "Time": "2023-12-26T11:04:09.8674756+00:00",
       "NumProgressed": 166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T14:04:15.5069679+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -856,7 +861,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -894,9 +899,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -918,9 +923,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -936,7 +941,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1022,9 +1027,9 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1054,9 +1059,9 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1102,9 +1107,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1150,9 +1155,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1175,15 +1180,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:07:03.0771083+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:04:15.5069674+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:00:21.9242276+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:07:03.0771359+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:57:32.2655282+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:04:15.5069893+00:00"
 }

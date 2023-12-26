@@ -4217,9 +4217,9 @@
       "ID": "CollectAllStatues",
       "SetID": "9lj35g4",
       "Name": "Return the Statues",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -4313,9 +4313,9 @@
       "ID": "DefeatRattusAugustus",
       "SetID": "9lj35g4",
       "Name": "Defeat Rattus Augustail",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -4481,15 +4481,15 @@
       "ID": "cbf1i0c",
       "IsBase": false,
       "Progressed": 924,
-      "Completed": 903
+      "Completed": 904
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:08:45.5093123+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:05:57.4316829+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:02:57.4158538+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:08:45.5093756+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:00:15.6757969+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:05:57.4317252+00:00"
 }

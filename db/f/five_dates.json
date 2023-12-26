@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1589,
+  "EOS_Progressed": 1590,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -2925,6 +2925,11 @@
       "Time": "2023-12-26T12:10:12.0325274+00:00",
       "NumProgressed": 1589,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-26T14:09:45.3591668+00:00",
+      "NumProgressed": 1590,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2936,7 +2941,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "booty_call",
@@ -2960,7 +2965,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "hold_my_beer",
@@ -2968,7 +2973,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3040,7 +3045,7 @@
       "Name": "Sore Loser",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "we_go_again",
@@ -3055,7 +3060,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1589,
+      "Progressed": 1590,
       "Completed": 11
     }
   ],
@@ -3063,8 +3068,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:12:11.8148783+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:09:45.3591666+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.2204919+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:05:23.3274863+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:12:11.8148979+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:00:30.910503+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:09:45.3591848+00:00"
 }

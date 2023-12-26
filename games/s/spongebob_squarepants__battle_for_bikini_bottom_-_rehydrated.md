@@ -6,41 +6,41 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 14.00% | ~56 |
+| Spatula Seeker | 15.00% | ~60 |
 | Sponge Smasher | 14.00% | ~56 |
 | Jellyfish Jam | 13.00% | ~52 |
 | Jellyfishing | 9.00% | ~36 |
 | Time For Tutorial | 9.00% | ~36 |
 | Sweet Victory | 8.00% | ~32 |
-| Sock Getter | 8.00% | ~32 |
+| Sock Getter | 7.00% | ~28 |
 | Surf's Up! | 7.00% | ~28 |
 | Life's as extreme as you wanna make it! | 6.00% | ~24 |
 | Uptown and Downtown | 6.00% | ~24 |
-| Toxic Terror | 6.00% | ~24 |
 | Super Spatula Seeker | 6.00% | ~24 |
 | Star Smasher | 6.00% | ~24 |
-| Shrimp Catcher | 5.00% | ~20 |
+| Toxic Terror | 5.00% | ~20 |
 | Hit Rock Bottom | 5.00% | ~20 |
 | Squirrel Smasher | 5.00% | ~20 |
-| Hello, Bikini Bottom | 4.00% | ~16 |
 | Keep it Rolling | 4.00% | ~16 |
+| Shrimp Catcher | 4.00% | ~16 |
 | Robot encyclopedia | 3.00% | ~12 |
 | Are you ready now? | 3.00% | ~12 |
 | Ship Shape | 3.00% | ~12 |
-| Kelp Forest of Fear | 3.00% | ~12 |
+| Hello, Bikini Bottom | 3.00% | ~12 |
 | Shanghaied | 2.00% | ~8 |
+| Kelp Forest of Fear | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | Ultra Spatula Seeker | 2.00% | ~8 |
 | The Small Does Not Rule | 1.00% | ~4 |
 | SpongeBob vs SpongeBob! | 1.00% | ~4 |
 | Sock Concert | 1.00% | ~4 |
-| Mega Spatula Seeker | 0.80% | ~3 |
+| Sock Opera | 0.70% | ~3 |
+| Mega Spatula Seeker | 0.70% | ~3 |
 | 100% SpongeBob | 0.50% | ~2 |
-| Sock Opera | 0.50% | ~2 |
 | Super Ultra Mega Spatula Seeker | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 352)  
-Completed: 2 (0.50%) (Ranked 219)  
+Progressed: 402 (Ranked 352)  
+Completed: 2 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,7 +52,7 @@ Completed: 2 (0.50%) (Ranked 219)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
-| 2023-12-26 | 400 | 2 |
+| 2023-12-26 | 402 | 2 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 494)  
 Sum: 35 (Ranked 521)  

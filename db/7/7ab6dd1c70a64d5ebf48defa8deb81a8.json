@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1285,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2521,6 +2521,11 @@
       "Time": "2023-12-26T13:12:21.8475268+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T14:09:55.6756498+00:00",
+      "NumProgressed": 1285,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2532,7 +2537,7 @@
       "Name": "Break Out",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_02",
@@ -2548,7 +2553,7 @@
       "Name": "Powerful Allies",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_04",
@@ -2580,7 +2585,7 @@
       "Name": "Clear Sight",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_08",
@@ -2626,9 +2631,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_14",
@@ -2644,7 +2649,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_16",
@@ -2652,7 +2657,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_17",
@@ -2660,15 +2665,15 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_19",
@@ -2700,7 +2705,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_23",
@@ -2746,9 +2751,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_29",
@@ -2770,9 +2775,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_33",
@@ -2819,7 +2824,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1285,
       "Completed": 3
     }
   ],
@@ -2827,8 +2832,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-25T23:59:59.8062733+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:12:21.8475264+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:09:55.6756495+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-26T13:05:17.1238567+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:12:21.8475608+00:00"
+  "LastUpdate_Ratings": "2023-12-26T14:00:23.4114737+00:00",
+  "LastUpdate_Achievements": "2023-12-26T14:09:55.6756831+00:00"
 }

@@ -12,14 +12,14 @@
 | Endless Tricks | 49.00% | ~119 |
 | Wild's Keeper | 46.00% | ~111 |
 | Mind Illuminator | 43.00% | ~104 |
+| Stellar Dismantler | 35.00% | ~85 |
 | Noctuan Champion | 35.00% | ~85 |
-| Stellar Dismantler | 34.00% | ~82 |
 | Anomaly Destroyer | 31.00% | ~75 |
 | Astral Adventurer | 29.00% | ~70 |
 | Star Killer | 26.00% | ~63 |
 | Eridanian Champion | 24.00% | ~58 |
-| Loyal Partner | 21.00% | ~51 |
-| Lacertian Champion | 21.00% | ~51 |
+| Loyal Partner | 22.00% | ~53 |
+| Lacertian Champion | 22.00% | ~53 |
 | Apian Champion | 20.00% | ~48 |
 | Unbeatable | 18.00% | ~44 |
 | Shard Spender | 17.00% | ~41 |

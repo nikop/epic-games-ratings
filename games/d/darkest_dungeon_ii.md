@@ -1,24 +1,24 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~483 |
-| Lost and Found | 7.00% | ~338 |
-| This Belongs in a Museum | 5.00% | ~6,498 |
-| Autodidact | 5.00% | ~6,498 |
-| This guy... again? | 5.00% | ~241 |
-| Serenity Now! | 4.00% | ~5,198 |
-| Creep and Sleep | 4.00% | ~5,198 |
-| Meat and Greet | 4.00% | ~5,198 |
-| Catch and Decease | 4.00% | ~5,198 |
-| Overdue Notice | 4.00% | ~5,198 |
-| Escape from the Black Hole | 4.00% | ~5,198 |
-| Ploughshares to Swords | 4.00% | ~193 |
-| Bloody Graduation | 4.00% | ~193 |
+| Malpractice Assurance | 10.00% | ~484 |
+| Lost and Found | 7.00% | ~339 |
+| This Belongs in a Museum | 5.00% | ~6,499 |
+| Autodidact | 5.00% | ~6,499 |
+| This guy... again? | 5.00% | ~242 |
+| Serenity Now! | 4.00% | ~5,199 |
+| Creep and Sleep | 4.00% | ~5,199 |
+| Meat and Greet | 4.00% | ~5,199 |
+| Catch and Decease | 4.00% | ~5,199 |
+| Overdue Notice | 4.00% | ~5,199 |
+| Escape from the Black Hole | 4.00% | ~5,199 |
+| Ploughshares to Swords | 4.00% | ~194 |
+| Bloody Graduation | 4.00% | ~194 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,899 |
 | It Rings a Bell | 3.00% | ~3,899 |
 | Not Today! | 3.00% | ~3,899 |
@@ -74,8 +74,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.40% | ~520 |
 | On This Long Road, We Found Redemption | 0.40% | ~19 |
 | Eidetic | 0.30% | ~390 |
-| Battle Hardened | 0.30% | ~14 |
-| Maître De La Lame | 0.30% | ~14 |
+| Battle Hardened | 0.30% | ~15 |
+| Maître De La Lame | 0.30% | ~15 |
 | Tears in the Rain | 0.20% | ~260 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,960 (Ranked 87)  
+Progressed: 129,973 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 129,960 | 3 |
+| 2023-12-26 | 129,973 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
 Sum: 21,108 (Ranked 58)  

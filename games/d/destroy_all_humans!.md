@@ -6,19 +6,19 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~111 |
 | Kaijuiced | 66.00% | ~110 |
+| Shop Til They Drop | 66.00% | ~110 |
 | Lie Back and Think of Albion | 60.00% | ~100 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~96 |
-| Yettisoned | 57.00% | ~95 |
-| I Look Up As I Walk to Takoshima | 54.00% | ~90 |
-| Perfect Probulator | 52.00% | ~86 |
-| Lobster Blisque | 51.00% | ~85 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~95 |
+| Yettisoned | 56.00% | ~94 |
+| I Look Up As I Walk to Takoshima | 53.00% | ~89 |
+| Perfect Probulator | 51.00% | ~85 |
+| Lobster Blisque | 50.00% | ~84 |
 | Pimp My Raid | 47.00% | ~78 |
 | Earthly Pleasures | 44.00% | ~73 |
-| Fly Me to the Moon Base | 43.00% | ~71 |
+| Fly Me to the Moon Base | 43.00% | ~72 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~70 |
-| Freshly Squeezed | 34.00% | ~56 |
+| Freshly Squeezed | 34.00% | ~57 |
 | Upgreatest | 32.00% | ~53 |
 | Bodied Sattva | 32.00% | ~53 |
 | Forbidden Donut | 30.00% | ~50 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 0.60% | ~1 |
 | Against All Odds | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 429)  
+Progressed: 167 (Ranked 429)  
 Completed: 1 (0.60%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 1 (0.60%) (Ranked 203)
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 141 | 1 |
 | 2023-12-25 | 161 | 1 |
-| 2023-12-26 | 166 | 1 |
+| 2023-12-26 | 167 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 499)  
 Sum: 34 (Ranked 523)  

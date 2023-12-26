@@ -5,9 +5,9 @@
   "Ranking_Rating": 833,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -3041,6 +3041,11 @@
       "Time": "2023-12-26T13:10:55.7114632+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-26T14:08:27.3522327+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3052,7 +3057,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3066,9 +3071,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3092,7 +3097,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -3100,7 +3105,7 @@
       "Name": "Love is in the air",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3172,7 +3177,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3196,15 +3201,15 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 981
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH_STAR_2",
@@ -3212,7 +3217,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_STAR_3",
@@ -3220,7 +3225,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_STAR_4",
@@ -3244,7 +3249,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -3260,14 +3265,14 @@
       "Name": "I think you dropped this",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 18
     }
   ],
@@ -3275,8 +3280,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-26T01:43:52.6080902+00:00",
-  "LastChanged_Achievements": "2023-12-26T13:10:55.7114629+00:00",
+  "LastChanged_Achievements": "2023-12-26T14:08:27.352232+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
   "LastUpdate_Ratings": "2023-12-26T13:05:25.5969903+00:00",
-  "LastUpdate_Achievements": "2023-12-26T13:10:55.711489+00:00"
+  "LastUpdate_Achievements": "2023-12-26T14:08:27.3522722+00:00"
 }

@@ -6,44 +6,44 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~19,112 |
-| Sword Runner | 61.00% | ~15,340 |
-| Running out of breath | 53.00% | ~13,328 |
-| Wallrunner | 53.00% | ~13,328 |
-| Homerunner | 44.00% | ~11,065 |
-| Out of order | 44.00% | ~11,065 |
-| I call it luck | 43.00% | ~10,814 |
-| Where are my Keys? | 40.00% | ~10,059 |
-| Back to hell | 36.00% | ~9,053 |
-| Perfection | 32.00% | ~8,047 |
-| Sword to a gunfight | 29.00% | ~7,293 |
-| Upgrades not mandatory | 29.00% | ~7,293 |
-| Why not both | 29.00% | ~7,293 |
-| Artificial selection | 27.00% | ~6,790 |
-| Control freak | 27.00% | ~6,790 |
-| Running Wild | 26.00% | ~6,538 |
-| Finish line | 25.00% | ~6,287 |
+| Longrunner | 76.00% | ~19,116 |
+| Sword Runner | 61.00% | ~15,343 |
+| Running out of breath | 53.00% | ~13,331 |
+| Wallrunner | 53.00% | ~13,331 |
+| Homerunner | 44.00% | ~11,067 |
+| Out of order | 44.00% | ~11,067 |
+| I call it luck | 43.00% | ~10,815 |
+| Where are my Keys? | 40.00% | ~10,061 |
+| Back to hell | 36.00% | ~9,055 |
+| Perfection | 32.00% | ~8,049 |
+| Sword to a gunfight | 29.00% | ~7,294 |
+| Upgrades not mandatory | 29.00% | ~7,294 |
+| Why not both | 29.00% | ~7,294 |
+| Artificial selection | 27.00% | ~6,791 |
+| Control freak | 27.00% | ~6,791 |
+| Running Wild | 26.00% | ~6,540 |
+| Finish line | 25.00% | ~6,288 |
 | Unstoppable force | 22.00% | ~5,533 |
-| Wave of mutilation | 21.00% | ~5,281 |
+| Wave of mutilation | 21.00% | ~5,282 |
 | Can't Run Can't Hide | 16.00% | ~4,024 |
-| R is for Running | 15.00% | ~3,772 |
+| R is for Running | 15.00% | ~3,773 |
 | Dead in the air | 14.00% | ~3,521 |
 | Improvise, adapt, overrun | 12.00% | ~3,018 |
 | Pre-empative strike | 12.00% | ~3,018 |
 | Strike | 12.00% | ~3,018 |
-| More than human | 11.00% | ~2,766 |
-| Triple A | 9.00% | ~2,263 |
+| More than human | 11.00% | ~2,767 |
+| Triple A | 9.00% | ~2,264 |
 | Fine addition | 6.00% | ~1,509 |
 | One Of Those Days | 6.00% | ~1,509 |
-| Where He Stood | 5.00% | ~1,257 |
+| Where He Stood | 5.00% | ~1,258 |
 | Push it to the limit | 4.00% | ~1,006 |
 | Scrapped | 4.00% | ~1,006 |
-| About Adam | 3.00% | ~754 |
-| Just A Man | 3.00% | ~754 |
-| Strafing Run | 3.00% | ~754 |
+| About Adam | 3.00% | ~755 |
+| Just A Man | 3.00% | ~755 |
+| Strafing Run | 3.00% | ~755 |
 | Junkrunner | 2.00% | ~503 |
 | One man's trash | 2.00% | ~503 |
-| Hit me if you can | 1.00% | ~251 |
+| Hit me if you can | 1.00% | ~252 |
 | Obedient Machine | 0.90% | ~226 |
 | Everyone Needs A Hobby | 0.70% | ~176 |
 | Legacy Drivers | 0.50% | ~126 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | GR Project Complete | 0.40% | ~101 |
 | Up Close And Personal | 0.40% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,148 (Ranked 142)  
+Progressed: 25,152 (Ranked 142)  
 Completed: 96 (0.38%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,11 +302,11 @@ Completed: 96 (0.38%) (Ranked 235)
 | 2023-12-23 | 24,943 | 94 |
 | 2023-12-24 | 25,020 | 95 |
 | 2023-12-25 | 25,095 | 95 |
-| 2023-12-26 | 25,148 | 96 |
+| 2023-12-26 | 25,152 | 96 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
-Sum: 743 (Ranked 296)  
-Diff (max vs sum): -83  
+Sum: 744 (Ranked 295)  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 530 |
@@ -317,8 +317,8 @@ Diff (max vs sum): -83
 | This game has a Creative Community | 25 |
 | This game is Extremely Fun | 25 |
 | This game has Quickly Understood Controls | 25 |
+| This game has Unique Visuals | 23 |
 | This game is Highly Recommended | 23 |
-| This game has Unique Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -506,3 +506,4 @@ Diff (max vs sum): -83
 | 2023-12-19 | 4.72 | - | 528 | 766 |
 | 2023-12-23 | 4.72 | - | 530 | 768 |
 | 2023-12-24 | 4.72 | - | 530 | 743 |
+| 2023-12-26 | 4.72 | - | 530 | 744 |
