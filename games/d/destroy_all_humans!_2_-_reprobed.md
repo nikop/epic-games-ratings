@@ -6,27 +6,27 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 77.00% | ~150 |
-| Mash Machine | 69.00% | ~135 |
-| Ducks in a Row, Fish in a Barrel | 48.00% | ~94 |
-| Furon Fashion | 45.00% | ~88 |
-| Shop Til They Drop | 39.00% | ~76 |
-| Bodied Sattva | 34.00% | ~66 |
-| Cult Following | 32.00% | ~62 |
-| Earthly Pleasures | 32.00% | ~62 |
-| Lie Back and Think of Albion | 25.00% | ~49 |
-| Upgreatest | 25.00% | ~49 |
-| Pimp My Raid | 25.00% | ~49 |
+| Rock of the Bay | 77.00% | ~152 |
+| Mash Machine | 69.00% | ~136 |
+| Ducks in a Row, Fish in a Barrel | 48.00% | ~95 |
+| Furon Fashion | 45.00% | ~89 |
+| Shop Til They Drop | 39.00% | ~77 |
+| Bodied Sattva | 34.00% | ~67 |
+| Cult Following | 31.00% | ~61 |
+| Earthly Pleasures | 31.00% | ~61 |
+| Lie Back and Think of Albion | 24.00% | ~47 |
+| Upgreatest | 24.00% | ~47 |
+| Pimp My Raid | 24.00% | ~47 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~37 |
 | Freshly Squeezed | 17.00% | ~33 |
-| Perfect Probulator | 16.00% | ~31 |
-| Die Nasty | 15.00% | ~29 |
-| Transmitting From Sol-3 | 13.00% | ~25 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~21 |
+| Perfect Probulator | 16.00% | ~32 |
+| Die Nasty | 15.00% | ~30 |
+| Transmitting From Sol-3 | 13.00% | ~26 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~22 |
 | Dusted | 10.00% | ~20 |
 | Fly Me to the Moon Base | 9.00% | ~18 |
 | Kaijuiced | 9.00% | ~18 |
-| Scuttled | 6.00% | ~12 |
+| Scuttled | 7.00% | ~14 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~12 |
 | Lobster Blisque | 4.00% | ~8 |
 | Yettisoned | 4.00% | ~8 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~1 |
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 414)  
+Progressed: 197 (Ranked 414)  
 Completed: 1 (0.51%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.51%) (Ranked 216)
 | 2023-12-23 | 168 | 0 |
 | 2023-12-24 | 179 | 0 |
 | 2023-12-25 | 191 | 1 |
-| 2023-12-26 | 195 | 1 |
+| 2023-12-26 | 197 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 488)  
 Sum: 36 (Ranked 520)  

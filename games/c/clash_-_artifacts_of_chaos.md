@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Declawing | 64.00% | ~88 |
 | Target Practice | 43.00% | ~59 |
-| The Bigger They Are | 29.00% | ~40 |
+| The Bigger They Are | 30.00% | ~41 |
+| Your Training Continues | 28.00% | ~39 |
 | Over the Moon | 28.00% | ~39 |
 | Enemies of Fate | 28.00% | ~39 |
-| Your Training Continues | 27.00% | ~37 |
 | Armored | 25.00% | ~34 |
 | Amokuali Tower | 24.00% | ~33 |
 | Freedom | 22.00% | ~30 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 446)  
-Completed: 1 (0.72%) (Ranked 193)  
+Completed: 1 (0.72%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

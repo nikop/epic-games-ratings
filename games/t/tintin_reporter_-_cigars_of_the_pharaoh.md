@@ -14,16 +14,16 @@
 | Cat Lover | 10.00% | ~10 |
 | Mummy Nightmare | 9.00% | ~9 |
 | Dynamite, Treason and Coconuts | 9.00% | ~9 |
+| Save a Friend | 9.00% | ~9 |
 | In the Name of the Law | 8.00% | ~8 |
 | Au Revoir, Abudin | 8.00% | ~8 |
 | Mysterious Bungalow | 8.00% | ~8 |
-| Save a Friend | 8.00% | ~8 |
 | The Eyes! | 7.00% | ~7 |
+| Punctual | 7.00% | ~7 |
 | Keep the Doctor Away | 6.00% | ~6 |
 | Just a Palm Tree | 6.00% | ~6 |
 | Under the Hood | 6.00% | ~6 |
 | Long Live Gaipajama! | 6.00% | ~6 |
-| Punctual | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
 | Eyes Shut | 5.00% | ~5 |
 | Tintin, Reporter | 4.00% | ~4 |
@@ -42,7 +42,7 @@
 | Escaping War | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 476)  
+Progressed: 102 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

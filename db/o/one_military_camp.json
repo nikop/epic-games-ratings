@@ -2,9 +2,9 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2023-12-25T21:05:31.477039+00:00",
       "NumProgressed": 240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T13:08:28.9639023+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1082,9 +1087,9 @@
       "ID": "ACHIEVEMENT_ID_1",
       "SetID": "c504de6",
       "Name": "Tear Down the Wall!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_10",
@@ -1146,9 +1151,9 @@
       "ID": "ACHIEVEMENT_ID_17",
       "SetID": "c504de6",
       "Name": "Vive le R\u00E9sistance",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_18",
@@ -1180,7 +1185,7 @@
       "Name": "Healing",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
@@ -1226,17 +1231,17 @@
       "ID": "ACHIEVEMENT_ID_26",
       "SetID": "c504de6",
       "Name": "Human Resources",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1276,15 +1281,15 @@
       "Name": "Good payer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1292,7 +1297,7 @@
       "Name": "Pathfinder",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_34",
@@ -1308,7 +1313,7 @@
       "Name": "Food Tycoon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
@@ -1316,15 +1321,15 @@
       "Name": "Fuel Tycoon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
       "SetID": "c504de6",
       "Name": "Medicine Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -1346,9 +1351,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1412,7 +1417,7 @@
       "Name": "Green Energy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1427,14 +1432,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:06:04.9884361+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:28.963902+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:57:16.045961+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:06:04.9884728+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:00:02.6649563+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:28.963934+00:00"
 }

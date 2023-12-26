@@ -603,9 +603,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6237,
+  "EOS_Progressed": 6239,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9238,6 +9238,11 @@
       "Time": "2023-12-26T12:04:01.8902633+00:00",
       "NumProgressed": 6237,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T13:06:38.1566627+00:00",
+      "NumProgressed": 6239,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9249,7 +9254,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "10",
@@ -9361,7 +9366,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "23",
@@ -9417,7 +9422,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "3",
@@ -9457,7 +9462,7 @@
       "Name": "Seat of Power",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "34",
@@ -9465,7 +9470,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "35",
@@ -9521,7 +9526,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "41",
@@ -9728,13 +9733,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6237,
+      "Progressed": 6239,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6237,
+      "Progressed": 6239,
       "Completed": 7
     }
   ],
@@ -9742,8 +9747,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T10:01:09.8924336+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:04:01.890263+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:06:38.1566624+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:55.4553175+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:04:01.8903326+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:21.3306646+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:06:38.1567365+00:00"
 }

@@ -6,63 +6,63 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~150 |
-| First of many… | 69.00% | ~135 |
-| Helping Hand | 67.00% | ~131 |
-| Increased Vigor | 61.00% | ~119 |
-| Fight Fire with Fire | 59.00% | ~115 |
-| Increased Capacity | 55.00% | ~107 |
-| Just the start | 52.00% | ~101 |
-| Perfect Storm | 49.00% | ~96 |
-| All That Glitters | 48.00% | ~94 |
-| Enhance! | 44.00% | ~86 |
-| One Of the Chosen | 43.00% | ~84 |
-| Devil's in the Details | 39.00% | ~76 |
-| Throne Potato | 39.00% | ~76 |
-| Five's a Crowd | 36.00% | ~70 |
-| 25 to Life | 36.00% | ~70 |
-| Unshakable Fortitude | 35.00% | ~68 |
-| Soul Harvester | 35.00% | ~68 |
-| Salvation | 34.00% | ~66 |
-| I Wanna Rock | 31.00% | ~60 |
-| Delusions of Grandeur | 31.00% | ~60 |
-| Love Tap | 30.00% | ~58 |
-| Freeze Frame | 29.00% | ~57 |
+| Green with Envy | 78.00% | ~154 |
+| First of many… | 69.00% | ~137 |
+| Helping Hand | 67.00% | ~133 |
+| Increased Vigor | 61.00% | ~121 |
+| Fight Fire with Fire | 59.00% | ~117 |
+| Increased Capacity | 55.00% | ~109 |
+| Just the start | 53.00% | ~105 |
+| Perfect Storm | 49.00% | ~97 |
+| All That Glitters | 47.00% | ~93 |
+| Enhance! | 44.00% | ~87 |
+| One Of the Chosen | 42.00% | ~83 |
+| Devil's in the Details | 39.00% | ~77 |
+| Throne Potato | 39.00% | ~77 |
+| 25 to Life | 37.00% | ~73 |
+| Five's a Crowd | 36.00% | ~71 |
+| Soul Harvester | 35.00% | ~69 |
+| Unshakable Fortitude | 34.00% | ~67 |
+| Salvation | 33.00% | ~65 |
+| I Wanna Rock | 31.00% | ~61 |
+| Delusions of Grandeur | 31.00% | ~61 |
+| Love Tap | 30.00% | ~59 |
 | Maximum Vigor | 28.00% | ~55 |
+| Freeze Frame | 28.00% | ~55 |
 | Eat Your Heart Out | 28.00% | ~55 |
 | For Whom the Bell Tolls | 26.00% | ~51 |
-| Unyielding Strength | 24.00% | ~47 |
-| Big Spender | 23.00% | ~45 |
-| Cleanup Crew | 22.00% | ~43 |
-| Can you restore the Balance? | 22.00% | ~43 |
-| Crowd Source | 22.00% | ~43 |
-| Maximum Capacity | 21.00% | ~41 |
-| Demon Meddler | 20.00% | ~39 |
-| Seeing Red | 18.00% | ~35 |
-| Egomaniac | 17.00% | ~33 |
-| Protector of Humanity | 15.00% | ~29 |
-| Everybody Wants to Rule the World | 15.00% | ~29 |
-| Community Outreach | 13.00% | ~25 |
-| Unbreakable Will | 12.00% | ~23 |
-| A Parting Gift | 12.00% | ~23 |
-| Path of the Horseman | 11.00% | ~21 |
-| Take it to the Limit | 11.00% | ~21 |
+| Unyielding Strength | 23.00% | ~46 |
+| Cleanup Crew | 22.00% | ~44 |
+| Can you restore the Balance? | 22.00% | ~44 |
+| Crowd Source | 22.00% | ~44 |
+| Big Spender | 22.00% | ~44 |
+| Maximum Capacity | 21.00% | ~42 |
+| Demon Meddler | 20.00% | ~40 |
+| Seeing Red | 18.00% | ~36 |
+| Egomaniac | 17.00% | ~34 |
+| Protector of Humanity | 15.00% | ~30 |
+| Everybody Wants to Rule the World | 15.00% | ~30 |
+| Community Outreach | 13.00% | ~26 |
+| Unbreakable Will | 12.00% | ~24 |
+| A Parting Gift | 12.00% | ~24 |
+| Path of the Horseman | 11.00% | ~22 |
+| Take it to the Limit | 11.00% | ~22 |
 | Holy Keeper | 10.00% | ~20 |
 | Demon Keeper | 9.00% | ~18 |
 | Soul Reaper | 9.00% | ~18 |
 | Humanitarian | 9.00% | ~18 |
 | My Evil Twin | 7.00% | ~14 |
+| Keeper of the Bonfire | 6.00% | ~12 |
+| Keeper of the Sky | 6.00% | ~12 |
 | Purity of Power | 5.00% | ~10 |
-| Keeper of the Bonfire | 5.00% | ~10 |
 | Keeper of the Vale | 5.00% | ~10 |
-| Keeper of the Sky | 5.00% | ~10 |
 | Keep it 100! | 5.00% | ~10 |
 | Made of Sterner Stuff | 5.00% | ~10 |
 | Balance in all things | 4.00% | ~8 |
+| "Impressive!" | 4.00% | ~8 |
 | Keeper of Colossal Automata | 4.00% | ~8 |
 | Keeper of the Tempo | 4.00% | ~8 |
 | BFA | 4.00% | ~8 |
-| "Impressive!" | 3.00% | ~6 |
 | "Incredible!" | 3.00% | ~6 |
 | Proceed on your way to Armageddon | 3.00% | ~6 |
 | "Amazing!" | 2.00% | ~4 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 1.00% | ~2 |
 | Beast Mode | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 414)  
+Progressed: 198 (Ranked 413)  
 Completed: 1 (0.51%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.51%) (Ranked 216)
 | 2023-12-23 | 121 | 1 |
 | 2023-12-24 | 159 | 1 |
 | 2023-12-25 | 184 | 1 |
-| 2023-12-26 | 195 | 1 |
+| 2023-12-26 | 198 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 384)  
 Sum: 94 (Ranked 462)  

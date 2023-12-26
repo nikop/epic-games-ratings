@@ -8,7 +8,7 @@
 | Press-ganged | 42.00% | ~103 |
 | The Package | 26.00% | ~64 |
 | Conquered | 19.00% | ~47 |
-| Randomized | 17.00% | ~42 |
+| Randomized | 18.00% | ~44 |
 | Scribe | 11.00% | ~27 |
 | Breached | 11.00% | ~27 |
 | Tactician | 10.00% | ~25 |
@@ -21,12 +21,12 @@
 | Tail-wind | 7.00% | ~17 |
 | Scholar | 6.00% | ~15 |
 | Strategist | 5.00% | ~12 |
+| Deputized | 5.00% | ~12 |
 | Courier | 5.00% | ~12 |
 | Pilgrimage's End | 5.00% | ~12 |
 | Merchant | 5.00% | ~12 |
 | Quartermaster | 4.00% | ~10 |
 | Potential Unlocked | 4.00% | ~10 |
-| Deputized | 4.00% | ~10 |
 | Been There | 4.00% | ~10 |
 | Spiritual Journey | 4.00% | ~10 |
 | Trouble at Fort Larius | 4.00% | ~10 |

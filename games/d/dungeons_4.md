@@ -36,7 +36,7 @@
 | If Looks Could Kill | 35.00% | ~224 |
 | Unstoppable Horde | 34.00% | ~218 |
 | Master of the Undead | 34.00% | ~218 |
-| The Finitude Drill | 31.00% | ~199 |
+| The Finitude Drill | 32.00% | ~205 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~186 |
 | Forbidden Knowledge | 28.00% | ~179 |
 | Doom Hill | 28.00% | ~179 |

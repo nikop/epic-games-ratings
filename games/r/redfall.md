@@ -10,10 +10,10 @@ Rating: 3.58 (Ranked 1,068)
 | Home Is Where the Heart Is | 9.00% | ~187 |
 | ICU | 9.00% | ~187 |
 | Wounded Whispers | 9.00% | ~187 |
-| Blood Will Have Blood | 7.00% | ~145 |
-| Ne Plus Ultra | 7.00% | ~145 |
-| Fly Fisher | 7.00% | ~145 |
-| Peek-a-boo | 7.00% | ~145 |
+| Blood Will Have Blood | 7.00% | ~146 |
+| Ne Plus Ultra | 7.00% | ~146 |
+| Fly Fisher | 7.00% | ~146 |
+| Peek-a-boo | 7.00% | ~146 |
 | Throw The First Stone | 6.00% | ~125 |
 | Sucks To Be You | 6.00% | ~125 |
 | Enter of Your Own Free Will | 5.00% | ~104 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,068)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,076 (Ranked 237)  
+Progressed: 2,079 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 2,023 | 0 |
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
-| 2023-12-26 | 2,076 | 0 |
+| 2023-12-26 | 2,079 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

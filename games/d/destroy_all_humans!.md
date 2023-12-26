@@ -30,20 +30,20 @@ Number of Ratings: 85  (23.09.2022)
 | Arkvoodle Doodle | 16.00% | ~27 |
 | Ouch of Body Experience | 16.00% | ~27 |
 | If You Know What I Mean | 14.00% | ~23 |
+| Die Nasty | 14.00% | ~23 |
 | Dusted | 14.00% | ~23 |
-| Die Nasty | 13.00% | ~22 |
 | Hidden Human Hive Harvest | 13.00% | ~22 |
 | Mash Machine | 13.00% | ~22 |
 | Albion Bridge Is for Falling Down | 11.00% | ~18 |
 | Scuttled | 8.00% | ~13 |
 | PK Slam Dunk | 8.00% | ~13 |
-| Higher Than the Futen Zoku | 7.00% | ~12 |
+| Higher Than the Futen Zoku | 8.00% | ~13 |
 | Arty Facts | 6.00% | ~10 |
 | Path of the Furon | 5.00% | ~8 |
 | Cult Following | 4.00% | ~7 |
 | To Russia With Love | 4.00% | ~7 |
+| Transmitting From Sol-3 | 2.00% | ~3 |
 | Toilet Break | 2.00% | ~3 |
-| Transmitting From Sol-3 | 1.00% | ~2 |
 | Steezy Down the Spine | 0.60% | ~1 |
 | Against All Odds | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)

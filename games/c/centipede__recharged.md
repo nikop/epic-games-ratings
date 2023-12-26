@@ -1,29 +1,29 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.33 (Ranked 833)  
+Rating: 4.31 (Ranked 848)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 48.00% | ~11,565 |
-| Make Rock Not War | 39.00% | ~9,397 |
-| Sole Survivor | 35.00% | ~8,433 |
-| Fireworks | 30.00% | ~7,228 |
-| Burning For You | 26.00% | ~6,264 |
+| Shooting Shark | 48.00% | ~11,567 |
+| Make Rock Not War | 39.00% | ~9,398 |
+| Sole Survivor | 35.00% | ~8,434 |
+| Fireworks | 30.00% | ~7,229 |
+| Burning For You | 26.00% | ~6,265 |
 | Beat 'em Up | 24.00% | ~5,783 |
 | Still Burnin' | 17.00% | ~4,096 |
-| I Am The Storm | 16.00% | ~3,855 |
-| Deadline | 13.00% | ~3,132 |
-| Eyes On Fire | 11.00% | ~2,650 |
-| Don't Fear The Reaper | 10.00% | ~2,409 |
+| I Am The Storm | 16.00% | ~3,856 |
+| Deadline | 13.00% | ~3,133 |
+| Eyes On Fire | 11.00% | ~2,651 |
+| Don't Fear The Reaper | 10.00% | ~2,410 |
 | Harvester Of Eyes | 6.00% | ~1,446 |
 | The Reaper | 6.00% | ~1,446 |
 | Feel The Thunder | 5.00% | ~1,205 |
 | Shadow Warrior | 2.00% | ~482 |
 | Mirrors | 0.80% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,094 (Ranked 144)  
+Progressed: 24,097 (Ranked 144)  
 Completed: 117 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 117 (0.49%) (Ranked 220)
 | 2023-12-23 | 23,942 | 117 |
 | 2023-12-24 | 24,006 | 117 |
 | 2023-12-25 | 24,057 | 117 |
-| 2023-12-26 | 24,094 | 117 |
+| 2023-12-26 | 24,097 | 117 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -337,3 +337,4 @@ Completed: 117 (0.49%) (Ranked 220)
 | 2023-12-12 | 4.31 | - | 0 | 0 |
 | 2023-12-20 | 4.32 | - | 0 | 0 |
 | 2023-12-22 | 4.33 | - | 0 | 0 |
+| 2023-12-26 | 4.31 | - | 0 | 0 |

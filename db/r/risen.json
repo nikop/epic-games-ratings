@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -820,9 +820,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "id_33",
@@ -1093,8 +1093,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-23T06:00:07.4487212+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:10:17.8441588+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:12:17.0185931+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-26T12:02:52.0816785+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:10:17.8441905+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:05:35.3207392+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:12:17.0186323+00:00"
 }

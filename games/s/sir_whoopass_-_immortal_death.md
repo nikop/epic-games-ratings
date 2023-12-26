@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 94.00% | ~128 |
-| MLG 360 no scope kill! | 94.00% | ~128 |
-| Are you ready to rumble? | 94.00% | ~128 |
-| That's what cheese said! | 90.00% | ~122 |
-| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~120 |
-| I like you...but I have to kill you... | 88.00% | ~120 |
-| Not so hip anymore! | 86.00% | ~117 |
-| Nerd | 82.00% | ~112 |
+| Tastes just like chicken! | 94.00% | ~129 |
+| MLG 360 no scope kill! | 94.00% | ~129 |
+| Are you ready to rumble? | 94.00% | ~129 |
+| That's what cheese said! | 90.00% | ~123 |
+| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~121 |
+| I like you...but I have to kill you... | 88.00% | ~121 |
+| Not so hip anymore! | 86.00% | ~118 |
 | Blurry depth perception | 82.00% | ~112 |
-| Up and down | 79.00% | ~107 |
-| Rolling, Rolling, Rolling | 76.00% | ~103 |
-| Fire-fighter! | 68.00% | ~92 |
-| Oh, you're up to no gouda! | 65.00% | ~88 |
+| Nerd | 81.00% | ~111 |
+| Up and down | 79.00% | ~108 |
+| Rolling, Rolling, Rolling | 75.00% | ~103 |
+| Fire-fighter! | 67.00% | ~92 |
+| Oh, you're up to no gouda! | 65.00% | ~89 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~86 |
-| Meat grinder | 63.00% | ~86 |
+| Meat grinder | 62.00% | ~85 |
 | You're not going to blow me up! | 57.00% | ~78 |
-| Mushroom soup of the day | 54.00% | ~73 |
-| Honk honk! | 51.00% | ~69 |
-| Cockadoodledoo! | 51.00% | ~69 |
+| Mushroom soup of the day | 54.00% | ~74 |
+| Cockadoodledoo! | 51.00% | ~70 |
+| Honk honk! | 50.00% | ~68 |
 | Butcher | 50.00% | ~68 |
 | Spare Ribs | 50.00% | ~68 |
 | Thats disgusting! | 49.00% | ~67 |
-| Self assessed tax return | 45.00% | ~61 |
-| My pants squeak when I walk | 45.00% | ~61 |
-| Surprise!! | 43.00% | ~58 |
+| Self assessed tax return | 45.00% | ~62 |
+| My pants squeak when I walk | 45.00% | ~62 |
+| Surprise!! | 43.00% | ~59 |
 | Haemochromatosis | 41.00% | ~56 |
 | Make America Grate Again | 38.00% | ~52 |
 | You can't stop me, bro! | 36.00% | ~49 |
 | Pasta Bolognese | 36.00% | ~49 |
 | You are no match for me, Billy! | 35.00% | ~48 |
-| Karaoke king | 34.00% | ~46 |
+| Karaoke king | 34.00% | ~47 |
 | Meatballs, coming up! | 32.00% | ~44 |
 | Catch the bus with me! | 32.00% | ~44 |
 | I'm going to get a concussion | 31.00% | ~42 |
 | Another one bites the iron | 30.00% | ~41 |
 | Kleptomaniac | 27.00% | ~37 |
-| Ripe Meat Off The Bone! | 26.00% | ~35 |
-| Hovering around | 26.00% | ~35 |
+| Ripe Meat Off The Bone! | 26.00% | ~36 |
+| Hovering around | 26.00% | ~36 |
 | You're not so Big anymore, Boi! | 25.00% | ~34 |
 | A Megapint...? | 25.00% | ~34 |
 | Your daily dose of Vitamin C. | 25.00% | ~34 |
-| I cant stand still! | 23.00% | ~31 |
+| I cant stand still! | 23.00% | ~32 |
 | Slimy... yet satisfying | 21.00% | ~29 |
-| Master Butcher | 18.00% | ~24 |
-| Just wing it! | 18.00% | ~24 |
-| Deal with it | 18.00% | ~24 |
-| Yeehaw!!! | 15.00% | ~20 |
+| Master Butcher | 18.00% | ~25 |
+| Just wing it! | 18.00% | ~25 |
+| Deal with it | 18.00% | ~25 |
+| Yeehaw!!! | 15.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~19 |
 | You're looking mozzare-hella good! | 13.00% | ~18 |
 | Timber! | 11.00% | ~15 |
 | Free Of Chains | 11.00% | ~15 |
 | Spoiler alert! | 10.00% | ~14 |
-| I drink, but I'm not a drunk! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~12 |
+| I drink, but I'm not a drunk! | 9.00% | ~12 |
 | I want to throw up! | 8.00% | ~11 |
 | Scrambled Eggs | 8.00% | ~11 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~10 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136 (Ranked 447)  
+Progressed: 137 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,3 +148,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-19 | 134 | 0 |
 | 2023-12-20 | 135 | 0 |
 | 2023-12-23 | 136 | 0 |
+| 2023-12-26 | 137 | 0 |

@@ -5,39 +5,39 @@ Rating: 4.01 (Ranked 1,019)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,562 |
-| World Map | 78.00% | ~2,987 |
-| Temple of Eternals | 56.00% | ~2,145 |
-| Prestigious | 53.00% | ~2,030 |
-| Fellowship Power | 42.00% | ~1,609 |
-| Full Party | 26.00% | ~996 |
-| Guild Power | 23.00% | ~881 |
-| Prestigious x10 | 20.00% | ~766 |
-| The game is on | 18.00% | ~689 |
+| Victor | 93.00% | ~3,565 |
+| World Map | 78.00% | ~2,990 |
+| Temple of Eternals | 56.00% | ~2,146 |
+| Prestigious | 53.00% | ~2,031 |
+| Fellowship Power | 42.00% | ~1,610 |
+| Full Party | 26.00% | ~997 |
+| Guild Power | 23.00% | ~882 |
+| Prestigious x10 | 20.00% | ~767 |
+| The game is on | 18.00% | ~690 |
 | Exotic Merchant | 16.00% | ~613 |
-| Dragon Clicker | 15.00% | ~574 |
-| Miner Clicker | 15.00% | ~574 |
-| Inspection | 14.00% | ~536 |
+| Dragon Clicker | 15.00% | ~575 |
+| Miner Clicker | 15.00% | ~575 |
+| Hero inspection | 14.00% | ~537 |
+| Inspection | 14.00% | ~537 |
 | Dragon Master | 13.00% | ~498 |
 | Enlightenment | 13.00% | ~498 |
-| Hero inspection | 13.00% | ~498 |
 | Lieutenant | 12.00% | ~460 |
-| Milestone collector | 11.00% | ~421 |
-| Mysterious Rock | 11.00% | ~421 |
-| Natural Talent | 11.00% | ~421 |
-| Superior | 11.00% | ~421 |
-| The Unstoppable | 11.00% | ~421 |
+| Milestone collector | 11.00% | ~422 |
+| Mysterious Rock | 11.00% | ~422 |
+| Natural Talent | 11.00% | ~422 |
+| Superior | 11.00% | ~422 |
+| The Unstoppable | 11.00% | ~422 |
 | Scientist | 10.00% | ~383 |
 | Doing My Part | 9.00% | ~345 |
 | Hunter | 9.00% | ~345 |
 | The power of Awakening | 9.00% | ~345 |
-| Challenger | 8.00% | ~306 |
-| Daily Quest Completionist | 8.00% | ~306 |
-| Frostfire Liberator | 8.00% | ~306 |
-| Mastery | 8.00% | ~306 |
-| Moving Up The Ladder | 8.00% | ~306 |
-| Relic Of The Past | 8.00% | ~306 |
-| Scroll Master | 8.00% | ~306 |
+| Challenger | 8.00% | ~307 |
+| Daily Quest Completionist | 8.00% | ~307 |
+| Frostfire Liberator | 8.00% | ~307 |
+| Mastery | 8.00% | ~307 |
+| Moving Up The Ladder | 8.00% | ~307 |
+| Relic Of The Past | 8.00% | ~307 |
+| Scroll Master | 8.00% | ~307 |
 | Four Leaf Clover | 7.00% | ~268 |
 | Here We Go Again | 7.00% | ~268 |
 | Master Enchanter | 7.00% | ~268 |
@@ -81,7 +81,7 @@ Rating: 4.01 (Ranked 1,019)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,830 (Ranked 209)  
+Progressed: 3,833 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-23 | 3,733 | 2 |
 | 2023-12-24 | 3,773 | 2 |
 | 2023-12-25 | 3,807 | 2 |
-| 2023-12-26 | 3,830 | 2 |
+| 2023-12-26 | 3,833 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 127 (Ranked 444)  

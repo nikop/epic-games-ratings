@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241729,
+  "EOS_Progressed": 241734,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29591,6 +29591,11 @@
       "Time": "2023-12-26T12:10:29.0628019+00:00",
       "NumProgressed": 241729,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-26T13:12:27.8092859+00:00",
+      "NumProgressed": 241734,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29816,9 +29821,9 @@
       "ID": "ENDINGCHOICE",
       "SetID": "5l8oe0h",
       "Name": "Who To Trust?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1450
     },
     {
       "ID": "ENDWOUNDED",
@@ -30192,9 +30197,9 @@
       "ID": "MULTEXPLOSIONS",
       "SetID": "5l8oe0h",
       "Name": "Chain Reaction",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 967
     },
     {
       "ID": "MULTIKILL30",
@@ -30705,13 +30710,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241729,
+      "Progressed": 241734,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3209,
+      "Progressed": 3214,
       "Completed": 413
     }
   ],
@@ -30719,8 +30724,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:10:29.0628017+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:12:27.8092857+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:58:31.378104+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:10:29.0630409+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:01:07.856778+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:12:27.8095427+00:00"
 }

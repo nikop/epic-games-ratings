@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~415 |
-| Your first fight | 85.00% | ~401 |
-| Good Person Chip | 83.00% | ~392 |
-| First winning | 82.00% | ~387 |
-| Your first job | 81.00% | ~382 |
+| Such a strange dream… | 88.00% | ~416 |
+| Your first fight | 85.00% | ~402 |
+| Good Person Chip | 83.00% | ~393 |
+| First winning | 82.00% | ~388 |
+| Your first job | 81.00% | ~383 |
 | Depressed visitor | 76.00% | ~359 |
-| Fitness professional | 75.00% | ~354 |
-| Old movies enjoyer | 75.00% | ~354 |
-| Neurotrainer – power gainer! | 75.00% | ~354 |
-| Employee of the week | 74.00% | ~349 |
-| Your own amateur gym | 69.00% | ~326 |
-| First defeat | 68.00% | ~321 |
-| Run K, run! | 68.00% | ~321 |
+| Old movies enjoyer | 75.00% | ~355 |
+| Neurotrainer – power gainer! | 75.00% | ~355 |
+| Fitness professional | 74.00% | ~350 |
+| Employee of the week | 74.00% | ~350 |
+| Your own amateur gym | 68.00% | ~322 |
+| Run K, run! | 68.00% | ~322 |
+| First defeat | 67.00% | ~317 |
+| No bullying more | 66.00% | ~312 |
 | Hello, world! | 66.00% | ~312 |
-| No bullying more | 65.00% | ~307 |
-| Fighting is cool | 64.00% | ~302 |
-| Pal of your father? | 63.00% | ~297 |
-| Spirit of the past | 61.00% | ~288 |
-| Employee of the month | 60.00% | ~283 |
+| Fighting is cool | 64.00% | ~303 |
+| Pal of your father? | 63.00% | ~298 |
+| Spirit of the past | 61.00% | ~289 |
+| Employee of the month | 59.00% | ~279 |
 | Law student | 58.00% | ~274 |
+| Workout professional | 55.00% | ~260 |
 | Little hacker | 55.00% | ~260 |
 | Handyman | 55.00% | ~260 |
 | Champion – starter pack | 55.00% | ~260 |
-| Workout professional | 54.00% | ~255 |
-| Fight for life | 54.00% | ~255 |
-| It's good to be alive | 54.00% | ~255 |
-| Employee of the year | 54.00% | ~255 |
-| Own four walls | 53.00% | ~250 |
-| Intriguing candies | 53.00% | ~250 |
-| Legal courier | 50.00% | ~236 |
+| Fight for life | 53.00% | ~251 |
+| It's good to be alive | 53.00% | ~251 |
+| Own four walls | 53.00% | ~251 |
+| Intriguing candies | 53.00% | ~251 |
+| Employee of the year | 53.00% | ~251 |
 | Extreme neuropower! | 50.00% | ~236 |
+| Legal courier | 49.00% | ~232 |
 | Escaped from a big trouble | 47.00% | ~222 |
 | Now you are worthy | 43.00% | ~203 |
-| Fight is life | 42.00% | ~198 |
+| Fight is life | 42.00% | ~199 |
 | Mysterious voice | 41.00% | ~194 |
 | Guiding on the right path | 41.00% | ~194 |
 | No blades in the gym | 40.00% | ~189 |
-| Champion – no way back | 38.00% | ~179 |
-| Responsible approach | 38.00% | ~179 |
+| Champion – no way back | 38.00% | ~180 |
+| Responsible approach | 38.00% | ~180 |
 | Underground dwellers | 37.00% | ~175 |
 | Deal with life | 36.00% | ~170 |
-| Mom got better | 35.00% | ~165 |
-| GYM professional | 35.00% | ~165 |
-| The die is cast | 35.00% | ~165 |
-| Poisoned fighter | 34.00% | ~160 |
-| Get out of my apartment! | 34.00% | ~160 |
+| Mom got better | 35.00% | ~166 |
+| GYM professional | 35.00% | ~166 |
+| Poisoned fighter | 34.00% | ~161 |
+| Get out of my apartment! | 34.00% | ~161 |
+| The die is cast | 34.00% | ~161 |
 | Gang wrangler | 32.00% | ~151 |
 | Seashell hunter | 32.00% | ~151 |
 | Undercover robot | 32.00% | ~151 |
-| Problems of cyborgs | 31.00% | ~146 |
-| Absolute Champion! | 31.00% | ~146 |
+| Absolute Champion! | 31.00% | ~147 |
+| Problems of cyborgs | 30.00% | ~142 |
 | Not little hacker | 30.00% | ~142 |
 | Another world | 29.00% | ~137 |
 | The lonesome road | 29.00% | ~137 |
@@ -71,8 +71,8 @@
 | Better cooking at home | 26.00% | ~123 |
 | The only right decision | 26.00% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472 (Ranked 337)  
-Completed: 9 (1.91%) (Ranked 136)  
+Progressed: 473 (Ranked 337)  
+Completed: 9 (1.90%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,4 +176,4 @@ Completed: 9 (1.91%) (Ranked 136)
 | 2023-12-23 | 452 | 9 |
 | 2023-12-24 | 461 | 9 |
 | 2023-12-25 | 468 | 9 |
-| 2023-12-26 | 472 | 9 |
+| 2023-12-26 | 473 | 9 |

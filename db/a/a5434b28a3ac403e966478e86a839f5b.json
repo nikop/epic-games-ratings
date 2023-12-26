@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767,
+  "EOS_Progressed": 768,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2640,6 +2640,11 @@
       "Time": "2023-12-26T03:09:15.1442813+00:00",
       "NumProgressed": 767,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-26T13:11:07.0950734+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2676,7 +2681,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_eou4",
@@ -2755,14 +2760,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:08:58.2757397+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:11:07.0950732+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:37.3244251+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:08:58.2757591+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:06.3560709+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:11:07.0950986+00:00"
 }

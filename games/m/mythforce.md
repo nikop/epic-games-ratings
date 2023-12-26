@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.47 (Ranked 648)  
+Rating: 4.47 (Ranked 649)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,7 +18,7 @@ Number of Ratings: 285  (23.09.2022)
 | Ten Steps from the Grave | 15.00% | ~875 |
 | Everything Must Go! | 14.00% | ~817 |
 | Next Time on MythForce... | 14.00% | ~817 |
-| Cold-Blooded Critters | 10.00% | ~583 |
+| Cold-Blooded Critters | 11.00% | ~642 |
 | Death Becomes You | 8.00% | ~467 |
 | Flawless Victory | 6.00% | ~350 |
 | The Harder They Fall | 6.00% | ~350 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42808,
+  "EOS_Progressed": 42813,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27370,6 +27370,11 @@
       "Time": "2023-12-26T12:04:18.0147042+00:00",
       "NumProgressed": 42808,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-26T13:06:52.1299936+00:00",
+      "NumProgressed": 42813,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27381,7 +27386,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6421
+      "UsersEstimate": 6422
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -27389,7 +27394,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8990
+      "UsersEstimate": 8991
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -27405,7 +27410,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -27453,7 +27458,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -27469,7 +27474,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -27485,7 +27490,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -27517,7 +27522,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -27525,7 +27530,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -27533,7 +27538,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -27541,7 +27546,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -27549,7 +27554,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -27612,7 +27617,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42808,
+      "Progressed": 42813,
       "Completed": 30
     }
   ],
@@ -27620,8 +27625,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:04:18.0147039+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:06:52.1299933+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:37.1957091+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:04:18.0148443+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:06.2345156+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:06:52.1301365+00:00"
 }

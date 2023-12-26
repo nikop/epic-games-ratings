@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2569,6 +2569,11 @@
       "Time": "2023-12-26T11:04:49.2983262+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T13:07:43.0864399+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2676,7 +2681,7 @@
       "Name": "Just Chilling",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -2692,7 +2697,7 @@
       "Name": "Ascended",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -2708,7 +2713,7 @@
       "Name": "Incredible Strength",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ENDING_TRUE",
@@ -2932,14 +2937,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1263,
       "Completed": 0
     }
   ],
@@ -2947,8 +2952,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:05:13.4461054+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:07:43.086439+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:24.1709228+00:00",
-  "LastUpdate_Ratings": "2023-12-26T12:03:05.7945268+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:05:13.4461395+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:05:47.1581951+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:07:43.0864808+00:00"
 }

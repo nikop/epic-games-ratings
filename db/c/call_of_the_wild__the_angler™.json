@@ -1009,9 +1009,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7569,
+  "EOS_Progressed": 7573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12309,6 +12309,11 @@
       "Time": "2023-12-26T12:06:07.8398378+00:00",
       "NumProgressed": 7569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T13:08:31.5714376+00:00",
+      "NumProgressed": 7573,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12352,7 +12357,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12360,7 +12365,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12368,7 +12373,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12384,7 +12389,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12639,13 +12644,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7569,
+      "Progressed": 7573,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6941,
+      "Progressed": 6945,
       "Completed": 113
     }
   ],
@@ -12653,8 +12658,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-24T18:58:58.6953669+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:06:07.8398373+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:31.5714373+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:45.2456357+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:06:07.8399223+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:12.7032147+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:31.5715138+00:00"
 }

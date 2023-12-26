@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~72 |
-| Enough rooms to swing a cat | 82.00% | ~67 |
-| First to the post | 82.00% | ~67 |
-| A kind of Magic | 76.00% | ~62 |
-| Connected | 68.00% | ~56 |
-| Expansion | 62.00% | ~51 |
+| Home Sweet Home | 88.00% | ~73 |
+| First to the post | 82.00% | ~68 |
+| Enough rooms to swing a cat | 81.00% | ~67 |
+| A kind of Magic | 75.00% | ~62 |
+| Connected | 67.00% | ~56 |
+| Expansion | 61.00% | ~51 |
 | Mine! | 57.00% | ~47 |
-| Harvest Time | 56.00% | ~46 |
-| Artificer's Apprentice | 50.00% | ~41 |
+| Harvest Time | 55.00% | ~46 |
+| Artificer's Apprentice | 49.00% | ~41 |
 | Fly the friendly Sky | 46.00% | ~38 |
-| Get out of here! | 44.00% | ~36 |
+| Get out of here! | 43.00% | ~36 |
 | Necromancer's Apprentice | 40.00% | ~33 |
 | Alchemist's Apprentice | 39.00% | ~32 |
 | Friend of Lyraine | 39.00% | ~32 |
@@ -22,12 +22,12 @@
 | Redecorating | 33.00% | ~27 |
 | Bad JuJu | 24.00% | ~20 |
 | Friend of Sevenkeeps | 22.00% | ~18 |
-| Slave to the rhythm | 21.00% | ~17 |
-| Castle Meldec | 21.00% | ~17 |
+| Slave to the rhythm | 20.00% | ~17 |
+| Castle Meldec | 20.00% | ~17 |
 | Sevenkeeps Seat of Kings | 18.00% | ~15 |
 | Break Free | 16.00% | ~13 |
-| Friend of Alluvyan | 15.00% | ~12 |
-| Friend of Connach | 15.00% | ~12 |
+| Friend of Alluvyan | 14.00% | ~12 |
+| Friend of Connach | 14.00% | ~12 |
 | Stormwatch Faste | 12.00% | ~10 |
 | Friend of Gillyshire | 12.00% | ~10 |
 | Friend of Silver Drift Hollow | 12.00% | ~10 |
@@ -37,9 +37,9 @@
 | Friend of Orgash | 10.00% | ~8 |
 | Friend of Windholme | 10.00% | ~8 |
 | Magic Academy | 10.00% | ~8 |
-| Mage Teacher | 9.00% | ~7 |
-| A Master of Magic | 9.00% | ~7 |
-| A Joke | 9.00% | ~7 |
+| Mage Teacher | 8.00% | ~7 |
+| A Master of Magic | 8.00% | ~7 |
+| A Joke | 8.00% | ~7 |
 | Defeat Gor | 7.00% | ~6 |
 | Defeat Uram | 7.00% | ~6 |
 | Elynn's Tale | 7.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 497)  
+Progressed: 83 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 71 | 0 |
 | 2023-12-24 | 77 | 0 |
 | 2023-12-25 | 81 | 0 |
-| 2023-12-26 | 82 | 0 |
+| 2023-12-26 | 83 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

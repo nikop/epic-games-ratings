@@ -10176,9 +10176,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 129949,
+  "EOS_Progressed": 129960,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1457,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36896,6 +36896,11 @@
       "Time": "2023-12-26T12:09:43.0517537+00:00",
       "NumProgressed": 129949,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T13:11:46.7395975+00:00",
+      "NumProgressed": 129960,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36907,7 +36912,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -36923,7 +36928,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37003,7 +37008,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -37035,7 +37040,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37059,7 +37064,7 @@
       "Name": "Not Today!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37083,7 +37088,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "combat_kill_gaunts",
@@ -37099,7 +37104,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -37179,7 +37184,7 @@
       "Name": "It Happens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -37203,7 +37208,7 @@
       "Name": "Rush Hour",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -37211,7 +37216,7 @@
       "Name": "Merry Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -37219,7 +37224,7 @@
       "Name": "Harvest Festival",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -37227,7 +37232,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "driving_distance_easy",
@@ -37259,7 +37264,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "hero_story_complete_all",
@@ -37283,7 +37288,7 @@
       "Name": "Whale",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "hospital_full_service",
@@ -37299,7 +37304,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -37315,7 +37320,7 @@
       "Name": "FNG",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "inn_visit_all_variants",
@@ -37323,7 +37328,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -37355,7 +37360,7 @@
       "Name": "Nope",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "run_victory_act01",
@@ -37371,7 +37376,7 @@
       "Name": "Hot Air",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "run_victory_act03",
@@ -37379,7 +37384,7 @@
       "Name": "Eyes Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "run_victory_act04",
@@ -37443,7 +37448,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "combat_kill_collector",
@@ -37507,7 +37512,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37521,38 +37526,38 @@
       "ID": "run_victory_any_ves_pd_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "For Old Time\u0027 Sake",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "On This Long Road, We Found Redemption",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129949,
+      "Progressed": 129960,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4818,
+      "Progressed": 4829,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-26T07:58:34.6714656+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:09:43.0517534+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:11:46.7395973+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:58:52.9355965+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:09:43.0519019+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:01:27.1735242+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:11:46.7397455+00:00"
 }

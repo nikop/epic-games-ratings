@@ -31,6 +31,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ambitious Intent | 0.60% | ~1,450 |
 | R.I.P | 0.60% | ~1,450 |
 | Dig Your Own Grave | 0.60% | ~1,450 |
+| Who To Trust? | 0.60% | ~1,450 |
 | Walk It Off | 0.60% | ~1,450 |
 | Cold Hearted | 0.60% | ~1,450 |
 | I Am Overburdened | 0.60% | ~1,450 |
@@ -41,7 +42,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.60% | ~1,450 |
 | Flesh Wound | 0.60% | ~1,450 |
 | Consecutive Curses | 0.50% | ~1,209 |
-| Who To Trust? | 0.50% | ~1,209 |
 | Just Chilling | 0.50% | ~1,209 |
 | Save Our Souls | 0.50% | ~1,209 |
 | Destroy Your Fears | 0.50% | ~1,209 |
@@ -60,6 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.40% | ~967 |
 | Stop Hitting Yourself | 0.40% | ~967 |
 | Illuminate, Eliminate | 0.40% | ~967 |
+| Chain Reaction | 0.40% | ~967 |
 | Doing Time | 0.40% | ~967 |
 | Spreading Plague | 0.40% | ~967 |
 | Antivenom | 0.40% | ~967 |
@@ -67,7 +68,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who Needs Luck? | 0.40% | ~13 |
 | Berzerker | 0.30% | ~725 |
 | Juggernaut | 0.30% | ~725 |
-| Chain Reaction | 0.30% | ~725 |
 | Decisions, Decisions | 0.30% | ~725 |
 | Snake Sneak | 0.30% | ~725 |
 | Precious | 0.30% | ~725 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,729 (Ranked 69)  
+Progressed: 241,734 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
-| 2023-12-26 | 241,729 | 302 |
+| 2023-12-26 | 241,734 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

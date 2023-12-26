@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 261,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -1049,6 +1049,11 @@
       "Time": "2023-12-26T11:05:17.0177357+00:00",
       "NumProgressed": 259,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T13:08:10.0296353+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1133,7 +1138,7 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "AC_BOSS_01",
@@ -1141,7 +1146,7 @@
       "Name": "Misery",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC_BOSS_02",
@@ -1149,7 +1154,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_BOSS_03",
@@ -1205,7 +1210,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_DEATH_2",
@@ -1227,17 +1232,17 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1245,15 +1250,15 @@
       "Name": "Genocide",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 206
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1301,7 +1306,7 @@
       "Name": "Schooling",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1333,7 +1338,7 @@
       "Name": "Gun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1341,7 +1346,7 @@
       "Name": "Cook",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1365,7 +1370,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1396,14 +1401,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 261,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:05:43.4976855+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:10.0296347+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:51.1133331+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:05:43.4977176+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:17.5965416+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:10.0296682+00:00"
 }

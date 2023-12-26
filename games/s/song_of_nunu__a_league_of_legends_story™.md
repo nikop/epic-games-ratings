@@ -22,10 +22,10 @@ Rating: 4.52 (Ranked 563)
 | My Darkest Day | 48.00% | ~645 |
 | Rhythm Of Willump | 46.00% | ~618 |
 | The Relentless Storm | 46.00% | ~618 |
-| A Tragic Reminder | 44.00% | ~591 |
+| A Tragic Reminder | 45.00% | ~604 |
 | 3000 Year Blackout | 44.00% | ~591 |
+| So Close | 42.00% | ~564 |
 | The Finisher | 42.00% | ~564 |
-| So Close | 41.00% | ~551 |
 | You Get Used To It | 41.00% | ~551 |
 | Family | 39.00% | ~524 |
 | Biggest Snowball Ever | 39.00% | ~524 |

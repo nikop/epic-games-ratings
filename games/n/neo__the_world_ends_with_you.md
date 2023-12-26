@@ -1,7 +1,7 @@
 # NEO: The World Ends with You
 [Store](https://store.epicgames.com/en-US/p/neo-the-world-ends-with-you)  
 [View Rawdata](../../db/n/neo__the_world_ends_with_you.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.86 (Ranked 32)  
 Number of Ratings: 214  (23.09.2022)  
 ## Awards
 Max (Character Customization): 98  (Ranked 374)  
@@ -71,3 +71,4 @@ Diff (max vs sum): -54
 | 2023-09-24 | 4.86 | - | 97 | 163 |
 | 2023-10-28 | 4.86 | - | 98 | 164 |
 | 2023-12-17 | 4.85 | - | 98 | 164 |
+| 2023-12-26 | 4.86 | - | 98 | 164 |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 54.00% | ~130 |
-| The 4 Pillars | 50.00% | ~120 |
-| Capitalism | 20.00% | ~48 |
-| Green Energy | 11.00% | ~26 |
+| First Step | 53.00% | ~128 |
+| The 4 Pillars | 49.00% | ~119 |
+| Capitalism | 19.00% | ~46 |
+| Green Energy | 11.00% | ~27 |
 | There's something in those trees | 10.00% | ~24 |
 | Desert Power | 10.00% | ~24 |
 | Indebted | 10.00% | ~24 |
@@ -16,23 +16,23 @@
 | Desert Rat | 8.00% | ~19 |
 | Perfect Soldier | 7.00% | ~17 |
 | Ammo Tycoon | 7.00% | ~17 |
-| Healing | 6.00% | ~14 |
-| Good payer | 6.00% | ~14 |
-| Pathfinder | 6.00% | ~14 |
-| Food Tycoon | 6.00% | ~14 |
-| Fuel Tycoon | 6.00% | ~14 |
+| Healing | 6.00% | ~15 |
+| Good payer | 6.00% | ~15 |
+| Pathfinder | 6.00% | ~15 |
+| Food Tycoon | 6.00% | ~15 |
+| Fuel Tycoon | 6.00% | ~15 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~12 |
 | Outdoor Decorator | 5.00% | ~12 |
 | Overpopulation | 5.00% | ~12 |
 | Property Bro | 5.00% | ~12 |
 | Self-sufficient | 5.00% | ~12 |
-| Medicine Tycoon | 4.00% | ~10 |
-| Tear Down the Wall! | 3.00% | ~7 |
+| Medicine Tycoon | 5.00% | ~12 |
 | Supersoldier | 3.00% | ~7 |
-| Vive le Résistance | 3.00% | ~7 |
-| Human Resources | 3.00% | ~7 |
 | Training Camp | 3.00% | ~7 |
+| Tear Down the Wall! | 2.00% | ~5 |
+| Vive le Résistance | 2.00% | ~5 |
 | No News is Good News | 2.00% | ~5 |
+| Human Resources | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
 | Economist | 1.00% | ~2 |
 | Crisis Committee | 1.00% | ~2 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 400)  
+Progressed: 242 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,3 +134,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 234 | 0 |
 | 2023-12-24 | 239 | 0 |
 | 2023-12-25 | 240 | 0 |
+| 2023-12-26 | 242 | 0 |

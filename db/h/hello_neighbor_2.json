@@ -483,7 +483,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3627,
+  "EOS_Progressed": 3629,
   "EOS_Completed": 140,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
@@ -6093,6 +6093,11 @@
       "Time": "2023-12-26T12:05:34.4125032+00:00",
       "NumProgressed": 3627,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-26T13:08:01.8730605+00:00",
+      "NumProgressed": 3629,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6104,7 +6109,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -6120,7 +6125,7 @@
       "Name": "Cat Person",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACH_CLIMBER",
@@ -6128,7 +6133,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -6144,7 +6149,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6168,7 +6173,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6176,7 +6181,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_REUNION",
@@ -6184,7 +6189,7 @@
       "Name": "Reunion",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -6200,7 +6205,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -6208,14 +6213,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2867
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3627,
+      "Progressed": 3629,
       "Completed": 140
     }
   ],
@@ -6223,8 +6228,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-22T21:01:38.0566767+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:05:34.4125026+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:01.8730602+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:58:40.2849744+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:05:34.4125388+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:01:15.6266385+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:01.8730925+00:00"
 }

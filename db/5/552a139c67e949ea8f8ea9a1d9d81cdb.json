@@ -3,7 +3,7 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1659,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4063,9 +4063,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4428,8 +4428,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:06:25.4895535+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:47.6335344+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:44.958665+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:06:25.4896081+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:12.4448232+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:47.6335727+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 43.52,
+  "EOS_Completed_Percentage": 43.3,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1299,6 +1299,11 @@
       "Time": "2023-12-26T12:09:13.379631+00:00",
       "NumProgressed": 193,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-12-26T13:11:20.4407466+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 84
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1309,9 +1314,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 80,
-      "UsersEstimate": 127
+      "UsersEstimate": 126
     },
     {
       "ID": "Intro",
@@ -1319,7 +1324,7 @@
       "Name": "Intro",
       "Percentage": 97,
       "XP": 75,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Kanalizace",
@@ -1349,9 +1354,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "Majak",
@@ -1383,23 +1388,23 @@
       "Name": "Hatch",
       "Percentage": 84,
       "XP": 75,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 75,
-      "UsersEstimate": 152
+      "UsersEstimate": 151
     },
     {
       "ID": "Tuleni",
@@ -1407,21 +1412,21 @@
       "Name": "Seal Peaks",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 84
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:09:13.3796305+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:11:20.4407461+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.6934755+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:58:43.8333849+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:09:13.3796435+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:01:17.9493513+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:11:20.4407608+00:00"
 }

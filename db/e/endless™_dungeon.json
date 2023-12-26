@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1398,
+  "EOS_Progressed": 1400,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -2885,6 +2885,11 @@
       "Time": "2023-12-26T10:08:20.6267815+00:00",
       "NumProgressed": 1398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T13:06:06.6153436+00:00",
+      "NumProgressed": 1400,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2929,7 +2934,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -2953,7 +2958,7 @@
       "Name": "Pest Control",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -2977,7 +2982,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -2985,7 +2990,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -2993,7 +2998,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3041,7 +3046,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3136,14 +3141,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1398,
+      "Progressed": 1400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-26T11:06:12.3047553+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:06:06.6153433+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:58:35.467587+00:00",
-  "LastUpdate_Achievements": "2023-12-26T11:06:12.3047839+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:01:11.6053747+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:06:06.6153789+00:00"
 }

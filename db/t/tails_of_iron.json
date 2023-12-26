@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2282,
+  "EOS_Progressed": 2283,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4171,6 +4171,11 @@
       "Time": "2023-12-26T01:49:23.0991309+00:00",
       "NumProgressed": 2282,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-26T13:08:45.5093125+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4444,9 +4449,9 @@
       "ID": "DefeatYellowTongue",
       "SetID": "cbf1i0c",
       "Name": "Shield Maiden Yellow Tongue",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FirstBeer",
@@ -4469,13 +4474,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2282,
+      "Progressed": 2283,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 903
     }
   ],
@@ -4483,8 +4488,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:06:23.1592082+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:45.5093123+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-26T12:00:37.4663964+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:06:23.1592464+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:57.4158538+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:45.5093756+00:00"
 }

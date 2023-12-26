@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2023-12-26T06:05:32.6616927+00:00",
       "NumProgressed": 140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T13:07:02.5448603+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -831,7 +836,7 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
       "UsersEstimate": 92
     },
@@ -847,9 +852,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Achi_21",
@@ -863,17 +868,17 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_24",
@@ -927,7 +932,7 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
       "UsersEstimate": 92
     },
@@ -1096,7 +1101,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 1
     }
   ],
@@ -1104,8 +1109,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:04:29.7220573+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:07:02.5448596+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:57.3788075+00:00",
-  "LastUpdate_Ratings": "2023-12-26T12:00:52.0799743+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:04:29.7220897+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:05:19.5951256+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:07:02.544898+00:00"
 }

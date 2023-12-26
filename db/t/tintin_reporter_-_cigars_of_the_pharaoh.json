@@ -2,7 +2,7 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 148,
@@ -609,9 +609,9 @@
       "ID": "Achievement23",
       "SetID": "9fa3l5n",
       "Name": "Punctual",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement24",
@@ -777,9 +777,9 @@
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:06:16.4583117+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:08:39.4763384+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-26T12:00:38.8931672+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:06:16.4583363+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:02:58.7096431+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:08:39.4763577+00:00"
 }

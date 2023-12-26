@@ -1,7 +1,7 @@
 # Flatout 2
 [Store](https://store.epicgames.com/en-US/p/flatout-2-9ffdd6)  
 [View Rawdata](../../db/f/flatout_2.json)  
-Rating: 4.88 (Ranked 18)  
+Rating: 4.89 (Ranked 11)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -24,3 +24,4 @@ Rating: 4.88 (Ranked 18)
 | 2023-11-08 | 4.90 | 0 | 0 |
 | 2023-12-15 | 4.89 | 0 | 0 |
 | 2023-12-23 | 4.88 | 0 | 0 |
+| 2023-12-26 | 4.89 | 0 | 0 |

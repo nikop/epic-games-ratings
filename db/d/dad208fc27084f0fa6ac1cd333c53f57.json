@@ -3,9 +3,9 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6138,
+  "EOS_Progressed": 6140,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -6194,6 +6194,11 @@
       "Time": "2023-12-26T12:04:06.421306+00:00",
       "NumProgressed": 6138,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-26T13:06:42.0474019+00:00",
+      "NumProgressed": 6140,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6222,7 +6227,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -6230,7 +6235,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -6238,7 +6243,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -6246,7 +6251,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -6254,7 +6259,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -6262,7 +6267,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4851
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -6333,14 +6338,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6138,
+      "Progressed": 6140,
       "Completed": 59
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:04:06.4213057+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:06:42.0474016+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:57.8220265+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:59:10.1363913+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:04:06.4213349+00:00"
+  "LastUpdate_Ratings": "2023-12-26T13:01:42.2891792+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:06:42.0474304+00:00"
 }

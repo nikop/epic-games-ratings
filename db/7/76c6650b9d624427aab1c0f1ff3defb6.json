@@ -4,8 +4,8 @@
   "ProductSlug": "the-repair-house-349cf9",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-09-18T09:00:00+00:00",
     "PcReleaseDate": "2023-07-19T13:00:00+00:00",
@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 36,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 11,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
@@ -204,6 +204,11 @@
       "Time": "2023-12-25T13:07:20.140702+00:00",
       "NumProgressed": 35,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-26T13:06:40.1111592+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 0,
@@ -213,14 +218,14 @@
     {
       "ID": "7n48c96",
       "IsBase": true,
-      "Progressed": 35,
-      "Completed": 35
+      "Progressed": 36,
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-11-06T07:02:40.1582806+00:00",
   "FirstSeenAchievements": "2023-09-12T12:01:01.0703502+00:00",
-  "LastChanged_Achievements": "2023-12-26T12:04:04.0509246+00:00",
+  "LastChanged_Achievements": "2023-12-26T13:06:40.1111589+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:14.7642649+00:00",
-  "LastUpdate_Ratings": "2023-12-26T11:57:11.2493528+00:00",
-  "LastUpdate_Achievements": "2023-12-26T12:04:04.050929+00:00"
+  "LastUpdate_Ratings": "2023-12-26T12:59:57.4539466+00:00",
+  "LastUpdate_Achievements": "2023-12-26T13:06:40.1111626+00:00"
 }

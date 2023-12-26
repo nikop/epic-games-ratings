@@ -28,10 +28,10 @@ Number of Ratings: 20  (23.09.2022)
 | Red Flag Pirate | 19.00% | ~71 |
 | Iron Man | 17.00% | ~64 |
 | A Gentle Beast | 17.00% | ~64 |
+| For the Club! | 16.00% | ~60 |
 | Shortening of the Way | 16.00% | ~60 |
 | Practical Palaeontology | 16.00% | ~60 |
 | Adventurer | 15.00% | ~56 |
-| For the Club! | 15.00% | ~56 |
 | Dapper | 15.00% | ~56 |
 | The New Director | 14.00% | ~53 |
 | Plays Well With Others | 14.00% | ~53 |

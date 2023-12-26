@@ -9,6 +9,7 @@ Rating: 4.56 (Ranked 495)
 | The Bright Fir | 1.00% | ~9 |
 | Become King | 0.90% | ~21 |
 | Defeat 25 Frogs | 0.80% | ~18 |
+| Shield Maiden Yellow Tongue | 0.80% | ~7 |
 | Collect Gold | 0.70% | ~16 |
 | Collect Iron Ore | 0.70% | ~16 |
 | Collect Monster Parts | 0.70% | ~16 |
@@ -18,7 +19,6 @@ Rating: 4.56 (Ranked 495)
 | Smithy Ready to Craft | 0.70% | ~16 |
 | Rescue Redgi's Brothers | 0.70% | ~16 |
 | Defeat Croakhis Khan | 0.70% | ~6 |
-| Shield Maiden Yellow Tongue | 0.70% | ~6 |
 | I Remember My First Beer | 0.70% | ~6 |
 | Complete Elder Faction | 0.60% | ~14 |
 | End of the Mozis | 0.60% | ~14 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 495)
 | King of Kings | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,282 (Ranked 232)  
+Progressed: 2,283 (Ranked 232)  
 Completed: 12 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 12 (0.53%) (Ranked 214)
 | 2023-12-23 | 2,274 | 12 |
 | 2023-12-24 | 2,279 | 12 |
 | 2023-12-25 | 2,281 | 12 |
-| 2023-12-26 | 2,282 | 12 |
+| 2023-12-26 | 2,283 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

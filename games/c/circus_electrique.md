@@ -40,6 +40,7 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Fourth | 3.00% | ~15 |
 | Circus Maximus | 3.00% | ~15 |
 | King of District 5 | 3.00% | ~15 |
+| Perfect Chemistry | 3.00% | ~15 |
 | Last Man Standing | 3.00% | ~15 |
 | Accomplished Veteran | 2.00% | ~10 |
 | Unmatched Skills | 2.00% | ~10 |
@@ -48,7 +49,6 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 6 | 2.00% | ~10 |
 | Grand Slam | 2.00% | ~10 |
 | The Greatest Show | 2.00% | ~10 |
-| Perfect Chemistry | 2.00% | ~10 |
 | Hundred Percent Sixth | 1.00% | ~5 |
 | London Liberator | 1.00% | ~5 |
 | Vicious Busters | 1.00% | ~5 |
