@@ -2,7 +2,7 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 72,
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3052,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -6481,9 +6481,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1770
     },
     {
       "ID": "achievement_22",
@@ -6513,9 +6513,9 @@
       "ID": "achievement_25",
       "SetID": "b9pe172",
       "Name": "Sentinel Ally",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 977
     },
     {
       "ID": "achievement_26",
@@ -7181,8 +7181,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:09:50.7804518+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:11:25.4657274+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:03:03.0596946+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:09:50.7806091+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:04:13.9490595+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:11:25.4659912+00:00"
 }

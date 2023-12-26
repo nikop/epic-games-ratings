@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58436,
+  "EOS_Progressed": 58438,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14751,6 +14751,11 @@
       "Time": "2023-12-26T02:25:39.1447952+00:00",
       "NumProgressed": 58436,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T06:08:31.0058993+00:00",
+      "NumProgressed": 58438,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14898,7 +14903,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "HFZGoober",
@@ -14938,7 +14943,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "LittleGirl",
@@ -15153,7 +15158,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58436,
+      "Progressed": 58438,
       "Completed": 6
     }
   ],
@@ -15161,8 +15166,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:06:03.685648+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:08:31.005899+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:48.6080923+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:06:03.6857411+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:19.4997287+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:08:31.0059783+00:00"
 }

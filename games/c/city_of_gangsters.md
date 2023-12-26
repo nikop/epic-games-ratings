@@ -5,15 +5,15 @@ Rating: 4.29 (Ranked 862)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,927 |
+| Corner Clout | 46.00% | ~164,928 |
 | Copacetic Coordination | 16.00% | ~57,366 |
 | Fronting the Money | 15.00% | ~53,781 |
-| The Dawn of Automation | 14.00% | ~50,195 |
-| Extraordinary Logistics | 14.00% | ~50,195 |
+| The Dawn of Automation | 14.00% | ~50,196 |
+| Extraordinary Logistics | 14.00% | ~50,196 |
 | Dirty Money | 13.00% | ~46,610 |
 | Family First | 13.00% | ~46,610 |
-| Cleaning House | 12.00% | ~43,024 |
-| Room in the Back | 12.00% | ~43,024 |
+| Cleaning House | 12.00% | ~43,025 |
+| Room in the Back | 12.00% | ~43,025 |
 | Beating the Heat | 11.00% | ~39,439 |
 | Booze Baron | 11.00% | ~39,439 |
 | Friends on the Force | 10.00% | ~35,854 |
@@ -36,12 +36,12 @@ Rating: 4.29 (Ranked 862)
 | Opportunity Knocked | 5.00% | ~17,927 |
 | City of Big Shoulders | 5.00% | ~17,927 |
 | Mission Mastery | 5.00% | ~17,927 |
-| Considerable Clams | 4.00% | ~14,341 |
-| Gin Joint | 4.00% | ~14,341 |
-| An Affront to the Enemy | 4.00% | ~14,341 |
-| Friends from Back Home | 4.00% | ~14,341 |
-| Bees Knees Bootlegger | 4.00% | ~14,341 |
-| Half Century Mark | 4.00% | ~14,341 |
+| Considerable Clams | 4.00% | ~14,342 |
+| Gin Joint | 4.00% | ~14,342 |
+| An Affront to the Enemy | 4.00% | ~14,342 |
+| Friends from Back Home | 4.00% | ~14,342 |
+| Bees Knees Bootlegger | 4.00% | ~14,342 |
+| Half Century Mark | 4.00% | ~14,342 |
 | Corner Opportunities | 3.00% | ~10,756 |
 | 2122 North Clark Street | 3.00% | ~10,756 |
 | Copious Cabbage | 3.00% | ~10,756 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 862)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,537 (Ranked 50)  
+Progressed: 358,540 (Ranked 50)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-23 | 358,114 | 7 |
 | 2023-12-24 | 358,322 | 7 |
 | 2023-12-25 | 358,511 | 7 |
-| 2023-12-26 | 358,537 | 7 |
+| 2023-12-26 | 358,540 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 429)  
 Sum: 261 (Ranked 391)  

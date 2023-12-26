@@ -4,7 +4,7 @@
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-12-25T21:10:06.4063184+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T06:11:11.2295731+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -562,7 +567,7 @@
       "Name": "Neon Beach Champ",
       "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NeonBeachGod",
@@ -578,7 +583,7 @@
       "Name": "Neon City Champ",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NeonCityGod",
@@ -594,7 +599,7 @@
       "Name": "Neon Snow Champ",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NeonSnowGod",
@@ -641,14 +646,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:09:39.9567913+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:11:11.2295728+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7260163+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:03.3966967+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:09:39.9567998+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:59:11.2833165+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:11:11.2295858+00:00"
 }

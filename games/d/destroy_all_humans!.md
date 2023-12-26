@@ -6,20 +6,20 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~109 |
-| Kaijuiced | 66.00% | ~107 |
-| Lie Back and Think of Albion | 60.00% | ~97 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~92 |
+| Kaijuiced | 66.00% | ~108 |
+| Shop Til They Drop | 66.00% | ~108 |
+| Lie Back and Think of Albion | 60.00% | ~98 |
 | Yettisoned | 56.00% | ~91 |
-| I Look Up As I Walk to Takoshima | 52.00% | ~84 |
-| Perfect Probulator | 51.00% | ~83 |
-| Lobster Blisque | 49.00% | ~79 |
-| Pimp My Raid | 46.00% | ~75 |
-| Earthly Pleasures | 43.00% | ~70 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 56.00% | ~91 |
+| I Look Up As I Walk to Takoshima | 52.00% | ~85 |
+| Perfect Probulator | 50.00% | ~82 |
+| Lobster Blisque | 49.00% | ~80 |
+| Pimp My Raid | 45.00% | ~73 |
 | Fly Me to the Moon Base | 42.00% | ~68 |
-| Ducks in a Row, Fish in a Barrel | 41.00% | ~66 |
-| Freshly Squeezed | 31.00% | ~50 |
-| Bodied Sattva | 31.00% | ~50 |
+| Earthly Pleasures | 42.00% | ~68 |
+| Ducks in a Row, Fish in a Barrel | 41.00% | ~67 |
+| Freshly Squeezed | 32.00% | ~52 |
+| Bodied Sattva | 31.00% | ~51 |
 | Forbidden Donut | 30.00% | ~49 |
 | Upgreatest | 30.00% | ~49 |
 | Furon Fashion | 24.00% | ~39 |
@@ -29,17 +29,17 @@ Number of Ratings: 85  (23.09.2022)
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~34 |
 | Arkvoodle Doodle | 16.00% | ~26 |
 | Ouch of Body Experience | 15.00% | ~24 |
-| Die Nasty | 14.00% | ~23 |
+| Die Nasty | 13.00% | ~21 |
 | Hidden Human Hive Harvest | 13.00% | ~21 |
 | Mash Machine | 13.00% | ~21 |
 | Dusted | 13.00% | ~21 |
-| If You Know What I Mean | 12.00% | ~19 |
-| Albion Bridge Is for Falling Down | 12.00% | ~19 |
+| If You Know What I Mean | 12.00% | ~20 |
+| Albion Bridge Is for Falling Down | 12.00% | ~20 |
 | Scuttled | 7.00% | ~11 |
 | PK Slam Dunk | 7.00% | ~11 |
 | Higher Than the Futen Zoku | 7.00% | ~11 |
 | Arty Facts | 6.00% | ~10 |
-| Cult Following | 4.00% | ~6 |
+| Cult Following | 4.00% | ~7 |
 | Path of the Furon | 3.00% | ~5 |
 | To Russia With Love | 2.00% | ~3 |
 | Toilet Break | 2.00% | ~3 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 0.60% | ~1 |
 | Against All Odds | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 430)  
-Completed: 1 (0.62%) (Ranked 201)  
+Progressed: 163 (Ranked 430)  
+Completed: 1 (0.61%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,7 +60,7 @@ Completed: 1 (0.62%) (Ranked 201)
 | 2023-12-23 | 122 | 0 |
 | 2023-12-24 | 141 | 1 |
 | 2023-12-25 | 161 | 1 |
-| 2023-12-26 | 162 | 1 |
+| 2023-12-26 | 163 | 1 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 500)  
 Sum: 34 (Ranked 524)  

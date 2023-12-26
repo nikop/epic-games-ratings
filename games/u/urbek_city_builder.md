@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 17.00% | ~78 |
+| Small town | 17.00% | ~79 |
 | I like parks | 15.00% | ~69 |
-| The spiritual world... | 9.00% | ~41 |
+| The spiritual world... | 9.00% | ~42 |
 | It is nice to share with friends in the city | 8.00% | ~37 |
 | The woodcutter | 7.00% | ~32 |
 | Sport is good for you | 7.00% | ~32 |
@@ -22,9 +22,9 @@
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | Rebel city | 1.00% | ~5 |
 | Metropolurbek | 0.90% | ~4 |
-| Banking city | 0.70% | ~3 |
-| City crisis | 0.70% | ~3 |
-| I am very happy! | 0.70% | ~3 |
+| Banking city | 0.60% | ~3 |
+| City crisis | 0.60% | ~3 |
+| I am very happy! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |
 | Oh, life is too awesome! Thank you! | 0.40% | ~2 |
 | ¡Muy feliz! | 0.40% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461 (Ranked 341)  
+Progressed: 462 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,6 +248,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 455 | 0 |
 | 2023-12-24 | 457 | 0 |
 | 2023-12-25 | 461 | 0 |
+| 2023-12-26 | 462 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

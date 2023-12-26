@@ -5,19 +5,19 @@ Rating: 4.79 (Ranked 100)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,899 |
-| No more cages! | 91.00% | ~2,777 |
-| Everfrost | 77.00% | ~2,350 |
+| For Demacia | 95.00% | ~2,900 |
+| No more cages! | 91.00% | ~2,778 |
+| Everfrost | 77.00% | ~2,351 |
 | Pentakill | 76.00% | ~2,320 |
 | Dark Forest | 76.00% | ~2,320 |
-| The use of petricite | 73.00% | ~2,228 |
-| You can pet the dog | 60.00% | ~1,831 |
+| The use of petricite | 73.00% | ~2,229 |
+| You can pet the dog | 60.00% | ~1,832 |
 | Thornbarrow | 42.00% | ~1,282 |
 | Big Helmet Bro | 40.00% | ~1,221 |
 | Clarion Cove | 40.00% | ~1,221 |
 | Ternmoat Headquarters | 38.00% | ~1,160 |
-| Elemental master | 37.00% | ~1,129 |
-| Past trauma | 37.00% | ~1,129 |
+| Elemental master | 37.00% | ~1,130 |
+| Past trauma | 37.00% | ~1,130 |
 | Cypress Glen Headquarters | 34.00% | ~1,038 |
 | Petricite Burst | 33.00% | ~1,007 |
 | Old friend | 32.00% | ~977 |
@@ -30,12 +30,12 @@ Rating: 4.79 (Ranked 100)
 | Little light | 23.00% | ~702 |
 | Capelworth | 23.00% | ~702 |
 | Full equipped | 23.00% | ~702 |
-| Glyndemere | 22.00% | ~671 |
-| Iffighain Headquarters | 22.00% | ~671 |
-| Whispers in the Woods II | 18.00% | ~549 |
-| No more holding back | 18.00% | ~549 |
-| Terbisia | 18.00% | ~549 |
-| Quickmoore Headquarters | 18.00% | ~549 |
+| Glyndemere | 22.00% | ~672 |
+| Iffighain Headquarters | 22.00% | ~672 |
+| Whispers in the Woods II | 18.00% | ~550 |
+| No more holding back | 18.00% | ~550 |
+| Terbisia | 18.00% | ~550 |
+| Quickmoore Headquarters | 18.00% | ~550 |
 | Whispers in the Woods III | 17.00% | ~519 |
 | Friendly fire | 17.00% | ~519 |
 | My heart and sword always for Demacia | 16.00% | ~488 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 100)
 | Silverwing nest | 2.00% | ~61 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,052 (Ranked 219)  
+Progressed: 3,053 (Ranked 219)  
 Completed: 17 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 17 (0.56%) (Ranked 206)
 | 2023-12-23 | 2,991 | 16 |
 | 2023-12-24 | 3,025 | 16 |
 | 2023-12-25 | 3,050 | 17 |
-| 2023-12-26 | 3,052 | 17 |
+| 2023-12-26 | 3,053 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

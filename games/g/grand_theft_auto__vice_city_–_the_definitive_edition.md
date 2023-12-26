@@ -5,22 +5,22 @@ Rating: 4.52 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,470 |
-| Greasy Palms | 42.00% | ~5,907 |
-| South American Connection | 25.00% | ~3,516 |
-| Life of the Party | 20.00% | ~2,813 |
+| Legal Counsel | 46.00% | ~6,472 |
+| Greasy Palms | 42.00% | ~5,909 |
+| South American Connection | 25.00% | ~3,518 |
+| Life of the Party | 20.00% | ~2,814 |
 | Tommy Two-Wheels | 15.00% | ~2,110 |
-| Big Heat from Little Havana | 14.00% | ~1,969 |
-| Chauffeur | 14.00% | ~1,969 |
-| Salutations My Little Friend | 11.00% | ~1,547 |
-| Iron-y | 10.00% | ~1,406 |
+| Big Heat from Little Havana | 14.00% | ~1,970 |
+| Chauffeur | 14.00% | ~1,970 |
+| Salutations My Little Friend | 11.00% | ~1,548 |
+| Iron-y | 10.00% | ~1,407 |
 | Gun for Hire | 9.00% | ~1,266 |
-| Mischief Managed | 8.00% | ~1,125 |
+| Mischief Managed | 8.00% | ~1,126 |
 | Vice City Mogul | 6.00% | ~844 |
 | Catch Me if You Can | 6.00% | ~844 |
 | Bloodstained Hands | 6.00% | ~844 |
-| Not my First Time | 5.00% | ~703 |
-| Grand Theft Auto | 5.00% | ~703 |
+| Not my First Time | 5.00% | ~704 |
+| Grand Theft Auto | 5.00% | ~704 |
 | Pie Guy | 4.00% | ~563 |
 | Point A to Point B | 3.00% | ~422 |
 | High Quality H2O | 3.00% | ~422 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 563)
 | Done it All | 0.90% | ~127 |
 | Kingpin | 0.50% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,065 (Ranked 167)  
+Progressed: 14,070 (Ranked 167)  
 Completed: 76 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 76 (0.54%) (Ranked 210)
 | 2023-12-23 | 13,682 | 75 |
 | 2023-12-24 | 13,863 | 75 |
 | 2023-12-25 | 14,030 | 76 |
-| 2023-12-26 | 14,065 | 76 |
+| 2023-12-26 | 14,070 | 76 |
 ## Awards
 Max (Great Boss Battles): 147  (Ranked 325)  
-Sum: 147 (Ranked 433)  
-Diff (max vs sum): -108  
+Sum: 147 (Ranked 434)  
+Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 147 |

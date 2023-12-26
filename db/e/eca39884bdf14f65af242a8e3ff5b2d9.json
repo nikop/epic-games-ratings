@@ -2,12 +2,12 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 640,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-12-07T19:59:23.1655441+00:00",
@@ -579,10 +579,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 473,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-12-26T05:57:41.9968097+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 486,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 473,
+  "NumberOfAwards": 486,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -602,7 +608,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 54
+      "Count": 59
     },
     {
       "Text": "This game is Extremely Fun",
@@ -632,7 +638,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 47
+      "Count": 55
     },
     {
       "Text": "This game has Challenging Combat",
@@ -665,8 +671,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-26T02:16:17.6817524+00:00",
+  "LastChanged": "2023-12-26T05:57:41.9968095+00:00",
   "LastUpdate_AppInfo": "2023-12-25T06:57:12.3126511+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:57:04.6100581+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:04:42.4759359+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:57:41.9968102+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:06:36.576061+00:00"
 }

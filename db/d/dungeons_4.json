@@ -2,9 +2,9 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.29,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1874,6 +1874,11 @@
       "Time": "2023-12-26T01:52:22.1774715+00:00",
       "NumProgressed": 639,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-26T06:09:38.3624476+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1886,7 +1891,7 @@
       "Name": "The Last Stand",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ach_main01begin_die",
@@ -1894,7 +1899,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ach_main01begin_storm",
@@ -1902,7 +1907,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ach_main02horde_completed",
@@ -1916,9 +1921,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 531
     },
     {
       "ID": "ach_main02horde_traps",
@@ -1926,15 +1931,15 @@
       "Name": "Trap Master",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 486
     },
     {
       "ID": "ach_main03demon_doors",
@@ -1950,7 +1955,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ach_main04undead_completed",
@@ -1958,7 +1963,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ach_main04undead_minions",
@@ -1966,7 +1971,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -1988,9 +1993,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -1998,7 +2003,7 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2022,7 +2027,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2094,7 +2099,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2108,9 +2113,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 301
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -2118,7 +2123,7 @@
       "Name": "Unstoppable Horde",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2142,7 +2147,7 @@
       "Name": "Ghost Pirates? Ghost Heroes!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -2150,7 +2155,7 @@
       "Name": "Master of the Undead",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach_main12race_completed",
@@ -2278,7 +2283,7 @@
       "Name": "Raiders of the Lost Stone",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2373,14 +2378,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:08:33.6597814+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:09:38.362447+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:57.8797197+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:08:33.6598437+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:31.3673178+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:09:38.3625088+00:00"
 }

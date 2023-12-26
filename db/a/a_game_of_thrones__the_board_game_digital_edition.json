@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1362,9 +1362,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31415,
+  "EOS_Progressed": 31419,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28147,6 +28147,11 @@
       "Time": "2023-12-26T05:09:28.0795994+00:00",
       "NumProgressed": 31415,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-26T06:10:54.9175265+00:00",
+      "NumProgressed": 31419,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28222,7 +28227,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "1024",
@@ -28230,7 +28235,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "1025",
@@ -28254,7 +28259,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "1028",
@@ -28270,7 +28275,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "1030",
@@ -28278,7 +28283,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "1031",
@@ -28294,7 +28299,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12568
     },
     {
       "ID": "1033",
@@ -28302,7 +28307,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "1034",
@@ -28333,15 +28338,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31415,
+      "Progressed": 31419,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-25T20:57:25.328838+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:09:28.0795992+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:10:54.9175261+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:57:22.5422166+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:09:28.079704+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:58:08.9891222+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:10:54.9177458+00:00"
 }

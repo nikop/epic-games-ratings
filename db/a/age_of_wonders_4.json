@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 374,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 304,
@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6224,
+  "EOS_Progressed": 6226,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9197,6 +9197,11 @@
       "Time": "2023-12-26T05:03:32.0685484+00:00",
       "NumProgressed": 6224,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T06:04:57.6279001+00:00",
+      "NumProgressed": 6226,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9296,7 +9301,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "20",
@@ -9352,7 +9357,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "27",
@@ -9384,7 +9389,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "30",
@@ -9392,7 +9397,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "31",
@@ -9440,7 +9445,7 @@
       "Name": "Fiery Friend",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "37",
@@ -9448,7 +9453,7 @@
       "Name": "Against the Odds",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "38",
@@ -9464,7 +9469,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "4",
@@ -9560,7 +9565,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "46",
@@ -9568,7 +9573,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "47",
@@ -9592,7 +9597,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "50",
@@ -9616,7 +9621,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "53",
@@ -9632,7 +9637,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "55",
@@ -9656,7 +9661,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "58",
@@ -9687,13 +9692,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6224,
+      "Progressed": 6226,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6224,
+      "Progressed": 6226,
       "Completed": 7
     }
   ],
@@ -9701,8 +9706,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:03:32.0685481+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:04:57.6278997+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:59:24.2140986+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:03:32.0686182+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:01:09.6628748+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:04:57.6280039+00:00"
 }

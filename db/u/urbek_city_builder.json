@@ -2,7 +2,7 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 148,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1635,6 +1635,11 @@
       "Time": "2023-12-25T19:10:07.4919472+00:00",
       "NumProgressed": 461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T06:11:22.7090365+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1692,7 +1697,7 @@
       "ID": "BANCO_1",
       "SetID": "44dlcg0",
       "Name": "Banking city",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1772,7 +1777,7 @@
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1862,7 +1867,7 @@
       "Name": "The spiritual world...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FAITH_2",
@@ -1924,7 +1929,7 @@
       "ID": "FELIZ_2",
       "SetID": "44dlcg0",
       "Name": "I am very happy!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -2078,7 +2083,7 @@
       "Name": "Small town",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "POPULATION_2",
@@ -2277,7 +2282,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 0
     }
   ],
@@ -2285,8 +2290,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:09:48.568035+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:11:22.7090361+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.1198252+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:59:26.8336951+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:09:48.5681105+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:01:13.6383563+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:11:22.709136+00:00"
 }

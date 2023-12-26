@@ -5,7 +5,7 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 82,
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1087,6 +1087,11 @@
       "Time": "2023-12-26T05:04:10.9983531+00:00",
       "NumProgressed": 387,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T06:05:52.0253888+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1195,7 +1200,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -1203,7 +1208,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1354,15 +1359,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:04:10.9983527+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:05:52.0253885+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:37.3792856+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:04:10.9983743+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:02.3739099+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:05:52.0254131+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1016,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3819,
+  "EOS_Progressed": 3820,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10862,6 +10862,11 @@
       "Time": "2023-12-26T05:03:16.5695961+00:00",
       "NumProgressed": 3819,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T06:04:35.7092729+00:00",
+      "NumProgressed": 3820,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -10985,7 +10990,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "dragonslayer",
@@ -11041,7 +11046,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "exoticmerchant",
@@ -11105,7 +11110,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "herewegoagain",
@@ -11121,7 +11126,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "howdoyouturnthison",
@@ -11265,7 +11270,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "prestigiousx10",
@@ -11361,7 +11366,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "thepowerofawakening",
@@ -11433,7 +11438,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "warmachinesarmy",
@@ -11465,14 +11470,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3819,
+      "Progressed": 3820,
       "Completed": 2
     }
   ],
@@ -11480,8 +11485,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-25T10:59:46.8542147+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:03:16.5695959+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:04:35.7092724+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:00:08.8200686+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:03:16.5696886+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:02:15.3597804+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:04:35.7094055+00:00"
 }

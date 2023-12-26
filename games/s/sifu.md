@@ -6,17 +6,17 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,786 |
-| The Assault | 3.00% | ~22,340 |
-| Life is your teacher | 3.00% | ~22,340 |
-| Lightning Hands | 3.00% | ~22,340 |
-| The Hateful Pole Fighter | 2.00% | ~14,893 |
-| Stuntmaster | 2.00% | ~14,893 |
-| Street Fighting | 2.00% | ~14,893 |
-| State of constant learning | 2.00% | ~14,893 |
-| Qi Gong: Essence | 2.00% | ~14,893 |
-| Old Child | 2.00% | ~14,893 |
-| Rumble in the Hangar | 2.00% | ~14,893 |
+| The Old Grandmaster | 4.00% | ~29,788 |
+| The Assault | 3.00% | ~22,341 |
+| Life is your teacher | 3.00% | ~22,341 |
+| Lightning Hands | 3.00% | ~22,341 |
+| The Hateful Pole Fighter | 2.00% | ~14,894 |
+| Stuntmaster | 2.00% | ~14,894 |
+| Street Fighting | 2.00% | ~14,894 |
+| State of constant learning | 2.00% | ~14,894 |
+| Qi Gong: Essence | 2.00% | ~14,894 |
+| Old Child | 2.00% | ~14,894 |
+| Rumble in the Hangar | 2.00% | ~14,894 |
 | A Lady's Blood in the Snow | 1.00% | ~7,447 |
 | Lady Wing Chun | 1.00% | ~7,447 |
 | Furious Fists | 1.00% | ~7,447 |
@@ -28,21 +28,21 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,447 |
 | Project Arena | 1.00% | ~540 |
 | Diligence as a goal | 1.00% | ~540 |
-| Scareless | 0.80% | ~5,957 |
-| Dance of the Praying Mantis | 0.80% | ~5,957 |
-| Kung-Fu Tussle | 0.80% | ~5,957 |
+| Kung-Fu Tussle | 0.90% | ~6,702 |
+| Scareless | 0.80% | ~5,958 |
+| Dance of the Praying Mantis | 0.80% | ~5,958 |
 | Fight the way you practice | 0.70% | ~378 |
 | Martial Hub | 0.60% | ~324 |
-| Muk Yan Master | 0.50% | ~3,723 |
-| Tiger on Fire | 0.50% | ~3,723 |
-| Detective Story | 0.50% | ~3,723 |
+| Muk Yan Master | 0.50% | ~3,724 |
+| Tiger on Fire | 0.50% | ~3,724 |
+| Detective Story | 0.50% | ~3,724 |
 | Bloody Sport | 0.50% | ~270 |
 | Source of Flying Daggers | 0.40% | ~2,979 |
 | Iron Money | 0.40% | ~2,979 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,979 |
 | Prodigal Child | 0.40% | ~2,979 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,979 |
 | Sword Stained With Blood | 0.40% | ~2,979 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,234 |
 | The Pit Protector | 0.30% | ~2,234 |
 | Come Snap With Me | 0.30% | ~2,234 |
 | The best strikes are the ones we avoid | 0.30% | ~162 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~54 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744,654 (Ranked 23)  
+Progressed: 744,706 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 744,654 | 12,966 |
+| 2023-12-26 | 744,706 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
-Sum: 11,864 (Ranked 87)  
+Sum: 11,866 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): -32
 | This game has Challenging Combat | 631 |
 | This game has Amazing Storytelling | 610 |
 | This game has Amazing Characters | 596 |
-| This game is Highly Recommended | 594 |
+| This game is Highly Recommended | 596 |
 | This game has Quickly Understood Controls | 590 |
 | This game is Extremely Fun | 577 |
 | This game has Unique Visuals | 573 |
@@ -681,4 +681,4 @@ Diff (max vs sum): -32
 | 2023-12-23 | 4.82 | - | 6,999 | 12,278 |
 | 2023-12-24 | 4.82 | - | 6,999 | 12,282 |
 | 2023-12-25 | 4.82 | - | 7,010 | 12,297 |
-| 2023-12-26 | 4.82 | - | 7,010 | 11,864 |
+| 2023-12-26 | 4.82 | - | 7,010 | 11,866 |

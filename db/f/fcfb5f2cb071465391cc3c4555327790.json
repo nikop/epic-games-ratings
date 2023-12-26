@@ -4,7 +4,7 @@
   "ProductSlug": "tales-of-the-tiny-planet-ab9e11",
   "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-18T10:00:00+00:00",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T16:04:47.8734626+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:05:11.3387933+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:07:17.6444235+00:00",
   "LastUpdate_AppInfo": "2023-12-19T10:57:04.5490001+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:02:44.4570338+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:05:11.3388168+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:03:45.4636775+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:07:17.6444515+00:00"
 }

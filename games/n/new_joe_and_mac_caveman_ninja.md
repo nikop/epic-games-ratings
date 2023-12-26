@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The T-Rex plain. | 50.00% | ~135 |
-| Crazy Jungle. | 32.00% | ~86 |
+| Crazy Jungle. | 33.00% | ~89 |
 | A turbulent river. | 18.00% | ~49 |
 | In the treetops. | 17.00% | ~46 |
 | At the top of the mountain. | 17.00% | ~46 |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 91.00% | ~2,777 |
 | Spectre Inductee | 68.00% | ~2,075 |
-| Medal of Exploration I | 57.00% | ~1,740 |
+| Medal of Exploration I | 58.00% | ~1,770 |
 | Recruit | 53.00% | ~1,618 |
 | Search and Rescue | 52.00% | ~1,587 |
 | Quarian Ally | 50.00% | ~1,526 |
@@ -25,9 +25,9 @@
 | Principled | 33.00% | ~1,007 |
 | Colonial Savior | 33.00% | ~1,007 |
 | Medal of Exploration III | 32.00% | ~977 |
+| Sentinel Ally | 32.00% | ~977 |
 | Krogan Ally | 32.00% | ~977 |
 | Very Elusive | 32.00% | ~977 |
-| Sentinel Ally | 31.00% | ~946 |
 | Paramour I | 30.00% | ~916 |
 | Merciless | 30.00% | ~916 |
 | Scientist | 30.00% | ~916 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~31 |
 | The One and Only | 0.60% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,052 (Ranked 219)  
+Progressed: 3,052 (Ranked 220)  
 Completed: 10 (0.33%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |

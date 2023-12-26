@@ -8425,10 +8425,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11864,
       "NumberOfAwardsMax": 7010
+    },
+    {
+      "Time": "2023-12-26T06:03:53.6430535+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11866,
+      "NumberOfAwardsMax": 7010
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11864,
+  "NumberOfAwards": 11866,
   "NumberOfAwardsMax": 7010,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8496,7 +8502,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 594
+      "Count": 596
     },
     {
       "Text": "This game has a Creative Community",
@@ -8505,9 +8511,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 744654,
+  "EOS_Progressed": 744706,
   "EOS_Completed": 12966,
-  "EOS_NewPlayers": 9584,
+  "EOS_NewPlayers": 9588,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -30960,6 +30966,11 @@
       "Time": "2023-12-26T05:08:44.9427207+00:00",
       "NumProgressed": 744654,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-26T06:09:54.0786914+00:00",
+      "NumProgressed": 744706,
+      "NumCompleted": 12966
     }
   ],
   "TotalAchievements": 60,
@@ -30971,7 +30982,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29786
+      "UsersEstimate": 29788
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30979,7 +30990,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22340
+      "UsersEstimate": 22341
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30987,7 +30998,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31019,7 +31030,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "08_Wude_H2",
@@ -31027,7 +31038,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "09_Wude_H3",
@@ -31059,7 +31070,7 @@
       "Name": "Scareless",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5957
+      "UsersEstimate": 5958
     },
     {
       "ID": "13_LowAge",
@@ -31083,7 +31094,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "16_Detective_H2",
@@ -31123,7 +31134,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31131,7 +31142,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5957
+      "UsersEstimate": 5958
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31139,7 +31150,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31147,7 +31158,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22340
+      "UsersEstimate": 22341
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31155,7 +31166,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "25_ShrineMind",
@@ -31179,15 +31190,15 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "28_Takedown_Trophy",
       "SetID": "adcm20g",
       "Name": "The 36th Chamber of Kung-Fu",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2979
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -31219,7 +31230,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "33_BladeOneShot",
@@ -31235,15 +31246,15 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22340
+      "UsersEstimate": 22341
     },
     {
       "ID": "35_WideStrike",
       "SetID": "adcm20g",
       "Name": "Kung-Fu Tussle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5957
+      "UsersEstimate": 6702
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -31259,7 +31270,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31450,21 +31461,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 53955,
-      "Completed": 10783
+      "Progressed": 54007,
+      "Completed": 10784
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 744654,
+      "Progressed": 744706,
       "Completed": 12966
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-26T01:46:35.6442523+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:08:44.9427204+00:00",
+  "LastChanged": "2023-12-26T06:03:53.6430532+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:09:54.0786909+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:02:48.9418465+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:08:44.9428757+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:03:53.6430539+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:09:54.0789022+00:00"
 }

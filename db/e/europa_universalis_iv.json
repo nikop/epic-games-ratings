@@ -13719,9 +13719,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 484249,
+  "EOS_Progressed": 484264,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5340,
+  "EOS_NewPlayers": 5344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42474,6 +42474,11 @@
       "Time": "2023-12-26T05:06:40.7993772+00:00",
       "NumProgressed": 484249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T06:09:22.3544079+00:00",
+      "NumProgressed": 484264,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43005,7 +43010,7 @@
       "Name": "Cold War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_colonial_management",
@@ -43101,7 +43106,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -43701,7 +43706,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -45077,7 +45082,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -45388,21 +45393,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 484249,
+      "Progressed": 484264,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 484249,
+      "Progressed": 484264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-25T23:00:01.020047+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:06:40.799377+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:09:22.3544075+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:00:06.1959085+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:06:40.8004272+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:02:11.7168518+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:09:22.3555555+00:00"
 }

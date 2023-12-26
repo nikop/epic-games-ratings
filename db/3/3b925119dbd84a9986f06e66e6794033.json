@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1689,6 +1689,11 @@
       "Time": "2023-12-26T05:09:27.6840489+00:00",
       "NumProgressed": 518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T06:10:54.3147759+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1741,7 +1746,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -1797,7 +1802,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "TIME_ORWELL",
@@ -1811,9 +1816,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1845,7 +1850,7 @@
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -1860,14 +1865,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 520,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:09:27.6840486+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:10:54.3147754+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:50.1901614+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:09:27.6840674+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:21.8265274+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:10:54.314809+00:00"
 }

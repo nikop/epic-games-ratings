@@ -4,7 +4,7 @@
   "ProductSlug": "kits-61b565",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-26T12:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-05-02T04:57:45.1643725+00:00",
   "LastChanged": "2023-05-02T04:57:45.1643726+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.1200806+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:57:40.0866455+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:05:03.0914225+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:58:35.8028648+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:07:05.9629957+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Cook, Serve, Delicious! 3?!",
   "ProductSlug": "cook-serve-delicious-3-fb9aae",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 355,
+  "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T15:00:00+00:00",
@@ -1382,11 +1382,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 748,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-12-26T06:00:34.6734295+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 749,
+      "NumberOfAwardsMax": 113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 748,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 749,
+  "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1405,7 +1411,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1474,8 +1480,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-11T18:01:43.0387462+00:00",
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
-  "LastChanged": "2023-12-18T04:59:04.8678795+00:00",
+  "LastChanged": "2023-12-26T06:00:34.6734293+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.4646011+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:59:00.0441179+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:06:11.4550645+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:34.6734299+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:08:41.7437653+00:00"
 }

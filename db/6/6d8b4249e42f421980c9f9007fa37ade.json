@@ -701,9 +701,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -964,8 +964,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:05:13.5236644+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:07:20.6224945+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.2904596+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:54.0812258+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:05:13.5236916+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:27.4979127+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:07:20.622537+00:00"
 }

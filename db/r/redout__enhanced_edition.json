@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237916,
+  "EOS_Progressed": 237919,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26498,6 +26498,11 @@
       "Time": "2023-12-26T05:05:55.8964185+00:00",
       "NumProgressed": 237916,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-26T06:08:20.632535+00:00",
+      "NumProgressed": 237919,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26525,7 +26530,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66616
+      "UsersEstimate": 66617
     },
     {
       "ID": "CENTAUR",
@@ -26533,7 +26538,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19033
+      "UsersEstimate": 19034
     },
     {
       "ID": "CHALLENGER",
@@ -26573,7 +26578,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19033
+      "UsersEstimate": 19034
     },
     {
       "ID": "FLAWLESS",
@@ -26589,7 +26594,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "GT9STRADALE",
@@ -26597,7 +26602,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47583
+      "UsersEstimate": 47584
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -26645,7 +26650,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78512
+      "UsersEstimate": 78513
     },
     {
       "ID": "NOBUNAGA",
@@ -26669,7 +26674,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21412
+      "UsersEstimate": 21413
     },
     {
       "ID": "PHOTOFINISH",
@@ -26741,7 +26746,7 @@
       "Name": "TACTICIAN",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "TAKATORA",
@@ -26773,22 +26778,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97546
+      "UsersEstimate": 97547
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 237916,
+      "Progressed": 237919,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:05:55.8964182+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:08:20.6325347+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:22.5812346+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:05:55.8965585+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:59:39.997165+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:08:20.6327118+00:00"
 }

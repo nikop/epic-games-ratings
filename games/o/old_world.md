@@ -250,6 +250,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.10% | ~16 |
 | Pharaonic Greater Kmt Unified | 0.10% | ~16 |
 | Pharaonic Kmt Unified | 0.10% | ~16 |
+| Golden Age-less | 0.10% | ~16 |
 | Prosperous Kmt | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
@@ -328,7 +329,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
-| Golden Age-less | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Kmt Golden Age | 0.00% | ~0 |
 | Pharaonic Kmt Golden Age | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,952 (Ranked 162)  
+Progressed: 15,953 (Ranked 162)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -615,7 +615,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-23 | 15,914 | 5 |
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
-| 2023-12-26 | 15,952 | 5 |
+| 2023-12-26 | 15,953 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,909 (Ranked 220)  

@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42791,
+  "EOS_Progressed": 42793,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27340,6 +27340,11 @@
       "Time": "2023-12-26T05:03:46.7908345+00:00",
       "NumProgressed": 42791,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-26T06:05:18.1644076+00:00",
+      "NumProgressed": 42793,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27359,7 +27364,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -27503,7 +27508,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -27511,7 +27516,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -27582,7 +27587,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42791,
+      "Progressed": 42793,
       "Completed": 30
     }
   ],
@@ -27590,8 +27595,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:03:46.7908343+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:05:18.1644073+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:59:08.5057772+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:03:46.7909388+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:00:45.2360227+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:05:18.1646124+00:00"
 }

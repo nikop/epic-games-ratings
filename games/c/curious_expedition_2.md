@@ -56,10 +56,10 @@ Number of Ratings: 20  (23.09.2022)
 | X Marks the Spot | 4.00% | ~15 |
 | Frugal | 4.00% | ~15 |
 | A Familiar Figure | 3.00% | ~11 |
+| Lunatic | 3.00% | ~11 |
 | A Perfect Map | 3.00% | ~11 |
 | Risk/Reward | 3.00% | ~11 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~11 |
-| Lunatic | 2.00% | ~8 |
 | Look Ma, No Equipment! | 2.00% | ~8 |
 | Abominable Hunger | 0.80% | ~3 |
 | Everything is FINE... | 0.80% | ~3 |

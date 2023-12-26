@@ -279,7 +279,7 @@
   "Tags": [],
   "EOS_Progressed": 39510,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -22127,9 +22127,9 @@
       "ID": "completionist",
       "SetID": "8pjb9ak",
       "Name": "Completionist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 119
+      "UsersEstimate": 158
     },
     {
       "ID": "dejaVu",
@@ -22191,8 +22191,8 @@
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:06:14.2303812+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:08:45.5462835+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:57:58.6149805+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:06:14.2304638+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:59:04.0358157+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:08:45.5464603+00:00"
 }

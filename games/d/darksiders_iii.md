@@ -7,18 +7,18 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~148 |
-| First of many… | 68.00% | ~129 |
-| Helping Hand | 67.00% | ~127 |
+| First of many… | 69.00% | ~131 |
+| Helping Hand | 68.00% | ~129 |
 | Increased Vigor | 62.00% | ~118 |
 | Fight Fire with Fire | 60.00% | ~114 |
 | Increased Capacity | 56.00% | ~106 |
 | Just the start | 52.00% | ~99 |
 | Perfect Storm | 48.00% | ~91 |
 | All That Glitters | 47.00% | ~89 |
-| Enhance! | 44.00% | ~84 |
+| Enhance! | 45.00% | ~86 |
 | One Of the Chosen | 42.00% | ~80 |
+| Devil's in the Details | 39.00% | ~74 |
 | Throne Potato | 39.00% | ~74 |
-| Devil's in the Details | 38.00% | ~72 |
 | Soul Harvester | 36.00% | ~68 |
 | Five's a Crowd | 36.00% | ~68 |
 | 25 to Life | 36.00% | ~68 |
@@ -46,8 +46,8 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 13.00% | ~25 |
 | Community Outreach | 13.00% | ~25 |
 | Take it to the Limit | 12.00% | ~23 |
+| Holy Keeper | 11.00% | ~21 |
 | Path of the Horseman | 11.00% | ~21 |
-| Holy Keeper | 10.00% | ~19 |
 | Demon Keeper | 9.00% | ~17 |
 | Soul Reaper | 9.00% | ~17 |
 | Humanitarian | 9.00% | ~17 |

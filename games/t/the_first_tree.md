@@ -18,8 +18,8 @@ Number of Ratings: 56  (23.09.2022)
 | Easter Bunny | 0.50% | ~198 |
 | 150 Stars | 0.40% | ~158 |
 | No Stone Left Unturned | 0.40% | ~158 |
+| Completionist | 0.40% | ~158 |
 | Deja Vu | 0.40% | ~158 |
-| Completionist | 0.30% | ~119 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 39,510 (Ranked 129)  
 Completed: 122 (0.31%) (Ranked 250)  

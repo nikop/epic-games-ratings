@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3052,
+  "EOS_Progressed": 3053,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -5207,6 +5207,11 @@
       "Time": "2023-12-26T01:49:04.3177314+00:00",
       "NumProgressed": 3052,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-26T06:07:29.3002825+00:00",
+      "NumProgressed": 3053,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5242,7 +5247,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -5266,7 +5271,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -5274,7 +5279,7 @@
       "Name": "No more holding back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -5282,7 +5287,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5298,7 +5303,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5338,7 +5343,7 @@
       "Name": "Past trauma",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -5402,7 +5407,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5474,7 +5479,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -5490,7 +5495,7 @@
       "Name": "Terbisia",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -5522,7 +5527,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5570,7 +5575,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5578,7 +5583,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -5594,7 +5599,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5641,7 +5646,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3052,
+      "Progressed": 3053,
       "Completed": 17
     }
   ],
@@ -5649,8 +5654,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:05:19.4501774+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:07:29.3002821+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:58:05.493009+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:05:19.4502228+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:59:14.813011+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:07:29.3003624+00:00"
 }

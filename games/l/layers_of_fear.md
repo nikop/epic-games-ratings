@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 82.00% | ~168 |
-| A piece of the story | 60.00% | ~123 |
+| Something important | 82.00% | ~169 |
+| A piece of the story | 59.00% | ~122 |
 | Wanderer | 56.00% | ~115 |
-| It's covered up for a reason | 51.00% | ~105 |
-| Scraps of love | 46.00% | ~94 |
-| The artist’s impression | 45.00% | ~92 |
-| Do what you have to | 43.00% | ~88 |
-| Sign of weakness | 39.00% | ~80 |
-| Refuse to look | 34.00% | ~70 |
-| Face your fears | 26.00% | ~53 |
-| Finished it | 25.00% | ~51 |
+| It's covered up for a reason | 50.00% | ~103 |
+| Scraps of love | 46.00% | ~95 |
+| The artist’s impression | 45.00% | ~93 |
+| Do what you have to | 43.00% | ~89 |
+| Sign of weakness | 38.00% | ~78 |
+| Refuse to look | 33.00% | ~68 |
+| Face your fears | 26.00% | ~54 |
+| Finished it | 25.00% | ~52 |
 | Whispers long forgotten | 14.00% | ~29 |
 | Debut | 11.00% | ~23 |
 | The art of movement | 11.00% | ~23 |
-| A Slice of Life | 10.00% | ~20 |
-| Sound Bite | 10.00% | ~20 |
-| Playtime | 10.00% | ~20 |
-| Tough conversation | 10.00% | ~20 |
-| Another perspective | 9.00% | ~18 |
-| Lights! Camera! Action! | 9.00% | ~18 |
-| The tragedy unfolds | 9.00% | ~18 |
+| A Slice of Life | 10.00% | ~21 |
+| Sound Bite | 10.00% | ~21 |
+| Playtime | 10.00% | ~21 |
+| Tough conversation | 10.00% | ~21 |
+| Another perspective | 9.00% | ~19 |
+| Lights! Camera! Action! | 9.00% | ~19 |
+| The tragedy unfolds | 9.00% | ~19 |
 | A new way | 8.00% | ~16 |
 | First steps | 8.00% | ~16 |
 | Breaking free | 7.00% | ~14 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205 (Ranked 412)  
+Progressed: 206 (Ranked 412)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 189 | 0 |
 | 2023-12-24 | 197 | 0 |
 | 2023-12-25 | 205 | 0 |
+| 2023-12-26 | 206 | 0 |

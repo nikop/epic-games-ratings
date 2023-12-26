@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3754,
+  "EOS_Progressed": 3755,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2037,6 +2037,11 @@
       "Time": "2023-12-26T01:48:23.6891023+00:00",
       "NumProgressed": 3754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T06:06:33.2427621+00:00",
+      "NumProgressed": 3755,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2104,7 +2109,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2112,7 +2117,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2152,7 +2157,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2176,7 +2181,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2255,7 +2260,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3754,
+      "Progressed": 3755,
       "Completed": 0
     }
   ],
@@ -2263,8 +2268,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-26T05:04:40.0644562+00:00",
+  "LastChanged_Achievements": "2023-12-26T06:06:33.2427615+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:57:40.9747296+00:00",
-  "LastUpdate_Achievements": "2023-12-26T05:04:40.0644776+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:58:37.359286+00:00",
+  "LastUpdate_Achievements": "2023-12-26T06:06:33.2427903+00:00"
 }
