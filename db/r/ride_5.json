@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7347,6 +7347,11 @@
       "Time": "2023-12-26T20:06:40.5275265+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T21:05:23.7041312+00:00",
+      "NumProgressed": 3014,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7359,7 +7364,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7367,7 +7372,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7391,7 +7396,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -7415,7 +7420,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -7431,7 +7436,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7447,7 +7452,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -7487,7 +7492,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -7511,7 +7516,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -7567,7 +7572,7 @@
       "Name": "Clean Race",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7647,7 +7652,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7655,7 +7660,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7663,7 +7668,7 @@
       "Name": "Champagne Spray",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7750,14 +7755,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3014,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:06:40.5275263+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:05:23.7041309+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:58:53.5136294+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:06:40.5275898+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:58:25.8292722+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:05:23.7041942+00:00"
 }

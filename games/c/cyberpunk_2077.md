@@ -6,32 +6,32 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,812 |
-| Gun Fu | 8.00% | ~78,541 |
-| The Fool | 7.00% | ~68,723 |
-| Right Back At Ya | 6.00% | ~58,906 |
-| The Lovers | 6.00% | ~58,906 |
-| Full Body Conversion | 5.00% | ~49,088 |
-| True Soldier | 5.00% | ~49,088 |
-| All the President's Men | 5.00% | ~5,519 |
+| V for Vendetta | 12.00% | ~117,814 |
+| Gun Fu | 8.00% | ~78,543 |
+| The Fool | 7.00% | ~68,725 |
+| Right Back At Ya | 6.00% | ~58,907 |
+| The Lovers | 6.00% | ~58,907 |
+| Full Body Conversion | 5.00% | ~49,089 |
+| True Soldier | 5.00% | ~49,089 |
+| All the President's Men | 5.00% | ~5,520 |
 | Christmas Tree Attack | 4.00% | ~39,271 |
 | Stanislavski's Method | 4.00% | ~39,271 |
 | The Hermit | 4.00% | ~39,271 |
 | The Wheel of Fortune | 4.00% | ~39,271 |
-| Arachnophobia | 4.00% | ~4,415 |
-| Master Crafter | 3.00% | ~29,453 |
-| The Quick and the Dead | 3.00% | ~29,453 |
-| Life of the Road | 3.00% | ~29,453 |
-| The High Priestess | 3.00% | ~29,453 |
-| True Warrior | 3.00% | ~29,453 |
-| Legend of The Afterlife | 3.00% | ~29,453 |
+| Arachnophobia | 4.00% | ~4,416 |
+| Master Crafter | 3.00% | ~29,454 |
+| The Quick and the Dead | 3.00% | ~29,454 |
+| Life of the Road | 3.00% | ~29,454 |
+| The High Priestess | 3.00% | ~29,454 |
+| True Warrior | 3.00% | ~29,454 |
+| Legend of The Afterlife | 3.00% | ~29,454 |
 | Relic Ruler | 3.00% | ~3,312 |
-| Bushido and Chill | 2.00% | ~19,635 |
-| To Protect and Serve | 2.00% | ~19,635 |
-| I Am The Law | 2.00% | ~19,635 |
-| The World | 2.00% | ~19,635 |
-| Two Heads, One Bullet | 2.00% | ~19,635 |
-| Judy vs Night City | 2.00% | ~19,635 |
+| Bushido and Chill | 2.00% | ~19,636 |
+| To Protect and Serve | 2.00% | ~19,636 |
+| I Am The Law | 2.00% | ~19,636 |
+| The World | 2.00% | ~19,636 |
+| Two Heads, One Bullet | 2.00% | ~19,636 |
+| Judy vs Night City | 2.00% | ~19,636 |
 | Spin Doctor | 2.00% | ~2,208 |
 | To Bad Decisions! | 1.00% | ~9,818 |
 | The Wandering Fool | 1.00% | ~9,818 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,763 (Ranked 16)  
+Progressed: 981,784 (Ranked 16)  
 Completed: 2,981 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 2,981 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,763 | 2,981 |
+| 2023-12-26 | 981,784 | 2,981 |
 ## Awards
 Max (Character Customization): 127,789  (Ranked 8)  
-Sum: 445,446 (Ranked 9)  
+Sum: 445,596 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 26,128 |
 | This game has Amazing Storytelling | 25,698 |
 | This game is Extremely Fun | 25,323 |
-| This game has Amazing Characters | 25,134 |
+| This game has Amazing Characters | 25,284 |
 | This game has Quickly Understood Controls | 24,348 |
 | This game is Relaxing | 24,313 |
 | This game has a Creative Community | 16,929 |
@@ -686,4 +686,4 @@ Diff (max vs sum): -1
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
-| 2023-12-26 | 4.66 | - | 127,789 | 445,446 |
+| 2023-12-26 | 4.66 | - | 127,789 | 445,596 |

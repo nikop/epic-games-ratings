@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1783,
+  "EOS_Progressed": 1785,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2943,6 +2943,11 @@
       "Time": "2023-12-26T20:05:33.6385278+00:00",
       "NumProgressed": 1783,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T21:04:32.3244601+00:00",
+      "NumProgressed": 1785,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2954,7 +2959,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "10",
@@ -2962,7 +2967,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "11",
@@ -2986,7 +2991,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "14",
@@ -3018,7 +3023,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "18",
@@ -3034,7 +3039,7 @@
       "Name": "Second thoughts",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "2",
@@ -3058,7 +3063,7 @@
       "Name": "Mooning the moon",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "22",
@@ -3074,7 +3079,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "24",
@@ -3082,7 +3087,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "25",
@@ -3114,7 +3119,7 @@
       "Name": "Hug therapy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "30",
@@ -3162,7 +3167,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "7",
@@ -3178,7 +3183,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "9",
@@ -3186,22 +3191,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1783,
+      "Progressed": 1785,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:05:33.6385274+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:04:32.3244598+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:59:40.2133136+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:05:33.6385707+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:58:58.0373077+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:04:32.3244948+00:00"
 }

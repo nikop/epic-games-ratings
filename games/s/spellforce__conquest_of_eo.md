@@ -50,6 +50,7 @@
 | Lore's Tale | 6.00% | ~5 |
 | Tuscari Sea Portal | 6.00% | ~5 |
 | Balanced | 6.00% | ~5 |
+| Friend of Uram Gor | 6.00% | ~5 |
 | Get to the Airship! | 5.00% | ~4 |
 | Defeat Isgrimm | 5.00% | ~4 |
 | Defeat Undergast | 5.00% | ~4 |
@@ -60,7 +61,6 @@
 | Heroes | 5.00% | ~4 |
 | Master Necromancer | 5.00% | ~4 |
 | Friend of Grey Dusk Vale | 5.00% | ~4 |
-| Friend of Uram Gor | 5.00% | ~4 |
 | Defeat Ianna | 4.00% | ~3 |
 | Defeat Rohen | 4.00% | ~3 |
 | Defeat Yria | 4.00% | ~3 |

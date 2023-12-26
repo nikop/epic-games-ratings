@@ -1,41 +1,41 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.79 (Ranked 101)  
+Rating: 4.80 (Ranked 89)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,916 |
-| No more cages! | 91.00% | ~2,793 |
-| Everfrost | 77.00% | ~2,363 |
-| Pentakill | 76.00% | ~2,332 |
-| Dark Forest | 76.00% | ~2,332 |
-| The use of petricite | 73.00% | ~2,240 |
-| You can pet the dog | 60.00% | ~1,841 |
-| Thornbarrow | 42.00% | ~1,289 |
+| For Demacia | 95.00% | ~2,917 |
+| No more cages! | 91.00% | ~2,795 |
+| Everfrost | 77.00% | ~2,365 |
+| Pentakill | 76.00% | ~2,334 |
+| Dark Forest | 76.00% | ~2,334 |
+| The use of petricite | 73.00% | ~2,242 |
+| You can pet the dog | 60.00% | ~1,843 |
+| Thornbarrow | 42.00% | ~1,290 |
 | Big Helmet Bro | 40.00% | ~1,228 |
 | Clarion Cove | 40.00% | ~1,228 |
-| Ternmoat Headquarters | 38.00% | ~1,166 |
+| Ternmoat Headquarters | 38.00% | ~1,167 |
 | Past trauma | 37.00% | ~1,136 |
-| Elemental master | 36.00% | ~1,105 |
-| Cypress Glen Headquarters | 34.00% | ~1,043 |
+| Elemental master | 36.00% | ~1,106 |
+| Cypress Glen Headquarters | 34.00% | ~1,044 |
 | Petricite Burst | 33.00% | ~1,013 |
-| Old friend | 32.00% | ~982 |
-| Devineur | 31.00% | ~951 |
+| Old friend | 32.00% | ~983 |
+| Devineur | 31.00% | ~952 |
 | Hijack | 30.00% | ~921 |
 | Whispers in the Woods I | 27.00% | ~829 |
 | Ancient power | 27.00% | ~829 |
 | I chose my shackles | 26.00% | ~798 |
-| Sacred Woods | 25.00% | ~767 |
+| Sacred Woods | 25.00% | ~768 |
 | Little light | 23.00% | ~706 |
 | Capelworth | 23.00% | ~706 |
 | Full equipped | 23.00% | ~706 |
-| Glyndemere | 22.00% | ~675 |
-| Iffighain Headquarters | 22.00% | ~675 |
-| Whispers in the Woods II | 18.00% | ~552 |
-| No more holding back | 18.00% | ~552 |
-| Terbisia | 18.00% | ~552 |
-| Quickmoore Headquarters | 18.00% | ~552 |
+| Glyndemere | 22.00% | ~676 |
+| Iffighain Headquarters | 22.00% | ~676 |
+| Whispers in the Woods II | 18.00% | ~553 |
+| No more holding back | 18.00% | ~553 |
+| Terbisia | 18.00% | ~553 |
+| Quickmoore Headquarters | 18.00% | ~553 |
 | Whispers in the Woods III | 17.00% | ~522 |
 | Friendly fire | 17.00% | ~522 |
 | My heart and sword always for Demacia | 16.00% | ~491 |
@@ -50,7 +50,7 @@ Rating: 4.79 (Ranked 101)
 | The Great City of Demacia | 13.00% | ~399 |
 | Truth is a dark mirror | 13.00% | ~399 |
 | Call it 'redistribution of magic | 13.00% | ~399 |
-| Back to sleep, then... | 12.00% | ~368 |
+| Back to sleep, then... | 12.00% | ~369 |
 | Do you trust me? | 11.00% | ~338 |
 | The great mage rebellion starts now | 11.00% | ~338 |
 | Chains master | 10.00% | ~307 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 101)
 | Silverwing nest | 2.00% | ~61 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,069 (Ranked 221)  
+Progressed: 3,071 (Ranked 221)  
 Completed: 17 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 17 (0.55%) (Ranked 209)
 | 2023-12-23 | 2,991 | 16 |
 | 2023-12-24 | 3,025 | 16 |
 | 2023-12-25 | 3,050 | 17 |
-| 2023-12-26 | 3,069 | 17 |
+| 2023-12-26 | 3,071 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -282,3 +282,4 @@ Completed: 17 (0.55%) (Ranked 209)
 | 2023-12-17 | 4.79 | 0 | 0 |
 | 2023-12-20 | 4.78 | 0 | 0 |
 | 2023-12-23 | 4.79 | 0 | 0 |
+| 2023-12-26 | 4.80 | 0 | 0 |

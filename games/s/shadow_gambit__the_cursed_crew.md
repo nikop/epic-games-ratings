@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.82 (Ranked 68)
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~353 |
 | Mirror Mirror on the Wall | 26.00% | ~340 |
 | Powder Monkey | 26.00% | ~340 |
-| Pirates Assemble! | 23.00% | ~301 |
+| Pirates Assemble! | 24.00% | ~314 |
 | Buccaneer | 20.00% | ~261 |
 | Fishy Fish | 20.00% | ~261 |
 | All Good Things | 17.00% | ~222 |

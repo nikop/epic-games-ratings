@@ -263,7 +263,7 @@
   "Tags": [],
   "EOS_Progressed": 5939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8520,9 +8520,9 @@
       "ID": "ACH_DISCO",
       "SetID": "5nj1ea3",
       "Name": "Disco Roach",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACH_DOCEND",
@@ -8849,8 +8849,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-21T20:59:22.4145876+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:06:09.9742524+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:05:00.7753083+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.8675807+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:58:52.9795499+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:06:09.9743366+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:58:25.4356216+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:05:00.7753968+00:00"
 }

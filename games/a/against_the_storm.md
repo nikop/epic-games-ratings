@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 5.00% | ~967 |
 | No Deaths | 5.00% | ~967 |
 | Gathering Storm | 5.00% | ~967 |
-| Overcoming Difficulty | 4.00% | ~773 |
-| Coral Forest | 4.00% | ~773 |
-| The Marshlands | 4.00% | ~773 |
-| The Scarlet Orchard | 4.00% | ~773 |
-| Frosts | 4.00% | ~773 |
-| Land of Greed | 4.00% | ~773 |
-| Ominous Presence | 4.00% | ~773 |
+| Overcoming Difficulty | 4.00% | ~774 |
+| Coral Forest | 4.00% | ~774 |
+| The Marshlands | 4.00% | ~774 |
+| The Scarlet Orchard | 4.00% | ~774 |
+| Frosts | 4.00% | ~774 |
+| Land of Greed | 4.00% | ~774 |
+| Ominous Presence | 4.00% | ~774 |
 | Royal Outpost | 3.00% | ~580 |
 | Homesick | 2.00% | ~387 |
 | Ruined Armory | 2.00% | ~387 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,336 (Ranked 150)  
+Progressed: 19,338 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,336 | 38 |
+| 2023-12-26 | 19,338 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,294 (Ranked 177)  

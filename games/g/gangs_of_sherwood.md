@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 87.00% | ~90 |
-| Air Fighter | 74.00% | ~76 |
+| Air Fighter | 75.00% | ~77 |
 | Oo-De-Lally | 70.00% | ~72 |
+| Treasure Hunter | 65.00% | ~67 |
 | The Altruist | 64.00% | ~66 |
-| Treasure Hunter | 63.00% | ~65 |
+| Watch your Step! | 52.00% | ~54 |
 | Tap Dancing | 50.00% | ~52 |
-| Watch your Step! | 50.00% | ~52 |
 | MAX LEVEL | 50.00% | ~52 |
-| Right between the eyes | 40.00% | ~41 |
+| Right between the eyes | 41.00% | ~42 |
+| Starry Night | 39.00% | ~40 |
 | Spring Board | 39.00% | ~40 |
-| Starry Night | 38.00% | ~39 |
 | Locksley's Tears | 36.00% | ~37 |
 | Rebel Unleashed | 35.00% | ~36 |
 | Merry Co-operation | 30.00% | ~31 |

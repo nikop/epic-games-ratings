@@ -6,7 +6,7 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 84.00% | ~724 |
+| Our Man | 85.00% | ~733 |
 | Take-Off | 80.00% | ~690 |
 | Hokey-Pokey | 69.00% | ~595 |
 | Camellos | 54.00% | ~465 |
@@ -21,7 +21,7 @@ Number of Ratings: 101  (23.09.2022)
 | Pampered Life | 23.00% | ~198 |
 | Spreading Fear | 9.00% | ~78 |
 | Follow the Money | 7.00% | ~60 |
-| I'm Going To Call You Kitty | 6.00% | ~52 |
+| I'm Going To Call You Kitty | 7.00% | ~60 |
 | Operation Odessa | 1.00% | ~9 |
 | Iron Lady | 0.70% | ~6 |
 | Sense Of Style | 0.50% | ~4 |

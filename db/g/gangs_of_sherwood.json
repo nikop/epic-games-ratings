@@ -450,9 +450,9 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_100_CHARGE",
@@ -498,9 +498,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -610,9 +610,9 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -634,9 +634,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -674,9 +674,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -881,8 +881,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:06:39.324802+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:05:22.9633188+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.5850344+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:58:21.2194271+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:06:39.3248349+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:58:01.1790035+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:05:22.9633521+00:00"
 }

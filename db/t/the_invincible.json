@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -45,7 +45,7 @@
   "Tags": [],
   "EOS_Progressed": 1033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2754,9 +2754,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 207
     },
     {
       "ID": "AchvBattleScore",
@@ -2802,9 +2802,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 372
     },
     {
       "ID": "AchvDoom",
@@ -2842,9 +2842,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 217
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -2979,8 +2979,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-26T16:59:14.4896995+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:10:13.5732002+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:09:29.7319303+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:58:57.9516745+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:10:13.5732306+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:58:28.3216405+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:09:29.7319613+00:00"
 }

@@ -14,12 +14,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.40% | ~64 |
 | Architect | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
+| Keystone | 0.40% | ~64 |
+| Learned | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
 | Noble | 0.40% | ~64 |
 | Pioneer | 0.40% | ~64 |
 | Strong | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
 | Oracle | 0.40% | ~64 |
+| Judaism | 0.40% | ~64 |
 | Greek Paganism | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Ambitious | 0.30% | ~48 |
@@ -28,8 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
 | Just | 0.30% | ~48 |
-| Keystone | 0.30% | ~48 |
-| Learned | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 0.30% | ~48 |
 | Learn to Play 1 | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
-| Judaism | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
 | Roman Paganism | 0.30% | ~48 |
 | Zoroastrianism | 0.30% | ~48 |
@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
 | Intercessor | 0.20% | ~32 |
+| Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
 | Wise | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
 | Lion | 0.10% | ~16 |
-| Mighty | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
 | Ready | 0.10% | ~16 |

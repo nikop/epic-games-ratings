@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 442)  
+Rating: 4.59 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,150 |
-| Alt+F4 | 10.00% | ~24,486 |
-| Where's that freaking Dwarf? | 9.00% | ~22,038 |
-| Déjà vu | 7.00% | ~17,140 |
+| Sowwy! | 36.00% | ~88,155 |
+| Alt+F4 | 10.00% | ~24,488 |
+| Where's that freaking Dwarf? | 9.00% | ~22,039 |
+| Déjà vu | 7.00% | ~17,141 |
 | Sock! SOCK! | 6.00% | ~14,692 |
-| A beer, two curses, three companions | 5.00% | ~12,243 |
-| GG EZ | 5.00% | ~12,243 |
-| Speedrun | 5.00% | ~12,243 |
-| DM intervention | 4.00% | ~9,794 |
-| Fireproof Wizardess | 4.00% | ~9,794 |
+| A beer, two curses, three companions | 5.00% | ~12,244 |
+| GG EZ | 5.00% | ~12,244 |
+| Speedrun | 5.00% | ~12,244 |
+| DM intervention | 4.00% | ~9,795 |
+| Fireproof Wizardess | 4.00% | ~9,795 |
 | Livin' in a dwarven paradise | 3.00% | ~7,346 |
 | Way of the Wimp | 3.00% | ~7,346 |
 | The plot thickens... At the tavern | 3.00% | ~7,346 |
@@ -25,20 +25,20 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 3.00% | ~7,346 |
 | Team Building Exercise | 3.00% | ~7,346 |
 | Oh, when I'll be level 10... | 3.00% | ~7,346 |
-| Shiny and Crôm | 2.00% | ~4,897 |
-| Urik's Depths | 2.00% | ~4,897 |
-| The Dungeon Master | 2.00% | ~4,897 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,897 |
-| Res Judicata | 2.00% | ~4,897 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,897 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,897 |
-| Dwarf Fortress | 2.00% | ~4,897 |
-| Look but don't touch | 2.00% | ~4,897 |
-| The beards of change | 2.00% | ~4,897 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,897 |
-| The Ranger of Chaos | 2.00% | ~4,897 |
-| I am the night | 2.00% | ~4,897 |
-| Thieves' Guild Accreditation | 2.00% | ~4,897 |
+| Shiny and Crôm | 2.00% | ~4,898 |
+| Urik's Depths | 2.00% | ~4,898 |
+| The Dungeon Master | 2.00% | ~4,898 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,898 |
+| Res Judicata | 2.00% | ~4,898 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,898 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,898 |
+| Dwarf Fortress | 2.00% | ~4,898 |
+| Look but don't touch | 2.00% | ~4,898 |
+| The beards of change | 2.00% | ~4,898 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,898 |
+| The Ranger of Chaos | 2.00% | ~4,898 |
+| I am the night | 2.00% | ~4,898 |
+| Thieves' Guild Accreditation | 2.00% | ~4,898 |
 | %#*!$*! | 1.00% | ~2,449 |
 | Dead for good | 1.00% | ~2,449 |
 | Gargantua | 1.00% | ~2,449 |
@@ -52,9 +52,9 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.60% | ~1,469 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,224 |
 | It's been a hard day's night | 0.50% | ~1,224 |
-| Friendly fire | 0.40% | ~979 |
-| I'd rather... Just... Sing! | 0.40% | ~979 |
-| Inception | 0.40% | ~979 |
+| Friendly fire | 0.40% | ~980 |
+| I'd rather... Just... Sing! | 0.40% | ~980 |
+| Inception | 0.40% | ~980 |
 | The number of the counting shalt be 7 | 0.30% | ~735 |
 | Cursed die | 0.20% | ~490 |
 | The Blood Countess | 0.20% | ~490 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,862 (Ranked 68)  
+Progressed: 244,875 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-23 | 244,299 | 7 |
 | 2023-12-24 | 244,469 | 7 |
 | 2023-12-25 | 244,664 | 8 |
-| 2023-12-26 | 244,862 | 8 |
+| 2023-12-26 | 244,875 | 8 |
 ## Awards
 Max (Character Customization): 256  (Ranked 276)  
 Sum: 538 (Ranked 326)  

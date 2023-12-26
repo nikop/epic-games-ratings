@@ -1,15 +1,15 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,820 |
-| The Assault | 3.00% | ~22,365 |
-| Life is your teacher | 3.00% | ~22,365 |
-| Lightning Hands | 3.00% | ~22,365 |
+| The Old Grandmaster | 4.00% | ~29,821 |
+| The Assault | 3.00% | ~22,366 |
+| Life is your teacher | 3.00% | ~22,366 |
+| Lightning Hands | 3.00% | ~22,366 |
 | The Hateful Pole Fighter | 2.00% | ~14,910 |
 | A Lady's Blood in the Snow | 2.00% | ~14,910 |
 | Stuntmaster | 2.00% | ~14,910 |
@@ -28,14 +28,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,455 |
 | Project Arena | 1.00% | ~548 |
 | Diligence as a goal | 1.00% | ~548 |
-| Scareless | 0.90% | ~6,709 |
-| Kung-Fu Tussle | 0.90% | ~6,709 |
+| Scareless | 0.90% | ~6,710 |
+| Kung-Fu Tussle | 0.90% | ~6,710 |
 | Dance of the Praying Mantis | 0.80% | ~5,964 |
 | Fight the way you practice | 0.70% | ~384 |
 | Martial Hub | 0.60% | ~329 |
-| Muk Yan Master | 0.50% | ~3,727 |
-| Tiger on Fire | 0.50% | ~3,727 |
-| Detective Story | 0.50% | ~3,727 |
+| Muk Yan Master | 0.50% | ~3,728 |
+| Tiger on Fire | 0.50% | ~3,728 |
+| Detective Story | 0.50% | ~3,728 |
 | Bloody Sport | 0.50% | ~274 |
 | Source of Flying Daggers | 0.40% | ~2,982 |
 | Iron Money | 0.40% | ~2,982 |
@@ -43,9 +43,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,982 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,982 |
 | Sword Stained With Blood | 0.40% | ~2,982 |
-| The Pit Protector | 0.30% | ~2,236 |
-| Come Snap With Me | 0.30% | ~2,236 |
-| The best strikes are the ones we avoid | 0.30% | ~164 |
+| The best strikes are the ones we avoid | 0.40% | ~219 |
+| The Pit Protector | 0.30% | ~2,237 |
+| Come Snap With Me | 0.30% | ~2,237 |
 | Drunken Fighter | 0.20% | ~1,491 |
 | Martial Artist | 0.20% | ~1,491 |
 | Knowledge Greed | 0.20% | ~1,491 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~110 |
 | Master of the Flying Assassins | 0.20% | ~110 |
 | Beatmaker | 0.20% | ~110 |
-| Warriors from the Mountain | 0.10% | ~745 |
+| Warriors from the Mountain | 0.10% | ~746 |
 | Secure, Protect, Leave | 0.10% | ~55 |
 | Crouching Tiger | 0.10% | ~55 |
 | Hidden Dragon | 0.10% | ~55 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~55 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 745,499 (Ranked 23)  
-Completed: 12,966 (1.74%) (Ranked 141)  
+Progressed: 745,519 (Ranked 23)  
+Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,7 +317,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 745,499 | 12,966 |
+| 2023-12-26 | 745,519 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,874 (Ranked 87)  

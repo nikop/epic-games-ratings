@@ -2,12 +2,12 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -4612,9 +4612,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 314
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4709,8 +4709,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-26T17:57:26.5223037+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:08:40.8816359+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:08:18.4907449+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:57:43.6915854+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:08:40.8816679+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:57:33.6350677+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:08:18.4907829+00:00"
 }

@@ -38,9 +38,9 @@
 | Master of the Undead | 34.00% | ~218 |
 | The Finitude Drill | 32.00% | ~205 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~186 |
+| Doom Hill | 29.00% | ~186 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~180 |
 | Forbidden Knowledge | 28.00% | ~180 |
-| Doom Hill | 28.00% | ~180 |
 | Hungry, Hungry Gorgu! | 27.00% | ~173 |
 | Stop Tanos! | 26.00% | ~167 |
 | Sabotage! | 26.00% | ~167 |
@@ -60,13 +60,13 @@
 | Mirror, Mirror | 15.00% | ~96 |
 | Untouchable | 15.00% | ~96 |
 | Heal Heal Blessing | 15.00% | ~96 |
+| Gorgu is in the Best of Health | 12.00% | ~77 |
 | Laser Eyes Are So Useless | 12.00% | ~77 |
 | Hands Off My Stones | 12.00% | ~77 |
-| Gorgu is in the Best of Health | 11.00% | ~71 |
 | No Mana, No Cry | 10.00% | ~64 |
-| I Don't Need Any Help | 8.00% | ~51 |
+| I Don't Need Any Help | 9.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 317)  
+Progressed: 642 (Ranked 318)  
 Completed: 21 (3.27%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |

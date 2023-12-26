@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 69.00% | ~24 |
-| Sea Legs | 60.00% | ~21 |
-| What?! | 37.00% | ~13 |
-| Frogs Legs | 23.00% | ~8 |
-| Mad Scientist | 20.00% | ~7 |
+| Shipwrecked! | 69.00% | ~25 |
+| Sea Legs | 58.00% | ~21 |
+| What?! | 36.00% | ~13 |
+| Frogs Legs | 22.00% | ~8 |
+| Mad Scientist | 19.00% | ~7 |
 | Socialite | 17.00% | ~6 |
 | Hoist the Sails | 17.00% | ~6 |
 | Secure the Sheets | 17.00% | ~6 |
 | Couch-surfing | 14.00% | ~5 |
 | Hands on the Helm | 14.00% | ~5 |
 | Who Even Needs Keys | 11.00% | ~4 |
-| Shrub-Seeing: Townlife | 9.00% | ~3 |
-| Shrub-Seeing: Silly Birbs | 9.00% | ~3 |
-| Sailor Swift | 9.00% | ~3 |
-| No Evil | 9.00% | ~3 |
-| Replace the Rudder | 9.00% | ~3 |
+| Shrub-Seeing: Townlife | 8.00% | ~3 |
+| Shrub-Seeing: Silly Birbs | 8.00% | ~3 |
+| Sailor Swift | 8.00% | ~3 |
+| No Evil | 8.00% | ~3 |
+| Replace the Rudder | 8.00% | ~3 |
 | Shrub-Seeing: Ruins of old | 6.00% | ~2 |
 | Yeet! | 6.00% | ~2 |
 | Caught Ya! | 6.00% | ~2 |
@@ -40,8 +40,8 @@
 | Falling with Style | 3.00% | ~1 |
 | Froggy Friendship | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 567)  
-Completed: 1 (2.86%) (Ranked 115)  
+Progressed: 36 (Ranked 567)  
+Completed: 1 (2.78%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 1 (2.86%) (Ranked 115)
 | 2023-12-23 | 32 | 1 |
 | 2023-12-24 | 33 | 1 |
 | 2023-12-25 | 34 | 1 |
-| 2023-12-26 | 35 | 1 |
+| 2023-12-26 | 36 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

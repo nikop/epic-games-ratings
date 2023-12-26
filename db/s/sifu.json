@@ -2,13 +2,13 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8517,10 +8517,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745499,
-  "EOS_Completed": 12966,
-  "EOS_NewPlayers": 9271,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 745519,
+  "EOS_Completed": 12967,
+  "EOS_NewPlayers": 9256,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
     {
@@ -31047,6 +31047,11 @@
       "Time": "2023-12-26T20:09:36.1529757+00:00",
       "NumProgressed": 745499,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-26T21:09:01.0698619+00:00",
+      "NumProgressed": 745519,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31058,7 +31063,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29820
+      "UsersEstimate": 29821
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31066,7 +31071,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22365
+      "UsersEstimate": 22366
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31106,7 +31111,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "08_Wude_H2",
@@ -31114,7 +31119,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "09_Wude_H3",
@@ -31146,7 +31151,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     },
     {
       "ID": "13_LowAge",
@@ -31170,7 +31175,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "16_Detective_H2",
@@ -31234,7 +31239,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22365
+      "UsersEstimate": 22366
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31322,7 +31327,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22365
+      "UsersEstimate": 22366
     },
     {
       "ID": "35_WideStrike",
@@ -31330,7 +31335,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -31354,7 +31359,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -31378,7 +31383,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -31386,7 +31391,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -31440,9 +31445,9 @@
       "ID": "49_Arena_GoldSurvival",
       "SetID": "14c2oii",
       "Name": "The best strikes are the ones we avoid",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 219
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -31537,21 +31542,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54800,
-      "Completed": 10785
+      "Progressed": 54820,
+      "Completed": 10786
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745499,
-      "Completed": 12966
+      "Progressed": 745519,
+      "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:09:36.1529754+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:09:01.0698615+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:03:31.5140786+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:09:36.1531251+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:03:01.0599983+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:09:01.0700105+00:00"
 }

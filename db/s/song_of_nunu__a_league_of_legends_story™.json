@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -69,7 +69,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -3394,6 +3394,11 @@
       "Time": "2023-12-26T19:10:53.7756344+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-26T21:10:06.7453518+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3412,9 +3417,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 660
     },
     {
       "ID": "EV_ACH03",
@@ -3422,7 +3427,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "EV_ACH04",
@@ -3438,7 +3443,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "EV_ACH06",
@@ -3446,7 +3451,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "EV_ACH07",
@@ -3470,7 +3475,7 @@
       "Name": "You Get Used To It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "EV_ACH10",
@@ -3502,7 +3507,7 @@
       "Name": "It Is Not Over",
       "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "EV_ACH14",
@@ -3550,7 +3555,7 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "EV_ACH20",
@@ -3574,7 +3579,7 @@
       "Name": "Bullseye",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "EV_ACH23",
@@ -3582,7 +3587,7 @@
       "Name": "Yummy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EV_ACH24",
@@ -3606,7 +3611,7 @@
       "Name": "Moneyball",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "EV_ACH27",
@@ -3614,7 +3619,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "EV_ACH28",
@@ -3628,9 +3633,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 861
     },
     {
       "ID": "EV_ACH30",
@@ -3646,7 +3651,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "EV_ACH32",
@@ -3676,9 +3681,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 808
     },
     {
       "ID": "EV_ACH36",
@@ -3757,7 +3762,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 9
     }
   ],
@@ -3765,8 +3770,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:10:59.1100782+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:10:06.7453514+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:01:25.2655411+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:10:59.1101126+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:00:14.0497386+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:10:06.7453885+00:00"
 }

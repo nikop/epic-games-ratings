@@ -4,7 +4,7 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-12-24T00:10:12.6411355+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T21:10:00.0196825+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -206,9 +211,9 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BOSS_KILL10",
@@ -230,7 +235,7 @@
       "ID": "BOSS_KILL12",
       "SetID": "1icc7kd",
       "Name": "Crystal Hunter",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -238,7 +243,7 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -246,7 +251,7 @@
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -439,14 +444,14 @@
     {
       "ID": "1icc7kd",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:10:51.6962274+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:10:00.0196822+00:00",
   "LastUpdate_AppInfo": "2023-12-20T11:57:12.804535+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:57:14.2980075+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:10:51.6962399+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:57:13.7946228+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:10:00.0197011+00:00"
 }

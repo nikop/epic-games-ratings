@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -303,7 +303,7 @@
   "Tags": [],
   "EOS_Progressed": 862,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3068,9 +3068,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 733
     },
     {
       "ID": "kill-lieutenants",
@@ -3116,9 +3116,9 @@
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 60
     },
     {
       "ID": "rob-village",
@@ -3180,8 +3180,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:04:36.8539661+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:03:49.808988+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:00:53.352814+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:04:36.85399+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:59:49.9525052+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:03:49.8090149+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4246,9 +4246,9 @@
       "ID": "CompleteArenaFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Arena Faction",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteChefsBook",
@@ -4438,9 +4438,9 @@
       "ID": "DefeatGrubBuster",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Grub Buster",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DefeatStalkerQueen",
@@ -4493,8 +4493,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:07:41.6969181+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:06:09.4509388+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:01:50.4486953+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:07:41.6969512+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:00:32.2533626+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:06:09.4509946+00:00"
 }

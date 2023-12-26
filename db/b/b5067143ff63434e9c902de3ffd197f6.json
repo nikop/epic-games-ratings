@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16499,
+  "EOS_Progressed": 16519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1299,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10264,6 +10264,11 @@
       "Time": "2023-12-26T20:06:54.9783307+00:00",
       "NumProgressed": 16499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T21:05:34.6195475+00:00",
+      "NumProgressed": 16519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10292,7 +10297,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LEVEL188",
@@ -10316,7 +10321,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -10332,7 +10337,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -10340,7 +10345,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -10348,7 +10353,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_THEEND",
@@ -10356,7 +10361,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -10364,7 +10369,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10372,7 +10377,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10380,7 +10385,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10388,7 +10393,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1817
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10396,7 +10401,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -10404,7 +10409,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -10420,7 +10425,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -10436,7 +10441,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -10460,21 +10465,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 16499,
+      "Progressed": 16519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:06:54.9783304+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:05:34.6195471+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:01:06.6915068+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:06:54.9783795+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:59:59.6948227+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:05:34.6196237+00:00"
 }

@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.40% | ~1,939 |
 | That is mine! | 0.40% | ~1,939 |
 | Victorious! | 0.40% | ~1,939 |
-| Brothers in Arms | 0.30% | ~1,454 |
-| That's a Grand Navy | 0.30% | ~1,454 |
-| Seriously?! | 0.30% | ~1,454 |
+| Brothers in Arms | 0.30% | ~1,455 |
+| That's a Grand Navy | 0.30% | ~1,455 |
+| Seriously?! | 0.30% | ~1,455 |
 | Cold War | 0.20% | ~970 |
 | Defender of the Faith | 0.20% | ~970 |
 | For the Glory | 0.20% | ~970 |
@@ -201,6 +201,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One King to Rule! | 0.10% | ~485 |
 | One nation to rule them all | 0.10% | ~485 |
 | One Night in Paris | 0.10% | ~485 |
+| Østindisk Kompagni Te | 0.10% | ~485 |
 | Over a Thousand! | 0.10% | ~485 |
 | Pandya Empire | 0.10% | ~485 |
 | Parisian Pasha | 0.10% | ~485 |
@@ -341,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | New, New Deli | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| Østindisk Kompagni Te | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,833 (Ranked 40)  
+Progressed: 484,872 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,20 +620,20 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-23 | 482,495 | 1 |
 | 2023-12-24 | 483,348 | 1 |
 | 2023-12-25 | 484,143 | 1 |
-| 2023-12-26 | 484,833 | 1 |
+| 2023-12-26 | 484,872 | 1 |
 ## Awards
 Max (Educational): 7,570  (Ranked 54)  
-Sum: 62,359 (Ranked 24)  
+Sum: 62,388 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,570 |
 | This game has Diverse Characters | 7,392 |
 | This game is Highly Recommended | 7,269 |
-| This game has Challenging Combat | 7,182 |
+| This game has Challenging Combat | 7,197 |
 | This game is Extremely Fun | 7,102 |
 | This game is Relaxing | 6,938 |
-| This game has Competitive Players | 6,761 |
+| This game has Competitive Players | 6,775 |
 | This game has Amazing Storytelling | 6,301 |
 | This game has Amazing Characters | 5,844 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -983,4 +983,4 @@ Diff (max vs sum): 30
 | 2023-12-23 | 4.69 | - | 7,528 | 62,021 |
 | 2023-12-24 | 4.69 | - | 7,548 | 62,191 |
 | 2023-12-25 | 4.69 | - | 7,558 | 62,301 |
-| 2023-12-26 | 4.69 | - | 7,570 | 62,359 |
+| 2023-12-26 | 4.69 | - | 7,570 | 62,388 |

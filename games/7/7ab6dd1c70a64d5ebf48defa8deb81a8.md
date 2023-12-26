@@ -9,16 +9,16 @@ Rating: 4.10 (Ranked 990)
 | Trinity | 26.00% | ~339 |
 | Find Allies | 20.00% | ~261 |
 | A Taste of Wrath | 20.00% | ~261 |
+| I Found It | 20.00% | ~261 |
 | The Collector | 20.00% | ~261 |
 | Shatter Them All | 19.00% | ~248 |
 | Geared Up | 19.00% | ~248 |
-| I Found It | 19.00% | ~248 |
 | Scholar | 18.00% | ~235 |
 | Adventurer | 17.00% | ~222 |
 | Fashion Victim | 17.00% | ~222 |
+| Stone Collection | 17.00% | ~222 |
 | Powerful Allies | 16.00% | ~209 |
 | Tributes of Caladrias | 16.00% | ~209 |
-| Stone Collection | 16.00% | ~209 |
 | Big Bazar | 11.00% | ~144 |
 | Essence Blow | 10.00% | ~130 |
 | Alchemist | 10.00% | ~130 |

@@ -403,7 +403,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1507,
+  "EOS_Progressed": 1508,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -3763,6 +3763,11 @@
       "Time": "2023-12-26T20:10:49.6284882+00:00",
       "NumProgressed": 1507,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T21:09:58.2915674+00:00",
+      "NumProgressed": 1508,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3830,7 +3835,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "EXPERT_1",
@@ -3926,7 +3931,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4044,9 +4049,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 498
     },
     {
       "ID": "WISHMASTER_1",
@@ -4061,15 +4066,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1507,
+      "Progressed": 1508,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:10:49.628488+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:09:58.2915673+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:57:42.9678853+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:10:49.6285161+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:57:33.1476532+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:09:58.2915991+00:00"
 }

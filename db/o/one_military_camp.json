@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1212,9 +1212,9 @@
       "ID": "ACHIEVEMENT_ID_23",
       "SetID": "c504de6",
       "Name": "Snowman",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_24",
@@ -1268,9 +1268,9 @@
       "ID": "ACHIEVEMENT_ID_3",
       "SetID": "c504de6",
       "Name": "Reconquest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_30",
@@ -1443,8 +1443,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:07:19.3718374+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:05:53.1925465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:57:44.6184319+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:07:19.3718651+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:57:34.2831075+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:05:53.1925754+00:00"
 }

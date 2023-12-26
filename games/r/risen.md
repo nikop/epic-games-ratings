@@ -14,7 +14,7 @@ Rating: 4.52 (Ranked 564)
 | Field hand | 41.00% | ~51 |
 | Well-to-do | 37.00% | ~46 |
 | Samaritan | 36.00% | ~45 |
-| The merciful one | 33.00% | ~41 |
+| The merciful one | 34.00% | ~42 |
 | Ladies' man | 33.00% | ~41 |
 | Ferocious wild boars | 27.00% | ~34 |
 | Idiot | 26.00% | ~32 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 564)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 459)  
+Progressed: 125 (Ranked 460)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

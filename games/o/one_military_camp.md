@@ -32,13 +32,13 @@
 | Tear Down the Wall! | 2.00% | ~5 |
 | Vive le Résistance | 2.00% | ~5 |
 | No News is Good News | 2.00% | ~5 |
+| Snowman | 2.00% | ~5 |
 | Human Resources | 2.00% | ~5 |
+| Reconquest | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
 | Researcher | 2.00% | ~5 |
 | Economist | 1.00% | ~2 |
 | Crisis Committee | 1.00% | ~2 |
-| Snowman | 1.00% | ~2 |
-| Reconquest | 1.00% | ~2 |
 | Counter-espionage | 0.80% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
 | Against Adversity | 0.40% | ~1 |

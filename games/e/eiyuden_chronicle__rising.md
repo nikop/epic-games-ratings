@@ -57,7 +57,7 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~62 |
 | Rising Champion | 7.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 298)  
+Progressed: 770 (Ranked 299)  
 Completed: 60 (7.79%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |

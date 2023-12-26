@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 51.00% | ~91 |
+| Chapter I | 51.00% | ~92 |
 | Fire in the... nevermind | 50.00% | ~90 |
 | Haute cuisine | 45.00% | ~81 |
-| I didn't do it! | 39.00% | ~70 |
 | Demolition expert | 38.00% | ~68 |
-| Open up wide | 36.00% | ~64 |
-| Keep away from children | 36.00% | ~64 |
+| I didn't do it! | 38.00% | ~68 |
+| Open up wide | 36.00% | ~65 |
+| Keep away from children | 36.00% | ~65 |
 | Wooooooow! | 34.00% | ~61 |
-| Artistic fool | 32.00% | ~57 |
-| Shadow on the wall | 31.00% | ~55 |
+| Artistic fool | 32.00% | ~58 |
+| Shadow on the wall | 32.00% | ~58 |
 | Let the boot talk | 30.00% | ~54 |
 | Chapter II | 25.00% | ~45 |
 | Bubblekillerfamily | 23.00% | ~41 |
 | Chapter III | 23.00% | ~41 |
 | Like a moth in the Wind | 23.00% | ~41 |
-| Quite a buggy game | 22.00% | ~39 |
-| Handyman | 22.00% | ~39 |
-| Achoo!! | 22.00% | ~39 |
+| Quite a buggy game | 22.00% | ~40 |
+| Handyman | 22.00% | ~40 |
+| Achoo!! | 22.00% | ~40 |
 | Pacifist | 21.00% | ~38 |
 | Mirror mirror on the wall... | 19.00% | ~34 |
 | Fastidious Clown | 18.00% | ~32 |
 | Home is where the heart is | 18.00% | ~32 |
-| It's not easy being green! | 17.00% | ~30 |
+| It's not easy being green! | 17.00% | ~31 |
 | Death is a part of life | 14.00% | ~25 |
-| To err is human... | 12.00% | ~21 |
-| Master of Thermodynamics | 12.00% | ~21 |
-| Unfullfilled dreams | 12.00% | ~21 |
+| To err is human... | 12.00% | ~22 |
+| Master of Thermodynamics | 12.00% | ~22 |
+| Unfullfilled dreams | 12.00% | ~22 |
 | Nothing can stop me | 9.00% | ~16 |
 | Mumbo Jumbo | 9.00% | ~16 |
 | Useless but beautiful | 8.00% | ~14 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 423)  
+Progressed: 180 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-13 | 177 | 0 |
 | 2023-12-18 | 178 | 0 |
 | 2023-12-19 | 179 | 0 |
+| 2023-12-26 | 180 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

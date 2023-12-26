@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 916,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -3058,6 +3058,11 @@
       "Time": "2023-12-26T19:09:50.6766575+00:00",
       "NumProgressed": 915,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T21:09:17.1104435+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3070,7 +3075,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "achievement_10",
@@ -3078,7 +3083,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_11",
@@ -3134,7 +3139,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_18",
@@ -3142,7 +3147,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_19",
@@ -3198,15 +3203,15 @@
       "Name": "Single Minded",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_25",
       "SetID": "2cpn27e",
       "Name": "Volatile Vocation",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_26",
@@ -3230,7 +3235,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_29",
@@ -3244,9 +3249,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_30",
@@ -3262,7 +3267,7 @@
       "Name": "Snare Specialist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_32",
@@ -3278,7 +3283,7 @@
       "Name": "Human Believer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_34",
@@ -3310,7 +3315,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "achievement_38",
@@ -3356,17 +3361,17 @@
       "ID": "achievement_42",
       "SetID": "2cpn27e",
       "Name": "Quintessence of Form",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_44",
@@ -3374,7 +3379,7 @@
       "Name": "Artful Assister",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_45",
@@ -3390,7 +3395,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_47",
@@ -3422,7 +3427,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_7",
@@ -3453,13 +3458,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:09:57.3870711+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:09:17.1104432+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:01:15.9445237+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:09:57.3871113+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:00:06.9646104+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:09:17.1104831+00:00"
 }

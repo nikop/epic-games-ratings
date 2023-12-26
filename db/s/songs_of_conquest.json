@@ -5,7 +5,7 @@
   "Ranking_Rating": 229,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 414,
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 149,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2868,6 +2868,11 @@
       "Time": "2023-12-26T20:09:29.1786248+00:00",
       "NumProgressed": 769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T21:08:55.8446126+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3120,7 +3125,7 @@
       "Name": "Whoops!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "RanaCampaign",
@@ -3208,7 +3213,7 @@
       "Name": "Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WielderLevel2",
@@ -3311,15 +3316,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:09:29.1786246+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:08:55.8446122+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:57:47.5430797+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:09:29.1786978+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:57:36.323027+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:08:55.8446592+00:00"
 }

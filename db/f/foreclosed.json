@@ -3,8 +3,8 @@
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.4,
+  "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -314,6 +314,11 @@
       "Time": "2023-12-26T03:06:46.3136771+00:00",
       "NumProgressed": 125,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T21:05:35.1016022+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -341,15 +346,15 @@
       "Name": "No Place to Hide",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClubTurretsHack",
       "SetID": "9e3d06k",
       "Name": "Sapper",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "EnemyDefeat_0",
@@ -397,23 +402,23 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Headshots_1",
       "SetID": "9e3d06k",
       "Name": "Veteran Sniper",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "KyklosPlan",
@@ -421,7 +426,7 @@
       "Name": "The Red Herring",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LiftEnemies_0",
@@ -443,9 +448,9 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -461,15 +466,15 @@
       "Name": "A Voice in the Dark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "StealthDefeat_1",
@@ -516,7 +521,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 3
     }
   ],
@@ -524,8 +529,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:06:55.5989063+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:05:35.1016018+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.8837296+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:00:12.0723047+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:06:55.5989212+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:59:20.3446911+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:05:35.1016192+00:00"
 }

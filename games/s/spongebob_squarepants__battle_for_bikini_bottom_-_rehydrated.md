@@ -6,29 +6,29 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 15.00% | ~61 |
-| Jellyfish Jam | 14.00% | ~57 |
-| Sponge Smasher | 14.00% | ~57 |
+| Spatula Seeker | 15.00% | ~62 |
+| Jellyfish Jam | 14.00% | ~58 |
+| Sponge Smasher | 14.00% | ~58 |
 | Time For Tutorial | 10.00% | ~41 |
 | Jellyfishing | 9.00% | ~37 |
 | Sweet Victory | 8.00% | ~33 |
 | Sock Getter | 8.00% | ~33 |
 | Super Spatula Seeker | 7.00% | ~29 |
 | Surf's Up! | 7.00% | ~29 |
-| Life's as extreme as you wanna make it! | 6.00% | ~24 |
-| Uptown and Downtown | 6.00% | ~24 |
-| Toxic Terror | 6.00% | ~24 |
-| Squirrel Smasher | 6.00% | ~24 |
-| Star Smasher | 6.00% | ~24 |
-| Hit Rock Bottom | 5.00% | ~20 |
+| Life's as extreme as you wanna make it! | 6.00% | ~25 |
+| Uptown and Downtown | 6.00% | ~25 |
+| Toxic Terror | 6.00% | ~25 |
+| Squirrel Smasher | 6.00% | ~25 |
+| Star Smasher | 6.00% | ~25 |
+| Hit Rock Bottom | 5.00% | ~21 |
 | Hello, Bikini Bottom | 4.00% | ~16 |
 | Keep it Rolling | 4.00% | ~16 |
 | Shrimp Catcher | 4.00% | ~16 |
 | Robot encyclopedia | 3.00% | ~12 |
 | Are you ready now? | 3.00% | ~12 |
 | Ship Shape | 3.00% | ~12 |
+| Kelp Forest of Fear | 3.00% | ~12 |
 | Shanghaied | 2.00% | ~8 |
-| Kelp Forest of Fear | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | Ultra Spatula Seeker | 2.00% | ~8 |
 | The Small Does Not Rule | 1.00% | ~4 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 | Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 352)  
-Completed: 3 (0.74%) (Ranked 195)  
+Progressed: 411 (Ranked 351)  
+Completed: 3 (0.73%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,7 +52,7 @@ Completed: 3 (0.74%) (Ranked 195)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
-| 2023-12-26 | 408 | 3 |
+| 2023-12-26 | 411 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

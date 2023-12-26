@@ -3,8 +3,8 @@
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 567,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -205,6 +205,11 @@
       "Time": "2023-12-26T00:03:19.7656161+00:00",
       "NumProgressed": 35,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T21:04:01.1869484+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -215,7 +220,7 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -263,7 +268,7 @@
       "ID": "a15",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Townlife",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -279,7 +284,7 @@
       "ID": "a17",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Silly Birbs",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -319,7 +324,7 @@
       "ID": "a21",
       "SetID": "cdg65ol",
       "Name": "Sailor Swift",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -327,7 +332,7 @@
       "ID": "a22",
       "SetID": "cdg65ol",
       "Name": "No Evil",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -335,7 +340,7 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -375,7 +380,7 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -391,7 +396,7 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -449,7 +454,7 @@
       "Name": "Shipwrecked!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "a5",
@@ -479,7 +484,7 @@
       "ID": "a8",
       "SetID": "cdg65ol",
       "Name": "Replace the Rudder",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -496,7 +501,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 1
     }
   ],
@@ -504,8 +509,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:04:52.0521168+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:04:01.186948+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.260771+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:03:23.5004904+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:04:52.0521398+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:02:55.4550625+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:04:01.1869717+00:00"
 }

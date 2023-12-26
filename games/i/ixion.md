@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,159 |
+| Wakey Wakey | 31.00% | ~1,160 |
 | Sputnik 2049 | 27.00% | ~1,010 |
-| Infinite Growth... | 26.00% | ~972 |
-| Without Breaking Some Eggs... | 25.00% | ~935 |
-| A Thousand Strong | 18.00% | ~673 |
-| Ready for a New World | 18.00% | ~673 |
+| Infinite Growth... | 26.00% | ~973 |
+| Without Breaking Some Eggs... | 25.00% | ~936 |
+| A Thousand Strong | 18.00% | ~674 |
+| Ready for a New World | 18.00% | ~674 |
 | Space Society | 17.00% | ~636 |
-| Permanent Redesigns | 16.00% | ~598 |
+| Permanent Redesigns | 16.00% | ~599 |
 | Fully Recycled | 14.00% | ~524 |
 | Ain't Nobody Got Time for That | 14.00% | ~524 |
 | The Ship of Theseus | 14.00% | ~524 |
@@ -22,14 +22,14 @@ Rating: 4.58 (Ranked 457)
 | Exceeding Capacity | 12.00% | ~449 |
 | Breaking Protocol | 12.00% | ~449 |
 | Man's Best Friend | 9.00% | ~337 |
-| Power Outage | 9.00% | ~337 |
+| Power Outage | 8.00% | ~299 |
 | Convenient Transport | 8.00% | ~299 |
 | Please Make it Stop! | 8.00% | ~299 |
 | Sightseeing | 7.00% | ~262 |
 | Necessary Enhancement | 7.00% | ~262 |
 | From the Past | 7.00% | ~262 |
-| Access Granted | 6.00% | ~224 |
-| All in Good Health | 6.00% | ~224 |
+| Access Granted | 6.00% | ~225 |
+| All in Good Health | 6.00% | ~225 |
 | Oats | 5.00% | ~187 |
 | What They Hide From Us | 5.00% | ~187 |
 | ...  in a finite world | 5.00% | ~187 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,740 (Ranked 211)  
+Progressed: 3,742 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 3,675 | 0 |
 | 2023-12-24 | 3,700 | 0 |
 | 2023-12-25 | 3,722 | 0 |
-| 2023-12-26 | 3,740 | 0 |
+| 2023-12-26 | 3,742 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

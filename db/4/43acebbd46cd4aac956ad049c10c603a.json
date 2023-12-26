@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -249,7 +249,7 @@
   ],
   "EOS_Progressed": 1147,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3296,9 +3296,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 298
     },
     {
       "ID": "LostMarshes",
@@ -3368,9 +3368,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 310
     },
     {
       "ID": "Persistent",
@@ -3593,8 +3593,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:05:00.4153239+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:04:07.5504576+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:59:53.7932926+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:05:00.4153732+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:59:07.1636442+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:04:07.550514+00:00"
 }

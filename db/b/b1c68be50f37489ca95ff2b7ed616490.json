@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2023-12-26T19:05:07.380299+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T21:04:05.9094326+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -869,9 +874,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 120
     },
     {
       "ID": "10",
@@ -1039,7 +1044,7 @@
       "Name": "A simple mistake leads to grave consequences",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "5",
@@ -1086,14 +1091,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:04:58.2342606+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:04:05.9094323+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:03:37.3379562+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:04:58.2342784+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:03:05.5031991+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:04:05.9094771+00:00"
 }

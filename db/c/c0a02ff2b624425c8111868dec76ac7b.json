@@ -4,7 +4,7 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2023-12-26T20:08:02.5341653+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T21:06:25.1497284+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -725,9 +730,9 @@
       "ID": "ACH_ALL_HP_UP_COLLECTED",
       "SetID": "cagp2pi",
       "Name": "Armored",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ALL_ORBS_COLLECTED",
@@ -741,9 +746,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ANGEL_ABSORBED",
@@ -759,7 +764,7 @@
       "Name": "Together",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -789,9 +794,9 @@
       "ID": "ACH_DEMON_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Demon",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DETERMINATION",
@@ -902,14 +907,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:08:02.534165+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:06:25.1497281+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.2279599+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:01:09.0727215+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:08:02.5341822+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:00:01.6743655+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:06:25.149748+00:00"
 }

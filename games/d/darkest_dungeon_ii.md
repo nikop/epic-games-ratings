@@ -1,15 +1,15 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~540 |
-| Lost and Found | 7.00% | ~344 |
-| This Belongs in a Museum | 5.00% | ~6,502 |
-| Autodidact | 5.00% | ~6,502 |
+| Malpractice Assurance | 11.00% | ~542 |
+| Lost and Found | 7.00% | ~345 |
+| This Belongs in a Museum | 5.00% | ~6,503 |
+| Autodidact | 5.00% | ~6,503 |
 | This guy... again? | 5.00% | ~246 |
 | Serenity Now! | 4.00% | ~5,202 |
 | Creep and Sleep | 4.00% | ~5,202 |
@@ -19,19 +19,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,202 |
 | Ploughshares to Swords | 4.00% | ~197 |
 | Bloody Graduation | 4.00% | ~197 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,901 |
-| It Rings a Bell | 3.00% | ~3,901 |
-| Not Today! | 3.00% | ~3,901 |
-| It Happens | 3.00% | ~3,901 |
-| Rush Hour | 3.00% | ~3,901 |
-| Merry Time | 3.00% | ~3,901 |
-| Harvest Festival | 3.00% | ~3,901 |
-| To Grandmother's House | 3.00% | ~3,901 |
-| Whale | 3.00% | ~3,901 |
-| A Place to Lay Your Head | 3.00% | ~3,901 |
-| FNG | 3.00% | ~3,901 |
-| Nope | 3.00% | ~3,901 |
-| Friends 'Til the End | 3.00% | ~147 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,902 |
+| It Rings a Bell | 3.00% | ~3,902 |
+| Not Today! | 3.00% | ~3,902 |
+| It Happens | 3.00% | ~3,902 |
+| Rush Hour | 3.00% | ~3,902 |
+| Merry Time | 3.00% | ~3,902 |
+| Harvest Festival | 3.00% | ~3,902 |
+| To Grandmother's House | 3.00% | ~3,902 |
+| Whale | 3.00% | ~3,902 |
+| A Place to Lay Your Head | 3.00% | ~3,902 |
+| FNG | 3.00% | ~3,902 |
+| Nope | 3.00% | ~3,902 |
+| Friends 'Til the End | 3.00% | ~148 |
 | Resurrection | 2.00% | ~2,601 |
 | Unleash Hell | 2.00% | ~2,601 |
 | Funny Guy | 2.00% | ~2,601 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,601 |
 | Unshackled | 2.00% | ~2,601 |
 | Road Trip | 2.00% | ~2,601 |
-| This Looks Familiar | 1.00% | ~1,300 |
-| Ichthyophobic | 1.00% | ~1,300 |
-| No More Mouths to Feed | 1.00% | ~1,300 |
-| Worldly Traveller | 1.00% | ~1,300 |
-| Hot Air | 1.00% | ~1,300 |
-| Eyes Up | 1.00% | ~1,300 |
-| Handled | 1.00% | ~1,300 |
+| This Looks Familiar | 1.00% | ~1,301 |
+| Ichthyophobic | 1.00% | ~1,301 |
+| No More Mouths to Feed | 1.00% | ~1,301 |
+| Worldly Traveller | 1.00% | ~1,301 |
+| Hot Air | 1.00% | ~1,301 |
+| Eyes Up | 1.00% | ~1,301 |
+| Handled | 1.00% | ~1,301 |
 | Slap on the Wrist | 1.00% | ~49 |
 | For Old Time' Sake | 1.00% | ~49 |
 | Shrine of Reflection | 0.80% | ~1,040 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.70% | ~34 |
 | Hat Trick | 0.60% | ~780 |
 | Triage | 0.60% | ~780 |
-| No Mercy | 0.60% | ~29 |
+| No Mercy | 0.60% | ~30 |
 | The World As It Was | 0.50% | ~650 |
 | A Life Well Lived | 0.40% | ~520 |
 | Bacon Bits | 0.40% | ~520 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,044 (Ranked 87)  
+Progressed: 130,055 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,15 +326,15 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 130,044 | 3 |
+| 2023-12-26 | 130,055 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
-Sum: 21,112 (Ranked 58)  
+Sum: 21,119 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,875 |
-| This game has Diverse Characters | 1,771 |
+| This game has Diverse Characters | 1,778 |
 | This game has Challenging Combat | 1,634 |
 | This game is Highly Recommended | 1,572 |
 | This game is Extremely Fun | 1,494 |
@@ -680,4 +680,4 @@ Diff (max vs sum): -8
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
-| 2023-12-26 | 4.68 | - | 7,875 | 21,112 |
+| 2023-12-26 | 4.68 | - | 7,875 | 21,119 |

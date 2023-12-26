@@ -319,7 +319,7 @@
   ],
   "EOS_Progressed": 11758,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1294,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8101,9 +8101,9 @@
       "ID": "FasterThanLight",
       "SetID": "acc6ea0",
       "Name": "Faster Than Light",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 47
     },
     {
       "ID": "FirstTime",
@@ -8318,8 +8318,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-25T14:58:18.7859692+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:10:51.4413336+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:09:59.8170419+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:59:29.0064304+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:10:51.4413763+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:58:49.8307148+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:09:59.8170985+00:00"
 }

@@ -9,15 +9,15 @@ Rating: 4.54 (Ranked 537)
 | The Teleprobe | 52.00% | ~537 |
 | The City | 47.00% | ~486 |
 | The field base | 42.00% | ~434 |
+| The Alliance | 36.00% | ~372 |
 | Survivors | 36.00% | ~372 |
-| The Alliance | 35.00% | ~362 |
 | The Condor | 33.00% | ~341 |
 | The End | 33.00% | ~341 |
 | The Necroevolution | 27.00% | ~279 |
 | Krauta is alive | 26.00% | ~269 |
 | Peacemaker | 21.00% | ~217 |
-| Volcanologist | 20.00% | ~207 |
-| On her own | 19.00% | ~196 |
+| Volcanologist | 21.00% | ~217 |
+| On her own | 20.00% | ~207 |
 | Fierce fight | 18.00% | ~186 |
 | Evacuation | 18.00% | ~186 |
 | Beyond divisions | 16.00% | ~165 |

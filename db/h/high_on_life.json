@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24899,
+  "EOS_Progressed": 24902,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8245,6 +8245,11 @@
       "Time": "2023-12-26T20:08:39.6589262+00:00",
       "NumProgressed": 24899,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-26T21:08:17.5004961+00:00",
+      "NumProgressed": 24902,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8368,7 +8373,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 0.5,
       "XP": 45,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -8607,13 +8612,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24899,
+      "Progressed": 24902,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2192,
+      "Progressed": 2195,
       "Completed": 1376
     }
   ],
@@ -8621,8 +8626,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-19T23:02:26.7402542+00:00",
-  "LastChanged_Achievements": "2023-12-26T20:08:39.658926+00:00",
+  "LastChanged_Achievements": "2023-12-26T21:08:17.5004958+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:03:21.0273008+00:00",
-  "LastUpdate_Achievements": "2023-12-26T20:08:39.6589925+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:02:53.6616088+00:00",
+  "LastUpdate_Achievements": "2023-12-26T21:08:17.5005836+00:00"
 }
