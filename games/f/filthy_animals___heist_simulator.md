@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutorial Completed | 6.00% | ~522 |
+| Tutorial Completed | 6.00% | ~523 |
 | Supermart Objectives Complete | 2.00% | ~174 |
 | Supermart Heisted | 2.00% | ~174 |
 | Sewer Objectives Complete | 1.00% | ~87 |
@@ -33,7 +33,7 @@
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,708 (Ranked 181)  
+Progressed: 8,709 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 8,672 | 0 |
 | 2023-12-24 | 8,685 | 0 |
 | 2023-12-25 | 8,693 | 0 |
-| 2023-12-26 | 8,708 | 0 |
+| 2023-12-26 | 8,709 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

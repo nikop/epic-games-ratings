@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.11,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -984,6 +984,11 @@
       "Time": "2023-12-26T21:09:57.9243096+00:00",
       "NumProgressed": 611,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-26T22:09:32.9627472+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1019,7 +1024,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1033,9 +1038,9 @@
       "ID": "CURIOUS",
       "SetID": "2iigf77",
       "Name": "Curious",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 263
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1139,7 +1144,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -1187,7 +1192,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1211,7 +1216,7 @@
       "Name": "Sysadmin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1250,7 +1255,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 19
     }
   ],
@@ -1258,8 +1263,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:09:57.9243093+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:09:32.9627469+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.9005622+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:59:01.5127266+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:09:57.9243284+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:50.0719148+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:09:32.9627654+00:00"
 }

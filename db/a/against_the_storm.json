@@ -3611,9 +3611,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19338,
+  "EOS_Progressed": 19345,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17241,6 +17241,11 @@
       "Time": "2023-12-26T21:04:50.1466508+00:00",
       "NumProgressed": 19338,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T22:04:32.5344966+00:00",
+      "NumProgressed": 19345,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17259,9 +17264,9 @@
       "ID": "AllFood",
       "SetID": "cfbk359",
       "Name": "Feeding The People",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 97
     },
     {
       "ID": "AllNeeds",
@@ -17653,7 +17658,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "WinNearFrosts",
@@ -17685,7 +17690,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "WinNearPresence",
@@ -17724,15 +17729,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19338,
+      "Progressed": 19345,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-26T16:59:55.8893505+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:04:50.1466506+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:04:32.5344962+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:54.8485249+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:04:50.1467359+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:43.5299934+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:04:32.5345876+00:00"
 }

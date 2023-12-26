@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 1405,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3968,9 +3968,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 337
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -3992,9 +3992,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1307
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -4080,9 +4080,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1293
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4264,9 +4264,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 1012
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -4408,9 +4408,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 534
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -4553,8 +4553,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:06:03.0259653+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:05:43.7669358+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:40.1254956+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:06:03.0260682+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:28.9245562+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:05:43.7670403+00:00"
 }

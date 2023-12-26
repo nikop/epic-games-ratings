@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,625 |
-| Captain Drummer | 11.00% | ~1,925 |
-| Celebrations are in Order | 11.00% | ~1,925 |
-| The Pit and the Pirates | 10.00% | ~1,750 |
-| Martian Music | 10.00% | ~1,750 |
-| Drone Dodger | 10.00% | ~1,750 |
-| Bosmang | 10.00% | ~1,750 |
-| Impossible Objects | 10.00% | ~1,750 |
-| Spore Taste | 9.00% | ~1,575 |
+| Oyedang, Kopengs | 15.00% | ~2,626 |
+| Captain Drummer | 11.00% | ~1,926 |
+| Celebrations are in Order | 11.00% | ~1,926 |
+| The Pit and the Pirates | 10.00% | ~1,751 |
+| Martian Music | 10.00% | ~1,751 |
+| Drone Dodger | 10.00% | ~1,751 |
+| Bosmang | 10.00% | ~1,751 |
+| Impossible Objects | 10.00% | ~1,751 |
+| Spore Taste | 9.00% | ~1,576 |
 | Zen Master | 9.00% | ~311 |
-| Stogie for Fogey | 8.00% | ~1,400 |
-| Safe Cracker | 8.00% | ~276 |
-| Madame Undersecretary | 8.00% | ~276 |
+| Stogie for Fogey | 8.00% | ~1,401 |
+| Safe Cracker | 8.00% | ~277 |
+| Madame Undersecretary | 8.00% | ~277 |
 | Heal Thy Medic | 7.00% | ~1,225 |
 | Call it Even | 7.00% | ~1,225 |
 | Keep Arjun in Check | 7.00% | ~242 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 513)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,501 (Ranked 156)  
+Progressed: 17,507 (Ranked 156)  
 Completed: 53 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 53 (0.30%) (Ranked 254)
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
-| 2023-12-26 | 17,501 | 53 |
+| 2023-12-26 | 17,507 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

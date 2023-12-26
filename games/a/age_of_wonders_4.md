@@ -1,16 +1,16 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 353)  
+Rating: 4.63 (Ranked 352)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 10.00% | ~627 |
+| Secret Technique | 10.00% | ~628 |
 | Realm Estate | 9.00% | ~565 |
 | A Wonderful Discovery | 8.00% | ~502 |
 | Walls Cannot Stop Us | 8.00% | ~502 |
 | From Friends to Family | 7.00% | ~439 |
-| Bone Peddler | 6.00% | ~376 |
+| Bone Peddler | 6.00% | ~377 |
 | There Can Only Be One! | 5.00% | ~314 |
 | Full Ascension | 5.00% | ~314 |
 | Magical Synergy | 5.00% | ~314 |
@@ -24,18 +24,18 @@ Rating: 4.63 (Ranked 353)
 | Digging for Treasure | 3.00% | ~188 |
 | My Final Form | 3.00% | ~188 |
 | Impenetrable Fortress | 3.00% | ~188 |
-| Enchanted Archipelago | 2.00% | ~125 |
-| Crimson Caldera | 2.00% | ~125 |
-| Preparation Is Everything | 2.00% | ~125 |
-| Fiery Friend | 2.00% | ~125 |
-| Against the Odds | 2.00% | ~125 |
-| Here be Dragons | 2.00% | ~125 |
-| Tipping the Scales | 2.00% | ~125 |
-| Mighty Hoard | 2.00% | ~125 |
-| Freed Lands of Manuhari | 2.00% | ~125 |
-| Sehiran Oasis | 2.00% | ~125 |
-| Chaos Surge | 2.00% | ~125 |
-| Spoils of War | 2.00% | ~125 |
+| Enchanted Archipelago | 2.00% | ~126 |
+| Crimson Caldera | 2.00% | ~126 |
+| Preparation Is Everything | 2.00% | ~126 |
+| Fiery Friend | 2.00% | ~126 |
+| Against the Odds | 2.00% | ~126 |
+| Here be Dragons | 2.00% | ~126 |
+| Tipping the Scales | 2.00% | ~126 |
+| Mighty Hoard | 2.00% | ~126 |
+| Freed Lands of Manuhari | 2.00% | ~126 |
+| Sehiran Oasis | 2.00% | ~126 |
+| Chaos Surge | 2.00% | ~126 |
+| Spoils of War | 2.00% | ~126 |
 | God Emperor | 1.00% | ~63 |
 | Lord of Chaos | 1.00% | ~63 |
 | Arch Mage | 1.00% | ~63 |
@@ -48,8 +48,8 @@ Rating: 4.63 (Ranked 353)
 | Seal the Deal | 1.00% | ~63 |
 | A Conqueror's Cohort | 1.00% | ~63 |
 | Dawn of the Dread | 1.00% | ~63 |
-| I've Got Everything I Need Right Here | 0.90% | ~56 |
-| Pruning for Progress | 0.90% | ~56 |
+| I've Got Everything I Need Right Here | 0.90% | ~57 |
+| Pruning for Progress | 0.90% | ~57 |
 | Manufactured War | 0.80% | ~50 |
 | Grexolis | 0.80% | ~50 |
 | One for All, All for One | 0.80% | ~50 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,274 (Ranked 194)  
+Progressed: 6,278 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,11 +284,11 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-23 | 6,077 | 7 |
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
-| 2023-12-26 | 6,274 | 7 |
+| 2023-12-26 | 6,278 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
-Sum: 138 (Ranked 438)  
-Diff (max vs sum): 41  
+Sum: 138 (Ranked 439)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

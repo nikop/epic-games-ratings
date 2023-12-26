@@ -17,9 +17,9 @@
 | Solved fifth case | 6.00% | ~14 |
 | Solved eighth case | 6.00% | ~14 |
 | Solved the Lemurian Vampire 2nd Case | 6.00% | ~10 |
+| Solved tenth case | 5.00% | ~11 |
 | Solved eleventh case | 4.00% | ~9 |
 | Solved ninth case | 4.00% | ~9 |
-| Solved tenth case | 4.00% | ~9 |
 | Solved the Lemurian Vampire 3rd Case | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 228 (Ranked 404)  

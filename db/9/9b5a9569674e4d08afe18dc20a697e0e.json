@@ -793,9 +793,9 @@
       "ID": "RECOVERING",
       "SetID": "40o4f14",
       "Name": "Growing the economy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SAVIOR",
@@ -864,8 +864,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:06:04.4258161+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:05:45.1177381+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:57:01.5928962+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:02:45.5034225+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:06:04.4258413+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:00:31.2502787+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:05:45.1177586+00:00"
 }

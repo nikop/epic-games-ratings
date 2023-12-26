@@ -13,9 +13,9 @@ Rating: 4.37 (Ranked 784)
 | Lumberjack | 53.00% | ~874 |
 | Croaked | 49.00% | ~808 |
 | Limp Richard | 49.00% | ~808 |
+| Editor Adept | 48.00% | ~792 |
 | Exorcist | 48.00% | ~792 |
 | From Darkness to Light | 48.00% | ~792 |
-| Editor Adept | 47.00% | ~776 |
 | Giant Killer | 46.00% | ~759 |
 | Sensei | 44.00% | ~726 |
 | Firestarter | 42.00% | ~693 |
@@ -23,8 +23,8 @@ Rating: 4.37 (Ranked 784)
 | Technophobe | 41.00% | ~676 |
 | Recycler | 40.00% | ~660 |
 | Are you not entertained? | 36.00% | ~594 |
+| Ganglord | 36.00% | ~594 |
 | Jarhead | 36.00% | ~594 |
-| Ganglord | 35.00% | ~578 |
 | Infiltrator | 35.00% | ~578 |
 | Experienced | 33.00% | ~544 |
 | Pushing Daisy | 33.00% | ~544 |

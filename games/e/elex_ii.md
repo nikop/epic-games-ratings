@@ -9,12 +9,12 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 34.00% | ~37 |
 | Best Buddy | 27.00% | ~29 |
 | Civilian | 24.00% | ~26 |
-| Role Model | 20.00% | ~22 |
+| Role Model | 21.00% | ~23 |
 | Creator | 16.00% | ~17 |
+| Military Leader | 15.00% | ~16 |
 | Festival-goer | 15.00% | ~16 |
 | Commander | 14.00% | ~15 |
-| Military Leader | 13.00% | ~14 |
-| Long-Haul Flyer | 12.00% | ~13 |
+| Long-Haul Flyer | 13.00% | ~14 |
 | Peddler | 11.00% | ~12 |
 | Family Reunion | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |

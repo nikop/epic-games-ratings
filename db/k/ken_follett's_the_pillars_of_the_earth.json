@@ -3,7 +3,7 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 582,
-  "Ranking_Popularity": 322,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 199,
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17413,
+  "EOS_Progressed": 17414,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 2,
@@ -17080,6 +17080,11 @@
       "Time": "2023-12-26T21:08:28.8578121+00:00",
       "NumProgressed": 17413,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-26T22:06:27.0001108+00:00",
+      "NumProgressed": 17414,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 41,
@@ -17171,7 +17176,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "tpote_achievement_2",
@@ -17179,7 +17184,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "tpote_achievement_20",
@@ -17243,7 +17248,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "tpote_achievement_28",
@@ -17283,7 +17288,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "tpote_achievement_32",
@@ -17355,7 +17360,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6965
+      "UsersEstimate": 6966
     },
     {
       "ID": "tpote_achievement_40",
@@ -17411,22 +17416,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5920
+      "UsersEstimate": 5921
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17413,
+      "Progressed": 17414,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:08:28.8578117+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:06:27.0001105+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:49.339885+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:08:28.8579338+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:37.7870292+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:06:27.0002233+00:00"
 }

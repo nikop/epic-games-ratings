@@ -2,9 +2,9 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 99,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -524,6 +524,11 @@
       "Time": "2023-12-25T17:09:58.9911302+00:00",
       "NumProgressed": 98,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T22:08:53.5571327+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 18,
@@ -533,9 +538,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "backstory_buff",
@@ -581,7 +586,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 90,
       "UsersEstimate": 25
     },
@@ -621,7 +626,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -637,9 +642,9 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "relight_my_cannon",
@@ -647,7 +652,7 @@
       "Name": "Relight my Cannon",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "set_sail",
@@ -669,7 +674,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 36
     }
@@ -678,14 +683,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 99,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:09:17.789915+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:08:53.5571323+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.2377289+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:59:27.0239424+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:09:17.7899252+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:59:15.2451729+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:08:53.5571462+00:00"
 }

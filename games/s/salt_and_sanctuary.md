@@ -1,20 +1,20 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 394)  
+Rating: 4.61 (Ranked 395)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,980 |
-| The Three | 64.00% | ~346,972 |
-| The Banquet | 40.00% | ~216,858 |
-| Devara's Light | 31.00% | ~168,065 |
-| The Iron Ones | 19.00% | ~103,007 |
-| The Village | 17.00% | ~92,164 |
+| Find Sanctuary | 83.00% | ~449,983 |
+| The Three | 64.00% | ~346,975 |
+| The Banquet | 40.00% | ~216,859 |
+| Devara's Light | 31.00% | ~168,066 |
+| The Iron Ones | 19.00% | ~103,008 |
+| The Village | 17.00% | ~92,165 |
 | The Forest | 15.00% | ~81,322 |
-| The Imposter | 14.00% | ~75,900 |
-| The Keep | 14.00% | ~75,900 |
+| The Imposter | 14.00% | ~75,901 |
+| The Keep | 14.00% | ~75,901 |
 | Branded | 13.00% | ~70,479 |
 | The Castle | 11.00% | ~59,636 |
 | The Dome | 9.00% | ~48,793 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,843 |
 | Fading Fast | 1.00% | ~5,421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,144 (Ranked 34)  
+Progressed: 542,148 (Ranked 34)  
 Completed: 1,658 (0.31%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 1,658 (0.31%) (Ranked 250)
 | 2023-12-23 | 541,772 | 1,653 |
 | 2023-12-24 | 541,880 | 1,654 |
 | 2023-12-25 | 542,019 | 1,656 |
-| 2023-12-26 | 542,144 | 1,658 |
+| 2023-12-26 | 542,148 | 1,658 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 260)  
-Sum: 2,016 (Ranked 216)  
+Sum: 2,017 (Ranked 216)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +305,7 @@ Diff (max vs sum): 44
 | This game is Highly Recommended | 267 |
 | This game has Quickly Understood Controls | 265 |
 | This game is Extremely Fun | 249 |
-| This game has Diverse Characters | 245 |
+| This game has Diverse Characters | 246 |
 | This game has Amazing Storytelling | 236 |
 | This game has Amazing Characters | 233 |
 | This game has Unique Visuals | 227 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 44
 | 2023-12-21 | 4.62 | - | 294 | 2,015 |
 | 2023-12-22 | 4.61 | - | 294 | 2,015 |
 | 2023-12-24 | 4.61 | - | 294 | 2,016 |
+| 2023-12-26 | 4.61 | - | 294 | 2,017 |

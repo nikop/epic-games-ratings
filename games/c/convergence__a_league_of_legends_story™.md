@@ -21,16 +21,16 @@ Rating: 4.65 (Ranked 321)
 | Fast Learner | 23.00% | ~257 |
 | Breaking Down Barriers | 22.00% | ~246 |
 | The Wicked Twins | 22.00% | ~246 |
-| Right On Time | 21.00% | ~234 |
-| Like Clockwork | 21.00% | ~234 |
-| The Betrayer | 21.00% | ~234 |
-| Golem Chaser | 21.00% | ~234 |
+| Right On Time | 21.00% | ~235 |
+| Like Clockwork | 21.00% | ~235 |
+| The Betrayer | 21.00% | ~235 |
+| Golem Chaser | 21.00% | ~235 |
 | The Loose Cannon | 19.00% | ~212 |
 | Check Your Pulse | 19.00% | ~212 |
 | Street Style | 18.00% | ~201 |
 | The Man Who Shattered Time | 18.00% | ~201 |
 | The Family Fortune | 18.00% | ~201 |
-| Whiz Kid | 15.00% | ~167 |
+| Whiz Kid | 15.00% | ~168 |
 | Good Neighbor | 14.00% | ~156 |
 | Treasure Trove | 13.00% | ~145 |
 | Family Memories | 13.00% | ~145 |
@@ -41,8 +41,8 @@ Rating: 4.65 (Ranked 321)
 | Sump Explorer | 11.00% | ~123 |
 | Factorywood Explorer | 10.00% | ~112 |
 | Theater Explorer | 10.00% | ~112 |
-| Cultivair Explorer | 9.00% | ~100 |
-| Fairgrounds Explorer | 9.00% | ~100 |
+| Cultivair Explorer | 9.00% | ~101 |
+| Fairgrounds Explorer | 9.00% | ~101 |
 | Corin Goes Home | 8.00% | ~89 |
 | Sartorialist | 8.00% | ~89 |
 | Entresol Explorer | 8.00% | ~89 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,116 (Ranked 277)  
+Progressed: 1,117 (Ranked 277)  
 Completed: 6 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 6 (0.54%) (Ranked 212)
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
-| 2023-12-26 | 1,116 | 6 |
+| 2023-12-26 | 1,117 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

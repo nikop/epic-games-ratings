@@ -2745,17 +2745,17 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 464
     },
     {
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "DwarDevil",
@@ -2961,17 +2961,17 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 116
     },
     {
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 328
     },
     {
       "ID": "SwordMoneyBag",
@@ -3000,8 +3000,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:03:27.4750671+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:03:12.7639224+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:49.0129985+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:07.1972817+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:03:27.4751062+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:57:59.602789+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:03:12.7639702+00:00"
 }

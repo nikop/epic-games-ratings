@@ -277,9 +277,9 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
@@ -349,9 +349,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -476,8 +476,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:06:15.1936117+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:05:55.726159+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:21.6157863+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:06:15.1936363+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:11.8045201+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:05:55.7261781+00:00"
 }

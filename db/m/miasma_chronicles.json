@@ -4261,9 +4261,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 594
     },
     {
       "ID": "DEAD_DICK",
@@ -4301,9 +4301,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 792
     },
     {
       "ID": "ENDGAME",
@@ -4574,8 +4574,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:10:06.481362+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:09:40.844319+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:03:04.9004675+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:10:06.4814117+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:02:50.1499543+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:09:40.8443725+00:00"
 }

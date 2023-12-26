@@ -323,7 +323,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3742,
+  "EOS_Progressed": 3743,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -7203,6 +7203,11 @@
       "Time": "2023-12-26T21:03:28.8571987+00:00",
       "NumProgressed": 3742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T22:03:14.1214504+00:00",
+      "NumProgressed": 3743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7294,7 +7299,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_BASE_21",
@@ -7326,7 +7331,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH_BASE_25",
@@ -7598,7 +7603,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_BASE_60",
@@ -7669,13 +7674,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1926,
+      "Progressed": 1927,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3742,
+      "Progressed": 3743,
       "Completed": 0
     }
   ],
@@ -7683,8 +7688,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:03:28.8571983+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:03:14.1214499+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:59:49.7030025+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:03:28.8572729+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:59:38.4837066+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:03:14.1215202+00:00"
 }

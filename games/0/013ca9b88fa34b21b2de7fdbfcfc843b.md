@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 353)  
+Rating: 4.63 (Ranked 352)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.63 (Ranked 353)
 | Mist Walker | 1.00% | ~87 |
 | Lumberjack | 0.90% | ~78 |
 | Oui, Chef! | 0.90% | ~78 |
-| Clear the Air | 0.80% | ~69 |
+| Clear the Air | 0.80% | ~70 |
 | Exit Through The Gift Shop | 0.80% | ~10 |
 | Search for the Hairy Grell | 0.70% | ~61 |
 | Beach Comber | 0.60% | ~52 |
@@ -34,10 +34,10 @@ Rating: 4.63 (Ranked 353)
 | Scattered Scroll Scrounger | 0.30% | ~26 |
 | I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
+| House Proud | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
 | Going Down | 0.30% | ~4 |
 | Captain of Cozy | 0.20% | ~17 |
-| House Proud | 0.20% | ~17 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
 | Angling Authority | 0.10% | ~9 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,685 (Ranked 182)  
+Progressed: 8,688 (Ranked 182)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-23 | 8,616 | 1 |
 | 2023-12-24 | 8,649 | 1 |
 | 2023-12-25 | 8,672 | 1 |
-| 2023-12-26 | 8,685 | 1 |
+| 2023-12-26 | 8,688 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

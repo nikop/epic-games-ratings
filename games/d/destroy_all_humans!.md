@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 353)  
+Rating: 4.63 (Ranked 352)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 23.00% | ~40 |
 | Trans-Siberian Express | 23.00% | ~40 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~35 |
-| Arkvoodle Doodle | 15.00% | ~26 |
+| Arkvoodle Doodle | 16.00% | ~28 |
 | Ouch of Body Experience | 15.00% | ~26 |
 | Die Nasty | 14.00% | ~25 |
 | If You Know What I Mean | 13.00% | ~23 |
@@ -62,9 +62,9 @@ Completed: 2 (1.14%) (Ranked 164)
 | 2023-12-25 | 161 | 1 |
 | 2023-12-26 | 176 | 2 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 499)  
+Max (Great Boss Battles): 34  (Ranked 500)  
 Sum: 34 (Ranked 524)  
-Diff (max vs sum): -25  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

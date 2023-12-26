@@ -1931,9 +1931,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 28
     },
     {
       "ID": "FELIZ_2",
@@ -1995,9 +1995,9 @@
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -2043,9 +2043,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2300,8 +2300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:10:06.9984913+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:09:41.4127603+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.1198252+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:59:58.6974883+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:10:06.9985574+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:59:46.784137+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:09:41.4129355+00:00"
 }

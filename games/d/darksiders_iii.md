@@ -10,8 +10,8 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 70.00% | ~147 |
 | Helping Hand | 67.00% | ~141 |
 | Increased Vigor | 61.00% | ~128 |
-| Fight Fire with Fire | 59.00% | ~124 |
-| Increased Capacity | 56.00% | ~118 |
+| Fight Fire with Fire | 60.00% | ~126 |
+| Increased Capacity | 57.00% | ~120 |
 | Just the start | 52.00% | ~109 |
 | Perfect Storm | 49.00% | ~103 |
 | All That Glitters | 48.00% | ~101 |
@@ -19,23 +19,23 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 44.00% | ~92 |
 | Devil's in the Details | 41.00% | ~86 |
 | Throne Potato | 40.00% | ~84 |
-| Five's a Crowd | 38.00% | ~80 |
-| 25 to Life | 38.00% | ~80 |
+| Five's a Crowd | 39.00% | ~82 |
+| 25 to Life | 39.00% | ~82 |
+| Unshakable Fortitude | 36.00% | ~76 |
 | Soul Harvester | 36.00% | ~76 |
-| Unshakable Fortitude | 35.00% | ~74 |
-| Salvation | 35.00% | ~74 |
+| Salvation | 36.00% | ~76 |
 | Delusions of Grandeur | 33.00% | ~69 |
 | I Wanna Rock | 32.00% | ~67 |
 | Love Tap | 31.00% | ~65 |
-| Maximum Vigor | 29.00% | ~61 |
-| Freeze Frame | 28.00% | ~59 |
-| Eat Your Heart Out | 28.00% | ~59 |
+| Maximum Vigor | 30.00% | ~63 |
+| Freeze Frame | 29.00% | ~61 |
+| Eat Your Heart Out | 29.00% | ~61 |
 | For Whom the Bell Tolls | 28.00% | ~59 |
 | Unyielding Strength | 23.00% | ~48 |
+| Cleanup Crew | 22.00% | ~46 |
 | Crowd Source | 22.00% | ~46 |
 | Big Spender | 22.00% | ~46 |
 | Maximum Capacity | 21.00% | ~44 |
-| Cleanup Crew | 21.00% | ~44 |
 | Can you restore the Balance? | 21.00% | ~44 |
 | Demon Meddler | 20.00% | ~42 |
 | Seeing Red | 18.00% | ~38 |
@@ -84,8 +84,8 @@ Completed: 1 (0.48%) (Ranked 220)
 | 2023-12-25 | 184 | 1 |
 | 2023-12-26 | 210 | 1 |
 ## Awards
-Max (Great Boss Battles): 94  (Ranked 384)  
-Sum: 94 (Ranked 463)  
+Max (Great Boss Battles): 94  (Ranked 385)  
+Sum: 94 (Ranked 464)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |

@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -874,9 +874,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "10",
@@ -898,9 +898,9 @@
       "ID": "12",
       "SetID": "6bgoh8g",
       "Name": "Time to rob a bank!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "13",
@@ -1002,9 +1002,9 @@
       "ID": "24",
       "SetID": "6bgoh8g",
       "Name": "Just like a police lineup",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "25",
@@ -1097,8 +1097,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:04:05.9094323+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:03:50.4041594+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:03:05.5031991+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:04:05.9094771+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:02:50.4940842+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:03:50.4041799+00:00"
 }

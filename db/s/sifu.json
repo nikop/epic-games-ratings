@@ -8517,7 +8517,7 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745519,
+  "EOS_Progressed": 745541,
   "EOS_Completed": 12967,
   "EOS_NewPlayers": 9256,
   "EOS_NewCompleters": 9,
@@ -31052,6 +31052,11 @@
       "Time": "2023-12-26T21:09:01.0698619+00:00",
       "NumProgressed": 745519,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-26T22:08:37.1138702+00:00",
+      "NumProgressed": 745541,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31063,7 +31068,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29821
+      "UsersEstimate": 29822
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31079,7 +31084,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31087,7 +31092,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31215,7 +31220,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31231,7 +31236,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31247,7 +31252,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "25_ShrineMind",
@@ -31271,7 +31276,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31311,7 +31316,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "33_BladeOneShot",
@@ -31351,7 +31356,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31542,21 +31547,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54820,
+      "Progressed": 54842,
       "Completed": 10786
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745519,
+      "Progressed": 745541,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:09:01.0698615+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:08:37.1138697+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:03:01.0599983+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:09:01.0700105+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:02:46.2494588+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:08:37.1140306+00:00"
 }

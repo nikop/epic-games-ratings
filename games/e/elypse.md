@@ -15,12 +15,12 @@
 | Splash! | 50.00% | ~58 |
 | Squid game | 42.00% | ~48 |
 | Rock Solid | 33.00% | ~38 |
+| The beast within | 33.00% | ~38 |
+| It's getting dark | 33.00% | ~38 |
 | Sensitive soul | 33.00% | ~38 |
-| The beast within | 32.00% | ~37 |
-| It's getting dark | 32.00% | ~37 |
 | Hard Rock | 30.00% | ~34 |
 | Rooftop | 29.00% | ~33 |
-| Homeless | 28.00% | ~32 |
+| Homeless | 29.00% | ~33 |
 | Big badaboom! | 27.00% | ~31 |
 | Payback | 24.00% | ~28 |
 | Full power | 23.00% | ~26 |

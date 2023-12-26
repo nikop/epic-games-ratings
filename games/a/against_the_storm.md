@@ -7,8 +7,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 7.00% | ~1,354 |
-| Abandoned Settlement | 6.00% | ~1,160 |
-| Petrified Necropolis | 6.00% | ~1,160 |
+| Abandoned Settlement | 6.00% | ~1,161 |
+| Petrified Necropolis | 6.00% | ~1,161 |
 | First Real Expedition | 5.00% | ~967 |
 | Taking Action | 5.00% | ~967 |
 | No Deaths | 5.00% | ~967 |
@@ -51,8 +51,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.70% | ~135 |
 | Forsaken Gods Temple | 0.70% | ~135 |
 | Forbidden Lands | 0.60% | ~116 |
+| Feeding The People | 0.50% | ~97 |
 | Fox Utopia | 0.50% | ~97 |
-| Feeding The People | 0.40% | ~77 |
 | Like a Machine | 0.40% | ~77 |
 | Prestigious Expedition | 0.30% | ~58 |
 | Blood Flower Farmer | 0.30% | ~58 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,338 (Ranked 150)  
+Progressed: 19,345 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,338 | 38 |
+| 2023-12-26 | 19,345 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,294 (Ranked 177)  

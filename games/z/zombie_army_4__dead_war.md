@@ -10,10 +10,10 @@ Number of Ratings: 743  (23.09.2022)
 | Say goodbye, creep! | 66.00% | ~29,194 |
 | Blood splattered | 66.00% | ~29,194 |
 | Choo choo! | 63.00% | ~27,867 |
-| Groovy | 62.00% | ~27,424 |
+| Groovy | 62.00% | ~27,425 |
 | Cleanup on aisle 4! | 57.00% | ~25,213 |
 | Gold | 51.00% | ~22,559 |
-| The boat can leave now...tell the crew | 49.00% | ~21,674 |
+| The boat can leave now...tell the crew | 49.00% | ~21,675 |
 | Give me something to shoot! | 47.00% | ~20,790 |
 | Stand back boy! | 47.00% | ~20,790 |
 | Chain reaction | 45.00% | ~19,905 |
@@ -22,18 +22,18 @@ Number of Ratings: 743  (23.09.2022)
 | What did you say, Blain? | 42.00% | ~18,578 |
 | In the dark dark woods... | 39.00% | ~17,251 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,809 |
-| Double tap | 37.00% | ~16,366 |
-| Cranial blowout! | 37.00% | ~16,366 |
+| Double tap | 37.00% | ~16,367 |
+| Cranial blowout! | 37.00% | ~16,367 |
 | All of this has happened before… | 36.00% | ~15,924 |
 | Zombie killin' machine | 36.00% | ~15,924 |
 | Every bullet counts | 36.00% | ~15,924 |
-| All roads lead to Rome | 34.00% | ~15,039 |
-| You've got red on you | 34.00% | ~15,039 |
+| All roads lead to Rome | 34.00% | ~15,040 |
+| You've got red on you | 34.00% | ~15,040 |
 | You're all going to die down here | 32.00% | ~14,155 |
 | He did Nazi that coming | 32.00% | ~14,155 |
-| Kill of the week | 31.00% | ~13,712 |
-| I never liked them anyway | 31.00% | ~13,712 |
-| Is it over? | 28.00% | ~12,385 |
+| Kill of the week | 31.00% | ~13,713 |
+| I never liked them anyway | 31.00% | ~13,713 |
+| Is it over? | 28.00% | ~12,386 |
 | Got your back | 27.00% | ~11,943 |
 | Gore soaked | 24.00% | ~10,616 |
 | Shock therapy | 23.00% | ~10,174 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,233 (Ranked 125)  
+Progressed: 44,234 (Ranked 125)  
 Completed: 25 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 25 (0.06%) (Ranked 327)
 | 2023-12-23 | 44,210 | 25 |
 | 2023-12-24 | 44,220 | 25 |
 | 2023-12-25 | 44,223 | 25 |
-| 2023-12-26 | 44,233 | 25 |
+| 2023-12-26 | 44,234 | 25 |
 ## Awards
 Max (Great Boss Battles): 862  (Ranked 171)  
 Sum: 2,606 (Ranked 196)  

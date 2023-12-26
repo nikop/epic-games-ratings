@@ -3152,9 +3152,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 333
     },
     {
       "ID": "BreakTheLoop",
@@ -3392,9 +3392,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 172
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3593,8 +3593,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:04:07.5504576+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:03:51.9399503+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:59:07.1636442+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:04:07.550514+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:56.0350433+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:03:51.9400145+00:00"
 }

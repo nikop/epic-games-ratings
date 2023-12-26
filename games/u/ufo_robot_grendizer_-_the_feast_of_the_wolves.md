@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Life of Pi | 61.00% | ~23 |
-| The Remains of Fleed | 55.00% | ~21 |
-| The Legend | 55.00% | ~21 |
+| The Remains of Fleed | 58.00% | ~22 |
+| The Legend | 58.00% | ~22 |
 | Escape from Fleed | 45.00% | ~17 |
 | First Contact | 42.00% | ~16 |
 | Strength in Defeat | 39.00% | ~15 |

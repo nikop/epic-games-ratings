@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -643,9 +643,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10721,
+  "EOS_Progressed": 10722,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -13668,6 +13668,11 @@
       "Time": "2023-12-26T21:06:10.4913532+00:00",
       "NumProgressed": 10721,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-26T22:05:50.9356596+00:00",
+      "NumProgressed": 10722,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 29,
@@ -13679,7 +13684,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8898
+      "UsersEstimate": 8899
     },
     {
       "ID": "ACH02",
@@ -13823,7 +13828,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH20",
@@ -13910,7 +13915,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10721,
+      "Progressed": 10722,
       "Completed": 69
     }
   ],
@@ -13918,8 +13923,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-26T18:58:10.8494899+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:06:10.4913528+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:05:50.935659+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:57:53.3976348+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:06:10.4914585+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:57:45.7612597+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:05:50.9357437+00:00"
 }

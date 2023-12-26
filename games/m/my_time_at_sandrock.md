@@ -6,37 +6,37 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 210.00% | ~1,480 |
-| Iron Chef | 148.00% | ~1,043 |
-| Super Spelunker | 138.00% | ~973 |
-| Greeno-B-Gone | 117.00% | ~825 |
-| The Little Wood that Could | 115.00% | ~811 |
-| Your Especially Earned Trajectory | 98.00% | ~691 |
-| On that Grindset | 95.00% | ~670 |
-| Officially Official | 94.00% | ~663 |
-| One of the Cool Kids | 83.00% | ~585 |
-| Better Late than Never | 81.00% | ~571 |
-| Diamonds are Forever | 80.00% | ~564 |
-| Pack Mule | 79.00% | ~557 |
-| No Mountain Wide Enough | 79.00% | ~557 |
-| I Do! | 76.00% | ~536 |
+| Adept Assembler | 210.00% | ~1,483 |
+| Iron Chef | 148.00% | ~1,045 |
+| Super Spelunker | 138.00% | ~974 |
+| Greeno-B-Gone | 117.00% | ~826 |
+| The Little Wood that Could | 115.00% | ~812 |
+| Your Especially Earned Trajectory | 98.00% | ~692 |
+| On that Grindset | 95.00% | ~671 |
+| Officially Official | 94.00% | ~664 |
+| One of the Cool Kids | 83.00% | ~586 |
+| Better Late than Never | 81.00% | ~572 |
+| Diamonds are Forever | 80.00% | ~565 |
+| Pack Mule | 79.00% | ~558 |
+| No Mountain Wide Enough | 79.00% | ~558 |
+| I Do! | 76.00% | ~537 |
 | Got Served | 74.00% | ~522 |
 | Yakmel Whisperer | 74.00% | ~522 |
 | Financially Secure | 73.00% | ~515 |
 | Mole Masher | 73.00% | ~515 |
 | Can We Keep It? | 72.00% | ~508 |
 | Knowledge is Power | 71.00% | ~501 |
-| Big Game Hunter | 70.00% | ~493 |
-| Unboxing | 70.00% | ~493 |
-| Chatterbox | 69.00% | ~486 |
-| First Love | 69.00% | ~486 |
-| Panda-kin | 68.00% | ~479 |
-| Elementary, My Dear | 66.00% | ~465 |
-| What Plants Crave | 63.00% | ~444 |
-| Lifeline Pipeline | 62.00% | ~437 |
-| Builder of the Month | 61.00% | ~430 |
-| Waste Not Want Not | 61.00% | ~430 |
-| Martle's Dream | 59.00% | ~416 |
+| Big Game Hunter | 70.00% | ~494 |
+| Unboxing | 70.00% | ~494 |
+| Chatterbox | 69.00% | ~487 |
+| First Love | 69.00% | ~487 |
+| Panda-kin | 68.00% | ~480 |
+| Elementary, My Dear | 66.00% | ~466 |
+| What Plants Crave | 63.00% | ~445 |
+| Lifeline Pipeline | 62.00% | ~438 |
+| Builder of the Month | 61.00% | ~431 |
+| Waste Not Want Not | 61.00% | ~431 |
+| Martle's Dream | 59.00% | ~417 |
 | Commissions, commissions...! | 57.00% | ~402 |
 | Happier-est Place on Earth | 57.00% | ~402 |
 | Anti-Santa | 57.00% | ~402 |
@@ -45,12 +45,12 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 53.00% | ~374 |
 | Got the Flow Back | 52.00% | ~367 |
 | Call Me Fishmael | 51.00% | ~360 |
-| Time Flies | 50.00% | ~352 |
-| Sepia Toned Memories | 50.00% | ~352 |
-| Who Ya Gonna Call...? | 48.00% | ~338 |
-| Kind of a Big Deal | 46.00% | ~324 |
-| Jewel of the Eufaula | 44.00% | ~310 |
-| Just What I Always Wanted! | 42.00% | ~296 |
+| Time Flies | 50.00% | ~353 |
+| Sepia Toned Memories | 50.00% | ~353 |
+| Who Ya Gonna Call...? | 48.00% | ~339 |
+| Kind of a Big Deal | 46.00% | ~325 |
+| Jewel of the Eufaula | 44.00% | ~311 |
+| Just What I Always Wanted! | 42.00% | ~297 |
 | My Time Mansion | 41.00% | ~289 |
 | He Can Spin A Yarn... | 39.00% | ~275 |
 | Sandrunning Speedster | 38.00% | ~268 |
@@ -62,12 +62,12 @@ Number of Ratings: 892  (23.09.2022)
 | Cardistry | 25.00% | ~176 |
 | Winner and Still Champeen | 24.00% | ~169 |
 | It's High Noon... | 17.00% | ~120 |
-| Strong Arms | 16.00% | ~113 |
+| Strong Arms | 17.00% | ~120 |
 | Got the Receipt? | 16.00% | ~113 |
 | Jack of All Trades | 8.00% | ~56 |
 | Sandrock's Hottest Club | 5.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 305)  
+Progressed: 706 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 660 | 0 |
 | 2023-12-24 | 677 | 0 |
 | 2023-12-25 | 688 | 0 |
-| 2023-12-26 | 705 | 0 |
+| 2023-12-26 | 706 | 0 |
 ## Awards
 Max (Character Customization): 612  (Ranked 200)  
 Sum: 1,457 (Ranked 241)  

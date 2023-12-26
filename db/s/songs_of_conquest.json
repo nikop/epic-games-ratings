@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2873,6 +2873,11 @@
       "Time": "2023-12-26T21:08:55.8446126+00:00",
       "NumProgressed": 771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T22:08:32.0975123+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3029,7 +3034,7 @@
       "Name": "Double Kill",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3213,7 +3218,7 @@
       "Name": "Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "WielderLevel2",
@@ -3316,15 +3321,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:08:55.8446122+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:08:32.0975119+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:57:36.323027+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:08:55.8446592+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:57:25.2480553+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:08:32.0975526+00:00"
 }

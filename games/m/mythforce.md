@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 25.00% | ~1,460 |
 | That'll Leave a Mark | 25.00% | ~1,460 |
 | Debuff Dogpile | 24.00% | ~1,402 |
-| Mushroom Madness! | 23.00% | ~1,343 |
+| Mushroom Madness! | 23.00% | ~1,344 |
 | First Strike | 20.00% | ~1,168 |
 | Spending Spree | 19.00% | ~1,110 |
 | Horder Better Faster Stronger | 17.00% | ~993 |
@@ -20,9 +20,9 @@ Number of Ratings: 285  (23.09.2022)
 | Next Time on MythForce... | 14.00% | ~818 |
 | Cold-Blooded Critters | 11.00% | ~643 |
 | Death Becomes You | 8.00% | ~467 |
-| Flawless Victory | 6.00% | ~350 |
-| The Harder They Fall | 6.00% | ~350 |
-| On this Episode! | 6.00% | ~350 |
+| Flawless Victory | 6.00% | ~351 |
+| The Harder They Fall | 6.00% | ~351 |
+| On this Episode! | 6.00% | ~351 |
 | Deadication | 4.00% | ~234 |
 | Season Finale | 4.00% | ~234 |
 | We've Got a Kaiju on the Field | 3.00% | ~175 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~23 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,841 (Ranked 197)  
+Progressed: 5,842 (Ranked 197)  
 Completed: 4 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,10 +194,10 @@ Completed: 4 (0.07%) (Ranked 322)
 | 2023-12-23 | 5,774 | 4 |
 | 2023-12-24 | 5,798 | 4 |
 | 2023-12-25 | 5,817 | 4 |
-| 2023-12-26 | 5,841 | 4 |
+| 2023-12-26 | 5,842 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 488)  
-Sum: 294 (Ranked 374)  
+Sum: 295 (Ranked 374)  
 Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): 114
 | This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 28 |
 | This game has Amazing Storytelling | 27 |
-| This game is Extremely Fun | 24 |
+| This game is Extremely Fun | 25 |
 | This game is Relaxing | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -319,3 +319,4 @@ Diff (max vs sum): 114
 | 2023-12-11 | 4.47 | - | 36 | 291 |
 | 2023-12-15 | 4.47 | - | 36 | 292 |
 | 2023-12-17 | 4.47 | - | 36 | 294 |
+| 2023-12-26 | 4.47 | - | 36 | 295 |

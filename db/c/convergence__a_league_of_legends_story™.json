@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1116,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -3171,6 +3171,11 @@
       "Time": "2023-12-26T19:10:46.6304567+00:00",
       "NumProgressed": 1116,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T22:09:35.0077076+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3214,7 +3219,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3230,7 +3235,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ClovemaryGift",
@@ -3262,7 +3267,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "EntresolChests1",
@@ -3294,7 +3299,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3310,7 +3315,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3334,7 +3339,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "GrindingTime1",
@@ -3494,7 +3499,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "SkillCompletion1",
@@ -3605,7 +3610,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1116,
+      "Progressed": 1117,
       "Completed": 6
     }
   ],
@@ -3613,8 +3618,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:10:00.3064739+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:09:35.0077071+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:48.8426912+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:10:00.3065256+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:37.2967505+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:09:35.0077925+00:00"
 }

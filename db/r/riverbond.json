@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534023,
+  "EOS_Progressed": 534024,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -27053,6 +27053,11 @@
       "Time": "2023-12-26T21:05:54.1497229+00:00",
       "NumProgressed": 534023,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-12-26T22:05:34.9379415+00:00",
+      "NumProgressed": 534024,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 57,
@@ -27064,7 +27069,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122825
+      "UsersEstimate": 122826
     },
     {
       "ID": "10",
@@ -27072,7 +27077,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240310
+      "UsersEstimate": 240311
     },
     {
       "ID": "11",
@@ -27080,7 +27085,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373816
+      "UsersEstimate": 373817
     },
     {
       "ID": "12",
@@ -27136,7 +27141,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80103
+      "UsersEstimate": 80104
     },
     {
       "ID": "19",
@@ -27144,7 +27149,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331094
+      "UsersEstimate": 331095
     },
     {
       "ID": "2",
@@ -27392,7 +27397,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331094
+      "UsersEstimate": 331095
     },
     {
       "ID": "48",
@@ -27448,7 +27453,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122825
+      "UsersEstimate": 122826
     },
     {
       "ID": "54",
@@ -27519,15 +27524,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534023,
+      "Progressed": 534024,
       "Completed": 512
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-26T21:05:54.1497226+00:00",
+  "LastChanged_Achievements": "2023-12-26T22:05:34.9379412+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.6757795+00:00",
-  "LastUpdate_Ratings": "2023-12-26T20:58:17.6876914+00:00",
-  "LastUpdate_Achievements": "2023-12-26T21:05:54.1498907+00:00"
+  "LastUpdate_Ratings": "2023-12-26T21:58:09.3956053+00:00",
+  "LastUpdate_Achievements": "2023-12-26T22:05:34.9381053+00:00"
 }
