@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5241,9 +5241,9 @@
       "Count": 522
     }
   ],
-  "EOS_Progressed": 92545,
+  "EOS_Progressed": 92551,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29251,6 +29251,11 @@
       "Time": "2023-12-26T06:06:36.4607253+00:00",
       "NumProgressed": 92545,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-26T07:05:29.7691378+00:00",
+      "NumProgressed": 92551,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29262,7 +29267,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "ACH_0011",
@@ -29278,7 +29283,7 @@
       "Name": "Roid Ranger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_0013",
@@ -29286,7 +29291,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_0014",
@@ -29294,7 +29299,7 @@
       "Name": "Track Star",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_0015",
@@ -29414,7 +29419,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "ACH_0211",
@@ -29430,7 +29435,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "ACH_0300",
@@ -29510,7 +29515,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_0450",
@@ -29550,7 +29555,7 @@
       "Name": "Rockay Rex",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_1010",
@@ -29589,13 +29594,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92545,
+      "Progressed": 92551,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20892,
+      "Progressed": 20898,
       "Completed": 15593
     }
   ],
@@ -29603,8 +29608,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-26T02:19:39.6396173+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:06:36.4607245+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:05:29.7691374+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:02:17.443347+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:06:36.4608978+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:02:24.304048+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:05:29.769319+00:00"
 }

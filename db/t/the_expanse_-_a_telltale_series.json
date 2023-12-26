@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17447,
+  "EOS_Progressed": 17448,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 8,
@@ -15176,6 +15176,11 @@
       "Time": "2023-12-26T06:05:22.3773477+00:00",
       "NumProgressed": 17447,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-26T07:04:33.0003083+00:00",
+      "NumProgressed": 17448,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15346,9 +15351,9 @@
       "ID": "28",
       "SetID": "458bbdk",
       "Name": "Scavenger Star",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 52
     },
     {
       "ID": "29",
@@ -15467,13 +15472,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17447,
+      "Progressed": 17448,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3401,
+      "Progressed": 3402,
       "Completed": 1053
     }
   ],
@@ -15481,8 +15486,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:05:22.3773471+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:04:33.0003078+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:00:41.3585294+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:05:22.3774597+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:59:34.1472697+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:04:33.0003913+00:00"
 }

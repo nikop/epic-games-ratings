@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -365,6 +365,11 @@
       "Time": "2023-12-23T15:08:42.2674818+00:00",
       "NumProgressed": 179,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T07:08:58.8661287+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -374,7 +379,7 @@
       "ID": "LC-01",
       "SetID": "ap2ljl4",
       "Name": "Proving Your Skills",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 25,
       "UsersEstimate": 166
     },
@@ -382,9 +387,9 @@
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "LC-03",
@@ -416,7 +421,7 @@
       "Name": "Adept Baker",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LC-07",
@@ -478,9 +483,9 @@
       "ID": "LC-14",
       "SetID": "ap2ljl4",
       "Name": "Gotta Go Fast",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "LC-15",
@@ -504,14 +509,14 @@
       "Name": "Perfect Server",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 2
     }
   ],
@@ -519,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:09:36.4105302+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:08:58.8661282+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:55.7144811+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:59:03.8499624+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:09:36.4105443+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:22.4688625+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:08:58.8661518+00:00"
 }

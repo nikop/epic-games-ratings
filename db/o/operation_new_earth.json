@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2090,
+  "EOS_Progressed": 2091,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8010,6 +8010,11 @@
       "Time": "2023-12-26T05:06:03.9051044+00:00",
       "NumProgressed": 2090,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T07:07:57.8668382+00:00",
+      "NumProgressed": 2091,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8045,7 +8050,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -8093,7 +8098,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_headquarters_10",
@@ -8165,7 +8170,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -8197,7 +8202,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8277,7 +8282,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8324,7 +8329,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2090,
+      "Progressed": 2091,
       "Completed": 1
     }
   ],
@@ -8332,8 +8337,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:08:31.2608122+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:07:57.8668376+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:59:35.4131872+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:08:31.2609049+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:45.8614277+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:07:57.8668938+00:00"
 }

@@ -24,8 +24,8 @@ Rating: 4.79 (Ranked 100)
 | Devineur | 31.00% | ~946 |
 | Hijack | 30.00% | ~916 |
 | Whispers in the Woods I | 27.00% | ~824 |
+| I chose my shackles | 27.00% | ~824 |
 | Ancient power | 27.00% | ~824 |
-| I chose my shackles | 26.00% | ~794 |
 | Sacred Woods | 25.00% | ~763 |
 | Little light | 23.00% | ~702 |
 | Capelworth | 23.00% | ~702 |
@@ -42,7 +42,7 @@ Rating: 4.79 (Ranked 100)
 | True power | 16.00% | ~488 |
 | Meltridge | 16.00% | ~488 |
 | The Central Headquarters | 16.00% | ~488 |
-| Cloven Dell Headquarters | 15.00% | ~458 |
+| Cloven Dell Headquarters | 16.00% | ~488 |
 | I smell fear | 14.00% | ~427 |
 | Embrace the darkness | 13.00% | ~397 |
 | Whispers in the Woods IV | 13.00% | ~397 |
@@ -59,7 +59,7 @@ Rating: 4.79 (Ranked 100)
 | Silverwing nest | 2.00% | ~61 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,053 (Ranked 219)  
+Progressed: 3,053 (Ranked 220)  
 Completed: 17 (0.56%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10,18 +10,18 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 69.00% | ~131 |
 | Helping Hand | 68.00% | ~129 |
 | Increased Vigor | 62.00% | ~118 |
-| Fight Fire with Fire | 60.00% | ~114 |
+| Fight Fire with Fire | 61.00% | ~116 |
 | Increased Capacity | 56.00% | ~106 |
-| Just the start | 52.00% | ~99 |
-| Perfect Storm | 48.00% | ~91 |
-| All That Glitters | 47.00% | ~89 |
+| Just the start | 53.00% | ~101 |
+| Perfect Storm | 49.00% | ~93 |
+| All That Glitters | 48.00% | ~91 |
 | Enhance! | 45.00% | ~86 |
 | One Of the Chosen | 42.00% | ~80 |
 | Devil's in the Details | 39.00% | ~74 |
 | Throne Potato | 39.00% | ~74 |
+| 25 to Life | 37.00% | ~70 |
 | Soul Harvester | 36.00% | ~68 |
 | Five's a Crowd | 36.00% | ~68 |
-| 25 to Life | 36.00% | ~68 |
 | Unshakable Fortitude | 35.00% | ~66 |
 | Salvation | 34.00% | ~65 |
 | Delusions of Grandeur | 32.00% | ~61 |

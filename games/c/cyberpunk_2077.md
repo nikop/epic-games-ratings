@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,777 |
-| Gun Fu | 8.00% | ~78,518 |
-| The Fool | 7.00% | ~68,704 |
-| Right Back At Ya | 6.00% | ~58,889 |
-| The Lovers | 6.00% | ~58,889 |
-| Full Body Conversion | 5.00% | ~49,074 |
-| True Soldier | 5.00% | ~49,074 |
-| Christmas Tree Attack | 4.00% | ~39,259 |
-| Stanislavski's Method | 4.00% | ~39,259 |
-| The Hermit | 4.00% | ~39,259 |
-| The Wheel of Fortune | 4.00% | ~39,259 |
-| All the President's Men | 4.00% | ~4,404 |
-| Arachnophobia | 4.00% | ~4,404 |
-| Master Crafter | 3.00% | ~29,444 |
-| The Quick and the Dead | 3.00% | ~29,444 |
-| Life of the Road | 3.00% | ~29,444 |
-| The High Priestess | 3.00% | ~29,444 |
-| True Warrior | 3.00% | ~29,444 |
-| Legend of The Afterlife | 3.00% | ~29,444 |
-| Relic Ruler | 3.00% | ~3,303 |
+| V for Vendetta | 12.00% | ~117,779 |
+| Gun Fu | 8.00% | ~78,520 |
+| The Fool | 7.00% | ~68,705 |
+| Right Back At Ya | 6.00% | ~58,890 |
+| The Lovers | 6.00% | ~58,890 |
+| Full Body Conversion | 5.00% | ~49,075 |
+| True Soldier | 5.00% | ~49,075 |
+| Christmas Tree Attack | 4.00% | ~39,260 |
+| Stanislavski's Method | 4.00% | ~39,260 |
+| The Hermit | 4.00% | ~39,260 |
+| The Wheel of Fortune | 4.00% | ~39,260 |
+| All the President's Men | 4.00% | ~4,405 |
+| Arachnophobia | 4.00% | ~4,405 |
+| Master Crafter | 3.00% | ~29,445 |
+| The Quick and the Dead | 3.00% | ~29,445 |
+| Life of the Road | 3.00% | ~29,445 |
+| The High Priestess | 3.00% | ~29,445 |
+| True Warrior | 3.00% | ~29,445 |
+| Legend of The Afterlife | 3.00% | ~29,445 |
+| Relic Ruler | 3.00% | ~3,304 |
 | Bushido and Chill | 2.00% | ~19,630 |
 | To Protect and Serve | 2.00% | ~19,630 |
 | I Am The Law | 2.00% | ~19,630 |
@@ -54,13 +54,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Little Tokyo | 0.30% | ~2,944 |
 | The Devil | 0.30% | ~2,944 |
 | The Jungle | 0.30% | ~2,944 |
+| It's Elementary | 0.30% | ~2,944 |
 | King of Cups | 0.30% | ~330 |
 | Gunslinger | 0.20% | ~1,963 |
 | Mean Streets | 0.20% | ~1,963 |
 | The Wasteland | 0.20% | ~1,963 |
 | Daemon In The Shell | 0.20% | ~1,963 |
 | Greetings from Pacifica! | 0.20% | ~1,963 |
-| It's Elementary | 0.20% | ~1,963 |
 | Frequent Flyer | 0.10% | ~981 |
 | Rough Landing | 0.10% | ~981 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,479 (Ranked 16)  
+Progressed: 981,495 (Ranked 16)  
 Completed: 2,976 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,976 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,479 | 2,976 |
+| 2023-12-26 | 981,495 | 2,976 |
 ## Awards
 Max (Character Customization): 127,442  (Ranked 8)  
 Sum: 444,060 (Ranked 9)  

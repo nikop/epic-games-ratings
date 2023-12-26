@@ -1,39 +1,39 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 945)  
+Rating: 4.18 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,890 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,125 |
-| Loose Ends | 33.00% | ~26,327 |
-| To the Victor Go the Spoils | 28.00% | ~22,338 |
-| Knighthood | 27.00% | ~21,540 |
-| Get ReQ'd | 25.00% | ~19,945 |
-| Whispered Words | 24.00% | ~19,147 |
-| The Batman Family | 22.00% | ~17,551 |
-| Lock and Key | 22.00% | ~17,551 |
-| Something in the Clay | 20.00% | ~15,956 |
-| Quartzer Life Crisis | 20.00% | ~15,956 |
-| Working Hard or Harley Working? | 20.00% | ~15,956 |
-| Unstoppable Force | 20.00% | ~15,956 |
-| Bad Apples in Every Orchard | 20.00% | ~15,956 |
-| Snow Problem | 19.00% | ~15,158 |
-| The Show Mud Go On | 18.00% | ~14,360 |
-| From Inside Gotham's Walls | 17.00% | ~13,562 |
+| First Step Into the Knight | 50.00% | ~39,892 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,126 |
+| Loose Ends | 33.00% | ~26,328 |
+| To the Victor Go the Spoils | 28.00% | ~22,339 |
+| Knighthood | 27.00% | ~21,541 |
+| Get ReQ'd | 25.00% | ~19,946 |
+| Whispered Words | 24.00% | ~19,148 |
+| The Batman Family | 22.00% | ~17,552 |
+| Lock and Key | 22.00% | ~17,552 |
+| Something in the Clay | 20.00% | ~15,957 |
+| Quartzer Life Crisis | 20.00% | ~15,957 |
+| Working Hard or Harley Working? | 20.00% | ~15,957 |
+| Unstoppable Force | 20.00% | ~15,957 |
+| Bad Apples in Every Orchard | 20.00% | ~15,957 |
+| Snow Problem | 19.00% | ~15,159 |
+| The Show Mud Go On | 18.00% | ~14,361 |
+| From Inside Gotham's Walls | 17.00% | ~13,563 |
 | Protector of Gotham | 16.00% | ~12,765 |
 | In Your Element | 15.00% | ~11,967 |
 | Universal Health Scare | 15.00% | ~11,967 |
-| Rock and a Hard Place | 14.00% | ~11,169 |
-| Cooldown | 14.00% | ~11,169 |
-| Voiceless | 14.00% | ~11,169 |
-| Shock Til They Drop | 13.00% | ~10,371 |
-| Seeking Asylum | 13.00% | ~10,371 |
-| End of an Era | 12.00% | ~9,573 |
-| Not On My Watch | 12.00% | ~9,573 |
-| Bulldozed | 12.00% | ~9,573 |
-| Gotham Knight | 12.00% | ~9,573 |
+| Rock and a Hard Place | 14.00% | ~11,170 |
+| Cooldown | 14.00% | ~11,170 |
+| Voiceless | 14.00% | ~11,170 |
+| Shock Til They Drop | 13.00% | ~10,372 |
+| Seeking Asylum | 13.00% | ~10,372 |
+| End of an Era | 12.00% | ~9,574 |
+| Not On My Watch | 12.00% | ~9,574 |
+| Bulldozed | 12.00% | ~9,574 |
+| Gotham Knight | 12.00% | ~9,574 |
 | Gotham City Confidential | 11.00% | ~8,776 |
 | Drone You Out | 10.00% | ~7,978 |
 | Out of Their League | 9.00% | ~7,180 |
@@ -51,9 +51,9 @@ Rating: 4.19 (Ranked 945)
 | The Man-Bat Family | 1.00% | ~798 |
 | Batarang Collector | 1.00% | ~798 |
 | Claiming the Mural High Ground | 1.00% | ~798 |
-| Icebreaker | 0.80% | ~400 |
+| Icebreaker | 0.80% | ~401 |
 | History Major | 0.80% | ~638 |
-| A Sophisticated Mallet | 0.80% | ~400 |
+| A Sophisticated Mallet | 0.80% | ~401 |
 | Read Owl About It | 0.70% | ~558 |
 | Don't Mecha Big Deal About It | 0.60% | ~300 |
 | Confronting Your Demon | 0.60% | ~300 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 945)
 | The Cold, the Bad and the Ugly | 0.30% | ~150 |
 | It's Nice to Be Wanted | 0.20% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,779 (Ranked 104)  
+Progressed: 79,783 (Ranked 104)  
 Completed: 128 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,16 +317,16 @@ Completed: 128 (0.16%) (Ranked 286)
 | 2023-12-23 | 79,360 | 127 |
 | 2023-12-24 | 79,555 | 128 |
 | 2023-12-25 | 79,729 | 128 |
-| 2023-12-26 | 79,779 | 128 |
+| 2023-12-26 | 79,783 | 128 |
 ## Awards
 Max (Great Boss Battles): 3,060  (Ranked 99)  
-Sum: 5,230 (Ranked 142)  
+Sum: 5,232 (Ranked 142)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,060 |
 | This game has Diverse Characters | 279 |
-| This game is Great for Beginners | 272 |
+| This game is Great for Beginners | 274 |
 | This game is Relaxing | 272 |
 | This game is Extremely Fun | 272 |
 | This game has Quickly Understood Controls | 271 |
@@ -640,4 +640,4 @@ Diff (max vs sum): -43
 | 2023-12-23 | 4.18 | 3,047 | 5,212 |
 | 2023-12-24 | 4.19 | 3,053 | 5,220 |
 | 2023-12-25 | 4.18 | 3,060 | 5,229 |
-| 2023-12-26 | 4.19 | 3,060 | 5,230 |
+| 2023-12-26 | 4.19 | 3,060 | 5,232 |

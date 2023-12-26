@@ -319,7 +319,7 @@
   ],
   "EOS_Progressed": 388,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1310,9 +1310,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1366,8 +1366,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:05:52.0253885+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:04:55.7947796+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:00:02.3739099+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:05:52.0254131+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:59:05.8785354+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:04:55.7948035+00:00"
 }

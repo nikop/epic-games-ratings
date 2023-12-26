@@ -38,10 +38,10 @@ Rating: 4.55 (Ranked 511)
 | Data Recoverer | 1.00% | ~174 |
 | Data Miner | 0.50% | ~87 |
 | Grave Robber | 0.50% | ~87 |
-| Scavenger Star | 0.20% | ~35 |
+| Scavenger Star | 0.30% | ~52 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,447 (Ranked 156)  
+Progressed: 17,448 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 52 (0.30%) (Ranked 254)
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
-| 2023-12-26 | 17,447 | 52 |
+| 2023-12-26 | 17,448 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 169,
@@ -4703,7 +4703,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12775,
+  "EOS_Progressed": 12776,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -18053,6 +18053,11 @@
       "Time": "2023-12-26T05:09:50.3798999+00:00",
       "NumProgressed": 12775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T07:10:24.2704755+00:00",
+      "NumProgressed": 12776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18064,7 +18069,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "02_BurningCity",
@@ -18120,7 +18125,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "09_PathOfDemon",
@@ -18272,7 +18277,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "29_StrategicVictory",
@@ -18416,7 +18421,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18991,21 +18996,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11557,
+      "Progressed": 11558,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12775,
+      "Progressed": 12776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-26T00:00:09.2028081+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:11:24.9683647+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:10:24.2704749+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:02:33.4546887+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:11:24.9685905+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:02:36.3206902+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:10:24.2706326+00:00"
 }

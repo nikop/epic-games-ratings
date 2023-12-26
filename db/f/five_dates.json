@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1584,
+  "EOS_Progressed": 1585,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
@@ -2900,6 +2900,11 @@
       "Time": "2023-12-26T05:09:35.8326564+00:00",
       "NumProgressed": 1584,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-26T07:10:08.8245206+00:00",
+      "NumProgressed": 1585,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -2911,7 +2916,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "booty_call",
@@ -2919,7 +2924,7 @@
       "Name": "Booty Call",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "crash_and_burn",
@@ -2935,7 +2940,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "hold_my_beer",
@@ -2943,7 +2948,7 @@
       "Name": "Hold my Beer",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -2951,7 +2956,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "interrogation",
@@ -2975,7 +2980,7 @@
       "Name": "Not Alone",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "nueva_beginnings",
@@ -2983,7 +2988,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "only_thyme_will_tell",
@@ -2999,7 +3004,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "smooth_criminal",
@@ -3030,7 +3035,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1584,
+      "Progressed": 1585,
       "Completed": 11
     }
   ],
@@ -3038,8 +3043,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:11:05.7399232+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:10:08.8245196+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.2204919+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:02:29.9127788+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:11:05.7399544+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:02:33.7089865+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:10:08.8245478+00:00"
 }

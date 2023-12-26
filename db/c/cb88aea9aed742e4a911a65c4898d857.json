@@ -179,9 +179,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 7624,
+  "EOS_Progressed": 7627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2310,
+  "EOS_NewPlayers": 2308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2424,6 +2424,11 @@
       "Time": "2023-12-26T06:10:56.7705665+00:00",
       "NumProgressed": 7624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T07:10:01.8078707+00:00",
+      "NumProgressed": 7627,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2436,7 +2441,7 @@
       "Name": "Conspiracy",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "03_TheStolenStar",
@@ -2444,7 +2449,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2524,7 +2529,7 @@
       "Name": "Doom Trader",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -2546,9 +2551,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1297
     },
     {
       "ID": "17_TheExemplar",
@@ -2564,7 +2569,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2596,7 +2601,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "23_DynastyRestored",
@@ -2604,7 +2609,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "24_TheHighrise",
@@ -2620,7 +2625,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -2644,7 +2649,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -2676,7 +2681,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -2684,7 +2689,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2716,7 +2721,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -2748,7 +2753,7 @@
       "Name": "Jungle Heat",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2762,9 +2767,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 458
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -2852,7 +2857,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -2876,7 +2881,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -2916,7 +2921,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -2955,7 +2960,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 7624,
+      "Progressed": 7627,
       "Completed": 0
     }
   ],
@@ -2963,8 +2968,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-25T23:59:45.6205366+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:10:56.7705662+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:10:01.8078702+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:01:57.8559878+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:10:56.7706238+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:00:30.5020913+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:10:01.8079409+00:00"
 }

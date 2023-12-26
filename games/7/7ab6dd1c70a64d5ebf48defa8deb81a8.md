@@ -1,33 +1,33 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.10 (Ranked 990)  
+Rating: 4.10 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 56.00% | ~711 |
-| Trinity | 26.00% | ~330 |
+| Break Out | 56.00% | ~712 |
+| Trinity | 25.00% | ~318 |
 | Find Allies | 20.00% | ~254 |
 | A Taste of Wrath | 20.00% | ~254 |
 | Shatter Them All | 19.00% | ~241 |
 | I Found It | 19.00% | ~241 |
 | The Collector | 19.00% | ~241 |
-| Geared Up | 18.00% | ~228 |
-| Scholar | 18.00% | ~228 |
+| Geared Up | 18.00% | ~229 |
+| Scholar | 18.00% | ~229 |
 | Adventurer | 17.00% | ~216 |
 | Tributes of Caladrias | 16.00% | ~203 |
 | Fashion Victim | 16.00% | ~203 |
 | Stone Collection | 16.00% | ~203 |
-| Powerful Allies | 15.00% | ~190 |
+| Powerful Allies | 15.00% | ~191 |
 | Big Bazar | 11.00% | ~140 |
 | Alchemist | 10.00% | ~127 |
 | Essence Blow | 9.00% | ~114 |
 | The Mentor | 7.00% | ~89 |
 | Calm before the Storm | 6.00% | ~76 |
 | Miner | 6.00% | ~76 |
-| To Battle | 5.00% | ~63 |
-| Godslayer | 5.00% | ~63 |
-| Airborne | 5.00% | ~63 |
+| To Battle | 5.00% | ~64 |
+| Godslayer | 5.00% | ~64 |
+| Airborne | 5.00% | ~64 |
 | Clear Sight | 3.00% | ~38 |
 | Shatterer | 3.00% | ~38 |
 | Fine Feathers Make Fine Birds | 3.00% | ~38 |
@@ -42,7 +42,7 @@ Rating: 4.10 (Ranked 990)
 | Summiter | 0.60% | ~8 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269 (Ranked 267)  
+Progressed: 1,271 (Ranked 267)  
 Completed: 3 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 3 (0.24%) (Ranked 267)
 | 2023-12-23 | 1,128 | 3 |
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
-| 2023-12-26 | 1,269 | 3 |
+| 2023-12-26 | 1,271 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

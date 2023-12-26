@@ -5,22 +5,22 @@ Rating: 4.38 (Ranked 774)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~773,320 |
-| The ABCs | 43.00% | ~678,628 |
-| Home Run | 41.00% | ~647,064 |
-| Keeps Coming Off | 41.00% | ~647,064 |
-| Guts | 19.00% | ~299,859 |
-| Meat Grinder | 19.00% | ~299,859 |
-| Burning Man | 16.00% | ~252,513 |
-| Lived to Tell the Tale | 12.00% | ~189,385 |
-| Highlander | 10.00% | ~157,820 |
-| Unstoppable | 10.00% | ~157,820 |
-| Just a Scratch | 9.00% | ~142,038 |
-| Tough Nut to Crack | 6.00% | ~94,692 |
-| Yoink | 6.00% | ~94,692 |
-| Long List of Names | 4.00% | ~63,128 |
-| Pyromaniac | 4.00% | ~63,128 |
-| The Queen of Weapons | 4.00% | ~63,128 |
+| Justice from the Grave | 49.00% | ~773,325 |
+| The ABCs | 43.00% | ~678,632 |
+| Home Run | 41.00% | ~647,068 |
+| Keeps Coming Off | 41.00% | ~647,068 |
+| Guts | 19.00% | ~299,861 |
+| Meat Grinder | 19.00% | ~299,861 |
+| Burning Man | 16.00% | ~252,514 |
+| Lived to Tell the Tale | 12.00% | ~189,386 |
+| Highlander | 10.00% | ~157,821 |
+| Unstoppable | 10.00% | ~157,821 |
+| Just a Scratch | 9.00% | ~142,039 |
+| Tough Nut to Crack | 6.00% | ~94,693 |
+| Yoink | 6.00% | ~94,693 |
+| Long List of Names | 4.00% | ~63,129 |
+| Pyromaniac | 4.00% | ~63,129 |
+| The Queen of Weapons | 4.00% | ~63,129 |
 | This isn’t Sparta | 3.00% | ~47,346 |
 | Crybaby | 2.00% | ~31,564 |
 | Eagle Eye | 2.00% | ~31,564 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 774)
 | That’s No Ordinary Cold | 0.10% | ~1,578 |
 | Stairway to Hell | 0.10% | ~1,578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,578,205 (Ranked 7)  
+Progressed: 1,578,214 (Ranked 7)  
 Completed: 70 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 70 (0.00%) (Ranked 389)
 | 2023-12-23 | 1,576,764 | 70 |
 | 2023-12-24 | 1,577,463 | 70 |
 | 2023-12-25 | 1,578,078 | 70 |
-| 2023-12-26 | 1,578,205 | 70 |
+| 2023-12-26 | 1,578,214 | 70 |
 ## Awards
 Max (Diverse Characters): 1,113  (Ranked 148)  
 Sum: 5,821 (Ranked 135)  

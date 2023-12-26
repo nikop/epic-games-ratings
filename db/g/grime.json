@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1735,10 +1735,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164577,
-  "EOS_Completed": 407,
-  "EOS_NewPlayers": 1301,
-  "EOS_NewCompleters": 57,
+  "EOS_Progressed": 164585,
+  "EOS_Completed": 409,
+  "EOS_NewPlayers": 1307,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20640,6 +20640,11 @@
       "Time": "2023-12-26T06:06:27.2089935+00:00",
       "NumProgressed": 164577,
       "NumCompleted": 407
+    },
+    {
+      "Time": "2023-12-26T07:05:22.9780013+00:00",
+      "NumProgressed": 164585,
+      "NumCompleted": 409
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20764,7 +20769,7 @@
       "Name": "Glare",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -20772,7 +20777,7 @@
       "Name": "Host",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -20788,7 +20793,7 @@
       "Name": "Harmless",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -20844,7 +20849,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -21019,21 +21024,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164160,
+      "Progressed": 164168,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164577,
-      "Completed": 407
+      "Progressed": 164585,
+      "Completed": 409
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T02:59:16.7945534+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:06:27.2089928+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:05:22.9780007+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:59:36.3483907+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:06:27.2091395+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:46.5355829+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:05:22.9781282+00:00"
 }

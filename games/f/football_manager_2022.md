@@ -6,20 +6,20 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,175 |
-| He's Signed! | 50.00% | ~239,175 |
-| First Victory | 50.00% | ~239,175 |
+| Clean Sheet | 50.00% | ~239,176 |
+| He's Signed! | 50.00% | ~239,176 |
+| First Victory | 50.00% | ~239,176 |
 | He's Sold! | 48.00% | ~229,608 |
 | I'm The Boss! | 42.00% | ~200,907 |
 | Hat-trick | 41.00% | ~196,124 |
 | Scoring Streak | 38.00% | ~181,773 |
 | Unbeatable! | 37.00% | ~176,990 |
 | Thumping | 37.00% | ~176,990 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,422 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,423 |
 | Total Support | 32.00% | ~153,072 |
 | Record Signing | 32.00% | ~153,072 |
-| He's a Natural | 31.00% | ~148,288 |
-| Millionaire's Club | 31.00% | ~148,288 |
+| He's a Natural | 31.00% | ~148,289 |
+| Millionaire's Club | 31.00% | ~148,289 |
 | Team Performance | 30.00% | ~143,505 |
 | Parked The Bus | 29.00% | ~138,722 |
 | Shrewd Spender | 29.00% | ~138,722 |
@@ -35,26 +35,26 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~114,804 |
 | Iron Curtain | 24.00% | ~114,804 |
 | The Boss | 24.00% | ~114,804 |
-| Top Of The Class | 23.00% | ~110,020 |
-| Goal Machine | 23.00% | ~110,020 |
+| Top Of The Class | 23.00% | ~110,021 |
+| Goal Machine | 23.00% | ~110,021 |
 | Splashing The Cash | 22.00% | ~105,237 |
 | Clean Bill of Health | 22.00% | ~105,237 |
 | What A Goal! | 22.00% | ~105,237 |
 | Cup Glory! | 22.00% | ~105,237 |
 | Irresistible Force | 20.00% | ~95,670 |
 | Excellent Match Cohesion | 20.00% | ~95,670 |
-| Do The Double | 19.00% | ~90,886 |
+| Do The Double | 19.00% | ~90,887 |
 | Top Form | 17.00% | ~81,320 |
 | Cash To Burn | 17.00% | ~81,320 |
 | Beating Expectations | 16.00% | ~76,536 |
 | Overachiever! | 16.00% | ~76,536 |
 | Rushed signing | 16.00% | ~76,536 |
-| Window Shopping | 15.00% | ~71,752 |
+| Window Shopping | 15.00% | ~71,753 |
 | Eyes and Ears | 14.00% | ~66,969 |
 | Comeback King! | 14.00% | ~66,969 |
 | You're Up! | 13.00% | ~62,186 |
 | Money, Money, Money | 12.00% | ~57,402 |
-| Invincible! | 11.00% | ~52,618 |
+| Invincible! | 11.00% | ~52,619 |
 | Superb Strike | 10.00% | ~47,835 |
 | International Superstar | 10.00% | ~47,835 |
 | Best In The World | 10.00% | ~47,835 |
@@ -71,10 +71,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Going Places | 5.00% | ~23,918 |
 | We Trust You | 5.00% | ~23,918 |
 | Trophy Hoarder | 4.00% | ~19,134 |
-| National Hero | 3.00% | ~14,350 |
-| Golden Boot | 3.00% | ~14,350 |
-| Freedom Of The Country | 3.00% | ~14,350 |
-| On Top Of The World | 3.00% | ~14,350 |
+| National Hero | 3.00% | ~14,351 |
+| Golden Boot | 3.00% | ~14,351 |
+| Freedom Of The Country | 3.00% | ~14,351 |
+| On Top Of The World | 3.00% | ~14,351 |
 | Icon | 2.00% | ~9,567 |
 | Part Of The Furniture | 2.00% | ~9,567 |
 | Childhood Dream | 2.00% | ~9,567 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~478 |
 | Shoestring Budget | 0.10% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478,350 (Ranked 42)  
+Progressed: 478,351 (Ranked 42)  
 Completed: 22 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 22 (0.00%) (Ranked 389)
 | 2023-12-23 | 478,238 | 22 |
 | 2023-12-24 | 478,298 | 22 |
 | 2023-12-25 | 478,343 | 22 |
-| 2023-12-26 | 478,350 | 22 |
+| 2023-12-26 | 478,351 | 22 |
 ## Awards
 Max (Relaxing): 6,487  (Ranked 61)  
 Sum: 51,178 (Ranked 30)  

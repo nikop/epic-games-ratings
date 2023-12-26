@@ -21,8 +21,8 @@
 | Loyal Partner | 21.00% | ~51 |
 | Lacertian Champion | 21.00% | ~51 |
 | Apian Champion | 20.00% | ~48 |
+| Unbeatable | 18.00% | ~44 |
 | Shard Spender | 17.00% | ~41 |
-| Unbeatable | 17.00% | ~41 |
 | Sadistic Plan | 16.00% | ~39 |
 | Behenian Champion | 16.00% | ~39 |
 | Astral Seeker | 10.00% | ~24 |

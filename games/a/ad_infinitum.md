@@ -12,8 +12,8 @@
 | Path of Corruption | 33.00% | ~45 |
 | Rage | 29.00% | ~39 |
 | Hope | 28.00% | ~38 |
-| Path of Pain | 20.00% | ~27 |
-| Clarity | 15.00% | ~20 |
+| Path of Pain | 21.00% | ~29 |
+| Clarity | 16.00% | ~22 |
 | Reflections | 15.00% | ~20 |
 | The shining | 15.00% | ~20 |
 | Mayhem | 14.00% | ~19 |
@@ -27,7 +27,7 @@
 | An act of compassion | 4.00% | ~5 |
 | An act of mercy | 4.00% | ~5 |
 | All knowing | 4.00% | ~5 |
-| Corruption | 2.00% | ~3 |
+| Corruption | 3.00% | ~4 |
 | Ad Infinitum | 1.00% | ~1 |
 | Despair | 0.70% | ~1 |
 | Pain | 0.70% | ~1 |

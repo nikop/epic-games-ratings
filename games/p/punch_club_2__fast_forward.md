@@ -44,12 +44,12 @@
 | Champion – no way back | 38.00% | ~179 |
 | Responsible approach | 38.00% | ~179 |
 | Underground dwellers | 37.00% | ~174 |
+| Deal with life | 36.00% | ~170 |
 | Mom got better | 35.00% | ~165 |
-| Deal with life | 35.00% | ~165 |
 | GYM professional | 35.00% | ~165 |
+| The die is cast | 35.00% | ~165 |
 | Poisoned fighter | 34.00% | ~160 |
 | Get out of my apartment! | 34.00% | ~160 |
-| The die is cast | 34.00% | ~160 |
 | Gang wrangler | 32.00% | ~151 |
 | Seashell hunter | 32.00% | ~151 |
 | Absolute Champion! | 31.00% | ~146 |

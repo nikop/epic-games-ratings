@@ -27,8 +27,8 @@
 | The tragedy unfolds | 9.00% | ~19 |
 | A new way | 8.00% | ~16 |
 | First steps | 8.00% | ~16 |
+| True Reflection | 8.00% | ~16 |
 | Breaking free | 7.00% | ~14 |
-| True Reflection | 7.00% | ~14 |
 | Casting Finished | 6.00% | ~12 |
 | Heavy Burden | 6.00% | ~12 |
 | Fisherman | 6.00% | ~12 |

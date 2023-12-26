@@ -3525,10 +3525,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3291,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-12-26T06:58:49.0084191+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3292,
+      "NumberOfAwardsMax": 444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3291,
+  "NumberOfAwards": 3292,
   "NumberOfAwardsMax": 444,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3590,12 +3596,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 334
+      "Count": 335
     }
   ],
-  "EOS_Progressed": 19269,
+  "EOS_Progressed": 19274,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17148,6 +17154,11 @@
       "Time": "2023-12-26T06:06:04.9996112+00:00",
       "NumProgressed": 19269,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T07:05:05.6179686+00:00",
+      "NumProgressed": 19274,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17248,7 +17259,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "WinHard",
@@ -17496,7 +17507,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "WinWithResolve",
@@ -17536,7 +17547,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "WinWithoutOrders",
@@ -17631,15 +17642,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19269,
+      "Progressed": 19274,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-25T13:02:02.8849461+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:06:04.9996108+00:00",
+  "LastChanged": "2023-12-26T06:58:49.0084189+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:05:05.617968+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:59:38.2815199+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:06:04.999741+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:49.0084196+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:05:05.6180831+00:00"
 }

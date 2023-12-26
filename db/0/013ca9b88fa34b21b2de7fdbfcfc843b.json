@@ -9473,9 +9473,9 @@
       "ID": "DLC1_ACHIEVEMENT_07",
       "SetID": "6p01o4j",
       "Name": "Going Down",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC1_ACHIEVEMENT_08",
@@ -9504,8 +9504,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:11:20.8010092+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:10:20.7196833+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:04:11.9778182+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:11:20.8011096+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:03:18.5383446+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:10:20.7197908+00:00"
 }

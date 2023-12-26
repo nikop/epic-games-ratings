@@ -9,9 +9,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 6.00% | ~1,156 |
 | Overgrown Library | 6.00% | ~1,156 |
 | Petrified Necropolis | 6.00% | ~1,156 |
-| First Real Expedition | 5.00% | ~963 |
-| Taking Action | 5.00% | ~963 |
-| No Deaths | 5.00% | ~963 |
+| First Real Expedition | 5.00% | ~964 |
+| Taking Action | 5.00% | ~964 |
+| No Deaths | 5.00% | ~964 |
 | Overcoming Difficulty | 4.00% | ~771 |
 | Coral Forest | 4.00% | ~771 |
 | The Marshlands | 4.00% | ~771 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,269 (Ranked 150)  
+Progressed: 19,274 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,10 +316,10 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,269 | 38 |
+| 2023-12-26 | 19,274 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
-Sum: 3,291 (Ranked 177)  
+Sum: 3,292 (Ranked 177)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 51
 | This game is Great for Beginners | 433 |
 | This game is Extremely Fun | 414 |
 | This game is Highly Recommended | 395 |
-| This game has Unique Visuals | 334 |
+| This game has Unique Visuals | 335 |
 | This game has Amazing Storytelling | 324 |
 | This game has Amazing Characters | 291 |
 | This game has Obsessive Gameplay | 254 |
@@ -601,3 +601,4 @@ Diff (max vs sum): 51
 | 2023-12-23 | 4.82 | - | 443 | 3,284 |
 | 2023-12-24 | 4.82 | - | 443 | 3,288 |
 | 2023-12-25 | 4.82 | - | 444 | 3,291 |
+| 2023-12-26 | 4.82 | - | 444 | 3,292 |

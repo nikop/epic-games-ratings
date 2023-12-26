@@ -9023,10 +9023,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33089,
       "NumberOfAwardsMax": 5696
+    },
+    {
+      "Time": "2023-12-26T06:58:02.671225+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33094,
+      "NumberOfAwardsMax": 5696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33089,
+  "NumberOfAwards": 33094,
   "NumberOfAwardsMax": 5696,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9040,7 +9046,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5641
+      "Count": 5646
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9073,9 +9079,9 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244739,
+  "EOS_Progressed": 244748,
   "EOS_Completed": 2564,
-  "EOS_NewPlayers": 2832,
+  "EOS_NewPlayers": 2836,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37298,6 +37304,11 @@
       "Time": "2023-12-26T06:11:28.2674374+00:00",
       "NumProgressed": 244739,
       "NumCompleted": 2564
+    },
+    {
+      "Time": "2023-12-26T07:10:27.7060341+00:00",
+      "NumProgressed": 244748,
+      "NumCompleted": 2564
     }
   ],
   "TotalAchievements": 546,
@@ -37315,9 +37326,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 489
     },
     {
       "ID": "objective_completed_100",
@@ -41676,21 +41687,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211013,
+      "Progressed": 211022,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244739,
+      "Progressed": 244748,
       "Completed": 2564
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-26T04:57:41.5884602+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:11:28.2674367+00:00",
+  "LastChanged": "2023-12-26T06:58:02.6712249+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:10:27.7060338+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:58:37.948946+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:11:28.2697152+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:02.6712255+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:10:27.7085188+00:00"
 }

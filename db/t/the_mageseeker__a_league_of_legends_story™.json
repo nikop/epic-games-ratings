@@ -5,7 +5,7 @@
   "Ranking_Rating": 100,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 99,
@@ -5333,9 +5333,9 @@
       "ID": "STB_DEFEAT_MORGANA",
       "SetID": "3pe2bac",
       "Name": "I chose my shackles",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 824
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5589,9 +5589,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 488
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -5654,8 +5654,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-23T20:57:11.279621+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:07:29.3002821+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:06:09.8082489+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:59:14.813011+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:07:29.3003624+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:30.095374+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:06:09.8083128+00:00"
 }

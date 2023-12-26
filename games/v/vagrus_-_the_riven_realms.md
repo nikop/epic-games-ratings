@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~139 |
-| Press-ganged | 42.00% | ~102 |
+| A Second Chance | 58.00% | ~142 |
+| Press-ganged | 42.00% | ~103 |
 | The Package | 27.00% | ~66 |
-| Conquered | 19.00% | ~46 |
+| Conquered | 19.00% | ~47 |
 | Randomized | 18.00% | ~44 |
 | Scribe | 11.00% | ~27 |
 | Breached | 11.00% | ~27 |
@@ -21,15 +21,15 @@
 | Tail-wind | 7.00% | ~17 |
 | Scholar | 6.00% | ~15 |
 | Strategist | 5.00% | ~12 |
-| Deputized | 5.00% | ~12 |
 | Courier | 5.00% | ~12 |
 | Pilgrimage's End | 5.00% | ~12 |
 | Merchant | 5.00% | ~12 |
-| Trouble at Fort Larius | 5.00% | ~12 |
 | Quartermaster | 4.00% | ~10 |
 | Potential Unlocked | 4.00% | ~10 |
+| Deputized | 4.00% | ~10 |
 | Been There | 4.00% | ~10 |
 | Spiritual Journey | 4.00% | ~10 |
+| Trouble at Fort Larius | 4.00% | ~10 |
 | Unseen Patterns | 4.00% | ~10 |
 | Xevarian Gambit | 3.00% | ~7 |
 | The Voice of Hereafter | 3.00% | ~7 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 398)  
+Progressed: 245 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 231 | 0 |
 | 2023-12-24 | 238 | 0 |
 | 2023-12-25 | 241 | 0 |
-| 2023-12-26 | 244 | 0 |
+| 2023-12-26 | 245 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

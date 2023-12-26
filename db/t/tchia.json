@@ -10045,9 +10045,9 @@
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -10174,8 +10174,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-22T18:01:14.9082256+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:09:14.0896281+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:08:41.3676696+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:37.7358257+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:58:58.0460319+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:09:14.0897121+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:17.4137935+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:08:41.367742+00:00"
 }

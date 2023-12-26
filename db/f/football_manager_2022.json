@@ -8966,7 +8966,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478350,
+  "EOS_Progressed": 478351,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
@@ -34191,6 +34191,11 @@
       "Time": "2023-12-26T05:05:13.8740349+00:00",
       "NumProgressed": 478350,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-26T07:06:03.9990796+00:00",
+      "NumProgressed": 478351,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -34386,7 +34391,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239175
+      "UsersEstimate": 239176
     },
     {
       "ID": "achievement_club_world_cup",
@@ -34402,7 +34407,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90886
+      "UsersEstimate": 90887
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -34450,7 +34455,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14350
+      "UsersEstimate": 14351
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -34506,7 +34511,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14350
+      "UsersEstimate": 14351
     },
     {
       "ID": "achievement_good_finance_control",
@@ -34546,7 +34551,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 148288
+      "UsersEstimate": 148289
     },
     {
       "ID": "achievement_impervious",
@@ -34578,7 +34583,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110020
+      "UsersEstimate": 110021
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -34626,7 +34631,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167422
+      "UsersEstimate": 167423
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -34754,7 +34759,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239175
+      "UsersEstimate": 239176
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -34762,7 +34767,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110020
+      "UsersEstimate": 110021
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -34778,7 +34783,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52618
+      "UsersEstimate": 52619
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -34818,7 +34823,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71752
+      "UsersEstimate": 71753
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -34834,7 +34839,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239175
+      "UsersEstimate": 239176
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -34850,7 +34855,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14350
+      "UsersEstimate": 14351
     },
     {
       "ID": "achievement_won_promotion",
@@ -34866,7 +34871,7 @@
       "Name": "On Top Of The World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14350
+      "UsersEstimate": 14351
     },
     {
       "ID": "achievement_world_player_of_the_year",
@@ -34898,7 +34903,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 148288
+      "UsersEstimate": 148289
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -34985,15 +34990,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478350,
+      "Progressed": 478351,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-26T00:00:00.0489582+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:07:21.2216438+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:06:03.9990791+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:56.0435906+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:02:19.4206916+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:07:21.221837+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:02:25.6652264+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:06:03.9992619+00:00"
 }

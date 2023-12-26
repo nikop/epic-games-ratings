@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6226,
+  "EOS_Progressed": 6229,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9202,6 +9202,11 @@
       "Time": "2023-12-26T06:04:57.6279001+00:00",
       "NumProgressed": 6226,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T07:04:14.0768451+00:00",
+      "NumProgressed": 6229,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9339,9 +9344,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 623
     },
     {
       "ID": "25",
@@ -9692,13 +9697,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6226,
+      "Progressed": 6229,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6226,
+      "Progressed": 6229,
       "Completed": 7
     }
   ],
@@ -9706,8 +9711,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:04:57.6278997+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:04:14.0768448+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:01:09.6628748+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:04:57.6280039+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:59:54.0233468+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:04:14.0769182+00:00"
 }

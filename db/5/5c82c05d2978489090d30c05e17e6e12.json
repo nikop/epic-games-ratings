@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70352,
+  "EOS_Progressed": 70361,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2160,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4952,6 +4952,11 @@
       "Time": "2023-12-26T06:08:19.3756442+00:00",
       "NumProgressed": 70352,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-12-26T07:07:48.4941504+00:00",
+      "NumProgressed": 70361,
+      "NumCompleted": 97
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4964,7 +4969,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26030
+      "UsersEstimate": 26034
     },
     {
       "ID": "Achievement_10",
@@ -5052,7 +5057,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18995
+      "UsersEstimate": 18997
     },
     {
       "ID": "Achievement_20",
@@ -5084,7 +5089,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Achievement_24",
@@ -5116,7 +5121,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Achievement_28",
@@ -5140,7 +5145,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8443
     },
     {
       "ID": "Achievement_30",
@@ -5196,7 +5201,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "Achievement_6",
@@ -5235,7 +5240,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70352,
+      "Progressed": 70361,
       "Completed": 97
     }
   ],
@@ -5243,8 +5248,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:08:19.3756436+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:07:48.4941499+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:03:56.985274+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:08:19.3757008+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:03:07.2029033+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:07:48.4942269+00:00"
 }

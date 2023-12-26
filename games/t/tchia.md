@@ -5,8 +5,8 @@ Rating: 4.72 (Ranked 186)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Energy Saver | 0.30% | ~25 |
 | In a Pinch | 0.30% | ~25 |
-| Energy Saver | 0.20% | ~17 |
 | Ahem Ahem | 0.10% | ~8 |
 | Audiophile | 0.10% | ~8 |
 | Body and Soul | 0.10% | ~8 |

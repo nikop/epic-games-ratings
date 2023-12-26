@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -394,7 +394,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5069,
+  "EOS_Progressed": 5070,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -4094,6 +4094,11 @@
       "Time": "2023-12-26T05:04:03.9337986+00:00",
       "NumProgressed": 5069,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-26T07:04:48.2146796+00:00",
+      "NumProgressed": 5070,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4153,7 +4158,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4258
+      "UsersEstimate": 4259
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4161,7 +4166,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4765
+      "UsersEstimate": 4766
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4169,7 +4174,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4225,7 +4230,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -4281,7 +4286,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -4321,7 +4326,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4353,7 +4358,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4361,7 +4366,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -4425,7 +4430,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4441,7 +4446,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4545,7 +4550,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -4640,15 +4645,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5069,
+      "Progressed": 5070,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:05:42.0449548+00:00",
+  "LastChanged_Achievements": "2023-12-26T07:04:48.214679+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-26T05:59:24.0673852+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:05:42.0450419+00:00"
+  "LastUpdate_Ratings": "2023-12-26T06:58:37.0663454+00:00",
+  "LastUpdate_Achievements": "2023-12-26T07:04:48.2148025+00:00"
 }
