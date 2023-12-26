@@ -2433,9 +2433,9 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -2576,8 +2576,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:08:36.4506662+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:09:10.3529672+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:58:08.4124999+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:08:36.4506909+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:58:21.6214578+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:09:10.3529944+00:00"
 }

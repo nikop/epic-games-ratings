@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 676)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,932 |
+| Meeting Resistance | 47.00% | ~1,933 |
 | Confirming Suspicions | 42.00% | ~1,727 |
 | The Kraken Wakes | 37.00% | ~1,521 |
 | It's Starting to Crack | 34.00% | ~1,398 |
-| Lord of War | 31.00% | ~1,274 |
-| Change the Channel | 31.00% | ~1,274 |
+| Change the Channel | 31.00% | ~1,275 |
+| Lord of War | 30.00% | ~1,234 |
 | Taking it back | 29.00% | ~1,192 |
 | Resourceful | 27.00% | ~1,110 |
 | Target America | 27.00% | ~1,110 |
@@ -33,7 +33,7 @@ Rating: 4.45 (Ranked 676)
 | Opposing Force | 14.00% | ~576 |
 | Enemy at the Gates | 14.00% | ~576 |
 | Fields of Glory | 14.00% | ~576 |
-| Set Europe Ablaze | 13.00% | ~534 |
+| Set Europe Ablaze | 13.00% | ~535 |
 | Precision Is Key | 10.00% | ~411 |
 | My Little Friend | 10.00% | ~411 |
 | Rigged to Blow | 9.00% | ~370 |
@@ -72,12 +72,12 @@ Rating: 4.45 (Ranked 676)
 | Master of Secondaries | 0.90% | ~37 |
 | Master of Rifles | 0.90% | ~37 |
 | Master of Pistols | 0.80% | ~33 |
-| Operation Overlord | 0.80% | ~32 |
+| Operation Overlord | 0.80% | ~33 |
 | Master-at-arms | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~24 |
 | Stroll in the Woods | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,111 (Ranked 206)  
+Progressed: 4,112 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-23 | 4,097 | 11 |
 | 2023-12-24 | 4,106 | 11 |
 | 2023-12-25 | 4,109 | 11 |
-| 2023-12-26 | 4,111 | 11 |
+| 2023-12-26 | 4,112 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 539)  

@@ -649,7 +649,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4111,
+  "EOS_Progressed": 4112,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -8999,6 +8999,11 @@
       "Time": "2023-12-26T05:08:58.9182839+00:00",
       "NumProgressed": 4111,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-26T09:09:24.2899925+00:00",
+      "NumProgressed": 4112,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9090,7 +9095,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9162,7 +9167,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9216,9 +9221,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1234
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9346,7 +9351,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9522,7 +9527,7 @@
       "Name": "Operation Overlord",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -9577,13 +9582,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4062,
+      "Progressed": 4063,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4111,
+      "Progressed": 4112,
       "Completed": 11
     }
   ],
@@ -9591,8 +9596,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:08:50.1935008+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:09:24.2899922+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:58:30.3447281+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:08:50.1935997+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:58:43.8199341+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:09:24.2900793+00:00"
 }

@@ -3837,9 +3837,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32729,
+  "EOS_Progressed": 32731,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23512,6 +23512,11 @@
       "Time": "2023-12-26T08:06:34.5480773+00:00",
       "NumProgressed": 32729,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-26T09:08:48.7744056+00:00",
+      "NumProgressed": 32731,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23571,7 +23576,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "Collector",
@@ -23659,7 +23664,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "GB_In_Training",
@@ -23859,7 +23864,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "Terrifying",
@@ -23907,7 +23912,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "Welcome_Crew",
@@ -23930,7 +23935,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32729,
+      "Progressed": 32731,
       "Completed": 70
     }
   ],
@@ -23938,8 +23943,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-25T18:58:16.4810099+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:06:34.5480771+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:08:48.7744052+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:58:29.5620683+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:06:34.5481929+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:58:42.9842095+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:08:48.7745361+00:00"
 }

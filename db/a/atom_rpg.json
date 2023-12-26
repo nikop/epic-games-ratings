@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1498,
+  "EOS_Progressed": 1499,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3723,6 +3723,11 @@
       "Time": "2023-12-26T01:53:31.2054284+00:00",
       "NumProgressed": 1498,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T09:10:05.5558612+00:00",
+      "NumProgressed": 1499,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3790,7 +3795,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "EXPERT_1",
@@ -3886,7 +3891,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -3894,7 +3899,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "PACIFIST",
@@ -4004,9 +4009,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 495
     },
     {
       "ID": "WISHMASTER_1",
@@ -4021,15 +4026,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1498,
+      "Progressed": 1499,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:30.3525325+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:10:05.5558609+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:57:13.1769929+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:30.3525689+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:57:24.9562969+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:10:05.5558934+00:00"
 }

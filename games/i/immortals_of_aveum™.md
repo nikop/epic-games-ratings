@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,667 |
-| Battlefields Have Memories | 80.00% | ~1,533 |
+| Unforeseen | 87.00% | ~1,668 |
+| Battlefields Have Memories | 80.00% | ~1,534 |
 | Enlisted | 73.00% | ~1,399 |
 | Maybe Engage a Little | 67.00% | ~1,284 |
 | No More Names | 49.00% | ~939 |
@@ -14,7 +14,7 @@ Rating: 4.18 (Ranked 951)
 | Thrada-Kul | 31.00% | ~594 |
 | Gravity-Challenged Rocks | 24.00% | ~460 |
 | Socialite | 23.00% | ~441 |
-| Soldier | 21.00% | ~402 |
+| Soldier | 21.00% | ~403 |
 | All the Major Food Groups | 20.00% | ~383 |
 | Beggars Would Ride | 18.00% | ~345 |
 | Control is an Illusion | 17.00% | ~326 |
@@ -25,25 +25,25 @@ Rating: 4.18 (Ranked 951)
 | Geas Aristeya | 11.00% | ~211 |
 | A Perfect Cycle | 10.00% | ~192 |
 | Recruit | 10.00% | ~192 |
-| Armsman | 9.00% | ~172 |
+| Armsman | 9.00% | ~173 |
 | Lights Army | 7.00% | ~134 |
 | Periapt Cerulean | 6.00% | ~115 |
 | Good Boy | 6.00% | ~115 |
 | Periapt Viridian | 5.00% | ~96 |
 | Best Dressed | 4.00% | ~77 |
 | Shroudfane Explorer | 4.00% | ~77 |
-| Scholar | 3.00% | ~57 |
-| Kitted Out | 3.00% | ~57 |
-| Armaments Azure | 3.00% | ~57 |
-| Armaments Gules | 3.00% | ~57 |
-| Armaments Vert | 3.00% | ~57 |
+| Scholar | 3.00% | ~58 |
+| Kitted Out | 3.00% | ~58 |
+| Armaments Azure | 3.00% | ~58 |
+| Armaments Gules | 3.00% | ~58 |
+| Armaments Vert | 3.00% | ~58 |
 | Veteran | 2.00% | ~38 |
 | Grand Magnus | 1.00% | ~19 |
 | Master of Carmine | 1.00% | ~19 |
 | Tip of the Spear | 0.90% | ~17 |
 | Shroudfane Surveyor | 0.80% | ~15 |
 | Master of Ultramarine | 0.70% | ~13 |
-| Master of Malachite | 0.60% | ~11 |
+| Master of Malachite | 0.60% | ~12 |
 | Backtracker | 0.50% | ~10 |
 | Petite Bourgeoisie | 0.40% | ~8 |
 | Diplomat | 0.30% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 951)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,916 (Ranked 239)  
+Progressed: 1,917 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 2 (0.10%) (Ranked 306)
 | 2023-12-23 | 1,709 | 2 |
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
-| 2023-12-26 | 1,916 | 2 |
+| 2023-12-26 | 1,917 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

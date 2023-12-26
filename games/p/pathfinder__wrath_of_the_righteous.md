@@ -33,6 +33,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Trickster | 3.00% | ~383 |
 | Path of the Lich | 3.00% | ~383 |
 | Heroic Victory | 3.00% | ~383 |
+| Capitulation Is Now Moot | 3.00% | ~383 |
 | Core of the Riddle | 3.00% | ~383 |
 | Hanged Man's Notes | 3.00% | ~347 |
 | Sarkoris Will Be Green | 3.00% | ~347 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 3.00% | ~347 |
 | Path of the Demon | 2.00% | ~256 |
 | Path of the Aeon | 2.00% | ~256 |
-| Capitulation Is Now Moot | 2.00% | ~256 |
 | Your First Big Enemy | 2.00% | ~256 |
 | Truly Important Deed | 2.00% | ~256 |
 | Stay Underground | 2.00% | ~231 |

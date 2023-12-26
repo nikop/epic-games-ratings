@@ -6,14 +6,14 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,742 |
-| Apprentice | 58.00% | ~386,459 |
-| Close Shave | 25.00% | ~166,577 |
-| Mercenary | 23.00% | ~153,251 |
-| Ninja | 23.00% | ~153,251 |
+| The Fool | 72.00% | ~479,745 |
+| Apprentice | 58.00% | ~386,462 |
+| Close Shave | 25.00% | ~166,578 |
+| Mercenary | 23.00% | ~153,252 |
+| Ninja | 23.00% | ~153,252 |
 | Northern Scourge | 17.00% | ~113,273 |
-| Thief Bane | 14.00% | ~93,283 |
-| Master of Arms | 12.00% | ~79,957 |
+| Thief Bane | 14.00% | ~93,284 |
+| Master of Arms | 12.00% | ~79,958 |
 | Gambler | 10.00% | ~66,631 |
 | Dice Master | 10.00% | ~66,631 |
 | Swordsman | 9.00% | ~59,968 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,642 |
 | Adventurer | 6.00% | ~39,979 |
 | Empire's Bane | 6.00% | ~39,979 |
-| Jack of all Trades | 5.00% | ~33,315 |
-| Smithy | 5.00% | ~33,315 |
+| Jack of all Trades | 5.00% | ~33,316 |
+| Smithy | 5.00% | ~33,316 |
 | Leap of Faith | 3.00% | ~19,989 |
 | Combat Ready | 3.00% | ~19,989 |
 | Stuffed Potato | 3.00% | ~19,989 |
@@ -40,7 +40,7 @@ Number of Ratings: 780  (23.09.2022)
 | Champion | 1.00% | ~6,663 |
 | Final Death | 1.00% | ~6,663 |
 | Thomas' Bane | 0.90% | ~5,997 |
-| Ally | 0.80% | ~5,330 |
+| Ally | 0.80% | ~5,331 |
 | Gamester | 0.70% | ~4,664 |
 | Hero | 0.60% | ~3,998 |
 | Rebel | 0.60% | ~3,998 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,309 (Ranked 29)  
+Progressed: 666,313 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 174 (0.03%) (Ranked 350)
 | 2023-12-23 | 666,186 | 174 |
 | 2023-12-24 | 666,240 | 174 |
 | 2023-12-25 | 666,293 | 174 |
-| 2023-12-26 | 666,309 | 174 |
+| 2023-12-26 | 666,313 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 488)  
 Sum: 193 (Ranked 415)  

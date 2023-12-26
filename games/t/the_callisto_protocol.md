@@ -5,20 +5,20 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 18.00% | ~3,479 |
-| The Outer Way | 18.00% | ~3,479 |
-| Get a Grip | 16.00% | ~3,092 |
-| Paper Jams | 16.00% | ~3,092 |
-| Desperate Times | 16.00% | ~3,092 |
+| Flesh Wound | 18.00% | ~3,480 |
+| The Outer Way | 18.00% | ~3,480 |
+| Get a Grip | 16.00% | ~3,093 |
+| Paper Jams | 16.00% | ~3,093 |
+| Desperate Times | 16.00% | ~3,093 |
 | Chew 'Em Up | 14.00% | ~2,706 |
-| Float Like A Butterfly | 13.00% | ~2,512 |
-| Reforged | 12.00% | ~2,319 |
-| Workplace Hazard | 11.00% | ~2,126 |
-| If the SHU Fits... | 11.00% | ~2,126 |
-| Without A Paddle | 9.00% | ~1,739 |
-| Two Heads Are Better Than One | 8.00% | ~1,546 |
-| In the Pipe, Five by Five | 8.00% | ~1,546 |
-| Crash Site | 8.00% | ~1,546 |
+| Float Like A Butterfly | 13.00% | ~2,513 |
+| Reforged | 12.00% | ~2,320 |
+| Workplace Hazard | 11.00% | ~2,127 |
+| If the SHU Fits... | 11.00% | ~2,127 |
+| Without A Paddle | 9.00% | ~1,740 |
+| Two Heads Are Better Than One | 8.00% | ~1,547 |
+| In the Pipe, Five by Five | 8.00% | ~1,547 |
+| Crash Site | 8.00% | ~1,547 |
 | Terminated | 7.00% | ~1,353 |
 | What Lies Beneath | 7.00% | ~1,353 |
 | Full Circle | 7.00% | ~1,353 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,326 (Ranked 149)  
+Progressed: 19,332 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
-| 2023-12-26 | 19,326 | 82 |
+| 2023-12-26 | 19,332 | 82 |
 ## Awards
 Max (Amazing Characters): 100  (Ranked 369)  
 Sum: 510 (Ranked 329)  

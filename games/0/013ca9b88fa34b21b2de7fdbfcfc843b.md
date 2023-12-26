@@ -20,9 +20,9 @@ Rating: 4.63 (Ranked 353)
 | Oui, Chef! | 0.80% | ~69 |
 | Exit Through The Gift Shop | 0.80% | ~10 |
 | Search for the Hairy Grell | 0.70% | ~61 |
+| Beach Comber | 0.60% | ~52 |
 | Higher Tax Bracket | 0.60% | ~52 |
 | Botanical Breakthrough | 0.60% | ~52 |
-| Beach Comber | 0.50% | ~43 |
 | Azorian Anniversary | 0.50% | ~43 |
 | Skilled | 0.50% | ~43 |
 | Flaming Hot Completos | 0.40% | ~35 |

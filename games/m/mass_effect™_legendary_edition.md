@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,780 |
-| Spectre Inductee | 68.00% | ~2,077 |
+| Distinguished Service Medal | 91.00% | ~2,781 |
+| Spectre Inductee | 68.00% | ~2,078 |
 | Medal of Exploration I | 58.00% | ~1,772 |
-| Recruit | 53.00% | ~1,619 |
+| Recruit | 53.00% | ~1,620 |
 | Search and Rescue | 52.00% | ~1,589 |
 | Quarian Ally | 50.00% | ~1,528 |
 | Honorarium of Corporate Service | 45.00% | ~1,375 |
-| Medal of Heroism | 44.00% | ~1,344 |
-| Turian Ally | 42.00% | ~1,283 |
-| Medal of Exploration II | 39.00% | ~1,191 |
-| Council Legion of Merit | 39.00% | ~1,191 |
+| Medal of Heroism | 44.00% | ~1,345 |
+| Turian Ally | 42.00% | ~1,284 |
+| Medal of Exploration II | 39.00% | ~1,192 |
+| Council Legion of Merit | 39.00% | ~1,192 |
 | Medal of Honor | 36.00% | ~1,100 |
+| Meritorious Service Medal | 36.00% | ~1,100 |
 | Soldier Ally | 36.00% | ~1,100 |
 | Charismatic | 36.00% | ~1,100 |
-| Meritorious Service Medal | 35.00% | ~1,069 |
 | Soldier | 34.00% | ~1,039 |
 | Asari Ally | 34.00% | ~1,039 |
 | Missing in Action | 34.00% | ~1,039 |
@@ -28,15 +28,15 @@
 | Sentinel Ally | 32.00% | ~978 |
 | Krogan Ally | 32.00% | ~978 |
 | Very Elusive | 32.00% | ~978 |
-| Paramour I | 30.00% | ~916 |
-| Merciless | 30.00% | ~916 |
-| Scientist | 30.00% | ~916 |
+| Paramour I | 30.00% | ~917 |
+| Merciless | 30.00% | ~917 |
+| Scientist | 30.00% | ~917 |
 | Scholar | 29.00% | ~886 |
-| The Professor | 28.00% | ~855 |
-| Head Hunter | 28.00% | ~855 |
+| The Professor | 28.00% | ~856 |
+| Head Hunter | 28.00% | ~856 |
 | The Archangel | 27.00% | ~825 |
 | Operative | 27.00% | ~825 |
-| Power Full | 26.00% | ~794 |
+| Power Full | 26.00% | ~795 |
 | The Convict | 25.00% | ~764 |
 | The Krogan | 25.00% | ~764 |
 | Veteran | 24.00% | ~733 |
@@ -63,12 +63,12 @@
 | Digital Exorcist | 20.00% | ~611 |
 | Heart of Darkness | 20.00% | ~611 |
 | Bringer of War | 20.00% | ~611 |
-| Focused | 19.00% | ~580 |
-| Cat's in the Cradle | 19.00% | ~580 |
-| Doppelganger | 19.00% | ~580 |
-| Treason | 19.00% | ~580 |
-| Agent | 19.00% | ~580 |
-| Mobilizer | 19.00% | ~580 |
+| Focused | 19.00% | ~581 |
+| Cat's in the Cradle | 19.00% | ~581 |
+| Doppelganger | 19.00% | ~581 |
+| Treason | 19.00% | ~581 |
+| Agent | 19.00% | ~581 |
+| Mobilizer | 19.00% | ~581 |
 | Untouchable | 18.00% | ~550 |
 | Eye of the Hurricane | 18.00% | ~550 |
 | Giant Killer | 18.00% | ~550 |
@@ -78,11 +78,11 @@
 | Against All Odds | 18.00% | ~550 |
 | Friend or Foe | 18.00% | ~550 |
 | A House Divided | 18.00% | ~550 |
-| World Shaker | 17.00% | ~519 |
+| World Shaker | 17.00% | ~520 |
+| Liberator | 17.00% | ~520 |
 | Pathfinder | 16.00% | ~489 |
 | Tunnel Rat | 16.00% | ~489 |
 | Arbiter | 16.00% | ~489 |
-| Liberator | 16.00% | ~489 |
 | Savior | 15.00% | ~458 |
 | Weapon Specialist | 15.00% | ~458 |
 | Lost and Found | 15.00% | ~458 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~31 |
 | The One and Only | 0.60% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,055 (Ranked 219)  
+Progressed: 3,056 (Ranked 219)  
 Completed: 10 (0.33%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,4 +234,4 @@ Completed: 10 (0.33%) (Ranked 246)
 | 2023-12-23 | 2,871 | 9 |
 | 2023-12-24 | 2,964 | 9 |
 | 2023-12-25 | 3,034 | 10 |
-| 2023-12-26 | 3,055 | 10 |
+| 2023-12-26 | 3,056 | 10 |

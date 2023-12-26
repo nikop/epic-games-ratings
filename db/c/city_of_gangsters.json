@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 50,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -902,6 +902,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-12-26T08:59:49.7546438+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 261,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
@@ -964,7 +970,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 358554,
+  "EOS_Progressed": 358557,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 0,
@@ -29454,6 +29460,11 @@
       "Time": "2023-12-26T08:03:52.8799008+00:00",
       "NumProgressed": 358554,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T09:04:26.1320244+00:00",
+      "NumProgressed": 358557,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29481,7 +29492,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43026
+      "UsersEstimate": 43027
     },
     {
       "ID": "ach004",
@@ -29521,7 +29532,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43026
+      "UsersEstimate": 43027
     },
     {
       "ID": "ach009",
@@ -29553,7 +29564,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28684
+      "UsersEstimate": 28685
     },
     {
       "ID": "ach013",
@@ -29569,7 +29580,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53783
+      "UsersEstimate": 53784
     },
     {
       "ID": "ach015",
@@ -29601,7 +29612,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28684
+      "UsersEstimate": 28685
     },
     {
       "ID": "ach019",
@@ -29673,7 +29684,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 164935
+      "UsersEstimate": 164936
     },
     {
       "ID": "ach028",
@@ -29769,7 +29780,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35855
+      "UsersEstimate": 35856
     },
     {
       "ID": "ach040",
@@ -29929,7 +29940,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35855
+      "UsersEstimate": 35856
     },
     {
       "ID": "ach060",
@@ -30104,16 +30115,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358554,
+      "Progressed": 358557,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-12-25T22:59:28.4424712+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:03:52.8799006+00:00",
+  "LastChanged": "2023-12-26T08:59:49.7546437+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:04:26.1320239+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:59:37.2391782+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:03:52.8800575+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:59:49.7546442+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:04:26.1322286+00:00"
 }

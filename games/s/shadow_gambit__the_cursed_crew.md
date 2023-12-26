@@ -5,7 +5,7 @@ Rating: 4.83 (Ranked 60)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~883 |
+| A New Journey | 68.00% | ~884 |
 | The Adventure Begins | 49.00% | ~637 |
 | Swabbie | 37.00% | ~481 |
 | With Great Power… | 37.00% | ~481 |
@@ -32,7 +32,7 @@ Rating: 4.83 (Ranked 60)
 | Marauder | 3.00% | ~39 |
 | Welcome Back Jester | 3.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,299 (Ranked 264)  
+Progressed: 1,300 (Ranked 264)  
 Completed: 34 (2.62%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 34 (2.62%) (Ranked 123)
 | 2023-12-23 | 1,269 | 34 |
 | 2023-12-24 | 1,281 | 34 |
 | 2023-12-25 | 1,294 | 34 |
-| 2023-12-26 | 1,299 | 34 |
+| 2023-12-26 | 1,300 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

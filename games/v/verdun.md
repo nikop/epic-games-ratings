@@ -6,14 +6,14 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,648 |
-| Worth it | 63.00% | ~42,524 |
-| Eagle Eye | 55.00% | ~37,124 |
-| Corpseman I | 40.00% | ~26,999 |
-| Blast fishing | 37.00% | ~24,974 |
-| Not alone | 32.00% | ~21,599 |
-| Headhunter I | 26.00% | ~17,549 |
-| Manual Labour I | 25.00% | ~16,874 |
+| Setting an example | 78.00% | ~52,652 |
+| Worth it | 63.00% | ~42,526 |
+| Eagle Eye | 55.00% | ~37,126 |
+| Corpseman I | 40.00% | ~27,001 |
+| Blast fishing | 37.00% | ~24,976 |
+| Not alone | 32.00% | ~21,601 |
+| Headhunter I | 26.00% | ~17,551 |
+| Manual Labour I | 25.00% | ~16,876 |
 | Developers, Developers, Developers | 24.00% | ~16,200 |
 | Basic Training | 23.00% | ~15,525 |
 | Furchtlos und Treu | 13.00% | ~8,775 |
@@ -53,20 +53,20 @@ Number of Ratings: 1,999  (23.09.2022)
 | Corpseman III | 1.00% | ~675 |
 | Elite Player | 0.80% | ~540 |
 | Manual Labour III | 0.40% | ~270 |
-| Buddy | 0.30% | ~202 |
+| Buddy | 0.30% | ~203 |
 | War is better with friends II | 0.20% | ~135 |
-| Gold Collector | 0.10% | ~67 |
-| Gold Hoarder | 0.10% | ~67 |
-| Silver Collector | 0.10% | ~67 |
-| Silver Hoarder | 0.10% | ~67 |
-| War is better with friends III | 0.10% | ~67 |
-| War is better with friends IV | 0.10% | ~67 |
-| Aimbot | 0.10% | ~67 |
-| Headhunter III | 0.10% | ~67 |
-| Comrade | 0.10% | ~67 |
-| Blood Brother | 0.10% | ~67 |
+| Gold Collector | 0.10% | ~68 |
+| Gold Hoarder | 0.10% | ~68 |
+| Silver Collector | 0.10% | ~68 |
+| Silver Hoarder | 0.10% | ~68 |
+| War is better with friends III | 0.10% | ~68 |
+| War is better with friends IV | 0.10% | ~68 |
+| Aimbot | 0.10% | ~68 |
+| Headhunter III | 0.10% | ~68 |
+| Comrade | 0.10% | ~68 |
+| Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,498 (Ranked 113)  
+Progressed: 67,502 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-23 | 67,249 | 4 |
 | 2023-12-24 | 67,382 | 4 |
 | 2023-12-25 | 67,464 | 4 |
-| 2023-12-26 | 67,498 | 4 |
+| 2023-12-26 | 67,502 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
 Sum: 823 (Ranked 282)  

@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 862)  
+Rating: 4.28 (Ranked 872)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,935 |
+| Corner Clout | 46.00% | ~164,936 |
 | Copacetic Coordination | 16.00% | ~57,369 |
-| Fronting the Money | 15.00% | ~53,783 |
+| Fronting the Money | 15.00% | ~53,784 |
 | The Dawn of Automation | 14.00% | ~50,198 |
 | Extraordinary Logistics | 14.00% | ~50,198 |
 | Dirty Money | 13.00% | ~46,612 |
 | Family First | 13.00% | ~46,612 |
-| Cleaning House | 12.00% | ~43,026 |
-| Room in the Back | 12.00% | ~43,026 |
+| Cleaning House | 12.00% | ~43,027 |
+| Room in the Back | 12.00% | ~43,027 |
 | Beating the Heat | 11.00% | ~39,441 |
 | Booze Baron | 11.00% | ~39,441 |
-| Friends on the Force | 10.00% | ~35,855 |
-| Neighborhood Watch | 10.00% | ~35,855 |
-| Core Corps | 8.00% | ~28,684 |
-| Sizeable Stash | 8.00% | ~28,684 |
+| Friends on the Force | 10.00% | ~35,856 |
+| Neighborhood Watch | 10.00% | ~35,856 |
+| Core Corps | 8.00% | ~28,685 |
+| Sizeable Stash | 8.00% | ~28,685 |
 | Street Fighter | 7.00% | ~25,099 |
 | Friendly Gestures | 7.00% | ~25,099 |
 | People Person | 7.00% | ~25,099 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 862)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,554 (Ranked 50)  
+Progressed: 358,557 (Ranked 50)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-23 | 358,114 | 7 |
 | 2023-12-24 | 358,322 | 7 |
 | 2023-12-25 | 358,511 | 7 |
-| 2023-12-26 | 358,554 | 7 |
+| 2023-12-26 | 358,557 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
 Sum: 261 (Ranked 391)  
@@ -479,3 +479,4 @@ Diff (max vs sum): 37
 | 2023-12-23 | 4.29 | 56 | 259 |
 | 2023-12-24 | 4.29 | 57 | 260 |
 | 2023-12-25 | 4.29 | 57 | 261 |
+| 2023-12-26 | 4.28 | 57 | 261 |

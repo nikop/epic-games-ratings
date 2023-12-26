@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 33,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -568,8 +568,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:36.1050669+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:10:11.2351726+00:00",
   "LastUpdate_AppInfo": "2023-12-25T16:57:06.770588+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:59:53.2106467+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:36.1050881+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:00:05.6269484+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:10:11.2351997+00:00"
 }

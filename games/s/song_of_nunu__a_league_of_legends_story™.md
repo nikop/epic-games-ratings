@@ -5,26 +5,26 @@ Rating: 4.52 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~992 |
-| I Broke It | 73.00% | ~979 |
-| Better On Ice | 68.00% | ~912 |
-| Blue Dreams | 66.00% | ~885 |
-| He's Famous! | 66.00% | ~885 |
-| Notai Notes | 66.00% | ~885 |
+| Feels Familiar | 74.00% | ~993 |
+| I Broke It | 73.00% | ~980 |
+| Better On Ice | 68.00% | ~913 |
+| Blue Dreams | 66.00% | ~886 |
+| Notai Notes | 66.00% | ~886 |
+| He's Famous! | 65.00% | ~872 |
 | Cutie Poro | 65.00% | ~872 |
-| Krugmazing | 64.00% | ~858 |
+| Krugmazing | 64.00% | ~859 |
 | Moneyball | 60.00% | ~805 |
 | The Fire Below the Mountain | 60.00% | ~805 |
 | No Bites | 55.00% | ~738 |
 | Iceborn | 55.00% | ~738 |
 | Boom Things | 53.00% | ~711 |
-| Tear of Freedom | 52.00% | ~697 |
+| Tear of Freedom | 52.00% | ~698 |
 | My Darkest Day | 48.00% | ~644 |
 | Rhythm Of Willump | 46.00% | ~617 |
 | The Relentless Storm | 46.00% | ~617 |
 | A Tragic Reminder | 44.00% | ~590 |
 | 3000 Year Blackout | 44.00% | ~590 |
-| The Finisher | 42.00% | ~563 |
+| The Finisher | 42.00% | ~564 |
 | So Close | 41.00% | ~550 |
 | You Get Used To It | 41.00% | ~550 |
 | Family | 39.00% | ~523 |
@@ -43,14 +43,14 @@ Rating: 4.52 (Ranked 563)
 | Yummy | 10.00% | ~134 |
 | Snowball Fightn't | 9.00% | ~121 |
 | It Was Him | 7.00% | ~94 |
-| Handy Yeti | 6.00% | ~80 |
+| Handy Yeti | 6.00% | ~81 |
 | The Pied Piper Of Freljord | 5.00% | ~67 |
 | Braum's Poro Ranch | 3.00% | ~40 |
 | Rock Star | 2.00% | ~27 |
 | We Are Speed | 2.00% | ~27 |
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341 (Ranked 260)  
+Progressed: 1,342 (Ranked 260)  
 Completed: 9 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 9 (0.67%) (Ranked 198)
 | 2023-12-23 | 1,306 | 9 |
 | 2023-12-24 | 1,326 | 9 |
 | 2023-12-25 | 1,339 | 9 |
-| 2023-12-26 | 1,341 | 9 |
+| 2023-12-26 | 1,342 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

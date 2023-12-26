@@ -24,11 +24,11 @@ Rating: 4.56 (Ranked 495)
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Rescue Redgi's Brothers | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
+| Complete Elder Faction | 0.50% | ~11 |
 | Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |
 | Complete the Chefs Book | 0.40% | ~9 |
-| Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Fix the Travellers Wagon | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |

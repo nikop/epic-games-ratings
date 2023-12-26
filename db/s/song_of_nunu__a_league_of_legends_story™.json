@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -69,7 +69,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -3374,6 +3374,11 @@
       "Time": "2023-12-26T05:09:48.4337952+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-26T09:10:13.0929674+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3386,7 +3391,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "EV_ACH02",
@@ -3400,9 +3405,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 872
     },
     {
       "ID": "EV_ACH04",
@@ -3418,7 +3423,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "EV_ACH06",
@@ -3498,7 +3503,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "EV_ACH16",
@@ -3506,7 +3511,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "EV_ACH17",
@@ -3594,7 +3599,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "EV_ACH28",
@@ -3626,7 +3631,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "EV_ACH32",
@@ -3642,7 +3647,7 @@
       "Name": "Notai Notes",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "EV_ACH34",
@@ -3674,7 +3679,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "EV_ACH38",
@@ -3706,7 +3711,7 @@
       "Name": "Handy Yeti",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "EV_ACH42",
@@ -3737,7 +3742,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1342,
       "Completed": 9
     }
   ],
@@ -3745,8 +3750,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:37.8003468+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:10:13.092967+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:59:46.0395395+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:37.8003909+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:59:58.4681623+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:10:13.0930321+00:00"
 }

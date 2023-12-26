@@ -367,9 +367,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytale3_ach_18",
@@ -431,17 +431,17 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytale3_ach_26",
       "SetID": "7idcjbn",
       "Name": "Trap",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytale3_ach_27",
@@ -590,8 +590,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:03:50.4470926+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:04:23.4145114+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.9801236+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:58:56.7783304+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:03:50.4471082+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:59:09.5040296+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:04:23.4145339+00:00"
 }

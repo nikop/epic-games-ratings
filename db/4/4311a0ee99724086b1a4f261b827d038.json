@@ -803,7 +803,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239636,
+  "EOS_Progressed": 239640,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1250,
   "EOS_NewCompleters": 0,
@@ -18858,6 +18858,11 @@
       "Time": "2023-12-26T08:09:31.7045796+00:00",
       "NumProgressed": 239636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T09:10:06.7461874+00:00",
+      "NumProgressed": 239640,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18934,7 +18939,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21567
+      "UsersEstimate": 21568
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -18950,7 +18955,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9585
+      "UsersEstimate": 9586
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -19054,7 +19059,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33549
+      "UsersEstimate": 33550
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19126,7 +19131,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59909
+      "UsersEstimate": 59910
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19141,7 +19146,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 239636,
+      "Progressed": 239640,
       "Completed": 0
     }
   ],
@@ -19149,8 +19154,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-25T01:44:25.1777295+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:31.7045794+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:10:06.746187+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:58:03.4986753+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:31.7046557+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:58:17.0781744+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:10:06.7462826+00:00"
 }

@@ -9,7 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 1.00% | ~2,417 |
 | Uncharted Territory | 1.00% | ~2,417 |
 | Matching | 1.00% | ~32 |
-| Getting A Glimpse | 0.90% | ~2,175 |
+| Getting A Glimpse | 0.90% | ~2,176 |
 | That Was Quick | 0.80% | ~1,934 |
 | Colorful Corpse | 0.80% | ~1,934 |
 | Defeat The Dark | 0.80% | ~1,934 |
@@ -53,6 +53,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 0.40% | ~967 |
 | Shadow Spreads | 0.40% | ~967 |
 | Max Damage! | 0.40% | ~967 |
+| A Rough Road | 0.40% | ~967 |
 | To The Death! | 0.40% | ~967 |
 | Well Prepared | 0.40% | ~967 |
 | Don't Ignore Me! | 0.40% | ~967 |
@@ -62,14 +63,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.40% | ~967 |
 | Spreading Plague | 0.40% | ~967 |
 | Antivenom | 0.40% | ~967 |
+| The Long Run | 0.40% | ~967 |
 | Who Needs Luck? | 0.40% | ~13 |
-| A Rough Road | 0.30% | ~725 |
 | Berzerker | 0.30% | ~725 |
 | Juggernaut | 0.30% | ~725 |
 | Chain Reaction | 0.30% | ~725 |
 | Decisions, Decisions | 0.30% | ~725 |
 | Snake Sneak | 0.30% | ~725 |
-| The Long Run | 0.30% | ~725 |
 | Precious | 0.30% | ~725 |
 | Achievement Hunter | 0.20% | ~483 |
 | Challenge Increases | 0.20% | ~483 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,722 (Ranked 69)  
+Progressed: 241,725 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
-| 2023-12-26 | 241,722 | 302 |
+| 2023-12-26 | 241,725 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

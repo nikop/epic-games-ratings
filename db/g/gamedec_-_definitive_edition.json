@@ -501,9 +501,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 255734,
+  "EOS_Progressed": 255737,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28496,6 +28496,11 @@
       "Time": "2023-12-26T08:06:12.5619769+00:00",
       "NumProgressed": 255734,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T09:06:46.6042034+00:00",
+      "NumProgressed": 255737,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28507,7 +28512,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69048
+      "UsersEstimate": 69049
     },
     {
       "ID": "ACH_AON",
@@ -28571,7 +28576,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33245
+      "UsersEstimate": 33246
     },
     {
       "ID": "ACH_HATTRICK",
@@ -28651,7 +28656,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74163
+      "UsersEstimate": 74164
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28779,7 +28784,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17901
+      "UsersEstimate": 17902
     },
     {
       "ID": "ACH_MEMESMART",
@@ -28922,7 +28927,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255734,
+      "Progressed": 255737,
       "Completed": 8
     }
   ],
@@ -28930,8 +28935,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-24T10:02:49.5700162+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:06:12.5619765+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:06:46.604203+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:02:44.8896243+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:06:12.5621014+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:03:16.7133038+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:06:46.6043574+00:00"
 }

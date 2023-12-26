@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -1579,6 +1579,11 @@
       "Time": "2023-12-26T07:10:19.9757726+00:00",
       "NumProgressed": 612,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T09:10:10.9957275+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1662,7 +1667,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "GoblinTales",
@@ -1670,7 +1675,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Hardboiled",
@@ -1710,7 +1715,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Librarian",
@@ -1726,7 +1731,7 @@
       "Name": "Lumberjack",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Marksman",
@@ -1782,7 +1787,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Reincarnation",
@@ -1846,7 +1851,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "TheFallen",
@@ -1909,7 +1914,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 1
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:35.7530191+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:10:10.9957269+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:57:26.3317914+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:35.7530438+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:57:37.6680798+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:10:10.9957649+00:00"
 }

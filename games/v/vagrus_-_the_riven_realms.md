@@ -61,6 +61,7 @@
 | Embellished | 0.80% | ~2 |
 | Trailblazer | 0.80% | ~2 |
 | Huntsmaster | 0.80% | ~2 |
+| Loader | 0.80% | ~2 |
 | Mercenary | 0.80% | ~2 |
 | Escort | 0.80% | ~2 |
 | Ruiner | 0.80% | ~2 |
@@ -68,6 +69,7 @@
 | The Last Voyage | 0.80% | ~2 |
 | Theory to Practice | 0.80% | ~2 |
 | And the Sky Full of Stars | 0.40% | ~1 |
+| Carpenter | 0.40% | ~1 |
 | General | 0.40% | ~1 |
 | Company of Heroes | 0.40% | ~1 |
 | Conqueror | 0.40% | ~1 |
@@ -75,7 +77,6 @@
 | Forged in Battle | 0.40% | ~1 |
 | Manticore | 0.40% | ~1 |
 | Chromatic Collector | 0.40% | ~1 |
-| Loader | 0.40% | ~1 |
 | Despoiler | 0.40% | ~1 |
 | Celebrity | 0.40% | ~1 |
 | Arcanite | 0.40% | ~1 |
@@ -85,7 +86,6 @@
 | Death Denied | 0.00% | ~0 |
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
-| Carpenter | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |

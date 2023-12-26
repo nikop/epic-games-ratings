@@ -1009,9 +1009,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7563,
+  "EOS_Progressed": 7565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12289,6 +12289,11 @@
       "Time": "2023-12-26T07:06:15.337718+00:00",
       "NumProgressed": 7563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T09:05:55.026227+00:00",
+      "NumProgressed": 7565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12324,7 +12329,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -12619,13 +12624,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7563,
+      "Progressed": 7565,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6935,
+      "Progressed": 6937,
       "Completed": 113
     }
   ],
@@ -12633,8 +12638,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-24T18:58:58.6953669+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:05:21.659722+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:05:55.0262265+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:59:20.219173+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:05:21.6598+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:59:32.0286801+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:05:55.026312+00:00"
 }

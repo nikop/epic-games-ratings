@@ -1,36 +1,36 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 231)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~213,177 |
-| 50 HEADSHOTS | 30.00% | ~199,853 |
-| SCIENCE AND INDUSTRY | 29.00% | ~193,192 |
-| FINISHED CHAPTER 1 | 28.00% | ~186,530 |
-| FINISHED CHAPTER 2 | 20.00% | ~133,236 |
-| 200 HEADSHOTS | 18.00% | ~119,912 |
-| FINISHED CHAPTER 3 | 17.00% | ~113,250 |
-| FINISHED CHAPTER 4 | 15.00% | ~99,927 |
-| FINISH CHAPTER 5 | 12.00% | ~79,941 |
-| FINISH CHAPTER 6 | 11.00% | ~73,280 |
-| CATHARTIC ESCAPISM | 11.00% | ~73,280 |
-| 1000 KILLS | 10.00% | ~66,618 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,647 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,324 |
-| FIRST BLOOD | 2.00% | ~13,324 |
-| OUT OF ORDER | 1.00% | ~6,662 |
-| PACEMAKER | 1.00% | ~6,662 |
-| TIME PARADOX | 1.00% | ~6,662 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~5,996 |
+| 100 KILLS | 32.00% | ~213,160 |
+| 50 HEADSHOTS | 30.00% | ~199,838 |
+| SCIENCE AND INDUSTRY | 29.00% | ~193,176 |
+| FINISHED CHAPTER 1 | 28.00% | ~186,515 |
+| FINISHED CHAPTER 2 | 20.00% | ~133,225 |
+| 200 HEADSHOTS | 18.00% | ~119,902 |
+| FINISHED CHAPTER 3 | 17.00% | ~113,241 |
+| FINISHED CHAPTER 4 | 15.00% | ~99,919 |
+| FINISH CHAPTER 5 | 13.00% | ~86,596 |
+| FINISH CHAPTER 6 | 11.00% | ~73,274 |
+| CATHARTIC ESCAPISM | 11.00% | ~73,274 |
+| 1000 KILLS | 10.00% | ~66,612 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,645 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,322 |
+| FIRST BLOOD | 2.00% | ~13,322 |
+| OUT OF ORDER | 1.00% | ~6,661 |
+| PACEMAKER | 1.00% | ~6,661 |
+| TIME PARADOX | 1.00% | ~6,661 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~5,995 |
 | PARTYHARD | 0.80% | ~5,329 |
 | NEW GAME PLUS | 0.70% | ~4,663 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,331 |
-| CHURCH | 0.40% | ~2,665 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,999 |
-| REMEMBER THE ARMORY | 0.30% | ~1,999 |
-| 5 RUNS | 0.30% | ~1,999 |
+| CHURCH | 0.40% | ~2,664 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,998 |
+| REMEMBER THE ARMORY | 0.30% | ~1,998 |
+| 5 RUNS | 0.30% | ~1,998 |
 | CHALET | 0.20% | ~1,332 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,332 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,332 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~666 |
 | WARRIOR IN A GARDEN | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,178 (Ranked 30)  
+Progressed: 666,125 (Ranked 30)  
 Completed: 63 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |

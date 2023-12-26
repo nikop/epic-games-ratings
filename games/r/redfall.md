@@ -40,7 +40,7 @@ Rating: 3.58 (Ranked 1,068)
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
-| Curious Finch | 0.90% | ~19 |
+| Curious Finch | 1.00% | ~21 |
 | Empty Nest Syndrome | 0.60% | ~12 |
 | What Lies Below | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |

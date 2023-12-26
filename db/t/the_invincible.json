@@ -5,7 +5,7 @@
   "Ranking_Rating": 563,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 148,
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1011,
+  "EOS_Progressed": 1012,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2682,6 +2682,11 @@
       "Time": "2023-12-26T08:09:03.7409858+00:00",
       "NumProgressed": 1011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T09:09:37.7179098+00:00",
+      "NumProgressed": 1012,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2702,7 +2707,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "AchvAssertive",
@@ -2726,15 +2731,15 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AchvBombing",
       "SetID": "1hj060c",
       "Name": "Violent solution",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 81
     },
     {
       "ID": "AchvConvoyList",
@@ -2870,7 +2875,7 @@
       "Name": "The Camp",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "AchvReachCity",
@@ -2878,7 +2883,7 @@
       "Name": "The City",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "AchvReachCondor",
@@ -2925,7 +2930,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1011,
+      "Progressed": 1012,
       "Completed": 0
     }
   ],
@@ -2933,8 +2938,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-24T16:57:52.2929542+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:03.7409856+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:09:37.7179095+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:58:03.9374499+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:03.7410143+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:58:17.4867532+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:09:37.7179387+00:00"
 }

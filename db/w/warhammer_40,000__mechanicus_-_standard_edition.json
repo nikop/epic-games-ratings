@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 705,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 74,
@@ -1032,7 +1032,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 230491,
+  "EOS_Progressed": 230492,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
@@ -28417,6 +28417,11 @@
       "Time": "2023-12-26T08:09:31.5116211+00:00",
       "NumProgressed": 230491,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-26T09:10:06.5630699+00:00",
+      "NumProgressed": 230492,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28508,7 +28513,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13829
+      "UsersEstimate": 13830
     },
     {
       "ID": "ACH_BASE_20",
@@ -28699,7 +28704,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230491,
+      "Progressed": 230492,
       "Completed": 5
     }
   ],
@@ -28707,8 +28712,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-25T00:00:29.6273148+00:00",
-  "LastChanged_Achievements": "2023-12-26T08:09:31.5116208+00:00",
+  "LastChanged_Achievements": "2023-12-26T09:10:06.5630693+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
-  "LastUpdate_Ratings": "2023-12-26T08:00:25.609091+00:00",
-  "LastUpdate_Achievements": "2023-12-26T08:09:31.5117662+00:00"
+  "LastUpdate_Ratings": "2023-12-26T09:00:38.7991719+00:00",
+  "LastUpdate_Achievements": "2023-12-26T09:10:06.5632491+00:00"
 }
