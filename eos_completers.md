@@ -72,11 +72,11 @@
 | 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 71 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.84% |
-| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.83% |
+| 73 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.82% |
 | 74 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 5.77% |
 | 75 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.03% |
-| 77 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
+| 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.00% |
+| 76 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.00% |
 | 78 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.77% |
 | 80 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 4.76% |
@@ -92,7 +92,7 @@
 | 89 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17% |
 | 91 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 4.00% |
 | 92 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.95% |
-| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
+| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
 | 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 95 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.85% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.85% |
@@ -103,7 +103,7 @@
 | 101 | [Bunny Park](games/b/bunny_park.md) | 3.28% |
 | 101 | [Dungeons 4](games/d/dungeons_4.md) | 3.28% |
 | 103 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.23% |
-| 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
+| 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.13% |
 | 105 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 106 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 107 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 3.06% |
@@ -235,7 +235,7 @@
 | 232 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 234 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.39% |
 | 235 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 236 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 235 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 237 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.36% |
 | 237 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.36% |
 | 237 | [The Surge](games/t/the_surge.md) | 0.36% |
@@ -261,8 +261,8 @@
 | 259 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 259 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.27% |
 | 259 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 259 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.27% |
-| 263 | [Filament](games/f/filament.md) | 0.26% |
+| 262 | [Filament](games/f/filament.md) | 0.26% |
+| 262 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.26% |
 | 264 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 264 | [GRIME](games/g/grime.md) | 0.25% |
 | 264 | [Remnant 2](games/r/remnant_2.md) | 0.25% |
@@ -271,8 +271,8 @@
 | 268 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
 | 268 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
 | 271 | [Despot's Game](games/d/despot's_game.md) | 0.22% |
-| 272 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 272 | [It Takes Two](games/i/it_takes_two.md) | 0.21% |
+| 271 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
+| 273 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 274 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 274 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 274 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
