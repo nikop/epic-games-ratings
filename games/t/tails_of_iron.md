@@ -8,12 +8,12 @@ Rating: 4.56 (Ranked 497)
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 1.00% | ~9 |
 | Become King | 0.90% | ~21 |
+| Ranged Weapon | 0.80% | ~18 |
 | Defeat 25 Frogs | 0.80% | ~18 |
 | Shield Maiden Yellow Tongue | 0.80% | ~7 |
 | Collect Gold | 0.70% | ~16 |
 | Collect Iron Ore | 0.70% | ~16 |
 | Collect Monster Parts | 0.70% | ~16 |
-| Ranged Weapon | 0.70% | ~16 |
 | Two Handed Weapon | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Smithy Ready to Craft | 0.70% | ~16 |

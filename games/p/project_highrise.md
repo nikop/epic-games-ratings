@@ -6,46 +6,46 @@
 | ---- | ---------- | ----- |
 | In the Black | 57.00% | ~253 |
 | Starting Skyward | 51.00% | ~226 |
-| Grime is Not Good | 45.00% | ~199 |
+| Grime is Not Good | 45.00% | ~200 |
 | Floor Galore | 39.00% | ~173 |
 | Dinner Dash | 39.00% | ~173 |
-| Campaign Launch | 38.00% | ~168 |
+| Campaign Launch | 38.00% | ~169 |
 | Need a Consult | 35.00% | ~155 |
 | Upgrade Unlock | 35.00% | ~155 |
 | It's Technical | 35.00% | ~155 |
-| Delegate Maintenance | 31.00% | ~137 |
+| Delegate Maintenance | 31.00% | ~138 |
 | Proper Walls | 30.00% | ~133 |
 | Destination Destiny | 30.00% | ~133 |
 | Happy Tenants | 25.00% | ~111 |
-| Potent Potables | 24.00% | ~106 |
-| Smooth Service | 24.00% | ~106 |
+| Potent Potables | 24.00% | ~107 |
+| Smooth Service | 24.00% | ~107 |
 | Your Prestige is Rising | 23.00% | ~102 |
 | Retail Revenue | 23.00% | ~102 |
-| Don't Feel a Loan | 22.00% | ~97 |
+| Don't Feel a Loan | 22.00% | ~98 |
 | Artfully Done | 20.00% | ~89 |
 | People Mover | 20.00% | ~89 |
 | Lux Living | 19.00% | ~84 |
 | Emporium Empire | 19.00% | ~84 |
 | Leveled Up Shops | 19.00% | ~84 |
 | We Don't Need No Education | 19.00% | ~84 |
-| Get Electrified | 19.00% | ~84 |
 | Tasty Profits | 18.00% | ~80 |
+| Get Electrified | 18.00% | ~80 |
 | Rehab Expert | 17.00% | ~75 |
 | Established Fame | 16.00% | ~71 |
-| Under One Roof | 15.00% | ~66 |
-| Cashflow Chief | 15.00% | ~66 |
+| Under One Roof | 15.00% | ~67 |
+| Cashflow Chief | 15.00% | ~67 |
 | Starred Dining | 14.00% | ~62 |
 | Smooth Operator | 12.00% | ~53 |
 | Boutique Benefits | 12.00% | ~53 |
-| Terrifically Trashed | 12.00% | ~53 |
 | Thrilled Tenants | 12.00% | ~53 |
+| Terrifically Trashed | 11.00% | ~49 |
 | 28 Days Later | 10.00% | ~44 |
 | Swimming in Surplus | 10.00% | ~44 |
 | Aestheticly Pleased | 9.00% | ~40 |
 | Refined Palates | 9.00% | ~40 |
-| Plaza Plan | 8.00% | ~35 |
-| Master of Puppets | 8.00% | ~35 |
-| Phoning It In | 8.00% | ~35 |
+| Plaza Plan | 8.00% | ~36 |
+| Master of Puppets | 8.00% | ~36 |
+| Phoning It In | 8.00% | ~36 |
 | First 100 Days | 7.00% | ~31 |
 | Water Features | 7.00% | ~31 |
 | Golden Opportunity | 7.00% | ~31 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 346)  
+Progressed: 444 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 427 | 0 |
 | 2023-12-24 | 434 | 0 |
 | 2023-12-25 | 440 | 0 |
-| 2023-12-26 | 443 | 0 |
+| 2023-12-26 | 444 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

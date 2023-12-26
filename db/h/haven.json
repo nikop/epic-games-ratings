@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1782,
+  "EOS_Progressed": 1783,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2938,6 +2938,11 @@
       "Time": "2023-12-26T17:05:52.1830838+00:00",
       "NumProgressed": 1782,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T20:05:33.6385278+00:00",
+      "NumProgressed": 1783,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3013,7 +3018,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "18",
@@ -3188,15 +3193,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1782,
+      "Progressed": 1783,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:05:42.4848592+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:05:33.6385274+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:59:41.6278197+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:05:42.4848835+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:59:40.2133136+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:05:33.6385707+00:00"
 }

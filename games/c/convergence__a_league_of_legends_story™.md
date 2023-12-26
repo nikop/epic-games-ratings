@@ -6,18 +6,18 @@ Rating: 4.65 (Ranked 321)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 41.00% | ~458 |
+| The Mysterious Stranger | 31.00% | ~346 |
 | Rail Rat | 31.00% | ~346 |
-| The Mysterious Stranger | 30.00% | ~335 |
 | Immaculate Aim | 26.00% | ~290 |
 | The Brass Boss | 25.00% | ~279 |
 | Make Up For Lost Time | 24.00% | ~268 |
 | Time Flies | 24.00% | ~268 |
+| No, Thanks! | 24.00% | ~268 |
 | The Prince in Heels | 24.00% | ~268 |
 | Honest Mistake | 24.00% | ~268 |
 | Immaculate Aim | 24.00% | ~268 |
 | The Steel Shadow | 23.00% | ~257 |
 | The Harder They Fall | 23.00% | ~257 |
-| No, Thanks! | 23.00% | ~257 |
 | Fast Learner | 23.00% | ~257 |
 | Breaking Down Barriers | 22.00% | ~246 |
 | The Wicked Twins | 22.00% | ~246 |
@@ -27,9 +27,9 @@ Rating: 4.65 (Ranked 321)
 | Golem Chaser | 21.00% | ~234 |
 | The Loose Cannon | 19.00% | ~212 |
 | Check Your Pulse | 19.00% | ~212 |
+| Street Style | 18.00% | ~201 |
 | The Man Who Shattered Time | 18.00% | ~201 |
 | The Family Fortune | 18.00% | ~201 |
-| Street Style | 17.00% | ~190 |
 | Whiz Kid | 15.00% | ~167 |
 | Good Neighbor | 14.00% | ~156 |
 | Treasure Trove | 13.00% | ~145 |

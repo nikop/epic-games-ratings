@@ -6,8 +6,8 @@
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3444,9 +3444,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 605
     },
     {
       "ID": "EV_ACH07",
@@ -3628,9 +3628,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 874
     },
     {
       "ID": "EV_ACH30",
@@ -3765,8 +3765,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:10:53.7756338+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:10:59.1100782+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:01:26.8215387+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:10:53.7756787+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:01:25.2655411+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:10:59.1101126+00:00"
 }

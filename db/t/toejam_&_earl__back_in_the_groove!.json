@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58450,
+  "EOS_Progressed": 58451,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -14801,6 +14801,11 @@
       "Time": "2023-12-26T19:08:22.5495935+00:00",
       "NumProgressed": 58450,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T20:08:31.1921506+00:00",
+      "NumProgressed": 58451,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14860,7 +14865,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Explorer",
@@ -14908,7 +14913,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "FoundAllBackers",
@@ -15044,7 +15049,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "PacifistVictory",
@@ -15124,7 +15129,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "Teamwork",
@@ -15180,7 +15185,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -15203,7 +15208,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58450,
+      "Progressed": 58451,
       "Completed": 6
     }
   ],
@@ -15211,8 +15216,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:08:22.549593+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:08:31.1921503+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:00:16.0521819+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:08:22.5496972+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:00:14.7869787+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:08:31.1922306+00:00"
 }

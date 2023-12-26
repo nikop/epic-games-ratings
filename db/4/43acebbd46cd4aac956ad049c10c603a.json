@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1147,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3097,6 +3097,11 @@
       "Time": "2023-12-26T17:05:17.3368128+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T20:05:00.4153242+00:00",
+      "NumProgressed": 1147,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3197,7 +3202,7 @@
       "Name": "Desolate Island",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Discovery",
@@ -3213,7 +3218,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "EcstaticTruth",
@@ -3237,15 +3242,15 @@
       "Name": "Flooded Valley",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 57
     },
     {
       "ID": "GoodCitizen",
@@ -3261,7 +3266,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "HighPlain",
@@ -3285,7 +3290,7 @@
       "Name": "Just One Lap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LordOfTheFiles",
@@ -3293,7 +3298,7 @@
       "Name": "Lord of the Files",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "LostMarshes",
@@ -3325,7 +3330,7 @@
       "Name": "Museum Explorer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "MuseumVisitor",
@@ -3381,7 +3386,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "PuzzleFiend",
@@ -3389,7 +3394,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3397,7 +3402,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "RenaissanceRobot",
@@ -3421,7 +3426,7 @@
       "Name": "Signatory",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "SingleRod",
@@ -3469,7 +3474,7 @@
       "Name": "The All-Gifted",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3501,7 +3506,7 @@
       "Name": "The Spark",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "TheThiefOfFire",
@@ -3517,7 +3522,7 @@
       "Name": "The Word Endures",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "TouchGrass",
@@ -3565,7 +3570,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "YourBiggestFan",
@@ -3573,14 +3578,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1147,
       "Completed": 2
     }
   ],
@@ -3588,8 +3593,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:05:09.5533006+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:05:00.4153239+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:59:54.5899826+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:05:09.5533476+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:59:53.7932926+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:05:00.4153732+00:00"
 }

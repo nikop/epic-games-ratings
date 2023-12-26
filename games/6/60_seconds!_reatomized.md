@@ -15,14 +15,14 @@ Rating: 4.52 (Ranked 564)
 | Family guy | 77.00% | ~4,573 |
 | Out of the Bag | 76.00% | ~4,514 |
 | The Dark Side | 71.00% | ~4,217 |
+| Souper! | 66.00% | ~3,920 |
 | Duck and cover! | 66.00% | ~3,920 |
-| Souper! | 65.00% | ~3,860 |
 | Pacifist | 60.00% | ~3,563 |
 | 2-1-6 | 59.00% | ~3,504 |
 | A gift | 55.00% | ~3,266 |
 | Girl Power | 49.00% | ~2,910 |
 | What goes around... | 45.00% | ~2,673 |
-| Be Prepared | 38.00% | ~2,257 |
+| Be Prepared | 39.00% | ~2,316 |
 | Unbreakable | 37.00% | ~2,197 |
 | Gotta get 'em all | 34.00% | ~2,019 |
 | This is the end | 34.00% | ~2,019 |

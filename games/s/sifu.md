@@ -1,23 +1,23 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,819 |
-| The Assault | 3.00% | ~22,364 |
-| Life is your teacher | 3.00% | ~22,364 |
-| Lightning Hands | 3.00% | ~22,364 |
-| The Hateful Pole Fighter | 2.00% | ~14,909 |
-| A Lady's Blood in the Snow | 2.00% | ~14,909 |
-| Stuntmaster | 2.00% | ~14,909 |
-| Street Fighting | 2.00% | ~14,909 |
-| State of constant learning | 2.00% | ~14,909 |
-| Qi Gong: Essence | 2.00% | ~14,909 |
-| Old Child | 2.00% | ~14,909 |
-| Rumble in the Hangar | 2.00% | ~14,909 |
+| The Old Grandmaster | 4.00% | ~29,820 |
+| The Assault | 3.00% | ~22,365 |
+| Life is your teacher | 3.00% | ~22,365 |
+| Lightning Hands | 3.00% | ~22,365 |
+| The Hateful Pole Fighter | 2.00% | ~14,910 |
+| A Lady's Blood in the Snow | 2.00% | ~14,910 |
+| Stuntmaster | 2.00% | ~14,910 |
+| Street Fighting | 2.00% | ~14,910 |
+| State of constant learning | 2.00% | ~14,910 |
+| Qi Gong: Essence | 2.00% | ~14,910 |
+| Old Child | 2.00% | ~14,910 |
+| Rumble in the Hangar | 2.00% | ~14,910 |
 | Lady Wing Chun | 1.00% | ~7,455 |
 | Furious Fists | 1.00% | ~7,455 |
 | Kill Nil | 1.00% | ~7,455 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.90% | ~6,709 |
 | Kung-Fu Tussle | 0.90% | ~6,709 |
 | Dance of the Praying Mantis | 0.80% | ~5,964 |
-| Fight the way you practice | 0.70% | ~383 |
+| Fight the way you practice | 0.70% | ~384 |
 | Martial Hub | 0.60% | ~329 |
 | Muk Yan Master | 0.50% | ~3,727 |
 | Tiger on Fire | 0.50% | ~3,727 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~55 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 745,468 (Ranked 23)  
+Progressed: 745,499 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 745,468 | 12,966 |
+| 2023-12-26 | 745,499 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,874 (Ranked 87)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -565,10 +565,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 136,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-26T20:01:01.838472+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 138,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 136,
+  "NumberOfAwards": 138,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -582,7 +588,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",
@@ -603,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6263,
+  "EOS_Progressed": 6269,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9273,6 +9279,11 @@
       "Time": "2023-12-26T19:05:00.6690736+00:00",
       "NumProgressed": 6263,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T20:04:51.6212576+00:00",
+      "NumProgressed": 6269,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9404,7 +9415,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "24",
@@ -9412,7 +9423,7 @@
       "Name": "Secret Technique",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "25",
@@ -9420,7 +9431,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "26",
@@ -9444,7 +9455,7 @@
       "Name": "From Friends to Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "29",
@@ -9763,22 +9774,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6263,
+      "Progressed": 6269,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6263,
+      "Progressed": 6269,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-26T10:01:09.8924336+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:05:00.6690731+00:00",
+  "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:04:51.6212571+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:01:02.5828087+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:05:00.6691412+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:01:01.8384724+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:04:51.621348+00:00"
 }

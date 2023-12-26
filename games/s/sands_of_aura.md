@@ -24,7 +24,7 @@
 | Frigid Winds | 3.00% | ~4 |
 | Missing Melodies | 2.00% | ~2 |
 | Smotherly Love | 2.00% | ~2 |
-| Transformative Nature | 0.80% | ~1 |
+| Transformative Nature | 2.00% | ~2 |
 | Champion of Starspire | 0.80% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |

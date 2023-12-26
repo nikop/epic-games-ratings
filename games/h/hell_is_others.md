@@ -1,11 +1,11 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 764)  
+Rating: 4.39 (Ranked 763)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,541 |
+| Survivor | 31.00% | ~80,542 |
 | Predator I | 23.00% | ~59,757 |
 | Fixer I | 10.00% | ~25,981 |
 | A week in Century City | 10.00% | ~25,981 |
@@ -14,10 +14,10 @@ Rating: 4.39 (Ranked 764)
 | Cleaning Company | 6.00% | ~15,589 |
 | Well-oiled machine | 5.00% | ~12,991 |
 | Saver I | 5.00% | ~12,991 |
-| The Ascent | 4.00% | ~10,392 |
-| Pacifist | 4.00% | ~10,392 |
-| Vandalism | 4.00% | ~10,392 |
-| Capitalist I | 4.00% | ~10,392 |
+| The Ascent | 4.00% | ~10,393 |
+| Pacifist | 4.00% | ~10,393 |
+| Vandalism | 4.00% | ~10,393 |
+| Capitalist I | 4.00% | ~10,393 |
 | Fixer II | 3.00% | ~7,794 |
 | It took a while | 3.00% | ~7,794 |
 | Adrenaline | 3.00% | ~7,794 |
@@ -35,8 +35,8 @@ Rating: 4.39 (Ranked 764)
 | Green thumb II | 1.00% | ~2,598 |
 | Bricklayer | 1.00% | ~2,598 |
 | Run the Economy | 1.00% | ~2,598 |
-| Committed Relationship | 0.80% | ~2,078 |
-| Number 1 | 0.80% | ~2,078 |
+| Committed Relationship | 0.80% | ~2,079 |
+| Number 1 | 0.80% | ~2,079 |
 | A major purchase | 0.60% | ~1,559 |
 | Interior designer | 0.60% | ~1,559 |
 | The Gamble | 0.50% | ~1,299 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 764)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,811 (Ranked 63)  
+Progressed: 259,814 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 259,690 | 3 |
 | 2023-12-24 | 259,736 | 3 |
 | 2023-12-25 | 259,786 | 3 |
-| 2023-12-26 | 259,811 | 3 |
+| 2023-12-26 | 259,814 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 436)  
 Sum: 367 (Ranked 358)  

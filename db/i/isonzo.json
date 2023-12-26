@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9628,
+  "EOS_Progressed": 9629,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10076,6 +10076,11 @@
       "Time": "2023-12-26T19:09:41.5677803+00:00",
       "NumProgressed": 9628,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T20:09:48.1457736+00:00",
+      "NumProgressed": 9629,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10103,7 +10108,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10175,7 +10180,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -10215,7 +10220,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -10231,7 +10236,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10375,7 +10380,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -10431,7 +10436,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -10439,14 +10444,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9628,
+      "Progressed": 9629,
       "Completed": 10
     }
   ],
@@ -10454,8 +10459,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:09:41.5677799+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:09:48.1457732+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:00:48.8238804+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:09:41.567854+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:00:48.2583531+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:09:48.1458417+00:00"
 }

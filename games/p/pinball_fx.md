@@ -6,7 +6,7 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 1.00% | ~2,873 |
+| Ball Launched | 1.00% | ~2,874 |
 | I Found it! | 0.50% | ~1,437 |
 | Ready Steady Score | 0.20% | ~575 |
 | Contender | 0.10% | ~287 |
@@ -29,9 +29,9 @@ Number of Ratings: 756  (23.09.2022)
 | Dress Code | 0.10% | ~287 |
 | Customizer | 0.10% | ~287 |
 | I know the Rules | 0.10% | ~287 |
-| Catomic Bomb | 0.10% | ~5 |
-| Terraformer | 0.10% | ~5 |
-| Did It for the Dowry | 0.10% | ~5 |
+| Catomic Bomb | 0.10% | ~6 |
+| Terraformer | 0.10% | ~6 |
+| Did It for the Dowry | 0.10% | ~6 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,338 (Ranked 60)  
+Progressed: 287,358 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 286,003 | 0 |
 | 2023-12-24 | 286,498 | 0 |
 | 2023-12-25 | 286,941 | 0 |
-| 2023-12-26 | 287,338 | 0 |
+| 2023-12-26 | 287,358 | 0 |
 ## Awards
 Max (Great for Beginners): 210  (Ranked 289)  
 Sum: 1,628 (Ranked 231)  

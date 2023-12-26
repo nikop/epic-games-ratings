@@ -550,17 +550,17 @@
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -765,8 +765,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:04:54.1930815+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:04:45.364037+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:50.9700241+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:03:05.5224812+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:04:54.193103+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:03:17.8978643+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:04:45.364054+00:00"
 }

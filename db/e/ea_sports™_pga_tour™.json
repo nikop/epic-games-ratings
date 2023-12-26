@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -2645,6 +2645,11 @@
       "Time": "2023-12-26T15:09:44.4970826+00:00",
       "NumProgressed": 730,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T20:10:27.7627423+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2665,7 +2670,7 @@
       "Name": "Holey Moley",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_11",
@@ -2713,7 +2718,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "achievement_17",
@@ -2737,7 +2742,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_3",
@@ -2745,7 +2750,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_4",
@@ -2761,7 +2766,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_6",
@@ -2785,7 +2790,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_9",
@@ -2800,13 +2805,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:10:21.5311366+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:10:27.7627419+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:59:08.8240501+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:10:21.5311606+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:59:08.5736471+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:10:27.7627668+00:00"
 }

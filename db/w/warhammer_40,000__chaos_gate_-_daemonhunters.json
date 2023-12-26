@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3604,
+  "EOS_Progressed": 3606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4926,6 +4926,11 @@
       "Time": "2023-12-26T18:06:12.4006947+00:00",
       "NumProgressed": 3604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T20:06:59.1473783+00:00",
+      "NumProgressed": 3606,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4953,7 +4958,7 @@
       "Name": "Look Over There!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "BloodAndIron",
@@ -5105,7 +5110,7 @@
       "Name": "Not So Fast...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Kills_Bleed",
@@ -5161,7 +5166,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Kills_Streak",
@@ -5185,7 +5190,7 @@
       "Name": "An Ill Omen",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5480,21 +5485,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3604,
+      "Progressed": 3606,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3604,
+      "Progressed": 3606,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:07:09.5015313+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:06:59.1473775+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:03:29.9478694+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:07:09.5015928+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:03:41.6417938+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:06:59.1474388+00:00"
 }

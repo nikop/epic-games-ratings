@@ -73,11 +73,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1849,
+  "EOS_Progressed": 1851,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 35,
-  "EOS_Completed_Percentage": 5.9,
+  "EOS_Completed_Percentage": 5.89,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5363,6 +5363,11 @@
       "Time": "2023-12-26T19:05:20.7658981+00:00",
       "NumProgressed": 1849,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-12-26T20:05:12.0607115+00:00",
+      "NumProgressed": 1851,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 25,
@@ -5374,7 +5379,7 @@
       "Name": "I did it",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "END_GOOD",
@@ -5406,7 +5411,7 @@
       "Name": "A good beginning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "META_HALF_LINK",
@@ -5420,9 +5425,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 352
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5462,7 +5467,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5470,7 +5475,7 @@
       "Name": "Alchemists Express",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5486,7 +5491,7 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5502,7 +5507,7 @@
       "Name": "Fashion victim",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -5518,7 +5523,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5558,22 +5563,22 @@
       "Name": "The darkness",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 407
+      "UsersEstimate": 426
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1849,
+      "Progressed": 1851,
       "Completed": 109
     }
   ],
@@ -5581,8 +5586,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-26T03:57:38.7311575+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:05:20.7658976+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:05:12.0607111+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:58:20.2019154+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:05:20.765938+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:58:19.3032686+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:05:12.0607633+00:00"
 }

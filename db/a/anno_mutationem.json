@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -1126,9 +1126,9 @@
       "ID": "Annakin Skyscroller",
       "SetID": "gl7plp",
       "Name": "Annakin Skyscroller",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 112
     },
     {
       "ID": "Arm_Wrestling",
@@ -1415,8 +1415,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:06:08.2952224+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:05:58.9328103+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.7389862+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:03:07.4302787+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:06:08.2952443+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:03:19.5935371+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:05:58.9328329+00:00"
 }

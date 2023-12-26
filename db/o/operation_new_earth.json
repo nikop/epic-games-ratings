@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2094,
+  "EOS_Progressed": 2095,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8030,6 +8030,11 @@
       "Time": "2023-12-26T16:03:32.0838744+00:00",
       "NumProgressed": 2094,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T20:04:02.055898+00:00",
+      "NumProgressed": 2095,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8121,7 +8126,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_headquarters_15",
@@ -8169,7 +8174,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8217,7 +8222,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8233,7 +8238,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8249,7 +8254,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8265,7 +8270,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8281,7 +8286,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8344,7 +8349,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2094,
+      "Progressed": 2095,
       "Completed": 1
     }
   ],
@@ -8352,8 +8357,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:04:10.4018338+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:04:02.0558977+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:59:34.5299478+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:04:10.401902+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:59:33.1721372+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:04:02.0559638+00:00"
 }

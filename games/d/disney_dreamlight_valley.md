@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~9,012 |
-| Photographer | 67.00% | ~8,880 |
-| Valley's Helper | 60.00% | ~7,952 |
-| Constructor | 50.00% | ~6,626 |
-| Renovator | 50.00% | ~6,626 |
-| Bestest Friend | 45.00% | ~5,964 |
-| Banker | 38.00% | ~5,036 |
-| Gardener | 31.00% | ~4,108 |
-| Generous | 25.00% | ~3,313 |
-| Chef Cook | 19.00% | ~2,518 |
+| Goofy's Investor | 68.00% | ~9,016 |
+| Photographer | 67.00% | ~8,884 |
+| Valley's Helper | 60.00% | ~7,955 |
+| Constructor | 50.00% | ~6,630 |
+| Renovator | 50.00% | ~6,630 |
+| Bestest Friend | 45.00% | ~5,967 |
+| Banker | 38.00% | ~5,038 |
+| Gardener | 31.00% | ~4,110 |
+| Generous | 25.00% | ~3,315 |
+| Chef Cook | 19.00% | ~2,519 |
 | Miner | 11.00% | ~1,458 |
-| Duty Bound | 8.00% | ~1,060 |
-| Angler | 6.00% | ~795 |
-| Thorn Cleaner | 6.00% | ~795 |
+| Duty Bound | 8.00% | ~1,061 |
+| Angler | 6.00% | ~796 |
+| Thorn Cleaner | 6.00% | ~796 |
 | Chit Chatter | 3.00% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,253 (Ranked 168)  
+Progressed: 13,259 (Ranked 168)  
 Completed: 326 (2.46%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,10 +223,10 @@ Completed: 326 (2.46%) (Ranked 126)
 | 2023-12-23 | 13,034 | 325 |
 | 2023-12-24 | 13,094 | 325 |
 | 2023-12-25 | 13,181 | 325 |
-| 2023-12-26 | 13,253 | 326 |
+| 2023-12-26 | 13,259 | 326 |
 ## Awards
 Max (Great for Beginners): 1,157  (Ranked 146)  
-Sum: 8,255 (Ranked 107)  
+Sum: 8,256 (Ranked 107)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 783 |
 | This game has Quickly Understood Controls | 770 |
 | This game has a Creative Community | 722 |
-| This game has Easy Combat | 544 |
+| This game has Easy Combat | 545 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -530,4 +530,4 @@ Diff (max vs sum): 39
 | 2023-12-23 | 4.76 | - | 1,157 | 8,239 |
 | 2023-12-24 | 4.76 | - | 1,157 | 8,244 |
 | 2023-12-25 | 4.76 | - | 1,157 | 8,248 |
-| 2023-12-26 | 4.76 | - | 1,157 | 8,255 |
+| 2023-12-26 | 4.76 | - | 1,157 | 8,256 |

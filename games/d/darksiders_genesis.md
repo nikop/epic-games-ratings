@@ -9,9 +9,9 @@ Number of Ratings: 67  (23.09.2022)
 | Soul Cache | 5.00% | ~12 |
 | Mint I | 4.00% | ~9 |
 | Close the Rift | 1.00% | ~2 |
+| Mammon | 1.00% | ~2 |
 | Astarte | 0.90% | ~2 |
 | Hell's Forge | 0.90% | ~2 |
-| Mammon | 0.90% | ~2 |
 | Master of Strife | 0.90% | ~2 |
 | Master of War | 0.90% | ~2 |
 | Demolition Derby | 0.40% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 401)  
+Progressed: 234 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 171 | 0 |
 | 2023-12-24 | 196 | 0 |
 | 2023-12-25 | 221 | 0 |
-| 2023-12-26 | 233 | 0 |
+| 2023-12-26 | 234 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 462)  
 Sum: 45 (Ranked 507)  

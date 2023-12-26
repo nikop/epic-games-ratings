@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-12-26T05:04:06.261259+00:00",
       "NumProgressed": 270,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T20:05:37.7313095+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -627,15 +632,15 @@
       "Name": "The T-Rex plain.",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "03",
@@ -683,7 +688,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "09",
@@ -746,7 +751,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 6
     }
   ],
@@ -754,8 +759,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:05:46.6280356+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:05:37.731301+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:15.5888401+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:57:39.1521256+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:05:46.6280466+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:57:39.5601842+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:05:37.731321+00:00"
 }

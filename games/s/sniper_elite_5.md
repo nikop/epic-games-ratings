@@ -24,8 +24,8 @@ Rating: 4.45 (Ranked 676)
 | Climbing the Ladder | 17.00% | ~701 |
 | Just a Flesh Wound | 17.00% | ~701 |
 | Der Geist | 17.00% | ~701 |
-| Close Quarters | 16.00% | ~659 |
-| Snake in the Grass | 16.00% | ~659 |
+| Close Quarters | 16.00% | ~660 |
+| Snake in the Grass | 16.00% | ~660 |
 | Skirmisher | 15.00% | ~618 |
 | Die Nussknacker Sweet! | 15.00% | ~618 |
 | Brains of the Operation | 15.00% | ~618 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 676)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,121 (Ranked 206)  
+Progressed: 4,122 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-23 | 4,097 | 11 |
 | 2023-12-24 | 4,106 | 11 |
 | 2023-12-25 | 4,109 | 11 |
-| 2023-12-26 | 4,121 | 11 |
+| 2023-12-26 | 4,122 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 540)  

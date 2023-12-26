@@ -1,42 +1,42 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.83 (Ranked 59)  
+Rating: 4.83 (Ranked 58)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~237,747 |
-| Private Club | 73.00% | ~190,720 |
-| Rogue Guild | 65.00% | ~169,819 |
-| I Watched the Intro | 57.00% | ~148,918 |
-| Covert Consortium | 54.00% | ~141,080 |
-| Goat Queen | 53.00% | ~138,468 |
-| Reach the Stratosphere | 50.00% | ~130,630 |
-| Synchronization Complete | 47.00% | ~122,792 |
-| Secret Society | 44.00% | ~114,954 |
-| Shadow Syndicate | 37.00% | ~96,666 |
-| What a Waste of Money | 33.00% | ~86,216 |
-| New Goat Order | 30.00% | ~78,378 |
-| Don't touch the servers | 28.00% | ~73,153 |
-| Real Buoy | 27.00% | ~70,540 |
-| San Angora: Become Human | 26.00% | ~67,928 |
-| Raider of the Lost Parking Garage | 26.00% | ~67,928 |
-| Welcome to Earth | 25.00% | ~65,315 |
-| Egg Simulator | 19.00% | ~49,639 |
-| Into the Matrix | 19.00% | ~49,639 |
-| Where is It? | 17.00% | ~44,414 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~39,189 |
-| 401(K.O.) | 15.00% | ~39,189 |
-| Black Market | 14.00% | ~36,576 |
-| Car Cave | 12.00% | ~31,351 |
-| Club Mohair | 8.00% | ~20,901 |
-| A Center for Ants? | 8.00% | ~20,901 |
-| French Fika | 7.00% | ~18,288 |
-| Nasty! | 5.00% | ~13,063 |
-| Who Baywatches the Baywatch? | 4.00% | ~10,450 |
-| [REDACTED] | 4.00% | ~10,450 |
-| Cannibanana | 2.00% | ~5,225 |
-| Daredevil | 2.00% | ~5,225 |
+| Forgotten Sorority | 91.00% | ~237,771 |
+| Private Club | 73.00% | ~190,740 |
+| Rogue Guild | 65.00% | ~169,837 |
+| I Watched the Intro | 57.00% | ~148,934 |
+| Covert Consortium | 54.00% | ~141,095 |
+| Goat Queen | 53.00% | ~138,482 |
+| Reach the Stratosphere | 50.00% | ~130,644 |
+| Synchronization Complete | 47.00% | ~122,805 |
+| Secret Society | 44.00% | ~114,966 |
+| Shadow Syndicate | 37.00% | ~96,676 |
+| What a Waste of Money | 33.00% | ~86,225 |
+| New Goat Order | 30.00% | ~78,386 |
+| Don't touch the servers | 28.00% | ~73,160 |
+| Real Buoy | 27.00% | ~70,547 |
+| San Angora: Become Human | 26.00% | ~67,935 |
+| Raider of the Lost Parking Garage | 26.00% | ~67,935 |
+| Welcome to Earth | 25.00% | ~65,322 |
+| Egg Simulator | 19.00% | ~49,645 |
+| Into the Matrix | 19.00% | ~49,645 |
+| Where is It? | 17.00% | ~44,419 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~39,193 |
+| 401(K.O.) | 15.00% | ~39,193 |
+| Black Market | 14.00% | ~36,580 |
+| Car Cave | 12.00% | ~31,354 |
+| Club Mohair | 8.00% | ~20,903 |
+| A Center for Ants? | 8.00% | ~20,903 |
+| French Fika | 7.00% | ~18,290 |
+| Nasty! | 5.00% | ~13,064 |
+| Who Baywatches the Baywatch? | 4.00% | ~10,451 |
+| [REDACTED] | 4.00% | ~10,451 |
+| Cannibanana | 2.00% | ~5,226 |
+| Daredevil | 2.00% | ~5,226 |
 | Crocsquatch | 1.00% | ~2,613 |
 | You Trusted Your Instincts | 1.00% | ~2,613 |
 | Certified Fresh | 1.00% | ~2,613 |
@@ -45,7 +45,7 @@ Rating: 4.83 (Ranked 59)
 | Move! That! Bus! | 0.60% | ~1,568 |
 | G.O.A.T | 0.40% | ~1,045 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,260 (Ranked 62)  
+Progressed: 261,287 (Ranked 62)  
 Completed: 920 (0.35%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,14 +295,14 @@ Completed: 920 (0.35%) (Ranked 240)
 | 2023-12-23 | 259,676 | 918 |
 | 2023-12-24 | 260,219 | 918 |
 | 2023-12-25 | 260,833 | 920 |
-| 2023-12-26 | 261,260 | 920 |
+| 2023-12-26 | 261,287 | 920 |
 ## Awards
-Max (Great for Beginners): 519  (Ranked 215)  
-Sum: 4,208 (Ranked 157)  
+Max (Great for Beginners): 521  (Ranked 215)  
+Sum: 4,210 (Ranked 157)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 519 |
+| This game is Great for Beginners | 521 |
 | This game has Diverse Characters | 480 |
 | This game is Highly Recommended | 448 |
 | This game has Amazing Characters | 421 |
@@ -589,4 +589,4 @@ Diff (max vs sum): 58
 | 2023-12-23 | 4.83 | 516 | 4,182 |
 | 2023-12-24 | 4.83 | 518 | 4,194 |
 | 2023-12-25 | 4.83 | 519 | 4,206 |
-| 2023-12-26 | 4.83 | 519 | 4,208 |
+| 2023-12-26 | 4.83 | 521 | 4,210 |

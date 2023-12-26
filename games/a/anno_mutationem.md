@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 514)
 | Deadly Kombationem | 19.00% | ~152 |
 | You are the One | 19.00% | ~152 |
 | The truth is out there | 16.00% | ~128 |
-| Annakin Skyscroller | 13.00% | ~104 |
+| Annakin Skyscroller | 14.00% | ~112 |
 | In the smacker...I think | 10.00% | ~80 |
 | Arm Wrestlin' | 9.00% | ~72 |
 | 1+1>2 | 9.00% | ~72 |

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1045,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4034,6 +4034,11 @@
       "Time": "2023-12-26T13:12:22.0925549+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T20:10:56.1469234+00:00",
+      "NumProgressed": 1045,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4061,7 +4066,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "BigPlane",
@@ -4069,7 +4074,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "BudgetFlight",
@@ -4155,9 +4160,9 @@
       "ID": "Hundred",
       "SetID": "1e89b4i",
       "Name": "One Hundred",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 42
     },
     {
       "ID": "Incredible",
@@ -4380,14 +4385,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1045,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:10:50.734109+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:10:56.1469232+00:00",
   "LastUpdate_AppInfo": "2023-12-19T19:57:14.5538478+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:02:57.4032261+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:10:50.7341706+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:03:10.1958959+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:10:56.1469691+00:00"
 }

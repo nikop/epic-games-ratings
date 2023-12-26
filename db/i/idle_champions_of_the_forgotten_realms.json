@@ -6,8 +6,8 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9085,10 +9085,10 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244965,
+  "EOS_Progressed": 244985,
   "EOS_Completed": 2566,
   "EOS_NewPlayers": 2902,
-  "EOS_NewCompleters": 23,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37375,6 +37375,11 @@
       "Time": "2023-12-26T19:11:00.0349732+00:00",
       "NumProgressed": 244965,
       "NumCompleted": 2566
+    },
+    {
+      "Time": "2023-12-26T20:11:04.7183006+00:00",
+      "NumProgressed": 244985,
+      "NumCompleted": 2566
     }
   ],
   "TotalAchievements": 546,
@@ -37386,7 +37391,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "objective_completed_10",
@@ -41658,7 +41663,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_1352",
@@ -41666,7 +41671,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_1557",
@@ -41690,7 +41695,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "objective_completed_1563",
@@ -41753,21 +41758,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211239,
+      "Progressed": 211259,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244965,
+      "Progressed": 244985,
       "Completed": 2566
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-26T10:57:56.5377084+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:11:00.0349728+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:11:04.7183005+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:58:40.0257162+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:11:00.0373822+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:58:37.1450156+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:11:04.7205567+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
@@ -570,11 +570,11 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17409,
+  "EOS_Progressed": 17412,
   "EOS_Completed": 121,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:32.3721818+00:00",
@@ -17070,6 +17070,11 @@
       "Time": "2023-12-26T19:08:45.8156631+00:00",
       "NumProgressed": 17409,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-26T20:08:54.1090102+00:00",
+      "NumProgressed": 17412,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 41,
@@ -17097,7 +17102,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "tpote_achievement_12",
@@ -17105,7 +17110,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "tpote_achievement_13",
@@ -17113,7 +17118,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "tpote_achievement_14",
@@ -17121,7 +17126,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "tpote_achievement_15",
@@ -17137,7 +17142,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "tpote_achievement_17",
@@ -17145,7 +17150,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "tpote_achievement_18",
@@ -17169,7 +17174,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     },
     {
       "ID": "tpote_achievement_20",
@@ -17225,7 +17230,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "tpote_achievement_27",
@@ -17257,7 +17262,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "tpote_achievement_30",
@@ -17281,7 +17286,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "tpote_achievement_33",
@@ -17321,7 +17326,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "tpote_achievement_38",
@@ -17345,7 +17350,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6964
+      "UsersEstimate": 6965
     },
     {
       "ID": "tpote_achievement_40",
@@ -17369,7 +17374,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "tpote_achievement_6",
@@ -17377,7 +17382,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "tpote_achievement_7",
@@ -17393,7 +17398,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "tpote_achievement_9",
@@ -17401,22 +17406,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5919
+      "UsersEstimate": 5920
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17409,
+      "Progressed": 17412,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:08:45.8156626+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:08:54.1090097+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:59:29.3024347+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:08:45.8157653+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:59:28.3889428+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:08:54.1091014+00:00"
 }

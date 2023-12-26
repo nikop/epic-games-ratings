@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,623 |
+| Oyedang, Kopengs | 15.00% | ~2,624 |
 | Captain Drummer | 11.00% | ~1,924 |
 | Celebrations are in Order | 11.00% | ~1,924 |
 | The Pit and the Pirates | 10.00% | ~1,749 |
@@ -16,17 +16,17 @@ Rating: 4.55 (Ranked 514)
 | Spore Taste | 9.00% | ~1,574 |
 | Zen Master | 9.00% | ~310 |
 | Stogie for Fogey | 8.00% | ~1,399 |
-| Safe Cracker | 8.00% | ~275 |
-| Madame Undersecretary | 8.00% | ~275 |
-| Heal Thy Medic | 7.00% | ~1,224 |
-| Call it Even | 7.00% | ~1,224 |
+| Safe Cracker | 8.00% | ~276 |
+| Madame Undersecretary | 8.00% | ~276 |
+| Heal Thy Medic | 7.00% | ~1,225 |
+| Call it Even | 7.00% | ~1,225 |
 | Keep Arjun in Check | 7.00% | ~241 |
-| Data Archivist | 6.00% | ~1,049 |
-| Drug Gifter | 6.00% | ~1,049 |
-| Khan's Revenge | 6.00% | ~1,049 |
-| Doctor Approved | 5.00% | ~874 |
-| Bottoms up! | 5.00% | ~874 |
-| Thorston Mayer | 5.00% | ~874 |
+| Data Archivist | 6.00% | ~1,050 |
+| Drug Gifter | 6.00% | ~1,050 |
+| Khan's Revenge | 6.00% | ~1,050 |
+| Doctor Approved | 5.00% | ~875 |
+| Bottoms up! | 5.00% | ~875 |
+| Thorston Mayer | 5.00% | ~875 |
 | Master Negotiator | 5.00% | ~172 |
 | Data Logger | 3.00% | ~525 |
 | Miraculous Maya | 3.00% | ~525 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 514)
 | Scavenger Star | 0.30% | ~52 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,487 (Ranked 156)  
+Progressed: 17,493 (Ranked 156)  
 Completed: 53 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 53 (0.30%) (Ranked 254)
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
-| 2023-12-26 | 17,487 | 53 |
+| 2023-12-26 | 17,493 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
@@ -2252,6 +2252,11 @@
       "Time": "2023-12-26T18:09:33.8639636+00:00",
       "NumProgressed": 665,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T20:09:50.5803198+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2263,7 +2268,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2295,7 +2300,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2317,9 +2322,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -2327,7 +2332,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2351,7 +2356,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2415,7 +2420,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2423,7 +2428,7 @@
       "Name": "Trader",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2431,7 +2436,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2519,7 +2524,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2543,7 +2548,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -2599,7 +2604,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2622,7 +2627,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 2
     }
   ],
@@ -2630,8 +2635,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:09:44.0952195+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:09:50.5803196+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:02:31.0611444+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:09:44.0952532+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:01:46.4659572+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:09:50.5803599+00:00"
 }

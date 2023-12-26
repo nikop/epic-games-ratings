@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
+| Furious Family | 0.30% | ~48 |
 | Great Ziggurat | 0.30% | ~48 |
 | Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
@@ -59,7 +60,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
-| Furious Family | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
 | Apadana | 0.20% | ~32 |

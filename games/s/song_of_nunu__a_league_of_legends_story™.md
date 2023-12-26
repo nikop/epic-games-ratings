@@ -11,8 +11,8 @@ Rating: 4.52 (Ranked 564)
 | Blue Dreams | 66.00% | ~888 |
 | Notai Notes | 66.00% | ~888 |
 | He's Famous! | 65.00% | ~874 |
+| Cutie Poro | 65.00% | ~874 |
 | Krugmazing | 64.00% | ~861 |
-| Cutie Poro | 64.00% | ~861 |
 | The Fire Below the Mountain | 61.00% | ~820 |
 | Moneyball | 60.00% | ~807 |
 | No Bites | 55.00% | ~740 |
@@ -22,7 +22,7 @@ Rating: 4.52 (Ranked 564)
 | My Darkest Day | 48.00% | ~646 |
 | Rhythm Of Willump | 46.00% | ~619 |
 | The Relentless Storm | 46.00% | ~619 |
-| A Tragic Reminder | 44.00% | ~592 |
+| A Tragic Reminder | 45.00% | ~605 |
 | 3000 Year Blackout | 44.00% | ~592 |
 | So Close | 42.00% | ~565 |
 | The Finisher | 42.00% | ~565 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 564)
 | Sneaky Notai | 1.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,345 (Ranked 260)  
-Completed: 9 (0.67%) (Ranked 200)  
+Completed: 9 (0.67%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

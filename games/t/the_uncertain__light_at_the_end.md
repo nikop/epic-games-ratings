@@ -7,7 +7,7 @@ Rating: 3.82 (Ranked 1,055)
 | ---- | ---------- | ----- |
 | Bundle of Joy | 51.00% | ~313 |
 | A Friend in Need... | 45.00% | ~276 |
-| Bosom Buddies | 30.00% | ~184 |
+| Bosom Buddies | 31.00% | ~190 |
 | Beat the Heat | 24.00% | ~147 |
 | A Familiar Face | 15.00% | ~92 |
 | Unexpected Consequences | 13.00% | ~80 |
@@ -36,7 +36,7 @@ Rating: 3.82 (Ranked 1,055)
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 613 (Ranked 321)  
-Completed: 6 (0.98%) (Ranked 175)  
+Completed: 6 (0.98%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

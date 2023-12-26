@@ -10096,10 +10096,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21108,
       "NumberOfAwardsMax": 7875
+    },
+    {
+      "Time": "2023-12-26T19:59:43.4923176+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21112,
+      "NumberOfAwardsMax": 7875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21108,
+  "NumberOfAwards": 21112,
   "NumberOfAwardsMax": 7875,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10137,7 +10143,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1380
+      "Count": 1384
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10176,9 +10182,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 130032,
+  "EOS_Progressed": 130044,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36931,6 +36937,11 @@
       "Time": "2023-12-26T19:10:03.9638398+00:00",
       "NumProgressed": 130032,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T20:10:10.387357+00:00",
+      "NumProgressed": 130044,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36950,7 +36961,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37102,7 +37113,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37142,7 +37153,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37158,7 +37169,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "combat_kill_librarian",
@@ -37166,7 +37177,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37182,7 +37193,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37476,9 +37487,9 @@
       "ID": "combat_kill_chirurgeon",
       "SetID": "d3bcpc8",
       "Name": "Malpractice Assurance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 540
     },
     {
       "ID": "combat_kill_collector",
@@ -37486,7 +37497,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37526,7 +37537,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37534,7 +37545,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "quest_complete_crusader",
@@ -37542,7 +37553,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37573,21 +37584,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130032,
+      "Progressed": 130044,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4901,
+      "Progressed": 4913,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-26T07:58:34.6714656+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:10:03.9638393+00:00",
+  "LastChanged": "2023-12-26T19:59:43.4923175+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:10:10.3873566+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:59:44.7255011+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:10:03.9640261+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:59:43.4923182+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:10:10.3875053+00:00"
 }

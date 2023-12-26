@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1667,
+  "EOS_Progressed": 1669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4052,6 +4052,11 @@
       "Time": "2023-12-26T19:07:55.5004225+00:00",
       "NumProgressed": 1667,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T20:07:44.6829228+00:00",
+      "NumProgressed": 1669,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4222,9 +4227,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4398,9 +4403,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4431,20 +4436,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1667,
+      "Progressed": 1669,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1335,
+      "Progressed": 1337,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:07:55.500422+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:07:44.6829224+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:00:48.8893051+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:07:55.5004629+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:00:48.4186147+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:07:44.6829764+00:00"
 }

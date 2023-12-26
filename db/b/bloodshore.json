@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -610,6 +610,11 @@
       "Time": "2023-12-26T15:04:20.3466861+00:00",
       "NumProgressed": 252,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T20:05:31.003915+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -619,9 +624,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "comedy_killer",
@@ -661,7 +666,7 @@
       "Name": "A leader, you are not",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "lootaphilia",
@@ -669,15 +674,15 @@
       "Name": "Lootaphilia",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "mikey_lizard",
@@ -756,7 +761,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 6
     }
   ],
@@ -764,8 +769,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:05:39.7035242+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:05:31.0039148+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.6858803+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:03:38.9676049+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:05:39.7035328+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:03:49.9620961+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:05:31.0039266+00:00"
 }

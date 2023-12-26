@@ -10,7 +10,7 @@
 | Broken toy | 78.00% | ~182 |
 | Egghead Lucy | 76.00% | ~177 |
 | Puppy | 64.00% | ~149 |
-| Coal's fur | 58.00% | ~135 |
+| Coal's fur | 59.00% | ~137 |
 | Blue's drawing | 52.00% | ~121 |
 | Mysterious footprints | 48.00% | ~112 |
 | Glass shards | 45.00% | ~105 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~12 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 401)  
+Progressed: 233 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

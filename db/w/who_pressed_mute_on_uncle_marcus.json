@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.29,
+  "EOS_Completed_Percentage": 10.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -715,6 +715,11 @@
       "Time": "2023-12-26T17:10:53.1787829+00:00",
       "NumProgressed": 272,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-26T20:10:28.0822198+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 17,
@@ -726,7 +731,7 @@
       "Name": "And away we go!",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "bless_the_rain",
@@ -734,7 +739,7 @@
       "Name": "I bless the rain down in London",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "blow",
@@ -764,9 +769,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -798,7 +803,7 @@
       "Name": "Just like me",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "making_a_murderer",
@@ -822,7 +827,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "the_truth",
@@ -861,7 +866,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 28
     }
   ],
@@ -869,8 +874,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:10:21.7623077+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:10:28.0822195+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:09.2379523+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:00:04.071809+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:10:21.7623224+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:00:02.5411347+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:10:28.0822319+00:00"
 }

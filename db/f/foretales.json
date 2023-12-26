@@ -258,9 +258,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "chapter2",
@@ -571,8 +571,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-12-26T19:08:34.9584853+00:00",
+  "LastChanged_Achievements": "2023-12-26T20:08:43.4136173+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:17.7200485+00:00",
-  "LastUpdate_Ratings": "2023-12-26T19:00:28.1242699+00:00",
-  "LastUpdate_Achievements": "2023-12-26T19:08:34.9585189+00:00"
+  "LastUpdate_Ratings": "2023-12-26T20:00:27.2038784+00:00",
+  "LastUpdate_Achievements": "2023-12-26T20:08:43.4136385+00:00"
 }

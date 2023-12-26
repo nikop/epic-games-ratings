@@ -12,8 +12,8 @@
 | Charmed by the Hunt | 47.00% | ~430 |
 | Mountain Splitter | 46.00% | ~421 |
 | Subsistence Skills | 46.00% | ~421 |
+| Memory Rouser | 45.00% | ~412 |
 | Fusion Conjuror | 44.00% | ~403 |
-| Memory Rouser | 44.00% | ~403 |
 | Kemono Hunter | 39.00% | ~357 |
 | Helpful Heart | 38.00% | ~348 |
 | Expert Conjuror | 37.00% | ~339 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 3.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 915 (Ranked 285)  
-Completed: 8 (0.87%) (Ranked 186)  
+Completed: 8 (0.87%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
