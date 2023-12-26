@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1655,
+  "EOS_Progressed": 1656,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4027,6 +4027,11 @@
       "Time": "2023-12-26T03:07:37.3868876+00:00",
       "NumProgressed": 1655,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T08:05:36.8512364+00:00",
+      "NumProgressed": 1656,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4069,9 +4074,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4189,9 +4194,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4406,20 +4411,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1655,
+      "Progressed": 1656,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:06:32.2590501+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:05:36.8512362+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:43.5788233+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:06:32.2591039+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:19.9640841+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:05:36.8512744+00:00"
 }

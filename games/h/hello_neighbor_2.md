@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 690)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Raven Brooks | 78.00% | ~2,828 |
+| Welcome to Raven Brooks | 79.00% | ~2,865 |
 | Case Closed | 36.00% | ~1,305 |
 | Shovel Night | 36.00% | ~1,305 |
 | Easy As Pie | 33.00% | ~1,197 |

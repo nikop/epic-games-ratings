@@ -16,12 +16,12 @@
 | Slotting Machine | 42.00% | ~78 |
 | Mine Sweeper | 35.00% | ~65 |
 | Roll Out | 35.00% | ~65 |
-| Dopa-Miner | 28.00% | ~52 |
+| Dopa-Miner | 29.00% | ~54 |
 | Whoa! | 28.00% | ~52 |
 | Up, Up And Away! | 27.00% | ~50 |
 | Botropolis | 24.00% | ~45 |
+| Manic Mechanic | 18.00% | ~33 |
 | Steam Powered | 18.00% | ~33 |
-| Manic Mechanic | 17.00% | ~32 |
 | Steaming Rich | 17.00% | ~32 |
 | Room To Spare | 15.00% | ~28 |
 | Click 'Em All | 4.00% | ~7 |

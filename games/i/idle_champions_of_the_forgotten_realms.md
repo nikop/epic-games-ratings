@@ -22,14 +22,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.30% | ~633 |
 | Don't Lose Your Head | 0.30% | ~633 |
 | Mind Spike | 0.30% | ~633 |
-| Maddening | 0.20% | ~489 |
-| Were-verpowered | 0.20% | ~489 |
-| A Persistent Buzzing | 0.20% | ~489 |
-| Terror in the Dark | 0.20% | ~489 |
-| Seeking Allies | 0.20% | ~489 |
-| Mad Cow Disease | 0.20% | ~489 |
-| Friendly Imps | 0.20% | ~489 |
-| Pure Energy | 0.20% | ~489 |
+| Maddening | 0.20% | ~490 |
+| Were-verpowered | 0.20% | ~490 |
+| A Persistent Buzzing | 0.20% | ~490 |
+| Terror in the Dark | 0.20% | ~490 |
+| Seeking Allies | 0.20% | ~490 |
+| Mad Cow Disease | 0.20% | ~490 |
+| Friendly Imps | 0.20% | ~490 |
+| Pure Energy | 0.20% | ~490 |
 | Arcane Suppression | 0.20% | ~422 |
 | Welcome to the Vrocks | 0.20% | ~422 |
 | Pros and CONs | 0.10% | ~245 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,748 (Ranked 67)  
+Progressed: 244,759 (Ranked 67)  
 Completed: 2,564 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -803,7 +803,7 @@ Completed: 2,564 (1.05%) (Ranked 168)
 | 2023-12-23 | 243,900 | 2,557 |
 | 2023-12-24 | 244,276 | 2,558 |
 | 2023-12-25 | 244,638 | 2,562 |
-| 2023-12-26 | 244,748 | 2,564 |
+| 2023-12-26 | 244,759 | 2,564 |
 ## Awards
 Max (Great for Beginners): 5,696  (Ranked 71)  
 Sum: 33,094 (Ranked 41)  

@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 957,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 951,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -625,15 +625,21 @@
       "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-26T07:57:32.1915994+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10659,
+  "EOS_Progressed": 10662,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -13586,6 +13592,11 @@
       "Time": "2023-12-26T07:06:30.9357201+00:00",
       "NumProgressed": 10659,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-26T08:05:35.6539524+00:00",
+      "NumProgressed": 10662,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 29,
@@ -13597,7 +13608,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8847
+      "UsersEstimate": 8849
     },
     {
       "ID": "ACH02",
@@ -13605,7 +13616,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3625
     },
     {
       "ID": "ACH03",
@@ -13621,7 +13632,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4052
     },
     {
       "ID": "ACH05",
@@ -13701,7 +13712,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACH15",
@@ -13717,7 +13728,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "ACH17",
@@ -13725,7 +13736,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ACH18",
@@ -13828,16 +13839,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10659,
+      "Progressed": 10662,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-12-25T08:02:48.3065291+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:06:30.9357196+00:00",
+  "LastChanged": "2023-12-26T07:57:32.1915992+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:05:35.6539522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:57:41.373533+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:06:30.9358012+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:57:32.1915997+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:05:35.6540226+00:00"
 }

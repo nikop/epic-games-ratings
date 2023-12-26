@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 194 (Ranked 414)  
-Completed: 1 (0.52%) (Ranked 216)  
+Completed: 1 (0.52%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,8 +83,8 @@ Completed: 1 (0.52%) (Ranked 216)
 | 2023-12-25 | 191 | 1 |
 | 2023-12-26 | 194 | 1 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 489)  
-Sum: 36 (Ranked 521)  
+Max (Great Boss Battles): 36  (Ranked 488)  
+Sum: 36 (Ranked 520)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |

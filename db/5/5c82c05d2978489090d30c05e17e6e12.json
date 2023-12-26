@@ -3,8 +3,8 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 984,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 70,
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70361,
+  "EOS_Progressed": 70366,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 2160,
+  "EOS_NewPlayers": 2159,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4957,6 +4957,11 @@
       "Time": "2023-12-26T07:07:48.4941504+00:00",
       "NumProgressed": 70361,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-12-26T08:05:50.5774248+00:00",
+      "NumProgressed": 70366,
+      "NumCompleted": 97
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -4969,7 +4974,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26034
+      "UsersEstimate": 26035
     },
     {
       "ID": "Achievement_10",
@@ -4983,9 +4988,9 @@
       "ID": "Achievement_11",
       "SetID": "2md12pi",
       "Name": "Owls of the Nest",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 633
     },
     {
       "ID": "Achievement_12",
@@ -5001,7 +5006,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "Achievement_14",
@@ -5057,7 +5062,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18997
+      "UsersEstimate": 18999
     },
     {
       "ID": "Achievement_20",
@@ -5097,7 +5102,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "Achievement_25",
@@ -5145,7 +5150,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8443
+      "UsersEstimate": 8444
     },
     {
       "ID": "Achievement_30",
@@ -5193,7 +5198,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "Achievement_5",
@@ -5209,7 +5214,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "Achievement_7",
@@ -5240,7 +5245,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70361,
+      "Progressed": 70366,
       "Completed": 97
     }
   ],
@@ -5248,8 +5253,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:07:48.4941499+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:05:50.5774246+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:07.2029033+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:07:48.4942269+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:02:49.3053179+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:05:50.577466+00:00"
 }

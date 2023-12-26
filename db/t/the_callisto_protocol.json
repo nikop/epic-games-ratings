@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 936,
-  "Ranking_Popularity": 370,
+  "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 229,
@@ -1841,9 +1841,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19322,
+  "EOS_Progressed": 19326,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11231,6 +11231,11 @@
       "Time": "2023-12-26T07:09:40.1790421+00:00",
       "NumProgressed": 19322,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-26T08:09:00.7898861+00:00",
+      "NumProgressed": 19326,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11250,7 +11255,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -11258,7 +11263,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -11266,7 +11271,7 @@
       "Name": "You Need a Gun",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "DISARM_ENEMY",
@@ -11274,7 +11279,7 @@
       "Name": "Flesh Wound",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11306,7 +11311,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -11322,7 +11327,7 @@
       "Name": "Recidivist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -11370,7 +11375,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "KILL_ROBOT",
@@ -11386,7 +11391,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11434,7 +11439,7 @@
       "Name": "The Outer Way",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11442,7 +11447,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "STORY_HABITAT",
@@ -11530,7 +11535,7 @@
       "Name": "Bear Trap",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -11554,7 +11559,7 @@
       "Name": "Big Spender",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -11578,7 +11583,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FINISH_DLC4",
@@ -11602,7 +11607,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -11617,13 +11622,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19322,
+      "Progressed": 19326,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7248,
+      "Progressed": 7252,
       "Completed": 29
     }
   ],
@@ -11631,8 +11636,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-25T22:03:12.4922921+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:09:40.1790416+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:09:00.7898859+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:16.8800377+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:09:40.1791054+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:02:57.4743845+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:09:00.7899428+00:00"
 }

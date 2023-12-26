@@ -3,11 +3,11 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 623,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -4760,9 +4760,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 396
+      "UsersEstimate": 410
     },
     {
       "ID": "MQ06_2",
@@ -4849,8 +4849,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-25T11:02:59.9594634+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:58.4320904+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:05:06.6628382+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:12.5290536+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:58.4321306+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:02:53.709595+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:05:06.6628743+00:00"
 }

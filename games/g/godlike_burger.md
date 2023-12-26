@@ -5,18 +5,18 @@ Rating: 4.50 (Ranked 605)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~176,143 |
-| FIRST BLOOD | 40.00% | ~156,571 |
-| KEVIN! | 30.00% | ~117,428 |
-| JACK OF ALL TRADES | 23.00% | ~90,028 |
-| CRIMINAL | 20.00% | ~78,286 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,057 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,229 |
-| HONORS STUDENT | 8.00% | ~31,314 |
+| MASTER CHEF | 45.00% | ~176,148 |
+| FIRST BLOOD | 40.00% | ~156,576 |
+| KEVIN! | 30.00% | ~117,432 |
+| JACK OF ALL TRADES | 23.00% | ~90,031 |
+| CRIMINAL | 20.00% | ~78,288 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,059 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,230 |
+| HONORS STUDENT | 8.00% | ~31,315 |
 | BUTCHER | 6.00% | ~23,486 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,571 |
-| RAMBO | 5.00% | ~19,571 |
-| HELL'S KITCHEN | 4.00% | ~15,657 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,572 |
+| RAMBO | 5.00% | ~19,572 |
+| HELL'S KITCHEN | 4.00% | ~15,658 |
 | CELEBRITY | 3.00% | ~11,743 |
 | MARTYR | 3.00% | ~11,743 |
 | GRATITUDE | 2.00% | ~7,829 |
@@ -25,7 +25,7 @@ Rating: 4.50 (Ranked 605)
 | GOURMET | 1.00% | ~3,914 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,914 |
 | PRUDENT | 1.00% | ~3,914 |
-| SCATTERBRAIN | 0.80% | ~3,131 |
+| SCATTERBRAIN | 0.80% | ~3,132 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,740 |
 | TASTE UNTASTY | 0.60% | ~2,349 |
 | DEBTOR | 0.20% | ~783 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 605)
 | MISTER ALL THUMBS | 0.10% | ~391 |
 | TRAVELER | 0.10% | ~391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391,428 (Ranked 47)  
+Progressed: 391,441 (Ranked 47)  
 Completed: 53 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 53 (0.01%) (Ranked 367)
 | 2023-12-23 | 389,967 | 53 |
 | 2023-12-24 | 390,653 | 53 |
 | 2023-12-25 | 391,232 | 53 |
-| 2023-12-26 | 391,428 | 53 |
+| 2023-12-26 | 391,441 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

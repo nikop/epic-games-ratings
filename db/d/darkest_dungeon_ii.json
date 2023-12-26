@@ -10090,10 +10090,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21105,
       "NumberOfAwardsMax": 7875
+    },
+    {
+      "Time": "2023-12-26T07:58:34.6714658+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21108,
+      "NumberOfAwardsMax": 7875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21105,
+  "NumberOfAwards": 21108,
   "NumberOfAwardsMax": 7875,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10119,7 +10125,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1491
+      "Count": 1494
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10170,9 +10176,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 129911,
+  "EOS_Progressed": 129916,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1459,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36865,6 +36871,11 @@
       "Time": "2023-12-26T07:09:39.9298731+00:00",
       "NumProgressed": 129911,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T08:09:00.5668083+00:00",
+      "NumProgressed": 129916,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36884,7 +36895,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37036,7 +37047,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37076,7 +37087,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37092,7 +37103,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "combat_kill_librarian",
@@ -37100,7 +37111,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37116,7 +37127,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37484,7 +37495,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -37507,21 +37518,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129911,
+      "Progressed": 129916,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4780,
+      "Progressed": 4785,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-26T05:59:46.3478351+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:09:39.9298726+00:00",
+  "LastChanged": "2023-12-26T07:58:34.6714656+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:09:00.5668081+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:58:54.8432063+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:09:39.9300568+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:58:34.6714662+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:09:00.5669571+00:00"
 }

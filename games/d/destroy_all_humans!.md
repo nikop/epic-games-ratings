@@ -8,21 +8,21 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 67.00% | ~110 |
 | Kaijuiced | 66.00% | ~108 |
-| Lie Back and Think of Albion | 59.00% | ~97 |
+| Lie Back and Think of Albion | 60.00% | ~98 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~95 |
 | Yettisoned | 57.00% | ~93 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~93 |
-| I Look Up As I Walk to Takoshima | 52.00% | ~85 |
-| Perfect Probulator | 51.00% | ~84 |
-| Lobster Blisque | 49.00% | ~80 |
-| Pimp My Raid | 46.00% | ~75 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~89 |
+| Perfect Probulator | 52.00% | ~85 |
+| Lobster Blisque | 50.00% | ~82 |
+| Pimp My Raid | 47.00% | ~77 |
 | Earthly Pleasures | 44.00% | ~72 |
-| Fly Me to the Moon Base | 42.00% | ~69 |
-| Ducks in a Row, Fish in a Barrel | 41.00% | ~67 |
+| Fly Me to the Moon Base | 43.00% | ~71 |
+| Ducks in a Row, Fish in a Barrel | 43.00% | ~71 |
 | Freshly Squeezed | 32.00% | ~52 |
-| Bodied Sattva | 31.00% | ~51 |
+| Bodied Sattva | 32.00% | ~52 |
 | Forbidden Donut | 30.00% | ~49 |
 | Upgreatest | 30.00% | ~49 |
-| Furon Fashion | 24.00% | ~39 |
+| Furon Fashion | 26.00% | ~43 |
 | Deincarnated | 23.00% | ~38 |
 | Rock of the Bay | 23.00% | ~38 |
 | Trans-Siberian Express | 23.00% | ~38 |
@@ -62,8 +62,8 @@ Completed: 1 (0.61%) (Ranked 201)
 | 2023-12-25 | 161 | 1 |
 | 2023-12-26 | 164 | 1 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 500)  
-Sum: 34 (Ranked 524)  
+Max (Great Boss Battles): 34  (Ranked 499)  
+Sum: 34 (Ranked 523)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |

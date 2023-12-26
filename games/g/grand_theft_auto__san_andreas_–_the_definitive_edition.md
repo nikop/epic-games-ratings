@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,678 |
-| Pay 'n' Spray | 50.00% | ~8,443 |
-| All Dressed Up for San Fierro | 25.00% | ~4,222 |
-| The American Dream | 18.00% | ~3,039 |
+| Getting Started | 81.00% | ~13,682 |
+| Pay 'n' Spray | 50.00% | ~8,446 |
+| All Dressed Up for San Fierro | 25.00% | ~4,223 |
+| The American Dream | 18.00% | ~3,040 |
 | School's Out | 17.00% | ~2,871 |
-| Smooth Moves | 16.00% | ~2,702 |
-| Today Was a Good Day | 15.00% | ~2,533 |
-| What happens in Las Venturas... | 14.00% | ~2,364 |
+| Smooth Moves | 16.00% | ~2,703 |
+| Today Was a Good Day | 15.00% | ~2,534 |
+| What happens in Las Venturas... | 14.00% | ~2,365 |
 | Horror of the Santa Maria | 10.00% | ~1,689 |
 | Liberty City State of Mind | 9.00% | ~1,520 |
 | Original Gangster | 8.00% | ~1,351 |
 | With Extra Dip | 7.00% | ~1,182 |
 | The End of the Line | 7.00% | ~1,182 |
 | Saviour | 6.00% | ~1,013 |
-| Rescue a Kitten Too? | 5.00% | ~844 |
-| They Can’t Stop All of Us | 4.00% | ~675 |
-| What are the Odds | 4.00% | ~675 |
+| Rescue a Kitten Too? | 5.00% | ~845 |
+| They Can’t Stop All of Us | 4.00% | ~676 |
+| What are the Odds | 4.00% | ~676 |
 | Bike or Biker | 3.00% | ~507 |
 | What the City Needs | 3.00% | ~507 |
 | A Legitimate Business | 2.00% | ~338 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 534)
 | ...Here we go again | 0.50% | ~84 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,886 (Ranked 159)  
+Progressed: 16,891 (Ranked 159)  
 Completed: 63 (0.37%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,11 +291,11 @@ Completed: 63 (0.37%) (Ranked 236)
 | 2023-12-23 | 16,429 | 62 |
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
-| 2023-12-26 | 16,886 | 63 |
+| 2023-12-26 | 16,891 | 63 |
 ## Awards
 Max (Great Boss Battles): 508  (Ranked 218)  
-Sum: 821 (Ranked 283)  
-Diff (max vs sum): -65  
+Sum: 781 (Ranked 286)  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 508 |
@@ -522,3 +522,4 @@ Diff (max vs sum): -65
 | 2023-12-23 | 4.54 | 483 | 788 |
 | 2023-12-24 | 4.54 | 492 | 801 |
 | 2023-12-25 | 4.54 | 508 | 821 |
+| 2023-12-26 | 4.54 | 508 | 781 |

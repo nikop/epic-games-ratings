@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 374,
-  "Ranking_Popularity": 479,
+  "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 304,
@@ -597,7 +597,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6229,
+  "EOS_Progressed": 6231,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
@@ -9207,6 +9207,11 @@
       "Time": "2023-12-26T07:04:14.0768451+00:00",
       "NumProgressed": 6229,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T08:03:31.7690724+00:00",
+      "NumProgressed": 6231,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9234,7 +9239,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "12",
@@ -9258,7 +9263,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "15",
@@ -9410,7 +9415,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "32",
@@ -9682,7 +9687,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "60",
@@ -9697,13 +9702,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6229,
+      "Progressed": 6231,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6229,
+      "Progressed": 6231,
       "Completed": 7
     }
   ],
@@ -9711,8 +9716,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:04:14.0768448+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:03:31.769072+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:54.0233468+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:04:14.0769182+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:28.6548056+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:03:31.7691388+00:00"
 }

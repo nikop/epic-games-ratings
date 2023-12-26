@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 32.00% | ~213,195 |
-| 50 HEADSHOTS | 30.00% | ~199,870 |
-| SCIENCE AND INDUSTRY | 29.00% | ~193,208 |
-| FINISHED CHAPTER 1 | 28.00% | ~186,546 |
-| FINISHED CHAPTER 2 | 20.00% | ~133,247 |
-| 200 HEADSHOTS | 18.00% | ~119,922 |
-| FINISHED CHAPTER 3 | 17.00% | ~113,260 |
-| FINISHED CHAPTER 4 | 15.00% | ~99,935 |
-| FINISH CHAPTER 5 | 12.00% | ~79,948 |
-| FINISH CHAPTER 6 | 11.00% | ~73,286 |
-| CATHARTIC ESCAPISM | 11.00% | ~73,286 |
-| 1000 KILLS | 10.00% | ~66,623 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,649 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,325 |
-| FIRST BLOOD | 2.00% | ~13,325 |
+| 100 KILLS | 32.00% | ~213,177 |
+| 50 HEADSHOTS | 30.00% | ~199,853 |
+| SCIENCE AND INDUSTRY | 29.00% | ~193,192 |
+| FINISHED CHAPTER 1 | 28.00% | ~186,530 |
+| FINISHED CHAPTER 2 | 20.00% | ~133,236 |
+| 200 HEADSHOTS | 18.00% | ~119,912 |
+| FINISHED CHAPTER 3 | 17.00% | ~113,250 |
+| FINISHED CHAPTER 4 | 15.00% | ~99,927 |
+| FINISH CHAPTER 5 | 12.00% | ~79,941 |
+| FINISH CHAPTER 6 | 11.00% | ~73,280 |
+| CATHARTIC ESCAPISM | 11.00% | ~73,280 |
+| 1000 KILLS | 10.00% | ~66,618 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,647 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,324 |
+| FIRST BLOOD | 2.00% | ~13,324 |
 | OUT OF ORDER | 1.00% | ~6,662 |
 | PACEMAKER | 1.00% | ~6,662 |
 | TIME PARADOX | 1.00% | ~6,662 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~5,996 |
-| PARTYHARD | 0.80% | ~5,330 |
-| NEW GAME PLUS | 0.70% | ~4,664 |
+| PARTYHARD | 0.80% | ~5,329 |
+| NEW GAME PLUS | 0.70% | ~4,663 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,331 |
 | CHURCH | 0.40% | ~2,665 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,999 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~666 |
 | WARRIOR IN A GARDEN | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,234 (Ranked 30)  
+Progressed: 666,178 (Ranked 30)  
 Completed: 63 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |

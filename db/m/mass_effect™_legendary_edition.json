@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3055,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -6486,9 +6486,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1772
     },
     {
       "ID": "achievement_22",
@@ -7186,8 +7186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:10:24.6878295+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:09:40.0688723+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:20.2142494+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:10:24.6879916+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:03:01.0572311+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:09:40.0691193+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -601,6 +601,11 @@
       "Time": "2023-12-25T09:06:51.4136457+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T08:03:28.9726245+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -634,9 +639,9 @@
       "ID": "InnkeeperQuestlineLast",
       "SetID": "3b8n56h",
       "Name": "Braving Miasma",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "InnkeeperQuestlineThird",
@@ -644,7 +649,7 @@
       "Name": "Dungeon Mastery",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LW_complete",
@@ -802,7 +807,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 50
     },
@@ -818,9 +823,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "cards_discovered_complete",
@@ -836,7 +841,7 @@
       "Name": "Card Collector",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "demiurge_defeated",
@@ -850,9 +855,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "git_gud?",
@@ -906,9 +911,9 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "thanks_but_why?",
@@ -931,7 +936,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
@@ -939,8 +944,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:04:11.0447759+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:03:28.9726242+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.0228118+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:58:14.1428567+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:04:11.044799+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:58:00.7813356+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:03:28.9726511+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -824,6 +824,11 @@
       "Time": "2023-12-24T22:06:48.4963817+00:00",
       "NumProgressed": 174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T08:03:07.2112673+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -873,9 +878,9 @@
       "ID": "DemonHunter",
       "SetID": "7g1kpc8",
       "Name": "Demonologist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FinalBoss",
@@ -889,17 +894,17 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 161
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "FirstStep",
@@ -907,7 +912,7 @@
       "Name": "Start of the Path",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FourthBoss",
@@ -947,7 +952,7 @@
       "Name": "Monster Slayer",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Persistence",
@@ -955,7 +960,7 @@
       "Name": "Persistence",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ReturnShell",
@@ -994,14 +999,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-12-26T06:08:12.3741874+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:03:07.2112666+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:04.8641231+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:10.9094135+00:00",
-  "LastUpdate_Achievements": "2023-12-26T06:08:12.3742108+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:58:49.4178471+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:03:07.2119433+00:00"
 }

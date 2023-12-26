@@ -1643,9 +1643,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7522,
+  "EOS_Progressed": 7523,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -15463,6 +15463,11 @@
       "Time": "2023-12-26T07:08:56.0871829+00:00",
       "NumProgressed": 7522,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-26T08:06:41.9185864+00:00",
+      "NumProgressed": 7523,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15482,7 +15487,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -15522,7 +15527,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15586,7 +15591,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -15626,7 +15631,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -15634,7 +15639,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5265
+      "UsersEstimate": 5266
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -15642,7 +15647,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -15650,15 +15655,15 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "5349c2e",
       "Name": "Winter Is Here",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1956
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -15674,7 +15679,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -15682,7 +15687,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15721,15 +15726,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7522,
+      "Progressed": 7523,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:08:56.0871824+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:06:41.9185861+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.6112107+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:23.1854113+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:08:56.0872628+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:01.3661234+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:06:41.9186658+00:00"
 }

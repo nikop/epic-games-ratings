@@ -9079,9 +9079,9 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244748,
+  "EOS_Progressed": 244759,
   "EOS_Completed": 2564,
-  "EOS_NewPlayers": 2836,
+  "EOS_NewPlayers": 2845,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37309,6 +37309,11 @@
       "Time": "2023-12-26T07:10:27.7060341+00:00",
       "NumProgressed": 244748,
       "NumCompleted": 2564
+    },
+    {
+      "Time": "2023-12-26T08:09:43.4013184+00:00",
+      "NumProgressed": 244759,
+      "NumCompleted": 2564
     }
   ],
   "TotalAchievements": 546,
@@ -37328,7 +37333,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_100",
@@ -38184,7 +38189,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_1203",
@@ -38296,7 +38301,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_130",
@@ -38440,7 +38445,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_150",
@@ -39112,7 +39117,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_390",
@@ -39456,7 +39461,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_54",
@@ -40536,7 +40541,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_80",
@@ -41064,7 +41069,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "objective_completed_902",
@@ -41687,21 +41692,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211022,
+      "Progressed": 211033,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244748,
+      "Progressed": 244759,
       "Completed": 2564
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-26T06:58:02.6712249+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:10:27.7060338+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:09:43.4013181+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:58:02.6712255+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:10:27.7085188+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:57:50.4029216+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:09:43.4035452+00:00"
 }

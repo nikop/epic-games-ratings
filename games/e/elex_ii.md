@@ -6,9 +6,9 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 30.00% | ~30 |
+| Entrepreneur | 31.00% | ~31 |
 | Best Buddy | 27.00% | ~27 |
-| Civilian | 23.00% | ~23 |
+| Civilian | 24.00% | ~24 |
 | Role Model | 21.00% | ~21 |
 | Creator | 16.00% | ~16 |
 | Festival-goer | 15.00% | ~15 |
@@ -28,8 +28,8 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 4.00% | ~4 |
 | Free as a Bird | 4.00% | ~4 |
 | Unbreakable | 4.00% | ~4 |
+| Idealist | 3.00% | ~3 |
 | Cleric | 3.00% | ~3 |
-| Idealist | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Treasure Hunter | 1.00% | ~1 |
 | Alchemist | 1.00% | ~1 |

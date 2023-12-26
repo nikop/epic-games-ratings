@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 511,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 137,
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17448,
+  "EOS_Progressed": 17451,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15181,6 +15181,11 @@
       "Time": "2023-12-26T07:04:33.0003083+00:00",
       "NumProgressed": 17448,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-26T08:03:48.7537667+00:00",
+      "NumProgressed": 17451,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15193,7 +15198,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "10",
@@ -15225,7 +15230,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "14",
@@ -15233,7 +15238,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "15",
@@ -15257,7 +15262,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "18",
@@ -15265,7 +15270,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "19",
@@ -15281,7 +15286,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "20",
@@ -15289,7 +15294,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "21",
@@ -15297,7 +15302,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "22",
@@ -15321,7 +15326,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "25",
@@ -15337,7 +15342,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "27",
@@ -15369,7 +15374,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "30",
@@ -15401,15 +15406,15 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 105
     },
     {
       "ID": "8",
@@ -15417,7 +15422,7 @@
       "Name": "Data Recoverer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "9",
@@ -15472,13 +15477,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17448,
+      "Progressed": 17451,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3402,
+      "Progressed": 3405,
       "Completed": 1053
     }
   ],
@@ -15486,8 +15491,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:04:33.0003078+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:03:48.7537665+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:34.1472697+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:04:33.0003913+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:11.2088976+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:03:48.7538547+00:00"
 }

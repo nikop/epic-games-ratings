@@ -11,12 +11,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 5.00% | ~6,496 |
 | Autodidact | 5.00% | ~6,496 |
 | This guy... again? | 5.00% | ~239 |
-| Serenity Now! | 4.00% | ~5,196 |
-| Creep and Sleep | 4.00% | ~5,196 |
-| Meat and Greet | 4.00% | ~5,196 |
-| Catch and Decease | 4.00% | ~5,196 |
-| Overdue Notice | 4.00% | ~5,196 |
-| Escape from the Black Hole | 4.00% | ~5,196 |
+| Serenity Now! | 4.00% | ~5,197 |
+| Creep and Sleep | 4.00% | ~5,197 |
+| Meat and Greet | 4.00% | ~5,197 |
+| Catch and Decease | 4.00% | ~5,197 |
+| Overdue Notice | 4.00% | ~5,197 |
+| Escape from the Black Hole | 4.00% | ~5,197 |
 | Ploughshares to Swords | 4.00% | ~191 |
 | Bloody Graduation | 4.00% | ~191 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,897 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,897 |
 | FNG | 3.00% | ~3,897 |
 | Nope | 3.00% | ~3,897 |
-| Friends 'Til the End | 3.00% | ~143 |
+| Friends 'Til the End | 3.00% | ~144 |
 | Resurrection | 2.00% | ~2,598 |
 | Unleash Hell | 2.00% | ~2,598 |
 | Funny Guy | 2.00% | ~2,598 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,911 (Ranked 87)  
+Progressed: 129,916 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 129,911 | 3 |
+| 2023-12-26 | 129,916 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
-Sum: 21,105 (Ranked 58)  
+Sum: 21,108 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -337,8 +337,8 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,771 |
 | This game has Challenging Combat | 1,634 |
 | This game is Highly Recommended | 1,572 |
+| This game is Extremely Fun | 1,494 |
 | This game has Amazing Characters | 1,492 |
-| This game is Extremely Fun | 1,491 |
 | This game has Unique Visuals | 1,422 |
 | This game has Amazing Storytelling | 1,412 |
 | This game has Quickly Understood Controls | 1,380 |
@@ -680,4 +680,4 @@ Diff (max vs sum): -8
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
-| 2023-12-26 | 4.68 | - | 7,875 | 21,105 |
+| 2023-12-26 | 4.68 | - | 7,875 | 21,108 |

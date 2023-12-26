@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2904,9 +2904,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 542052,
+  "EOS_Progressed": 542053,
   "EOS_Completed": 1657,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -30549,6 +30549,11 @@
       "Time": "2023-12-26T07:05:44.1223466+00:00",
       "NumProgressed": 542052,
       "NumCompleted": 1657
+    },
+    {
+      "Time": "2023-12-26T08:04:53.6484083+00:00",
+      "NumProgressed": 542053,
+      "NumCompleted": 1657
     }
   ],
   "TotalAchievements": 37,
@@ -30616,7 +30621,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 449903
+      "UsersEstimate": 449904
     },
     {
       "ID": "HONED",
@@ -30816,7 +30821,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 346913
+      "UsersEstimate": 346914
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -30855,15 +30860,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 542052,
+      "Progressed": 542053,
       "Completed": 1657
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-24T23:59:28.5044361+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:44.122346+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:04:53.6484081+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7182261+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:56.5067022+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:44.1225003+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:30.8637706+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:04:53.6485563+00:00"
 }

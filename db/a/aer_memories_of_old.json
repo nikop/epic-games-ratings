@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 676,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 143,
@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27107,
+  "EOS_Progressed": 27108,
   "EOS_Completed": 502,
   "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 7,
@@ -27299,6 +27299,11 @@
       "Time": "2023-12-26T07:04:30.8834141+00:00",
       "NumProgressed": 27107,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-12-26T08:03:46.7288303+00:00",
+      "NumProgressed": 27108,
+      "NumCompleted": 502
     }
   ],
   "TotalAchievements": 20,
@@ -27358,7 +27363,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -27430,7 +27435,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20601
+      "UsersEstimate": 20602
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27469,15 +27474,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27107,
+      "Progressed": 27108,
       "Completed": 502
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:04:30.8834138+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:03:46.7288301+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:00:31.2506874+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:04:30.8835436+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:00:01.4789764+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:03:46.7289542+00:00"
 }

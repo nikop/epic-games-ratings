@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 895,
+  "EOS_Progressed": 896,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -3008,6 +3008,11 @@
       "Time": "2023-12-26T07:09:29.7013968+00:00",
       "NumProgressed": 895,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T08:08:51.5477057+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3020,7 +3025,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "achievement_10",
@@ -3050,9 +3055,9 @@
       "ID": "achievement_13",
       "SetID": "2cpn27e",
       "Name": "Karakuri Fortress",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_14",
@@ -3074,9 +3079,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_17",
@@ -3084,7 +3089,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_18",
@@ -3100,15 +3105,15 @@
       "Name": "Counter Specialist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_20",
@@ -3180,7 +3185,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_29",
@@ -3196,7 +3201,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_30",
@@ -3260,7 +3265,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_38",
@@ -3292,7 +3297,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_41",
@@ -3354,9 +3359,9 @@
       "ID": "achievement_48",
       "SetID": "2cpn27e",
       "Name": "Haven Hunter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_5",
@@ -3372,7 +3377,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_7",
@@ -3380,7 +3385,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_8",
@@ -3388,7 +3393,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_9",
@@ -3403,13 +3408,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 895,
+      "Progressed": 896,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:09:29.7013964+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:08:51.5477056+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:00:05.7962664+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:09:29.7014472+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:39.4222718+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:08:51.5477487+00:00"
 }

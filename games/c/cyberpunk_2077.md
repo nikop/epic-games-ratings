@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,779 |
-| Gun Fu | 8.00% | ~78,520 |
+| V for Vendetta | 12.00% | ~117,781 |
+| Gun Fu | 8.00% | ~78,521 |
 | The Fool | 7.00% | ~68,705 |
 | Right Back At Ya | 6.00% | ~58,890 |
 | The Lovers | 6.00% | ~58,890 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,630 |
 | Two Heads, One Bullet | 2.00% | ~19,630 |
 | Judy vs Night City | 2.00% | ~19,630 |
-| Spin Doctor | 2.00% | ~2,202 |
+| Spin Doctor | 2.00% | ~2,203 |
 | To Bad Decisions! | 1.00% | ~9,815 |
 | The Wandering Fool | 1.00% | ~9,815 |
 | Ten out of Ten | 1.00% | ~9,815 |
@@ -40,9 +40,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 1.00% | ~1,101 |
 | Dirty Deeds | 1.00% | ~1,101 |
 | Easy Come, Easy Go | 1.00% | ~1,101 |
-| The Star | 0.90% | ~8,833 |
+| The Star | 0.90% | ~8,834 |
 | Breathtaking | 0.80% | ~7,852 |
-| Autojock | 0.70% | ~6,870 |
+| Autojock | 0.70% | ~6,871 |
 | The APB is Not Enough | 0.70% | ~771 |
 | Judgement Day | 0.70% | ~771 |
 | The Tower | 0.70% | ~771 |
@@ -50,19 +50,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.60% | ~5,889 |
 | King of Pentacles | 0.60% | ~661 |
 | King of Swords | 0.60% | ~661 |
-| City Lights | 0.30% | ~2,944 |
-| Little Tokyo | 0.30% | ~2,944 |
-| The Devil | 0.30% | ~2,944 |
-| The Jungle | 0.30% | ~2,944 |
-| It's Elementary | 0.30% | ~2,944 |
+| City Lights | 0.30% | ~2,945 |
+| Little Tokyo | 0.30% | ~2,945 |
+| The Devil | 0.30% | ~2,945 |
+| The Jungle | 0.30% | ~2,945 |
+| It's Elementary | 0.30% | ~2,945 |
 | King of Cups | 0.30% | ~330 |
 | Gunslinger | 0.20% | ~1,963 |
 | Mean Streets | 0.20% | ~1,963 |
 | The Wasteland | 0.20% | ~1,963 |
 | Daemon In The Shell | 0.20% | ~1,963 |
 | Greetings from Pacifica! | 0.20% | ~1,963 |
-| Frequent Flyer | 0.10% | ~981 |
-| Rough Landing | 0.10% | ~981 |
+| Frequent Flyer | 0.10% | ~982 |
+| Rough Landing | 0.10% | ~982 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,495 (Ranked 16)  
+Progressed: 981,507 (Ranked 16)  
 Completed: 2,976 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,976 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,495 | 2,976 |
+| 2023-12-26 | 981,507 | 2,976 |
 ## Awards
 Max (Character Customization): 127,442  (Ranked 8)  
 Sum: 444,060 (Ranked 9)  

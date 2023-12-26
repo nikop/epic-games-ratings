@@ -3,11 +3,11 @@
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 298,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 767,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.83,
+  "EOS_Completed_Percentage": 7.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -666,6 +666,11 @@
       "Time": "2023-12-26T03:09:05.5769014+00:00",
       "NumProgressed": 766,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-26T08:06:36.4360001+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -677,7 +682,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -685,15 +690,15 @@
       "Name": "Partners?",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHIEVEMENT003",
       "SetID": "dejhjd5",
       "Name": "...And Your Tax Money",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 337
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -701,7 +706,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -709,7 +714,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -725,7 +730,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -741,7 +746,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -797,7 +802,7 @@
       "Name": "One Mean Merc",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -861,7 +866,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -869,7 +874,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -893,7 +898,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -941,7 +946,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -949,7 +954,7 @@
       "Name": "First Time Fishing",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -965,7 +970,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -997,7 +1002,7 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT042",
@@ -1076,15 +1081,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 767,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:08:49.9803937+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:06:36.4359999+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:57:33.5732586+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:08:49.9804519+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:57:25.3196324+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:06:36.4360354+00:00"
 }

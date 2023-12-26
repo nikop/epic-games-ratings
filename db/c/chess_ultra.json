@@ -3,8 +3,8 @@
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
   "Ranking_Rating": 855,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 98,
@@ -473,7 +473,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224028,
+  "EOS_Progressed": 224029,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 0,
@@ -29023,6 +29023,11 @@
       "Time": "2023-12-26T07:08:38.6127296+00:00",
       "NumProgressed": 224028,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T08:06:26.1245426+00:00",
+      "NumProgressed": 224029,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -29034,7 +29039,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 105293
+      "UsersEstimate": 105294
     },
     {
       "ID": "AlekhinesGun",
@@ -29082,7 +29087,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 123215
+      "UsersEstimate": 123216
     },
     {
       "ID": "Checkmate",
@@ -29090,7 +29095,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 67208
+      "UsersEstimate": 67209
     },
     {
       "ID": "ChessChampion",
@@ -29106,7 +29111,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 159060
+      "UsersEstimate": 159061
     },
     {
       "ID": "DoubleCheck",
@@ -29122,7 +29127,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 127696
+      "UsersEstimate": 127697
     },
     {
       "ID": "Elo",
@@ -29337,7 +29342,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 224028,
+      "Progressed": 224029,
       "Completed": 2
     }
   ],
@@ -29345,8 +29350,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-24T18:59:16.345254+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:08:38.6127293+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:06:26.1245423+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.6337797+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:00:01.6263129+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:08:38.6128717+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:35.4736524+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:06:26.1246625+00:00"
 }

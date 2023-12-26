@@ -3,7 +3,7 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 511,
-  "Ranking_Popularity": 500,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 389,
@@ -803,9 +803,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239631,
+  "EOS_Progressed": 239636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18853,6 +18853,11 @@
       "Time": "2023-12-26T07:10:15.4867898+00:00",
       "NumProgressed": 239631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T08:09:31.7045796+00:00",
+      "NumProgressed": 239636,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18921,7 +18926,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50323
+      "UsersEstimate": 50324
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -19049,7 +19054,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33548
+      "UsersEstimate": 33549
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19057,7 +19062,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16774
+      "UsersEstimate": 16775
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -19121,7 +19126,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59908
+      "UsersEstimate": 59909
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19136,7 +19141,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 239631,
+      "Progressed": 239636,
       "Completed": 0
     }
   ],
@@ -19144,8 +19149,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-25T01:44:25.1777295+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:10:15.4867892+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:09:31.7045794+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:58:17.3255926+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:10:15.4869049+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:58:03.4986753+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:09:31.7046557+00:00"
 }

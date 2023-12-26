@@ -3,11 +3,11 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,7 +503,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 533975,
+  "EOS_Progressed": 533976,
   "EOS_Completed": 511,
   "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 1,
@@ -26983,6 +26983,11 @@
       "Time": "2023-12-26T07:06:13.4276699+00:00",
       "NumProgressed": 533975,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2023-12-26T08:05:20.0147029+00:00",
+      "NumProgressed": 533976,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 57,
@@ -27010,7 +27015,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373782
+      "UsersEstimate": 373783
     },
     {
       "ID": "12",
@@ -27018,7 +27023,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117474
+      "UsersEstimate": 117475
     },
     {
       "ID": "13",
@@ -27058,7 +27063,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "18",
@@ -27074,7 +27079,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331064
+      "UsersEstimate": 331065
     },
     {
       "ID": "2",
@@ -27130,7 +27135,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "26",
@@ -27138,7 +27143,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "27",
@@ -27170,7 +27175,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "30",
@@ -27234,7 +27239,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "38",
@@ -27258,7 +27263,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "40",
@@ -27322,7 +27327,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331064
+      "UsersEstimate": 331065
     },
     {
       "ID": "48",
@@ -27354,7 +27359,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74756
+      "UsersEstimate": 74757
     },
     {
       "ID": "51",
@@ -27370,7 +27375,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245628
+      "UsersEstimate": 245629
     },
     {
       "ID": "53",
@@ -27449,15 +27454,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 533975,
+      "Progressed": 533976,
       "Completed": 511
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:06:13.427669+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:05:20.0147027+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.6757795+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:58:07.6664664+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:06:13.4278057+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:57:54.8212945+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:05:20.0148445+00:00"
 }

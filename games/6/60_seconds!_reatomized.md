@@ -6,31 +6,31 @@ Rating: 4.52 (Ranked 563)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 94.00% | ~5,570 |
-| I will survive! | 93.00% | ~5,510 |
-| All thumbs | 92.00% | ~5,451 |
-| Home, sweet home | 91.00% | ~5,392 |
-| Survivalist | 90.00% | ~5,332 |
-| One way ticket | 85.00% | ~5,036 |
-| Last man standing | 80.00% | ~4,740 |
-| Family guy | 77.00% | ~4,562 |
-| Out of the Bag | 76.00% | ~4,503 |
+| I will survive! | 93.00% | ~5,511 |
+| All thumbs | 92.00% | ~5,452 |
+| Home, sweet home | 91.00% | ~5,393 |
+| Survivalist | 90.00% | ~5,333 |
+| One way ticket | 85.00% | ~5,037 |
+| Last man standing | 80.00% | ~4,741 |
+| Family guy | 77.00% | ~4,563 |
+| Out of the Bag | 76.00% | ~4,504 |
 | The Dark Side | 71.00% | ~4,207 |
-| Duck and cover! | 66.00% | ~3,910 |
-| Souper! | 65.00% | ~3,851 |
-| Pacifist | 60.00% | ~3,555 |
+| Duck and cover! | 66.00% | ~3,911 |
+| Souper! | 65.00% | ~3,852 |
+| Pacifist | 60.00% | ~3,556 |
 | 2-1-6 | 59.00% | ~3,496 |
 | A gift | 55.00% | ~3,259 |
-| Girl Power | 49.00% | ~2,903 |
-| What goes around... | 45.00% | ~2,666 |
+| Girl Power | 49.00% | ~2,904 |
+| What goes around... | 45.00% | ~2,667 |
 | Be Prepared | 39.00% | ~2,311 |
-| Unbreakable | 37.00% | ~2,192 |
+| Unbreakable | 37.00% | ~2,193 |
 | Gotta get 'em all | 34.00% | ~2,015 |
 | This is the end | 34.00% | ~2,015 |
 | Atomic drill | 32.00% | ~1,896 |
-| Disco Roach | 28.00% | ~1,659 |
+| Disco Roach | 29.00% | ~1,719 |
 | Dawkins Residence | 22.00% | ~1,304 |
 | Rescue time! | 19.00% | ~1,126 |
-| New order | 18.00% | ~1,066 |
+| New order | 18.00% | ~1,067 |
 | New species | 17.00% | ~1,007 |
 | A New Hope | 16.00% | ~948 |
 | Enigma | 16.00% | ~948 |
@@ -48,11 +48,11 @@ Rating: 4.52 (Ranked 563)
 | Danger zone | 4.00% | ~237 |
 | Friend in need | 4.00% | ~237 |
 | Soup Can into Space | 3.00% | ~178 |
-| Enola Gay | 2.00% | ~118 |
-| Stay frosty | 2.00% | ~118 |
-| Panzer | 2.00% | ~118 |
-| Liberation | 2.00% | ~118 |
-| Not Alone | 2.00% | ~118 |
+| Enola Gay | 2.00% | ~119 |
+| Stay frosty | 2.00% | ~119 |
+| Panzer | 2.00% | ~119 |
+| Liberation | 2.00% | ~119 |
+| Not Alone | 2.00% | ~119 |
 | Cuckoo's nest | 1.00% | ~59 |
 | Raining Cats and Dogs | 1.00% | ~59 |
 | Konrad style! | 1.00% | ~59 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 563)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,925 (Ranked 196)  
+Progressed: 5,926 (Ranked 196)  
 Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 1 (0.02%) (Ranked 357)
 | 2023-12-23 | 5,893 | 1 |
 | 2023-12-24 | 5,906 | 1 |
 | 2023-12-25 | 5,923 | 1 |
-| 2023-12-26 | 5,925 | 1 |
+| 2023-12-26 | 5,926 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

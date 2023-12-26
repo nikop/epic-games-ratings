@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 704)  
 ## Awards
-Max (Great for Beginners): 52  (Ranked 440)  
+Max (Great for Beginners): 52  (Ranked 439)  
 Sum: 404 (Ranked 347)  
-Diff (max vs sum): 93  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 52 |

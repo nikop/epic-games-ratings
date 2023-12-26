@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 456,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 334,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 211,
@@ -803,7 +803,7 @@
   ],
   "EOS_Progressed": 3595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5463,8 +5463,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:55.6164881+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:05:04.1084668+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:13.3902634+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:55.6165545+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:02:54.4981474+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:05:04.1085238+00:00"
 }

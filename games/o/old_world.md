@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
 | Oracle | 0.40% | ~64 |
+| Regicide | 0.30% | ~48 |
 | Ambitious | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.30% | ~48 |
 | Naming Landmarks | 0.30% | ~48 |
 | Trade Caravan | 0.30% | ~48 |
-| Regicide | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Brilliant | 0.20% | ~32 |

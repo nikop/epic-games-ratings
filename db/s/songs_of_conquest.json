@@ -3,7 +3,7 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 230,
-  "Ranking_Popularity": 529,
+  "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 389,
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -2818,6 +2818,11 @@
       "Time": "2023-12-26T03:09:30.3720862+00:00",
       "NumProgressed": 751,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T08:08:30.2576683+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2844,9 +2849,9 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ArtifactsEquipped",
@@ -3158,7 +3163,7 @@
       "Name": "Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "WielderLevel2",
@@ -3261,15 +3266,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:09:06.0125418+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:08:30.2576681+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:57:23.3441502+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:09:06.0125913+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:57:15.9197355+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:08:30.2577049+00:00"
 }

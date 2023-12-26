@@ -5,17 +5,17 @@ Rating: 4.29 (Ranked 862)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~164,933 |
-| Copacetic Coordination | 16.00% | ~57,368 |
-| Fronting the Money | 15.00% | ~53,782 |
-| The Dawn of Automation | 14.00% | ~50,197 |
-| Extraordinary Logistics | 14.00% | ~50,197 |
+| Corner Clout | 46.00% | ~164,935 |
+| Copacetic Coordination | 16.00% | ~57,369 |
+| Fronting the Money | 15.00% | ~53,783 |
+| The Dawn of Automation | 14.00% | ~50,198 |
+| Extraordinary Logistics | 14.00% | ~50,198 |
 | Dirty Money | 13.00% | ~46,612 |
 | Family First | 13.00% | ~46,612 |
 | Cleaning House | 12.00% | ~43,026 |
 | Room in the Back | 12.00% | ~43,026 |
-| Beating the Heat | 11.00% | ~39,440 |
-| Booze Baron | 11.00% | ~39,440 |
+| Beating the Heat | 11.00% | ~39,441 |
+| Booze Baron | 11.00% | ~39,441 |
 | Friends on the Force | 10.00% | ~35,855 |
 | Neighborhood Watch | 10.00% | ~35,855 |
 | Core Corps | 8.00% | ~28,684 |
@@ -42,12 +42,12 @@ Rating: 4.29 (Ranked 862)
 | Friends from Back Home | 4.00% | ~14,342 |
 | Bees Knees Bootlegger | 4.00% | ~14,342 |
 | Half Century Mark | 4.00% | ~14,342 |
-| Corner Opportunities | 3.00% | ~10,756 |
-| 2122 North Clark Street | 3.00% | ~10,756 |
-| Copious Cabbage | 3.00% | ~10,756 |
-| Sockdolager | 3.00% | ~10,756 |
-| Still Stalwart | 3.00% | ~10,756 |
-| Tighten the Screws | 3.00% | ~10,756 |
+| Corner Opportunities | 3.00% | ~10,757 |
+| 2122 North Clark Street | 3.00% | ~10,757 |
+| Copious Cabbage | 3.00% | ~10,757 |
+| Sockdolager | 3.00% | ~10,757 |
+| Still Stalwart | 3.00% | ~10,757 |
+| Tighten the Screws | 3.00% | ~10,757 |
 | One of Us | 2.00% | ~7,171 |
 | Baker’s Dozen | 2.00% | ~7,171 |
 | Dropping the Dime | 2.00% | ~7,171 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 862)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,550 (Ranked 50)  
+Progressed: 358,554 (Ranked 50)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,11 +336,11 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-23 | 358,114 | 7 |
 | 2023-12-24 | 358,322 | 7 |
 | 2023-12-25 | 358,511 | 7 |
-| 2023-12-26 | 358,550 | 7 |
+| 2023-12-26 | 358,554 | 7 |
 ## Awards
-Max (Great for Beginners): 57  (Ranked 429)  
+Max (Great for Beginners): 57  (Ranked 428)  
 Sum: 261 (Ranked 391)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |

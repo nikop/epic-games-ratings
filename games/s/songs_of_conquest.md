@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 44.00% | ~330 |
+| Adept | 44.00% | ~331 |
 | Double Kill | 37.00% | ~278 |
 | Critical Hit | 20.00% | ~150 |
 | Veteran | 20.00% | ~150 |
@@ -33,10 +33,10 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~8 |
 | Together For Her | 0.90% | ~7 |
 | Grand Master | 0.90% | ~7 |
+| Death To Diplomacy | 0.50% | ~4 |
 | Unlimited Power! | 0.50% | ~4 |
 | In The Thick of It | 0.50% | ~4 |
 | Get Over Here! | 0.50% | ~4 |
-| Death To Diplomacy | 0.40% | ~3 |
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
 | Barbecue | 0.40% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751 (Ranked 300)  
+Progressed: 752 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,11 +107,11 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
-| 2023-12-26 | 751 | 0 |
+| 2023-12-26 | 752 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 529)  
+Max (Quickly Understood Controls): 27  (Ranked 528)  
 Sum: 194 (Ranked 414)  
-Diff (max vs sum): 115  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

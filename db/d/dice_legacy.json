@@ -3,11 +3,11 @@
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
   "Ranking_Rating": 862,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-12-25T23:04:32.486398+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T08:04:34.1629696+00:00",
+      "NumProgressed": 1261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2794,7 +2799,7 @@
       "Name": "We made it",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2929,7 +2934,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1261,
       "Completed": 0
     }
   ],
@@ -2937,8 +2942,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:22.6463648+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:04:34.1629694+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:24.1709228+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:05.952808+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:22.6464076+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:02:48.1956268+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:04:34.1630144+00:00"
 }

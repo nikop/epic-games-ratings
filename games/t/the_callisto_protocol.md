@@ -5,16 +5,16 @@ Rating: 4.20 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 18.00% | ~3,478 |
-| The Outer Way | 18.00% | ~3,478 |
+| Flesh Wound | 18.00% | ~3,479 |
+| The Outer Way | 18.00% | ~3,479 |
 | Get a Grip | 16.00% | ~3,092 |
 | Paper Jams | 16.00% | ~3,092 |
 | Desperate Times | 16.00% | ~3,092 |
-| Chew 'Em Up | 14.00% | ~2,705 |
+| Chew 'Em Up | 14.00% | ~2,706 |
 | Float Like A Butterfly | 13.00% | ~2,512 |
 | Reforged | 12.00% | ~2,319 |
-| Workplace Hazard | 11.00% | ~2,125 |
-| If the SHU Fits... | 11.00% | ~2,125 |
+| Workplace Hazard | 11.00% | ~2,126 |
+| If the SHU Fits... | 11.00% | ~2,126 |
 | Without A Paddle | 9.00% | ~1,739 |
 | Two Heads Are Better Than One | 8.00% | ~1,546 |
 | In the Pipe, Five by Five | 8.00% | ~1,546 |
@@ -23,18 +23,18 @@ Rating: 4.20 (Ranked 936)
 | What Lies Beneath | 7.00% | ~1,353 |
 | Full Circle | 7.00% | ~1,353 |
 | Power Up | 7.00% | ~1,353 |
-| Giving Back | 6.00% | ~1,159 |
-| You Need a Gun | 6.00% | ~1,159 |
-| I Do Belong Here | 6.00% | ~1,159 |
+| Giving Back | 6.00% | ~1,160 |
+| You Need a Gun | 6.00% | ~1,160 |
+| I Do Belong Here | 6.00% | ~1,160 |
 | Keep Fighting | 6.00% | ~435 |
-| It's Time | 5.00% | ~362 |
+| It's Time | 5.00% | ~363 |
 | The Commonality | 4.00% | ~773 |
 | In Striking Distance | 3.00% | ~580 |
 | One Last Job | 2.00% | ~145 |
-| Armed to the Teeth | 1.00% | ~72 |
+| Armed to the Teeth | 1.00% | ~73 |
 | Mugshot | 1.00% | ~193 |
-| Big Spender | 1.00% | ~72 |
-| This Isn't About Escape | 1.00% | ~72 |
+| Big Spender | 1.00% | ~73 |
+| This Isn't About Escape | 1.00% | ~73 |
 | Instigator | 0.90% | ~65 |
 | Grim Reaper | 0.80% | ~155 |
 | Parole Denied | 0.80% | ~58 |
@@ -44,8 +44,8 @@ Rating: 4.20 (Ranked 936)
 | Hoard Mode | 0.30% | ~22 |
 | Don't Let It Mellow | 0.30% | ~22 |
 | The Protocol is About Life | 0.20% | ~39 |
-| Recidivist | 0.20% | ~14 |
-| Bear Trap | 0.20% | ~14 |
+| Recidivist | 0.20% | ~15 |
+| Bear Trap | 0.20% | ~15 |
 | It's over, Jacob! | 0.10% | ~19 |
 | Glutton for Punishment | 0.10% | ~7 |
 | You Belong Here | 0.10% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 936)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,322 (Ranked 149)  
+Progressed: 19,326 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-23 | 18,896 | 82 |
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
-| 2023-12-26 | 19,322 | 82 |
+| 2023-12-26 | 19,326 | 82 |
 ## Awards
-Max (Amazing Characters): 100  (Ranked 370)  
+Max (Amazing Characters): 100  (Ranked 369)  
 Sum: 510 (Ranked 329)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 100 |

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 217,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1029,9 +1029,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
       "SetID": "caeik3h",
       "Name": "Blackburn Returns",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
@@ -1069,9 +1069,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -1093,9 +1093,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 167
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1117,9 +1117,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -1325,9 +1325,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1618,8 +1618,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:04:49.7755818+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:04:04.1773237+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:00:22.6459102+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:04:49.7756525+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:53.6325873+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:04:04.1773785+00:00"
 }

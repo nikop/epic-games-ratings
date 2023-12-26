@@ -3,8 +3,8 @@
   "Name": "Transistor",
   "ProductSlug": "transistor",
   "Ranking_Rating": 394,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 561,
@@ -364,6 +364,6 @@
   "FirstSeen": "2022-07-22T20:25:51.9037164+00:00",
   "LastChanged": "2023-11-20T15:59:23.0959179+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.4788797+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:00:01.6170758+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:04:26.9650635+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:59:35.4496774+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:03:43.1901567+00:00"
 }

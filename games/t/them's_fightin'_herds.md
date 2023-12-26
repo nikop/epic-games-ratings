@@ -286,8 +286,8 @@ Completed: 6 (0.00%) (Ranked 389)
 | 2023-12-25 | 234,241 | 6 |
 | 2023-12-26 | 234,267 | 6 |
 ## Awards
-Max (Great for Beginners): 27  (Ranked 529)  
-Sum: 47 (Ranked 506)  
+Max (Great for Beginners): 27  (Ranked 528)  
+Sum: 47 (Ranked 505)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |

@@ -725,9 +725,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15150,
+  "EOS_Progressed": 15151,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -13610,6 +13610,11 @@
       "Time": "2023-12-26T07:08:36.4786946+00:00",
       "NumProgressed": 15150,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-26T08:06:24.3160624+00:00",
+      "NumProgressed": 15151,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -13621,7 +13626,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 13786
+      "UsersEstimate": 13787
     },
     {
       "ID": "ACH_02",
@@ -13637,7 +13642,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 10908
+      "UsersEstimate": 10909
     },
     {
       "ID": "ACH_04",
@@ -13653,7 +13658,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 10150
+      "UsersEstimate": 10151
     },
     {
       "ID": "ACH_06",
@@ -13661,7 +13666,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 9696
+      "UsersEstimate": 9697
     },
     {
       "ID": "ACH_07",
@@ -13677,7 +13682,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 8938
+      "UsersEstimate": 8939
     },
     {
       "ID": "ACH_09",
@@ -13685,7 +13690,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8484
+      "UsersEstimate": 8485
     },
     {
       "ID": "ACH_10",
@@ -13693,7 +13698,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7726
+      "UsersEstimate": 7727
     },
     {
       "ID": "ACH_11",
@@ -13717,7 +13722,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "ACH_14",
@@ -13757,7 +13762,7 @@
       "Name": "Herbalist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACH_19",
@@ -13789,7 +13794,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH_23",
@@ -13821,7 +13826,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACH_27",
@@ -13837,7 +13842,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 10150
+      "UsersEstimate": 10151
     },
     {
       "ID": "ACH_29",
@@ -13853,7 +13858,7 @@
       "Name": "Fighter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACH_31",
@@ -13869,7 +13874,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH_33",
@@ -13893,14 +13898,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 15150,
+      "Progressed": 15151,
       "Completed": 61
     }
   ],
@@ -13908,8 +13913,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-22T13:57:10.9522347+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:08:36.4786941+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:06:24.3160622+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.1732324+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:59:11.7396022+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:08:36.4787944+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:58:50.2225804+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:06:24.3161257+00:00"
 }

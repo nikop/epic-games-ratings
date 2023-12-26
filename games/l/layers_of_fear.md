@@ -18,17 +18,17 @@
 | Whispers long forgotten | 14.00% | ~29 |
 | Debut | 11.00% | ~23 |
 | The art of movement | 11.00% | ~23 |
+| Tough conversation | 11.00% | ~23 |
 | A Slice of Life | 10.00% | ~21 |
 | Sound Bite | 10.00% | ~21 |
 | Playtime | 10.00% | ~21 |
-| Tough conversation | 10.00% | ~21 |
 | Another perspective | 9.00% | ~19 |
+| First steps | 9.00% | ~19 |
 | Lights! Camera! Action! | 9.00% | ~19 |
 | The tragedy unfolds | 9.00% | ~19 |
 | A new way | 8.00% | ~16 |
-| First steps | 8.00% | ~16 |
+| Breaking free | 8.00% | ~16 |
 | True Reflection | 8.00% | ~16 |
-| Breaking free | 7.00% | ~14 |
 | Casting Finished | 6.00% | ~12 |
 | Heavy Burden | 6.00% | ~12 |
 | Fisherman | 6.00% | ~12 |

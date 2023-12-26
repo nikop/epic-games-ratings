@@ -498,17 +498,17 @@
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
@@ -569,8 +569,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:10:12.5297654+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:09:28.8158537+00:00",
   "LastUpdate_AppInfo": "2023-12-19T08:57:01.8422494+00:00",
-  "LastUpdate_Ratings": "2023-12-26T06:57:39.967033+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:10:12.529776+00:00"
+  "LastUpdate_Ratings": "2023-12-26T07:57:31.1181697+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:09:28.8158617+00:00"
 }

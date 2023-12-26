@@ -2,7 +2,7 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 148,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2792,
+  "EOS_Progressed": 2793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2869,6 +2869,11 @@
       "Time": "2023-12-26T06:06:41.2560819+00:00",
       "NumProgressed": 2792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T08:04:43.8061662+00:00",
+      "NumProgressed": 2793,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2945,7 +2950,7 @@
       "Name": "Terrible Journey",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -3256,14 +3261,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2792,
+      "Progressed": 2793,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:33.2989692+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:04:43.806166+00:00",
   "LastUpdate_AppInfo": "2023-12-19T11:57:06.3691956+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:00:33.5950951+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:33.299009+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:00:03.5345304+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:04:43.8062019+00:00"
 }

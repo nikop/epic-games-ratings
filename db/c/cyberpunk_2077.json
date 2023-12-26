@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -17234,7 +17234,7 @@
       "Count": 16830
     }
   ],
-  "EOS_Progressed": 981495,
+  "EOS_Progressed": 981507,
   "EOS_Completed": 2976,
   "EOS_NewPlayers": 2926,
   "EOS_NewCompleters": 39,
@@ -45744,6 +45744,11 @@
       "Time": "2023-12-26T07:05:38.7712616+00:00",
       "NumProgressed": 981495,
       "NumCompleted": 2976
+    },
+    {
+      "Time": "2023-12-26T08:04:48.7148627+00:00",
+      "NumProgressed": 981507,
+      "NumCompleted": 2976
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45756,7 +45761,7 @@
       "Name": "City Lights",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "BornToBeWild",
@@ -45812,7 +45817,7 @@
       "Name": "Autojock",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6870
+      "UsersEstimate": 6871
     },
     {
       "ID": "GetMeThereScottie",
@@ -45820,7 +45825,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "GunKata",
@@ -45828,7 +45833,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78520
+      "UsersEstimate": 78521
     },
     {
       "ID": "Gunslinger",
@@ -45868,7 +45873,7 @@
       "Name": "Little Tokyo",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "MasterRunner",
@@ -45956,7 +45961,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "TheDevil",
@@ -45964,7 +45969,7 @@
       "Name": "The Devil",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "TheFool",
@@ -46004,7 +46009,7 @@
       "Name": "The Star",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "TheSun",
@@ -46044,7 +46049,7 @@
       "Name": "The Jungle",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "TrueSoldier",
@@ -46084,7 +46089,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117779
+      "UsersEstimate": 117781
     },
     {
       "ID": "YipMan",
@@ -46092,7 +46097,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -46156,7 +46161,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "Kingofcups",
@@ -46291,21 +46296,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981495,
+      "Progressed": 981507,
       "Completed": 2976
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110118,
-      "Completed": 10459
+      "Progressed": 110130,
+      "Completed": 10460
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-26T03:03:43.1187394+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:38.7712612+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:04:48.7148625+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:03:10.1678973+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:38.7714001+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:02:51.665883+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:04:48.7149959+00:00"
 }

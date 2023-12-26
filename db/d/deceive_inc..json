@@ -3,11 +3,11 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 456,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 573,
+  "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19166,
+  "EOS_Progressed": 19167,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14094,6 +14094,11 @@
       "Time": "2023-12-25T18:04:22.3818102+00:00",
       "NumProgressed": 19166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-26T08:04:37.4481538+00:00",
+      "NumProgressed": 19167,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14377,7 +14382,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "0036",
@@ -14392,7 +14397,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19166,
+      "Progressed": 19167,
       "Completed": 4
     }
   ],
@@ -14400,8 +14405,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-26T07:05:26.3146497+00:00",
+  "LastChanged_Achievements": "2023-12-26T08:04:37.4481536+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-26T07:02:43.9678513+00:00",
-  "LastUpdate_Achievements": "2023-12-26T07:05:26.3147369+00:00"
+  "LastUpdate_Ratings": "2023-12-26T08:00:29.0893549+00:00",
+  "LastUpdate_Achievements": "2023-12-26T08:04:37.4482386+00:00"
 }

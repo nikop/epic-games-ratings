@@ -36,13 +36,13 @@ Rating: 4.58 (Ranked 456)
 | PHD in VIP | 2.00% | ~383 |
 | The terminals are not enough | 1.00% | ~192 |
 | Lose Another Day | 1.00% | ~192 |
-| Chairman of Deceive Inc. | 0.90% | ~172 |
+| Chairman of Deceive Inc. | 0.90% | ~173 |
 | Chief Information Officer | 0.80% | ~153 |
 | Masteries Are Forever | 0.50% | ~96 |
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,166 (Ranked 151)  
+Progressed: 19,167 (Ranked 151)  
 Completed: 4 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,6 +292,7 @@ Completed: 4 (0.02%) (Ranked 357)
 | 2023-12-23 | 19,150 | 4 |
 | 2023-12-24 | 19,161 | 4 |
 | 2023-12-25 | 19,166 | 4 |
+| 2023-12-26 | 19,167 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

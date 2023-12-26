@@ -1,61 +1,61 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 281)  
+Rating: 4.67 (Ranked 282)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 90.00% | ~11,019 |
-| On the Top Step | 82.00% | ~10,039 |
-| Setting up for Success | 68.00% | ~8,325 |
-| Team Orders | 67.00% | ~8,203 |
-| Engineer | 45.00% | ~5,509 |
-| Familiar Faces | 42.00% | ~5,142 |
-| Going the Extra Mile | 36.00% | ~4,407 |
-| Sharing the Love | 33.00% | ~4,040 |
-| Hitting a Season | 26.00% | ~3,183 |
-| Making History | 25.00% | ~3,061 |
-| A Dozen Pieces | 24.00% | ~2,938 |
-| Network Success | 23.00% | ~2,816 |
-| Challenge Yourself | 23.00% | ~2,816 |
-| Writing a new Chapter | 19.00% | ~2,326 |
-| Spring Cleaning | 18.00% | ~2,204 |
-| Reduce | 15.00% | ~1,836 |
-| Ups and Downs | 15.00% | ~1,836 |
-| Crucial Combo | 14.00% | ~1,714 |
-| Reuse | 12.00% | ~1,469 |
-| Proving Them Wrong | 12.00% | ~1,469 |
-| Gathering Dust | 11.00% | ~1,347 |
-| One for the Book | 11.00% | ~1,347 |
-| Oil and Water | 10.00% | ~1,224 |
-| Friendly Competition | 10.00% | ~1,224 |
-| Switcheroo | 10.00% | ~1,224 |
-| Eagle Eye | 9.00% | ~1,102 |
-| All in a Weekend's Work | 9.00% | ~1,102 |
-| Lightning Round the World | 9.00% | ~1,102 |
-| Hitting a Bullseye | 9.00% | ~1,102 |
-| Spinning Around | 9.00% | ~1,102 |
-| Recycle | 7.00% | ~857 |
-| Tinkerer | 7.00% | ~857 |
+| Getting on the Step | 90.00% | ~11,032 |
+| On the Top Step | 82.00% | ~10,052 |
+| Setting up for Success | 68.00% | ~8,335 |
+| Team Orders | 67.00% | ~8,213 |
+| Engineer | 45.00% | ~5,516 |
+| Familiar Faces | 42.00% | ~5,148 |
+| Going the Extra Mile | 36.00% | ~4,413 |
+| Sharing the Love | 33.00% | ~4,045 |
+| Hitting a Season | 26.00% | ~3,187 |
+| Making History | 25.00% | ~3,064 |
+| A Dozen Pieces | 24.00% | ~2,942 |
+| Network Success | 23.00% | ~2,819 |
+| Challenge Yourself | 23.00% | ~2,819 |
+| Writing a new Chapter | 19.00% | ~2,329 |
+| Spring Cleaning | 18.00% | ~2,206 |
+| Reduce | 15.00% | ~1,839 |
+| Ups and Downs | 15.00% | ~1,839 |
+| Crucial Combo | 14.00% | ~1,716 |
+| Reuse | 12.00% | ~1,471 |
+| Proving Them Wrong | 12.00% | ~1,471 |
+| Gathering Dust | 11.00% | ~1,348 |
+| One for the Book | 11.00% | ~1,348 |
+| Oil and Water | 10.00% | ~1,226 |
+| Friendly Competition | 10.00% | ~1,226 |
+| Switcheroo | 10.00% | ~1,226 |
+| Eagle Eye | 9.00% | ~1,103 |
+| All in a Weekend's Work | 9.00% | ~1,103 |
+| Lightning Round the World | 9.00% | ~1,103 |
+| Hitting a Bullseye | 9.00% | ~1,103 |
+| Spinning Around | 9.00% | ~1,103 |
+| Recycle | 7.00% | ~858 |
+| Tinkerer | 7.00% | ~858 |
 | Undisputed Winner | 6.00% | ~735 |
 | For all Those Back at the Factory | 4.00% | ~490 |
 | Living up to Expectations | 4.00% | ~490 |
 | Smooth Operator | 4.00% | ~490 |
 | Peak Performance | 4.00% | ~490 |
-| Hitting a Century | 3.00% | ~367 |
-| Loyal Bond | 3.00% | ~367 |
+| Hitting a Century | 3.00% | ~368 |
+| Loyal Bond | 3.00% | ~368 |
 | Seasoned Rookie | 2.00% | ~245 |
 | Wait, I know you? | 2.00% | ~245 |
-| Saturday Night Drama | 1.00% | ~122 |
-| Filling in the Gaps | 1.00% | ~122 |
-| Media Darling | 1.00% | ~122 |
-| Under the Microscope | 0.60% | ~73 |
+| Saturday Night Drama | 1.00% | ~123 |
+| Filling in the Gaps | 1.00% | ~123 |
+| Media Darling | 1.00% | ~123 |
+| Under the Microscope | 0.60% | ~74 |
 | Ultimate Collector | 0.30% | ~37 |
-| Golden Touch | 0.20% | ~24 |
+| Golden Touch | 0.20% | ~25 |
 | Shot in the Dark | 0.10% | ~12 |
 | Elite Racer | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,243 (Ranked 171)  
+Progressed: 12,258 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,11 +159,11 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 11,212 | 0 |
 | 2023-12-24 | 11,652 | 0 |
 | 2023-12-25 | 12,131 | 0 |
-| 2023-12-26 | 12,243 | 0 |
+| 2023-12-26 | 12,258 | 0 |
 ## Awards
-Max (Diverse Characters): 46  (Ranked 460)  
+Max (Diverse Characters): 46  (Ranked 459)  
 Sum: 301 (Ranked 371)  
-Diff (max vs sum): 89  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 46 |
