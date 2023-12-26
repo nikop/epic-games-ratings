@@ -4,10 +4,10 @@
   "ProductSlug": "iratus-d0e5ba",
   "Ranking_Rating": 784,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2457,7 +2457,7 @@
   ],
   "EOS_Progressed": 47848,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30202,8 +30202,8 @@
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-23T20:58:38.5333448+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:23:27.3346681+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:05:21.6008739+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.2122178+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:19:02.1045778+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:23:27.334837+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:01:03.203548+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:05:21.6010414+00:00"
 }

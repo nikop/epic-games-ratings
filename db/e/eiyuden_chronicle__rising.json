@@ -6,8 +6,8 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.84,
+  "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -661,6 +661,11 @@
       "Time": "2023-12-24T16:08:44.2107226+00:00",
       "NumProgressed": 765,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-26T03:09:05.5769014+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -672,7 +677,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -680,7 +685,7 @@
       "Name": "Partners?",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -688,7 +693,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -704,7 +709,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -752,7 +757,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -768,7 +773,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -776,7 +781,7 @@
       "Name": "A Local Hero",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT015",
@@ -800,7 +805,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -856,7 +861,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -864,7 +869,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -872,7 +877,7 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -928,7 +933,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -976,7 +981,7 @@
       "Name": "Meat Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -1040,7 +1045,7 @@
       "Name": "Champion of the Quarry",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT048",
@@ -1056,7 +1061,7 @@
       "Name": "Champion of the Lava Ruins",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -1071,15 +1076,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:26:21.7881901+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:09:05.5769009+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:16:29.9772103+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:26:21.7882275+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:57:37.6913642+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:09:05.5769327+00:00"
 }

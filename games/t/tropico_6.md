@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,939 |
-| Un-Lonely Island | 45.00% | ~3,003 |
+| Just One...More...Term... | 74.00% | ~4,940 |
+| Un-Lonely Island | 45.00% | ~3,004 |
 | The Beginning of a Servantship | 44.00% | ~2,937 |
 | Trade Is My Trait | 36.00% | ~2,403 |
 | Number 18 | 23.00% | ~1,535 |
-| We Don't Have Time For That | 18.00% | ~1,201 |
+| We Don't Have Time For That | 18.00% | ~1,202 |
 | The Governator | 17.00% | ~1,135 |
 | The Legend of Langostino | 16.00% | ~1,068 |
 | Caribbean Comrade | 15.00% | ~1,001 |
 | The Dreamer of Dreams | 15.00% | ~1,001 |
 | Go Sovereigns! | 11.00% | ~734 |
 | For Science! | 11.00% | ~734 |
-| Happy Ending? | 10.00% | ~667 |
+| Happy Ending? | 10.00% | ~668 |
 | Of Seals And Men | 9.00% | ~601 |
 | Shackadelic | 9.00% | ~601 |
 | Double Trouble | 8.00% | ~534 |
@@ -36,18 +36,18 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 3.00% | ~200 |
 | Narcissist | 3.00% | ~200 |
 | The Time For Wonders | 3.00% | ~200 |
-| One Does Not Simply Stage A Coup | 2.00% | ~133 |
-| Promising Endeavors | 2.00% | ~133 |
-| Sublime Subliminal Supreme | 2.00% | ~133 |
-| Teamplayer | 2.00% | ~133 |
-| Terraformer | 2.00% | ~133 |
-| Curse of the Mummy | 2.00% | ~133 |
+| One Does Not Simply Stage A Coup | 2.00% | ~134 |
+| Promising Endeavors | 2.00% | ~134 |
+| Sublime Subliminal Supreme | 2.00% | ~134 |
+| Teamplayer | 2.00% | ~134 |
+| Terraformer | 2.00% | ~134 |
+| Curse of the Mummy | 2.00% | ~134 |
 | Chain Gang | 1.00% | ~67 |
 | From Knight to Little Duck | 1.00% | ~67 |
 | Survivor | 0.80% | ~53 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,674 (Ranked 192)  
+Progressed: 6,675 (Ranked 192)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-23 | 6,620 | 2 |
 | 2023-12-24 | 6,646 | 2 |
 | 2023-12-25 | 6,671 | 2 |
-| 2023-12-26 | 6,674 | 2 |
+| 2023-12-26 | 6,675 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
 Sum: 743 (Ranked 295)  

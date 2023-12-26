@@ -4,10 +4,10 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 11,
   "Ranking_Popularity": 395,
-  "Ranking_PopularitySum": 469,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3361,9 +3361,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 171
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3562,8 +3562,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:22:58.6636994+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:04:45.5292545+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:17:56.8307278+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:22:58.6637542+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:59:36.8522196+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:04:45.5293135+00:00"
 }

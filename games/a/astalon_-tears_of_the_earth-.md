@@ -30,8 +30,8 @@
 | Gorgonslayer Mastery | 11.00% | ~8 |
 | Built for adventure | 11.00% | ~8 |
 | Collector Mastery | 11.00% | ~8 |
+| Freedom Monster | 9.00% | ~7 |
 | True Black Knight | 8.00% | ~6 |
-| Freedom Monster | 8.00% | ~6 |
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

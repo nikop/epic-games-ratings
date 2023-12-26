@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~475 |
+| Malpractice Assurance | 10.00% | ~476 |
 | Lost and Found | 6.00% | ~285 |
 | This Belongs in a Museum | 5.00% | ~6,494 |
 | Autodidact | 5.00% | ~6,494 |
 | This guy... again? | 5.00% | ~238 |
-| Serenity Now! | 4.00% | ~5,195 |
-| Creep and Sleep | 4.00% | ~5,195 |
-| Meat and Greet | 4.00% | ~5,195 |
-| Catch and Decease | 4.00% | ~5,195 |
-| Overdue Notice | 4.00% | ~5,195 |
-| Escape from the Black Hole | 4.00% | ~5,195 |
+| Serenity Now! | 4.00% | ~5,196 |
+| Creep and Sleep | 4.00% | ~5,196 |
+| Meat and Greet | 4.00% | ~5,196 |
+| Catch and Decease | 4.00% | ~5,196 |
+| Overdue Notice | 4.00% | ~5,196 |
+| Escape from the Black Hole | 4.00% | ~5,196 |
 | Ploughshares to Swords | 4.00% | ~190 |
 | Bloody Graduation | 4.00% | ~190 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,896 |
-| It Rings a Bell | 3.00% | ~3,896 |
-| Not Today! | 3.00% | ~3,896 |
-| It Happens | 3.00% | ~3,896 |
-| Rush Hour | 3.00% | ~3,896 |
-| Merry Time | 3.00% | ~3,896 |
-| Harvest Festival | 3.00% | ~3,896 |
-| To Grandmother's House | 3.00% | ~3,896 |
-| Whale | 3.00% | ~3,896 |
-| A Place to Lay Your Head | 3.00% | ~3,896 |
-| FNG | 3.00% | ~3,896 |
-| Nope | 3.00% | ~3,896 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,897 |
+| It Rings a Bell | 3.00% | ~3,897 |
+| Not Today! | 3.00% | ~3,897 |
+| It Happens | 3.00% | ~3,897 |
+| Rush Hour | 3.00% | ~3,897 |
+| Merry Time | 3.00% | ~3,897 |
+| Harvest Festival | 3.00% | ~3,897 |
+| To Grandmother's House | 3.00% | ~3,897 |
+| Whale | 3.00% | ~3,897 |
+| A Place to Lay Your Head | 3.00% | ~3,897 |
+| FNG | 3.00% | ~3,897 |
+| Nope | 3.00% | ~3,897 |
 | Friends 'Til the End | 3.00% | ~143 |
 | Resurrection | 2.00% | ~2,598 |
 | Unleash Hell | 2.00% | ~2,598 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,883 (Ranked 87)  
+Progressed: 129,888 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 129,883 | 3 |
+| 2023-12-26 | 129,888 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
 Sum: 21,099 (Ranked 58)  

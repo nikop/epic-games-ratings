@@ -37,9 +37,9 @@ Rating: 4.65 (Ranked 321)
 | Cartographer | 13.00% | ~144 |
 | Ask Questions Later | 13.00% | ~144 |
 | Chaincrawler Explorer | 12.00% | ~133 |
+| Sump Explorer | 11.00% | ~122 |
 | Syron for Hope | 11.00% | ~122 |
 | Factorywood Explorer | 10.00% | ~111 |
-| Sump Explorer | 10.00% | ~111 |
 | Theater Explorer | 10.00% | ~111 |
 | Cultivair Explorer | 9.00% | ~100 |
 | Fairgrounds Explorer | 9.00% | ~100 |

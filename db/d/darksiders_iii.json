@@ -1204,9 +1204,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1236,9 +1236,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1340,9 +1340,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1404,8 +1404,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:26:04.9128204+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:08:43.996343+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:16:46.5377682+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:26:04.9128619+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:57:59.507804+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:08:43.9963841+00:00"
 }

@@ -1841,9 +1841,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19302,
+  "EOS_Progressed": 19306,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1330,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11206,6 +11206,11 @@
       "Time": "2023-12-26T02:28:17.5806662+00:00",
       "NumProgressed": 19302,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-26T03:10:13.9975175+00:00",
+      "NumProgressed": 19306,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11249,7 +11254,7 @@
       "Name": "Flesh Wound",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11321,7 +11326,7 @@
       "Name": "Get a Grip",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11343,9 +11348,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2509
+      "UsersEstimate": 2703
     },
     {
       "ID": "KILL_ROBOT",
@@ -11361,7 +11366,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11377,7 +11382,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2509
+      "UsersEstimate": 2510
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -11385,7 +11390,7 @@
       "Name": "Reforged",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11393,7 +11398,7 @@
       "Name": "Paper Jams",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11409,7 +11414,7 @@
       "Name": "The Outer Way",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11417,7 +11422,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "STORY_HABITAT",
@@ -11425,7 +11430,7 @@
       "Name": "Without A Paddle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "STORY_HANGAR",
@@ -11449,7 +11454,7 @@
       "Name": "Desperate Times",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11577,7 +11582,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -11592,13 +11597,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19302,
+      "Progressed": 19306,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7228,
+      "Progressed": 7232,
       "Completed": 29
     }
   ],
@@ -11606,8 +11611,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-25T22:03:12.4922921+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:28:17.5806653+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:10:13.997517+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:22:18.3179413+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:28:17.5807319+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:03:52.4928877+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:10:13.9975916+00:00"
 }

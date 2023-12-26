@@ -1513,18 +1513,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 535,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-12-26T03:00:57.5065588+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 537,
+      "NumberOfAwardsMax": 256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 535,
-  "NumberOfAwardsMax": 254,
+  "NumberOfAwards": 537,
+  "NumberOfAwardsMax": 256,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 254
+      "Count": 256
     },
     {
       "Text": "This game is Relaxing",
@@ -1581,7 +1587,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244699,
+  "EOS_Progressed": 244703,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 1,
@@ -23686,6 +23692,11 @@
       "Time": "2023-12-26T02:28:54.936472+00:00",
       "NumProgressed": 244699,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T03:11:00.359214+00:00",
+      "NumProgressed": 244703,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -23737,7 +23748,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "Chapter1",
@@ -24145,7 +24156,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88092
+      "UsersEstimate": 88093
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24289,7 +24300,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "QuestMinstrel",
@@ -24400,21 +24411,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244699,
+      "Progressed": 244703,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244699,
+      "Progressed": 244703,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-25T02:21:17.3774764+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:28:54.9364717+00:00",
+  "LastChanged": "2023-12-26T03:00:57.5065586+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:11:00.3592134+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:18:56.93593+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:28:54.9366292+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:00:57.506559+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:11:00.3593588+00:00"
 }

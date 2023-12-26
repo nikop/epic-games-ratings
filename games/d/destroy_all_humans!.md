@@ -27,14 +27,14 @@ Number of Ratings: 85  (23.09.2022)
 | Trans-Siberian Express | 23.00% | ~37 |
 | Deincarnated | 22.00% | ~36 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~34 |
-| Arkvoodle Doodle | 15.00% | ~24 |
+| Arkvoodle Doodle | 16.00% | ~26 |
 | Ouch of Body Experience | 15.00% | ~24 |
 | Die Nasty | 14.00% | ~23 |
 | Hidden Human Hive Harvest | 13.00% | ~21 |
 | Mash Machine | 13.00% | ~21 |
 | Dusted | 13.00% | ~21 |
 | If You Know What I Mean | 12.00% | ~19 |
-| Albion Bridge Is for Falling Down | 11.00% | ~18 |
+| Albion Bridge Is for Falling Down | 12.00% | ~19 |
 | Scuttled | 7.00% | ~11 |
 | PK Slam Dunk | 7.00% | ~11 |
 | Higher Than the Futen Zoku | 7.00% | ~11 |

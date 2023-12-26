@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136063,
+  "EOS_Progressed": 136064,
   "EOS_Completed": 1213,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -28833,6 +28833,11 @@
       "Time": "2023-12-26T02:22:53.8762752+00:00",
       "NumProgressed": 136063,
       "NumCompleted": 1213
+    },
+    {
+      "Time": "2023-12-26T03:04:39.3716686+00:00",
+      "NumProgressed": 136064,
+      "NumCompleted": 1213
     }
   ],
   "TotalAchievements": 34,
@@ -28860,7 +28865,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 57146
+      "UsersEstimate": 57147
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -28900,7 +28905,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 108850
+      "UsersEstimate": 108851
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -28916,7 +28921,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 76195
+      "UsersEstimate": 76196
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -28932,7 +28937,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 54425
+      "UsersEstimate": 54426
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -29028,7 +29033,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 24491
+      "UsersEstimate": 24492
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -29100,7 +29105,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 31294
+      "UsersEstimate": 31295
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -29115,7 +29120,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 136063,
+      "Progressed": 136064,
       "Completed": 1213
     }
   ],
@@ -29123,8 +29128,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:22:53.8762746+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:04:39.3716681+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:19.3562765+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:16:48.8302375+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:22:53.8764697+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:58:02.6706026+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:04:39.3718326+00:00"
 }

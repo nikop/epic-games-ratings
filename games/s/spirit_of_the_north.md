@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~53,768 |
-| INFUSED WITH LIGHT | 53.00% | ~41,300 |
-| FOXIN' AROUND | 29.00% | ~22,598 |
-| FETCH | 28.00% | ~21,819 |
-| BLOOMS OF LIGHT | 26.00% | ~20,260 |
-| AWAKEN | 22.00% | ~17,143 |
-| BEST FRIENDS | 22.00% | ~17,143 |
-| ERADICATE | 21.00% | ~16,364 |
-| SPIRIT BARK | 21.00% | ~16,364 |
-| GARDEN OF LIGHT | 18.00% | ~14,026 |
-| SPIRIT FORM | 17.00% | ~13,247 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~53,770 |
+| INFUSED WITH LIGHT | 53.00% | ~41,302 |
+| FOXIN' AROUND | 29.00% | ~22,599 |
+| FETCH | 28.00% | ~21,820 |
+| BLOOMS OF LIGHT | 26.00% | ~20,261 |
+| AWAKEN | 22.00% | ~17,144 |
+| BEST FRIENDS | 22.00% | ~17,144 |
+| ERADICATE | 21.00% | ~16,365 |
+| SPIRIT BARK | 21.00% | ~16,365 |
+| GARDEN OF LIGHT | 18.00% | ~14,027 |
+| SPIRIT FORM | 17.00% | ~13,248 |
 | UPROOTING DARKNESS | 16.00% | ~12,468 |
 | WRITTEN IN STONE | 16.00% | ~12,468 |
 | WEIGHTLESS | 12.00% | ~9,351 |
 | SPIRIT DASH | 11.00% | ~8,572 |
-| OLD COMPANION | 9.00% | ~7,013 |
-| PLAGUE DOCTOR | 9.00% | ~7,013 |
+| OLD COMPANION | 9.00% | ~7,014 |
+| PLAGUE DOCTOR | 9.00% | ~7,014 |
 | MATCH MAKER | 8.00% | ~6,234 |
 | NORTHERN LIGHTS | 8.00% | ~6,234 |
 | SPIRITED AWAY | 8.00% | ~6,234 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,117 |
 | ANCIENT HISTORY | 3.00% | ~2,338 |
-| NONE FORGOTTEN | 2.00% | ~1,558 |
+| NONE FORGOTTEN | 2.00% | ~1,559 |
 | KINDRED SPIRITS | 0.60% | ~468 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,924 (Ranked 105)  
+Progressed: 77,928 (Ranked 105)  
 Completed: 418 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 418 (0.54%) (Ranked 210)
 | 2023-12-23 | 77,682 | 417 |
 | 2023-12-24 | 77,784 | 417 |
 | 2023-12-25 | 77,912 | 418 |
-| 2023-12-26 | 77,924 | 418 |
+| 2023-12-26 | 77,928 | 418 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 529)  
 Sum: 116 (Ranked 451)  

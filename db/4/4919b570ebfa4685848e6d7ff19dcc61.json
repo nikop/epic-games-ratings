@@ -4,7 +4,7 @@
   "ProductSlug": "galaxy-trek-c165da",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-01-01T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-25T16:57:07.1493836+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:16:22.2015455+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:25:48.8320836+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:57:27.1274177+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:08:22.967423+00:00"
 }

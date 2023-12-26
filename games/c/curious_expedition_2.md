@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 172)  
+Rating: 4.73 (Ranked 173)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 20  (23.09.2022)
 | Shennong Herbalist | 36.00% | ~135 |
 | Treasure Hunt | 35.00% | ~132 |
 | Good Mama | 33.00% | ~124 |
-| O Captain My Captain | 31.00% | ~117 |
+| O Captain My Captain | 32.00% | ~120 |
 | Plunderer | 31.00% | ~117 |
 | Taxonomist | 28.00% | ~105 |
 | Uncertain Loyalties | 26.00% | ~98 |

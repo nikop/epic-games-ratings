@@ -597,7 +597,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6220,
+  "EOS_Progressed": 6221,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
@@ -9182,6 +9182,11 @@
       "Time": "2023-12-26T01:47:15.3328893+00:00",
       "NumProgressed": 6220,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T03:04:36.2059005+00:00",
+      "NumProgressed": 6221,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9215,9 +9220,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "13",
@@ -9672,13 +9677,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6220,
+      "Progressed": 6221,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6220,
+      "Progressed": 6221,
       "Completed": 7
     }
   ],
@@ -9686,8 +9691,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:22:51.3448642+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:04:36.2059001+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:18:48.9608527+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:22:51.344948+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:00:46.8755861+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:04:36.2059919+00:00"
 }

@@ -22,9 +22,9 @@
 | Gooey Delight! | 42.00% | ~486 |
 | Glimmer of Hope | 42.00% | ~486 |
 | Nightmare Fuel | 41.00% | ~475 |
+| Take Heart | 41.00% | ~475 |
 | The Guardian | 41.00% | ~475 |
 | Teacups for Toppy | 41.00% | ~475 |
-| Take Heart | 40.00% | ~463 |
 | Stronger! | 40.00% | ~463 |
 | Well Rested | 40.00% | ~463 |
 | Ancient Wisdom | 39.00% | ~452 |

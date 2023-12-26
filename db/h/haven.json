@@ -183,7 +183,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1772,
+  "EOS_Progressed": 1773,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -2913,6 +2913,11 @@
       "Time": "2023-12-25T22:04:09.0870842+00:00",
       "NumProgressed": 1772,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T03:05:20.17572+00:00",
+      "NumProgressed": 1773,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2924,7 +2929,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "10",
@@ -2932,7 +2937,7 @@
       "Name": "Perfect timing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "11",
@@ -2956,7 +2961,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "14",
@@ -3163,15 +3168,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1772,
+      "Progressed": 1773,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:23:26.1866574+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:05:20.1757195+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:17:46.7398858+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:23:26.1866908+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:59:23.2290349+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:05:20.1757451+00:00"
 }

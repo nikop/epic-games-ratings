@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 150,
@@ -3593,9 +3593,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19254,
+  "EOS_Progressed": 19257,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17128,6 +17128,11 @@
       "Time": "2023-12-26T01:48:03.5391178+00:00",
       "NumProgressed": 19254,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T03:05:44.0327628+00:00",
+      "NumProgressed": 19257,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17611,15 +17616,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19254,
+      "Progressed": 19257,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T13:02:02.8849461+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:23:44.9895167+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:05:44.0327623+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:17:43.5853217+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:23:44.9896089+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:59:18.8814021+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:05:44.0328462+00:00"
 }

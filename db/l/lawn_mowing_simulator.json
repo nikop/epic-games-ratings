@@ -2230,9 +2230,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 691297,
+  "EOS_Progressed": 691303,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2085,
+  "EOS_NewPlayers": 2087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30915,6 +30915,11 @@
       "Time": "2023-12-26T02:29:00.0050939+00:00",
       "NumProgressed": 691297,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-26T03:11:06.2388941+00:00",
+      "NumProgressed": 691303,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -30926,7 +30931,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 546125
+      "UsersEstimate": 546129
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -31014,7 +31019,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 248867
+      "UsersEstimate": 248869
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -31166,7 +31171,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 214302
+      "UsersEstimate": 214304
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -31326,7 +31331,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124433
+      "UsersEstimate": 124435
     },
     {
       "ID": "RP_TRUSTED",
@@ -31357,15 +31362,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 691297,
+      "Progressed": 691303,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:29:00.0050933+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:11:06.2388936+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:11.5619448+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:18:09.230368+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:29:00.0052413+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:59:53.4282167+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:11:06.2390794+00:00"
 }

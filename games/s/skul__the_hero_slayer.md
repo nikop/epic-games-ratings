@@ -1,37 +1,37 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.73 (Ranked 172)  
+Rating: 4.74 (Ranked 160)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~11,631 |
-| What should I buy? | 81.00% | ~10,130 |
-| Rescued Elder Ent | 61.00% | ~7,629 |
-| Focus! | 60.00% | ~7,504 |
-| The End of the Gold Mane Knights | 47.00% | ~5,878 |
-| False Goddess, Disappear | 38.00% | ~4,752 |
-| Rules of Etiquette | 36.00% | ~4,502 |
-| Inventory Management | 31.00% | ~3,877 |
-| The Fall of the Leonia Order | 29.00% | ~3,627 |
-| Quick Movements | 29.00% | ~3,627 |
-| Go Home... | 26.00% | ~3,252 |
-| The Final Battle of the First Hero | 25.00% | ~3,126 |
-| The Hero Killer | 24.00% | ~3,001 |
-| Brain at Full Throttle | 20.00% | ~2,501 |
-| Rookies Welcome | 18.00% | ~2,251 |
+| The Legend Begins | 93.00% | ~11,634 |
+| What should I buy? | 81.00% | ~10,133 |
+| Rescued Elder Ent | 61.00% | ~7,631 |
+| Focus! | 60.00% | ~7,506 |
+| The End of the Gold Mane Knights | 47.00% | ~5,880 |
+| False Goddess, Disappear | 38.00% | ~4,754 |
+| Rules of Etiquette | 36.00% | ~4,504 |
+| Inventory Management | 31.00% | ~3,878 |
+| The Fall of the Leonia Order | 29.00% | ~3,628 |
+| Quick Movements | 29.00% | ~3,628 |
+| Go Home... | 26.00% | ~3,253 |
+| The Final Battle of the First Hero | 25.00% | ~3,128 |
+| The Hero Killer | 24.00% | ~3,002 |
+| Brain at Full Throttle | 20.00% | ~2,502 |
+| Rookies Welcome | 18.00% | ~2,252 |
 | Deadly Power | 15.00% | ~1,876 |
 | Castle Restoration Plans | 12.00% | ~1,501 |
 | The Dwarven Chandelier | 10.00% | ~1,251 |
 | Master of Speed | 9.00% | ~1,126 |
-| The Levitator | 7.00% | ~875 |
+| The Levitator | 7.00% | ~876 |
 | The God of Battle | 4.00% | ~500 |
 | Too Much of a Talker | 1.00% | ~125 |
 | The Skeleton King | 1.00% | ~125 |
 | Cold-Blooded | 0.60% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,506 (Ranked 170)  
+Progressed: 12,510 (Ranked 170)  
 Completed: 18 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,14 +260,14 @@ Completed: 18 (0.14%) (Ranked 293)
 | 2023-12-23 | 12,131 | 18 |
 | 2023-12-24 | 12,351 | 18 |
 | 2023-12-25 | 12,498 | 18 |
-| 2023-12-26 | 12,506 | 18 |
+| 2023-12-26 | 12,510 | 18 |
 ## Awards
-Max (Great for Beginners): 143  (Ranked 329)  
-Sum: 968 (Ranked 270)  
+Max (Great for Beginners): 145  (Ranked 328)  
+Sum: 970 (Ranked 269)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 143 |
+| This game is Great for Beginners | 145 |
 | This game has Diverse Characters | 140 |
 | This game is Highly Recommended | 116 |
 | This game is Extremely Fun | 114 |
@@ -440,3 +440,4 @@ Diff (max vs sum): 59
 | 2023-12-23 | 4.73 | - | 141 | 963 |
 | 2023-12-24 | 4.73 | - | 143 | 967 |
 | 2023-12-25 | 4.73 | - | 143 | 968 |
+| 2023-12-26 | 4.74 | - | 145 | 970 |

@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17392,
+  "EOS_Progressed": 17393,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17025,6 +17025,11 @@
       "Time": "2023-12-26T00:06:19.4380207+00:00",
       "NumProgressed": 17392,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-26T03:08:45.4169548+00:00",
+      "NumProgressed": 17393,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 41,
@@ -17076,7 +17081,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5565
+      "UsersEstimate": 5566
     },
     {
       "ID": "tpote_achievement_15",
@@ -17124,7 +17129,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "tpote_achievement_20",
@@ -17148,7 +17153,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "tpote_achievement_23",
@@ -17252,7 +17257,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "tpote_achievement_35",
@@ -17340,7 +17345,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "tpote_achievement_8",
@@ -17348,7 +17353,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "tpote_achievement_9",
@@ -17356,22 +17361,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17392,
+      "Progressed": 17393,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:26:06.0786707+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:08:45.4169543+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:17:36.7668216+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:26:06.0787583+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:59:10.7163984+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:08:45.4170504+00:00"
 }

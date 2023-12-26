@@ -9005,10 +9005,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33079,
       "NumberOfAwardsMax": 5691
+    },
+    {
+      "Time": "2023-12-26T02:58:17.0027849+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33083,
+      "NumberOfAwardsMax": 5691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33079,
+  "NumberOfAwards": 33083,
   "NumberOfAwardsMax": 5691,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9034,7 +9040,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4741
+      "Count": 4745
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9055,9 +9061,9 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244689,
+  "EOS_Progressed": 244698,
   "EOS_Completed": 2564,
-  "EOS_NewPlayers": 2820,
+  "EOS_NewPlayers": 2827,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37260,6 +37266,11 @@
       "Time": "2023-12-26T02:29:06.3613888+00:00",
       "NumProgressed": 244689,
       "NumCompleted": 2564
+    },
+    {
+      "Time": "2023-12-26T03:11:12.9815654+00:00",
+      "NumProgressed": 244698,
+      "NumCompleted": 2564
     }
   ],
   "TotalAchievements": 546,
@@ -37269,9 +37280,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2447
+      "UsersEstimate": 4894
     },
     {
       "ID": "objective_completed_10",
@@ -41638,21 +41649,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210963,
+      "Progressed": 210972,
       "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244689,
+      "Progressed": 244698,
       "Completed": 2564
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-25T23:57:31.683158+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:29:06.3613882+00:00",
+  "LastChanged": "2023-12-26T02:58:17.0027848+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:11:12.9815649+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:16:59.2960122+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:29:06.3637438+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:58:17.0027854+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:11:12.9838429+00:00"
 }

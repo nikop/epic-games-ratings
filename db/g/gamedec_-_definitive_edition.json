@@ -501,7 +501,7 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 255717,
+  "EOS_Progressed": 255719,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 1,
@@ -28466,6 +28466,11 @@
       "Time": "2023-12-26T02:25:54.8028501+00:00",
       "NumProgressed": 255717,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T03:08:30.7232806+00:00",
+      "NumProgressed": 255719,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28621,7 +28626,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74158
+      "UsersEstimate": 74159
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28693,7 +28698,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63929
+      "UsersEstimate": 63930
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -28781,7 +28786,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20457
+      "UsersEstimate": 20458
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -28789,7 +28794,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20457
+      "UsersEstimate": 20458
     },
     {
       "ID": "ACH_SCRATCH",
@@ -28797,7 +28802,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63929
+      "UsersEstimate": 63930
     },
     {
       "ID": "ACH_SOREAD",
@@ -28869,7 +28874,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20457
+      "UsersEstimate": 20458
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -28892,7 +28897,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255717,
+      "Progressed": 255719,
       "Completed": 8
     }
   ],
@@ -28900,8 +28905,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-24T10:02:49.5700162+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:25:54.8028495+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:08:30.72328+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:22:03.6269831+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:25:54.8029861+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:03:32.7477015+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:08:30.723441+00:00"
 }

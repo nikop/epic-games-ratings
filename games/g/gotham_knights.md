@@ -5,12 +5,12 @@ Rating: 4.18 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,874 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,114 |
-| Loose Ends | 33.00% | ~26,317 |
-| To the Victor Go the Spoils | 28.00% | ~22,329 |
-| Knighthood | 27.00% | ~21,532 |
-| Get ReQ'd | 25.00% | ~19,937 |
+| First Step Into the Knight | 50.00% | ~39,876 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,116 |
+| Loose Ends | 33.00% | ~26,318 |
+| To the Victor Go the Spoils | 28.00% | ~22,331 |
+| Knighthood | 27.00% | ~21,533 |
+| Get ReQ'd | 25.00% | ~19,938 |
 | Whispered Words | 24.00% | ~19,140 |
 | The Batman Family | 22.00% | ~17,545 |
 | Lock and Key | 22.00% | ~17,545 |
@@ -19,38 +19,38 @@ Rating: 4.18 (Ranked 951)
 | Working Hard or Harley Working? | 20.00% | ~15,950 |
 | Unstoppable Force | 20.00% | ~15,950 |
 | Bad Apples in Every Orchard | 20.00% | ~15,950 |
-| Snow Problem | 19.00% | ~15,152 |
+| Snow Problem | 19.00% | ~15,153 |
 | The Show Mud Go On | 18.00% | ~14,355 |
-| From Inside Gotham's Walls | 17.00% | ~13,557 |
+| From Inside Gotham's Walls | 17.00% | ~13,558 |
 | Protector of Gotham | 16.00% | ~12,760 |
-| In Your Element | 15.00% | ~11,962 |
-| Universal Health Scare | 15.00% | ~11,962 |
+| In Your Element | 15.00% | ~11,963 |
+| Universal Health Scare | 15.00% | ~11,963 |
 | Rock and a Hard Place | 14.00% | ~11,165 |
 | Cooldown | 14.00% | ~11,165 |
 | Voiceless | 14.00% | ~11,165 |
-| Shock Til They Drop | 13.00% | ~10,367 |
-| Seeking Asylum | 13.00% | ~10,367 |
+| Shock Til They Drop | 13.00% | ~10,368 |
+| Seeking Asylum | 13.00% | ~10,368 |
 | End of an Era | 12.00% | ~9,570 |
 | Not On My Watch | 12.00% | ~9,570 |
 | Bulldozed | 12.00% | ~9,570 |
 | Gotham Knight | 12.00% | ~9,570 |
-| Gotham City Confidential | 11.00% | ~8,772 |
+| Gotham City Confidential | 11.00% | ~8,773 |
 | Drone You Out | 10.00% | ~7,975 |
-| Out of Their League | 9.00% | ~7,177 |
-| Solid Alibi | 9.00% | ~7,177 |
-| Fusion Expert | 7.00% | ~5,582 |
+| Out of Their League | 9.00% | ~7,178 |
+| Solid Alibi | 9.00% | ~7,178 |
+| Fusion Expert | 7.00% | ~5,583 |
 | Family Meeting | 6.00% | ~4,785 |
 | A Worthy Successor | 6.00% | ~4,785 |
-| Expert Crime Fighter | 5.00% | ~3,987 |
+| Expert Crime Fighter | 5.00% | ~3,988 |
 | Dressed to Impress | 4.00% | ~3,190 |
-| A Momentum Occasion | 3.00% | ~2,392 |
-| Bat Out of Hell | 3.00% | ~2,392 |
+| A Momentum Occasion | 3.00% | ~2,393 |
+| Bat Out of Hell | 3.00% | ~2,393 |
 | Practice Makes Perfect | 2.00% | ~1,595 |
 | He'd Be So Proud of You | 2.00% | ~1,595 |
-| Talonted | 1.00% | ~797 |
-| The Man-Bat Family | 1.00% | ~797 |
-| Batarang Collector | 1.00% | ~797 |
-| Claiming the Mural High Ground | 1.00% | ~797 |
+| Talonted | 1.00% | ~798 |
+| The Man-Bat Family | 1.00% | ~798 |
+| Batarang Collector | 1.00% | ~798 |
+| Claiming the Mural High Ground | 1.00% | ~798 |
 | Icebreaker | 0.80% | ~400 |
 | History Major | 0.80% | ~638 |
 | A Sophisticated Mallet | 0.80% | ~400 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 951)
 | The Cold, the Bad and the Ugly | 0.30% | ~150 |
 | It's Nice to Be Wanted | 0.20% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,748 (Ranked 104)  
+Progressed: 79,752 (Ranked 104)  
 Completed: 128 (0.16%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 128 (0.16%) (Ranked 285)
 | 2023-12-23 | 79,360 | 127 |
 | 2023-12-24 | 79,555 | 128 |
 | 2023-12-25 | 79,729 | 128 |
-| 2023-12-26 | 79,748 | 128 |
+| 2023-12-26 | 79,752 | 128 |
 ## Awards
 Max (Great Boss Battles): 3,060  (Ranked 99)  
-Sum: 5,229 (Ranked 142)  
+Sum: 5,230 (Ranked 142)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): -43
 | This game has Quickly Understood Controls | 271 |
 | This game has Amazing Characters | 269 |
 | This game has Amazing Storytelling | 268 |
-| This game is Highly Recommended | 266 |
+| This game is Highly Recommended | 267 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -640,3 +640,4 @@ Diff (max vs sum): -43
 | 2023-12-23 | 4.18 | 3,047 | 5,212 |
 | 2023-12-24 | 4.19 | 3,053 | 5,220 |
 | 2023-12-25 | 4.18 | 3,060 | 5,229 |
+| 2023-12-26 | 4.18 | 3,060 | 5,230 |

@@ -50,6 +50,7 @@
 | Balanced | 6.00% | ~5 |
 | Get to the Airship! | 5.00% | ~4 |
 | Defeat Isgrimm | 5.00% | ~4 |
+| Defeat Raith | 5.00% | ~4 |
 | Defeat Undergast | 5.00% | ~4 |
 | Lytra's Tale | 5.00% | ~4 |
 | Crypt of the Revenant | 5.00% | ~4 |
@@ -58,7 +59,6 @@
 | Heroes | 5.00% | ~4 |
 | Friend of Grey Dusk Vale | 5.00% | ~4 |
 | Defeat Ianna | 4.00% | ~3 |
-| Defeat Raith | 4.00% | ~3 |
 | Defeat Rohen | 4.00% | ~3 |
 | Defeat Yria | 4.00% | ~3 |
 | Master Alchemist | 4.00% | ~3 |

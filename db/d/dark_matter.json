@@ -4,7 +4,7 @@
   "ProductSlug": "dark-matter-13654b",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-25T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.9850683+00:00",
   "LastChanged": "2023-03-31T05:58:19.9850684+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:59.0563628+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:22:22.6718194+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:28:06.5790977+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:03:58.1335467+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:10:00.3599927+00:00"
 }

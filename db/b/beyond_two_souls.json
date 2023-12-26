@@ -4,10 +4,10 @@
   "ProductSlug": "beyond-two-souls",
   "Ranking_Rating": 260,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2019-07-22T15:00:00+00:00",
@@ -532,6 +532,6 @@
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
   "LastChanged": "2023-12-21T22:57:43.0191647+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.9574554+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:18:54.6428243+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:28:17.6738513+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:00:54.4752507+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:10:13.9552429+00:00"
 }

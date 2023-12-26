@@ -11,17 +11,17 @@
 | At the top of the mountain. | 17.00% | ~46 |
 | Aggressive rocks. | 15.00% | ~40 |
 | Dino Ride. | 14.00% | ~38 |
-| Rocky fall. | 11.00% | ~29 |
+| Rocky fall. | 11.00% | ~30 |
 | In the heart of the volcano. | 10.00% | ~27 |
 | Dinosaur graveyard. | 10.00% | ~27 |
-| Swimming on a dino's back. | 8.00% | ~21 |
-| The entrails of the beast. | 8.00% | ~21 |
+| Swimming on a dino's back. | 8.00% | ~22 |
+| The entrails of the beast. | 8.00% | ~22 |
 | The mountain of peril. | 6.00% | ~16 |
 | Passing the carcass. | 5.00% | ~13 |
 | Lightning swamp. | 5.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 390)  
-Completed: 6 (2.24%) (Ranked 133)  
+Progressed: 269 (Ranked 390)  
+Completed: 6 (2.23%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 6 (2.24%) (Ranked 133)
 | 2023-12-23 | 261 | 6 |
 | 2023-12-24 | 265 | 6 |
 | 2023-12-25 | 268 | 6 |
+| 2023-12-26 | 269 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

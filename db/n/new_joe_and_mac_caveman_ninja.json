@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -606,6 +606,11 @@
       "Time": "2023-12-25T23:04:03.6139327+00:00",
       "NumProgressed": 268,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T03:05:24.7416962+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -665,7 +670,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "08",
@@ -697,7 +702,7 @@
       "Name": "Rocky fall.",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "12",
@@ -729,14 +734,14 @@
       "Name": "The entrails of the beast.",
       "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 6
     }
   ],
@@ -744,8 +749,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-26T02:23:29.7945828+00:00",
+  "LastChanged_Achievements": "2023-12-26T03:05:24.7416959+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:15.5888401+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:16:13.2234591+00:00",
-  "LastUpdate_Achievements": "2023-12-26T02:23:29.7945955+00:00"
+  "LastUpdate_Ratings": "2023-12-26T02:57:16.4192216+00:00",
+  "LastUpdate_Achievements": "2023-12-26T03:05:24.7417082+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,772 |
+| V for Vendetta | 12.00% | ~117,773 |
 | Gun Fu | 8.00% | ~78,515 |
-| The Fool | 7.00% | ~68,700 |
-| Right Back At Ya | 6.00% | ~58,886 |
-| The Lovers | 6.00% | ~58,886 |
+| The Fool | 7.00% | ~68,701 |
+| Right Back At Ya | 6.00% | ~58,887 |
+| The Lovers | 6.00% | ~58,887 |
 | Full Body Conversion | 5.00% | ~49,072 |
 | True Soldier | 5.00% | ~49,072 |
-| Christmas Tree Attack | 4.00% | ~39,257 |
-| Stanislavski's Method | 4.00% | ~39,257 |
-| The Hermit | 4.00% | ~39,257 |
-| The Wheel of Fortune | 4.00% | ~39,257 |
-| All the President's Men | 4.00% | ~4,402 |
-| Arachnophobia | 4.00% | ~4,402 |
+| Christmas Tree Attack | 4.00% | ~39,258 |
+| Stanislavski's Method | 4.00% | ~39,258 |
+| The Hermit | 4.00% | ~39,258 |
+| The Wheel of Fortune | 4.00% | ~39,258 |
+| All the President's Men | 4.00% | ~4,403 |
+| Arachnophobia | 4.00% | ~4,403 |
 | Master Crafter | 3.00% | ~29,443 |
 | The Quick and the Dead | 3.00% | ~29,443 |
 | Life of the Road | 3.00% | ~29,443 |
@@ -41,7 +41,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 1.00% | ~1,101 |
 | Easy Come, Easy Go | 1.00% | ~1,101 |
 | The Star | 0.90% | ~8,833 |
-| Breathtaking | 0.80% | ~7,851 |
+| Breathtaking | 0.80% | ~7,852 |
 | Autojock | 0.70% | ~6,870 |
 | The APB is Not Enough | 0.70% | ~770 |
 | Judgement Day | 0.70% | ~770 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,434 (Ranked 16)  
+Progressed: 981,442 (Ranked 16)  
 Completed: 2,975 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,17 +324,17 @@ Completed: 2,975 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,434 | 2,975 |
+| 2023-12-26 | 981,442 | 2,975 |
 ## Awards
 Max (Character Customization): 127,442  (Ranked 8)  
-Sum: 443,889 (Ranked 9)  
+Sum: 444,060 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 127,442 |
 | This game has Great Boss Battles | 94,075 |
 | This game is Great for Beginners | 27,874 |
-| This game has Diverse Characters | 27,171 |
+| This game has Diverse Characters | 27,342 |
 | This game is Highly Recommended | 25,975 |
 | This game has Amazing Storytelling | 25,542 |
 | This game is Extremely Fun | 25,323 |
@@ -686,4 +686,4 @@ Diff (max vs sum): -1
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
-| 2023-12-26 | 4.66 | - | 127,442 | 443,889 |
+| 2023-12-26 | 4.66 | - | 127,442 | 444,060 |

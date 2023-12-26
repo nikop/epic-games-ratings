@@ -32,7 +32,7 @@
 | Dungeonlord Gorgu | 44.00% | ~281 |
 | Mana Cannon | 41.00% | ~262 |
 | All’s Well That Ends Evil | 40.00% | ~256 |
-| The Duel | 37.00% | ~236 |
+| The Duel | 38.00% | ~243 |
 | If Looks Could Kill | 35.00% | ~224 |
 | Unstoppable Horde | 34.00% | ~217 |
 | Master of the Undead | 34.00% | ~217 |
