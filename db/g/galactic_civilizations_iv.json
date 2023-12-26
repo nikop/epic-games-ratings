@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 958,
-  "Ranking_Popularity": 375,
+  "Ranking_Rating": 957,
+  "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -987,9 +987,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7467,
+  "EOS_Progressed": 7468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9412,6 +9412,11 @@
       "Time": "2023-12-26T17:11:14.2634522+00:00",
       "NumProgressed": 7467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T19:10:41.4229193+00:00",
+      "NumProgressed": 7468,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9455,7 +9460,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9463,7 +9468,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "Control_All_Relics",
@@ -9535,7 +9540,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5376
+      "UsersEstimate": 5377
     },
     {
       "ID": "First_Ship_Designed",
@@ -9559,7 +9564,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9639,7 +9644,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "Play_1000_Hours",
@@ -9743,7 +9748,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9998,15 +10003,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7467,
+      "Progressed": 7468,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:10:24.0526931+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:10:41.4229188+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:00:12.0260145+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:10:24.0528037+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:01:11.3841588+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:10:41.4229989+00:00"
 }

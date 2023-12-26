@@ -6,15 +6,15 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 14.00% | ~1,062 |
+| Fish Just Got Reel | 14.00% | ~1,063 |
 | More Fish in the Sea | 12.00% | ~911 |
 | Hey Good Hookin | 11.00% | ~835 |
 | Can you smell what the Rod is Hooking | 10.00% | ~759 |
 | Scaling up | 10.00% | ~759 |
 | I'm on a Boat! | 9.00% | ~683 |
 | Ready to Rod and Roll | 7.00% | ~531 |
-| Fish Out of Water | 5.00% | ~379 |
-| Things that go Splash in the Night | 5.00% | ~379 |
+| Fish Out of Water | 5.00% | ~380 |
+| Things that go Splash in the Night | 5.00% | ~380 |
 | Goldfish? | 4.00% | ~304 |
 | License to Gill | 3.00% | ~228 |
 | Going for Gold | 3.00% | ~228 |
@@ -30,13 +30,13 @@ Number of Ratings: 281  (23.09.2022)
 | Live by the Rod, Diez by the Rod! | 0.40% | ~28 |
 | Aguas Claras Conquistador | 0.40% | ~28 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
+| Three Square Meals | 0.30% | ~21 |
 | The Beetles | 0.20% | ~15 |
 | Lake Me up Before You Go Go | 0.20% | ~15 |
 | Taylor Made | 0.20% | ~15 |
 | Big Fish Small Pond | 0.20% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~15 |
 | Rod and Troll | 0.20% | ~14 |
-| Three Square Meals | 0.20% | ~14 |
 | Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,588 (Ranked 188)  
+Progressed: 7,592 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,17 +297,17 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 7,447 | 0 |
 | 2023-12-24 | 7,496 | 0 |
 | 2023-12-25 | 7,552 | 0 |
-| 2023-12-26 | 7,588 | 0 |
+| 2023-12-26 | 7,592 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 470)  
-Sum: 211 (Ranked 405)  
+Sum: 212 (Ranked 405)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |
 | This game is Relaxing | 39 |
 | This game is Highly Recommended | 38 |
-| This game has Amazing Storytelling | 36 |
+| This game has Amazing Storytelling | 37 |
 | This game is Extremely Fun | 32 |
 | This game has Quickly Understood Controls | 25 |
 ## Ratings History
@@ -416,3 +416,4 @@ Diff (max vs sum): 65
 | 2023-12-19 | 4.20 | - | 40 | 209 |
 | 2023-12-21 | 4.20 | - | 41 | 210 |
 | 2023-12-24 | 4.20 | - | 41 | 211 |
+| 2023-12-26 | 4.20 | - | 41 | 212 |

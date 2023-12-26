@@ -7,51 +7,51 @@ Number of Ratings: 2,205  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Champion | 90.00% | ~61,168 |
-| The Pyromancer | 86.00% | ~58,449 |
-| The Wastes | 83.00% | ~56,410 |
-| Waste Not | 80.00% | ~54,371 |
+| The Pyromancer | 86.00% | ~58,450 |
+| The Wastes | 83.00% | ~56,411 |
+| Waste Not | 80.00% | ~54,372 |
 | The Cryomancer | 76.00% | ~51,653 |
-| Stock Up | 75.00% | ~50,973 |
+| Stock Up | 75.00% | ~50,974 |
 | The Hydromancer | 73.00% | ~49,614 |
-| The Matriarch | 70.00% | ~47,575 |
+| The Matriarch | 70.00% | ~47,576 |
 | The Aeromancer | 65.00% | ~44,177 |
 | The Huntsman | 65.00% | ~44,177 |
 | The Venomancer | 65.00% | ~44,177 |
-| Dawnlight Order | 64.00% | ~43,497 |
-| The Electromancer | 61.00% | ~41,458 |
+| Dawnlight Order | 64.00% | ~43,498 |
+| The Electromancer | 61.00% | ~41,459 |
 | The Terramancer | 59.00% | ~40,099 |
-| The Exalted | 57.00% | ~38,739 |
-| Sheriff Inquisitors | 55.00% | ~37,380 |
+| The Exalted | 56.00% | ~38,060 |
+| Sheriff Inquisitors | 55.00% | ~37,381 |
 | Blueheart Runners | 54.00% | ~36,701 |
-| The Necromancer | 52.00% | ~35,341 |
+| The Necromancer | 52.00% | ~35,342 |
 | The Swamp | 50.00% | ~33,982 |
-| The Fungalmancer | 47.00% | ~31,943 |
-| The Thaumamancer | 47.00% | ~31,943 |
+| The Fungalmancer | 47.00% | ~31,944 |
+| The Thaumamancer | 47.00% | ~31,944 |
 | The Hag | 45.00% | ~30,584 |
 | The Corpumancer | 42.00% | ~28,545 |
 | The Mountain | 40.00% | ~27,186 |
 | The Treeheart | 40.00% | ~27,186 |
 | Shroud Alliance | 39.00% | ~26,506 |
 | The Two Monks | 37.00% | ~25,147 |
-| The Neuromancer | 35.00% | ~23,787 |
+| The Neuromancer | 35.00% | ~23,788 |
 | Oathbound Watchers | 33.00% | ~22,428 |
-| The Chronomancer | 32.00% | ~21,748 |
-| The Mechanomancer | 32.00% | ~21,748 |
-| The Copse | 30.00% | ~20,389 |
-| The Dragon | 30.00% | ~20,389 |
-| The Dracomancer | 30.00% | ~20,389 |
+| The Chronomancer | 32.00% | ~21,749 |
+| The Mechanomancer | 32.00% | ~21,749 |
+| The Copse | 30.00% | ~20,390 |
+| The Dragon | 30.00% | ~20,390 |
+| The Dracomancer | 30.00% | ~20,390 |
 | Well Stocked | 28.00% | ~19,030 |
 | The Umbramancer | 28.00% | ~19,030 |
-| Chaos Hunger | 27.00% | ~18,350 |
-| The Kinetomancer | 27.00% | ~18,350 |
-| The Sanguimancer | 27.00% | ~18,350 |
+| Chaos Hunger | 27.00% | ~18,351 |
+| The Kinetomancer | 27.00% | ~18,351 |
+| The Sanguimancer | 27.00% | ~18,351 |
 | The Luminimancer | 26.00% | ~17,671 |
 | The Bibliomancer | 25.00% | ~16,991 |
 | The Skylord | 25.00% | ~16,991 |
-| The Firelord | 24.00% | ~16,311 |
+| The Firelord | 24.00% | ~16,312 |
 | The Diablomancer | 22.00% | ~14,952 |
-| Want Not | 21.00% | ~14,272 |
-| The Sacrifice | 21.00% | ~14,272 |
+| Want Not | 21.00% | ~14,273 |
+| The Sacrifice | 21.00% | ~14,273 |
 | The King | 19.00% | ~12,913 |
 | Take Your Place | 14.00% | ~9,515 |
 | The Nomad | 14.00% | ~9,515 |
@@ -60,7 +60,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,796 |
 | Top Shelf | 5.00% | ~3,398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,964 (Ranked 112)  
+Progressed: 67,965 (Ranked 112)  
 Completed: 1,284 (1.89%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 1,284 (1.89%) (Ranked 138)
 | 2023-12-23 | 67,925 | 1,283 |
 | 2023-12-24 | 67,938 | 1,283 |
 | 2023-12-25 | 67,951 | 1,284 |
-| 2023-12-26 | 67,964 | 1,284 |
+| 2023-12-26 | 67,965 | 1,284 |
 ## Awards
 Max (Character Customization): 992  (Ranked 159)  
 Sum: 2,004 (Ranked 217)  

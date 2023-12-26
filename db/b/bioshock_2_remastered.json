@@ -4,11 +4,11 @@
   "ProductSlug": "bioshock-2-remastered",
   "Ranking_Rating": 582,
   "Ranking_Popularity": 85,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-06-02T15:00:00+00:00",
     "PcReleaseDate": "2016-09-15T15:00:00+00:00",
@@ -2527,18 +2527,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 5333,
       "NumberOfAwardsMax": 4158
+    },
+    {
+      "Time": "2023-12-26T18:59:53.0818141+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5334,
+      "NumberOfAwardsMax": 4159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5333,
-  "NumberOfAwardsMax": 4158,
+  "NumberOfAwards": 5334,
+  "NumberOfAwardsMax": 4159,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4158
+      "Count": 4159
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2618,8 +2624,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2023-12-17T15:57:50.0461459+00:00",
+  "LastChanged": "2023-12-26T18:59:53.081814+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.3029486+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:59:09.729118+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:09:36.5657436+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:59:53.0818149+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:09:47.245599+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 7.00% | ~1,352 |
+| Overgrown Library | 7.00% | ~1,353 |
 | Abandoned Settlement | 6.00% | ~1,159 |
 | Petrified Necropolis | 6.00% | ~1,159 |
 | First Real Expedition | 5.00% | ~966 |
@@ -41,11 +41,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 1.00% | ~193 |
 | Flooded Mines | 1.00% | ~193 |
 | Statue of the Forefathers | 1.00% | ~193 |
+| Defying the Crown | 1.00% | ~193 |
+| Fishmen Ritual Site | 0.90% | ~174 |
 | Victory Through Prosperity | 0.90% | ~174 |
-| Defying the Crown | 0.90% | ~174 |
 | Into the Forest | 0.90% | ~174 |
 | Serving Ale | 0.80% | ~155 |
-| Fishmen Ritual Site | 0.80% | ~155 |
 | Efficient Explorer | 0.70% | ~135 |
 | Refinery | 0.70% | ~135 |
 | Dangerous Lands | 0.70% | ~135 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,319 (Ranked 150)  
+Progressed: 19,324 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,319 | 38 |
+| 2023-12-26 | 19,324 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,294 (Ranked 177)  

@@ -2,13 +2,13 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_Rating": 1045,
+  "Ranking_Rating": 1044,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4672,
+  "EOS_Progressed": 4673,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 3,
@@ -12140,6 +12140,11 @@
       "Time": "2023-12-26T16:05:17.2721684+00:00",
       "NumProgressed": 4672,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-26T19:06:24.190055+00:00",
+      "NumProgressed": 4673,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 16,
@@ -12183,7 +12188,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3597
+      "UsersEstimate": 3598
     },
     {
       "ID": "ach_architecture_completed",
@@ -12207,7 +12212,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ach_color_splash",
@@ -12215,7 +12220,7 @@
       "Name": "Color flood",
       "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ach_first_picture",
@@ -12223,7 +12228,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "ach_food_completed",
@@ -12278,7 +12283,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4672,
+      "Progressed": 4673,
       "Completed": 41
     }
   ],
@@ -12286,8 +12291,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:05:34.5039029+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:06:24.1900547+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:06.6748286+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:59:51.9603952+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:05:34.5039804+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:00:46.0378781+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:06:24.1901295+00:00"
 }

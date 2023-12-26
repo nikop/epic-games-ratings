@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58448,
+  "EOS_Progressed": 58450,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14796,6 +14796,11 @@
       "Time": "2023-12-26T17:08:44.7977684+00:00",
       "NumProgressed": 58448,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T19:08:22.5495935+00:00",
+      "NumProgressed": 58450,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14967,7 +14972,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "IsThisPossible",
@@ -15143,7 +15148,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "TimelySplash",
@@ -15151,7 +15156,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "TotalBummer",
@@ -15198,7 +15203,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58448,
+      "Progressed": 58450,
       "Completed": 6
     }
   ],
@@ -15206,8 +15211,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:08:25.4070693+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:08:22.549593+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:59:27.9032177+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:08:25.4072208+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:00:16.0521819+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:08:22.5496972+00:00"
 }

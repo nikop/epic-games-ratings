@@ -1,37 +1,37 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 604)  
+Rating: 4.50 (Ranked 605)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 10.00% | ~3,275 |
 | Meticulously Efficient | 8.00% | ~2,620 |
-| Advancement | 7.00% | ~2,292 |
+| Advancement | 7.00% | ~2,293 |
 | Discovery | 6.00% | ~1,965 |
 | Solo Capture | 6.00% | ~1,965 |
 | Swift Rift Removers | 6.00% | ~1,965 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,637 |
-| Fully Upgraded | 5.00% | ~1,637 |
-| Teamwork | 5.00% | ~1,637 |
-| Vaporous Expansion | 5.00% | ~1,637 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,638 |
+| Fully Upgraded | 5.00% | ~1,638 |
+| Teamwork | 5.00% | ~1,638 |
+| Vaporous Expansion | 5.00% | ~1,638 |
 | Clutch Capture | 4.00% | ~1,310 |
 | Cultured | 4.00% | ~1,310 |
 | Daily Dose | 4.00% | ~1,310 |
 | Ghostbuster In Training | 4.00% | ~1,310 |
 | There you are! | 4.00% | ~1,310 |
 | Whoopsie | 4.00% | ~1,310 |
-| Animated | 3.00% | ~982 |
-| Back Off | 3.00% | ~982 |
-| We have the best insurance | 3.00% | ~982 |
-| Ectoplasmic Entity | 3.00% | ~982 |
-| Icing on the Cake | 3.00% | ~982 |
-| Legions | 3.00% | ~982 |
-| Pesky Jerks | 3.00% | ~982 |
-| Right back at ya | 3.00% | ~982 |
-| Seasoned | 3.00% | ~982 |
-| Side Hustle | 3.00% | ~982 |
-| Summoner | 3.00% | ~982 |
+| Animated | 3.00% | ~983 |
+| Back Off | 3.00% | ~983 |
+| We have the best insurance | 3.00% | ~983 |
+| Ectoplasmic Entity | 3.00% | ~983 |
+| Icing on the Cake | 3.00% | ~983 |
+| Legions | 3.00% | ~983 |
+| Pesky Jerks | 3.00% | ~983 |
+| Right back at ya | 3.00% | ~983 |
+| Seasoned | 3.00% | ~983 |
+| Side Hustle | 3.00% | ~983 |
+| Summoner | 3.00% | ~983 |
 | Collector | 2.00% | ~655 |
 | Escape Artist | 2.00% | ~655 |
 | Reckless | 2.00% | ~655 |
@@ -40,24 +40,24 @@ Rating: 4.50 (Ranked 604)
 | Stunner | 2.00% | ~655 |
 | Tobin's Prodigy | 2.00% | ~655 |
 | Welcome to the Crew | 2.00% | ~655 |
-| Diabolical | 1.00% | ~327 |
-| Fragile Panes | 1.00% | ~327 |
-| Liability | 1.00% | ~327 |
-| Rivalry | 1.00% | ~327 |
-| Surprise! | 1.00% | ~327 |
-| Terrifying | 1.00% | ~327 |
+| Diabolical | 1.00% | ~328 |
+| Fragile Panes | 1.00% | ~328 |
+| Liability | 1.00% | ~328 |
+| Rivalry | 1.00% | ~328 |
+| Surprise! | 1.00% | ~328 |
+| Terrifying | 1.00% | ~328 |
 | Therapeutic | 0.80% | ~262 |
-| Rift Seeker | 0.60% | ~196 |
+| Rift Seeker | 0.60% | ~197 |
 | Master Collector | 0.50% | ~164 |
 | Ghost Expert | 0.30% | ~98 |
-| Catostrophic Destroyer | 0.20% | ~65 |
-| I don't need these | 0.20% | ~65 |
-| Little Help Here | 0.20% | ~65 |
-| Mycophile | 0.20% | ~65 |
-| Ultimate Defense | 0.20% | ~65 |
+| Catostrophic Destroyer | 0.20% | ~66 |
+| I don't need these | 0.20% | ~66 |
+| Little Help Here | 0.20% | ~66 |
+| Mycophile | 0.20% | ~66 |
+| Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,749 (Ranked 133)  
+Progressed: 32,752 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-23 | 32,608 | 69 |
 | 2023-12-24 | 32,658 | 69 |
 | 2023-12-25 | 32,706 | 70 |
-| 2023-12-26 | 32,749 | 70 |
+| 2023-12-26 | 32,752 | 70 |
 ## Awards
-Max (Great for Beginners): 325  (Ranked 251)  
+Max (Great for Beginners): 325  (Ranked 252)  
 Sum: 2,926 (Ranked 182)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 325 |

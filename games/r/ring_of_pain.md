@@ -86,6 +86,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Trail Of Death | 0.20% | ~484 |
 | Clearing The Room | 0.20% | ~484 |
 | Path To Enlightenment | 0.20% | ~484 |
+| No Mercy | 0.20% | ~484 |
 | Just Looking Around | 0.20% | ~484 |
 | Fragile Mortality | 0.20% | ~484 |
 | Fire Away! | 0.20% | ~484 |
@@ -117,7 +118,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Annihilate | 0.10% | ~242 |
 | Never Too Many Hats | 0.10% | ~242 |
 | Master of Strategy | 0.10% | ~242 |
-| No Mercy | 0.10% | ~242 |
 | Good Boys | 0.10% | ~242 |
 | Need An Antidote? | 0.10% | ~242 |
 | Sprinter | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,759 (Ranked 69)  
+Progressed: 241,766 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
-| 2023-12-26 | 241,759 | 302 |
+| 2023-12-26 | 241,766 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

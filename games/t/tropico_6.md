@@ -6,10 +6,10 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,948 |
-| Un-Lonely Island | 45.00% | ~3,009 |
-| The Beginning of a Servantship | 44.00% | ~2,942 |
-| Trade Is My Trait | 36.00% | ~2,407 |
+| Just One...More...Term... | 74.00% | ~4,950 |
+| Un-Lonely Island | 45.00% | ~3,010 |
+| The Beginning of a Servantship | 44.00% | ~2,943 |
+| Trade Is My Trait | 36.00% | ~2,408 |
 | Number 18 | 23.00% | ~1,538 |
 | We Don't Have Time For That | 18.00% | ~1,204 |
 | The Governator | 17.00% | ~1,137 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Curse of the Mummy | 2.00% | ~134 |
 | Chain Gang | 1.00% | ~67 |
 | From Knight to Little Duck | 1.00% | ~67 |
-| Survivor | 0.80% | ~53 |
+| Survivor | 0.80% | ~54 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,687 (Ranked 192)  
+Progressed: 6,689 (Ranked 192)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-23 | 6,620 | 2 |
 | 2023-12-24 | 6,646 | 2 |
 | 2023-12-25 | 6,671 | 2 |
-| 2023-12-26 | 6,687 | 2 |
+| 2023-12-26 | 6,689 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 363)  
-Sum: 743 (Ranked 296)  
-Diff (max vs sum): 67  
+Sum: 743 (Ranked 297)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

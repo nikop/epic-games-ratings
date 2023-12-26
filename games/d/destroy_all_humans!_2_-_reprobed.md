@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 551)  
+Rating: 4.53 (Ranked 552)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 16.00% | ~32 |
 | Die Nasty | 15.00% | ~30 |
 | Transmitting From Sol-3 | 13.00% | ~26 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~22 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~24 |
 | Dusted | 10.00% | ~20 |
 | Fly Me to the Moon Base | 9.00% | ~18 |
 | Kaijuiced | 9.00% | ~18 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 414)  
-Completed: 1 (0.49%) (Ranked 218)  
+Completed: 1 (0.49%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

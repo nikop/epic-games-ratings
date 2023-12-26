@@ -6,37 +6,37 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 77.00% | ~58,755 |
-| Initial Capital | 63.00% | ~48,072 |
-| Moneybags | 41.00% | ~31,285 |
-| Junior Supply Officer | 41.00% | ~31,285 |
-| Naval Warfare. Arson | 31.00% | ~23,655 |
-| Naval Warfare. Ramming | 30.00% | ~22,892 |
-| Amateur | 28.00% | ~21,365 |
-| Naval Warfare. Tactics | 28.00% | ~21,365 |
-| Naval Constructor | 27.00% | ~20,602 |
-| Naval Warfare. Weaponry Basics | 20.00% | ~15,261 |
-| Naval Warfare. Lucky Shot | 18.00% | ~13,735 |
-| Naval Warfare. Flooding | 17.00% | ~12,972 |
-| Battle Hero | 14.00% | ~10,683 |
-| Business Magnate | 14.00% | ~10,683 |
-| Smooth Supply | 12.00% | ~9,157 |
-| Warrior | 11.00% | ~8,394 |
-| Supply Officer | 11.00% | ~8,394 |
-| Veteran | 6.00% | ~4,578 |
-| Legend of the Seas | 3.00% | ~2,289 |
-| Chief Naval Architect | 3.00% | ~2,289 |
-| Shield | 3.00% | ~2,289 |
-| Senior Supply Officer | 2.00% | ~1,526 |
-| Weather Beaten | 2.00% | ~1,526 |
-| Important Missions | 2.00% | ~1,526 |
-| Guardian | 2.00% | ~1,526 |
-| Bane of the Oceans | 1.00% | ~763 |
-| "Science of Victory" | 1.00% | ~763 |
-| Special Orders | 1.00% | ~763 |
-| Protector | 1.00% | ~763 |
-| Exterminator | 1.00% | ~763 |
-| American Cruisers | 1.00% | ~763 |
+| Junior Naval Designer | 77.00% | ~58,793 |
+| Initial Capital | 63.00% | ~48,103 |
+| Moneybags | 41.00% | ~31,305 |
+| Junior Supply Officer | 41.00% | ~31,305 |
+| Naval Warfare. Arson | 31.00% | ~23,670 |
+| Naval Warfare. Ramming | 30.00% | ~22,906 |
+| Amateur | 28.00% | ~21,379 |
+| Naval Warfare. Tactics | 28.00% | ~21,379 |
+| Naval Constructor | 27.00% | ~20,616 |
+| Naval Warfare. Weaponry Basics | 20.00% | ~15,271 |
+| Naval Warfare. Lucky Shot | 18.00% | ~13,744 |
+| Naval Warfare. Flooding | 17.00% | ~12,980 |
+| Battle Hero | 14.00% | ~10,690 |
+| Business Magnate | 14.00% | ~10,690 |
+| Smooth Supply | 12.00% | ~9,162 |
+| Warrior | 11.00% | ~8,399 |
+| Supply Officer | 11.00% | ~8,399 |
+| Veteran | 6.00% | ~4,581 |
+| Legend of the Seas | 3.00% | ~2,291 |
+| Chief Naval Architect | 3.00% | ~2,291 |
+| Shield | 3.00% | ~2,291 |
+| Senior Supply Officer | 2.00% | ~1,527 |
+| Weather Beaten | 2.00% | ~1,527 |
+| Important Missions | 2.00% | ~1,527 |
+| Guardian | 2.00% | ~1,527 |
+| Bane of the Oceans | 1.00% | ~764 |
+| "Science of Victory" | 1.00% | ~764 |
+| Special Orders | 1.00% | ~764 |
+| Protector | 1.00% | ~764 |
+| Exterminator | 1.00% | ~764 |
+| American Cruisers | 1.00% | ~764 |
 | Old-Timer | 0.90% | ~687 |
 | Secret Instructions | 0.60% | ~458 |
 | Raider | 0.60% | ~458 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~76 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,305 (Ranked 107)  
+Progressed: 76,354 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,22 +186,22 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 73,904 | 0 |
 | 2023-12-24 | 74,824 | 0 |
 | 2023-12-25 | 75,641 | 0 |
-| 2023-12-26 | 76,305 | 0 |
+| 2023-12-26 | 76,354 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,639  (Ranked 127)  
-Sum: 13,718 (Ranked 77)  
+Sum: 13,731 (Ranked 77)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,639 |
-| This game is Relaxing | 1,630 |
+| This game is Relaxing | 1,636 |
 | This game has Challenging Combat | 1,607 |
+| This game is Extremely Fun | 1,592 |
 | This game has Competitive Players | 1,587 |
-| This game is Extremely Fun | 1,586 |
 | This game is Highly Recommended | 1,584 |
 | This game has Realistic Visuals | 1,435 |
 | This game has Amazing Storytelling | 1,366 |
-| This game has a Competitive Community | 1,284 |
+| This game has a Competitive Community | 1,285 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -554,4 +554,4 @@ Diff (max vs sum): 50
 | 2023-12-23 | 4.41 | - | 1,629 | 13,636 |
 | 2023-12-24 | 4.41 | - | 1,634 | 13,670 |
 | 2023-12-25 | 4.41 | - | 1,634 | 13,700 |
-| 2023-12-26 | 4.41 | - | 1,639 | 13,718 |
+| 2023-12-26 | 4.41 | - | 1,639 | 13,731 |

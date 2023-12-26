@@ -21,8 +21,8 @@
 | It's Warm and Cozy at Home | 58.00% | ~372 |
 | Minions, Minions! | 56.00% | ~359 |
 | Trap Master | 55.00% | ~353 |
+| The Big Eaty | 54.00% | ~346 |
 | Hard Work | 53.00% | ~340 |
-| The Big Eaty | 53.00% | ~340 |
 | YOU SHALL NOT PASS! | 50.00% | ~320 |
 | “… like son” | 50.00% | ~320 |
 | The Cathedral of Light | 47.00% | ~301 |
@@ -42,9 +42,9 @@
 | Forbidden Knowledge | 28.00% | ~179 |
 | Doom Hill | 28.00% | ~179 |
 | Hungry, Hungry Gorgu! | 27.00% | ~173 |
+| Brimstone Shaken, Not Stirred | 27.00% | ~173 |
 | Stop Tanos! | 26.00% | ~167 |
 | Sabotage! | 26.00% | ~167 |
-| Brimstone Shaken, Not Stirred | 26.00% | ~167 |
 | Bonus Evilness | 25.00% | ~160 |
 | Raiders of the Lost Stone | 25.00% | ~160 |
 | The Rune Sockets of Finitude (Part 1) | 25.00% | ~160 |

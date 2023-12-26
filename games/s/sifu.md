@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,818 |
-| The Assault | 3.00% | ~22,363 |
-| Life is your teacher | 3.00% | ~22,363 |
-| Lightning Hands | 3.00% | ~22,363 |
+| The Old Grandmaster | 4.00% | ~29,819 |
+| The Assault | 3.00% | ~22,364 |
+| Life is your teacher | 3.00% | ~22,364 |
+| Lightning Hands | 3.00% | ~22,364 |
 | The Hateful Pole Fighter | 2.00% | ~14,909 |
 | A Lady's Blood in the Snow | 2.00% | ~14,909 |
 | Stuntmaster | 2.00% | ~14,909 |
@@ -18,21 +18,21 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 2.00% | ~14,909 |
 | Old Child | 2.00% | ~14,909 |
 | Rumble in the Hangar | 2.00% | ~14,909 |
-| Lady Wing Chun | 1.00% | ~7,454 |
-| Furious Fists | 1.00% | ~7,454 |
-| Kill Nil | 1.00% | ~7,454 |
-| Qi Gong: Mind | 1.00% | ~7,454 |
-| Qi Gong: Breath | 1.00% | ~7,454 |
-| I know Kung-Fu | 1.00% | ~7,454 |
-| Path of the Prospect | 1.00% | ~7,454 |
-| Take damage to save time | 1.00% | ~7,454 |
-| Project Arena | 1.00% | ~547 |
-| Diligence as a goal | 1.00% | ~547 |
+| Lady Wing Chun | 1.00% | ~7,455 |
+| Furious Fists | 1.00% | ~7,455 |
+| Kill Nil | 1.00% | ~7,455 |
+| Qi Gong: Mind | 1.00% | ~7,455 |
+| Qi Gong: Breath | 1.00% | ~7,455 |
+| I know Kung-Fu | 1.00% | ~7,455 |
+| Path of the Prospect | 1.00% | ~7,455 |
+| Take damage to save time | 1.00% | ~7,455 |
+| Project Arena | 1.00% | ~548 |
+| Diligence as a goal | 1.00% | ~548 |
 | Scareless | 0.90% | ~6,709 |
 | Kung-Fu Tussle | 0.90% | ~6,709 |
 | Dance of the Praying Mantis | 0.80% | ~5,964 |
 | Fight the way you practice | 0.70% | ~383 |
-| Martial Hub | 0.60% | ~328 |
+| Martial Hub | 0.60% | ~329 |
 | Muk Yan Master | 0.50% | ~3,727 |
 | Tiger on Fire | 0.50% | ~3,727 |
 | Detective Story | 0.50% | ~3,727 |
@@ -53,11 +53,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,491 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,491 |
 | Be like water my friend | 0.20% | ~1,491 |
-| Deadly Venom | 0.20% | ~109 |
-| A Touch of Acumen | 0.20% | ~109 |
-| Skill and an even stronger will | 0.20% | ~109 |
-| Master of the Flying Assassins | 0.20% | ~109 |
-| Beatmaker | 0.20% | ~109 |
+| Deadly Venom | 0.20% | ~110 |
+| A Touch of Acumen | 0.20% | ~110 |
+| Skill and an even stronger will | 0.20% | ~110 |
+| Master of the Flying Assassins | 0.20% | ~110 |
+| Beatmaker | 0.20% | ~110 |
 | Warriors from the Mountain | 0.10% | ~745 |
 | Secure, Protect, Leave | 0.10% | ~55 |
 | Crouching Tiger | 0.10% | ~55 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~55 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 745,440 (Ranked 23)  
+Progressed: 745,468 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 745,440 | 12,966 |
+| 2023-12-26 | 745,468 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,874 (Ranked 87)  

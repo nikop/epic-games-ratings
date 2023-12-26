@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,300 |
-| Titan's First Steps | 9.00% | ~13,300 |
-| Basic in Bulk | 8.00% | ~11,822 |
-| Tinkle of Coins | 8.00% | ~11,822 |
+| Sponsored by Argon | 9.00% | ~13,301 |
+| Titan's First Steps | 9.00% | ~13,301 |
+| Basic in Bulk | 8.00% | ~11,823 |
+| Tinkle of Coins | 8.00% | ~11,823 |
 | Disintermediation | 6.00% | ~8,867 |
 | It's Free Real Estate | 6.00% | ~8,867 |
 | Budding Merchant | 6.00% | ~8,867 |
@@ -19,31 +19,31 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,389 |
 | Pretty Penny | 5.00% | ~7,389 |
 | Own the Means of Production | 5.00% | ~7,389 |
-| The Daily Grind | 4.00% | ~5,911 |
-| Bounty Hunters | 4.00% | ~5,911 |
-| Flooding the Market | 4.00% | ~5,911 |
-| Where it Hurts | 4.00% | ~5,911 |
-| One-Armed Bandit | 4.00% | ~5,911 |
-| Dungeon Imports | 4.00% | ~5,911 |
-| Through Repetition, Perfection | 4.00% | ~5,911 |
-| On the Path to Greatness | 3.00% | ~4,433 |
-| Ascended | 3.00% | ~4,433 |
-| Research & Development | 3.00% | ~4,433 |
-| Vanity, Verily | 3.00% | ~4,433 |
-| Fated Encounters | 3.00% | ~4,433 |
-| Blank Page Syndrome | 3.00% | ~4,433 |
-| Demand for Supplies | 3.00% | ~4,433 |
-| Power of Love | 3.00% | ~4,433 |
-| Efficient Floor Space | 3.00% | ~4,433 |
-| Flawless Fusion | 3.00% | ~4,433 |
-| Gem Expert | 3.00% | ~4,433 |
-| Gild-Gotten Goods | 3.00% | ~4,433 |
-| Helping Hand | 3.00% | ~4,433 |
-| Accomplished Merchant | 3.00% | ~4,433 |
-| Natural 20 | 3.00% | ~4,433 |
-| Did we pack lunch? | 3.00% | ~4,433 |
-| Magical Harmony | 3.00% | ~4,433 |
-| Arcane Industries | 3.00% | ~4,433 |
+| The Daily Grind | 4.00% | ~5,912 |
+| Bounty Hunters | 4.00% | ~5,912 |
+| Flooding the Market | 4.00% | ~5,912 |
+| Where it Hurts | 4.00% | ~5,912 |
+| One-Armed Bandit | 4.00% | ~5,912 |
+| Dungeon Imports | 4.00% | ~5,912 |
+| Through Repetition, Perfection | 4.00% | ~5,912 |
+| On the Path to Greatness | 3.00% | ~4,434 |
+| Ascended | 3.00% | ~4,434 |
+| Research & Development | 3.00% | ~4,434 |
+| Vanity, Verily | 3.00% | ~4,434 |
+| Fated Encounters | 3.00% | ~4,434 |
+| Blank Page Syndrome | 3.00% | ~4,434 |
+| Demand for Supplies | 3.00% | ~4,434 |
+| Power of Love | 3.00% | ~4,434 |
+| Efficient Floor Space | 3.00% | ~4,434 |
+| Flawless Fusion | 3.00% | ~4,434 |
+| Gem Expert | 3.00% | ~4,434 |
+| Gild-Gotten Goods | 3.00% | ~4,434 |
+| Helping Hand | 3.00% | ~4,434 |
+| Accomplished Merchant | 3.00% | ~4,434 |
+| Natural 20 | 3.00% | ~4,434 |
+| Did we pack lunch? | 3.00% | ~4,434 |
+| Magical Harmony | 3.00% | ~4,434 |
+| Arcane Industries | 3.00% | ~4,434 |
 | A Notch Above the Rest | 2.00% | ~2,956 |
 | Cream of the Crop | 2.00% | ~2,956 |
 | Top of the World | 2.00% | ~2,956 |
@@ -109,7 +109,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.90% | ~1,330 |
 | Anything not Nailed Down | 0.80% | ~1,182 |
 | Marvels from the World Over | 0.80% | ~1,182 |
-| Bane of Legends | 0.70% | ~1,034 |
+| Bane of Legends | 0.70% | ~1,035 |
 | Ultimate Collector | 0.60% | ~887 |
 | Unleashed Potential | 0.60% | ~887 |
 | JACKPOT!!! | 0.60% | ~887 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~591 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,778 (Ranked 83)  
+Progressed: 147,788 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-23 | 147,242 | 331 |
 | 2023-12-24 | 147,460 | 333 |
 | 2023-12-25 | 147,608 | 334 |
-| 2023-12-26 | 147,778 | 336 |
+| 2023-12-26 | 147,788 | 336 |
 ## Awards
 Max (Great for Beginners): 4,917  (Ranked 75)  
 Sum: 27,819 (Ranked 51)  

@@ -8517,9 +8517,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745440,
+  "EOS_Progressed": 745468,
   "EOS_Completed": 12966,
-  "EOS_NewPlayers": 9276,
+  "EOS_NewPlayers": 9267,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31037,6 +31037,11 @@
       "Time": "2023-12-26T18:09:21.5390006+00:00",
       "NumProgressed": 745440,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-26T19:09:29.4989766+00:00",
+      "NumProgressed": 745468,
+      "NumCompleted": 12966
     }
   ],
   "TotalAchievements": 60,
@@ -31048,7 +31053,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29818
+      "UsersEstimate": 29819
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31056,7 +31061,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22363
+      "UsersEstimate": 22364
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31080,7 +31085,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "06_Vengeance_H5",
@@ -31088,7 +31093,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "07_Wude_H1",
@@ -31152,7 +31157,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "15_Detective_H1",
@@ -31224,7 +31229,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22363
+      "UsersEstimate": 22364
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31240,7 +31245,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "26_ShrineSpirit",
@@ -31248,7 +31253,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "27_ShrineBody",
@@ -31280,7 +31285,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "31_ComboHigh",
@@ -31312,7 +31317,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22363
+      "UsersEstimate": 22364
     },
     {
       "ID": "35_WideStrike",
@@ -31328,7 +31333,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -31360,7 +31365,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -31384,7 +31389,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -31392,7 +31397,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31408,7 +31413,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -31416,7 +31421,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -31440,7 +31445,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -31464,7 +31469,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -31472,7 +31477,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -31504,7 +31509,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -31527,21 +31532,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54741,
+      "Progressed": 54769,
       "Completed": 10785
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745440,
+      "Progressed": 745468,
       "Completed": 12966
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:09:21.5390001+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:09:29.4989763+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:03:12.616449+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:09:21.5391179+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:03:19.8842044+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:09:29.4990956+00:00"
 }

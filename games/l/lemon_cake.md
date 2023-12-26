@@ -18,11 +18,11 @@
 | Swing The Broom | 8.00% | ~14 |
 | Master Baker | 7.00% | ~13 |
 | The Famous Lemon Cake | 7.00% | ~13 |
+| A Loving Home | 7.00% | ~13 |
 | Bakery Business | 6.00% | ~11 |
 | Bakery Empire | 6.00% | ~11 |
-| A Loving Home | 6.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 421)  
+Progressed: 180 (Ranked 422)  
 Completed: 2 (1.11%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |

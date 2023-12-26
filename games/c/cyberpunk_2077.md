@@ -6,46 +6,46 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,807 |
-| Gun Fu | 8.00% | ~78,538 |
-| The Fool | 7.00% | ~68,721 |
-| Right Back At Ya | 6.00% | ~58,903 |
-| The Lovers | 6.00% | ~58,903 |
-| Full Body Conversion | 5.00% | ~49,086 |
-| True Soldier | 5.00% | ~49,086 |
-| All the President's Men | 5.00% | ~5,517 |
-| Christmas Tree Attack | 4.00% | ~39,269 |
-| Stanislavski's Method | 4.00% | ~39,269 |
-| The Hermit | 4.00% | ~39,269 |
-| The Wheel of Fortune | 4.00% | ~39,269 |
-| Arachnophobia | 4.00% | ~4,414 |
+| V for Vendetta | 12.00% | ~117,809 |
+| Gun Fu | 8.00% | ~78,539 |
+| The Fool | 7.00% | ~68,722 |
+| Right Back At Ya | 6.00% | ~58,905 |
+| The Lovers | 6.00% | ~58,905 |
+| Full Body Conversion | 5.00% | ~49,087 |
+| True Soldier | 5.00% | ~49,087 |
+| All the President's Men | 5.00% | ~5,518 |
+| Christmas Tree Attack | 4.00% | ~39,270 |
+| Stanislavski's Method | 4.00% | ~39,270 |
+| The Hermit | 4.00% | ~39,270 |
+| The Wheel of Fortune | 4.00% | ~39,270 |
+| Arachnophobia | 4.00% | ~4,415 |
 | Master Crafter | 3.00% | ~29,452 |
 | The Quick and the Dead | 3.00% | ~29,452 |
 | Life of the Road | 3.00% | ~29,452 |
 | The High Priestess | 3.00% | ~29,452 |
 | True Warrior | 3.00% | ~29,452 |
 | Legend of The Afterlife | 3.00% | ~29,452 |
-| Relic Ruler | 3.00% | ~3,310 |
-| Bushido and Chill | 2.00% | ~19,634 |
-| To Protect and Serve | 2.00% | ~19,634 |
-| I Am The Law | 2.00% | ~19,634 |
-| The World | 2.00% | ~19,634 |
-| Two Heads, One Bullet | 2.00% | ~19,634 |
-| Judy vs Night City | 2.00% | ~19,634 |
+| Relic Ruler | 3.00% | ~3,311 |
+| Bushido and Chill | 2.00% | ~19,635 |
+| To Protect and Serve | 2.00% | ~19,635 |
+| I Am The Law | 2.00% | ~19,635 |
+| The World | 2.00% | ~19,635 |
+| Two Heads, One Bullet | 2.00% | ~19,635 |
+| Judy vs Night City | 2.00% | ~19,635 |
 | Spin Doctor | 2.00% | ~2,207 |
 | To Bad Decisions! | 1.00% | ~9,817 |
 | The Wandering Fool | 1.00% | ~9,817 |
 | Ten out of Ten | 1.00% | ~9,817 |
 | The Sun | 1.00% | ~9,817 |
-| King of Wands | 1.00% | ~1,103 |
-| Dirty Deeds | 1.00% | ~1,103 |
-| Easy Come, Easy Go | 1.00% | ~1,103 |
+| King of Wands | 1.00% | ~1,104 |
+| Dirty Deeds | 1.00% | ~1,104 |
+| Easy Come, Easy Go | 1.00% | ~1,104 |
 | The Star | 0.90% | ~8,836 |
 | Breathtaking | 0.80% | ~7,854 |
 | Autojock | 0.70% | ~6,872 |
-| The APB is Not Enough | 0.70% | ~772 |
-| Judgement Day | 0.70% | ~772 |
-| The Tower | 0.70% | ~772 |
+| The APB is Not Enough | 0.70% | ~773 |
+| Judgement Day | 0.70% | ~773 |
+| The Tower | 0.70% | ~773 |
 | Must Be Rats | 0.60% | ~5,890 |
 | Temperance | 0.60% | ~5,890 |
 | King of Pentacles | 0.60% | ~662 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,723 (Ranked 16)  
+Progressed: 981,742 (Ranked 16)  
 Completed: 2,981 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,14 +324,14 @@ Completed: 2,981 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,723 | 2,981 |
+| 2023-12-26 | 981,742 | 2,981 |
 ## Awards
-Max (Character Customization): 127,442  (Ranked 8)  
-Sum: 445,099 (Ranked 9)  
+Max (Character Customization): 127,789  (Ranked 8)  
+Sum: 445,446 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 127,442 |
+| This game has Inclusive Character Customization | 127,789 |
 | This game has Great Boss Battles | 94,409 |
 | This game is Great for Beginners | 28,033 |
 | This game has Diverse Characters | 27,342 |
@@ -686,4 +686,4 @@ Diff (max vs sum): -1
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
-| 2023-12-26 | 4.66 | - | 127,442 | 445,099 |
+| 2023-12-26 | 4.66 | - | 127,789 | 445,446 |

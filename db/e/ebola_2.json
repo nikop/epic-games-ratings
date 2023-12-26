@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1364,9 +1364,9 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "achSaveses",
@@ -1419,8 +1419,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:10:20.6828849+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:10:37.5250361+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.6112906+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:59:43.9861221+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:10:20.6829013+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:00:36.3831693+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:10:37.5250531+00:00"
 }

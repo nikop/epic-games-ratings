@@ -4,8 +4,8 @@
   "ProductSlug": "kompete-73c94a",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-16T07:00:00+00:00",
     "PcReleaseDate": "2023-09-01T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T23:57:25.2891809+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.7937993+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:00:47.2456015+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:04:04.4899784+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:02:35.9209568+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:04:43.8253596+00:00"
 }

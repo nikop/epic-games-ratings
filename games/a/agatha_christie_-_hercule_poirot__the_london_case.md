@@ -6,25 +6,25 @@
 | ---- | ---------- | ----- |
 | Marc Allard | 72.00% | ~50 |
 | Little ideas | 70.00% | ~48 |
-| The Ship | 64.00% | ~44 |
-| Seeking the truth | 51.00% | ~35 |
-| An old friend | 48.00% | ~33 |
-| The Gala | 46.00% | ~32 |
-| A curious gathering | 46.00% | ~32 |
-| Little grey cells | 43.00% | ~30 |
-| Impossible is possible | 43.00% | ~30 |
-| The Missing Magdalene | 43.00% | ~30 |
-| Arthur Hastings | 43.00% | ~30 |
-| Everything matters | 41.00% | ~28 |
-| An expert mediator | 39.00% | ~27 |
-| DI Hardwicke | 39.00% | ~27 |
-| Order and method | 35.00% | ~24 |
-| Betty Allen | 33.00% | ~23 |
-| The Investigation Begins | 30.00% | ~21 |
-| Ms. Camilla B. Culsham | 28.00% | ~19 |
-| Irene Court-Smyth | 28.00% | ~19 |
-| An odd series of events | 26.00% | ~18 |
-| The Apartment | 26.00% | ~18 |
+| The Ship | 65.00% | ~45 |
+| Seeking the truth | 52.00% | ~36 |
+| An old friend | 49.00% | ~34 |
+| The Gala | 48.00% | ~33 |
+| A curious gathering | 48.00% | ~33 |
+| Little grey cells | 45.00% | ~31 |
+| Impossible is possible | 45.00% | ~31 |
+| The Missing Magdalene | 45.00% | ~31 |
+| Arthur Hastings | 45.00% | ~31 |
+| Everything matters | 42.00% | ~29 |
+| An expert mediator | 41.00% | ~28 |
+| DI Hardwicke | 41.00% | ~28 |
+| Order and method | 36.00% | ~25 |
+| Betty Allen | 35.00% | ~24 |
+| The Investigation Begins | 32.00% | ~22 |
+| Ms. Camilla B. Culsham | 29.00% | ~20 |
+| Irene Court-Smyth | 29.00% | ~20 |
+| An odd series of events | 28.00% | ~19 |
+| The Apartment | 28.00% | ~19 |
 | Nathaniel Dryden | 25.00% | ~17 |
 | Bartholomew | 25.00% | ~17 |
 | A rude awakening | 23.00% | ~16 |

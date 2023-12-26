@@ -31,9 +31,9 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 0.80% | ~12 |
 | Plague Doctor | 0.70% | ~11 |
 | In Soil, In Smoke | 0.70% | ~11 |
+| Some Say I'm Too Flashy | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | All My Birds, Safely Home | 0.60% | ~9 |
-| Some Say I'm Too Flashy | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
 | Storied Past | 0.50% | ~8 |
 | Worldwalker | 0.50% | ~8 |

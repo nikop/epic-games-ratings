@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~88 |
-| Air Fighter | 74.00% | ~75 |
-| Oo-De-Lally | 69.00% | ~70 |
-| The Altruist | 65.00% | ~66 |
-| Treasure Hunter | 64.00% | ~65 |
-| Watch your Step! | 51.00% | ~52 |
-| Tap Dancing | 50.00% | ~50 |
-| MAX LEVEL | 50.00% | ~50 |
-| Right between the eyes | 41.00% | ~41 |
-| Spring Board | 40.00% | ~40 |
-| Starry Night | 39.00% | ~39 |
-| Locksley's Tears | 37.00% | ~37 |
-| Rebel Unleashed | 36.00% | ~36 |
-| Merry Co-operation | 31.00% | ~31 |
-| Finish Him! | 26.00% | ~26 |
-| Assault on the Ram | 25.00% | ~25 |
-| Ultra Rebel Instinct | 23.00% | ~23 |
-| First Aid | 23.00% | ~23 |
-| Merry Go Round | 22.00% | ~22 |
-| Savior | 17.00% | ~17 |
-| Hidden Experiment | 17.00% | ~17 |
+| Act of Kindness | 87.00% | ~90 |
+| Air Fighter | 74.00% | ~76 |
+| Oo-De-Lally | 70.00% | ~72 |
+| The Altruist | 64.00% | ~66 |
+| Treasure Hunter | 63.00% | ~65 |
+| Tap Dancing | 50.00% | ~52 |
+| Watch your Step! | 50.00% | ~52 |
+| MAX LEVEL | 50.00% | ~52 |
+| Right between the eyes | 40.00% | ~41 |
+| Spring Board | 39.00% | ~40 |
+| Starry Night | 38.00% | ~39 |
+| Locksley's Tears | 36.00% | ~37 |
+| Rebel Unleashed | 35.00% | ~36 |
+| Merry Co-operation | 30.00% | ~31 |
+| Finish Him! | 25.00% | ~26 |
+| Assault on the Ram | 24.00% | ~25 |
+| Ultra Rebel Instinct | 22.00% | ~23 |
+| First Aid | 22.00% | ~23 |
+| Merry Go Round | 21.00% | ~22 |
+| Savior | 17.00% | ~18 |
+| Hidden Experiment | 17.00% | ~18 |
 | Take Action! | 16.00% | ~16 |
 | Ultra Combo | 15.00% | ~15 |
 | Ascending Will | 14.00% | ~14 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 479)  
+Progressed: 103 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,4 +92,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 94 | 0 |
 | 2023-12-24 | 97 | 0 |
 | 2023-12-25 | 99 | 0 |
-| 2023-12-26 | 101 | 0 |
+| 2023-12-26 | 103 | 0 |

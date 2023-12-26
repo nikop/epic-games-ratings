@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -3258,9 +3258,9 @@
       "ID": "ACH011",
       "SetID": "69nfp41",
       "Name": "Intangible",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH012",
@@ -3474,9 +3474,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH039",
@@ -3578,8 +3578,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:04:02.3586659+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:04:41.4236143+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.1308306+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:58:07.0037053+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:04:02.3587188+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:58:35.7977472+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:04:41.423652+00:00"
 }

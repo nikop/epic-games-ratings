@@ -13,7 +13,7 @@
 | Do what you have to | 44.00% | ~92 |
 | Sign of weakness | 40.00% | ~83 |
 | Refuse to look | 35.00% | ~73 |
-| Face your fears | 26.00% | ~54 |
+| Face your fears | 27.00% | ~56 |
 | Finished it | 25.00% | ~52 |
 | Whispers long forgotten | 14.00% | ~29 |
 | Debut | 11.00% | ~23 |

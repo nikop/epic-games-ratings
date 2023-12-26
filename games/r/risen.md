@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.52 (Ranked 563)  
+Rating: 4.52 (Ranked 564)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.52 (Ranked 563)
 | The brave little tailor | 44.00% | ~55 |
 | Field hand | 41.00% | ~51 |
 | Well-to-do | 37.00% | ~46 |
-| Samaritan | 35.00% | ~44 |
+| Samaritan | 36.00% | ~45 |
 | The merciful one | 33.00% | ~41 |
 | Ladies' man | 33.00% | ~41 |
 | Ferocious wild boars | 27.00% | ~34 |
@@ -21,7 +21,7 @@ Rating: 4.52 (Ranked 563)
 | Beast slayer | 22.00% | ~28 |
 | Family man | 21.00% | ~26 |
 | Death of a legend | 20.00% | ~25 |
-| Archaeologist | 19.00% | ~24 |
+| Archaeologist | 20.00% | ~25 |
 | Ogre friend | 19.00% | ~24 |
 | Sidelined | 19.00% | ~24 |
 | Wise man | 18.00% | ~22 |

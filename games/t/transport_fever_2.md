@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 29.00% | ~630 |
 | The future is now, old man | 29.00% | ~630 |
 | Not in my backyard | 28.00% | ~608 |
+| City | 27.00% | ~587 |
 | The king of the sea | 27.00% | ~587 |
-| City | 26.00% | ~565 |
 | Transport tycoon | 22.00% | ~478 |
 | Old timer | 21.00% | ~456 |
 | The ugly smell of success | 21.00% | ~456 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 497,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -552,9 +552,9 @@
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:05:21.0112203+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:06:08.3309548+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.0678113+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:02:45.1277117+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:05:21.0112438+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:02:45.4819238+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:06:08.3309772+00:00"
 }

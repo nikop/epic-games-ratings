@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Statue ✔ | 63.00% | ~197 |
 | Recluse ✔ | 35.00% | ~109 |
+| Scent of Meat ✔ | 22.00% | ~69 |
 | Witch ✔ | 22.00% | ~69 |
-| Scent of Meat ✔ | 21.00% | ~66 |
 | Survival ✔ | 4.00% | ~12 |
 | Guardian angel ✔ | 2.00% | ~6 |
 | Master of Unlocking ✔ | 2.00% | ~6 |

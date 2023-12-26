@@ -4,8 +4,8 @@
   "ProductSlug": "tiny-troopers-joint-ops-195856",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-23T01:00:00+00:00",
     "PcReleaseDate": "2023-03-23T01:00:00+00:00",
@@ -46,5 +46,5 @@
   "LastChanged": "2023-03-31T05:57:02.6637346+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:46.5529572+00:00",
   "LastUpdate_Ratings": "2023-12-26T18:00:36.9311655+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:06:00.6391664+00:00"
+  "LastUpdate_Achievements": "2023-12-26T19:06:55.2181918+00:00"
 }

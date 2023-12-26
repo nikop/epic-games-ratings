@@ -1,7 +1,7 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.84 (Ranked 50)  
+Rating: 4.83 (Ranked 59)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,210 (Ranked 199)  
-Completed: 30 (0.58%) (Ranked 204)  
+Progressed: 5,210 (Ranked 200)  
+Completed: 30 (0.58%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,3 +195,4 @@ Completed: 30 (0.58%) (Ranked 204)
 | 2023-03-31 | 4.84 | - | 0 | 0 |
 | 2023-04-17 | 4.85 | - | 0 | 0 |
 | 2023-05-23 | 4.84 | - | 0 | 0 |
+| 2023-12-26 | 4.83 | - | 0 | 0 |

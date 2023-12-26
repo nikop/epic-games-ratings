@@ -1,26 +1,26 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 604)  
+Rating: 4.50 (Ranked 605)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~405 |
-| Vanquisher of Robots | 78.00% | ~363 |
-| Party | 50.00% | ~233 |
-| Impossible Cube | 46.00% | ~214 |
+| Good start! | 87.00% | ~406 |
+| Vanquisher of Robots | 78.00% | ~364 |
+| Party | 51.00% | ~238 |
+| Impossible Cube | 46.00% | ~215 |
+| Through the Darkness | 45.00% | ~210 |
 | Knowledge is Power | 44.00% | ~205 |
-| Through the Darkness | 44.00% | ~205 |
-| No Mercy | 43.00% | ~200 |
+| No Mercy | 43.00% | ~201 |
 | The Return of a Rat | 42.00% | ~196 |
 | Fat of the Earth | 36.00% | ~168 |
 | Last Man Standing | 32.00% | ~149 |
-| He's Seen It All | 28.00% | ~130 |
-| Great Hero | 28.00% | ~130 |
+| He's Seen It All | 28.00% | ~131 |
+| Great Hero | 28.00% | ~131 |
 | Campaigning | 27.00% | ~126 |
 | Rookie | 27.00% | ~126 |
 | Catch Jonathan_tostar | 26.00% | ~121 |
-| Assemble a Meganewbie | 25.00% | ~116 |
+| Assemble a Meganewbie | 25.00% | ~117 |
 | Frugal | 22.00% | ~103 |
 | Feed a God | 21.00% | ~98 |
 | To the Moon and Back | 20.00% | ~93 |
@@ -36,12 +36,12 @@ Rating: 4.50 (Ranked 604)
 | Android Power | 5.00% | ~23 |
 | Shopaholic | 3.00% | ~14 |
 | Zombie Lover | 3.00% | ~14 |
-| Munchkin | 2.00% | ~9 |
 | Full House | 1.00% | ~5 |
+| Munchkin | 1.00% | ~5 |
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466 (Ranked 339)  
+Progressed: 467 (Ranked 339)  
 Completed: 1 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.21%) (Ranked 271)
 | 2023-12-23 | 458 | 1 |
 | 2023-12-24 | 461 | 1 |
 | 2023-12-25 | 464 | 1 |
-| 2023-12-26 | 466 | 1 |
+| 2023-12-26 | 467 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

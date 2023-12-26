@@ -11,10 +11,10 @@ Number of Ratings: 53  (23.09.2022)
 | Every beginning is difficult | 62.00% | ~700 |
 | Gofer | 56.00% | ~632 |
 | 3, 2, 1, mine | 55.00% | ~621 |
-| O Captain! My Captain! | 54.00% | ~610 |
+| O Captain! My Captain! | 55.00% | ~621 |
 | Seafarer | 51.00% | ~576 |
 | Greed for gold | 43.00% | ~485 |
-| Intangible | 41.00% | ~463 |
+| Intangible | 42.00% | ~474 |
 | I'm out of here for a while | 41.00% | ~463 |
 | In a mint condition | 38.00% | ~429 |
 | Licence to Kill | 37.00% | ~418 |

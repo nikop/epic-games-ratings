@@ -13,10 +13,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.30% | ~1,454 |
 | That's a Grand Navy | 0.30% | ~1,454 |
 | Seriously?! | 0.30% | ~1,454 |
-| Cold War | 0.20% | ~969 |
-| Defender of the Faith | 0.20% | ~969 |
-| It's all about the money | 0.20% | ~969 |
-| True Catholic | 0.20% | ~969 |
+| Cold War | 0.20% | ~970 |
+| Defender of the Faith | 0.20% | ~970 |
+| For the Glory | 0.20% | ~970 |
+| It's all about the money | 0.20% | ~970 |
+| True Catholic | 0.20% | ~970 |
 | The 52 Garhs | 0.10% | ~485 |
 | I don't like sand | 0.10% | ~485 |
 | A Blessed Nation | 0.10% | ~485 |
@@ -109,7 +110,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | First Come, First Serve | 0.10% | ~485 |
 | The First Toungoo Empire | 0.10% | ~485 |
 | For the Emperor! | 0.10% | ~485 |
-| For the Glory | 0.10% | ~485 |
 | Forever Golden | 0.10% | ~485 |
 | Forgive me, for I have Sindh | 0.10% | ~485 |
 | Foul Mouthed | 0.10% | ~485 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,745 (Ranked 40)  
+Progressed: 484,785 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,14 +620,14 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-23 | 482,495 | 1 |
 | 2023-12-24 | 483,348 | 1 |
 | 2023-12-25 | 484,143 | 1 |
-| 2023-12-26 | 484,745 | 1 |
+| 2023-12-26 | 484,785 | 1 |
 ## Awards
-Max (Educational): 7,558  (Ranked 54)  
-Sum: 62,336 (Ranked 24)  
+Max (Educational): 7,570  (Ranked 54)  
+Sum: 62,348 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,558 |
+| This game is Educational | 7,570 |
 | This game has Diverse Characters | 7,392 |
 | This game is Highly Recommended | 7,269 |
 | This game has Challenging Combat | 7,182 |
@@ -983,4 +983,4 @@ Diff (max vs sum): 30
 | 2023-12-23 | 4.69 | - | 7,528 | 62,021 |
 | 2023-12-24 | 4.69 | - | 7,548 | 62,191 |
 | 2023-12-25 | 4.69 | - | 7,558 | 62,301 |
-| 2023-12-26 | 4.69 | - | 7,558 | 62,336 |
+| 2023-12-26 | 4.69 | - | 7,570 | 62,348 |

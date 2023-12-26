@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2149,9 +2149,9 @@
       "ID": "ACH_CABLES_LENGTH",
       "SetID": "al4k4nh",
       "Name": "Cables in Paris",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
@@ -2317,9 +2317,9 @@
       "ID": "ACH_SELL_ALL_DEBRIS",
       "SetID": "al4k4nh",
       "Name": "Unpacked",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2364,8 +2364,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:06:50.6216027+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:07:53.9595282+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:06.6062309+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:58:43.6768004+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:06:50.6216268+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:59:20.5992495+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:07:53.9595535+00:00"
 }

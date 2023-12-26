@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-12-26T05:08:36.6735906+00:00",
       "NumProgressed": 423,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T19:09:18.7353474+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -701,7 +706,7 @@
       "Name": "Fore!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CATAPULT_THROW",
@@ -725,7 +730,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -813,7 +818,7 @@
       "Name": "Disoriented",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -861,7 +866,7 @@
       "Name": "Anger Issues",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -869,7 +874,7 @@
       "Name": "Pushover",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "HIT_ALIEN",
@@ -925,7 +930,7 @@
       "Name": "Your Highness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEFT_LEVEL",
@@ -971,9 +976,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -1124,7 +1129,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 2
     }
   ],
@@ -1132,8 +1137,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:09:12.526448+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:09:18.7353469+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0108602+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:58:27.6339031+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:09:12.5264837+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:59:01.4154403+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:09:18.7353912+00:00"
 }

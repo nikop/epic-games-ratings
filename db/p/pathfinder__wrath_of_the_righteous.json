@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4709,7 +4709,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12792,
+  "EOS_Progressed": 12794,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
@@ -18109,6 +18109,11 @@
       "Time": "2023-12-26T18:10:36.8202379+00:00",
       "NumProgressed": 12792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T19:10:56.1430805+00:00",
+      "NumProgressed": 12794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18152,7 +18157,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -18488,7 +18493,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "49_Flame",
@@ -18512,7 +18517,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18992,7 +18997,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -19047,21 +19052,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11574,
+      "Progressed": 11576,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12792,
+      "Progressed": 12794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-26T15:57:12.2739324+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:10:36.8202376+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:10:56.14308+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:57:03.0263946+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:10:36.8203955+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:57:15.5653699+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:10:56.1432384+00:00"
 }

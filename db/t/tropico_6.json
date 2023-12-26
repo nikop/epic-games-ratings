@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 298,
   "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 296,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1479,7 +1479,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6687,
+  "EOS_Progressed": 6689,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -15304,6 +15304,11 @@
       "Time": "2023-12-26T17:04:52.2501279+00:00",
       "NumProgressed": 6687,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T19:04:46.1137435+00:00",
+      "NumProgressed": 6689,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15411,7 +15416,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15475,7 +15480,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4948
+      "UsersEstimate": 4950
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15547,7 +15552,7 @@
       "Name": "Survivor",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -15571,7 +15576,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15587,7 +15592,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15634,15 +15639,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6687,
+      "Progressed": 6689,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-25T08:59:34.0661377+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:04:06.4767923+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:04:46.1137431+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:00:22.6884865+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:04:06.4768644+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:01:24.3947133+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:04:46.1138277+00:00"
 }

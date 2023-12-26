@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -631,15 +631,21 @@
       "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-26T18:58:10.84949+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10704,
+  "EOS_Progressed": 10709,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -13647,6 +13653,11 @@
       "Time": "2023-12-26T18:06:50.2966039+00:00",
       "NumProgressed": 10704,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-26T19:07:53.6999003+00:00",
+      "NumProgressed": 10709,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 29,
@@ -13658,7 +13669,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 8884
+      "UsersEstimate": 8888
     },
     {
       "ID": "ACH02",
@@ -13666,7 +13677,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3641
     },
     {
       "ID": "ACH03",
@@ -13682,7 +13693,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "ACH05",
@@ -13698,7 +13709,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH07",
@@ -13722,7 +13733,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH10",
@@ -13730,7 +13741,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2999
     },
     {
       "ID": "ACH11",
@@ -13762,7 +13773,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "ACH15",
@@ -13778,7 +13789,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACH17",
@@ -13794,7 +13805,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH19",
@@ -13802,7 +13813,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH20",
@@ -13842,7 +13853,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH25",
@@ -13850,7 +13861,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH26",
@@ -13889,16 +13900,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10704,
+      "Progressed": 10709,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-12-26T07:57:32.1915992+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:06:50.2966035+00:00",
+  "LastChanged": "2023-12-26T18:58:10.8494899+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:07:53.6998997+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:57:47.8578415+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:06:50.2966871+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:58:10.8494903+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:07:53.6999773+00:00"
 }

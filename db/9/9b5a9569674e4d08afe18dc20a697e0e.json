@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -825,9 +825,9 @@
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WASHING",
@@ -864,8 +864,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:06:43.3271607+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:07:45.5858139+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:57:01.5928962+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:02:54.0413018+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:06:43.3271786+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:02:56.8480173+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:07:45.5858325+00:00"
 }

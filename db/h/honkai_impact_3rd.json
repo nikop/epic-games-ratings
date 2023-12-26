@@ -2,13 +2,13 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -9863,18 +9863,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 12101,
       "NumberOfAwardsMax": 3220
+    },
+    {
+      "Time": "2023-12-26T19:01:36.235244+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 12111,
+      "NumberOfAwardsMax": 3228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12101,
-  "NumberOfAwardsMax": 3220,
+  "NumberOfAwards": 12111,
+  "NumberOfAwardsMax": 3228,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3220
+      "Count": 3228
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9916,7 +9922,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 576
+      "Count": 578
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9967,8 +9973,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-12-26T18:00:31.7922632+00:00",
+  "LastChanged": "2023-12-26T19:01:36.2352439+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.4626899+00:00",
-  "LastUpdate_Ratings": "2023-12-26T18:00:31.7922641+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:08:37.9147301+00:00"
+  "LastUpdate_Ratings": "2023-12-26T19:01:36.2352444+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:08:36.8578568+00:00"
 }

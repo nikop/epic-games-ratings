@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 3783,
+  "Ranking_EOS_NewCompleters": 3784,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3611,7 +3611,7 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19319,
+  "EOS_Progressed": 19324,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 654,
   "EOS_NewCompleters": -1,
@@ -17226,6 +17226,11 @@
       "Time": "2023-12-26T18:05:18.8067941+00:00",
       "NumProgressed": 19319,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T19:06:05.7886195+00:00",
+      "NumProgressed": 19324,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17404,9 +17409,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 174
     },
     {
       "ID": "WinNearForbidden",
@@ -17620,9 +17625,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 193
     },
     {
       "ID": "Year1Dangerous",
@@ -17662,7 +17667,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "WinNearPetrified",
@@ -17709,15 +17714,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19319,
+      "Progressed": 19324,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-26T16:59:55.8893505+00:00",
-  "LastChanged_Achievements": "2023-12-26T18:05:18.8067938+00:00",
+  "LastChanged_Achievements": "2023-12-26T19:06:05.7886193+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T17:58:57.2765099+00:00",
-  "LastUpdate_Achievements": "2023-12-26T18:05:18.8068922+00:00"
+  "LastUpdate_Ratings": "2023-12-26T18:59:37.2370253+00:00",
+  "LastUpdate_Achievements": "2023-12-26T19:06:05.7887296+00:00"
 }
