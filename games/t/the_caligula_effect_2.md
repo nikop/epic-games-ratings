@@ -6,17 +6,17 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~241 |
-| Daily Life Begins Anew | 82.00% | ~202 |
-| Our World Now | 82.00% | ~202 |
-| Never Saw It Coming | 67.00% | ~165 |
-| Coup de Grace | 58.00% | ~143 |
+| Welcome to Redo | 98.00% | ~242 |
+| Daily Life Begins Anew | 82.00% | ~203 |
+| Our World Now | 81.00% | ~200 |
+| Never Saw It Coming | 66.00% | ~163 |
+| Coup de Grace | 57.00% | ~141 |
 | Go-Home Club Activities START! | 49.00% | ~121 |
 | Philanthropist | 39.00% | ~96 |
 | Test Your Luck | 34.00% | ~84 |
-| Behind the Curtain | 33.00% | ~81 |
+| Behind the Curtain | 33.00% | ~82 |
 | Master of Surprise | 30.00% | ~74 |
-| Be Who You Wanna Be | 27.00% | ~66 |
+| Be Who You Wanna Be | 27.00% | ~67 |
 | Investment Ban-χ-ing | 25.00% | ~62 |
 | Counter Champion | 25.00% | ~62 |
 | Friendly Neighborhood | 24.00% | ~59 |
@@ -27,7 +27,7 @@ Number of Ratings: 32  (23.09.2022)
 | WIRE Guru | 21.00% | ~52 |
 | The Greater Good | 20.00% | ~49 |
 | Depths of the Heart | 20.00% | ~49 |
-| Lost Souls For Sale | 20.00% | ~49 |
+| Lost Souls For Sale | 19.00% | ~47 |
 | Selfish Decisions | 18.00% | ~44 |
 | Pulling Heartstrings | 18.00% | ~44 |
 | Extracurricular Affair | 18.00% | ~44 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 397)  
+Progressed: 247 (Ranked 397)  
 Completed: 2 (0.81%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 2 (0.81%) (Ranked 186)
 | 2023-12-18 | 244 | 2 |
 | 2023-12-20 | 245 | 2 |
 | 2023-12-22 | 246 | 2 |
+| 2023-12-26 | 247 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

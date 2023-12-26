@@ -2,13 +2,13 @@
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-14T08:00:00+00:00",
     "PcReleaseDate": "2021-10-14T08:00:00+00:00",
@@ -1046,10 +1046,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-25T23:58:46.0023739+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1075,7 +1081,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1107,8 +1113,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2023-12-23T15:57:55.1192444+00:00",
+  "LastChanged": "2023-12-25T23:58:46.0023737+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:04.7171661+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:58:53.9925446+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:11.2923597+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:58:46.0023743+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:02.9592201+00:00"
 }

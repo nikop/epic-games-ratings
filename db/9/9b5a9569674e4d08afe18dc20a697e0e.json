@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -604,9 +604,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "BARON",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:05:29.6006218+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:05:22.3339255+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:57:01.5928962+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:00:22.1247807+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:05:29.6006438+00:00"
+  "LastUpdate_Ratings": "2023-12-26T00:00:15.6275852+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:05:22.3339435+00:00"
 }

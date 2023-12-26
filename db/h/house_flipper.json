@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 228,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2217,9 +2217,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 21739,
+  "EOS_Progressed": 21740,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12067,6 +12067,11 @@
       "Time": "2023-12-25T22:04:59.9903019+00:00",
       "NumProgressed": 21739,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-26T00:04:41.3269428+00:00",
+      "NumProgressed": 21740,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12110,7 +12115,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "EstateAgent",
@@ -12126,7 +12131,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20652
+      "UsersEstimate": 20653
     },
     {
       "ID": "GameOver",
@@ -12230,7 +12235,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "Strongman",
@@ -12261,15 +12266,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21739,
+      "Progressed": 21740,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-25T20:58:03.3505251+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:49.2818085+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:04:41.3269423+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:57.9908035+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:49.2818787+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:49.4961047+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:41.3269993+00:00"
 }

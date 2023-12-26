@@ -10,13 +10,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 6.00% | ~284 |
 | This Belongs in a Museum | 5.00% | ~6,493 |
 | Autodidact | 5.00% | ~6,493 |
-| This guy... again? | 5.00% | ~236 |
-| Serenity Now! | 4.00% | ~5,194 |
-| Creep and Sleep | 4.00% | ~5,194 |
-| Meat and Greet | 4.00% | ~5,194 |
-| Catch and Decease | 4.00% | ~5,194 |
-| Overdue Notice | 4.00% | ~5,194 |
-| Escape from the Black Hole | 4.00% | ~5,194 |
+| This guy... again? | 5.00% | ~237 |
+| Serenity Now! | 4.00% | ~5,195 |
+| Creep and Sleep | 4.00% | ~5,195 |
+| Meat and Greet | 4.00% | ~5,195 |
+| Catch and Decease | 4.00% | ~5,195 |
+| Overdue Notice | 4.00% | ~5,195 |
+| Escape from the Black Hole | 4.00% | ~5,195 |
 | Ploughshares to Swords | 4.00% | ~189 |
 | Bloody Graduation | 4.00% | ~189 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,896 |
@@ -64,8 +64,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 0.90% | ~43 |
 | Shrine of Reflection | 0.80% | ~1,039 |
 | Body of Work | 0.80% | ~1,039 |
+| Clearing the Ledger | 0.70% | ~909 |
 | Et Tu, Riposte? | 0.70% | ~33 |
-| Clearing the Ledger | 0.60% | ~779 |
 | Hat Trick | 0.60% | ~779 |
 | Triage | 0.60% | ~779 |
 | No Mercy | 0.60% | ~28 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,858 (Ranked 87)  
+Progressed: 129,864 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,9 +326,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
+| 2023-12-26 | 129,864 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
-Sum: 21,091 (Ranked 58)  
+Sum: 21,096 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -336,8 +337,8 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,771 |
 | This game has Challenging Combat | 1,634 |
 | This game is Highly Recommended | 1,572 |
+| This game has Amazing Characters | 1,492 |
 | This game is Extremely Fun | 1,491 |
-| This game has Amazing Characters | 1,487 |
 | This game has Unique Visuals | 1,422 |
 | This game has Amazing Storytelling | 1,409 |
 | This game has Quickly Understood Controls | 1,380 |
@@ -678,4 +679,4 @@ Diff (max vs sum): -8
 | 2023-12-22 | 4.68 | - | 7,834 | 20,954 |
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
-| 2023-12-25 | 4.68 | - | 7,875 | 21,091 |
+| 2023-12-25 | 4.68 | - | 7,875 | 21,096 |

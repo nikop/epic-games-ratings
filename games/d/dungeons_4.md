@@ -25,7 +25,7 @@
 | The Big Eaty | 53.00% | ~338 |
 | “… like son” | 50.00% | ~319 |
 | YOU SHALL NOT PASS! | 49.00% | ~313 |
-| The Cathedral of Light | 46.00% | ~293 |
+| The Cathedral of Light | 47.00% | ~300 |
 | Shame! Shame! Shame! | 46.00% | ~293 |
 | Pure Dynamite! | 45.00% | ~287 |
 | Tanos' Crusade Against Thalya | 45.00% | ~287 |
@@ -38,10 +38,10 @@
 | If Looks Could Kill | 34.00% | ~217 |
 | The Finitude Drill | 31.00% | ~198 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~185 |
+| Forbidden Knowledge | 28.00% | ~179 |
 | Doom Hill | 28.00% | ~179 |
 | Hungry, Hungry Gorgu! | 27.00% | ~172 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~172 |
-| Forbidden Knowledge | 27.00% | ~172 |
 | Stop Tanos! | 26.00% | ~166 |
 | Brimstone Shaken, Not Stirred | 26.00% | ~166 |
 | Sabotage! | 25.00% | ~160 |
@@ -53,9 +53,9 @@
 | Rubble and Ashes | 20.00% | ~128 |
 | My Little Torture Chamber | 18.00% | ~115 |
 | Lavalumps on Ice! | 18.00% | ~115 |
+| To the Max! | 18.00% | ~115 |
 | To Infinity And Beyond! | 18.00% | ~115 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~108 |
-| To the Max! | 17.00% | ~108 |
 | Evilification | 16.00% | ~102 |
 | Mirror, Mirror | 15.00% | ~96 |
 | Untouchable | 15.00% | ~96 |

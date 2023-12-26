@@ -13,13 +13,13 @@ Number of Ratings: 124  (23.09.2022)
 | Creator | 16.00% | ~16 |
 | Festival-goer | 14.00% | ~14 |
 | Military Leader | 13.00% | ~13 |
-| Commander | 12.00% | ~12 |
+| Commander | 13.00% | ~13 |
 | Peddler | 10.00% | ~10 |
 | Long-Haul Flyer | 10.00% | ~10 |
 | Irissa's Fate | 8.00% | ~8 |
+| Eternal Oblivion | 8.00% | ~8 |
 | Berserker | 7.00% | ~7 |
 | Pass A38 | 7.00% | ~7 |
-| Eternal Oblivion | 7.00% | ~7 |
 | Family Reunion | 6.00% | ~6 |
 | Hotshot | 5.00% | ~5 |
 | Alb | 5.00% | ~5 |

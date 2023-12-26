@@ -11,15 +11,15 @@ Rating: 4.62 (Ranked 374)
 | Walls Cannot Stop Us | 8.00% | ~497 |
 | From Friends to Family | 7.00% | ~435 |
 | Bone Peddler | 6.00% | ~373 |
+| Full Ascension | 5.00% | ~311 |
 | Magical Synergy | 5.00% | ~311 |
 | But this one is mine | 5.00% | ~311 |
+| Valley of Wonders | 4.00% | ~249 |
 | There Can Only Be One! | 4.00% | ~249 |
-| Full Ascension | 4.00% | ~249 |
 | Stronger Together | 4.00% | ~249 |
 | Seat of Power | 4.00% | ~249 |
 | In a Liege of Your Own | 4.00% | ~249 |
 | Intimidation Tactics | 4.00% | ~249 |
-| Valley of Wonders | 3.00% | ~186 |
 | Return of the Wizard King | 3.00% | ~186 |
 | Digging for Treasure | 3.00% | ~186 |
 | My Final Form | 3.00% | ~186 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 374)
 | Pruning for Progress | 0.80% | ~50 |
 | Grexolis | 0.80% | ~50 |
 | One for All, All for One | 0.80% | ~50 |
-| Duality | 0.70% | ~43 |
+| Duality | 0.70% | ~44 |
 | Betrayal Most Foul | 0.50% | ~31 |
 | Snap Out of It! | 0.30% | ~19 |
 | The Magic That Empowers Me! | 0.30% | ~19 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,213 (Ranked 193)  
+Progressed: 6,216 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,11 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-23 | 6,077 | 7 |
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
+| 2023-12-26 | 6,216 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
-Sum: 136 (Ranked 437)  
-Diff (max vs sum): 41  
+Sum: 136 (Ranked 438)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

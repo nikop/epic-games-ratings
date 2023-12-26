@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 9619,
+  "EOS_Progressed": 9620,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10041,6 +10041,11 @@
       "Time": "2023-12-25T23:09:14.4244237+00:00",
       "NumProgressed": 9619,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T00:08:36.6449479+00:00",
+      "NumProgressed": 9620,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10068,7 +10073,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10388,7 +10393,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10411,7 +10416,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9619,
+      "Progressed": 9620,
       "Completed": 10
     }
   ],
@@ -10419,8 +10424,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-21T18:57:04.5501188+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:09:14.4244233+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:08:36.6449474+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:59:10.5959876+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:09:14.4244822+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:04.2820314+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:08:36.6450023+00:00"
 }

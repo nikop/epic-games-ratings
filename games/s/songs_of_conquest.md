@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,8 +19,8 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~45 |
 | Landlord Extraordinaire | 6.00% | ~45 |
 | Don't Touch My Stuff | 5.00% | ~37 |
+| The Song of Stoutheart | 4.00% | ~30 |
 | Trojan Horse | 4.00% | ~30 |
-| The Song of Stoutheart | 3.00% | ~22 |
 | Expert Essence Employment | 3.00% | ~22 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~22 |
 | This Spot's Taken | 2.00% | ~15 |

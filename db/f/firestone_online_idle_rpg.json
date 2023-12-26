@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1015,
+  "Ranking_Rating": 1016,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -667,7 +667,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3807,
+  "EOS_Progressed": 3808,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
@@ -10832,6 +10832,11 @@
       "Time": "2023-12-25T23:03:13.8194385+00:00",
       "NumProgressed": 3807,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T00:03:03.6119403+00:00",
+      "NumProgressed": 3808,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11035,7 +11040,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "frostfireliberator",
@@ -11083,7 +11088,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "heroinspection",
@@ -11155,7 +11160,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "mastery",
@@ -11243,7 +11248,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "relicofthepast",
@@ -11323,7 +11328,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "thegameison",
@@ -11363,7 +11368,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -11435,14 +11440,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3807,
+      "Progressed": 3808,
       "Completed": 2
     }
   ],
@@ -11450,8 +11455,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-25T10:59:46.8542147+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:03:13.8194376+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:03:03.6119397+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:00:03.5216393+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:03:13.8212485+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:57.3098169+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:03:03.6120713+00:00"
 }

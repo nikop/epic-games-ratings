@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1775,9 +1775,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "TIME_ORWELL",
@@ -1846,8 +1846,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:09:49.7145838+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:11.1041875+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:58:49.4741554+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:09:49.7146082+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:58:41.4046758+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:09:11.1042062+00:00"
 }

@@ -1,18 +1,18 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 1,015)  
+Rating: 4.03 (Ranked 1,016)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~3,541 |
-| World Map | 78.00% | ~2,969 |
+| World Map | 78.00% | ~2,970 |
 | Temple of Eternals | 56.00% | ~2,132 |
 | Prestigious | 53.00% | ~2,018 |
 | Fellowship Power | 42.00% | ~1,599 |
 | Full Party | 26.00% | ~990 |
 | Guild Power | 23.00% | ~876 |
-| Prestigious x10 | 20.00% | ~761 |
+| Prestigious x10 | 20.00% | ~762 |
 | The game is on | 18.00% | ~685 |
 | Exotic Merchant | 16.00% | ~609 |
 | Dragon Clicker | 15.00% | ~571 |
@@ -38,11 +38,11 @@ Rating: 4.03 (Ranked 1,015)
 | Moving Up The Ladder | 8.00% | ~305 |
 | Relic Of The Past | 8.00% | ~305 |
 | Scroll Master | 8.00% | ~305 |
-| Four Leaf Clover | 7.00% | ~266 |
-| Here We Go Again | 7.00% | ~266 |
-| Master Enchanter | 7.00% | ~266 |
-| The father of Dragons | 7.00% | ~266 |
-| Trader | 7.00% | ~266 |
+| Four Leaf Clover | 7.00% | ~267 |
+| Here We Go Again | 7.00% | ~267 |
+| Master Enchanter | 7.00% | ~267 |
+| The father of Dragons | 7.00% | ~267 |
+| Trader | 7.00% | ~267 |
 | The Expeditioner | 6.00% | ~228 |
 | Weekly Quest Completionist | 6.00% | ~228 |
 | Blueprint Upgrades | 5.00% | ~190 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,015)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,807 (Ranked 209)  
+Progressed: 3,808 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,11 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-23 | 3,733 | 2 |
 | 2023-12-24 | 3,773 | 2 |
 | 2023-12-25 | 3,807 | 2 |
+| 2023-12-26 | 3,808 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
-Sum: 127 (Ranked 443)  
-Diff (max vs sum): 35  
+Sum: 127 (Ranked 444)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

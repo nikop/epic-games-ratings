@@ -10,7 +10,7 @@
 | Working for the Kiweekend | 42.00% | ~42 |
 | Fun in the Bungalow Basin Sun | 39.00% | ~39 |
 | A Startling Discovery | 35.00% | ~35 |
-| Pumpkins and Postage Stamps | 24.00% | ~24 |
+| Pumpkins and Postage Stamps | 25.00% | ~25 |
 | Kiwinter Kiwonderland | 10.00% | ~10 |
 | Secrets of the Telepost | 5.00% | ~5 |
 | Summer Postmasters | 3.00% | ~3 |

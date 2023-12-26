@@ -6,13 +6,15 @@ Rating: 4.56 (Ranked 496)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 1.00% | ~23 |
+| The Bright Fir | 1.00% | ~9 |
 | Become King | 0.90% | ~21 |
-| The Bright Fir | 0.90% | ~8 |
 | Ranged Weapon | 0.70% | ~16 |
 | Two Handed Weapon | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Defeat 25 Frogs | 0.70% | ~16 |
+| Defeat Croakhis Khan | 0.70% | ~6 |
 | Shield Maiden Yellow Tongue | 0.70% | ~6 |
+| I Remember My First Beer | 0.70% | ~6 |
 | Collect Gold | 0.60% | ~14 |
 | Collect Iron Ore | 0.60% | ~14 |
 | Collect Monster Parts | 0.60% | ~14 |
@@ -22,8 +24,6 @@ Rating: 4.56 (Ranked 496)
 | Throne Room Fit For A King | 0.60% | ~14 |
 | Rescue Redgi's Brothers | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
-| Defeat Croakhis Khan | 0.60% | ~6 |
-| I Remember My First Beer | 0.60% | ~6 |
 | Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |

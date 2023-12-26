@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1006,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
@@ -8999,10 +8999,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33072,
       "NumberOfAwardsMax": 5691
+    },
+    {
+      "Time": "2023-12-25T23:57:31.6831581+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33079,
+      "NumberOfAwardsMax": 5691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33072,
+  "NumberOfAwards": 33079,
   "NumberOfAwardsMax": 5691,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9046,12 +9052,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3592
+      "Count": 3599
     }
   ],
-  "EOS_Progressed": 244638,
+  "EOS_Progressed": 244654,
   "EOS_Completed": 2562,
-  "EOS_NewPlayers": 2800,
+  "EOS_NewPlayers": 2807,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37239,6 +37245,11 @@
       "Time": "2023-12-25T23:10:16.4659563+00:00",
       "NumProgressed": 244638,
       "NumCompleted": 2562
+    },
+    {
+      "Time": "2023-12-26T00:09:36.6819978+00:00",
+      "NumProgressed": 244654,
+      "NumCompleted": 2562
     }
   ],
   "TotalAchievements": 546,
@@ -37250,7 +37261,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "objective_completed_10",
@@ -38922,7 +38933,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "objective_completed_34",
@@ -41554,7 +41565,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "objective_completed_1563",
@@ -41617,21 +41628,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210912,
+      "Progressed": 210928,
       "Completed": 4063
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244638,
+      "Progressed": 244654,
       "Completed": 2562
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-25T04:57:20.6229289+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:10:16.4659559+00:00",
+  "LastChanged": "2023-12-25T23:57:31.683158+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:36.6819973+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:41.0142132+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:10:16.4681884+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:31.6831586+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:09:36.6842559+00:00"
 }

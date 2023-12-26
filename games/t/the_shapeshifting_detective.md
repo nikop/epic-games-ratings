@@ -9,7 +9,7 @@
 | Play Me By The Hour | 70.00% | ~202 |
 | Patient Listener | 46.00% | ~133 |
 | Video Saved The Radio Star | 39.00% | ~113 |
-| Hashtag Winning | 37.00% | ~107 |
+| Hashtag Winning | 38.00% | ~110 |
 | A Woman Scorned | 28.00% | ~81 |
 | Look Mum I'm A Detective | 21.00% | ~61 |
 | Chameleon | 20.00% | ~58 |
@@ -20,8 +20,8 @@
 | Oscar Winning Performance | 10.00% | ~29 |
 | Voyeur | 10.00% | ~29 |
 | Put A Ring On It | 9.00% | ~26 |
+| Chicken | 8.00% | ~23 |
 | Heavy Rayne | 8.00% | ~23 |
-| Chicken | 7.00% | ~20 |
 | Show Me Some Skin | 5.00% | ~14 |
 | Bullseye | 4.00% | ~12 |
 | The Big Sleep | 4.00% | ~12 |

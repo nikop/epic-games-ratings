@@ -2,10 +2,10 @@
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 35,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.94,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -200,6 +200,11 @@
       "Time": "2023-12-25T06:08:44.8902155+00:00",
       "NumProgressed": 34,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T00:03:19.7656161+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -210,7 +215,7 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -226,7 +231,7 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -234,7 +239,7 @@
       "ID": "a12",
       "SetID": "cdg65ol",
       "Name": "Who Even Needs Keys",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -306,7 +311,7 @@
       "ID": "a20",
       "SetID": "cdg65ol",
       "Name": "Couch-surfing",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -330,7 +335,7 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -370,7 +375,7 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -386,9 +391,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "a30",
@@ -442,15 +447,15 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -458,7 +463,7 @@
       "ID": "a6",
       "SetID": "cdg65ol",
       "Name": "Secure the Sheets",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -466,7 +471,7 @@
       "ID": "a7",
       "SetID": "cdg65ol",
       "Name": "Hands on the Helm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -491,7 +496,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 35,
       "Completed": 1
     }
   ],
@@ -499,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:03:30.2367419+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:03:19.7656156+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.260771+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:02:47.2663969+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:03:30.2367752+00:00"
+  "LastUpdate_Ratings": "2023-12-26T00:02:36.0870801+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:03:19.7656363+00:00"
 }

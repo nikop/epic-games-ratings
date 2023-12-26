@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 83.00% | ~112 |
-| Path of Despair | 83.00% | ~112 |
-| Not alone | 58.00% | ~78 |
+| Morgengrauen | 83.00% | ~113 |
+| Path of Despair | 83.00% | ~113 |
+| Not alone | 58.00% | ~79 |
 | Hunger | 50.00% | ~68 |
 | Awaken | 40.00% | ~54 |
-| Path of Corruption | 32.00% | ~43 |
-| Hope | 27.00% | ~36 |
+| Path of Corruption | 32.00% | ~44 |
+| Hope | 27.00% | ~37 |
 | Rage | 26.00% | ~35 |
-| Path of Pain | 19.00% | ~26 |
+| Path of Pain | 18.00% | ~24 |
 | Reflections | 15.00% | ~20 |
 | The shining | 15.00% | ~20 |
 | Clarity | 14.00% | ~19 |
@@ -34,7 +34,7 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 448)  
+Progressed: 136 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 116 | 0 |
 | 2023-12-24 | 124 | 0 |
 | 2023-12-25 | 135 | 0 |
+| 2023-12-26 | 136 | 0 |

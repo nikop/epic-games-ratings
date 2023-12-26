@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -818,9 +818,9 @@
       "ID": "DISPOSE_15_BODIES",
       "SetID": "2lk004m",
       "Name": "Business as usual",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -945,8 +945,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:06:05.006615+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:05:58.8883222+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.7268064+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:59:44.2845745+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:06:05.0066338+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:37.2692148+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:05:58.8883409+00:00"
 }

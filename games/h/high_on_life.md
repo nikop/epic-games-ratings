@@ -26,7 +26,7 @@ Rating: 4.64 (Ranked 342)
 | Eye Scream, You Scream | 2.00% | ~498 |
 | Legendary Bounty Hunter | 2.00% | ~498 |
 | Series Wrap on Suit-O | 2.00% | ~498 |
-| Bathe With A Giant Nude Alien | 2.00% | ~43 |
+| Bathe With A Giant Nude Alien | 2.00% | ~44 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
 | Gunning For Your Job | 0.90% | ~224 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.80% | ~199 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 342)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,879 (Ranked 143)  
+Progressed: 24,882 (Ranked 143)  
 Completed: 14 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 14 (0.06%) (Ranked 329)
 | 2023-12-23 | 24,840 | 14 |
 | 2023-12-24 | 24,852 | 14 |
 | 2023-12-25 | 24,879 | 14 |
+| 2023-12-26 | 24,882 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

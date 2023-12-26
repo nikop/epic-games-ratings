@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 228,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2826,9 +2826,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 30
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3258,8 +3258,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:08:59.8411169+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:08:22.5129658+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:06.18504+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:08:59.8411613+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:56:56.5590288+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:08:22.5130105+00:00"
 }

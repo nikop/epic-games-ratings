@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3837,9 +3837,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32706,
+  "EOS_Progressed": 32708,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23467,6 +23467,11 @@
       "Time": "2023-12-25T23:08:40.0716993+00:00",
       "NumProgressed": 32706,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-26T00:08:02.6910362+00:00",
+      "NumProgressed": 32708,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23478,7 +23483,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "Animated",
@@ -23590,7 +23595,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "Escape_Artist",
@@ -23885,7 +23890,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32706,
+      "Progressed": 32708,
       "Completed": 70
     }
   ],
@@ -23893,8 +23898,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-25T18:58:16.4810099+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:08:40.071699+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:08:02.6910358+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:58:20.9909751+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:08:40.0718238+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:58:12.500634+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:08:02.6911387+00:00"
 }

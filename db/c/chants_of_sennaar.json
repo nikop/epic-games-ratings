@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -67,11 +67,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1793,
+  "EOS_Progressed": 1794,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 5.86,
+  "EOS_Completed_Percentage": 5.85,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5257,6 +5257,11 @@
       "Time": "2023-12-25T23:03:44.1799874+00:00",
       "NumProgressed": 1793,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-12-26T00:03:33.8355863+00:00",
+      "NumProgressed": 1794,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 25,
@@ -5372,7 +5377,7 @@
       "Name": "Rascal",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5388,7 +5393,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5412,7 +5417,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5434,9 +5439,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 718
     },
     {
       "ID": "PROGRESS_N3",
@@ -5460,14 +5465,14 @@
       "Name": "One last step",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1793,
+      "Progressed": 1794,
       "Completed": 105
     }
   ],
@@ -5475,8 +5480,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:03:44.1799871+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:03:33.8355859+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:28.5155814+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:03:44.1800294+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:19.3706207+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:03:33.8356249+00:00"
 }

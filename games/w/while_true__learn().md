@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~572,462 |
-| Error: Stack Overflow | 66.00% | ~406,263 |
-| We need more gold | 61.00% | ~375,486 |
-| The dawn of civilization | 53.00% | ~326,242 |
-| More FPS for the FPS god! | 50.00% | ~307,775 |
-| Beauty and harmony | 48.00% | ~295,464 |
-| One more! | 44.00% | ~270,842 |
-| Overmind | 24.00% | ~147,732 |
-| RNG is my best friend now | 18.00% | ~110,799 |
-| Cosplay | 14.00% | ~86,177 |
-| Evolution in progress... | 13.00% | ~80,022 |
-| Step by step | 8.00% | ~49,244 |
+| First.. Bit? | 93.00% | ~572,470 |
+| Error: Stack Overflow | 66.00% | ~406,269 |
+| We need more gold | 61.00% | ~375,491 |
+| The dawn of civilization | 53.00% | ~326,246 |
+| More FPS for the FPS god! | 50.00% | ~307,780 |
+| Beauty and harmony | 48.00% | ~295,468 |
+| One more! | 44.00% | ~270,846 |
+| Overmind | 24.00% | ~147,734 |
+| RNG is my best friend now | 18.00% | ~110,801 |
+| Cosplay | 14.00% | ~86,178 |
+| Evolution in progress... | 13.00% | ~80,023 |
+| Step by step | 8.00% | ~49,245 |
 | README reader | 4.00% | ~24,622 |
-| Data scientist | 3.00% | ~18,466 |
-| One small step for a man... | 3.00% | ~18,466 |
+| Data scientist | 3.00% | ~18,467 |
+| One small step for a man... | 3.00% | ~18,467 |
 | To see it all, to learn it all | 2.00% | ~12,311 |
 | Evolution complete | 2.00% | ~12,311 |
 | Best deal on the market | 2.00% | ~12,311 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,462 |
 | The Scrooge | 0.10% | ~616 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615,550 (Ranked 31)  
+Progressed: 615,559 (Ranked 31)  
 Completed: 561 (0.09%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,11 @@ Completed: 561 (0.09%) (Ranked 315)
 | 2023-12-23 | 615,240 | 559 |
 | 2023-12-24 | 615,394 | 560 |
 | 2023-12-25 | 615,550 | 561 |
+| 2023-12-26 | 615,559 | 561 |
 ## Awards
 Max (Challenging Puzzles): 139  (Ranked 331)  
-Sum: 139 (Ranked 436)  
-Diff (max vs sum): -105  
+Sum: 139 (Ranked 437)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 139 |

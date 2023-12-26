@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 1393,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3992,9 +3992,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 641
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -4456,9 +4456,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 905
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -4513,8 +4513,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:05:27.2610692+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:05:20.0323518+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:58:05.8551347+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:05:27.2611626+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:57.3248971+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:05:20.0324545+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1115,9 +1115,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "finished_it",
@@ -1339,9 +1339,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1362,8 +1362,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:06:07.7647718+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:06:01.6607152+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:42.5190446+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:06:07.7648157+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:33.8786207+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:06:01.6607469+00:00"
 }

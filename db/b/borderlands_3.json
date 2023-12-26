@@ -2,13 +2,13 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 228,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -16766,6 +16766,6 @@
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
   "LastChanged": "2023-12-25T23:00:19.4539037+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.3607641+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:00:19.4539042+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:05:37.1789607+00:00"
+  "LastUpdate_Ratings": "2023-12-26T00:00:13.3759361+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:05:30.2769637+00:00"
 }

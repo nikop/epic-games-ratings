@@ -3593,9 +3593,9 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 19247,
+  "EOS_Progressed": 19251,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17118,6 +17118,11 @@
       "Time": "2023-12-25T23:04:17.0897984+00:00",
       "NumProgressed": 19247,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T00:04:08.7128149+00:00",
+      "NumProgressed": 19251,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17178,7 +17183,7 @@
       "Name": "Human Utopia",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LizardUtopia",
@@ -17186,7 +17191,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ManyEvents",
@@ -17194,7 +17199,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MetalChain",
@@ -17202,7 +17207,7 @@
       "Name": "Refinery",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Win5Years",
@@ -17216,9 +17221,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 963
     },
     {
       "ID": "WinHard",
@@ -17234,7 +17239,7 @@
       "Name": "Against All Odds",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearArmory",
@@ -17258,7 +17263,7 @@
       "Name": "Barren Lands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearBattleground",
@@ -17266,7 +17271,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearCrystals",
@@ -17274,7 +17279,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearDangerous",
@@ -17282,7 +17287,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "WinNearFertile",
@@ -17304,9 +17309,9 @@
       "ID": "WinNearForbidden",
       "SetID": "cfbk359",
       "Name": "Forbidden Lands",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 116
     },
     {
       "ID": "WinNearHaunted",
@@ -17314,7 +17319,7 @@
       "Name": "Haunted Forest",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearLevitating",
@@ -17330,7 +17335,7 @@
       "Name": "Flooded Mines",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearMonastery",
@@ -17346,7 +17351,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "WinNearRuins",
@@ -17362,7 +17367,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearTemple",
@@ -17378,7 +17383,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinNearWatchtower",
@@ -17402,7 +17407,7 @@
       "Name": "Cursed Lands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WinOnMarshlands",
@@ -17418,7 +17423,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "WinPrestige10",
@@ -17426,7 +17431,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WinPrestige20",
@@ -17466,7 +17471,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "WinWithResolve",
@@ -17506,7 +17511,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "WinWithoutOrders",
@@ -17560,9 +17565,9 @@
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 1155
     },
     {
       "ID": "WinNearPresence",
@@ -17601,15 +17606,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19247,
+      "Progressed": 19251,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-25T13:02:02.8849461+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:17.0897981+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:04:08.7128144+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:58:20.7280761+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:17.0899134+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:58:12.3803624+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:08.7128997+00:00"
 }

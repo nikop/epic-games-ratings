@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -444,9 +444,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2023-12-25T22:06:39.3324354+00:00",
       "NumProgressed": 184,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T00:06:16.948554+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -877,17 +882,17 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "Collect_AdamantinePure_3",
       "SetID": "7a5k76n",
       "Name": "Purity of Power",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Collect_AdamantineSmall_30",
@@ -917,9 +922,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -927,7 +932,7 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -941,9 +946,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -959,47 +964,47 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Collect_Hollow_Stasis",
       "SetID": "7a5k76n",
       "Name": "Freeze Frame",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "Collect_Lurchers_1000000",
       "SetID": "7a5k76n",
       "Name": "Soul Reaper",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Collect_PickUp_500",
@@ -1007,7 +1012,7 @@
       "Name": "Cleanup Crew",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Collect_Soulmulet",
@@ -1021,9 +1026,9 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1031,7 +1036,7 @@
       "Name": "Can you restore the Balance?",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1047,7 +1052,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1101,9 +1106,9 @@
       "ID": "Game_Complete",
       "SetID": "7a5k76n",
       "Name": "Protector of Humanity",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -1181,9 +1186,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1205,17 +1210,17 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "Kill_Sin_BigBad",
       "SetID": "7a5k76n",
       "Name": "Everybody Wants to Rule the World",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -1237,17 +1242,17 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -1279,31 +1284,31 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "Save_Humans_15",
       "SetID": "7a5k76n",
       "Name": "Community Outreach",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Save_Humans_20",
       "SetID": "7a5k76n",
       "Name": "Humanitarian",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Save_Humans_5",
@@ -1311,7 +1316,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1327,7 +1332,7 @@
       "Name": "First of many\u2026",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1335,15 +1340,15 @@
       "Name": "25 to Life",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1373,24 +1378,24 @@
       "ID": "Upgrade_Weapon_Max",
       "SetID": "7a5k76n",
       "Name": "Take it to the Limit",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:08:23.7133974+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:06:16.9485536+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:29.5612907+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:08:23.7134521+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:20.42849+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:06:16.9485953+00:00"
 }

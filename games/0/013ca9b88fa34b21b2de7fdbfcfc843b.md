@@ -13,8 +13,8 @@ Rating: 4.63 (Ranked 353)
 | Miner 49er | 1.00% | ~87 |
 | Break-Net Speed | 1.00% | ~87 |
 | Humble Collector | 1.00% | ~87 |
+| Mist Walker | 1.00% | ~87 |
 | Bramble Breaker | 1.00% | ~87 |
-| Mist Walker | 0.90% | ~78 |
 | Clear the Air | 0.80% | ~69 |
 | Lumberjack | 0.80% | ~69 |
 | Oui, Chef! | 0.80% | ~69 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 353)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,672 (Ranked 182)  
+Progressed: 8,673 (Ranked 182)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-23 | 8,616 | 1 |
 | 2023-12-24 | 8,649 | 1 |
 | 2023-12-25 | 8,672 | 1 |
+| 2023-12-26 | 8,673 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Dark Fantasy Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 365,
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 5,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 354,
-  "EOS_Completed": 165,
+  "EOS_Completed": 166,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 46.61,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 46.89,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -2054,6 +2054,11 @@
       "Time": "2023-12-25T11:09:56.5662588+00:00",
       "NumProgressed": 354,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-12-26T00:09:02.3821714+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 166
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -2160,9 +2165,9 @@
       "ID": "PORTRAIT_20",
       "SetID": "2fge00i",
       "Name": "Portrait 20",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     },
     {
       "ID": "PORTRAIT_3",
@@ -2226,13 +2231,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 354,
-      "Completed": 165
+      "Completed": 166
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:09:40.6123078+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:02.3821711+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:56.3658682+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:58:18.0266294+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:09:40.6123297+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:58:09.4453911+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:09:02.382193+00:00"
 }

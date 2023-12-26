@@ -4,8 +4,8 @@
   "ProductSlug": "nine-noir-lives-496bf4",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-07T12:00:00+00:00",
     "PcReleaseDate": "2022-09-07T12:00:00+00:00",
@@ -45,5 +45,5 @@
   "LastChanged": "2023-03-31T05:58:10.5511113+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.2767933+00:00",
   "LastUpdate_Ratings": "2023-12-25T23:00:31.2640225+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:03:54.4112911+00:00"
+  "LastUpdate_Achievements": "2023-12-26T00:03:45.3251488+00:00"
 }

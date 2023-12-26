@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
@@ -866,8 +866,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:48.1969521+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:04:40.3380457+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.5850344+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:29.920673+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:48.1969965+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:20.7830594+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:40.3380776+00:00"
 }

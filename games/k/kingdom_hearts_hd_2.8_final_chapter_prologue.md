@@ -1,16 +1,16 @@
 # KINGDOM HEARTS HD 2.8 Final Chapter Prologue
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-hd-2-8-final-chapter-prologue)  
 [View Rawdata](../../db/k/kingdom_hearts_hd_2.8_final_chapter_prologue.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
 Max (Character Customization): 167  (Ranked 315)  
-Sum: 262 (Ranked 389)  
-Diff (max vs sum): -74  
+Sum: 263 (Ranked 387)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 167 |
-| This game has Great Boss Battles | 95 |
+| This game has Great Boss Battles | 96 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -191,4 +191,4 @@ Diff (max vs sum): -74
 | 2023-12-22 | 4.68 | - | 161 | 256 |
 | 2023-12-23 | 4.68 | - | 164 | 259 |
 | 2023-12-24 | 4.68 | - | 165 | 260 |
-| 2023-12-25 | 4.69 | - | 167 | 262 |
+| 2023-12-25 | 4.69 | - | 167 | 263 |

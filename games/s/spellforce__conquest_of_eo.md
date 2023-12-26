@@ -8,19 +8,19 @@
 | Enough rooms to swing a cat | 81.00% | ~66 |
 | First to the post | 81.00% | ~66 |
 | A kind of Magic | 77.00% | ~62 |
-| Connected | 68.00% | ~55 |
+| Connected | 69.00% | ~56 |
 | Expansion | 63.00% | ~51 |
 | Mine! | 58.00% | ~47 |
 | Harvest Time | 57.00% | ~46 |
 | Artificer's Apprentice | 51.00% | ~41 |
 | Fly the friendly Sky | 47.00% | ~38 |
-| Get out of here! | 43.00% | ~35 |
+| Get out of here! | 44.00% | ~36 |
 | Necromancer's Apprentice | 41.00% | ~33 |
 | Alchemist's Apprentice | 40.00% | ~32 |
 | Friend of Lyraine | 38.00% | ~31 |
 | The Circle | 36.00% | ~29 |
-| Redecorating | 32.00% | ~26 |
-| Bad JuJu | 23.00% | ~19 |
+| Redecorating | 33.00% | ~27 |
+| Bad JuJu | 25.00% | ~20 |
 | Friend of Sevenkeeps | 22.00% | ~18 |
 | Slave to the rhythm | 21.00% | ~17 |
 | Castle Meldec | 20.00% | ~16 |

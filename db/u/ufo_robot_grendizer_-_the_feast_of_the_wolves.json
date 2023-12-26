@@ -2,10 +2,10 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 35,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2023-12-25T19:05:52.5739068+00:00",
       "NumProgressed": 34,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T00:05:32.8178943+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -233,31 +238,31 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -289,7 +294,7 @@
       "ID": "ACH_FLEEDKEEPER",
       "SetID": "ch874lb",
       "Name": "The Keeper of Fleed",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -305,7 +310,7 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -321,7 +326,7 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
       "UsersEstimate": 6
     },
@@ -329,7 +334,7 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 35,
       "UsersEstimate": 19
     },
@@ -345,7 +350,7 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -450,14 +455,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 35,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:05:39.7117641+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:05:32.8178938+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:48.0955717+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:05:39.7117847+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:39.7540042+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:05:32.8179098+00:00"
 }

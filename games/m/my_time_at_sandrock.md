@@ -6,59 +6,59 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 216.00% | ~1,460 |
-| Iron Chef | 153.00% | ~1,034 |
-| Super Spelunker | 141.00% | ~953 |
-| Greeno-B-Gone | 121.00% | ~818 |
-| The Little Wood that Could | 119.00% | ~804 |
-| Your Especially Earned Trajectory | 101.00% | ~683 |
-| On that Grindset | 97.00% | ~656 |
-| Officially Official | 95.00% | ~642 |
-| One of the Cool Kids | 84.00% | ~568 |
-| Better Late than Never | 82.00% | ~554 |
-| No Mountain Wide Enough | 82.00% | ~554 |
-| Pack Mule | 80.00% | ~541 |
-| Diamonds are Forever | 80.00% | ~541 |
-| I Do! | 78.00% | ~527 |
+| Adept Assembler | 216.00% | ~1,462 |
+| Iron Chef | 153.00% | ~1,036 |
+| Super Spelunker | 141.00% | ~955 |
+| Greeno-B-Gone | 121.00% | ~819 |
+| The Little Wood that Could | 119.00% | ~806 |
+| Your Especially Earned Trajectory | 101.00% | ~684 |
+| On that Grindset | 97.00% | ~657 |
+| Officially Official | 95.00% | ~643 |
+| One of the Cool Kids | 83.00% | ~562 |
+| Better Late than Never | 82.00% | ~555 |
+| No Mountain Wide Enough | 82.00% | ~555 |
+| Pack Mule | 80.00% | ~542 |
+| Diamonds are Forever | 80.00% | ~542 |
+| I Do! | 78.00% | ~528 |
 | Yakmel Whisperer | 77.00% | ~521 |
-| Got Served | 75.00% | ~507 |
-| Can We Keep It? | 74.00% | ~500 |
-| Mole Masher | 74.00% | ~500 |
-| Financially Secure | 73.00% | ~493 |
+| Got Served | 75.00% | ~508 |
+| Can We Keep It? | 74.00% | ~501 |
+| Mole Masher | 74.00% | ~501 |
+| Financially Secure | 73.00% | ~494 |
 | Knowledge is Power | 72.00% | ~487 |
 | Unboxing | 72.00% | ~487 |
-| Big Game Hunter | 71.00% | ~480 |
-| First Love | 71.00% | ~480 |
-| Panda-kin | 69.00% | ~466 |
-| Chatterbox | 69.00% | ~466 |
+| Big Game Hunter | 71.00% | ~481 |
+| First Love | 71.00% | ~481 |
+| Panda-kin | 69.00% | ~467 |
+| Chatterbox | 69.00% | ~467 |
 | Elementary, My Dear | 68.00% | ~460 |
 | What Plants Crave | 64.00% | ~433 |
 | Lifeline Pipeline | 64.00% | ~433 |
-| Waste Not Want Not | 63.00% | ~426 |
-| Builder of the Month | 62.00% | ~419 |
+| Waste Not Want Not | 63.00% | ~427 |
+| Builder of the Month | 62.00% | ~420 |
 | Martle's Dream | 60.00% | ~406 |
 | Happier-est Place on Earth | 59.00% | ~399 |
-| Anti-Santa | 59.00% | ~399 |
-| Commissions, commissions...! | 58.00% | ~392 |
-| Bridging the Gap | 57.00% | ~385 |
-| You Don't Win Friends With Salad | 57.00% | ~385 |
+| Commissions, commissions...! | 58.00% | ~393 |
+| Anti-Santa | 58.00% | ~393 |
+| Bridging the Gap | 57.00% | ~386 |
+| You Don't Win Friends With Salad | 57.00% | ~386 |
 | Finishing Touches | 55.00% | ~372 |
-| Got the Flow Back | 53.00% | ~358 |
-| Call Me Fishmael | 53.00% | ~358 |
+| Got the Flow Back | 53.00% | ~359 |
+| Call Me Fishmael | 53.00% | ~359 |
 | Sepia Toned Memories | 52.00% | ~352 |
 | Time Flies | 51.00% | ~345 |
-| Who Ya Gonna Call...? | 48.00% | ~324 |
+| Who Ya Gonna Call...? | 48.00% | ~325 |
 | Kind of a Big Deal | 47.00% | ~318 |
-| Jewel of the Eufaula | 45.00% | ~304 |
+| Jewel of the Eufaula | 45.00% | ~305 |
 | Just What I Always Wanted! | 43.00% | ~291 |
 | My Time Mansion | 42.00% | ~284 |
-| Sandrunning Speedster | 40.00% | ~270 |
+| Sandrunning Speedster | 40.00% | ~271 |
 | He Can Spin A Yarn... | 39.00% | ~264 |
 | Santa In Training | 38.00% | ~257 |
-| It Belongs in a Museum! | 36.00% | ~243 |
+| It Belongs in a Museum! | 36.00% | ~244 |
 | Pro Gamer | 33.00% | ~223 |
-| Do Your Part | 32.00% | ~216 |
-| Newton | 32.00% | ~216 |
+| Do Your Part | 32.00% | ~217 |
+| Newton | 32.00% | ~217 |
 | Cardistry | 25.00% | ~169 |
 | Winner and Still Champeen | 25.00% | ~169 |
 | It's High Noon... | 17.00% | ~115 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~54 |
 | Sandrock's Hottest Club | 5.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676 (Ranked 307)  
+Progressed: 677 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 660 | 0 |
 | 2023-12-24 | 677 | 0 |
 | 2023-12-25 | 688 | 0 |
+| 2023-12-26 | 677 | 0 |
 ## Awards
 Max (Character Customization): 612  (Ranked 199)  
 Sum: 1,456 (Ranked 241)  

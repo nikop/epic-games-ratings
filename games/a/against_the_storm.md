@@ -8,10 +8,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 6.00% | ~1,155 |
 | Overgrown Library | 6.00% | ~1,155 |
-| Taking Action | 5.00% | ~962 |
-| No Deaths | 5.00% | ~962 |
-| Petrified Necropolis | 5.00% | ~962 |
-| First Real Expedition | 4.00% | ~770 |
+| Petrified Necropolis | 6.00% | ~1,155 |
+| First Real Expedition | 5.00% | ~963 |
+| Taking Action | 5.00% | ~963 |
+| No Deaths | 5.00% | ~963 |
 | Overcoming Difficulty | 4.00% | ~770 |
 | Coral Forest | 4.00% | ~770 |
 | The Marshlands | 4.00% | ~770 |
@@ -19,8 +19,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 4.00% | ~770 |
 | Ominous Presence | 4.00% | ~770 |
 | Gathering Storm | 4.00% | ~770 |
-| Royal Outpost | 3.00% | ~577 |
-| The Scarlet Orchard | 3.00% | ~577 |
+| Royal Outpost | 3.00% | ~578 |
+| The Scarlet Orchard | 3.00% | ~578 |
 | Homesick | 2.00% | ~385 |
 | Ruined Armory | 2.00% | ~385 |
 | Bandit Camp | 2.00% | ~385 |
@@ -32,32 +32,32 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~385 |
 | Trade Baron | 2.00% | ~385 |
 | Untamed Wilds | 2.00% | ~385 |
-| Against All Odds | 1.00% | ~192 |
-| Barren Lands | 1.00% | ~192 |
-| Ancient Battleground | 1.00% | ~192 |
-| Sparkdew Crystals | 1.00% | ~192 |
-| Haunted Forest | 1.00% | ~192 |
-| Flooded Mines | 1.00% | ~192 |
-| Statue of the Forefathers | 1.00% | ~192 |
-| Corrosive Torrent | 1.00% | ~192 |
-| Cursed Lands | 1.00% | ~192 |
+| Against All Odds | 1.00% | ~193 |
+| Barren Lands | 1.00% | ~193 |
+| Ancient Battleground | 1.00% | ~193 |
+| Sparkdew Crystals | 1.00% | ~193 |
+| Haunted Forest | 1.00% | ~193 |
+| Flooded Mines | 1.00% | ~193 |
+| Statue of the Forefathers | 1.00% | ~193 |
+| Corrosive Torrent | 1.00% | ~193 |
+| Cursed Lands | 1.00% | ~193 |
 | Defying the Crown | 0.90% | ~173 |
 | Into the Forest | 0.90% | ~173 |
 | Serving Ale | 0.80% | ~154 |
 | Fishmen Ritual Site | 0.80% | ~154 |
 | Victory Through Prosperity | 0.80% | ~154 |
 | Forsaken Gods Temple | 0.70% | ~135 |
-| Efficient Explorer | 0.60% | ~115 |
-| Refinery | 0.60% | ~115 |
-| Dangerous Lands | 0.60% | ~115 |
-| Forbidden Lands | 0.50% | ~96 |
+| Efficient Explorer | 0.60% | ~116 |
+| Refinery | 0.60% | ~116 |
+| Dangerous Lands | 0.60% | ~116 |
+| Forbidden Lands | 0.60% | ~116 |
 | Fox Utopia | 0.50% | ~96 |
 | Feeding The People | 0.40% | ~77 |
 | Like a Machine | 0.40% | ~77 |
 | Blood Flower Farmer | 0.30% | ~58 |
-| Human Utopia | 0.20% | ~38 |
-| Lizard Utopia | 0.20% | ~38 |
-| Prestigious Expedition | 0.20% | ~38 |
+| Human Utopia | 0.20% | ~39 |
+| Lizard Utopia | 0.20% | ~39 |
+| Prestigious Expedition | 0.20% | ~39 |
 | Paradise | 0.10% | ~19 |
 | Higher Needs | 0.10% | ~19 |
 | Beaver Utopia | 0.10% | ~19 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,247 (Ranked 150)  
+Progressed: 19,251 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
+| 2023-12-26 | 19,251 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,291 (Ranked 177)  

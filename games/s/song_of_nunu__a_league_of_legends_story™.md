@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 564)
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~991 |
 | I Broke It | 73.00% | ~977 |
-| Better On Ice | 67.00% | ~897 |
+| Better On Ice | 68.00% | ~911 |
 | Notai Notes | 66.00% | ~884 |
 | Blue Dreams | 65.00% | ~870 |
 | He's Famous! | 65.00% | ~870 |
@@ -29,15 +29,15 @@ Rating: 4.52 (Ranked 564)
 | You Get Used To It | 41.00% | ~549 |
 | Family | 39.00% | ~522 |
 | Biggest Snowball Ever | 39.00% | ~522 |
+| Freeze The Ice Witch | 39.00% | ~522 |
 | Boosted! | 39.00% | ~522 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~522 |
-| Freeze The Ice Witch | 38.00% | ~509 |
 | True Legends | 38.00% | ~509 |
 | Bullseye | 36.00% | ~482 |
 | It Is Not Over | 35.00% | ~469 |
 | On The Rocks | 34.00% | ~455 |
+| Never Gets Old | 32.00% | ~428 |
 | Snowy Poro | 31.00% | ~415 |
-| Never Gets Old | 31.00% | ~415 |
 | Vertical Power | 27.00% | ~362 |
 | One From The Heart | 14.00% | ~187 |
 | Yummy | 10.00% | ~134 |

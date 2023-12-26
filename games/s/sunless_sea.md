@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,448 |
-| Sweet Sorrow | 18.00% | ~7,724 |
+| Sink Beneath the Waves | 36.00% | ~15,449 |
+| Sweet Sorrow | 18.00% | ~7,725 |
 | Rules the Waves | 17.00% | ~7,295 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,437 |
 | Rival | 14.00% | ~6,008 |
-| Correspondent | 12.00% | ~5,149 |
-| Lose Your Mind | 12.00% | ~5,149 |
-| Sound Mind? | 12.00% | ~5,149 |
-| Salt's Curse | 11.00% | ~4,720 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,720 |
-| The Fall of the House | 11.00% | ~4,720 |
-| Shipmate | 11.00% | ~4,720 |
+| Correspondent | 12.00% | ~5,150 |
+| Lose Your Mind | 12.00% | ~5,150 |
+| Sound Mind? | 12.00% | ~5,150 |
+| Salt's Curse | 11.00% | ~4,721 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,721 |
+| The Fall of the House | 11.00% | ~4,721 |
+| Shipmate | 11.00% | ~4,721 |
 | One Year at Zee | 8.00% | ~3,433 |
 | Pupil | 7.00% | ~3,004 |
 | Salvager | 7.00% | ~3,004 |
 | Open Your Ears | 7.00% | ~3,004 |
 | The Ascent of Man | 7.00% | ~3,004 |
 | Zee Fever | 5.00% | ~2,146 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,716 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,716 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,717 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,717 |
 | Storm's Curse | 3.00% | ~1,287 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,287 |
 | Come Closer | 3.00% | ~1,287 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,912 (Ranked 126)  
+Progressed: 42,914 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-23 | 42,785 | 4 |
 | 2023-12-24 | 42,848 | 4 |
 | 2023-12-25 | 42,912 | 4 |
+| 2023-12-26 | 42,914 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 286)  
 Sum: 315 (Ranked 367)  

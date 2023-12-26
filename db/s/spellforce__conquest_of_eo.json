@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -453,9 +453,9 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Capture_Own_Tower",
@@ -597,9 +597,9 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Harvest_First_Plant",
@@ -957,9 +957,9 @@
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Start_Of_A_Joke",
@@ -981,9 +981,9 @@
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
@@ -998,8 +998,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:09:25.9303658+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:08:47.9058711+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:59:20.8469038+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:09:25.930415+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:13.2791215+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:08:47.9059172+00:00"
 }

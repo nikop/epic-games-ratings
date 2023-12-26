@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2986,
+  "EOS_Progressed": 2987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7282,6 +7282,11 @@
       "Time": "2023-12-25T23:04:48.9522917+00:00",
       "NumProgressed": 2986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T00:04:41.0005402+00:00",
+      "NumProgressed": 2987,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7302,7 +7307,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7326,7 +7331,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -7366,7 +7371,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7382,7 +7387,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -7396,9 +7401,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 627
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -7590,7 +7595,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7685,14 +7690,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:48.9522912+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:04:41.0005397+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:52.5426659+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:48.9523528+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:43.712006+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:41.0006007+00:00"
 }

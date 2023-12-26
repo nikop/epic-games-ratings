@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -803,9 +803,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239584,
+  "EOS_Progressed": 239588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1243,
+  "EOS_NewPlayers": 1244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18813,6 +18813,11 @@
       "Time": "2023-12-25T23:10:04.0771752+00:00",
       "NumProgressed": 239584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T00:09:25.321984+00:00",
+      "NumProgressed": 239588,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -18905,7 +18910,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9583
+      "UsersEstimate": 9584
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -19081,7 +19086,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59896
+      "UsersEstimate": 59897
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19096,7 +19101,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 239584,
+      "Progressed": 239588,
       "Completed": 0
     }
   ],
@@ -19104,8 +19109,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-25T01:44:25.1777295+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:10:04.0771746+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:25.3219834+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:54.5616187+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:10:04.077274+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:45.930816+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:09:25.322082+00:00"
 }

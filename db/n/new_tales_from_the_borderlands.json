@@ -2,13 +2,13 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 995,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3752,
+  "EOS_Progressed": 3753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2027,6 +2027,11 @@
       "Time": "2023-12-25T10:04:37.0228241+00:00",
       "NumProgressed": 3752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T00:04:28.7491029+00:00",
+      "NumProgressed": 3753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2110,7 +2115,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2118,7 +2123,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2174,7 +2179,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2238,14 +2243,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3752,
+      "Progressed": 3753,
       "Completed": 0
     }
   ],
@@ -2253,8 +2258,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:36.957108+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:04:28.7491026+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:57:40.5535288+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:36.9571364+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:57:31.2656961+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:28.749124+00:00"
 }

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 98.00% | ~112 |
-| A bottomless pit | 82.00% | ~93 |
-| Pigeon | 78.00% | ~89 |
-| Baited | 66.00% | ~75 |
-| "Swoosh" | 58.00% | ~66 |
-| The light at the end of the tunnel | 57.00% | ~65 |
-| Masochistic | 52.00% | ~59 |
-| Splash! | 50.00% | ~57 |
+| A path of no return | 98.00% | ~113 |
+| A bottomless pit | 82.00% | ~94 |
+| Pigeon | 78.00% | ~90 |
+| Baited | 66.00% | ~76 |
+| "Swoosh" | 57.00% | ~66 |
+| The light at the end of the tunnel | 57.00% | ~66 |
+| Masochistic | 51.00% | ~59 |
+| Splash! | 50.00% | ~58 |
 | Soft skin | 49.00% | ~56 |
 | Squid game | 41.00% | ~47 |
 | Rock Solid | 33.00% | ~38 |
-| The beast within | 32.00% | ~36 |
-| It's getting dark | 32.00% | ~36 |
-| Sensitive soul | 32.00% | ~36 |
+| Sensitive soul | 33.00% | ~38 |
+| The beast within | 32.00% | ~37 |
+| It's getting dark | 32.00% | ~37 |
 | Hard Rock | 30.00% | ~34 |
 | Rooftop | 29.00% | ~33 |
 | Homeless | 28.00% | ~32 |
 | Big badaboom! | 27.00% | ~31 |
-| Payback | 25.00% | ~28 |
-| Nokron tower | 24.00% | ~27 |
-| Bookworm | 24.00% | ~27 |
+| Payback | 24.00% | ~28 |
 | Full power | 23.00% | ~26 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~26 |
+| Nokron tower | 23.00% | ~26 |
 | Magnitude 5 | 23.00% | ~26 |
+| Bookworm | 23.00% | ~26 |
 | Compulsive hoarder | 22.00% | ~25 |
-| GG EZ | 17.00% | ~19 |
-| Comeback | 17.00% | ~19 |
-| MayDay! MayDay! | 11.00% | ~13 |
+| GG EZ | 17.00% | ~20 |
+| Comeback | 17.00% | ~20 |
+| MayDay! MayDay! | 10.00% | ~12 |
 | Gooooooaaaaal!!! | 8.00% | ~9 |
 | Sadistic | 2.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 467)  
+Progressed: 115 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,3 +105,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-22 | 112 | 0 |
 | 2023-12-23 | 113 | 0 |
 | 2023-12-25 | 114 | 0 |
+| 2023-12-26 | 115 | 0 |

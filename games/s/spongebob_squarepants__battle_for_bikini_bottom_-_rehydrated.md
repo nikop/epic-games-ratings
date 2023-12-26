@@ -16,10 +16,10 @@ Number of Ratings: 76  (23.09.2022)
 | Life's as extreme as you wanna make it! | 6.00% | ~23 |
 | Uptown and Downtown | 6.00% | ~23 |
 | Super Spatula Seeker | 6.00% | ~23 |
+| Squirrel Smasher | 6.00% | ~23 |
 | Surf's Up! | 6.00% | ~23 |
 | Toxic Terror | 5.00% | ~19 |
 | Hit Rock Bottom | 5.00% | ~19 |
-| Squirrel Smasher | 5.00% | ~19 |
 | Star Smasher | 5.00% | ~19 |
 | Keep it Rolling | 4.00% | ~15 |
 | Shrimp Catcher | 4.00% | ~15 |
@@ -27,19 +27,19 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 3.00% | ~11 |
 | Hello, Bikini Bottom | 3.00% | ~11 |
 | Ship Shape | 2.00% | ~8 |
+| Kelp Forest of Fear | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | Ultra Spatula Seeker | 2.00% | ~8 |
 | Shanghaied | 1.00% | ~4 |
-| Kelp Forest of Fear | 1.00% | ~4 |
 | Sock Concert | 1.00% | ~4 |
 | The Small Does Not Rule | 0.80% | ~3 |
 | SpongeBob vs SpongeBob! | 0.80% | ~3 |
+| Mega Spatula Seeker | 0.50% | ~2 |
 | 100% SpongeBob | 0.30% | ~1 |
 | Sock Opera | 0.30% | ~1 |
 | Super Ultra Mega Spatula Seeker | 0.30% | ~1 |
-| Mega Spatula Seeker | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378 (Ranked 357)  
+Progressed: 380 (Ranked 357)  
 Completed: 1 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,6 +52,7 @@ Completed: 1 (0.26%) (Ranked 262)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
+| 2023-12-26 | 380 | 1 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

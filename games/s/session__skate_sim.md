@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,377 (Ranked 217)  
+Progressed: 3,378 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,13 +280,14 @@ Completed: 2 (0.06%) (Ranked 329)
 | 2023-12-23 | 3,348 | 2 |
 | 2023-12-24 | 3,361 | 2 |
 | 2023-12-25 | 3,377 | 2 |
+| 2023-12-26 | 3,378 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 60  (Ranked 426)  
-Sum: 572 (Ranked 323)  
-Diff (max vs sum): 103  
+Max (Great for Quick Sessions): 62  (Ranked 425)  
+Sum: 574 (Ranked 323)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 60 |
+| This game is Great for Quick Sessions | 62 |
 | This game is Highly Recommended | 59 |
 | This game has Diverse Characters | 57 |
 | This game has Realistic Visuals | 50 |
@@ -489,4 +490,4 @@ Diff (max vs sum): 103
 | 2023-12-19 | 4.69 | - | 59 | 568 |
 | 2023-12-21 | 4.69 | - | 60 | 569 |
 | 2023-12-22 | 4.69 | - | 60 | 570 |
-| 2023-12-25 | 4.69 | - | 60 | 572 |
+| 2023-12-25 | 4.69 | - | 62 | 574 |

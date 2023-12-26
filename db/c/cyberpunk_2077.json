@@ -17222,10 +17222,10 @@
       "Count": 16830
     }
   ],
-  "EOS_Progressed": 981401,
-  "EOS_Completed": 2974,
-  "EOS_NewPlayers": 2936,
-  "EOS_NewCompleters": 39,
+  "EOS_Progressed": 981412,
+  "EOS_Completed": 2975,
+  "EOS_NewPlayers": 2934,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -45692,6 +45692,11 @@
       "Time": "2023-12-25T23:04:47.5446034+00:00",
       "NumProgressed": 981401,
       "NumCompleted": 2974
+    },
+    {
+      "Time": "2023-12-26T00:04:39.684818+00:00",
+      "NumProgressed": 981412,
+      "NumCompleted": 2975
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45728,7 +45733,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49070
+      "UsersEstimate": 49071
     },
     {
       "ID": "Denied",
@@ -45736,7 +45741,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58884
+      "UsersEstimate": 58885
     },
     {
       "ID": "FollowingTheRiver",
@@ -45776,7 +45781,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78512
+      "UsersEstimate": 78513
     },
     {
       "ID": "Gunslinger",
@@ -45920,7 +45925,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68698
+      "UsersEstimate": 68699
     },
     {
       "ID": "TheHermit",
@@ -45944,7 +45949,7 @@
       "Name": "The Lovers",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58884
+      "UsersEstimate": 58885
     },
     {
       "ID": "TheStar",
@@ -46000,7 +46005,7 @@
       "Name": "True Soldier",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49070
+      "UsersEstimate": 49071
     },
     {
       "ID": "TrueWarrior",
@@ -46032,7 +46037,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117768
+      "UsersEstimate": 117769
     },
     {
       "ID": "YipMan",
@@ -46104,7 +46109,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "Kingofcups",
@@ -46239,21 +46244,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981401,
-      "Completed": 2974
+      "Progressed": 981412,
+      "Completed": 2975
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110024,
+      "Progressed": 110035,
       "Completed": 10459
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-25T22:03:05.4363088+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:47.5446031+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:04:39.6848172+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:02:58.4630014+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:47.5447511+00:00"
+  "LastUpdate_Ratings": "2023-12-26T00:02:46.9435872+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:04:39.6849965+00:00"
 }

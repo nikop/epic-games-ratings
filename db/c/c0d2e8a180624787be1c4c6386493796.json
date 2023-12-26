@@ -1035,9 +1035,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEHART",
       "SetID": "caeik3h",
       "Name": "Eternal Bones",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
@@ -1608,8 +1608,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:04:02.4672347+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:03:54.2559161+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:59:45.4560532+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:04:02.4673015+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:38.3694655+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:03:54.2559918+00:00"
 }

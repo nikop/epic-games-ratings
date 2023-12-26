@@ -1,35 +1,35 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.90 (Ranked 7)  
+Rating: 4.90 (Ranked 8)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 48.00% | ~5,796 |
-| Feeling the beat! | 48.00% | ~5,796 |
-| You can pet the cat! | 43.00% | ~5,193 |
-| Who put gears in there? | 35.00% | ~4,227 |
-| Cream of the Crop | 30.00% | ~3,623 |
-| Thanks for the free chip, Peppermint! | 29.00% | ~3,502 |
-| You got this, Peppermint? | 24.00% | ~2,898 |
-| Perfect Parry | 23.00% | ~2,777 |
-| Alright, that felt AWESOME! | 22.00% | ~2,657 |
-| I play my own way! | 20.00% | ~2,415 |
-| This will cost you big time | 17.00% | ~2,053 |
-| Uh, they were broken when I got here | 17.00% | ~2,053 |
-| Z-shielding's got nothing on us! | 16.00% | ~1,932 |
-| Kissing the sky! | 16.00% | ~1,932 |
-| Does that say weakpoint? | 15.00% | ~1,811 |
-| Whoa! There's ANOTHER health bar!? | 13.00% | ~1,570 |
-| The Negotiator | 12.00% | ~1,449 |
-| You must like calling me in, Chai | 11.00% | ~1,328 |
+| Start with a bang! | 48.00% | ~5,800 |
+| Feeling the beat! | 48.00% | ~5,800 |
+| You can pet the cat! | 43.00% | ~5,196 |
+| Who put gears in there? | 35.00% | ~4,229 |
+| Cream of the Crop | 30.00% | ~3,625 |
+| Thanks for the free chip, Peppermint! | 29.00% | ~3,504 |
+| You got this, Peppermint? | 24.00% | ~2,900 |
+| Perfect Parry | 23.00% | ~2,779 |
+| Alright, that felt AWESOME! | 22.00% | ~2,658 |
+| I play my own way! | 20.00% | ~2,417 |
+| This will cost you big time | 17.00% | ~2,054 |
+| Uh, they were broken when I got here | 17.00% | ~2,054 |
+| Z-shielding's got nothing on us! | 16.00% | ~1,933 |
+| Kissing the sky! | 16.00% | ~1,933 |
+| Does that say weakpoint? | 15.00% | ~1,812 |
+| Whoa! There's ANOTHER health bar!? | 13.00% | ~1,571 |
+| The Negotiator | 12.00% | ~1,450 |
+| You must like calling me in, Chai | 11.00% | ~1,329 |
 | Headliner | 10.00% | ~1,208 |
 | Out in a puff of smoke | 10.00% | ~1,208 |
 | I look cool. But I can look COOLER. | 10.00% | ~1,208 |
 | Time to pay up! | 9.00% | ~1,087 |
 | Perfecter Parry-er! | 9.00% | ~1,087 |
-| Who's the boss now? | 8.00% | ~966 |
-| I have to read these things? | 8.00% | ~966 |
+| Who's the boss now? | 8.00% | ~967 |
+| I have to read these things? | 8.00% | ~967 |
 | NOW we got a kickass hideout! | 7.00% | ~742 |
 | There's such a thing as TOO helpful | 6.00% | ~725 |
 | Well that was a rush! | 5.00% | ~604 |
@@ -77,7 +77,7 @@ Rating: 4.90 (Ranked 7)
 | Voices from within | 0.10% | ~11 |
 | Low budget finish | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,076 (Ranked 172)  
+Progressed: 12,083 (Ranked 172)  
 Completed: 8 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,6 +317,7 @@ Completed: 8 (0.07%) (Ranked 322)
 | 2023-12-23 | 11,217 | 8 |
 | 2023-12-24 | 11,697 | 8 |
 | 2023-12-25 | 12,076 | 8 |
+| 2023-12-26 | 12,083 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

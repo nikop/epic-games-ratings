@@ -2,10 +2,13 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
+  "Ranking_Rating": 990,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -15,14 +18,22 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "RatingHistory": [],
+  "Rating": 4.1,
+  "RatingHistory": [
+    {
+      "Time": "2023-12-25T23:59:59.8062735+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1248,
+  "EOS_Progressed": 1250,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2445,6 +2456,11 @@
       "Time": "2023-12-25T23:10:08.3737373+00:00",
       "NumProgressed": 1248,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T00:09:28.8747653+00:00",
+      "NumProgressed": 1250,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2456,7 +2472,7 @@
       "Name": "Break Out",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_02",
@@ -2472,7 +2488,7 @@
       "Name": "Powerful Allies",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_04",
@@ -2504,7 +2520,7 @@
       "Name": "Clear Sight",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_08",
@@ -2520,7 +2536,7 @@
       "Name": "The Mentor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_10",
@@ -2528,7 +2544,7 @@
       "Name": "Trinity",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_11",
@@ -2552,7 +2568,7 @@
       "Name": "Adventurer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_14",
@@ -2584,15 +2600,15 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_19",
@@ -2616,7 +2632,7 @@
       "Name": "Big Bazar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_22",
@@ -2624,15 +2640,15 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_24",
@@ -2672,7 +2688,7 @@
       "Name": "I Found It",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_29",
@@ -2680,7 +2696,7 @@
       "Name": "All That Gold",
       "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_30",
@@ -2736,21 +2752,23 @@
       "Name": "Summiter",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1248,
+      "Progressed": 1250,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
+  "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:10:08.373737+00:00",
+  "LastChanged": "2023-12-25T23:59:59.8062733+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:28.874765+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:00:05.9731288+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:10:08.3737695+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:59.8062745+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:09:28.874798+00:00"
 }

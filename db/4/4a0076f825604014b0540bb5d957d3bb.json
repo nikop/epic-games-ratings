@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -556,17 +556,17 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -628,17 +628,17 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -652,9 +652,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:09:55.4951048+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:17.1145014+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:05.2138263+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:00:10.3327972+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:09:55.4951206+00:00"
+  "LastUpdate_Ratings": "2023-12-26T00:00:04.2296227+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:09:17.1145152+00:00"
 }

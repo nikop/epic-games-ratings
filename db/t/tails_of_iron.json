@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4415,7 +4415,7 @@
       "ID": "DefeatCroakhisKhan",
       "SetID": "cbf1i0c",
       "Name": "Defeat Croakhis Khan",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -4447,7 +4447,7 @@
       "ID": "FirstBeer",
       "SetID": "cbf1i0c",
       "Name": "I Remember My First Beer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -4455,9 +4455,9 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -4478,8 +4478,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:05:34.05425+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:05:27.1376178+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-25T22:59:56.0543794+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:05:34.054287+00:00"
+  "LastUpdate_Ratings": "2023-12-25T23:59:49.207421+00:00",
+  "LastUpdate_Achievements": "2023-12-26T00:05:27.137661+00:00"
 }

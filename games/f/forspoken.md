@@ -5,14 +5,14 @@ Rating: 4.10 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,974 |
-| Unlocked Potential | 10.00% | ~4,522 |
+| Attachments | 11.00% | ~4,975 |
+| Unlocked Potential | 10.00% | ~4,523 |
 | Tinkerer | 8.00% | ~3,618 |
-| Leapfrogger | 7.00% | ~3,165 |
-| Knock 'Em Dead | 7.00% | ~3,165 |
-| Pilgrimage: Initiate | 7.00% | ~3,165 |
-| Hell of a Run | 7.00% | ~3,165 |
-| Call of the Fount: Baptized | 6.00% | ~2,713 |
+| Leapfrogger | 7.00% | ~3,166 |
+| Knock 'Em Dead | 7.00% | ~3,166 |
+| Pilgrimage: Initiate | 7.00% | ~3,166 |
+| Hell of a Run | 7.00% | ~3,166 |
+| Call of the Fount: Baptized | 6.00% | ~2,714 |
 | Stuck | 5.00% | ~2,261 |
 | No Mercy | 5.00% | ~2,261 |
 | Explorer: Seeker | 5.00% | ~2,261 |
@@ -22,12 +22,12 @@ Rating: 4.10 (Ranked 990)
 | The Interloper | 3.00% | ~1,357 |
 | Hop, Step, Jump | 3.00% | ~1,357 |
 | Endless Runner | 3.00% | ~1,357 |
-| What Must Be Done | 2.00% | ~904 |
-| Might and Main | 2.00% | ~904 |
-| Damned If You Do... | 2.00% | ~904 |
-| Explorer: Pathfinder | 2.00% | ~904 |
-| Shocker | 2.00% | ~904 |
-| From Every Angle | 2.00% | ~904 |
+| What Must Be Done | 2.00% | ~905 |
+| Might and Main | 2.00% | ~905 |
+| Damned If You Do... | 2.00% | ~905 |
+| Explorer: Pathfinder | 2.00% | ~905 |
+| Shocker | 2.00% | ~905 |
+| From Every Angle | 2.00% | ~905 |
 | The Hue of Blue | 1.00% | ~452 |
 | The Truth Will Out | 1.00% | ~452 |
 | Breaking Point | 1.00% | ~452 |
@@ -59,7 +59,7 @@ Rating: 4.10 (Ranked 990)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,221 (Ranked 121)  
+Progressed: 45,229 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-23 | 44,956 | 3 |
 | 2023-12-24 | 45,090 | 3 |
 | 2023-12-25 | 45,221 | 3 |
+| 2023-12-26 | 45,229 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 507)  
 Sum: 33 (Ranked 529)  

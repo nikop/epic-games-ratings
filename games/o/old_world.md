@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
 | Noble | 0.40% | ~64 |
+| Strong | 0.40% | ~64 |
 | Hanging Gardens | 0.40% | ~64 |
 | Oracle | 0.40% | ~64 |
 | Ambitious | 0.30% | ~48 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Pioneer | 0.30% | ~48 |
-| Strong | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |

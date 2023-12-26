@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1496,
+  "EOS_Progressed": 1497,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3713,6 +3713,11 @@
       "Time": "2023-12-25T23:10:02.755467+00:00",
       "NumProgressed": 1496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T00:09:24.2918382+00:00",
+      "NumProgressed": 1497,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3772,7 +3777,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3780,7 +3785,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "EXPERT_1",
@@ -3900,7 +3905,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4011,15 +4016,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1496,
+      "Progressed": 1497,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-25T23:10:02.7554665+00:00",
+  "LastChanged_Achievements": "2023-12-26T00:09:24.2918379+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
   "LastUpdate_Ratings": "2023-12-25T23:00:31.6088674+00:00",
-  "LastUpdate_Achievements": "2023-12-25T23:10:02.7555089+00:00"
+  "LastUpdate_Achievements": "2023-12-26T00:09:24.2918748+00:00"
 }

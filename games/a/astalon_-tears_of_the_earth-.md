@@ -12,21 +12,21 @@
 | Beast Hunter | 32.00% | ~24 |
 | Fly, you fool! | 32.00% | ~24 |
 | Loot, loot! | 32.00% | ~24 |
+| Vanquisher! | 30.00% | ~23 |
 | Orb Collector | 30.00% | ~23 |
 | Twin slayer! | 30.00% | ~23 |
+| Snakehead! | 30.00% | ~23 |
 | Unmasked! | 30.00% | ~23 |
 | Mercenary! | 30.00% | ~23 |
-| Vanquisher! | 29.00% | ~22 |
 | Beast Knight | 29.00% | ~22 |
-| Snakehead! | 29.00% | ~22 |
-| Relic Collector | 25.00% | ~19 |
+| Relic Collector | 26.00% | ~20 |
+| Cartographer | 25.00% | ~19 |
 | God of the Tower! | 24.00% | ~18 |
-| Cartographer | 24.00% | ~18 |
 | Wizard Mastery | 17.00% | ~13 |
 | Rogue Mastery | 16.00% | ~12 |
+| Destoy all monsters! | 14.00% | ~11 |
 | Slay the Monster! | 14.00% | ~11 |
 | Fighter Mastery | 13.00% | ~10 |
-| Destoy all monsters! | 13.00% | ~10 |
 | Gorgonslayer Mastery | 11.00% | ~8 |
 | Built for adventure | 11.00% | ~8 |
 | Collector Mastery | 11.00% | ~8 |
@@ -36,7 +36,7 @@
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 76 (Ranked 505)  
-Completed: 3 (3.95%) (Ranked 91)  
+Completed: 3 (3.95%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
