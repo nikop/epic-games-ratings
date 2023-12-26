@@ -5,27 +5,27 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~127 |
-| A Forest Walk | 29.00% | ~122 |
+| A Forest Walk | 29.00% | ~123 |
 | Baby's First Car | 28.00% | ~118 |
 | Pushover | 28.00% | ~118 |
 | Amateur Mechanic | 27.00% | ~114 |
 | Multiply that! | 26.00% | ~110 |
 | C-C-C-Combo! | 25.00% | ~106 |
 | Fore! | 23.00% | ~97 |
-| The Collector | 23.00% | ~97 |
-| Insurance fraud | 23.00% | ~97 |
-| Snow Fun! | 23.00% | ~97 |
+| The Collector | 22.00% | ~93 |
+| Insurance fraud | 22.00% | ~93 |
 | The Wild West | 22.00% | ~93 |
+| Snow Fun! | 22.00% | ~93 |
 | Bag of Tricks | 22.00% | ~93 |
 | You're it | 22.00% | ~93 |
 | To and Fro | 21.00% | ~89 |
 | I see the light! | 21.00% | ~89 |
 | In the Bag! | 21.00% | ~89 |
-| Car-Tapult | 20.00% | ~84 |
-| First Come, First Serve | 20.00% | ~84 |
-| Take that Frosty! | 20.00% | ~84 |
-| Goodbye cruel world | 20.00% | ~84 |
-| Beach Party! | 20.00% | ~84 |
+| Car-Tapult | 20.00% | ~85 |
+| First Come, First Serve | 20.00% | ~85 |
+| Take that Frosty! | 20.00% | ~85 |
+| Goodbye cruel world | 20.00% | ~85 |
+| Beach Party! | 20.00% | ~85 |
 | Disoriented | 19.00% | ~80 |
 | Anger Issues | 19.00% | ~80 |
 | Your Highness | 19.00% | ~80 |
@@ -39,17 +39,17 @@
 | Out of this League | 13.00% | ~55 |
 | Special Forces | 12.00% | ~51 |
 | Blasting away! | 12.00% | ~51 |
-| Earth Defense Force | 11.00% | ~46 |
-| Toot Toot! | 11.00% | ~46 |
-| Rocketman | 11.00% | ~46 |
+| Earth Defense Force | 11.00% | ~47 |
+| Toot Toot! | 11.00% | ~47 |
+| Rocketman | 11.00% | ~47 |
 | High Roller | 10.00% | ~42 |
 | Event Pro | 9.00% | ~38 |
 | Space Crash | 7.00% | ~30 |
 | To war! | 6.00% | ~25 |
 | Hoarder | 6.00% | ~25 |
-| Event Master | 5.00% | ~21 |
 | A Starting Collector | 4.00% | ~17 |
 | Best Friends! | 4.00% | ~17 |
+| Event Master | 4.00% | ~17 |
 | My Precious | 3.00% | ~13 |
 | Apprentice Mechanic | 3.00% | ~13 |
 | 433 Eros | 3.00% | ~13 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422 (Ranked 350)  
+Progressed: 423 (Ranked 350)  
 Completed: 2 (0.47%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 2 (0.47%) (Ranked 222)
 | 2023-12-18 | 419 | 2 |
 | 2023-12-21 | 421 | 2 |
 | 2023-12-24 | 422 | 2 |
+| 2023-12-26 | 423 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

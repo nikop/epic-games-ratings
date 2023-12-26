@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -973,7 +973,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4174,
+  "EOS_Progressed": 4175,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -7753,6 +7753,11 @@
       "Time": "2023-12-26T04:06:35.753173+00:00",
       "NumProgressed": 4174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T05:06:15.7219218+00:00",
+      "NumProgressed": 4175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7773,7 +7778,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "achievement_11",
@@ -7797,7 +7802,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "achievement_14",
@@ -7877,7 +7882,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "achievement_4",
@@ -7932,7 +7937,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4174,
+      "Progressed": 4175,
       "Completed": 0
     }
   ],
@@ -7940,8 +7945,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-26T01:40:32.0740806+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:06:35.7531721+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:06:15.7219216+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:57:10.889704+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:06:35.7532322+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:03.2468786+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:06:15.7219643+00:00"
 }

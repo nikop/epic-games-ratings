@@ -8,10 +8,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,449 |
 | A Spark | 19.00% | ~2,427 |
-| Burning City | 18.00% | ~2,299 |
+| Burning City | 18.00% | ~2,300 |
 | Defender's Heart | 16.00% | ~2,044 |
 | Mythic Choices | 15.00% | ~1,916 |
-| Banner over the Citadel | 14.00% | ~1,788 |
+| Banner over the Citadel | 14.00% | ~1,789 |
 | Queen's Gratitude | 12.00% | ~1,533 |
 | Fifth Crusade | 9.00% | ~1,150 |
 | Embrace of the Abyss | 7.00% | ~894 |
@@ -38,11 +38,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~347 |
 | The Lady of the Forest | 3.00% | ~347 |
 | Beware Still Water | 3.00% | ~347 |
-| Path of the Demon | 2.00% | ~255 |
-| Path of the Aeon | 2.00% | ~255 |
-| Capitulation Is Now Moot | 2.00% | ~255 |
-| Your First Big Enemy | 2.00% | ~255 |
-| Truly Important Deed | 2.00% | ~255 |
+| Path of the Demon | 2.00% | ~256 |
+| Path of the Aeon | 2.00% | ~256 |
+| Capitulation Is Now Moot | 2.00% | ~256 |
+| Your First Big Enemy | 2.00% | ~256 |
+| Truly Important Deed | 2.00% | ~256 |
 | Stay Underground | 2.00% | ~231 |
 | The Final Threshold | 1.00% | ~128 |
 | Path of the Dragon | 1.00% | ~128 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,774 (Ranked 169)  
+Progressed: 12,775 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 12,670 | 0 |
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
-| 2023-12-26 | 12,774 | 0 |
+| 2023-12-26 | 12,775 | 0 |
 ## Awards
 Max (Character Customization): 1,772  (Ranked 124)  
 Sum: 7,168 (Ranked 123)  

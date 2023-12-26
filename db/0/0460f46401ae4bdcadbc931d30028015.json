@@ -2,12 +2,12 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -1123,10 +1123,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 308,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-12-26T04:59:24.0668348+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 310,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 308,
+  "NumberOfAwards": 310,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1158,7 +1164,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",
@@ -1191,9 +1197,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6163,
+  "EOS_Progressed": 6185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1316,
+  "EOS_NewPlayers": 1328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8681,6 +8687,11 @@
       "Time": "2023-12-26T04:06:42.7914676+00:00",
       "NumProgressed": 6163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T05:06:23.1656971+00:00",
+      "NumProgressed": 6185,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -8693,7 +8704,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_10",
@@ -8701,7 +8712,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2103
     },
     {
       "ID": "achievement_11",
@@ -8709,7 +8720,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1175
     },
     {
       "ID": "achievement_12",
@@ -8717,7 +8728,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1608
     },
     {
       "ID": "achievement_13",
@@ -8725,7 +8736,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1794
     },
     {
       "ID": "achievement_14",
@@ -8733,7 +8744,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2103
     },
     {
       "ID": "achievement_15",
@@ -8757,7 +8768,7 @@
       "Name": "Ol\u0027 Reliable",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_18",
@@ -8781,7 +8792,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 493
+      "UsersEstimate": 495
     },
     {
       "ID": "achievement_20",
@@ -8789,7 +8800,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3525
     },
     {
       "ID": "achievement_21",
@@ -8797,7 +8808,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_3",
@@ -8805,7 +8816,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_4",
@@ -8813,7 +8824,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_5",
@@ -8821,7 +8832,7 @@
       "Name": "Change of Scenery",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1113
     },
     {
       "ID": "achievement_6",
@@ -8829,7 +8840,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1608
     },
     {
       "ID": "achievement_7",
@@ -8837,7 +8848,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_8",
@@ -8845,7 +8856,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1608
     },
     {
       "ID": "achievement_9",
@@ -8853,23 +8864,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 866
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 6163,
+      "Progressed": 6185,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-12-25T18:59:19.2146155+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:06:42.7914668+00:00",
+  "LastChanged": "2023-12-26T04:59:24.0668346+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:06:23.1656968+00:00",
   "LastUpdate_AppInfo": "2023-12-21T08:57:12.8750926+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:59:31.5105507+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:06:42.7915273+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:59:24.066835+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:06:23.1657478+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,775 |
-| Gun Fu | 8.00% | ~78,516 |
+| V for Vendetta | 12.00% | ~117,776 |
+| Gun Fu | 8.00% | ~78,517 |
 | The Fool | 7.00% | ~68,702 |
-| Right Back At Ya | 6.00% | ~58,887 |
-| The Lovers | 6.00% | ~58,887 |
+| Right Back At Ya | 6.00% | ~58,888 |
+| The Lovers | 6.00% | ~58,888 |
 | Full Body Conversion | 5.00% | ~49,073 |
 | True Soldier | 5.00% | ~49,073 |
-| Christmas Tree Attack | 4.00% | ~39,258 |
-| Stanislavski's Method | 4.00% | ~39,258 |
-| The Hermit | 4.00% | ~39,258 |
-| The Wheel of Fortune | 4.00% | ~39,258 |
+| Christmas Tree Attack | 4.00% | ~39,259 |
+| Stanislavski's Method | 4.00% | ~39,259 |
+| The Hermit | 4.00% | ~39,259 |
+| The Wheel of Fortune | 4.00% | ~39,259 |
 | All the President's Men | 4.00% | ~4,403 |
 | Arachnophobia | 4.00% | ~4,403 |
 | Master Crafter | 3.00% | ~29,444 |
@@ -25,7 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 3.00% | ~29,444 |
 | True Warrior | 3.00% | ~29,444 |
 | Legend of The Afterlife | 3.00% | ~29,444 |
-| Relic Ruler | 3.00% | ~3,302 |
+| Relic Ruler | 3.00% | ~3,303 |
 | Bushido and Chill | 2.00% | ~19,629 |
 | To Protect and Serve | 2.00% | ~19,629 |
 | I Am The Law | 2.00% | ~19,629 |
@@ -48,8 +48,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.70% | ~771 |
 | Must Be Rats | 0.60% | ~5,889 |
 | Temperance | 0.60% | ~5,889 |
-| King of Pentacles | 0.60% | ~660 |
-| King of Swords | 0.60% | ~660 |
+| King of Pentacles | 0.60% | ~661 |
+| King of Swords | 0.60% | ~661 |
 | City Lights | 0.30% | ~2,944 |
 | Little Tokyo | 0.30% | ~2,944 |
 | The Devil | 0.30% | ~2,944 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,456 (Ranked 16)  
+Progressed: 981,464 (Ranked 16)  
 Completed: 2,975 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,975 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,456 | 2,975 |
+| 2023-12-26 | 981,464 | 2,975 |
 ## Awards
 Max (Character Customization): 127,442  (Ranked 8)  
 Sum: 444,060 (Ranked 9)  

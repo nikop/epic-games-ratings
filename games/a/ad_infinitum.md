@@ -11,7 +11,7 @@
 | Awaken | 40.00% | ~54 |
 | Path of Corruption | 33.00% | ~45 |
 | Hope | 28.00% | ~38 |
-| Rage | 26.00% | ~35 |
+| Rage | 28.00% | ~38 |
 | Path of Pain | 18.00% | ~24 |
 | Reflections | 15.00% | ~20 |
 | The shining | 15.00% | ~20 |

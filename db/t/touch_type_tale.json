@@ -3,7 +3,7 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3914,
+  "EOS_Progressed": 3915,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5137,6 +5137,11 @@
       "Time": "2023-12-26T03:05:50.9126257+00:00",
       "NumProgressed": 3914,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-26T05:04:25.0611094+00:00",
+      "NumProgressed": 3915,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5196,7 +5201,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "campaign10",
@@ -5234,9 +5239,9 @@
       "ID": "campaign14",
       "SetID": "2h56gn1",
       "Name": "Well Supplied",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 392
     },
     {
       "ID": "campaign15",
@@ -5300,7 +5305,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "campaign4",
@@ -5332,7 +5337,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "campaign8",
@@ -5356,7 +5361,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "scenario2",
@@ -5411,7 +5416,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3914,
+      "Progressed": 3915,
       "Completed": 11
     }
   ],
@@ -5419,8 +5424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:04:44.1438538+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:04:25.0611091+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:57:09.4935466+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:04:44.1439011+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:01.8036716+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:04:25.0611429+00:00"
 }

@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 478)  
+Progressed: 101 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 75 | 0 |
 | 2023-12-24 | 88 | 0 |
 | 2023-12-25 | 100 | 0 |
+| 2023-12-26 | 101 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

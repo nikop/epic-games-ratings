@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 81.00% | ~518 |
 | The Hellwoods | 77.00% | ~492 |
 | The Plains of Strothalm | 72.00% | ~460 |
-| Experienced Thalya | 71.00% | ~454 |
+| Experienced Thalya | 72.00% | ~460 |
 | Thalya's Concentrated Fury | 69.00% | ~441 |
 | Bad Elves Go Everywhere | 68.00% | ~435 |
 | Master of Magic | 63.00% | ~403 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~64 |
 | I Don't Need Any Help | 8.00% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639 (Ranked 315)  
+Progressed: 639 (Ranked 316)  
 Completed: 21 (3.29%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |

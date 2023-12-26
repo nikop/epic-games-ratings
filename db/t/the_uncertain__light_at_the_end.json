@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -1128,6 +1128,11 @@
       "Time": "2023-12-25T17:09:05.5923353+00:00",
       "NumProgressed": 611,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T05:03:17.0831463+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1163,7 +1168,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Doors_Closing",
@@ -1225,9 +1230,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 306
     },
     {
       "ID": "Hitman",
@@ -1363,14 +1368,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 6
     }
   ],
@@ -1378,8 +1383,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:03:16.1096924+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:03:17.083146+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:03:07.655645+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:03:16.1097231+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:03:06.7687611+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:03:17.0831666+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1649,
+  "EOS_Progressed": 1650,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4143,6 +4143,11 @@
       "Time": "2023-12-26T03:11:07.1947224+00:00",
       "NumProgressed": 1649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T05:09:48.2181119+00:00",
+      "NumProgressed": 1650,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4170,7 +4175,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4186,7 +4191,7 @@
       "Name": "Bookworm",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BOT_WHISPERER",
@@ -4242,7 +4247,7 @@
       "Name": "Cruelty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CURVEBALL",
@@ -4258,15 +4263,15 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 792
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4282,7 +4287,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "DR_JONES",
@@ -4298,7 +4303,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ENDGAME",
@@ -4338,7 +4343,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4402,7 +4407,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "INFILTRATOR",
@@ -4410,7 +4415,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "LUMBERJACK",
@@ -4506,15 +4511,15 @@
       "Name": "Side Order",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 429
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4561,7 +4566,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1649,
+      "Progressed": 1650,
       "Completed": 0
     }
   ],
@@ -4569,8 +4574,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:09:39.4178635+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:48.2181117+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:02:52.2194788+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:09:39.417915+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:02:53.2869177+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:48.2181621+00:00"
 }

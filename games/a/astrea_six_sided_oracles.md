@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 79.00% | ~190 |
-| Purification Pioneer | 75.00% | ~181 |
+| Meissa's Savior | 79.00% | ~191 |
+| Purification Pioneer | 75.00% | ~182 |
 | Mechanical Buddy | 70.00% | ~169 |
-| Dicesmithing Time! | 62.00% | ~149 |
+| Dicesmithing Time! | 62.00% | ~150 |
 | Sanctuary Guardian | 55.00% | ~133 |
-| Endless Tricks | 49.00% | ~118 |
-| Wild's Keeper | 46.00% | ~111 |
+| Endless Tricks | 49.00% | ~119 |
+| Wild's Keeper | 45.00% | ~109 |
 | Mind Illuminator | 43.00% | ~104 |
-| Noctuan Champion | 35.00% | ~84 |
+| Noctuan Champion | 35.00% | ~85 |
 | Stellar Dismantler | 34.00% | ~82 |
 | Anomaly Destroyer | 31.00% | ~75 |
 | Astral Adventurer | 29.00% | ~70 |
 | Star Killer | 26.00% | ~63 |
 | Eridanian Champion | 24.00% | ~58 |
-| Loyal Partner | 22.00% | ~53 |
-| Lacertian Champion | 22.00% | ~53 |
+| Loyal Partner | 21.00% | ~51 |
+| Lacertian Champion | 21.00% | ~51 |
 | Apian Champion | 20.00% | ~48 |
 | Shard Spender | 17.00% | ~41 |
 | Unbeatable | 17.00% | ~41 |
@@ -34,8 +34,8 @@
 | Heart Gate | 8.00% | ~19 |
 | The Corruption Goddess | 8.00% | ~19 |
 | The Goddes Avatar | 8.00% | ~19 |
-| Anomaly Control | 6.00% | ~14 |
-| Can't touch this | 6.00% | ~14 |
+| Anomaly Control | 6.00% | ~15 |
+| Can't touch this | 6.00% | ~15 |
 | Artificer | 5.00% | ~12 |
 | Prestidigitation | 5.00% | ~12 |
 | The Dark Moon | 5.00% | ~12 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 399)  
+Progressed: 242 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,3 +164,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 223 | 0 |
 | 2023-12-24 | 234 | 0 |
 | 2023-12-25 | 241 | 0 |
+| 2023-12-26 | 242 | 0 |

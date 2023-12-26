@@ -5,34 +5,34 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 52.00% | ~937 |
-| Welcome to the Tower | 48.00% | ~864 |
-| The great escape | 39.00% | ~702 |
-| The Preacher's fate | 38.00% | ~684 |
-| A new dawn | 32.00% | ~576 |
-| Scholar | 27.00% | ~486 |
-| True G3M4R | 26.00% | ~468 |
-| The darkness | 26.00% | ~468 |
-| A good beginning | 25.00% | ~450 |
-| Rascal | 22.00% | ~396 |
-| One last step | 22.00% | ~396 |
-| I did it | 21.00% | ~378 |
-| Cable guy | 21.00% | ~378 |
-| Half the way | 21.00% | ~378 |
-| In this together | 20.00% | ~360 |
-| Peace walker | 20.00% | ~360 |
-| Champollion | 20.00% | ~360 |
-| Open door | 18.00% | ~324 |
-| Feels like springtime | 17.00% | ~306 |
-| Alchemists Express | 17.00% | ~306 |
+| That's the spirit | 53.00% | ~956 |
+| Welcome to the Tower | 48.00% | ~865 |
+| The great escape | 39.00% | ~703 |
+| The Preacher's fate | 38.00% | ~685 |
+| A new dawn | 32.00% | ~577 |
+| Scholar | 27.00% | ~487 |
+| True G3M4R | 26.00% | ~469 |
+| The darkness | 26.00% | ~469 |
+| A good beginning | 25.00% | ~451 |
+| Rascal | 22.00% | ~397 |
+| One last step | 22.00% | ~397 |
+| I did it | 21.00% | ~379 |
+| Cable guy | 21.00% | ~379 |
+| Half the way | 21.00% | ~379 |
+| In this together | 20.00% | ~361 |
+| Peace walker | 20.00% | ~361 |
+| Champollion | 20.00% | ~361 |
+| Open door | 18.00% | ~325 |
+| Feels like springtime | 17.00% | ~307 |
+| Alchemists Express | 17.00% | ~307 |
 | Free at last | 15.00% | ~270 |
 | A Link to the Past | 13.00% | ~234 |
 | A great audience | 12.00% | ~216 |
 | For its own good | 12.00% | ~216 |
 | Fashion victim | 7.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,801 (Ranked 242)  
-Completed: 105 (5.83%) (Ranked 73)  
+Progressed: 1,803 (Ranked 242)  
+Completed: 105 (5.82%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 105 (5.83%) (Ranked 73)
 | 2023-12-23 | 1,672 | 90 |
 | 2023-12-24 | 1,732 | 99 |
 | 2023-12-25 | 1,793 | 105 |
-| 2023-12-26 | 1,801 | 105 |
+| 2023-12-26 | 1,803 | 105 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

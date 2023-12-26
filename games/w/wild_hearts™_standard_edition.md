@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~882 |
+| Land of the Rising Sun | 99.00% | ~883 |
 | Hidden History | 70.00% | ~624 |
 | Commencing of Quests | 61.00% | ~544 |
 | Budding Conjuror | 60.00% | ~535 |
@@ -14,25 +14,25 @@
 | Subsistence Skills | 46.00% | ~410 |
 | Memory Rouser | 45.00% | ~401 |
 | Fusion Conjuror | 44.00% | ~392 |
-| Kemono Hunter | 39.00% | ~347 |
-| Helpful Heart | 39.00% | ~347 |
+| Kemono Hunter | 39.00% | ~348 |
+| Helpful Heart | 39.00% | ~348 |
 | Flawless Crystal | 37.00% | ~330 |
 | Expert Conjuror | 37.00% | ~330 |
 | Bonds of Enmity | 36.00% | ~321 |
 | Distance Devourer | 34.00% | ~303 |
 | Counter Specialist | 32.00% | ~285 |
-| Master of the Skies | 30.00% | ~267 |
-| Axer of Auspice | 28.00% | ~249 |
+| Master of the Skies | 30.00% | ~268 |
+| Axer of Auspice | 28.00% | ~250 |
+| Mighty Marmelizer | 26.00% | ~232 |
 | Fair Means or Foul | 26.00% | ~232 |
 | Kemono at Heart | 26.00% | ~232 |
-| Mighty Marmelizer | 25.00% | ~223 |
 | Single Minded | 24.00% | ~214 |
 | Snare Specialist | 23.00% | ~205 |
 | Karakuri Trail | 22.00% | ~196 |
 | Artful Assister | 22.00% | ~196 |
 | Team Hunter | 20.00% | ~178 |
 | Reincarnation Cycle Stopper | 19.00% | ~169 |
-| Karakuri Isle | 18.00% | ~160 |
+| Karakuri Isle | 18.00% | ~161 |
 | Left Arm Leverager | 16.00% | ~143 |
 | Human Believer | 16.00% | ~143 |
 | Unrivaled in Arms | 16.00% | ~143 |
@@ -49,11 +49,11 @@
 | Relentless Kemono Hunter | 8.00% | ~71 |
 | Superlative View | 8.00% | ~71 |
 | Vanquisher of the Volatile | 7.00% | ~62 |
-| Big Spender | 6.00% | ~53 |
+| Big Spender | 6.00% | ~54 |
 | Bewitched by Bathing | 4.00% | ~36 |
 | Tsukumo Whisperer | 3.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891 (Ranked 286)  
+Progressed: 892 (Ranked 286)  
 Completed: 8 (0.90%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,4 +155,4 @@ Completed: 8 (0.90%) (Ranked 180)
 | 2023-12-23 | 820 | 8 |
 | 2023-12-24 | 853 | 8 |
 | 2023-12-25 | 882 | 8 |
-| 2023-12-26 | 891 | 8 |
+| 2023-12-26 | 892 | 8 |

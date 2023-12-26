@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1263,
+  "EOS_Progressed": 1267,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2481,6 +2481,11 @@
       "Time": "2023-12-26T04:09:36.9325689+00:00",
       "NumProgressed": 1263,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T05:09:45.6534371+00:00",
+      "NumProgressed": 1267,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2492,7 +2497,7 @@
       "Name": "Break Out",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_02",
@@ -2508,7 +2513,7 @@
       "Name": "Powerful Allies",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_04",
@@ -2556,7 +2561,7 @@
       "Name": "The Mentor",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_10",
@@ -2564,7 +2569,7 @@
       "Name": "Trinity",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_11",
@@ -2604,7 +2609,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_16",
@@ -2628,7 +2633,7 @@
       "Name": "Shatter Them All",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_19",
@@ -2668,7 +2673,7 @@
       "Name": "Geared Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_24",
@@ -2684,7 +2689,7 @@
       "Name": "Fashion Victim",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_26",
@@ -2692,7 +2697,7 @@
       "Name": "Scholar",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_27",
@@ -2708,7 +2713,7 @@
       "Name": "I Found It",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_29",
@@ -2724,7 +2729,7 @@
       "Name": "Alchemist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_31",
@@ -2732,7 +2737,7 @@
       "Name": "Stone Collection",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_33",
@@ -2746,9 +2751,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_35",
@@ -2779,7 +2784,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1263,
+      "Progressed": 1267,
       "Completed": 3
     }
   ],
@@ -2787,8 +2792,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-25T23:59:59.8062733+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:09:36.9325685+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:45.6534368+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:00:18.7023852+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:09:36.9326035+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:00:11.6369553+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:45.6534672+00:00"
 }

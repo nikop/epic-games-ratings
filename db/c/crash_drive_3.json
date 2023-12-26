@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -669,6 +669,11 @@
       "Time": "2023-12-24T16:09:03.6883424+00:00",
       "NumProgressed": 422,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T05:08:36.6735906+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -704,15 +709,15 @@
       "Name": "Car-Tapult",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "COIN_COLLECT",
       "SetID": "20koof9",
       "Name": "The Collector",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -792,7 +797,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -872,7 +877,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -880,15 +885,15 @@
       "Name": "Take that Frosty!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
       "SetID": "20koof9",
       "Name": "Insurance fraud",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -904,7 +909,7 @@
       "Name": "Toot Toot!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -928,7 +933,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -944,15 +949,15 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -1032,7 +1037,7 @@
       "Name": "Rocketman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "USE_TUNNEL",
@@ -1046,9 +1051,9 @@
       "ID": "WIN_100_EVENTS",
       "SetID": "20koof9",
       "Name": "Event Master",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -1072,7 +1077,7 @@
       "Name": "Beach Party!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WIN_KING_HILL",
@@ -1119,7 +1124,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 2
     }
   ],
@@ -1127,8 +1132,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:08:27.7398312+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:08:36.6735905+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0108602+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:58:06.4501276+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:08:27.7398804+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:55.9723062+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:08:36.6736328+00:00"
 }

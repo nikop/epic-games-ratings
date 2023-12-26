@@ -597,7 +597,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6223,
+  "EOS_Progressed": 6224,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
@@ -9192,6 +9192,11 @@
       "Time": "2023-12-26T04:03:30.9116109+00:00",
       "NumProgressed": 6223,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T05:03:32.0685484+00:00",
+      "NumProgressed": 6224,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9217,9 +9222,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 311
     },
     {
       "ID": "12",
@@ -9682,13 +9687,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6223,
+      "Progressed": 6224,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6223,
+      "Progressed": 6224,
       "Completed": 7
     }
   ],
@@ -9696,8 +9701,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:03:30.9116101+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:03:32.0685481+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:59:31.64949+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:03:30.9116904+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:59:24.2140986+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:03:32.0686182+00:00"
 }

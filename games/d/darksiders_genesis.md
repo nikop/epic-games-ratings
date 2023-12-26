@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223 (Ranked 406)  
+Progressed: 224 (Ranked 405)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 171 | 0 |
 | 2023-12-24 | 196 | 0 |
 | 2023-12-25 | 221 | 0 |
-| 2023-12-26 | 223 | 0 |
+| 2023-12-26 | 224 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 462)  
 Sum: 45 (Ranked 508)  

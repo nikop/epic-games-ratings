@@ -23,7 +23,7 @@
 | Trader | 22.00% | ~146 |
 | Weapon Boost | 21.00% | ~139 |
 | Flying Kobold Killer | 19.00% | ~126 |
-| Youth Magnet | 18.00% | ~120 |
+| Youth Magnet | 19.00% | ~126 |
 | Furious Scorpion Killer | 17.00% | ~113 |
 | Master Artificer | 17.00% | ~113 |
 | Lethal Blade Mantis Killer | 16.00% | ~106 |

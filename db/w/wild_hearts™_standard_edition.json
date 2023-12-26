@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -2993,6 +2993,11 @@
       "Time": "2023-12-26T04:08:51.4022757+00:00",
       "NumProgressed": 891,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T05:09:00.37999+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3005,7 +3010,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_10",
@@ -3021,7 +3026,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "achievement_12",
@@ -3069,7 +3074,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_18",
@@ -3117,7 +3122,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_23",
@@ -3155,9 +3160,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_28",
@@ -3261,7 +3266,7 @@
       "Name": "Big Spender",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_4",
@@ -3269,7 +3274,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_40",
@@ -3317,7 +3322,7 @@
       "Name": "Helpful Heart",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_46",
@@ -3388,13 +3393,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:08:51.402275+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:00.3799897+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:59:41.8452988+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:08:51.4023345+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:59:34.4737602+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:00.3800312+00:00"
 }

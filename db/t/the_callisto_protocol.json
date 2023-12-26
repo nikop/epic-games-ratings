@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1841,9 +1841,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19308,
+  "EOS_Progressed": 19311,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11216,6 +11216,11 @@
       "Time": "2023-12-26T04:09:00.8147765+00:00",
       "NumProgressed": 19308,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-26T05:09:09.7151239+00:00",
+      "NumProgressed": 19311,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11243,7 +11248,7 @@
       "Name": "Giving Back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -11251,7 +11256,7 @@
       "Name": "You Need a Gun",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "DISARM_ENEMY",
@@ -11259,7 +11264,7 @@
       "Name": "Flesh Wound",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11291,7 +11296,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -11331,7 +11336,7 @@
       "Name": "Get a Grip",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11355,7 +11360,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "KILL_ROBOT",
@@ -11403,7 +11408,7 @@
       "Name": "Paper Jams",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11419,7 +11424,7 @@
       "Name": "The Outer Way",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11459,7 +11464,7 @@
       "Name": "Desperate Times",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11602,13 +11607,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19308,
+      "Progressed": 19311,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7234,
+      "Progressed": 7237,
       "Completed": 29
     }
   ],
@@ -11616,8 +11621,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-25T22:03:12.4922921+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:09:00.8147759+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:09.7151237+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-26T04:02:59.9950698+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:09:00.8149303+00:00"
+  "LastUpdate_Ratings": "2023-12-26T05:03:00.2028699+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:09.7151848+00:00"
 }

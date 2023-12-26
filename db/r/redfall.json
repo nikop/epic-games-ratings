@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -309,9 +309,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2069,
+  "EOS_Progressed": 2071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3309,6 +3309,11 @@
       "Time": "2023-12-26T01:49:55.2037374+00:00",
       "NumProgressed": 2069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T05:06:10.5051002+00:00",
+      "NumProgressed": 2071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3344,7 +3349,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Achievement_006",
@@ -3384,7 +3389,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Achievement_011",
@@ -3624,7 +3629,7 @@
       "Name": "Heart Attack",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Achievement_041",
@@ -3718,9 +3723,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_056",
@@ -3847,7 +3852,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2069,
+      "Progressed": 2071,
       "Completed": 0
     }
   ],
@@ -3855,8 +3860,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:06:30.5681648+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:06:10.5050996+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:59:57.158254+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:06:30.5682402+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:59:48.9087091+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:06:10.5051555+00:00"
 }

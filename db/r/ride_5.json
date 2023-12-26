@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2989,
+  "EOS_Progressed": 2991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7297,6 +7297,11 @@
       "Time": "2023-12-26T04:05:12.0087652+00:00",
       "NumProgressed": 2989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T05:04:52.3091264+00:00",
+      "NumProgressed": 2991,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7309,7 +7314,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7317,7 +7322,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7349,7 +7354,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -7381,7 +7386,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7485,7 +7490,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -7517,7 +7522,7 @@
       "Name": "Clean Race",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7605,7 +7610,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7613,7 +7618,7 @@
       "Name": "Champagne Spray",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7700,14 +7705,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2989,
+      "Progressed": 2991,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:05:12.0087647+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:04:52.3091262+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:58:03.0761862+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:05:12.0088273+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:52.5299852+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:04:52.3091789+00:00"
 }

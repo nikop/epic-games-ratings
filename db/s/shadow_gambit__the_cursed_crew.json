@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1296,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
@@ -4436,6 +4436,11 @@
       "Time": "2023-12-26T04:06:35.8142237+00:00",
       "NumProgressed": 1296,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-26T05:06:15.7840532+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4456,7 +4461,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 883
     },
     {
       "ID": "_03_FinishAct1",
@@ -4464,7 +4469,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4496,7 +4501,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "_08_Completion_10",
@@ -4510,9 +4515,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 350
     },
     {
       "ID": "_10_Completion_30",
@@ -4520,7 +4525,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "_11_Completion_40",
@@ -4528,7 +4533,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "_12_Completion_50",
@@ -4568,7 +4573,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4592,7 +4597,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4600,7 +4605,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4655,7 +4660,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1296,
+      "Progressed": 1298,
       "Completed": 34
     }
   ],
@@ -4663,8 +4668,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-22T22:00:02.9445373+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:06:35.8142233+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:06:15.7840529+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:57:11.2776153+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:06:35.8142573+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:03.6076756+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:06:15.7840865+00:00"
 }

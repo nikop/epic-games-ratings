@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
@@ -313,11 +313,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1903,
+  "EOS_Progressed": 1905,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -3198,6 +3198,11 @@
       "Time": "2023-12-26T04:09:21.0238866+00:00",
       "NumProgressed": 1903,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T05:09:29.9189051+00:00",
+      "NumProgressed": 1905,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3210,7 +3215,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "achievement_10",
@@ -3226,7 +3231,7 @@
       "Name": "The Means to Save It",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_12",
@@ -3234,7 +3239,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_13",
@@ -3242,7 +3247,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_14",
@@ -3250,7 +3255,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_15",
@@ -3298,7 +3303,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1524
     },
     {
       "ID": "achievement_20",
@@ -3354,7 +3359,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "achievement_36",
@@ -3426,7 +3431,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_46",
@@ -3442,7 +3447,7 @@
       "Name": "Enlisted",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1391
     },
     {
       "ID": "achievement_49",
@@ -3458,7 +3463,7 @@
       "Name": "Initiate",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "achievement_50",
@@ -3506,7 +3511,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_60",
@@ -3585,7 +3590,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 1903,
+      "Progressed": 1905,
       "Completed": 2
     }
   ],
@@ -3593,8 +3598,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-25T20:58:01.224488+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:09:21.0238861+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:29.9189049+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.6657855+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:58:07.4641543+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:09:21.0239416+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:56.8351212+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:29.9189498+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.52 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,469 |
-| Greasy Palms | 42.00% | ~5,906 |
+| Legal Counsel | 46.00% | ~6,470 |
+| Greasy Palms | 42.00% | ~5,907 |
 | South American Connection | 25.00% | ~3,516 |
-| Life of the Party | 20.00% | ~2,812 |
-| Tommy Two-Wheels | 15.00% | ~2,109 |
+| Life of the Party | 20.00% | ~2,813 |
+| Tommy Two-Wheels | 15.00% | ~2,110 |
 | Big Heat from Little Havana | 14.00% | ~1,969 |
 | Chauffeur | 14.00% | ~1,969 |
 | Salutations My Little Friend | 11.00% | ~1,547 |
@@ -21,7 +21,7 @@ Rating: 4.52 (Ranked 563)
 | Bloodstained Hands | 6.00% | ~844 |
 | Not my First Time | 5.00% | ~703 |
 | Grand Theft Auto | 5.00% | ~703 |
-| Pie Guy | 4.00% | ~562 |
+| Pie Guy | 4.00% | ~563 |
 | Point A to Point B | 3.00% | ~422 |
 | High Quality H2O | 3.00% | ~422 |
 | Bull in a China Shop | 3.00% | ~422 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 563)
 | Done it All | 0.90% | ~127 |
 | Kingpin | 0.50% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,062 (Ranked 167)  
+Progressed: 14,065 (Ranked 167)  
 Completed: 76 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,14 +290,14 @@ Completed: 76 (0.54%) (Ranked 210)
 | 2023-12-23 | 13,682 | 75 |
 | 2023-12-24 | 13,863 | 75 |
 | 2023-12-25 | 14,030 | 76 |
-| 2023-12-26 | 14,062 | 76 |
+| 2023-12-26 | 14,065 | 76 |
 ## Awards
-Max (Great Boss Battles): 144  (Ranked 329)  
-Sum: 144 (Ranked 436)  
-Diff (max vs sum): -107  
+Max (Great Boss Battles): 147  (Ranked 325)  
+Sum: 147 (Ranked 433)  
+Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 144 |
+| This game has Great Boss Battles | 147 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -456,3 +456,4 @@ Diff (max vs sum): -107
 | 2023-12-22 | 4.52 | 135 | 135 |
 | 2023-12-23 | 4.52 | 139 | 139 |
 | 2023-12-25 | 4.52 | 144 | 144 |
+| 2023-12-26 | 4.52 | 147 | 147 |

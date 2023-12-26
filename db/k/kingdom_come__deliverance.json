@@ -9511,10 +9511,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28618,
       "NumberOfAwardsMax": 7709
+    },
+    {
+      "Time": "2023-12-26T04:58:26.8684272+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28620,
+      "NumberOfAwardsMax": 7709
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28618,
+  "NumberOfAwards": 28620,
   "NumberOfAwardsMax": 7709,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9558,7 +9564,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1624
+      "Count": 1626
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9597,7 +9603,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 814358,
+  "EOS_Progressed": 814360,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
@@ -37807,6 +37813,11 @@
       "Time": "2023-12-26T04:09:29.6157204+00:00",
       "NumProgressed": 814358,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-26T05:09:38.4462547+00:00",
+      "NumProgressed": 814360,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 82,
@@ -37842,7 +37853,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130297
+      "UsersEstimate": 130298
     },
     {
       "ID": "Awakening",
@@ -37850,7 +37861,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171015
+      "UsersEstimate": 171016
     },
     {
       "ID": "BadGirl",
@@ -37922,7 +37933,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48861
+      "UsersEstimate": 48862
     },
     {
       "ID": "Cavalier",
@@ -38018,7 +38029,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187302
+      "UsersEstimate": 187303
     },
     {
       "ID": "Fighter",
@@ -38034,7 +38045,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130297
+      "UsersEstimate": 130298
     },
     {
       "ID": "Freud",
@@ -38354,7 +38365,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89579
+      "UsersEstimate": 89580
     },
     {
       "ID": "Sniper",
@@ -38426,7 +38437,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89579
+      "UsersEstimate": 89580
     },
     {
       "ID": "TrialAndError",
@@ -38473,15 +38484,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 814358,
+      "Progressed": 814360,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-12-25T20:58:34.3420562+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:09:29.6157199+00:00",
+  "LastChanged": "2023-12-26T04:58:26.8684267+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:38.4462545+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.7254709+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:58:37.5643244+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:09:29.6159278+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:58:26.8684276+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:38.4464087+00:00"
 }

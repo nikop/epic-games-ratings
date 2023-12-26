@@ -5,12 +5,12 @@ Rating: 4.26 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,874 |
+| Rigged And Ready | 79.00% | ~1,875 |
 | Don't I Know You...? | 76.00% | ~1,803 |
 | Jailbreak | 65.00% | ~1,542 |
-| HEADSHOT! | 38.00% | ~901 |
-| Suited and Booted | 38.00% | ~901 |
-| Sleeping With The Fishes | 35.00% | ~830 |
+| HEADSHOT! | 38.00% | ~902 |
+| Suited and Booted | 38.00% | ~902 |
+| Sleeping With The Fishes | 35.00% | ~831 |
 | Overheated | 30.00% | ~712 |
 | High Performance | 30.00% | ~712 |
 | Powered Up | 28.00% | ~664 |
@@ -19,8 +19,8 @@ Rating: 4.26 (Ranked 887)
 | Luminary | 22.00% | ~522 |
 | It's a Trap | 22.00% | ~522 |
 | True Survivor | 21.00% | ~498 |
-| Offensive Defense | 20.00% | ~474 |
-| Shocking | 20.00% | ~474 |
+| Offensive Defense | 20.00% | ~475 |
+| Shocking | 20.00% | ~475 |
 | Court Martial | 19.00% | ~451 |
 | Clean Cut | 19.00% | ~451 |
 | Unforeseeable Consequences | 19.00% | ~451 |
@@ -37,7 +37,7 @@ Rating: 4.26 (Ranked 887)
 | Sorry, Didn't See You There | 12.00% | ~285 |
 | Stimulating The Local Economy | 10.00% | ~237 |
 | Triplets | 10.00% | ~237 |
-| Denying Prophecy | 9.00% | ~213 |
+| Denying Prophecy | 9.00% | ~214 |
 | A Little Banged Up | 8.00% | ~190 |
 | Following In Their Footsteps | 8.00% | ~190 |
 | Defense in Depth | 8.00% | ~190 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 887)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,372 (Ranked 230)  
+Progressed: 2,373 (Ranked 230)  
 Completed: 13 (0.55%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 13 (0.55%) (Ranked 208)
 | 2023-12-23 | 2,352 | 13 |
 | 2023-12-24 | 2,366 | 13 |
 | 2023-12-25 | 2,372 | 13 |
+| 2023-12-26 | 2,373 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

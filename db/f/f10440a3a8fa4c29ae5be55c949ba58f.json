@@ -4,7 +4,7 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2889,
+  "EOS_Progressed": 2904,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2882,
+  "EOS_NewPlayers": 2897,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2023-12-26T04:08:52.6584347+00:00",
       "NumProgressed": 2889,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-26T05:09:01.6357117+00:00",
+      "NumProgressed": 2904,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -601,7 +606,7 @@
       "Name": "Final Destination",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1510
     },
     {
       "ID": "Document1",
@@ -609,7 +614,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Document2",
@@ -664,14 +669,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 2889,
+      "Progressed": 2904,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:08:52.6584342+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:09:01.6357115+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:59:46.4347253+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:08:52.658444+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:59:39.2165011+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:09:01.6357191+00:00"
 }

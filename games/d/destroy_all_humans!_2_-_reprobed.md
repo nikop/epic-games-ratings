@@ -15,13 +15,13 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 32.00% | ~61 |
 | Earthly Pleasures | 32.00% | ~61 |
 | Lie Back and Think of Albion | 25.00% | ~48 |
+| Upgreatest | 25.00% | ~48 |
 | Pimp My Raid | 25.00% | ~48 |
-| Upgreatest | 24.00% | ~46 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~36 |
-| Freshly Squeezed | 17.00% | ~33 |
+| Freshly Squeezed | 18.00% | ~35 |
 | Perfect Probulator | 16.00% | ~31 |
 | Die Nasty | 16.00% | ~31 |
-| Transmitting From Sol-3 | 13.00% | ~25 |
+| Transmitting From Sol-3 | 14.00% | ~27 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 10.00% | ~19 |
 | Dusted | 10.00% | ~19 |
 | Fly Me to the Moon Base | 8.00% | ~15 |

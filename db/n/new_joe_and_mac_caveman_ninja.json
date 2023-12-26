@@ -2,9 +2,9 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.23,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -611,6 +611,11 @@
       "Time": "2023-12-26T03:05:24.7416962+00:00",
       "NumProgressed": 269,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T05:04:06.261259+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -622,7 +627,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "02",
@@ -654,7 +659,7 @@
       "Name": "A turbulent river.",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "06",
@@ -718,7 +723,7 @@
       "Name": "Passing the carcass.",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "14",
@@ -726,7 +731,7 @@
       "Name": "Lightning swamp.",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "15",
@@ -741,7 +746,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 6
     }
   ],
@@ -749,8 +754,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:04:25.54616+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:04:06.2612587+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:15.5888401+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:57:08.5938797+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:04:25.5461727+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:57:00.8186199+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:04:06.2612671+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.76 (Ranked 131)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~253,718 |
-| The Player Whisperer | 68.00% | ~250,041 |
-| One of Us, One of Us! | 62.00% | ~227,978 |
-| First Victory | 55.00% | ~202,239 |
-| Clean Sheet | 54.00% | ~198,562 |
-| #DoneDeal | 54.00% | ~198,562 |
-| Off the Books | 52.00% | ~191,208 |
-| Super-Sub | 52.00% | ~191,208 |
-| Hat-trick | 46.00% | ~169,145 |
-| Planned Signing | 44.00% | ~161,791 |
-| "I Would Love It If We Beat Them" | 43.00% | ~158,114 |
-| Thumping | 40.00% | ~147,083 |
-| Scoring Streak | 40.00% | ~147,083 |
-| Wheeler Dealer | 40.00% | ~147,083 |
-| People Pleaser | 39.00% | ~143,406 |
+| Motivational Speaker | 69.00% | ~253,719 |
+| The Player Whisperer | 68.00% | ~250,042 |
+| One of Us, One of Us! | 62.00% | ~227,980 |
+| First Victory | 55.00% | ~202,240 |
+| Clean Sheet | 54.00% | ~198,563 |
+| #DoneDeal | 54.00% | ~198,563 |
+| Off the Books | 52.00% | ~191,209 |
+| Super-Sub | 52.00% | ~191,209 |
+| Hat-trick | 46.00% | ~169,146 |
+| Planned Signing | 44.00% | ~161,792 |
+| "I Would Love It If We Beat Them" | 43.00% | ~158,115 |
+| Thumping | 40.00% | ~147,084 |
+| Scoring Streak | 40.00% | ~147,084 |
+| Wheeler Dealer | 40.00% | ~147,084 |
+| People Pleaser | 39.00% | ~143,407 |
 | Unbeatable! | 38.00% | ~139,729 |
 | One Of Our Own | 36.00% | ~132,375 |
-| They're a Natural | 32.00% | ~117,666 |
-| Record Signing | 32.00% | ~117,666 |
-| Team Performance | 31.00% | ~113,989 |
-| The Only Stat That Matters | 30.00% | ~110,312 |
-| Star Player | 29.00% | ~106,635 |
-| Full Faith | 28.00% | ~102,958 |
-| Goal Rush | 28.00% | ~102,958 |
+| They're a Natural | 32.00% | ~117,667 |
+| Record Signing | 32.00% | ~117,667 |
+| Team Performance | 31.00% | ~113,990 |
+| The Only Stat That Matters | 30.00% | ~110,313 |
+| Star Player | 29.00% | ~106,636 |
+| Full Faith | 28.00% | ~102,959 |
+| Goal Rush | 28.00% | ~102,959 |
 | Parked The Bus | 27.00% | ~99,281 |
 | Squad Goals | 27.00% | ~99,281 |
 | The People's Champion | 27.00% | ~99,281 |
@@ -43,11 +43,11 @@ Rating: 4.76 (Ranked 131)
 | Flavour Of The Month | 23.00% | ~84,573 |
 | The Special One | 23.00% | ~84,573 |
 | What A Goal! | 22.00% | ~80,896 |
-| Goal Machine | 21.00% | ~77,218 |
-| Splashing the Cash | 20.00% | ~73,541 |
-| Immovable Object | 20.00% | ~73,541 |
-| Cup Glory! | 20.00% | ~73,541 |
-| Irresistible Force | 18.00% | ~66,187 |
+| Goal Machine | 21.00% | ~77,219 |
+| Splashing the Cash | 20.00% | ~73,542 |
+| Immovable Object | 20.00% | ~73,542 |
+| Cup Glory! | 20.00% | ~73,542 |
+| Irresistible Force | 18.00% | ~66,188 |
 | Do The Double | 16.00% | ~58,833 |
 | Cash to Burn | 16.00% | ~58,833 |
 | Top Form | 14.00% | ~51,479 |
@@ -62,12 +62,12 @@ Rating: 4.76 (Ranked 131)
 | Tête-à-tête | 8.00% | ~29,417 |
 | Invincible! | 8.00% | ~29,417 |
 | Best in the World | 8.00% | ~29,417 |
-| National Service | 7.00% | ~25,739 |
-| Domination | 7.00% | ~25,739 |
-| Best in the Business | 6.00% | ~22,062 |
-| Total Support | 6.00% | ~22,062 |
-| Second Hand Signing | 6.00% | ~22,062 |
-| You Can Buy Happiness | 6.00% | ~22,062 |
+| National Service | 7.00% | ~25,740 |
+| Domination | 7.00% | ~25,740 |
+| Best in the Business | 6.00% | ~22,063 |
+| Total Support | 6.00% | ~22,063 |
+| Second Hand Signing | 6.00% | ~22,063 |
+| You Can Buy Happiness | 6.00% | ~22,063 |
 | Legend | 4.00% | ~14,708 |
 | Bragging Rights | 4.00% | ~14,708 |
 | World Beaters | 4.00% | ~14,708 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 131)
 | 200 Club | 0.10% | ~368 |
 | Draft Value | 0.10% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367,707 (Ranked 48)  
+Progressed: 367,709 (Ranked 48)  
 Completed: 29 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 29 (0.01%) (Ranked 367)
 | 2023-12-23 | 367,172 | 29 |
 | 2023-12-24 | 367,404 | 29 |
 | 2023-12-25 | 367,667 | 29 |
-| 2023-12-26 | 367,707 | 29 |
+| 2023-12-26 | 367,709 | 29 |
 ## Awards
 Max (Diverse Characters): 1,315  (Ranked 138)  
 Sum: 9,039 (Ranked 99)  

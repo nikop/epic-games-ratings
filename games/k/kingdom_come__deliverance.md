@@ -8,23 +8,23 @@ Number of Ratings: 9,133  (23.09.2022)
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~260,595 |
 | Cavalier | 25.00% | ~203,590 |
-| Fatso | 23.00% | ~187,302 |
-| Awakening | 21.00% | ~171,015 |
+| Fatso | 23.00% | ~187,303 |
+| Awakening | 21.00% | ~171,016 |
 | Ranger | 20.00% | ~162,872 |
 | Scrooge | 20.00% | ~162,872 |
-| Anorectic | 16.00% | ~130,297 |
-| Firestarter | 16.00% | ~130,297 |
+| Anorectic | 16.00% | ~130,298 |
+| Firestarter | 16.00% | ~130,298 |
 | Bookworm | 15.00% | ~122,154 |
 | Insomniac | 13.00% | ~105,867 |
 | Buddy | 12.00% | ~97,723 |
 | Thief | 12.00% | ~97,723 |
-| Sinner | 11.00% | ~89,579 |
-| Traveller | 11.00% | ~89,579 |
+| Sinner | 11.00% | ~89,580 |
+| Traveller | 11.00% | ~89,580 |
 | Convict | 10.00% | ~81,436 |
 | Haggler | 9.00% | ~73,292 |
 | McLovin | 7.00% | ~57,005 |
 | Runt | 7.00% | ~57,005 |
-| Casanova | 6.00% | ~48,861 |
+| Casanova | 6.00% | ~48,862 |
 | Bad Trip | 5.00% | ~40,718 |
 | Monk | 5.00% | ~40,718 |
 | Serial Killer | 5.00% | ~40,718 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~814 |
 | Wingman | 0.10% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,358 (Ranked 19)  
+Progressed: 814,360 (Ranked 19)  
 Completed: 52 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 52 (0.01%) (Ranked 367)
 | 2023-12-23 | 813,967 | 52 |
 | 2023-12-24 | 814,160 | 52 |
 | 2023-12-25 | 814,325 | 52 |
-| 2023-12-26 | 814,358 | 52 |
+| 2023-12-26 | 814,360 | 52 |
 ## Awards
 Max (Character Customization): 7,709  (Ranked 53)  
-Sum: 28,618 (Ranked 50)  
+Sum: 28,620 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 1,711 |
 | This game has Realistic Visuals | 1,688 |
 | This game has Amazing Characters | 1,686 |
-| This game is Educational | 1,624 |
+| This game is Educational | 1,626 |
 | This game is Relaxing | 1,554 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -694,3 +694,4 @@ Diff (max vs sum): 3
 | 2023-12-23 | 4.71 | - | 7,702 | 28,594 |
 | 2023-12-24 | 4.71 | - | 7,702 | 28,600 |
 | 2023-12-25 | 4.71 | - | 7,709 | 28,618 |
+| 2023-12-26 | 4.71 | - | 7,709 | 28,620 |

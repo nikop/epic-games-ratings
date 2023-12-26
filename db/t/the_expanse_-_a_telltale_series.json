@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17445,
+  "EOS_Progressed": 17446,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15166,6 +15166,11 @@
       "Time": "2023-12-26T04:03:48.9851951+00:00",
       "NumProgressed": 17445,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-26T05:03:49.8501493+00:00",
+      "NumProgressed": 17446,
+      "NumCompleted": 52
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15194,7 +15199,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "12",
@@ -15258,7 +15263,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "2",
@@ -15330,7 +15335,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "28",
@@ -15410,7 +15415,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "31",
@@ -15432,9 +15437,9 @@
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 306
     },
     {
       "ID": "34",
@@ -15457,13 +15462,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17445,
+      "Progressed": 17446,
       "Completed": 52
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3399,
+      "Progressed": 3400,
       "Completed": 1052
     }
   ],
@@ -15471,8 +15476,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T04:03:48.9851945+00:00",
+  "LastChanged_Achievements": "2023-12-26T05:03:49.8501491+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:59:13.1237836+00:00",
-  "LastUpdate_Achievements": "2023-12-26T04:03:48.9852829+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:59:06.189485+00:00",
+  "LastUpdate_Achievements": "2023-12-26T05:03:49.8502321+00:00"
 }

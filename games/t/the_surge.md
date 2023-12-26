@@ -6,15 +6,15 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,764 |
-| I'll Be Back | 84.00% | ~4,257 |
-| Sorry, I Dropped This | 77.00% | ~3,902 |
+| On My Own Two Feet | 94.00% | ~4,765 |
+| I'll Be Back | 84.00% | ~4,258 |
+| Sorry, I Dropped This | 77.00% | ~3,903 |
 | First Day on the Job | 76.00% | ~3,852 |
 | Butcher's Bill | 54.00% | ~2,737 |
-| P.A.X | 37.00% | ~1,875 |
-| Hey Listen | 36.00% | ~1,824 |
-| OPERATOR | 36.00% | ~1,824 |
-| It's Blue Light | 33.00% | ~1,672 |
+| P.A.X | 37.00% | ~1,876 |
+| Hey Listen | 36.00% | ~1,825 |
+| OPERATOR | 36.00% | ~1,825 |
+| It's Blue Light | 33.00% | ~1,673 |
 | Most Wanted | 26.00% | ~1,318 |
 | Infidel | 23.00% | ~1,166 |
 | GOLIATH | 21.00% | ~1,064 |
@@ -27,17 +27,17 @@ Number of Ratings: 62  (23.09.2022)
 | Core Power | 13.00% | ~659 |
 | The Black Cerberus | 12.00% | ~608 |
 | Watchman | 12.00% | ~608 |
-| CREO Killed the Video Star | 11.00% | ~557 |
-| Who's in Charge Here? | 11.00% | ~557 |
-| Shall Not Pass | 11.00% | ~557 |
+| CREO Killed the Video Star | 11.00% | ~558 |
+| Who's in Charge Here? | 11.00% | ~558 |
+| Shall Not Pass | 11.00% | ~558 |
 | Right Tool for the Job | 10.00% | ~507 |
 | Melting Down | 9.00% | ~456 |
 | Raging Drones | 9.00% | ~456 |
 | Overconfident | 9.00% | ~456 |
 | Is This Real Life? | 9.00% | ~456 |
-| Pusher Man | 8.00% | ~405 |
-| Squad Chief Helvig | 8.00% | ~405 |
-| No More Marching | 8.00% | ~405 |
+| Pusher Man | 8.00% | ~406 |
+| Squad Chief Helvig | 8.00% | ~406 |
+| No More Marching | 8.00% | ~406 |
 | Duty-Bound | 7.00% | ~355 |
 | Follow the White Rabbit | 7.00% | ~355 |
 | Liberation | 7.00% | ~355 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~30 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,068 (Ranked 201)  
+Progressed: 5,069 (Ranked 201)  
 Completed: 18 (0.36%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 18 (0.36%) (Ranked 237)
 | 2023-12-23 | 5,048 | 18 |
 | 2023-12-24 | 5,061 | 18 |
 | 2023-12-25 | 5,066 | 18 |
-| 2023-12-26 | 5,068 | 18 |
+| 2023-12-26 | 5,069 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 514)  
 Sum: 30 (Ranked 532)  
