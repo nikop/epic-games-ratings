@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Otok](games/c/cb2b40b6713d48768e5950e2d77f9fd8.md) | 2023-12-26 | - |  | - | - |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 5 | - | - |
 | [Scaryy Bingo](games/7/7f359e1dcc134507aefd7780e1249c5c.md) | 2023-12-27 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 51 | - | - |
@@ -62,6 +61,7 @@
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | 2023-12-31 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2023-12-31 | 100 (1,000 XP) | 0 | - | - |
+| [ZiDouQianWen](games/7/7c7aa850307342108a352d7d56864bf7.md) | 2023-12-31 | - |  | - | - |
 | [Xijiang Shipyard](games/6/6fea3a78e2014e14ab7f71ffdeb363e5.md) | 2024-01-01 | - |  | - | - |
 | [Galaxy Trek](games/4/4919b570ebfa4685848e6d7ff19dcc61.md) | 2024-01-01 | - |  | - | - |
 | [1001 Jigsaw Castles And Palaces](games/1/17ae23fb4425488eb300626c3098f617.md) | 2024-01-02 | - |  | - | - |
