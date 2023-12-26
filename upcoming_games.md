@@ -3,9 +3,10 @@
 | [Otok](games/c/cb2b40b6713d48768e5950e2d77f9fd8.md) | 2023-12-26 | - |  | - | - |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 5 | - | - |
 | [Scaryy Bingo](games/7/7f359e1dcc134507aefd7780e1249c5c.md) | 2023-12-27 | - |  | - | - |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 50 | - | - |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 51 | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles](games/a/af3dedaf653943779d7161fa3531229f.md) | 2023-12-27 | - |  | - | - |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 0 | - | - |
+| [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-12-29 | - |  | - | - |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 1 | - | - |
 | [Sakura Day 2 Mahjong](games/c/ca3057f83651427394eb172a4addc286.md) | 2023-12-30 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
@@ -232,7 +233,6 @@
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-12-31 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-12-31 | - |  | - | - |
-| [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2024-12-31 | - |  | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-12-31 | - |  | - | - |
@@ -408,7 +408,7 @@
 | [Nifty Island](games/9/95afff33bcc840f99fdfb7f2a387c855.md) | 2099-01-01 | - |  | - | - |
 | [Nirvana Noir](games/b/bfe6ea830f804ba0a9fb3202d6e87514.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
-| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 346 | - | - |
+| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 348 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2099-01-01 | - |  | - | - |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2099-01-01 | - |  | - | - |
