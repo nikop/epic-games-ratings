@@ -8517,9 +8517,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745541,
+  "EOS_Progressed": 745555,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 9256,
+  "EOS_NewPlayers": 9260,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31057,6 +31057,11 @@
       "Time": "2023-12-26T22:08:37.1138702+00:00",
       "NumProgressed": 745541,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-26T23:09:35.4600101+00:00",
+      "NumProgressed": 745555,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31076,7 +31081,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22366
+      "UsersEstimate": 22367
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31100,7 +31105,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "06_Vengeance_H5",
@@ -31108,7 +31113,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "07_Wude_H1",
@@ -31172,7 +31177,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "15_Detective_H1",
@@ -31244,7 +31249,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22366
+      "UsersEstimate": 22367
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31260,7 +31265,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "26_ShrineSpirit",
@@ -31268,7 +31273,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "27_ShrineBody",
@@ -31300,7 +31305,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "31_ComboHigh",
@@ -31332,7 +31337,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22366
+      "UsersEstimate": 22367
     },
     {
       "ID": "35_WideStrike",
@@ -31348,7 +31353,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -31380,7 +31385,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -31404,7 +31409,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -31412,7 +31417,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31547,21 +31552,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54842,
+      "Progressed": 54856,
       "Completed": 10786
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745541,
+      "Progressed": 745555,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:08:37.1138697+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:09:35.4600099+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:02:46.2494588+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:08:37.1140306+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:03:23.914594+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:09:35.4601264+00:00"
 }

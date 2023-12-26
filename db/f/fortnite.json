@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
@@ -8198,10 +8198,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 18916160,
       "NumberOfAwardsMax": 2697647
+    },
+    {
+      "Time": "2023-12-26T23:03:19.0335938+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 18984002,
+      "NumberOfAwardsMax": 2697647
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18916160,
+  "NumberOfAwards": 18984002,
   "NumberOfAwardsMax": 2697647,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -8215,43 +8221,43 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2495172
+      "Count": 2505582
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2557828
+      "Count": 2569011
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2472624
+      "Count": 2483581
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2307088
+      "Count": 2316484
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2252954
+      "Count": 2262400
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2274645
+      "Count": 2283843
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1858202
+      "Count": 1865454
     }
   ],
   "EOS_Progressed": 0,
@@ -8265,8 +8271,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-12-26T22:02:42.8473438+00:00",
+  "LastChanged": "2023-12-26T23:03:19.0335937+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.5657798+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:02:42.8473445+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:05:40.4274568+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:03:19.0335941+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:07:18.9460747+00:00"
 }

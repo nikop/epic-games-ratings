@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1395,6 +1395,11 @@
       "Time": "2023-12-26T22:05:20.3333299+00:00",
       "NumProgressed": 445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T23:06:52.5418637+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1574,7 +1579,7 @@
       "Name": "Smooth Operator",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_contracts_1",
@@ -1742,7 +1747,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_grime_1",
@@ -1766,7 +1771,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_loan",
@@ -1798,7 +1803,7 @@
       "Name": "28 Days Later",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_office_1",
@@ -1846,7 +1851,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_prestige_2",
@@ -1878,7 +1883,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_profit_2",
@@ -1950,7 +1955,7 @@
       "Name": "Retail Revenue",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_retail_2",
@@ -1974,7 +1979,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_revs_1",
@@ -2094,7 +2099,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_visitors_1",
@@ -2109,7 +2114,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 0
     }
   ],
@@ -2117,8 +2122,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:05:20.3333294+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:06:52.5418633+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:58:27.61123+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:05:20.333407+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:59:18.5529985+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:06:52.5419374+00:00"
 }

@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
+| Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
@@ -229,7 +230,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Characters | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | One City Challenge | 0.10% | ~16 |
-| Points Victory | 0.10% | ~16 |
 | Randomized Families | 0.10% | ~16 |
 | Randomized Leaders | 0.10% | ~16 |
 | Role-Playing | 0.10% | ~16 |

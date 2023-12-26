@@ -146,7 +146,7 @@
   "Tags": [],
   "EOS_Progressed": 590,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1902,9 +1902,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 254
     },
     {
       "ID": "35_achtung",
@@ -1958,8 +1958,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:04:50.7384993+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:06:13.4159797+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:57:15.7869812+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:04:50.7385262+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:57:40.7350951+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:06:13.4160038+00:00"
 }

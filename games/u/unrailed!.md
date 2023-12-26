@@ -6,60 +6,60 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,153 |
-| Incurious | 18.00% | ~121,408 |
-| Stroller | 16.00% | ~107,919 |
-| Climate Change | 16.00% | ~107,919 |
-| Toy Train | 14.00% | ~94,429 |
-| Advanced Hiker | 13.00% | ~87,684 |
-| Hiker | 12.00% | ~80,939 |
-| Mojave Courier | 6.00% | ~40,469 |
-| Saved by Nausicaä | 6.00% | ~40,469 |
-| Advanced Voyager | 4.00% | ~26,980 |
-| Expert Stroller | 4.00% | ~26,980 |
-| Orient Express | 4.00% | ~26,980 |
-| Voyager | 3.00% | ~20,235 |
-| Marathon | 3.00% | ~20,235 |
-| Destructionist | 3.00% | ~20,235 |
-| Expert Hiker | 2.00% | ~13,490 |
-| Lost | 2.00% | ~13,490 |
+| Advanced Stroller | 19.00% | ~128,160 |
+| Incurious | 18.00% | ~121,415 |
+| Stroller | 16.00% | ~107,924 |
+| Climate Change | 16.00% | ~107,924 |
+| Toy Train | 14.00% | ~94,434 |
+| Advanced Hiker | 13.00% | ~87,688 |
+| Hiker | 12.00% | ~80,943 |
+| Mojave Courier | 6.00% | ~40,472 |
+| Saved by Nausicaä | 6.00% | ~40,472 |
+| Advanced Voyager | 4.00% | ~26,981 |
+| Expert Stroller | 4.00% | ~26,981 |
+| Orient Express | 4.00% | ~26,981 |
+| Voyager | 3.00% | ~20,236 |
+| Marathon | 3.00% | ~20,236 |
+| Destructionist | 3.00% | ~20,236 |
+| Expert Hiker | 2.00% | ~13,491 |
+| Lost | 2.00% | ~13,491 |
 | Rocketman | 0.80% | ~5,396 |
-| Expert Voyager | 0.70% | ~4,721 |
-| Nanuk | 0.70% | ~4,721 |
-| Shopaholic | 0.70% | ~4,721 |
-| Dynamite Fishing | 0.70% | ~4,721 |
+| Expert Voyager | 0.70% | ~4,722 |
+| Nanuk | 0.70% | ~4,722 |
+| Shopaholic | 0.70% | ~4,722 |
+| Dynamite Fishing | 0.70% | ~4,722 |
 | Terminal Station | 0.60% | ~4,047 |
-| Scrooge | 0.50% | ~3,372 |
+| Scrooge | 0.50% | ~3,373 |
 | Wayfarer | 0.40% | ~2,698 |
 | Advanced Wayfarer | 0.40% | ~2,698 |
 | Tough Nut! | 0.40% | ~2,698 |
-| Trans-Siberian Railway | 0.30% | ~2,023 |
-| Engineer | 0.30% | ~2,023 |
-| Satan's Minion | 0.30% | ~2,023 |
-| Snowman's Land | 0.30% | ~2,023 |
+| Trans-Siberian Railway | 0.30% | ~2,024 |
+| Engineer | 0.30% | ~2,024 |
+| Satan's Minion | 0.30% | ~2,024 |
+| Snowman's Land | 0.30% | ~2,024 |
 | Expert Wayfarer | 0.20% | ~1,349 |
-| Explorer | 0.10% | ~674 |
-| Advanced Explorer | 0.10% | ~674 |
-| Expert Explorer | 0.10% | ~674 |
-| Deep Space Transit | 0.10% | ~674 |
-| Leet | 0.10% | ~674 |
-| Wrong way! | 0.10% | ~674 |
-| Ducky Danger | 0.10% | ~674 |
-| Shepherd | 0.10% | ~674 |
-| Industrialist | 0.10% | ~674 |
-| Missed Opportunities | 0.10% | ~674 |
-| Cowter Space | 0.10% | ~674 |
-| Apollo 13 | 0.10% | ~674 |
-| Collector | 0.10% | ~674 |
-| Achievement Master | 0.10% | ~674 |
-| Fire Fighter | 0.10% | ~674 |
-| Megalomaniac | 0.10% | ~674 |
-| No Space for Improvement | 0.10% | ~674 |
-| Where They Belong | 0.10% | ~674 |
-| Fireworks! | 0.10% | ~674 |
-| 20 Miles under the Sea | 0.10% | ~674 |
+| Explorer | 0.10% | ~675 |
+| Advanced Explorer | 0.10% | ~675 |
+| Expert Explorer | 0.10% | ~675 |
+| Deep Space Transit | 0.10% | ~675 |
+| Leet | 0.10% | ~675 |
+| Wrong way! | 0.10% | ~675 |
+| Ducky Danger | 0.10% | ~675 |
+| Shepherd | 0.10% | ~675 |
+| Industrialist | 0.10% | ~675 |
+| Missed Opportunities | 0.10% | ~675 |
+| Cowter Space | 0.10% | ~675 |
+| Apollo 13 | 0.10% | ~675 |
+| Collector | 0.10% | ~675 |
+| Achievement Master | 0.10% | ~675 |
+| Fire Fighter | 0.10% | ~675 |
+| Megalomaniac | 0.10% | ~675 |
+| No Space for Improvement | 0.10% | ~675 |
+| Where They Belong | 0.10% | ~675 |
+| Fireworks! | 0.10% | ~675 |
+| 20 Miles under the Sea | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,491 (Ranked 28)  
+Progressed: 674,526 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 12 (0.00%) (Ranked 389)
 | 2023-12-23 | 673,132 | 12 |
 | 2023-12-24 | 673,616 | 12 |
 | 2023-12-25 | 674,048 | 12 |
-| 2023-12-26 | 674,491 | 12 |
+| 2023-12-26 | 674,526 | 12 |
 ## Awards
 Max (Great for Beginners): 207  (Ranked 292)  
 Sum: 1,618 (Ranked 232)  

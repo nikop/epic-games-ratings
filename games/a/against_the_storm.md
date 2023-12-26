@@ -6,13 +6,13 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 7.00% | ~1,354 |
+| Overgrown Library | 7.00% | ~1,355 |
 | Abandoned Settlement | 6.00% | ~1,161 |
 | Petrified Necropolis | 6.00% | ~1,161 |
-| First Real Expedition | 5.00% | ~967 |
-| Taking Action | 5.00% | ~967 |
-| No Deaths | 5.00% | ~967 |
-| Gathering Storm | 5.00% | ~967 |
+| First Real Expedition | 5.00% | ~968 |
+| Taking Action | 5.00% | ~968 |
+| No Deaths | 5.00% | ~968 |
+| Gathering Storm | 5.00% | ~968 |
 | Overcoming Difficulty | 4.00% | ~774 |
 | Coral Forest | 4.00% | ~774 |
 | The Marshlands | 4.00% | ~774 |
@@ -24,6 +24,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 2.00% | ~387 |
 | Ruined Armory | 2.00% | ~387 |
 | Bandit Camp | 2.00% | ~387 |
+| Ancient Battleground | 2.00% | ~387 |
 | Fertile Meadows | 2.00% | ~387 |
 | Levitating Monument | 2.00% | ~387 |
 | Monastery of the Holy Flame | 2.00% | ~387 |
@@ -34,14 +35,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~387 |
 | Trade Baron | 2.00% | ~387 |
 | Untamed Wilds | 2.00% | ~387 |
-| Against All Odds | 1.00% | ~193 |
-| Barren Lands | 1.00% | ~193 |
-| Ancient Battleground | 1.00% | ~193 |
-| Sparkdew Crystals | 1.00% | ~193 |
-| Haunted Forest | 1.00% | ~193 |
-| Flooded Mines | 1.00% | ~193 |
-| Statue of the Forefathers | 1.00% | ~193 |
-| Defying the Crown | 1.00% | ~193 |
+| Against All Odds | 1.00% | ~194 |
+| Barren Lands | 1.00% | ~194 |
+| Sparkdew Crystals | 1.00% | ~194 |
+| Haunted Forest | 1.00% | ~194 |
+| Flooded Mines | 1.00% | ~194 |
+| Statue of the Forefathers | 1.00% | ~194 |
+| Defying the Crown | 1.00% | ~194 |
 | Fishmen Ritual Site | 0.90% | ~174 |
 | Victory Through Prosperity | 0.90% | ~174 |
 | Into the Forest | 0.90% | ~174 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,345 (Ranked 150)  
+Progressed: 19,350 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-23 | 19,051 | 39 |
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
-| 2023-12-26 | 19,345 | 38 |
+| 2023-12-26 | 19,350 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 444  (Ranked 228)  
 Sum: 3,294 (Ranked 177)  

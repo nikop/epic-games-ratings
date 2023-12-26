@@ -532,9 +532,9 @@
       "ID": "Defeat_Hokan",
       "SetID": "7b9f97e",
       "Name": "Defeat Hokan",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Defeat_Ianna",
@@ -596,9 +596,9 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "First_LevelUp",
@@ -1013,8 +1013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:08:57.8147069+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:02.2291921+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:59:44.2889814+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:08:57.8147575+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:01:07.4138942+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:02.2292379+00:00"
 }

@@ -10108,18 +10108,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21119,
       "NumberOfAwardsMax": 7875
+    },
+    {
+      "Time": "2023-12-26T22:59:48.2294104+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21127,
+      "NumberOfAwardsMax": 7882
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21119,
-  "NumberOfAwardsMax": 7875,
+  "NumberOfAwards": 21127,
+  "NumberOfAwardsMax": 7882,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7875
+      "Count": 7882
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10131,7 +10137,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1572
+      "Count": 1573
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10188,9 +10194,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 130064,
+  "EOS_Progressed": 130068,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1467,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36958,6 +36964,11 @@
       "Time": "2023-12-26T22:09:03.2522206+00:00",
       "NumProgressed": 130064,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T23:10:09.50032+00:00",
+      "NumProgressed": 130068,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37569,7 +37580,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37600,21 +37611,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130064,
+      "Progressed": 130068,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4933,
+      "Progressed": 4937,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-26T20:59:00.3391629+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:09:03.2522203+00:00",
+  "LastChanged": "2023-12-26T22:59:48.2294086+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:09.5003197+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:58:48.839599+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:09:03.2524962+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:59:48.2294107+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:09.5004676+00:00"
 }

@@ -439,9 +439,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-12-26T20:10:31.7547929+00:00",
       "NumProgressed": 234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T23:10:30.5392163+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1050,7 +1055,7 @@
       "ID": "Astarte",
       "SetID": "329ak73",
       "Name": "Astarte",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1130,7 +1135,7 @@
       "ID": "HellsForge",
       "SetID": "329ak73",
       "Name": "Hell\u0027s Forge",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1154,7 +1159,7 @@
       "ID": "MasterofStrife",
       "SetID": "329ak73",
       "Name": "Master of Strife",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1162,7 +1167,7 @@
       "ID": "MasterofWar",
       "SetID": "329ak73",
       "Name": "Master of War",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1275,15 +1280,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:09:19.0100241+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:30.539216+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.0736038+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:58:52.0728138+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:09:19.0100452+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:59:52.0521243+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:30.5392364+00:00"
 }

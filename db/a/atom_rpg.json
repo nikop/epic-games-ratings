@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1509,
+  "EOS_Progressed": 1510,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3773,6 +3773,11 @@
       "Time": "2023-12-26T22:09:33.0697183+00:00",
       "NumProgressed": 1509,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T23:10:48.8631641+00:00",
+      "NumProgressed": 1510,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3840,7 +3845,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "EXPERT_1",
@@ -3944,7 +3949,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "PACIFIST",
@@ -3976,7 +3981,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "RELICTS",
@@ -4016,7 +4021,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "SHOG",
@@ -4071,15 +4076,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1509,
+      "Progressed": 1510,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:09:33.0697177+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:48.8631639+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:57:22.1448091+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:09:33.0697642+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:57:49.2398809+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:48.8632008+00:00"
 }

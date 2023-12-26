@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2216,
+  "EOS_Progressed": 2218,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
@@ -6304,6 +6304,11 @@
       "Time": "2023-12-26T22:09:41.9801901+00:00",
       "NumProgressed": 2216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T23:10:59.3133815+00:00",
+      "NumProgressed": 2218,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6420,7 +6425,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_22",
@@ -6484,7 +6489,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_3",
@@ -6516,7 +6521,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_33",
@@ -6524,7 +6529,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_34",
@@ -6540,7 +6545,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1952
     },
     {
       "ID": "achievement_36",
@@ -6556,7 +6561,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "achievement_38",
@@ -6588,7 +6593,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "achievement_41",
@@ -6604,7 +6609,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_43",
@@ -6620,7 +6625,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_45",
@@ -6636,7 +6641,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_47",
@@ -6804,7 +6809,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_9",
@@ -6819,13 +6824,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2216,
+      "Progressed": 2218,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2216,
+      "Progressed": 2218,
       "Completed": 1
     }
   ],
@@ -6833,8 +6838,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:09:41.9801896+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:59.3133812+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:00:28.6855515+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:09:41.9802732+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:02:59.0505906+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:59.313459+00:00"
 }

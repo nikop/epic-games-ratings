@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,108 |
+| You're free now! | 62.00% | ~2,109 |
 | Keeping it classy | 27.00% | ~918 |
 | Welcome to the family | 22.00% | ~748 |
 | The finer things in life | 19.00% | ~646 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,400 (Ranked 217)  
+Progressed: 3,401 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,10 +280,10 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-23 | 3,348 | 2 |
 | 2023-12-24 | 3,361 | 2 |
 | 2023-12-25 | 3,377 | 2 |
-| 2023-12-26 | 3,400 | 2 |
+| 2023-12-26 | 3,401 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 424)  
-Sum: 574 (Ranked 323)  
+Sum: 575 (Ranked 323)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): 101
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 46 |
 | This game is Relaxing | 45 |
-| This game has Quickly Understood Controls | 39 |
+| This game has Quickly Understood Controls | 40 |
 | This game is Educational | 39 |
 | This game has Challenging Combat | 32 |
 ## Ratings History
@@ -491,3 +491,4 @@ Diff (max vs sum): 101
 | 2023-12-21 | 4.69 | - | 60 | 569 |
 | 2023-12-22 | 4.69 | - | 60 | 570 |
 | 2023-12-25 | 4.69 | - | 62 | 574 |
+| 2023-12-26 | 4.69 | - | 62 | 575 |

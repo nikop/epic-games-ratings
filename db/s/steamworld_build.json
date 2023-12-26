@@ -782,9 +782,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "Botropolis",
@@ -958,9 +958,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "TuttiFrutti",
@@ -1005,8 +1005,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:03:28.5297941+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:04:23.7241898+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:02:56.1080664+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:03:28.5298147+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:03:37.7928974+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:04:23.7242112+00:00"
 }

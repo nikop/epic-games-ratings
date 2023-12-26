@@ -3611,9 +3611,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19345,
+  "EOS_Progressed": 19350,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17246,6 +17246,11 @@
       "Time": "2023-12-26T22:04:32.5344966+00:00",
       "NumProgressed": 19345,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-26T23:05:49.3739676+00:00",
+      "NumProgressed": 19350,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17346,7 +17351,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "WinHard",
@@ -17362,7 +17367,7 @@
       "Name": "Against All Odds",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearArmory",
@@ -17386,15 +17391,15 @@
       "Name": "Barren Lands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 387
     },
     {
       "ID": "WinNearCrystals",
@@ -17402,7 +17407,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearDangerous",
@@ -17442,7 +17447,7 @@
       "Name": "Haunted Forest",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearLevitating",
@@ -17458,7 +17463,7 @@
       "Name": "Flooded Mines",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearMonastery",
@@ -17490,7 +17495,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearTemple",
@@ -17594,7 +17599,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "WinWithResolve",
@@ -17634,7 +17639,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "WinWithoutOrders",
@@ -17642,7 +17647,7 @@
       "Name": "Defying the Crown",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Year1Dangerous",
@@ -17682,7 +17687,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "WinNearPetrified",
@@ -17706,7 +17711,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17729,15 +17734,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19345,
+      "Progressed": 19350,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-26T16:59:55.8893505+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:04:32.5344962+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:05:49.3739674+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:58:43.5299934+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:04:32.5345876+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:59:40.7598978+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:05:49.3740532+00:00"
 }

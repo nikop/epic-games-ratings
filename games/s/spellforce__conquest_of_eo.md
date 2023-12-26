@@ -21,8 +21,8 @@
 | The Circle | 36.00% | ~30 |
 | Redecorating | 33.00% | ~28 |
 | Bad JuJu | 25.00% | ~21 |
+| Slave to the rhythm | 23.00% | ~19 |
 | Friend of Sevenkeeps | 23.00% | ~19 |
-| Slave to the rhythm | 21.00% | ~18 |
 | Castle Meldec | 21.00% | ~18 |
 | Sevenkeeps Seat of Kings | 19.00% | ~16 |
 | Friend of Alluvyan | 15.00% | ~13 |
@@ -42,10 +42,10 @@
 | Yngrid's Tale | 8.00% | ~7 |
 | A Joke | 8.00% | ~7 |
 | Defeat Gor | 7.00% | ~6 |
+| Defeat Hokan | 7.00% | ~6 |
 | Defeat Uram | 7.00% | ~6 |
 | Elynn's Tale | 7.00% | ~6 |
 | The Forge of Regan Gor | 7.00% | ~6 |
-| Defeat Hokan | 6.00% | ~5 |
 | Defeat Raith | 6.00% | ~5 |
 | Lore's Tale | 6.00% | ~5 |
 | Tuscari Sea Portal | 6.00% | ~5 |

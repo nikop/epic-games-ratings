@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6278,
+  "EOS_Progressed": 6285,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9294,6 +9294,11 @@
       "Time": "2023-12-26T22:03:45.468046+00:00",
       "NumProgressed": 6278,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T23:04:46.5345986+00:00",
+      "NumProgressed": 6285,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9353,7 +9358,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "16",
@@ -9417,7 +9422,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "23",
@@ -9425,7 +9430,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "24",
@@ -9441,7 +9446,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "26",
@@ -9457,7 +9462,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "28",
@@ -9465,7 +9470,7 @@
       "Name": "From Friends to Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "29",
@@ -9505,7 +9510,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "33",
@@ -9559,9 +9564,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 126
     },
     {
       "ID": "4",
@@ -9784,13 +9789,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6278,
+      "Progressed": 6285,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6278,
+      "Progressed": 6285,
       "Completed": 7
     }
   ],
@@ -9798,8 +9803,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:03:45.4680456+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:04:46.5345981+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:59:44.2584033+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:03:45.4681154+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:01:07.3264711+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:04:46.5346683+00:00"
 }

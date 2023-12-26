@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 351,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.27,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:07.236765+00:00",
@@ -311,6 +311,12 @@
     {
       "Time": "2023-12-19T23:00:17.2400987+00:00",
       "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-26T23:01:34.3919071+00:00",
+      "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1235,9 +1241,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "CollectVehiclesA",
@@ -1347,9 +1353,9 @@
   "FirstSeen": "2023-03-11T06:58:06.4643937+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
-  "LastChanged": "2023-12-19T23:00:17.2400985+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:08:21.1301043+00:00",
+  "LastChanged": "2023-12-26T23:01:34.391907+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:09:14.2327973+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:00:05.1410393+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:08:21.1301214+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:01:34.3919075+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:09:14.2328083+00:00"
 }

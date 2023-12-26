@@ -5,14 +5,14 @@ Rating: 4.12 (Ranked 987)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,985 |
-| Unlocked Potential | 10.00% | ~4,532 |
+| Attachments | 11.00% | ~4,986 |
+| Unlocked Potential | 10.00% | ~4,533 |
 | Tinkerer | 8.00% | ~3,626 |
-| Leapfrogger | 7.00% | ~3,172 |
-| Knock 'Em Dead | 7.00% | ~3,172 |
-| Pilgrimage: Initiate | 7.00% | ~3,172 |
-| Hell of a Run | 7.00% | ~3,172 |
-| Call of the Fount: Baptized | 6.00% | ~2,719 |
+| Leapfrogger | 7.00% | ~3,173 |
+| Knock 'Em Dead | 7.00% | ~3,173 |
+| Pilgrimage: Initiate | 7.00% | ~3,173 |
+| Hell of a Run | 7.00% | ~3,173 |
+| Call of the Fount: Baptized | 6.00% | ~2,720 |
 | Stuck | 5.00% | ~2,266 |
 | No Mercy | 5.00% | ~2,266 |
 | Explorer: Seeker | 5.00% | ~2,266 |
@@ -22,12 +22,12 @@ Rating: 4.12 (Ranked 987)
 | The Interloper | 3.00% | ~1,360 |
 | Hop, Step, Jump | 3.00% | ~1,360 |
 | Endless Runner | 3.00% | ~1,360 |
-| What Must Be Done | 2.00% | ~906 |
-| Might and Main | 2.00% | ~906 |
-| Damned If You Do... | 2.00% | ~906 |
-| Explorer: Pathfinder | 2.00% | ~906 |
-| Shocker | 2.00% | ~906 |
-| From Every Angle | 2.00% | ~906 |
+| What Must Be Done | 2.00% | ~907 |
+| Might and Main | 2.00% | ~907 |
+| Damned If You Do... | 2.00% | ~907 |
+| Explorer: Pathfinder | 2.00% | ~907 |
+| Shocker | 2.00% | ~907 |
+| From Every Angle | 2.00% | ~907 |
 | The Hue of Blue | 1.00% | ~453 |
 | The Truth Will Out | 1.00% | ~453 |
 | Breaking Point | 1.00% | ~453 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 987)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,320 (Ranked 121)  
+Progressed: 45,329 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-23 | 44,956 | 3 |
 | 2023-12-24 | 45,090 | 3 |
 | 2023-12-25 | 45,221 | 3 |
-| 2023-12-26 | 45,320 | 3 |
+| 2023-12-26 | 45,329 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

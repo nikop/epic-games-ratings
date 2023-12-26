@@ -8,18 +8,18 @@ Rating: 4.52 (Ranked 564)
 | Feels Familiar | 74.00% | ~998 |
 | I Broke It | 73.00% | ~984 |
 | Better On Ice | 68.00% | ~917 |
+| Blue Dreams | 66.00% | ~890 |
+| He's Famous! | 66.00% | ~890 |
 | Notai Notes | 66.00% | ~890 |
-| Blue Dreams | 65.00% | ~876 |
-| He's Famous! | 65.00% | ~876 |
 | Cutie Poro | 65.00% | ~876 |
 | Krugmazing | 64.00% | ~863 |
+| The Fire Below the Mountain | 61.00% | ~822 |
 | Moneyball | 60.00% | ~809 |
-| The Fire Below the Mountain | 60.00% | ~809 |
 | No Bites | 55.00% | ~741 |
 | Iceborn | 55.00% | ~741 |
 | Boom Things | 53.00% | ~714 |
 | Tear of Freedom | 52.00% | ~701 |
-| My Darkest Day | 48.00% | ~647 |
+| My Darkest Day | 49.00% | ~661 |
 | Rhythm Of Willump | 46.00% | ~620 |
 | The Relentless Storm | 46.00% | ~620 |
 | A Tragic Reminder | 45.00% | ~607 |

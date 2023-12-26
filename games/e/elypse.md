@@ -14,14 +14,14 @@
 | Soft skin | 50.00% | ~58 |
 | Splash! | 50.00% | ~58 |
 | Squid game | 42.00% | ~48 |
-| Rock Solid | 33.00% | ~38 |
+| Rock Solid | 34.00% | ~39 |
 | The beast within | 33.00% | ~38 |
 | It's getting dark | 33.00% | ~38 |
 | Sensitive soul | 33.00% | ~38 |
+| Rooftop | 30.00% | ~34 |
 | Hard Rock | 30.00% | ~34 |
-| Rooftop | 29.00% | ~33 |
 | Homeless | 29.00% | ~33 |
-| Big badaboom! | 27.00% | ~31 |
+| Big badaboom! | 28.00% | ~32 |
 | Payback | 24.00% | ~28 |
 | Full power | 23.00% | ~26 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~26 |

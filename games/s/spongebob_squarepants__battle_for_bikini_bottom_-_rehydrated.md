@@ -20,10 +20,10 @@ Number of Ratings: 76  (23.09.2022)
 | Toxic Terror | 6.00% | ~25 |
 | Squirrel Smasher | 6.00% | ~25 |
 | Star Smasher | 6.00% | ~25 |
+| Keep it Rolling | 5.00% | ~21 |
 | Shrimp Catcher | 5.00% | ~21 |
 | Hit Rock Bottom | 5.00% | ~21 |
 | Hello, Bikini Bottom | 4.00% | ~16 |
-| Keep it Rolling | 4.00% | ~16 |
 | Robot encyclopedia | 3.00% | ~12 |
 | Are you ready now? | 3.00% | ~12 |
 | Ship Shape | 3.00% | ~12 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 | Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411 (Ranked 352)  
+Progressed: 412 (Ranked 352)  
 Completed: 3 (0.73%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 3 (0.73%) (Ranked 195)
 | 2023-12-23 | 279 | 1 |
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
-| 2023-12-26 | 411 | 3 |
+| 2023-12-26 | 412 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

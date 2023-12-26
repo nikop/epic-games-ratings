@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2000,9 +2000,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 444
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2096,9 +2096,9 @@
       "ID": "ach_main08sacrifice_overfed",
       "SetID": "4hg22ll",
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_main09journey_completed",
@@ -2304,9 +2304,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2399,8 +2399,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:08:27.2896843+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:09:22.5122297+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:59:19.1461622+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:08:27.2897304+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:00:30.1598844+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:09:22.5122817+00:00"
 }

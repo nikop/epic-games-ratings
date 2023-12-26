@@ -11,8 +11,8 @@
 | The Hellwoods | 77.00% | ~496 |
 | The Plains of Strothalm | 72.00% | ~464 |
 | Experienced Thalya | 72.00% | ~464 |
+| Bad Elves Go Everywhere | 69.00% | ~444 |
 | Thalya's Concentrated Fury | 68.00% | ~438 |
-| Bad Elves Go Everywhere | 68.00% | ~438 |
 | Master of Magic | 63.00% | ~406 |
 | Heroes’ Gorge | 63.00% | ~406 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~399 |
@@ -39,12 +39,12 @@
 | The Finitude Drill | 32.00% | ~206 |
 | Ghost Pirates? Ghost Heroes! | 29.00% | ~187 |
 | Doom Hill | 29.00% | ~187 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~180 |
 | Forbidden Knowledge | 28.00% | ~180 |
 | Hungry, Hungry Gorgu! | 27.00% | ~174 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~174 |
+| Brimstone Shaken, Not Stirred | 27.00% | ~174 |
 | Stop Tanos! | 26.00% | ~167 |
 | Sabotage! | 26.00% | ~167 |
-| Brimstone Shaken, Not Stirred | 26.00% | ~167 |
 | Bonus Evilness | 25.00% | ~161 |
 | Raiders of the Lost Stone | 25.00% | ~161 |
 | The Rune Sockets of Finitude (Part 1) | 25.00% | ~161 |

@@ -10,12 +10,12 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 27.00% | ~29 |
 | Civilian | 24.00% | ~26 |
 | Role Model | 21.00% | ~23 |
-| Creator | 16.00% | ~17 |
-| Military Leader | 15.00% | ~16 |
+| Creator | 17.00% | ~19 |
+| Military Leader | 16.00% | ~17 |
 | Festival-goer | 15.00% | ~16 |
 | Commander | 14.00% | ~15 |
+| Peddler | 13.00% | ~14 |
 | Long-Haul Flyer | 13.00% | ~14 |
-| Peddler | 11.00% | ~12 |
 | Family Reunion | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
 | Pass A38 | 8.00% | ~9 |

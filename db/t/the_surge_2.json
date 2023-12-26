@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2378,
+  "EOS_Progressed": 2379,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3898,6 +3898,11 @@
       "Time": "2023-12-26T22:04:43.0458504+00:00",
       "NumProgressed": 2378,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-26T23:06:03.492969+00:00",
+      "NumProgressed": 2379,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3933,7 +3938,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACHV_05",
@@ -3941,7 +3946,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACHV_06",
@@ -3997,7 +4002,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHV_13",
@@ -4045,7 +4050,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHV_19",
@@ -4117,7 +4122,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACHV_28",
@@ -4181,7 +4186,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACHV_36",
@@ -4213,7 +4218,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ACHV_40",
@@ -4364,7 +4369,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2378,
+      "Progressed": 2379,
       "Completed": 13
     }
   ],
@@ -4372,8 +4377,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:04:43.0458499+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:06:03.4929688+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:59:00.7011969+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:04:43.0459074+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:00:04.140084+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:06:03.4930131+00:00"
 }

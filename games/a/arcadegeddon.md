@@ -29,7 +29,7 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 23.00% | ~2,331 |
 | Clips and Crits | 18.00% | ~1,824 |
 | Grey Goo | 16.00% | ~1,622 |
-| Boss of Bosses | 14.00% | ~1,419 |
+| Boss of Bosses | 15.00% | ~1,520 |
 | The Final Blow | 14.00% | ~1,419 |
 | To Be Continued | 13.00% | ~1,318 |
 | Light My Fire | 11.00% | ~1,115 |
@@ -309,9 +309,9 @@ Completed: 2 (0.02%) (Ranked 357)
 | 2023-12-25 | 10,123 | 2 |
 | 2023-12-26 | 10,136 | 2 |
 ## Awards
-Max (Great for Beginners): 65  (Ranked 418)  
+Max (Great for Beginners): 65  (Ranked 419)  
 Sum: 465 (Ranked 339)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |

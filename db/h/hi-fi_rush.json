@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12448,
+  "EOS_Progressed": 12450,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2872,
+  "EOS_NewPlayers": 2869,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9927,6 +9927,11 @@
       "Time": "2023-12-26T22:04:03.0641946+00:00",
       "NumProgressed": 12448,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-26T23:05:09.3443748+00:00",
+      "NumProgressed": 12450,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -9946,7 +9951,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "Ach003",
@@ -10050,7 +10055,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 3734
+      "UsersEstimate": 3735
     },
     {
       "ID": "Ach016",
@@ -10058,7 +10063,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Ach017",
@@ -10138,7 +10143,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "Ach027",
@@ -10178,7 +10183,7 @@
       "Name": "Perfect Parry",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "Ach032",
@@ -10266,7 +10271,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "Ach043",
@@ -10306,7 +10311,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "Ach048",
@@ -10314,7 +10319,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "Ach049",
@@ -10338,7 +10343,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5478
     },
     {
       "ID": "Ach052",
@@ -10346,7 +10351,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Ach053",
@@ -10354,7 +10359,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "Ach054",
@@ -10410,7 +10415,7 @@
       "Name": "Check out my moves!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Ach061",
@@ -10505,13 +10510,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 12448,
+      "Progressed": 12450,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 10969,
+      "Progressed": 10971,
       "Completed": 1930
     }
   ],
@@ -10519,8 +10524,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-12-25T15:00:13.1434321+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:04:03.0641942+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:05:09.3443745+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:58.248811+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:00:24.9207134+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:04:03.0642789+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:02:53.7194074+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:05:09.344462+00:00"
 }

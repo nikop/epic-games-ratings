@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -731,9 +731,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15226,
+  "EOS_Progressed": 15227,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -13686,6 +13686,11 @@
       "Time": "2023-12-26T22:03:15.5230317+00:00",
       "NumProgressed": 15226,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-26T23:04:06.601538+00:00",
+      "NumProgressed": 15227,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -13697,7 +13702,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "ACH_02",
@@ -13705,7 +13710,7 @@
       "Name": "Newcomers",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 11724
+      "UsersEstimate": 11725
     },
     {
       "ID": "ACH_03",
@@ -13729,7 +13734,7 @@
       "Name": "In our Wake",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 10049
+      "UsersEstimate": 10050
     },
     {
       "ID": "ACH_06",
@@ -13737,7 +13742,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 9592
+      "UsersEstimate": 9593
     },
     {
       "ID": "ACH_07",
@@ -13753,7 +13758,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 8983
+      "UsersEstimate": 8984
     },
     {
       "ID": "ACH_09",
@@ -13769,7 +13774,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7765
+      "UsersEstimate": 7766
     },
     {
       "ID": "ACH_11",
@@ -13777,7 +13782,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 7156
+      "UsersEstimate": 7157
     },
     {
       "ID": "ACH_12",
@@ -13801,7 +13806,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "ACH_15",
@@ -13881,7 +13886,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "ACH_25",
@@ -13889,7 +13894,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "ACH_26",
@@ -13913,7 +13918,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 10201
+      "UsersEstimate": 10202
     },
     {
       "ID": "ACH_29",
@@ -13953,7 +13958,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "ACH_34",
@@ -13976,7 +13981,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 15226,
+      "Progressed": 15227,
       "Completed": 61
     }
   ],
@@ -13984,8 +13989,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-26T15:59:16.7773853+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:03:15.5230312+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:04:06.6015377+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.1732324+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:59:04.6958799+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:03:15.5231027+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:00:09.7553341+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:04:06.6016109+00:00"
 }

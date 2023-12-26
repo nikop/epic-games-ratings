@@ -1106,9 +1106,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "find_one_photo",
@@ -1377,8 +1377,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:06:14.7782082+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:08:40.0208336+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:58:06.3586681+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:06:14.7782472+00:00"
+  "LastUpdate_Ratings": "2023-12-26T22:58:46.8944119+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:08:40.0208815+00:00"
 }

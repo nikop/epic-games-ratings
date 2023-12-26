@@ -18,8 +18,8 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 45.00% | ~79 |
 | Fly Me to the Moon Base | 43.00% | ~76 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~74 |
+| Bodied Sattva | 33.00% | ~58 |
 | Freshly Squeezed | 32.00% | ~56 |
-| Bodied Sattva | 32.00% | ~56 |
 | Upgreatest | 31.00% | ~55 |
 | Forbidden Donut | 29.00% | ~51 |
 | Furon Fashion | 24.00% | ~42 |
@@ -30,15 +30,15 @@ Number of Ratings: 85  (23.09.2022)
 | Arkvoodle Doodle | 16.00% | ~28 |
 | Ouch of Body Experience | 15.00% | ~26 |
 | Die Nasty | 14.00% | ~25 |
+| Hidden Human Hive Harvest | 14.00% | ~25 |
+| Mash Machine | 14.00% | ~25 |
 | If You Know What I Mean | 13.00% | ~23 |
-| Hidden Human Hive Harvest | 13.00% | ~23 |
-| Mash Machine | 13.00% | ~23 |
 | Dusted | 13.00% | ~23 |
 | Albion Bridge Is for Falling Down | 11.00% | ~19 |
 | Scuttled | 9.00% | ~16 |
-| Higher Than the Futen Zoku | 8.00% | ~14 |
-| PK Slam Dunk | 7.00% | ~12 |
-| Arty Facts | 6.00% | ~11 |
+| Higher Than the Futen Zoku | 9.00% | ~16 |
+| PK Slam Dunk | 8.00% | ~14 |
+| Arty Facts | 7.00% | ~12 |
 | To Russia With Love | 5.00% | ~9 |
 | Path of the Furon | 5.00% | ~9 |
 | Cult Following | 4.00% | ~7 |

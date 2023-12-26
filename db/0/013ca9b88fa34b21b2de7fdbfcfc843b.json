@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8688,
+  "EOS_Progressed": 8692,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9165,6 +9165,11 @@
       "Time": "2023-12-26T22:09:39.7321998+00:00",
       "NumProgressed": 8688,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T23:10:56.5899454+00:00",
+      "NumProgressed": 8692,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9263,9 +9268,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -9399,9 +9404,9 @@
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -9511,22 +9516,22 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8688,
+      "Progressed": 8692,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1305,
+      "Progressed": 1309,
       "Completed": 1050
     }
   ],
@@ -9534,8 +9539,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:09:39.7321994+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:56.5899451+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:02:58.1117432+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:09:39.7322655+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:03:40.8971254+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:56.5899995+00:00"
 }

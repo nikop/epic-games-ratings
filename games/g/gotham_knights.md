@@ -5,35 +5,35 @@ Rating: 4.19 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~39,944 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,162 |
-| Loose Ends | 33.00% | ~26,363 |
-| To the Victor Go the Spoils | 28.00% | ~22,368 |
-| Knighthood | 27.00% | ~21,569 |
+| First Step Into the Knight | 50.00% | ~39,945 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,163 |
+| Loose Ends | 33.00% | ~26,364 |
+| To the Victor Go the Spoils | 28.00% | ~22,369 |
+| Knighthood | 27.00% | ~21,570 |
 | Get ReQ'd | 25.00% | ~19,972 |
-| Whispered Words | 24.00% | ~19,173 |
-| The Batman Family | 22.00% | ~17,575 |
-| Lock and Key | 22.00% | ~17,575 |
-| Something in the Clay | 20.00% | ~15,977 |
-| Quartzer Life Crisis | 20.00% | ~15,977 |
-| Working Hard or Harley Working? | 20.00% | ~15,977 |
-| Unstoppable Force | 20.00% | ~15,977 |
-| Bad Apples in Every Orchard | 20.00% | ~15,977 |
+| Whispered Words | 24.00% | ~19,174 |
+| The Batman Family | 22.00% | ~17,576 |
+| Lock and Key | 22.00% | ~17,576 |
+| Something in the Clay | 20.00% | ~15,978 |
+| Quartzer Life Crisis | 20.00% | ~15,978 |
+| Working Hard or Harley Working? | 20.00% | ~15,978 |
+| Unstoppable Force | 20.00% | ~15,978 |
+| Bad Apples in Every Orchard | 20.00% | ~15,978 |
 | Snow Problem | 19.00% | ~15,179 |
 | The Show Mud Go On | 18.00% | ~14,380 |
 | From Inside Gotham's Walls | 17.00% | ~13,581 |
 | Protector of Gotham | 16.00% | ~12,782 |
-| In Your Element | 15.00% | ~11,983 |
-| Universal Health Scare | 15.00% | ~11,983 |
-| Rock and a Hard Place | 14.00% | ~11,184 |
-| Cooldown | 14.00% | ~11,184 |
-| Voiceless | 14.00% | ~11,184 |
-| Shock Til They Drop | 13.00% | ~10,385 |
-| Seeking Asylum | 13.00% | ~10,385 |
-| End of an Era | 12.00% | ~9,586 |
-| Not On My Watch | 12.00% | ~9,586 |
-| Bulldozed | 12.00% | ~9,586 |
-| Gotham Knight | 12.00% | ~9,586 |
+| In Your Element | 15.00% | ~11,984 |
+| Universal Health Scare | 15.00% | ~11,984 |
+| Rock and a Hard Place | 14.00% | ~11,185 |
+| Cooldown | 14.00% | ~11,185 |
+| Voiceless | 14.00% | ~11,185 |
+| Shock Til They Drop | 13.00% | ~10,386 |
+| Seeking Asylum | 13.00% | ~10,386 |
+| End of an Era | 12.00% | ~9,587 |
+| Not On My Watch | 12.00% | ~9,587 |
+| Bulldozed | 12.00% | ~9,587 |
+| Gotham Knight | 12.00% | ~9,587 |
 | Gotham City Confidential | 11.00% | ~8,788 |
 | Drone You Out | 10.00% | ~7,989 |
 | Out of Their League | 9.00% | ~7,190 |
@@ -42,7 +42,7 @@ Rating: 4.19 (Ranked 947)
 | Family Meeting | 6.00% | ~4,793 |
 | A Worthy Successor | 6.00% | ~4,793 |
 | Expert Crime Fighter | 5.00% | ~3,994 |
-| Dressed to Impress | 4.00% | ~3,195 |
+| Dressed to Impress | 4.00% | ~3,196 |
 | A Momentum Occasion | 3.00% | ~2,397 |
 | Bat Out of Hell | 3.00% | ~2,397 |
 | Practice Makes Perfect | 2.00% | ~1,598 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 947)
 | The Cold, the Bad and the Ugly | 0.30% | ~151 |
 | It's Nice to Be Wanted | 0.20% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,887 (Ranked 104)  
+Progressed: 79,890 (Ranked 104)  
 Completed: 128 (0.16%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 128 (0.16%) (Ranked 285)
 | 2023-12-23 | 79,360 | 127 |
 | 2023-12-24 | 79,555 | 128 |
 | 2023-12-25 | 79,729 | 128 |
-| 2023-12-26 | 79,887 | 128 |
+| 2023-12-26 | 79,890 | 128 |
 ## Awards
 Max (Great Boss Battles): 3,068  (Ranked 99)  
-Sum: 5,243 (Ranked 142)  
+Sum: 5,245 (Ranked 142)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -328,8 +328,8 @@ Diff (max vs sum): -43
 | This game has Diverse Characters | 279 |
 | This game is Extremely Fun | 275 |
 | This game is Great for Beginners | 274 |
+| This game has Quickly Understood Controls | 273 |
 | This game is Relaxing | 272 |
-| This game has Quickly Understood Controls | 271 |
 | This game has Amazing Characters | 269 |
 | This game has Amazing Storytelling | 268 |
 | This game is Highly Recommended | 267 |
@@ -640,4 +640,4 @@ Diff (max vs sum): -43
 | 2023-12-23 | 4.18 | 3,047 | 5,212 |
 | 2023-12-24 | 4.19 | 3,053 | 5,220 |
 | 2023-12-25 | 4.18 | 3,060 | 5,229 |
-| 2023-12-26 | 4.19 | 3,068 | 5,243 |
+| 2023-12-26 | 4.19 | 3,068 | 5,245 |

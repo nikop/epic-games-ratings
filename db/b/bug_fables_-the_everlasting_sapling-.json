@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -234,6 +234,11 @@
       "Time": "2023-12-25T21:09:55.2625052+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T23:10:34.8168354+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -283,7 +288,7 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -291,7 +296,7 @@
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -347,9 +352,9 @@
       "ID": "BFT_CH6HB",
       "SetID": "7o7kd30",
       "Name": "All Geared Up",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "BFT_CH7",
@@ -363,9 +368,9 @@
       "ID": "BFT_CH7HB",
       "SetID": "7o7kd30",
       "Name": "The End",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "BFT_CHOMP",
@@ -411,7 +416,7 @@
       "ID": "BFT_KABBU",
       "SetID": "7o7kd30",
       "Name": "Good Deed",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 65,
       "UsersEstimate": 12
     },
@@ -443,9 +448,9 @@
       "ID": "BFT_MUSIC",
       "SetID": "7o7kd30",
       "Name": "Music Collector",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_PLAT",
@@ -484,7 +489,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -492,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-26T22:09:21.899971+00:00",
+  "LastChanged_Achievements": "2023-12-26T23:10:34.8168352+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.5653285+00:00",
-  "LastUpdate_Ratings": "2023-12-26T21:59:16.9623792+00:00",
-  "LastUpdate_Achievements": "2023-12-26T22:09:21.8999937+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:00:27.2479214+00:00",
+  "LastUpdate_Achievements": "2023-12-26T23:10:34.8168555+00:00"
 }

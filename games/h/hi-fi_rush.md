@@ -7,23 +7,23 @@ Rating: 4.90 (Ranked 8)
 | ---- | ---------- | ----- |
 | Start with a bang! | 49.00% | ~6,100 |
 | Feeling the beat! | 49.00% | ~6,100 |
-| You can pet the cat! | 44.00% | ~5,477 |
-| Who put gears in there? | 35.00% | ~4,357 |
-| Cream of the Crop | 31.00% | ~3,859 |
-| Thanks for the free chip, Peppermint! | 30.00% | ~3,734 |
+| You can pet the cat! | 44.00% | ~5,478 |
+| Who put gears in there? | 35.00% | ~4,358 |
+| Cream of the Crop | 31.00% | ~3,860 |
+| Thanks for the free chip, Peppermint! | 30.00% | ~3,735 |
 | You got this, Peppermint? | 25.00% | ~3,112 |
-| Perfect Parry | 23.00% | ~2,863 |
-| Alright, that felt AWESOME! | 23.00% | ~2,863 |
+| Perfect Parry | 23.00% | ~2,864 |
+| Alright, that felt AWESOME! | 23.00% | ~2,864 |
 | I play my own way! | 20.00% | ~2,490 |
 | This will cost you big time | 18.00% | ~2,241 |
 | Uh, they were broken when I got here | 18.00% | ~2,241 |
 | Z-shielding's got nothing on us! | 16.00% | ~1,992 |
 | Kissing the sky! | 16.00% | ~1,992 |
-| Does that say weakpoint? | 15.00% | ~1,867 |
+| Does that say weakpoint? | 15.00% | ~1,868 |
 | Whoa! There's ANOTHER health bar!? | 14.00% | ~1,743 |
 | The Negotiator | 12.00% | ~1,494 |
-| You must like calling me in, Chai | 11.00% | ~1,369 |
-| I look cool. But I can look COOLER. | 11.00% | ~1,369 |
+| You must like calling me in, Chai | 11.00% | ~1,370 |
+| I look cool. But I can look COOLER. | 11.00% | ~1,370 |
 | Headliner | 10.00% | ~1,245 |
 | Out in a puff of smoke | 10.00% | ~1,245 |
 | Time to pay up! | 9.00% | ~1,120 |
@@ -36,9 +36,9 @@ Rating: 4.90 (Ranked 8)
 | Beat-hit mania | 5.00% | ~622 |
 | That's a lot of junk metal… | 5.00% | ~622 |
 | I told you I'd be fine, Peppermint! | 4.00% | ~498 |
-| Chip-tuned | 3.00% | ~373 |
-| Wanna hear my playlist? | 3.00% | ~373 |
-| Check out my moves! | 3.00% | ~373 |
+| Chip-tuned | 3.00% | ~374 |
+| Wanna hear my playlist? | 3.00% | ~374 |
+| Check out my moves! | 3.00% | ~374 |
 | We're Jammin' | 2.00% | ~249 |
 | I hit things with a guitar really well. | 2.00% | ~249 |
 | You ever parry a volcano? | 2.00% | ~249 |
@@ -77,7 +77,7 @@ Rating: 4.90 (Ranked 8)
 | Voices from within | 0.10% | ~11 |
 | Low budget finish | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,448 (Ranked 172)  
+Progressed: 12,450 (Ranked 172)  
 Completed: 8 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 8 (0.06%) (Ranked 327)
 | 2023-12-23 | 11,217 | 8 |
 | 2023-12-24 | 11,697 | 8 |
 | 2023-12-25 | 12,076 | 8 |
-| 2023-12-26 | 12,448 | 8 |
+| 2023-12-26 | 12,450 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

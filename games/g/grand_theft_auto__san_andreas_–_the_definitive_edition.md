@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 537)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,764 |
-| Pay 'n' Spray | 50.00% | ~8,496 |
-| All Dressed Up for San Fierro | 25.00% | ~4,248 |
-| The American Dream | 18.00% | ~3,059 |
-| School's Out | 18.00% | ~3,059 |
-| Smooth Moves | 16.00% | ~2,719 |
-| Today Was a Good Day | 15.00% | ~2,549 |
-| What happens in Las Venturas... | 14.00% | ~2,379 |
-| Horror of the Santa Maria | 10.00% | ~1,699 |
-| Liberty City State of Mind | 9.00% | ~1,529 |
-| Original Gangster | 8.00% | ~1,359 |
-| With Extra Dip | 7.00% | ~1,189 |
-| The End of the Line | 7.00% | ~1,189 |
+| Getting Started | 81.00% | ~13,771 |
+| Pay 'n' Spray | 50.00% | ~8,500 |
+| All Dressed Up for San Fierro | 25.00% | ~4,250 |
+| The American Dream | 18.00% | ~3,060 |
+| School's Out | 18.00% | ~3,060 |
+| Smooth Moves | 16.00% | ~2,720 |
+| Today Was a Good Day | 15.00% | ~2,550 |
+| What happens in Las Venturas... | 14.00% | ~2,380 |
+| Horror of the Santa Maria | 10.00% | ~1,700 |
+| Liberty City State of Mind | 9.00% | ~1,530 |
+| Original Gangster | 8.00% | ~1,360 |
+| With Extra Dip | 7.00% | ~1,190 |
+| The End of the Line | 7.00% | ~1,190 |
 | Saviour | 6.00% | ~1,020 |
 | Rescue a Kitten Too? | 5.00% | ~850 |
 | They Can’t Stop All of Us | 4.00% | ~680 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 537)
 | ...Here we go again | 0.50% | ~85 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,992 (Ranked 159)  
-Completed: 64 (0.38%) (Ranked 235)  
+Progressed: 17,001 (Ranked 159)  
+Completed: 64 (0.38%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 64 (0.38%) (Ranked 235)
 | 2023-12-23 | 16,429 | 62 |
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
-| 2023-12-26 | 16,992 | 64 |
+| 2023-12-26 | 17,001 | 64 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 216)  
 Sum: 793 (Ranked 286)  
