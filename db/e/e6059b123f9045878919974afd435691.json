@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3615,9 +3615,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 341
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3758,8 +3758,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:33.4278456+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:40.4426741+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:09.9309727+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:33.4278994+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:51.2329472+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:40.44273+00:00"
 }

@@ -6,48 +6,48 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,769 |
-| Gun Fu | 8.00% | ~78,513 |
-| The Fool | 7.00% | ~68,699 |
-| Right Back At Ya | 6.00% | ~58,885 |
-| The Lovers | 6.00% | ~58,885 |
+| V for Vendetta | 12.00% | ~117,771 |
+| Gun Fu | 8.00% | ~78,514 |
+| The Fool | 7.00% | ~68,700 |
+| Right Back At Ya | 6.00% | ~58,886 |
+| The Lovers | 6.00% | ~58,886 |
 | Full Body Conversion | 5.00% | ~49,071 |
 | True Soldier | 5.00% | ~49,071 |
-| Christmas Tree Attack | 4.00% | ~39,256 |
-| Stanislavski's Method | 4.00% | ~39,256 |
-| The Hermit | 4.00% | ~39,256 |
-| The Wheel of Fortune | 4.00% | ~39,256 |
-| All the President's Men | 4.00% | ~4,401 |
-| Arachnophobia | 4.00% | ~4,401 |
-| Master Crafter | 3.00% | ~29,442 |
-| The Quick and the Dead | 3.00% | ~29,442 |
-| Life of the Road | 3.00% | ~29,442 |
-| The High Priestess | 3.00% | ~29,442 |
-| True Warrior | 3.00% | ~29,442 |
-| Legend of The Afterlife | 3.00% | ~29,442 |
-| Relic Ruler | 3.00% | ~3,301 |
-| Bushido and Chill | 2.00% | ~19,628 |
-| To Protect and Serve | 2.00% | ~19,628 |
-| I Am The Law | 2.00% | ~19,628 |
-| The World | 2.00% | ~19,628 |
-| Two Heads, One Bullet | 2.00% | ~19,628 |
-| Judy vs Night City | 2.00% | ~19,628 |
+| Christmas Tree Attack | 4.00% | ~39,257 |
+| Stanislavski's Method | 4.00% | ~39,257 |
+| The Hermit | 4.00% | ~39,257 |
+| The Wheel of Fortune | 4.00% | ~39,257 |
+| All the President's Men | 4.00% | ~4,402 |
+| Arachnophobia | 4.00% | ~4,402 |
+| Master Crafter | 3.00% | ~29,443 |
+| The Quick and the Dead | 3.00% | ~29,443 |
+| Life of the Road | 3.00% | ~29,443 |
+| The High Priestess | 3.00% | ~29,443 |
+| True Warrior | 3.00% | ~29,443 |
+| Legend of The Afterlife | 3.00% | ~29,443 |
+| Relic Ruler | 3.00% | ~3,302 |
+| Bushido and Chill | 2.00% | ~19,629 |
+| To Protect and Serve | 2.00% | ~19,629 |
+| I Am The Law | 2.00% | ~19,629 |
+| The World | 2.00% | ~19,629 |
+| Two Heads, One Bullet | 2.00% | ~19,629 |
+| Judy vs Night City | 2.00% | ~19,629 |
 | Spin Doctor | 2.00% | ~2,201 |
 | To Bad Decisions! | 1.00% | ~9,814 |
 | The Wandering Fool | 1.00% | ~9,814 |
 | Ten out of Ten | 1.00% | ~9,814 |
 | The Sun | 1.00% | ~9,814 |
-| King of Wands | 1.00% | ~1,100 |
-| Dirty Deeds | 1.00% | ~1,100 |
-| Easy Come, Easy Go | 1.00% | ~1,100 |
+| King of Wands | 1.00% | ~1,101 |
+| Dirty Deeds | 1.00% | ~1,101 |
+| Easy Come, Easy Go | 1.00% | ~1,101 |
 | The Star | 0.90% | ~8,833 |
 | Breathtaking | 0.80% | ~7,851 |
 | Autojock | 0.70% | ~6,870 |
 | The APB is Not Enough | 0.70% | ~770 |
 | Judgement Day | 0.70% | ~770 |
 | The Tower | 0.70% | ~770 |
-| Must Be Rats | 0.60% | ~5,888 |
-| Temperance | 0.60% | ~5,888 |
+| Must Be Rats | 0.60% | ~5,889 |
+| Temperance | 0.60% | ~5,889 |
 | King of Pentacles | 0.60% | ~660 |
 | King of Swords | 0.60% | ~660 |
 | City Lights | 0.30% | ~2,944 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,412 (Ranked 16)  
+Progressed: 981,429 (Ranked 16)  
 Completed: 2,975 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 2,975 (0.30%) (Ranked 253)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,412 | 2,975 |
+| 2023-12-26 | 981,429 | 2,975 |
 ## Awards
 Max (Character Customization): 127,442  (Ranked 8)  
-Sum: 443,750 (Ranked 9)  
+Sum: 443,889 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -337,7 +337,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 27,171 |
 | This game is Highly Recommended | 25,975 |
 | This game has Amazing Storytelling | 25,542 |
-| This game is Extremely Fun | 25,184 |
+| This game is Extremely Fun | 25,323 |
 | This game has Amazing Characters | 25,134 |
 | This game is Relaxing | 24,313 |
 | This game has Quickly Understood Controls | 24,210 |
@@ -686,3 +686,4 @@ Diff (max vs sum): -1
 | 2023-12-23 | 4.66 | - | 126,708 | 439,568 |
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
+| 2023-12-26 | 4.66 | - | 127,442 | 443,889 |

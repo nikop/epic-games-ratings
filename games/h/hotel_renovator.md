@@ -1,29 +1,29 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.34 (Ranked 816)  
+Rating: 4.33 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~979 |
+| Good start | 75.00% | ~980 |
 | And so it begins | 72.00% | ~940 |
-| No pressure | 69.00% | ~900 |
-| Memento | 60.00% | ~783 |
+| No pressure | 69.00% | ~901 |
+| Memento | 60.00% | ~784 |
 | Let there be light | 57.00% | ~744 |
 | I think you dropped this | 53.00% | ~692 |
 | Soulmate? | 52.00% | ~679 |
-| Excellent service | 47.00% | ~613 |
-| Roll with it | 45.00% | ~587 |
-| Humble beginnings | 43.00% | ~561 |
-| Love is in the air | 42.00% | ~548 |
+| Excellent service | 47.00% | ~614 |
+| Roll with it | 45.00% | ~588 |
+| Humble beginnings | 43.00% | ~562 |
+| Love is in the air | 42.00% | ~549 |
 | Fine, I'll do it myself | 41.00% | ~535 |
 | Moving up | 40.00% | ~522 |
 | No need to call anyone | 38.00% | ~496 |
 | Big fortune | 31.00% | ~405 |
-| Still more work ahead | 29.00% | ~378 |
-| Aesop's fable | 27.00% | ~352 |
-| Hotel sleuthing | 27.00% | ~352 |
-| Kaboom | 26.00% | ~339 |
+| Still more work ahead | 29.00% | ~379 |
+| Aesop's fable | 27.00% | ~353 |
+| Kaboom | 26.00% | ~340 |
+| Hotel sleuthing | 26.00% | ~340 |
 | Nearly there | 25.00% | ~326 |
 | Broken heart | 22.00% | ~287 |
 | Island boy | 21.00% | ~274 |
@@ -33,7 +33,7 @@ Rating: 4.34 (Ranked 816)
 | King of hospitality | 11.00% | ~144 |
 | Top spot in town | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,305 (Ranked 263)  
+Progressed: 1,306 (Ranked 263)  
 Completed: 18 (1.38%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 18 (1.38%) (Ranked 153)
 | 2023-12-23 | 1,278 | 18 |
 | 2023-12-24 | 1,293 | 18 |
 | 2023-12-25 | 1,304 | 18 |
-| 2023-12-26 | 1,305 | 18 |
+| 2023-12-26 | 1,306 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -270,3 +270,4 @@ Completed: 18 (1.38%) (Ranked 153)
 | 2023-12-21 | 4.34 | 0 | 0 |
 | 2023-12-22 | 4.33 | 0 | 0 |
 | 2023-12-23 | 4.34 | 0 | 0 |
+| 2023-12-26 | 4.33 | 0 | 0 |

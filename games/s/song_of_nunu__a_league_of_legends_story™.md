@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 564)  
+Rating: 4.52 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,12 +11,12 @@ Rating: 4.52 (Ranked 564)
 | Notai Notes | 66.00% | ~884 |
 | Blue Dreams | 65.00% | ~870 |
 | He's Famous! | 65.00% | ~870 |
+| Cutie Poro | 65.00% | ~870 |
 | Krugmazing | 64.00% | ~857 |
-| Cutie Poro | 64.00% | ~857 |
 | Moneyball | 60.00% | ~803 |
 | The Fire Below the Mountain | 60.00% | ~803 |
+| No Bites | 55.00% | ~736 |
 | Iceborn | 55.00% | ~736 |
-| No Bites | 54.00% | ~723 |
 | Boom Things | 53.00% | ~710 |
 | Tear of Freedom | 52.00% | ~696 |
 | My Darkest Day | 48.00% | ~643 |
@@ -33,8 +33,8 @@ Rating: 4.52 (Ranked 564)
 | Boosted! | 39.00% | ~522 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~522 |
 | True Legends | 38.00% | ~509 |
+| It Is Not Over | 36.00% | ~482 |
 | Bullseye | 36.00% | ~482 |
-| It Is Not Over | 35.00% | ~469 |
 | On The Rocks | 34.00% | ~455 |
 | Never Gets Old | 32.00% | ~428 |
 | Snowy Poro | 31.00% | ~415 |

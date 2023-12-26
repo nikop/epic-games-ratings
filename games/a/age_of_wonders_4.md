@@ -5,10 +5,10 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~559 |
-| Realm Estate | 8.00% | ~497 |
-| A Wonderful Discovery | 8.00% | ~497 |
-| Walls Cannot Stop Us | 8.00% | ~497 |
+| Secret Technique | 9.00% | ~560 |
+| Realm Estate | 8.00% | ~498 |
+| A Wonderful Discovery | 8.00% | ~498 |
+| Walls Cannot Stop Us | 8.00% | ~498 |
 | From Friends to Family | 7.00% | ~435 |
 | Bone Peddler | 6.00% | ~373 |
 | Full Ascension | 5.00% | ~311 |
@@ -20,10 +20,10 @@ Rating: 4.62 (Ranked 374)
 | Seat of Power | 4.00% | ~249 |
 | In a Liege of Your Own | 4.00% | ~249 |
 | Intimidation Tactics | 4.00% | ~249 |
-| Return of the Wizard King | 3.00% | ~186 |
-| Digging for Treasure | 3.00% | ~186 |
-| My Final Form | 3.00% | ~186 |
-| Freed Lands of Manuhari | 3.00% | ~186 |
+| Return of the Wizard King | 3.00% | ~187 |
+| Digging for Treasure | 3.00% | ~187 |
+| My Final Form | 3.00% | ~187 |
+| Freed Lands of Manuhari | 3.00% | ~187 |
 | Enchanted Archipelago | 2.00% | ~124 |
 | Crimson Caldera | 2.00% | ~124 |
 | Preparation Is Everything | 2.00% | ~124 |
@@ -40,6 +40,7 @@ Rating: 4.62 (Ranked 374)
 | Lord of Chaos | 1.00% | ~62 |
 | Arch Mage | 1.00% | ~62 |
 | The Creator | 1.00% | ~62 |
+| The Goddess of Nature | 1.00% | ~62 |
 | Eternal Lord | 1.00% | ~62 |
 | The Eternal Court | 1.00% | ~62 |
 | Blood of the Dragon | 1.00% | ~62 |
@@ -47,7 +48,6 @@ Rating: 4.62 (Ranked 374)
 | Seal the Deal | 1.00% | ~62 |
 | A Conqueror's Cohort | 1.00% | ~62 |
 | Dawn of the Dread | 1.00% | ~62 |
-| The Goddess of Nature | 0.90% | ~56 |
 | I've Got Everything I Need Right Here | 0.80% | ~50 |
 | Manufactured War | 0.80% | ~50 |
 | Pruning for Progress | 0.80% | ~50 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,216 (Ranked 193)  
+Progressed: 6,220 (Ranked 193)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-23 | 6,077 | 7 |
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
-| 2023-12-26 | 6,216 | 7 |
+| 2023-12-26 | 6,220 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 478)  
 Sum: 136 (Ranked 438)  

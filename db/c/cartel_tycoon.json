@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2986,6 +2986,11 @@
       "Time": "2023-12-26T00:03:08.9320034+00:00",
       "NumProgressed": 855,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T01:47:04.9459225+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -2997,7 +3002,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "cool-shirts",
@@ -3037,7 +3042,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "hire-lieutenant",
@@ -3045,7 +3050,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "kill-lieutenants",
@@ -3061,7 +3066,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "play-at-night",
@@ -3069,7 +3074,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "product-profit",
@@ -3133,7 +3138,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "use-submarine",
@@ -3148,15 +3153,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:03:08.9320028+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:47:04.9459222+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:08.0605065+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:03:08.9320333+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:49.1823751+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:47:04.9459545+00:00"
 }

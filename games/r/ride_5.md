@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 47.00% | ~1,404 |
-| First Love | 44.00% | ~1,314 |
-| Clean Race | 43.00% | ~1,284 |
+| First Love | 44.00% | ~1,315 |
+| Clean Race | 43.00% | ~1,285 |
 | Hear That Roar! | 41.00% | ~1,225 |
 | Rivals to the End | 30.00% | ~896 |
-| Bitter Rivalry | 29.00% | ~866 |
-| Champagne Spray | 27.00% | ~806 |
+| Bitter Rivalry | 29.00% | ~867 |
+| Champagne Spray | 27.00% | ~807 |
 | We're Going to Need a Bigger Garage | 26.00% | ~777 |
 | Quick Pit Stop | 21.00% | ~627 |
-| I Want One Too! | 20.00% | ~597 |
+| I Want One Too! | 20.00% | ~598 |
 | Restored and Ready | 19.00% | ~568 |
 | Legendary!!! | 19.00% | ~568 |
 | Go-Faster Stripes | 17.00% | ~508 |
@@ -23,8 +23,8 @@
 | Stamina Star | 8.00% | ~239 |
 | Evangelist | 6.00% | ~179 |
 | Make It Your Own! | 5.00% | ~149 |
-| Cherry Blossom and Temples | 4.00% | ~119 |
-| The Road to Liberty | 4.00% | ~119 |
+| Cherry Blossom and Temples | 4.00% | ~120 |
+| The Road to Liberty | 4.00% | ~120 |
 | Spoilt for Choice | 3.00% | ~90 |
 | La Dolce Vita | 3.00% | ~90 |
 | Romantic Races | 3.00% | ~90 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,987 (Ranked 221)  
+Progressed: 2,988 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,4 +170,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 2,914 | 0 |
 | 2023-12-24 | 2,955 | 0 |
 | 2023-12-25 | 2,986 | 0 |
-| 2023-12-26 | 2,987 | 0 |
+| 2023-12-26 | 2,988 | 0 |

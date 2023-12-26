@@ -597,9 +597,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6216,
+  "EOS_Progressed": 6220,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9177,6 +9177,11 @@
       "Time": "2023-12-26T00:03:18.9382489+00:00",
       "NumProgressed": 6216,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-26T01:47:15.3328893+00:00",
+      "NumProgressed": 6220,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9236,7 +9241,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "16",
@@ -9282,9 +9287,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "21",
@@ -9300,7 +9305,7 @@
       "Name": "Realm Estate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "23",
@@ -9308,7 +9313,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "24",
@@ -9316,7 +9321,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "25",
@@ -9324,7 +9329,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "26",
@@ -9340,7 +9345,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "28",
@@ -9388,7 +9393,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "33",
@@ -9588,7 +9593,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "52",
@@ -9667,13 +9672,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6216,
+      "Progressed": 6220,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6216,
+      "Progressed": 6220,
       "Completed": 7
     }
   ],
@@ -9681,8 +9686,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-24T17:00:05.2281347+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:03:18.9382485+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:47:15.332889+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:12.9897676+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:03:18.9383337+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:55.8796915+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:47:15.3329605+00:00"
 }

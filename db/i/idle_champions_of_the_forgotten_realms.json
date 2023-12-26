@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9055,10 +9055,10 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 244654,
-  "EOS_Completed": 2562,
-  "EOS_NewPlayers": 2807,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 244682,
+  "EOS_Completed": 2564,
+  "EOS_NewPlayers": 2818,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37250,6 +37250,11 @@
       "Time": "2023-12-26T00:09:36.6819978+00:00",
       "NumProgressed": 244654,
       "NumCompleted": 2562
+    },
+    {
+      "Time": "2023-12-26T01:53:43.9377433+00:00",
+      "NumProgressed": 244682,
+      "NumCompleted": 2564
     }
   ],
   "TotalAchievements": 546,
@@ -41549,7 +41554,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "objective_completed_1558",
@@ -41628,21 +41633,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 210928,
-      "Completed": 4063
+      "Progressed": 210956,
+      "Completed": 4064
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 244654,
-      "Completed": 2562
+      "Progressed": 244682,
+      "Completed": 2564
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-25T23:57:31.683158+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:36.6819973+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:43.9377431+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:57:31.6831586+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:36.6842559+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:41:11.311173+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:43.9401994+00:00"
 }

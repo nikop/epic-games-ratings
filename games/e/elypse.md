@@ -8,11 +8,11 @@
 | A bottomless pit | 82.00% | ~94 |
 | Pigeon | 78.00% | ~90 |
 | Baited | 66.00% | ~76 |
-| "Swoosh" | 57.00% | ~66 |
+| "Swoosh" | 58.00% | ~67 |
 | The light at the end of the tunnel | 57.00% | ~66 |
 | Masochistic | 51.00% | ~59 |
+| Soft skin | 50.00% | ~58 |
 | Splash! | 50.00% | ~58 |
-| Soft skin | 49.00% | ~56 |
 | Squid game | 41.00% | ~47 |
 | Rock Solid | 33.00% | ~38 |
 | Sensitive soul | 33.00% | ~38 |

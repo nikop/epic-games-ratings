@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 496)  
+Rating: 4.56 (Ranked 495)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,6 +27,7 @@ Rating: 4.56 (Ranked 496)
 | Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat 25 Mozis | 0.50% | ~11 |
 | Kitchen Ready To Cook | 0.50% | ~11 |
+| Complete the Chefs Book | 0.40% | ~9 |
 | Complete Elder Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Fix the Travellers Wagon | 0.40% | ~9 |
@@ -35,14 +36,13 @@ Rating: 4.56 (Ranked 496)
 | Defeat the Stalker Queen | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
 | Complete Arena Faction | 0.30% | ~7 |
-| Complete the Chefs Book | 0.30% | ~7 |
 | Complete Ranger Faction | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | King of Kings | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,281 (Ranked 232)  
+Progressed: 2,282 (Ranked 232)  
 Completed: 12 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 12 (0.53%) (Ranked 214)
 | 2023-12-23 | 2,274 | 12 |
 | 2023-12-24 | 2,279 | 12 |
 | 2023-12-25 | 2,281 | 12 |
+| 2023-12-26 | 2,282 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

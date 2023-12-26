@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2520,6 +2520,11 @@
       "Time": "2023-12-25T18:09:42.0607533+00:00",
       "NumProgressed": 718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T01:53:39.3421187+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2635,15 +2640,15 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2755,7 +2760,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2771,7 +2776,7 @@
       "Name": "The Motivation",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2795,7 +2800,7 @@
       "Name": "Opportunities",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2819,7 +2824,7 @@
       "Name": "Vengeance",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2835,7 +2840,7 @@
       "Name": "Sorrow",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2851,7 +2856,7 @@
       "Name": "Such is War!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -2899,7 +2904,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2915,15 +2920,15 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_KILL_ENV",
       "SetID": "1j25agn",
       "Name": "It\u0027s Just an Accident",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -3002,15 +3007,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:32.4128219+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:39.3421172+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-26T00:00:14.7008579+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:32.412864+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:43:58.3876827+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:39.3421775+00:00"
 }

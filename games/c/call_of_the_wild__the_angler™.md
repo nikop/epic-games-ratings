@@ -16,9 +16,9 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 5.00% | ~378 |
 | Things that go Splash in the Night | 5.00% | ~378 |
 | Goldfish? | 4.00% | ~302 |
+| License to Gill | 3.00% | ~227 |
 | Going for Gold | 3.00% | ~227 |
 | School's Out for Summer | 3.00% | ~227 |
-| License to Gill | 2.00% | ~151 |
 | I'm Hooked! | 2.00% | ~151 |
 | Diamond in the Rough | 1.00% | ~76 |
 | I'm the Captain Now | 0.80% | ~60 |

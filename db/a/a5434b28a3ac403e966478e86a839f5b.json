@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 766,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2630,6 +2630,11 @@
       "Time": "2023-12-25T21:08:51.2546708+00:00",
       "NumProgressed": 764,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-26T01:52:16.8044906+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2650,7 +2655,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_eou2",
@@ -2674,7 +2679,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_eou5",
@@ -2682,7 +2687,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou6",
@@ -2690,7 +2695,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_eou7",
@@ -2698,7 +2703,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_eou8",
@@ -2706,7 +2711,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_mg2",
@@ -2714,7 +2719,7 @@
       "Name": "Disc Collector",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_n64",
@@ -2722,7 +2727,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_rogue",
@@ -2730,7 +2735,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_xatrix",
@@ -2745,14 +2750,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 766,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:08:12.1391711+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:52:16.8044904+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:58:57.2484671+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:08:12.1392083+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:38.5539715+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:52:16.8045108+00:00"
 }

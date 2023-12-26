@@ -529,9 +529,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45229,
+  "EOS_Progressed": 45235,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16449,6 +16449,11 @@
       "Time": "2023-12-26T00:04:58.7176952+00:00",
       "NumProgressed": 45229,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T01:48:54.4114646+00:00",
+      "NumProgressed": 45235,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16508,7 +16513,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16516,7 +16521,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16612,7 +16617,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "CUFF_ATTACK",
@@ -16620,7 +16625,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16676,7 +16681,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16716,7 +16721,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "MAGIC_IVY",
@@ -16796,7 +16801,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "SPRING_ALL",
@@ -16883,22 +16888,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45229,
+      "Progressed": 45235,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10066,
-      "Completed": 10066
+      "Progressed": 10072,
+      "Completed": 10072
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-23T08:57:54.6298394+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:04:58.7176949+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:48:54.4114643+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:08.184525+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:04:58.7177956+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:49.4565898+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:48:54.4115823+00:00"
 }

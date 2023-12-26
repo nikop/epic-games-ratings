@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -961,6 +961,11 @@
       "Time": "2023-12-25T23:04:02.5276752+00:00",
       "NumProgressed": 241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T01:47:48.8525398+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -972,7 +977,7 @@
       "Name": "Randomized",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1100,7 +1105,7 @@
       "Name": "Scholar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -1202,9 +1207,9 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1524,7 +1529,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1586,9 +1591,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 138
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1650,9 +1655,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1763,7 +1768,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 0
     }
   ],
@@ -1771,8 +1776,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:03:54.3466292+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:47:48.8525396+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:58:04.2200656+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:03:54.3467115+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:41:44.1457804+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:47:48.8526281+00:00"
 }

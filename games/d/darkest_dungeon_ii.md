@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 10.00% | ~473 |
-| Lost and Found | 6.00% | ~284 |
-| This Belongs in a Museum | 5.00% | ~6,493 |
-| Autodidact | 5.00% | ~6,493 |
+| Malpractice Assurance | 10.00% | ~475 |
+| Lost and Found | 6.00% | ~285 |
+| This Belongs in a Museum | 5.00% | ~6,494 |
+| Autodidact | 5.00% | ~6,494 |
 | This guy... again? | 5.00% | ~237 |
 | Serenity Now! | 4.00% | ~5,195 |
 | Creep and Sleep | 4.00% | ~5,195 |
@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 4.00% | ~5,195 |
 | Overdue Notice | 4.00% | ~5,195 |
 | Escape from the Black Hole | 4.00% | ~5,195 |
-| Ploughshares to Swords | 4.00% | ~189 |
-| Bloody Graduation | 4.00% | ~189 |
+| Ploughshares to Swords | 4.00% | ~190 |
+| Bloody Graduation | 4.00% | ~190 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,896 |
 | It Rings a Bell | 3.00% | ~3,896 |
 | Not Today! | 3.00% | ~3,896 |
@@ -32,27 +32,27 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 3.00% | ~3,896 |
 | Nope | 3.00% | ~3,896 |
 | Friends 'Til the End | 3.00% | ~142 |
-| Resurrection | 2.00% | ~2,597 |
-| Unleash Hell | 2.00% | ~2,597 |
-| Funny Guy | 2.00% | ~2,597 |
-| Long Live the King | 2.00% | ~2,597 |
-| Wyrdly Reconstructed | 2.00% | ~2,597 |
-| Boxcar Kid | 2.00% | ~2,597 |
-| Unfulfilled Desires | 2.00% | ~2,597 |
-| Hope Rekindled | 2.00% | ~2,597 |
-| Predator | 2.00% | ~2,597 |
-| Dissector | 2.00% | ~2,597 |
-| Banishment | 2.00% | ~2,597 |
-| Deprogramming | 2.00% | ~2,597 |
-| Now Stay Dead | 2.00% | ~2,597 |
-| Reverse Banditry | 2.00% | ~2,597 |
-| Spelunker | 2.00% | ~2,597 |
-| Ramble On | 2.00% | ~2,597 |
-| A Clear Conscience | 2.00% | ~2,597 |
-| When You Want Something Done Right | 2.00% | ~2,597 |
-| Utopia | 2.00% | ~2,597 |
-| Unshackled | 2.00% | ~2,597 |
-| Road Trip | 2.00% | ~2,597 |
+| Resurrection | 2.00% | ~2,598 |
+| Unleash Hell | 2.00% | ~2,598 |
+| Funny Guy | 2.00% | ~2,598 |
+| Long Live the King | 2.00% | ~2,598 |
+| Wyrdly Reconstructed | 2.00% | ~2,598 |
+| Boxcar Kid | 2.00% | ~2,598 |
+| Unfulfilled Desires | 2.00% | ~2,598 |
+| Hope Rekindled | 2.00% | ~2,598 |
+| Predator | 2.00% | ~2,598 |
+| Dissector | 2.00% | ~2,598 |
+| Banishment | 2.00% | ~2,598 |
+| Deprogramming | 2.00% | ~2,598 |
+| Now Stay Dead | 2.00% | ~2,598 |
+| Reverse Banditry | 2.00% | ~2,598 |
+| Spelunker | 2.00% | ~2,598 |
+| Ramble On | 2.00% | ~2,598 |
+| A Clear Conscience | 2.00% | ~2,598 |
+| When You Want Something Done Right | 2.00% | ~2,598 |
+| Utopia | 2.00% | ~2,598 |
+| Unshackled | 2.00% | ~2,598 |
+| Road Trip | 2.00% | ~2,598 |
 | This Looks Familiar | 1.00% | ~1,299 |
 | Ichthyophobic | 1.00% | ~1,299 |
 | No More Mouths to Feed | 1.00% | ~1,299 |
@@ -69,9 +69,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.60% | ~779 |
 | Triage | 0.60% | ~779 |
 | No Mercy | 0.60% | ~28 |
-| A Life Well Lived | 0.40% | ~519 |
-| The World As It Was | 0.40% | ~519 |
-| Bacon Bits | 0.40% | ~519 |
+| A Life Well Lived | 0.40% | ~520 |
+| The World As It Was | 0.40% | ~520 |
+| Bacon Bits | 0.40% | ~520 |
 | Eidetic | 0.30% | ~390 |
 | Battle Hardened | 0.30% | ~14 |
 | Maître De La Lame | 0.30% | ~14 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,864 (Ranked 87)  
+Progressed: 129,878 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-23 | 129,448 | 3 |
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
-| 2023-12-26 | 129,864 | 3 |
+| 2023-12-26 | 129,878 | 3 |
 ## Awards
 Max (Character Customization): 7,875  (Ranked 50)  
-Sum: 21,096 (Ranked 58)  
+Sum: 21,099 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,492 |
 | This game is Extremely Fun | 1,491 |
 | This game has Unique Visuals | 1,422 |
-| This game has Amazing Storytelling | 1,409 |
+| This game has Amazing Storytelling | 1,412 |
 | This game has Quickly Understood Controls | 1,380 |
 | This game has a Creative Community | 1,050 |
 | This game has Obsessive Gameplay | 585 |
@@ -680,3 +680,4 @@ Diff (max vs sum): -8
 | 2023-12-23 | 4.68 | - | 7,851 | 21,001 |
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
+| 2023-12-26 | 4.68 | - | 7,875 | 21,099 |

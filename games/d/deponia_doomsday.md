@@ -1,14 +1,14 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 86.00% | ~432 |
 | And again, and again, and... | 64.00% | ~321 |
+| Burn, Elysium, burn! | 63.00% | ~316 |
 | Kuvaq Minigame-Master | 62.00% | ~311 |
-| Burn, Elysium, burn! | 62.00% | ~311 |
 | FunScore | 55.00% | ~276 |
 | Funtime's over | 53.00% | ~266 |
 | Chunky | 50.00% | ~251 |

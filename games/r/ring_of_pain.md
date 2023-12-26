@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 457)  
+Rating: 4.58 (Ranked 456)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,14 +39,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.60% | ~1,450 |
 | Toxic | 0.60% | ~1,450 |
 | Shadow Walker | 0.60% | ~1,450 |
-| Consecutive Curses | 0.50% | ~1,208 |
-| Who To Trust? | 0.50% | ~1,208 |
-| Just Chilling | 0.50% | ~1,208 |
-| Save Our Souls | 0.50% | ~1,208 |
-| Destroy Your Fears | 0.50% | ~1,208 |
-| New Perspectives | 0.50% | ~1,208 |
-| Flesh Wound | 0.50% | ~1,208 |
-| Shapeshifting | 0.50% | ~1,208 |
+| Consecutive Curses | 0.50% | ~1,209 |
+| Who To Trust? | 0.50% | ~1,209 |
+| Just Chilling | 0.50% | ~1,209 |
+| Save Our Souls | 0.50% | ~1,209 |
+| Destroy Your Fears | 0.50% | ~1,209 |
+| New Perspectives | 0.50% | ~1,209 |
+| Flesh Wound | 0.50% | ~1,209 |
+| Shapeshifting | 0.50% | ~1,209 |
 | Expensive Look | 0.50% | ~16 |
 | What Doesn't Kill You | 0.50% | ~16 |
 | Thank You, Friend | 0.40% | ~967 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,697 (Ranked 69)  
+Progressed: 241,701 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-23 | 241,547 | 301 |
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
-| 2023-12-26 | 241,697 | 302 |
+| 2023-12-26 | 241,701 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

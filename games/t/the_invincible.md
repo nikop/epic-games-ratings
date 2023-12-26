@@ -1,18 +1,18 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.52 (Ranked 564)  
+Rating: 4.52 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 66.00% | ~662 |
-| The Teleprobe | 51.00% | ~512 |
-| The City | 46.00% | ~461 |
-| The field base | 41.00% | ~411 |
-| The Alliance | 35.00% | ~351 |
-| Survivors | 35.00% | ~351 |
-| The Condor | 33.00% | ~331 |
-| The End | 33.00% | ~331 |
+| The Camp | 66.00% | ~663 |
+| The Teleprobe | 52.00% | ~523 |
+| The City | 46.00% | ~462 |
+| The field base | 41.00% | ~412 |
+| The Alliance | 35.00% | ~352 |
+| Survivors | 35.00% | ~352 |
+| The Condor | 33.00% | ~332 |
+| The End | 33.00% | ~332 |
 | The Necroevolution | 27.00% | ~271 |
 | Krauta is alive | 25.00% | ~251 |
 | Peacemaker | 21.00% | ~211 |
@@ -20,10 +20,10 @@ Rating: 4.52 (Ranked 564)
 | On her own | 19.00% | ~191 |
 | Fierce fight | 18.00% | ~181 |
 | Evacuation | 18.00% | ~181 |
-| Beyond divisions | 16.00% | ~160 |
-| Flying Objects Operator | 15.00% | ~150 |
-| I remember everything! | 13.00% | ~130 |
-| Another giant | 12.00% | ~120 |
+| Beyond divisions | 16.00% | ~161 |
+| Flying Objects Operator | 15.00% | ~151 |
+| I remember everything! | 13.00% | ~131 |
+| Another giant | 12.00% | ~121 |
 | Violent solution | 9.00% | ~90 |
 | I leave no man behind | 8.00% | ~80 |
 | Innate curiosity | 7.00% | ~70 |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 564)
 | Convoy list | 0.90% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,003 (Ranked 283)  
+Progressed: 1,005 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 928 | 0 |
 | 2023-12-24 | 960 | 0 |
 | 2023-12-25 | 1,002 | 0 |
-| 2023-12-26 | 1,003 | 0 |
+| 2023-12-26 | 1,005 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

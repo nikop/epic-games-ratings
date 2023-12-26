@@ -20,8 +20,8 @@
 | Mercenary! | 30.00% | ~23 |
 | Beast Knight | 29.00% | ~22 |
 | Relic Collector | 26.00% | ~20 |
+| God of the Tower! | 25.00% | ~19 |
 | Cartographer | 25.00% | ~19 |
-| God of the Tower! | 24.00% | ~18 |
 | Wizard Mastery | 17.00% | ~13 |
 | Rogue Mastery | 16.00% | ~12 |
 | Destoy all monsters! | 14.00% | ~11 |

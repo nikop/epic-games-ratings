@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -845,9 +845,9 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -998,8 +998,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:08:47.9058711+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:52:54.2702957+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:13.2791215+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:08:47.9059172+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:56.2445026+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:52:54.2703435+00:00"
 }

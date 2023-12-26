@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241697,
+  "EOS_Progressed": 241701,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29531,6 +29531,11 @@
       "Time": "2023-12-26T00:09:34.9767598+00:00",
       "NumProgressed": 241697,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-26T01:53:41.954949+00:00",
+      "NumProgressed": 241701,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29590,7 +29595,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "DAILY7",
@@ -29758,7 +29763,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ENDWOUNDED",
@@ -29798,7 +29803,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "FREEZE20TIMES",
@@ -29918,7 +29923,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "HUGESOULSPILL",
@@ -29950,7 +29955,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "KILL10000",
@@ -30270,7 +30275,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "SNAKESTEALTH",
@@ -30326,7 +30331,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -30342,7 +30347,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -30645,13 +30650,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241697,
+      "Progressed": 241701,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3177,
+      "Progressed": 3181,
       "Completed": 413
     }
   ],
@@ -30659,8 +30664,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:34.9767596+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:41.9549488+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:57:59.1159064+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:34.9769964+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:41:39.0180481+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:41.9552018+00:00"
 }

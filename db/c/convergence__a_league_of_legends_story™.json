@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1108,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3151,6 +3151,11 @@
       "Time": "2023-12-26T00:09:25.1407973+00:00",
       "NumProgressed": 1108,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T01:53:32.1036043+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3218,7 +3223,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3234,7 +3239,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "CultivairChests1",
@@ -3282,7 +3287,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3298,7 +3303,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "GadgetCompletion1",
@@ -3322,7 +3327,7 @@
       "Name": "Rail Rat",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "HexlockGift",
@@ -3330,7 +3335,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3450,7 +3455,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "RewindParry",
@@ -3482,7 +3487,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "SkillProgress1",
@@ -3538,7 +3543,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "WarwickDefeated",
@@ -3570,7 +3575,7 @@
       "Name": "The Brass Boss",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3578,14 +3583,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1108,
+      "Progressed": 1110,
       "Completed": 6
     }
   ],
@@ -3593,8 +3598,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:25.1407971+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:32.1036042+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:58:06.1216125+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:25.140837+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:41:46.218834+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:32.1036459+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 260,
@@ -3398,9 +3398,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 736
     },
     {
       "ID": "EV_ACH05",
@@ -3470,9 +3470,9 @@
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 469
+      "UsersEstimate": 482
     },
     {
       "ID": "EV_ACH14",
@@ -3598,9 +3598,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 870
     },
     {
       "ID": "EV_ACH30",
@@ -3735,8 +3735,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:31.635865+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:38.5874231+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:30.3279553+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:31.6358989+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:43:14.1275086+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:38.5874586+00:00"
 }

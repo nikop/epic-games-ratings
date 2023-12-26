@@ -3,7 +3,7 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 855,
-  "Ranking_Popularity": 466,
+  "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 389,
@@ -929,18 +929,24 @@
       "Rating": 4.3,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-12-26T01:40:32.0740809+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 149,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 149,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has a Competitive Community",
@@ -952,7 +958,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -967,9 +973,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4171,
+  "EOS_Progressed": 4172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7732,6 +7738,11 @@
       "Time": "2023-12-25T21:06:27.9171362+00:00",
       "NumProgressed": 4171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T01:50:00.6811129+00:00",
+      "NumProgressed": 4172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7744,7 +7755,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "achievement_10",
@@ -7760,7 +7771,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "achievement_12",
@@ -7768,7 +7779,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "achievement_13",
@@ -7792,7 +7803,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "achievement_16",
@@ -7896,7 +7907,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "achievement_9",
@@ -7911,16 +7922,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4171,
+      "Progressed": 4172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-12-24T20:01:29.5920403+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:06:05.4095295+00:00",
+  "LastChanged": "2023-12-26T01:40:32.0740806+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:50:00.6811127+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:00:31.724904+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:06:05.4095927+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:40:32.0740812+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:50:00.6811594+00:00"
 }

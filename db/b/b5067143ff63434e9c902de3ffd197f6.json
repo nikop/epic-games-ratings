@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16291,
+  "EOS_Progressed": 16318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10164,6 +10164,11 @@
       "Time": "2023-12-26T00:04:52.5831731+00:00",
       "NumProgressed": 16291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T01:48:48.2370268+00:00",
+      "NumProgressed": 16318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10264,7 +10269,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10272,7 +10277,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4243
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10280,7 +10285,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1958
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10288,7 +10293,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1795
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10296,7 +10301,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -10304,7 +10309,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -10320,7 +10325,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -10336,7 +10341,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -10360,21 +10365,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 16291,
+      "Progressed": 16318,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:04:52.5831726+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:48:48.2370265+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:16.5756381+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:04:52.5832318+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:43:00.4916949+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:48:48.2370763+00:00"
 }

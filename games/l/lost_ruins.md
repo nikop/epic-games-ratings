@@ -23,7 +23,7 @@
 | Money Swag | 8.00% | ~49 |
 | Oops | 7.00% | ~43 |
 | Shield Crusher | 7.00% | ~43 |
-| Treasure Hunter | 6.00% | ~37 |
+| Treasure Hunter | 7.00% | ~43 |
 | Explorer | 5.00% | ~30 |
 | Trio | 5.00% | ~30 |
 | Pyromancer | 4.00% | ~24 |

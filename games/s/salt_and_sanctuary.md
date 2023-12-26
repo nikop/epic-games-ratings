@@ -1,33 +1,33 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 395)  
+Rating: 4.61 (Ranked 394)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~449,877 |
-| The Three | 64.00% | ~346,893 |
-| The Banquet | 40.00% | ~216,808 |
-| Devara's Light | 31.00% | ~168,027 |
-| The Iron Ones | 19.00% | ~102,984 |
+| Find Sanctuary | 83.00% | ~449,881 |
+| The Three | 64.00% | ~346,896 |
+| The Banquet | 40.00% | ~216,810 |
+| Devara's Light | 31.00% | ~168,028 |
+| The Iron Ones | 19.00% | ~102,985 |
 | The Village | 17.00% | ~92,144 |
-| The Forest | 15.00% | ~81,303 |
-| The Imposter | 14.00% | ~75,883 |
-| The Keep | 14.00% | ~75,883 |
+| The Forest | 15.00% | ~81,304 |
+| The Imposter | 14.00% | ~75,884 |
+| The Keep | 14.00% | ~75,884 |
 | Branded | 13.00% | ~70,463 |
-| The Castle | 11.00% | ~59,622 |
+| The Castle | 11.00% | ~59,623 |
 | The Dome | 9.00% | ~48,782 |
 | The Red Hall | 9.00% | ~48,782 |
 | The Sacrifice | 9.00% | ~48,782 |
 | The Cave | 8.00% | ~43,362 |
 | The Ziggurat | 8.00% | ~43,362 |
-| The Mire | 7.00% | ~37,941 |
-| The Stone Roots | 7.00% | ~37,941 |
-| Storied | 6.00% | ~32,521 |
-| The Construct | 6.00% | ~32,521 |
-| The Lake | 6.00% | ~32,521 |
-| The Ruins | 6.00% | ~32,521 |
+| The Mire | 7.00% | ~37,942 |
+| The Stone Roots | 7.00% | ~37,942 |
+| Storied | 6.00% | ~32,522 |
+| The Construct | 6.00% | ~32,522 |
+| The Lake | 6.00% | ~32,522 |
+| The Ruins | 6.00% | ~32,522 |
 | The Alkymancery | 5.00% | ~27,101 |
 | The Pitchwoods | 5.00% | ~27,101 |
 | Honed | 4.00% | ~21,681 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,840 |
 | Fading Fast | 1.00% | ~5,420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,021 (Ranked 34)  
+Progressed: 542,025 (Ranked 34)  
 Completed: 1,656 (0.31%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 1,656 (0.31%) (Ranked 249)
 | 2023-12-23 | 541,772 | 1,653 |
 | 2023-12-24 | 541,880 | 1,654 |
 | 2023-12-25 | 542,019 | 1,656 |
-| 2023-12-26 | 542,021 | 1,656 |
+| 2023-12-26 | 542,025 | 1,656 |
 ## Awards
 Max (Challenging Combat): 294  (Ranked 260)  
 Sum: 2,016 (Ranked 216)  

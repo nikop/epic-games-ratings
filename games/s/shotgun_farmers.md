@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 82.00% | ~292 |
-| First Blood | 63.00% | ~224 |
+| Seeds of War | 82.00% | ~293 |
+| First Blood | 63.00% | ~225 |
 | Triple Kill | 62.00% | ~221 |
 | Aspairagus | 60.00% | ~184 |
-| No Asperascope | 58.00% | ~206 |
-| Survivor | 57.00% | ~174 |
+| No Asperascope | 58.00% | ~207 |
+| Survivor | 57.00% | ~175 |
 | Cornivore | 55.00% | ~196 |
 | I Believe I Can Fly | 50.00% | ~178 |
 | No Diggity | 45.00% | ~138 |
-| Early Survivor | 41.00% | ~125 |
+| Early Survivor | 41.00% | ~126 |
 | Bouncemato | 32.00% | ~98 |
-| 10K | 29.00% | ~103 |
+| 10K | 29.00% | ~104 |
 | Amateur Survivor | 29.00% | ~89 |
 | 15K | 27.00% | ~96 |
 | Drinking Problem | 23.00% | ~82 |
-| Quick-Draw Pod | 22.00% | ~67 |
-| Grave Digger | 22.00% | ~67 |
+| Quick-Draw Pod | 22.00% | ~68 |
+| Grave Digger | 22.00% | ~68 |
 | Pork Chop Express | 20.00% | ~71 |
 | Professional Survivor | 20.00% | ~61 |
 | Carrocketeer | 18.00% | ~64 |
 | Skin Of Your Teeth | 17.00% | ~61 |
 | This Is My Boomstick | 17.00% | ~52 |
 | Getting Started | 16.00% | ~57 |
-| Eggtraordinary | 15.00% | ~53 |
+| Eggtraordinary | 15.00% | ~54 |
 | Oh My Gourd | 14.00% | ~43 |
 | Perfect | 13.00% | ~40 |
 | Summers Here | 12.00% | ~37 |
@@ -35,7 +35,7 @@
 | Quit Horsin' Around | 11.00% | ~39 |
 | Quadsparagus | 10.00% | ~31 |
 | Bring Home The Bacon | 9.00% | ~32 |
-| Expert Survivor | 8.00% | ~24 |
+| Expert Survivor | 8.00% | ~25 |
 | Early Bird | 6.00% | ~21 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356 (Ranked 364)  
+Progressed: 357 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-19 | 353 | 0 |
 | 2023-12-24 | 354 | 0 |
 | 2023-12-25 | 356 | 0 |
+| 2023-12-26 | 357 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

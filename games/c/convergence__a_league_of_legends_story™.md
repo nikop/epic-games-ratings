@@ -1,15 +1,15 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 40.00% | ~443 |
-| Rail Rat | 31.00% | ~343 |
-| The Mysterious Stranger | 30.00% | ~332 |
-| Immaculate Aim | 26.00% | ~288 |
-| The Brass Boss | 25.00% | ~277 |
+| Time Heals All Wounds | 40.00% | ~444 |
+| Rail Rat | 31.00% | ~344 |
+| The Mysterious Stranger | 30.00% | ~333 |
+| Immaculate Aim | 26.00% | ~289 |
+| The Brass Boss | 25.00% | ~278 |
 | Make Up For Lost Time | 24.00% | ~266 |
 | Time Flies | 24.00% | ~266 |
 | The Prince in Heels | 24.00% | ~266 |
@@ -27,9 +27,9 @@ Rating: 4.65 (Ranked 322)
 | The Betrayer | 20.00% | ~222 |
 | The Loose Cannon | 19.00% | ~211 |
 | Check Your Pulse | 19.00% | ~211 |
-| The Man Who Shattered Time | 18.00% | ~199 |
-| The Family Fortune | 18.00% | ~199 |
-| Street Style | 17.00% | ~188 |
+| The Man Who Shattered Time | 18.00% | ~200 |
+| The Family Fortune | 18.00% | ~200 |
+| Street Style | 17.00% | ~189 |
 | Whiz Kid | 15.00% | ~166 |
 | Good Neighbor | 14.00% | ~155 |
 | Treasure Trove | 13.00% | ~144 |
@@ -47,9 +47,9 @@ Rating: 4.65 (Ranked 322)
 | Sartorialist | 8.00% | ~89 |
 | Entresol Explorer | 8.00% | ~89 |
 | Golem Hunter | 7.00% | ~78 |
-| Clovemary for Remembering | 6.00% | ~66 |
-| Hexlock for Protection | 6.00% | ~66 |
-| Rungs Was Right | 5.00% | ~55 |
+| Clovemary for Remembering | 6.00% | ~67 |
+| Hexlock for Protection | 6.00% | ~67 |
+| Rungs Was Right | 5.00% | ~56 |
 | Wunderkind | 2.00% | ~22 |
 | Fitting In | 2.00% | ~22 |
 | Thinking Two Steps Ahead | 1.00% | ~11 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108 (Ranked 277)  
+Progressed: 1,110 (Ranked 277)  
 Completed: 6 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 6 (0.54%) (Ranked 210)
 | 2023-12-23 | 1,078 | 6 |
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
-| 2023-12-26 | 1,108 | 6 |
+| 2023-12-26 | 1,110 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

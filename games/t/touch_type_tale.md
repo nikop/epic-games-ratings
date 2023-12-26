@@ -8,7 +8,7 @@
 | Flanked! | 75.00% | ~2,934 |
 | Economics 101 | 59.00% | ~2,308 |
 | Get Rich Quick | 42.00% | ~1,643 |
-| Do the Splits | 37.00% | ~1,447 |
+| Do the Splits | 38.00% | ~1,487 |
 | Maestro | 25.00% | ~978 |
 | Full Employment | 18.00% | ~704 |
 | Clay Fighter | 16.00% | ~626 |

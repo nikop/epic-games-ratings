@@ -5,47 +5,47 @@ Rating: 4.83 (Ranked 60)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~237,370 |
-| Private Club | 73.00% | ~190,418 |
-| Rogue Guild | 65.00% | ~169,550 |
-| I Watched the Intro | 57.00% | ~148,682 |
-| Covert Consortium | 54.00% | ~140,857 |
-| Goat Queen | 53.00% | ~138,248 |
-| Reach the Stratosphere | 50.00% | ~130,423 |
-| Synchronization Complete | 47.00% | ~122,598 |
-| Secret Society | 44.00% | ~114,772 |
-| Shadow Syndicate | 37.00% | ~96,513 |
-| What a Waste of Money | 33.00% | ~86,079 |
-| New Goat Order | 30.00% | ~78,254 |
-| Don't touch the servers | 28.00% | ~73,037 |
-| Real Buoy | 27.00% | ~70,428 |
-| San Angora: Become Human | 26.00% | ~67,820 |
-| Raider of the Lost Parking Garage | 26.00% | ~67,820 |
-| Welcome to Earth | 25.00% | ~65,212 |
-| Egg Simulator | 19.00% | ~49,561 |
-| Into the Matrix | 19.00% | ~49,561 |
-| Where is It? | 17.00% | ~44,344 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~39,127 |
-| 401(K.O.) | 15.00% | ~39,127 |
-| Black Market | 14.00% | ~36,518 |
-| Car Cave | 12.00% | ~31,302 |
-| Club Mohair | 8.00% | ~20,868 |
-| A Center for Ants? | 8.00% | ~20,868 |
-| French Fika | 7.00% | ~18,259 |
-| Nasty! | 5.00% | ~13,042 |
-| Who Baywatches the Baywatch? | 4.00% | ~10,434 |
-| [REDACTED] | 4.00% | ~10,434 |
-| Cannibanana | 2.00% | ~5,217 |
-| Daredevil | 2.00% | ~5,217 |
-| Crocsquatch | 1.00% | ~2,608 |
-| You Trusted Your Instincts | 1.00% | ~2,608 |
-| Certified Fresh | 1.00% | ~2,608 |
-| Streaking | 1.00% | ~2,608 |
-| Try Hard 2 | 1.00% | ~2,608 |
+| Forgotten Sorority | 91.00% | ~237,401 |
+| Private Club | 73.00% | ~190,442 |
+| Rogue Guild | 65.00% | ~169,572 |
+| I Watched the Intro | 57.00% | ~148,702 |
+| Covert Consortium | 54.00% | ~140,875 |
+| Goat Queen | 53.00% | ~138,266 |
+| Reach the Stratosphere | 50.00% | ~130,440 |
+| Synchronization Complete | 47.00% | ~122,614 |
+| Secret Society | 44.00% | ~114,787 |
+| Shadow Syndicate | 37.00% | ~96,526 |
+| What a Waste of Money | 33.00% | ~86,090 |
+| New Goat Order | 30.00% | ~78,264 |
+| Don't touch the servers | 28.00% | ~73,046 |
+| Real Buoy | 27.00% | ~70,438 |
+| San Angora: Become Human | 26.00% | ~67,829 |
+| Raider of the Lost Parking Garage | 26.00% | ~67,829 |
+| Welcome to Earth | 25.00% | ~65,220 |
+| Egg Simulator | 19.00% | ~49,567 |
+| Into the Matrix | 19.00% | ~49,567 |
+| Where is It? | 17.00% | ~44,350 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~39,132 |
+| 401(K.O.) | 15.00% | ~39,132 |
+| Black Market | 14.00% | ~36,523 |
+| Car Cave | 12.00% | ~31,306 |
+| Club Mohair | 8.00% | ~20,870 |
+| A Center for Ants? | 8.00% | ~20,870 |
+| French Fika | 7.00% | ~18,262 |
+| Nasty! | 5.00% | ~13,044 |
+| Who Baywatches the Baywatch? | 4.00% | ~10,435 |
+| [REDACTED] | 4.00% | ~10,435 |
+| Cannibanana | 2.00% | ~5,218 |
+| Daredevil | 2.00% | ~5,218 |
+| Crocsquatch | 1.00% | ~2,609 |
+| You Trusted Your Instincts | 1.00% | ~2,609 |
+| Certified Fresh | 1.00% | ~2,609 |
+| Streaking | 1.00% | ~2,609 |
+| Try Hard 2 | 1.00% | ~2,609 |
 | Move! That! Bus! | 0.60% | ~1,565 |
-| G.O.A.T | 0.40% | ~1,043 |
+| G.O.A.T | 0.40% | ~1,044 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,846 (Ranked 62)  
+Progressed: 260,880 (Ranked 62)  
 Completed: 920 (0.35%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,17 +295,17 @@ Completed: 920 (0.35%) (Ranked 239)
 | 2023-12-23 | 259,676 | 918 |
 | 2023-12-24 | 260,219 | 918 |
 | 2023-12-25 | 260,833 | 920 |
-| 2023-12-26 | 260,846 | 920 |
+| 2023-12-26 | 260,880 | 920 |
 ## Awards
 Max (Great for Beginners): 519  (Ranked 215)  
-Sum: 4,206 (Ranked 157)  
+Sum: 4,207 (Ranked 157)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 519 |
 | This game has Diverse Characters | 479 |
 | This game is Highly Recommended | 448 |
-| This game has Amazing Characters | 420 |
+| This game has Amazing Characters | 421 |
 | This game is Extremely Fun | 407 |
 | This game has Amazing Storytelling | 395 |
 | This game is Relaxing | 391 |
@@ -589,3 +589,4 @@ Diff (max vs sum): 58
 | 2023-12-23 | 4.83 | 516 | 4,182 |
 | 2023-12-24 | 4.83 | 518 | 4,194 |
 | 2023-12-25 | 4.83 | 519 | 4,206 |
+| 2023-12-26 | 4.83 | 519 | 4,207 |

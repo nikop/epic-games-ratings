@@ -4,7 +4,7 @@
   "ProductSlug": "battle-planet-judgement-day-1f3c51",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-14T16:03:34.2764174+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:04:47.7074733+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:48:43.2467456+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.6739066+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:58:48.1772544+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:04:47.7074817+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:29.5657215+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:48:43.2467524+00:00"
 }

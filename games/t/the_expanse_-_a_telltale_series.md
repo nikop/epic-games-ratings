@@ -1,33 +1,33 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,614 |
-| Captain Drummer | 11.00% | ~1,917 |
-| The Pit and the Pirates | 10.00% | ~1,743 |
-| Martian Music | 10.00% | ~1,743 |
-| Bosmang | 10.00% | ~1,743 |
-| Celebrations are in Order | 10.00% | ~1,743 |
-| Impossible Objects | 10.00% | ~1,743 |
+| Oyedang, Kopengs | 15.00% | ~2,616 |
+| Captain Drummer | 11.00% | ~1,918 |
+| Celebrations are in Order | 11.00% | ~1,918 |
+| The Pit and the Pirates | 10.00% | ~1,744 |
+| Martian Music | 10.00% | ~1,744 |
+| Bosmang | 10.00% | ~1,744 |
+| Impossible Objects | 10.00% | ~1,744 |
 | Spore Taste | 9.00% | ~1,569 |
 | Drone Dodger | 9.00% | ~1,569 |
-| Stogie for Fogey | 8.00% | ~1,394 |
+| Stogie for Fogey | 8.00% | ~1,395 |
 | Safe Cracker | 8.00% | ~271 |
 | Zen Master | 8.00% | ~271 |
 | Madame Undersecretary | 8.00% | ~271 |
-| Call it Even | 7.00% | ~1,220 |
+| Call it Even | 7.00% | ~1,221 |
 | Keep Arjun in Check | 7.00% | ~237 |
 | Data Archivist | 6.00% | ~1,046 |
 | Drug Gifter | 6.00% | ~1,046 |
 | Heal Thy Medic | 6.00% | ~1,046 |
 | Khan's Revenge | 6.00% | ~1,046 |
-| Doctor Approved | 5.00% | ~871 |
-| Bottoms up! | 5.00% | ~871 |
-| Thorston Mayer | 5.00% | ~871 |
-| Master Negotiator | 5.00% | ~169 |
+| Doctor Approved | 5.00% | ~872 |
+| Bottoms up! | 5.00% | ~872 |
+| Thorston Mayer | 5.00% | ~872 |
+| Master Negotiator | 5.00% | ~170 |
 | Data Logger | 3.00% | ~523 |
 | Miraculous Maya | 3.00% | ~523 |
 | Brother's Reaper | 2.00% | ~349 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 512)
 | Scavenger Star | 0.20% | ~35 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,429 (Ranked 156)  
+Progressed: 17,437 (Ranked 156)  
 Completed: 52 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 52 (0.30%) (Ranked 253)
 | 2023-12-23 | 17,223 | 50 |
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
-| 2023-12-26 | 17,429 | 52 |
+| 2023-12-26 | 17,437 | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 86.00% | ~159 |
+| Mathematic | 87.00% | ~161 |
 | Digging a Hole | 77.00% | ~142 |
 | It's Yours, My Friend | 74.00% | ~137 |
 | Conducted Trade | 66.00% | ~122 |
@@ -33,7 +33,7 @@
 | Yup. | 0.50% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 417)  
+Progressed: 185 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

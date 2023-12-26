@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 496,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 232,
@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2281,
+  "EOS_Progressed": 2282,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -4166,6 +4166,11 @@
       "Time": "2023-12-25T13:10:18.6855924+00:00",
       "NumProgressed": 2281,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-26T01:49:23.0991309+00:00",
+      "NumProgressed": 2282,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4239,9 +4244,9 @@
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteElderFaction",
@@ -4464,13 +4469,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2281,
+      "Progressed": 2282,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 922,
+      "Progressed": 923,
       "Completed": 903
     }
   ],
@@ -4478,8 +4483,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:05:27.1376178+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:49:23.0991308+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:49.207421+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:05:27.137661+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:43:33.0980513+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:49:23.0991629+00:00"
 }

@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8673,
+  "EOS_Progressed": 8676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9115,6 +9115,11 @@
       "Time": "2023-12-26T00:09:30.1818225+00:00",
       "NumProgressed": 8673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T01:53:37.0700408+00:00",
+      "NumProgressed": 8676,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9127,7 +9132,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -9135,7 +9140,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -9213,9 +9218,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -9279,7 +9284,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -9470,13 +9475,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8673,
+      "Progressed": 8676,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1290,
+      "Progressed": 1293,
       "Completed": 1050
     }
   ],
@@ -9484,8 +9489,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:09:30.1818223+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:53:37.0700406+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-26T00:02:54.5494383+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:09:30.1818754+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:46:47.8781164+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:53:37.0701136+00:00"
 }

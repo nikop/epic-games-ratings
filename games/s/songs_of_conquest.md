@@ -7,18 +7,18 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 44.00% | ~330 |
-| Double Kill | 37.00% | ~277 |
+| Double Kill | 37.00% | ~278 |
 | Critical Hit | 20.00% | ~150 |
 | Veteran | 19.00% | ~142 |
-| Dressed For Success | 13.00% | ~97 |
+| Dressed For Success | 13.00% | ~98 |
 | Sorcerous Spree | 8.00% | ~60 |
 | Humiliation | 8.00% | ~60 |
 | Veni, Vidi, Vici | 8.00% | ~60 |
-| Multi Kill | 7.00% | ~52 |
-| Master | 7.00% | ~52 |
+| Multi Kill | 7.00% | ~53 |
+| Master | 7.00% | ~53 |
 | Whoops! | 6.00% | ~45 |
 | Landlord Extraordinaire | 6.00% | ~45 |
-| Don't Touch My Stuff | 5.00% | ~37 |
+| Don't Touch My Stuff | 5.00% | ~38 |
 | The Song of Stoutheart | 4.00% | ~30 |
 | Trojan Horse | 4.00% | ~30 |
 | Expert Essence Employment | 3.00% | ~22 |
@@ -28,9 +28,9 @@ Number of Ratings: 292  (23.09.2022)
 | Infernal Influence | 2.00% | ~15 |
 | Ultra Kill | 2.00% | ~15 |
 | Pyrrhic Victory | 2.00% | ~15 |
-| Versatile Wielder | 1.00% | ~7 |
-| From the Ashes | 1.00% | ~7 |
-| Such A Fungi | 1.00% | ~7 |
+| Versatile Wielder | 1.00% | ~8 |
+| From the Ashes | 1.00% | ~8 |
+| Such A Fungi | 1.00% | ~8 |
 | Together For Her | 0.90% | ~7 |
 | Grand Master | 0.90% | ~7 |
 | Unlimited Power! | 0.50% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 300)  
+Progressed: 750 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 702 | 0 |
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
+| 2023-12-26 | 750 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 529)  
 Sum: 194 (Ranked 414)  

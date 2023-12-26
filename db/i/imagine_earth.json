@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -493,6 +493,11 @@
       "Time": "2023-12-24T22:06:14.2001016+00:00",
       "NumProgressed": 443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T01:49:11.1625362+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -624,7 +629,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "PlanetLorian",
@@ -638,9 +643,9 @@
       "ID": "PlanetMagni",
       "SetID": "c2k469b",
       "Name": "Magni",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "PlanetRounos",
@@ -664,7 +669,7 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "PlanetUdionTorix",
@@ -680,7 +685,7 @@
       "Name": "Scientist",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WorldCreator",
@@ -695,7 +700,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 0
     }
   ],
@@ -703,8 +708,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:05:14.8098973+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:49:11.162536+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.2881005+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:19.1975103+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:05:14.8099109+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:43:02.7790414+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:49:11.1625518+00:00"
 }

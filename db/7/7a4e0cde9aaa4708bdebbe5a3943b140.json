@@ -137,9 +137,9 @@
       "ID": "Stage2",
       "SetID": "ag762md",
       "Name": "Stage 2",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Stage3",
@@ -169,9 +169,9 @@
       "ID": "Upgrade1",
       "SetID": "ag762md",
       "Name": "First Upgrade",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Upgrade10",
@@ -185,33 +185,33 @@
       "ID": "Upgrade2",
       "SetID": "ag762md",
       "Name": "Second Upgrade",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Upgrade3",
       "SetID": "ag762md",
       "Name": "Third Upgrade",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Upgrade4",
       "SetID": "ag762md",
       "Name": "Fourth Upgrade",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Upgrade5",
       "SetID": "ag762md",
       "Name": "Fifth Upgrade",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -224,8 +224,8 @@
   ],
   "FirstSeen": "2023-12-10T02:24:26.0991702+00:00",
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:08:51.888829+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:52:58.3348506+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:04.7747678+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:58:31.6642603+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:08:51.8888367+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:11.5729852+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:52:58.3348573+00:00"
 }

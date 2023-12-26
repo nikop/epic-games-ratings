@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,906 |
-| Off to a good start | 63.00% | ~1,365 |
-| Do... or do not. There is no try | 52.00% | ~1,126 |
-| A good blaster at your side | 27.00% | ~585 |
+| New Recruit | 88.00% | ~1,909 |
+| Off to a good start | 63.00% | ~1,366 |
+| Do... or do not. There is no try | 52.00% | ~1,128 |
+| A good blaster at your side | 26.00% | ~564 |
 | I suggest a new strategy | 18.00% | ~390 |
 | Scrap collector | 16.00% | ~347 |
 | All right, I'll give it a try | 16.00% | ~347 |
@@ -17,8 +17,8 @@
 | Collector | 12.00% | ~260 |
 | Together we can rule the galaxy | 12.00% | ~260 |
 | Tell Jabba that I've got his money | 9.00% | ~195 |
-| Best star-pilot in the galaxy | 8.00% | ~173 |
-| Survivor | 8.00% | ~173 |
+| Best star-pilot in the galaxy | 8.00% | ~174 |
+| Survivor | 8.00% | ~174 |
 | Never tell me the odds! | 7.00% | ~152 |
 | A cunning warrior | 7.00% | ~152 |
 | What's the cargo? | 6.00% | ~130 |
@@ -50,7 +50,7 @@
 | Alternative solution | 1.00% | ~22 |
 | Onwards! | 1.00% | ~22 |
 | The circle is now complete | 1.00% | ~22 |
-| You have your moments | 0.90% | ~19 |
+| You have your moments | 0.90% | ~20 |
 | When surrounded by war... | 0.80% | ~17 |
 | A New Hope | 0.70% | ~15 |
 | Walker defender | 0.70% | ~15 |
@@ -59,7 +59,7 @@
 | Do we take prisoners? | 0.60% | ~13 |
 | I’ll take that bet | 0.60% | ~13 |
 | Greed can be a very powerful ally | 0.40% | ~9 |
-| Stay on target | 0.30% | ~6 |
+| Stay on target | 0.30% | ~7 |
 | That got him! | 0.20% | ~4 |
 | in a galaxy far, far away.... | 0.20% | ~4 |
 | Don't get cocky | 0.20% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,166 (Ranked 233)  
+Progressed: 2,169 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-23 | 2,067 | 1 |
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
-| 2023-12-26 | 2,166 | 1 |
+| 2023-12-26 | 2,169 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

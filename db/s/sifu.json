@@ -8419,10 +8419,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11862,
       "NumberOfAwardsMax": 7010
+    },
+    {
+      "Time": "2023-12-26T01:46:35.6442525+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11864,
+      "NumberOfAwardsMax": 7010
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11862,
+  "NumberOfAwards": 11864,
   "NumberOfAwardsMax": 7010,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8484,7 +8490,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 571
+      "Count": 573
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8499,9 +8505,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 744479,
+  "EOS_Progressed": 744516,
   "EOS_Completed": 12966,
-  "EOS_NewPlayers": 9629,
+  "EOS_NewPlayers": 9622,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -30929,6 +30935,11 @@
       "Time": "2023-12-26T00:08:28.7768082+00:00",
       "NumProgressed": 744479,
       "NumCompleted": 12966
+    },
+    {
+      "Time": "2023-12-26T01:52:33.8219525+00:00",
+      "NumProgressed": 744516,
+      "NumCompleted": 12966
     }
   ],
   "TotalAchievements": 60,
@@ -30940,7 +30951,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29779
+      "UsersEstimate": 29781
     },
     {
       "ID": "02_Vengeance_H1",
@@ -30948,7 +30959,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22334
+      "UsersEstimate": 22335
     },
     {
       "ID": "03_Vengeance_H2",
@@ -30988,7 +30999,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "08_Wude_H2",
@@ -31052,7 +31063,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "16_Detective_H2",
@@ -31116,7 +31127,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22334
+      "UsersEstimate": 22335
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31156,7 +31167,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -31204,7 +31215,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22334
+      "UsersEstimate": 22335
     },
     {
       "ID": "35_WideStrike",
@@ -31236,7 +31247,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -31260,7 +31271,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -31404,7 +31415,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -31419,21 +31430,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 53780,
+      "Progressed": 53817,
       "Completed": 10783
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 744479,
+      "Progressed": 744516,
       "Completed": 12966
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-25T21:03:02.2412333+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:08:28.7768075+00:00",
+  "LastChanged": "2023-12-26T01:46:35.6442523+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:52:33.8219522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T00:02:42.3070293+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:08:28.7769361+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:46:35.6442528+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:52:33.8220718+00:00"
 }

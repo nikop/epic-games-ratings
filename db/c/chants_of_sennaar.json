@@ -67,11 +67,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1794,
+  "EOS_Progressed": 1797,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 5.85,
+  "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5262,6 +5262,11 @@
       "Time": "2023-12-26T00:03:33.8355863+00:00",
       "NumProgressed": 1794,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-12-26T01:47:30.3235113+00:00",
+      "NumProgressed": 1797,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 25,
@@ -5305,7 +5310,7 @@
       "Name": "A good beginning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "META_HALF_LINK",
@@ -5329,7 +5334,7 @@
       "Name": "Free at last",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5345,7 +5350,7 @@
       "Name": "A great audience",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "META_RESULT_2-4",
@@ -5353,7 +5358,7 @@
       "Name": "For its own good",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "META_RESULT_3-4",
@@ -5361,7 +5366,7 @@
       "Name": "A Link to the Past",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5385,7 +5390,7 @@
       "Name": "True G3M4R",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5393,7 +5398,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5417,7 +5422,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5425,7 +5430,7 @@
       "Name": "Scholar",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "PROGRESS_N1",
@@ -5433,7 +5438,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 863
     },
     {
       "ID": "PROGRESS_N2",
@@ -5441,7 +5446,7 @@
       "Name": "The great escape",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "PROGRESS_N3",
@@ -5449,7 +5454,7 @@
       "Name": "A new dawn",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "PROGRESS_N4",
@@ -5457,7 +5462,7 @@
       "Name": "The darkness",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "PROGRESS_N5",
@@ -5472,7 +5477,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1794,
+      "Progressed": 1797,
       "Completed": 105
     }
   ],
@@ -5480,8 +5485,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:03:33.8355859+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:47:30.3235111+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:57:19.3706207+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:03:33.8356249+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:40:58.4949134+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:47:30.323552+00:00"
 }

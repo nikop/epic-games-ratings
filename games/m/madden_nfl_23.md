@@ -6,18 +6,18 @@ Rating: 4.30 (Ranked 855)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 56.00% | ~2,336 |
-| MVP | 54.00% | ~2,252 |
+| MVP | 54.00% | ~2,253 |
 | Big Spender | 53.00% | ~2,211 |
-| Stud Finder | 40.00% | ~1,668 |
+| Stud Finder | 40.00% | ~1,669 |
 | Dealmaker | 39.00% | ~1,627 |
 | ROTY | 32.00% | ~1,335 |
 | Roster Reshuffle | 31.00% | ~1,293 |
-| Future of the Franchise | 19.00% | ~792 |
+| Future of the Franchise | 19.00% | ~793 |
 | Throwin’ Dots | 18.00% | ~751 |
 | Already in Progress | 17.00% | ~709 |
 | Change of Scenery | 17.00% | ~709 |
-| Primetime | 16.00% | ~667 |
-| Pro Bowler | 16.00% | ~667 |
+| Primetime | 16.00% | ~668 |
+| Pro Bowler | 16.00% | ~668 |
 | Unblockable | 9.00% | ~375 |
 | Pocket Ace | 5.00% | ~209 |
 | Lockdown Corner | 5.00% | ~209 |
@@ -27,7 +27,7 @@ Rating: 4.30 (Ranked 855)
 | Lockdown Leader | 0.50% | ~21 |
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,171 (Ranked 205)  
+Progressed: 4,172 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,15 +129,16 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 4,130 | 0 |
 | 2023-12-24 | 4,156 | 0 |
 | 2023-12-25 | 4,171 | 0 |
+| 2023-12-26 | 4,172 | 0 |
 ## Awards
-Max (Diverse Characters): 44  (Ranked 466)  
-Sum: 147 (Ranked 432)  
-Diff (max vs sum): 34  
+Max (Diverse Characters): 45  (Ranked 461)  
+Sum: 149 (Ranked 432)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 44 |
+| This game has Diverse Characters | 45 |
 | This game has a Competitive Community | 32 |
-| This game is Highly Recommended | 27 |
+| This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 24 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
@@ -291,3 +292,4 @@ Diff (max vs sum): 34
 | 2023-12-22 | 4.29 | 44 | 146 |
 | 2023-12-23 | 4.30 | 44 | 146 |
 | 2023-12-24 | 4.30 | 44 | 147 |
+| 2023-12-26 | 4.30 | 45 | 149 |

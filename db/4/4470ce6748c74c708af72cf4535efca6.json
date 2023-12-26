@@ -348,9 +348,9 @@
       "ID": "12",
       "SetID": "5e3maia",
       "Name": "Stargazer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "13",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:03:02.4994072+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:46:57.9443601+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:10.1897436+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:58:45.8842767+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:03:02.4995206+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:27.423996+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:46:57.9444219+00:00"
 }

@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -2808,6 +2808,11 @@
       "Time": "2023-12-25T23:08:59.8411172+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-26T01:52:27.3123764+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2844,7 +2849,7 @@
       "Name": "Dressed For Success",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "AttackCount",
@@ -2892,7 +2897,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ChainLightningKills",
@@ -2964,7 +2969,7 @@
       "Name": "Double Kill",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3028,7 +3033,7 @@
       "Name": "Multi Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "MultiplayerWins",
@@ -3068,7 +3073,7 @@
       "Name": "From the Ashes",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -3084,7 +3089,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3092,7 +3097,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SorcerousSpree",
@@ -3164,7 +3169,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WielderLevel4",
@@ -3251,15 +3256,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:08:22.5129658+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:52:27.3123761+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:56:56.5590288+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:08:22.5130105+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:40:34.7029853+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:52:27.312419+00:00"
 }

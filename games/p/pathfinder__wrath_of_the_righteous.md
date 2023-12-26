@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,447 |
+| Devoured by Darkness | 27.00% | ~3,448 |
 | A Spark | 19.00% | ~2,426 |
-| Burning City | 18.00% | ~2,298 |
+| Burning City | 18.00% | ~2,299 |
 | Defender's Heart | 16.00% | ~2,043 |
-| Mythic Choices | 15.00% | ~1,915 |
-| Banner over the Citadel | 14.00% | ~1,787 |
+| Mythic Choices | 15.00% | ~1,916 |
+| Banner over the Citadel | 14.00% | ~1,788 |
 | Queen's Gratitude | 12.00% | ~1,532 |
 | Fifth Crusade | 9.00% | ~1,149 |
 | Embrace of the Abyss | 7.00% | ~894 |
-| Path of the Angel | 7.00% | ~894 |
 | Demonic and Divine | 7.00% | ~894 |
+| Path of the Angel | 6.00% | ~766 |
 | Great Upstart | 6.00% | ~766 |
 | All Paths Open | 6.00% | ~766 |
 | Path of the Azata | 5.00% | ~638 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 3.00% | ~383 |
 | Heroic Victory | 3.00% | ~383 |
 | Core of the Riddle | 3.00% | ~383 |
-| Hanged Man's Notes | 3.00% | ~346 |
-| Sarkoris Will Be Green | 3.00% | ~346 |
-| The Lady of the Forest | 3.00% | ~346 |
-| Beware Still Water | 3.00% | ~346 |
+| Hanged Man's Notes | 3.00% | ~347 |
+| Sarkoris Will Be Green | 3.00% | ~347 |
+| The Lady of the Forest | 3.00% | ~347 |
+| Beware Still Water | 3.00% | ~347 |
 | Path of the Demon | 2.00% | ~255 |
 | Path of the Aeon | 2.00% | ~255 |
 | Capitulation Is Now Moot | 2.00% | ~255 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~128 |
 | Abyssal Conspiracy | 1.00% | ~128 |
 | Truly Profane Gift | 1.00% | ~128 |
-| This Wall Won't Fall | 1.00% | ~115 |
-| Not the Last Sarkorian | 1.00% | ~115 |
+| This Wall Won't Fall | 1.00% | ~116 |
+| Not the Last Sarkorian | 1.00% | ~116 |
 | End of Eternal Guard | 0.90% | ~115 |
 | Masterful Charge | 0.70% | ~89 |
 | Playful Mood | 0.70% | ~89 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,766 (Ranked 169)  
+Progressed: 12,770 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,6 +373,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 12,670 | 0 |
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
+| 2023-12-26 | 12,770 | 0 |
 ## Awards
 Max (Character Customization): 1,772  (Ranked 124)  
 Sum: 7,168 (Ranked 123)  

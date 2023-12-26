@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1650,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -4012,6 +4012,11 @@
       "Time": "2023-12-26T00:05:29.0609426+00:00",
       "NumProgressed": 1650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T01:49:24.9916906+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4022,9 +4027,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4080,7 +4085,7 @@
       "Name": "Versatile riding",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4134,9 +4139,9 @@
       "ID": "ML_ACHIEVEMENT_15",
       "SetID": "5k00jcd",
       "Name": "Terror of the road",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -4176,7 +4181,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4184,7 +4189,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4192,7 +4197,7 @@
       "Name": "The Octopus",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4304,7 +4309,7 @@
       "Name": "Perfectionist",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -4391,20 +4396,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1650,
+      "Progressed": 1653,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1318,
+      "Progressed": 1321,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T00:05:29.060942+00:00",
+  "LastChanged_Achievements": "2023-12-26T01:49:24.9916903+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-25T23:59:04.3812042+00:00",
-  "LastUpdate_Achievements": "2023-12-26T00:05:29.0609834+00:00"
+  "LastUpdate_Ratings": "2023-12-26T01:42:45.3109814+00:00",
+  "LastUpdate_Achievements": "2023-12-26T01:49:24.9917431+00:00"
 }

@@ -1,22 +1,22 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 511)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,732 |
-| Apprentice | 58.00% | ~386,451 |
-| Close Shave | 25.00% | ~166,574 |
-| Mercenary | 23.00% | ~153,248 |
-| Ninja | 23.00% | ~153,248 |
-| Northern Scourge | 17.00% | ~113,270 |
-| Thief Bane | 14.00% | ~93,281 |
-| Master of Arms | 12.00% | ~79,955 |
-| Gambler | 10.00% | ~66,629 |
-| Dice Master | 10.00% | ~66,629 |
-| Swordsman | 9.00% | ~59,966 |
+| The Fool | 72.00% | ~479,736 |
+| Apprentice | 58.00% | ~386,454 |
+| Close Shave | 25.00% | ~166,575 |
+| Mercenary | 23.00% | ~153,249 |
+| Ninja | 23.00% | ~153,249 |
+| Northern Scourge | 17.00% | ~113,271 |
+| Thief Bane | 14.00% | ~93,282 |
+| Master of Arms | 12.00% | ~79,956 |
+| Gambler | 10.00% | ~66,630 |
+| Dice Master | 10.00% | ~66,630 |
+| Swordsman | 9.00% | ~59,967 |
 | Knight | 8.00% | ~53,304 |
 | Cure for Corruption | 8.00% | ~53,304 |
 | Focused | 8.00% | ~53,304 |
@@ -44,7 +44,7 @@ Number of Ratings: 780  (23.09.2022)
 | Gamester | 0.70% | ~4,664 |
 | Hero | 0.60% | ~3,998 |
 | Rebel | 0.60% | ~3,998 |
-| Dungeon Master | 0.50% | ~3,331 |
+| Dungeon Master | 0.50% | ~3,332 |
 | Pilgrim | 0.40% | ~2,665 |
 | Smiths Honour | 0.40% | ~2,665 |
 | Peaceful Coast | 0.30% | ~1,999 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,294 (Ranked 30)  
+Progressed: 666,300 (Ranked 30)  
 Completed: 174 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 174 (0.03%) (Ranked 350)
 | 2023-12-23 | 666,186 | 174 |
 | 2023-12-24 | 666,240 | 174 |
 | 2023-12-25 | 666,293 | 174 |
-| 2023-12-26 | 666,294 | 174 |
+| 2023-12-26 | 666,300 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 489)  
 Sum: 193 (Ranked 415)  

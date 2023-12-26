@@ -17,20 +17,20 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 6.00% | ~23 |
 | Super Spatula Seeker | 6.00% | ~23 |
 | Squirrel Smasher | 6.00% | ~23 |
+| Star Smasher | 6.00% | ~23 |
 | Surf's Up! | 6.00% | ~23 |
 | Toxic Terror | 5.00% | ~19 |
 | Hit Rock Bottom | 5.00% | ~19 |
-| Star Smasher | 5.00% | ~19 |
 | Keep it Rolling | 4.00% | ~15 |
 | Shrimp Catcher | 4.00% | ~15 |
 | Robot encyclopedia | 3.00% | ~11 |
 | Are you ready now? | 3.00% | ~11 |
 | Hello, Bikini Bottom | 3.00% | ~11 |
 | Ship Shape | 2.00% | ~8 |
+| Shanghaied | 2.00% | ~8 |
 | Kelp Forest of Fear | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | Ultra Spatula Seeker | 2.00% | ~8 |
-| Shanghaied | 1.00% | ~4 |
 | Sock Concert | 1.00% | ~4 |
 | The Small Does Not Rule | 0.80% | ~3 |
 | SpongeBob vs SpongeBob! | 0.80% | ~3 |

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,779 |
-| The Assault | 3.00% | ~22,334 |
-| Life is your teacher | 3.00% | ~22,334 |
-| Lightning Hands | 3.00% | ~22,334 |
+| The Old Grandmaster | 4.00% | ~29,781 |
+| The Assault | 3.00% | ~22,335 |
+| Life is your teacher | 3.00% | ~22,335 |
+| Lightning Hands | 3.00% | ~22,335 |
 | The Hateful Pole Fighter | 2.00% | ~14,890 |
 | Stuntmaster | 2.00% | ~14,890 |
 | Street Fighting | 2.00% | ~14,890 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.80% | ~5,956 |
 | Dance of the Praying Mantis | 0.80% | ~5,956 |
 | Kung-Fu Tussle | 0.80% | ~5,956 |
-| Fight the way you practice | 0.70% | ~376 |
+| Fight the way you practice | 0.70% | ~377 |
 | Martial Hub | 0.60% | ~323 |
-| Muk Yan Master | 0.50% | ~3,722 |
-| Detective Story | 0.50% | ~3,722 |
+| Muk Yan Master | 0.50% | ~3,723 |
+| Detective Story | 0.50% | ~3,723 |
 | Bloody Sport | 0.50% | ~269 |
 | Tiger on Fire | 0.40% | ~2,978 |
 | Source of Flying Daggers | 0.40% | ~2,978 |
@@ -42,8 +42,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.40% | ~2,978 |
 | Prodigal Child | 0.40% | ~2,978 |
 | Sword Stained With Blood | 0.40% | ~2,978 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,233 |
-| The Pit Protector | 0.30% | ~2,233 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,234 |
+| The Pit Protector | 0.30% | ~2,234 |
 | The best strikes are the ones we avoid | 0.30% | ~161 |
 | Drunken Fighter | 0.20% | ~1,489 |
 | Martial Artist | 0.20% | ~1,489 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~108 |
 | Master of the Flying Assassins | 0.20% | ~108 |
 | Beatmaker | 0.20% | ~108 |
-| Warriors from the Mountain | 0.10% | ~744 |
+| Warriors from the Mountain | 0.10% | ~745 |
 | Secure, Protect, Leave | 0.10% | ~54 |
 | Crouching Tiger | 0.10% | ~54 |
 | Hidden Dragon | 0.10% | ~54 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~54 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744,479 (Ranked 23)  
+Progressed: 744,516 (Ranked 23)  
 Completed: 12,966 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 12,966 (1.74%) (Ranked 141)
 | 2023-12-23 | 741,847 | 12,961 |
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
-| 2023-12-26 | 744,479 | 12,966 |
+| 2023-12-26 | 744,516 | 12,966 |
 ## Awards
 Max (Great Boss Battles): 7,010  (Ranked 55)  
-Sum: 11,862 (Ranked 87)  
+Sum: 11,864 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): -32
 | This game is Highly Recommended | 594 |
 | This game has Quickly Understood Controls | 590 |
 | This game is Extremely Fun | 577 |
-| This game has Unique Visuals | 571 |
+| This game has Unique Visuals | 573 |
 | This game has a Creative Community | 436 |
 | This game is Relaxing | 401 |
 | This game has Obsessive Gameplay | 293 |
@@ -681,3 +681,4 @@ Diff (max vs sum): -32
 | 2023-12-23 | 4.82 | - | 6,999 | 12,278 |
 | 2023-12-24 | 4.82 | - | 6,999 | 12,282 |
 | 2023-12-25 | 4.82 | - | 7,010 | 12,297 |
+| 2023-12-26 | 4.82 | - | 7,010 | 11,864 |
