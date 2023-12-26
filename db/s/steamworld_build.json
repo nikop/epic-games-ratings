@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -877,9 +877,9 @@
       "ID": "RealPurdy",
       "SetID": "4bd750m",
       "Name": "Real Purdy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RollOut",
@@ -941,9 +941,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "UpUpAndAway",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:04:13.2942486+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:03:14.692514+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:03:51.7274253+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:04:13.2942744+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:02:59.6129418+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:03:14.6925385+00:00"
 }

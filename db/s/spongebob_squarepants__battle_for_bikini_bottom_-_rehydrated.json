@@ -5,10 +5,10 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1077,6 +1077,11 @@
       "Time": "2023-12-26T03:05:31.2811711+00:00",
       "NumProgressed": 383,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T04:04:30.253166+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1089,7 +1094,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1097,7 +1102,7 @@
       "Name": "Are you ready now?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1145,7 +1150,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1161,7 +1166,7 @@
       "Name": "Jellyfishing",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1297,7 +1302,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1337,22 +1342,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:05:31.2811707+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:04:30.2531656+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:59:42.0679977+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:05:31.2811956+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:58:47.687318+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:04:30.2531869+00:00"
 }

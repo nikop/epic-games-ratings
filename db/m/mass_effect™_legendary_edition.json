@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3048,
+  "EOS_Progressed": 3049,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -6133,6 +6133,11 @@
       "Time": "2023-12-26T03:11:10.3352581+00:00",
       "NumProgressed": 3048,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-26T04:09:42.1609371+00:00",
+      "NumProgressed": 3049,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -6145,7 +6150,7 @@
       "Name": "Medal of Honor",
       "Percentage": 36,
       "XP": 125,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "achievement_10",
@@ -6337,7 +6342,7 @@
       "Name": "Paramour I",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "achievement_121",
@@ -6369,7 +6374,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "achievement_125",
@@ -6377,7 +6382,7 @@
       "Name": "Soldier",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "achievement_126",
@@ -6457,7 +6462,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "achievement_20",
@@ -6473,7 +6478,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "achievement_22",
@@ -6489,7 +6494,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "achievement_24",
@@ -6497,7 +6502,7 @@
       "Name": "Soldier Ally",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "achievement_25",
@@ -6513,7 +6518,7 @@
       "Name": "Krogan Ally",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "achievement_27",
@@ -6521,7 +6526,7 @@
       "Name": "Turian Ally",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "achievement_28",
@@ -6537,7 +6542,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "achievement_3",
@@ -6545,7 +6550,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "achievement_30",
@@ -6569,7 +6574,7 @@
       "Name": "Charismatic",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "achievement_33",
@@ -6601,7 +6606,7 @@
       "Name": "Missing in Action",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "achievement_37",
@@ -6609,7 +6614,7 @@
       "Name": "Very Elusive",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "achievement_38",
@@ -6713,7 +6718,7 @@
       "Name": "The Professor",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_5",
@@ -6833,7 +6838,7 @@
       "Name": "Head Hunter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_63",
@@ -6849,7 +6854,7 @@
       "Name": "Merciless",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "achievement_65",
@@ -6913,7 +6918,7 @@
       "Name": "Scientist",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "achievement_72",
@@ -6937,7 +6942,7 @@
       "Name": "Power Full",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "achievement_75",
@@ -7160,19 +7165,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 3048,
+      "Progressed": 3049,
       "Completed": 10
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 3048,
+      "Progressed": 3049,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:11:10.3352576+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:09:42.1609367+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:03:56.8522005+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:11:10.3354289+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:03:03.7477804+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:09:42.1611033+00:00"
 }

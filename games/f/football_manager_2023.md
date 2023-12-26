@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 131)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~253,717 |
-| The Player Whisperer | 68.00% | ~250,040 |
+| Motivational Speaker | 69.00% | ~253,718 |
+| The Player Whisperer | 68.00% | ~250,041 |
 | One of Us, One of Us! | 62.00% | ~227,978 |
-| First Victory | 55.00% | ~202,238 |
-| Clean Sheet | 54.00% | ~198,561 |
-| #DoneDeal | 54.00% | ~198,561 |
-| Off the Books | 52.00% | ~191,207 |
-| Super-Sub | 52.00% | ~191,207 |
+| First Victory | 55.00% | ~202,239 |
+| Clean Sheet | 54.00% | ~198,562 |
+| #DoneDeal | 54.00% | ~198,562 |
+| Off the Books | 52.00% | ~191,208 |
+| Super-Sub | 52.00% | ~191,208 |
 | Hat-trick | 46.00% | ~169,145 |
 | Planned Signing | 44.00% | ~161,791 |
 | "I Would Love It If We Beat Them" | 43.00% | ~158,114 |
-| Scoring Streak | 40.00% | ~147,082 |
-| Wheeler Dealer | 40.00% | ~147,082 |
-| Thumping | 39.00% | ~143,405 |
-| People Pleaser | 39.00% | ~143,405 |
-| Unbeatable! | 38.00% | ~139,728 |
-| One Of Our Own | 36.00% | ~132,374 |
+| Thumping | 40.00% | ~147,083 |
+| Scoring Streak | 40.00% | ~147,083 |
+| Wheeler Dealer | 40.00% | ~147,083 |
+| People Pleaser | 39.00% | ~143,406 |
+| Unbeatable! | 38.00% | ~139,729 |
+| One Of Our Own | 36.00% | ~132,375 |
 | They're a Natural | 32.00% | ~117,666 |
 | Record Signing | 32.00% | ~117,666 |
 | Team Performance | 31.00% | ~113,989 |
 | The Only Stat That Matters | 30.00% | ~110,312 |
 | Star Player | 29.00% | ~106,635 |
+| Full Faith | 28.00% | ~102,958 |
 | Goal Rush | 28.00% | ~102,958 |
 | Parked The Bus | 27.00% | ~99,281 |
-| Full Faith | 27.00% | ~99,281 |
 | Squad Goals | 27.00% | ~99,281 |
 | The People's Champion | 27.00% | ~99,281 |
 | Beating Expectations | 26.00% | ~95,604 |
-| You're on Fire | 25.00% | ~91,926 |
-| Tremendous Trio | 25.00% | ~91,926 |
-| Unstoppable Force | 25.00% | ~91,926 |
-| Record Sale | 25.00% | ~91,926 |
-| Shots For Days | 24.00% | ~88,249 |
-| On a Roll | 23.00% | ~84,572 |
-| Drilling Down | 23.00% | ~84,572 |
-| Flavour Of The Month | 23.00% | ~84,572 |
-| The Special One | 23.00% | ~84,572 |
-| What A Goal! | 22.00% | ~80,895 |
+| You're on Fire | 25.00% | ~91,927 |
+| Tremendous Trio | 25.00% | ~91,927 |
+| Unstoppable Force | 25.00% | ~91,927 |
+| Record Sale | 25.00% | ~91,927 |
+| Shots For Days | 24.00% | ~88,250 |
+| On a Roll | 23.00% | ~84,573 |
+| Drilling Down | 23.00% | ~84,573 |
+| Flavour Of The Month | 23.00% | ~84,573 |
+| The Special One | 23.00% | ~84,573 |
+| What A Goal! | 22.00% | ~80,896 |
 | Goal Machine | 21.00% | ~77,218 |
 | Splashing the Cash | 20.00% | ~73,541 |
 | Immovable Object | 20.00% | ~73,541 |
@@ -55,13 +55,13 @@ Rating: 4.76 (Ranked 131)
 | A Game of Two Halves | 13.00% | ~47,802 |
 | You're Up! | 12.00% | ~44,125 |
 | Money, Money, Money | 10.00% | ~36,771 |
-| Clean Sheet Network | 8.00% | ~29,416 |
-| First Goal Network | 8.00% | ~29,416 |
-| First Win Network | 8.00% | ~29,416 |
-| Superb Strike | 8.00% | ~29,416 |
-| Tête-à-tête | 8.00% | ~29,416 |
-| Invincible! | 8.00% | ~29,416 |
-| Best in the World | 8.00% | ~29,416 |
+| Clean Sheet Network | 8.00% | ~29,417 |
+| First Goal Network | 8.00% | ~29,417 |
+| First Win Network | 8.00% | ~29,417 |
+| Superb Strike | 8.00% | ~29,417 |
+| Tête-à-tête | 8.00% | ~29,417 |
+| Invincible! | 8.00% | ~29,417 |
+| Best in the World | 8.00% | ~29,417 |
 | National Service | 7.00% | ~25,739 |
 | Domination | 7.00% | ~25,739 |
 | Best in the Business | 6.00% | ~22,062 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 131)
 | 200 Club | 0.10% | ~368 |
 | Draft Value | 0.10% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367,706 (Ranked 48)  
+Progressed: 367,707 (Ranked 48)  
 Completed: 29 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 29 (0.01%) (Ranked 367)
 | 2023-12-23 | 367,172 | 29 |
 | 2023-12-24 | 367,404 | 29 |
 | 2023-12-25 | 367,667 | 29 |
-| 2023-12-26 | 367,706 | 29 |
+| 2023-12-26 | 367,707 | 29 |
 ## Awards
 Max (Diverse Characters): 1,315  (Ranked 138)  
 Sum: 9,039 (Ranked 99)  

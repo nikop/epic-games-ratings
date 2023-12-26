@@ -6,14 +6,14 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~7,395 |
+| Bye Bye | 42.00% | ~7,397 |
 | It's a good start | 10.00% | ~1,761 |
 | Bonjour! | 8.00% | ~1,409 |
 | Quack | 8.00% | ~1,409 |
-| The Assistant | 6.00% | ~1,056 |
-| The Blue Marl | 6.00% | ~1,056 |
-| Ostinata | 5.00% | ~880 |
-| Better than nothing? | 5.00% | ~880 |
+| The Assistant | 6.00% | ~1,057 |
+| The Blue Marl | 6.00% | ~1,057 |
+| Ostinata | 5.00% | ~881 |
+| Better than nothing? | 5.00% | ~881 |
 | A long journey | 4.00% | ~704 |
 | Big Money | 3.00% | ~528 |
 | Keep the doctor away | 3.00% | ~528 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~18 |
 | Unsuitable Terroir | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,608 (Ranked 155)  
+Progressed: 17,612 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,11 +161,11 @@ Completed: 13 (0.07%) (Ranked 322)
 | 2023-12-23 | 17,258 | 13 |
 | 2023-12-24 | 17,423 | 13 |
 | 2023-12-25 | 17,586 | 13 |
-| 2023-12-26 | 17,608 | 13 |
+| 2023-12-26 | 17,612 | 13 |
 ## Awards
-Max (Relaxing): 208  (Ranked 290)  
-Sum: 1,733 (Ranked 223)  
-Diff (max vs sum): 67  
+Max (Relaxing): 208  (Ranked 291)  
+Sum: 1,734 (Ranked 223)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 208 |
@@ -176,7 +176,7 @@ Diff (max vs sum): 67
 | This game is Educational | 179 |
 | This game has Amazing Storytelling | 177 |
 | This game has Easy Combat | 130 |
-| This game has Amazing Characters | 126 |
+| This game has Amazing Characters | 127 |
 | This game has a Creative Community | 110 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -251,3 +251,4 @@ Diff (max vs sum): 67
 | 2023-12-20 | 4.35 | - | 208 | 1,731 |
 | 2023-12-23 | 4.35 | - | 208 | 1,732 |
 | 2023-12-25 | 4.35 | - | 208 | 1,733 |
+| 2023-12-26 | 4.35 | - | 208 | 1,734 |

@@ -2,11 +2,11 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 40,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.85,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2023-12-16T17:01:08.7568687+00:00",
@@ -61,17 +61,23 @@
       "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-26T03:57:38.7311576+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1799,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 5.84,
+  "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5277,6 +5283,11 @@
       "Time": "2023-12-26T03:04:57.3671307+00:00",
       "NumProgressed": 1799,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-12-26T04:03:46.2661372+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 25,
@@ -5310,9 +5321,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 378
     },
     {
       "ID": "META_FIRST_LINK",
@@ -5432,7 +5443,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 937
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5487,16 +5498,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1799,
+      "Progressed": 1801,
       "Completed": 105
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged": "2023-12-25T04:57:05.7620726+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:04:57.3671302+00:00",
+  "LastChanged": "2023-12-26T03:57:38.7311575+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:03:46.2661366+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:57:57.8479466+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:04:57.3671654+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:57:38.7311581+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:03:46.2661815+00:00"
 }

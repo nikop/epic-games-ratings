@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10164,9 +10164,9 @@
       "Count": 1050
     }
   ],
-  "EOS_Progressed": 129888,
+  "EOS_Progressed": 129892,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36839,6 +36839,11 @@
       "Time": "2023-12-26T03:10:13.6994023+00:00",
       "NumProgressed": 129888,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-26T04:09:00.5825329+00:00",
+      "NumProgressed": 129892,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -36978,7 +36983,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37202,7 +37207,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "hero_story_complete_all",
@@ -37448,9 +37453,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 333
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37481,21 +37486,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 129888,
+      "Progressed": 129892,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4757,
+      "Progressed": 4761,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-26T01:41:58.1114333+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:10:13.6994019+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:09:00.5825323+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:59:26.6489913+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:10:13.6995673+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:58:37.4146985+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:09:00.5826848+00:00"
 }

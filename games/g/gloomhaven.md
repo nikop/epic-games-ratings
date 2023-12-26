@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 40.00% | ~11,513 |
-| Overkill | 34.00% | ~9,786 |
-| Vaccine Incoming | 32.00% | ~9,211 |
-| A normal day in Gloomhaven | 30.00% | ~8,635 |
-| Spread the plague | 28.00% | ~8,059 |
-| Get over here! | 24.00% | ~6,908 |
-| Just when I thought I was out... | 19.00% | ~5,469 |
-| Mine... All Mine... | 17.00% | ~4,893 |
-| Precious! | 16.00% | ~4,605 |
-| Grizzled veteran | 15.00% | ~4,317 |
+| I'm not dead yet | 40.00% | ~11,516 |
+| Overkill | 34.00% | ~9,788 |
+| Vaccine Incoming | 32.00% | ~9,212 |
+| A normal day in Gloomhaven | 30.00% | ~8,637 |
+| Spread the plague | 28.00% | ~8,061 |
+| Get over here! | 24.00% | ~6,909 |
+| Just when I thought I was out... | 19.00% | ~5,470 |
+| Mine... All Mine... | 17.00% | ~4,894 |
+| Precious! | 16.00% | ~4,606 |
+| Grizzled veteran | 15.00% | ~4,318 |
 | Anatomy Lesson | 14.00% | ~4,030 |
-| Light of my life | 13.00% | ~3,742 |
-| You activated my trap card! | 12.00% | ~3,454 |
-| Obstacle race | 12.00% | ~3,454 |
-| Who's the Boss? | 11.00% | ~3,166 |
-| Augmented rat | 11.00% | ~3,166 |
-| Doom and gloom | 10.00% | ~2,878 |
-| Dungeon Veteran | 9.00% | ~2,590 |
+| Light of my life | 13.00% | ~3,743 |
+| You activated my trap card! | 12.00% | ~3,455 |
+| Obstacle race | 12.00% | ~3,455 |
+| Who's the Boss? | 11.00% | ~3,167 |
+| Augmented rat | 11.00% | ~3,167 |
+| Doom and gloom | 10.00% | ~2,879 |
+| Dungeon Veteran | 9.00% | ~2,591 |
 | Pain is your friend | 8.00% | ~2,303 |
 | Black death | 8.00% | ~2,303 |
 | Play it again, Sam | 8.00% | ~2,303 |
@@ -34,11 +34,11 @@ Number of Ratings: 68  (23.09.2022)
 | Caught off guard | 5.00% | ~1,439 |
 | Pretty lights! | 5.00% | ~1,439 |
 | Now you see me... | 5.00% | ~1,439 |
-| The Pro from Dover | 4.00% | ~1,151 |
-| I hate portals | 3.00% | ~863 |
-| Down the hatch | 3.00% | ~863 |
-| An eye for an eye | 3.00% | ~863 |
-| The Cephalophore | 3.00% | ~863 |
+| The Pro from Dover | 4.00% | ~1,152 |
+| I hate portals | 3.00% | ~864 |
+| Down the hatch | 3.00% | ~864 |
+| An eye for an eye | 3.00% | ~864 |
+| The Cephalophore | 3.00% | ~864 |
 | From Gloom, only greed and death emerges | 2.00% | ~576 |
 | The Rat King | 2.00% | ~576 |
 | How to train your Drake | 2.00% | ~576 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~29 |
 | Murder Death Kill | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,783 (Ranked 137)  
+Progressed: 28,789 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,15 +172,15 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-23 | 28,327 | 1 |
 | 2023-12-24 | 28,539 | 1 |
 | 2023-12-25 | 28,745 | 1 |
-| 2023-12-26 | 28,783 | 1 |
+| 2023-12-26 | 28,789 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
-Sum: 8,431 (Ranked 105)  
+Sum: 8,433 (Ranked 105)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,604 |
-| This game has Diverse Characters | 606 |
+| This game has Diverse Characters | 607 |
 | This game has Challenging Combat | 556 |
 | This game is Highly Recommended | 551 |
 | This game is Extremely Fun | 547 |
@@ -189,7 +189,7 @@ Diff (max vs sum): -12
 | This game has Quickly Understood Controls | 491 |
 | This game has Amazing Storytelling | 490 |
 | This game has Unique Visuals | 382 |
-| This game has a Creative Community | 219 |
+| This game has a Creative Community | 220 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -442,3 +442,4 @@ Diff (max vs sum): -12
 | 2023-12-22 | 4.47 | - | 3,603 | 8,428 |
 | 2023-12-23 | 4.47 | - | 3,604 | 8,430 |
 | 2023-12-24 | 4.47 | - | 3,604 | 8,431 |
+| 2023-12-26 | 4.47 | - | 3,604 | 8,433 |

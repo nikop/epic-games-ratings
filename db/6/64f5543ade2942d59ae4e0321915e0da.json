@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-12-25T21:05:11.7818108+00:00",
       "NumProgressed": 254,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-26T04:05:22.4892334+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1044,7 +1049,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1140,7 +1145,7 @@
       "Name": "Heresy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_COMBO_1",
@@ -1178,9 +1183,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_DEATH_2",
@@ -1188,7 +1193,7 @@
       "Name": "Carcass",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_DEATH_3",
@@ -1202,9 +1207,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 130
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1236,7 +1241,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1250,9 +1255,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1292,7 +1297,7 @@
       "Name": "Winner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -1340,7 +1345,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1371,14 +1376,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:06:45.1127188+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:05:22.4892328+00:00",
   "LastUpdate_AppInfo": "2023-12-19T20:57:15.8211494+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:00:41.2330804+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:06:45.1127512+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:59:27.2561399+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:05:22.4892629+00:00"
 }

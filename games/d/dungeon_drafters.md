@@ -9,7 +9,7 @@
 | Shine! | 33.00% | ~41 |
 | Friend! | 31.00% | ~38 |
 | Uncut Gem | 29.00% | ~36 |
-| Clear as Water | 27.00% | ~33 |
+| Clear as Water | 28.00% | ~34 |
 | Setting Off | 24.00% | ~30 |
 | Card Collector | 23.00% | ~28 |
 | Riddlesolver | 21.00% | ~26 |

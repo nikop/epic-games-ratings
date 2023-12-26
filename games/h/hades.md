@@ -6,41 +6,41 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~634,388 |
-| Escaped Asphodel | 79.00% | ~569,507 |
-| Arms Collector | 70.00% | ~504,626 |
-| Friends in High Places | 67.00% | ~483,000 |
-| Escaped Elysium | 65.00% | ~468,582 |
-| Chthonic Colleagues | 62.00% | ~446,955 |
-| Is There No Escape? | 52.00% | ~374,865 |
-| Death Dealer | 45.00% | ~324,403 |
-| Skelly Slayer | 42.00% | ~302,776 |
-| Well Stocked | 40.00% | ~288,358 |
-| Back to Work | 38.00% | ~273,940 |
-| Day-or-Night Trader | 37.00% | ~266,731 |
-| Blessed by the Gods | 37.00% | ~266,731 |
-| Urge to Sing | 36.00% | ~259,522 |
-| Blood Bound | 35.00% | ~252,313 |
-| Three-Headed Boy | 31.00% | ~223,477 |
-| River Denizens | 28.00% | ~201,851 |
-| Grown Close | 28.00% | ~201,851 |
-| Home Makeover | 27.00% | ~194,642 |
-| Had to Happen | 25.00% | ~180,224 |
-| The Family Secret | 25.00% | ~180,224 |
-| Tools of the Architect | 23.00% | ~165,806 |
-| Master of Arms | 23.00% | ~165,806 |
-| To Charon's Credit | 22.00% | ~158,597 |
-| Rare Collectible | 22.00% | ~158,597 |
-| Weapon of Fate | 21.00% | ~151,388 |
-| Something From Everyone | 19.00% | ~136,970 |
-| Hold the Onions | 18.00% | ~129,761 |
-| Well Versed | 17.00% | ~122,552 |
-| War-God's Bloodlust | 15.00% | ~108,134 |
-| Musician and Muse | 14.00% | ~100,925 |
-| The Useless Trinket | 13.00% | ~93,716 |
-| Champion of Elysium | 13.00% | ~93,716 |
-| Slashed Benefits | 12.00% | ~86,507 |
-| Haste of Hermes | 11.00% | ~79,298 |
+| Escaped Tartarus | 88.00% | ~634,393 |
+| Escaped Asphodel | 79.00% | ~569,512 |
+| Arms Collector | 70.00% | ~504,631 |
+| Friends in High Places | 67.00% | ~483,004 |
+| Escaped Elysium | 65.00% | ~468,586 |
+| Chthonic Colleagues | 62.00% | ~446,959 |
+| Is There No Escape? | 52.00% | ~374,869 |
+| Death Dealer | 45.00% | ~324,405 |
+| Skelly Slayer | 42.00% | ~302,778 |
+| Well Stocked | 40.00% | ~288,360 |
+| Back to Work | 38.00% | ~273,942 |
+| Day-or-Night Trader | 37.00% | ~266,733 |
+| Blessed by the Gods | 37.00% | ~266,733 |
+| Urge to Sing | 36.00% | ~259,524 |
+| Blood Bound | 35.00% | ~252,315 |
+| Three-Headed Boy | 31.00% | ~223,479 |
+| River Denizens | 28.00% | ~201,852 |
+| Grown Close | 28.00% | ~201,852 |
+| Home Makeover | 27.00% | ~194,643 |
+| Had to Happen | 25.00% | ~180,225 |
+| The Family Secret | 25.00% | ~180,225 |
+| Tools of the Architect | 23.00% | ~165,807 |
+| Master of Arms | 23.00% | ~165,807 |
+| To Charon's Credit | 22.00% | ~158,598 |
+| Rare Collectible | 22.00% | ~158,598 |
+| Weapon of Fate | 21.00% | ~151,389 |
+| Something From Everyone | 19.00% | ~136,971 |
+| Hold the Onions | 18.00% | ~129,762 |
+| Well Versed | 17.00% | ~122,553 |
+| War-God's Bloodlust | 15.00% | ~108,135 |
+| Musician and Muse | 14.00% | ~100,926 |
+| The Useless Trinket | 13.00% | ~93,717 |
+| Champion of Elysium | 13.00% | ~93,717 |
+| Slashed Benefits | 12.00% | ~86,508 |
+| Haste of Hermes | 11.00% | ~79,299 |
 | Bad Call | 10.00% | ~72,090 |
 | Nyx's Mirror | 10.00% | ~72,090 |
 | Night and Darkness | 10.00% | ~72,090 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,836 |
 | Friends Forever | 4.00% | ~28,836 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,895 (Ranked 26)  
+Progressed: 720,901 (Ranked 26)  
 Completed: 6,563 (0.91%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 6,563 (0.91%) (Ranked 179)
 | 2023-12-23 | 720,535 | 6,556 |
 | 2023-12-24 | 720,715 | 6,560 |
 | 2023-12-25 | 720,880 | 6,562 |
-| 2023-12-26 | 720,895 | 6,563 |
+| 2023-12-26 | 720,901 | 6,563 |
 ## Awards
 Max (Character Customization): 3,474  (Ranked 94)  
-Sum: 8,471 (Ranked 104)  
+Sum: 8,472 (Ranked 104)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): -10
 | This game has Amazing Storytelling | 266 |
 | This game has Amazing Characters | 264 |
 | This game has Diverse Characters | 259 |
-| This game has Quickly Understood Controls | 253 |
+| This game has Quickly Understood Controls | 254 |
 | This game is Relaxing | 248 |
 | This game has Unique Visuals | 241 |
 | This game has a Creative Community | 181 |
@@ -647,3 +647,4 @@ Diff (max vs sum): -10
 | 2023-12-23 | 4.92 | - | 3,465 | 8,454 |
 | 2023-12-24 | 4.92 | - | 3,472 | 8,463 |
 | 2023-12-25 | 4.92 | - | 3,474 | 8,471 |
+| 2023-12-26 | 4.92 | - | 3,474 | 8,472 |

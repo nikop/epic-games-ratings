@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.70% | ~1,713 |
 | Welcome to Sigil | 0.70% | ~1,477 |
 | Fast Food | 0.60% | ~1,266 |
-| Beast Intentions | 0.50% | ~1,223 |
-| The Mad Wizard | 0.50% | ~1,223 |
+| Beast Intentions | 0.50% | ~1,224 |
+| The Mad Wizard | 0.50% | ~1,224 |
 | The Overgrown Grove | 0.40% | ~844 |
 | Flames of Avernus | 0.40% | ~844 |
 | Mental Gymnastics | 0.40% | ~844 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,698 (Ranked 68)  
+Progressed: 244,714 (Ranked 67)  
 Completed: 2,564 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -803,14 +803,14 @@ Completed: 2,564 (1.05%) (Ranked 168)
 | 2023-12-23 | 243,900 | 2,557 |
 | 2023-12-24 | 244,276 | 2,558 |
 | 2023-12-25 | 244,638 | 2,562 |
-| 2023-12-26 | 244,698 | 2,564 |
+| 2023-12-26 | 244,714 | 2,564 |
 ## Awards
-Max (Great for Beginners): 5,691  (Ranked 71)  
-Sum: 33,083 (Ranked 41)  
+Max (Great for Beginners): 5,696  (Ranked 71)  
+Sum: 33,088 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,691 |
+| This game is Great for Beginners | 5,696 |
 | This game has Diverse Characters | 5,641 |
 | This game has Quickly Understood Controls | 4,858 |
 | This game is Relaxing | 4,745 |
@@ -1154,4 +1154,4 @@ Diff (max vs sum): 30
 | 2023-12-23 | 4.06 | - | 5,684 | 33,046 |
 | 2023-12-24 | 4.06 | - | 5,691 | 33,068 |
 | 2023-12-25 | 4.06 | - | 5,691 | 33,079 |
-| 2023-12-26 | 4.06 | - | 5,691 | 33,083 |
+| 2023-12-26 | 4.06 | - | 5,696 | 33,088 |

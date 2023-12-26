@@ -38,7 +38,7 @@ Rating: 4.43 (Ranked 704)
 | Trailblazer | 22.00% | ~556 |
 | Traffic Junction | 22.00% | ~556 |
 | Breaking Ground | 22.00% | ~556 |
-| Traffic Jam | 19.00% | ~480 |
+| Traffic Jam | 20.00% | ~505 |
 | Networker | 18.00% | ~455 |
 | Resistance is futile | 17.00% | ~429 |
 | Bold and beautiful | 16.00% | ~404 |

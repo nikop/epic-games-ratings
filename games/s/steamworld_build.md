@@ -10,7 +10,7 @@
 | Conducted Trade | 66.00% | ~122 |
 | Going Places | 66.00% | ~122 |
 | Aristocratic | 63.00% | ~117 |
-| Tutti Frutti | 56.00% | ~104 |
+| Tutti Frutti | 57.00% | ~105 |
 | Gotta Go Fast | 44.00% | ~81 |
 | Systematic | 43.00% | ~80 |
 | Slotting Machine | 42.00% | ~78 |
@@ -25,8 +25,8 @@
 | Steaming Rich | 17.00% | ~31 |
 | Room To Spare | 15.00% | ~28 |
 | Click 'Em All | 4.00% | ~7 |
+| Real Purdy | 4.00% | ~7 |
 | Stack Overflow | 4.00% | ~7 |
-| Real Purdy | 3.00% | ~6 |
 | Accustomed Customer | 2.00% | ~4 |
 | Interstellar Performance | 2.00% | ~4 |
 | I'm A Lumberbot | 0.50% | ~1 |

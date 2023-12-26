@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,287 |
-| Titan's First Steps | 9.00% | ~13,287 |
-| Basic in Bulk | 8.00% | ~11,811 |
-| Tinkle of Coins | 8.00% | ~11,811 |
-| Disintermediation | 6.00% | ~8,858 |
-| It's Free Real Estate | 6.00% | ~8,858 |
-| Capitalism Ho! | 6.00% | ~8,858 |
+| Sponsored by Argon | 9.00% | ~13,288 |
+| Titan's First Steps | 9.00% | ~13,288 |
+| Basic in Bulk | 8.00% | ~11,812 |
+| Tinkle of Coins | 8.00% | ~11,812 |
+| Disintermediation | 6.00% | ~8,859 |
+| It's Free Real Estate | 6.00% | ~8,859 |
+| Capitalism Ho! | 6.00% | ~8,859 |
 | One Easy Payment | 5.00% | ~7,382 |
 | Some Assembly Required | 5.00% | ~7,382 |
 | Another Satisfied Customer | 5.00% | ~7,382 |
@@ -109,7 +109,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | All or Nothing! | 0.90% | ~1,329 |
 | Anything not Nailed Down | 0.80% | ~1,181 |
 | Marvels from the World Over | 0.80% | ~1,181 |
-| Bane of Legends | 0.70% | ~1,033 |
+| Bane of Legends | 0.70% | ~1,034 |
 | Ultimate Collector | 0.60% | ~886 |
 | Unleashed Potential | 0.60% | ~886 |
 | JACKPOT!!! | 0.60% | ~886 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~591 |
 | Capitalist Camaraderie | 0.20% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,638 (Ranked 83)  
+Progressed: 147,645 (Ranked 83)  
 Completed: 335 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 335 (0.23%) (Ranked 268)
 | 2023-12-23 | 147,242 | 331 |
 | 2023-12-24 | 147,460 | 333 |
 | 2023-12-25 | 147,608 | 334 |
-| 2023-12-26 | 147,638 | 335 |
+| 2023-12-26 | 147,645 | 335 |
 ## Awards
 Max (Great for Beginners): 4,914  (Ranked 75)  
 Sum: 27,816 (Ranked 51)  

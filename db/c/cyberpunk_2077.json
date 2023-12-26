@@ -17234,9 +17234,9 @@
       "Count": 16830
     }
   ],
-  "EOS_Progressed": 981442,
+  "EOS_Progressed": 981456,
   "EOS_Completed": 2975,
-  "EOS_NewPlayers": 2926,
+  "EOS_NewPlayers": 2925,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45724,6 +45724,11 @@
       "Time": "2023-12-26T03:06:27.6543161+00:00",
       "NumProgressed": 981442,
       "NumCompleted": 2975
+    },
+    {
+      "Time": "2023-12-26T04:05:10.4785045+00:00",
+      "NumProgressed": 981456,
+      "NumCompleted": 2975
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45744,7 +45749,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "BushidoAndChill",
@@ -45760,7 +45765,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49072
+      "UsersEstimate": 49073
     },
     {
       "ID": "Denied",
@@ -45784,7 +45789,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "Gearhead",
@@ -45808,7 +45813,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78515
+      "UsersEstimate": 78516
     },
     {
       "ID": "Gunslinger",
@@ -45824,7 +45829,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29443
+      "UsersEstimate": 29444
     },
     {
       "ID": "IAmMaxTac",
@@ -45864,7 +45869,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29443
+      "UsersEstimate": 29444
     },
     {
       "ID": "MustBeTheRats",
@@ -45904,7 +45909,7 @@
       "Name": "Life of the Road",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29443
+      "UsersEstimate": 29444
     },
     {
       "ID": "Roleplayer",
@@ -45920,7 +45925,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "Temperance",
@@ -45952,7 +45957,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68701
+      "UsersEstimate": 68702
     },
     {
       "ID": "TheHermit",
@@ -45968,7 +45973,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29443
+      "UsersEstimate": 29444
     },
     {
       "ID": "TheLovers",
@@ -45992,7 +45997,7 @@
       "Name": "The Sun",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "TheWheelOfFortune",
@@ -46032,7 +46037,7 @@
       "Name": "True Soldier",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49072
+      "UsersEstimate": 49073
     },
     {
       "ID": "TrueWarrior",
@@ -46040,7 +46045,7 @@
       "Name": "True Warrior",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29443
+      "UsersEstimate": 29444
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -46064,7 +46069,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117773
+      "UsersEstimate": 117775
     },
     {
       "ID": "YipMan",
@@ -46080,7 +46085,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29443
+      "UsersEstimate": 29444
     },
     {
       "ID": "All the President\u0027s Men",
@@ -46112,7 +46117,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "Easycomeeasygo",
@@ -46136,7 +46141,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "Kingofcups",
@@ -46200,7 +46205,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "IHateSpider",
@@ -46248,7 +46253,7 @@
       "Name": "The Tower",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "DirtyWork",
@@ -46271,21 +46276,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981442,
+      "Progressed": 981456,
       "Completed": 2975
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110065,
+      "Progressed": 110079,
       "Completed": 10459
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-26T03:03:43.1187394+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:06:27.6543154+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:05:10.478504+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:03:43.1187401+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:06:27.6544793+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:02:53.1941152+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:05:10.4787132+00:00"
 }

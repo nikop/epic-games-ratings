@@ -6,25 +6,25 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,773 |
-| Gun Fu | 8.00% | ~78,515 |
-| The Fool | 7.00% | ~68,701 |
+| V for Vendetta | 12.00% | ~117,775 |
+| Gun Fu | 8.00% | ~78,516 |
+| The Fool | 7.00% | ~68,702 |
 | Right Back At Ya | 6.00% | ~58,887 |
 | The Lovers | 6.00% | ~58,887 |
-| Full Body Conversion | 5.00% | ~49,072 |
-| True Soldier | 5.00% | ~49,072 |
+| Full Body Conversion | 5.00% | ~49,073 |
+| True Soldier | 5.00% | ~49,073 |
 | Christmas Tree Attack | 4.00% | ~39,258 |
 | Stanislavski's Method | 4.00% | ~39,258 |
 | The Hermit | 4.00% | ~39,258 |
 | The Wheel of Fortune | 4.00% | ~39,258 |
 | All the President's Men | 4.00% | ~4,403 |
 | Arachnophobia | 4.00% | ~4,403 |
-| Master Crafter | 3.00% | ~29,443 |
-| The Quick and the Dead | 3.00% | ~29,443 |
-| Life of the Road | 3.00% | ~29,443 |
-| The High Priestess | 3.00% | ~29,443 |
-| True Warrior | 3.00% | ~29,443 |
-| Legend of The Afterlife | 3.00% | ~29,443 |
+| Master Crafter | 3.00% | ~29,444 |
+| The Quick and the Dead | 3.00% | ~29,444 |
+| Life of the Road | 3.00% | ~29,444 |
+| The High Priestess | 3.00% | ~29,444 |
+| True Warrior | 3.00% | ~29,444 |
+| Legend of The Afterlife | 3.00% | ~29,444 |
 | Relic Ruler | 3.00% | ~3,302 |
 | Bushido and Chill | 2.00% | ~19,629 |
 | To Protect and Serve | 2.00% | ~19,629 |
@@ -32,20 +32,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,629 |
 | Two Heads, One Bullet | 2.00% | ~19,629 |
 | Judy vs Night City | 2.00% | ~19,629 |
-| Spin Doctor | 2.00% | ~2,201 |
-| To Bad Decisions! | 1.00% | ~9,814 |
-| The Wandering Fool | 1.00% | ~9,814 |
-| Ten out of Ten | 1.00% | ~9,814 |
-| The Sun | 1.00% | ~9,814 |
+| Spin Doctor | 2.00% | ~2,202 |
+| To Bad Decisions! | 1.00% | ~9,815 |
+| The Wandering Fool | 1.00% | ~9,815 |
+| Ten out of Ten | 1.00% | ~9,815 |
+| The Sun | 1.00% | ~9,815 |
 | King of Wands | 1.00% | ~1,101 |
 | Dirty Deeds | 1.00% | ~1,101 |
 | Easy Come, Easy Go | 1.00% | ~1,101 |
 | The Star | 0.90% | ~8,833 |
 | Breathtaking | 0.80% | ~7,852 |
 | Autojock | 0.70% | ~6,870 |
-| The APB is Not Enough | 0.70% | ~770 |
-| Judgement Day | 0.70% | ~770 |
-| The Tower | 0.70% | ~770 |
+| The APB is Not Enough | 0.70% | ~771 |
+| Judgement Day | 0.70% | ~771 |
+| The Tower | 0.70% | ~771 |
 | Must Be Rats | 0.60% | ~5,889 |
 | Temperance | 0.60% | ~5,889 |
 | King of Pentacles | 0.60% | ~660 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,442 (Ranked 16)  
+Progressed: 981,456 (Ranked 16)  
 Completed: 2,975 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,975 (0.30%) (Ranked 254)
 | 2023-12-23 | 980,526 | 2,962 |
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
-| 2023-12-26 | 981,442 | 2,975 |
+| 2023-12-26 | 981,456 | 2,975 |
 ## Awards
 Max (Character Customization): 127,442  (Ranked 8)  
 Sum: 444,060 (Ranked 9)  

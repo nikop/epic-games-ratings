@@ -17,8 +17,8 @@
 | Your own amateur gym | 69.00% | ~323 |
 | First defeat | 68.00% | ~318 |
 | Run K, run! | 68.00% | ~318 |
+| Hello, world! | 67.00% | ~314 |
 | No bullying more | 66.00% | ~309 |
-| Hello, world! | 66.00% | ~309 |
 | Fighting is cool | 65.00% | ~304 |
 | Pal of your father? | 63.00% | ~295 |
 | Spirit of the past | 61.00% | ~285 |
@@ -42,8 +42,8 @@
 | Guiding on the right path | 41.00% | ~192 |
 | No blades in the gym | 40.00% | ~187 |
 | Champion – no way back | 38.00% | ~178 |
+| Responsible approach | 38.00% | ~178 |
 | Underground dwellers | 37.00% | ~173 |
-| Responsible approach | 37.00% | ~173 |
 | Mom got better | 35.00% | ~164 |
 | Deal with life | 35.00% | ~164 |
 | GYM professional | 35.00% | ~164 |

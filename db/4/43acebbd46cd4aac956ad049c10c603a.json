@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -241,9 +241,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3071,6 +3071,11 @@
       "Time": "2023-12-26T02:22:58.6637+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-26T04:03:37.7799317+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3091,7 +3096,7 @@
       "Name": "Ab Initio",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "AnthropicHills",
@@ -3123,7 +3128,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "BreakTheLoop",
@@ -3131,7 +3136,7 @@
       "Name": "Break the Loop",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "BridgeBuilder",
@@ -3139,7 +3144,7 @@
       "Name": "Bridge Builder",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ChasingTheLight",
@@ -3227,7 +3232,7 @@
       "Name": "Good Citizen",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GrasslandsRing",
@@ -3243,7 +3248,7 @@
       "Name": "High Plain",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "IntoTheMachine",
@@ -3267,7 +3272,7 @@
       "Name": "Lord of the Files",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "LostMarshes",
@@ -3315,7 +3320,7 @@
       "Name": "A New Beginning",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "NewMorality",
@@ -3329,9 +3334,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 91
     },
     {
       "ID": "Overload",
@@ -3475,7 +3480,7 @@
       "Name": "The Spark",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "TheThiefOfFire",
@@ -3491,7 +3496,7 @@
       "Name": "The Word Endures",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "TouchGrass",
@@ -3523,7 +3528,7 @@
       "Name": "Wanderers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "WesternDelta",
@@ -3554,7 +3559,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 2
     }
   ],
@@ -3562,8 +3567,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-25T10:58:09.9722953+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:04:45.5292545+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:03:37.7799312+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:59:36.8522196+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:04:45.5293135+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:58:44.1705707+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:03:37.7799876+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3421,9 +3421,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 266
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3517,9 +3517,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 133
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3549,9 +3549,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 266
     },
     {
       "ID": "WatcherFought",
@@ -3598,8 +3598,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:10:58.9931792+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:09:33.1401297+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-26T02:59:09.8192436+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:10:58.9932327+00:00"
+  "LastUpdate_Ratings": "2023-12-26T03:58:26.2037159+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:09:33.1401806+00:00"
 }

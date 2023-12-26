@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,774 |
+| Distinguished Service Medal | 91.00% | ~2,775 |
 | Spectre Inductee | 68.00% | ~2,073 |
-| Medal of Exploration I | 57.00% | ~1,737 |
-| Recruit | 53.00% | ~1,615 |
+| Medal of Exploration I | 57.00% | ~1,738 |
+| Recruit | 53.00% | ~1,616 |
 | Search and Rescue | 52.00% | ~1,585 |
 | Quarian Ally | 50.00% | ~1,524 |
 | Honorarium of Corporate Service | 45.00% | ~1,372 |
-| Medal of Heroism | 44.00% | ~1,341 |
-| Turian Ally | 42.00% | ~1,280 |
+| Medal of Heroism | 44.00% | ~1,342 |
+| Turian Ally | 42.00% | ~1,281 |
 | Medal of Exploration II | 39.00% | ~1,189 |
 | Council Legion of Merit | 39.00% | ~1,189 |
-| Medal of Honor | 36.00% | ~1,097 |
-| Soldier Ally | 36.00% | ~1,097 |
-| Charismatic | 36.00% | ~1,097 |
+| Medal of Honor | 36.00% | ~1,098 |
+| Soldier Ally | 36.00% | ~1,098 |
+| Charismatic | 36.00% | ~1,098 |
 | Meritorious Service Medal | 35.00% | ~1,067 |
-| Soldier | 34.00% | ~1,036 |
-| Asari Ally | 34.00% | ~1,036 |
-| Missing in Action | 34.00% | ~1,036 |
+| Soldier | 34.00% | ~1,037 |
+| Asari Ally | 34.00% | ~1,037 |
+| Missing in Action | 34.00% | ~1,037 |
 | Principled | 33.00% | ~1,006 |
 | Colonial Savior | 33.00% | ~1,006 |
-| Medal of Exploration III | 32.00% | ~975 |
-| Krogan Ally | 32.00% | ~975 |
-| Very Elusive | 32.00% | ~975 |
+| Medal of Exploration III | 32.00% | ~976 |
+| Krogan Ally | 32.00% | ~976 |
+| Very Elusive | 32.00% | ~976 |
 | Sentinel Ally | 31.00% | ~945 |
-| Paramour I | 30.00% | ~914 |
-| Merciless | 30.00% | ~914 |
-| Scientist | 30.00% | ~914 |
+| Paramour I | 30.00% | ~915 |
+| Merciless | 30.00% | ~915 |
+| Scientist | 30.00% | ~915 |
 | Scholar | 29.00% | ~884 |
-| The Professor | 28.00% | ~853 |
-| Head Hunter | 28.00% | ~853 |
+| The Professor | 28.00% | ~854 |
+| Head Hunter | 28.00% | ~854 |
 | The Archangel | 27.00% | ~823 |
 | Operative | 27.00% | ~823 |
-| Power Full | 26.00% | ~792 |
+| Power Full | 26.00% | ~793 |
 | The Convict | 25.00% | ~762 |
 | The Krogan | 25.00% | ~762 |
 | Veteran | 24.00% | ~732 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~30 |
 | The One and Only | 0.60% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,048 (Ranked 220)  
+Progressed: 3,049 (Ranked 220)  
 Completed: 10 (0.33%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,4 +234,4 @@ Completed: 10 (0.33%) (Ranked 246)
 | 2023-12-23 | 2,871 | 9 |
 | 2023-12-24 | 2,964 | 9 |
 | 2023-12-25 | 3,034 | 10 |
-| 2023-12-26 | 3,048 | 10 |
+| 2023-12-26 | 3,049 | 10 |

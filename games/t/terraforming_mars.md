@@ -6,30 +6,30 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~32,402 |
-| Final touch | 34.00% | ~29,775 |
-| Prop-M Rover | 32.00% | ~28,024 |
-| Changing the Planet | 28.00% | ~24,521 |
-| Sojourner | 26.00% | ~22,769 |
-| New Home | 23.00% | ~20,142 |
-| Beagle 2 | 23.00% | ~20,142 |
+| It's a steal! | 37.00% | ~32,403 |
+| Final touch | 34.00% | ~29,776 |
+| Prop-M Rover | 32.00% | ~28,025 |
+| Changing the Planet | 28.00% | ~24,522 |
+| Sojourner | 26.00% | ~22,770 |
+| New Home | 23.00% | ~20,143 |
+| Beagle 2 | 23.00% | ~20,143 |
 | Winner Winner Terraformer | 21.00% | ~18,391 |
-| Project Manager | 19.00% | ~16,639 |
-| Collector | 19.00% | ~16,639 |
-| No Longer Red | 18.00% | ~15,763 |
-| Curiosity | 18.00% | ~15,763 |
-| Master | 18.00% | ~15,763 |
+| Project Manager | 19.00% | ~16,640 |
+| Collector | 19.00% | ~16,640 |
+| No Longer Red | 18.00% | ~15,764 |
+| Curiosity | 18.00% | ~15,764 |
+| Master | 18.00% | ~15,764 |
 | Self-sufficient | 17.00% | ~14,888 |
-| Money money | 15.00% | ~13,136 |
-| Biggest Reward | 14.00% | ~12,260 |
+| Money money | 15.00% | ~13,137 |
+| Biggest Reward | 14.00% | ~12,261 |
 | First Journey | 13.00% | ~11,385 |
 | Acquired knowledge | 12.00% | ~10,509 |
 | Landlord | 11.00% | ~9,633 |
 | Most Achievements | 11.00% | ~9,633 |
 | Hellenic Elysium | 11.00% | ~9,633 |
 | Grand champion | 11.00% | ~9,633 |
-| Spirit | 10.00% | ~8,757 |
-| Ultimate success | 10.00% | ~8,757 |
+| Spirit | 10.00% | ~8,758 |
+| Ultimate success | 10.00% | ~8,758 |
 | Variety Expert | 9.00% | ~7,882 |
 | Frequent tester | 8.00% | ~7,006 |
 | Determined | 7.00% | ~6,130 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,627 |
 | Opportunity | 3.00% | ~2,627 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,574 (Ranked 99)  
+Progressed: 87,577 (Ranked 99)  
 Completed: 177 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 177 (0.20%) (Ranked 274)
 | 2023-12-23 | 87,237 | 176 |
 | 2023-12-24 | 87,384 | 176 |
 | 2023-12-25 | 87,553 | 177 |
-| 2023-12-26 | 87,574 | 177 |
+| 2023-12-26 | 87,577 | 177 |
 ## Awards
 Max (Relaxing): 534  (Ranked 212)  
 Sum: 3,311 (Ranked 175)  

@@ -6,46 +6,46 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 79.00% | ~148 |
-| First of many… | 68.00% | ~127 |
-| Helping Hand | 66.00% | ~123 |
-| Increased Vigor | 62.00% | ~116 |
-| Fight Fire with Fire | 60.00% | ~112 |
-| Increased Capacity | 56.00% | ~105 |
-| Just the start | 52.00% | ~97 |
-| Perfect Storm | 49.00% | ~92 |
-| All That Glitters | 48.00% | ~90 |
-| Enhance! | 44.00% | ~82 |
+| Green with Envy | 78.00% | ~147 |
+| First of many… | 68.00% | ~129 |
+| Helping Hand | 66.00% | ~125 |
+| Increased Vigor | 61.00% | ~115 |
+| Fight Fire with Fire | 60.00% | ~113 |
+| Increased Capacity | 56.00% | ~106 |
+| Just the start | 51.00% | ~96 |
+| Perfect Storm | 48.00% | ~91 |
+| All That Glitters | 47.00% | ~89 |
+| Enhance! | 44.00% | ~83 |
 | One Of the Chosen | 42.00% | ~79 |
-| Throne Potato | 40.00% | ~75 |
-| Devil's in the Details | 39.00% | ~73 |
-| Soul Harvester | 36.00% | ~67 |
-| Five's a Crowd | 36.00% | ~67 |
-| 25 to Life | 36.00% | ~67 |
+| Throne Potato | 39.00% | ~74 |
+| Devil's in the Details | 38.00% | ~72 |
+| 25 to Life | 36.00% | ~68 |
+| Soul Harvester | 35.00% | ~66 |
+| Five's a Crowd | 35.00% | ~66 |
 | Unshakable Fortitude | 34.00% | ~64 |
-| Salvation | 34.00% | ~64 |
-| Delusions of Grandeur | 32.00% | ~60 |
-| I Wanna Rock | 31.00% | ~58 |
-| Love Tap | 30.00% | ~56 |
-| Freeze Frame | 29.00% | ~54 |
-| Maximum Vigor | 28.00% | ~52 |
-| Eat Your Heart Out | 28.00% | ~52 |
+| Salvation | 33.00% | ~62 |
+| I Wanna Rock | 31.00% | ~59 |
+| Delusions of Grandeur | 31.00% | ~59 |
+| Love Tap | 30.00% | ~57 |
+| Freeze Frame | 29.00% | ~55 |
+| Maximum Vigor | 28.00% | ~53 |
+| Eat Your Heart Out | 28.00% | ~53 |
 | For Whom the Bell Tolls | 26.00% | ~49 |
 | Unyielding Strength | 24.00% | ~45 |
 | Crowd Source | 23.00% | ~43 |
-| Cleanup Crew | 22.00% | ~41 |
-| Can you restore the Balance? | 22.00% | ~41 |
-| Big Spender | 22.00% | ~41 |
-| Maximum Capacity | 21.00% | ~39 |
-| Demon Meddler | 20.00% | ~37 |
+| Maximum Capacity | 22.00% | ~42 |
+| Cleanup Crew | 22.00% | ~42 |
+| Can you restore the Balance? | 22.00% | ~42 |
+| Big Spender | 22.00% | ~42 |
+| Demon Meddler | 20.00% | ~38 |
 | Seeing Red | 19.00% | ~36 |
-| Egomaniac | 18.00% | ~34 |
-| Protector of Humanity | 16.00% | ~30 |
-| Everybody Wants to Rule the World | 16.00% | ~30 |
-| Unbreakable Will | 13.00% | ~24 |
-| A Parting Gift | 13.00% | ~24 |
-| Community Outreach | 13.00% | ~24 |
-| Take it to the Limit | 12.00% | ~22 |
+| Egomaniac | 17.00% | ~32 |
+| Protector of Humanity | 15.00% | ~28 |
+| Everybody Wants to Rule the World | 15.00% | ~28 |
+| Unbreakable Will | 13.00% | ~25 |
+| A Parting Gift | 13.00% | ~25 |
+| Community Outreach | 13.00% | ~25 |
+| Take it to the Limit | 12.00% | ~23 |
 | Path of the Horseman | 11.00% | ~21 |
 | Holy Keeper | 10.00% | ~19 |
 | Humanitarian | 10.00% | ~19 |
@@ -58,10 +58,10 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Sky | 5.00% | ~9 |
 | Keep it 100! | 5.00% | ~9 |
 | Made of Sterner Stuff | 5.00% | ~9 |
-| Balance in all things | 4.00% | ~7 |
-| Keeper of Colossal Automata | 4.00% | ~7 |
-| Keeper of the Tempo | 4.00% | ~7 |
-| BFA | 4.00% | ~7 |
+| Balance in all things | 4.00% | ~8 |
+| Keeper of Colossal Automata | 4.00% | ~8 |
+| Keeper of the Tempo | 4.00% | ~8 |
+| BFA | 4.00% | ~8 |
 | "Impressive!" | 3.00% | ~6 |
 | "Incredible!" | 3.00% | ~6 |
 | Proceed on your way to Armageddon | 3.00% | ~6 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 1.00% | ~2 |
 | Beast Mode | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 417)  
+Progressed: 189 (Ranked 416)  
 Completed: 1 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.53%) (Ranked 213)
 | 2023-12-23 | 121 | 1 |
 | 2023-12-24 | 159 | 1 |
 | 2023-12-25 | 184 | 1 |
-| 2023-12-26 | 187 | 1 |
+| 2023-12-26 | 189 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 385)  
 Sum: 94 (Ranked 463)  

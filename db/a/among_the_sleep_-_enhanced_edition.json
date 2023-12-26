@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96785,
+  "EOS_Progressed": 96790,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -28295,6 +28295,11 @@
       "Time": "2023-12-26T03:09:51.7353173+00:00",
       "NumProgressed": 96785,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2023-12-26T04:08:44.7721139+00:00",
+      "NumProgressed": 96790,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 10,
@@ -28306,7 +28311,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4840
     },
     {
       "ID": "Drawings01",
@@ -28330,7 +28335,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "Drawings04",
@@ -28362,7 +28367,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9678
+      "UsersEstimate": 9679
     },
     {
       "ID": "Level00BowlingStrike",
@@ -28370,7 +28375,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33875
+      "UsersEstimate": 33876
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -28378,22 +28383,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10646
+      "UsersEstimate": 10647
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 96785,
+      "Progressed": 96790,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:09:51.7353169+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:08:44.7721133+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.9488301+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:03:48.4303107+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:09:51.7354664+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:02:57.5673669+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:08:44.7722756+00:00"
 }

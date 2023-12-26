@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 335311,
+  "EOS_Progressed": 335333,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4112,
+  "EOS_NewPlayers": 4113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10988,6 +10988,11 @@
       "Time": "2023-12-26T03:09:04.401107+00:00",
       "NumProgressed": 335311,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-26T04:07:01.7458881+00:00",
+      "NumProgressed": 335333,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11000,7 +11005,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13412
+      "UsersEstimate": 13413
     },
     {
       "ID": "S02_BRDA",
@@ -11008,7 +11013,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10059
+      "UsersEstimate": 10060
     },
     {
       "ID": "S03_OTWA",
@@ -11024,7 +11029,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "S05_SWRA",
@@ -11136,7 +11141,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13412
+      "UsersEstimate": 13413
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11192,7 +11197,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "S26_CRTA",
@@ -11319,7 +11324,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 335311,
+      "Progressed": 335333,
       "Completed": 6
     }
   ],
@@ -11327,8 +11332,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-23T01:40:19.2181541+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:09:04.4011065+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:07:01.7458876+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:01:43.8907247+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:09:04.4011773+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:00:09.2613189+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:07:01.7459763+00:00"
 }

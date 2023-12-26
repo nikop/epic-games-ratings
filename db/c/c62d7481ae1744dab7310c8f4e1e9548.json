@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -995,9 +995,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "Stonozka",
@@ -1066,8 +1066,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-26T03:06:09.0599934+00:00",
+  "LastChanged_Achievements": "2023-12-26T04:04:57.0054597+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-26T03:03:25.4815885+00:00",
-  "LastUpdate_Achievements": "2023-12-26T03:06:09.0600176+00:00"
+  "LastUpdate_Ratings": "2023-12-26T04:02:41.1453575+00:00",
+  "LastUpdate_Achievements": "2023-12-26T04:04:57.0054807+00:00"
 }
