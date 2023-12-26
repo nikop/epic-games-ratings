@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Rise of Gun](games/1/14ec2c5dd11d47dc882f7eb519795498.md) | 2023-12-25 | - |  | - | - |
 | [Otok](games/c/cb2b40b6713d48768e5950e2d77f9fd8.md) | 2023-12-26 | - |  | - | - |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 5 | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 49 | - | - |
