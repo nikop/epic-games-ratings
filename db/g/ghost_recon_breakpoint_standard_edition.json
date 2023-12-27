@@ -2,13 +2,13 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 514,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11794,10 +11794,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 14303,
       "NumberOfAwardsMax": 1813
+    },
+    {
+      "Time": "2023-12-27T15:59:19.3617175+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 14307,
+      "NumberOfAwardsMax": 1813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14303,
+  "NumberOfAwards": 14307,
   "NumberOfAwardsMax": 1813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11817,7 +11823,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1503
+      "Count": 1505
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11841,7 +11847,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1564
+      "Count": 1566
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11873,8 +11879,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-12-27T09:59:03.7699617+00:00",
+  "LastChanged": "2023-12-27T15:59:19.3617173+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:28.0446823+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:58:41.3952751+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:03:52.8718806+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:59:19.361718+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:04:50.5564531+00:00"
 }

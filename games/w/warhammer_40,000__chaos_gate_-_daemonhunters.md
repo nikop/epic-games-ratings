@@ -1,16 +1,16 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 456)  
+Rating: 4.58 (Ranked 459)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 15.00% | ~542 |
 | Look Over There! | 12.00% | ~434 |
+| Not So Fast... | 12.00% | ~434 |
 | Watch Where You Step... | 12.00% | ~434 |
 | An Ill Omen | 12.00% | ~434 |
-| Not So Fast... | 11.00% | ~397 |
 | Purging Spree | 8.00% | ~289 |
 | Blood for the Blood God! | 7.00% | ~253 |
 | Bloodless | 6.00% | ~217 |

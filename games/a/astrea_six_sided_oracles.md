@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 80.00% | ~201 |
-| Purification Pioneer | 75.00% | ~188 |
-| Mechanical Buddy | 71.00% | ~178 |
+| Meissa's Savior | 80.00% | ~202 |
+| Purification Pioneer | 75.00% | ~189 |
+| Mechanical Buddy | 70.00% | ~176 |
 | Dicesmithing Time! | 62.00% | ~156 |
 | Sanctuary Guardian | 54.00% | ~136 |
 | Endless Tricks | 49.00% | ~123 |
-| Wild's Keeper | 46.00% | ~115 |
+| Wild's Keeper | 46.00% | ~116 |
 | Mind Illuminator | 43.00% | ~108 |
 | Stellar Dismantler | 35.00% | ~88 |
 | Noctuan Champion | 35.00% | ~88 |
 | Anomaly Destroyer | 31.00% | ~78 |
-| Astral Adventurer | 30.00% | ~75 |
+| Astral Adventurer | 30.00% | ~76 |
 | Star Killer | 27.00% | ~68 |
 | Eridanian Champion | 25.00% | ~63 |
-| Lacertian Champion | 22.00% | ~55 |
 | Loyal Partner | 21.00% | ~53 |
-| Apian Champion | 20.00% | ~50 |
-| Shard Spender | 18.00% | ~45 |
+| Lacertian Champion | 21.00% | ~53 |
+| Apian Champion | 19.00% | ~48 |
+| Shard Spender | 17.00% | ~43 |
 | Unbeatable | 17.00% | ~43 |
-| Sadistic Plan | 16.00% | ~40 |
+| Sadistic Plan | 15.00% | ~38 |
 | Behenian Champion | 15.00% | ~38 |
 | Astral Seeker | 10.00% | ~25 |
 | Stellar Haste | 10.00% | ~25 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251 (Ranked 397)  
+Progressed: 252 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,4 +165,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 234 | 0 |
 | 2023-12-25 | 241 | 0 |
 | 2023-12-26 | 246 | 0 |
-| 2023-12-27 | 251 | 0 |
+| 2023-12-27 | 252 | 0 |

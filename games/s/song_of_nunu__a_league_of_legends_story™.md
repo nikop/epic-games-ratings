@@ -1,16 +1,16 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 565)  
+Rating: 4.52 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,000 |
 | I Broke It | 73.00% | ~987 |
 | Better On Ice | 67.00% | ~906 |
+| Blue Dreams | 66.00% | ~892 |
+| He's Famous! | 66.00% | ~892 |
 | Notai Notes | 66.00% | ~892 |
-| Blue Dreams | 65.00% | ~879 |
-| He's Famous! | 65.00% | ~879 |
 | Krugmazing | 64.00% | ~865 |
 | Cutie Poro | 64.00% | ~865 |
 | Moneyball | 60.00% | ~811 |

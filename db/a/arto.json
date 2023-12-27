@@ -2,10 +2,10 @@
   "ID": "4c0237e4e04a46df8b8555dbb35682f8",
   "Name": "Arto",
   "ProductSlug": "arto-ff98ff",
-  "Ranking_EOS_Progress": 701,
+  "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-01T15:00:00+00:00",
     "PcReleaseDate": "2023-05-01T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -42,6 +42,11 @@
       "Time": "2023-09-30T05:06:22.0676689+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T16:11:09.3373255+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T21:06:57.3189307+00:00",
@@ -52,7 +57,7 @@
       "ID": "BACK_BLACK",
       "SetID": "51mnk21",
       "Name": "Back in Black",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -60,7 +65,7 @@
       "ID": "BURNT_CRISP",
       "SetID": "51mnk21",
       "Name": "Burnt to a Crisp",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -68,7 +73,7 @@
       "ID": "CHANCE_ENCOUNTER",
       "SetID": "51mnk21",
       "Name": "A Chance Encounter?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "DEMONS_DEFEATED",
       "SetID": "51mnk21",
       "Name": "Demons Defeated",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "EPIC_GAINS",
       "SetID": "51mnk21",
       "Name": "Epic Gains",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -108,7 +113,7 @@
       "ID": "EXPLORER",
       "SetID": "51mnk21",
       "Name": "Explorer",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "Name": "The First Step",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FULL_METAL",
@@ -140,7 +145,7 @@
       "ID": "HOW_HAPPEN",
       "SetID": "51mnk21",
       "Name": "How Did it Happen?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -197,13 +202,13 @@
     {
       "ID": "51mnk21",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-12T18:06:31.6672669+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:09:50.2435396+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:11:09.3373251+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.875588+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:58:57.8926804+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:09:50.2435472+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:59:44.6863178+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:11:09.3373363+00:00"
 }

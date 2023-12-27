@@ -2,13 +2,13 @@
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
-  "Ranking_Rating": 186,
+  "Ranking_Rating": 187,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2020-03-13T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -3371,6 +3371,6 @@
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
   "LastChanged": "2023-12-25T14:57:20.7215916+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:14.6290046+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:58:19.8823545+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:04:47.4954132+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:58:48.6268304+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:06:12.8416061+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1785,
+  "EOS_Progressed": 1787,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2948,6 +2948,11 @@
       "Time": "2023-12-26T21:04:32.3244601+00:00",
       "NumProgressed": 1785,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-27T16:06:18.645619+00:00",
+      "NumProgressed": 1787,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2959,7 +2964,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "10",
@@ -2975,7 +2980,7 @@
       "Name": "Strike!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "12",
@@ -2983,7 +2988,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "13",
@@ -3007,7 +3012,7 @@
       "Name": "Back to rust",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "16",
@@ -3015,7 +3020,7 @@
       "Name": "My little pony",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "17",
@@ -3023,7 +3028,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1305
     },
     {
       "ID": "18",
@@ -3047,7 +3052,7 @@
       "Name": "Flower Powered",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "20",
@@ -3055,7 +3060,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "21",
@@ -3111,7 +3116,7 @@
       "Name": "A love supreme",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "3",
@@ -3119,7 +3124,7 @@
       "Name": "Hug therapy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "30",
@@ -3167,7 +3172,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "7",
@@ -3198,15 +3203,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1785,
+      "Progressed": 1787,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:04:51.6358559+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:06:18.6456185+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:26.4113393+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:04:51.6358836+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:00:28.2638352+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:06:18.6456445+00:00"
 }

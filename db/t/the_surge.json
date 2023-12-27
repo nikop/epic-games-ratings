@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 706,
+  "Ranking_Rating": 709,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -396,7 +396,7 @@
   ],
   "EOS_Progressed": 5088,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4727,8 +4727,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:04:53.0788692+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:06:21.0367485+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:14.5745285+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:04:53.0789361+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:00:09.616561+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:06:21.0368091+00:00"
 }

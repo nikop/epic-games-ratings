@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 456)  
+Rating: 4.58 (Ranked 459)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 1.00% | ~2,418 |
 | Uncharted Territory | 1.00% | ~2,418 |
 | Matching | 1.00% | ~33 |
-| Getting A Glimpse | 0.90% | ~2,176 |
-| A Quick Escape | 0.90% | ~2,176 |
+| Getting A Glimpse | 0.90% | ~2,177 |
+| A Quick Escape | 0.90% | ~2,177 |
 | Heavy Hitter | 0.80% | ~1,935 |
 | That Was Quick | 0.80% | ~1,935 |
 | Colorful Corpse | 0.80% | ~1,935 |
@@ -19,7 +19,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.80% | ~1,935 |
 | Explorer | 0.80% | ~1,935 |
 | An Offering | 0.80% | ~1,935 |
-| Not Touching You | 0.80% | ~26 |
+| Not Touching You | 0.80% | ~27 |
 | Ambitious Intent | 0.70% | ~1,693 |
 | Nothing To Lose | 0.70% | ~1,693 |
 | Delving Deeper | 0.70% | ~1,693 |
@@ -66,14 +66,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.40% | ~967 |
 | The Long Run | 0.40% | ~967 |
 | Who Needs Luck? | 0.40% | ~13 |
-| New Game+ | 0.30% | ~725 |
-| Barbecue | 0.30% | ~725 |
-| Berzerker | 0.30% | ~725 |
-| Juggernaut | 0.30% | ~725 |
-| Decisions, Decisions | 0.30% | ~725 |
-| Snake Sneak | 0.30% | ~725 |
-| Obsessed | 0.30% | ~725 |
-| Precious | 0.30% | ~725 |
+| New Game+ | 0.30% | ~726 |
+| Barbecue | 0.30% | ~726 |
+| Berzerker | 0.30% | ~726 |
+| Juggernaut | 0.30% | ~726 |
+| Decisions, Decisions | 0.30% | ~726 |
+| Snake Sneak | 0.30% | ~726 |
+| Obsessed | 0.30% | ~726 |
+| Precious | 0.30% | ~726 |
 | Achievement Hunter | 0.20% | ~484 |
 | Challenge Increases | 0.20% | ~484 |
 | A Long Climb | 0.20% | ~484 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,828 (Ranked 70)  
+Progressed: 241,834 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
 | 2023-12-26 | 241,782 | 302 |
-| 2023-12-27 | 241,828 | 302 |
+| 2023-12-27 | 241,834 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,763 (Ranked 88)  

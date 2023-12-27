@@ -1,16 +1,16 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 296)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 16.00% | ~68 |
+| Jellyfish Jam | 15.00% | ~64 |
 | Sponge Smasher | 15.00% | ~64 |
-| Jellyfish Jam | 14.00% | ~60 |
-| Jellyfishing | 10.00% | ~42 |
-| Time For Tutorial | 10.00% | ~42 |
+| Jellyfishing | 10.00% | ~43 |
+| Time For Tutorial | 10.00% | ~43 |
 | Sweet Victory | 9.00% | ~38 |
 | Sock Getter | 9.00% | ~38 |
 | Surf's Up! | 8.00% | ~34 |
@@ -30,17 +30,17 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 3.00% | ~13 |
 | Kelp Forest of Fear | 3.00% | ~13 |
 | Ultra Spatula Seeker | 3.00% | ~13 |
-| The Small Does Not Rule | 2.00% | ~8 |
-| SpongeBob vs SpongeBob! | 2.00% | ~8 |
-| Sleepy Time | 2.00% | ~8 |
-| Sock Concert | 2.00% | ~8 |
+| The Small Does Not Rule | 2.00% | ~9 |
+| SpongeBob vs SpongeBob! | 2.00% | ~9 |
+| Sleepy Time | 2.00% | ~9 |
+| Sock Concert | 2.00% | ~9 |
+| Mega Spatula Seeker | 1.00% | ~4 |
 | Sock Opera | 0.90% | ~4 |
-| Mega Spatula Seeker | 0.90% | ~4 |
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 351)  
-Completed: 3 (0.71%) (Ranked 196)  
+Progressed: 426 (Ranked 351)  
+Completed: 3 (0.70%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,7 +53,7 @@ Completed: 3 (0.71%) (Ranked 196)
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
-| 2023-12-27 | 425 | 3 |
+| 2023-12-27 | 426 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

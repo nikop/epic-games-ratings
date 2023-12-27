@@ -2,13 +2,13 @@
   "ID": "2d2a077b8b7f450299ecd7068256aec4",
   "Name": "Trek to Yomi",
   "ProductSlug": "trek-to-yomi-70d134",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -79,8 +79,8 @@
   "FirstSeenRating": "2022-11-05T21:02:46.105009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.0276808+00:00",
   "LastChanged": "2023-08-09T13:59:08.6744816+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:05:48.9405162+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:07:42.5535827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:35.4678136+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:58:35.1880889+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:05:48.9405192+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:59:10.0936997+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:07:42.5535898+00:00"
 }

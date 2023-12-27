@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Pioneer | 26.00% | ~20 |
+| Collector | 6.00% | ~5 |
 | Firefighter | 6.00% | ~5 |
-| Collector | 5.00% | ~4 |
-| St. Martin | 5.00% | ~4 |
+| St. Martin | 6.00% | ~5 |
 | Summoner | 4.00% | ~3 |
 | Bad knight | 4.00% | ~3 |
 | Invisible encounter | 3.00% | ~2 |

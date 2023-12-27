@@ -1,22 +1,22 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.58 (Ranked 1,069)  
+Rating: 3.58 (Ranked 1,071)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 14.00% | ~294 |
+| I Like My Stakes Rare! | 14.00% | ~295 |
 | Catch and Release | 11.00% | ~231 |
 | Home Is Where the Heart Is | 10.00% | ~210 |
 | ICU | 9.00% | ~189 |
 | Wounded Whispers | 9.00% | ~189 |
 | Blood Will Have Blood | 8.00% | ~168 |
-| Ne Plus Ultra | 7.00% | ~147 |
+| Ne Plus Ultra | 8.00% | ~168 |
 | Fly Fisher | 7.00% | ~147 |
 | Peek-a-boo | 7.00% | ~147 |
+| Sucks To Be You | 7.00% | ~147 |
 | Welcome to the Neighborhood | 6.00% | ~126 |
 | Throw The First Stone | 6.00% | ~126 |
-| Sucks To Be You | 6.00% | ~126 |
 | Enter of Your Own Free Will | 5.00% | ~105 |
 | Heart Attack | 5.00% | ~105 |
 | Skin of Their Teeth | 5.00% | ~105 |
@@ -28,6 +28,7 @@ Rating: 3.58 (Ranked 1,069)
 | Bell-ringer | 2.00% | ~42 |
 | Silence Is Golden | 2.00% | ~42 |
 | Good Morning | 2.00% | ~42 |
+| You Clean It Up | 2.00% | ~42 |
 | From the Shadows | 2.00% | ~42 |
 | Starve the Beast | 2.00% | ~42 |
 | Harvest’s End | 2.00% | ~42 |
@@ -36,7 +37,6 @@ Rating: 3.58 (Ranked 1,069)
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
 | Block Party | 1.00% | ~21 |
-| You Clean It Up | 1.00% | ~21 |
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,069)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,103 (Ranked 236)  
+Progressed: 2,104 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
-| 2023-12-27 | 2,103 | 0 |
+| 2023-12-27 | 2,104 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

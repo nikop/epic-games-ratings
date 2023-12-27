@@ -1,20 +1,20 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 677)  
+Rating: 4.45 (Ranked 679)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,943 |
 | Confirming Suspicions | 42.00% | ~1,736 |
-| The Kraken Wakes | 37.00% | ~1,529 |
-| It's Starting to Crack | 34.00% | ~1,405 |
-| Lord of War | 31.00% | ~1,281 |
-| Change the Channel | 31.00% | ~1,281 |
+| The Kraken Wakes | 37.00% | ~1,530 |
+| It's Starting to Crack | 34.00% | ~1,406 |
+| Lord of War | 31.00% | ~1,282 |
+| Change the Channel | 31.00% | ~1,282 |
 | Taking it back | 29.00% | ~1,199 |
-| Resourceful | 28.00% | ~1,157 |
+| Resourceful | 28.00% | ~1,158 |
 | Target America | 27.00% | ~1,116 |
-| The Kraken Sleeps | 25.00% | ~1,033 |
+| The Kraken Sleeps | 25.00% | ~1,034 |
 | As Quiet as a Mouse | 24.00% | ~992 |
 | Liberté | 23.00% | ~951 |
 | Organ Grinder | 23.00% | ~951 |
@@ -71,13 +71,13 @@ Rating: 4.45 (Ranked 677)
 | Das Familienjuwel | 1.00% | ~41 |
 | Master of Secondaries | 0.90% | ~37 |
 | Master of Rifles | 0.90% | ~37 |
-| Master of Pistols | 0.80% | ~33 |
-| Operation Overlord | 0.80% | ~33 |
+| Master of Pistols | 0.70% | ~29 |
+| Operation Overlord | 0.70% | ~29 |
 | Master-at-arms | 0.60% | ~25 |
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,133 (Ranked 206)  
+Progressed: 4,134 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-24 | 4,106 | 11 |
 | 2023-12-25 | 4,109 | 11 |
 | 2023-12-26 | 4,128 | 11 |
-| 2023-12-27 | 4,133 | 11 |
+| 2023-12-27 | 4,134 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 540)  

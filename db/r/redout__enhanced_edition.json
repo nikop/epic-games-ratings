@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 623,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238041,
+  "EOS_Progressed": 238043,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26663,6 +26663,11 @@
       "Time": "2023-12-27T15:03:33.5778309+00:00",
       "NumProgressed": 238041,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-27T16:04:21.4866591+00:00",
+      "NumProgressed": 238043,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26690,7 +26695,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66651
+      "UsersEstimate": 66652
     },
     {
       "ID": "CENTAUR",
@@ -26762,7 +26767,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47608
+      "UsersEstimate": 47609
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -26938,22 +26943,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97597
+      "UsersEstimate": 97598
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238041,
+      "Progressed": 238043,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:03:33.5778304+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:04:21.4866587+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:24.5693997+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:03:33.5779868+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:00:24.8542256+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:04:21.4868007+00:00"
 }

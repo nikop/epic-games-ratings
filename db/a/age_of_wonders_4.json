@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6327,
+  "EOS_Progressed": 6331,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9379,6 +9379,11 @@
       "Time": "2023-12-27T15:04:22.4231655+00:00",
       "NumProgressed": 6327,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T16:05:36.2186927+00:00",
+      "NumProgressed": 6331,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9406,7 +9411,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "12",
@@ -9430,7 +9435,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "15",
@@ -9502,7 +9507,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "23",
@@ -9510,7 +9515,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "24",
@@ -9582,7 +9587,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "32",
@@ -9598,7 +9603,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "34",
@@ -9854,7 +9859,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "60",
@@ -9869,13 +9874,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6327,
+      "Progressed": 6331,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6327,
+      "Progressed": 6331,
       "Completed": 7
     }
   ],
@@ -9883,8 +9888,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:04:22.423165+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:05:36.2186924+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:00:23.5323283+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:04:22.4232419+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:01:54.4069041+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:05:36.218788+00:00"
 }

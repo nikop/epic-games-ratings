@@ -2,13 +2,13 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1230,6 +1230,11 @@
       "Time": "2023-12-27T15:08:41.1990343+00:00",
       "NumProgressed": 441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T16:09:26.104934+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1242,7 +1247,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CareerAllChallenges",
@@ -1250,15 +1255,15 @@
       "Name": "Highballer",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 147
     },
     {
       "ID": "CareerChamp2",
@@ -1266,7 +1271,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CareerChamp3",
@@ -1274,7 +1279,7 @@
       "Name": "Challengers Champion",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CareerChamp4",
@@ -1282,7 +1287,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CareerComplete",
@@ -1298,7 +1303,7 @@
       "Name": "Storm Warning",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 275
     },
     {
       "ID": "CollectVehiclesA",
@@ -1306,7 +1311,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CollectVehiclesB",
@@ -1314,7 +1319,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CreditsEarnedA",
@@ -1352,9 +1357,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "PlayerRankB",
@@ -1384,9 +1389,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1401,7 +1406,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 444,
       "Completed": 0
     }
   ],
@@ -1409,8 +1414,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:08:41.1990338+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:09:26.1049332+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:57:18.9365084+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:08:41.1990598+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:57:16.95849+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:09:26.1049526+00:00"
 }

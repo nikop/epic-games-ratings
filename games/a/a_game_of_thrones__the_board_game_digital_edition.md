@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 932)  
+Rating: 4.21 (Ranked 934)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,629 |
-| Battering Crew | 19.00% | ~5,999 |
-| The Kingsroad | 18.00% | ~5,683 |
-| Well Stocked | 13.00% | ~4,104 |
-| Royal Fleet | 13.00% | ~4,104 |
+| Conqueror | 40.00% | ~12,632 |
+| Battering Crew | 19.00% | ~6,000 |
+| The Kingsroad | 18.00% | ~5,684 |
+| Well Stocked | 13.00% | ~4,105 |
+| Royal Fleet | 13.00% | ~4,105 |
 | The Kraken’s Grasp | 9.00% | ~2,842 |
 | Daggers in the Dark | 8.00% | ~2,526 |
 | Alliance | 8.00% | ~2,526 |
-| Winter is Coming | 7.00% | ~2,210 |
-| Oathkeeper | 7.00% | ~2,210 |
-| Influential | 7.00% | ~2,210 |
-| A Long Journey | 7.00% | ~2,210 |
-| Ours is the Fury | 6.00% | ~1,894 |
-| We Do Not Sow | 6.00% | ~1,894 |
-| Defender of the Wall | 6.00% | ~1,894 |
+| Winter is Coming | 7.00% | ~2,211 |
+| Oathkeeper | 7.00% | ~2,211 |
+| Influential | 7.00% | ~2,211 |
+| A Long Journey | 7.00% | ~2,211 |
+| Ours is the Fury | 6.00% | ~1,895 |
+| We Do Not Sow | 6.00% | ~1,895 |
+| Defender of the Wall | 6.00% | ~1,895 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,579 |
 | Growing Strong | 5.00% | ~1,579 |
 | Hear me Roar! | 5.00% | ~1,579 |
 | What is Dead may Never Die | 3.00% | ~947 |
 | The Swift | 3.00% | ~947 |
-| King in the North | 2.00% | ~631 |
+| King in the North | 2.00% | ~632 |
 | War of the Five Kings | 1.00% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,573 (Ranked 134)  
+Progressed: 31,579 (Ranked 134)  
 Completed: 85 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 85 (0.27%) (Ranked 259)
 | 2023-12-24 | 31,305 | 85 |
 | 2023-12-25 | 31,404 | 85 |
 | 2023-12-26 | 31,513 | 85 |
-| 2023-12-27 | 31,573 | 85 |
+| 2023-12-27 | 31,579 | 85 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
 Sum: 805 (Ranked 286)  

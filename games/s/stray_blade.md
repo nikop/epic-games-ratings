@@ -27,6 +27,7 @@
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
 | The Power of the Mountains | 0.70% | ~1 |
+| Changing the World | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -50,14 +51,13 @@
 | But what of the Acreans? | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
-| Changing the World | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |
 | Everything in its Place | 0.00% | ~0 |
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 440)  
+Progressed: 146 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

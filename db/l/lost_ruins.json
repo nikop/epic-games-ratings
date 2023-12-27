@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -1614,6 +1614,11 @@
       "Time": "2023-12-27T12:10:25.1117145+00:00",
       "NumProgressed": 621,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T16:11:18.8109936+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1743,9 +1748,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 224
     },
     {
       "ID": "Librarian",
@@ -1801,7 +1806,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "OrcMustDie",
@@ -1849,7 +1854,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SlingOfDavid",
@@ -1903,9 +1908,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 112
     },
     {
       "ID": "TreasureHunter",
@@ -1944,7 +1949,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 1
     }
   ],
@@ -1952,8 +1957,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:09:57.55642+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:11:18.8109932+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:58:16.7461603+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:09:57.5564561+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:58:43.964598+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:11:18.8110292+00:00"
 }

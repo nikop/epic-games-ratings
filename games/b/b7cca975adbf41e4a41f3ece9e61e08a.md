@@ -1,54 +1,54 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.76 (Ranked 132)  
+Rating: 4.77 (Ranked 115)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~14,278 |
-| I Challenge You To Save More Money! | 81.00% | ~13,142 |
-| I Love How Tough You Are | 65.00% | ~10,546 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~9,410 |
-| What I Want Is You | 53.00% | ~8,599 |
-| To Be Or Not To Be | 50.00% | ~8,112 |
-| Are You Alright? | 47.00% | ~7,626 |
-| Love Actually | 42.00% | ~6,814 |
-| Drama King | 36.00% | ~5,841 |
-| Go Clean up In Your Own Way | 33.00% | ~5,354 |
-| You're Really Something Else | 32.00% | ~5,192 |
-| Drama CP: Reel to Real | 31.00% | ~5,030 |
-| Happy Family | 30.00% | ~4,868 |
-| FIRST LOVE | 30.00% | ~4,868 |
-| Worthless Speech | 30.00% | ~4,868 |
-| ONE PUNCH | 29.00% | ~4,705 |
-| Absolutely Elegant | 28.00% | ~4,543 |
-| Still Single | 28.00% | ~4,543 |
-| Days Of Innocence | 26.00% | ~4,218 |
-| David | 26.00% | ~4,218 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,056 |
-| A Slap In The Face! | 22.00% | ~3,570 |
-| All I Have Is Money | 21.00% | ~3,407 |
-| Lover In Dark Alley | 21.00% | ~3,407 |
-| That's So You | 21.00% | ~3,407 |
-| SALUTE | 21.00% | ~3,407 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,245 |
-| Off We Sail Tonight | 15.00% | ~2,434 |
-| Can You Do This Or Not? | 14.00% | ~2,272 |
-| Love You Three Thousand | 13.00% | ~2,109 |
-| Doesn't Matter I'll Handle It | 12.00% | ~1,947 |
-| The Flash | 11.00% | ~1,785 |
-| New Yoga Pose Unlocked | 10.00% | ~1,622 |
-| My Dear Love! | 8.00% | ~1,298 |
-| Counting Sheep? | 8.00% | ~1,298 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,298 |
-| Life Is A Rollercoaster | 7.00% | ~1,136 |
-| Boys Need To Protect Themselves | 7.00% | ~1,136 |
-| Stubborn Noob | 7.00% | ~1,136 |
-| Hurrah! | 2.00% | ~324 |
-| Tall; Grande; Venti | 2.00% | ~324 |
-| Limerence | 2.00% | ~324 |
+| Last Night...Did We... | 88.00% | ~14,293 |
+| I Challenge You To Save More Money! | 81.00% | ~13,156 |
+| I Love How Tough You Are | 65.00% | ~10,557 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~9,420 |
+| What I Want Is You | 53.00% | ~8,608 |
+| To Be Or Not To Be | 50.00% | ~8,121 |
+| Are You Alright? | 47.00% | ~7,634 |
+| Love Actually | 41.00% | ~6,659 |
+| Drama King | 36.00% | ~5,847 |
+| Go Clean up In Your Own Way | 33.00% | ~5,360 |
+| You're Really Something Else | 32.00% | ~5,197 |
+| Drama CP: Reel to Real | 31.00% | ~5,035 |
+| Happy Family | 30.00% | ~4,873 |
+| FIRST LOVE | 30.00% | ~4,873 |
+| Worthless Speech | 30.00% | ~4,873 |
+| ONE PUNCH | 29.00% | ~4,710 |
+| Absolutely Elegant | 28.00% | ~4,548 |
+| Still Single | 28.00% | ~4,548 |
+| Days Of Innocence | 26.00% | ~4,223 |
+| David | 26.00% | ~4,223 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,060 |
+| A Slap In The Face! | 22.00% | ~3,573 |
+| All I Have Is Money | 21.00% | ~3,411 |
+| Lover In Dark Alley | 21.00% | ~3,411 |
+| That's So You | 21.00% | ~3,411 |
+| SALUTE | 21.00% | ~3,411 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,248 |
+| Off We Sail Tonight | 15.00% | ~2,436 |
+| Can You Do This Or Not? | 14.00% | ~2,274 |
+| Love You Three Thousand | 13.00% | ~2,111 |
+| Doesn't Matter I'll Handle It | 12.00% | ~1,949 |
+| The Flash | 11.00% | ~1,787 |
+| New Yoga Pose Unlocked | 10.00% | ~1,624 |
+| My Dear Love! | 8.00% | ~1,299 |
+| Counting Sheep? | 8.00% | ~1,299 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,299 |
+| Life Is A Rollercoaster | 7.00% | ~1,137 |
+| Boys Need To Protect Themselves | 7.00% | ~1,137 |
+| Stubborn Noob | 7.00% | ~1,137 |
+| Hurrah! | 2.00% | ~325 |
+| Tall; Grande; Venti | 2.00% | ~325 |
+| Limerence | 2.00% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,225 (Ranked 162)  
+Progressed: 16,242 (Ranked 162)  
 Completed: 266 (1.64%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,14 +129,14 @@ Completed: 266 (1.64%) (Ranked 143)
 | 2023-12-24 | 15,640 | 255 |
 | 2023-12-25 | 15,849 | 260 |
 | 2023-12-26 | 16,080 | 263 |
-| 2023-12-27 | 16,225 | 266 |
+| 2023-12-27 | 16,242 | 266 |
 ## Awards
-Max (Impact the Story): 32  (Ranked 508)  
-Sum: 32 (Ranked 530)  
-Diff (max vs sum): -22  
+Max (Impact the Story): 33  (Ranked 506)  
+Sum: 33 (Ranked 529)  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 32 |
+| In this game, your choices Impact the Story | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -172,3 +172,4 @@ Diff (max vs sum): -22
 | 2023-12-22 | 4.74 | 28 | 28 |
 | 2023-12-23 | 4.75 | 30 | 30 |
 | 2023-12-24 | 4.76 | 32 | 32 |
+| 2023-12-27 | 4.77 | 33 | 33 |

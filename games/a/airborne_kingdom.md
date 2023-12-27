@@ -1,40 +1,40 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,304 |
-| A Grove Replanted | 53.00% | ~4,074 |
-| Fields Watered | 41.00% | ~3,151 |
-| Seekers Found | 41.00% | ~3,151 |
-| Settling the Skies | 41.00% | ~3,151 |
-| Wind Powered | 40.00% | ~3,074 |
-| It Takes a Village | 34.00% | ~2,613 |
-| On the Town | 28.00% | ~2,152 |
-| Daylight Found | 26.00% | ~1,998 |
+| A Small Community | 56.00% | ~4,305 |
+| A Grove Replanted | 53.00% | ~4,075 |
+| Fields Watered | 41.00% | ~3,152 |
+| Seekers Found | 41.00% | ~3,152 |
+| Settling the Skies | 41.00% | ~3,152 |
+| Wind Powered | 40.00% | ~3,075 |
+| It Takes a Village | 34.00% | ~2,614 |
+| On the Town | 28.00% | ~2,153 |
+| Daylight Found | 26.00% | ~1,999 |
 | Irons Scorched | 25.00% | ~1,922 |
 | Islands Connected | 25.00% | ~1,922 |
 | Harp Tuned | 23.00% | ~1,768 |
 | Pyre Ignited | 23.00% | ~1,768 |
 | Travelers Returned | 23.00% | ~1,768 |
 | Hopes Hoisted | 22.00% | ~1,691 |
-| Knowledge Shared | 20.00% | ~1,537 |
-| Relic Finder | 20.00% | ~1,537 |
-| Worthy of the Title | 19.00% | ~1,460 |
+| Knowledge Shared | 20.00% | ~1,538 |
+| Relic Finder | 20.00% | ~1,538 |
+| Worthy of the Title | 19.00% | ~1,461 |
 | A Peaceful Respite | 14.00% | ~1,076 |
 | A Learned Scholar | 13.00% | ~999 |
 | Prophecy Fulfilled | 13.00% | ~999 |
-| A Wanderer’s Guide | 11.00% | ~845 |
+| A Wanderer’s Guide | 11.00% | ~846 |
 | Knowledge Seeker | 6.00% | ~461 |
 | The Cycle Continues | 3.00% | ~231 |
 | Glowing Waters | 2.00% | ~154 |
 | Sparkling Alloys | 2.00% | ~154 |
 | A True Challenge | 2.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,686 (Ranked 187)  
+Progressed: 7,688 (Ranked 187)  
 Completed: 58 (0.75%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 58 (0.75%) (Ranked 194)
 | 2023-12-24 | 7,671 | 58 |
 | 2023-12-25 | 7,677 | 58 |
 | 2023-12-26 | 7,681 | 58 |
-| 2023-12-27 | 7,686 | 58 |
+| 2023-12-27 | 7,688 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

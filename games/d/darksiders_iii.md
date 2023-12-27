@@ -1,69 +1,69 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 623)  
+Rating: 4.48 (Ranked 644)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 80.00% | ~182 |
-| First of many… | 71.00% | ~161 |
-| Helping Hand | 68.00% | ~154 |
-| Increased Vigor | 62.00% | ~141 |
-| Fight Fire with Fire | 59.00% | ~134 |
-| Increased Capacity | 56.00% | ~127 |
-| Just the start | 54.00% | ~123 |
-| Perfect Storm | 51.00% | ~116 |
-| All That Glitters | 49.00% | ~111 |
-| Enhance! | 46.00% | ~104 |
-| One Of the Chosen | 44.00% | ~100 |
-| Devil's in the Details | 42.00% | ~95 |
-| Throne Potato | 41.00% | ~93 |
-| 25 to Life | 40.00% | ~91 |
-| Five's a Crowd | 39.00% | ~89 |
-| Soul Harvester | 38.00% | ~86 |
-| Unshakable Fortitude | 37.00% | ~84 |
-| Salvation | 36.00% | ~82 |
-| I Wanna Rock | 33.00% | ~75 |
-| Delusions of Grandeur | 33.00% | ~75 |
-| Love Tap | 31.00% | ~70 |
-| Maximum Vigor | 30.00% | ~68 |
-| Freeze Frame | 29.00% | ~66 |
-| Eat Your Heart Out | 29.00% | ~66 |
-| For Whom the Bell Tolls | 29.00% | ~66 |
-| Unyielding Strength | 24.00% | ~54 |
-| Cleanup Crew | 22.00% | ~50 |
-| Can you restore the Balance? | 22.00% | ~50 |
-| Crowd Source | 22.00% | ~50 |
-| Big Spender | 22.00% | ~50 |
-| Maximum Capacity | 21.00% | ~48 |
-| Demon Meddler | 20.00% | ~45 |
-| Seeing Red | 19.00% | ~43 |
-| Egomaniac | 18.00% | ~41 |
-| Protector of Humanity | 15.00% | ~34 |
-| Everybody Wants to Rule the World | 15.00% | ~34 |
+| Green with Envy | 79.00% | ~182 |
+| First of many… | 71.00% | ~164 |
+| Helping Hand | 68.00% | ~157 |
+| Increased Vigor | 61.00% | ~141 |
+| Fight Fire with Fire | 58.00% | ~134 |
+| Increased Capacity | 55.00% | ~127 |
+| Just the start | 53.00% | ~122 |
+| Perfect Storm | 50.00% | ~116 |
+| All That Glitters | 48.00% | ~111 |
+| Enhance! | 45.00% | ~104 |
+| One Of the Chosen | 43.00% | ~99 |
+| Devil's in the Details | 41.00% | ~95 |
+| Throne Potato | 40.00% | ~92 |
+| Five's a Crowd | 39.00% | ~90 |
+| 25 to Life | 39.00% | ~90 |
+| Unshakable Fortitude | 37.00% | ~85 |
+| Soul Harvester | 37.00% | ~85 |
+| Salvation | 35.00% | ~81 |
+| Delusions of Grandeur | 33.00% | ~76 |
+| I Wanna Rock | 32.00% | ~74 |
+| Maximum Vigor | 30.00% | ~69 |
+| Love Tap | 30.00% | ~69 |
+| Freeze Frame | 29.00% | ~67 |
+| For Whom the Bell Tolls | 29.00% | ~67 |
+| Eat Your Heart Out | 28.00% | ~65 |
+| Unyielding Strength | 24.00% | ~55 |
+| Cleanup Crew | 22.00% | ~51 |
+| Crowd Source | 22.00% | ~51 |
+| Big Spender | 22.00% | ~51 |
+| Can you restore the Balance? | 21.00% | ~49 |
+| Maximum Capacity | 20.00% | ~46 |
+| Demon Meddler | 19.00% | ~44 |
+| Seeing Red | 19.00% | ~44 |
+| Egomaniac | 17.00% | ~39 |
+| Protector of Humanity | 15.00% | ~35 |
+| Everybody Wants to Rule the World | 15.00% | ~35 |
 | Community Outreach | 13.00% | ~30 |
-| A Parting Gift | 12.00% | ~27 |
+| A Parting Gift | 12.00% | ~28 |
 | Unbreakable Will | 11.00% | ~25 |
 | Path of the Horseman | 11.00% | ~25 |
 | Take it to the Limit | 10.00% | ~23 |
-| Holy Keeper | 9.00% | ~20 |
+| Holy Keeper | 9.00% | ~21 |
 | Demon Keeper | 8.00% | ~18 |
 | Soul Reaper | 8.00% | ~18 |
 | Humanitarian | 8.00% | ~18 |
 | My Evil Twin | 7.00% | ~16 |
-| Keeper of the Bonfire | 5.00% | ~11 |
-| Keeper of the Sky | 5.00% | ~11 |
+| Keeper of the Bonfire | 5.00% | ~12 |
+| Keeper of the Sky | 5.00% | ~12 |
 | Purity of Power | 4.00% | ~9 |
-| Balance in all things | 4.00% | ~9 |
 | "Impressive!" | 4.00% | ~9 |
-| Keeper of Colossal Automata | 4.00% | ~9 |
 | Keeper of the Vale | 4.00% | ~9 |
-| Keeper of the Tempo | 4.00% | ~9 |
 | Keep it 100! | 4.00% | ~9 |
-| BFA | 4.00% | ~9 |
 | Made of Sterner Stuff | 4.00% | ~9 |
+| Balance in all things | 3.00% | ~7 |
 | "Incredible!" | 3.00% | ~7 |
+| Keeper of Colossal Automata | 3.00% | ~7 |
+| Keeper of the Tempo | 3.00% | ~7 |
+| BFA | 3.00% | ~7 |
 | "Amazing!" | 2.00% | ~5 |
 | Proceed on your way to Armageddon | 2.00% | ~5 |
 | "Apocalyptic!" | 1.00% | ~2 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~2 |
 | Beast Mode | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 405)  
-Completed: 1 (0.44%) (Ranked 226)  
+Progressed: 231 (Ranked 403)  
+Completed: 1 (0.43%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 1 (0.44%) (Ranked 226)
 | 2023-12-24 | 159 | 1 |
 | 2023-12-25 | 184 | 1 |
 | 2023-12-26 | 212 | 1 |
-| 2023-12-27 | 227 | 1 |
+| 2023-12-27 | 231 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 385)  
 Sum: 94 (Ranked 465)  
@@ -173,3 +173,4 @@ Diff (max vs sum): -80
 | 2023-12-23 | 4.50 | - | 93 | 93 |
 | 2023-12-24 | 4.50 | - | 94 | 94 |
 | 2023-12-25 | 4.49 | - | 94 | 94 |
+| 2023-12-27 | 4.48 | - | 94 | 94 |

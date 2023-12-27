@@ -6,19 +6,19 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,847 |
-| Life is your teacher | 4.00% | ~29,847 |
-| The Assault | 3.00% | ~22,385 |
-| Lightning Hands | 3.00% | ~22,385 |
-| The Hateful Pole Fighter | 2.00% | ~14,924 |
-| A Lady's Blood in the Snow | 2.00% | ~14,924 |
-| Stuntmaster | 2.00% | ~14,924 |
-| Street Fighting | 2.00% | ~14,924 |
-| State of constant learning | 2.00% | ~14,924 |
-| Qi Gong: Essence | 2.00% | ~14,924 |
-| Old Child | 2.00% | ~14,924 |
-| Rumble in the Hangar | 2.00% | ~14,924 |
-| Diligence as a goal | 2.00% | ~1,110 |
+| The Old Grandmaster | 4.00% | ~29,850 |
+| Life is your teacher | 4.00% | ~29,850 |
+| The Assault | 3.00% | ~22,387 |
+| Lightning Hands | 3.00% | ~22,387 |
+| The Hateful Pole Fighter | 2.00% | ~14,925 |
+| A Lady's Blood in the Snow | 2.00% | ~14,925 |
+| Stuntmaster | 2.00% | ~14,925 |
+| Street Fighting | 2.00% | ~14,925 |
+| State of constant learning | 2.00% | ~14,925 |
+| Qi Gong: Essence | 2.00% | ~14,925 |
+| Old Child | 2.00% | ~14,925 |
+| Rumble in the Hangar | 2.00% | ~14,925 |
+| Diligence as a goal | 2.00% | ~1,111 |
 | Lady Wing Chun | 1.00% | ~7,462 |
 | Furious Fists | 1.00% | ~7,462 |
 | Kill Nil | 1.00% | ~7,462 |
@@ -30,13 +30,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~555 |
 | Scareless | 0.90% | ~6,716 |
 | Kung-Fu Tussle | 0.90% | ~6,716 |
-| Dance of the Praying Mantis | 0.80% | ~5,969 |
-| Fight the way you practice | 0.70% | ~388 |
+| Dance of the Praying Mantis | 0.80% | ~5,970 |
+| Fight the way you practice | 0.70% | ~389 |
 | Martial Hub | 0.60% | ~333 |
 | Muk Yan Master | 0.50% | ~3,731 |
 | Tiger on Fire | 0.50% | ~3,731 |
 | Detective Story | 0.50% | ~3,731 |
-| Bloody Sport | 0.50% | ~277 |
+| Bloody Sport | 0.50% | ~278 |
 | Source of Flying Daggers | 0.40% | ~2,985 |
 | Iron Money | 0.40% | ~2,985 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,985 |
@@ -46,7 +46,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 0.40% | ~222 |
 | The Pit Protector | 0.30% | ~2,239 |
 | Come Snap With Me | 0.30% | ~2,239 |
-| Deadly Venom | 0.30% | ~166 |
+| Deadly Venom | 0.30% | ~167 |
 | Drunken Fighter | 0.20% | ~1,492 |
 | Martial Artist | 0.20% | ~1,492 |
 | Knowledge Greed | 0.20% | ~1,492 |
@@ -59,15 +59,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~111 |
 | Beatmaker | 0.20% | ~111 |
 | Warriors from the Mountain | 0.10% | ~746 |
-| Secure, Protect, Leave | 0.10% | ~55 |
-| Crouching Tiger | 0.10% | ~55 |
-| Hidden Dragon | 0.10% | ~55 |
-| Here Cometh the Iceman | 0.10% | ~55 |
-| Fighter in the Pond | 0.10% | ~55 |
-| Bonus Stage | 0.10% | ~55 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~55 |
+| Secure, Protect, Leave | 0.10% | ~56 |
+| Crouching Tiger | 0.10% | ~56 |
+| Hidden Dragon | 0.10% | ~56 |
+| Here Cometh the Iceman | 0.10% | ~56 |
+| Fighter in the Pond | 0.10% | ~56 |
+| Bonus Stage | 0.10% | ~56 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,178 (Ranked 23)  
+Progressed: 746,246 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
-| 2023-12-27 | 746,178 | 12,967 |
+| 2023-12-27 | 746,246 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,878 (Ranked 87)  

@@ -28,8 +28,8 @@
 | The Cathedral of Light | 47.00% | ~305 |
 | Shame! Shame! Shame! | 46.00% | ~298 |
 | Dungeonlord Gorgu | 45.00% | ~292 |
+| Tanos' Crusade Against Thalya | 45.00% | ~292 |
 | Pure Dynamite! | 44.00% | ~285 |
-| Tanos' Crusade Against Thalya | 44.00% | ~285 |
 | Mana Cannon | 41.00% | ~266 |
 | All’s Well That Ends Evil | 40.00% | ~259 |
 | The Duel | 37.00% | ~240 |
@@ -49,7 +49,7 @@
 | Bonus Evilness | 25.00% | ~162 |
 | Raiders of the Lost Stone | 25.00% | ~162 |
 | The Rune Sockets of Finitude (Part 2) | 23.00% | ~149 |
-| The Last Stand - This Time For Real! | 21.00% | ~136 |
+| The Last Stand - This Time For Real! | 22.00% | ~143 |
 | Rubble and Ashes | 20.00% | ~130 |
 | Lavalumps on Ice! | 19.00% | ~123 |
 | My Little Torture Chamber | 18.00% | ~117 |

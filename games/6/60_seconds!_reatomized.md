@@ -1,32 +1,32 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.52 (Ranked 565)  
+Rating: 4.52 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,588 |
-| I will survive! | 93.00% | ~5,529 |
-| All thumbs | 92.00% | ~5,469 |
-| Home, sweet home | 91.00% | ~5,410 |
-| Survivalist | 90.00% | ~5,350 |
-| One way ticket | 85.00% | ~5,053 |
-| Last man standing | 80.00% | ~4,756 |
+| Prepper | 94.00% | ~5,589 |
+| I will survive! | 93.00% | ~5,530 |
+| All thumbs | 92.00% | ~5,470 |
+| Home, sweet home | 91.00% | ~5,411 |
+| Survivalist | 90.00% | ~5,351 |
+| One way ticket | 85.00% | ~5,054 |
+| Last man standing | 80.00% | ~4,757 |
 | Family guy | 77.00% | ~4,578 |
-| Out of the Bag | 76.00% | ~4,518 |
-| The Dark Side | 71.00% | ~4,221 |
+| Out of the Bag | 76.00% | ~4,519 |
+| The Dark Side | 71.00% | ~4,222 |
 | Souper! | 66.00% | ~3,924 |
 | Duck and cover! | 66.00% | ~3,924 |
-| Pacifist | 60.00% | ~3,567 |
+| Pacifist | 60.00% | ~3,568 |
 | 2-1-6 | 59.00% | ~3,508 |
 | A gift | 55.00% | ~3,270 |
-| Girl Power | 49.00% | ~2,913 |
-| What goes around... | 45.00% | ~2,675 |
+| Girl Power | 49.00% | ~2,914 |
+| What goes around... | 45.00% | ~2,676 |
 | Be Prepared | 39.00% | ~2,319 |
 | Unbreakable | 37.00% | ~2,200 |
-| Gotta get 'em all | 34.00% | ~2,021 |
-| This is the end | 34.00% | ~2,021 |
-| Atomic drill | 32.00% | ~1,902 |
+| Gotta get 'em all | 34.00% | ~2,022 |
+| This is the end | 34.00% | ~2,022 |
+| Atomic drill | 32.00% | ~1,903 |
 | Disco Roach | 29.00% | ~1,724 |
 | Dawkins Residence | 22.00% | ~1,308 |
 | Rescue time! | 19.00% | ~1,130 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 565)
 | Enigma | 16.00% | ~951 |
 | Challenger | 13.00% | ~773 |
 | Men in Black | 13.00% | ~773 |
-| No stone unturned | 12.00% | ~713 |
+| No stone unturned | 12.00% | ~714 |
 | Unplugged | 9.00% | ~535 |
 | Mad Hatter | 8.00% | ~476 |
 | Holidays! | 7.00% | ~416 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 565)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,945 (Ranked 196)  
+Progressed: 5,946 (Ranked 196)  
 Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 1 (0.02%) (Ranked 357)
 | 2023-12-24 | 5,906 | 1 |
 | 2023-12-25 | 5,923 | 1 |
 | 2023-12-26 | 5,940 | 1 |
-| 2023-12-27 | 5,945 | 1 |
+| 2023-12-27 | 5,946 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

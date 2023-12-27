@@ -8529,9 +8529,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 746178,
+  "EOS_Progressed": 746246,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 8880,
+  "EOS_NewPlayers": 8870,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31154,6 +31154,11 @@
       "Time": "2023-12-27T15:08:57.6973813+00:00",
       "NumProgressed": 746178,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-27T16:09:50.9402966+00:00",
+      "NumProgressed": 746246,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31165,7 +31170,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29847
+      "UsersEstimate": 29850
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31173,7 +31178,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22385
+      "UsersEstimate": 22387
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31181,7 +31186,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31189,7 +31194,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31317,7 +31322,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31325,7 +31330,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31333,7 +31338,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31341,7 +31346,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29847
+      "UsersEstimate": 29850
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31349,7 +31354,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "25_ShrineMind",
@@ -31373,7 +31378,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31413,7 +31418,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "33_BladeOneShot",
@@ -31429,7 +31434,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22385
+      "UsersEstimate": 22387
     },
     {
       "ID": "35_WideStrike",
@@ -31453,7 +31458,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31509,7 +31514,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31517,7 +31522,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31533,7 +31538,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -31541,7 +31546,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -31565,7 +31570,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -31573,7 +31578,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -31597,7 +31602,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -31605,7 +31610,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "57_Arena_Car",
@@ -31613,7 +31618,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "58_Arena_Music",
@@ -31629,7 +31634,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -31637,28 +31642,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 55479,
+      "Progressed": 55547,
       "Completed": 10786
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 746178,
+      "Progressed": 746246,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-27T12:03:12.761311+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:08:57.6973808+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:09:50.9402962+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:03:05.6649926+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:08:57.6975242+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:03:39.2003874+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:09:50.940457+00:00"
 }

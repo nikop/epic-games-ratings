@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 100.00% | ~3 |
-| Back in Black | 33.00% | ~1 |
-| Burnt to a Crisp | 33.00% | ~1 |
-| A Chance Encounter? | 33.00% | ~1 |
-| Demons Defeated | 33.00% | ~1 |
-| Epic Gains | 33.00% | ~1 |
-| Explorer | 33.00% | ~1 |
-| How Did it Happen? | 33.00% | ~1 |
+| The First Step | 100.00% | ~4 |
+| Back in Black | 25.00% | ~1 |
+| Burnt to a Crisp | 25.00% | ~1 |
+| A Chance Encounter? | 25.00% | ~1 |
+| Demons Defeated | 25.00% | ~1 |
+| Epic Gains | 25.00% | ~1 |
+| Explorer | 25.00% | ~1 |
+| How Did it Happen? | 25.00% | ~1 |
 | The End, At Last? | 0.00% | ~0 |
 | Evil Unmasked | 0.00% | ~0 |
 | Full Metal Jacket | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | To the Top | 0.00% | ~0 |
 | It Is What It Is | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 701)  
+Progressed: 4 (Ranked 690)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -31,3 +31,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-09-12 | 1 | 0 |
 | 2023-09-14 | 2 | 0 |
 | 2023-09-30 | 3 | 0 |
+| 2023-12-27 | 4 | 0 |

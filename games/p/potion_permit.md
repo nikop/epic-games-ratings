@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.84 (Ranked 1,052)  
+Rating: 3.84 (Ranked 1,054)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 3.84 (Ranked 1,052)
 | Friendly | 47.00% | ~850 |
 | The Capitalist | 44.00% | ~796 |
 | K.O.! | 43.00% | ~777 |
-| Intermediate Chemist | 39.00% | ~705 |
+| Intermediate Chemist | 40.00% | ~723 |
 | Decorative Mind | 33.00% | ~597 |
 | Lumber Specialist | 31.00% | ~560 |
 | Kind-hearted | 25.00% | ~452 |

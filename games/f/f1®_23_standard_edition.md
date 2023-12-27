@@ -1,48 +1,48 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 296)  
+Rating: 4.66 (Ranked 297)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~11,630 |
-| On the Top Step | 82.00% | ~10,480 |
-| Setting up for Success | 68.00% | ~8,690 |
-| Team Orders | 68.00% | ~8,690 |
-| Engineer | 46.00% | ~5,879 |
-| Familiar Faces | 42.00% | ~5,368 |
-| Going the Extra Mile | 36.00% | ~4,601 |
-| Sharing the Love | 33.00% | ~4,217 |
-| Hitting a Season | 26.00% | ~3,323 |
-| Making History | 25.00% | ~3,195 |
-| A Dozen Pieces | 24.00% | ~3,067 |
-| Network Success | 23.00% | ~2,939 |
-| Challenge Yourself | 23.00% | ~2,939 |
-| Spring Cleaning | 19.00% | ~2,428 |
-| Writing a new Chapter | 19.00% | ~2,428 |
-| Reduce | 15.00% | ~1,917 |
-| Ups and Downs | 15.00% | ~1,917 |
-| Crucial Combo | 14.00% | ~1,789 |
-| Reuse | 12.00% | ~1,534 |
-| Proving Them Wrong | 12.00% | ~1,534 |
-| Gathering Dust | 11.00% | ~1,406 |
-| One for the Book | 11.00% | ~1,406 |
-| Oil and Water | 10.00% | ~1,278 |
-| Friendly Competition | 10.00% | ~1,278 |
-| Switcheroo | 10.00% | ~1,278 |
-| Eagle Eye | 9.00% | ~1,150 |
-| All in a Weekend's Work | 9.00% | ~1,150 |
-| Lightning Round the World | 9.00% | ~1,150 |
-| Hitting a Bullseye | 9.00% | ~1,150 |
-| Spinning Around | 9.00% | ~1,150 |
-| Recycle | 7.00% | ~895 |
-| Undisputed Winner | 6.00% | ~767 |
-| Tinkerer | 6.00% | ~767 |
-| For all Those Back at the Factory | 4.00% | ~511 |
-| Living up to Expectations | 4.00% | ~511 |
-| Smooth Operator | 4.00% | ~511 |
-| Peak Performance | 4.00% | ~511 |
-| Loyal Bond | 3.00% | ~383 |
+| Getting on the Step | 91.00% | ~11,646 |
+| On the Top Step | 82.00% | ~10,494 |
+| Setting up for Success | 68.00% | ~8,703 |
+| Team Orders | 68.00% | ~8,703 |
+| Engineer | 46.00% | ~5,887 |
+| Familiar Faces | 42.00% | ~5,375 |
+| Going the Extra Mile | 36.00% | ~4,607 |
+| Sharing the Love | 33.00% | ~4,223 |
+| Hitting a Season | 26.00% | ~3,327 |
+| Making History | 25.00% | ~3,200 |
+| A Dozen Pieces | 24.00% | ~3,072 |
+| Network Success | 23.00% | ~2,944 |
+| Challenge Yourself | 23.00% | ~2,944 |
+| Spring Cleaning | 19.00% | ~2,432 |
+| Writing a new Chapter | 19.00% | ~2,432 |
+| Reduce | 15.00% | ~1,920 |
+| Ups and Downs | 15.00% | ~1,920 |
+| Crucial Combo | 14.00% | ~1,792 |
+| Reuse | 12.00% | ~1,536 |
+| Proving Them Wrong | 12.00% | ~1,536 |
+| Gathering Dust | 11.00% | ~1,408 |
+| One for the Book | 11.00% | ~1,408 |
+| Oil and Water | 10.00% | ~1,280 |
+| Friendly Competition | 10.00% | ~1,280 |
+| Switcheroo | 10.00% | ~1,280 |
+| Eagle Eye | 9.00% | ~1,152 |
+| All in a Weekend's Work | 9.00% | ~1,152 |
+| Lightning Round the World | 9.00% | ~1,152 |
+| Hitting a Bullseye | 9.00% | ~1,152 |
+| Spinning Around | 9.00% | ~1,152 |
+| Recycle | 7.00% | ~896 |
+| Undisputed Winner | 6.00% | ~768 |
+| Tinkerer | 6.00% | ~768 |
+| For all Those Back at the Factory | 4.00% | ~512 |
+| Living up to Expectations | 4.00% | ~512 |
+| Smooth Operator | 4.00% | ~512 |
+| Peak Performance | 4.00% | ~512 |
+| Loyal Bond | 3.00% | ~384 |
 | Seasoned Rookie | 2.00% | ~256 |
 | Hitting a Century | 2.00% | ~256 |
 | Wait, I know you? | 2.00% | ~256 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 296)
 | Shot in the Dark | 0.10% | ~13 |
 | Elite Racer | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,780 (Ranked 170)  
+Progressed: 12,798 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 11,652 | 0 |
 | 2023-12-25 | 12,131 | 0 |
 | 2023-12-26 | 12,565 | 0 |
-| 2023-12-27 | 12,780 | 0 |
+| 2023-12-27 | 12,798 | 0 |
 ## Awards
 Max (Diverse Characters): 46  (Ranked 460)  
 Sum: 312 (Ranked 370)  

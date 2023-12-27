@@ -1,40 +1,40 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.33 (Ranked 833)  
+Rating: 4.33 (Ranked 834)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~992 |
-| And so it begins | 72.00% | ~952 |
-| No pressure | 69.00% | ~912 |
-| Memento | 60.00% | ~793 |
-| Let there be light | 57.00% | ~754 |
-| I think you dropped this | 53.00% | ~701 |
-| Soulmate? | 51.00% | ~674 |
-| Excellent service | 47.00% | ~621 |
-| Roll with it | 44.00% | ~582 |
-| Humble beginnings | 42.00% | ~555 |
-| Love is in the air | 42.00% | ~555 |
-| Fine, I'll do it myself | 40.00% | ~529 |
-| Moving up | 40.00% | ~529 |
-| No need to call anyone | 38.00% | ~502 |
-| Big fortune | 31.00% | ~410 |
-| Still more work ahead | 29.00% | ~383 |
-| Aesop's fable | 27.00% | ~357 |
-| Kaboom | 26.00% | ~344 |
-| Hotel sleuthing | 26.00% | ~344 |
-| Nearly there | 25.00% | ~330 |
-| Broken heart | 22.00% | ~291 |
+| Good start | 75.00% | ~994 |
+| And so it begins | 72.00% | ~955 |
+| No pressure | 69.00% | ~915 |
+| Memento | 59.00% | ~782 |
+| Let there be light | 57.00% | ~756 |
+| I think you dropped this | 53.00% | ~703 |
+| Soulmate? | 51.00% | ~676 |
+| Excellent service | 47.00% | ~623 |
+| Roll with it | 44.00% | ~583 |
+| Humble beginnings | 42.00% | ~557 |
+| Love is in the air | 41.00% | ~544 |
+| Fine, I'll do it myself | 40.00% | ~530 |
+| Moving up | 40.00% | ~530 |
+| No need to call anyone | 38.00% | ~504 |
+| Big fortune | 31.00% | ~411 |
+| Still more work ahead | 29.00% | ~385 |
+| Aesop's fable | 27.00% | ~358 |
+| Kaboom | 26.00% | ~345 |
+| Hotel sleuthing | 26.00% | ~345 |
+| Nearly there | 25.00% | ~332 |
+| Broken heart | 22.00% | ~292 |
 | Island boy | 21.00% | ~278 |
-| You're a star | 20.00% | ~264 |
-| Unstoppable | 18.00% | ~238 |
-| Reunited | 18.00% | ~238 |
-| King of hospitality | 11.00% | ~145 |
-| Top spot in town | 2.00% | ~26 |
+| You're a star | 20.00% | ~265 |
+| Unstoppable | 18.00% | ~239 |
+| Reunited | 18.00% | ~239 |
+| King of hospitality | 11.00% | ~146 |
+| Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,322 (Ranked 265)  
-Completed: 18 (1.36%) (Ranked 153)  
+Progressed: 1,326 (Ranked 265)  
+Completed: 18 (1.36%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 18 (1.36%) (Ranked 153)
 | 2023-12-24 | 1,293 | 18 |
 | 2023-12-25 | 1,304 | 18 |
 | 2023-12-26 | 1,317 | 18 |
-| 2023-12-27 | 1,322 | 18 |
+| 2023-12-27 | 1,326 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

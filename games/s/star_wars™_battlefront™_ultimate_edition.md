@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,969 |
-| Off to a good start | 63.00% | ~1,409 |
-| Do... or do not. There is no try | 52.00% | ~1,163 |
+| New Recruit | 88.00% | ~1,970 |
+| Off to a good start | 63.00% | ~1,411 |
+| Do... or do not. There is no try | 52.00% | ~1,164 |
 | A good blaster at your side | 26.00% | ~582 |
 | I suggest a new strategy | 18.00% | ~403 |
 | Scrap collector | 16.00% | ~358 |
@@ -14,9 +14,9 @@
 | Great shot, kid! | 16.00% | ~358 |
 | The power of the Force | 13.00% | ~291 |
 | Shoot first | 13.00% | ~291 |
-| Collector | 12.00% | ~268 |
-| Together we can rule the galaxy | 12.00% | ~268 |
-| Tell Jabba that I've got his money | 9.00% | ~201 |
+| Collector | 12.00% | ~269 |
+| Together we can rule the galaxy | 12.00% | ~269 |
+| Tell Jabba that I've got his money | 9.00% | ~202 |
 | Best star-pilot in the galaxy | 8.00% | ~179 |
 | Survivor | 8.00% | ~179 |
 | Never tell me the odds! | 7.00% | ~157 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 5.00% | ~112 |
 | Judge me by my size, do you? | 5.00% | ~112 |
 | Support the troops | 5.00% | ~112 |
-| Distinguished | 4.00% | ~89 |
-| A tremor in the Force | 4.00% | ~89 |
+| Distinguished | 4.00% | ~90 |
+| A tremor in the Force | 4.00% | ~90 |
 | On the ball | 3.00% | ~67 |
 | Safety ain't the point of a joyride | 3.00% | ~67 |
 | Not bad for a little furball | 3.00% | ~67 |
@@ -58,17 +58,17 @@
 | No such thing as luck | 0.60% | ~13 |
 | Do we take prisoners? | 0.60% | ~13 |
 | I’ll take that bet | 0.50% | ~11 |
+| Stay on target | 0.40% | ~9 |
 | Greed can be a very powerful ally | 0.40% | ~9 |
-| Stay on target | 0.30% | ~7 |
+| in a galaxy far, far away.... | 0.30% | ~7 |
 | That got him! | 0.20% | ~4 |
-| in a galaxy far, far away.... | 0.20% | ~4 |
 | Don't get cocky | 0.20% | ~4 |
 | Master | 0.20% | ~4 |
 | Stay in attack formation | 0.20% | ~4 |
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,237 (Ranked 233)  
+Progressed: 2,239 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
-| 2023-12-27 | 2,237 | 1 |
+| 2023-12-27 | 2,239 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3778,9 +3778,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241828,
+  "EOS_Progressed": 241834,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29733,6 +29733,11 @@
       "Time": "2023-12-27T15:10:03.0943158+00:00",
       "NumProgressed": 241828,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-27T16:11:25.7136257+00:00",
+      "NumProgressed": 241834,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29864,7 +29869,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -29912,7 +29917,7 @@
       "Name": "New Game\u002B",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "DIEIN30SEC",
@@ -29984,7 +29989,7 @@
       "Name": "Barbecue",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -30064,7 +30069,7 @@
       "Name": "Berzerker",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "HIGHCLARITY",
@@ -30080,7 +30085,7 @@
       "Name": "Juggernaut",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "HIGHHEALTH",
@@ -30392,7 +30397,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "PETRIFY50",
@@ -30456,7 +30461,7 @@
       "Name": "Decisions, Decisions",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "SHRINETO1",
@@ -30480,7 +30485,7 @@
       "Name": "Snake Sneak",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "SPECIALROOMS1",
@@ -30600,7 +30605,7 @@
       "Name": "Obsessed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -30704,7 +30709,7 @@
       "Name": "Precious",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "WINWITHSPOON",
@@ -30800,7 +30805,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -30847,13 +30852,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241828,
+      "Progressed": 241834,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3308,
+      "Progressed": 3314,
       "Completed": 413
     }
   ],
@@ -30861,8 +30866,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T13:01:42.9008545+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:10:03.0943153+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:11:25.7136253+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:10.4649553+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:10:03.0946137+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:00:01.9939317+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:11:25.7138849+00:00"
 }

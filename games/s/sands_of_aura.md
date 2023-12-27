@@ -25,6 +25,7 @@
 | Missing Melodies | 2.00% | ~2 |
 | Smotherly Love | 2.00% | ~2 |
 | Transformative Nature | 2.00% | ~2 |
+| Redeemer | 0.80% | ~1 |
 | Champion of Starspire | 0.80% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Ignorant Bliss | 0.00% | ~0 |
 | A Blunted Blade | 0.00% | ~0 |
 | A Supreme Kindness | 0.00% | ~0 |
-| Redeemer | 0.00% | ~0 |
 | Divine Guidance | 0.00% | ~0 |
 | Hearld of the Holy Seat | 0.00% | ~0 |
 | A Girl From Husker | 0.00% | ~0 |

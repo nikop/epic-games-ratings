@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 230,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13761,9 +13761,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 485419,
+  "EOS_Progressed": 485464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5640,
+  "EOS_NewPlayers": 5657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42686,6 +42686,11 @@
       "Time": "2023-12-27T15:08:44.3020295+00:00",
       "NumProgressed": 485419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T16:09:30.7420025+00:00",
+      "NumProgressed": 485464,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45600,21 +45605,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 485419,
+      "Progressed": 485464,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 485419,
+      "Progressed": 485464,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-27T11:57:19.2740113+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:08:44.3020289+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:09:30.7420019+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:57:47.6103933+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:08:44.3031833+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:57:59.4219174+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:09:30.7434497+00:00"
 }

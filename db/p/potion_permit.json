@@ -2,12 +2,12 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 1052,
+  "Ranking_Rating": 1054,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -393,7 +393,7 @@
   ],
   "EOS_Progressed": 1808,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3147,9 +3147,9 @@
       "ID": "ACHIEVEMENTS_10",
       "SetID": "d4o538a",
       "Name": "Intermediate Chemist",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 705
+      "UsersEstimate": 723
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3388,8 +3388,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-27T09:00:29.058986+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:06:10.0800459+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:08:13.5145543+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:00:40.111025+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:06:10.0800871+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:02:59.6178245+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:08:13.5145956+00:00"
 }

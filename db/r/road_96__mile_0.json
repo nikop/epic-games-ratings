@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2032,6 +2032,11 @@
       "Time": "2023-12-27T14:10:00.3563193+00:00",
       "NumProgressed": 570,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T16:11:11.6847743+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2059,7 +2064,7 @@
       "Name": "On the Road",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "findalltapes",
@@ -2131,7 +2136,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrp3",
@@ -2162,7 +2167,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 2
     }
   ],
@@ -2170,8 +2175,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:09:52.1061765+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:11:11.6847739+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:51.3170692+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:09:52.1061965+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:01:04.3685747+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:11:11.684795+00:00"
 }

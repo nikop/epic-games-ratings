@@ -8,13 +8,13 @@
 | Talented Performer | 58.00% | ~67 |
 | Welcome to Barcelona | 56.00% | ~65 |
 | We will need a bigger wardrobe | 41.00% | ~48 |
+| Roller Race | 38.00% | ~44 |
 | Born to Win | 37.00% | ~43 |
 | Welcome to Seoul | 37.00% | ~43 |
-| Roller Race | 37.00% | ~43 |
 | Stilesville Hidden Style | 32.00% | ~37 |
-| Creating New Trends | 26.00% | ~30 |
+| Creating New Trends | 27.00% | ~31 |
+| Welcome to the The Stylin' Soiree | 26.00% | ~30 |
 | Best Gala Ever | 25.00% | ~29 |
-| Welcome to the The Stylin' Soiree | 25.00% | ~29 |
 | Scooter Race | 25.00% | ~29 |
 | Barcelona Hidden Style | 20.00% | ~23 |
 | Seoul Hidden Style | 16.00% | ~19 |

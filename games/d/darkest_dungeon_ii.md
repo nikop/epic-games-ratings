@@ -1,37 +1,37 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 258)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~556 |
+| Malpractice Assurance | 11.00% | ~557 |
 | Lost and Found | 7.00% | ~354 |
-| This Belongs in a Museum | 5.00% | ~6,509 |
-| Autodidact | 5.00% | ~6,509 |
-| This guy... again? | 5.00% | ~252 |
-| Bloody Graduation | 5.00% | ~252 |
-| Serenity Now! | 4.00% | ~5,207 |
-| Not Today! | 4.00% | ~5,207 |
-| Creep and Sleep | 4.00% | ~5,207 |
-| Meat and Greet | 4.00% | ~5,207 |
-| Catch and Decease | 4.00% | ~5,207 |
-| Overdue Notice | 4.00% | ~5,207 |
-| Escape from the Black Hole | 4.00% | ~5,207 |
-| To Grandmother's House | 4.00% | ~5,207 |
+| This Belongs in a Museum | 5.00% | ~6,510 |
+| Autodidact | 5.00% | ~6,510 |
+| This guy... again? | 5.00% | ~253 |
+| Bloody Graduation | 5.00% | ~253 |
+| Serenity Now! | 4.00% | ~5,208 |
+| Not Today! | 4.00% | ~5,208 |
+| Creep and Sleep | 4.00% | ~5,208 |
+| Meat and Greet | 4.00% | ~5,208 |
+| Catch and Decease | 4.00% | ~5,208 |
+| Overdue Notice | 4.00% | ~5,208 |
+| Escape from the Black Hole | 4.00% | ~5,208 |
+| To Grandmother's House | 4.00% | ~5,208 |
 | Ploughshares to Swords | 4.00% | ~202 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,905 |
-| It Rings a Bell | 3.00% | ~3,905 |
-| It Happens | 3.00% | ~3,905 |
-| Spelunker | 3.00% | ~3,905 |
-| Rush Hour | 3.00% | ~3,905 |
-| Merry Time | 3.00% | ~3,905 |
-| Harvest Festival | 3.00% | ~3,905 |
-| Whale | 3.00% | ~3,905 |
-| A Place to Lay Your Head | 3.00% | ~3,905 |
-| FNG | 3.00% | ~3,905 |
-| Nope | 3.00% | ~3,905 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,906 |
+| It Rings a Bell | 3.00% | ~3,906 |
+| It Happens | 3.00% | ~3,906 |
+| Spelunker | 3.00% | ~3,906 |
+| Rush Hour | 3.00% | ~3,906 |
+| Merry Time | 3.00% | ~3,906 |
+| Harvest Festival | 3.00% | ~3,906 |
+| Whale | 3.00% | ~3,906 |
+| A Place to Lay Your Head | 3.00% | ~3,906 |
+| FNG | 3.00% | ~3,906 |
+| Nope | 3.00% | ~3,906 |
 | Friends 'Til the End | 3.00% | ~152 |
 | Resurrection | 2.00% | ~2,604 |
 | Unleash Hell | 2.00% | ~2,604 |
@@ -60,10 +60,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 1.00% | ~1,302 |
 | Eyes Up | 1.00% | ~1,302 |
 | Handled | 1.00% | ~1,302 |
-| Slap on the Wrist | 1.00% | ~50 |
-| For Old Time' Sake | 1.00% | ~50 |
+| Slap on the Wrist | 1.00% | ~51 |
+| For Old Time' Sake | 1.00% | ~51 |
 | Body of Work | 0.90% | ~1,172 |
-| Shrine of Reflection | 0.80% | ~1,041 |
+| Shrine of Reflection | 0.80% | ~1,042 |
 | Clearing the Ledger | 0.70% | ~911 |
 | Et Tu, Riposte? | 0.70% | ~35 |
 | Hat Trick | 0.60% | ~781 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,181 (Ranked 87)  
+Progressed: 130,193 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,181 | 3 |
+| 2023-12-27 | 130,193 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,152 (Ranked 58)  

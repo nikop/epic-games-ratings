@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.28 (Ranked 1,073)  
+Rating: 3.28 (Ranked 1,075)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,9 +19,9 @@ Rating: 3.28 (Ranked 1,073)
 | Infantry Reporting | 9.00% | ~189 |
 | Fighting for Survival | 8.00% | ~168 |
 | Silver Competitor | 8.00% | ~168 |
+| Captain | 8.00% | ~168 |
 | Factory Expansion | 8.00% | ~168 |
 | Exterminator | 7.00% | ~147 |
-| Captain | 7.00% | ~147 |
 | Know The Enemy | 6.00% | ~126 |
 | Moving On Up | 6.00% | ~126 |
 | Brothers in Arms | 6.00% | ~126 |

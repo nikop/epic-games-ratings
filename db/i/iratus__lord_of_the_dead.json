@@ -2,13 +2,13 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 787,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2455,7 +2455,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 47983,
+  "EOS_Progressed": 47984,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
@@ -29750,6 +29750,11 @@
       "Time": "2023-12-27T15:04:54.0080013+00:00",
       "NumProgressed": 47983,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-27T16:06:22.6025718+00:00",
+      "NumProgressed": 47984,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -29793,7 +29798,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 27350
+      "UsersEstimate": 27351
     },
     {
       "ID": "achievements_14",
@@ -29825,7 +29830,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13435
+      "UsersEstimate": 13436
     },
     {
       "ID": "achievements_2",
@@ -29833,7 +29838,7 @@
       "Name": "More Mortal Suffering!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "achievements_20",
@@ -29881,7 +29886,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13435
+      "UsersEstimate": 13436
     },
     {
       "ID": "achievements_26",
@@ -29897,7 +29902,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18713
+      "UsersEstimate": 18714
     },
     {
       "ID": "achievements_28",
@@ -29905,7 +29910,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7197
+      "UsersEstimate": 7198
     },
     {
       "ID": "achievements_29",
@@ -29945,7 +29950,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16314
+      "UsersEstimate": 16315
     },
     {
       "ID": "achievements_33",
@@ -30009,7 +30014,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 31189
+      "UsersEstimate": 31190
     },
     {
       "ID": "achievements_40",
@@ -30033,7 +30038,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "achievements_43",
@@ -30049,7 +30054,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7197
+      "UsersEstimate": 7198
     },
     {
       "ID": "achievements_45",
@@ -30113,7 +30118,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19193
+      "UsersEstimate": 19194
     },
     {
       "ID": "achievements_52",
@@ -30129,7 +30134,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 27350
+      "UsersEstimate": 27351
     },
     {
       "ID": "achievements_54",
@@ -30185,7 +30190,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16314
+      "UsersEstimate": 16315
     },
     {
       "ID": "achievements_61",
@@ -30233,7 +30238,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 10076
+      "UsersEstimate": 10077
     },
     {
       "ID": "achievements_67",
@@ -30297,7 +30302,7 @@
       "Name": "Live Operation",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "achievements_74",
@@ -30305,7 +30310,7 @@
       "Name": "Dungeon Queen",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievements_75",
@@ -30313,7 +30318,7 @@
       "Name": "Mek Brothers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievements_76",
@@ -30321,7 +30326,7 @@
       "Name": "The Hunter Becomes...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievements_77",
@@ -30360,15 +30365,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 47983,
+      "Progressed": 47984,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-23T20:58:38.5333448+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:04:54.0080008+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:06:22.6025714+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.2122178+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:00:34.4007499+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:04:54.0081648+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:02:51.3591596+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:06:22.6027522+00:00"
 }

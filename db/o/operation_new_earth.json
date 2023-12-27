@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1073,
+  "Ranking_Rating": 1075,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -8195,9 +8195,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -8372,8 +8372,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:03:45.9147219+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:04:40.3051196+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:21.1534967+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:03:45.9147865+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:00:19.723238+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:04:40.3051933+00:00"
 }

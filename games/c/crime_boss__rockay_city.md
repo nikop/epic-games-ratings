@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,037)  
+Rating: 3.95 (Ranked 1,039)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,037)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,598 (Ranked 97)  
+Progressed: 92,599 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-24 | 92,476 | 58 |
 | 2023-12-25 | 92,533 | 58 |
 | 2023-12-26 | 92,581 | 58 |
-| 2023-12-27 | 92,598 | 58 |
+| 2023-12-27 | 92,599 | 58 |
 ## Awards
 Max (Diverse Characters): 581  (Ranked 207)  
 Sum: 2,735 (Ranked 190)  

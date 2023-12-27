@@ -2,10 +2,10 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 313,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -1029,6 +1029,11 @@
       "Time": "2023-12-27T15:04:48.1971452+00:00",
       "NumProgressed": 311,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T16:06:13.7716374+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1047,9 +1052,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "ach3",
@@ -1096,14 +1101,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 313,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-27T15:04:48.1971446+00:00",
+  "LastChanged_Achievements": "2023-12-27T16:06:13.771637+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:59:32.1325575+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:04:48.197158+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:00:35.8017643+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:06:13.7716491+00:00"
 }

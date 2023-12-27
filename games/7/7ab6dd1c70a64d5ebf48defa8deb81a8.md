@@ -1,31 +1,31 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.14 (Ranked 983)  
+Rating: 4.14 (Ranked 985)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~764 |
-| Trinity | 26.00% | ~349 |
+| Break Out | 57.00% | ~767 |
+| Trinity | 26.00% | ~350 |
 | A Taste of Wrath | 21.00% | ~282 |
-| Find Allies | 20.00% | ~268 |
-| The Collector | 20.00% | ~268 |
-| Shatter Them All | 19.00% | ~255 |
-| Geared Up | 19.00% | ~255 |
-| I Found It | 19.00% | ~255 |
-| Adventurer | 18.00% | ~241 |
-| Scholar | 18.00% | ~241 |
-| Fashion Victim | 17.00% | ~228 |
-| Stone Collection | 17.00% | ~228 |
+| Find Allies | 20.00% | ~269 |
+| I Found It | 20.00% | ~269 |
+| The Collector | 20.00% | ~269 |
+| Shatter Them All | 19.00% | ~256 |
+| Geared Up | 19.00% | ~256 |
+| Adventurer | 18.00% | ~242 |
+| Scholar | 18.00% | ~242 |
+| Tributes of Caladrias | 17.00% | ~229 |
+| Fashion Victim | 17.00% | ~229 |
+| Stone Collection | 17.00% | ~229 |
 | Powerful Allies | 16.00% | ~215 |
-| Tributes of Caladrias | 16.00% | ~215 |
 | Big Bazar | 11.00% | ~148 |
 | Essence Blow | 10.00% | ~134 |
 | Alchemist | 10.00% | ~134 |
-| The Mentor | 8.00% | ~107 |
-| Calm before the Storm | 6.00% | ~80 |
-| Airborne | 6.00% | ~80 |
-| Miner | 6.00% | ~80 |
+| The Mentor | 8.00% | ~108 |
+| Calm before the Storm | 7.00% | ~94 |
+| Airborne | 6.00% | ~81 |
+| Miner | 6.00% | ~81 |
 | To Battle | 5.00% | ~67 |
 | Godslayer | 5.00% | ~67 |
 | Clear Sight | 3.00% | ~40 |
@@ -40,9 +40,9 @@ Rating: 4.14 (Ranked 983)
 | Forgemaster | 0.90% | ~12 |
 | Summiter | 0.70% | ~9 |
 | All That Gold | 0.60% | ~8 |
-| Feeling Fancy | 0.10% | ~1 |
+| Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341 (Ranked 262)  
+Progressed: 1,345 (Ranked 262)  
 Completed: 3 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 3 (0.22%) (Ranked 270)
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
-| 2023-12-27 | 1,341 | 3 |
+| 2023-12-27 | 1,345 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

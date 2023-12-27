@@ -1,11 +1,11 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 873)  
+Rating: 4.28 (Ranked 875)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~9,009 |
+| Man 'O War | 21.00% | ~9,010 |
 | A Good Day To Die | 15.00% | ~6,435 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,574 |
 | Right Back Atcha | 6.00% | ~2,574 |
@@ -24,9 +24,9 @@ Rating: 4.28 (Ranked 873)
 | Start As You Mean To Go On | 0.70% | ~300 |
 | Hail the Great Horned Metal God! | 0.70% | ~300 |
 | That'll Come In Handy... | 0.70% | ~300 |
-| Four Legged Friend | 0.50% | ~214 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~214 |
-| Smack My Imp Up | 0.50% | ~214 |
+| Four Legged Friend | 0.50% | ~215 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~215 |
+| Smack My Imp Up | 0.50% | ~215 |
 | Ice To See You | 0.40% | ~172 |
 | Vroll With It | 0.30% | ~129 |
 | Swift of Foot, Keen of Blade | 0.30% | ~129 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 873)
 | Heart Of Steel | 0.10% | ~43 |
 | Death or Glory | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,898 (Ranked 127)  
+Progressed: 42,903 (Ranked 127)  
 Completed: 30 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 30 (0.07%) (Ranked 322)
 | 2023-12-24 | 42,701 | 30 |
 | 2023-12-25 | 42,773 | 30 |
 | 2023-12-26 | 42,852 | 30 |
-| 2023-12-27 | 42,898 | 30 |
+| 2023-12-27 | 42,903 | 30 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 342)  
 Sum: 128 (Ranked 444)  

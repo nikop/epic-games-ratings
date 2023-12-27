@@ -2,13 +2,13 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 146,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10601,10 +10601,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1959605,
       "NumberOfAwardsMax": 287925
+    },
+    {
+      "Time": "2023-12-27T16:02:46.7624369+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1962196,
+      "NumberOfAwardsMax": 287925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1959605,
+  "NumberOfAwards": 1962196,
   "NumberOfAwardsMax": 287925,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10612,13 +10618,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 248549
+      "Count": 249265
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 232044
+      "Count": 232646
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10636,7 +10642,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 232314
+      "Count": 232924
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10648,7 +10654,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 239555
+      "Count": 240218
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10680,8 +10686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-12-27T15:00:31.6912545+00:00",
+  "LastChanged": "2023-12-27T16:02:46.7624366+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5521025+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:00:31.6912554+00:00",
-  "LastUpdate_Achievements": "2023-12-27T15:03:42.9825887+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:02:46.7624375+00:00",
+  "LastUpdate_Achievements": "2023-12-27T16:04:35.4825331+00:00"
 }

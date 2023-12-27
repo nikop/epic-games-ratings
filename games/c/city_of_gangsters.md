@@ -1,41 +1,41 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 873)  
+Rating: 4.28 (Ranked 875)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,058 |
-| Copacetic Coordination | 16.00% | ~57,411 |
-| Fronting the Money | 15.00% | ~53,823 |
-| The Dawn of Automation | 14.00% | ~50,235 |
-| Extraordinary Logistics | 14.00% | ~50,235 |
-| Dirty Money | 13.00% | ~46,647 |
-| Family First | 13.00% | ~46,647 |
-| Cleaning House | 12.00% | ~43,059 |
-| Room in the Back | 12.00% | ~43,059 |
-| Beating the Heat | 11.00% | ~39,470 |
-| Booze Baron | 11.00% | ~39,470 |
-| Friends on the Force | 10.00% | ~35,882 |
-| Neighborhood Watch | 10.00% | ~35,882 |
+| Corner Clout | 46.00% | ~165,062 |
+| Copacetic Coordination | 16.00% | ~57,413 |
+| Fronting the Money | 15.00% | ~53,824 |
+| The Dawn of Automation | 14.00% | ~50,236 |
+| Extraordinary Logistics | 14.00% | ~50,236 |
+| Dirty Money | 13.00% | ~46,648 |
+| Family First | 13.00% | ~46,648 |
+| Cleaning House | 12.00% | ~43,060 |
+| Room in the Back | 12.00% | ~43,060 |
+| Beating the Heat | 11.00% | ~39,471 |
+| Booze Baron | 11.00% | ~39,471 |
+| Friends on the Force | 10.00% | ~35,883 |
+| Neighborhood Watch | 10.00% | ~35,883 |
 | Core Corps | 8.00% | ~28,706 |
 | Sizeable Stash | 8.00% | ~28,706 |
-| Street Fighter | 7.00% | ~25,117 |
-| Friendly Gestures | 7.00% | ~25,117 |
-| People Person | 7.00% | ~25,117 |
-| Liquor Lord | 6.00% | ~21,529 |
-| Safety in Numbers | 6.00% | ~21,529 |
-| Moving Experiences | 6.00% | ~21,529 |
-| Wise Head | 6.00% | ~21,529 |
-| Show ‘em the Sugar | 6.00% | ~21,529 |
-| Killing Them Softly | 6.00% | ~21,529 |
-| Street Knowledge | 5.00% | ~17,941 |
-| Oh Captain | 5.00% | ~17,941 |
-| Branching Out | 5.00% | ~17,941 |
-| Improvement Missions | 5.00% | ~17,941 |
-| Opportunity Knocked | 5.00% | ~17,941 |
-| City of Big Shoulders | 5.00% | ~17,941 |
-| Mission Mastery | 5.00% | ~17,941 |
+| Street Fighter | 7.00% | ~25,118 |
+| Friendly Gestures | 7.00% | ~25,118 |
+| People Person | 7.00% | ~25,118 |
+| Liquor Lord | 6.00% | ~21,530 |
+| Safety in Numbers | 6.00% | ~21,530 |
+| Moving Experiences | 6.00% | ~21,530 |
+| Wise Head | 6.00% | ~21,530 |
+| Show ‘em the Sugar | 6.00% | ~21,530 |
+| Killing Them Softly | 6.00% | ~21,530 |
+| Street Knowledge | 5.00% | ~17,942 |
+| Oh Captain | 5.00% | ~17,942 |
+| Branching Out | 5.00% | ~17,942 |
+| Improvement Missions | 5.00% | ~17,942 |
+| Opportunity Knocked | 5.00% | ~17,942 |
+| City of Big Shoulders | 5.00% | ~17,942 |
+| Mission Mastery | 5.00% | ~17,942 |
 | Considerable Clams | 4.00% | ~14,353 |
 | Gin Joint | 4.00% | ~14,353 |
 | An Affront to the Enemy | 4.00% | ~14,353 |
@@ -48,11 +48,11 @@ Rating: 4.28 (Ranked 873)
 | Sockdolager | 3.00% | ~10,765 |
 | Still Stalwart | 3.00% | ~10,765 |
 | Tighten the Screws | 3.00% | ~10,765 |
-| One of Us | 2.00% | ~7,176 |
-| Baker’s Dozen | 2.00% | ~7,176 |
-| Dropping the Dime | 2.00% | ~7,176 |
-| Spiffy Speakeasies | 2.00% | ~7,176 |
-| Keeping Your Word | 2.00% | ~7,176 |
+| One of Us | 2.00% | ~7,177 |
+| Baker’s Dozen | 2.00% | ~7,177 |
+| Dropping the Dime | 2.00% | ~7,177 |
+| Spiffy Speakeasies | 2.00% | ~7,177 |
+| Keeping Your Word | 2.00% | ~7,177 |
 | Boxing Them In | 1.00% | ~3,588 |
 | Backroom Empire | 1.00% | ~3,588 |
 | Corner Control | 1.00% | ~3,588 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 873)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,821 (Ranked 51)  
+Progressed: 358,830 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-24 | 358,322 | 7 |
 | 2023-12-25 | 358,511 | 7 |
 | 2023-12-26 | 358,697 | 7 |
-| 2023-12-27 | 358,821 | 7 |
+| 2023-12-27 | 358,830 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
 Sum: 263 (Ranked 389)  
