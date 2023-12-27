@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,842 |
-| Pay 'n' Spray | 50.00% | ~8,544 |
-| All Dressed Up for San Fierro | 25.00% | ~4,272 |
-| The American Dream | 18.00% | ~3,076 |
-| School's Out | 18.00% | ~3,076 |
-| Smooth Moves | 16.00% | ~2,734 |
-| Today Was a Good Day | 15.00% | ~2,563 |
-| What happens in Las Venturas... | 14.00% | ~2,392 |
-| Horror of the Santa Maria | 10.00% | ~1,709 |
-| Liberty City State of Mind | 9.00% | ~1,538 |
-| Original Gangster | 8.00% | ~1,367 |
-| With Extra Dip | 7.00% | ~1,196 |
-| The End of the Line | 7.00% | ~1,196 |
-| Saviour | 6.00% | ~1,025 |
-| Rescue a Kitten Too? | 5.00% | ~854 |
+| Getting Started | 81.00% | ~13,847 |
+| Pay 'n' Spray | 50.00% | ~8,548 |
+| All Dressed Up for San Fierro | 25.00% | ~4,274 |
+| The American Dream | 18.00% | ~3,077 |
+| School's Out | 18.00% | ~3,077 |
+| Smooth Moves | 16.00% | ~2,735 |
+| Today Was a Good Day | 15.00% | ~2,564 |
+| What happens in Las Venturas... | 14.00% | ~2,393 |
+| Horror of the Santa Maria | 10.00% | ~1,710 |
+| Liberty City State of Mind | 9.00% | ~1,539 |
+| Original Gangster | 8.00% | ~1,368 |
+| With Extra Dip | 7.00% | ~1,197 |
+| The End of the Line | 7.00% | ~1,197 |
+| Saviour | 6.00% | ~1,026 |
+| Rescue a Kitten Too? | 5.00% | ~855 |
 | They Can’t Stop All of Us | 4.00% | ~684 |
 | What are the Odds | 4.00% | ~684 |
 | Bike or Biker | 3.00% | ~513 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 538)
 | ...Here we go again | 0.50% | ~85 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,089 (Ranked 159)  
+Progressed: 17,095 (Ranked 159)  
 Completed: 64 (0.37%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 64 (0.37%) (Ranked 236)
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
 | 2023-12-26 | 17,001 | 64 |
-| 2023-12-27 | 17,089 | 64 |
+| 2023-12-27 | 17,095 | 64 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
 Sum: 806 (Ranked 285)  

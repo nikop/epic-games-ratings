@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.48 (Ranked 644)  
+Rating: 4.48 (Ranked 645)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,10 +12,10 @@ Number of Ratings: 67  (23.09.2022)
 | Astarte | 1.00% | ~2 |
 | Close the Rift | 1.00% | ~2 |
 | Master of War | 1.00% | ~2 |
+| Why'd It Have to Be Snakes? | 1.00% | ~2 |
 | Hell's Forge | 0.80% | ~2 |
 | Master of Strife | 0.80% | ~2 |
 | The Dead Court | 0.80% | ~2 |
-| Why'd It Have to Be Snakes? | 0.80% | ~2 |
 | Demolition Derby | 0.40% | ~1 |
 | Good Deeds | 0.40% | ~1 |
 | Infested | 0.40% | ~1 |

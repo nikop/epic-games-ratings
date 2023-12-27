@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1513,
+  "EOS_Progressed": 1514,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3794,6 +3794,11 @@
       "Time": "2023-12-27T12:10:18.8893384+00:00",
       "NumProgressed": 1513,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T17:10:04.6294722+00:00",
+      "NumProgressed": 1514,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3861,7 +3866,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "EXPERT_1",
@@ -3893,7 +3898,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "HEAD_BURST_1",
@@ -3901,7 +3906,7 @@
       "Name": "Head Burst",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "INDY_1",
@@ -4077,7 +4082,7 @@
       "Name": "Wanderer",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "WISHMASTER_1",
@@ -4092,15 +4097,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1513,
+      "Progressed": 1514,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:11:11.4056151+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:10:04.6294718+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:58:23.9873198+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:11:11.4056608+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:58:12.1335304+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:10:04.6295079+00:00"
 }

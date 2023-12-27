@@ -1,20 +1,20 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 800)  
+Rating: 4.36 (Ranked 801)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 85.00% | ~735 |
-| Take-Off | 80.00% | ~692 |
-| Hokey-Pokey | 69.00% | ~597 |
+| Our Man | 85.00% | ~736 |
+| Take-Off | 80.00% | ~693 |
+| Hokey-Pokey | 69.00% | ~598 |
 | Camellos | 55.00% | ~476 |
-| Bad Trip | 45.00% | ~389 |
+| Bad Trip | 45.00% | ~390 |
 | Didn't Miss A Single One | 44.00% | ~381 |
 | Spread | 43.00% | ~372 |
-| That was base | 42.00% | ~363 |
-| Safe Pair of Hands | 36.00% | ~311 |
+| That was base | 42.00% | ~364 |
+| Safe Pair of Hands | 36.00% | ~312 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~260 |
 | Architect of Fortunes | 25.00% | ~216 |
 | Bite the Blow | 23.00% | ~199 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.70% | ~6 |
 | Sense Of Style | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865 (Ranked 288)  
+Progressed: 866 (Ranked 288)  
 Completed: 3 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 3 (0.35%) (Ranked 238)
 | 2023-12-24 | 849 | 3 |
 | 2023-12-25 | 854 | 3 |
 | 2023-12-26 | 863 | 3 |
-| 2023-12-27 | 865 | 3 |
+| 2023-12-27 | 866 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

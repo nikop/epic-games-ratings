@@ -6,8 +6,8 @@
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 411,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,11 +276,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1106,6 +1106,11 @@
       "Time": "2023-12-27T13:11:55.5199195+00:00",
       "NumProgressed": 215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T17:09:06.6300277+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1116,9 +1121,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1134,7 +1139,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1148,9 +1153,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1230,7 +1235,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1252,9 +1257,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1310,7 +1315,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1364,9 +1369,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1469,7 +1474,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 1
     }
   ],
@@ -1477,8 +1482,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:09:51.4493911+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:09:06.6300273+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:59:06.7131997+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:09:51.4494249+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:58:43.7554603+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:09:06.6300588+00:00"
 }

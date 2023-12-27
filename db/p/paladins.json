@@ -2,13 +2,13 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10227,11 +10227,17 @@
       "Rating": 4.32,
       "NumberOfAwards": 25697,
       "NumberOfAwardsMax": 3952
+    },
+    {
+      "Time": "2023-12-27T17:03:16.8204356+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 25701,
+      "NumberOfAwardsMax": 3955
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 25697,
-  "NumberOfAwardsMax": 3952,
+  "NumberOfAwards": 25701,
+  "NumberOfAwardsMax": 3955,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10244,7 +10250,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3952
+      "Count": 3955
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10286,7 +10292,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2895
+      "Count": 2896
     },
     {
       "Text": "This game has a Competitive Community",
@@ -10306,8 +10312,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-12-27T15:02:59.6559061+00:00",
+  "LastChanged": "2023-12-27T17:03:16.8204355+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:43.7098114+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:03:28.3277767+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:08:17.1358813+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:03:16.820436+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:06:47.1523062+00:00"
 }

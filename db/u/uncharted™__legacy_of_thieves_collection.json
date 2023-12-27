@@ -4,11 +4,11 @@
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
   "Ranking_Rating": 161,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -1361,10 +1361,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1103,
       "NumberOfAwardsMax": 754
+    },
+    {
+      "Time": "2023-12-27T16:57:21.0422377+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1104,
+      "NumberOfAwardsMax": 754
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1103,
+  "NumberOfAwards": 1104,
   "NumberOfAwardsMax": 754,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1390,7 +1396,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1447,8 +1453,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-12-27T14:57:16.5017566+00:00",
+  "LastChanged": "2023-12-27T16:57:21.0422375+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:40.5737897+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:57:13.3086675+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:04:56.8638792+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:57:21.0422382+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:04:19.7999947+00:00"
 }

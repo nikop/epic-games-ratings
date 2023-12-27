@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -3310,9 +3310,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 533
     },
     {
       "ID": "DustDancing",
@@ -3421,8 +3421,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:10:59.4590665+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:09:56.049973+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:03:19.7216983+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:10:59.4590948+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:03:09.9734732+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:09:56.0499978+00:00"
 }

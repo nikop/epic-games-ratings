@@ -2,10 +2,13 @@
   "ID": "af3bde581952400fbc26b5335cd2011e",
   "Name": "Death Trash",
   "ProductSlug": "death-trash",
+  "Ranking_Rating": 606,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-08-05T15:00:00+00:00",
     "PcReleaseDate": "2021-08-05T15:00:00+00:00",
@@ -18,10 +21,17 @@
       "com.epicgames.app.blacklist": "KR,CN"
     }
   },
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:35.7401241+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T16:59:21.3436079+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -42,8 +52,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:30.2611001+00:00",
   "FirstSeenRating": "2023-03-31T05:58:35.7401238+00:00",
-  "LastChanged": "2023-03-31T05:58:35.7401239+00:00",
+  "LastChanged": "2023-12-27T16:59:21.3436075+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:58.9083577+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:00:00.1719972+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:05:07.7437251+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:21.3436082+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:04:27.8818359+00:00"
 }

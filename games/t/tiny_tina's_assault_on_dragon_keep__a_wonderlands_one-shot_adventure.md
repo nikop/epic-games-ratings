@@ -1,15 +1,15 @@
 # Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
 [Store](https://store.epicgames.com/en-US/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure)  
 [View Rawdata](../../db/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.json)  
-Rating: 4.45 (Ranked 679)  
+Rating: 4.45 (Ranked 680)  
 Number of Ratings: 1,211  (23.09.2022)  
 ## Awards
-Max (Character Customization): 296  (Ranked 258)  
-Sum: 296 (Ranked 373)  
-Diff (max vs sum): -115  
+Max (Character Customization): 297  (Ranked 257)  
+Sum: 297 (Ranked 373)  
+Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 296 |
+| This game has Inclusive Character Customization | 297 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -113,3 +113,4 @@ Diff (max vs sum): -115
 | 2023-12-03 | 4.45 | - | 294 | 294 |
 | 2023-12-09 | 4.45 | - | 295 | 295 |
 | 2023-12-17 | 4.45 | - | 296 | 296 |
+| 2023-12-27 | 4.45 | - | 297 | 297 |

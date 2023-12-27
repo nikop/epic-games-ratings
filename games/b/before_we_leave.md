@@ -1,7 +1,7 @@
 # Before We Leave
 [Store](https://store.epicgames.com/en-US/p/before-we-leave)  
 [View Rawdata](../../db/b/before_we_leave.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 73  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -60,3 +60,4 @@ Number of Ratings: 73  (23.09.2022)
 | 2023-06-11 | 4.64 | - | 0 | 0 |
 | 2023-10-12 | 4.65 | - | 0 | 0 |
 | 2023-12-23 | 4.66 | - | 0 | 0 |
+| 2023-12-27 | 4.65 | - | 0 | 0 |

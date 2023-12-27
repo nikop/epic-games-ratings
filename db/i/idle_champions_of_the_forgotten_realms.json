@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
@@ -9109,10 +9109,10 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245244,
-  "EOS_Completed": 2566,
-  "EOS_NewPlayers": 2945,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 245292,
+  "EOS_Completed": 2567,
+  "EOS_NewPlayers": 2978,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37504,6 +37504,11 @@
       "Time": "2023-12-27T16:11:27.9237135+00:00",
       "NumProgressed": 245244,
       "NumCompleted": 2566
+    },
+    {
+      "Time": "2023-12-27T17:10:18.8542831+00:00",
+      "NumProgressed": 245292,
+      "NumCompleted": 2567
     }
   ],
   "TotalAchievements": 546,
@@ -37515,7 +37520,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4905
+      "UsersEstimate": 4906
     },
     {
       "ID": "objective_completed_10",
@@ -37523,7 +37528,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_100",
@@ -37883,7 +37888,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_110",
@@ -38491,7 +38496,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_130",
@@ -38635,7 +38640,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_150",
@@ -38843,7 +38848,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_20",
@@ -39203,7 +39208,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_36",
@@ -39651,7 +39656,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_54",
@@ -41259,7 +41264,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_902",
@@ -41882,21 +41887,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211518,
+      "Progressed": 211566,
       "Completed": 4068
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245244,
-      "Completed": 2566
+      "Progressed": 245292,
+      "Completed": 2567
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-27T14:58:42.5632677+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:11:27.9237129+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:10:18.8542828+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:59:21.1767595+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:11:27.9259749+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:58:53.9920944+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:10:18.8565411+00:00"
 }

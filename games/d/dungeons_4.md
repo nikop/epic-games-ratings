@@ -14,8 +14,8 @@
 | Bad Elves Go Everywhere | 69.00% | ~447 |
 | Thalya's Concentrated Fury | 68.00% | ~441 |
 | Master of Magic | 63.00% | ~408 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~408 |
 | Heroes’ Gorge | 63.00% | ~408 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~402 |
 | Magic Accidents | 59.00% | ~382 |
 | The Ascent | 58.00% | ~376 |
 | It's Warm and Cozy at Home | 58.00% | ~376 |
@@ -27,9 +27,9 @@
 | “… like son” | 50.00% | ~324 |
 | The Cathedral of Light | 47.00% | ~305 |
 | Shame! Shame! Shame! | 46.00% | ~298 |
+| Pure Dynamite! | 45.00% | ~292 |
 | Dungeonlord Gorgu | 45.00% | ~292 |
 | Tanos' Crusade Against Thalya | 45.00% | ~292 |
-| Pure Dynamite! | 44.00% | ~285 |
 | Mana Cannon | 41.00% | ~266 |
 | All’s Well That Ends Evil | 40.00% | ~259 |
 | The Duel | 37.00% | ~240 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~65 |
 | I Don't Need Any Help | 9.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648 (Ranked 316)  
+Progressed: 648 (Ranked 317)  
 Completed: 22 (3.40%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |

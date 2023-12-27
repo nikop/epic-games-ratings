@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~11,867 |
-| What should I buy? | 81.00% | ~10,336 |
-| Rescued Elder Ent | 61.00% | ~7,784 |
-| Focus! | 60.00% | ~7,656 |
-| The End of the Gold Mane Knights | 47.00% | ~5,997 |
-| False Goddess, Disappear | 38.00% | ~4,849 |
-| Rules of Etiquette | 37.00% | ~4,721 |
+| The Legend Begins | 93.00% | ~11,869 |
+| What should I buy? | 81.00% | ~10,337 |
+| Rescued Elder Ent | 61.00% | ~7,785 |
+| Focus! | 60.00% | ~7,657 |
+| The End of the Gold Mane Knights | 47.00% | ~5,998 |
+| False Goddess, Disappear | 38.00% | ~4,850 |
+| Rules of Etiquette | 37.00% | ~4,722 |
 | Inventory Management | 31.00% | ~3,956 |
-| The Fall of the Leonia Order | 29.00% | ~3,700 |
-| Quick Movements | 29.00% | ~3,700 |
+| Quick Movements | 30.00% | ~3,829 |
+| The Fall of the Leonia Order | 29.00% | ~3,701 |
 | Go Home... | 26.00% | ~3,318 |
 | The Final Battle of the First Hero | 25.00% | ~3,190 |
-| The Hero Killer | 24.00% | ~3,062 |
+| The Hero Killer | 24.00% | ~3,063 |
 | Brain at Full Throttle | 20.00% | ~2,552 |
 | Rookies Welcome | 18.00% | ~2,297 |
 | Deadly Power | 15.00% | ~1,914 |
 | Castle Restoration Plans | 12.00% | ~1,531 |
 | The Dwarven Chandelier | 10.00% | ~1,276 |
-| Master of Speed | 9.00% | ~1,148 |
+| Master of Speed | 9.00% | ~1,149 |
 | The Levitator | 7.00% | ~893 |
 | The God of Battle | 4.00% | ~510 |
 | Too Much of a Talker | 1.00% | ~128 |
 | The Skeleton King | 1.00% | ~128 |
 | Cold-Blooded | 0.60% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,760 (Ranked 171)  
+Progressed: 12,762 (Ranked 171)  
 Completed: 18 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 18 (0.14%) (Ranked 293)
 | 2023-12-24 | 12,351 | 18 |
 | 2023-12-25 | 12,498 | 18 |
 | 2023-12-26 | 12,633 | 18 |
-| 2023-12-27 | 12,760 | 18 |
+| 2023-12-27 | 12,762 | 18 |
 ## Awards
 Max (Great for Beginners): 145  (Ranked 329)  
 Sum: 971 (Ranked 269)  

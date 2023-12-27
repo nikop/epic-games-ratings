@@ -5,10 +5,10 @@ Rating: 4.63 (Ranked 353)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 10.00% | ~633 |
+| Secret Technique | 10.00% | ~634 |
 | Realm Estate | 9.00% | ~570 |
 | A Wonderful Discovery | 9.00% | ~570 |
-| Walls Cannot Stop Us | 8.00% | ~506 |
+| Walls Cannot Stop Us | 8.00% | ~507 |
 | From Friends to Family | 7.00% | ~443 |
 | Bone Peddler | 6.00% | ~380 |
 | There Can Only Be One! | 5.00% | ~317 |
@@ -24,7 +24,6 @@ Rating: 4.63 (Ranked 353)
 | Digging for Treasure | 3.00% | ~190 |
 | My Final Form | 3.00% | ~190 |
 | Freed Lands of Manuhari | 3.00% | ~190 |
-| Arch Mage | 2.00% | ~127 |
 | Enchanted Archipelago | 2.00% | ~127 |
 | Crimson Caldera | 2.00% | ~127 |
 | Preparation Is Everything | 2.00% | ~127 |
@@ -39,6 +38,7 @@ Rating: 4.63 (Ranked 353)
 | Spoils of War | 2.00% | ~127 |
 | God Emperor | 1.00% | ~63 |
 | Lord of Chaos | 1.00% | ~63 |
+| Arch Mage | 1.00% | ~63 |
 | The Creator | 1.00% | ~63 |
 | Eternal Lord | 1.00% | ~63 |
 | The Eternal Court | 1.00% | ~63 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,331 (Ranked 194)  
+Progressed: 6,335 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
-| 2023-12-27 | 6,331 | 7 |
+| 2023-12-27 | 6,335 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 138 (Ranked 439)  

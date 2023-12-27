@@ -2,13 +2,13 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "ID": "ACH_041",
       "SetID": "72imik0",
       "Name": "Jacqueline \u201CJackie\u201D Conrad",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_042",
@@ -1087,9 +1087,9 @@
       "ID": "ACH_05",
       "SetID": "72imik0",
       "Name": "The Interrogations",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_06",
@@ -1136,8 +1136,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:08:36.8262932+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:07:01.5364946+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:50.2099662+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:03:40.4884114+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:08:36.8263303+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:03:24.9215836+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:07:01.536522+00:00"
 }

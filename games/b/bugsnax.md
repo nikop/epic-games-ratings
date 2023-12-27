@@ -1,32 +1,32 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 31)  
+Rating: 4.86 (Ranked 32)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,079 |
-| Gone Home | 93.00% | ~26,921 |
-| Wonderfalls | 87.00% | ~25,184 |
-| Got to Catch a Few | 77.00% | ~22,289 |
-| Double Trapper | 75.00% | ~21,710 |
-| I'm Stuffed | 69.00% | ~19,973 |
-| Got to Catch a Lot | 66.00% | ~19,105 |
+| Everybody Gets One | 97.00% | ~28,080 |
+| Gone Home | 93.00% | ~26,922 |
+| Wonderfalls | 87.00% | ~25,185 |
+| Got to Catch a Few | 77.00% | ~22,290 |
+| Double Trapper | 75.00% | ~21,711 |
+| I'm Stuffed | 69.00% | ~19,974 |
+| Got to Catch a Lot | 66.00% | ~19,106 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,658 |
 | In the Arms of the Gramble | 59.00% | ~17,079 |
 | Know Thy Neighbor | 59.00% | ~17,079 |
 | Perf Dirt | 57.00% | ~16,500 |
-| Launch Party | 56.00% | ~16,210 |
+| Launch Party | 56.00% | ~16,211 |
 | Vacation's End | 53.00% | ~15,342 |
 | Bossy Bugs | 46.00% | ~13,316 |
-| Survivor | 45.00% | ~13,026 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,447 |
+| Survivor | 45.00% | ~13,027 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,448 |
 | Sidetracked | 40.00% | ~11,579 |
 | Film Buff | 38.00% | ~11,000 |
 | Combo Meal | 38.00% | ~11,000 |
 | Midnight Snak | 36.00% | ~10,421 |
-| Candid Cryptid | 35.00% | ~10,131 |
+| Candid Cryptid | 35.00% | ~10,132 |
 | Got to Catch Them All | 32.00% | ~9,263 |
 | Deep Impact | 23.00% | ~6,658 |
 | Grab Bag | 23.00% | ~6,658 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,605 |
 | Dapper Capper | 7.00% | ~2,026 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,947 (Ranked 137)  
+Progressed: 28,948 (Ranked 137)  
 Completed: 1,416 (4.89%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 1,416 (4.89%) (Ranked 77)
 | 2023-12-24 | 28,918 | 1,413 |
 | 2023-12-25 | 28,931 | 1,416 |
 | 2023-12-26 | 28,942 | 1,416 |
-| 2023-12-27 | 28,947 | 1,416 |
+| 2023-12-27 | 28,948 | 1,416 |
 ## Awards
 Max (Amazing Storytelling): 44  (Ranked 467)  
-Sum: 373 (Ranked 355)  
+Sum: 374 (Ranked 355)  
 Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 112
 | This game is Extremely Fun | 32 |
 | This game has Diverse Characters | 31 |
 | This game has a Creative Community | 31 |
-| This game has Easy Combat | 29 |
+| This game has Easy Combat | 30 |
 | This game is Relaxing | 28 |
 | This game has Obsessive Gameplay | 22 |
 ## Ratings History
@@ -437,3 +437,4 @@ Diff (max vs sum): 112
 | 2023-12-16 | 4.86 | - | 44 | 371 |
 | 2023-12-21 | 4.86 | - | 44 | 372 |
 | 2023-12-25 | 4.86 | - | 44 | 373 |
+| 2023-12-27 | 4.86 | - | 44 | 374 |

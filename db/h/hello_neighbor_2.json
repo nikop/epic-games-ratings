@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -489,9 +489,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3655,
+  "EOS_Progressed": 3656,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -6189,6 +6189,11 @@
       "Time": "2023-12-27T16:07:32.4545624+00:00",
       "NumProgressed": 3655,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-27T17:06:14.2228201+00:00",
+      "NumProgressed": 3656,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6296,7 +6301,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -6304,14 +6309,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3655,
+      "Progressed": 3656,
       "Completed": 140
     }
   ],
@@ -6319,8 +6324,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-26T22:59:33.8911341+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:07:32.4545619+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:06:14.2228198+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:00:15.4891242+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:07:32.4545945+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:31.1463795+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:06:14.2228464+00:00"
 }

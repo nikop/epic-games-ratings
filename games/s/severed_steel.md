@@ -1,32 +1,32 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~219,236 |
-| 50 HEADSHOTS | 30.00% | ~199,306 |
-| SCIENCE AND INDUSTRY | 29.00% | ~192,662 |
-| FINISHED CHAPTER 1 | 28.00% | ~186,019 |
-| FINISHED CHAPTER 2 | 21.00% | ~139,514 |
-| 200 HEADSHOTS | 18.00% | ~119,584 |
-| FINISHED CHAPTER 3 | 17.00% | ~112,940 |
-| FINISHED CHAPTER 4 | 15.00% | ~99,653 |
-| FINISH CHAPTER 5 | 13.00% | ~86,366 |
-| FINISH CHAPTER 6 | 11.00% | ~73,079 |
-| CATHARTIC ESCAPISM | 11.00% | ~73,079 |
-| 1000 KILLS | 10.00% | ~66,435 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,574 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,287 |
-| FIRST BLOOD | 2.00% | ~13,287 |
-| OUT OF ORDER | 1.00% | ~6,644 |
-| PACEMAKER | 1.00% | ~6,644 |
-| TIME PARADOX | 1.00% | ~6,644 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~5,979 |
-| PARTYHARD | 0.80% | ~5,315 |
+| 100 KILLS | 33.00% | ~219,208 |
+| 50 HEADSHOTS | 30.00% | ~199,280 |
+| SCIENCE AND INDUSTRY | 29.00% | ~192,638 |
+| FINISHED CHAPTER 1 | 28.00% | ~185,995 |
+| FINISHED CHAPTER 2 | 21.00% | ~139,496 |
+| 200 HEADSHOTS | 18.00% | ~119,568 |
+| FINISHED CHAPTER 3 | 17.00% | ~112,926 |
+| FINISHED CHAPTER 4 | 15.00% | ~99,640 |
+| FINISH CHAPTER 5 | 13.00% | ~86,355 |
+| FINISH CHAPTER 6 | 11.00% | ~73,069 |
+| CATHARTIC ESCAPISM | 11.00% | ~73,069 |
+| 1000 KILLS | 10.00% | ~66,427 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,571 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,285 |
+| FIRST BLOOD | 2.00% | ~13,285 |
+| OUT OF ORDER | 1.00% | ~6,643 |
+| PACEMAKER | 1.00% | ~6,643 |
+| TIME PARADOX | 1.00% | ~6,643 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~5,978 |
+| PARTYHARD | 0.80% | ~5,314 |
 | NEW GAME PLUS | 0.70% | ~4,650 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,322 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,321 |
 | CHURCH | 0.40% | ~2,657 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,993 |
 | REMEMBER THE ARMORY | 0.30% | ~1,993 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 231)
 | THE GAMBLER | 0.10% | ~664 |
 | WARRIOR IN A GARDEN | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,353 (Ranked 30)  
+Progressed: 664,268 (Ranked 30)  
 Completed: 61 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |

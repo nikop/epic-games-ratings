@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1295,9 +1295,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 12760,
+  "EOS_Progressed": 12762,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7760,6 +7760,11 @@
       "Time": "2023-12-27T16:09:56.9397376+00:00",
       "NumProgressed": 12760,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-27T17:09:10.5756654+00:00",
+      "NumProgressed": 12762,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7795,7 +7800,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7656
+      "UsersEstimate": 7657
     },
     {
       "ID": "DemonCastleRestoration",
@@ -7819,7 +7824,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -7859,7 +7864,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "LeoniasFall",
@@ -7867,7 +7872,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "LeoniasFall_2",
@@ -7883,7 +7888,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "RookieWelcome",
@@ -7899,15 +7904,15 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 7784
+      "UsersEstimate": 7785
     },
     {
       "ID": "SavedElderEnt_2",
       "SetID": "97dk767",
       "Name": "Quick Movements",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3829
     },
     {
       "ID": "SkeletonKing",
@@ -7931,7 +7936,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 11867
+      "UsersEstimate": 11869
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7939,7 +7944,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -7947,7 +7952,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "WhattoBuy",
@@ -7955,22 +7960,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10336
+      "UsersEstimate": 10337
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 12760,
+      "Progressed": 12762,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-26T19:02:32.7110984+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:09:56.9397368+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:09:10.575665+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:03:04.8154416+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:09:56.9398175+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:01:00.7896112+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:09:10.5757012+00:00"
 }

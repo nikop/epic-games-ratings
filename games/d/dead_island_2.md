@@ -5,51 +5,51 @@ Rating: 4.54 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 7.00% | ~53,918 |
-| Hotel California | 6.00% | ~46,215 |
-| Break A Leg | 5.00% | ~38,513 |
-| Coup de Grâce | 5.00% | ~38,513 |
-| Hazardous Materials | 5.00% | ~38,513 |
-| Git Gutte! | 4.00% | ~30,810 |
-| Friends Like These | 4.00% | ~30,810 |
-| Apex Predator | 4.00% | ~30,810 |
-| Personal Assistant Personally Assisted | 4.00% | ~30,810 |
-| Whatever It Takes | 4.00% | ~3,832 |
-| Dr. Reed, I Presume? | 3.00% | ~23,108 |
-| Anger Management | 3.00% | ~23,108 |
-| Bookworm | 3.00% | ~23,108 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,108 |
-| But Doctor, I am Butcho | 3.00% | ~23,108 |
-| Slayer Squad | 3.00% | ~23,108 |
-| Can't Handle the Truth | 3.00% | ~23,108 |
-| Stacking the Deck | 3.00% | ~23,108 |
-| This is My Weapon | 3.00% | ~23,108 |
-| One of Us | 3.00% | ~2,874 |
-| Pork Chopped | 3.00% | ~2,874 |
-| Making Your Mark | 2.00% | ~15,405 |
-| Perks of the Job | 2.00% | ~15,405 |
-| Like Riding a Bike | 2.00% | ~15,405 |
-| Zombologist | 2.00% | ~15,405 |
-| Ooh, Shiny! | 2.00% | ~15,405 |
-| A Patton Emerges | 2.00% | ~15,405 |
-| Humanity Distilled | 2.00% | ~15,405 |
-| I Am the Resurrection | 2.00% | ~15,405 |
-| Down with the Sickness | 2.00% | ~15,405 |
-| Max Headroom | 2.00% | ~15,405 |
-| Our True Nature | 2.00% | ~15,405 |
+| Welcome To Hell-A | 7.00% | ~53,924 |
+| Hotel California | 6.00% | ~46,221 |
+| Break A Leg | 5.00% | ~38,517 |
+| Coup de Grâce | 5.00% | ~38,517 |
+| Hazardous Materials | 5.00% | ~38,517 |
+| Git Gutte! | 4.00% | ~30,814 |
+| Friends Like These | 4.00% | ~30,814 |
+| Apex Predator | 4.00% | ~30,814 |
+| Personal Assistant Personally Assisted | 4.00% | ~30,814 |
+| Whatever It Takes | 4.00% | ~3,836 |
+| Dr. Reed, I Presume? | 3.00% | ~23,110 |
+| Anger Management | 3.00% | ~23,110 |
+| Bookworm | 3.00% | ~23,110 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,110 |
+| But Doctor, I am Butcho | 3.00% | ~23,110 |
+| Slayer Squad | 3.00% | ~23,110 |
+| Can't Handle the Truth | 3.00% | ~23,110 |
+| Stacking the Deck | 3.00% | ~23,110 |
+| This is My Weapon | 3.00% | ~23,110 |
+| One of Us | 3.00% | ~2,877 |
+| Pork Chopped | 3.00% | ~2,877 |
+| Making Your Mark | 2.00% | ~15,407 |
+| Perks of the Job | 2.00% | ~15,407 |
+| Like Riding a Bike | 2.00% | ~15,407 |
+| Zombologist | 2.00% | ~15,407 |
+| Ooh, Shiny! | 2.00% | ~15,407 |
+| A Patton Emerges | 2.00% | ~15,407 |
+| Humanity Distilled | 2.00% | ~15,407 |
+| I Am the Resurrection | 2.00% | ~15,407 |
+| Down with the Sickness | 2.00% | ~15,407 |
+| Max Headroom | 2.00% | ~15,407 |
+| Our True Nature | 2.00% | ~15,407 |
 | Smorgasbord | 1.00% | ~7,703 |
 | Not Even My Final Form | 1.00% | ~7,703 |
 | Internet Famous | 1.00% | ~7,703 |
 | Jumbo Keyring | 1.00% | ~7,703 |
 | Go, Bobcats! | 1.00% | ~7,703 |
 | Rising Star | 1.00% | ~7,703 |
-| Variety is the Spice of Death | 0.90% | ~6,932 |
-| Make it So | 0.80% | ~6,162 |
-| On Safari | 0.80% | ~6,162 |
+| Variety is the Spice of Death | 0.90% | ~6,933 |
+| Make it So | 0.80% | ~6,163 |
+| On Safari | 0.80% | ~6,163 |
 | LA Influential | 0.70% | ~5,392 |
 | Gore Horse | 0.60% | ~4,622 |
 | Sharpest Tool in the Box | 0.60% | ~4,622 |
-| Sole Survivor | 0.50% | ~3,851 |
+| Sole Survivor | 0.50% | ~3,852 |
 | Top That, Tisha! | 0.50% | ~479 |
 | Survival Skills | 0.30% | ~2,311 |
 | Donk! | 0.20% | ~1,541 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 538)
 | Bucket List | 0.10% | ~770 |
 | Wilhelm | 0.10% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770,251 (Ranked 20)  
+Progressed: 770,348 (Ranked 20)  
 Completed: 2,508 (0.33%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2,508 (0.33%) (Ranked 248)
 | 2023-12-24 | 763,728 | 2,498 |
 | 2023-12-25 | 766,199 | 2,502 |
 | 2023-12-26 | 768,817 | 2,505 |
-| 2023-12-27 | 770,251 | 2,508 |
+| 2023-12-27 | 770,348 | 2,508 |
 ## Awards
 Max (Great Boss Battles): 8,934  (Ranked 44)  
 Sum: 13,650 (Ranked 78)  

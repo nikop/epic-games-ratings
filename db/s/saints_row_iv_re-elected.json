@@ -2,13 +2,13 @@
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
   "ProductSlug": "saints-row-iv-re-elected",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 741,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-08T16:00:00+00:00",
     "PcReleaseDate": "2013-08-20T00:00:00+00:00",
@@ -30262,6 +30262,6 @@
   "LastChanged": "2023-12-27T01:47:30.550861+00:00",
   "LastChanged_Achievements": "2023-12-27T16:08:51.8047155+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.2940377+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:03:32.8414986+00:00",
+  "LastUpdate_Ratings": "2023-12-27T17:03:20.0198965+00:00",
   "LastUpdate_Achievements": "2023-12-27T16:08:51.8048981+00:00"
 }

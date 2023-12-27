@@ -1747,10 +1747,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164893,
+  "EOS_Progressed": 164902,
   "EOS_Completed": 415,
-  "EOS_NewPlayers": 1401,
-  "EOS_NewCompleters": 54,
+  "EOS_NewPlayers": 1402,
+  "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20822,6 +20822,11 @@
       "Time": "2023-12-27T16:07:06.0666169+00:00",
       "NumProgressed": 164893,
       "NumCompleted": 415
+    },
+    {
+      "Time": "2023-12-27T17:05:54.4194716+00:00",
+      "NumProgressed": 164902,
+      "NumCompleted": 415
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20978,7 +20983,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -20986,7 +20991,7 @@
       "Name": "Jawstag",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -21010,7 +21015,7 @@
       "Name": "Feast",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -21090,7 +21095,7 @@
       "Name": "Yank",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -21201,21 +21206,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164476,
+      "Progressed": 164485,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164893,
+      "Progressed": 164902,
       "Completed": 415
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:07:06.0666165+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:05:54.4194711+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:00:20.7795014+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:07:06.0667683+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:35.0399422+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:05:54.419598+00:00"
 }

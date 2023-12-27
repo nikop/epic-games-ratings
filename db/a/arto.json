@@ -4,8 +4,8 @@
   "ProductSlug": "arto-ff98ff",
   "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-01T15:00:00+00:00",
     "PcReleaseDate": "2023-05-01T15:00:00+00:00",
@@ -65,17 +65,17 @@
       "ID": "BURNT_CRISP",
       "SetID": "51mnk21",
       "Name": "Burnt to a Crisp",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHANCE_ENCOUNTER",
       "SetID": "51mnk21",
       "Name": "A Chance Encounter?",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEMONS_DEFEATED",
@@ -169,9 +169,9 @@
       "ID": "NO_SAVING",
       "SetID": "51mnk21",
       "Name": "No Saving Him",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PURPLE_PEACE",
@@ -207,8 +207,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-12T18:06:31.6672669+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:11:09.3373251+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:10:03.0056934+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.875588+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:59:44.6863178+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:11:09.3373363+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:10.8259631+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:10:03.0057038+00:00"
 }

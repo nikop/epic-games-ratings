@@ -4,11 +4,11 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 325,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1831,10 +1831,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 540,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-12-27T16:59:56.4286029+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 542,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 540,
+  "NumberOfAwards": 542,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1902,7 +1908,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1923,8 +1929,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-27T16:00:51.2386993+00:00",
+  "LastChanged": "2023-12-27T16:59:56.4286027+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:09.100445+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:00:51.2386999+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:04:08.5634005+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:56.4286031+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:03:44.0319653+00:00"
 }

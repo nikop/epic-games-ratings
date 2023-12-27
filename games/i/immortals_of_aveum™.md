@@ -1,24 +1,24 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 942)  
+Rating: 4.20 (Ranked 943)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,754 |
-| Battlefields Have Memories | 80.00% | ~1,613 |
-| Enlisted | 73.00% | ~1,472 |
-| Maybe Engage a Little | 68.00% | ~1,371 |
-| No More Names | 50.00% | ~1,008 |
+| Unforeseen | 87.00% | ~1,756 |
+| Battlefields Have Memories | 80.00% | ~1,614 |
+| Enlisted | 73.00% | ~1,473 |
+| Maybe Engage a Little | 68.00% | ~1,372 |
+| No More Names | 50.00% | ~1,009 |
 | Initiate | 35.00% | ~706 |
-| Thrada-Kul | 31.00% | ~625 |
+| Thrada-Kul | 31.00% | ~626 |
 | Gravity-Challenged Rocks | 25.00% | ~504 |
 | Socialite | 23.00% | ~464 |
-| Soldier | 21.00% | ~423 |
-| All the Major Food Groups | 20.00% | ~403 |
+| Soldier | 21.00% | ~424 |
+| All the Major Food Groups | 20.00% | ~404 |
 | Beggars Would Ride | 19.00% | ~383 |
 | Control is an Illusion | 17.00% | ~343 |
-| The Means to Save It | 14.00% | ~282 |
+| The Means to Save It | 14.00% | ~283 |
 | Resilience to Sin | 13.00% | ~262 |
 | A Familiar Nest | 12.00% | ~242 |
 | Geas Aristeya | 12.00% | ~242 |
@@ -33,17 +33,17 @@ Rating: 4.20 (Ranked 942)
 | Periapt Viridian | 5.00% | ~101 |
 | Shroudfane Explorer | 5.00% | ~101 |
 | Kitted Out | 4.00% | ~81 |
-| Scholar | 3.00% | ~60 |
-| Armaments Azure | 3.00% | ~60 |
-| Armaments Gules | 3.00% | ~60 |
-| Armaments Vert | 3.00% | ~60 |
+| Scholar | 3.00% | ~61 |
+| Armaments Azure | 3.00% | ~61 |
+| Armaments Gules | 3.00% | ~61 |
+| Armaments Vert | 3.00% | ~61 |
 | Veteran | 2.00% | ~40 |
 | Grand Magnus | 1.00% | ~20 |
 | Master of Carmine | 1.00% | ~20 |
 | Tip of the Spear | 0.90% | ~18 |
 | Shroudfane Surveyor | 0.80% | ~16 |
 | Master of Ultramarine | 0.70% | ~14 |
-| Master of Malachite | 0.50% | ~10 |
+| Master of Malachite | 0.60% | ~12 |
 | Backtracker | 0.40% | ~8 |
 | Diplomat | 0.30% | ~6 |
 | Petite Bourgeoisie | 0.30% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 942)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,016 (Ranked 239)  
+Progressed: 2,018 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
-| 2023-12-27 | 2,016 | 2 |
+| 2023-12-27 | 2,018 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

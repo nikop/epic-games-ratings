@@ -1,23 +1,23 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 41.00% | ~462 |
 | Rail Rat | 32.00% | ~361 |
-| The Mysterious Stranger | 31.00% | ~349 |
+| The Mysterious Stranger | 31.00% | ~350 |
 | Immaculate Aim | 26.00% | ~293 |
 | The Brass Boss | 25.00% | ~282 |
-| Make Up For Lost Time | 24.00% | ~270 |
-| Time Flies | 24.00% | ~270 |
-| The Harder They Fall | 24.00% | ~270 |
-| No, Thanks! | 24.00% | ~270 |
-| The Prince in Heels | 24.00% | ~270 |
-| Honest Mistake | 24.00% | ~270 |
-| Immaculate Aim | 24.00% | ~270 |
+| Make Up For Lost Time | 24.00% | ~271 |
+| Time Flies | 24.00% | ~271 |
+| No, Thanks! | 24.00% | ~271 |
+| The Prince in Heels | 24.00% | ~271 |
+| Honest Mistake | 24.00% | ~271 |
+| Immaculate Aim | 24.00% | ~271 |
 | The Steel Shadow | 23.00% | ~259 |
+| The Harder They Fall | 23.00% | ~259 |
 | Fast Learner | 23.00% | ~259 |
 | Breaking Down Barriers | 22.00% | ~248 |
 | The Wicked Twins | 22.00% | ~248 |
@@ -41,8 +41,8 @@ Rating: 4.65 (Ranked 322)
 | Sump Explorer | 11.00% | ~124 |
 | Factorywood Explorer | 10.00% | ~113 |
 | Theater Explorer | 10.00% | ~113 |
-| Cultivair Explorer | 9.00% | ~101 |
-| Fairgrounds Explorer | 9.00% | ~101 |
+| Cultivair Explorer | 9.00% | ~102 |
+| Fairgrounds Explorer | 9.00% | ~102 |
 | Corin Goes Home | 8.00% | ~90 |
 | Sartorialist | 8.00% | ~90 |
 | Entresol Explorer | 8.00% | ~90 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,127 (Ranked 277)  
+Progressed: 1,128 (Ranked 277)  
 Completed: 6 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 6 (0.53%) (Ranked 214)
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
 | 2023-12-26 | 1,118 | 6 |
-| 2023-12-27 | 1,127 | 6 |
+| 2023-12-27 | 1,128 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

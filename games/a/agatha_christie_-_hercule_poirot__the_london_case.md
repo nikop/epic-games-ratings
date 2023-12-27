@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 72.00% | ~52 |
-| Little ideas | 68.00% | ~49 |
-| The Ship | 64.00% | ~46 |
+| Marc Allard | 71.00% | ~52 |
+| Little ideas | 67.00% | ~49 |
+| The Ship | 63.00% | ~46 |
 | Seeking the truth | 51.00% | ~37 |
-| An old friend | 49.00% | ~35 |
+| An old friend | 48.00% | ~35 |
 | The Gala | 47.00% | ~34 |
-| A curious gathering | 46.00% | ~33 |
+| A curious gathering | 45.00% | ~33 |
 | Little grey cells | 44.00% | ~32 |
 | Impossible is possible | 44.00% | ~32 |
 | The Missing Magdalene | 44.00% | ~32 |
 | Arthur Hastings | 44.00% | ~32 |
-| Everything matters | 42.00% | ~30 |
+| Everything matters | 41.00% | ~30 |
 | An expert mediator | 40.00% | ~29 |
 | DI Hardwicke | 40.00% | ~29 |
 | Order and method | 36.00% | ~26 |
 | Betty Allen | 33.00% | ~24 |
-| The Investigation Begins | 31.00% | ~22 |
-| Ms. Camilla B. Culsham | 28.00% | ~20 |
-| Irene Court-Smyth | 28.00% | ~20 |
+| The Investigation Begins | 30.00% | ~22 |
+| Ms. Camilla B. Culsham | 27.00% | ~20 |
+| Irene Court-Smyth | 27.00% | ~20 |
 | An odd series of events | 26.00% | ~19 |
 | The Apartment | 26.00% | ~19 |
 | Nathaniel Dryden | 25.00% | ~18 |
 | Bartholomew | 25.00% | ~18 |
-| Well-acquainted | 24.00% | ~17 |
-| A rude awakening | 24.00% | ~17 |
-| Anastasia Babanin | 24.00% | ~17 |
-| The Scheme | 24.00% | ~17 |
+| Well-acquainted | 23.00% | ~17 |
+| A rude awakening | 23.00% | ~17 |
+| Anastasia Babanin | 23.00% | ~17 |
+| The Scheme | 23.00% | ~17 |
 | Zakariya Demir | 22.00% | ~16 |
 | Truth from within | 21.00% | ~15 |
 | A curious phrase | 19.00% | ~14 |
-| Evelyn Lakshmi Warbeck | 17.00% | ~12 |
-| Johan Kristiansen | 17.00% | ~12 |
-| The Suspects | 17.00% | ~12 |
+| Evelyn Lakshmi Warbeck | 16.00% | ~12 |
+| Johan Kristiansen | 16.00% | ~12 |
+| The Suspects | 16.00% | ~12 |
 | Horace Mountjoy | 15.00% | ~11 |
 | The Secrets | 15.00% | ~11 |
-| Well-travelled | 13.00% | ~9 |
-| A peculiar fellow | 13.00% | ~9 |
-| Mortimer Ailsworth | 13.00% | ~9 |
+| Well-travelled | 12.00% | ~9 |
+| A peculiar fellow | 12.00% | ~9 |
+| Mortimer Ailsworth | 12.00% | ~9 |
 | A perilous journey | 11.00% | ~8 |
 | Florence Farquhar | 11.00% | ~8 |
 | The Investigation Starts Anew | 11.00% | ~8 |
@@ -51,8 +51,8 @@
 | A true performance | 10.00% | ~7 |
 | Perkins | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 509)  
-Completed: 2 (2.78%) (Ranked 116)  
+Progressed: 73 (Ranked 509)  
+Completed: 2 (2.74%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,4 +102,4 @@ Completed: 2 (2.78%) (Ranked 116)
 | 2023-12-24 | 63 | 2 |
 | 2023-12-25 | 67 | 2 |
 | 2023-12-26 | 69 | 2 |
-| 2023-12-27 | 72 | 2 |
+| 2023-12-27 | 73 | 2 |

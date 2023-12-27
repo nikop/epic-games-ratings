@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-12-27T12:06:23.364769+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T17:06:33.0917778+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1355,7 +1360,7 @@
       "Name": "To the core",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1475,7 +1480,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FINISHSOUND",
@@ -1561,9 +1566,9 @@
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 334
     },
     {
       "ID": "ONEPAINT",
@@ -1666,7 +1671,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 0
     }
   ],
@@ -1674,8 +1679,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:07:57.6748481+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:06:33.0917774+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.7211822+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:03:46.7052729+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:07:57.6748848+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:03:28.9736807+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:06:33.0918124+00:00"
 }

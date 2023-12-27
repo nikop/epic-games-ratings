@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 482,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 227,
-  "EOS_Completed": 85,
+  "EOS_Completed": 86,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 37.44,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 37.89,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1329,6 +1329,11 @@
       "Time": "2023-12-25T19:03:34.2085976+00:00",
       "NumProgressed": 227,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-27T17:04:47.0305237+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 18,
@@ -1338,9 +1343,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 150,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "Dreamkeeper",
@@ -1418,9 +1423,9 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Peacemaker",
@@ -1434,17 +1439,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "Samaritan",
@@ -1484,13 +1489,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 227,
-      "Completed": 85
+      "Completed": 86
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:05:35.1993224+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:04:47.030523+00:00",
   "LastUpdate_AppInfo": "2023-12-26T08:57:12.6749173+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:00:33.6902848+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:05:35.1993406+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:44.4809542+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:04:47.03054+00:00"
 }

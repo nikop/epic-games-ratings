@@ -10,13 +10,13 @@
 | Space worm! | 37.00% | ~28 |
 | Monster Hunt | 36.00% | ~27 |
 | Beast Hunter | 33.00% | ~25 |
+| Vanquisher! | 32.00% | ~24 |
 | Orb Collector | 32.00% | ~24 |
+| Snakehead! | 32.00% | ~24 |
 | Unmasked! | 32.00% | ~24 |
 | Fly, you fool! | 32.00% | ~24 |
 | Loot, loot! | 32.00% | ~24 |
-| Vanquisher! | 30.00% | ~23 |
 | Twin slayer! | 30.00% | ~23 |
-| Snakehead! | 30.00% | ~23 |
 | Mercenary! | 30.00% | ~23 |
 | Beast Knight | 29.00% | ~22 |
 | Relic Collector | 26.00% | ~20 |
@@ -35,7 +35,7 @@
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 505)  
+Progressed: 76 (Ranked 506)  
 Completed: 3 (3.95%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |

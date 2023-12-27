@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Greengrocer | 30.00% | ~12 |
-| Cabbage in the Baggage | 28.00% | ~11 |
-| Seven Days of Endless Adventure | 23.00% | ~9 |
-| Masu-ter Angler | 18.00% | ~7 |
-| Go-Getter | 18.00% | ~7 |
-| River Cleaner | 18.00% | ~7 |
+| Greengrocer | 29.00% | ~12 |
+| Cabbage in the Baggage | 27.00% | ~11 |
+| Seven Days of Endless Adventure | 22.00% | ~9 |
+| Masu-ter Angler | 17.00% | ~7 |
+| Go-Getter | 17.00% | ~7 |
+| River Cleaner | 17.00% | ~7 |
 | Handyman Extraordinaire | 15.00% | ~6 |
-| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~5 |
-| Just Hoverin' Along | 13.00% | ~5 |
-| What's That Smell? | 13.00% | ~5 |
-| It's Alive! | 13.00% | ~5 |
+| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~5 |
+| Just Hoverin' Along | 12.00% | ~5 |
+| What's That Smell? | 12.00% | ~5 |
+| It's Alive! | 12.00% | ~5 |
 | A New Time | 10.00% | ~4 |
 | My Fair Ladybug | 10.00% | ~4 |
 | Farm Life! | 10.00% | ~4 |
@@ -23,27 +23,27 @@
 | Ptera Pal | 10.00% | ~4 |
 | Stego Stooge | 10.00% | ~4 |
 | DJ Superstar | 10.00% | ~4 |
-| Dragonfly Whiz | 8.00% | ~3 |
-| The Holly Grail | 8.00% | ~3 |
-| Love Is in the Air! | 8.00% | ~3 |
-| That Was a Snap! | 8.00% | ~3 |
-| Asso Bridge Enthusiast | 8.00% | ~3 |
+| Dragonfly Whiz | 7.00% | ~3 |
+| The Holly Grail | 7.00% | ~3 |
+| Love Is in the Air! | 7.00% | ~3 |
+| That Was a Snap! | 7.00% | ~3 |
+| Asso Bridge Enthusiast | 7.00% | ~3 |
 | Beetle Savant | 5.00% | ~2 |
 | Cicada Connoisseur | 5.00% | ~2 |
 | Biwa Be Mine | 5.00% | ~2 |
 | Ice Fishing | 5.00% | ~2 |
 | T-Rex Wrangler | 5.00% | ~2 |
 | Gumdum Robot, I Choose You! | 5.00% | ~2 |
-| Bee Professor | 3.00% | ~1 |
-| Grasshopper Guru | 3.00% | ~1 |
-| Butterfly Maestro | 3.00% | ~1 |
-| Insect Aficionado | 3.00% | ~1 |
-| Veggie Virtuoso | 3.00% | ~1 |
-| Did Someone Order Oyakodon? | 3.00% | ~1 |
-| Did Someone Order Pork Curry? | 3.00% | ~1 |
-| Brachio Battler | 3.00% | ~1 |
-| Asso Billboard Inspector | 3.00% | ~1 |
-| Asso Stair Climber | 3.00% | ~1 |
+| Bee Professor | 2.00% | ~1 |
+| Grasshopper Guru | 2.00% | ~1 |
+| Butterfly Maestro | 2.00% | ~1 |
+| Insect Aficionado | 2.00% | ~1 |
+| Veggie Virtuoso | 2.00% | ~1 |
+| Did Someone Order Oyakodon? | 2.00% | ~1 |
+| Did Someone Order Pork Curry? | 2.00% | ~1 |
+| Brachio Battler | 2.00% | ~1 |
+| Asso Billboard Inspector | 2.00% | ~1 |
+| Asso Stair Climber | 2.00% | ~1 |
 | My Summer Vacation with the Professor | 0.00% | ~0 |
 | Marine Biologist | 0.00% | ~0 |
 | Winner Winner, Minnow Dinner | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 559)  
+Progressed: 41 (Ranked 558)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-09-23 | 38 | 0 |
 | 2023-10-10 | 39 | 0 |
 | 2023-12-01 | 40 | 0 |
+| 2023-12-27 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

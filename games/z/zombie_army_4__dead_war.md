@@ -1,39 +1,39 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,524 |
-| Say goodbye, creep! | 66.00% | ~29,196 |
-| Blood splattered | 66.00% | ~29,196 |
-| Choo choo! | 63.00% | ~27,869 |
-| Groovy | 62.00% | ~27,427 |
-| Cleanup on aisle 4! | 57.00% | ~25,215 |
+| Say goodbye, creep! | 66.00% | ~29,197 |
+| Blood splattered | 66.00% | ~29,197 |
+| Choo choo! | 63.00% | ~27,870 |
+| Groovy | 62.00% | ~27,428 |
+| Cleanup on aisle 4! | 57.00% | ~25,216 |
 | Gold | 51.00% | ~22,561 |
-| The boat can leave now...tell the crew | 49.00% | ~21,676 |
-| Give me something to shoot! | 47.00% | ~20,791 |
-| Stand back boy! | 47.00% | ~20,791 |
+| The boat can leave now...tell the crew | 49.00% | ~21,677 |
+| Give me something to shoot! | 47.00% | ~20,792 |
+| Stand back boy! | 47.00% | ~20,792 |
 | Chain reaction | 45.00% | ~19,907 |
-| Weird science | 44.00% | ~19,464 |
+| Weird science | 44.00% | ~19,465 |
 | Look mummy! A shark! | 42.00% | ~18,580 |
 | What did you say, Blain? | 42.00% | ~18,580 |
-| In the dark dark woods... | 39.00% | ~17,252 |
+| In the dark dark woods... | 39.00% | ~17,253 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,810 |
 | Double tap | 37.00% | ~16,368 |
 | Cranial blowout! | 37.00% | ~16,368 |
-| All of this has happened before… | 36.00% | ~15,925 |
-| Zombie killin' machine | 36.00% | ~15,925 |
-| Every bullet counts | 36.00% | ~15,925 |
+| All of this has happened before… | 36.00% | ~15,926 |
+| Zombie killin' machine | 36.00% | ~15,926 |
+| Every bullet counts | 36.00% | ~15,926 |
 | All roads lead to Rome | 34.00% | ~15,041 |
 | You've got red on you | 34.00% | ~15,041 |
 | You're all going to die down here | 32.00% | ~14,156 |
 | He did Nazi that coming | 32.00% | ~14,156 |
-| Kill of the week | 31.00% | ~13,713 |
-| I never liked them anyway | 31.00% | ~13,713 |
-| Is it over? | 28.00% | ~12,386 |
+| Kill of the week | 31.00% | ~13,714 |
+| I never liked them anyway | 31.00% | ~13,714 |
+| Is it over? | 28.00% | ~12,387 |
 | Got your back | 27.00% | ~11,944 |
 | Gore soaked | 24.00% | ~10,617 |
 | Shock therapy | 23.00% | ~10,175 |
@@ -45,7 +45,7 @@ Number of Ratings: 743  (23.09.2022)
 | The bigger they are... | 15.00% | ~6,636 |
 | I'm going deeper underground | 14.00% | ~6,193 |
 | Well equipped | 13.00% | ~5,751 |
-| Into the deep | 12.00% | ~5,308 |
+| Into the deep | 12.00% | ~5,309 |
 | Damnedbusters | 9.00% | ~3,981 |
 | Plane sailing | 8.00% | ~3,539 |
 | I can do anything I want. I got guns | 8.00% | ~3,539 |
@@ -63,9 +63,9 @@ Number of Ratings: 743  (23.09.2022)
 | Hoarder | 6.00% | ~2,654 |
 | Kali Ma | 5.00% | ~2,212 |
 | Have you tried turning it off and on again? | 5.00% | ~2,212 |
-| They're coming to get you Barbara | 4.00% | ~1,769 |
-| Total protonic reversal | 4.00% | ~1,769 |
-| A friend in need | 4.00% | ~1,769 |
+| They're coming to get you Barbara | 4.00% | ~1,770 |
+| Total protonic reversal | 4.00% | ~1,770 |
+| A friend in need | 4.00% | ~1,770 |
 | People don't change. We go round in circles | 3.00% | ~1,327 |
 | The blighters got through a second time. | 3.00% | ~1,327 |
 | I'm a survivor! | 3.00% | ~1,327 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~442 |
 | None more hard | 0.60% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,237 (Ranked 125)  
+Progressed: 44,238 (Ranked 125)  
 Completed: 25 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 25 (0.06%) (Ranked 327)
 | 2023-12-24 | 44,220 | 25 |
 | 2023-12-25 | 44,223 | 25 |
 | 2023-12-26 | 44,234 | 25 |
-| 2023-12-27 | 44,237 | 25 |
+| 2023-12-27 | 44,238 | 25 |
 ## Awards
 Max (Great Boss Battles): 863  (Ranked 171)  
 Sum: 2,607 (Ranked 196)  

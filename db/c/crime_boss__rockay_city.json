@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1039,
+  "Ranking_Rating": 1041,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5203,10 +5203,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2735,
       "NumberOfAwardsMax": 581
+    },
+    {
+      "Time": "2023-12-27T16:57:47.3242885+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2740,
+      "NumberOfAwardsMax": 581
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2735,
+  "NumberOfAwards": 2740,
   "NumberOfAwardsMax": 581,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5226,7 +5232,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 532
+      "Count": 537
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5267,7 +5273,7 @@
   ],
   "EOS_Progressed": 92599,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29756,9 +29762,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-27T04:57:08.871198+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:07:15.7136071+00:00",
+  "LastChanged": "2023-12-27T16:57:47.3242883+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:06:01.5566042+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:57:49.2253484+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:07:15.7137566+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:57:47.3242889+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:06:01.5567192+00:00"
 }

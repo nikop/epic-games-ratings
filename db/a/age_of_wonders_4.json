@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6331,
+  "EOS_Progressed": 6335,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9384,6 +9384,11 @@
       "Time": "2023-12-27T16:05:36.2186927+00:00",
       "NumProgressed": 6331,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T17:04:47.8447752+00:00",
+      "NumProgressed": 6335,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9465,9 +9470,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 63
     },
     {
       "ID": "19",
@@ -9523,7 +9528,7 @@
       "Name": "Secret Technique",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "25",
@@ -9531,7 +9536,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "26",
@@ -9874,13 +9879,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6331,
+      "Progressed": 6335,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6331,
+      "Progressed": 6335,
       "Completed": 7
     }
   ],
@@ -9888,8 +9893,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:05:36.2186924+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:04:47.8447743+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:01:54.4069041+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:05:36.218788+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:00:40.5157003+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:04:47.8448647+00:00"
 }

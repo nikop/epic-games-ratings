@@ -2,13 +2,13 @@
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
-  "Ranking_Rating": 31,
+  "Ranking_Rating": 32,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -888,10 +888,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 373,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-12-27T16:59:48.5902747+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 374,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373,
+  "NumberOfAwards": 374,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -965,10 +971,10 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 29
+      "Count": 30
     }
   ],
-  "EOS_Progressed": 28947,
+  "EOS_Progressed": 28948,
   "EOS_Completed": 1416,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 14,
@@ -8398,6 +8404,11 @@
       "Time": "2023-12-27T16:10:45.5470239+00:00",
       "NumProgressed": 28947,
       "NumCompleted": 1416
+    },
+    {
+      "Time": "2023-12-27T17:09:45.8906244+00:00",
+      "NumProgressed": 28948,
+      "NumCompleted": 1416
     }
   ],
   "TotalAchievements": 30,
@@ -8409,7 +8420,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 13026
+      "UsersEstimate": 13027
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -8465,7 +8476,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -8473,7 +8484,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22289
+      "UsersEstimate": 22290
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -8505,7 +8516,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28079
+      "UsersEstimate": 28080
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -8513,7 +8524,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19973
+      "UsersEstimate": 19974
     },
     {
       "ID": "ACH_GOLEM",
@@ -8521,7 +8532,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10131
+      "UsersEstimate": 10132
     },
     {
       "ID": "ACH_HATS",
@@ -8553,7 +8564,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16210
+      "UsersEstimate": 16211
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -8569,7 +8580,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12447
+      "UsersEstimate": 12448
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -8601,7 +8612,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26921
+      "UsersEstimate": 26922
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -8633,7 +8644,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21710
+      "UsersEstimate": 21711
     },
     {
       "ID": "ACH_WATERFALL",
@@ -8641,22 +8652,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25184
+      "UsersEstimate": 25185
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28947,
+      "Progressed": 28948,
       "Completed": 1416
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2023-12-25T18:58:27.3817371+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:10:45.5470232+00:00",
+  "LastChanged": "2023-12-27T16:59:48.5902745+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:09:45.890624+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.8569905+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:00:39.3724871+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:10:45.5470644+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:59:48.590275+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:09:45.8906743+00:00"
 }

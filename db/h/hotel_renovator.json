@@ -2,13 +2,13 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 146,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -3198,9 +3198,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3262,9 +3262,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 994
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH_STAR_2",
@@ -3335,8 +3335,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-26T01:43:52.6080902+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:09:14.3238254+00:00",
+  "LastChanged_Achievements": "2023-12-27T17:08:39.5494516+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-27T15:57:55.4583786+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:09:14.3238616+00:00"
+  "LastUpdate_Ratings": "2023-12-27T16:57:52.3355364+00:00",
+  "LastUpdate_Achievements": "2023-12-27T17:08:39.5494763+00:00"
 }
