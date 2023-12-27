@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1769,
+  "EOS_Progressed": 1771,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
@@ -3854,6 +3854,11 @@
       "Time": "2023-12-26T19:10:32.7266261+00:00",
       "NumProgressed": 1769,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-27T01:55:03.1854284+00:00",
+      "NumProgressed": 1771,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 16,
@@ -3873,7 +3878,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -3881,7 +3886,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -3921,7 +3926,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1417
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3929,7 +3934,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -3953,7 +3958,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -3961,7 +3966,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -3969,7 +3974,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_THEEND",
@@ -3992,7 +3997,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1769,
+      "Progressed": 1771,
       "Completed": 69
     }
   ],
@@ -4000,8 +4005,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:09:41.1071989+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:55:03.1854279+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-27T00:00:12.2323929+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:09:41.1072285+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:45:51.6625798+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:55:03.1854586+00:00"
 }

@@ -9035,10 +9035,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33100,
       "NumberOfAwardsMax": 5696
+    },
+    {
+      "Time": "2023-12-27T01:42:49.4629856+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33102,
+      "NumberOfAwardsMax": 5696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33100,
+  "NumberOfAwards": 33102,
   "NumberOfAwardsMax": 5696,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9076,7 +9082,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4281
+      "Count": 4283
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9085,9 +9091,9 @@
       "Count": 3599
     }
   ],
-  "EOS_Progressed": 245050,
+  "EOS_Progressed": 245076,
   "EOS_Completed": 2566,
-  "EOS_NewPlayers": 2916,
+  "EOS_NewPlayers": 2928,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37400,6 +37406,11 @@
       "Time": "2023-12-27T00:10:03.8417125+00:00",
       "NumProgressed": 245050,
       "NumCompleted": 2566
+    },
+    {
+      "Time": "2023-12-27T01:55:31.4372773+00:00",
+      "NumProgressed": 245076,
+      "NumCompleted": 2566
     }
   ],
   "TotalAchievements": 546,
@@ -37411,7 +37422,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4901
+      "UsersEstimate": 4902
     },
     {
       "ID": "objective_completed_10",
@@ -39083,7 +39094,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "objective_completed_34",
@@ -41778,21 +41789,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211324,
-      "Completed": 4065
+      "Progressed": 211350,
+      "Completed": 4066
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245050,
+      "Progressed": 245076,
       "Completed": 2566
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-26T10:57:56.5377084+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:10:03.8417121+00:00",
+  "LastChanged": "2023-12-27T01:42:49.4629854+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:55:31.4372769+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:58:09.4837445+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:10:03.844007+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:42:49.462986+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:55:31.4396226+00:00"
 }

@@ -3766,9 +3766,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241783,
+  "EOS_Progressed": 241790,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29651,6 +29651,11 @@
       "Time": "2023-12-27T00:10:01.3834131+00:00",
       "NumProgressed": 241783,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-27T01:55:28.9940081+00:00",
+      "NumProgressed": 241790,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29702,7 +29707,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -29758,7 +29763,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "DEPTH12HARD",
@@ -29814,7 +29819,7 @@
       "Name": "R.I.P",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "DIEBOSS",
@@ -30094,7 +30099,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -30158,7 +30163,7 @@
       "Name": "Heartless",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "KILLPARANOIA",
@@ -30166,7 +30171,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "KILLREFLECT10",
@@ -30190,7 +30195,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "KILLSPITTER",
@@ -30262,7 +30267,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "NOEPIC",
@@ -30294,7 +30299,7 @@
       "Name": "Deflection",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -30308,9 +30313,9 @@
       "ID": "PASSIVEROOM",
       "SetID": "5l8oe0h",
       "Name": "A Quick Escape",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1934
+      "UsersEstimate": 2176
     },
     {
       "ID": "PETRIFY50",
@@ -30430,7 +30435,7 @@
       "Name": "Sneaky",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "STEALTH100",
@@ -30765,13 +30770,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241783,
+      "Progressed": 241790,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3263,
+      "Progressed": 3270,
       "Completed": 413
     }
   ],
@@ -30779,8 +30784,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:10:01.3834126+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:55:28.9940077+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:58:36.7330304+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:10:01.3836539+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:43:28.7308591+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:55:28.9942506+00:00"
 }

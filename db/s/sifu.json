@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8517,9 +8517,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745565,
+  "EOS_Progressed": 745594,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 9253,
+  "EOS_NewPlayers": 9241,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31067,6 +31067,11 @@
       "Time": "2023-12-27T00:08:52.7850523+00:00",
       "NumProgressed": 745565,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-27T01:53:57.7076404+00:00",
+      "NumProgressed": 745594,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31078,7 +31083,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29823
+      "UsersEstimate": 29824
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31086,7 +31091,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22367
+      "UsersEstimate": 22368
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31094,7 +31099,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31102,7 +31107,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31230,7 +31235,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31246,7 +31251,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31254,7 +31259,7 @@
       "Name": "Life is your teacher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22367
+      "UsersEstimate": 22368
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31262,7 +31267,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "25_ShrineMind",
@@ -31286,7 +31291,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31326,7 +31331,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "33_BladeOneShot",
@@ -31342,7 +31347,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22367
+      "UsersEstimate": 22368
     },
     {
       "ID": "35_WideStrike",
@@ -31366,7 +31371,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31462,7 +31467,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -31557,21 +31562,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54866,
+      "Progressed": 54895,
       "Completed": 10786
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745565,
+      "Progressed": 745594,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:08:52.7850511+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:53:57.70764+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T00:02:53.770094+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:08:52.7851902+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:47:35.5769206+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:53:57.7077658+00:00"
 }

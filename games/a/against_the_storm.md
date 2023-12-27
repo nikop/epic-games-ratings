@@ -21,6 +21,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 4.00% | ~774 |
 | Ominous Presence | 4.00% | ~774 |
 | Royal Outpost | 3.00% | ~581 |
+| Watchtower | 3.00% | ~581 |
 | Untamed Wilds | 3.00% | ~581 |
 | Homesick | 2.00% | ~387 |
 | Ruined Armory | 2.00% | ~387 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 2.00% | ~387 |
 | Lost Colonies | 2.00% | ~387 |
 | Corrosive Torrent | 2.00% | ~387 |
-| Watchtower | 2.00% | ~387 |
 | Cursed Lands | 2.00% | ~387 |
 | A Real Challenge | 2.00% | ~387 |
 | Trade Baron | 2.00% | ~387 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 1.00% | ~194 |
 | Statue of the Forefathers | 1.00% | ~194 |
 | Defying the Crown | 1.00% | ~194 |
+| Serving Ale | 0.90% | ~174 |
 | Fishmen Ritual Site | 0.90% | ~174 |
 | Victory Through Prosperity | 0.90% | ~174 |
 | Into the Forest | 0.90% | ~174 |
-| Serving Ale | 0.80% | ~155 |
 | Efficient Explorer | 0.70% | ~135 |
 | Refinery | 0.70% | ~135 |
 | Dangerous Lands | 0.70% | ~135 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,352 (Ranked 150)  
+Progressed: 19,357 (Ranked 150)  
 Completed: 38 (0.20%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,14 +317,14 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,352 | 38 |
+| 2023-12-27 | 19,357 | 38 |
 ## Awards
-Max (Quickly Understood Controls): 444  (Ranked 228)  
-Sum: 3,295 (Ranked 177)  
-Diff (max vs sum): 51  
+Max (Quickly Understood Controls): 445  (Ranked 228)  
+Sum: 3,296 (Ranked 176)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 444 |
+| This game has Quickly Understood Controls | 445 |
 | This game is Relaxing | 441 |
 | This game is Great for Beginners | 434 |
 | This game is Extremely Fun | 415 |
@@ -603,3 +603,4 @@ Diff (max vs sum): 51
 | 2023-12-24 | 4.82 | - | 443 | 3,288 |
 | 2023-12-25 | 4.82 | - | 444 | 3,291 |
 | 2023-12-26 | 4.82 | - | 444 | 3,295 |
+| 2023-12-27 | 4.82 | - | 445 | 3,296 |

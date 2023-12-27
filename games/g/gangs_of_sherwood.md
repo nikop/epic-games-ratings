@@ -9,13 +9,13 @@
 | Oo-De-Lally | 70.00% | ~72 |
 | Treasure Hunter | 65.00% | ~67 |
 | The Altruist | 64.00% | ~66 |
-| Watch your Step! | 52.00% | ~54 |
+| Watch your Step! | 53.00% | ~55 |
 | Tap Dancing | 50.00% | ~52 |
 | MAX LEVEL | 50.00% | ~52 |
 | Right between the eyes | 41.00% | ~42 |
 | Starry Night | 39.00% | ~40 |
 | Spring Board | 39.00% | ~40 |
-| Locksley's Tears | 36.00% | ~37 |
+| Locksley's Tears | 37.00% | ~38 |
 | Rebel Unleashed | 35.00% | ~36 |
 | Merry Co-operation | 30.00% | ~31 |
 | Finish Him! | 25.00% | ~26 |

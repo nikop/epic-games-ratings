@@ -1,39 +1,39 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 677)  
+Rating: 4.45 (Ranked 676)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~398,971 |
-| Happy Returns | 78.00% | ~384,194 |
-| Hey! That's mine! | 78.00% | ~384,194 |
-| Field Promotion | 74.00% | ~364,492 |
-| Leadhead | 71.00% | ~349,715 |
-| Eradicator | 67.00% | ~330,013 |
+| First Blood | 81.00% | ~398,972 |
+| Happy Returns | 78.00% | ~384,195 |
+| Hey! That's mine! | 78.00% | ~384,195 |
+| Field Promotion | 74.00% | ~364,493 |
+| Leadhead | 71.00% | ~349,716 |
+| Eradicator | 67.00% | ~330,014 |
 | Surplus | 66.00% | ~325,088 |
-| I Spy | 64.00% | ~315,236 |
+| I Spy | 64.00% | ~315,237 |
 | Burn Baby Burn | 59.00% | ~290,609 |
 | Yellow Beats Green | 56.00% | ~275,832 |
-| Salvage Rights | 53.00% | ~261,055 |
-| What IS that? | 51.00% | ~251,204 |
-| Close Call | 50.00% | ~246,278 |
-| Pew Pew | 50.00% | ~246,278 |
+| Salvage Rights | 53.00% | ~261,056 |
+| What IS that? | 51.00% | ~251,205 |
+| Close Call | 50.00% | ~246,279 |
+| Pew Pew | 50.00% | ~246,279 |
 | Penny Pincher | 49.00% | ~241,353 |
-| Arsenal | 46.00% | ~226,576 |
+| Arsenal | 46.00% | ~226,577 |
 | Boot Camp | 45.00% | ~221,651 |
 | Flawless Victory | 42.00% | ~206,874 |
-| Confident | 41.00% | ~201,948 |
+| Confident | 41.00% | ~201,949 |
 | Exterminator | 36.00% | ~177,321 |
-| Sharpshooter | 34.00% | ~167,469 |
+| Sharpshooter | 34.00% | ~167,470 |
 | Not So Fast | 33.00% | ~162,544 |
-| Great Ball of Fire | 32.00% | ~157,618 |
+| Great Ball of Fire | 32.00% | ~157,619 |
 | No Sale | 31.00% | ~152,693 |
 | Kaboom! | 30.00% | ~147,767 |
 | Liquidator | 29.00% | ~142,842 |
 | High Voltage | 24.00% | ~118,214 |
-| Filthy Rich | 20.00% | ~98,511 |
+| Filthy Rich | 20.00% | ~98,512 |
 | Pyrrhic Victory | 18.00% | ~88,660 |
 | The Not-So-Friendly Skies | 18.00% | ~88,660 |
 | Power Builder | 17.00% | ~83,735 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~493 |
 | You Monster | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492,557 (Ranked 39)  
+Progressed: 492,558 (Ranked 39)  
 Completed: 5 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,6 +345,7 @@ Completed: 5 (0.00%) (Ranked 389)
 | 2023-12-24 | 492,384 | 5 |
 | 2023-12-25 | 492,474 | 5 |
 | 2023-12-26 | 492,557 | 5 |
+| 2023-12-27 | 492,558 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 272)  
 Sum: 1,737 (Ranked 222)  

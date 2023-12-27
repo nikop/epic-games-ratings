@@ -1,56 +1,56 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~256,808 |
-| good drivers have dead flies on the side windows | 31.00% | ~100,773 |
-| brail | 26.00% | ~84,519 |
-| keep it tidy | 25.00% | ~81,268 |
-| car wash | 22.00% | ~71,516 |
-| the artist | 22.00% | ~71,516 |
-| podium | 19.00% | ~61,764 |
-| medium attack | 16.00% | ~52,012 |
-| bicycle race | 6.00% | ~19,504 |
-| grocery-getter | 4.00% | ~13,003 |
-| autopilot | 3.00% | ~9,752 |
-| perkele | 2.00% | ~6,501 |
-| rwd only | 2.00% | ~6,501 |
-| where is the stage? | 2.00% | ~6,501 |
-| if in doubt, flat out! | 2.00% | ~6,501 |
-| night ride | 2.00% | ~6,501 |
-| snorkel | 2.00% | ~6,501 |
-| food tour: pasta | 2.00% | ~6,501 |
-| to finish first, first you must finish | 1.00% | ~3,251 |
-| turbo | 1.00% | ~3,251 |
-| you can't treat a car like a human being. a car requires love | 1.00% | ~3,251 |
-| mittens | 1.00% | ~3,251 |
-| food tour: pretzel | 1.00% | ~3,251 |
-| espresso | 0.90% | ~2,926 |
-| in like a lamb, out like a lion | 0.90% | ~2,926 |
-| monster | 0.60% | ~1,950 |
-| eurobeat | 0.50% | ~1,625 |
-| viking | 0.50% | ~1,625 |
-| oktoberfest | 0.40% | ~1,300 |
-| parallel universe | 0.40% | ~1,300 |
-| group b | 0.40% | ~1,300 |
-| maximum attack | 0.40% | ~1,300 |
-| samir | 0.40% | ~1,300 |
-| parking lot | 0.20% | ~650 |
-| master of rally | 0.20% | ~650 |
-| antilag | 0.20% | ~650 |
-| comfy seats | 0.20% | ~650 |
-| real roads, real fast | 0.20% | ~650 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~325 |
-| absolute drift | 0.10% | ~325 |
-| barely keeping it together | 0.10% | ~325 |
-| you're here for a good time, not a long time | 0.10% | ~325 |
-| simulator | 0.10% | ~325 |
+| light attack | 79.00% | ~257,400 |
+| good drivers have dead flies on the side windows | 31.00% | ~101,005 |
+| brail | 26.00% | ~84,714 |
+| keep it tidy | 25.00% | ~81,456 |
+| car wash | 22.00% | ~71,681 |
+| the artist | 22.00% | ~71,681 |
+| podium | 19.00% | ~61,906 |
+| medium attack | 16.00% | ~52,132 |
+| bicycle race | 6.00% | ~19,549 |
+| grocery-getter | 5.00% | ~16,291 |
+| autopilot | 3.00% | ~9,775 |
+| night ride | 3.00% | ~9,775 |
+| perkele | 2.00% | ~6,516 |
+| rwd only | 2.00% | ~6,516 |
+| where is the stage? | 2.00% | ~6,516 |
+| if in doubt, flat out! | 2.00% | ~6,516 |
+| snorkel | 2.00% | ~6,516 |
+| food tour: pasta | 2.00% | ~6,516 |
+| to finish first, first you must finish | 1.00% | ~3,258 |
+| turbo | 1.00% | ~3,258 |
+| you can't treat a car like a human being. a car requires love | 1.00% | ~3,258 |
+| mittens | 1.00% | ~3,258 |
+| food tour: pretzel | 1.00% | ~3,258 |
+| espresso | 0.90% | ~2,932 |
+| in like a lamb, out like a lion | 0.90% | ~2,932 |
+| monster | 0.60% | ~1,955 |
+| eurobeat | 0.50% | ~1,629 |
+| viking | 0.50% | ~1,629 |
+| oktoberfest | 0.40% | ~1,303 |
+| parallel universe | 0.40% | ~1,303 |
+| group b | 0.40% | ~1,303 |
+| maximum attack | 0.40% | ~1,303 |
+| samir | 0.40% | ~1,303 |
+| parking lot | 0.20% | ~652 |
+| master of rally | 0.20% | ~652 |
+| antilag | 0.20% | ~652 |
+| comfy seats | 0.20% | ~652 |
+| real roads, real fast | 0.20% | ~652 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~326 |
+| absolute drift | 0.10% | ~326 |
+| barely keeping it together | 0.10% | ~326 |
+| you're here for a good time, not a long time | 0.10% | ~326 |
+| simulator | 0.10% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325,073 (Ranked 58)  
+Progressed: 325,823 (Ranked 58)  
 Completed: 11 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 11 (0.00%) (Ranked 389)
 | 2023-12-24 | 289,332 | 10 |
 | 2023-12-25 | 308,993 | 10 |
 | 2023-12-26 | 324,645 | 11 |
-| 2023-12-27 | 325,073 | 11 |
+| 2023-12-27 | 325,823 | 11 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -276,3 +276,4 @@ Completed: 11 (0.00%) (Ranked 389)
 | 2023-12-24 | 4.80 | - | 0 | 0 |
 | 2023-12-25 | 4.69 | - | 0 | 0 |
 | 2023-12-26 | 4.70 | - | 0 | 0 |
+| 2023-12-27 | 4.68 | - | 0 | 0 |

@@ -6,41 +6,41 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,819 |
-| Gun Fu | 8.00% | ~78,546 |
-| The Fool | 7.00% | ~68,728 |
-| Right Back At Ya | 6.00% | ~58,909 |
-| The Lovers | 6.00% | ~58,909 |
-| Full Body Conversion | 5.00% | ~49,091 |
-| True Soldier | 5.00% | ~49,091 |
-| All the President's Men | 5.00% | ~5,522 |
-| Christmas Tree Attack | 4.00% | ~39,273 |
-| Stanislavski's Method | 4.00% | ~39,273 |
-| The Hermit | 4.00% | ~39,273 |
-| The Wheel of Fortune | 4.00% | ~39,273 |
-| Arachnophobia | 4.00% | ~4,418 |
+| V for Vendetta | 12.00% | ~117,821 |
+| Gun Fu | 8.00% | ~78,547 |
+| The Fool | 7.00% | ~68,729 |
+| Right Back At Ya | 6.00% | ~58,911 |
+| The Lovers | 6.00% | ~58,911 |
+| Full Body Conversion | 5.00% | ~49,092 |
+| True Soldier | 5.00% | ~49,092 |
+| All the President's Men | 5.00% | ~5,523 |
+| Christmas Tree Attack | 4.00% | ~39,274 |
+| Stanislavski's Method | 4.00% | ~39,274 |
+| The Hermit | 4.00% | ~39,274 |
+| The Wheel of Fortune | 4.00% | ~39,274 |
+| Arachnophobia | 4.00% | ~4,419 |
 | Master Crafter | 3.00% | ~29,455 |
 | The Quick and the Dead | 3.00% | ~29,455 |
 | Life of the Road | 3.00% | ~29,455 |
 | The High Priestess | 3.00% | ~29,455 |
 | True Warrior | 3.00% | ~29,455 |
 | Legend of The Afterlife | 3.00% | ~29,455 |
-| Relic Ruler | 3.00% | ~3,313 |
-| Bushido and Chill | 2.00% | ~19,636 |
-| To Protect and Serve | 2.00% | ~19,636 |
-| I Am The Law | 2.00% | ~19,636 |
-| The World | 2.00% | ~19,636 |
-| Two Heads, One Bullet | 2.00% | ~19,636 |
-| Judy vs Night City | 2.00% | ~19,636 |
+| Relic Ruler | 3.00% | ~3,314 |
+| Bushido and Chill | 2.00% | ~19,637 |
+| To Protect and Serve | 2.00% | ~19,637 |
+| I Am The Law | 2.00% | ~19,637 |
+| The World | 2.00% | ~19,637 |
+| Two Heads, One Bullet | 2.00% | ~19,637 |
+| Judy vs Night City | 2.00% | ~19,637 |
 | Spin Doctor | 2.00% | ~2,209 |
 | To Bad Decisions! | 1.00% | ~9,818 |
 | The Wandering Fool | 1.00% | ~9,818 |
 | Ten out of Ten | 1.00% | ~9,818 |
 | The Sun | 1.00% | ~9,818 |
-| King of Wands | 1.00% | ~1,104 |
-| Dirty Deeds | 1.00% | ~1,104 |
-| Easy Come, Easy Go | 1.00% | ~1,104 |
-| The Star | 0.90% | ~8,836 |
+| King of Wands | 1.00% | ~1,105 |
+| Dirty Deeds | 1.00% | ~1,105 |
+| Easy Come, Easy Go | 1.00% | ~1,105 |
+| The Star | 0.90% | ~8,837 |
 | Breathtaking | 0.80% | ~7,855 |
 | Autojock | 0.70% | ~6,873 |
 | The APB is Not Enough | 0.70% | ~773 |
@@ -51,12 +51,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.60% | ~663 |
 | King of Swords | 0.60% | ~663 |
 | King of Cups | 0.40% | ~442 |
-| City Lights | 0.30% | ~2,945 |
-| Little Tokyo | 0.30% | ~2,945 |
-| The Wasteland | 0.30% | ~2,945 |
-| The Devil | 0.30% | ~2,945 |
-| The Jungle | 0.30% | ~2,945 |
-| It's Elementary | 0.30% | ~2,945 |
+| City Lights | 0.30% | ~2,946 |
+| Little Tokyo | 0.30% | ~2,946 |
+| The Wasteland | 0.30% | ~2,946 |
+| The Devil | 0.30% | ~2,946 |
+| The Jungle | 0.30% | ~2,946 |
+| It's Elementary | 0.30% | ~2,946 |
 | Gunslinger | 0.20% | ~1,964 |
 | Mean Streets | 0.20% | ~1,964 |
 | Daemon In The Shell | 0.20% | ~1,964 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,823 (Ranked 16)  
+Progressed: 981,842 (Ranked 16)  
 Completed: 2,981 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 2,981 (0.30%) (Ranked 254)
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
-| 2023-12-27 | 981,823 | 2,981 |
+| 2023-12-27 | 981,842 | 2,981 |
 ## Awards
 Max (Character Customization): 127,789  (Ranked 8)  
-Sum: 445,740 (Ranked 9)  
+Sum: 445,854 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 27,342 |
 | This game is Highly Recommended | 26,128 |
 | This game has Amazing Storytelling | 25,698 |
-| This game is Extremely Fun | 25,323 |
+| This game is Extremely Fun | 25,437 |
 | This game has Amazing Characters | 25,284 |
 | This game is Relaxing | 24,457 |
 | This game has Quickly Understood Controls | 24,348 |
@@ -688,3 +688,4 @@ Diff (max vs sum): -1
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
 | 2023-12-26 | 4.66 | - | 127,789 | 445,740 |
+| 2023-12-27 | 4.66 | - | 127,789 | 445,854 |

@@ -5,21 +5,21 @@ Rating: 4.29 (Ranked 864)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~181 |
-| Bullseye! | 84.00% | ~175 |
-| Graduation! | 80.00% | ~166 |
+| Level Up! | 87.00% | ~182 |
+| Bullseye! | 84.00% | ~176 |
+| Graduation! | 80.00% | ~167 |
 | Villfir Forest | 72.00% | ~150 |
-| Right in the kisser! | 57.00% | ~119 |
-| The Thrower | 46.00% | ~96 |
-| Duscot Steamcity | 46.00% | ~96 |
+| Right in the kisser! | 56.00% | ~117 |
+| The Thrower | 45.00% | ~94 |
+| Duscot Steamcity | 45.00% | ~94 |
 | The Shaman | 44.00% | ~92 |
-| The Penguin | 43.00% | ~89 |
+| The Penguin | 43.00% | ~90 |
 | The Magician | 38.00% | ~79 |
 | The Tunneler | 38.00% | ~79 |
-| Level Up!! | 36.00% | ~75 |
-| The Shield | 36.00% | ~75 |
-| Kill-streak | 29.00% | ~60 |
-| Topped up | 28.00% | ~58 |
+| Level Up!! | 35.00% | ~73 |
+| The Shield | 35.00% | ~73 |
+| Kill-streak | 29.00% | ~61 |
+| Topped up | 28.00% | ~59 |
 | The Bird | 27.00% | ~56 |
 | The Idol | 25.00% | ~52 |
 | The Ninja | 25.00% | ~52 |
@@ -28,7 +28,7 @@ Rating: 4.29 (Ranked 864)
 | 1 is all I need | 21.00% | ~44 |
 | The Slime | 21.00% | ~44 |
 | Untouchable | 20.00% | ~42 |
-| The Giant | 17.00% | ~35 |
+| The Giant | 17.00% | ~36 |
 | The Blacksmith | 16.00% | ~33 |
 | The Flower | 16.00% | ~33 |
 | The Ooze | 16.00% | ~33 |
@@ -45,7 +45,7 @@ Rating: 4.29 (Ranked 864)
 | The Astronaut | 7.00% | ~15 |
 | Highway to Hell | 7.00% | ~15 |
 | Tested | 7.00% | ~15 |
-| Anvil | 6.00% | ~12 |
+| Anvil | 6.00% | ~13 |
 | The Exorcist | 5.00% | ~10 |
 | Mithril | 5.00% | ~10 |
 | Aluminum | 5.00% | ~10 |
@@ -79,8 +79,8 @@ Rating: 4.29 (Ranked 864)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208 (Ranked 412)  
-Completed: 1 (0.48%) (Ranked 220)  
+Progressed: 209 (Ranked 413)  
+Completed: 1 (0.48%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,6 +195,7 @@ Completed: 1 (0.48%) (Ranked 220)
 | 2023-12-20 | 206 | 1 |
 | 2023-12-22 | 207 | 1 |
 | 2023-12-24 | 208 | 1 |
+| 2023-12-27 | 209 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

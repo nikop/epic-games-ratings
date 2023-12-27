@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 457,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3607,
+  "EOS_Progressed": 3608,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4936,6 +4936,11 @@
       "Time": "2023-12-26T22:05:18.8790943+00:00",
       "NumProgressed": 3607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T01:51:21.737144+00:00",
+      "NumProgressed": 3608,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5123,7 +5128,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -5490,21 +5495,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3607,
+      "Progressed": 3608,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3607,
+      "Progressed": 3608,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:05:34.4193607+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:51:21.7371435+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-27T00:03:01.2758456+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:05:34.4194412+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:47:47.4945185+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:51:21.7372204+00:00"
 }

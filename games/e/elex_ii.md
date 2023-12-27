@@ -7,28 +7,28 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 34.00% | ~37 |
-| Best Buddy | 27.00% | ~29 |
+| Best Buddy | 26.00% | ~29 |
 | Civilian | 24.00% | ~26 |
-| Role Model | 22.00% | ~24 |
-| Creator | 17.00% | ~19 |
-| Military Leader | 16.00% | ~17 |
+| Role Model | 23.00% | ~25 |
+| Creator | 16.00% | ~18 |
+| Military Leader | 15.00% | ~16 |
+| Commander | 15.00% | ~16 |
 | Festival-goer | 15.00% | ~16 |
-| Commander | 14.00% | ~15 |
-| Peddler | 13.00% | ~14 |
+| Peddler | 14.00% | ~15 |
 | Long-Haul Flyer | 13.00% | ~14 |
 | Family Reunion | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
 | Pass A38 | 8.00% | ~9 |
 | Berserker | 7.00% | ~8 |
 | Eternal Oblivion | 7.00% | ~8 |
-| Hotshot | 6.00% | ~7 |
-| Alb | 6.00% | ~7 |
-| Storyteller | 5.00% | ~5 |
-| Free as a Bird | 5.00% | ~5 |
+| Storyteller | 5.00% | ~6 |
+| Hotshot | 5.00% | ~6 |
+| Free as a Bird | 5.00% | ~6 |
+| Alb | 5.00% | ~6 |
 | Globetrotter | 4.00% | ~4 |
 | Self-Sufficient | 4.00% | ~4 |
+| Idealist | 4.00% | ~4 |
 | Unbreakable | 4.00% | ~4 |
-| Idealist | 3.00% | ~3 |
 | Cleric | 3.00% | ~3 |
 | Perfectionist | 3.00% | ~3 |
 | Alchemist | 2.00% | ~2 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 472)  
+Progressed: 110 (Ranked 471)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 88 | 0 |
 | 2023-12-25 | 100 | 0 |
 | 2023-12-26 | 109 | 0 |
+| 2023-12-27 | 110 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

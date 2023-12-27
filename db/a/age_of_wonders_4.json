@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6288,
+  "EOS_Progressed": 6291,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9304,6 +9304,11 @@
       "Time": "2023-12-27T00:03:58.282585+00:00",
       "NumProgressed": 6288,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T01:49:08.523686+00:00",
+      "NumProgressed": 6291,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9331,7 +9336,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "12",
@@ -9355,7 +9360,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "15",
@@ -9507,7 +9512,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "32",
@@ -9523,7 +9528,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "34",
@@ -9779,7 +9784,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "60",
@@ -9794,13 +9799,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6288,
+      "Progressed": 6291,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6288,
+      "Progressed": 6291,
       "Completed": 7
     }
   ],
@@ -9808,8 +9813,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:03:58.2825845+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:49:08.5236852+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:59:49.5380221+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:03:58.2826537+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:45:18.9984657+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:49:08.5237732+00:00"
 }

@@ -16,11 +16,11 @@ Rating: 4.54 (Ranked 537)
 | The Necroevolution | 27.00% | ~281 |
 | Krauta is alive | 26.00% | ~271 |
 | Peacemaker | 21.00% | ~219 |
+| Volcanologist | 21.00% | ~219 |
 | On her own | 20.00% | ~208 |
-| Volcanologist | 20.00% | ~208 |
 | Fierce fight | 18.00% | ~187 |
 | Evacuation | 18.00% | ~187 |
-| Beyond divisions | 16.00% | ~167 |
+| Beyond divisions | 17.00% | ~177 |
 | Flying Objects Operator | 15.00% | ~156 |
 | I remember everything! | 13.00% | ~135 |
 | Another giant | 12.00% | ~125 |

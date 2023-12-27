@@ -317,7 +317,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 3,
@@ -1152,6 +1152,11 @@
       "Time": "2023-12-26T23:05:36.2675208+00:00",
       "NumProgressed": 412,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T01:50:02.2789596+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1202,9 +1207,9 @@
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1220,7 +1225,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1362,9 +1367,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1419,15 +1424,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:04:37.3644241+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:50:02.2789591+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:59:05.8067255+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:04:37.3644449+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:44:14.5706409+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:50:02.2789794+00:00"
 }

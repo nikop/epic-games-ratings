@@ -1,20 +1,20 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 677)  
+Rating: 4.45 (Ranked 676)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,941 |
+| Meeting Resistance | 47.00% | ~1,942 |
 | Confirming Suspicions | 42.00% | ~1,735 |
 | The Kraken Wakes | 37.00% | ~1,528 |
-| It's Starting to Crack | 34.00% | ~1,404 |
-| Lord of War | 31.00% | ~1,280 |
-| Change the Channel | 31.00% | ~1,280 |
+| It's Starting to Crack | 34.00% | ~1,405 |
+| Lord of War | 31.00% | ~1,281 |
+| Change the Channel | 31.00% | ~1,281 |
 | Taking it back | 29.00% | ~1,198 |
 | Resourceful | 27.00% | ~1,115 |
 | Target America | 27.00% | ~1,115 |
-| The Kraken Sleeps | 25.00% | ~1,032 |
+| The Kraken Sleeps | 25.00% | ~1,033 |
 | As Quiet as a Mouse | 24.00% | ~991 |
 | Liberté | 23.00% | ~950 |
 | Organ Grinder | 23.00% | ~950 |
@@ -40,11 +40,11 @@ Rating: 4.45 (Ranked 677)
 | Herr Today, Gone Tomorrow | 7.00% | ~286 |
 | The Long Game | 6.00% | ~248 |
 | Operation Foxley | 6.00% | ~245 |
-| Strategist | 5.00% | ~206 |
-| Tinkerer | 5.00% | ~206 |
-| It'll Buff Right Out | 5.00% | ~206 |
-| Road Rage | 5.00% | ~206 |
-| Don't hold your breath | 5.00% | ~206 |
+| Strategist | 5.00% | ~207 |
+| Tinkerer | 5.00% | ~207 |
+| It'll Buff Right Out | 5.00% | ~207 |
+| Road Rage | 5.00% | ~207 |
+| Don't hold your breath | 5.00% | ~207 |
 | Last Resort | 5.00% | ~204 |
 | Siegebreaker | 5.00% | ~204 |
 | Ghost of Falaise | 5.00% | ~204 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 677)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,130 (Ranked 206)  
+Progressed: 4,131 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-24 | 4,106 | 11 |
 | 2023-12-25 | 4,109 | 11 |
 | 2023-12-26 | 4,128 | 11 |
-| 2023-12-27 | 4,130 | 11 |
+| 2023-12-27 | 4,131 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 540)  

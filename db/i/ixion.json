@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3744,
+  "EOS_Progressed": 3746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7213,6 +7213,11 @@
       "Time": "2023-12-27T00:03:26.5635857+00:00",
       "NumProgressed": 3744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T01:48:24.1923051+00:00",
+      "NumProgressed": 3746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7288,7 +7293,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_BASE_19",
@@ -7326,9 +7331,9 @@
       "ID": "ACH_BASE_23",
       "SetID": "92iocjf",
       "Name": "Space Society",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_BASE_24",
@@ -7360,7 +7365,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_BASE_28",
@@ -7392,15 +7397,15 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_BASE_31",
       "SetID": "92iocjf",
       "Name": "Power Outage",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_BASE_32",
@@ -7432,7 +7437,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_BASE_36",
@@ -7606,9 +7611,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_BASE_60",
@@ -7679,13 +7684,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1928,
+      "Progressed": 1930,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3744,
+      "Progressed": 3746,
       "Completed": 0
     }
   ],
@@ -7693,8 +7698,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:03:26.5635852+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:48:24.1923047+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:59:43.8433108+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:03:26.5637082+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:45:10.0213465+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:48:24.1923697+00:00"
 }

@@ -1,37 +1,37 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 258)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~544 |
-| Lost and Found | 7.00% | ~346 |
+| Malpractice Assurance | 11.00% | ~545 |
+| Lost and Found | 7.00% | ~347 |
 | This Belongs in a Museum | 5.00% | ~6,504 |
 | Autodidact | 5.00% | ~6,504 |
-| This guy... again? | 5.00% | ~247 |
-| Serenity Now! | 4.00% | ~5,203 |
-| Creep and Sleep | 4.00% | ~5,203 |
-| Meat and Greet | 4.00% | ~5,203 |
-| Catch and Decease | 4.00% | ~5,203 |
-| Overdue Notice | 4.00% | ~5,203 |
-| Escape from the Black Hole | 4.00% | ~5,203 |
+| This guy... again? | 5.00% | ~248 |
+| Bloody Graduation | 5.00% | ~248 |
+| Serenity Now! | 4.00% | ~5,204 |
+| Creep and Sleep | 4.00% | ~5,204 |
+| Meat and Greet | 4.00% | ~5,204 |
+| Catch and Decease | 4.00% | ~5,204 |
+| Overdue Notice | 4.00% | ~5,204 |
+| Escape from the Black Hole | 4.00% | ~5,204 |
 | Ploughshares to Swords | 4.00% | ~198 |
-| Bloody Graduation | 4.00% | ~198 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,902 |
-| It Rings a Bell | 3.00% | ~3,902 |
-| Not Today! | 3.00% | ~3,902 |
-| It Happens | 3.00% | ~3,902 |
-| Rush Hour | 3.00% | ~3,902 |
-| Merry Time | 3.00% | ~3,902 |
-| Harvest Festival | 3.00% | ~3,902 |
-| To Grandmother's House | 3.00% | ~3,902 |
-| Whale | 3.00% | ~3,902 |
-| A Place to Lay Your Head | 3.00% | ~3,902 |
-| FNG | 3.00% | ~3,902 |
-| Nope | 3.00% | ~3,902 |
-| Friends 'Til the End | 3.00% | ~148 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,903 |
+| It Rings a Bell | 3.00% | ~3,903 |
+| Not Today! | 3.00% | ~3,903 |
+| It Happens | 3.00% | ~3,903 |
+| Rush Hour | 3.00% | ~3,903 |
+| Merry Time | 3.00% | ~3,903 |
+| Harvest Festival | 3.00% | ~3,903 |
+| To Grandmother's House | 3.00% | ~3,903 |
+| Whale | 3.00% | ~3,903 |
+| A Place to Lay Your Head | 3.00% | ~3,903 |
+| FNG | 3.00% | ~3,903 |
+| Nope | 3.00% | ~3,903 |
+| Friends 'Til the End | 3.00% | ~149 |
 | Resurrection | 2.00% | ~2,602 |
 | Unleash Hell | 2.00% | ~2,602 |
 | Funny Guy | 2.00% | ~2,602 |
@@ -60,14 +60,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 1.00% | ~1,301 |
 | Eyes Up | 1.00% | ~1,301 |
 | Handled | 1.00% | ~1,301 |
-| Slap on the Wrist | 1.00% | ~49 |
-| For Old Time' Sake | 1.00% | ~49 |
+| Slap on the Wrist | 1.00% | ~50 |
+| For Old Time' Sake | 1.00% | ~50 |
 | Body of Work | 0.90% | ~1,171 |
 | Shrine of Reflection | 0.80% | ~1,041 |
 | Clearing the Ledger | 0.70% | ~911 |
 | Et Tu, Riposte? | 0.70% | ~35 |
-| Hat Trick | 0.60% | ~780 |
-| Triage | 0.60% | ~780 |
+| Hat Trick | 0.60% | ~781 |
+| Triage | 0.60% | ~781 |
 | No Mercy | 0.60% | ~30 |
 | The World As It Was | 0.50% | ~650 |
 | A Life Well Lived | 0.40% | ~520 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,077 (Ranked 87)  
+Progressed: 130,090 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,21 +327,21 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,077 | 3 |
+| 2023-12-27 | 130,090 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
-Sum: 21,127 (Ranked 58)  
+Sum: 21,139 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,882 |
 | This game has Diverse Characters | 1,778 |
-| This game has Challenging Combat | 1,634 |
+| This game has Challenging Combat | 1,642 |
 | This game is Highly Recommended | 1,573 |
 | This game is Extremely Fun | 1,494 |
 | This game has Amazing Characters | 1,492 |
 | This game has Unique Visuals | 1,422 |
-| This game has Amazing Storytelling | 1,412 |
+| This game has Amazing Storytelling | 1,416 |
 | This game has Quickly Understood Controls | 1,384 |
 | This game has a Creative Community | 1,056 |
 | This game has Obsessive Gameplay | 585 |
@@ -682,3 +682,4 @@ Diff (max vs sum): -8
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
+| 2023-12-27 | 4.68 | - | 7,882 | 21,139 |

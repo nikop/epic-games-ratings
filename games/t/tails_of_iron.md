@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Become King | 1.00% | ~23 |
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 1.00% | ~9 |
-| Become King | 0.90% | ~21 |
 | Ranged Weapon | 0.80% | ~18 |
 | Defeat 25 Frogs | 0.80% | ~18 |
 | Shield Maiden Yellow Tongue | 0.80% | ~7 |
@@ -29,21 +29,21 @@ Rating: 4.56 (Ranked 497)
 | Return Power To The Depths | 0.60% | ~14 |
 | Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat the Grub Buster | 0.50% | ~5 |
-| Return the Statues | 0.40% | ~9 |
-| Complete Arena Faction | 0.40% | ~9 |
 | Complete the Chefs Book | 0.40% | ~9 |
-| Complete Ranger Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
-| Defeat Rattus Augustail | 0.40% | ~9 |
 | Fix the Travellers Wagon | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Defeat the Stalker Queen | 0.40% | ~4 |
+| Return the Statues | 0.30% | ~7 |
+| Complete Arena Faction | 0.30% | ~7 |
+| Complete Ranger Faction | 0.30% | ~7 |
+| Defeat Rattus Augustail | 0.30% | ~7 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | King of Kings | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,285 (Ranked 232)  
-Completed: 12 (0.53%) (Ranked 215)  
+Progressed: 2,286 (Ranked 232)  
+Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,7 +248,7 @@ Completed: 12 (0.53%) (Ranked 215)
 | 2023-12-24 | 2,279 | 12 |
 | 2023-12-25 | 2,281 | 12 |
 | 2023-12-26 | 2,284 | 12 |
-| 2023-12-27 | 2,285 | 12 |
+| 2023-12-27 | 2,286 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

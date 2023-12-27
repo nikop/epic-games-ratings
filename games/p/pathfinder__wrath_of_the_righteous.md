@@ -1,12 +1,12 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 132)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,456 |
+| Devoured by Darkness | 27.00% | ~3,457 |
 | A Spark | 19.00% | ~2,432 |
 | Burning City | 18.00% | ~2,304 |
 | Defender's Heart | 16.00% | ~2,048 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 3.00% | ~384 |
 | Heroic Victory | 3.00% | ~384 |
 | Core of the Riddle | 3.00% | ~384 |
-| Hanged Man's Notes | 3.00% | ~347 |
-| Sarkoris Will Be Green | 3.00% | ~347 |
-| The Lady of the Forest | 3.00% | ~347 |
-| Beware Still Water | 3.00% | ~347 |
+| Hanged Man's Notes | 3.00% | ~348 |
+| Sarkoris Will Be Green | 3.00% | ~348 |
+| The Lady of the Forest | 3.00% | ~348 |
+| Beware Still Water | 3.00% | ~348 |
 | Path of the Demon | 2.00% | ~256 |
 | Path of the Aeon | 2.00% | ~256 |
 | Capitulation Is Now Moot | 2.00% | ~256 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,801 (Ranked 169)  
+Progressed: 12,802 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,6 +374,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
 | 2023-12-26 | 12,801 | 0 |
+| 2023-12-27 | 12,802 | 0 |
 ## Awards
 Max (Character Customization): 1,772  (Ranked 125)  
 Sum: 7,169 (Ranked 123)  

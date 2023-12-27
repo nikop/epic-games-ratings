@@ -7,10 +7,10 @@ Rating: 4.50 (Ranked 605)
 | ---- | ---------- | ----- |
 | Good start! | 87.00% | ~407 |
 | Vanquisher of Robots | 78.00% | ~365 |
-| Party | 50.00% | ~234 |
+| Party | 51.00% | ~239 |
 | Impossible Cube | 46.00% | ~215 |
+| Knowledge is Power | 45.00% | ~211 |
 | Through the Darkness | 45.00% | ~211 |
-| Knowledge is Power | 44.00% | ~206 |
 | No Mercy | 43.00% | ~201 |
 | The Return of a Rat | 42.00% | ~197 |
 | Fat of the Earth | 36.00% | ~168 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 605)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468 (Ranked 339)  
+Progressed: 468 (Ranked 340)  
 Completed: 1 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

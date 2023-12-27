@@ -5,68 +5,68 @@ Rating: 4.41 (Ranked 739)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 62.00% | ~203,245 |
-| Destroyer-In-Chief | 56.00% | ~183,576 |
-| There Is No Pancakes | 53.00% | ~173,741 |
-| First of Many | 41.00% | ~134,404 |
-| Woah. | 36.00% | ~118,013 |
-| Don't Look Down | 28.00% | ~91,788 |
-| Don't Panic | 27.00% | ~88,510 |
-| Ooo A Piece of Candy! | 22.00% | ~72,119 |
-| Ghost in the Machine | 17.00% | ~55,728 |
-| All Too Easy | 15.00% | ~49,172 |
-| Didn't Need to See Him Naked | 13.00% | ~42,616 |
-| Indomitable | 10.00% | ~32,781 |
-| Bow to the Boss! | 9.00% | ~29,503 |
-| Friend of the Raptors | 9.00% | ~29,503 |
-| About Time! | 8.00% | ~26,225 |
-| Blast from the Past | 8.00% | ~26,225 |
-| Actor-Turned-Politician | 7.00% | ~22,947 |
-| Betrayed | 7.00% | ~22,947 |
-| Maximum Stopping Power | 7.00% | ~22,947 |
-| Keymaster | 6.00% | ~19,669 |
-| Poodle Skirt | 6.00% | ~19,669 |
-| You Chose... Poorly | 6.00% | ~19,669 |
-| Double Team | 5.00% | ~16,391 |
-| Imperator | 5.00% | ~16,391 |
-| *BEEP* YOU, CLAWZ! | 4.00% | ~13,113 |
-| Half Way Home | 4.00% | ~13,113 |
-| How It Should Be | 4.00% | ~13,113 |
-| Machine Man | 4.00% | ~13,113 |
-| The Full Kinzie | 4.00% | ~13,113 |
-| ...A Saint Gets a Gun | 3.00% | ~9,834 |
-| And I Ran... | 3.00% | ~9,834 |
-| Chill Out | 3.00% | ~9,834 |
-| Elementary | 3.00% | ~9,834 |
-| On Her Saint's Secret Service | 3.00% | ~9,834 |
-| Paranormal Bromance | 3.00% | ~9,834 |
-| Saints & Sensibility | 3.00% | ~9,834 |
-| The Two Shaundis | 3.00% | ~9,834 |
-| Benjamin [CENSORED] King | 2.00% | ~6,556 |
-| Better This Way | 2.00% | ~6,556 |
-| Bouncin' with an Old Friend | 2.00% | ~6,556 |
-| Our Gift to You | 2.00% | ~6,556 |
-| The Face of the Saints | 2.00% | ~6,556 |
-| The Twin Saints | 2.00% | ~6,556 |
-| Where's My Cape? | 2.00% | ~6,556 |
-| A Real Cluster.... | 1.00% | ~3,278 |
-| A Very Genki Holiday | 1.00% | ~3,278 |
-| Here! Catch! | 1.00% | ~3,278 |
-| Minty Fresh! | 1.00% | ~3,278 |
-| Switch Hitter | 1.00% | ~3,278 |
-| The Whole Story | 1.00% | ~3,278 |
-| Zoo Keeper | 1.00% | ~3,278 |
-| Make a List, Check it Twice | 0.90% | ~2,950 |
+| Zero Saints Thirty | 62.00% | ~203,281 |
+| Destroyer-In-Chief | 56.00% | ~183,608 |
+| There Is No Pancakes | 53.00% | ~173,772 |
+| First of Many | 41.00% | ~134,428 |
+| Woah. | 36.00% | ~118,034 |
+| Don't Look Down | 28.00% | ~91,804 |
+| Don't Panic | 27.00% | ~88,525 |
+| Ooo A Piece of Candy! | 22.00% | ~72,132 |
+| Ghost in the Machine | 17.00% | ~55,738 |
+| All Too Easy | 15.00% | ~49,181 |
+| Didn't Need to See Him Naked | 13.00% | ~42,623 |
+| Indomitable | 10.00% | ~32,787 |
+| Bow to the Boss! | 9.00% | ~29,508 |
+| Friend of the Raptors | 9.00% | ~29,508 |
+| About Time! | 8.00% | ~26,230 |
+| Blast from the Past | 8.00% | ~26,230 |
+| Actor-Turned-Politician | 7.00% | ~22,951 |
+| Betrayed | 7.00% | ~22,951 |
+| Maximum Stopping Power | 7.00% | ~22,951 |
+| Keymaster | 6.00% | ~19,672 |
+| Poodle Skirt | 6.00% | ~19,672 |
+| You Chose... Poorly | 6.00% | ~19,672 |
+| Double Team | 5.00% | ~16,394 |
+| Imperator | 5.00% | ~16,394 |
+| *BEEP* YOU, CLAWZ! | 4.00% | ~13,115 |
+| Half Way Home | 4.00% | ~13,115 |
+| How It Should Be | 4.00% | ~13,115 |
+| Machine Man | 4.00% | ~13,115 |
+| The Full Kinzie | 4.00% | ~13,115 |
+| ...A Saint Gets a Gun | 3.00% | ~9,836 |
+| And I Ran... | 3.00% | ~9,836 |
+| Chill Out | 3.00% | ~9,836 |
+| Elementary | 3.00% | ~9,836 |
+| On Her Saint's Secret Service | 3.00% | ~9,836 |
+| Paranormal Bromance | 3.00% | ~9,836 |
+| Saints & Sensibility | 3.00% | ~9,836 |
+| The Two Shaundis | 3.00% | ~9,836 |
+| Benjamin [CENSORED] King | 2.00% | ~6,557 |
+| Better This Way | 2.00% | ~6,557 |
+| Bouncin' with an Old Friend | 2.00% | ~6,557 |
+| Our Gift to You | 2.00% | ~6,557 |
+| The Face of the Saints | 2.00% | ~6,557 |
+| The Twin Saints | 2.00% | ~6,557 |
+| Where's My Cape? | 2.00% | ~6,557 |
+| A Real Cluster.... | 1.00% | ~3,279 |
+| A Very Genki Holiday | 1.00% | ~3,279 |
+| Here! Catch! | 1.00% | ~3,279 |
+| Minty Fresh! | 1.00% | ~3,279 |
+| Switch Hitter | 1.00% | ~3,279 |
+| The Whole Story | 1.00% | ~3,279 |
+| Zoo Keeper | 1.00% | ~3,279 |
+| Make a List, Check it Twice | 0.90% | ~2,951 |
 | Dear Santa | 0.70% | ~2,295 |
 | Rigging the Race | 0.70% | ~2,295 |
 | Back in the Day | 0.60% | ~1,967 |
 | Health Inspector | 0.50% | ~1,639 |
 | Bringin' the Heat | 0.40% | ~1,311 |
 | Experimental Tech | 0.40% | ~1,311 |
-| Fist Meet Ground | 0.30% | ~983 |
-| Fourth and Forty | 0.30% | ~983 |
-| The Challenge King | 0.30% | ~983 |
-| Walking the Dinosaur | 0.30% | ~983 |
+| Fist Meet Ground | 0.30% | ~984 |
+| Fourth and Forty | 0.30% | ~984 |
+| The Challenge King | 0.30% | ~984 |
+| Walking the Dinosaur | 0.30% | ~984 |
 | A World Without Christmas | 0.10% | ~328 |
 | Epic Jump Quest | 0.10% | ~328 |
 | Get that Kid to a Psychologist | 0.10% | ~328 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 739)
 | Super Power Team Up! | 0.10% | ~328 |
 | Ultimate Hot Potato | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,814 (Ranked 56)  
+Progressed: 327,872 (Ranked 56)  
 Completed: 17 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,14 +329,14 @@ Completed: 17 (0.01%) (Ranked 367)
 | 2023-12-24 | 326,205 | 17 |
 | 2023-12-25 | 327,010 | 17 |
 | 2023-12-26 | 327,783 | 17 |
-| 2023-12-27 | 327,814 | 17 |
+| 2023-12-27 | 327,872 | 17 |
 ## Awards
-Max (Great Boss Battles): 510  (Ranked 218)  
-Sum: 510 (Ranked 331)  
+Max (Great Boss Battles): 511  (Ranked 217)  
+Sum: 511 (Ranked 330)  
 Diff (max vs sum): -113  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 510 |
+| This game has Great Boss Battles | 511 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -454,3 +454,4 @@ Diff (max vs sum): -113
 | 2023-12-20 | 4.41 | 508 | 508 |
 | 2023-12-23 | 4.41 | 509 | 509 |
 | 2023-12-24 | 4.41 | 510 | 510 |
+| 2023-12-27 | 4.41 | 511 | 511 |

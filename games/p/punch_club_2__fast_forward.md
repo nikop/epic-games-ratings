@@ -31,12 +31,12 @@
 | Fight for life | 54.00% | ~257 |
 | It's good to be alive | 54.00% | ~257 |
 | Own four walls | 54.00% | ~257 |
+| Employee of the year | 54.00% | ~257 |
 | Intriguing candies | 53.00% | ~252 |
-| Employee of the year | 53.00% | ~252 |
 | Extreme neuropower! | 50.00% | ~238 |
 | Legal courier | 49.00% | ~233 |
 | Escaped from a big trouble | 46.00% | ~219 |
-| Now you are worthy | 42.00% | ~200 |
+| Now you are worthy | 43.00% | ~205 |
 | Fight is life | 42.00% | ~200 |
 | Mysterious voice | 41.00% | ~195 |
 | Guiding on the right path | 41.00% | ~195 |

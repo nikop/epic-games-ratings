@@ -5,7 +5,7 @@ Rating: 3.58 (Ranked 1,069)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 14.00% | ~292 |
+| I Like My Stakes Rare! | 14.00% | ~293 |
 | Catch and Release | 10.00% | ~209 |
 | Home Is Where the Heart Is | 9.00% | ~188 |
 | ICU | 9.00% | ~188 |
@@ -14,11 +14,11 @@ Rating: 3.58 (Ranked 1,069)
 | Ne Plus Ultra | 7.00% | ~146 |
 | Fly Fisher | 7.00% | ~146 |
 | Peek-a-boo | 7.00% | ~146 |
-| Welcome to the Neighborhood | 6.00% | ~125 |
-| Throw The First Stone | 6.00% | ~125 |
-| Sucks To Be You | 6.00% | ~125 |
-| Enter of Your Own Free Will | 5.00% | ~104 |
-| Heart Attack | 5.00% | ~104 |
+| Welcome to the Neighborhood | 6.00% | ~126 |
+| Throw The First Stone | 6.00% | ~126 |
+| Sucks To Be You | 6.00% | ~126 |
+| Enter of Your Own Free Will | 5.00% | ~105 |
+| Heart Attack | 5.00% | ~105 |
 | Bad Wiring | 4.00% | ~84 |
 | Grounded | 4.00% | ~84 |
 | Skin of Their Teeth | 4.00% | ~84 |
@@ -44,10 +44,10 @@ Rating: 3.58 (Ranked 1,069)
 | Right This Way | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~10 |
+| Blood Brother | 0.50% | ~10 |
 | What Lies Below | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
-| Blood Brother | 0.40% | ~8 |
 | Sisterhood | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
 | Friendgineering | 0.30% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,069)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,089 (Ranked 237)  
+Progressed: 2,092 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
-| 2023-12-27 | 2,089 | 0 |
+| 2023-12-27 | 2,092 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

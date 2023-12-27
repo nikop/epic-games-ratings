@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1368,7 +1368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31520,
+  "EOS_Progressed": 31525,
   "EOS_Completed": 85,
   "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 1,
@@ -28248,6 +28248,11 @@
       "Time": "2023-12-27T00:09:37.4408583+00:00",
       "NumProgressed": 31520,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-27T01:54:58.1032127+00:00",
+      "NumProgressed": 31525,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28267,7 +28272,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "1017",
@@ -28275,7 +28280,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "1018",
@@ -28291,7 +28296,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "1020",
@@ -28315,7 +28320,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "1023",
@@ -28347,7 +28352,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "1027",
@@ -28379,7 +28384,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5989
+      "UsersEstimate": 5990
     },
     {
       "ID": "1031",
@@ -28395,7 +28400,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12608
+      "UsersEstimate": 12610
     },
     {
       "ID": "1033",
@@ -28411,7 +28416,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "1035",
@@ -28427,22 +28432,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31520,
+      "Progressed": 31525,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-26T20:57:53.621354+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:09:37.4408577+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:54:58.1032123+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:57:49.9050862+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:09:37.4410021+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:42:21.2051368+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:54:58.1033457+00:00"
 }

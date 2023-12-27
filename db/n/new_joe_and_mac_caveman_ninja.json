@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 271,
-  "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.21,
+  "EOS_Completed": 7,
+  "EOS_NewPlayers": 16,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -621,6 +621,11 @@
       "Time": "2023-12-26T20:05:37.7313095+00:00",
       "NumProgressed": 271,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-27T01:49:55.9486139+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -638,9 +643,9 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "03",
@@ -702,9 +707,9 @@
       "ID": "10",
       "SetID": "6glb5g1",
       "Name": "The mountain of peril.",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "11",
@@ -726,17 +731,17 @@
       "ID": "13",
       "SetID": "6glb5g1",
       "Name": "Passing the carcass.",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "14",
       "SetID": "6glb5g1",
       "Name": "Lightning swamp.",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "15",
@@ -752,15 +757,15 @@
       "ID": "6glb5g1",
       "IsBase": true,
       "Progressed": 271,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2022-12-04T10:57:37.9087586+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:04:32.8167464+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:49:55.9486135+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:15.5888401+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:57:28.2592089+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:04:32.8167593+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:41:49.0203765+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:49:55.9486263+00:00"
 }

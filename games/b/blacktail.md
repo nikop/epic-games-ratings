@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 258)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.68 (Ranked 259)
 | Forbidden techniques | 12.00% | ~100 |
 | Devoted | 10.00% | ~83 |
 | Slavic squatter | 8.00% | ~66 |
-| Gold rush | 7.00% | ~58 |
 | Spirit animal | 7.00% | ~58 |
+| Gold rush | 6.00% | ~50 |
 | Liar Liar | 6.00% | ~50 |
 | A friend in need... | 6.00% | ~50 |
 | Fishing fanatic | 5.00% | ~42 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 259)
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 830 (Ranked 293)  
+Progressed: 831 (Ranked 293)  
 Completed: 1 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 1 (0.12%) (Ranked 301)
 | 2023-12-24 | 824 | 1 |
 | 2023-12-25 | 828 | 1 |
 | 2023-12-26 | 829 | 1 |
-| 2023-12-27 | 830 | 1 |
+| 2023-12-27 | 831 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

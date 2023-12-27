@@ -1,21 +1,21 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 564)  
+Rating: 4.53 (Ranked 552)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,531 |
-| Greasy Palms | 42.00% | ~5,963 |
-| South American Connection | 26.00% | ~3,691 |
-| Life of the Party | 20.00% | ~2,840 |
-| Big Heat from Little Havana | 15.00% | ~2,130 |
-| Chauffeur | 15.00% | ~2,130 |
-| Tommy Two-Wheels | 15.00% | ~2,130 |
-| Salutations My Little Friend | 11.00% | ~1,562 |
-| Iron-y | 10.00% | ~1,420 |
-| Gun for Hire | 9.00% | ~1,278 |
-| Mischief Managed | 8.00% | ~1,136 |
+| Legal Counsel | 46.00% | ~6,536 |
+| Greasy Palms | 42.00% | ~5,967 |
+| South American Connection | 26.00% | ~3,694 |
+| Life of the Party | 20.00% | ~2,842 |
+| Big Heat from Little Havana | 15.00% | ~2,131 |
+| Chauffeur | 15.00% | ~2,131 |
+| Tommy Two-Wheels | 15.00% | ~2,131 |
+| Salutations My Little Friend | 11.00% | ~1,563 |
+| Iron-y | 10.00% | ~1,421 |
+| Gun for Hire | 9.00% | ~1,279 |
+| Mischief Managed | 8.00% | ~1,137 |
 | Vice City Mogul | 6.00% | ~852 |
 | Catch Me if You Can | 6.00% | ~852 |
 | Bloodstained Hands | 6.00% | ~852 |
@@ -40,8 +40,8 @@ Rating: 4.52 (Ranked 564)
 | Done it All | 0.90% | ~128 |
 | Kingpin | 0.50% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,198 (Ranked 167)  
-Completed: 76 (0.54%) (Ranked 212)  
+Progressed: 14,208 (Ranked 167)  
+Completed: 77 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,11 +291,11 @@ Completed: 76 (0.54%) (Ranked 212)
 | 2023-12-24 | 13,863 | 75 |
 | 2023-12-25 | 14,030 | 76 |
 | 2023-12-26 | 14,192 | 76 |
-| 2023-12-27 | 14,198 | 76 |
+| 2023-12-27 | 14,208 | 77 |
 ## Awards
-Max (Great Boss Battles): 147  (Ranked 326)  
+Max (Great Boss Battles): 147  (Ranked 325)  
 Sum: 147 (Ranked 435)  
-Diff (max vs sum): -109  
+Diff (max vs sum): -110  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 147 |
@@ -458,3 +458,4 @@ Diff (max vs sum): -109
 | 2023-12-23 | 4.52 | 139 | 139 |
 | 2023-12-25 | 4.52 | 144 | 144 |
 | 2023-12-26 | 4.52 | 147 | 147 |
+| 2023-12-27 | 4.53 | 147 | 147 |

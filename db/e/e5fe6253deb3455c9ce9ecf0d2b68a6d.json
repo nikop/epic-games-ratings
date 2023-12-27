@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1679,6 +1679,11 @@
       "Time": "2023-12-26T21:06:16.4349174+00:00",
       "NumProgressed": 438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T01:52:36.011809+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1715,7 +1720,7 @@
       "Name": "Full load",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "Island",
@@ -1731,7 +1736,7 @@
       "Name": "In the last second",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Master",
@@ -1779,7 +1784,7 @@
       "Name": "Tangentially",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "USSR",
@@ -1802,14 +1807,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:06:13.0845721+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:52:36.0118085+00:00",
   "LastUpdate_AppInfo": "2023-12-26T03:57:05.7358666+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:59:06.6766512+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:06:13.0845885+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:44:15.8816321+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:52:36.0118333+00:00"
 }

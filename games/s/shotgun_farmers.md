@@ -6,24 +6,24 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 82.00% | ~294 |
 | First Blood | 63.00% | ~226 |
-| Triple Kill | 62.00% | ~222 |
+| Triple Kill | 62.00% | ~223 |
 | Aspairagus | 60.00% | ~185 |
 | No Asperascope | 58.00% | ~208 |
 | Survivor | 57.00% | ~176 |
 | Cornivore | 55.00% | ~197 |
-| I Believe I Can Fly | 49.00% | ~175 |
+| I Believe I Can Fly | 49.00% | ~176 |
 | No Diggity | 45.00% | ~139 |
-| Early Survivor | 41.00% | ~126 |
-| Bouncemato | 32.00% | ~99 |
+| Early Survivor | 40.00% | ~124 |
+| Bouncemato | 31.00% | ~96 |
 | 10K | 29.00% | ~104 |
-| Amateur Survivor | 29.00% | ~89 |
+| Amateur Survivor | 29.00% | ~90 |
 | 15K | 27.00% | ~97 |
-| Drinking Problem | 23.00% | ~82 |
+| Drinking Problem | 23.00% | ~83 |
 | Quick-Draw Pod | 22.00% | ~68 |
 | Grave Digger | 22.00% | ~68 |
 | Pork Chop Express | 20.00% | ~72 |
-| Professional Survivor | 20.00% | ~62 |
-| Carrocketeer | 18.00% | ~64 |
+| Professional Survivor | 19.00% | ~59 |
+| Carrocketeer | 18.00% | ~65 |
 | Skin Of Your Teeth | 17.00% | ~61 |
 | Getting Started | 16.00% | ~57 |
 | This Is My Boomstick | 16.00% | ~49 |
@@ -36,7 +36,7 @@
 | Quadsparagus | 10.00% | ~31 |
 | Bring Home The Bacon | 9.00% | ~32 |
 | Expert Survivor | 8.00% | ~25 |
-| Early Bird | 6.00% | ~21 |
+| Early Bird | 6.00% | ~22 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
 | Pyromaniac | 5.00% | ~15 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358 (Ranked 364)  
+Progressed: 359 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 354 | 0 |
 | 2023-12-25 | 356 | 0 |
 | 2023-12-26 | 358 | 0 |
+| 2023-12-27 | 359 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

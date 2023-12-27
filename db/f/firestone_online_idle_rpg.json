@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1020,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 445,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3858,
+  "EOS_Progressed": 3861,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10953,6 +10953,11 @@
       "Time": "2023-12-27T00:03:42.23+00:00",
       "NumProgressed": 3858,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T01:48:46.1623942+00:00",
+      "NumProgressed": 3861,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11140,7 +11145,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "fellowshippower",
@@ -11148,7 +11153,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1622
     },
     {
       "ID": "fourleafclover",
@@ -11172,7 +11177,7 @@
       "Name": "Full Party",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "gearenchanting",
@@ -11196,7 +11201,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "herewegoagain",
@@ -11210,9 +11215,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 502
     },
     {
       "ID": "howdoyouturnthison",
@@ -11236,7 +11241,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "jewelenchanting",
@@ -11292,7 +11297,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "minerclicker",
@@ -11324,7 +11329,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "mythicpower",
@@ -11340,7 +11345,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "pokerface",
@@ -11356,7 +11361,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "prestigiousx10",
@@ -11412,7 +11417,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "templeofeternals",
@@ -11420,7 +11425,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2162
     },
     {
       "ID": "thealchemist",
@@ -11436,7 +11441,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "thefatherofdragons",
@@ -11452,7 +11457,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "thepowerofawakening",
@@ -11468,7 +11473,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "titanpower",
@@ -11524,7 +11529,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3591
     },
     {
       "ID": "warmachinesarmy",
@@ -11540,7 +11545,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "whatliesbehindthebush",
@@ -11556,14 +11561,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3012
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3858,
+      "Progressed": 3861,
       "Completed": 2
     }
   ],
@@ -11571,8 +11576,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-26T10:57:05.5454417+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:03:42.2299995+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:48:46.1623938+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:57:21.0527373+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:03:42.2301474+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:41:38.9197023+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:48:46.1624893+00:00"
 }

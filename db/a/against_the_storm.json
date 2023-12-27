@@ -4,10 +4,10 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 177,
+  "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 3784,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3549,18 +3549,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3295,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-12-27T01:43:48.29061+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3296,
+      "NumberOfAwardsMax": 445
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3295,
-  "NumberOfAwardsMax": 444,
+  "NumberOfAwards": 3296,
+  "NumberOfAwardsMax": 445,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 444
+      "Count": 445
     },
     {
       "Text": "This game is Relaxing",
@@ -3617,9 +3623,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19352,
+  "EOS_Progressed": 19357,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17262,6 +17268,11 @@
       "Time": "2023-12-27T00:04:46.6091168+00:00",
       "NumProgressed": 19352,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-27T01:50:15.5161672+00:00",
+      "NumProgressed": 19357,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17272,9 +17283,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 174
     },
     {
       "ID": "AllFood",
@@ -17528,9 +17539,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 581
     },
     {
       "ID": "WinOnCoral",
@@ -17745,15 +17756,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19352,
+      "Progressed": 19357,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-26T23:58:50.2560809+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:04:46.6091164+00:00",
+  "LastChanged": "2023-12-27T01:43:48.2906099+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:50:15.5161667+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:58:50.2560822+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:04:46.6092147+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:43:48.2906107+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:50:15.5162789+00:00"
 }

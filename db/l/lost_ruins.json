@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1589,6 +1589,11 @@
       "Time": "2023-12-26T15:10:07.4547061+00:00",
       "NumProgressed": 614,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T01:55:22.4593182+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1640,7 +1645,7 @@
       "Name": "Bug Hunter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Cryomancer",
@@ -1720,7 +1725,7 @@
       "Name": "Inquisitor",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Librarian",
@@ -1862,9 +1867,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 123
     },
     {
       "ID": "TheTrio",
@@ -1896,7 +1901,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "WeaponMaster",
@@ -1919,7 +1924,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 1
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:09:56.2443414+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:55:22.4593179+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:57:43.6830239+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:09:56.2443748+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:42:12.0749034+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:55:22.4593461+00:00"
 }

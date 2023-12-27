@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
+| Wise | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
-| Wise | 0.20% | ~32 |
 | Legendary Cities | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
@@ -618,7 +618,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-26 | 15,966 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
-Sum: 1,909 (Ranked 220)  
+Sum: 1,910 (Ranked 220)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -626,7 +626,7 @@ Diff (max vs sum): 61
 | This game has Diverse Characters | 222 |
 | This game is Highly Recommended | 222 |
 | This game is Extremely Fun | 220 |
-| This game is Educational | 215 |
+| This game is Educational | 216 |
 | This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 199 |
 | This game has Quickly Understood Controls | 197 |
@@ -820,3 +820,4 @@ Diff (max vs sum): 61
 | 2023-12-21 | 4.65 | - | 229 | 1,905 |
 | 2023-12-22 | 4.65 | - | 229 | 1,907 |
 | 2023-12-24 | 4.65 | - | 229 | 1,909 |
+| 2023-12-27 | 4.65 | - | 229 | 1,910 |

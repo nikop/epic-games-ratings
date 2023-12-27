@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4901,9 +4901,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 601
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5174,8 +5174,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2023-12-27T00:09:12.2609618+00:00",
+  "LastChanged_Achievements": "2023-12-27T01:54:23.6875542+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.6449043+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:57:23.4521635+00:00",
-  "LastUpdate_Achievements": "2023-12-27T00:09:12.2610032+00:00"
+  "LastUpdate_Ratings": "2023-12-27T01:41:42.3221123+00:00",
+  "LastUpdate_Achievements": "2023-12-27T01:54:23.6876096+00:00"
 }
