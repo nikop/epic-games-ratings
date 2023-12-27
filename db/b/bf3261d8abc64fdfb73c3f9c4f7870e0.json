@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -405,9 +405,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -429,9 +429,9 @@
       "ID": "achievement_death_to_javelin",
       "SetID": "bngbnfb",
       "Name": "Death to the javelin thrower",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_drunk_lucky",
@@ -756,8 +756,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:09:05.8189456+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:09:28.4897232+00:00",
   "LastUpdate_AppInfo": "2023-12-20T14:57:10.8138963+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:58:03.9614193+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:09:05.8189777+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:58:04.332773+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:09:28.4897697+00:00"
 }

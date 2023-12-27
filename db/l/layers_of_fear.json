@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-12-27T01:53:00.68094+00:00",
       "NumProgressed": 209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T12:08:34.4826336+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1065,7 +1070,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "do_what_you_have_to",
@@ -1089,7 +1094,7 @@
       "Name": "Face your fears",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1113,7 +1118,7 @@
       "Name": "Scraps of love",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "find_one_photo",
@@ -1127,9 +1132,9 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1137,7 +1142,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "finished_it",
@@ -1233,15 +1238,15 @@
       "Name": "A piece of the story",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "preferred_parent",
@@ -1287,9 +1292,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "something_important",
@@ -1297,7 +1302,7 @@
       "Name": "Something important",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "spy_one_item",
@@ -1319,9 +1324,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1335,9 +1340,9 @@
       "ID": "tough_conversation",
       "SetID": "f2im8d",
       "Name": "Tough conversation",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "true_reflection",
@@ -1361,7 +1366,7 @@
       "Name": "Wanderer",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1376,14 +1381,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:08:16.474968+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:08:34.4826331+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:58:22.665861+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:08:16.4750165+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:58:24.895123+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:08:34.4827083+00:00"
 }

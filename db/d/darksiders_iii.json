@@ -1180,9 +1180,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1340,9 +1340,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1364,9 +1364,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1412,9 +1412,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "Save_Humans_10",
@@ -1524,8 +1524,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:08:25.3562324+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:08:43.783189+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:58:07.4647005+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:08:25.3563091+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:58:08.2379044+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:08:43.7832455+00:00"
 }

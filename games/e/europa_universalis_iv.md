@@ -13,11 +13,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.30% | ~1,456 |
 | That's a Grand Navy | 0.30% | ~1,456 |
 | Seriously?! | 0.30% | ~1,456 |
-| Cold War | 0.20% | ~970 |
-| Defender of the Faith | 0.20% | ~970 |
-| For the Glory | 0.20% | ~970 |
-| It's all about the money | 0.20% | ~970 |
-| True Catholic | 0.20% | ~970 |
+| Cold War | 0.20% | ~971 |
+| Defender of the Faith | 0.20% | ~971 |
+| For the Glory | 0.20% | ~971 |
+| It's all about the money | 0.20% | ~971 |
+| True Catholic | 0.20% | ~971 |
 | The 52 Garhs | 0.10% | ~485 |
 | I don't like sand | 0.10% | ~485 |
 | A Blessed Nation | 0.10% | ~485 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,232 (Ranked 40)  
+Progressed: 485,270 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,16 +621,16 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-24 | 483,348 | 1 |
 | 2023-12-25 | 484,143 | 1 |
 | 2023-12-26 | 484,953 | 1 |
-| 2023-12-27 | 485,232 | 1 |
+| 2023-12-27 | 485,270 | 1 |
 ## Awards
 Max (Educational): 7,570  (Ranked 54)  
-Sum: 62,442 (Ranked 24)  
+Sum: 62,449 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,570 |
 | This game has Diverse Characters | 7,414 |
-| This game is Highly Recommended | 7,269 |
+| This game is Highly Recommended | 7,276 |
 | This game has Challenging Combat | 7,197 |
 | This game is Extremely Fun | 7,102 |
 | This game is Relaxing | 6,950 |
@@ -985,3 +985,4 @@ Diff (max vs sum): 30
 | 2023-12-24 | 4.69 | - | 7,548 | 62,191 |
 | 2023-12-25 | 4.69 | - | 7,558 | 62,301 |
 | 2023-12-26 | 4.69 | - | 7,570 | 62,442 |
+| 2023-12-27 | 4.69 | - | 7,570 | 62,449 |

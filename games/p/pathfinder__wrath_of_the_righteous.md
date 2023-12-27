@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,458 |
 | A Spark | 19.00% | ~2,434 |
-| Burning City | 18.00% | ~2,305 |
+| Burning City | 18.00% | ~2,306 |
 | Defender's Heart | 16.00% | ~2,049 |
 | Mythic Choices | 15.00% | ~1,921 |
 | Banner over the Citadel | 14.00% | ~1,793 |
@@ -16,9 +16,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Fifth Crusade | 9.00% | ~1,153 |
 | Embrace of the Abyss | 7.00% | ~897 |
 | Demonic and Divine | 7.00% | ~897 |
-| Path of the Angel | 6.00% | ~768 |
-| Great Upstart | 6.00% | ~768 |
-| All Paths Open | 6.00% | ~768 |
+| Path of the Angel | 6.00% | ~769 |
+| Great Upstart | 6.00% | ~769 |
+| All Paths Open | 6.00% | ~769 |
 | Path of the Azata | 5.00% | ~640 |
 | Transformation | 5.00% | ~640 |
 | The Legacy | 5.00% | ~640 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,808 (Ranked 169)  
+Progressed: 12,809 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,14 +374,14 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
 | 2023-12-26 | 12,801 | 0 |
-| 2023-12-27 | 12,808 | 0 |
+| 2023-12-27 | 12,809 | 0 |
 ## Awards
-Max (Character Customization): 1,772  (Ranked 125)  
-Sum: 7,169 (Ranked 123)  
+Max (Character Customization): 1,774  (Ranked 125)  
+Sum: 7,171 (Ranked 123)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,772 |
+| This game has Inclusive Character Customization | 1,774 |
 | This game is Extremely Fun | 662 |
 | This game is Highly Recommended | 655 |
 | This game has Diverse Characters | 651 |
@@ -697,3 +697,4 @@ Diff (max vs sum): 2
 | 2023-12-23 | 4.76 | - | 1,767 | 7,163 |
 | 2023-12-25 | 4.76 | - | 1,769 | 7,165 |
 | 2023-12-26 | 4.76 | - | 1,772 | 7,169 |
+| 2023-12-27 | 4.76 | - | 1,774 | 7,171 |

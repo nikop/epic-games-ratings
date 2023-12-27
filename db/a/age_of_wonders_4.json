@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6313,
+  "EOS_Progressed": 6317,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9359,6 +9359,11 @@
       "Time": "2023-12-27T11:04:19.0728154+00:00",
       "NumProgressed": 6313,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T12:04:32.3796694+00:00",
+      "NumProgressed": 6317,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9418,7 +9423,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "16",
@@ -9440,9 +9445,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 126
     },
     {
       "ID": "19",
@@ -9464,9 +9469,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 57
     },
     {
       "ID": "21",
@@ -9482,7 +9487,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "23",
@@ -9498,7 +9503,7 @@
       "Name": "Secret Technique",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "25",
@@ -9522,7 +9527,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "28",
@@ -9570,7 +9575,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "33",
@@ -9626,7 +9631,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "4",
@@ -9770,7 +9775,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "52",
@@ -9849,13 +9854,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6313,
+      "Progressed": 6317,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6313,
+      "Progressed": 6317,
       "Completed": 7
     }
   ],
@@ -9863,8 +9868,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:04:19.0728149+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:04:32.3796689+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:00:03.3070638+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:04:19.0729054+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:00:16.2280294+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:04:32.3797635+00:00"
 }

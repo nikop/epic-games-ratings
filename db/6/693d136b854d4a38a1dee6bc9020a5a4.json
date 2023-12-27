@@ -4,7 +4,7 @@
   "ProductSlug": "iragon-a62cad",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-02-14T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T09:05:14.8223124+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:03:29.5697059+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:03:39.9651546+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.4490567+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:59:43.8608681+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:03:29.5697106+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:59:55.8641842+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:03:39.9651587+00:00"
 }

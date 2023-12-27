@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1235,6 +1235,11 @@
       "Time": "2023-12-27T00:05:38.6467451+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T12:06:23.364769+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1380,9 +1385,9 @@
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 143
     },
     {
       "ID": "CAREERCLASSA",
@@ -1430,7 +1435,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1526,7 +1531,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LOSEONEONLINE",
@@ -1556,9 +1561,9 @@
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 322
     },
     {
       "ID": "ONEPAINT",
@@ -1598,7 +1603,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TENPLATINUM",
@@ -1661,7 +1666,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 0
     }
   ],
@@ -1669,8 +1674,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:05:58.9860499+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:06:23.3647686+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.7211822+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:03:10.0447354+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:05:58.9860876+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:03:18.7807566+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:06:23.3648128+00:00"
 }

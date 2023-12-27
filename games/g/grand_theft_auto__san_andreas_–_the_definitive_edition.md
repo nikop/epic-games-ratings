@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 537)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,812 |
-| Pay 'n' Spray | 50.00% | ~8,526 |
-| All Dressed Up for San Fierro | 25.00% | ~4,263 |
-| The American Dream | 18.00% | ~3,069 |
-| School's Out | 18.00% | ~3,069 |
-| Smooth Moves | 16.00% | ~2,728 |
-| Today Was a Good Day | 15.00% | ~2,558 |
-| What happens in Las Venturas... | 14.00% | ~2,387 |
-| Horror of the Santa Maria | 10.00% | ~1,705 |
+| Getting Started | 81.00% | ~13,817 |
+| Pay 'n' Spray | 50.00% | ~8,529 |
+| All Dressed Up for San Fierro | 25.00% | ~4,264 |
+| The American Dream | 18.00% | ~3,070 |
+| School's Out | 18.00% | ~3,070 |
+| Smooth Moves | 16.00% | ~2,729 |
+| Today Was a Good Day | 15.00% | ~2,559 |
+| What happens in Las Venturas... | 14.00% | ~2,388 |
+| Horror of the Santa Maria | 10.00% | ~1,706 |
 | Liberty City State of Mind | 9.00% | ~1,535 |
-| Original Gangster | 8.00% | ~1,364 |
+| Original Gangster | 8.00% | ~1,365 |
 | With Extra Dip | 7.00% | ~1,194 |
 | The End of the Line | 7.00% | ~1,194 |
 | Saviour | 6.00% | ~1,023 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 537)
 | ...Here we go again | 0.50% | ~85 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,052 (Ranked 159)  
+Progressed: 17,058 (Ranked 159)  
 Completed: 64 (0.38%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,14 +292,14 @@ Completed: 64 (0.38%) (Ranked 236)
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
 | 2023-12-26 | 17,001 | 64 |
-| 2023-12-27 | 17,052 | 64 |
+| 2023-12-27 | 17,058 | 64 |
 ## Awards
-Max (Great Boss Battles): 519  (Ranked 216)  
-Sum: 795 (Ranked 286)  
-Diff (max vs sum): -70  
+Max (Great Boss Battles): 530  (Ranked 213)  
+Sum: 806 (Ranked 285)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 519 |
+| This game has Great Boss Battles | 530 |
 | This game is Relaxing | 46 |
 | This game has Amazing Characters | 42 |
 | This game is Great for Beginners | 40 |
@@ -524,4 +524,4 @@ Diff (max vs sum): -70
 | 2023-12-24 | 4.54 | 492 | 801 |
 | 2023-12-25 | 4.54 | 508 | 821 |
 | 2023-12-26 | 4.54 | 519 | 793 |
-| 2023-12-27 | 4.54 | 519 | 795 |
+| 2023-12-27 | 4.54 | 530 | 806 |

@@ -235,7 +235,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8698,
+  "EOS_Progressed": 8699,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -9195,6 +9195,11 @@
       "Time": "2023-12-27T10:11:14.471122+00:00",
       "NumProgressed": 8698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T12:10:25.7987571+00:00",
+      "NumProgressed": 8699,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9437,9 +9442,9 @@
       "ID": "SPEND_FIRSTYEAR",
       "SetID": "9eia0f5",
       "Name": "Azorian Anniversary",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -9550,13 +9555,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8698,
+      "Progressed": 8699,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 1050
     }
   ],
@@ -9564,8 +9569,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:09:58.4645657+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:10:25.7987568+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:03:18.721279+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:09:58.4646456+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:03:26.3441025+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:10:25.7988413+00:00"
 }

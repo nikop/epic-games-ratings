@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 423,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -1182,6 +1182,11 @@
       "Time": "2023-12-27T10:06:13.5640597+00:00",
       "NumProgressed": 420,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T12:05:14.8906784+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1234,7 +1239,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1288,17 +1293,17 @@
       "ID": "ACH_MERMALAIR",
       "SetID": "biiejkc",
       "Name": "Keep it Rolling",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1352,7 +1357,7 @@
       "ID": "ACH_SOCK_OPERA",
       "SetID": "biiejkc",
       "Name": "Sock Opera",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -1370,7 +1375,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1402,7 +1407,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1426,7 +1431,7 @@
       "Name": "Star Smasher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -1434,7 +1439,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1449,15 +1454,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 423,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:04:57.405563+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:05:14.8906781+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:59:18.6453565+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:04:57.4055859+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:59:26.5269684+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:05:14.8907086+00:00"
 }

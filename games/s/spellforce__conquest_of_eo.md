@@ -25,8 +25,8 @@
 | Friend of Sevenkeeps | 22.00% | ~19 |
 | Castle Meldec | 21.00% | ~18 |
 | Sevenkeeps Seat of Kings | 19.00% | ~16 |
+| Break Free | 16.00% | ~14 |
 | Friend of Alluvyan | 15.00% | ~13 |
-| Break Free | 15.00% | ~13 |
 | Friend of Connach | 14.00% | ~12 |
 | Friend of Gillyshire | 13.00% | ~11 |
 | Philo's Tale | 12.00% | ~10 |

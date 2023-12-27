@@ -2043,9 +2043,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 326
     },
     {
       "ID": "fight_win_1",
@@ -2139,9 +2139,9 @@
       "ID": "gpp_chip",
       "SetID": "69co12a",
       "Name": "Good Person Chip",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 402
     },
     {
       "ID": "hack_device",
@@ -2474,8 +2474,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:09:27.5792979+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:09:52.4754543+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:57:07.0413766+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:09:27.579348+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:57:02.112315+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:09:52.4755167+00:00"
 }

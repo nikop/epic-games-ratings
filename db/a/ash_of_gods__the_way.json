@@ -295,9 +295,9 @@
       "ID": "collect1",
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "collect2",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:09:17.3065833+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:09:41.1816933+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.6973747+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:57:38.580931+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:09:17.306616+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:57:36.8750606+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:09:41.1817294+00:00"
 }

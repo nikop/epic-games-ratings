@@ -4635,18 +4635,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7169,
       "NumberOfAwardsMax": 1772
+    },
+    {
+      "Time": "2023-12-27T11:57:16.5832571+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7171,
+      "NumberOfAwardsMax": 1774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7169,
-  "NumberOfAwardsMax": 1772,
+  "NumberOfAwards": 7171,
+  "NumberOfAwardsMax": 1774,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1772
+      "Count": 1774
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4709,7 +4715,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12808,
+  "EOS_Progressed": 12809,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
@@ -18154,6 +18160,11 @@
       "Time": "2023-12-27T09:10:02.3009911+00:00",
       "NumProgressed": 12808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T12:10:29.3319931+00:00",
+      "NumProgressed": 12809,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18173,7 +18184,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18221,7 +18232,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "09_PathOfDemon",
@@ -18373,7 +18384,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "29_StrategicVictory",
@@ -18517,7 +18528,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -19092,21 +19103,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11590,
+      "Progressed": 11591,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12808,
+      "Progressed": 12809,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-26T15:57:12.2739324+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:10:01.9693381+00:00",
+  "LastChanged": "2023-12-27T11:57:16.5832568+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:10:29.3319929+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:57:20.4995902+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:10:01.9694977+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:57:16.5832575+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:10:29.3322319+00:00"
 }

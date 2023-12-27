@@ -6,11 +6,11 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,312 |
-| Titan's First Steps | 9.00% | ~13,312 |
-| Basic in Bulk | 8.00% | ~11,833 |
-| Tinkle of Coins | 8.00% | ~11,833 |
-| Disintermediation | 6.00% | ~8,875 |
+| Sponsored by Argon | 9.00% | ~13,313 |
+| Titan's First Steps | 9.00% | ~13,313 |
+| Basic in Bulk | 8.00% | ~11,834 |
+| Tinkle of Coins | 8.00% | ~11,834 |
+| Disintermediation | 7.00% | ~10,354 |
 | It's Free Real Estate | 6.00% | ~8,875 |
 | Budding Merchant | 6.00% | ~8,875 |
 | Capitalism Ho! | 6.00% | ~8,875 |
@@ -19,32 +19,32 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,396 |
 | Pretty Penny | 5.00% | ~7,396 |
 | Own the Means of Production | 5.00% | ~7,396 |
-| The Daily Grind | 4.00% | ~5,916 |
-| Bounty Hunters | 4.00% | ~5,916 |
-| Flooding the Market | 4.00% | ~5,916 |
-| Where it Hurts | 4.00% | ~5,916 |
-| One-Armed Bandit | 4.00% | ~5,916 |
-| Dungeon Imports | 4.00% | ~5,916 |
-| Through Repetition, Perfection | 4.00% | ~5,916 |
-| On the Path to Greatness | 3.00% | ~4,437 |
-| Ascended | 3.00% | ~4,437 |
-| Research & Development | 3.00% | ~4,437 |
-| Vanity, Verily | 3.00% | ~4,437 |
-| Fated Encounters | 3.00% | ~4,437 |
-| Blank Page Syndrome | 3.00% | ~4,437 |
-| Demand for Supplies | 3.00% | ~4,437 |
-| Power of Love | 3.00% | ~4,437 |
-| Efficient Floor Space | 3.00% | ~4,437 |
-| Flawless Fusion | 3.00% | ~4,437 |
-| Gem Expert | 3.00% | ~4,437 |
-| Gild-Gotten Goods | 3.00% | ~4,437 |
-| Royal Ransom | 3.00% | ~4,437 |
-| Helping Hand | 3.00% | ~4,437 |
-| Accomplished Merchant | 3.00% | ~4,437 |
-| Natural 20 | 3.00% | ~4,437 |
-| Did we pack lunch? | 3.00% | ~4,437 |
-| Magical Harmony | 3.00% | ~4,437 |
-| Arcane Industries | 3.00% | ~4,437 |
+| The Daily Grind | 4.00% | ~5,917 |
+| Bounty Hunters | 4.00% | ~5,917 |
+| Flooding the Market | 4.00% | ~5,917 |
+| Where it Hurts | 4.00% | ~5,917 |
+| One-Armed Bandit | 4.00% | ~5,917 |
+| Dungeon Imports | 4.00% | ~5,917 |
+| Through Repetition, Perfection | 4.00% | ~5,917 |
+| On the Path to Greatness | 3.00% | ~4,438 |
+| Ascended | 3.00% | ~4,438 |
+| Research & Development | 3.00% | ~4,438 |
+| Vanity, Verily | 3.00% | ~4,438 |
+| Fated Encounters | 3.00% | ~4,438 |
+| Blank Page Syndrome | 3.00% | ~4,438 |
+| Demand for Supplies | 3.00% | ~4,438 |
+| Power of Love | 3.00% | ~4,438 |
+| Efficient Floor Space | 3.00% | ~4,438 |
+| Flawless Fusion | 3.00% | ~4,438 |
+| Gem Expert | 3.00% | ~4,438 |
+| Gild-Gotten Goods | 3.00% | ~4,438 |
+| Royal Ransom | 3.00% | ~4,438 |
+| Helping Hand | 3.00% | ~4,438 |
+| Accomplished Merchant | 3.00% | ~4,438 |
+| Natural 20 | 3.00% | ~4,438 |
+| Did we pack lunch? | 3.00% | ~4,438 |
+| Magical Harmony | 3.00% | ~4,438 |
+| Arcane Industries | 3.00% | ~4,438 |
 | A Notch Above the Rest | 2.00% | ~2,958 |
 | Cream of the Crop | 2.00% | ~2,958 |
 | Top of the World | 2.00% | ~2,958 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.80% | ~1,183 |
 | Marvels from the World Over | 0.80% | ~1,183 |
 | Bane of Legends | 0.70% | ~1,035 |
-| Ultimate Collector | 0.60% | ~887 |
-| Unleashed Potential | 0.60% | ~887 |
-| JACKPOT!!! | 0.60% | ~887 |
+| Ultimate Collector | 0.60% | ~888 |
+| Unleashed Potential | 0.60% | ~888 |
+| JACKPOT!!! | 0.60% | ~888 |
 | Oligarch Monarch | 0.50% | ~740 |
 | Merchant Extraordinaire | 0.50% | ~740 |
 | To Hell and Back | 0.40% | ~592 |
 | Cash Only Please | 0.40% | ~592 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,911 (Ranked 83)  
+Progressed: 147,920 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-24 | 147,460 | 333 |
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
-| 2023-12-27 | 147,911 | 336 |
+| 2023-12-27 | 147,920 | 336 |
 ## Awards
 Max (Great for Beginners): 4,917  (Ranked 76)  
 Sum: 27,827 (Ranked 51)  

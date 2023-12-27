@@ -736,9 +736,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "jg2",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:05:56.2534013+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:06:20.4198467+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:02:59.0676731+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:05:56.2534483+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:03:06.9912121+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:06:20.4198819+00:00"
 }

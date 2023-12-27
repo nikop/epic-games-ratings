@@ -13,10 +13,10 @@
 | All for one! | 24.00% | ~12 |
 | A hidden snake | 22.00% | ~11 |
 | Blood and sand | 22.00% | ~11 |
+| Crimson rivers | 18.00% | ~9 |
 | Power of Inquisition | 18.00% | ~9 |
 | Surpass the teacher | 18.00% | ~9 |
 | Vene, vidi, vici | 18.00% | ~9 |
-| Crimson rivers | 16.00% | ~8 |
 | Help of the Gell | 16.00% | ~8 |
 | She-Wolf | 16.00% | ~8 |
 | Berkanan Borgia | 14.00% | ~7 |

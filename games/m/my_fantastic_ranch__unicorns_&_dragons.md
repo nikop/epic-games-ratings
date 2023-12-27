@@ -8,8 +8,8 @@
 | Spirit of competition | 36.00% | ~16 |
 | Prized Possession | 33.00% | ~15 |
 | Creature Evolution | 31.00% | ~14 |
+| Kingdom Party Time | 24.00% | ~11 |
 | Think Positive | 22.00% | ~10 |
-| Kingdom Party Time | 22.00% | ~10 |
 | Festival Fever | 18.00% | ~8 |
 | Entering New Territory | 16.00% | ~7 |
 | Gotta Adopt Them All! | 11.00% | ~5 |

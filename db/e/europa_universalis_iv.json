@@ -13681,10 +13681,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 62442,
       "NumberOfAwardsMax": 7570
+    },
+    {
+      "Time": "2023-12-27T11:57:19.2740115+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62449,
+      "NumberOfAwardsMax": 7570
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62442,
+  "NumberOfAwards": 62449,
   "NumberOfAwardsMax": 7570,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13692,7 +13698,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7269
+      "Count": 7276
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13755,9 +13761,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 485232,
+  "EOS_Progressed": 485270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5582,
+  "EOS_NewPlayers": 5593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42660,6 +42666,11 @@
       "Time": "2023-12-27T11:08:41.1563997+00:00",
       "NumProgressed": 485232,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T12:09:01.5659442+00:00",
+      "NumProgressed": 485270,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43191,7 +43202,7 @@
       "Name": "Cold War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_colonial_management",
@@ -43287,7 +43298,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -43503,7 +43514,7 @@
       "Name": "For the Glory",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_forever_golden",
@@ -43887,7 +43898,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -45263,7 +45274,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -45574,21 +45585,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 485232,
+      "Progressed": 485270,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 485232,
+      "Progressed": 485270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-26T22:57:26.2890868+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:08:41.1563994+00:00",
+  "LastChanged": "2023-12-27T11:57:19.2740113+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:09:01.5659436+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:57:23.2890737+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:08:41.1574362+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:57:19.2740121+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:09:01.567031+00:00"
 }

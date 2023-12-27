@@ -1126,9 +1126,9 @@
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
       "SetID": "caeik3h",
       "Name": "That\u0027s a strange flower",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
@@ -1470,9 +1470,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -1518,9 +1518,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -1643,8 +1643,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:04:52.3221522+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:05:09.0578035+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:00:25.473638+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:04:52.3222232+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:02:41.7886266+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:05:09.0578621+00:00"
 }

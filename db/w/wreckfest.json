@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 430,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -1210,6 +1210,11 @@
       "Time": "2023-12-27T11:08:39.067318+00:00",
       "NumProgressed": 428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T12:08:58.9004689+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1222,7 +1227,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "CareerAllChallenges",
@@ -1238,7 +1243,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "CareerChamp2",
@@ -1278,7 +1283,7 @@
       "Name": "Storm Warning",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 267
     },
     {
       "ID": "CollectVehiclesA",
@@ -1342,7 +1347,7 @@
       "Name": "Trashing Around",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PlayerRankC",
@@ -1374,14 +1379,14 @@
       "Name": "Maniac Driver",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 430,
       "Completed": 0
     }
   ],
@@ -1389,8 +1394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:08:39.0673177+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:08:58.9004685+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:00:22.6855187+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:08:39.0673336+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:02:38.8762637+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:08:58.90049+00:00"
 }

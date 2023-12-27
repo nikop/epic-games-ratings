@@ -8,14 +8,14 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 80.00% | ~181 |
 | First of many… | 71.00% | ~160 |
-| Helping Hand | 67.00% | ~151 |
+| Helping Hand | 68.00% | ~154 |
 | Increased Vigor | 61.00% | ~138 |
 | Fight Fire with Fire | 58.00% | ~131 |
 | Increased Capacity | 56.00% | ~127 |
 | Just the start | 54.00% | ~122 |
 | Perfect Storm | 50.00% | ~113 |
-| All That Glitters | 48.00% | ~108 |
-| Enhance! | 45.00% | ~102 |
+| All That Glitters | 49.00% | ~111 |
+| Enhance! | 46.00% | ~104 |
 | One Of the Chosen | 44.00% | ~99 |
 | Devil's in the Details | 42.00% | ~95 |
 | Throne Potato | 40.00% | ~90 |
@@ -29,8 +29,8 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 31.00% | ~70 |
 | Love Tap | 31.00% | ~70 |
 | Freeze Frame | 29.00% | ~66 |
+| Eat Your Heart Out | 29.00% | ~66 |
 | For Whom the Bell Tolls | 29.00% | ~66 |
-| Eat Your Heart Out | 28.00% | ~63 |
 | Unyielding Strength | 24.00% | ~54 |
 | Cleanup Crew | 22.00% | ~50 |
 | Can you restore the Balance? | 22.00% | ~50 |

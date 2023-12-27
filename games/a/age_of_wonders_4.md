@@ -5,8 +5,8 @@ Rating: 4.63 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 10.00% | ~631 |
-| Realm Estate | 9.00% | ~568 |
+| Secret Technique | 10.00% | ~632 |
+| Realm Estate | 9.00% | ~569 |
 | A Wonderful Discovery | 8.00% | ~505 |
 | Walls Cannot Stop Us | 8.00% | ~505 |
 | From Friends to Family | 7.00% | ~442 |
@@ -20,11 +20,12 @@ Rating: 4.63 (Ranked 352)
 | Stronger Together | 4.00% | ~253 |
 | In a Liege of Your Own | 4.00% | ~253 |
 | Intimidation Tactics | 4.00% | ~253 |
-| Return of the Wizard King | 3.00% | ~189 |
-| Digging for Treasure | 3.00% | ~189 |
-| My Final Form | 3.00% | ~189 |
-| Impenetrable Fortress | 3.00% | ~189 |
-| Freed Lands of Manuhari | 3.00% | ~189 |
+| Return of the Wizard King | 3.00% | ~190 |
+| Digging for Treasure | 3.00% | ~190 |
+| My Final Form | 3.00% | ~190 |
+| Impenetrable Fortress | 3.00% | ~190 |
+| Freed Lands of Manuhari | 3.00% | ~190 |
+| Arch Mage | 2.00% | ~126 |
 | Enchanted Archipelago | 2.00% | ~126 |
 | Crimson Caldera | 2.00% | ~126 |
 | Preparation Is Everything | 2.00% | ~126 |
@@ -38,9 +39,7 @@ Rating: 4.63 (Ranked 352)
 | Spoils of War | 2.00% | ~126 |
 | God Emperor | 1.00% | ~63 |
 | Lord of Chaos | 1.00% | ~63 |
-| Arch Mage | 1.00% | ~63 |
 | The Creator | 1.00% | ~63 |
-| The Goddess of Nature | 1.00% | ~63 |
 | Eternal Lord | 1.00% | ~63 |
 | The Eternal Court | 1.00% | ~63 |
 | Blood of the Dragon | 1.00% | ~63 |
@@ -49,6 +48,7 @@ Rating: 4.63 (Ranked 352)
 | A Conqueror's Cohort | 1.00% | ~63 |
 | Dawn of the Dread | 1.00% | ~63 |
 | I've Got Everything I Need Right Here | 0.90% | ~57 |
+| The Goddess of Nature | 0.90% | ~57 |
 | Pruning for Progress | 0.90% | ~57 |
 | Manufactured War | 0.80% | ~51 |
 | Grexolis | 0.80% | ~51 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 352)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,313 (Ranked 194)  
+Progressed: 6,317 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
-| 2023-12-27 | 6,313 | 7 |
+| 2023-12-27 | 6,317 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 138 (Ranked 439)  

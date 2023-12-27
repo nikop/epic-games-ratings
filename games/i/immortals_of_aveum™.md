@@ -5,13 +5,13 @@ Rating: 4.20 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,740 |
-| Battlefields Have Memories | 80.00% | ~1,600 |
-| Enlisted | 73.00% | ~1,460 |
-| Maybe Engage a Little | 68.00% | ~1,360 |
-| No More Names | 50.00% | ~1,000 |
-| Initiate | 35.00% | ~700 |
-| Thrada-Kul | 31.00% | ~620 |
+| Unforeseen | 87.00% | ~1,742 |
+| Battlefields Have Memories | 80.00% | ~1,602 |
+| Enlisted | 73.00% | ~1,461 |
+| Maybe Engage a Little | 68.00% | ~1,361 |
+| No More Names | 50.00% | ~1,001 |
+| Initiate | 35.00% | ~701 |
+| Thrada-Kul | 31.00% | ~621 |
 | Gravity-Challenged Rocks | 25.00% | ~500 |
 | Socialite | 23.00% | ~460 |
 | Soldier | 21.00% | ~420 |
@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 940)
 | Periapt Alizarin | 12.00% | ~240 |
 | A Perfect Cycle | 11.00% | ~220 |
 | Recruit | 11.00% | ~220 |
-| Armsman | 10.00% | ~200 |
+| Armsman | 9.00% | ~180 |
 | Lights Army | 8.00% | ~160 |
 | Periapt Cerulean | 6.00% | ~120 |
 | Good Boy | 6.00% | ~120 |
@@ -41,19 +41,19 @@ Rating: 4.20 (Ranked 940)
 | Grand Magnus | 1.00% | ~20 |
 | Master of Carmine | 1.00% | ~20 |
 | Tip of the Spear | 0.90% | ~18 |
-| Shroudfane Surveyor | 0.80% | ~16 |
 | Master of Ultramarine | 0.70% | ~14 |
+| Shroudfane Surveyor | 0.70% | ~14 |
 | Master of Malachite | 0.50% | ~10 |
-| Petite Bourgeoisie | 0.40% | ~8 |
 | Backtracker | 0.40% | ~8 |
 | Diplomat | 0.30% | ~6 |
+| Petite Bourgeoisie | 0.30% | ~6 |
 | Witch-Taker | 0.30% | ~6 |
 | Treasure Hunter | 0.30% | ~6 |
 | Family Business | 0.20% | ~4 |
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 239)  
+Progressed: 2,002 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
-| 2023-12-27 | 2,000 | 2 |
+| 2023-12-27 | 2,002 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,18 +7,18 @@
 | Mighty Powers | 82.00% | ~46 |
 | Grand Re-Opening | 70.00% | ~39 |
 | Pup Pup Boogie | 66.00% | ~37 |
-| Summer Day | 63.00% | ~35 |
+| Summer Day | 64.00% | ~36 |
 | Mr. Porter | 54.00% | ~30 |
 | Risky Rescue | 52.00% | ~29 |
 | Carlos Is Tangled | 50.00% | ~28 |
 | Clear the Road | 43.00% | ~24 |
 | Mandy Family | 41.00% | ~23 |
-| Never Miss | 36.00% | ~20 |
+| Never Miss | 38.00% | ~21 |
 | Paw patrol member | 36.00% | ~20 |
 | Robot Out of Control | 36.00% | ~20 |
+| Break Time | 34.00% | ~19 |
+| Master of the Rope | 34.00% | ~19 |
 | In the Air | 34.00% | ~19 |
-| Break Time | 32.00% | ~18 |
-| Master of the Rope | 32.00% | ~18 |
 | Training Day | 30.00% | ~17 |
 | Animal Sighting | 27.00% | ~15 |
 | The Fastest | 23.00% | ~13 |

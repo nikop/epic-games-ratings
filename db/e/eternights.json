@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2456,9 +2456,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2631,8 +2631,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:08:56.0378082+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:09:17.4309908+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:58:39.2382918+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:08:56.0378302+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:58:42.8365429+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:09:17.4310257+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,040 |
-| Copacetic Coordination | 16.00% | ~57,405 |
-| Fronting the Money | 15.00% | ~53,817 |
+| Corner Clout | 46.00% | ~165,042 |
+| Copacetic Coordination | 16.00% | ~57,406 |
+| Fronting the Money | 15.00% | ~53,818 |
 | The Dawn of Automation | 14.00% | ~50,230 |
 | Extraordinary Logistics | 14.00% | ~50,230 |
 | Dirty Money | 13.00% | ~46,642 |
 | Family First | 13.00% | ~46,642 |
 | Cleaning House | 12.00% | ~43,054 |
 | Room in the Back | 12.00% | ~43,054 |
-| Beating the Heat | 11.00% | ~39,466 |
-| Booze Baron | 11.00% | ~39,466 |
-| Friends on the Force | 10.00% | ~35,878 |
-| Neighborhood Watch | 10.00% | ~35,878 |
+| Beating the Heat | 11.00% | ~39,467 |
+| Booze Baron | 11.00% | ~39,467 |
+| Friends on the Force | 10.00% | ~35,879 |
+| Neighborhood Watch | 10.00% | ~35,879 |
 | Core Corps | 8.00% | ~28,703 |
 | Sizeable Stash | 8.00% | ~28,703 |
 | Street Fighter | 7.00% | ~25,115 |
@@ -42,12 +42,12 @@ Rating: 4.28 (Ranked 873)
 | Friends from Back Home | 4.00% | ~14,351 |
 | Bees Knees Bootlegger | 4.00% | ~14,351 |
 | Half Century Mark | 4.00% | ~14,351 |
-| Corner Opportunities | 3.00% | ~10,763 |
-| 2122 North Clark Street | 3.00% | ~10,763 |
-| Copious Cabbage | 3.00% | ~10,763 |
-| Sockdolager | 3.00% | ~10,763 |
-| Still Stalwart | 3.00% | ~10,763 |
-| Tighten the Screws | 3.00% | ~10,763 |
+| Corner Opportunities | 3.00% | ~10,764 |
+| 2122 North Clark Street | 3.00% | ~10,764 |
+| Copious Cabbage | 3.00% | ~10,764 |
+| Sockdolager | 3.00% | ~10,764 |
+| Still Stalwart | 3.00% | ~10,764 |
+| Tighten the Screws | 3.00% | ~10,764 |
 | One of Us | 2.00% | ~7,176 |
 | Baker’s Dozen | 2.00% | ~7,176 |
 | Dropping the Dime | 2.00% | ~7,176 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 873)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,783 (Ranked 51)  
+Progressed: 358,787 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-24 | 358,322 | 7 |
 | 2023-12-25 | 358,511 | 7 |
 | 2023-12-26 | 358,697 | 7 |
-| 2023-12-27 | 358,783 | 7 |
+| 2023-12-27 | 358,787 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
 Sum: 263 (Ranked 389)  

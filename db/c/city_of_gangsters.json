@@ -982,9 +982,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 358783,
+  "EOS_Progressed": 358787,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29607,6 +29607,11 @@
       "Time": "2023-12-27T11:04:40.7542276+00:00",
       "NumProgressed": 358783,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T12:04:56.0940785+00:00",
+      "NumProgressed": 358787,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29618,7 +29623,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ach002",
@@ -29650,7 +29655,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ach006",
@@ -29722,7 +29727,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53817
+      "UsersEstimate": 53818
     },
     {
       "ID": "ach015",
@@ -29770,7 +29775,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ach021",
@@ -29778,7 +29783,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ach022",
@@ -29826,7 +29831,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165040
+      "UsersEstimate": 165042
     },
     {
       "ID": "ach028",
@@ -29842,7 +29847,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39466
+      "UsersEstimate": 39467
     },
     {
       "ID": "ach030",
@@ -29922,7 +29927,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35878
+      "UsersEstimate": 35879
     },
     {
       "ID": "ach040",
@@ -30018,7 +30023,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39466
+      "UsersEstimate": 39467
     },
     {
       "ID": "ach052",
@@ -30034,7 +30039,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ach054",
@@ -30074,7 +30079,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10763
+      "UsersEstimate": 10764
     },
     {
       "ID": "ach059",
@@ -30082,7 +30087,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35878
+      "UsersEstimate": 35879
     },
     {
       "ID": "ach060",
@@ -30146,7 +30151,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57405
+      "UsersEstimate": 57406
     },
     {
       "ID": "ach069",
@@ -30257,7 +30262,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358783,
+      "Progressed": 358787,
       "Completed": 7
     }
   ],
@@ -30265,8 +30270,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-27T06:01:31.8663147+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:04:40.7542269+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:04:56.094078+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:00:12.2253579+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:04:40.7543888+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:00:27.9374206+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:04:56.0943541+00:00"
 }

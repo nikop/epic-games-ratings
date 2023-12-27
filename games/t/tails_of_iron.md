@@ -23,11 +23,11 @@ Rating: 4.56 (Ranked 495)
 | Defeat Croakhis Khan | 0.70% | ~6 |
 | I Remember My First Beer | 0.70% | ~6 |
 | Complete Elder Faction | 0.60% | ~14 |
+| Defeat Ratnor Rodentson | 0.60% | ~14 |
 | Defeat 25 Mozis | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
 | Kitchen Ready To Cook | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
-| Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat the Grub Buster | 0.50% | ~5 |
 | Complete the Chefs Book | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |

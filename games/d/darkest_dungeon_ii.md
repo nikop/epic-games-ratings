@@ -8,8 +8,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 11.00% | ~552 |
 | Lost and Found | 7.00% | ~351 |
-| This Belongs in a Museum | 5.00% | ~6,507 |
-| Autodidact | 5.00% | ~6,507 |
+| This Belongs in a Museum | 5.00% | ~6,508 |
+| Autodidact | 5.00% | ~6,508 |
 | This guy... again? | 5.00% | ~251 |
 | Bloody Graduation | 5.00% | ~251 |
 | Serenity Now! | 4.00% | ~5,206 |
@@ -21,17 +21,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,206 |
 | To Grandmother's House | 4.00% | ~5,206 |
 | Ploughshares to Swords | 4.00% | ~201 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,904 |
-| It Rings a Bell | 3.00% | ~3,904 |
-| It Happens | 3.00% | ~3,904 |
-| Rush Hour | 3.00% | ~3,904 |
-| Merry Time | 3.00% | ~3,904 |
-| Harvest Festival | 3.00% | ~3,904 |
-| Whale | 3.00% | ~3,904 |
-| A Place to Lay Your Head | 3.00% | ~3,904 |
-| FNG | 3.00% | ~3,904 |
-| Nope | 3.00% | ~3,904 |
-| Friends 'Til the End | 3.00% | ~150 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,905 |
+| It Rings a Bell | 3.00% | ~3,905 |
+| It Happens | 3.00% | ~3,905 |
+| Rush Hour | 3.00% | ~3,905 |
+| Merry Time | 3.00% | ~3,905 |
+| Harvest Festival | 3.00% | ~3,905 |
+| Whale | 3.00% | ~3,905 |
+| A Place to Lay Your Head | 3.00% | ~3,905 |
+| FNG | 3.00% | ~3,905 |
+| Nope | 3.00% | ~3,905 |
+| Friends 'Til the End | 3.00% | ~151 |
 | Resurrection | 2.00% | ~2,603 |
 | Unleash Hell | 2.00% | ~2,603 |
 | Funny Guy | 2.00% | ~2,603 |
@@ -54,12 +54,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,603 |
 | Unshackled | 2.00% | ~2,603 |
 | Road Trip | 2.00% | ~2,603 |
-| This Looks Familiar | 1.00% | ~1,301 |
-| Ichthyophobic | 1.00% | ~1,301 |
-| No More Mouths to Feed | 1.00% | ~1,301 |
-| Hot Air | 1.00% | ~1,301 |
-| Eyes Up | 1.00% | ~1,301 |
-| Handled | 1.00% | ~1,301 |
+| This Looks Familiar | 1.00% | ~1,302 |
+| Ichthyophobic | 1.00% | ~1,302 |
+| No More Mouths to Feed | 1.00% | ~1,302 |
+| Hot Air | 1.00% | ~1,302 |
+| Eyes Up | 1.00% | ~1,302 |
+| Handled | 1.00% | ~1,302 |
 | Slap on the Wrist | 1.00% | ~50 |
 | For Old Time' Sake | 1.00% | ~50 |
 | Body of Work | 0.90% | ~1,171 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,146 (Ranked 87)  
+Progressed: 130,152 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,146 | 3 |
+| 2023-12-27 | 130,152 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,149 (Ranked 58)  

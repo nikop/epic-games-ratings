@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2572,6 +2572,11 @@
       "Time": "2023-12-27T03:06:32.5470833+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T12:05:35.9610362+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2614,9 +2619,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 64
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -2638,9 +2643,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 828
     },
     {
       "ID": "CompleteChapter10",
@@ -2680,7 +2685,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CompleteChapter15",
@@ -2728,7 +2733,7 @@
       "Name": "Met the Enemy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "CompleteChapter3",
@@ -2752,7 +2757,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "CompleteChapter6",
@@ -2830,9 +2835,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 393
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2879,14 +2884,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-27T11:05:16.8148985+00:00",
+  "LastChanged_Achievements": "2023-12-27T12:05:35.9610354+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:00:32.6417086+00:00",
-  "LastUpdate_Achievements": "2023-12-27T11:05:16.8149307+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:02:49.339301+00:00",
+  "LastUpdate_Achievements": "2023-12-27T12:05:35.9611083+00:00"
 }

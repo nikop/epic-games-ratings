@@ -6,25 +6,25 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 16.00% | ~67 |
+| Spatula Seeker | 16.00% | ~68 |
 | Sponge Smasher | 15.00% | ~63 |
 | Jellyfish Jam | 14.00% | ~59 |
 | Jellyfishing | 10.00% | ~42 |
 | Time For Tutorial | 10.00% | ~42 |
 | Sweet Victory | 9.00% | ~38 |
 | Sock Getter | 9.00% | ~38 |
-| Uptown and Downtown | 7.00% | ~29 |
-| Super Spatula Seeker | 7.00% | ~29 |
-| Star Smasher | 7.00% | ~29 |
-| Surf's Up! | 7.00% | ~29 |
+| Uptown and Downtown | 7.00% | ~30 |
+| Super Spatula Seeker | 7.00% | ~30 |
+| Star Smasher | 7.00% | ~30 |
+| Surf's Up! | 7.00% | ~30 |
 | Life's as extreme as you wanna make it! | 6.00% | ~25 |
 | Toxic Terror | 6.00% | ~25 |
 | Squirrel Smasher | 6.00% | ~25 |
-| Keep it Rolling | 5.00% | ~21 |
-| Shrimp Catcher | 5.00% | ~21 |
 | Hit Rock Bottom | 5.00% | ~21 |
 | Robot encyclopedia | 4.00% | ~17 |
 | Hello, Bikini Bottom | 4.00% | ~17 |
+| Keep it Rolling | 4.00% | ~17 |
+| Shrimp Catcher | 4.00% | ~17 |
 | Are you ready now? | 3.00% | ~13 |
 | Ship Shape | 3.00% | ~13 |
 | Shanghaied | 3.00% | ~13 |
@@ -34,12 +34,12 @@ Number of Ratings: 76  (23.09.2022)
 | SpongeBob vs SpongeBob! | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | Sock Concert | 2.00% | ~8 |
-| Sock Opera | 1.00% | ~4 |
+| Sock Opera | 0.90% | ~4 |
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 | Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 352)  
+Progressed: 423 (Ranked 352)  
 Completed: 3 (0.71%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 3 (0.71%) (Ranked 196)
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
-| 2023-12-27 | 420 | 3 |
+| 2023-12-27 | 423 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  
