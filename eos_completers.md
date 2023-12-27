@@ -70,7 +70,7 @@
 | 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 69 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.21% |
 | 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.96% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.95% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 73 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 5.66% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -92,7 +92,7 @@
 | 90 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16% |
 | 91 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 4.00% |
 | 92 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.95% |
-| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.89% |
+| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.88% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.85% |
 | 95 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
 | 96 | [Doodle God](games/d/doodle_god.md) | 3.76% |
@@ -148,9 +148,9 @@
 | 145 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.56% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.49% |
 | 148 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
-| 149 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.40% |
 | 149 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.40% |
-| 151 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
+| 150 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.39% |
+| 150 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
 | 152 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.38% |
 | 153 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.36% |
 | 154 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.35% |
@@ -236,14 +236,14 @@
 | 232 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.40% |
 | 235 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
 | 236 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 236 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.38% |
-| 238 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.36% |
-| 239 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
-| 239 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.35% |
-| 239 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 239 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.35% |
-| 239 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.35% |
-| 239 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 237 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.37% |
+| 238 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
+| 238 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.35% |
+| 238 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 238 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.35% |
+| 238 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.35% |
+| 238 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.35% |
+| 238 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 245 | [Train Valley](games/t/train_valley.md) | 0.34% |
 | 245 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 247 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
