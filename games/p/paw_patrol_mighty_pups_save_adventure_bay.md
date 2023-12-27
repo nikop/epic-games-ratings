@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 80.00% | ~45 |
+| Mighty Powers | 82.00% | ~46 |
 | Grand Re-Opening | 68.00% | ~38 |
-| Pup Pup Boogie | 64.00% | ~36 |
+| Pup Pup Boogie | 66.00% | ~37 |
 | Summer Day | 63.00% | ~35 |
 | Mr. Porter | 52.00% | ~29 |
 | Risky Rescue | 52.00% | ~29 |
@@ -24,8 +24,8 @@
 | The Fastest | 23.00% | ~13 |
 | Adventure Bay’s Citizen | 23.00% | ~13 |
 | Don’t Miss Any | 21.00% | ~12 |
+| Mountain and Ice | 20.00% | ~11 |
 | You Have Been Everywhere | 18.00% | ~10 |
-| Mountain and Ice | 18.00% | ~10 |
 | Everything Under Control | 14.00% | ~8 |
 | Nothing Can Stop You | 9.00% | ~5 |
 | A Great Explorer | 7.00% | ~4 |

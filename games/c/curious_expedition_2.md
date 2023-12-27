@@ -6,23 +6,23 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~245 |
+| The Adventure Begins | 65.00% | ~246 |
 | Cartographer | 58.00% | ~219 |
-| A Strange Artefact | 54.00% | ~204 |
-| Insomnia | 50.00% | ~188 |
+| A Strange Artefact | 53.00% | ~200 |
+| Insomnia | 49.00% | ~185 |
 | Lost & Found & Lost Again | 44.00% | ~166 |
-| From Whence we Came | 44.00% | ~166 |
+| From Whence we Came | 43.00% | ~163 |
 | Fire and Flood | 41.00% | ~155 |
-| Spooky! | 38.00% | ~143 |
+| Spooky! | 38.00% | ~144 |
 | Shennong Herbalist | 36.00% | ~136 |
 | Treasure Hunt | 36.00% | ~136 |
-| Good Mama | 33.00% | ~124 |
+| Good Mama | 33.00% | ~125 |
 | O Captain My Captain | 32.00% | ~121 |
-| Plunderer | 31.00% | ~117 |
+| Plunderer | 30.00% | ~113 |
 | Taxonomist | 28.00% | ~106 |
 | Uncertain Loyalties | 26.00% | ~98 |
 | Traveller | 25.00% | ~94 |
-| Nahua Seeker | 24.00% | ~90 |
+| Nahua Seeker | 24.00% | ~91 |
 | Roll to Save | 23.00% | ~87 |
 | Veteran Explorer | 22.00% | ~83 |
 | Red Flag Pirate | 19.00% | ~72 |
@@ -34,13 +34,13 @@ Number of Ratings: 20  (23.09.2022)
 | Adventurer | 15.00% | ~57 |
 | Dapper | 15.00% | ~57 |
 | The New Director | 14.00% | ~53 |
-| Plays Well With Others | 14.00% | ~53 |
 | The Director is Dead | 13.00% | ~49 |
 | And Here Is Your Statue | 13.00% | ~49 |
 | Discovery | 13.00% | ~49 |
+| Plays Well With Others | 13.00% | ~49 |
 | Very Classy | 12.00% | ~45 |
-| Under the Table | 11.00% | ~41 |
-| It's Complicated | 11.00% | ~41 |
+| Under the Table | 11.00% | ~42 |
+| It's Complicated | 11.00% | ~42 |
 | Cold Blood, Warm Heart | 9.00% | ~34 |
 | Errand Runner | 9.00% | ~34 |
 | SCHMETTERLING | 8.00% | ~30 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 360)  
-Completed: 1 (0.27%) (Ranked 259)  
+Progressed: 378 (Ranked 359)  
+Completed: 1 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 1 (0.27%) (Ranked 259)
 | 2023-12-21 | 370 | 1 |
 | 2023-12-22 | 374 | 1 |
 | 2023-12-24 | 376 | 1 |
-| 2023-12-27 | 377 | 1 |
+| 2023-12-27 | 378 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

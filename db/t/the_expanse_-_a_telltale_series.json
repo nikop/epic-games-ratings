@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 496,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17544,
+  "EOS_Progressed": 17547,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15312,6 +15312,11 @@
       "Time": "2023-12-27T09:04:27.5131463+00:00",
       "NumProgressed": 17544,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T10:05:44.6428742+00:00",
+      "NumProgressed": 17547,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15340,7 +15345,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "12",
@@ -15404,7 +15409,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "2",
@@ -15418,9 +15423,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1053
+      "UsersEstimate": 877
     },
     {
       "ID": "21",
@@ -15428,7 +15433,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "22",
@@ -15450,9 +15455,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 526
+      "UsersEstimate": 702
     },
     {
       "ID": "25",
@@ -15500,7 +15505,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "30",
@@ -15556,7 +15561,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "31",
@@ -15603,22 +15608,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17544,
+      "Progressed": 17547,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3498,
-      "Completed": 1068
+      "Progressed": 3501,
+      "Completed": 1070
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:27.5131459+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:05:44.6428739+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:59:47.9824226+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:27.5132318+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:01:04.261375+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:05:44.6429673+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -797,9 +797,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "Botropolis",
@@ -829,9 +829,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "DopaMiner",
@@ -1020,8 +1020,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:03:53.0202332+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:04:58.0779957+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:03:10.9608047+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:03:53.0202535+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:03:58.1512862+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:04:58.0780192+00:00"
 }

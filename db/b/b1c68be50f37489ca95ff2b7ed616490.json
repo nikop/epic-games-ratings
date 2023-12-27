@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -869,6 +869,11 @@
       "Time": "2023-12-27T07:04:55.0915659+00:00",
       "NumProgressed": 197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T10:05:28.3804412+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -881,7 +886,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "10",
@@ -969,7 +974,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "20",
@@ -999,9 +1004,9 @@
       "ID": "23",
       "SetID": "6bgoh8g",
       "Name": "He is the doctor you\u0027re looking for",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "24",
@@ -1033,7 +1038,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "3",
@@ -1063,9 +1068,9 @@
       "ID": "6",
       "SetID": "6bgoh8g",
       "Name": "A true detective",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "7",
@@ -1096,14 +1101,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:15.2370939+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:05:28.3804408+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:03:03.7711936+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:15.2371136+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:03:49.2618192+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:05:28.3804612+00:00"
 }

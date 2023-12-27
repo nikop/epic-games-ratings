@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1153,
+  "EOS_Progressed": 1154,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3127,6 +3127,11 @@
       "Time": "2023-12-27T08:04:27.8635554+00:00",
       "NumProgressed": 1153,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T10:05:31.0294011+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3179,7 +3184,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "BreakTheLoop",
@@ -3395,7 +3400,7 @@
       "Name": "Overload",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Persistent",
@@ -3427,7 +3432,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "RenaissanceRobot",
@@ -3451,7 +3456,7 @@
       "Name": "Signatory",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "SingleRod",
@@ -3499,7 +3504,7 @@
       "Name": "The All-Gifted",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3547,7 +3552,7 @@
       "Name": "The Word Endures",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "TouchGrass",
@@ -3610,7 +3615,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1153,
+      "Progressed": 1154,
       "Completed": 2
     }
   ],
@@ -3618,8 +3623,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:17.1999663+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:05:31.0294008+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:59:18.0807196+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:17.2000245+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:00:20.1311499+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:05:31.029453+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~355 |
-| Decision Maker | 81.00% | ~293 |
-| Sneaky Sneak | 78.00% | ~282 |
-| DIY | 77.00% | ~279 |
-| Master Chef | 65.00% | ~235 |
-| Master of Cards | 58.00% | ~210 |
-| Over Nine Thousaaand | 57.00% | ~206 |
+| Just Went Shopping | 98.00% | ~356 |
+| Decision Maker | 80.00% | ~290 |
+| Sneaky Sneak | 77.00% | ~280 |
+| DIY | 77.00% | ~280 |
+| Master Chef | 65.00% | ~236 |
+| Master of Cards | 58.00% | ~211 |
+| Over Nine Thousaaand | 56.00% | ~203 |
 | Getting the Hang Of This | 48.00% | ~174 |
 | Collector | 29.00% | ~105 |
 | That’s What Friends Are For | 22.00% | ~80 |
 | Blow ‘Em Up | 22.00% | ~80 |
-| Poker-Man | 20.00% | ~72 |
-| FOR THE GAUNTLET! | 20.00% | ~72 |
+| Poker-Man | 20.00% | ~73 |
+| FOR THE GAUNTLET! | 20.00% | ~73 |
 | Untapped Potential | 18.00% | ~65 |
 | Played by Gramps | 14.00% | ~51 |
 | Size Doesn’t Matter | 13.00% | ~47 |
-| Totally Swamped | 12.00% | ~43 |
-| I Choo-Choo-Choose You | 12.00% | ~43 |
-| My Savior! | 12.00% | ~43 |
+| Totally Swamped | 12.00% | ~44 |
+| I Choo-Choo-Choose You | 12.00% | ~44 |
+| My Savior! | 12.00% | ~44 |
 | Limitless | 10.00% | ~36 |
 | Hammer Time | 10.00% | ~36 |
 | Is Anyone Out There? | 10.00% | ~36 |
 | Hired Goon | 6.00% | ~22 |
 | Holy Scrap! | 6.00% | ~22 |
-| How I Met Your Nana | 4.00% | ~14 |
-| KOBEEE! | 4.00% | ~14 |
+| How I Met Your Nana | 4.00% | ~15 |
+| KOBEEE! | 4.00% | ~15 |
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362 (Ranked 363)  
-Completed: 11 (3.04%) (Ranked 107)  
+Progressed: 363 (Ranked 363)  
+Completed: 11 (3.03%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,6 +72,7 @@ Completed: 11 (3.04%) (Ranked 107)
 | 2023-10-30 | 360 | 11 |
 | 2023-11-02 | 361 | 11 |
 | 2023-11-14 | 362 | 11 |
+| 2023-12-27 | 363 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

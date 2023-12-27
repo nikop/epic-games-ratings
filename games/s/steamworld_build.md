@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 87.00% | ~169 |
-| Digging a Hole | 77.00% | ~149 |
+| Digging a Hole | 78.00% | ~151 |
 | It's Yours, My Friend | 74.00% | ~144 |
 | Conducted Trade | 68.00% | ~132 |
 | Going Places | 67.00% | ~130 |
-| Aristocratic | 63.00% | ~122 |
+| Aristocratic | 64.00% | ~124 |
 | Tutti Frutti | 57.00% | ~111 |
 | Gotta Go Fast | 45.00% | ~87 |
 | Slotting Machine | 44.00% | ~85 |

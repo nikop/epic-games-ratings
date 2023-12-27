@@ -11,18 +11,18 @@
 | A new World ahead | 7.00% | ~10 |
 | Apprentice | 4.00% | ~6 |
 | Craftsmen | 3.00% | ~4 |
+| Locked and Loaded | 3.00% | ~4 |
 | Defeat Tezuth | 2.00% | ~3 |
 | Freezing Cold | 2.00% | ~3 |
-| Locked and Loaded | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
+| Searing Heat | 1.00% | ~1 |
+| Witch | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
 | A Deceiving Gift | 1.00% | ~1 |
 | Expert | 1.00% | ~1 |
 | The Golden Flash | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
-| Searing Heat | 0.70% | ~1 |
-| Witch | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 440)  
+Progressed: 145 (Ranked 441)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

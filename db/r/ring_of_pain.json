@@ -3692,10 +3692,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11760,
       "NumberOfAwardsMax": 1512
+    },
+    {
+      "Time": "2023-12-27T09:59:43.9795947+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11761,
+      "NumberOfAwardsMax": 1512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11760,
+  "NumberOfAwards": 11761,
   "NumberOfAwardsMax": 1512,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3703,7 +3709,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1421
+      "Count": 1422
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3766,9 +3772,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241806,
+  "EOS_Progressed": 241807,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29691,6 +29697,11 @@
       "Time": "2023-12-27T09:10:03.6705021+00:00",
       "NumProgressed": 241806,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-27T10:11:19.902709+00:00",
+      "NumProgressed": 241807,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30556,9 +30567,9 @@
       "ID": "WIN5",
       "SetID": "5l8oe0h",
       "Name": "Obsessed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 725
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -30805,22 +30816,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241806,
+      "Progressed": 241807,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3286,
+      "Progressed": 3287,
       "Completed": 413
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:10:03.6705019+00:00",
+  "LastChanged": "2023-12-27T09:59:43.9795945+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:11:19.9027088+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:52.55664+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:10:03.6707391+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:43.979595+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:11:19.9030045+00:00"
 }

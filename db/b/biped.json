@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8959,
+  "EOS_Progressed": 8961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15134,6 +15134,11 @@
       "Time": "2023-12-27T09:06:15.1391318+00:00",
       "NumProgressed": 8959,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T10:08:09.5626913+00:00",
+      "NumProgressed": 8961,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15145,7 +15150,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "10",
@@ -15217,7 +15222,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "5",
@@ -15264,7 +15269,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8959,
+      "Progressed": 8961,
       "Completed": 0
     }
   ],
@@ -15272,8 +15277,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:06:15.1391316+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:08:09.562691+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:55.1006777+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:06:15.1392107+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:47.5523997+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:08:09.5627662+00:00"
 }

@@ -16,12 +16,12 @@
 | Memory Rouser | 44.00% | ~409 |
 | Kemono Hunter | 39.00% | ~362 |
 | Helpful Heart | 38.00% | ~353 |
+| Flawless Crystal | 37.00% | ~344 |
 | Expert Conjuror | 37.00% | ~344 |
-| Flawless Crystal | 36.00% | ~334 |
 | Bonds of Enmity | 36.00% | ~334 |
 | Distance Devourer | 34.00% | ~316 |
 | Counter Specialist | 32.00% | ~297 |
-| Master of the Skies | 29.00% | ~269 |
+| Master of the Skies | 30.00% | ~279 |
 | Axer of Auspice | 27.00% | ~251 |
 | Mighty Marmelizer | 26.00% | ~242 |
 | Fair Means or Foul | 26.00% | ~242 |

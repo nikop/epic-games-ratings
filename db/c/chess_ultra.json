@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -479,7 +479,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224250,
+  "EOS_Progressed": 224251,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 0,
@@ -29159,6 +29159,11 @@
       "Time": "2023-12-27T09:08:29.0669166+00:00",
       "NumProgressed": 224250,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T10:09:14.0923814+00:00",
+      "NumProgressed": 224251,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -29178,7 +29183,7 @@
       "Name": "Alekhine\u2019s gun",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "BackRankMate",
@@ -29202,7 +29207,7 @@
       "Name": "Bobby Time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "BodensMate",
@@ -29258,7 +29263,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 127822
+      "UsersEstimate": 127823
     },
     {
       "ID": "Elo",
@@ -29266,7 +29271,7 @@
       "Name": "ELO",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11212
+      "UsersEstimate": 11213
     },
     {
       "ID": "EloElo",
@@ -29290,7 +29295,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20182
+      "UsersEstimate": 20183
     },
     {
       "ID": "EpauletteMate",
@@ -29346,7 +29351,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29152
+      "UsersEstimate": 29153
     },
     {
       "ID": "Octopus",
@@ -29354,7 +29359,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29152
+      "UsersEstimate": 29153
     },
     {
       "ID": "PieceCollector",
@@ -29410,7 +29415,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 47092
+      "UsersEstimate": 47093
     },
     {
       "ID": "Stalemate",
@@ -29473,7 +29478,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 224250,
+      "Progressed": 224251,
       "Completed": 2
     }
   ],
@@ -29481,8 +29486,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-26T17:01:37.5810633+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:08:29.0669161+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:09:14.092381+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.6337797+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:00:12.3062073+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:08:29.0670387+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:01:40.1040612+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:09:14.0926199+00:00"
 }

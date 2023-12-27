@@ -15,7 +15,7 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 15.00% | ~17 |
 | Commander | 14.00% | ~16 |
 | Peddler | 13.00% | ~15 |
-| Long-Haul Flyer | 12.00% | ~14 |
+| Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
 | Pass A38 | 8.00% | ~9 |
@@ -35,12 +35,12 @@ Number of Ratings: 124  (23.09.2022)
 | Morkon | 2.00% | ~2 |
 | Detective | 2.00% | ~2 |
 | Lover | 2.00% | ~2 |
+| Banker | 0.90% | ~1 |
 | Treasure Hunter | 0.90% | ~1 |
 | Defector | 0.90% | ~1 |
 | Outlaw | 0.90% | ~1 |
 | Destroyer | 0.90% | ~1 |
 | Pack Rat | 0.00% | ~0 |
-| Banker | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Beam Me Up | 0.00% | ~0 |

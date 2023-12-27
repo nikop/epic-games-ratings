@@ -4,11 +4,11 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 940,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 327,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1865,9 +1865,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19525,
+  "EOS_Progressed": 19527,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1348,
+  "EOS_NewPlayers": 1340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11380,6 +11380,11 @@
       "Time": "2023-12-27T09:09:21.8437157+00:00",
       "NumProgressed": 19525,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-27T10:10:25.9176294+00:00",
+      "NumProgressed": 19527,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11423,7 +11428,7 @@
       "Name": "Flesh Wound",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11501,9 +11506,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 586
+      "UsersEstimate": 781
     },
     {
       "ID": "KILL_2HEAD",
@@ -11551,7 +11556,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -11559,7 +11564,7 @@
       "Name": "Reforged",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11583,7 +11588,7 @@
       "Name": "The Outer Way",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11599,7 +11604,7 @@
       "Name": "Without A Paddle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "STORY_HANGAR",
@@ -11623,7 +11628,7 @@
       "Name": "Desperate Times",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3319
+      "UsersEstimate": 3320
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11733,9 +11738,9 @@
       "ID": "FINISH_DLC4",
       "SetID": "6j5ggkc",
       "Name": "One Last Job",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 224
     },
     {
       "ID": "KILL_BIOBOT",
@@ -11766,13 +11771,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19525,
+      "Progressed": 19527,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7451,
+      "Progressed": 7453,
       "Completed": 29
     }
   ],
@@ -11780,8 +11785,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-26T22:02:56.2350544+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:09:21.8437154+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:10:25.9176291+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:03:11.2182227+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:09:21.8438568+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:03:58.6853728+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:10:25.917728+00:00"
 }

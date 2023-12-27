@@ -6,13 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.70% | ~112 |
 | Explorer | 0.60% | ~96 |
-| Settler | 0.60% | ~96 |
 | Play a Single Player Game | 0.60% | ~96 |
+| Architect | 0.50% | ~80 |
 | Intrepid | 0.50% | ~80 |
 | Friendly Family | 0.50% | ~80 |
 | Able | 0.40% | ~64 |
-| Architect | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
 | Keystone | 0.40% | ~64 |
@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
 | Developing Cities | 0.30% | ~48 |
+| Legendary Cities | 0.30% | ~48 |
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
 | Furious Family | 0.30% | ~48 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
-| Legendary Cities | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
 | Champions | 0.20% | ~32 |
@@ -173,6 +173,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.10% | ~16 |
 | Macedonian Wars | 0.10% | ~16 |
 | Medo-Babylonian Conquest | 0.10% | ~16 |
+| Pyramids in Menefer | 0.10% | ~16 |
 | Merchants of the Levant | 0.10% | ~16 |
 | Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
@@ -319,7 +320,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Pyramids in Menefer | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,967 (Ranked 163)  
+Progressed: 15,968 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
-| 2023-12-27 | 15,967 | 5 |
+| 2023-12-27 | 15,968 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,910 (Ranked 220)  

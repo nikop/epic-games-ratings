@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -4385,9 +4385,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1063
     },
     {
       "ID": "AC05",
@@ -4730,8 +4730,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-27T04:59:56.3971668+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:36.1275319+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:05:56.1024024+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:00:11.1632523+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:36.1275789+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:01:38.8353511+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:05:56.1024622+00:00"
 }

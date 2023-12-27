@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2223,9 +2223,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 21769,
+  "EOS_Progressed": 21770,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12148,6 +12148,11 @@
       "Time": "2023-12-27T03:07:01.1014693+00:00",
       "NumProgressed": 21769,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-27T10:07:08.7425925+00:00",
+      "NumProgressed": 21770,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12207,7 +12212,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20681
+      "UsersEstimate": 20682
     },
     {
       "ID": "GameOver",
@@ -12319,7 +12324,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "VeronicaLiptson",
@@ -12342,15 +12347,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21769,
+      "Progressed": 21770,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-26T10:58:13.3097753+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:05:29.9042888+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:07:08.7425923+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:41.0410713+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:05:29.9043399+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:30.0417909+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:07:08.7426453+00:00"
 }

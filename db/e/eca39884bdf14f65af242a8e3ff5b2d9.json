@@ -4,11 +4,11 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 623,
   "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 330,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -615,10 +615,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 511,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-12-27T09:58:12.7118269+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 523,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 511,
+  "NumberOfAwards": 523,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -632,7 +638,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 63
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Characters",
@@ -662,7 +668,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 46
+      "Count": 51
     },
     {
       "Text": "This game is Highly Recommended",
@@ -701,8 +707,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-27T07:57:38.0071953+00:00",
+  "LastChanged": "2023-12-27T09:58:12.7118265+00:00",
   "LastUpdate_AppInfo": "2023-12-25T06:57:12.3126511+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:57:46.7691317+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:05:19.0364158+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:58:12.7118273+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:06:54.2356667+00:00"
 }

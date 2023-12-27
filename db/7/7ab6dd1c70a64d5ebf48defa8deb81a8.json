@@ -5,10 +5,10 @@
   "Ranking_Rating": 983,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -37,7 +37,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1329,
+  "EOS_Progressed": 1331,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
@@ -2612,6 +2612,11 @@
       "Time": "2023-12-27T09:09:57.1634971+00:00",
       "NumProgressed": 1329,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T10:11:12.4386853+00:00",
+      "NumProgressed": 1331,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2623,7 +2628,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_02",
@@ -2655,7 +2660,7 @@
       "Name": "To Battle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_06",
@@ -2663,7 +2668,7 @@
       "Name": "Godslayer",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_07",
@@ -2679,7 +2684,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_09",
@@ -2719,7 +2724,7 @@
       "Name": "Adventurer",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_14",
@@ -2823,7 +2828,7 @@
       "Name": "Scholar",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_27",
@@ -2910,7 +2915,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1329,
+      "Progressed": 1331,
       "Completed": 3
     }
   ],
@@ -2918,8 +2923,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:09:57.163497+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:11:12.438685+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:00:38.1369684+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:09:57.1635235+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:03:15.9447417+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:11:12.4387214+00:00"
 }

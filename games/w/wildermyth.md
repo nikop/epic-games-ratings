@@ -6,14 +6,14 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Cost of Heroism | 7.00% | ~109 |
 | Me and My Familiar | 6.00% | ~93 |
-| The Cost of Heroism | 6.00% | ~93 |
 | Passing Shadow | 5.00% | ~78 |
 | This Too Shall Pass | 5.00% | ~78 |
 | How Romantic! | 5.00% | ~78 |
 | Cutthroat Competitors | 5.00% | ~78 |
-| Daybreak | 5.00% | ~78 |
 | Gotta Ca... Must Collect All of Them | 4.00% | ~62 |
+| Daybreak | 4.00% | ~62 |
 | Completing the Look | 3.00% | ~47 |
 | War Endured | 3.00% | ~47 |
 | Core Failure | 3.00% | ~47 |
@@ -36,18 +36,18 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
 | Storied Past | 0.50% | ~8 |
-| Worldwalker | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
-| No More Nightmares | 0.50% | ~8 |
-| Bears are Scary | 0.50% | ~8 |
 | Grillmaster | 0.50% | ~8 |
-| Tempest | 0.50% | ~8 |
-| Lochias's Hunger | 0.50% | ~8 |
+| Worldwalker | 0.40% | ~6 |
+| No More Nightmares | 0.40% | ~6 |
 | A Hunger, Sated | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
+| Bears are Scary | 0.40% | ~6 |
 | Fight Like a Bird | 0.40% | ~6 |
 | Into Mulch | 0.40% | ~6 |
+| Tempest | 0.40% | ~6 |
+| Lochias's Hunger | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | The Power of Friendship | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,554 (Ranked 254)  
+Progressed: 1,556 (Ranked 254)  
 Completed: 7 (0.45%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,6 +258,7 @@ Completed: 7 (0.45%) (Ranked 225)
 | 2023-12-24 | 1,547 | 7 |
 | 2023-12-25 | 1,552 | 7 |
 | 2023-12-26 | 1,554 | 7 |
+| 2023-12-27 | 1,556 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 518)  
 Sum: 29 (Ranked 536)  

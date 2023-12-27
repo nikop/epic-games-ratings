@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,121 |
-| Ready for Winter | 62.00% | ~2,651 |
-| Ready for Summer | 49.00% | ~2,095 |
-| Cordon Bleu | 42.00% | ~1,796 |
+| Venture Outward | 73.00% | ~3,123 |
+| Ready for Winter | 62.00% | ~2,652 |
+| Ready for Summer | 49.00% | ~2,096 |
+| Cordon Bleu | 42.00% | ~1,797 |
 | Tapped! | 35.00% | ~1,497 |
 | Eureka | 30.00% | ~1,283 |
-| Scourge Slayer | 24.00% | ~1,026 |
+| Scourge Slayer | 24.00% | ~1,027 |
 | Science, Troglodyte! | 22.00% | ~941 |
 | Exceptional Skill | 21.00% | ~898 |
 | Home Sweet Home | 21.00% | ~898 |
 | Encyclopedic! | 18.00% | ~770 |
 | The Power of Family | 16.00% | ~684 |
-| A Fortress Toppled! | 15.00% | ~641 |
-| Apex Predator | 15.00% | ~641 |
+| A Fortress Toppled! | 15.00% | ~642 |
+| Apex Predator | 15.00% | ~642 |
 | The Power of Faith | 12.00% | ~513 |
-| Strange amalgams | 11.00% | ~470 |
+| Strange amalgams | 11.00% | ~471 |
 | The Power of Freedom | 9.00% | ~385 |
 | Ace Detective | 8.00% | ~342 |
 | Gift from the Ancestors | 8.00% | ~342 |
@@ -43,13 +43,13 @@ Number of Ratings: 266  (23.09.2022)
 | Your actions define you | 2.00% | ~86 |
 | The blood is life | 1.00% | ~43 |
 | Vanquisher of nightmares | 1.00% | ~43 |
-| They'll Tell Stories About This | 0.90% | ~38 |
+| They'll Tell Stories About This | 0.90% | ~39 |
 | Through fire and flame. | 0.70% | ~30 |
 | Legacy of a master hunter | 0.40% | ~17 |
 | Master of Aurai | 0.40% | ~17 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,276 (Ranked 204)  
+Progressed: 4,278 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 5 (0.12%) (Ranked 301)
 | 2023-12-24 | 4,222 | 5 |
 | 2023-12-25 | 4,244 | 5 |
 | 2023-12-26 | 4,272 | 5 |
-| 2023-12-27 | 4,276 | 5 |
+| 2023-12-27 | 4,278 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 495)  
 Sum: 246 (Ranked 396)  

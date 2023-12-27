@@ -2,13 +2,13 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 1017,
+  "Ranking_Rating": 1023,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.03,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:31.1456661+00:00",
@@ -91,15 +91,21 @@
       "Rating": 4.03,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T10:03:07.7983761+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3387,6 +3393,11 @@
       "Time": "2023-12-27T02:25:42.2147474+00:00",
       "NumProgressed": 769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T10:06:49.5429006+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3404,7 +3415,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 80,
       "UsersEstimate": 5
     },
@@ -3470,7 +3481,7 @@
       "Name": "La Der des Ders",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -3478,7 +3489,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3493,16 +3504,16 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-03-30T22:57:31.8125553+00:00",
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
-  "LastChanged": "2023-12-22T03:57:46.7688658+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:05:15.4589134+00:00",
+  "LastChanged": "2023-12-27T10:03:07.7983759+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:06:49.5429002+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:47.8356656+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:00:32.4820263+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:05:15.4589433+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:03:07.7983764+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:06:49.5429294+00:00"
 }

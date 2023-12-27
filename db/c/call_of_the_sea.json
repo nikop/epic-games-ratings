@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -313,10 +313,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136296,
-  "EOS_Completed": 1213,
-  "EOS_NewPlayers": 1228,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 136297,
+  "EOS_Completed": 1214,
+  "EOS_NewPlayers": 1222,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
@@ -28983,6 +28983,11 @@
       "Time": "2023-12-27T09:04:11.9376894+00:00",
       "NumProgressed": 136296,
       "NumCompleted": 1213
+    },
+    {
+      "Time": "2023-12-27T10:05:23.7211798+00:00",
+      "NumProgressed": 136297,
+      "NumCompleted": 1214
     }
   ],
   "TotalAchievements": 34,
@@ -29010,7 +29015,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 57244
+      "UsersEstimate": 57245
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -29050,7 +29055,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 109037
+      "UsersEstimate": 109038
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -29082,7 +29087,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 54518
+      "UsersEstimate": 54519
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -29146,7 +29151,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 21807
+      "UsersEstimate": 21808
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -29194,7 +29199,7 @@
       "Name": "Naacalvision",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 21807
+      "UsersEstimate": 21808
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -29265,16 +29270,16 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 136296,
-      "Completed": 1213
+      "Progressed": 136297,
+      "Completed": 1214
     }
   ],
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:11.937689+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:05:23.7211795+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:19.3562765+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:13.8131421+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:11.9378215+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:58:51.5829542+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:05:23.7213109+00:00"
 }

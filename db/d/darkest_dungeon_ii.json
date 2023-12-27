@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10200,9 +10200,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 130135,
+  "EOS_Progressed": 130140,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1462,
+  "EOS_NewPlayers": 1465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37025,6 +37025,11 @@
       "Time": "2023-12-27T09:09:22.4186949+00:00",
       "NumProgressed": 130135,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T10:10:26.6534016+00:00",
+      "NumProgressed": 130140,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37044,7 +37049,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37188,7 +37193,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37196,7 +37201,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37236,7 +37241,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37252,7 +37257,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "combat_kill_librarian",
@@ -37260,7 +37265,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37276,7 +37281,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37356,7 +37361,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5205
+      "UsersEstimate": 5206
     },
     {
       "ID": "driving_distance_easy",
@@ -37572,7 +37577,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "combat_kill_collector",
@@ -37636,7 +37641,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37667,21 +37672,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130135,
+      "Progressed": 130140,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5004,
+      "Progressed": 5009,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-27T01:43:57.9710915+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:09:22.4186947+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:10:26.6534015+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:59:11.7446495+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:09:22.4188427+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:00:11.0627975+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:10:26.6535514+00:00"
 }

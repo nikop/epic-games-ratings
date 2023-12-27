@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3496,9 +3496,9 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 540
     },
     {
       "ID": "EV_ACH11",
@@ -3728,9 +3728,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 540
     },
     {
       "ID": "EV_ACH40",
@@ -3785,8 +3785,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:10:00.1592145+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:11:16.0786273+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:00:23.670072+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:10:00.1592599+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:02:55.2869363+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:11:16.0786881+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7398,6 +7398,11 @@
       "Time": "2023-12-27T09:05:31.1526997+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T10:07:10.4026172+00:00",
+      "NumProgressed": 3028,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7410,7 +7415,7 @@
       "Name": "First Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7426,7 +7431,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -7466,7 +7471,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -7474,7 +7479,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -7514,7 +7519,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -7618,7 +7623,7 @@
       "Name": "Clean Race",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7666,7 +7671,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7706,7 +7711,7 @@
       "Name": "Eat My Dust",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7714,7 +7719,7 @@
       "Name": "Champagne Spray",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7801,7 +7806,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3028,
       "Completed": 0
     }
   ],
@@ -7809,8 +7814,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:05:31.1526992+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:07:10.402617+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:35.6616032+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:05:31.1527673+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:22.4272623+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:07:10.402678+00:00"
 }

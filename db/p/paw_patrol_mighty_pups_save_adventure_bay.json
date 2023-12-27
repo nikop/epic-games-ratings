@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -315,9 +315,9 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "1",
@@ -363,9 +363,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "15",
@@ -539,9 +539,9 @@
       "ID": "8",
       "SetID": "38ide56",
       "Name": "Mountain and Ice",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "9",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:46.2510085+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:06:09.958192+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.6397047+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:00:16.6270275+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:46.2510267+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:01:45.5312866+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:06:09.9582121+00:00"
 }

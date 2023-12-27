@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -1669,6 +1669,11 @@
       "Time": "2023-12-27T09:04:31.3634669+00:00",
       "NumProgressed": 389,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T10:05:49.7599731+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1681,7 +1686,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1695,9 +1700,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 246
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1729,7 +1734,7 @@
       "Name": "Energy Boost",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -1737,7 +1742,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1759,9 +1764,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 168
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1793,7 +1798,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1801,7 +1806,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1817,7 +1822,7 @@
       "Name": "Crypto Bro",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "TAKE_LEECH",
@@ -1825,7 +1830,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1840,14 +1845,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:04:31.3634664+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:05:49.7599728+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:59.2186402+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:04:31.3634862+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:53.9221496+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:05:49.7599939+00:00"
 }

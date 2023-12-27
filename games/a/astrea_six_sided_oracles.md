@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 80.00% | ~199 |
-| Purification Pioneer | 76.00% | ~189 |
-| Mechanical Buddy | 71.00% | ~177 |
-| Dicesmithing Time! | 62.00% | ~154 |
-| Sanctuary Guardian | 54.00% | ~134 |
+| Meissa's Savior | 80.00% | ~200 |
+| Purification Pioneer | 76.00% | ~190 |
+| Mechanical Buddy | 70.00% | ~175 |
+| Dicesmithing Time! | 62.00% | ~155 |
+| Sanctuary Guardian | 54.00% | ~135 |
 | Endless Tricks | 49.00% | ~122 |
 | Wild's Keeper | 46.00% | ~115 |
-| Mind Illuminator | 43.00% | ~107 |
-| Stellar Dismantler | 35.00% | ~87 |
-| Noctuan Champion | 35.00% | ~87 |
-| Anomaly Destroyer | 31.00% | ~77 |
+| Mind Illuminator | 43.00% | ~108 |
+| Noctuan Champion | 35.00% | ~88 |
+| Stellar Dismantler | 34.00% | ~85 |
+| Anomaly Destroyer | 31.00% | ~78 |
 | Astral Adventurer | 30.00% | ~75 |
 | Star Killer | 26.00% | ~65 |
 | Eridanian Champion | 24.00% | ~60 |
@@ -24,7 +24,7 @@
 | Shard Spender | 17.00% | ~42 |
 | Unbeatable | 17.00% | ~42 |
 | Sadistic Plan | 16.00% | ~40 |
-| Behenian Champion | 15.00% | ~37 |
+| Behenian Champion | 15.00% | ~38 |
 | Astral Seeker | 10.00% | ~25 |
 | Stellar Haste | 10.00% | ~25 |
 | Aquarian Champion | 10.00% | ~25 |
@@ -37,21 +37,21 @@
 | Anomaly Control | 6.00% | ~15 |
 | Can't touch this | 6.00% | ~15 |
 | Artificer | 5.00% | ~12 |
+| Prestidigitation | 5.00% | ~12 |
 | Apian Hero | 5.00% | ~12 |
 | Astrarium of Holding | 4.00% | ~10 |
 | Denying Destiny | 4.00% | ~10 |
-| Prestidigitation | 4.00% | ~10 |
 | The Chaos Artisan | 4.00% | ~10 |
 | The Dark Moon | 4.00% | ~10 |
 | The Distorted Sage | 4.00% | ~10 |
 | Behenian Hero | 4.00% | ~10 |
 | Lacertian Hero | 4.00% | ~10 |
 | Noctuan Hero | 4.00% | ~10 |
-| If I Had Failed... | 3.00% | ~7 |
-| Purification Avatar | 3.00% | ~7 |
-| The Abyssal Terror | 3.00% | ~7 |
-| Behenian Mastery | 3.00% | ~7 |
-| Eridanian Hero | 3.00% | ~7 |
+| If I Had Failed... | 3.00% | ~8 |
+| Purification Avatar | 3.00% | ~8 |
+| The Abyssal Terror | 3.00% | ~8 |
+| Behenian Mastery | 3.00% | ~8 |
+| Eridanian Hero | 3.00% | ~8 |
 | Anomaly Master | 2.00% | ~5 |
 | Astromancer | 2.00% | ~5 |
 | Critical Twist | 2.00% | ~5 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 397)  
+Progressed: 250 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,4 +165,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 234 | 0 |
 | 2023-12-25 | 241 | 0 |
 | 2023-12-26 | 246 | 0 |
-| 2023-12-27 | 249 | 0 |
+| 2023-12-27 | 250 | 0 |

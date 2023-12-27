@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1009,9 +1009,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 14237,
+  "EOS_Progressed": 14239,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1233,
+  "EOS_NewPlayers": 1231,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15984,6 +15984,11 @@
       "Time": "2023-12-27T09:09:30.950052+00:00",
       "NumProgressed": 14237,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-12-27T10:10:37.8849876+00:00",
+      "NumProgressed": 14239,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 34,
@@ -16051,7 +16056,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH09",
@@ -16123,7 +16128,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "ACH18",
@@ -16155,7 +16160,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     },
     {
       "ID": "ACH22",
@@ -16163,7 +16168,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "ACH23",
@@ -16266,7 +16271,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14237,
+      "Progressed": 14239,
       "Completed": 77
     }
   ],
@@ -16274,8 +16279,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-27T01:41:35.6399237+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:09:30.9500518+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:10:37.8849874+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:57:33.7822085+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:09:30.9501468+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:57:53.4974086+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:10:37.8850873+00:00"
 }

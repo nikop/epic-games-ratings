@@ -4,8 +4,8 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 656,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -146,17 +146,17 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "4mjb15",
       "Name": "Slowly but Surely",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "4mjb15",
       "Name": "Rebuild the Nation",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -234,9 +234,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "4mjb15",
       "Name": "Barbaric Competitor",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -281,8 +281,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:09:53.1410421+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:11:07.4571861+00:00",
   "LastUpdate_AppInfo": "2023-12-22T20:57:03.4409838+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:53.6748314+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:09:53.1410579+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:45.5784525+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:11:07.4572004+00:00"
 }

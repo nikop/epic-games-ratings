@@ -5,17 +5,17 @@ Rating: 4.20 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 18.00% | ~3,514 |
-| The Outer Way | 18.00% | ~3,514 |
-| Desperate Times | 17.00% | ~3,319 |
+| Flesh Wound | 18.00% | ~3,515 |
+| The Outer Way | 18.00% | ~3,515 |
+| Desperate Times | 17.00% | ~3,320 |
 | Get a Grip | 16.00% | ~3,124 |
 | Paper Jams | 16.00% | ~3,124 |
 | Chew 'Em Up | 14.00% | ~2,734 |
-| Float Like A Butterfly | 13.00% | ~2,538 |
-| Reforged | 13.00% | ~2,538 |
+| Float Like A Butterfly | 13.00% | ~2,539 |
+| Reforged | 13.00% | ~2,539 |
 | Workplace Hazard | 11.00% | ~2,148 |
 | If the SHU Fits... | 11.00% | ~2,148 |
-| Without A Paddle | 10.00% | ~1,952 |
+| Without A Paddle | 10.00% | ~1,953 |
 | In the Pipe, Five by Five | 9.00% | ~1,757 |
 | Two Heads Are Better Than One | 8.00% | ~1,562 |
 | Crash Site | 8.00% | ~1,562 |
@@ -28,9 +28,9 @@ Rating: 4.20 (Ranked 940)
 | I Do Belong Here | 6.00% | ~1,172 |
 | Keep Fighting | 6.00% | ~447 |
 | It's Time | 5.00% | ~373 |
+| In Striking Distance | 4.00% | ~781 |
 | The Commonality | 4.00% | ~781 |
-| In Striking Distance | 3.00% | ~586 |
-| One Last Job | 2.00% | ~149 |
+| One Last Job | 3.00% | ~224 |
 | Armed to the Teeth | 1.00% | ~75 |
 | Mugshot | 1.00% | ~195 |
 | Big Spender | 1.00% | ~75 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 940)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,525 (Ranked 149)  
+Progressed: 19,527 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,11 +296,11 @@ Completed: 82 (0.42%) (Ranked 230)
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
-| 2023-12-27 | 19,525 | 82 |
+| 2023-12-27 | 19,527 | 82 |
 ## Awards
 Max (Amazing Characters): 102  (Ranked 369)  
-Sum: 515 (Ranked 327)  
-Diff (max vs sum): 42  
+Sum: 515 (Ranked 328)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 102 |

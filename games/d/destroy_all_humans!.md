@@ -14,23 +14,23 @@ Number of Ratings: 85  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 54.00% | ~96 |
 | Perfect Probulator | 52.00% | ~92 |
 | Lobster Blisque | 49.00% | ~87 |
+| Earthly Pleasures | 47.00% | ~83 |
 | Pimp My Raid | 47.00% | ~83 |
-| Earthly Pleasures | 46.00% | ~81 |
 | Fly Me to the Moon Base | 43.00% | ~76 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~76 |
+| Bodied Sattva | 34.00% | ~60 |
 | Freshly Squeezed | 33.00% | ~58 |
-| Bodied Sattva | 33.00% | ~58 |
 | Upgreatest | 32.00% | ~57 |
-| Forbidden Donut | 29.00% | ~51 |
+| Forbidden Donut | 30.00% | ~53 |
 | Furon Fashion | 25.00% | ~44 |
 | Deincarnated | 24.00% | ~42 |
 | Trans-Siberian Express | 24.00% | ~42 |
 | Rock of the Bay | 23.00% | ~41 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~35 |
+| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~37 |
 | Arkvoodle Doodle | 16.00% | ~28 |
 | Ouch of Body Experience | 15.00% | ~27 |
+| Die Nasty | 15.00% | ~27 |
 | If You Know What I Mean | 14.00% | ~25 |
-| Die Nasty | 14.00% | ~25 |
 | Hidden Human Hive Harvest | 14.00% | ~25 |
 | Mash Machine | 14.00% | ~25 |
 | Dusted | 13.00% | ~23 |

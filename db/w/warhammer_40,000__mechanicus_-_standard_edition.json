@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1038,9 +1038,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 230583,
+  "EOS_Progressed": 230588,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28543,6 +28543,11 @@
       "Time": "2023-12-27T09:09:53.3264094+00:00",
       "NumProgressed": 230583,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T10:11:07.702883+00:00",
+      "NumProgressed": 230588,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28554,7 +28559,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46117
+      "UsersEstimate": 46118
     },
     {
       "ID": "ACH_BASE_10",
@@ -28562,7 +28567,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59952
+      "UsersEstimate": 59953
     },
     {
       "ID": "ACH_BASE_11",
@@ -28578,7 +28583,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9223
+      "UsersEstimate": 9224
     },
     {
       "ID": "ACH_BASE_13",
@@ -28594,7 +28599,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ACH_BASE_16",
@@ -28602,7 +28607,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23058
+      "UsersEstimate": 23059
     },
     {
       "ID": "ACH_BASE_17",
@@ -28610,7 +28615,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "ACH_BASE_18",
@@ -28618,7 +28623,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23058
+      "UsersEstimate": 23059
     },
     {
       "ID": "ACH_BASE_19",
@@ -28642,7 +28647,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ACH_BASE_21",
@@ -28722,7 +28727,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9223
+      "UsersEstimate": 9224
     },
     {
       "ID": "ACH_BASE_30",
@@ -28778,7 +28783,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ACH_BASE_5",
@@ -28810,7 +28815,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9223
+      "UsersEstimate": 9224
     },
     {
       "ID": "ACH_BASE_9",
@@ -28818,14 +28823,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230583,
+      "Progressed": 230588,
       "Completed": 5
     }
   ],
@@ -28833,8 +28838,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-26T23:57:10.9457228+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:09:53.3264092+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:11:07.7028828+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:57:25.6621011+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:09:53.3265184+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:57:41.6227324+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:11:07.7030396+00:00"
 }

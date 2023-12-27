@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4276,
+  "EOS_Progressed": 4278,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -7091,6 +7091,11 @@
       "Time": "2023-12-27T09:03:27.3023132+00:00",
       "NumProgressed": 4276,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T10:04:23.8054425+00:00",
+      "NumProgressed": 4278,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7102,7 +7107,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "AceDetective_9",
@@ -7126,7 +7131,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7142,7 +7147,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "CrowdPleaser",
@@ -7286,7 +7291,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7294,7 +7299,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7310,7 +7315,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7318,7 +7323,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Tapped_22",
@@ -7390,7 +7395,7 @@
       "Name": "They\u0027ll Tell Stories About This",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ThisWasAMistake",
@@ -7422,7 +7427,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3123
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7437,15 +7442,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4276,
+      "Progressed": 4278,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:03:27.3023129+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:04:23.8054423+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:02:53.7182861+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:03:27.302357+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:03:35.9577043+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:04:23.8054978+00:00"
 }

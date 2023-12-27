@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 104,
@@ -4877,9 +4877,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 79958,
+  "EOS_Progressed": 79960,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27707,6 +27707,11 @@
       "Time": "2023-12-27T09:05:58.4089637+00:00",
       "NumProgressed": 79958,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-12-27T10:07:47.0714943+00:00",
+      "NumProgressed": 79960,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 61,
@@ -27814,7 +27819,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12793
+      "UsersEstimate": 12794
     },
     {
       "ID": "CLAYFACE_1",
@@ -27918,7 +27923,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4798
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -27942,7 +27947,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 22388
+      "UsersEstimate": 22389
     },
     {
       "ID": "FREEZE_1_5",
@@ -28062,7 +28067,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 39979
+      "UsersEstimate": 39980
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -28102,7 +28107,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4798
     },
     {
       "ID": "MYSTERY_01",
@@ -28110,7 +28115,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26386
+      "UsersEstimate": 26387
     },
     {
       "ID": "MYSTERY_02",
@@ -28174,7 +28179,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -28205,13 +28210,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 79958,
+      "Progressed": 79960,
       "Completed": 128
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 50238,
+      "Progressed": 50240,
       "Completed": 2678
     }
   ],
@@ -28219,8 +28224,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-27T05:59:19.8297882+00:00",
-  "LastChanged_Achievements": "2023-12-27T09:05:58.4089634+00:00",
+  "LastChanged_Achievements": "2023-12-27T10:07:47.0714939+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.8119681+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:58:44.1920059+00:00",
-  "LastUpdate_Achievements": "2023-12-27T09:05:58.4091051+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:59:34.1653641+00:00",
+  "LastUpdate_Achievements": "2023-12-27T10:07:47.0716517+00:00"
 }

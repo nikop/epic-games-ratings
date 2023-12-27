@@ -11,11 +11,11 @@ Rating: 4.63 (Ranked 352)
 | Walls Cannot Stop Us | 8.00% | ~505 |
 | From Friends to Family | 7.00% | ~442 |
 | Bone Peddler | 6.00% | ~379 |
-| There Can Only Be One! | 5.00% | ~315 |
-| Full Ascension | 5.00% | ~315 |
-| Magical Synergy | 5.00% | ~315 |
-| Seat of Power | 5.00% | ~315 |
-| But this one is mine | 5.00% | ~315 |
+| There Can Only Be One! | 5.00% | ~316 |
+| Full Ascension | 5.00% | ~316 |
+| Magical Synergy | 5.00% | ~316 |
+| Seat of Power | 5.00% | ~316 |
+| But this one is mine | 5.00% | ~316 |
 | Valley of Wonders | 4.00% | ~252 |
 | Stronger Together | 4.00% | ~252 |
 | In a Liege of Your Own | 4.00% | ~252 |
@@ -23,13 +23,13 @@ Rating: 4.63 (Ranked 352)
 | Return of the Wizard King | 3.00% | ~189 |
 | Digging for Treasure | 3.00% | ~189 |
 | My Final Form | 3.00% | ~189 |
+| Impenetrable Fortress | 3.00% | ~189 |
 | Freed Lands of Manuhari | 3.00% | ~189 |
 | Enchanted Archipelago | 2.00% | ~126 |
 | Crimson Caldera | 2.00% | ~126 |
 | Preparation Is Everything | 2.00% | ~126 |
 | Fiery Friend | 2.00% | ~126 |
 | Against the Odds | 2.00% | ~126 |
-| Impenetrable Fortress | 2.00% | ~126 |
 | Here be Dragons | 2.00% | ~126 |
 | Tipping the Scales | 2.00% | ~126 |
 | Mighty Hoard | 2.00% | ~126 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 352)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,309 (Ranked 194)  
+Progressed: 6,310 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
-| 2023-12-27 | 6,309 | 7 |
+| 2023-12-27 | 6,310 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 138 (Ranked 439)  
