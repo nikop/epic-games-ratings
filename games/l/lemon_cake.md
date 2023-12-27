@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Proving Your Skills | 92.00% | ~167 |
 | Bakery Startup | 43.00% | ~78 |
-| Apprentice Baker | 34.00% | ~62 |
+| Apprentice Baker | 35.00% | ~63 |
 | The Kitchen Is On Fire | 34.00% | ~62 |
 | Perfect Server | 17.00% | ~31 |
 | Adept Baker | 13.00% | ~24 |
@@ -22,7 +22,7 @@
 | Bakery Business | 6.00% | ~11 |
 | Bakery Empire | 6.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 423)  
+Progressed: 181 (Ranked 424)  
 Completed: 2 (1.10%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |

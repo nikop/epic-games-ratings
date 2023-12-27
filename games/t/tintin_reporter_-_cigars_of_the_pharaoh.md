@@ -34,8 +34,8 @@
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
 | A Yummy Detour | 2.00% | ~2 |
+| The Pharaoh's New Clothes | 2.00% | ~2 |
 | Broken Brotherhood | 1.00% | ~1 |
-| The Pharaoh's New Clothes | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |

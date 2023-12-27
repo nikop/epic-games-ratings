@@ -10212,9 +10212,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130217,
+  "EOS_Progressed": 130225,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1472,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37082,6 +37082,11 @@
       "Time": "2023-12-27T18:10:33.9058386+00:00",
       "NumProgressed": 130217,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T19:10:00.2353228+00:00",
+      "NumProgressed": 130225,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37531,9 +37536,9 @@
       "ID": "roster_confirm_all_memoried",
       "SetID": "64l4lke",
       "Name": "Eidetic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 521
     },
     {
       "ID": "run_end_abandon",
@@ -37629,7 +37634,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "combat_kill_collector",
@@ -37637,7 +37642,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37677,7 +37682,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37685,7 +37690,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "quest_complete_crusader",
@@ -37693,7 +37698,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37724,21 +37729,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130217,
+      "Progressed": 130225,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5086,
+      "Progressed": 5094,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-27T13:02:01.7093782+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:10:33.9058379+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:00.2353223+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:00:43.5314706+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:10:33.9060648+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:00:36.6287193+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:00.2354731+00:00"
 }

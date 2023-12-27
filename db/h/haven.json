@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1787,
+  "EOS_Progressed": 1788,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2953,6 +2953,11 @@
       "Time": "2023-12-27T16:06:18.645619+00:00",
       "NumProgressed": 1787,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-27T19:06:09.2419245+00:00",
+      "NumProgressed": 1788,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -2964,7 +2969,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "10",
@@ -3076,7 +3081,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "23",
@@ -3100,7 +3105,7 @@
       "Name": "Heartstrings",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "27",
@@ -3108,7 +3113,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "29",
@@ -3156,7 +3161,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "5",
@@ -3188,7 +3193,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "9",
@@ -3203,15 +3208,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1787,
+      "Progressed": 1788,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:06:22.6464662+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:06:09.2419237+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:00:39.3993944+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:06:22.6464972+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:00:31.6432697+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:06:09.2419552+00:00"
 }

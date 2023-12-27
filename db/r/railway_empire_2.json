@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2545,
+  "EOS_Progressed": 2546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7301,6 +7301,11 @@
       "Time": "2023-12-27T17:03:44.1834714+00:00",
       "NumProgressed": 2545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T19:04:08.1837008+00:00",
+      "NumProgressed": 2546,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7320,7 +7325,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "A02",
@@ -7392,7 +7397,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "A11",
@@ -7408,7 +7413,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "A13",
@@ -7424,7 +7429,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "A15",
@@ -7448,7 +7453,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "A18",
@@ -7472,7 +7477,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "A21",
@@ -7504,7 +7509,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "A25",
@@ -7544,7 +7549,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "A30",
@@ -7600,7 +7605,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "A37",
@@ -7608,7 +7613,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "A38",
@@ -7616,7 +7621,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "A39",
@@ -7720,7 +7725,7 @@
       "Name": "Call of Duty",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "A52",
@@ -7751,7 +7756,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2545,
+      "Progressed": 2546,
       "Completed": 0
     }
   ],
@@ -7759,8 +7764,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:04:11.0391831+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:04:08.1837005+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:01:13.1860628+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:04:11.0392506+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:01:04.5912709+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:04:08.1837732+00:00"
 }

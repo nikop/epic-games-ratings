@@ -12,8 +12,8 @@
 | Charmed by the Hunt | 47.00% | ~441 |
 | Mountain Splitter | 46.00% | ~431 |
 | Subsistence Skills | 46.00% | ~431 |
+| Memory Rouser | 45.00% | ~422 |
 | Fusion Conjuror | 44.00% | ~413 |
-| Memory Rouser | 44.00% | ~413 |
 | Kemono Hunter | 39.00% | ~366 |
 | Helpful Heart | 38.00% | ~356 |
 | Expert Conjuror | 38.00% | ~356 |
@@ -42,7 +42,7 @@
 | Karakuri Minato | 14.00% | ~131 |
 | Canyon of Karakuri | 13.00% | ~122 |
 | Jack of All Trades | 12.00% | ~113 |
-| Karakuri Fortress | 10.00% | ~94 |
+| Karakuri Fortress | 11.00% | ~103 |
 | Volatile Vocation | 10.00% | ~94 |
 | Haven Hunter | 10.00% | ~94 |
 | Tender Touch | 9.00% | ~84 |

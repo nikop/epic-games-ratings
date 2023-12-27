@@ -4,11 +4,11 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 935,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1368,9 +1368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31598,
+  "EOS_Progressed": 31602,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28333,6 +28333,11 @@
       "Time": "2023-12-27T18:10:58.6793894+00:00",
       "NumProgressed": 31598,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-27T19:10:22.790394+00:00",
+      "NumProgressed": 31602,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28480,7 +28485,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12639
+      "UsersEstimate": 12641
     },
     {
       "ID": "1033",
@@ -28519,15 +28524,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31598,
+      "Progressed": 31602,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-26T20:57:53.621354+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:10:58.6793889+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:22.7903935+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:01.9871405+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:10:58.6795387+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:03.1469886+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:22.7905411+00:00"
 }

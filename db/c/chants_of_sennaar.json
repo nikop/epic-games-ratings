@@ -73,11 +73,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1900,
+  "EOS_Progressed": 1901,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 5.95,
+  "EOS_Completed_Percentage": 5.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5458,6 +5458,11 @@
       "Time": "2023-12-27T18:05:59.0217402+00:00",
       "NumProgressed": 1900,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-12-27T19:05:47.6080654+00:00",
+      "NumProgressed": 1901,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 25,
@@ -5613,7 +5618,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5635,9 +5640,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 779
     },
     {
       "ID": "PROGRESS_N3",
@@ -5668,7 +5673,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1900,
+      "Progressed": 1901,
       "Completed": 113
     }
   ],
@@ -5676,8 +5681,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-26T03:57:38.7311575+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:05:59.0217397+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:05:47.608065+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:11.8447672+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:05:59.0217818+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:11.5542177+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:05:47.6080995+00:00"
 }

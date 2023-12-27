@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8449,18 +8449,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11878,
       "NumberOfAwardsMax": 7018
+    },
+    {
+      "Time": "2023-12-27T19:03:38.6092746+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11888,
+      "NumberOfAwardsMax": 7028
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11878,
-  "NumberOfAwardsMax": 7018,
+  "NumberOfAwards": 11888,
+  "NumberOfAwardsMax": 7028,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7018
+      "Count": 7028
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8529,9 +8535,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 746300,
+  "EOS_Progressed": 746325,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 8827,
+  "EOS_NewPlayers": 8821,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31169,6 +31175,11 @@
       "Time": "2023-12-27T18:09:56.0935662+00:00",
       "NumProgressed": 746300,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-27T19:09:26.4012573+00:00",
+      "NumProgressed": 746325,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31180,7 +31191,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29852
+      "UsersEstimate": 29853
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31188,7 +31199,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22389
+      "UsersEstimate": 22390
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31340,7 +31351,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5970
+      "UsersEstimate": 5971
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31356,7 +31367,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29852
+      "UsersEstimate": 29853
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31444,7 +31455,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22389
+      "UsersEstimate": 22390
     },
     {
       "ID": "35_WideStrike",
@@ -31524,7 +31535,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31564,7 +31575,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -31659,21 +31670,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 55601,
+      "Progressed": 55626,
       "Completed": 10787
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 746300,
+      "Progressed": 746325,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-27T12:03:12.761311+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:09:56.0935657+00:00",
+  "LastChanged": "2023-12-27T19:03:38.6092741+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:09:26.4012569+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:03:37.9151098+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:09:56.0937051+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:03:38.609275+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:09:26.401384+00:00"
 }

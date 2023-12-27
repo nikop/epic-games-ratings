@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 667)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,904 |
-| My First Runbow | 50.00% | ~126,325 |
-| It's The Fall | 26.00% | ~65,689 |
+| In The Zone | 53.00% | ~133,906 |
+| My First Runbow | 50.00% | ~126,326 |
+| It's The Fall | 26.00% | ~65,690 |
 | The Stunner | 23.00% | ~58,110 |
-| Be Aggressive | 21.00% | ~53,056 |
+| Be Aggressive | 21.00% | ~53,057 |
 | Curator | 20.00% | ~50,530 |
 | Crowning Around | 18.00% | ~45,477 |
-| Can You Dig It? | 17.00% | ~42,950 |
+| Can You Dig It? | 17.00% | ~42,951 |
 | You Juan-A-Go? | 16.00% | ~40,424 |
 | Chan-tastic | 15.00% | ~37,898 |
 | Muddy Waters | 14.00% | ~35,371 |
-| Toasty! | 13.00% | ~32,844 |
+| Toasty! | 13.00% | ~32,845 |
 | Lazy Laser | 8.00% | ~20,212 |
 | Just A Phaze | 7.00% | ~17,686 |
 | Into The Drift | 7.00% | ~17,686 |
@@ -27,9 +27,9 @@ Rating: 4.46 (Ranked 667)
 | And You're Okay | 2.00% | ~5,053 |
 | Blotbuster | 2.00% | ~5,053 |
 | Thunderstruck | 2.00% | ~5,053 |
-| Just A Bit | 1.00% | ~2,526 |
-| Tubular, Dude | 1.00% | ~2,526 |
-| What A Trip | 1.00% | ~2,526 |
+| Just A Bit | 1.00% | ~2,527 |
+| Tubular, Dude | 1.00% | ~2,527 |
+| What A Trip | 1.00% | ~2,527 |
 | Please The King | 0.90% | ~2,274 |
 | Here We Go! | 0.80% | ~2,021 |
 | Clear-Cut | 0.50% | ~1,263 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 667)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,650 (Ranked 66)  
+Progressed: 252,652 (Ranked 66)  
 Completed: 6 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 6 (0.00%) (Ranked 389)
 | 2023-12-24 | 252,510 | 6 |
 | 2023-12-25 | 252,574 | 6 |
 | 2023-12-26 | 252,617 | 6 |
-| 2023-12-27 | 252,650 | 6 |
+| 2023-12-27 | 252,652 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,18 +5,18 @@ Rating: 3.80 (Ranked 1,064)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,470 |
-| No Half Measures | 87.00% | ~15,083 |
-| Personal Matter | 86.00% | ~14,910 |
+| Eeligally Ambitious | 95.00% | ~16,471 |
+| No Half Measures | 87.00% | ~15,084 |
+| Personal Matter | 86.00% | ~14,911 |
 | But You Have Heard of Me | 72.00% | ~12,483 |
-| Double the Barrels, double the Fun | 54.00% | ~9,362 |
-| Pimp My Glide | 49.00% | ~8,495 |
+| Double the Barrels, double the Fun | 54.00% | ~9,363 |
+| Pimp My Glide | 49.00% | ~8,496 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,935 |
 | House Party! | 35.00% | ~6,068 |
 | Make It Rain | 23.00% | ~3,988 |
 | Curse of the Seven Seas | 22.00% | ~3,814 |
 | Head First | 16.00% | ~2,774 |
-| To the World's End | 12.00% | ~2,080 |
+| To the World's End | 12.00% | ~2,081 |
 | Table for Six | 11.00% | ~1,907 |
 | Sharing Is Caring | 10.00% | ~1,734 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,387 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,064)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,337 (Ranked 158)  
+Progressed: 17,338 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-24 | 17,314 | 1 |
 | 2023-12-25 | 17,321 | 1 |
 | 2023-12-26 | 17,332 | 1 |
-| 2023-12-27 | 17,337 | 1 |
+| 2023-12-27 | 17,338 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

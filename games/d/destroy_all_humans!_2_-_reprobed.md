@@ -6,33 +6,33 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 78.00% | ~168 |
-| Mash Machine | 71.00% | ~153 |
-| Ducks in a Row, Fish in a Barrel | 48.00% | ~104 |
-| Furon Fashion | 46.00% | ~99 |
-| Shop Til They Drop | 38.00% | ~82 |
-| Bodied Sattva | 34.00% | ~73 |
-| Cult Following | 31.00% | ~67 |
-| Earthly Pleasures | 31.00% | ~67 |
-| Lie Back and Think of Albion | 25.00% | ~54 |
-| Upgreatest | 24.00% | ~52 |
-| Pimp My Raid | 24.00% | ~52 |
-| I Look Up As I Walk to Takoshima | 19.00% | ~41 |
-| Freshly Squeezed | 17.00% | ~37 |
+| Rock of the Bay | 78.00% | ~171 |
+| Mash Machine | 70.00% | ~153 |
+| Ducks in a Row, Fish in a Barrel | 48.00% | ~105 |
+| Furon Fashion | 45.00% | ~99 |
+| Shop Til They Drop | 37.00% | ~81 |
+| Bodied Sattva | 33.00% | ~72 |
+| Earthly Pleasures | 32.00% | ~70 |
+| Cult Following | 31.00% | ~68 |
+| Lie Back and Think of Albion | 24.00% | ~53 |
+| Upgreatest | 24.00% | ~53 |
+| Pimp My Raid | 23.00% | ~50 |
+| I Look Up As I Walk to Takoshima | 19.00% | ~42 |
 | Perfect Probulator | 16.00% | ~35 |
-| Die Nasty | 15.00% | ~32 |
+| Freshly Squeezed | 16.00% | ~35 |
+| Die Nasty | 15.00% | ~33 |
 | Transmitting From Sol-3 | 13.00% | ~28 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~24 |
-| Kaijuiced | 9.00% | ~19 |
-| Dusted | 9.00% | ~19 |
-| Fly Me to the Moon Base | 8.00% | ~17 |
+| Kaijuiced | 9.00% | ~20 |
+| Dusted | 9.00% | ~20 |
+| Fly Me to the Moon Base | 8.00% | ~18 |
 | Scuttled | 6.00% | ~13 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~13 |
 | Lobster Blisque | 4.00% | ~9 |
 | Yettisoned | 4.00% | ~9 |
-| Ultimate Smoothie | 3.00% | ~6 |
-| Deincarnated | 3.00% | ~6 |
-| Arkvoodle Doodle | 3.00% | ~6 |
+| Ultimate Smoothie | 3.00% | ~7 |
+| Deincarnated | 3.00% | ~7 |
+| Arkvoodle Doodle | 3.00% | ~7 |
 | Arty Facts | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |
 | The Optional Mandate | 1.00% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~1 |
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 411)  
+Progressed: 219 (Ranked 411)  
 Completed: 1 (0.46%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.46%) (Ranked 222)
 | 2023-12-24 | 179 | 0 |
 | 2023-12-25 | 191 | 1 |
 | 2023-12-26 | 205 | 1 |
-| 2023-12-27 | 216 | 1 |
+| 2023-12-27 | 219 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 488)  
 Sum: 36 (Ranked 521)  

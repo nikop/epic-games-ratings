@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3920,
+  "EOS_Progressed": 3921,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5167,6 +5167,11 @@
       "Time": "2023-12-27T15:05:13.0263023+00:00",
       "NumProgressed": 3920,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-27T19:06:38.9412656+00:00",
+      "NumProgressed": 3921,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5226,7 +5231,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3411
     },
     {
       "ID": "campaign10",
@@ -5256,9 +5261,9 @@
       "ID": "campaign13",
       "SetID": "2h56gn1",
       "Name": "Damage Control",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 274
     },
     {
       "ID": "campaign14",
@@ -5314,7 +5319,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "campaign20",
@@ -5338,7 +5343,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "campaign5",
@@ -5370,7 +5375,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "campaign9",
@@ -5378,7 +5383,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "scenario1",
@@ -5386,7 +5391,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "scenario2",
@@ -5441,7 +5446,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3920,
+      "Progressed": 3921,
       "Completed": 11
     }
   ],
@@ -5449,8 +5454,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:06:54.3350778+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:06:38.9412651+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:58:28.23509+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:06:54.3351161+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:58:33.21704+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:06:38.9413014+00:00"
 }

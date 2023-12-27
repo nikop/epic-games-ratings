@@ -2,9 +2,9 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 513,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -339,6 +339,11 @@
       "Time": "2023-12-27T07:09:43.1975167+00:00",
       "NumProgressed": 68,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T19:09:38.7711618+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -405,9 +410,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -613,7 +618,7 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -621,7 +626,7 @@
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -750,14 +755,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:10:09.8160838+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:09:38.7711614+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:07.279821+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:10:09.8161122+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:07.7605255+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:09:38.7711957+00:00"
 }

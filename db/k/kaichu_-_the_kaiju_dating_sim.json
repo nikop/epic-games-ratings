@@ -4,7 +4,7 @@
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 516,
+  "Ranking_EOS_NewPlayers": 515,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "OUT_OF_YOUR_SHELL",
       "SetID": "dhjj31a",
       "Name": "Out of Your Shell",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "POLYAMOROUSASAURUS",
@@ -281,9 +281,9 @@
       "ID": "SPREAD_THE_LOVE",
       "SetID": "dhjj31a",
       "Name": "Spread the Love",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -298,8 +298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:06:38.6788728+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:06:24.4354548+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.6083199+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:57:36.3031367+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:06:38.6788833+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:57:45.5158515+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:06:24.4354642+00:00"
 }

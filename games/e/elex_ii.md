@@ -20,7 +20,7 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 9.00% | ~10 |
 | Berserker | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
-| Eternal Oblivion | 7.00% | ~8 |
+| Eternal Oblivion | 8.00% | ~9 |
 | Storyteller | 5.00% | ~6 |
 | Hotshot | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |

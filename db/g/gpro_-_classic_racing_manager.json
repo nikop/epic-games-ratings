@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2023-12-26T21:10:08.8963676+00:00",
       "NumProgressed": 506,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T19:10:52.0657852+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1188,9 +1193,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1252,9 +1257,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2485,14 +2490,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:11:29.1115865+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:52.0657845+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.345684+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:57:47.767038+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:11:29.1118142+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:57:56.185221+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:52.0660044+00:00"
 }

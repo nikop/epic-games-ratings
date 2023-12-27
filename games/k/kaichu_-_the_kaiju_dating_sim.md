@@ -12,11 +12,11 @@
 | Royal Romance | 34.00% | ~15 |
 | Speed Dating | 25.00% | ~11 |
 | Love is in the Air | 23.00% | ~10 |
+| Spread the Love | 23.00% | ~10 |
 | A Heated Affair | 20.00% | ~9 |
-| Spread the Love | 20.00% | ~9 |
 | Short Distance Relationship | 18.00% | ~8 |
+| Out of Your Shell | 16.00% | ~7 |
 | Long Distance Relationship | 14.00% | ~6 |
-| Out of Your Shell | 14.00% | ~6 |
 | Polyamorousasaurus | 11.00% | ~5 |
 | Loved and Lost | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)

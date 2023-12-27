@@ -20,9 +20,9 @@
 | Ads Fan | 12.00% | ~4 |
 | Highway Survival | 12.00% | ~4 |
 | Sugar Pills Lover | 12.00% | ~4 |
+| Tramp Saver | 12.00% | ~4 |
 | Chipmunk | 9.00% | ~3 |
 | Paw Music | 9.00% | ~3 |
-| Tramp Saver | 9.00% | ~3 |
 | Bear Cop | 6.00% | ~2 |
 | Secret Locker | 6.00% | ~2 |
 | Toilets Tormentor | 3.00% | ~1 |

@@ -6,13 +6,13 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,128 |
+| Venture Outward | 73.00% | ~3,129 |
 | Ready for Winter | 62.00% | ~2,657 |
 | Ready for Summer | 49.00% | ~2,100 |
 | Cordon Bleu | 41.00% | ~1,757 |
 | Tapped! | 35.00% | ~1,500 |
 | Eureka | 30.00% | ~1,286 |
-| Scourge Slayer | 24.00% | ~1,028 |
+| Scourge Slayer | 24.00% | ~1,029 |
 | Science, Troglodyte! | 22.00% | ~943 |
 | Exceptional Skill | 21.00% | ~900 |
 | Home Sweet Home | 21.00% | ~900 |
@@ -46,10 +46,10 @@ Number of Ratings: 266  (23.09.2022)
 | They'll Tell Stories About This | 0.90% | ~39 |
 | Through fire and flame. | 0.70% | ~30 |
 | Legacy of a master hunter | 0.40% | ~17 |
-| Master of Aurai | 0.40% | ~17 |
+| Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,285 (Ranked 204)  
+Progressed: 4,286 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 5 (0.12%) (Ranked 301)
 | 2023-12-24 | 4,222 | 5 |
 | 2023-12-25 | 4,244 | 5 |
 | 2023-12-26 | 4,272 | 5 |
-| 2023-12-27 | 4,285 | 5 |
+| 2023-12-27 | 4,286 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 495)  
 Sum: 246 (Ranked 396)  

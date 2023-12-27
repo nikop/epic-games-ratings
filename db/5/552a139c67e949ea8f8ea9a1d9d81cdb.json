@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1685,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4362,9 +4362,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4503,8 +4503,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:08:41.0585314+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:08:17.6196545+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:01:52.5953796+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:08:41.0585818+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:01:40.0946362+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:08:17.6196965+00:00"
 }

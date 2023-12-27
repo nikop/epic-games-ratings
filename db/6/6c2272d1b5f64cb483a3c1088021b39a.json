@@ -4654,9 +4654,9 @@
       "ID": "adventurous_3",
       "SetID": "53c1p3k",
       "Name": "Adventurous 3",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "archmage_1",
@@ -5054,9 +5054,9 @@
       "ID": "sophisticated_alchemist_2",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 2",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -5173,8 +5173,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:11:26.6799363+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:49.5452222+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.3782572+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:58:09.784339+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:11:26.6800105+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:58:15.7800598+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:49.5452807+00:00"
 }

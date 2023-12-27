@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.50% | ~80 |
 | Hanging Gardens | 0.50% | ~80 |
 | Able | 0.40% | ~64 |
+| Ambitious | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 0.40% | ~64 |
 | Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
-| Ambitious | 0.30% | ~48 |
 | Brilliant | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,975 (Ranked 163)  
+Progressed: 15,976 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
-| 2023-12-27 | 15,975 | 5 |
+| 2023-12-27 | 15,976 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,911 (Ranked 220)  

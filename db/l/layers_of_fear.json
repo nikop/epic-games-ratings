@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -964,6 +964,11 @@
       "Time": "2023-12-27T15:08:19.5714887+00:00",
       "NumProgressed": 212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T19:08:34.4806558+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1032,7 +1037,7 @@
       "Name": "We Are Not Alone",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "collect_most_of_posters",
@@ -1056,7 +1061,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "decrypt_one_myth",
@@ -1080,7 +1085,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "do_what_you_have_to",
@@ -1088,7 +1093,7 @@
       "Name": "Do what you have to",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "earn_all_trophies",
@@ -1104,7 +1109,7 @@
       "Name": "Face your fears",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1150,9 +1155,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "finished_it",
@@ -1240,7 +1245,7 @@
       "Name": "The Perfect Storm",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "piece_of_story",
@@ -1248,7 +1253,7 @@
       "Name": "A piece of the story",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "playtime",
@@ -1312,7 +1317,7 @@
       "Name": "Something important",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "spy_one_item",
@@ -1374,9 +1379,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1391,14 +1396,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:08:59.6366764+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:08:34.4806553+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:35.1622389+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:08:59.636716+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:32.8400201+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:08:34.4806978+00:00"
 }

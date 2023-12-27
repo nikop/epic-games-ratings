@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1111,6 +1111,11 @@
       "Time": "2023-12-27T17:09:06.6300277+00:00",
       "NumProgressed": 216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T19:09:27.0601334+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1121,7 +1126,7 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 153
     },
@@ -1131,7 +1136,7 @@
       "Name": "Ultimate Smoothie",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
@@ -1153,7 +1158,7 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 99
     },
@@ -1195,7 +1200,7 @@
       "Name": "Cult Following",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1235,7 +1240,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1249,9 +1254,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1259,7 +1264,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1267,7 +1272,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1275,7 +1280,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1289,9 +1294,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1299,7 +1304,7 @@
       "Name": "Kaijuiced",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1313,9 +1318,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1323,7 +1328,7 @@
       "Name": "Die Nasty",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1339,7 +1344,7 @@
       "Name": "Deincarnated",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_KILL_WARSHIP",
@@ -1369,9 +1374,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1379,7 +1384,7 @@
       "Name": "Upgreatest",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1411,7 +1416,7 @@
       "Name": "Dusted",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1451,30 +1456,30 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 219,
       "Completed": 1
     }
   ],
@@ -1482,8 +1487,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:09:56.852441+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:09:27.060133+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:16.4369972+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:09:56.8524741+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:16.0478644+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:09:27.0601645+00:00"
 }

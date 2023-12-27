@@ -5,9 +5,9 @@
   "Ranking_Rating": 1021,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3181,6 +3181,11 @@
       "Time": "2023-12-27T13:06:55.9656826+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T19:05:09.2086969+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3192,7 +3197,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACH001",
@@ -3248,7 +3253,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH008",
@@ -3256,15 +3261,15 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH009",
       "SetID": "69nfp41",
       "Name": "Capitalist",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH010",
@@ -3272,7 +3277,7 @@
       "Name": "Conglomerate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH011",
@@ -3280,7 +3285,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH012",
@@ -3288,7 +3293,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH013",
@@ -3296,7 +3301,7 @@
       "Name": "In a mint condition",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH014",
@@ -3304,7 +3309,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH015",
@@ -3398,9 +3403,9 @@
       "ID": "ACH026",
       "SetID": "69nfp41",
       "Name": "Raiders of the Lost Ark",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH027",
@@ -3408,15 +3413,15 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH028",
       "SetID": "69nfp41",
       "Name": "Traffic chaos",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH029",
@@ -3432,7 +3437,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH031",
@@ -3502,9 +3507,9 @@
       "ID": "ACH039",
       "SetID": "69nfp41",
       "Name": "Panel of experts",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH040",
@@ -3591,15 +3596,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:05:17.3373708+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:05:09.2086965+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.1308306+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:28.4459681+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:05:17.3374162+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:25.6512409+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:05:09.2087396+00:00"
 }

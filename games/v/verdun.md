@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,780 |
-| Worth it | 63.00% | ~42,630 |
-| Eagle Eye | 55.00% | ~37,217 |
-| Corpseman I | 40.00% | ~27,067 |
-| Blast fishing | 37.00% | ~25,037 |
-| Not alone | 32.00% | ~21,653 |
-| Headhunter I | 26.00% | ~17,593 |
-| Manual Labour I | 25.00% | ~16,917 |
-| Developers, Developers, Developers | 24.00% | ~16,240 |
-| Basic Training | 23.00% | ~15,563 |
-| Furchtlos und Treu | 13.00% | ~8,797 |
-| Gott Mit Uns | 12.00% | ~8,120 |
-| This We'll Defend! | 9.00% | ~6,090 |
-| Providentiea Memor | 9.00% | ~6,090 |
-| For King and Country | 9.00% | ~6,090 |
-| Battle hardened | 8.00% | ~5,413 |
-| Anker wirf! | 8.00% | ~5,413 |
+| Setting an example | 78.00% | ~52,789 |
+| Worth it | 63.00% | ~42,637 |
+| Eagle Eye | 55.00% | ~37,223 |
+| Corpseman I | 39.00% | ~26,394 |
+| Blast fishing | 37.00% | ~25,041 |
+| Not alone | 32.00% | ~21,657 |
+| Headhunter I | 26.00% | ~17,596 |
+| Manual Labour I | 25.00% | ~16,920 |
+| Developers, Developers, Developers | 24.00% | ~16,243 |
+| Basic Training | 23.00% | ~15,566 |
+| Furchtlos und Treu | 13.00% | ~8,798 |
+| Gott Mit Uns | 12.00% | ~8,121 |
+| This We'll Defend! | 9.00% | ~6,091 |
+| Providentiea Memor | 9.00% | ~6,091 |
+| For King and Country | 9.00% | ~6,091 |
+| Battle hardened | 8.00% | ~5,414 |
+| Anker wirf! | 8.00% | ~5,414 |
 | Semper Fidelis! | 7.00% | ~4,737 |
 | Honneur et Patrie | 7.00% | ~4,737 |
-| In Treue Fest | 5.00% | ~3,383 |
-| Voor De Koning | 5.00% | ~3,383 |
-| Extreme Headhunter | 5.00% | ~3,383 |
+| In Treue Fest | 5.00% | ~3,384 |
+| Voor De Koning | 5.00% | ~3,384 |
+| Extreme Headhunter | 5.00% | ~3,384 |
 | Advance Australia | 4.00% | ~2,707 |
 | We Stand on Guard | 4.00% | ~2,707 |
 | Sidi Brahim | 4.00% | ~2,707 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,030 |
 | Silver x100 | 3.00% | ~2,030 |
 | Impavidum Ferient Bella! | 3.00% | ~2,030 |
-| Bronze x100 | 2.00% | ~1,353 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,353 |
+| Bronze x100 | 2.00% | ~1,354 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,354 |
 | Gold x100 | 1.00% | ~677 |
 | Hunting the Hun | 1.00% | ~677 |
 | #1 | 1.00% | ~677 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,667 (Ranked 113)  
+Progressed: 67,678 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-24 | 67,382 | 4 |
 | 2023-12-25 | 67,464 | 4 |
 | 2023-12-26 | 67,579 | 4 |
-| 2023-12-27 | 67,667 | 4 |
+| 2023-12-27 | 67,678 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
 Sum: 825 (Ranked 281)  

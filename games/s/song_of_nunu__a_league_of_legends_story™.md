@@ -6,32 +6,32 @@ Rating: 4.52 (Ranked 567)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,003 |
-| I Broke It | 73.00% | ~989 |
-| Better On Ice | 67.00% | ~908 |
-| Notai Notes | 66.00% | ~894 |
+| I Broke It | 73.00% | ~990 |
+| Better On Ice | 67.00% | ~909 |
+| Notai Notes | 66.00% | ~895 |
 | Blue Dreams | 65.00% | ~881 |
 | He's Famous! | 65.00% | ~881 |
-| Krugmazing | 64.00% | ~867 |
-| Cutie Poro | 64.00% | ~867 |
-| Moneyball | 60.00% | ~813 |
-| The Fire Below the Mountain | 60.00% | ~813 |
-| No Bites | 55.00% | ~745 |
-| Iceborn | 55.00% | ~745 |
-| Boom Things | 53.00% | ~718 |
+| Krugmazing | 64.00% | ~868 |
+| Cutie Poro | 64.00% | ~868 |
+| Moneyball | 60.00% | ~814 |
+| The Fire Below the Mountain | 60.00% | ~814 |
+| No Bites | 55.00% | ~746 |
+| Iceborn | 55.00% | ~746 |
+| Boom Things | 53.00% | ~719 |
 | Tear of Freedom | 52.00% | ~705 |
-| My Darkest Day | 48.00% | ~650 |
-| Rhythm Of Willump | 46.00% | ~623 |
-| The Relentless Storm | 46.00% | ~623 |
-| A Tragic Reminder | 45.00% | ~610 |
-| 3000 Year Blackout | 44.00% | ~596 |
-| So Close | 42.00% | ~569 |
-| The Finisher | 42.00% | ~569 |
+| My Darkest Day | 48.00% | ~651 |
+| Rhythm Of Willump | 46.00% | ~624 |
+| The Relentless Storm | 46.00% | ~624 |
+| A Tragic Reminder | 44.00% | ~597 |
+| 3000 Year Blackout | 44.00% | ~597 |
+| So Close | 42.00% | ~570 |
+| The Finisher | 42.00% | ~570 |
 | You Get Used To It | 41.00% | ~556 |
-| Family | 39.00% | ~528 |
-| Biggest Snowball Ever | 39.00% | ~528 |
-| Freeze The Ice Witch | 39.00% | ~528 |
-| Boosted! | 39.00% | ~528 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~528 |
+| Family | 39.00% | ~529 |
+| Biggest Snowball Ever | 39.00% | ~529 |
+| Freeze The Ice Witch | 39.00% | ~529 |
+| Boosted! | 39.00% | ~529 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~529 |
 | True Legends | 38.00% | ~515 |
 | It Is Not Over | 36.00% | ~488 |
 | Bullseye | 36.00% | ~488 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 567)
 | We Are Speed | 2.00% | ~27 |
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,355 (Ranked 261)  
+Progressed: 1,356 (Ranked 262)  
 Completed: 9 (0.66%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 9 (0.66%) (Ranked 201)
 | 2023-12-24 | 1,326 | 9 |
 | 2023-12-25 | 1,339 | 9 |
 | 2023-12-26 | 1,348 | 9 |
-| 2023-12-27 | 1,355 | 9 |
+| 2023-12-27 | 1,356 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

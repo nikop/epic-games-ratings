@@ -27,10 +27,10 @@ Rating: 4.63 (Ranked 353)
 | Azorian Anniversary | 0.60% | ~52 |
 | Skilled | 0.60% | ~52 |
 | Fae Farmer | 0.40% | ~35 |
+| Got to Catch Them All | 0.40% | ~35 |
 | Rumble in the Jumble | 0.40% | ~35 |
 | Fanatical Farmer | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
-| Got to Catch Them All | 0.30% | ~26 |
 | Scattered Scroll Scrounger | 0.30% | ~26 |
 | I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,7 +219,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5213,
+  "EOS_Progressed": 5214,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -1049,6 +1049,11 @@
       "Time": "2023-12-27T18:04:24.6216785+00:00",
       "NumProgressed": 5213,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-27T19:04:20.8216426+00:00",
+      "NumProgressed": 5214,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1092,7 +1097,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -1140,7 +1145,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -1164,7 +1169,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1188,7 +1193,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1196,7 +1201,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1212,7 +1217,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1236,7 +1241,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1268,7 +1273,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1284,7 +1289,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1300,7 +1305,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1308,7 +1313,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1348,7 +1353,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5110
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1404,7 +1409,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1436,7 +1441,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1444,22 +1449,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3701
+      "UsersEstimate": 3702
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5213,
+      "Progressed": 5214,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:04:24.6216779+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:04:20.8216422+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.6670985+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:58:59.8561186+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:04:24.6217088+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:01.1753422+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:04:20.8216729+00:00"
 }

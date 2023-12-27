@@ -3,7 +3,7 @@
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
   "Ranking_Rating": 115,
-  "Ranking_Popularity": 114,
+  "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
@@ -3635,18 +3635,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 2810,
       "NumberOfAwardsMax": 2024
+    },
+    {
+      "Time": "2023-12-27T18:57:43.0426727+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2828,
+      "NumberOfAwardsMax": 2038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2810,
-  "NumberOfAwardsMax": 2024,
+  "NumberOfAwards": 2828,
+  "NumberOfAwardsMax": 2038,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2024
+      "Count": 2038
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3682,13 +3688,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 79
+      "Count": 81
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 80
+      "Count": 82
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3733,8 +3739,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-12-27T08:57:07.9273544+00:00",
+  "LastChanged": "2023-12-27T18:57:43.0426725+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.1237956+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:57:33.5263833+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:06:16.2014074+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:57:43.0426732+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:06:03.0784293+00:00"
 }

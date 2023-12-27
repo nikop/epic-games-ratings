@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4285,
+  "EOS_Progressed": 4286,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7116,6 +7116,11 @@
       "Time": "2023-12-27T18:04:35.4128571+00:00",
       "NumProgressed": 4285,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T19:04:30.5287046+00:00",
+      "NumProgressed": 4286,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7277,9 +7282,9 @@
       "ID": "MasterofAurai_20",
       "SetID": "c4hee28",
       "Name": "Master of Aurai",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "MemoryOfALegend_51",
@@ -7335,7 +7340,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7447,7 +7452,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3129
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7462,15 +7467,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4285,
+      "Progressed": 4286,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:04:35.4128565+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:04:30.5287042+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:03:30.1811898+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:04:35.4129164+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:03:31.5228646+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:04:30.5287605+00:00"
 }

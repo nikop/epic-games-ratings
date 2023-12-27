@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3761,
+  "EOS_Progressed": 3762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7268,6 +7268,11 @@
       "Time": "2023-12-27T18:04:52.2302672+00:00",
       "NumProgressed": 3761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T19:04:45.9941101+00:00",
+      "NumProgressed": 3762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7287,7 +7292,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_11",
@@ -7391,7 +7396,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_BASE_25",
@@ -7455,7 +7460,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_32",
@@ -7734,13 +7739,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1945,
+      "Progressed": 1946,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3761,
+      "Progressed": 3762,
       "Completed": 0
     }
   ],
@@ -7748,8 +7753,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:04:52.2302666+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:04:45.9941098+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:01:57.0806659+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:04:52.2303484+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:01:44.6345571+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:04:45.9941747+00:00"
 }

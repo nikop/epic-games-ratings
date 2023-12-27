@@ -9302,9 +9302,9 @@
       "ID": "COLLECT_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Got to Catch Them All",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "COLLECT_FISH",
@@ -9589,8 +9589,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:11:24.6521582+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:47.6909548+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:03:56.4802183+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:11:24.6522246+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:03:55.5015846+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:47.6910099+00:00"
 }

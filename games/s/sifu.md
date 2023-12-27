@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,852 |
-| Life is your teacher | 4.00% | ~29,852 |
-| The Assault | 3.00% | ~22,389 |
-| Lightning Hands | 3.00% | ~22,389 |
+| The Old Grandmaster | 4.00% | ~29,853 |
+| Life is your teacher | 4.00% | ~29,853 |
+| The Assault | 3.00% | ~22,390 |
+| Lightning Hands | 3.00% | ~22,390 |
 | The Hateful Pole Fighter | 2.00% | ~14,926 |
 | A Lady's Blood in the Snow | 2.00% | ~14,926 |
 | Stuntmaster | 2.00% | ~14,926 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 2.00% | ~14,926 |
 | Old Child | 2.00% | ~14,926 |
 | Rumble in the Hangar | 2.00% | ~14,926 |
-| Diligence as a goal | 2.00% | ~1,112 |
+| Diligence as a goal | 2.00% | ~1,113 |
 | Lady Wing Chun | 1.00% | ~7,463 |
 | Furious Fists | 1.00% | ~7,463 |
 | Kill Nil | 1.00% | ~7,463 |
@@ -30,7 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~556 |
 | Scareless | 0.90% | ~6,717 |
 | Kung-Fu Tussle | 0.90% | ~6,717 |
-| Dance of the Praying Mantis | 0.80% | ~5,970 |
+| Dance of the Praying Mantis | 0.80% | ~5,971 |
 | Fight the way you practice | 0.70% | ~389 |
 | Martial Hub | 0.60% | ~334 |
 | Muk Yan Master | 0.50% | ~3,732 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,985 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,985 |
 | Sword Stained With Blood | 0.40% | ~2,985 |
-| The best strikes are the ones we avoid | 0.40% | ~222 |
+| The best strikes are the ones we avoid | 0.40% | ~223 |
 | The Pit Protector | 0.30% | ~2,239 |
 | Come Snap With Me | 0.30% | ~2,239 |
 | Deadly Venom | 0.30% | ~167 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,300 (Ranked 23)  
+Progressed: 746,325 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,14 +318,14 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
-| 2023-12-27 | 746,300 | 12,967 |
+| 2023-12-27 | 746,325 | 12,967 |
 ## Awards
-Max (Great Boss Battles): 7,018  (Ranked 55)  
-Sum: 11,878 (Ranked 87)  
+Max (Great Boss Battles): 7,028  (Ranked 55)  
+Sum: 11,888 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,018 |
+| This game has Great Boss Battles | 7,028 |
 | This game has Diverse Characters | 685 |
 | This game has Challenging Combat | 631 |
 | This game has Amazing Storytelling | 611 |
@@ -683,4 +683,4 @@ Diff (max vs sum): -32
 | 2023-12-24 | 4.82 | - | 6,999 | 12,282 |
 | 2023-12-25 | 4.82 | - | 7,010 | 12,297 |
 | 2023-12-26 | 4.82 | - | 7,018 | 11,874 |
-| 2023-12-27 | 4.82 | - | 7,018 | 11,878 |
+| 2023-12-27 | 4.82 | - | 7,028 | 11,888 |

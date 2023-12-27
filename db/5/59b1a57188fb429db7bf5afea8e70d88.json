@@ -4,7 +4,7 @@
   "ProductSlug": "dinobreak-307b09",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -335,9 +335,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -351,9 +351,9 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
@@ -406,8 +406,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:09:03.8596358+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:08:38.2623326+00:00",
   "LastUpdate_AppInfo": "2023-12-21T02:18:24.4177593+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:03:36.8221306+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:09:03.8596518+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:03:37.5499735+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:08:38.2623466+00:00"
 }

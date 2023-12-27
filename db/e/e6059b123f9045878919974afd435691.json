@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1226,
+  "EOS_Progressed": 1227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3249,6 +3249,11 @@
       "Time": "2023-12-27T13:13:01.4434467+00:00",
       "NumProgressed": 1226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T19:10:51.6672486+00:00",
+      "NumProgressed": 1227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3260,7 +3265,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3268,7 +3273,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3276,7 +3281,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3300,7 +3305,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3332,7 +3337,7 @@
       "Name": "Capraphobia",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3380,7 +3385,7 @@
       "Name": "Burnt Smell",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3458,9 +3463,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 442
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3500,7 +3505,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3652,7 +3657,7 @@
       "Name": "Night Snack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3700,7 +3705,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -3708,7 +3713,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3787,14 +3792,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1226,
+      "Progressed": 1227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:11:28.6982661+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:51.6672482+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:02:00.3760945+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:11:28.6983216+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:01:47.7544615+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:51.6673337+00:00"
 }

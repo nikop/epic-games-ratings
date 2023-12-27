@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "interactChest10",
@@ -863,9 +863,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "killLeshy30",
@@ -919,25 +919,25 @@
       "ID": "killStone500",
       "SetID": "ci65fo0",
       "Name": "Epic Stone Crusher",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "killTree100",
       "SetID": "ci65fo0",
       "Name": "Tree Hater",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "killTree50",
       "SetID": "ci65fo0",
       "Name": "Lumberjack",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "killZombie10",
@@ -959,9 +959,9 @@
       "ID": "locBanditBoss",
       "SetID": "ci65fo0",
       "Name": "The Reds camp",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "locCompDungeon10",
@@ -991,9 +991,9 @@
       "ID": "locDungeon2",
       "SetID": "ci65fo0",
       "Name": "Bone cave",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "locGoblins",
@@ -1063,17 +1063,17 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "questCemetery",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "questCemetery2",
@@ -1119,9 +1119,9 @@
       "ID": "questDefender",
       "SetID": "ci65fo0",
       "Name": "Defender",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "questDetective",
@@ -1143,9 +1143,9 @@
       "ID": "questGenerous",
       "SetID": "ci65fo0",
       "Name": "Generous",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "questHallucinationsKing",
@@ -1308,8 +1308,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:10:49.4942858+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:14.3531502+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.1748657+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:59:50.8605944+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:10:49.4943413+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:59:47.0102309+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:14.3532033+00:00"
 }

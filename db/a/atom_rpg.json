@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1514,
+  "EOS_Progressed": 1515,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3799,6 +3799,11 @@
       "Time": "2023-12-27T17:10:04.6294722+00:00",
       "NumProgressed": 1514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T19:10:39.585043+00:00",
+      "NumProgressed": 1515,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3866,7 +3871,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "EXPERT_1",
@@ -3882,7 +3887,7 @@
       "Name": "Explorer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3904,17 +3909,17 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 258
     },
     {
       "ID": "INDY_1",
       "SetID": "bf13m8j",
       "Name": "Indy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 45
     },
     {
       "ID": "KORALOV",
@@ -4066,7 +4071,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "VVE",
@@ -4097,15 +4102,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1514,
+      "Progressed": 1515,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-27T18:11:15.915324+00:00",
+  "LastChanged_Achievements": "2023-12-27T19:10:39.5850426+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:58:30.6743686+00:00",
-  "LastUpdate_Achievements": "2023-12-27T18:11:15.9153666+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:58:35.409664+00:00",
+  "LastUpdate_Achievements": "2023-12-27T19:10:39.5850762+00:00"
 }

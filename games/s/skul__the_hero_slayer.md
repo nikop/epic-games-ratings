@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~11,871 |
-| What should I buy? | 81.00% | ~10,339 |
-| Rescued Elder Ent | 61.00% | ~7,786 |
-| Focus! | 60.00% | ~7,658 |
-| The End of the Gold Mane Knights | 47.00% | ~5,999 |
-| False Goddess, Disappear | 38.00% | ~4,850 |
+| The Legend Begins | 93.00% | ~11,872 |
+| What should I buy? | 81.00% | ~10,340 |
+| Rescued Elder Ent | 61.00% | ~7,787 |
+| Focus! | 60.00% | ~7,660 |
+| The End of the Gold Mane Knights | 47.00% | ~6,000 |
+| False Goddess, Disappear | 38.00% | ~4,851 |
 | Rules of Etiquette | 37.00% | ~4,723 |
 | Inventory Management | 31.00% | ~3,957 |
-| Quick Movements | 30.00% | ~3,829 |
+| Quick Movements | 30.00% | ~3,830 |
 | The Fall of the Leonia Order | 29.00% | ~3,702 |
 | Go Home... | 26.00% | ~3,319 |
-| The Final Battle of the First Hero | 25.00% | ~3,191 |
-| The Hero Killer | 24.00% | ~3,063 |
+| The Final Battle of the First Hero | 25.00% | ~3,192 |
+| The Hero Killer | 24.00% | ~3,064 |
 | Brain at Full Throttle | 20.00% | ~2,553 |
 | Rookies Welcome | 18.00% | ~2,298 |
 | Deadly Power | 15.00% | ~1,915 |
 | Castle Restoration Plans | 12.00% | ~1,532 |
-| The Dwarven Chandelier | 10.00% | ~1,276 |
+| The Dwarven Chandelier | 10.00% | ~1,277 |
 | Master of Speed | 9.00% | ~1,149 |
-| The Levitator | 7.00% | ~893 |
+| The Levitator | 7.00% | ~894 |
 | The God of Battle | 4.00% | ~511 |
 | Too Much of a Talker | 1.00% | ~128 |
 | The Skeleton King | 1.00% | ~128 |
 | Cold-Blooded | 0.60% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,764 (Ranked 171)  
+Progressed: 12,766 (Ranked 171)  
 Completed: 18 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 18 (0.14%) (Ranked 293)
 | 2023-12-24 | 12,351 | 18 |
 | 2023-12-25 | 12,498 | 18 |
 | 2023-12-26 | 12,633 | 18 |
-| 2023-12-27 | 12,764 | 18 |
+| 2023-12-27 | 12,766 | 18 |
 ## Awards
 Max (Great for Beginners): 145  (Ranked 329)  
 Sum: 971 (Ranked 269)  
