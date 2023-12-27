@@ -1,58 +1,58 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.73 (Ranked 173)  
+Rating: 4.73 (Ranked 174)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 9.00% | ~24,122 |
-| First of Many | 8.00% | ~21,442 |
-| Not Your Average Trait | 6.00% | ~16,081 |
-| Expanding Horizons | 5.00% | ~13,401 |
-| Quest for Survival | 5.00% | ~13,401 |
-| Boss'n Up | 5.00% | ~13,401 |
-| Gleaming the Cube | 4.00% | ~10,721 |
-| Not So Special Now | 4.00% | ~10,721 |
-| Not a Janitor | 4.00% | ~10,721 |
-| Familiar Face | 4.00% | ~10,721 |
-| Duality | 4.00% | ~10,721 |
-| Trait Chaser | 4.00% | ~10,721 |
-| Equal Measures | 3.00% | ~8,041 |
-| Blue Goddess | 3.00% | ~8,041 |
-| Top Performer | 3.00% | ~8,041 |
-| Shhh...It's a Secret | 3.00% | ~8,041 |
-| Was This Supposed To Happen? | 3.00% | ~8,041 |
-| Almost There | 3.00% | ~8,041 |
-| Make Some Room | 3.00% | ~8,041 |
-| Good, But Could Be Better! | 3.00% | ~8,041 |
-| Am I Seeing This? | 2.00% | ~5,360 |
-| Chaos | 2.00% | ~5,360 |
-| Traitor | 2.00% | ~5,360 |
-| Forever is a Long Time Coming | 2.00% | ~5,360 |
-| Power Surge | 2.00% | ~5,360 |
-| The God Gambit | 2.00% | ~5,360 |
-| Dark Designs | 2.00% | ~5,360 |
-| Madman's Paradise | 2.00% | ~5,360 |
-| The Agenda | 2.00% | ~5,360 |
-| Bad Moon Rising | 2.00% | ~5,360 |
-| Strapped | 2.00% | ~5,360 |
-| Edgelord | 2.00% | ~5,360 |
-| The Web | 2.00% | ~5,360 |
-| Scrap Collector | 2.00% | ~5,360 |
-| All These Traits� | 2.00% | ~5,360 |
-| Regicide | 2.00% | ~944 |
-| Only Human | 1.00% | ~2,680 |
-| Red Room | 1.00% | ~2,680 |
-| Tall Tales | 1.00% | ~2,680 |
-| Scrap Hoarder | 1.00% | ~2,680 |
-| Carnage in C-Minor | 1.00% | ~2,680 |
-| The Ultimate Weapon | 1.00% | ~2,680 |
-| No One Should Have All That Power | 1.00% | ~2,680 |
-| Maxed Out! | 1.00% | ~2,680 |
-| Transmutate | 1.00% | ~2,680 |
+| The Killing Jar | 9.00% | ~24,126 |
+| First of Many | 8.00% | ~21,445 |
+| Not Your Average Trait | 6.00% | ~16,084 |
+| Expanding Horizons | 5.00% | ~13,403 |
+| Quest for Survival | 5.00% | ~13,403 |
+| Boss'n Up | 5.00% | ~13,403 |
+| Gleaming the Cube | 4.00% | ~10,723 |
+| Not So Special Now | 4.00% | ~10,723 |
+| Not a Janitor | 4.00% | ~10,723 |
+| Familiar Face | 4.00% | ~10,723 |
+| Duality | 4.00% | ~10,723 |
+| Trait Chaser | 4.00% | ~10,723 |
+| Equal Measures | 3.00% | ~8,042 |
+| Blue Goddess | 3.00% | ~8,042 |
+| Top Performer | 3.00% | ~8,042 |
+| Shhh...It's a Secret | 3.00% | ~8,042 |
+| Was This Supposed To Happen? | 3.00% | ~8,042 |
+| Almost There | 3.00% | ~8,042 |
+| Make Some Room | 3.00% | ~8,042 |
+| Good, But Could Be Better! | 3.00% | ~8,042 |
+| Am I Seeing This? | 2.00% | ~5,361 |
+| Chaos | 2.00% | ~5,361 |
+| Traitor | 2.00% | ~5,361 |
+| Forever is a Long Time Coming | 2.00% | ~5,361 |
+| Power Surge | 2.00% | ~5,361 |
+| The God Gambit | 2.00% | ~5,361 |
+| Dark Designs | 2.00% | ~5,361 |
+| Madman's Paradise | 2.00% | ~5,361 |
+| The Agenda | 2.00% | ~5,361 |
+| Bad Moon Rising | 2.00% | ~5,361 |
+| Strapped | 2.00% | ~5,361 |
+| Edgelord | 2.00% | ~5,361 |
+| The Web | 2.00% | ~5,361 |
+| Scrap Collector | 2.00% | ~5,361 |
+| All These Traits� | 2.00% | ~5,361 |
+| Regicide | 2.00% | ~945 |
+| Only Human | 1.00% | ~2,681 |
+| Red Room | 1.00% | ~2,681 |
+| Tall Tales | 1.00% | ~2,681 |
+| Scrap Hoarder | 1.00% | ~2,681 |
+| Carnage in C-Minor | 1.00% | ~2,681 |
+| The Ultimate Weapon | 1.00% | ~2,681 |
+| No One Should Have All That Power | 1.00% | ~2,681 |
+| Maxed Out! | 1.00% | ~2,681 |
+| Transmutate | 1.00% | ~2,681 |
 | Master of the Dark Arts | 1.00% | ~472 |
-| Crafty | 0.80% | ~2,144 |
-| Ghost in the Machine | 0.80% | ~2,144 |
+| Crafty | 0.80% | ~2,145 |
+| Ghost in the Machine | 0.80% | ~2,145 |
 | The Trigger | 0.70% | ~1,876 |
 | The Collector | 0.70% | ~1,876 |
 | Cutting Edge | 0.60% | ~1,608 |
@@ -61,7 +61,7 @@ Rating: 4.73 (Ranked 173)
 | You Shall Pass | 0.40% | ~189 |
 | A Foul Feast | 0.30% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268,021 (Ranked 61)  
+Progressed: 268,064 (Ranked 61)  
 Completed: 673 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 673 (0.25%) (Ranked 264)
 | 2023-12-24 | 264,451 | 643 |
 | 2023-12-25 | 266,094 | 657 |
 | 2023-12-26 | 267,712 | 671 |
-| 2023-12-27 | 268,021 | 673 |
+| 2023-12-27 | 268,064 | 673 |
 ## Awards
 Max (Great Boss Battles): 4,205  (Ranked 85)  
 Sum: 9,357 (Ranked 95)  

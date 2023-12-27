@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-12-27T06:05:52.2899414+00:00",
       "NumProgressed": 415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T07:05:40.0796333+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1297,9 +1302,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1387,7 +1392,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1434,15 +1439,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:05:52.2899412+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:05:40.0796329+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:00:13.9373647+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:05:52.2899629+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:00:13.5804493+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:05:40.0796546+00:00"
 }

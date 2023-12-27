@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1327,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2602,6 +2602,11 @@
       "Time": "2023-12-27T05:09:43.3398301+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T07:10:50.1863504+00:00",
+      "NumProgressed": 1327,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2613,7 +2618,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_02",
@@ -2669,7 +2674,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_09",
@@ -2685,7 +2690,7 @@
       "Name": "Trinity",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_11",
@@ -2709,7 +2714,7 @@
       "Name": "Adventurer",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_14",
@@ -2733,7 +2738,7 @@
       "Name": "Essence Blow",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_17",
@@ -2757,7 +2762,7 @@
       "Name": "Slayer",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_20",
@@ -2765,7 +2770,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_21",
@@ -2797,7 +2802,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_25",
@@ -2805,7 +2810,7 @@
       "Name": "Fashion Victim",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_26",
@@ -2813,7 +2818,7 @@
       "Name": "Scholar",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_27",
@@ -2845,7 +2850,7 @@
       "Name": "Alchemist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_31",
@@ -2853,7 +2858,7 @@
       "Name": "Stone Collection",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_33",
@@ -2885,7 +2890,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_38",
@@ -2900,7 +2905,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1327,
       "Completed": 3
     }
   ],
@@ -2908,8 +2913,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:10:43.5185043+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:10:50.1863501+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:02:49.3747201+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:10:43.518544+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:02:44.8027766+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:10:50.1863842+00:00"
 }

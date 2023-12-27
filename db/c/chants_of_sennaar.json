@@ -73,11 +73,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1863,
+  "EOS_Progressed": 1864,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 5.96,
+  "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5403,6 +5403,11 @@
       "Time": "2023-12-27T06:05:19.2429392+00:00",
       "NumProgressed": 1863,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-12-27T07:05:08.3386788+00:00",
+      "NumProgressed": 1864,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 25,
@@ -5446,7 +5451,7 @@
       "Name": "A good beginning",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "META_HALF_LINK",
@@ -5478,7 +5483,7 @@
       "Name": "Feels like springtime",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5558,7 +5563,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5574,7 +5579,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "PROGRESS_N2",
@@ -5582,7 +5587,7 @@
       "Name": "The great escape",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "PROGRESS_N3",
@@ -5606,14 +5611,14 @@
       "Name": "One last step",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1863,
+      "Progressed": 1864,
       "Completed": 111
     }
   ],
@@ -5621,8 +5626,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-26T03:57:38.7311575+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:05:19.2429388+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:05:08.3386785+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:58:32.4981264+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:05:19.2429917+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:58:34.3647158+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:05:08.3387179+00:00"
 }

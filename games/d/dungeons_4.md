@@ -14,8 +14,8 @@
 | Bad Elves Go Everywhere | 69.00% | ~446 |
 | Thalya's Concentrated Fury | 68.00% | ~439 |
 | Master of Magic | 63.00% | ~407 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~407 |
 | Heroes’ Gorge | 63.00% | ~407 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~401 |
 | Magic Accidents | 59.00% | ~381 |
 | The Ascent | 58.00% | ~375 |
 | It's Warm and Cozy at Home | 58.00% | ~375 |

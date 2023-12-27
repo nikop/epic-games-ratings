@@ -26,6 +26,7 @@ Rating: 3.58 (Ranked 1,069)
 | Radio Silence | 3.00% | ~63 |
 | Sic Transit Umbra | 2.00% | ~42 |
 | Bell-ringer | 2.00% | ~42 |
+| Silence Is Golden | 2.00% | ~42 |
 | Good Morning | 2.00% | ~42 |
 | From the Shadows | 2.00% | ~42 |
 | Starve the Beast | 2.00% | ~42 |
@@ -35,7 +36,6 @@ Rating: 3.58 (Ranked 1,069)
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
 | Block Party | 1.00% | ~21 |
-| Silence Is Golden | 1.00% | ~21 |
 | You Clean It Up | 1.00% | ~21 |
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |

@@ -305,9 +305,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2535,
+  "EOS_Progressed": 2536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7265,6 +7265,11 @@
       "Time": "2023-12-27T04:08:13.4990764+00:00",
       "NumProgressed": 2535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T07:08:26.2711969+00:00",
+      "NumProgressed": 2536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7340,7 +7345,7 @@
       "Name": "Conductor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "A09",
@@ -7356,7 +7361,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "A11",
@@ -7372,7 +7377,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "A13",
@@ -7380,7 +7385,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "A14",
@@ -7388,7 +7393,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "A15",
@@ -7452,7 +7457,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "A23",
@@ -7500,7 +7505,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "A29",
@@ -7564,7 +7569,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "A37",
@@ -7572,7 +7577,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "A38",
@@ -7596,7 +7601,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "A41",
@@ -7644,7 +7649,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "A47",
@@ -7652,7 +7657,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "A48",
@@ -7660,7 +7665,7 @@
       "Name": "Bull and bear",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "A49",
@@ -7692,7 +7697,7 @@
       "Name": "Socializer",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "A53",
@@ -7715,7 +7720,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2535,
+      "Progressed": 2536,
       "Completed": 0
     }
   ],
@@ -7723,8 +7728,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-25T16:59:26.7717636+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:08:14.5434645+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:08:26.2711967+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:00:28.1670269+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:08:14.5435403+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:00:27.0633377+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:08:26.2712672+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -394,7 +394,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5080,
+  "EOS_Progressed": 5081,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -4144,6 +4144,11 @@
       "Time": "2023-12-27T06:05:42.9831107+00:00",
       "NumProgressed": 5080,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-27T07:05:31.174616+00:00",
+      "NumProgressed": 5081,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4203,7 +4208,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4211,7 +4216,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4339,7 +4344,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4371,7 +4376,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4403,7 +4408,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4427,7 +4432,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4435,7 +4440,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4475,7 +4480,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4690,15 +4695,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5080,
+      "Progressed": 5081,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:05:42.9831102+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:05:31.1746157+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:59:37.3229414+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:05:42.9831861+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:59:37.710186+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:05:31.1746771+00:00"
 }

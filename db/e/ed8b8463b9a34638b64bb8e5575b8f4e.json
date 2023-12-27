@@ -507,9 +507,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "cold_feet",
@@ -675,9 +675,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "the_swell_celebration",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:10:30.7858188+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:10:37.9278241+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:10.0357966+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:00:33.7459091+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:10:30.7858356+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:00:32.8849592+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:10:37.9278389+00:00"
 }

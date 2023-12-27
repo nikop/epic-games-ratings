@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1566,6 +1566,11 @@
       "Time": "2023-12-27T05:05:59.1889041+00:00",
       "NumProgressed": 354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T07:07:22.6107581+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1577,7 +1582,7 @@
       "Name": "Lover of classics",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1673,7 +1678,7 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1727,9 +1732,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ETUA_OutRage",
@@ -1769,7 +1774,7 @@
       "Name": "Rest In Peace",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ETUA_SUPER",
@@ -1833,7 +1838,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1873,7 +1878,7 @@
       "Name": "Trapped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1896,7 +1901,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 1
     }
   ],
@@ -1904,8 +1909,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:07:39.264974+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:07:22.6107574+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:59:00.3315776+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:07:39.2650101+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:59:01.827441+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:07:22.6107894+00:00"
 }

@@ -1,34 +1,34 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.41 (Ranked 739)  
+Rating: 4.41 (Ranked 738)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 62.00% | ~203,353 |
-| Destroyer-In-Chief | 56.00% | ~183,674 |
-| There Is No Pancakes | 53.00% | ~173,834 |
-| First of Many | 41.00% | ~134,475 |
-| Woah. | 36.00% | ~118,076 |
-| Don't Look Down | 28.00% | ~91,837 |
-| Don't Panic | 27.00% | ~88,557 |
-| Ooo A Piece of Candy! | 22.00% | ~72,158 |
-| Ghost in the Machine | 17.00% | ~55,758 |
-| All Too Easy | 15.00% | ~49,198 |
-| Didn't Need to See Him Naked | 13.00% | ~42,639 |
-| Indomitable | 10.00% | ~32,799 |
-| Bow to the Boss! | 9.00% | ~29,519 |
-| Friend of the Raptors | 9.00% | ~29,519 |
-| About Time! | 8.00% | ~26,239 |
-| Blast from the Past | 8.00% | ~26,239 |
-| Actor-Turned-Politician | 7.00% | ~22,959 |
-| Betrayed | 7.00% | ~22,959 |
-| Maximum Stopping Power | 7.00% | ~22,959 |
-| Keymaster | 6.00% | ~19,679 |
-| Poodle Skirt | 6.00% | ~19,679 |
-| You Chose... Poorly | 6.00% | ~19,679 |
-| Double Team | 5.00% | ~16,399 |
-| Imperator | 5.00% | ~16,399 |
+| Zero Saints Thirty | 62.00% | ~203,361 |
+| Destroyer-In-Chief | 56.00% | ~183,681 |
+| There Is No Pancakes | 53.00% | ~173,841 |
+| First of Many | 41.00% | ~134,481 |
+| Woah. | 36.00% | ~118,081 |
+| Don't Look Down | 28.00% | ~91,841 |
+| Don't Panic | 27.00% | ~88,561 |
+| Ooo A Piece of Candy! | 22.00% | ~72,160 |
+| Ghost in the Machine | 17.00% | ~55,760 |
+| All Too Easy | 15.00% | ~49,200 |
+| Didn't Need to See Him Naked | 13.00% | ~42,640 |
+| Indomitable | 10.00% | ~32,800 |
+| Bow to the Boss! | 9.00% | ~29,520 |
+| Friend of the Raptors | 9.00% | ~29,520 |
+| About Time! | 8.00% | ~26,240 |
+| Blast from the Past | 8.00% | ~26,240 |
+| Actor-Turned-Politician | 7.00% | ~22,960 |
+| Betrayed | 7.00% | ~22,960 |
+| Maximum Stopping Power | 7.00% | ~22,960 |
+| Keymaster | 6.00% | ~19,680 |
+| Poodle Skirt | 6.00% | ~19,680 |
+| You Chose... Poorly | 6.00% | ~19,680 |
+| Double Team | 5.00% | ~16,400 |
+| Imperator | 5.00% | ~16,400 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~13,120 |
 | Half Way Home | 4.00% | ~13,120 |
 | How It Should Be | 4.00% | ~13,120 |
@@ -78,7 +78,7 @@ Rating: 4.41 (Ranked 739)
 | Super Power Team Up! | 0.10% | ~328 |
 | Ultimate Hot Potato | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,989 (Ranked 56)  
+Progressed: 328,002 (Ranked 56)  
 Completed: 17 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 17 (0.01%) (Ranked 367)
 | 2023-12-24 | 326,205 | 17 |
 | 2023-12-25 | 327,010 | 17 |
 | 2023-12-26 | 327,783 | 17 |
-| 2023-12-27 | 327,989 | 17 |
+| 2023-12-27 | 328,002 | 17 |
 ## Awards
 Max (Great Boss Battles): 511  (Ranked 217)  
 Sum: 511 (Ranked 330)  

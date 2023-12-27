@@ -6,16 +6,16 @@ Rating: 4.43 (Ranked 706)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,927 |
-| A new Journey | 75.00% | ~1,901 |
-| From X to Y | 74.00% | ~1,876 |
-| Departure | 74.00% | ~1,876 |
-| Way of Iron | 71.00% | ~1,800 |
-| Mystery Tour | 70.00% | ~1,774 |
-| We brake for nobody | 69.00% | ~1,749 |
-| Brainstorm | 66.00% | ~1,673 |
-| Mind the Gap | 66.00% | ~1,673 |
-| Travel Company | 66.00% | ~1,673 |
-| All around the World | 64.00% | ~1,622 |
+| A new Journey | 75.00% | ~1,902 |
+| From X to Y | 74.00% | ~1,877 |
+| Departure | 74.00% | ~1,877 |
+| Way of Iron | 71.00% | ~1,801 |
+| Mystery Tour | 70.00% | ~1,775 |
+| We brake for nobody | 69.00% | ~1,750 |
+| Brainstorm | 66.00% | ~1,674 |
+| Mind the Gap | 66.00% | ~1,674 |
+| Travel Company | 66.00% | ~1,674 |
+| All around the World | 64.00% | ~1,623 |
 | Right through the middle | 59.00% | ~1,496 |
 | Facility Manager | 54.00% | ~1,369 |
 | Poor Devil | 54.00% | ~1,369 |
@@ -24,17 +24,17 @@ Rating: 4.43 (Ranked 706)
 | Bridge Builder | 42.00% | ~1,065 |
 | Access granted | 36.00% | ~913 |
 | Going once, going twice, sold | 36.00% | ~913 |
-| Bull and bear | 35.00% | ~887 |
+| Bull and bear | 35.00% | ~888 |
 | Stoker | 34.00% | ~862 |
 | Full Steam ahead | 33.00% | ~837 |
 | All mine | 31.00% | ~786 |
 | Mole | 31.00% | ~786 |
 | Financial Shark | 31.00% | ~786 |
-| Socializer | 30.00% | ~760 |
+| Socializer | 30.00% | ~761 |
 | General Manager | 28.00% | ~710 |
 | Country Life | 28.00% | ~710 |
 | Hostile Takeover | 25.00% | ~634 |
-| Seven at one stroke | 24.00% | ~608 |
+| Seven at one stroke | 24.00% | ~609 |
 | Trailblazer | 22.00% | ~558 |
 | Traffic Junction | 22.00% | ~558 |
 | Breaking Ground | 22.00% | ~558 |
@@ -52,7 +52,7 @@ Rating: 4.43 (Ranked 706)
 | Call of Duty | 10.00% | ~254 |
 | Unstoppable | 9.00% | ~228 |
 | Track to the Future | 9.00% | ~228 |
-| Conductor | 7.00% | ~177 |
+| Conductor | 7.00% | ~178 |
 | Engineer | 4.00% | ~101 |
 | Let off some steam | 4.00% | ~101 |
 | Accurate | 4.00% | ~101 |
@@ -61,7 +61,7 @@ Rating: 4.43 (Ranked 706)
 | United States | 0.60% | ~15 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,535 (Ranked 228)  
+Progressed: 2,536 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 2,515 | 0 |
 | 2023-12-25 | 2,523 | 0 |
 | 2023-12-26 | 2,531 | 0 |
-| 2023-12-27 | 2,535 | 0 |
+| 2023-12-27 | 2,536 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

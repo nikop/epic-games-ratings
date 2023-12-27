@@ -7,27 +7,27 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 44.00% | ~341 |
-| Double Kill | 38.00% | ~294 |
+| Double Kill | 38.00% | ~295 |
 | Critical Hit | 20.00% | ~155 |
 | Veteran | 20.00% | ~155 |
-| Dressed For Success | 14.00% | ~108 |
+| Dressed For Success | 14.00% | ~109 |
 | Sorcerous Spree | 8.00% | ~62 |
 | Humiliation | 8.00% | ~62 |
 | Veni, Vidi, Vici | 8.00% | ~62 |
 | Multi Kill | 7.00% | ~54 |
 | Master | 7.00% | ~54 |
-| Whoops! | 6.00% | ~46 |
-| Landlord Extraordinaire | 6.00% | ~46 |
+| Whoops! | 6.00% | ~47 |
+| Landlord Extraordinaire | 6.00% | ~47 |
 | Don't Touch My Stuff | 5.00% | ~39 |
 | The Song of Stoutheart | 4.00% | ~31 |
 | Trojan Horse | 4.00% | ~31 |
 | Expert Essence Employment | 3.00% | ~23 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~23 |
-| This Spot's Taken | 2.00% | ~15 |
-| Deepstrike | 2.00% | ~15 |
-| Infernal Influence | 2.00% | ~15 |
-| Ultra Kill | 2.00% | ~15 |
-| Pyrrhic Victory | 2.00% | ~15 |
+| This Spot's Taken | 2.00% | ~16 |
+| Deepstrike | 2.00% | ~16 |
+| Infernal Influence | 2.00% | ~16 |
+| Ultra Kill | 2.00% | ~16 |
+| Pyrrhic Victory | 2.00% | ~16 |
 | Versatile Wielder | 1.00% | ~8 |
 | From the Ashes | 1.00% | ~8 |
 | Such A Fungi | 1.00% | ~8 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 298)  
+Progressed: 776 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,11 +108,11 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
 | 2023-12-26 | 773 | 0 |
-| 2023-12-27 | 774 | 0 |
+| 2023-12-27 | 776 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 529)  
+Max (Quickly Understood Controls): 27  (Ranked 530)  
 Sum: 194 (Ranked 414)  
-Diff (max vs sum): 115  
+Diff (max vs sum): 116  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

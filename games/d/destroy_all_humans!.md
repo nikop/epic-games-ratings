@@ -18,8 +18,8 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 46.00% | ~81 |
 | Fly Me to the Moon Base | 42.00% | ~74 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~74 |
+| Freshly Squeezed | 33.00% | ~58 |
 | Bodied Sattva | 33.00% | ~58 |
-| Freshly Squeezed | 32.00% | ~57 |
 | Upgreatest | 31.00% | ~55 |
 | Forbidden Donut | 29.00% | ~51 |
 | Furon Fashion | 25.00% | ~44 |

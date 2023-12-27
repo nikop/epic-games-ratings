@@ -12,8 +12,8 @@
 | Endless Tricks | 49.00% | ~121 |
 | Wild's Keeper | 47.00% | ~116 |
 | Mind Illuminator | 43.00% | ~106 |
+| Stellar Dismantler | 35.00% | ~86 |
 | Noctuan Champion | 35.00% | ~86 |
-| Stellar Dismantler | 34.00% | ~84 |
 | Anomaly Destroyer | 31.00% | ~77 |
 | Astral Adventurer | 30.00% | ~74 |
 | Star Killer | 26.00% | ~64 |
@@ -23,7 +23,7 @@
 | Apian Champion | 20.00% | ~49 |
 | Shard Spender | 17.00% | ~42 |
 | Unbeatable | 17.00% | ~42 |
-| Sadistic Plan | 15.00% | ~37 |
+| Sadistic Plan | 16.00% | ~40 |
 | Behenian Champion | 15.00% | ~37 |
 | Astral Seeker | 10.00% | ~25 |
 | Stellar Haste | 10.00% | ~25 |

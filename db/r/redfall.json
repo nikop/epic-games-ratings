@@ -311,7 +311,7 @@
   ],
   "EOS_Progressed": 2093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3556,9 +3556,9 @@
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement_024",
@@ -3925,8 +3925,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:08:23.0073755+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:08:34.4216694+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:57:02.2388623+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:08:23.0074445+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:57:07.3056029+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:08:34.4217343+00:00"
 }

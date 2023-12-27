@@ -12,10 +12,10 @@
 | Welcome to Seoul | 37.00% | ~43 |
 | Roller Race | 37.00% | ~43 |
 | Stilesville Hidden Style | 32.00% | ~37 |
-| Creating New Trends | 25.00% | ~29 |
+| Creating New Trends | 26.00% | ~30 |
+| Best Gala Ever | 25.00% | ~29 |
+| Welcome to the The Stylin' Soiree | 25.00% | ~29 |
 | Scooter Race | 25.00% | ~29 |
-| Best Gala Ever | 24.00% | ~28 |
-| Welcome to the The Stylin' Soiree | 24.00% | ~28 |
 | Barcelona Hidden Style | 20.00% | ~23 |
 | Seoul Hidden Style | 15.00% | ~17 |
 | Hoverboard Race | 8.00% | ~9 |

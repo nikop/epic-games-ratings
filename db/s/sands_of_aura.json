@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -610,6 +610,11 @@
       "Time": "2023-12-25T19:04:18.3925015+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T07:05:44.537307+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -822,7 +827,7 @@
       "Name": "Dousing a Venerable Flame",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -1006,7 +1011,7 @@
       "Name": "Advanced Armaments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -1022,7 +1027,7 @@
       "Name": "Setting Sail",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1030,7 +1035,7 @@
       "Name": "Spirit Within",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "UBAANI_MASTER",
@@ -1085,7 +1090,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
@@ -1093,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:05:57.1445905+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:05:44.5373066+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:03:10.9221135+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:05:57.1446475+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:03:05.8945055+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:05:44.5373429+00:00"
 }

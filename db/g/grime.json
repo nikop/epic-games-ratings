@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1747,10 +1747,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164805,
-  "EOS_Completed": 413,
-  "EOS_NewPlayers": 1383,
-  "EOS_NewCompleters": 55,
+  "EOS_Progressed": 164809,
+  "EOS_Completed": 414,
+  "EOS_NewPlayers": 1386,
+  "EOS_NewCompleters": 56,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20772,6 +20772,11 @@
       "Time": "2023-12-27T06:06:26.93946+00:00",
       "NumProgressed": 164805,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-12-27T07:06:12.8982744+00:00",
+      "NumProgressed": 164809,
+      "NumCompleted": 414
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20886,9 +20891,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 822
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -21151,21 +21156,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164388,
+      "Progressed": 164392,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164805,
-      "Completed": 413
+      "Progressed": 164809,
+      "Completed": 414
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:06:26.9394595+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:06:12.8982739+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:59:49.1320261+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:06:26.9396179+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:59:48.3624081+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:06:12.8983875+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1487,9 +1487,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "SanctuaryGuardian",
@@ -1543,9 +1543,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "StellarHaste",
@@ -1830,8 +1830,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:08:41.1144112+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:08:51.5176863+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:02:57.9954608+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:08:41.1145114+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:02:52.9642124+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:08:51.5177858+00:00"
 }

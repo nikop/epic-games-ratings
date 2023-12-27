@@ -12,14 +12,14 @@ Rating: 4.28 (Ranked 873)
 | Look Mom, I Can Fly | 25.00% | ~105 |
 | Wheeler Dealer | 24.00% | ~101 |
 | National Amateurs Champion | 20.00% | ~84 |
+| Hating Them Tin Cans | 17.00% | ~72 |
 | Trashing Around | 16.00% | ~67 |
-| Hating Them Tin Cans | 16.00% | ~67 |
 | Junk Collector | 15.00% | ~63 |
 | Challengers Champion | 13.00% | ~55 |
 | Pro Internationals Champion | 8.00% | ~34 |
 | Cash For Crashes | 7.00% | ~29 |
+| Maniac Driver | 5.00% | ~21 |
 | Showing Some Dedication | 4.00% | ~17 |
-| Maniac Driver | 4.00% | ~17 |
 | World Masters Champion | 3.00% | ~13 |
 | Garden Variety | 2.00% | ~8 |
 | Glutton For Punishment | 1.00% | ~4 |

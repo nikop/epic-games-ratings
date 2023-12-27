@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24153,
+  "EOS_Progressed": 24155,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -21178,6 +21178,11 @@
       "Time": "2023-12-27T06:07:50.2245471+00:00",
       "NumProgressed": 24153,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-27T07:07:33.1509085+00:00",
+      "NumProgressed": 24155,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 16,
@@ -21213,7 +21218,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "Eyes_On_Fire",
@@ -21253,7 +21258,7 @@
       "Name": "I Am The Storm",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3864
+      "UsersEstimate": 3865
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -21285,7 +21290,7 @@
       "Name": "Shooting Shark",
       "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 11593
+      "UsersEstimate": 11594
     },
     {
       "ID": "Sole_Survivor",
@@ -21316,15 +21321,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24153,
+      "Progressed": 24155,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2023-12-27T06:07:50.2245467+00:00",
+  "LastChanged_Achievements": "2023-12-27T07:07:33.1509073+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0171346+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:58:32.8784785+00:00",
-  "LastUpdate_Achievements": "2023-12-27T06:07:50.2246743+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:58:34.7825669+00:00",
+  "LastUpdate_Achievements": "2023-12-27T07:07:33.1510134+00:00"
 }
