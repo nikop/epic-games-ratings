@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2387,
+  "EOS_Progressed": 2388,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3938,6 +3938,11 @@
       "Time": "2023-12-27T16:06:59.2255707+00:00",
       "NumProgressed": 2387,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-27T22:06:23.7388671+00:00",
+      "NumProgressed": 2388,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4021,7 +4026,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHV_11",
@@ -4101,7 +4106,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHV_21",
@@ -4117,7 +4122,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHV_23",
@@ -4149,7 +4154,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACHV_27",
@@ -4181,7 +4186,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACHV_31",
@@ -4213,7 +4218,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHV_35",
@@ -4221,7 +4226,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACHV_36",
@@ -4253,7 +4258,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ACHV_40",
@@ -4277,7 +4282,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHV_43",
@@ -4317,7 +4322,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHV_48",
@@ -4381,7 +4386,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHV_56",
@@ -4404,7 +4409,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2387,
+      "Progressed": 2388,
       "Completed": 13
     }
   ],
@@ -4412,8 +4417,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:06:52.8956767+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:06:23.7388669+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:58.6421353+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:06:52.8957244+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:36.9734152+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:06:23.7389237+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 44.00% | ~348 |
-| Double Kill | 38.00% | ~301 |
-| Critical Hit | 20.00% | ~158 |
-| Veteran | 20.00% | ~158 |
+| Adept | 44.00% | ~350 |
+| Double Kill | 38.00% | ~302 |
+| Critical Hit | 20.00% | ~159 |
+| Veteran | 20.00% | ~159 |
 | Dressed For Success | 14.00% | ~111 |
-| Multi Kill | 8.00% | ~63 |
-| Sorcerous Spree | 8.00% | ~63 |
-| Humiliation | 8.00% | ~63 |
-| Veni, Vidi, Vici | 8.00% | ~63 |
-| Master | 7.00% | ~55 |
+| Multi Kill | 8.00% | ~64 |
+| Sorcerous Spree | 8.00% | ~64 |
+| Humiliation | 8.00% | ~64 |
+| Veni, Vidi, Vici | 8.00% | ~64 |
+| Master | 7.00% | ~56 |
 | Whoops! | 6.00% | ~48 |
 | Landlord Extraordinaire | 6.00% | ~48 |
 | Don't Touch My Stuff | 5.00% | ~40 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792 (Ranked 295)  
+Progressed: 795 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,22 +108,23 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
 | 2023-12-26 | 773 | 0 |
-| 2023-12-27 | 792 | 0 |
+| 2023-12-27 | 795 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 531)  
-Sum: 194 (Ranked 414)  
-Diff (max vs sum): 117  
+Max (Quickly Understood Controls): 29  (Ranked 518)  
+Sum: 251 (Ranked 395)  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 27 |
+| This game has Quickly Understood Controls | 29 |
+| This game has Diverse Characters | 28 |
+| This game has Amazing Storytelling | 27 |
 | This game is Relaxing | 27 |
-| This game has Amazing Storytelling | 26 |
-| This game is Highly Recommended | 25 |
-| This game is Great for Beginners | 24 |
+| This game is Highly Recommended | 26 |
+| This game is Great for Beginners | 25 |
 | This game has Unique Visuals | 24 |
-| This game has Diverse Characters | 22 |
-| This game has Competitive Players | 21 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 23 |
+| This game has Competitive Players | 22 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -190,3 +191,4 @@ Diff (max vs sum): 117
 | 2023-07-09 | 4.69 | - | 27 | 172 |
 | 2023-07-30 | 4.69 | - | 27 | 173 |
 | 2023-08-17 | 4.69 | - | 27 | 194 |
+| 2023-12-27 | 4.69 | - | 29 | 251 |

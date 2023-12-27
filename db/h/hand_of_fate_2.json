@@ -4,11 +4,11 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 516,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 415,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666391,
+  "EOS_Progressed": 666392,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -24793,6 +24793,11 @@
       "Time": "2023-12-27T21:09:53.7269709+00:00",
       "NumProgressed": 666391,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-27T22:09:45.0461817+00:00",
+      "NumProgressed": 666392,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24828,7 +24833,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39983
+      "UsersEstimate": 39984
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -24956,7 +24961,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113286
+      "UsersEstimate": 113287
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -24964,7 +24969,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39983
+      "UsersEstimate": 39984
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -25187,15 +25192,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666391,
+      "Progressed": 666392,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:09:53.7269704+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:45.0461813+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.2843557+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:59:42.2665609+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:09:53.7270901+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:59:24.7678871+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:45.0464154+00:00"
 }

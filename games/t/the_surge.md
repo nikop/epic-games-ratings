@@ -6,30 +6,30 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,789 |
-| I'll Be Back | 84.00% | ~4,280 |
-| Sorry, I Dropped This | 77.00% | ~3,923 |
-| First Day on the Job | 76.00% | ~3,872 |
-| Butcher's Bill | 54.00% | ~2,751 |
-| P.A.X | 37.00% | ~1,885 |
-| Hey Listen | 36.00% | ~1,834 |
-| OPERATOR | 35.00% | ~1,783 |
-| It's Blue Light | 33.00% | ~1,681 |
+| On My Own Two Feet | 94.00% | ~4,791 |
+| I'll Be Back | 84.00% | ~4,281 |
+| Sorry, I Dropped This | 77.00% | ~3,925 |
+| First Day on the Job | 76.00% | ~3,874 |
+| Butcher's Bill | 54.00% | ~2,752 |
+| P.A.X | 37.00% | ~1,886 |
+| Hey Listen | 36.00% | ~1,835 |
+| OPERATOR | 35.00% | ~1,784 |
+| It's Blue Light | 33.00% | ~1,682 |
 | Most Wanted | 26.00% | ~1,325 |
 | Infidel | 23.00% | ~1,172 |
 | GOLIATH | 21.00% | ~1,070 |
 | Firebug | 20.00% | ~1,019 |
 | Nothing to Lose | 18.00% | ~917 |
 | I Choose You | 17.00% | ~866 |
-| Big Sister | 16.00% | ~815 |
-| Gear Up | 15.00% | ~764 |
-| SENTINEL | 15.00% | ~764 |
-| Core Power | 13.00% | ~662 |
-| The Black Cerberus | 12.00% | ~611 |
-| Watchman | 12.00% | ~611 |
-| CREO Killed the Video Star | 11.00% | ~560 |
-| Who's in Charge Here? | 11.00% | ~560 |
-| Shall Not Pass | 11.00% | ~560 |
+| Big Sister | 16.00% | ~816 |
+| Gear Up | 15.00% | ~765 |
+| SENTINEL | 15.00% | ~765 |
+| Core Power | 13.00% | ~663 |
+| The Black Cerberus | 12.00% | ~612 |
+| Watchman | 12.00% | ~612 |
+| CREO Killed the Video Star | 11.00% | ~561 |
+| Who's in Charge Here? | 11.00% | ~561 |
+| Shall Not Pass | 11.00% | ~561 |
 | Right Tool for the Job | 10.00% | ~510 |
 | Melting Down | 9.00% | ~459 |
 | Raging Drones | 9.00% | ~459 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,095 (Ranked 201)  
+Progressed: 5,097 (Ranked 201)  
 Completed: 18 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 18 (0.35%) (Ranked 238)
 | 2023-12-24 | 5,061 | 18 |
 | 2023-12-25 | 5,066 | 18 |
 | 2023-12-26 | 5,078 | 18 |
-| 2023-12-27 | 5,095 | 18 |
+| 2023-12-27 | 5,097 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 513)  
 Sum: 30 (Ranked 532)  

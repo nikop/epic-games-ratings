@@ -5,7 +5,7 @@ Rating: 3.58 (Ranked 1,073)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 14.00% | ~295 |
+| I Like My Stakes Rare! | 15.00% | ~317 |
 | Catch and Release | 11.00% | ~232 |
 | Home Is Where the Heart Is | 10.00% | ~211 |
 | ICU | 9.00% | ~190 |
@@ -58,12 +58,12 @@ Rating: 3.58 (Ranked 1,073)
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
+| A Cry in the Dark | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Rum Runner | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
-| A Cry in the Dark | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,073)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,110 (Ranked 236)  
+Progressed: 2,111 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
-| 2023-12-27 | 2,110 | 0 |
+| 2023-12-27 | 2,111 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

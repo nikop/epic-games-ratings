@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 85.00% | ~167 |
-| Caretaker | 84.00% | ~165 |
-| Who's A Good Boy | 72.00% | ~142 |
-| Feng Shui | 72.00% | ~142 |
-| Power Up | 71.00% | ~140 |
-| Thick Skin | 69.00% | ~136 |
-| Math Wizard | 67.00% | ~132 |
-| Destroy Erase Improve | 67.00% | ~132 |
-| Power Overload | 64.00% | ~126 |
-| Quite A Snack | 61.00% | ~120 |
-| Impenetrable Skin | 57.00% | ~112 |
-| Overwhelming Power | 55.00% | ~108 |
+| Too Cool For School | 85.00% | ~168 |
+| Caretaker | 84.00% | ~166 |
+| Feng Shui | 72.00% | ~143 |
+| Who's A Good Boy | 71.00% | ~141 |
+| Power Up | 70.00% | ~139 |
+| Thick Skin | 69.00% | ~137 |
+| Math Wizard | 67.00% | ~133 |
+| Destroy Erase Improve | 67.00% | ~133 |
+| Power Overload | 64.00% | ~127 |
+| Quite A Snack | 61.00% | ~121 |
+| Impenetrable Skin | 57.00% | ~113 |
+| Overwhelming Power | 55.00% | ~109 |
 | Chomp Chomp! | 47.00% | ~93 |
 | Supreme Power | 46.00% | ~91 |
 | The Duelist | 44.00% | ~87 |
@@ -35,13 +35,13 @@
 | Mommy's Very Angry | 29.00% | ~57 |
 | Supremacy | 29.00% | ~57 |
 | Loyal Companion | 26.00% | ~51 |
-| Back To The Future | 25.00% | ~49 |
-| Immortal Skin | 25.00% | ~49 |
-| Fire Beacon | 23.00% | ~45 |
-| Lunch Before The Lunch | 22.00% | ~43 |
-| From Here To Eternity | 20.00% | ~39 |
-| Building Blocks | 20.00% | ~39 |
-| Octopostructure | 17.00% | ~33 |
+| Back To The Future | 25.00% | ~50 |
+| Immortal Skin | 25.00% | ~50 |
+| Fire Beacon | 23.00% | ~46 |
+| Lunch Before The Lunch | 22.00% | ~44 |
+| From Here To Eternity | 20.00% | ~40 |
+| Building Blocks | 20.00% | ~40 |
+| Octopostructure | 17.00% | ~34 |
 | Boss Hunter | 15.00% | ~30 |
 | Hawkman | 10.00% | ~20 |
 | Annihilate | 9.00% | ~18 |
@@ -58,7 +58,7 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 418)  
+Progressed: 198 (Ranked 418)  
 Completed: 1 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 1 (0.51%) (Ranked 217)
 | 2023-12-18 | 195 | 1 |
 | 2023-12-22 | 196 | 1 |
 | 2023-12-25 | 197 | 1 |
+| 2023-12-27 | 198 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

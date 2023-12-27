@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,10 +263,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158488,
+  "EOS_Progressed": 158490,
   "EOS_Completed": 370,
-  "EOS_NewPlayers": 1193,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 1187,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -23143,6 +23143,11 @@
       "Time": "2023-12-27T21:04:52.830418+00:00",
       "NumProgressed": 158488,
       "NumCompleted": 370
+    },
+    {
+      "Time": "2023-12-27T22:04:28.8415133+00:00",
+      "NumProgressed": 158490,
+      "NumCompleted": 370
     }
   ],
   "TotalAchievements": 31,
@@ -23162,7 +23167,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 110942
+      "UsersEstimate": 110943
     },
     {
       "ID": "EAwards_10",
@@ -23170,7 +23175,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 22188
+      "UsersEstimate": 22189
     },
     {
       "ID": "EAwards_11",
@@ -23178,7 +23183,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33282
+      "UsersEstimate": 33283
     },
     {
       "ID": "EAwards_12",
@@ -23202,7 +23207,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 63395
+      "UsersEstimate": 63396
     },
     {
       "ID": "EAwards_15",
@@ -23210,7 +23215,7 @@
       "Name": "No Encore!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 20603
+      "UsersEstimate": 20604
     },
     {
       "ID": "EAwards_16",
@@ -23226,7 +23231,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34867
+      "UsersEstimate": 34868
     },
     {
       "ID": "EAwards_18",
@@ -23234,7 +23239,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34867
+      "UsersEstimate": 34868
     },
     {
       "ID": "EAwards_19",
@@ -23288,9 +23293,9 @@
       "ID": "EAwards_24",
       "SetID": "7gko43",
       "Name": "The Never Ending Combo",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7924
+      "UsersEstimate": 9509
     },
     {
       "ID": "EAwards_25",
@@ -23354,7 +23359,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23773
+      "UsersEstimate": 23774
     },
     {
       "ID": "EAwards_5",
@@ -23386,7 +23391,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 60225
+      "UsersEstimate": 60226
     },
     {
       "ID": "EAwards_9",
@@ -23401,7 +23406,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 158488,
+      "Progressed": 158490,
       "Completed": 370
     }
   ],
@@ -23409,8 +23414,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:04:52.8304176+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:04:28.8415128+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.0676889+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:58:07.8786807+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:04:52.8305518+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:57:52.7864199+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:04:28.8416688+00:00"
 }

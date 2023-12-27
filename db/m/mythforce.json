@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5863,
+  "EOS_Progressed": 5864,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11958,6 +11958,11 @@
       "Time": "2023-12-27T21:04:24.6980242+00:00",
       "NumProgressed": 5863,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-27T22:04:02.3427995+00:00",
+      "NumProgressed": 5864,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12018,7 +12023,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12082,7 +12087,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12130,7 +12135,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12153,15 +12158,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5863,
+      "Progressed": 5864,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:04:24.6980237+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:04:02.3427991+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:36.3010715+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:04:24.6981152+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:15.3750648+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:04:02.3428802+00:00"
 }

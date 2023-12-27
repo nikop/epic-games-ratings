@@ -5,22 +5,22 @@ Rating: 4.26 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,886 |
-| Don't I Know You...? | 76.00% | ~1,814 |
+| Rigged And Ready | 79.00% | ~1,887 |
+| Don't I Know You...? | 76.00% | ~1,815 |
 | Jailbreak | 65.00% | ~1,552 |
 | HEADSHOT! | 38.00% | ~907 |
 | Suited and Booted | 38.00% | ~907 |
-| Sleeping With The Fishes | 35.00% | ~835 |
+| Sleeping With The Fishes | 35.00% | ~836 |
 | Overheated | 30.00% | ~716 |
 | High Performance | 30.00% | ~716 |
-| Powered Up | 28.00% | ~668 |
+| Powered Up | 28.00% | ~669 |
 | Studied The Blade | 25.00% | ~597 |
 | Home Invasion | 23.00% | ~549 |
 | Luminary | 22.00% | ~525 |
 | It's a Trap | 22.00% | ~525 |
 | True Survivor | 21.00% | ~501 |
-| Offensive Defense | 20.00% | ~477 |
-| Shocking | 20.00% | ~477 |
+| Offensive Defense | 20.00% | ~478 |
+| Shocking | 20.00% | ~478 |
 | Court Martial | 19.00% | ~454 |
 | Clean Cut | 19.00% | ~454 |
 | Unforeseeable Consequences | 19.00% | ~454 |
@@ -32,9 +32,9 @@ Rating: 4.26 (Ranked 892)
 | Where It All Began | 13.00% | ~310 |
 | Risk Tolerant | 13.00% | ~310 |
 | What A Catchy Song | 13.00% | ~310 |
-| Corrupted Beauty | 12.00% | ~286 |
-| Marked For Success | 12.00% | ~286 |
-| Sorry, Didn't See You There | 12.00% | ~286 |
+| Corrupted Beauty | 12.00% | ~287 |
+| Marked For Success | 12.00% | ~287 |
+| Sorry, Didn't See You There | 12.00% | ~287 |
 | Stimulating The Local Economy | 10.00% | ~239 |
 | Triplets | 10.00% | ~239 |
 | Denying Prophecy | 9.00% | ~215 |
@@ -50,8 +50,8 @@ Rating: 4.26 (Ranked 892)
 | Counter-Sniper | 5.00% | ~119 |
 | Shrimp Cocktail | 5.00% | ~119 |
 | Juiced Up | 5.00% | ~119 |
-| Geronimo! | 4.00% | ~95 |
-| Plank of Wood | 4.00% | ~95 |
+| Geronimo! | 4.00% | ~96 |
+| Plank of Wood | 4.00% | ~96 |
 | Gotta Craft 'em All | 3.00% | ~72 |
 | Homewrecker | 3.00% | ~72 |
 | Own Medicine | 2.00% | ~48 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 892)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,387 (Ranked 230)  
+Progressed: 2,388 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-24 | 2,366 | 13 |
 | 2023-12-25 | 2,372 | 13 |
 | 2023-12-26 | 2,379 | 13 |
-| 2023-12-27 | 2,387 | 13 |
+| 2023-12-27 | 2,388 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 516,
   "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4289,
+  "EOS_Progressed": 4290,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
@@ -7131,6 +7131,11 @@
       "Time": "2023-12-27T21:04:28.0063425+00:00",
       "NumProgressed": 4289,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T22:04:05.3753303+00:00",
+      "NumProgressed": 4290,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7142,7 +7147,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "AceDetective_9",
@@ -7166,7 +7171,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7182,7 +7187,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "CrowdPleaser",
@@ -7334,7 +7339,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7350,7 +7355,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7366,7 +7371,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7462,7 +7467,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7477,15 +7482,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4289,
+      "Progressed": 4290,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:04:28.0063423+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:04:05.3753299+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:03:24.1906917+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:04:28.0063981+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:03:04.2235421+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:04:05.3754067+00:00"
 }

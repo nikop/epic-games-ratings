@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3041,6 +3041,11 @@
       "Time": "2023-12-27T20:03:51.1151411+00:00",
       "NumProgressed": 868,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T22:04:48.2955297+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3052,7 +3057,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "cool-shirts",
@@ -3100,7 +3105,7 @@
       "Name": "Our Man",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "kill-lieutenants",
@@ -3124,7 +3129,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "product-profit",
@@ -3164,7 +3169,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "send-smuggling",
@@ -3188,7 +3193,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "use-submarine",
@@ -3203,15 +3208,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:05:12.6476585+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:04:48.2955289+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:01:56.8691017+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:05:12.6476828+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:01:29.7107465+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:04:48.2955551+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 41,
-  "Ranking_Popularity": 285,
+  "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1530,7 +1530,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26938,
+  "EOS_Progressed": 26940,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
@@ -12095,6 +12095,11 @@
       "Time": "2023-12-27T21:10:45.1383166+00:00",
       "NumProgressed": 26938,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-27T22:10:33.8309431+00:00",
+      "NumProgressed": 26940,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12417,21 +12422,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26938,
+      "Progressed": 26940,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5868,
+      "Progressed": 5870,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-27T14:58:28.1925208+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:10:45.1383163+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:10:33.8309428+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:59:09.901572+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:10:45.1383777+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:58:53.9375215+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:10:33.8310167+00:00"
 }

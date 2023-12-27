@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6350,
+  "EOS_Progressed": 6354,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9421,6 +9421,11 @@
       "Time": "2023-12-27T21:05:29.9853544+00:00",
       "NumProgressed": 6350,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T22:05:05.7279238+00:00",
+      "NumProgressed": 6354,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9480,7 +9485,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "16",
@@ -9520,7 +9525,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "20",
@@ -9558,9 +9563,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 699
     },
     {
       "ID": "25",
@@ -9584,7 +9589,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "28",
@@ -9632,7 +9637,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "33",
@@ -9688,7 +9693,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "4",
@@ -9832,7 +9837,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "52",
@@ -9911,13 +9916,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6350,
+      "Progressed": 6354,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6350,
+      "Progressed": 6354,
       "Completed": 7
     }
   ],
@@ -9925,8 +9930,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:05:29.9853538+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:05:05.7279235+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:02:05.3548509+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:05:29.9854332+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:01:38.1716446+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:05:05.7280186+00:00"
 }

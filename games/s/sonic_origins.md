@@ -1,28 +1,28 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.59 (Ranked 443)  
+Rating: 4.59 (Ranked 442)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 93.00% | ~619 |
-| Newbie Hero | 81.00% | ~539 |
-| Welcome to Sonic CD | 71.00% | ~473 |
-| Welcome to Sonic 3 & Knuckles | 71.00% | ~473 |
+| Welcome to Sonic the Hedgehog | 93.00% | ~620 |
+| Newbie Hero | 81.00% | ~540 |
+| Welcome to Sonic 3 & Knuckles | 71.00% | ~474 |
+| Welcome to Sonic CD | 70.00% | ~467 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~460 |
 | Ring Collector | 66.00% | ~440 |
-| Time Traveler | 65.00% | ~433 |
-| Everyone's Hero | 62.00% | ~413 |
-| Easy Peasy with Shields | 58.00% | ~386 |
+| Time Traveler | 65.00% | ~434 |
+| Everyone's Hero | 62.00% | ~414 |
+| Easy Peasy with Shields | 58.00% | ~387 |
 | Bubbly Breath | 57.00% | ~380 |
 | Gallant Spin Dash | 57.00% | ~380 |
-| Knuckles the Echidna | 56.00% | ~373 |
-| Miles "Tails" Prower | 55.00% | ~366 |
-| Boss Rush Attempt | 49.00% | ~326 |
+| Knuckles the Echidna | 56.00% | ~374 |
+| Miles "Tails" Prower | 55.00% | ~367 |
+| Boss Rush Attempt | 49.00% | ~327 |
 | Cleared Sonic the Hedgehog | 48.00% | ~320 |
 | Super Sonic | 42.00% | ~280 |
-| Beware Stingers! | 40.00% | ~266 |
+| Beware Stingers! | 40.00% | ~267 |
 | Shut Down Metal Sonic | 39.00% | ~260 |
 | Museum Time | 39.00% | ~260 |
 | Very First Mission Clear! | 39.00% | ~260 |
@@ -42,8 +42,8 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 12.00% | ~80 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 311)  
-Completed: 45 (6.76%) (Ranked 61)  
+Progressed: 667 (Ranked 311)  
+Completed: 45 (6.75%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 45 (6.76%) (Ranked 61)
 | 2023-12-23 | 660 | 45 |
 | 2023-12-24 | 662 | 45 |
 | 2023-12-25 | 664 | 45 |
-| 2023-12-27 | 666 | 45 |
+| 2023-12-27 | 667 | 45 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 338)  
 Sum: 131 (Ranked 442)  

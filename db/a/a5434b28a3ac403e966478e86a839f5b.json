@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -2745,9 +2745,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_eou6",
@@ -2816,8 +2816,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:09:16.6322392+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:09.5866352+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:01:41.8420131+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:09:16.6322657+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:01:16.1921747+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:09.5866584+00:00"
 }

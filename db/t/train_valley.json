@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1840,9 +1840,9 @@
       "ID": "25_juggler",
       "SetID": "chb1m60",
       "Name": "Juggler",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "26_forgotten",
@@ -1968,8 +1968,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:07:03.1615419+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:06:33.4935167+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:58:23.0299496+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:07:03.161574+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:58:08.0931135+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:06:33.4935493+00:00"
 }

@@ -739,7 +739,7 @@
   ],
   "EOS_Progressed": 15312,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -13854,9 +13854,9 @@
       "ID": "ACH_07",
       "SetID": "9d4cf4c",
       "Name": "Felons",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 9187
+      "UsersEstimate": 9340
     },
     {
       "ID": "ACH_08",
@@ -14095,8 +14095,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-12-27T19:59:40.2675328+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:04:45.0684224+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:04:21.3264682+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.1732324+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:01:05.6084882+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:04:45.0684929+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:42.8374233+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:04:21.3265322+00:00"
 }

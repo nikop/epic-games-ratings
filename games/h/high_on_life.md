@@ -15,13 +15,13 @@ Rating: 4.64 (Ranked 341)
 | G3 Graduation | 4.00% | ~997 |
 | Who's The Boss? | 4.00% | ~997 |
 | Don't Knife The Hand That Feeds | 4.00% | ~997 |
-| Creature Feature | 3.00% | ~747 |
-| Lezduit! | 3.00% | ~747 |
-| RIP Davey Glutes | 3.00% | ~747 |
-| Hardest Battle In The Game | 3.00% | ~747 |
-| Self-Actualization | 3.00% | ~747 |
-| Fallout Doesn't Let You Do This | 3.00% | ~747 |
-| Spent 15 Hours At The Alien Strip Club | 3.00% | ~747 |
+| Creature Feature | 3.00% | ~748 |
+| Lezduit! | 3.00% | ~748 |
+| RIP Davey Glutes | 3.00% | ~748 |
+| Hardest Battle In The Game | 3.00% | ~748 |
+| Self-Actualization | 3.00% | ~748 |
+| Fallout Doesn't Let You Do This | 3.00% | ~748 |
+| Spent 15 Hours At The Alien Strip Club | 3.00% | ~748 |
 | Eatin' Good in the Neighborhood | 2.00% | ~498 |
 | Eye Scream, You Scream | 2.00% | ~498 |
 | Legendary Bounty Hunter | 2.00% | ~498 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 341)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,915 (Ranked 144)  
+Progressed: 24,917 (Ranked 144)  
 Completed: 14 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 14 (0.06%) (Ranked 327)
 | 2023-12-24 | 24,852 | 14 |
 | 2023-12-25 | 24,879 | 14 |
 | 2023-12-26 | 24,903 | 14 |
-| 2023-12-27 | 24,915 | 14 |
+| 2023-12-27 | 24,917 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 552,
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1126,6 +1126,11 @@
       "Time": "2023-12-27T21:09:39.5490141+00:00",
       "NumProgressed": 221,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T22:09:31.5003139+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1136,9 +1141,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1152,9 +1157,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1248,9 +1253,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1274,7 +1279,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1304,9 +1309,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1489,7 +1494,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 1
     }
   ],
@@ -1497,8 +1502,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:09:39.5490126+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:31.5003136+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:59:16.3953571+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:09:39.5490613+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:59:00.193248+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:31.5003447+00:00"
 }

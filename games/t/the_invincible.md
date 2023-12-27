@@ -7,16 +7,16 @@ Rating: 4.54 (Ranked 538)
 | ---- | ---------- | ----- |
 | The Camp | 67.00% | ~724 |
 | The Teleprobe | 53.00% | ~573 |
-| The City | 47.00% | ~508 |
-| The field base | 42.00% | ~454 |
+| The City | 48.00% | ~519 |
+| The field base | 43.00% | ~465 |
 | The Alliance | 37.00% | ~400 |
 | Survivors | 36.00% | ~389 |
-| The Condor | 33.00% | ~357 |
+| The Condor | 34.00% | ~368 |
 | The End | 33.00% | ~357 |
+| Krauta is alive | 27.00% | ~292 |
 | The Necroevolution | 27.00% | ~292 |
-| Krauta is alive | 26.00% | ~281 |
 | Peacemaker | 21.00% | ~227 |
-| Volcanologist | 20.00% | ~216 |
+| Volcanologist | 21.00% | ~227 |
 | On her own | 19.00% | ~205 |
 | Fierce fight | 18.00% | ~195 |
 | Evacuation | 18.00% | ~195 |
@@ -25,14 +25,14 @@ Rating: 4.54 (Ranked 538)
 | I remember everything! | 13.00% | ~141 |
 | Another giant | 12.00% | ~130 |
 | Violent solution | 9.00% | ~97 |
-| I leave no man behind | 8.00% | ~86 |
+| I leave no man behind | 9.00% | ~97 |
 | Innate curiosity | 7.00% | ~76 |
 | Strong objection | 6.00% | ~65 |
 | Ubiquitous holes | 5.00% | ~54 |
 | The Invincible | 5.00% | ~54 |
 | Got lost again | 5.00% | ~54 |
 | I leave no man behind (no exceptions) | 2.00% | ~22 |
-| Convoy list | 0.80% | ~9 |
+| Convoy list | 0.90% | ~10 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,081 (Ranked 278)  

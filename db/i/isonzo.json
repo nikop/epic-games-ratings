@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9643,
+  "EOS_Progressed": 9644,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10143,6 +10143,11 @@
       "Time": "2023-12-27T21:09:50.722813+00:00",
       "NumProgressed": 9643,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-27T22:09:42.1524617+00:00",
+      "NumProgressed": 9644,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10458,7 +10463,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10474,7 +10479,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10513,7 +10518,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9643,
+      "Progressed": 9644,
       "Completed": 10
     }
   ],
@@ -10521,8 +10526,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-27T06:01:05.5832134+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:09:50.7228124+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:42.1524614+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:01:51.3614308+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:09:50.7228888+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:01:24.5998293+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:42.1525344+00:00"
 }

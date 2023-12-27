@@ -11,8 +11,8 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 24.00% | ~28 |
 | Civilian | 23.00% | ~27 |
 | Festival-goer | 17.00% | ~20 |
+| Peddler | 16.00% | ~19 |
 | Creator | 16.00% | ~19 |
-| Peddler | 15.00% | ~18 |
 | Military Leader | 15.00% | ~18 |
 | Commander | 14.00% | ~16 |
 | Long-Haul Flyer | 13.00% | ~15 |
@@ -26,10 +26,10 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |
 | Free as a Bird | 4.00% | ~5 |
+| Unbreakable | 4.00% | ~5 |
 | Alchemist | 3.00% | ~4 |
 | Self-Sufficient | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
-| Unbreakable | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
 | Perfectionist | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |

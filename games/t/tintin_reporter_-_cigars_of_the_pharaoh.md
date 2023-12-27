@@ -10,8 +10,8 @@
 | The Tomb of Kih-Oskh | 21.00% | ~22 |
 | The Weighing of the Soul | 19.00% | ~20 |
 | The Curse of Kih-Oskh | 16.00% | ~17 |
+| It's a Deal! | 11.00% | ~12 |
 | Cat Lover | 10.00% | ~10 |
-| It's a Deal! | 10.00% | ~10 |
 | In the Name of the Law | 9.00% | ~9 |
 | Au Revoir, Abudin | 9.00% | ~9 |
 | Mummy Nightmare | 9.00% | ~9 |
@@ -24,7 +24,7 @@
 | Under the Hood | 7.00% | ~7 |
 | Long Live Gaipajama! | 7.00% | ~7 |
 | Punctual | 7.00% | ~7 |
-| Barking Dog | 6.00% | ~6 |
+| Barking Dog | 7.00% | ~7 |
 | Tintin, Reporter | 5.00% | ~5 |
 | Eyes Shut | 5.00% | ~5 |
 | Mountain Runner | 4.00% | ~4 |

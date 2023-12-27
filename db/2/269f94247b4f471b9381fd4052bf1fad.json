@@ -4,8 +4,8 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "ACH_COSPLAY",
       "SetID": "6lg1p1e",
       "Name": "Cosplay",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DADDY-ISSUES",
@@ -447,9 +447,9 @@
       "ID": "ACH_PRIVATE-EYE",
       "SetID": "6lg1p1e",
       "Name": "Private Eye",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_PRO-EXCAVATOR",
@@ -534,8 +534,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:09:24.8722091+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:17.2726811+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:12.2164584+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:42.2421709+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:09:24.8722321+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:21.0359854+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:17.2727028+00:00"
 }

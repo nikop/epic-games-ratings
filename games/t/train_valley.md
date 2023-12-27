@@ -41,9 +41,9 @@ Number of Ratings: 28  (23.09.2022)
 | Lucky vandal | 3.00% | ~18 |
 | Salesman | 1.00% | ~6 |
 | BBQ | 0.70% | ~4 |
+| Juggler | 0.70% | ~4 |
 | Maniac vandal | 0.70% | ~4 |
 | Mega-railroad | 0.50% | ~3 |
-| Juggler | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 592 (Ranked 325)  

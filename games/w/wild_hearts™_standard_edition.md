@@ -8,7 +8,7 @@
 | Hidden History | 70.00% | ~657 |
 | Commencing of Quests | 61.00% | ~573 |
 | Budding Conjuror | 59.00% | ~554 |
-| Man-Machine Master | 47.00% | ~441 |
+| Man-Machine Master | 48.00% | ~451 |
 | Charmed by the Hunt | 47.00% | ~441 |
 | Mountain Splitter | 46.00% | ~432 |
 | Subsistence Skills | 46.00% | ~432 |
@@ -26,7 +26,7 @@
 | Mighty Marmelizer | 26.00% | ~244 |
 | Fair Means or Foul | 26.00% | ~244 |
 | Kemono at Heart | 25.00% | ~235 |
-| Single Minded | 23.00% | ~216 |
+| Single Minded | 24.00% | ~225 |
 | Karakuri Trail | 22.00% | ~207 |
 | Snare Specialist | 22.00% | ~207 |
 | Artful Assister | 22.00% | ~207 |

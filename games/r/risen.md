@@ -7,22 +7,22 @@ Rating: 4.52 (Ranked 567)
 | ---- | ---------- | ----- |
 | Beginner | 91.00% | ~116 |
 | Map reader | 65.00% | ~83 |
-| Adventurer | 63.00% | ~80 |
-| Philanthropist | 61.00% | ~77 |
-| Archer | 46.00% | ~58 |
+| Adventurer | 63.00% | ~81 |
+| Philanthropist | 60.00% | ~77 |
+| Archer | 45.00% | ~58 |
 | The brave little tailor | 43.00% | ~55 |
 | Field hand | 41.00% | ~52 |
 | Well-to-do | 37.00% | ~47 |
 | Samaritan | 36.00% | ~46 |
 | The merciful one | 33.00% | ~42 |
 | Ladies' man | 33.00% | ~42 |
-| Ferocious wild boars | 27.00% | ~34 |
+| Ferocious wild boars | 27.00% | ~35 |
 | Idiot | 25.00% | ~32 |
 | Beast slayer | 23.00% | ~29 |
-| Family man | 20.00% | ~25 |
-| Death of a legend | 20.00% | ~25 |
-| Archaeologist | 20.00% | ~25 |
-| Ogre friend | 20.00% | ~25 |
+| Family man | 20.00% | ~26 |
+| Death of a legend | 20.00% | ~26 |
+| Archaeologist | 20.00% | ~26 |
+| Ogre friend | 20.00% | ~26 |
 | Sidelined | 19.00% | ~24 |
 | Wise man | 18.00% | ~23 |
 | Little hero | 18.00% | ~23 |
@@ -39,12 +39,12 @@ Rating: 4.52 (Ranked 567)
 | Safecracker | 11.00% | ~14 |
 | Master thief | 11.00% | ~14 |
 | Freedom fighter | 10.00% | ~13 |
-| Titan Lord | 9.00% | ~11 |
-| King of the handymen | 9.00% | ~11 |
+| Titan Lord | 9.00% | ~12 |
+| King of the handymen | 9.00% | ~12 |
 | Terror of the hens | 8.00% | ~10 |
 | Expert | 7.00% | ~9 |
-| The traveler | 6.00% | ~8 |
-| Moneybags | 6.00% | ~8 |
+| The traveler | 5.00% | ~6 |
+| Moneybags | 5.00% | ~6 |
 | Rune master | 4.00% | ~5 |
 | King Midas | 4.00% | ~5 |
 | Fervent swimmer | 3.00% | ~4 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 567)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 459)  
+Progressed: 128 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 118 | 0 |
 | 2023-12-25 | 124 | 0 |
 | 2023-12-26 | 126 | 0 |
-| 2023-12-27 | 127 | 0 |
+| 2023-12-27 | 128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

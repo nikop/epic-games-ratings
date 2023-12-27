@@ -1,15 +1,15 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.78 (Ranked 108)  
+Rating: 4.79 (Ranked 101)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~897 |
+| A New Journey | 68.00% | ~898 |
 | The Adventure Begins | 50.00% | ~660 |
 | Swabbie | 37.00% | ~488 |
 | With Great Power… | 37.00% | ~488 |
-| This Belongs in a Museum | 34.00% | ~448 |
+| This Belongs in a Museum | 33.00% | ~436 |
 | The Gambit Has Begun | 30.00% | ~396 |
 | Somewhere Deep in the Lost Caribbean | 26.00% | ~343 |
 | Mirror Mirror on the Wall | 26.00% | ~343 |
@@ -32,8 +32,8 @@ Rating: 4.78 (Ranked 108)
 | Marauder | 3.00% | ~40 |
 | Welcome Back Jester | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,319 (Ranked 266)  
-Completed: 34 (2.58%) (Ranked 123)  
+Progressed: 1,320 (Ranked 266)  
+Completed: 35 (2.65%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 34 (2.58%) (Ranked 123)
 | 2023-12-24 | 1,281 | 34 |
 | 2023-12-25 | 1,294 | 34 |
 | 2023-12-26 | 1,308 | 34 |
-| 2023-12-27 | 1,319 | 34 |
+| 2023-12-27 | 1,320 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -198,4 +198,4 @@ Completed: 34 (2.58%) (Ranked 123)
 | 2023-12-21 | 4.82 | 0 | 0 |
 | 2023-12-22 | 4.83 | 0 | 0 |
 | 2023-12-26 | 4.82 | 0 | 0 |
-| 2023-12-27 | 4.78 | 0 | 0 |
+| 2023-12-27 | 4.79 | 0 | 0 |

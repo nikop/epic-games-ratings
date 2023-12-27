@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 514,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -446,6 +446,11 @@
       "Time": "2023-12-25T11:03:41.3763985+00:00",
       "NumProgressed": 197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T22:05:40.0901318+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -473,7 +478,7 @@
       "Name": "Math Wizard",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "secret12",
@@ -505,7 +510,7 @@
       "Name": "Back To The Future",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "secret16",
@@ -513,15 +518,15 @@
       "Name": "From Here To Eternity",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 141
     },
     {
       "ID": "secret18",
@@ -537,7 +542,7 @@
       "Name": "Feng Shui",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "secret2",
@@ -545,7 +550,7 @@
       "Name": "Octopostructure",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "secret20",
@@ -553,7 +558,7 @@
       "Name": "Caretaker",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "secret21",
@@ -583,9 +588,9 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 139
     },
     {
       "ID": "secret25",
@@ -593,7 +598,7 @@
       "Name": "Power Overload",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "secret26",
@@ -617,7 +622,7 @@
       "Name": "Thick Skin",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "secret29",
@@ -625,7 +630,7 @@
       "Name": "Impenetrable Skin",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "secret3",
@@ -649,7 +654,7 @@
       "Name": "Immortal Skin",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "secret32",
@@ -689,7 +694,7 @@
       "Name": "Overwhelming Power",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "secret37",
@@ -753,7 +758,7 @@
       "Name": "Quite A Snack",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "secret44",
@@ -761,7 +766,7 @@
       "Name": "Lunch Before The Lunch",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "secret45",
@@ -785,7 +790,7 @@
       "Name": "Building Blocks",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "secret48",
@@ -825,7 +830,7 @@
       "Name": "Fire Beacon",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "secret52",
@@ -857,7 +862,7 @@
       "Name": "Too Cool For School",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "secret8",
@@ -865,7 +870,7 @@
       "Name": "Destroy Erase Improve",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "secret9",
@@ -880,7 +885,7 @@
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 1
     }
   ],
@@ -888,8 +893,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:06:06.1850698+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:05:40.0901314+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:01.310535+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:03:56.4194625+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:06:06.1851027+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:03:35.069557+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:05:40.0901689+00:00"
 }

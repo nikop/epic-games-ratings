@@ -4,11 +4,11 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 584,
   "Ranking_Popularity": 322,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17442,
+  "EOS_Progressed": 17443,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17150,6 +17150,11 @@
       "Time": "2023-12-27T21:08:55.8619042+00:00",
       "NumProgressed": 17442,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-27T22:08:49.9844873+00:00",
+      "NumProgressed": 17443,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17201,7 +17206,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5581
+      "UsersEstimate": 5582
     },
     {
       "ID": "tpote_achievement_15",
@@ -17273,7 +17278,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "tpote_achievement_23",
@@ -17305,7 +17310,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "tpote_achievement_27",
@@ -17481,22 +17486,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5930
+      "UsersEstimate": 5931
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17442,
+      "Progressed": 17443,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:08:55.8619038+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:08:49.9844869+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:24.1076109+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:08:55.8620416+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:04.2270473+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:08:49.9845949+00:00"
 }

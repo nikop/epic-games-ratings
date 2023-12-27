@@ -3629,9 +3629,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19446,
+  "EOS_Progressed": 19451,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -17374,6 +17374,11 @@
       "Time": "2023-12-27T21:06:38.0181588+00:00",
       "NumProgressed": 19446,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-27T22:06:10.0224747+00:00",
+      "NumProgressed": 19451,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17474,7 +17479,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "WinHard",
@@ -17490,7 +17495,7 @@
       "Name": "Against All Odds",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearArmory",
@@ -17514,7 +17519,7 @@
       "Name": "Barren Lands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearBattleground",
@@ -17530,7 +17535,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearDangerous",
@@ -17570,7 +17575,7 @@
       "Name": "Haunted Forest",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearLevitating",
@@ -17586,7 +17591,7 @@
       "Name": "Flooded Mines",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearMonastery",
@@ -17602,7 +17607,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "WinNearRuins",
@@ -17642,7 +17647,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "WinOnCoral",
@@ -17666,7 +17671,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "WinOnMoorlands",
@@ -17720,9 +17725,9 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 1167
     },
     {
       "ID": "WinWithResolve",
@@ -17762,7 +17767,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "WinWithoutOrders",
@@ -17770,7 +17775,7 @@
       "Name": "Defying the Crown",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Year1Dangerous",
@@ -17778,15 +17783,15 @@
       "Name": "Into the Forest",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1362
     },
     {
       "ID": "WinNearFrosts",
@@ -17810,7 +17815,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "WinNearPetrified",
@@ -17834,7 +17839,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17842,7 +17847,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "WinWithFoxes",
@@ -17857,15 +17862,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19446,
+      "Progressed": 19451,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T21:00:32.4755155+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:06:38.0181584+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:06:10.0224743+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:32.475516+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:06:38.0182554+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:12.0669462+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:06:10.0225641+00:00"
 }

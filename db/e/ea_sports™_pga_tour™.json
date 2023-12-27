@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -2777,9 +2777,9 @@
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 283
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_2",
@@ -2855,8 +2855,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:10:33.1906272+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:10:22.6869973+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:02.9048327+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:10:33.1906509+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:59:44.193576+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:10:22.6870194+00:00"
 }

@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~868 |
 | I Have the High Ground | 9.00% | ~868 |
 | Millenial | 9.00% | ~868 |
-| The Show Must Go On | 8.00% | ~771 |
-| Tosca | 8.00% | ~771 |
+| The Show Must Go On | 8.00% | ~772 |
+| Tosca | 8.00% | ~772 |
 | 12th Bottle of the Isonzo | 6.00% | ~579 |
 | The Enlightment | 6.00% | ~579 |
 | Cercatore d'Oro | 5.00% | ~482 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,643 (Ranked 179)  
+Progressed: 9,644 (Ranked 179)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-24 | 9,598 | 10 |
 | 2023-12-25 | 9,619 | 10 |
 | 2023-12-26 | 9,630 | 10 |
-| 2023-12-27 | 9,643 | 10 |
+| 2023-12-27 | 9,644 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 471)  
 Sum: 333 (Ranked 364)  

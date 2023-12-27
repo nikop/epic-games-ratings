@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Morgengrauen | 84.00% | ~117 |
 | Path of Despair | 84.00% | ~117 |
-| Not alone | 58.00% | ~81 |
-| Hunger | 50.00% | ~70 |
-| Awaken | 41.00% | ~57 |
+| Not alone | 59.00% | ~82 |
+| Hunger | 51.00% | ~71 |
+| Awaken | 42.00% | ~58 |
 | Path of Corruption | 34.00% | ~47 |
 | Hope | 29.00% | ~40 |
 | Rage | 29.00% | ~40 |

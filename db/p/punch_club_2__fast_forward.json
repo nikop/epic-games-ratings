@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 485,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -2161,9 +2161,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 364
     },
     {
       "ID": "gpp_chip",
@@ -2313,9 +2313,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 330
     },
     {
       "ID": "own_home",
@@ -2473,9 +2473,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 359
     },
     {
       "ID": "work_promotion_2",
@@ -2504,8 +2504,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:10:23.3986773+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:10:13.5196467+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:57:44.8055691+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:10:23.398727+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:57:29.4021829+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:10:13.5197087+00:00"
 }

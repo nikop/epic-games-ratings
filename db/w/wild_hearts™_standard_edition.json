@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 939,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -3225,9 +3225,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_19",
@@ -3281,9 +3281,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_25",
@@ -3543,8 +3543,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:10:00.9693858+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:51.8408712+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:02:19.1769532+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:10:00.9694269+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:01:51.5425502+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:51.8409095+00:00"
 }

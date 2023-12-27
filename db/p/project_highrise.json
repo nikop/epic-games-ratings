@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1415,6 +1415,11 @@
       "Time": "2023-12-27T19:07:39.7037025+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T22:07:15.7737442+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1442,7 +1447,7 @@
       "Name": "Lux Living",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_apartments_2",
@@ -1458,7 +1463,7 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_area_1",
@@ -1466,7 +1471,7 @@
       "Name": "Under One Roof",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_art",
@@ -1474,7 +1479,7 @@
       "Name": "Artfully Done",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_art_large",
@@ -1506,7 +1511,7 @@
       "Name": "Decorator\u0027s Touch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_buzz",
@@ -1562,7 +1567,7 @@
       "Name": "Need a Consult",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_consultant_1",
@@ -1570,7 +1575,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_consultants_a",
@@ -1602,7 +1607,7 @@
       "Name": "Office Bigwigs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_contracts_2",
@@ -1626,7 +1631,7 @@
       "Name": "Luxury Boutiques",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_deco",
@@ -1698,7 +1703,7 @@
       "Name": "Three of a Kind",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_ep1_reviews_2",
@@ -1730,7 +1735,7 @@
       "Name": "Starting Skyward",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ach_floors_1",
@@ -1754,15 +1759,15 @@
       "Name": "Water Features",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_grime_1",
@@ -1770,7 +1775,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_grime_2",
@@ -1826,7 +1831,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_office_2",
@@ -1866,7 +1871,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_prestige_2",
@@ -1970,7 +1975,7 @@
       "Name": "Retail Revenue",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_retail_2",
@@ -1978,7 +1983,7 @@
       "Name": "Emporium Empire",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_retail_3",
@@ -1986,7 +1991,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_retail_4",
@@ -2002,7 +2007,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_revs_2",
@@ -2026,7 +2031,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_scenarios_2",
@@ -2058,7 +2063,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_tutorial",
@@ -2129,7 +2134,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 0
     }
   ],
@@ -2137,8 +2142,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:07:48.1843267+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:07:15.7737438+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:08.4041947+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:07:48.1844003+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:59:49.083842+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:07:15.7738176+00:00"
 }

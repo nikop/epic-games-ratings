@@ -10,13 +10,13 @@
 | First winning | 82.00% | ~398 |
 | Your first job | 81.00% | ~393 |
 | Depressed visitor | 76.00% | ~369 |
+| Old movies enjoyer | 75.00% | ~364 |
 | Fitness professional | 74.00% | ~359 |
-| Old movies enjoyer | 74.00% | ~359 |
 | Neurotrainer – power gainer! | 74.00% | ~359 |
-| Employee of the week | 73.00% | ~354 |
+| Employee of the week | 74.00% | ~359 |
 | Your own amateur gym | 68.00% | ~330 |
+| Run K, run! | 68.00% | ~330 |
 | First defeat | 67.00% | ~325 |
-| Run K, run! | 67.00% | ~325 |
 | Hello, world! | 66.00% | ~320 |
 | No bullying more | 65.00% | ~315 |
 | Fighting is cool | 64.00% | ~310 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3040,
+  "EOS_Progressed": 3041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7443,6 +7443,11 @@
       "Time": "2023-12-27T21:07:24.1761371+00:00",
       "NumProgressed": 3040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T22:06:53.3307607+00:00",
+      "NumProgressed": 3041,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7463,7 +7468,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7527,7 +7532,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7559,7 +7564,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -7663,7 +7668,7 @@
       "Name": "Clean Race",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7846,7 +7851,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3040,
+      "Progressed": 3041,
       "Completed": 0
     }
   ],
@@ -7854,8 +7859,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:07:24.1761367+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:06:53.3307603+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:59:48.0175848+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:07:24.1762093+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:59:30.127014+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:06:53.3308172+00:00"
 }

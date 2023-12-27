@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -4796,9 +4796,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 782
     },
     {
       "ID": "High_noon",
@@ -4916,8 +4916,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:10:20.6778986+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:10:10.9758076+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:03:25.1714776+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:10:20.6779376+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:03:05.1538903+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:10:10.9758596+00:00"
 }

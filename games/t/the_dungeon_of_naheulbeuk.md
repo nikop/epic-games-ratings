@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 443)  
+Rating: 4.59 (Ranked 442)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,220 |
-| Alt+F4 | 10.00% | ~24,506 |
-| Where's that freaking Dwarf? | 9.00% | ~22,055 |
-| Déjà vu | 7.00% | ~17,154 |
-| Sock! SOCK! | 6.00% | ~14,703 |
+| Sowwy! | 36.00% | ~88,224 |
+| Alt+F4 | 10.00% | ~24,507 |
+| Where's that freaking Dwarf? | 9.00% | ~22,056 |
+| Déjà vu | 7.00% | ~17,155 |
+| Sock! SOCK! | 6.00% | ~14,704 |
 | A beer, two curses, three companions | 5.00% | ~12,253 |
 | GG EZ | 5.00% | ~12,253 |
 | Speedrun | 5.00% | ~12,253 |
-| DM intervention | 4.00% | ~9,802 |
-| Fireproof Wizardess | 4.00% | ~9,802 |
+| DM intervention | 4.00% | ~9,803 |
+| Fireproof Wizardess | 4.00% | ~9,803 |
 | Livin' in a dwarven paradise | 3.00% | ~7,352 |
 | Way of the Wimp | 3.00% | ~7,352 |
 | The plot thickens... At the tavern | 3.00% | ~7,352 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,451 |
 | Material Girl | 1.00% | ~2,451 |
 | Lëgal Legend | 0.90% | ~2,206 |
-| We come in peace | 0.80% | ~1,960 |
+| We come in peace | 0.80% | ~1,961 |
 | Holistic Adventuring Party | 0.70% | ~1,715 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,715 |
 | Law and Order | 0.60% | ~1,470 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,056 (Ranked 68)  
+Progressed: 245,066 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,11 +305,11 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-24 | 244,469 | 7 |
 | 2023-12-25 | 244,664 | 8 |
 | 2023-12-26 | 244,894 | 8 |
-| 2023-12-27 | 245,056 | 8 |
+| 2023-12-27 | 245,066 | 8 |
 ## Awards
-Max (Character Customization): 258  (Ranked 275)  
+Max (Character Customization): 258  (Ranked 276)  
 Sum: 540 (Ranked 327)  
-Diff (max vs sum): -52  
+Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 258 |

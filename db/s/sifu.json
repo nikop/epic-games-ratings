@@ -8535,9 +8535,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 746376,
+  "EOS_Progressed": 746392,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 8819,
+  "EOS_NewPlayers": 8815,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31190,6 +31190,11 @@
       "Time": "2023-12-27T21:09:38.7270539+00:00",
       "NumProgressed": 746376,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-27T22:09:30.7808347+00:00",
+      "NumProgressed": 746392,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31201,7 +31206,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29855
+      "UsersEstimate": 29856
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31209,7 +31214,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22391
+      "UsersEstimate": 22392
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31289,7 +31294,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6717
+      "UsersEstimate": 6718
     },
     {
       "ID": "13_LowAge",
@@ -31377,7 +31382,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29855
+      "UsersEstimate": 29856
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31399,9 +31404,9 @@
       "ID": "26_ShrineSpirit",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Breath",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7464
+      "UsersEstimate": 14928
     },
     {
       "ID": "27_ShrineBody",
@@ -31465,7 +31470,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22391
+      "UsersEstimate": 22392
     },
     {
       "ID": "35_WideStrike",
@@ -31473,7 +31478,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6717
+      "UsersEstimate": 6718
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -31680,21 +31685,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 55677,
+      "Progressed": 55693,
       "Completed": 10787
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 746376,
+      "Progressed": 746392,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-27T19:03:38.6092741+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:09:38.7270534+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:09:30.7808343+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:03:31.9143545+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:09:38.7271709+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:03:11.5914006+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:09:30.7809871+00:00"
 }

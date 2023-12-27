@@ -6,23 +6,23 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 7.00% | ~1,361 |
-| Abandoned Settlement | 6.00% | ~1,167 |
+| Abandoned Settlement | 7.00% | ~1,362 |
+| Overgrown Library | 7.00% | ~1,362 |
+| Taking Action | 6.00% | ~1,167 |
 | Petrified Necropolis | 6.00% | ~1,167 |
-| First Real Expedition | 5.00% | ~972 |
-| The Marshlands | 5.00% | ~972 |
-| Taking Action | 5.00% | ~972 |
-| No Deaths | 5.00% | ~972 |
-| Gathering Storm | 5.00% | ~972 |
+| First Real Expedition | 5.00% | ~973 |
+| The Marshlands | 5.00% | ~973 |
+| No Deaths | 5.00% | ~973 |
+| Gathering Storm | 5.00% | ~973 |
 | Overcoming Difficulty | 4.00% | ~778 |
 | Coral Forest | 4.00% | ~778 |
 | The Scarlet Orchard | 4.00% | ~778 |
 | Frosts | 4.00% | ~778 |
 | Land of Greed | 4.00% | ~778 |
 | Ominous Presence | 4.00% | ~778 |
-| Royal Outpost | 3.00% | ~583 |
-| Watchtower | 3.00% | ~583 |
-| Untamed Wilds | 3.00% | ~583 |
+| Royal Outpost | 3.00% | ~584 |
+| Watchtower | 3.00% | ~584 |
+| Untamed Wilds | 3.00% | ~584 |
 | Homesick | 2.00% | ~389 |
 | Ruined Armory | 2.00% | ~389 |
 | Bandit Camp | 2.00% | ~389 |
@@ -36,13 +36,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~389 |
 | A Real Challenge | 2.00% | ~389 |
 | Trade Baron | 2.00% | ~389 |
-| Against All Odds | 1.00% | ~194 |
-| Barren Lands | 1.00% | ~194 |
-| Sparkdew Crystals | 1.00% | ~194 |
-| Haunted Forest | 1.00% | ~194 |
-| Flooded Mines | 1.00% | ~194 |
-| Defying the Crown | 1.00% | ~194 |
-| Into the Forest | 1.00% | ~194 |
+| Against All Odds | 1.00% | ~195 |
+| Barren Lands | 1.00% | ~195 |
+| Sparkdew Crystals | 1.00% | ~195 |
+| Haunted Forest | 1.00% | ~195 |
+| Flooded Mines | 1.00% | ~195 |
+| Defying the Crown | 1.00% | ~195 |
+| Into the Forest | 1.00% | ~195 |
 | Serving Ale | 0.90% | ~175 |
 | Fishmen Ritual Site | 0.90% | ~175 |
 | Victory Through Prosperity | 0.90% | ~175 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,446 (Ranked 150)  
+Progressed: 19,451 (Ranked 150)  
 Completed: 37 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 37 (0.19%) (Ranked 276)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,446 | 38 |
+| 2023-12-27 | 19,451 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,297 (Ranked 176)  

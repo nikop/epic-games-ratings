@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~18,278 |
-| Student | 22.00% | ~13,866 |
-| Knower | 16.00% | ~10,084 |
-| Listener | 15.00% | ~9,454 |
+| Initiation | 29.00% | ~18,279 |
+| Student | 22.00% | ~13,867 |
+| Knower | 16.00% | ~10,085 |
+| Listener | 15.00% | ~9,455 |
 | Aspen Tree | 14.00% | ~8,824 |
 | Healer | 14.00% | ~8,824 |
-| Soldier | 12.00% | ~7,563 |
-| Cow Level | 11.00% | ~6,933 |
-| Scientist | 11.00% | ~6,933 |
+| Soldier | 12.00% | ~7,564 |
+| Cow Level | 11.00% | ~6,934 |
+| Scientist | 11.00% | ~6,934 |
 | Herbalist | 10.00% | ~6,303 |
 | Water | 10.00% | ~6,303 |
 | Old Friend | 9.00% | ~5,673 |
@@ -22,10 +22,10 @@ Number of Ratings: 96  (23.09.2022)
 | Voipel | 9.00% | ~5,673 |
 | Wolf | 9.00% | ~5,673 |
 | Black Mage | 9.00% | ~5,673 |
-| Card Player | 8.00% | ~5,042 |
-| Dead Friend | 8.00% | ~5,042 |
-| Pine Tree | 8.00% | ~5,042 |
-| Collector | 8.00% | ~5,042 |
+| Card Player | 8.00% | ~5,043 |
+| Dead Friend | 8.00% | ~5,043 |
+| Pine Tree | 8.00% | ~5,043 |
+| Collector | 8.00% | ~5,043 |
 | Worthy | 7.00% | ~4,412 |
 | Black Book | 7.00% | ~4,412 |
 | Black Sorcerer | 7.00% | ~4,412 |
@@ -40,9 +40,9 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,782 |
 | Folklorist | 6.00% | ~3,782 |
 | Keeper of Knowledge | 6.00% | ~3,782 |
-| Vorsa | 5.00% | ~3,151 |
-| Susanin | 5.00% | ~3,151 |
-| Traveller | 5.00% | ~3,151 |
+| Vorsa | 5.00% | ~3,152 |
+| Susanin | 5.00% | ~3,152 |
+| Traveller | 5.00% | ~3,152 |
 | Righteous | 4.00% | ~2,521 |
 | Musician | 4.00% | ~2,521 |
 | Koldun | 4.00% | ~2,521 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,261 |
 | Word Master | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,028 (Ranked 114)  
+Progressed: 63,032 (Ranked 114)  
 Completed: 63 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 63 (0.10%) (Ranked 305)
 | 2023-12-24 | 62,260 | 63 |
 | 2023-12-25 | 62,508 | 63 |
 | 2023-12-26 | 62,786 | 63 |
-| 2023-12-27 | 63,028 | 63 |
+| 2023-12-27 | 63,032 | 63 |
 ## Awards
 Max (Character Customization): 103  (Ranked 367)  
 Sum: 103 (Ranked 460)  

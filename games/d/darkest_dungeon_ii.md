@@ -6,33 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~562 |
-| Lost and Found | 7.00% | ~357 |
-| This Belongs in a Museum | 5.00% | ~6,512 |
-| Autodidact | 5.00% | ~6,512 |
-| This guy... again? | 5.00% | ~255 |
-| Bloody Graduation | 5.00% | ~255 |
-| Serenity Now! | 4.00% | ~5,209 |
-| Not Today! | 4.00% | ~5,209 |
-| Creep and Sleep | 4.00% | ~5,209 |
-| Meat and Greet | 4.00% | ~5,209 |
-| Catch and Decease | 4.00% | ~5,209 |
-| Overdue Notice | 4.00% | ~5,209 |
-| Escape from the Black Hole | 4.00% | ~5,209 |
-| Rush Hour | 4.00% | ~5,209 |
-| To Grandmother's House | 4.00% | ~5,209 |
-| Ploughshares to Swords | 4.00% | ~204 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,907 |
-| It Rings a Bell | 3.00% | ~3,907 |
-| It Happens | 3.00% | ~3,907 |
-| Spelunker | 3.00% | ~3,907 |
-| Merry Time | 3.00% | ~3,907 |
-| Harvest Festival | 3.00% | ~3,907 |
-| Whale | 3.00% | ~3,907 |
-| A Place to Lay Your Head | 3.00% | ~3,907 |
-| FNG | 3.00% | ~3,907 |
-| Nope | 3.00% | ~3,907 |
-| Friends 'Til the End | 3.00% | ~153 |
+| Malpractice Assurance | 11.00% | ~563 |
+| Lost and Found | 7.00% | ~359 |
+| This Belongs in a Museum | 5.00% | ~6,513 |
+| Autodidact | 5.00% | ~6,513 |
+| This guy... again? | 5.00% | ~256 |
+| Bloody Graduation | 5.00% | ~256 |
+| Serenity Now! | 4.00% | ~5,210 |
+| Not Today! | 4.00% | ~5,210 |
+| Creep and Sleep | 4.00% | ~5,210 |
+| Meat and Greet | 4.00% | ~5,210 |
+| Catch and Decease | 4.00% | ~5,210 |
+| Overdue Notice | 4.00% | ~5,210 |
+| Escape from the Black Hole | 4.00% | ~5,210 |
+| Rush Hour | 4.00% | ~5,210 |
+| To Grandmother's House | 4.00% | ~5,210 |
+| Ploughshares to Swords | 4.00% | ~205 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,908 |
+| It Rings a Bell | 3.00% | ~3,908 |
+| It Happens | 3.00% | ~3,908 |
+| Spelunker | 3.00% | ~3,908 |
+| Merry Time | 3.00% | ~3,908 |
+| Harvest Festival | 3.00% | ~3,908 |
+| Whale | 3.00% | ~3,908 |
+| A Place to Lay Your Head | 3.00% | ~3,908 |
+| FNG | 3.00% | ~3,908 |
+| Nope | 3.00% | ~3,908 |
+| Friends 'Til the End | 3.00% | ~154 |
 | Resurrection | 2.00% | ~2,605 |
 | Unleash Hell | 2.00% | ~2,605 |
 | Funny Guy | 2.00% | ~2,605 |
@@ -54,12 +54,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,605 |
 | Unshackled | 2.00% | ~2,605 |
 | Road Trip | 2.00% | ~2,605 |
-| This Looks Familiar | 1.00% | ~1,302 |
-| Ichthyophobic | 1.00% | ~1,302 |
-| No More Mouths to Feed | 1.00% | ~1,302 |
-| Hot Air | 1.00% | ~1,302 |
-| Eyes Up | 1.00% | ~1,302 |
-| Handled | 1.00% | ~1,302 |
+| This Looks Familiar | 1.00% | ~1,303 |
+| Ichthyophobic | 1.00% | ~1,303 |
+| No More Mouths to Feed | 1.00% | ~1,303 |
+| Hot Air | 1.00% | ~1,303 |
+| Eyes Up | 1.00% | ~1,303 |
+| Handled | 1.00% | ~1,303 |
 | Slap on the Wrist | 1.00% | ~51 |
 | For Old Time' Sake | 1.00% | ~51 |
 | Body of Work | 0.90% | ~1,172 |
@@ -67,8 +67,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 0.70% | ~912 |
 | No Mercy | 0.70% | ~36 |
 | Et Tu, Riposte? | 0.70% | ~36 |
-| Hat Trick | 0.60% | ~781 |
-| Triage | 0.60% | ~781 |
+| Hat Trick | 0.60% | ~782 |
+| Triage | 0.60% | ~782 |
 | The World As It Was | 0.50% | ~651 |
 | A Life Well Lived | 0.40% | ~521 |
 | Bacon Bits | 0.40% | ~521 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.40% | ~20 |
 | Battle Hardened | 0.30% | ~15 |
 | Maître De La Lame | 0.30% | ~15 |
-| Tears in the Rain | 0.20% | ~260 |
+| Tears in the Rain | 0.20% | ~261 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
 | No Gravestone Left Unturned | 0.10% | ~130 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,237 (Ranked 87)  
+Progressed: 130,253 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,237 | 3 |
+| 2023-12-27 | 130,253 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,152 (Ranked 58)  

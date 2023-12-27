@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -247,7 +247,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
@@ -3147,6 +3147,11 @@
       "Time": "2023-12-27T21:05:39.0947842+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T22:05:14.4069253+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3207,7 +3212,7 @@
       "Name": "Break the Loop",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "BridgeBuilder",
@@ -3215,7 +3220,7 @@
       "Name": "Bridge Builder",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ChasingTheLight",
@@ -3295,7 +3300,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "GoodCitizen",
@@ -3303,7 +3308,7 @@
       "Name": "Good Citizen",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "GrasslandsRing",
@@ -3327,7 +3332,7 @@
       "Name": "Into the Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "JustOneLap",
@@ -3391,7 +3396,7 @@
       "Name": "A New Beginning",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NewMorality",
@@ -3447,7 +3452,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "RenaissanceRobot",
@@ -3551,7 +3556,7 @@
       "Name": "The Spark",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "TheThiefOfFire",
@@ -3630,7 +3635,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 2
     }
   ],
@@ -3638,8 +3643,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T21:05:39.0947837+00:00",
+  "LastChanged_Achievements": "2023-12-27T22:05:14.4069249+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:00:50.7132416+00:00",
-  "LastUpdate_Achievements": "2023-12-27T21:05:39.0948651+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:00:29.6958199+00:00",
+  "LastUpdate_Achievements": "2023-12-27T22:05:14.4069811+00:00"
 }

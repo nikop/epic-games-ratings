@@ -13,7 +13,7 @@
 | Experienced Thalya | 72.00% | ~468 |
 | Thalya's Concentrated Fury | 68.00% | ~442 |
 | Bad Elves Go Everywhere | 68.00% | ~442 |
-| Heroes’ Gorge | 63.00% | ~410 |
+| Heroes’ Gorge | 64.00% | ~416 |
 | Master of Magic | 62.00% | ~403 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~403 |
 | Magic Accidents | 59.00% | ~384 |
@@ -60,7 +60,7 @@
 | Mirror, Mirror | 15.00% | ~98 |
 | Untouchable | 15.00% | ~98 |
 | Heal Heal Blessing | 15.00% | ~98 |
-| Laser Eyes Are So Useless | 12.00% | ~78 |
+| Laser Eyes Are So Useless | 13.00% | ~84 |
 | Hands Off My Stones | 12.00% | ~78 |
 | Gorgu is in the Best of Health | 11.00% | ~72 |
 | No Mana, No Cry | 10.00% | ~65 |

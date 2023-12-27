@@ -13,9 +13,9 @@ Rating: 4.14 (Ranked 986)
 | I Found It | 20.00% | ~273 |
 | Shatter Them All | 19.00% | ~259 |
 | Geared Up | 19.00% | ~259 |
+| Scholar | 19.00% | ~259 |
 | Adventurer | 18.00% | ~246 |
 | Fashion Victim | 18.00% | ~246 |
-| Scholar | 18.00% | ~246 |
 | Tributes of Caladrias | 17.00% | ~232 |
 | Stone Collection | 17.00% | ~232 |
 | Powerful Allies | 16.00% | ~218 |
@@ -38,8 +38,8 @@ Rating: 4.14 (Ranked 986)
 | Shardbearer | 1.00% | ~14 |
 | False God | 1.00% | ~14 |
 | Forgemaster | 0.90% | ~12 |
+| Summiter | 0.90% | ~12 |
 | All That Gold | 0.70% | ~10 |
-| Summiter | 0.70% | ~10 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,364 (Ranked 260)  
