@@ -2202,9 +2202,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15976,
+  "EOS_Progressed": 15978,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18467,6 +18467,11 @@
       "Time": "2023-12-27T19:10:54.3745941+00:00",
       "NumProgressed": 15976,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T21:11:11.4449059+00:00",
+      "NumProgressed": 15978,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18804,9 +18809,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -18900,9 +18905,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -19044,9 +19049,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -19108,9 +19113,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -19140,9 +19145,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -19172,9 +19177,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -19924,9 +19929,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -20292,9 +20297,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -21341,21 +21346,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15976,
+      "Progressed": 15978,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15976,
+      "Progressed": 15978,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-27T17:03:20.9753221+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:33.0202251+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:11:11.4449056+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:02:37.8633954+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:33.0212047+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:03:27.8310285+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:11:11.4458647+00:00"
 }

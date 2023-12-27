@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~9,058 |
-| Photographer | 67.00% | ~8,925 |
-| Valley's Helper | 60.00% | ~7,993 |
-| Constructor | 50.00% | ~6,660 |
-| Renovator | 50.00% | ~6,660 |
-| Bestest Friend | 45.00% | ~5,994 |
-| Banker | 38.00% | ~5,062 |
-| Gardener | 31.00% | ~4,130 |
-| Generous | 25.00% | ~3,330 |
-| Chef Cook | 19.00% | ~2,531 |
-| Miner | 11.00% | ~1,465 |
+| Goofy's Investor | 68.00% | ~9,062 |
+| Photographer | 67.00% | ~8,928 |
+| Valley's Helper | 60.00% | ~7,996 |
+| Constructor | 50.00% | ~6,663 |
+| Renovator | 50.00% | ~6,663 |
+| Bestest Friend | 45.00% | ~5,997 |
+| Banker | 38.00% | ~5,064 |
+| Gardener | 31.00% | ~4,131 |
+| Generous | 25.00% | ~3,332 |
+| Chef Cook | 19.00% | ~2,532 |
+| Miner | 11.00% | ~1,466 |
 | Duty Bound | 8.00% | ~1,066 |
-| Angler | 6.00% | ~799 |
-| Thorn Cleaner | 6.00% | ~799 |
+| Angler | 6.00% | ~800 |
+| Thorn Cleaner | 6.00% | ~800 |
 | Chit Chatter | 3.00% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,321 (Ranked 168)  
+Progressed: 13,326 (Ranked 168)  
 Completed: 331 (2.48%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,19 +224,19 @@ Completed: 331 (2.48%) (Ranked 126)
 | 2023-12-24 | 13,094 | 325 |
 | 2023-12-25 | 13,181 | 325 |
 | 2023-12-26 | 13,271 | 326 |
-| 2023-12-27 | 13,321 | 331 |
+| 2023-12-27 | 13,326 | 331 |
 ## Awards
 Max (Great for Beginners): 1,160  (Ranked 146)  
-Sum: 8,263 (Ranked 108)  
-Diff (max vs sum): 38  
+Sum: 8,266 (Ranked 107)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,160 |
 | This game has Diverse Characters | 962 |
 | This game is Highly Recommended | 861 |
-| This game has Amazing Characters | 837 |
+| This game has Amazing Characters | 838 |
 | This game is Relaxing | 822 |
-| This game has Amazing Storytelling | 799 |
+| This game has Amazing Storytelling | 801 |
 | This game is Extremely Fun | 783 |
 | This game has Quickly Understood Controls | 772 |
 | This game has a Creative Community | 722 |
@@ -532,4 +532,4 @@ Diff (max vs sum): 38
 | 2023-12-24 | 4.76 | - | 1,157 | 8,244 |
 | 2023-12-25 | 4.76 | - | 1,157 | 8,248 |
 | 2023-12-26 | 4.76 | - | 1,160 | 8,259 |
-| 2023-12-27 | 4.76 | - | 1,160 | 8,263 |
+| 2023-12-27 | 4.76 | - | 1,160 | 8,266 |

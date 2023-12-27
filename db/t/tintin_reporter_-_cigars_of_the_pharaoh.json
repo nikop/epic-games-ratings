@@ -504,9 +504,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Achievement10",
@@ -768,9 +768,9 @@
       "ID": "Achievement6",
       "SetID": "9fa3l5n",
       "Name": "The Curse of Kih-Oskh",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement7",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:06:05.2173404+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:08:20.2144543+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:57:25.8468219+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:06:05.2173643+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:57:51.3153963+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:08:20.2144757+00:00"
 }

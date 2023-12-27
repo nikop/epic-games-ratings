@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,460 |
+| Devoured by Darkness | 27.00% | ~3,461 |
 | A Spark | 19.00% | ~2,435 |
 | Burning City | 18.00% | ~2,307 |
 | Defender's Heart | 16.00% | ~2,051 |
-| Mythic Choices | 15.00% | ~1,922 |
+| Mythic Choices | 15.00% | ~1,923 |
 | Banner over the Citadel | 14.00% | ~1,794 |
 | Queen's Gratitude | 12.00% | ~1,538 |
-| Fifth Crusade | 9.00% | ~1,153 |
+| Fifth Crusade | 9.00% | ~1,154 |
 | Embrace of the Abyss | 7.00% | ~897 |
+| Path of the Angel | 7.00% | ~897 |
 | Demonic and Divine | 7.00% | ~897 |
-| Path of the Angel | 6.00% | ~769 |
 | Great Upstart | 6.00% | ~769 |
 | All Paths Open | 6.00% | ~769 |
 | Path of the Azata | 5.00% | ~641 |
@@ -30,10 +30,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~513 |
 | A Flame | 4.00% | ~513 |
 | Hey, I Know You! | 4.00% | ~513 |
-| Path of the Trickster | 3.00% | ~384 |
-| Path of the Lich | 3.00% | ~384 |
-| Heroic Victory | 3.00% | ~384 |
-| Core of the Riddle | 3.00% | ~384 |
+| Path of the Trickster | 3.00% | ~385 |
+| Path of the Lich | 3.00% | ~385 |
+| Heroic Victory | 3.00% | ~385 |
+| Core of the Riddle | 3.00% | ~385 |
 | Hanged Man's Notes | 3.00% | ~348 |
 | Sarkoris Will Be Green | 3.00% | ~348 |
 | The Lady of the Forest | 3.00% | ~348 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,816 (Ranked 170)  
+Progressed: 12,817 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 12,716 | 0 |
 | 2023-12-25 | 12,766 | 0 |
 | 2023-12-26 | 12,801 | 0 |
-| 2023-12-27 | 12,816 | 0 |
+| 2023-12-27 | 12,817 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 125)  
 Sum: 7,171 (Ranked 123)  

@@ -983,9 +983,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "TuttiFrutti",
@@ -1030,8 +1030,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:03:44.4961477+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:05:03.6824993+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:02:51.713461+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:03:44.4961667+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:03:47.2401175+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:05:03.6825195+00:00"
 }

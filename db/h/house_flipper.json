@@ -3,7 +3,7 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 232,
-  "Ranking_Popularity": 250,
+  "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 305,
@@ -2241,9 +2241,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21783,
+  "EOS_Progressed": 21785,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12206,6 +12206,11 @@
       "Time": "2023-12-27T19:07:15.2578755+00:00",
       "NumProgressed": 21783,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-27T21:07:22.1783911+00:00",
+      "NumProgressed": 21785,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12265,7 +12270,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20694
+      "UsersEstimate": 20696
     },
     {
       "ID": "GameOver",
@@ -12281,7 +12286,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "JackTarinton",
@@ -12400,15 +12405,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21783,
+      "Progressed": 21785,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-27T19:58:53.3590107+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:05:24.0375675+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:07:22.1783907+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:53.3590111+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:05:24.0376125+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:59:57.8751981+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:07:22.1784485+00:00"
 }

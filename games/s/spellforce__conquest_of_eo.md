@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 90.00% | ~78 |
-| Enough rooms to swing a cat | 82.00% | ~71 |
-| First to the post | 82.00% | ~71 |
-| A kind of Magic | 75.00% | ~65 |
-| Connected | 68.00% | ~59 |
+| Home Sweet Home | 90.00% | ~79 |
+| Enough rooms to swing a cat | 82.00% | ~72 |
+| First to the post | 82.00% | ~72 |
+| A kind of Magic | 75.00% | ~66 |
+| Connected | 67.00% | ~59 |
 | Expansion | 63.00% | ~55 |
 | Mine! | 57.00% | ~50 |
 | Harvest Time | 56.00% | ~49 |
-| Artificer's Apprentice | 48.00% | ~42 |
+| Artificer's Apprentice | 49.00% | ~43 |
 | Fly the friendly Sky | 47.00% | ~41 |
-| Get out of here! | 43.00% | ~37 |
+| Get out of here! | 42.00% | ~37 |
 | Alchemist's Apprentice | 40.00% | ~35 |
 | Necromancer's Apprentice | 39.00% | ~34 |
 | Friend of Lyraine | 38.00% | ~33 |
-| The Circle | 36.00% | ~31 |
+| The Circle | 35.00% | ~31 |
 | Redecorating | 32.00% | ~28 |
 | Bad JuJu | 24.00% | ~21 |
 | Slave to the rhythm | 22.00% | ~19 |
 | Friend of Sevenkeeps | 22.00% | ~19 |
-| Castle Meldec | 21.00% | ~18 |
+| Castle Meldec | 20.00% | ~18 |
 | Sevenkeeps Seat of Kings | 18.00% | ~16 |
 | Break Free | 16.00% | ~14 |
 | Friend of Alluvyan | 15.00% | ~13 |
@@ -48,6 +48,7 @@
 | The Forge of Regan Gor | 7.00% | ~6 |
 | Tuscari Sea Portal | 7.00% | ~6 |
 | Defeat Raith | 6.00% | ~5 |
+| Defeat Undergast | 6.00% | ~5 |
 | Lore's Tale | 6.00% | ~5 |
 | Crypt of the Revenant | 6.00% | ~5 |
 | Balanced | 6.00% | ~5 |
@@ -55,7 +56,6 @@
 | Get to the Airship! | 5.00% | ~4 |
 | Defeat Ianna | 5.00% | ~4 |
 | Defeat Isgrimm | 5.00% | ~4 |
-| Defeat Undergast | 5.00% | ~4 |
 | Lytra's Tale | 5.00% | ~4 |
 | Fireforge | 5.00% | ~4 |
 | Master Artificer | 5.00% | ~4 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 496)  
+Progressed: 88 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 77 | 0 |
 | 2023-12-25 | 81 | 0 |
 | 2023-12-26 | 84 | 0 |
-| 2023-12-27 | 87 | 0 |
+| 2023-12-27 | 88 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

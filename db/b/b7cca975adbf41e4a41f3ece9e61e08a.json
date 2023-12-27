@@ -253,9 +253,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 16252,
+  "EOS_Progressed": 16253,
   "EOS_Completed": 268,
-  "EOS_NewPlayers": 1779,
+  "EOS_NewPlayers": 1776,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 1.65,
   "EosHistory": [
@@ -7888,6 +7888,11 @@
       "Time": "2023-12-27T19:09:59.1324313+00:00",
       "NumProgressed": 16252,
       "NumCompleted": 268
+    },
+    {
+      "Time": "2023-12-27T21:10:13.7832586+00:00",
+      "NumProgressed": 16253,
+      "NumCompleted": 268
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -7900,7 +7905,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14303
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -7908,7 +7913,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 13164
+      "UsersEstimate": 13165
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -7988,7 +7993,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -8012,7 +8017,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -8084,7 +8089,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 9426
+      "UsersEstimate": 9427
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -8156,7 +8161,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -8235,7 +8240,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 16252,
+      "Progressed": 16253,
       "Completed": 268
     }
   ],
@@ -8243,8 +8248,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-27T15:58:31.9567789+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:08:49.4294816+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:10:13.7832582+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:57:11.2038984+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:57:58.7026396+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:08:49.4295285+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:58:40.8405118+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:10:13.7833199+00:00"
 }

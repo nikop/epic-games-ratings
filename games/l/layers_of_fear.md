@@ -7,7 +7,7 @@
 | Something important | 83.00% | ~177 |
 | A piece of the story | 60.00% | ~128 |
 | Wanderer | 57.00% | ~121 |
-| It's covered up for a reason | 51.00% | ~109 |
+| It's covered up for a reason | 52.00% | ~111 |
 | Scraps of love | 47.00% | ~100 |
 | The artist’s impression | 46.00% | ~98 |
 | Do what you have to | 45.00% | ~96 |
@@ -40,11 +40,11 @@
 | Se7en Seas | 3.00% | ~6 |
 | Something to think about | 2.00% | ~4 |
 | Body of Work | 2.00% | ~4 |
+| Dark correspondence | 2.00% | ~4 |
 | It was worth a try | 2.00% | ~4 |
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |
-| Dark correspondence | 1.00% | ~2 |
 | Sword of the Serpent | 1.00% | ~2 |
 | The Big Picture | 0.90% | ~2 |
 | In One Take | 0.90% | ~2 |

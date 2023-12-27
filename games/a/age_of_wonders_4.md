@@ -6,16 +6,16 @@ Rating: 4.63 (Ranked 353)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 10.00% | ~635 |
-| Realm Estate | 9.00% | ~571 |
-| A Wonderful Discovery | 9.00% | ~571 |
+| Realm Estate | 9.00% | ~572 |
+| A Wonderful Discovery | 9.00% | ~572 |
 | Walls Cannot Stop Us | 8.00% | ~508 |
-| From Friends to Family | 7.00% | ~444 |
+| From Friends to Family | 7.00% | ~445 |
 | Bone Peddler | 6.00% | ~381 |
-| There Can Only Be One! | 5.00% | ~317 |
-| Full Ascension | 5.00% | ~317 |
-| Magical Synergy | 5.00% | ~317 |
-| Seat of Power | 5.00% | ~317 |
-| But this one is mine | 5.00% | ~317 |
+| There Can Only Be One! | 5.00% | ~318 |
+| Full Ascension | 5.00% | ~318 |
+| Magical Synergy | 5.00% | ~318 |
+| Seat of Power | 5.00% | ~318 |
+| But this one is mine | 5.00% | ~318 |
 | Valley of Wonders | 4.00% | ~254 |
 | Stronger Together | 4.00% | ~254 |
 | In a Liege of Your Own | 4.00% | ~254 |
@@ -24,29 +24,29 @@ Rating: 4.63 (Ranked 353)
 | Enchanted Archipelago | 3.00% | ~190 |
 | Digging for Treasure | 3.00% | ~190 |
 | My Final Form | 3.00% | ~190 |
+| Impenetrable Fortress | 3.00% | ~190 |
 | Freed Lands of Manuhari | 3.00% | ~190 |
 | Crimson Caldera | 2.00% | ~127 |
 | Preparation Is Everything | 2.00% | ~127 |
 | Fiery Friend | 2.00% | ~127 |
 | Against the Odds | 2.00% | ~127 |
-| Impenetrable Fortress | 2.00% | ~127 |
 | Here be Dragons | 2.00% | ~127 |
 | Tipping the Scales | 2.00% | ~127 |
 | Mighty Hoard | 2.00% | ~127 |
 | Sehiran Oasis | 2.00% | ~127 |
 | Chaos Surge | 2.00% | ~127 |
 | Spoils of War | 2.00% | ~127 |
-| God Emperor | 1.00% | ~63 |
-| Lord of Chaos | 1.00% | ~63 |
-| Arch Mage | 1.00% | ~63 |
-| The Creator | 1.00% | ~63 |
-| Eternal Lord | 1.00% | ~63 |
-| The Eternal Court | 1.00% | ~63 |
-| Blood of the Dragon | 1.00% | ~63 |
-| Prometheus Avenged | 1.00% | ~63 |
-| Seal the Deal | 1.00% | ~63 |
-| A Conqueror's Cohort | 1.00% | ~63 |
-| Dawn of the Dread | 1.00% | ~63 |
+| God Emperor | 1.00% | ~64 |
+| Lord of Chaos | 1.00% | ~64 |
+| Arch Mage | 1.00% | ~64 |
+| The Creator | 1.00% | ~64 |
+| Eternal Lord | 1.00% | ~64 |
+| The Eternal Court | 1.00% | ~64 |
+| Blood of the Dragon | 1.00% | ~64 |
+| Prometheus Avenged | 1.00% | ~64 |
+| Seal the Deal | 1.00% | ~64 |
+| A Conqueror's Cohort | 1.00% | ~64 |
+| Dawn of the Dread | 1.00% | ~64 |
 | I've Got Everything I Need Right Here | 0.90% | ~57 |
 | The Goddess of Nature | 0.90% | ~57 |
 | Pruning for Progress | 0.90% | ~57 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,349 (Ranked 194)  
+Progressed: 6,350 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,17 +285,17 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
-| 2023-12-27 | 6,349 | 7 |
+| 2023-12-27 | 6,350 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 480)  
-Sum: 139 (Ranked 439)  
-Diff (max vs sum): 41  
+Max (Great for Beginners): 38  (Ranked 481)  
+Sum: 140 (Ranked 438)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |
 | This game has Diverse Characters | 37 |
 | This game is Extremely Fun | 24 |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -376,4 +376,4 @@ Diff (max vs sum): 41
 | 2023-12-20 | 4.62 | 37 | 113 |
 | 2023-12-24 | 4.62 | 38 | 136 |
 | 2023-12-26 | 4.63 | 38 | 138 |
-| 2023-12-27 | 4.63 | 38 | 139 |
+| 2023-12-27 | 4.63 | 38 | 140 |

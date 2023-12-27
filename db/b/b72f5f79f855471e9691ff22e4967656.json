@@ -727,9 +727,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "drown",
@@ -743,9 +743,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "explodeItem100",
@@ -783,9 +783,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "interactChest10",
@@ -847,9 +847,9 @@
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "killGolem10",
@@ -863,9 +863,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "killLeshy30",
@@ -943,9 +943,9 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "killZombie50",
@@ -983,9 +983,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "locDungeon2",
@@ -999,9 +999,9 @@
       "ID": "locGoblins",
       "SetID": "ci65fo0",
       "Name": "Goblins camp",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "locGraveyard",
@@ -1015,9 +1015,9 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "locWorker",
@@ -1103,9 +1103,9 @@
       "ID": "questDeadArtifact",
       "SetID": "ci65fo0",
       "Name": "The Mystery of the Dead",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "questDefeatMainEnemy",
@@ -1308,8 +1308,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:01.2859891+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:10:29.9200849+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.1748657+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:47.856203+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:01.2860584+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:59:48.2128601+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:10:29.9201391+00:00"
 }

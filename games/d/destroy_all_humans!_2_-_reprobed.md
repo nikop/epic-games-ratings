@@ -1,27 +1,27 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 553)  
+Rating: 4.53 (Ranked 552)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 78.00% | ~172 |
-| Mash Machine | 70.00% | ~154 |
+| Mash Machine | 71.00% | ~157 |
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~106 |
-| Furon Fashion | 46.00% | ~101 |
+| Furon Fashion | 46.00% | ~102 |
 | Shop Til They Drop | 38.00% | ~84 |
-| Bodied Sattva | 34.00% | ~75 |
-| Earthly Pleasures | 32.00% | ~70 |
-| Cult Following | 31.00% | ~68 |
+| Bodied Sattva | 33.00% | ~73 |
+| Earthly Pleasures | 32.00% | ~71 |
+| Cult Following | 31.00% | ~69 |
 | Lie Back and Think of Albion | 24.00% | ~53 |
 | Upgreatest | 24.00% | ~53 |
 | Pimp My Raid | 23.00% | ~51 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~42 |
-| Freshly Squeezed | 16.00% | ~35 |
+| Freshly Squeezed | 17.00% | ~38 |
 | Perfect Probulator | 15.00% | ~33 |
-| Die Nasty | 15.00% | ~33 |
-| Transmitting From Sol-3 | 13.00% | ~29 |
+| Transmitting From Sol-3 | 14.00% | ~31 |
+| Die Nasty | 14.00% | ~31 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~24 |
 | Kaijuiced | 9.00% | ~20 |
 | Dusted | 9.00% | ~20 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~1 |
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 411)  
+Progressed: 221 (Ranked 412)  
 Completed: 1 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.45%) (Ranked 224)
 | 2023-12-24 | 179 | 0 |
 | 2023-12-25 | 191 | 1 |
 | 2023-12-26 | 205 | 1 |
-| 2023-12-27 | 220 | 1 |
+| 2023-12-27 | 221 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 488)  
 Sum: 36 (Ranked 521)  

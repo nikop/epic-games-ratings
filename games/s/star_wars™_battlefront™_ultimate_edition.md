@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,979 |
-| Off to a good start | 63.00% | ~1,417 |
-| Do... or do not. There is no try | 52.00% | ~1,169 |
-| A good blaster at your side | 26.00% | ~585 |
-| I suggest a new strategy | 18.00% | ~405 |
+| New Recruit | 88.00% | ~1,983 |
+| Off to a good start | 63.00% | ~1,419 |
+| Do... or do not. There is no try | 52.00% | ~1,172 |
+| A good blaster at your side | 26.00% | ~586 |
+| I suggest a new strategy | 18.00% | ~406 |
 | Scrap collector | 16.00% | ~360 |
-| All right, I'll give it a try | 16.00% | ~360 |
 | Great shot, kid! | 16.00% | ~360 |
-| The power of the Force | 13.00% | ~292 |
-| Shoot first | 13.00% | ~292 |
+| All right, I'll give it a try | 15.00% | ~338 |
+| The power of the Force | 13.00% | ~293 |
+| Shoot first | 13.00% | ~293 |
 | Collector | 12.00% | ~270 |
 | Together we can rule the galaxy | 12.00% | ~270 |
-| Tell Jabba that I've got his money | 9.00% | ~202 |
+| Tell Jabba that I've got his money | 9.00% | ~203 |
 | Best star-pilot in the galaxy | 8.00% | ~180 |
 | Survivor | 8.00% | ~180 |
-| Never tell me the odds! | 7.00% | ~157 |
-| A cunning warrior | 7.00% | ~157 |
+| Never tell me the odds! | 7.00% | ~158 |
+| A cunning warrior | 7.00% | ~158 |
 | What's the cargo? | 6.00% | ~135 |
-| "Gonk? Gonk!" | 5.00% | ~112 |
-| Impressive. Most impressive. | 5.00% | ~112 |
-| Judge me by my size, do you? | 5.00% | ~112 |
-| Support the troops | 5.00% | ~112 |
+| "Gonk? Gonk!" | 5.00% | ~113 |
+| Impressive. Most impressive. | 5.00% | ~113 |
+| Judge me by my size, do you? | 5.00% | ~113 |
+| Support the troops | 5.00% | ~113 |
 | Distinguished | 4.00% | ~90 |
 | A tremor in the Force | 4.00% | ~90 |
-| On the ball | 3.00% | ~67 |
-| Safety ain't the point of a joyride | 3.00% | ~67 |
-| Not bad for a little furball | 3.00% | ~67 |
-| Patience you must have | 3.00% | ~67 |
-| Don't underestimate the Force | 3.00% | ~67 |
+| On the ball | 3.00% | ~68 |
+| Safety ain't the point of a joyride | 3.00% | ~68 |
+| Not bad for a little furball | 3.00% | ~68 |
+| Patience you must have | 3.00% | ~68 |
+| Don't underestimate the Force | 3.00% | ~68 |
 | The Force is strong with this one | 2.00% | ~45 |
 | I've been waiting for you | 2.00% | ~45 |
 | When 900 years old you reach... | 2.00% | ~45 |
@@ -43,32 +43,32 @@
 | That's no moon | 2.00% | ~45 |
 | What will you become? | 2.00% | ~45 |
 | Disturbed tranquility | 2.00% | ~45 |
-| Hold the line! | 1.00% | ~22 |
-| Playing the objective | 1.00% | ~22 |
-| Ackbar's Elite | 1.00% | ~22 |
-| This is a new day, a new beginning | 1.00% | ~22 |
-| Alternative solution | 1.00% | ~22 |
-| Onwards! | 1.00% | ~22 |
-| The circle is now complete | 1.00% | ~22 |
+| Hold the line! | 1.00% | ~23 |
+| Playing the objective | 1.00% | ~23 |
+| Ackbar's Elite | 1.00% | ~23 |
+| This is a new day, a new beginning | 1.00% | ~23 |
+| Alternative solution | 1.00% | ~23 |
+| Onwards! | 1.00% | ~23 |
+| The circle is now complete | 1.00% | ~23 |
 | You have your moments | 0.80% | ~18 |
 | When surrounded by war... | 0.80% | ~18 |
 | A New Hope | 0.70% | ~16 |
 | Walker defender | 0.70% | ~16 |
 | Stop that Droid | 0.70% | ~16 |
-| No such thing as luck | 0.60% | ~13 |
-| Do we take prisoners? | 0.60% | ~13 |
+| No such thing as luck | 0.60% | ~14 |
+| Do we take prisoners? | 0.60% | ~14 |
 | I’ll take that bet | 0.50% | ~11 |
 | Stay on target | 0.40% | ~9 |
 | Greed can be a very powerful ally | 0.40% | ~9 |
 | in a galaxy far, far away.... | 0.30% | ~7 |
-| That got him! | 0.20% | ~4 |
-| Don't get cocky | 0.20% | ~4 |
-| Master | 0.20% | ~4 |
-| Stay in attack formation | 0.20% | ~4 |
+| That got him! | 0.20% | ~5 |
+| Don't get cocky | 0.20% | ~5 |
+| Master | 0.20% | ~5 |
+| Stay in attack formation | 0.20% | ~5 |
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 233)  
+Progressed: 2,253 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
-| 2023-12-27 | 2,249 | 1 |
+| 2023-12-27 | 2,253 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

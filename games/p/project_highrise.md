@@ -43,10 +43,10 @@
 | Swimming in Surplus | 10.00% | ~45 |
 | Aestheticly Pleased | 9.00% | ~40 |
 | Refined Palates | 9.00% | ~40 |
+| First 100 Days | 8.00% | ~36 |
 | Plaza Plan | 8.00% | ~36 |
 | Master of Puppets | 8.00% | ~36 |
 | Phoning It In | 8.00% | ~36 |
-| First 100 Days | 7.00% | ~31 |
 | Water Features | 7.00% | ~31 |
 | Golden Opportunity | 7.00% | ~31 |
 | Careful Constructor | 6.00% | ~27 |

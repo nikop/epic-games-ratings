@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.48 (Ranked 644)  
+Rating: 4.48 (Ranked 643)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 398)  
+Progressed: 253 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 196 | 0 |
 | 2023-12-25 | 221 | 0 |
 | 2023-12-26 | 236 | 0 |
-| 2023-12-27 | 252 | 0 |
+| 2023-12-27 | 253 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 463)  
 Sum: 45 (Ranked 507)  

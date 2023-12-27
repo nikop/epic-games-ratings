@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -247,7 +247,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
@@ -3142,6 +3142,11 @@
       "Time": "2023-12-27T16:05:45.6785064+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T21:05:39.0947842+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3218,7 +3223,7 @@
       "Name": "Chasing the Light",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Chicken",
@@ -3232,9 +3237,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 104
     },
     {
       "ID": "DesolateIsland",
@@ -3312,17 +3317,17 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 81
     },
     {
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 266
     },
     {
       "ID": "JustOneLap",
@@ -3410,7 +3415,7 @@
       "Name": "Overload",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Persistent",
@@ -3456,9 +3461,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 104
     },
     {
       "ID": "Signatory",
@@ -3498,7 +3503,7 @@
       "Name": "Team Spirit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TextAdventurer",
@@ -3554,7 +3559,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TheWordEndures",
@@ -3570,7 +3575,7 @@
       "Name": "Touch Grass",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TrevorsBiographer",
@@ -3625,7 +3630,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 2
     }
   ],
@@ -3633,8 +3638,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:04:10.2874128+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:05:39.0947837+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:59:30.6668163+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:04:10.2874568+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:00:50.7132416+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:05:39.0948651+00:00"
 }

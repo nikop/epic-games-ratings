@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.50% | ~2,428 |
+| Until death do us apart | 0.50% | ~2,429 |
 | That's a Grand Army | 0.40% | ~1,943 |
 | That is mine! | 0.40% | ~1,943 |
 | Victorious! | 0.40% | ~1,943 |
@@ -116,6 +116,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Forgive me, for I have Sindh | 0.10% | ~486 |
 | Foul Mouthed | 0.10% | ~486 |
 | Four For Trade | 0.10% | ~486 |
+| From Frankfurt to the Andes | 0.10% | ~486 |
 | From Humble Origins | 0.10% | ~486 |
 | Fugger Banking | 0.10% | ~486 |
 | Full House | 0.10% | ~486 |
@@ -323,7 +324,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Empire of Mann | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
-| From Frankfurt to the Andes | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,673 (Ranked 40)  
+Progressed: 485,722 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,17 +621,17 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-24 | 483,348 | 1 |
 | 2023-12-25 | 484,143 | 1 |
 | 2023-12-26 | 484,953 | 1 |
-| 2023-12-27 | 485,673 | 1 |
+| 2023-12-27 | 485,722 | 1 |
 ## Awards
 Max (Educational): 7,588  (Ranked 54)  
-Sum: 62,490 (Ranked 24)  
+Sum: 62,508 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,588 |
 | This game has Diverse Characters | 7,414 |
 | This game is Highly Recommended | 7,276 |
-| This game has Challenging Combat | 7,197 |
+| This game has Challenging Combat | 7,215 |
 | This game is Extremely Fun | 7,119 |
 | This game is Relaxing | 6,950 |
 | This game has Competitive Players | 6,775 |
@@ -985,4 +985,4 @@ Diff (max vs sum): 30
 | 2023-12-24 | 4.69 | - | 7,548 | 62,191 |
 | 2023-12-25 | 4.69 | - | 7,558 | 62,301 |
 | 2023-12-26 | 4.69 | - | 7,570 | 62,442 |
-| 2023-12-27 | 4.69 | - | 7,588 | 62,490 |
+| 2023-12-27 | 4.69 | - | 7,588 | 62,508 |

@@ -15,10 +15,10 @@
 | Reincarnation | 15.00% | ~93 |
 | Iconoclasm | 14.00% | ~87 |
 | Librarian | 13.00% | ~81 |
+| Lumberjack | 12.00% | ~75 |
 | Orcs Must Die! | 12.00% | ~75 |
 | The End | 12.00% | ~75 |
 | Gladiator | 11.00% | ~68 |
-| Lumberjack | 11.00% | ~68 |
 | Troubleshooter | 10.00% | ~62 |
 | Money Swag | 8.00% | ~50 |
 | Oops | 7.00% | ~44 |

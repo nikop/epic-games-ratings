@@ -2,9 +2,9 @@
   "ID": "6bd33f792d3d4350ab80acb891597df8",
   "Name": "The House of Da Vinci 3",
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2023-12-27T19:05:21.3457339+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T21:05:21.6722651+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -546,7 +551,7 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
       "UsersEstimate": 67
     },
@@ -554,7 +559,7 @@
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 30,
       "UsersEstimate": 66
     },
@@ -562,7 +567,7 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 62
     },
@@ -570,7 +575,7 @@
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 56
     },
@@ -578,7 +583,7 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 56
     },
@@ -618,7 +623,7 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 30,
       "UsersEstimate": 73
     },
@@ -626,7 +631,7 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 30,
       "UsersEstimate": 66
     },
@@ -642,15 +647,15 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 30,
       "UsersEstimate": 92
     },
@@ -658,7 +663,7 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 56
     },
@@ -682,7 +687,7 @@
       "ID": "CgkIxYDzrbcPEAIQEw",
       "SetID": "4egpam7",
       "Name": "Writer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -754,7 +759,7 @@
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 70,
       "UsersEstimate": 20
     },
@@ -779,14 +784,14 @@
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:03:57.7328384+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:05:21.6722646+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:26.2622847+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:02:30.1426263+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:03:57.7328586+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:03:16.6367995+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:05:21.6722853+00:00"
 }

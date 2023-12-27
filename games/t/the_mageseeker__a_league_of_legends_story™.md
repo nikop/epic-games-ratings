@@ -5,61 +5,61 @@ Rating: 4.80 (Ranked 87)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,940 |
-| No more cages! | 91.00% | ~2,816 |
-| Everfrost | 77.00% | ~2,383 |
-| Pentakill | 76.00% | ~2,352 |
-| Dark Forest | 76.00% | ~2,352 |
-| The use of petricite | 73.00% | ~2,259 |
-| You can pet the dog | 60.00% | ~1,857 |
-| Thornbarrow | 42.00% | ~1,300 |
-| Big Helmet Bro | 40.00% | ~1,238 |
-| Clarion Cove | 40.00% | ~1,238 |
-| Ternmoat Headquarters | 38.00% | ~1,176 |
-| Past trauma | 37.00% | ~1,145 |
-| Elemental master | 36.00% | ~1,114 |
-| Cypress Glen Headquarters | 34.00% | ~1,052 |
-| Petricite Burst | 33.00% | ~1,021 |
-| Old friend | 32.00% | ~990 |
-| Devineur | 31.00% | ~959 |
-| Hijack | 30.00% | ~928 |
-| Whispers in the Woods I | 27.00% | ~836 |
-| I chose my shackles | 27.00% | ~836 |
-| Ancient power | 27.00% | ~836 |
-| Sacred Woods | 25.00% | ~774 |
-| Little light | 23.00% | ~712 |
-| Capelworth | 23.00% | ~712 |
-| Full equipped | 23.00% | ~712 |
-| Glyndemere | 22.00% | ~681 |
-| Iffighain Headquarters | 22.00% | ~681 |
-| Whispers in the Woods II | 18.00% | ~557 |
-| No more holding back | 18.00% | ~557 |
-| Terbisia | 18.00% | ~557 |
-| Quickmoore Headquarters | 18.00% | ~557 |
-| Whispers in the Woods III | 17.00% | ~526 |
-| Friendly fire | 17.00% | ~526 |
-| The Central Headquarters | 17.00% | ~526 |
-| My heart and sword always for Demacia | 16.00% | ~495 |
-| True power | 16.00% | ~495 |
-| Meltridge | 16.00% | ~495 |
-| Cloven Dell Headquarters | 16.00% | ~495 |
-| I smell fear | 14.00% | ~433 |
-| Embrace the darkness | 13.00% | ~402 |
-| Whispers in the Woods IV | 13.00% | ~402 |
-| The end of the experiments | 13.00% | ~402 |
-| The Great City of Demacia | 13.00% | ~402 |
-| Truth is a dark mirror | 13.00% | ~402 |
-| Call it 'redistribution of magic | 13.00% | ~402 |
-| Back to sleep, then... | 12.00% | ~371 |
-| Do you trust me? | 11.00% | ~340 |
-| The great mage rebellion starts now | 11.00% | ~340 |
+| For Demacia | 95.00% | ~2,944 |
+| No more cages! | 90.00% | ~2,789 |
+| Everfrost | 77.00% | ~2,386 |
+| Pentakill | 76.00% | ~2,355 |
+| Dark Forest | 76.00% | ~2,355 |
+| The use of petricite | 73.00% | ~2,262 |
+| You can pet the dog | 60.00% | ~1,859 |
+| Thornbarrow | 42.00% | ~1,302 |
+| Big Helmet Bro | 40.00% | ~1,240 |
+| Clarion Cove | 40.00% | ~1,240 |
+| Ternmoat Headquarters | 38.00% | ~1,178 |
+| Past trauma | 37.00% | ~1,147 |
+| Elemental master | 36.00% | ~1,116 |
+| Cypress Glen Headquarters | 34.00% | ~1,054 |
+| Petricite Burst | 33.00% | ~1,023 |
+| Old friend | 32.00% | ~992 |
+| Devineur | 31.00% | ~961 |
+| Hijack | 30.00% | ~930 |
+| Whispers in the Woods I | 27.00% | ~837 |
+| Ancient power | 27.00% | ~837 |
+| I chose my shackles | 26.00% | ~806 |
+| Sacred Woods | 25.00% | ~775 |
+| Little light | 23.00% | ~713 |
+| Capelworth | 23.00% | ~713 |
+| Full equipped | 23.00% | ~713 |
+| Glyndemere | 22.00% | ~682 |
+| Iffighain Headquarters | 22.00% | ~682 |
+| Whispers in the Woods II | 18.00% | ~558 |
+| No more holding back | 18.00% | ~558 |
+| Terbisia | 18.00% | ~558 |
+| Quickmoore Headquarters | 18.00% | ~558 |
+| Whispers in the Woods III | 17.00% | ~527 |
+| Friendly fire | 17.00% | ~527 |
+| The Central Headquarters | 17.00% | ~527 |
+| My heart and sword always for Demacia | 16.00% | ~496 |
+| True power | 16.00% | ~496 |
+| Meltridge | 16.00% | ~496 |
+| Cloven Dell Headquarters | 16.00% | ~496 |
+| I smell fear | 14.00% | ~434 |
+| Embrace the darkness | 13.00% | ~403 |
+| Whispers in the Woods IV | 13.00% | ~403 |
+| The end of the experiments | 13.00% | ~403 |
+| The Great City of Demacia | 13.00% | ~403 |
+| Truth is a dark mirror | 13.00% | ~403 |
+| Call it 'redistribution of magic | 13.00% | ~403 |
+| Back to sleep, then... | 12.00% | ~372 |
+| Do you trust me? | 11.00% | ~341 |
+| The great mage rebellion starts now | 11.00% | ~341 |
 | Chains master | 10.00% | ~310 |
 | You can pet the... horse | 10.00% | ~310 |
 | Spellcrafting | 10.00% | ~310 |
 | Silverwing nest | 2.00% | ~62 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,095 (Ranked 221)  
+Progressed: 3,099 (Ranked 221)  
 Completed: 17 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 17 (0.55%) (Ranked 209)
 | 2023-12-24 | 3,025 | 16 |
 | 2023-12-25 | 3,050 | 17 |
 | 2023-12-26 | 3,075 | 17 |
-| 2023-12-27 | 3,095 | 17 |
+| 2023-12-27 | 3,099 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

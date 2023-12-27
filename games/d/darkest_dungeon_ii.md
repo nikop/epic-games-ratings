@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~561 |
+| Malpractice Assurance | 11.00% | ~562 |
 | Lost and Found | 7.00% | ~357 |
 | This Belongs in a Museum | 5.00% | ~6,512 |
 | Autodidact | 5.00% | ~6,512 |
@@ -19,13 +19,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 4.00% | ~5,209 |
 | Overdue Notice | 4.00% | ~5,209 |
 | Escape from the Black Hole | 4.00% | ~5,209 |
+| Rush Hour | 4.00% | ~5,209 |
 | To Grandmother's House | 4.00% | ~5,209 |
 | Ploughshares to Swords | 4.00% | ~204 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,907 |
 | It Rings a Bell | 3.00% | ~3,907 |
 | It Happens | 3.00% | ~3,907 |
 | Spelunker | 3.00% | ~3,907 |
-| Rush Hour | 3.00% | ~3,907 |
 | Merry Time | 3.00% | ~3,907 |
 | Harvest Festival | 3.00% | ~3,907 |
 | Whale | 3.00% | ~3,907 |
@@ -65,10 +65,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.90% | ~1,172 |
 | Shrine of Reflection | 0.80% | ~1,042 |
 | Clearing the Ledger | 0.70% | ~912 |
+| No Mercy | 0.70% | ~36 |
 | Et Tu, Riposte? | 0.70% | ~36 |
 | Hat Trick | 0.60% | ~781 |
 | Triage | 0.60% | ~781 |
-| No Mercy | 0.60% | ~31 |
 | The World As It Was | 0.50% | ~651 |
 | A Life Well Lived | 0.40% | ~521 |
 | Bacon Bits | 0.40% | ~521 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,231 (Ranked 87)  
+Progressed: 130,237 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,231 | 3 |
+| 2023-12-27 | 130,237 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,152 (Ranked 58)  

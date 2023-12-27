@@ -5,13 +5,13 @@ Rating: 4.77 (Ranked 115)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~14,302 |
-| I Challenge You To Save More Money! | 81.00% | ~13,164 |
+| Last Night...Did We... | 88.00% | ~14,303 |
+| I Challenge You To Save More Money! | 81.00% | ~13,165 |
 | I Love How Tough You Are | 65.00% | ~10,564 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~9,426 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~9,427 |
 | What I Want Is You | 53.00% | ~8,614 |
 | To Be Or Not To Be | 50.00% | ~8,126 |
-| Are You Alright? | 47.00% | ~7,638 |
+| Are You Alright? | 47.00% | ~7,639 |
 | Love Actually | 42.00% | ~6,826 |
 | Drama King | 36.00% | ~5,851 |
 | Go Clean up In Your Own Way | 33.00% | ~5,363 |
@@ -26,12 +26,12 @@ Rating: 4.77 (Ranked 115)
 | Days Of Innocence | 26.00% | ~4,226 |
 | David | 26.00% | ~4,226 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,063 |
-| A Slap In The Face! | 22.00% | ~3,575 |
+| A Slap In The Face! | 22.00% | ~3,576 |
 | All I Have Is Money | 21.00% | ~3,413 |
 | Lover In Dark Alley | 21.00% | ~3,413 |
 | That's So You | 21.00% | ~3,413 |
 | SALUTE | 21.00% | ~3,413 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,250 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,251 |
 | Off We Sail Tonight | 15.00% | ~2,438 |
 | Can You Do This Or Not? | 14.00% | ~2,275 |
 | Love You Three Thousand | 13.00% | ~2,113 |
@@ -48,7 +48,7 @@ Rating: 4.77 (Ranked 115)
 | Tall; Grande; Venti | 2.00% | ~325 |
 | Limerence | 2.00% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,252 (Ranked 161)  
+Progressed: 16,253 (Ranked 161)  
 Completed: 268 (1.65%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 268 (1.65%) (Ranked 143)
 | 2023-12-24 | 15,640 | 255 |
 | 2023-12-25 | 15,849 | 260 |
 | 2023-12-26 | 16,080 | 263 |
-| 2023-12-27 | 16,252 | 268 |
+| 2023-12-27 | 16,253 | 268 |
 ## Awards
 Max (Impact the Story): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

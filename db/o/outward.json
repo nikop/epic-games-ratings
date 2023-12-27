@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4288,
+  "EOS_Progressed": 4289,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7126,6 +7126,11 @@
       "Time": "2023-12-27T20:03:19.3533895+00:00",
       "NumProgressed": 4288,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T21:04:28.0063425+00:00",
+      "NumProgressed": 4289,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7201,7 +7206,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7209,7 +7214,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ForAllAurai_8",
@@ -7241,7 +7246,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "HouseofCards_19",
@@ -7321,7 +7326,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7337,7 +7342,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7457,7 +7462,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7472,15 +7477,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4288,
+      "Progressed": 4289,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:03:19.3533893+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:04:28.0063423+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:02:35.4331565+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:03:19.3534322+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:03:24.1906917+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:04:28.0063981+00:00"
 }

@@ -13693,10 +13693,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 62490,
       "NumberOfAwardsMax": 7588
+    },
+    {
+      "Time": "2023-12-27T20:58:07.2163641+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62508,
+      "NumberOfAwardsMax": 7588
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62490,
+  "NumberOfAwards": 62508,
   "NumberOfAwardsMax": 7588,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13710,7 +13716,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7197
+      "Count": 7215
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13767,9 +13773,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 485673,
+  "EOS_Progressed": 485722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5703,
+  "EOS_NewPlayers": 5715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42717,6 +42723,11 @@
       "Time": "2023-12-27T20:08:10.5457482+00:00",
       "NumProgressed": 485673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T21:09:21.7459586+00:00",
+      "NumProgressed": 485722,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43598,9 +43609,9 @@
       "ID": "achievement_frankfurt_andes",
       "SetID": "8p2n7he",
       "Name": "From Frankfurt to the Andes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 486
     },
     {
       "ID": "achievement_from_humble_origins",
@@ -45392,7 +45403,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -45631,21 +45642,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 485673,
+      "Progressed": 485722,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 485673,
+      "Progressed": 485722,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-27T19:57:36.80135+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:08:10.545748+00:00",
+  "LastChanged": "2023-12-27T20:58:07.2163639+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:09:21.7459583+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:57:36.8013505+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:08:10.5468299+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:58:07.2163645+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:09:21.747+00:00"
 }

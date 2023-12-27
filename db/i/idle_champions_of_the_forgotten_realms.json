@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9115,9 +9115,9 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245403,
+  "EOS_Progressed": 245447,
   "EOS_Completed": 2567,
-  "EOS_NewPlayers": 3038,
+  "EOS_NewPlayers": 3063,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37530,6 +37530,11 @@
       "Time": "2023-12-27T20:09:33.853974+00:00",
       "NumProgressed": 245403,
       "NumCompleted": 2567
+    },
+    {
+      "Time": "2023-12-27T21:11:12.3164779+00:00",
+      "NumProgressed": 245447,
+      "NumCompleted": 2567
     }
   ],
   "TotalAchievements": 546,
@@ -37541,7 +37546,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     },
     {
       "ID": "objective_completed_10",
@@ -37909,7 +37914,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_110",
@@ -39213,7 +39218,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "objective_completed_34",
@@ -40685,7 +40690,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_70",
@@ -41908,21 +41913,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211677,
-      "Completed": 4068
+      "Progressed": 211721,
+      "Completed": 4069
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245403,
+      "Progressed": 245447,
       "Completed": 2567
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-27T18:59:30.8252189+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:33.8539737+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:11:12.3164774+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:34.1255287+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:33.8563438+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:59:30.5050135+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:11:12.3187424+00:00"
 }

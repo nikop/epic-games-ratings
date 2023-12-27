@@ -1295,9 +1295,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 12766,
+  "EOS_Progressed": 12768,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7775,6 +7775,11 @@
       "Time": "2023-12-27T19:09:31.8781169+00:00",
       "NumProgressed": 12766,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-27T21:09:44.7439753+00:00",
+      "NumProgressed": 12768,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7786,7 +7791,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "Chatterbox",
@@ -7810,7 +7815,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7660
+      "UsersEstimate": 7661
     },
     {
       "ID": "DemonCastleRestoration",
@@ -7834,7 +7839,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 4851
+      "UsersEstimate": 4852
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -7866,7 +7871,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3319
+      "UsersEstimate": 3320
     },
     {
       "ID": "HeroSlayer",
@@ -7882,7 +7887,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "LeoniasFall_2",
@@ -7898,7 +7903,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "RookieWelcome",
@@ -7914,7 +7919,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 7787
+      "UsersEstimate": 7788
     },
     {
       "ID": "SavedElderEnt_2",
@@ -7938,7 +7943,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "TheLegendBegins",
@@ -7946,7 +7951,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 11872
+      "UsersEstimate": 11874
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7954,7 +7959,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6000
+      "UsersEstimate": 6001
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -7970,22 +7975,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10340
+      "UsersEstimate": 10342
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 12766,
+      "Progressed": 12768,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-26T19:02:32.7110984+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:08:27.8724357+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:09:44.7439749+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
   "LastUpdate_Ratings": "2023-12-27T20:00:40.3731905+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:08:27.8724691+00:00"
+  "LastUpdate_Achievements": "2023-12-27T21:09:44.7440175+00:00"
 }

@@ -1764,9 +1764,9 @@
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "Marksman",
@@ -1957,8 +1957,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:26.3777469+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:11:03.4436523+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:08.9047337+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:26.3777715+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:58:53.2314016+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:11:03.4436867+00:00"
 }

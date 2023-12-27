@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 42,
+  "Ranking_Rating": 41,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 141,
@@ -1530,9 +1530,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26935,
+  "EOS_Progressed": 26938,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12090,6 +12090,11 @@
       "Time": "2023-12-27T20:09:12.5220819+00:00",
       "NumProgressed": 26935,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-27T21:10:45.1383166+00:00",
+      "NumProgressed": 26938,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12155,9 +12160,9 @@
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 162
     },
     {
       "ID": "BossBridgeDefeated",
@@ -12165,7 +12170,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12293,7 +12298,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "EndTimerFail",
@@ -12412,21 +12417,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26935,
+      "Progressed": 26938,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5865,
+      "Progressed": 5868,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-27T14:58:28.1925208+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:12.5220817+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:10:45.1383163+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:19.7216512+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:12.5221368+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:59:09.901572+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:10:45.1383777+00:00"
 }

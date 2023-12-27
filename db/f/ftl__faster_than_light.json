@@ -1930,11 +1930,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 1328,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-12-27T20:59:00.1698169+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1329,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1328,
-  "NumberOfAwardsMax": 170,
+  "NumberOfAwards": 1329,
+  "NumberOfAwardsMax": 171,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1959,7 +1965,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 170
+      "Count": 171
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2015,8 +2021,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2023-12-27T16:58:32.2322819+00:00",
+  "LastChanged": "2023-12-27T20:59:00.1698167+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.8480527+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:13.3174083+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:08:07.7587147+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:59:00.1698171+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:09:17.4319948+00:00"
 }

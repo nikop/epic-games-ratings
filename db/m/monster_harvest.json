@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -584,9 +584,9 @@
       "ID": "RED_SLIME_TIME",
       "SetID": "ca3djk0",
       "Name": "Red Slime Time",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:02.4925774+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:10:31.6935472+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.3939078+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:02:37.1106049+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:02.4925923+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:03:26.7341938+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:10:31.6935567+00:00"
 }

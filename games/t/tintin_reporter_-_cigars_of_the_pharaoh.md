@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 73.00% | ~77 |
+| My Papyrus! | 74.00% | ~78 |
 | A Loyal Friend | 38.00% | ~40 |
 | Abandon Ship! | 28.00% | ~29 |
 | The Tomb of Kih-Oskh | 21.00% | ~22 |
 | The Weighing of the Soul | 19.00% | ~20 |
-| The Curse of Kih-Oskh | 15.00% | ~16 |
+| The Curse of Kih-Oskh | 16.00% | ~17 |
 | Cat Lover | 10.00% | ~10 |
 | It's a Deal! | 10.00% | ~10 |
 | In the Name of the Law | 9.00% | ~9 |

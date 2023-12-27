@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1653,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -4158,6 +4158,11 @@
       "Time": "2023-12-27T17:10:12.9331234+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T21:11:05.9136659+00:00",
+      "NumProgressed": 1653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4185,7 +4190,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4217,7 +4222,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "CHAIN_REACTION",
@@ -4249,7 +4254,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "CRUELTY",
@@ -4273,7 +4278,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "DEAD_DICK",
@@ -4311,9 +4316,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 777
     },
     {
       "ID": "ENDGAME",
@@ -4353,7 +4358,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4401,7 +4406,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4425,7 +4430,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "LUMBERJACK",
@@ -4473,7 +4478,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "RECYCLER",
@@ -4537,15 +4542,15 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 430
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -4561,7 +4566,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "WIPE_OUT",
@@ -4576,7 +4581,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1653,
       "Completed": 0
     }
   ],
@@ -4584,8 +4589,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:09:28.367133+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:11:05.9136655+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:02:44.3047582+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:09:28.3671731+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:03:37.2892695+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:11:05.9137074+00:00"
 }

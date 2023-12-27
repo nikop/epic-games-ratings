@@ -6,14 +6,14 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 32.00% | ~37 |
-| Best Buddy | 25.00% | ~29 |
-| Role Model | 23.00% | ~27 |
+| Entrepreneur | 33.00% | ~39 |
+| Best Buddy | 26.00% | ~30 |
+| Role Model | 24.00% | ~28 |
 | Civilian | 23.00% | ~27 |
 | Festival-goer | 17.00% | ~20 |
+| Creator | 16.00% | ~19 |
 | Peddler | 15.00% | ~18 |
 | Military Leader | 15.00% | ~18 |
-| Creator | 15.00% | ~18 |
 | Commander | 14.00% | ~16 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 10.00% | ~12 |
@@ -21,22 +21,22 @@ Number of Ratings: 124  (23.09.2022)
 | Berserker | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
 | Eternal Oblivion | 8.00% | ~9 |
+| Globetrotter | 6.00% | ~7 |
+| Hotshot | 6.00% | ~7 |
 | Storyteller | 5.00% | ~6 |
-| Globetrotter | 5.00% | ~6 |
-| Hotshot | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |
 | Free as a Bird | 4.00% | ~5 |
+| Alchemist | 3.00% | ~4 |
 | Self-Sufficient | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Unbreakable | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
 | Perfectionist | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
-| Alchemist | 2.00% | ~2 |
+| Banker | 2.00% | ~2 |
+| Treasure Hunter | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Lover | 2.00% | ~2 |
-| Banker | 0.90% | ~1 |
-| Treasure Hunter | 0.90% | ~1 |
 | Beam Me Up | 0.90% | ~1 |
 | Defector | 0.90% | ~1 |
 | Outlaw | 0.90% | ~1 |

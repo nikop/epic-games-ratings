@@ -7,8 +7,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 7.00% | ~1,361 |
-| Abandoned Settlement | 6.00% | ~1,166 |
-| Petrified Necropolis | 6.00% | ~1,166 |
+| Abandoned Settlement | 6.00% | ~1,167 |
+| Petrified Necropolis | 6.00% | ~1,167 |
 | First Real Expedition | 5.00% | ~972 |
 | The Marshlands | 5.00% | ~972 |
 | Taking Action | 5.00% | ~972 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 1.00% | ~194 |
 | Flooded Mines | 1.00% | ~194 |
 | Defying the Crown | 1.00% | ~194 |
+| Into the Forest | 1.00% | ~194 |
 | Serving Ale | 0.90% | ~175 |
 | Fishmen Ritual Site | 0.90% | ~175 |
 | Victory Through Prosperity | 0.90% | ~175 |
-| Into the Forest | 0.90% | ~175 |
 | Efficient Explorer | 0.80% | ~156 |
 | Forsaken Gods Temple | 0.80% | ~156 |
 | Refinery | 0.70% | ~136 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,439 (Ranked 150)  
+Progressed: 19,446 (Ranked 150)  
 Completed: 37 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,16 +317,16 @@ Completed: 37 (0.19%) (Ranked 276)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,439 | 38 |
+| 2023-12-27 | 19,446 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
-Sum: 3,296 (Ranked 176)  
+Sum: 3,297 (Ranked 176)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 445 |
 | This game is Relaxing | 441 |
-| This game is Great for Beginners | 434 |
+| This game is Great for Beginners | 435 |
 | This game is Extremely Fun | 415 |
 | This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 335 |
@@ -603,4 +603,4 @@ Diff (max vs sum): 52
 | 2023-12-24 | 4.82 | - | 443 | 3,288 |
 | 2023-12-25 | 4.82 | - | 444 | 3,291 |
 | 2023-12-26 | 4.82 | - | 444 | 3,295 |
-| 2023-12-27 | 4.82 | - | 445 | 3,296 |
+| 2023-12-27 | 4.82 | - | 445 | 3,297 |

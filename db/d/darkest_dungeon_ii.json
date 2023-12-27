@@ -10212,7 +10212,7 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130231,
+  "EOS_Progressed": 130237,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1466,
   "EOS_NewCompleters": 0,
@@ -37092,6 +37092,11 @@
       "Time": "2023-12-27T20:08:50.3554888+00:00",
       "NumProgressed": 130231,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T21:10:15.0993575+00:00",
+      "NumProgressed": 130237,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37397,9 +37402,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3907
+      "UsersEstimate": 5209
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -37639,7 +37644,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "combat_kill_collector",
@@ -37661,9 +37666,9 @@
       "ID": "combat_kill_warlord_crusader",
       "SetID": "d3bcpc8",
       "Name": "No Mercy",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -37734,21 +37739,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130231,
+      "Progressed": 130237,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5100,
+      "Progressed": 5106,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-27T13:02:01.7093782+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:08:50.3554886+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:10:15.0993572+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:59:24.3322415+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:08:50.3556369+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:00:41.1157088+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:10:15.09951+00:00"
 }

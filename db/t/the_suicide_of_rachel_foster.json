@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
@@ -4088,6 +4088,11 @@
       "Time": "2023-12-27T20:04:05.5933988+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-12-27T21:05:32.4715104+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 11,
@@ -4107,7 +4112,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4145,9 +4150,9 @@
       "ID": "ACH_FineGioco",
       "SetID": "7a9m7mj",
       "Name": "All together, again",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 613
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -4186,15 +4191,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1803,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:04:05.5933986+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:05:32.4715101+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:21.5191836+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:00:02.5096952+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:04:05.5934271+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:01:39.952791+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:05:32.4715395+00:00"
 }

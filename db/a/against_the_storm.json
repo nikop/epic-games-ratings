@@ -3555,10 +3555,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3296,
       "NumberOfAwardsMax": 445
+    },
+    {
+      "Time": "2023-12-27T21:00:32.4755156+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3297,
+      "NumberOfAwardsMax": 445
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3296,
+  "NumberOfAwards": 3297,
   "NumberOfAwardsMax": 445,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3596,7 +3602,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 434
+      "Count": 435
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3623,9 +3629,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19439,
+  "EOS_Progressed": 19446,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -17363,6 +17369,11 @@
       "Time": "2023-12-27T20:04:52.4458837+00:00",
       "NumProgressed": 19439,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-27T21:06:38.0181588+00:00",
+      "NumProgressed": 19446,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17765,9 +17776,9 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 194
     },
     {
       "ID": "WinNearAbandoned",
@@ -17775,7 +17786,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "WinNearFrosts",
@@ -17807,7 +17818,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "WinNearPresence",
@@ -17846,15 +17857,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19439,
+      "Progressed": 19446,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-27T01:43:48.2906099+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:04:52.4458834+00:00",
+  "LastChanged": "2023-12-27T21:00:32.4755155+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:06:38.0181584+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:59:18.756888+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:04:52.445968+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:00:32.475516+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:06:38.0182554+00:00"
 }

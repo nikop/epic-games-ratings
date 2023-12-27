@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1686,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4311,9 +4311,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4508,8 +4508,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:06:11.0468034+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:08:27.8566323+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T20:00:11.1157938+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:06:11.0468569+00:00"
+  "LastUpdate_Ratings": "2023-12-27T21:01:52.1235023+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:08:27.8566718+00:00"
 }

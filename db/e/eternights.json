@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2450,6 +2450,11 @@
       "Time": "2023-12-27T20:08:23.2321768+00:00",
       "NumProgressed": 664,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T21:09:38.394633+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2478,7 +2483,7 @@
       "Name": "Their Rock",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2494,7 +2499,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2542,7 +2547,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2614,7 +2619,7 @@
       "Name": "Master Craftsman",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -2622,7 +2627,7 @@
       "Name": "First wall",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2661,7 +2666,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 2
     }
   ],
@@ -2669,8 +2674,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-27T20:08:23.2321765+00:00",
+  "LastChanged_Achievements": "2023-12-27T21:09:38.3946326+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:58:54.3128924+00:00",
-  "LastUpdate_Achievements": "2023-12-27T20:08:23.2322004+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:59:59.2918369+00:00",
+  "LastUpdate_Achievements": "2023-12-27T21:09:38.3946528+00:00"
 }

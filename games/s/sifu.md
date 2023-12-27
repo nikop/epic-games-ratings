@@ -6,19 +6,19 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,854 |
-| Life is your teacher | 4.00% | ~29,854 |
+| The Old Grandmaster | 4.00% | ~29,855 |
+| Life is your teacher | 4.00% | ~29,855 |
 | The Assault | 3.00% | ~22,391 |
 | Lightning Hands | 3.00% | ~22,391 |
-| The Hateful Pole Fighter | 2.00% | ~14,927 |
-| A Lady's Blood in the Snow | 2.00% | ~14,927 |
-| Stuntmaster | 2.00% | ~14,927 |
-| Street Fighting | 2.00% | ~14,927 |
-| State of constant learning | 2.00% | ~14,927 |
-| Qi Gong: Essence | 2.00% | ~14,927 |
-| Old Child | 2.00% | ~14,927 |
-| Rumble in the Hangar | 2.00% | ~14,927 |
-| Diligence as a goal | 2.00% | ~1,113 |
+| The Hateful Pole Fighter | 2.00% | ~14,928 |
+| A Lady's Blood in the Snow | 2.00% | ~14,928 |
+| Stuntmaster | 2.00% | ~14,928 |
+| Street Fighting | 2.00% | ~14,928 |
+| State of constant learning | 2.00% | ~14,928 |
+| Qi Gong: Essence | 2.00% | ~14,928 |
+| Old Child | 2.00% | ~14,928 |
+| Rumble in the Hangar | 2.00% | ~14,928 |
+| Diligence as a goal | 2.00% | ~1,114 |
 | Lady Wing Chun | 1.00% | ~7,464 |
 | Furious Fists | 1.00% | ~7,464 |
 | Kill Nil | 1.00% | ~7,464 |
@@ -37,12 +37,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.50% | ~3,732 |
 | Detective Story | 0.50% | ~3,732 |
 | Bloody Sport | 0.50% | ~278 |
-| Source of Flying Daggers | 0.40% | ~2,985 |
-| Iron Money | 0.40% | ~2,985 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,985 |
-| Prodigal Child | 0.40% | ~2,985 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,985 |
-| Sword Stained With Blood | 0.40% | ~2,985 |
+| Source of Flying Daggers | 0.40% | ~2,986 |
+| Iron Money | 0.40% | ~2,986 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,986 |
+| Prodigal Child | 0.40% | ~2,986 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,986 |
+| Sword Stained With Blood | 0.40% | ~2,986 |
 | The best strikes are the ones we avoid | 0.40% | ~223 |
 | The Pit Protector | 0.30% | ~2,239 |
 | Come Snap With Me | 0.30% | ~2,239 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,353 (Ranked 23)  
+Progressed: 746,376 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
-| 2023-12-27 | 746,353 | 12,967 |
+| 2023-12-27 | 746,376 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
 Sum: 11,888 (Ranked 87)  
