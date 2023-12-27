@@ -79,10 +79,10 @@
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 77 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 4.89% |
 | 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.79% |
-| 80 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 4.76% |
-| 81 | [ZZT!](games/z/zzt!.md) | 4.71% |
-| 82 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.69% |
-| 83 | [JARS](games/j/jars.md) | 4.55% |
+| 80 | [ZZT!](games/z/zzt!.md) | 4.71% |
+| 81 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.69% |
+| 82 | [JARS](games/j/jars.md) | 4.55% |
+| 82 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 4.55% |
 | 84 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.50% |
 | 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.42% |
 | 86 | [The Bunker](games/t/the_bunker.md) | 4.32% |
@@ -114,8 +114,8 @@
 | 112 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 113 | [The Complex](games/t/the_complex.md) | 2.87% |
 | 114 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.86% |
-| 114 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.86% |
 | 114 | [Without Escape](games/w/without_escape.md) | 2.86% |
+| 116 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.85% |
 | 117 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.78% |
 | 117 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.78% |
 | 119 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.73% |
@@ -136,8 +136,8 @@
 | 134 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2.04% |
 | 134 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.04% |
 | 136 | [Somerville](games/s/somerville.md) | 1.90% |
-| 137 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.89% |
 | 137 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
+| 138 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.88% |
 | 139 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.85% |
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 141 | [Frogun](games/f/frogun.md) | 1.74% |
@@ -156,8 +156,8 @@
 | 154 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.35% |
 | 155 | [Chorus](games/c/chorus.md) | 1.33% |
 | 156 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
-| 157 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.28% |
-| 158 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
+| 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
+| 157 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.27% |
 | 159 | [Ten Dates](games/t/ten_dates.md) | 1.23% |
 | 160 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.22% |
 | 161 | [Iron Danger](games/i/iron_danger.md) | 1.18% |
@@ -249,13 +249,13 @@
 | 247 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 247 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.33% |
 | 249 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.32% |
-| 250 | [Eternights](games/e/eternights.md) | 0.31% |
 | 250 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 250 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.31% |
 | 250 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 254 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 254 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.30% |
-| 254 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.30% |
+| 253 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 253 | [Eternights](games/e/eternights.md) | 0.30% |
+| 253 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.30% |
+| 253 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.30% |
 | 257 | [Them and Us](games/t/them_and_us.md) | 0.28% |
 | 257 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
 | 259 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
@@ -277,10 +277,10 @@
 | 274 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 276 | [Against the Storm](games/a/against_the_storm.md) | 0.19% |
 | 276 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 276 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.19% |
-| 279 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
-| 279 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 279 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
+| 278 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
+| 278 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 278 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
+| 278 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.18% |
 | 282 | [Dead Space](games/d/dead_space.md) | 0.17% |
 | 282 | [Scathe](games/s/scathe.md) | 0.17% |
 | 282 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.17% |
