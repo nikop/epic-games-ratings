@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1686,
+  "EOS_Progressed": 1687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4117,6 +4117,11 @@
       "Time": "2023-12-27T20:06:11.0468037+00:00",
       "NumProgressed": 1686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T23:08:12.9836867+00:00",
+      "NumProgressed": 1687,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4367,9 +4372,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4496,20 +4501,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1686,
+      "Progressed": 1687,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:08:23.4990664+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:08:12.9836863+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:01:25.304473+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:08:23.4991233+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:01:42.5442016+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:08:12.983729+00:00"
 }

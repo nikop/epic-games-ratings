@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10132,10 +10132,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21152,
       "NumberOfAwardsMax": 7882
+    },
+    {
+      "Time": "2023-12-27T23:00:31.1442657+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21156,
+      "NumberOfAwardsMax": 7882
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21152,
+  "NumberOfAwards": 21156,
   "NumberOfAwardsMax": 7882,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10185,7 +10191,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1778
+      "Count": 1782
     },
     {
       "Text": "This game is Relaxing",
@@ -10212,9 +10218,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130253,
+  "EOS_Progressed": 130259,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1476,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37102,6 +37108,11 @@
       "Time": "2023-12-27T22:10:05.5055036+00:00",
       "NumProgressed": 130253,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T23:10:01.149275+00:00",
+      "NumProgressed": 130259,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37649,7 +37660,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "combat_kill_collector",
@@ -37737,28 +37748,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130253,
+      "Progressed": 130259,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5122,
+      "Progressed": 5128,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-27T13:02:01.7093782+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:10:05.505503+00:00",
+  "LastChanged": "2023-12-27T23:00:31.1442655+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:10:01.1492746+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:19.9752968+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:10:05.5057221+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:31.144266+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:10:01.1494544+00:00"
 }

@@ -9,25 +9,25 @@ Number of Ratings: 617  (23.09.2022)
 | First Step | 70.00% | ~373,880 |
 | Now You're Talking | 62.00% | ~331,151 |
 | Steel Yourself | 62.00% | ~331,151 |
-| Window Dressing | 50.00% | ~267,057 |
-| Trigger Happy | 46.00% | ~245,692 |
-| Riverborn | 45.00% | ~240,351 |
+| Window Dressing | 50.00% | ~267,058 |
+| Trigger Happy | 46.00% | ~245,693 |
+| Riverborn | 45.00% | ~240,352 |
 | Starry Eyed | 34.00% | ~181,599 |
 | Poking Around | 34.00% | ~181,599 |
-| Talk of the Town | 24.00% | ~128,187 |
+| Talk of the Town | 24.00% | ~128,188 |
 | AAARR! | 23.00% | ~122,846 |
 | Hello Darkness | 23.00% | ~122,846 |
 | Wind At Our Backs | 22.00% | ~117,505 |
 | To the Beat | 20.00% | ~106,823 |
-| Sunny Shores | 17.00% | ~90,799 |
+| Sunny Shores | 17.00% | ~90,800 |
 | Sunday Best | 16.00% | ~85,458 |
 | To Victory! | 15.00% | ~80,117 |
 | Two of a Kind | 14.00% | ~74,776 |
 | Keep On Trucking | 13.00% | ~69,435 |
 | Going on an Adventure | 11.00% | ~58,753 |
 | Make Peace, Not War | 11.00% | ~58,753 |
-| Walking The Line | 10.00% | ~53,411 |
-| Not So Cute Anymore | 10.00% | ~53,411 |
+| Walking The Line | 10.00% | ~53,412 |
+| Not So Cute Anymore | 10.00% | ~53,412 |
 | Road Less Travelled | 9.00% | ~48,070 |
 | Lost and Found | 9.00% | ~48,070 |
 | Under the Radar | 8.00% | ~42,729 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,602 |
 | Point Taken | 0.20% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,114 (Ranked 35)  
+Progressed: 534,115 (Ranked 35)  
 Completed: 512 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 512 (0.10%) (Ranked 305)
 | 2023-12-24 | 533,870 | 511 |
 | 2023-12-25 | 533,950 | 511 |
 | 2023-12-26 | 534,027 | 512 |
-| 2023-12-27 | 534,114 | 512 |
+| 2023-12-27 | 534,115 | 512 |
 ## Awards
 Max (Relaxing): 21  (Ranked 564)  
 Sum: 21 (Ranked 567)  

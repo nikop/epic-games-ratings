@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43042,
+  "EOS_Progressed": 43046,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26456,6 +26456,11 @@
       "Time": "2023-12-27T22:03:45.9174479+00:00",
       "NumProgressed": 43042,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-27T23:03:52.2712644+00:00",
+      "NumProgressed": 43046,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26483,7 +26488,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7317
+      "UsersEstimate": 7318
     },
     {
       "ID": "ach_antiquarian10",
@@ -26587,7 +26592,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15495
+      "UsersEstimate": 15497
     },
     {
       "ID": "ach_die10",
@@ -26659,7 +26664,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5165
+      "UsersEstimate": 5166
     },
     {
       "ID": "ach_legacypupil",
@@ -26827,7 +26832,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5165
+      "UsersEstimate": 5166
     },
     {
       "ID": "ach_terror90",
@@ -26835,7 +26840,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6456
+      "UsersEstimate": 6457
     },
     {
       "ID": "ach_undercurrent",
@@ -26867,7 +26872,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5165
+      "UsersEstimate": 5166
     },
     {
       "ID": "ach_year1",
@@ -26875,7 +26880,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "ach_year10",
@@ -26898,15 +26903,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43042,
+      "Progressed": 43046,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:03:45.9174476+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:03:52.2712641+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:00.8327556+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:03:45.9175762+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:10.7153044+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:03:52.2713989+00:00"
 }

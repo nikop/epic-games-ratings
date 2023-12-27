@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.60% | ~96 |
 | Able | 0.50% | ~80 |
 | Architect | 0.50% | ~80 |
+| Good | 0.50% | ~80 |
 | Intrepid | 0.50% | ~80 |
 | Mason | 0.50% | ~80 |
 | Noble | 0.50% | ~80 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.40% | ~64 |
 | Enlightened | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
-| Good | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
 | Keystone | 0.40% | ~64 |
 | Learned | 0.40% | ~64 |
@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
+| Artisans | 0.20% | ~32 |
 | Champions | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.10% | ~16 |
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
-| Artisans | 0.10% | ~16 |
 | Clerics | 0.10% | ~16 |
 | Hunters | 0.10% | ~16 |
 | Landowners | 0.10% | ~16 |

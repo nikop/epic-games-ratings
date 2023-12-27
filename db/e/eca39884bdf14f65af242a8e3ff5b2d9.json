@@ -2,13 +2,13 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-12-07T19:59:23.1655441+00:00",
@@ -639,10 +639,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 532,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-12-27T22:58:25.0563142+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 536,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 532,
+  "NumberOfAwards": 536,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -704,7 +710,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 57
+      "Count": 61
     },
     {
       "Text": "This game has a Creative Community",
@@ -725,8 +731,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-27T19:57:55.0737856+00:00",
+  "LastChanged": "2023-12-27T22:58:25.0563141+00:00",
   "LastUpdate_AppInfo": "2023-12-25T06:57:12.3126511+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:58:19.2635804+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:06:36.8162097+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:58:25.0563148+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:06:51.78272+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1518,
+  "EOS_Progressed": 1519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3814,6 +3814,11 @@
       "Time": "2023-12-27T21:10:55.9224574+00:00",
       "NumProgressed": 1518,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T23:10:41.9938666+00:00",
+      "NumProgressed": 1519,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3825,7 +3830,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -3881,7 +3886,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "EXPERT_1",
@@ -3977,7 +3982,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4009,7 +4014,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -4073,7 +4078,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "TRAVELER_1",
@@ -4081,7 +4086,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "VVE",
@@ -4112,15 +4117,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1518,
+      "Progressed": 1519,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:10:44.0934187+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:10:41.9938662+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:58:17.0997314+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:10:44.0934542+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:58:22.7373305+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:10:41.9939034+00:00"
 }

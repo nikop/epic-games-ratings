@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4290,
+  "EOS_Progressed": 4292,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
@@ -7136,6 +7136,11 @@
       "Time": "2023-12-27T22:04:05.3753303+00:00",
       "NumProgressed": 4290,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T23:04:13.2981066+00:00",
+      "NumProgressed": 4292,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7179,7 +7184,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "CordonBleu_28",
@@ -7187,7 +7192,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "CrowdPleaser",
@@ -7203,7 +7208,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "Eureka_23",
@@ -7211,7 +7216,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7243,7 +7248,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "HomeSweetHome_25",
@@ -7331,7 +7336,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7339,7 +7344,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7395,7 +7400,7 @@
       "Name": "The power of ambition",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -7411,7 +7416,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7427,7 +7432,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -7467,7 +7472,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7482,15 +7487,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4290,
+      "Progressed": 4292,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:04:05.3753299+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:04:13.2981061+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:03:04.2235421+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:04:05.3754067+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:03:06.480554+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:04:13.2981661+00:00"
 }

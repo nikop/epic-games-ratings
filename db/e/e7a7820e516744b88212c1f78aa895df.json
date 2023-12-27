@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1335,6 +1335,11 @@
       "Time": "2023-12-27T18:10:47.5935854+00:00",
       "NumProgressed": 325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T23:10:14.2700179+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1371,7 +1376,7 @@
       "Name": "Firing on All Cylinders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achMaxEngineAll",
@@ -1387,7 +1392,7 @@
       "Name": "Moving Up a Gear",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achMaxTransmissionAll",
@@ -1411,7 +1416,7 @@
       "Name": "Employee of the Month",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achSkillsAll",
@@ -1459,7 +1464,7 @@
       "Name": "Executive Approval",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achUnlockAddon",
@@ -1570,14 +1575,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:10:18.1915114+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:10:14.2700176+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:13.519956+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:02:39.2646838+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:10:18.191537+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:02:39.1220414+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:10:14.2700371+00:00"
 }

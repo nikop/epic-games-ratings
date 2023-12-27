@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238070,
+  "EOS_Progressed": 238073,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26698,6 +26698,11 @@
       "Time": "2023-12-27T22:03:55.7382392+00:00",
       "NumProgressed": 238070,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-27T23:04:03.0478394+00:00",
+      "NumProgressed": 238073,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26797,7 +26802,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47614
+      "UsersEstimate": 47615
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -26845,7 +26850,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78563
+      "UsersEstimate": 78564
     },
     {
       "ID": "NOBUNAGA",
@@ -26869,7 +26874,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21426
+      "UsersEstimate": 21427
     },
     {
       "ID": "PHOTOFINISH",
@@ -26933,7 +26938,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52375
+      "UsersEstimate": 52376
     },
     {
       "ID": "TACTICIAN",
@@ -26957,7 +26962,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52375
+      "UsersEstimate": 52376
     },
     {
       "ID": "TUNINGMANIAC",
@@ -26973,22 +26978,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97609
+      "UsersEstimate": 97610
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238070,
+      "Progressed": 238073,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:03:55.7382388+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:04:03.0478388+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:13.9139686+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:03:55.7384406+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:24.5919044+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:04:03.0480015+00:00"
 }

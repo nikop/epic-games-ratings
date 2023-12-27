@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 650,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 52,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.54,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1919,6 +1919,11 @@
       "Time": "2023-12-27T21:09:25.0155538+00:00",
       "NumProgressed": 650,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-27T23:09:10.8236034+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2419,13 +2424,13 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 650,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:09:17.5018765+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:09:10.8236029+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:01:03.2716106+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:09:17.5019277+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:01:18.8740131+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:09:10.8236598+00:00"
 }

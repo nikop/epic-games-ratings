@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | A Second Chance | 57.00% | ~142 |
 | Press-ganged | 42.00% | ~105 |
-| The Package | 27.00% | ~67 |
-| Conquered | 19.00% | ~47 |
+| The Package | 26.00% | ~65 |
+| Conquered | 19.00% | ~48 |
 | Randomized | 18.00% | ~45 |
-| Scribe | 11.00% | ~27 |
-| Breached | 11.00% | ~27 |
+| Scribe | 11.00% | ~28 |
+| Breached | 11.00% | ~28 |
 | Tactician | 10.00% | ~25 |
 | Conciliator | 9.00% | ~22 |
 | Fight Another Day | 8.00% | ~20 |
 | Taskmaster | 8.00% | ~20 |
-| Acquaintance | 7.00% | ~17 |
+| Acquaintance | 7.00% | ~18 |
 | Scholar | 6.00% | ~15 |
 | The More the Merrier | 6.00% | ~15 |
 | Harbinger | 6.00% | ~15 |
@@ -31,11 +31,11 @@
 | Spiritual Journey | 4.00% | ~10 |
 | Trouble at Fort Larius | 4.00% | ~10 |
 | Unseen Patterns | 4.00% | ~10 |
-| Xevarian Gambit | 3.00% | ~7 |
-| The Voice of Hereafter | 3.00% | ~7 |
-| Despised | 3.00% | ~7 |
-| A Terrible Will | 3.00% | ~7 |
-| Inquisitions of Discord | 3.00% | ~7 |
+| Xevarian Gambit | 3.00% | ~8 |
+| The Voice of Hereafter | 3.00% | ~8 |
+| Despised | 3.00% | ~8 |
+| A Terrible Will | 3.00% | ~8 |
+| Inquisitions of Discord | 3.00% | ~8 |
 | Bounty Hunter | 2.00% | ~5 |
 | Supercargo | 2.00% | ~5 |
 | Watcher | 2.00% | ~5 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 400)  
+Progressed: 250 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 238 | 0 |
 | 2023-12-25 | 241 | 0 |
 | 2023-12-26 | 248 | 0 |
-| 2023-12-27 | 249 | 0 |
+| 2023-12-27 | 250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

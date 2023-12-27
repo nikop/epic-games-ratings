@@ -2,10 +2,10 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3763,
+  "EOS_Progressed": 3766,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6121,6 +6121,11 @@
       "Time": "2023-12-27T21:05:40.0532589+00:00",
       "NumProgressed": 3763,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-27T23:05:25.6645122+00:00",
+      "NumProgressed": 3766,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6140,7 +6145,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "FALLEN_TREE",
@@ -6156,7 +6161,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "MOVE_ON",
@@ -6164,7 +6169,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "REUNION",
@@ -6172,7 +6177,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "SLIDERS",
@@ -6204,7 +6209,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "THE_END",
@@ -6228,14 +6233,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3763,
+      "Progressed": 3766,
       "Completed": 6
     }
   ],
@@ -6243,8 +6248,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:05:15.1750612+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:05:25.6645118+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:30.2386401+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:05:15.1751097+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:43.014475+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:05:25.6645485+00:00"
 }

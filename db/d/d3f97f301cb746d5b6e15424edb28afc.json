@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -3992,9 +3992,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1306
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -4048,9 +4048,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1321
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -4136,9 +4136,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1306
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4312,9 +4312,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1235
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4609,8 +4609,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-27T13:01:41.0592419+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:07:46.0765939+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:08:05.6918302+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:59:50.3374454+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:07:46.0766789+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:00.0738361+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:08:05.6919136+00:00"
 }

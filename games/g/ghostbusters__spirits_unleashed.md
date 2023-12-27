@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 606)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 10.00% | ~3,282 |
-| Meticulously Efficient | 8.00% | ~2,625 |
+| Meticulously Efficient | 8.00% | ~2,626 |
 | Advancement | 7.00% | ~2,297 |
 | Discovery | 6.00% | ~1,969 |
 | Solo Capture | 6.00% | ~1,969 |
@@ -21,17 +21,17 @@ Rating: 4.50 (Ranked 606)
 | Ghostbuster In Training | 4.00% | ~1,313 |
 | There you are! | 4.00% | ~1,313 |
 | Whoopsie | 4.00% | ~1,313 |
-| Animated | 3.00% | ~984 |
-| Back Off | 3.00% | ~984 |
-| We have the best insurance | 3.00% | ~984 |
-| Ectoplasmic Entity | 3.00% | ~984 |
-| Icing on the Cake | 3.00% | ~984 |
-| Legions | 3.00% | ~984 |
-| Pesky Jerks | 3.00% | ~984 |
-| Right back at ya | 3.00% | ~984 |
-| Seasoned | 3.00% | ~984 |
-| Side Hustle | 3.00% | ~984 |
-| Summoner | 3.00% | ~984 |
+| Animated | 3.00% | ~985 |
+| Back Off | 3.00% | ~985 |
+| We have the best insurance | 3.00% | ~985 |
+| Ectoplasmic Entity | 3.00% | ~985 |
+| Icing on the Cake | 3.00% | ~985 |
+| Legions | 3.00% | ~985 |
+| Pesky Jerks | 3.00% | ~985 |
+| Right back at ya | 3.00% | ~985 |
+| Seasoned | 3.00% | ~985 |
+| Side Hustle | 3.00% | ~985 |
+| Summoner | 3.00% | ~985 |
 | Collector | 2.00% | ~656 |
 | Escape Artist | 2.00% | ~656 |
 | Reckless | 2.00% | ~656 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 606)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,816 (Ranked 133)  
+Progressed: 32,821 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,10 +308,10 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-24 | 32,658 | 69 |
 | 2023-12-25 | 32,706 | 70 |
 | 2023-12-26 | 32,761 | 70 |
-| 2023-12-27 | 32,816 | 70 |
+| 2023-12-27 | 32,821 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 252)  
-Sum: 2,931 (Ranked 182)  
+Sum: 2,933 (Ranked 182)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 70
 | This game is Great for Quick Sessions | 322 |
 | This game has Diverse Characters | 311 |
 | This game has Amazing Storytelling | 291 |
-| This game is Highly Recommended | 289 |
+| This game is Highly Recommended | 291 |
 | This game has Competitive Players | 286 |
 | This game is Relaxing | 284 |
 | This game is Extremely Fun | 282 |
@@ -578,4 +578,4 @@ Diff (max vs sum): 70
 | 2023-12-24 | 4.50 | 325 | 2,923 |
 | 2023-12-25 | 4.50 | 325 | 2,926 |
 | 2023-12-26 | 4.50 | 325 | 2,929 |
-| 2023-12-27 | 4.50 | 325 | 2,931 |
+| 2023-12-27 | 4.50 | 325 | 2,933 |

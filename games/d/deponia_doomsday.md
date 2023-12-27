@@ -12,8 +12,8 @@ Rating: 4.55 (Ranked 516)
 | FunScore | 55.00% | ~277 |
 | Funtime's over | 53.00% | ~267 |
 | Chunky | 49.00% | ~247 |
+| Boat of love, boat of love | 49.00% | ~247 |
 | Shall we play a game? | 48.00% | ~242 |
-| Boat of love, boat of love | 48.00% | ~242 |
 | School's out | 44.00% | ~222 |
 | Sole Music | 37.00% | ~186 |
 | Scaffolding Expert | 37.00% | ~186 |

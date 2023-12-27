@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 559,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1889,6 +1889,11 @@
       "Time": "2023-12-27T22:07:45.2958514+00:00",
       "NumProgressed": 557,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T23:08:04.846826+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1901,7 +1906,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -1917,7 +1922,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -1925,7 +1930,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -1996,14 +2001,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 559,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:07:45.295851+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:08:04.8468255+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-27T21:57:01.940471+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:07:45.2958671+00:00"
+  "LastUpdate_Ratings": "2023-12-27T22:57:06.2177767+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:08:04.8468434+00:00"
 }

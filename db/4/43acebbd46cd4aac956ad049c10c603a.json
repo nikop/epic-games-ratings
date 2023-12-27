@@ -5,7 +5,7 @@
   "Ranking_Rating": 24,
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 471,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 105,
@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1159,
+  "EOS_Progressed": 1160,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3152,6 +3152,11 @@
       "Time": "2023-12-27T22:05:14.4069253+00:00",
       "NumProgressed": 1159,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T23:05:24.8087466+00:00",
+      "NumProgressed": 1160,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3172,7 +3177,7 @@
       "Name": "Ab Initio",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "AnthropicHills",
@@ -3242,9 +3247,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 116
     },
     {
       "ID": "DesolateIsland",
@@ -3340,7 +3345,7 @@
       "Name": "Just One Lap",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LordOfTheFiles",
@@ -3348,7 +3353,7 @@
       "Name": "Lord of the Files",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LostMarshes",
@@ -3356,7 +3361,7 @@
       "Name": "Lost Marshes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "MistressOfRiddles",
@@ -3476,7 +3481,7 @@
       "Name": "Signatory",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "SingleRod",
@@ -3524,7 +3529,7 @@
       "Name": "The All-Gifted",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3572,7 +3577,7 @@
       "Name": "The Word Endures",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "TouchGrass",
@@ -3618,9 +3623,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 151
     },
     {
       "ID": "YourBiggestFan",
@@ -3635,7 +3640,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1159,
+      "Progressed": 1160,
       "Completed": 2
     }
   ],
@@ -3643,8 +3648,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:05:14.4069249+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:05:24.8087463+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:29.6958199+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:05:14.4069811+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:42.1209448+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:05:24.8087926+00:00"
 }

@@ -14,18 +14,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 6.00% | ~8,881 |
 | Budding Merchant | 6.00% | ~8,881 |
 | Capitalism Ho! | 6.00% | ~8,881 |
-| One Easy Payment | 5.00% | ~7,400 |
-| Some Assembly Required | 5.00% | ~7,400 |
-| Another Satisfied Customer | 5.00% | ~7,400 |
-| Pretty Penny | 5.00% | ~7,400 |
-| Own the Means of Production | 5.00% | ~7,400 |
-| The Daily Grind | 4.00% | ~5,920 |
-| Bounty Hunters | 4.00% | ~5,920 |
-| Flooding the Market | 4.00% | ~5,920 |
-| Where it Hurts | 4.00% | ~5,920 |
-| One-Armed Bandit | 4.00% | ~5,920 |
-| Dungeon Imports | 4.00% | ~5,920 |
-| Through Repetition, Perfection | 4.00% | ~5,920 |
+| One Easy Payment | 5.00% | ~7,401 |
+| Some Assembly Required | 5.00% | ~7,401 |
+| Another Satisfied Customer | 5.00% | ~7,401 |
+| Pretty Penny | 5.00% | ~7,401 |
+| Own the Means of Production | 5.00% | ~7,401 |
+| The Daily Grind | 4.00% | ~5,921 |
+| Bounty Hunters | 4.00% | ~5,921 |
+| Flooding the Market | 4.00% | ~5,921 |
+| Where it Hurts | 4.00% | ~5,921 |
+| One-Armed Bandit | 4.00% | ~5,921 |
+| Dungeon Imports | 4.00% | ~5,921 |
+| Through Repetition, Perfection | 4.00% | ~5,921 |
 | On the Path to Greatness | 3.00% | ~4,440 |
 | Ascended | 3.00% | ~4,440 |
 | Research & Development | 3.00% | ~4,440 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~592 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,009 (Ranked 83)  
+Progressed: 148,016 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,17 +370,17 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-24 | 147,460 | 333 |
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
-| 2023-12-27 | 148,009 | 336 |
+| 2023-12-27 | 148,016 | 336 |
 ## Awards
 Max (Great for Beginners): 4,922  (Ranked 76)  
-Sum: 27,832 (Ranked 51)  
+Sum: 27,834 (Ranked 51)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,922 |
 | This game is Relaxing | 4,065 |
 | This game has Quickly Understood Controls | 4,060 |
-| This game has Diverse Characters | 3,997 |
+| This game has Diverse Characters | 3,999 |
 | This game is Highly Recommended | 3,803 |
 | This game has Easy Combat | 3,757 |
 | This game has Playful Visuals | 3,228 |
@@ -718,4 +718,4 @@ Diff (max vs sum): 25
 | 2023-12-24 | 3.99 | - | 4,914 | 27,801 |
 | 2023-12-25 | 3.99 | - | 4,914 | 27,816 |
 | 2023-12-26 | 3.99 | - | 4,917 | 27,823 |
-| 2023-12-27 | 3.99 | - | 4,922 | 27,832 |
+| 2023-12-27 | 3.99 | - | 4,922 | 27,834 |

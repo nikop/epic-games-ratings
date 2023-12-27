@@ -14,8 +14,8 @@
 | Overboard | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
 | Bladesmith | 8.00% | ~10 |
+| Explorer | 7.00% | ~9 |
 | Twin Thorns | 7.00% | ~9 |
-| Explorer | 6.00% | ~7 |
 | The River Styx | 6.00% | ~7 |
 | Sovereignty of Irons | 6.00% | ~7 |
 | Let Me Solo Them | 5.00% | ~6 |

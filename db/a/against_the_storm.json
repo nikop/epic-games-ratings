@@ -3629,9 +3629,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19451,
+  "EOS_Progressed": 19458,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -17379,6 +17379,11 @@
       "Time": "2023-12-27T22:06:10.0224747+00:00",
       "NumProgressed": 19451,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-27T23:06:23.2891211+00:00",
+      "NumProgressed": 19458,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17565,9 +17570,9 @@
       "ID": "WinNearForbidden",
       "SetID": "cfbk359",
       "Name": "Forbidden Lands",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearHaunted",
@@ -17862,15 +17867,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19451,
+      "Progressed": 19458,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T21:00:32.4755155+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:06:10.0224743+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:06:23.2891205+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:12.0669462+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:06:10.0225641+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:22.5989629+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:06:23.2892426+00:00"
 }

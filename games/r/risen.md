@@ -14,7 +14,7 @@ Rating: 4.52 (Ranked 567)
 | Field hand | 41.00% | ~52 |
 | Well-to-do | 37.00% | ~47 |
 | Samaritan | 36.00% | ~46 |
-| The merciful one | 33.00% | ~42 |
+| The merciful one | 34.00% | ~44 |
 | Ladies' man | 33.00% | ~42 |
 | Ferocious wild boars | 27.00% | ~35 |
 | Idiot | 25.00% | ~32 |

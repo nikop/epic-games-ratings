@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1164,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -3254,6 +3254,11 @@
       "Time": "2023-12-27T22:10:33.5450669+00:00",
       "NumProgressed": 1164,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T23:10:30.9614882+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3266,7 +3271,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "BostonHayDay",
@@ -3274,7 +3279,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "BoxingClever",
@@ -3290,7 +3295,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Causality",
@@ -3370,7 +3375,7 @@
       "Name": "Outpatient",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "Relic",
@@ -3386,7 +3391,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "TerraTourGuide",
@@ -3402,7 +3407,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "TragedyDocumented",
@@ -3418,21 +3423,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1164,
+      "Progressed": 1165,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:10:33.5450666+00:00",
-  "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:02:53.7465122+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:10:33.5450938+00:00"
+  "LastChanged_Achievements": "2023-12-27T23:10:30.9614878+00:00",
+  "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
+  "LastUpdate_Ratings": "2023-12-27T23:02:53.4112467+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:10:30.9615164+00:00"
 }

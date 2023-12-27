@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-12-27T08:04:56.4106428+00:00",
       "NumProgressed": 249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T23:06:01.5123301+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1127,7 +1132,7 @@
       "Name": "Scribe",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -1231,7 +1236,7 @@
       "Name": "Xevarian Gambit",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_Defeated",
@@ -1239,7 +1244,7 @@
       "Name": "Conquered",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1327,7 +1332,7 @@
       "Name": "Breached",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1335,7 +1340,7 @@
       "Name": "The Voice of Hereafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
@@ -1343,7 +1348,7 @@
       "Name": "Acquaintance",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1351,7 +1356,7 @@
       "Name": "Despised",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -1519,7 +1524,7 @@
       "Name": "A Terrible Will",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_OddJobs",
@@ -1685,9 +1690,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1711,7 +1716,7 @@
       "Name": "Inquisitions of Discord",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1798,7 +1803,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 0
     }
   ],
@@ -1806,8 +1811,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:05:49.5489706+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:06:01.5123296+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:00.6407054+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:05:49.549069+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:10.5072279+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:06:01.5124158+00:00"
 }

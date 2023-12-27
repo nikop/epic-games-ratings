@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2256,
+  "EOS_Progressed": 2258,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6394,6 +6394,11 @@
       "Time": "2023-12-27T22:10:55.3937886+00:00",
       "NumProgressed": 2256,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T23:10:53.4353528+00:00",
+      "NumProgressed": 2258,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6478,7 +6483,7 @@
       "Name": "The power of the Force",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_19",
@@ -6606,7 +6611,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_33",
@@ -6622,7 +6627,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_35",
@@ -6630,7 +6635,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1987
     },
     {
       "ID": "achievement_36",
@@ -6646,7 +6651,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1423
     },
     {
       "ID": "achievement_38",
@@ -6654,7 +6659,7 @@
       "Name": "Survivor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_39",
@@ -6678,7 +6683,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "achievement_41",
@@ -6758,7 +6763,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_50",
@@ -6909,13 +6914,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2256,
+      "Progressed": 2258,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2256,
+      "Progressed": 2258,
       "Completed": 1
     }
   ],
@@ -6923,8 +6928,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:10:55.3937883+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:10:53.4353526+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:02:49.679453+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:10:55.3938713+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:02:48.7300994+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:10:53.435422+00:00"
 }

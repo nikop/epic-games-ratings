@@ -50,7 +50,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 0.80% | ~156 |
 | Refinery | 0.70% | ~136 |
 | Dangerous Lands | 0.70% | ~136 |
-| Forbidden Lands | 0.60% | ~117 |
+| Forbidden Lands | 0.70% | ~136 |
 | Feeding The People | 0.50% | ~97 |
 | Fox Utopia | 0.50% | ~97 |
 | Like a Machine | 0.40% | ~78 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,451 (Ranked 150)  
+Progressed: 19,458 (Ranked 150)  
 Completed: 37 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 37 (0.19%) (Ranked 276)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,451 | 38 |
+| 2023-12-27 | 19,458 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,297 (Ranked 176)  

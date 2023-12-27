@@ -3775,10 +3775,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2931,
       "NumberOfAwardsMax": 325
+    },
+    {
+      "Time": "2023-12-27T23:00:22.281221+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2933,
+      "NumberOfAwardsMax": 325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2931,
+  "NumberOfAwards": 2933,
   "NumberOfAwardsMax": 325,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3834,7 +3840,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 289
+      "Count": 291
     },
     {
       "Text": "This game is Relaxing",
@@ -3855,9 +3861,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32816,
+  "EOS_Progressed": 32821,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23695,6 +23701,11 @@
       "Time": "2023-12-27T21:09:09.6373177+00:00",
       "NumProgressed": 32816,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-27T23:08:55.3887889+00:00",
+      "NumProgressed": 32821,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23714,7 +23725,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Back_Off",
@@ -23722,7 +23733,7 @@
       "Name": "Back Off",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Best_Insurance",
@@ -23730,7 +23741,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -23810,7 +23821,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Efficient",
@@ -23818,7 +23829,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "Escape_Artist",
@@ -23866,7 +23877,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Legions",
@@ -23874,7 +23885,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Liability",
@@ -23922,7 +23933,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Reckless",
@@ -23954,7 +23965,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Rivalry",
@@ -23970,7 +23981,7 @@
       "Name": "Seasoned",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Side_Hustle",
@@ -23978,7 +23989,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Skilled",
@@ -24018,7 +24029,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Surprise",
@@ -24113,16 +24124,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32816,
+      "Progressed": 32821,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-27T19:00:27.43553+00:00",
-  "LastChanged_Achievements": "2023-12-27T22:09:02.9546651+00:00",
+  "LastChanged": "2023-12-27T23:00:22.2812208+00:00",
+  "LastChanged_Achievements": "2023-12-27T23:08:55.3887885+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:00:11.750553+00:00",
-  "LastUpdate_Achievements": "2023-12-27T22:09:02.9547705+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:00:22.2812214+00:00",
+  "LastUpdate_Achievements": "2023-12-27T23:08:55.3888913+00:00"
 }
