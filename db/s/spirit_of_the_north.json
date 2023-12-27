@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78060,
+  "EOS_Progressed": 78061,
   "EOS_Completed": 418,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -27994,6 +27994,11 @@
       "Time": "2023-12-27T02:29:41.387335+00:00",
       "NumProgressed": 78060,
       "NumCompleted": 418
+    },
+    {
+      "Time": "2023-12-27T03:10:41.5409161+00:00",
+      "NumProgressed": 78061,
+      "NumCompleted": 418
     }
   ],
   "TotalAchievements": 24,
@@ -28021,7 +28026,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 53861
+      "UsersEstimate": 53862
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28061,7 +28066,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22637
+      "UsersEstimate": 22638
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -28196,7 +28201,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78060,
+      "Progressed": 78061,
       "Completed": 418
     }
   ],
@@ -28204,8 +28209,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:29:41.3873347+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:10:41.5409157+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:16:58.7418439+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:29:41.387528+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:57:58.1744703+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:10:41.5410704+00:00"
 }

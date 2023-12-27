@@ -17214,10 +17214,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 445854,
       "NumberOfAwardsMax": 127789
+    },
+    {
+      "Time": "2023-12-27T03:03:57.8265713+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 446017,
+      "NumberOfAwardsMax": 127789
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 445854,
+  "NumberOfAwards": 446017,
   "NumberOfAwardsMax": 127789,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17237,7 +17243,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27342
+      "Count": 27505
     },
     {
       "Text": "This game is Relaxing",
@@ -17294,10 +17300,10 @@
       "Count": 16929
     }
   ],
-  "EOS_Progressed": 981850,
-  "EOS_Completed": 2981,
-  "EOS_NewPlayers": 2930,
-  "EOS_NewCompleters": 37,
+  "EOS_Progressed": 981858,
+  "EOS_Completed": 2982,
+  "EOS_NewPlayers": 2927,
+  "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -45899,6 +45905,11 @@
       "Time": "2023-12-27T02:26:00.2879351+00:00",
       "NumProgressed": 981850,
       "NumCompleted": 2981
+    },
+    {
+      "Time": "2023-12-27T03:06:59.9987496+00:00",
+      "NumProgressed": 981858,
+      "NumCompleted": 2982
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45919,7 +45930,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9818
+      "UsersEstimate": 9819
     },
     {
       "ID": "BushidoAndChill",
@@ -45935,7 +45946,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 49092
+      "UsersEstimate": 49093
     },
     {
       "ID": "Denied",
@@ -45959,7 +45970,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9818
+      "UsersEstimate": 9819
     },
     {
       "ID": "Gearhead",
@@ -45983,7 +45994,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78548
+      "UsersEstimate": 78549
     },
     {
       "ID": "Gunslinger",
@@ -46095,7 +46106,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9818
+      "UsersEstimate": 9819
     },
     {
       "ID": "Temperance",
@@ -46167,7 +46178,7 @@
       "Name": "The Sun",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9818
+      "UsersEstimate": 9819
     },
     {
       "ID": "TheWheelOfFortune",
@@ -46207,7 +46218,7 @@
       "Name": "True Soldier",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49092
+      "UsersEstimate": 49093
     },
     {
       "ID": "TrueWarrior",
@@ -46239,7 +46250,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117822
+      "UsersEstimate": 117823
     },
     {
       "ID": "YipMan",
@@ -46311,7 +46322,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "Kingofcups",
@@ -46446,21 +46457,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981850,
-      "Completed": 2981
+      "Progressed": 981858,
+      "Completed": 2982
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110473,
-      "Completed": 10466
+      "Progressed": 110481,
+      "Completed": 10467
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-12-27T01:47:41.9362191+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:26:00.2879344+00:00",
+  "LastChanged": "2023-12-27T03:03:57.8265709+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:06:59.998749+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:22:54.4253389+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:26:00.2881634+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:03:57.8265717+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:06:59.9988932+00:00"
 }

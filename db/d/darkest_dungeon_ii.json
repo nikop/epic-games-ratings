@@ -10200,9 +10200,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 130093,
+  "EOS_Progressed": 130100,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1466,
+  "EOS_NewPlayers": 1459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36990,6 +36990,11 @@
       "Time": "2023-12-27T02:29:31.2214437+00:00",
       "NumProgressed": 130093,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T03:10:31.3735927+00:00",
+      "NumProgressed": 130100,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37151,9 +37156,9 @@
       "ID": "combat_kill_death",
       "SetID": "64l4lke",
       "Name": "Not Today!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3903
+      "UsersEstimate": 5204
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37537,7 +37542,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "combat_kill_collector",
@@ -37585,7 +37590,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37601,7 +37606,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37632,21 +37637,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130093,
+      "Progressed": 130100,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 4962,
+      "Progressed": 4969,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-27T01:43:57.9710915+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:29:31.221443+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:10:31.3735922+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:19:09.2238113+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:29:31.2216227+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:00:07.8108113+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:10:31.3737437+00:00"
 }

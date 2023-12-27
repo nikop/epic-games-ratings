@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3107,6 +3107,11 @@
       "Time": "2023-12-26T23:04:55.011189+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T03:05:26.557259+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3119,7 +3124,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AbInitio",
@@ -3159,7 +3164,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "BreakTheLoop",
@@ -3183,7 +3188,7 @@
       "Name": "Chasing the Light",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Chicken",
@@ -3191,7 +3196,7 @@
       "Name": "Chicken",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CircularOasis",
@@ -3199,7 +3204,7 @@
       "Name": "Circular Oasis",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "DesolateIsland",
@@ -3231,7 +3236,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Excellent",
@@ -3239,7 +3244,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FloodedValley",
@@ -3319,7 +3324,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Mnemosyne",
@@ -3367,7 +3372,7 @@
       "Name": "Not What It Seems",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Overload",
@@ -3423,7 +3428,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Signatory",
@@ -3455,7 +3460,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TeamSpirit",
@@ -3503,7 +3508,7 @@
       "Name": "The Hard Way",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TheSpark",
@@ -3551,7 +3556,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Wanderers",
@@ -3567,7 +3572,7 @@
       "Name": "Western Delta",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WoodedPlateau",
@@ -3590,7 +3595,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 2
     }
   ],
@@ -3598,8 +3603,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:24:24.6120309+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:05:26.5572585+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:19:19.3265363+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:24:24.6120917+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:00:16.9995656+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:05:26.5573167+00:00"
 }

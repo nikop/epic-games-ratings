@@ -15,8 +15,8 @@
 | Turian Ally | 41.00% | ~1,282 |
 | Medal of Exploration II | 39.00% | ~1,220 |
 | Council Legion of Merit | 38.00% | ~1,189 |
+| Medal of Honor | 36.00% | ~1,126 |
 | Soldier Ally | 36.00% | ~1,126 |
-| Medal of Honor | 35.00% | ~1,095 |
 | Soldier | 35.00% | ~1,095 |
 | Meritorious Service Medal | 35.00% | ~1,095 |
 | Charismatic | 35.00% | ~1,095 |
@@ -28,9 +28,9 @@
 | Principled | 32.00% | ~1,001 |
 | Very Elusive | 32.00% | ~1,001 |
 | Sentinel Ally | 31.00% | ~970 |
+| Paramour I | 30.00% | ~938 |
 | Merciless | 30.00% | ~938 |
 | Scientist | 30.00% | ~938 |
-| Paramour I | 29.00% | ~907 |
 | Scholar | 29.00% | ~907 |
 | The Professor | 28.00% | ~876 |
 | Head Hunter | 28.00% | ~876 |

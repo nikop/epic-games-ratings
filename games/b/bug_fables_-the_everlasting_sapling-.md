@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 69.00% | ~72 |
+| Chapter 1 Complete | 70.00% | ~74 |
 | Chapter 2 Complete | 44.00% | ~46 |
 | Vicious Spider | 43.00% | ~45 |
 | Chapter 3 Complete | 32.00% | ~34 |
@@ -14,10 +14,10 @@
 | Chapter 5 Complete | 21.00% | ~22 |
 | The Truth | 20.00% | ~21 |
 | Chapter 6 Complete | 19.00% | ~20 |
+| Plant Enchanter | 19.00% | ~20 |
 | Reconciliation | 19.00% | ~20 |
 | Always Watchful | 18.00% | ~19 |
 | Chapter 7 Complete | 18.00% | ~19 |
-| Plant Enchanter | 18.00% | ~19 |
 | The Terror | 16.00% | ~17 |
 | Bounty Hunter | 15.00% | ~16 |
 | Battle Ready | 13.00% | ~14 |

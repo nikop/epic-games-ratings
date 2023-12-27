@@ -6,9 +6,9 @@
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 3784,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 3785,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3623,11 +3623,11 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19360,
-  "EOS_Completed": 38,
-  "EOS_NewPlayers": 659,
-  "EOS_NewCompleters": -1,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_Progressed": 19362,
+  "EOS_Completed": 37,
+  "EOS_NewPlayers": 661,
+  "EOS_NewCompleters": -2,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -17278,6 +17278,11 @@
       "Time": "2023-12-27T02:25:18.7337758+00:00",
       "NumProgressed": 19360,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-27T03:06:19.7771923+00:00",
+      "NumProgressed": 19362,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17520,9 +17525,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 387
     },
     {
       "ID": "WinNearTemple",
@@ -17761,15 +17766,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19360,
-      "Completed": 38
+      "Progressed": 19362,
+      "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T01:43:48.2906099+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:25:18.7337752+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:06:19.777192+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:19:01.4909483+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:25:18.7338996+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:00:00.1461434+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:06:19.7772764+00:00"
 }

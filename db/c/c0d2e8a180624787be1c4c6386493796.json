@@ -1401,17 +1401,17 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
       "SetID": "caeik3h",
       "Name": "Guac-a-Mole",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
@@ -1638,8 +1638,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:24:59.0992208+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:06:00.8241164+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:21:00.1362034+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:24:59.0992815+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:01:55.430256+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:06:00.8241788+00:00"
 }

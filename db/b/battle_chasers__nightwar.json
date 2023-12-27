@@ -2,7 +2,7 @@
   "ID": "bd6437617fc841df8c43800901211059",
   "Name": "Battle Chasers: Nightwar",
   "ProductSlug": "battle-chasers-nightwar",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 816,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -159,6 +159,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T03:01:04.3280086+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -176,8 +182,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
-  "LastChanged": "2023-07-17T16:00:12.8288969+00:00",
+  "LastChanged": "2023-12-27T03:01:04.3280084+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:22.4992287+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:20:05.4758786+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:25:28.8923593+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:01:04.3280089+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:06:29.787429+00:00"
 }

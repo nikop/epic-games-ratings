@@ -2,13 +2,13 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158363,
-  "EOS_Completed": 369,
-  "EOS_NewPlayers": 1176,
+  "EOS_Progressed": 158365,
+  "EOS_Completed": 370,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -23048,6 +23048,11 @@
       "Time": "2023-12-27T02:23:43.1422304+00:00",
       "NumProgressed": 158363,
       "NumCompleted": 369
+    },
+    {
+      "Time": "2023-12-27T03:04:45.7842784+00:00",
+      "NumProgressed": 158365,
+      "NumCompleted": 370
     }
   ],
   "TotalAchievements": 31,
@@ -23067,7 +23072,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 110854
+      "UsersEstimate": 110856
     },
     {
       "ID": "EAwards_10",
@@ -23083,7 +23088,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "EAwards_12",
@@ -23107,15 +23112,15 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 63345
+      "UsersEstimate": 63346
     },
     {
       "ID": "EAwards_15",
       "SetID": "7gko43",
       "Name": "No Encore!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 19004
+      "UsersEstimate": 20587
     },
     {
       "ID": "EAwards_16",
@@ -23259,7 +23264,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23754
+      "UsersEstimate": 23755
     },
     {
       "ID": "EAwards_5",
@@ -23291,7 +23296,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 60178
+      "UsersEstimate": 60179
     },
     {
       "ID": "EAwards_9",
@@ -23306,16 +23311,16 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 158363,
-      "Completed": 369
+      "Progressed": 158365,
+      "Completed": 370
     }
   ],
   "FirstSeen": "2023-06-15T17:57:10.0099472+00:00",
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:23:43.1422299+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:04:45.7842779+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.0676889+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:16:49.7835603+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:23:43.1423762+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:57:48.4896778+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:04:45.7844052+00:00"
 }

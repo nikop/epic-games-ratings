@@ -1235,10 +1235,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 575,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-12-27T02:59:08.695507+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 575,
+  "NumberOfAwards": 576,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1288,7 +1294,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1315,7 +1321,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3404,
+  "EOS_Progressed": 3406,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -6995,6 +7001,11 @@
       "Time": "2023-12-27T02:26:23.2078833+00:00",
       "NumProgressed": 3404,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T03:07:21.9617887+00:00",
+      "NumProgressed": 3406,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7134,7 +7145,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_HOARDER",
@@ -7150,7 +7161,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -7158,7 +7169,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7222,7 +7233,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -7318,7 +7329,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -7326,7 +7337,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -7358,7 +7369,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -7382,22 +7393,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2112
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3404,
+      "Progressed": 3406,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-12-26T22:58:47.4483065+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:26:23.2078827+00:00",
+  "LastChanged": "2023-12-27T02:59:08.6955068+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:07:21.9617882+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:18:07.3758845+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:26:23.2079362+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:59:08.6955073+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:07:21.9618382+00:00"
 }

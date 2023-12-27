@@ -674,9 +674,9 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_042",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:29:39.6831266+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:10:39.96188+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:18:09.6885257+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:29:39.6831619+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:59:09.8077986+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:10:39.9619077+00:00"
 }

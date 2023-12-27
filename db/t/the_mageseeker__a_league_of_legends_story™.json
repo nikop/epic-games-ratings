@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3076,
+  "EOS_Progressed": 3077,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5288,6 +5288,11 @@
       "Time": "2023-12-27T01:51:40.7021866+00:00",
       "NumProgressed": 3076,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-27T03:07:38.2889703+00:00",
+      "NumProgressed": 3077,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5347,7 +5352,7 @@
       "Name": "Elemental master",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -5363,7 +5368,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5403,7 +5408,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5427,7 +5432,7 @@
       "Name": "Little light",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -5435,7 +5440,7 @@
       "Name": "Old friend",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -5475,7 +5480,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5483,7 +5488,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5515,7 +5520,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5531,7 +5536,7 @@
       "Name": "Clarion Cove",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5563,7 +5568,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -5675,7 +5680,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5691,7 +5696,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -5722,7 +5727,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3076,
+      "Progressed": 3077,
       "Completed": 17
     }
   ],
@@ -5730,8 +5735,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-26T20:58:40.3345897+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:26:39.5071146+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:07:38.2889698+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:18:40.803818+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:26:39.5071915+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:59:40.3469672+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:07:38.2890246+00:00"
 }

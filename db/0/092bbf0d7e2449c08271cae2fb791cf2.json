@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2023-12-26T20:05:28.9836353+00:00",
       "NumProgressed": 303,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T03:05:53.1885068+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1009,9 +1014,9 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 52
+      "UsersEstimate": 49
     },
     {
       "ID": "ach2",
@@ -1066,14 +1071,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:24:51.6664907+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:05:53.1885063+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:19:12.8211574+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:24:51.6665021+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:00:11.0682085+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:05:53.1885181+00:00"
 }

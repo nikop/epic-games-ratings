@@ -22,10 +22,10 @@ Number of Ratings: 124  (23.09.2022)
 | Berserker | 7.00% | ~8 |
 | Eternal Oblivion | 7.00% | ~8 |
 | Storyteller | 5.00% | ~6 |
+| Globetrotter | 5.00% | ~6 |
 | Hotshot | 5.00% | ~6 |
 | Free as a Bird | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |
-| Globetrotter | 4.00% | ~4 |
 | Self-Sufficient | 4.00% | ~4 |
 | Idealist | 4.00% | ~4 |
 | Unbreakable | 4.00% | ~4 |

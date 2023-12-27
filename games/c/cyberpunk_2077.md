@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,822 |
-| Gun Fu | 8.00% | ~78,548 |
+| V for Vendetta | 12.00% | ~117,823 |
+| Gun Fu | 8.00% | ~78,549 |
 | The Fool | 7.00% | ~68,730 |
 | Right Back At Ya | 6.00% | ~58,911 |
 | The Lovers | 6.00% | ~58,911 |
-| Full Body Conversion | 5.00% | ~49,092 |
-| True Soldier | 5.00% | ~49,092 |
+| Full Body Conversion | 5.00% | ~49,093 |
+| True Soldier | 5.00% | ~49,093 |
 | All the President's Men | 5.00% | ~5,524 |
 | Christmas Tree Attack | 4.00% | ~39,274 |
 | Stanislavski's Method | 4.00% | ~39,274 |
@@ -32,11 +32,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 2.00% | ~19,637 |
 | Two Heads, One Bullet | 2.00% | ~19,637 |
 | Judy vs Night City | 2.00% | ~19,637 |
-| Spin Doctor | 2.00% | ~2,209 |
-| To Bad Decisions! | 1.00% | ~9,818 |
-| The Wandering Fool | 1.00% | ~9,818 |
-| Ten out of Ten | 1.00% | ~9,818 |
-| The Sun | 1.00% | ~9,818 |
+| Spin Doctor | 2.00% | ~2,210 |
+| To Bad Decisions! | 1.00% | ~9,819 |
+| The Wandering Fool | 1.00% | ~9,819 |
+| Ten out of Ten | 1.00% | ~9,819 |
+| The Sun | 1.00% | ~9,819 |
 | King of Wands | 1.00% | ~1,105 |
 | Dirty Deeds | 1.00% | ~1,105 |
 | Easy Come, Easy Go | 1.00% | ~1,105 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,850 (Ranked 16)  
-Completed: 2,981 (0.30%) (Ranked 254)  
+Progressed: 981,858 (Ranked 16)  
+Completed: 2,982 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,17 +325,17 @@ Completed: 2,981 (0.30%) (Ranked 254)
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
-| 2023-12-27 | 981,850 | 2,981 |
+| 2023-12-27 | 981,858 | 2,982 |
 ## Awards
 Max (Character Customization): 127,789  (Ranked 8)  
-Sum: 445,854 (Ranked 9)  
+Sum: 446,017 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 127,789 |
 | This game has Great Boss Battles | 94,409 |
 | This game is Great for Beginners | 28,033 |
-| This game has Diverse Characters | 27,342 |
+| This game has Diverse Characters | 27,505 |
 | This game is Highly Recommended | 26,128 |
 | This game has Amazing Storytelling | 25,698 |
 | This game is Extremely Fun | 25,437 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -1
 | 2023-12-24 | 4.66 | - | 127,101 | 441,867 |
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
 | 2023-12-26 | 4.66 | - | 127,789 | 445,740 |
-| 2023-12-27 | 4.66 | - | 127,789 | 445,854 |
+| 2023-12-27 | 4.66 | - | 127,789 | 446,017 |

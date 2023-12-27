@@ -5,50 +5,50 @@ Rating: 4.90 (Ranked 8)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 49.00% | ~6,110 |
-| Feeling the beat! | 49.00% | ~6,110 |
-| You can pet the cat! | 44.00% | ~5,486 |
-| Who put gears in there? | 35.00% | ~4,364 |
-| Cream of the Crop | 31.00% | ~3,865 |
-| Thanks for the free chip, Peppermint! | 30.00% | ~3,741 |
-| You got this, Peppermint? | 25.00% | ~3,117 |
-| Perfect Parry | 23.00% | ~2,868 |
-| Alright, that felt AWESOME! | 23.00% | ~2,868 |
-| I play my own way! | 20.00% | ~2,494 |
-| This will cost you big time | 18.00% | ~2,244 |
-| Uh, they were broken when I got here | 18.00% | ~2,244 |
-| Z-shielding's got nothing on us! | 16.00% | ~1,995 |
-| Kissing the sky! | 16.00% | ~1,995 |
-| Does that say weakpoint? | 15.00% | ~1,870 |
-| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,746 |
-| The Negotiator | 12.00% | ~1,496 |
-| You must like calling me in, Chai | 11.00% | ~1,372 |
-| I look cool. But I can look COOLER. | 11.00% | ~1,372 |
-| Headliner | 10.00% | ~1,247 |
-| Out in a puff of smoke | 10.00% | ~1,247 |
-| Time to pay up! | 9.00% | ~1,122 |
-| Perfecter Parry-er! | 9.00% | ~1,122 |
+| Start with a bang! | 49.00% | ~6,115 |
+| Feeling the beat! | 49.00% | ~6,115 |
+| You can pet the cat! | 44.00% | ~5,491 |
+| Who put gears in there? | 35.00% | ~4,368 |
+| Cream of the Crop | 31.00% | ~3,869 |
+| Thanks for the free chip, Peppermint! | 30.00% | ~3,744 |
+| You got this, Peppermint? | 25.00% | ~3,120 |
+| Perfect Parry | 23.00% | ~2,870 |
+| Alright, that felt AWESOME! | 23.00% | ~2,870 |
+| I play my own way! | 20.00% | ~2,496 |
+| This will cost you big time | 18.00% | ~2,246 |
+| Uh, they were broken when I got here | 18.00% | ~2,246 |
+| Z-shielding's got nothing on us! | 16.00% | ~1,997 |
+| Kissing the sky! | 16.00% | ~1,997 |
+| Does that say weakpoint? | 15.00% | ~1,872 |
+| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,747 |
+| The Negotiator | 12.00% | ~1,498 |
+| You must like calling me in, Chai | 11.00% | ~1,373 |
+| I look cool. But I can look COOLER. | 11.00% | ~1,373 |
+| Headliner | 10.00% | ~1,248 |
+| Out in a puff of smoke | 10.00% | ~1,248 |
+| Time to pay up! | 9.00% | ~1,123 |
+| Perfecter Parry-er! | 9.00% | ~1,123 |
 | Who's the boss now? | 8.00% | ~998 |
 | I have to read these things? | 8.00% | ~998 |
-| NOW we got a kickass hideout! | 7.00% | ~769 |
-| Well that was a rush! | 6.00% | ~748 |
-| There's such a thing as TOO helpful | 6.00% | ~748 |
-| Beat-hit mania | 5.00% | ~623 |
-| That's a lot of junk metal… | 5.00% | ~623 |
+| NOW we got a kickass hideout! | 7.00% | ~770 |
+| There's such a thing as TOO helpful | 6.00% | ~749 |
+| Well that was a rush! | 5.00% | ~624 |
+| Beat-hit mania | 5.00% | ~624 |
+| That's a lot of junk metal… | 5.00% | ~624 |
 | I told you I'd be fine, Peppermint! | 4.00% | ~499 |
 | Chip-tuned | 3.00% | ~374 |
 | Wanna hear my playlist? | 3.00% | ~374 |
 | Check out my moves! | 3.00% | ~374 |
-| We're Jammin' | 2.00% | ~249 |
-| I hit things with a guitar really well. | 2.00% | ~249 |
-| You ever parry a volcano? | 2.00% | ~249 |
+| We're Jammin' | 2.00% | ~250 |
+| I hit things with a guitar really well. | 2.00% | ~250 |
+| You ever parry a volcano? | 2.00% | ~250 |
 | I think I deserve some praise, here! | 1.00% | ~125 |
 | I think I found your calling, Macaron | 1.00% | ~125 |
 | This is a breeze! | 1.00% | ~125 |
 | I'm not done with you yet | 1.00% | ~125 |
 | First we parry, then we counter | 1.00% | ~125 |
 | Call me Turbo Chai | 1.00% | ~110 |
-| Easy Listening | 0.90% | ~112 |
+| Easy Listening | 0.80% | ~100 |
 | OK, well THEY came after ME! | 0.60% | ~75 |
 | New bad guys? No problem! | 0.60% | ~66 |
 | Problem solved... wait, what? | 0.30% | ~37 |
@@ -77,7 +77,7 @@ Rating: 4.90 (Ranked 8)
 | Voices from within | 0.10% | ~11 |
 | Low budget finish | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,469 (Ranked 172)  
+Progressed: 12,480 (Ranked 172)  
 Completed: 8 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 8 (0.06%) (Ranked 327)
 | 2023-12-24 | 11,697 | 8 |
 | 2023-12-25 | 12,076 | 8 |
 | 2023-12-26 | 12,450 | 8 |
-| 2023-12-27 | 12,469 | 8 |
+| 2023-12-27 | 12,480 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

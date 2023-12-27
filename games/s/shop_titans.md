@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 9.00% | ~13,307 |
 | Titan's First Steps | 9.00% | ~13,307 |
-| Basic in Bulk | 8.00% | ~11,828 |
-| Tinkle of Coins | 8.00% | ~11,828 |
+| Basic in Bulk | 8.00% | ~11,829 |
+| Tinkle of Coins | 8.00% | ~11,829 |
 | Disintermediation | 6.00% | ~8,871 |
 | It's Free Real Estate | 6.00% | ~8,871 |
 | Budding Merchant | 6.00% | ~8,871 |
@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 3.00% | ~4,436 |
 | Gem Expert | 3.00% | ~4,436 |
 | Gild-Gotten Goods | 3.00% | ~4,436 |
+| Royal Ransom | 3.00% | ~4,436 |
 | Helping Hand | 3.00% | ~4,436 |
 | Accomplished Merchant | 3.00% | ~4,436 |
 | Natural 20 | 3.00% | ~4,436 |
@@ -74,7 +75,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 2.00% | ~2,957 |
 | A Legend is Born | 2.00% | ~2,957 |
 | Trash to Treasure | 2.00% | ~2,957 |
-| Royal Ransom | 2.00% | ~2,957 |
 | Mammonite | 2.00% | ~2,957 |
 | Wealth Beyond Measure | 2.00% | ~2,957 |
 | Fat Cat Tag Team | 2.00% | ~2,957 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~591 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,853 (Ranked 83)  
+Progressed: 147,858 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-24 | 147,460 | 333 |
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
-| 2023-12-27 | 147,853 | 336 |
+| 2023-12-27 | 147,858 | 336 |
 ## Awards
 Max (Great for Beginners): 4,917  (Ranked 76)  
 Sum: 27,823 (Ranked 51)  

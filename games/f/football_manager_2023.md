@@ -5,53 +5,53 @@ Rating: 4.76 (Ranked 132)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~253,883 |
-| The Player Whisperer | 68.00% | ~250,203 |
-| One of Us, One of Us! | 62.00% | ~228,127 |
-| First Victory | 55.00% | ~202,370 |
-| Clean Sheet | 54.00% | ~198,691 |
-| #DoneDeal | 54.00% | ~198,691 |
-| Off the Books | 52.00% | ~191,332 |
-| Super-Sub | 52.00% | ~191,332 |
-| Hat-trick | 46.00% | ~169,255 |
-| Planned Signing | 44.00% | ~161,896 |
-| "I Would Love It If We Beat Them" | 43.00% | ~158,217 |
-| Thumping | 40.00% | ~147,178 |
-| Scoring Streak | 40.00% | ~147,178 |
-| Wheeler Dealer | 40.00% | ~147,178 |
-| People Pleaser | 39.00% | ~143,499 |
-| Unbeatable! | 38.00% | ~139,819 |
-| One Of Our Own | 36.00% | ~132,461 |
-| They're a Natural | 32.00% | ~117,743 |
-| Record Signing | 32.00% | ~117,743 |
-| Team Performance | 31.00% | ~114,063 |
-| The Only Stat That Matters | 30.00% | ~110,384 |
-| Star Player | 29.00% | ~106,704 |
-| Full Faith | 28.00% | ~103,025 |
-| Goal Rush | 28.00% | ~103,025 |
-| Parked The Bus | 27.00% | ~99,345 |
-| Squad Goals | 27.00% | ~99,345 |
-| The People's Champion | 27.00% | ~99,345 |
-| Beating Expectations | 26.00% | ~95,666 |
-| You're on Fire | 25.00% | ~91,986 |
-| Tremendous Trio | 25.00% | ~91,986 |
-| Unstoppable Force | 25.00% | ~91,986 |
-| Record Sale | 25.00% | ~91,986 |
-| Shots For Days | 24.00% | ~88,307 |
+| Motivational Speaker | 69.00% | ~253,885 |
+| The Player Whisperer | 68.00% | ~250,205 |
+| One of Us, One of Us! | 62.00% | ~228,128 |
+| First Victory | 55.00% | ~202,372 |
+| Clean Sheet | 54.00% | ~198,692 |
+| #DoneDeal | 54.00% | ~198,692 |
+| Off the Books | 52.00% | ~191,333 |
+| Super-Sub | 52.00% | ~191,333 |
+| Hat-trick | 46.00% | ~169,257 |
+| Planned Signing | 44.00% | ~161,898 |
+| "I Would Love It If We Beat Them" | 43.00% | ~158,218 |
+| Thumping | 40.00% | ~147,180 |
+| Scoring Streak | 40.00% | ~147,180 |
+| Wheeler Dealer | 40.00% | ~147,180 |
+| People Pleaser | 39.00% | ~143,500 |
+| Unbeatable! | 38.00% | ~139,821 |
+| One Of Our Own | 36.00% | ~132,462 |
+| They're a Natural | 32.00% | ~117,744 |
+| Record Signing | 32.00% | ~117,744 |
+| Team Performance | 31.00% | ~114,064 |
+| The Only Stat That Matters | 30.00% | ~110,385 |
+| Star Player | 29.00% | ~106,705 |
+| Full Faith | 28.00% | ~103,026 |
+| Goal Rush | 28.00% | ~103,026 |
+| Parked The Bus | 27.00% | ~99,346 |
+| Squad Goals | 27.00% | ~99,346 |
+| The People's Champion | 27.00% | ~99,346 |
+| Beating Expectations | 26.00% | ~95,667 |
+| You're on Fire | 25.00% | ~91,987 |
+| Tremendous Trio | 25.00% | ~91,987 |
+| Unstoppable Force | 25.00% | ~91,987 |
+| Record Sale | 25.00% | ~91,987 |
+| Shots For Days | 24.00% | ~88,308 |
 | On a Roll | 23.00% | ~84,628 |
 | Drilling Down | 23.00% | ~84,628 |
 | Flavour Of The Month | 23.00% | ~84,628 |
 | The Special One | 23.00% | ~84,628 |
-| What A Goal! | 22.00% | ~80,948 |
+| What A Goal! | 22.00% | ~80,949 |
 | Goal Machine | 21.00% | ~77,269 |
-| Splashing the Cash | 20.00% | ~73,589 |
-| Immovable Object | 20.00% | ~73,589 |
-| Cup Glory! | 20.00% | ~73,589 |
-| Irresistible Force | 18.00% | ~66,230 |
+| Splashing the Cash | 20.00% | ~73,590 |
+| Immovable Object | 20.00% | ~73,590 |
+| Cup Glory! | 20.00% | ~73,590 |
+| Irresistible Force | 18.00% | ~66,231 |
 | Do The Double | 17.00% | ~62,551 |
-| Cash to Burn | 16.00% | ~58,871 |
-| Top Form | 14.00% | ~51,512 |
-| Window Shopping | 14.00% | ~51,512 |
+| Cash to Burn | 16.00% | ~58,872 |
+| Top Form | 14.00% | ~51,513 |
+| Window Shopping | 14.00% | ~51,513 |
 | A Game of Two Halves | 13.00% | ~47,833 |
 | You're Up! | 12.00% | ~44,154 |
 | Money, Money, Money | 10.00% | ~36,795 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 132)
 | 200 Club | 0.10% | ~368 |
 | Draft Value | 0.10% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367,946 (Ranked 49)  
+Progressed: 367,949 (Ranked 49)  
 Completed: 29 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 29 (0.01%) (Ranked 367)
 | 2023-12-24 | 367,404 | 29 |
 | 2023-12-25 | 367,667 | 29 |
 | 2023-12-26 | 367,922 | 29 |
-| 2023-12-27 | 367,946 | 29 |
+| 2023-12-27 | 367,949 | 29 |
 ## Awards
 Max (Diverse Characters): 1,319  (Ranked 138)  
 Sum: 9,065 (Ranked 99)  

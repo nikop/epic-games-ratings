@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 71.00% | ~50 |
+| Marc Allard | 73.00% | ~51 |
 | Little ideas | 69.00% | ~48 |
 | The Ship | 64.00% | ~45 |
 | Seeking the truth | 51.00% | ~36 |

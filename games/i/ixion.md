@@ -17,10 +17,10 @@ Rating: 4.58 (Ranked 457)
 | Ain't Nobody Got Time for That | 14.00% | ~524 |
 | The Ship of Theseus | 14.00% | ~524 |
 | Guy de Borderlands | 13.00% | ~487 |
+| Hope Seeker | 13.00% | ~487 |
 | A Hunk of Junk | 12.00% | ~450 |
 | Exceeding Capacity | 12.00% | ~450 |
 | Breaking Protocol | 12.00% | ~450 |
-| Hope Seeker | 12.00% | ~450 |
 | Man's Best Friend | 9.00% | ~337 |
 | Power Outage | 9.00% | ~337 |
 | Convenient Transport | 8.00% | ~300 |

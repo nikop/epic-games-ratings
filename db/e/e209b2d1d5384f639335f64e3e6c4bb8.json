@@ -281,9 +281,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 335976,
+  "EOS_Progressed": 335978,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2322,
+  "EOS_NewPlayers": 2318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15206,6 +15206,11 @@
       "Time": "2023-12-27T02:25:51.3977144+00:00",
       "NumProgressed": 335976,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T03:06:51.5049306+00:00",
+      "NumProgressed": 335978,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -15242,7 +15247,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 147829
+      "UsersEstimate": 147830
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -15250,7 +15255,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 107512
+      "UsersEstimate": 107513
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -15266,7 +15271,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 50396
+      "UsersEstimate": 50397
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -15594,20 +15599,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 171348
+      "UsersEstimate": 171349
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 335976,
+      "Progressed": 335978,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 335965,
+      "Progressed": 335967,
       "Completed": 1
     }
   ],
@@ -15615,8 +15620,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-12-23T14:03:01.9146724+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:25:51.3977139+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:06:51.5049302+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.4899054+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:22:36.9721033+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:25:51.3978186+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:03:41.1925371+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:06:51.5050108+00:00"
 }

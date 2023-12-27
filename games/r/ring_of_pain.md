@@ -36,6 +36,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.60% | ~1,451 |
 | Cold Hearted | 0.60% | ~1,451 |
 | I Am Overburdened | 0.60% | ~1,451 |
+| Destroy Your Fears | 0.60% | ~1,451 |
 | Shootout | 0.60% | ~1,451 |
 | Stone Touch | 0.60% | ~1,451 |
 | Toxic | 0.60% | ~1,451 |
@@ -45,7 +46,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.50% | ~1,209 |
 | Just Chilling | 0.50% | ~1,209 |
 | Save Our Souls | 0.50% | ~1,209 |
-| Destroy Your Fears | 0.50% | ~1,209 |
 | Acid Bath | 0.50% | ~1,209 |
 | New Perspectives | 0.50% | ~1,209 |
 | Shapeshifting | 0.50% | ~1,209 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,792 (Ranked 69)  
+Progressed: 241,793 (Ranked 69)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
 | 2023-12-26 | 241,782 | 302 |
-| 2023-12-27 | 241,792 | 302 |
+| 2023-12-27 | 241,793 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,760 (Ranked 88)  

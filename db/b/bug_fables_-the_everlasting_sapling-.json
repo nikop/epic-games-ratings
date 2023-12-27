@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -264,9 +264,9 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "BFT_CH1HB",
@@ -376,9 +376,9 @@
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 65,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "BFT_COOK",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:29:55.673615+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:10:56.2128909+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.5653285+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:19:47.7770477+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:29:55.6736385+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:00:47.6504408+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:10:56.2129097+00:00"
 }

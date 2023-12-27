@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 199,
@@ -489,9 +489,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 5236,
+  "EOS_Progressed": 5237,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7879,6 +7879,11 @@
       "Time": "2023-12-27T02:27:25.2652123+00:00",
       "NumProgressed": 5236,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T03:08:24.9521735+00:00",
+      "NumProgressed": 5237,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7922,7 +7927,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -7930,7 +7935,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -8010,7 +8015,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -8058,7 +8063,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -8082,7 +8087,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "ACH_MISSION_02",
@@ -8090,7 +8095,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH_MISSION_03",
@@ -8114,7 +8119,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACH_MISSION_06",
@@ -8146,7 +8151,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH_MISSION_10",
@@ -8170,7 +8175,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -8186,7 +8191,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -8210,7 +8215,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -8249,7 +8254,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5236,
+      "Progressed": 5237,
       "Completed": 3
     }
   ],
@@ -8257,8 +8262,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-26T13:01:31.6015488+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:27:25.2652118+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:08:24.9521731+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:19:16.0609452+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:27:25.2652875+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:00:13.7511918+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:08:24.9522361+00:00"
 }

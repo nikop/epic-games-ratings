@@ -2471,9 +2471,9 @@
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "completedStory_cvawn",
@@ -2711,8 +2711,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:30:19.4038685+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:11:19.8293258+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.6061916+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:17:34.2414803+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:30:19.4039272+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:58:35.4565933+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:11:19.8293759+00:00"
 }

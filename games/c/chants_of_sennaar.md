@@ -24,7 +24,7 @@ Rating: 4.87 (Ranked 24)
 | In this together | 20.00% | ~371 |
 | Open door | 19.00% | ~353 |
 | Feels like springtime | 18.00% | ~334 |
-| Alchemists Express | 17.00% | ~316 |
+| Alchemists Express | 18.00% | ~334 |
 | Free at last | 16.00% | ~297 |
 | A Link to the Past | 14.00% | ~260 |
 | A great audience | 12.00% | ~223 |

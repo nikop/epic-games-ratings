@@ -31,6 +31,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 2.00% | ~387 |
 | Monastery of the Holy Flame | 2.00% | ~387 |
 | Lost Colonies | 2.00% | ~387 |
+| Statue of the Forefathers | 2.00% | ~387 |
 | Corrosive Torrent | 2.00% | ~387 |
 | Cursed Lands | 2.00% | ~387 |
 | A Real Challenge | 2.00% | ~387 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 1.00% | ~194 |
 | Haunted Forest | 1.00% | ~194 |
 | Flooded Mines | 1.00% | ~194 |
-| Statue of the Forefathers | 1.00% | ~194 |
 | Defying the Crown | 1.00% | ~194 |
 | Serving Ale | 0.90% | ~174 |
 | Fishmen Ritual Site | 0.90% | ~174 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,360 (Ranked 150)  
-Completed: 38 (0.20%) (Ranked 274)  
+Progressed: 19,362 (Ranked 150)  
+Completed: 37 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,7 +317,7 @@ Completed: 38 (0.20%) (Ranked 274)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,360 | 38 |
+| 2023-12-27 | 19,362 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,296 (Ranked 176)  

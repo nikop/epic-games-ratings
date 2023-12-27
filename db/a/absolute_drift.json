@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -481,9 +481,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559265,
+  "EOS_Progressed": 1559270,
   "EOS_Completed": 758,
-  "EOS_NewPlayers": 2012,
+  "EOS_NewPlayers": 2009,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29181,6 +29181,11 @@
       "Time": "2023-12-27T02:23:56.9758503+00:00",
       "NumProgressed": 1559265,
       "NumCompleted": 758
+    },
+    {
+      "Time": "2023-12-27T03:04:59.385965+00:00",
+      "NumProgressed": 1559270,
+      "NumCompleted": 758
     }
   ],
   "TotalAchievements": 20,
@@ -29288,7 +29293,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155926
+      "UsersEstimate": 155927
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -29336,7 +29341,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77963
+      "UsersEstimate": 77964
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -29351,15 +29356,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1559265,
+      "Progressed": 1559270,
       "Completed": 758
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:23:56.9758498+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:04:59.3859647+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.4889522+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:22:31.4973029+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:23:56.9759991+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:03:35.3883855+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:04:59.386074+00:00"
 }

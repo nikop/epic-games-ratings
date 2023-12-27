@@ -19,9 +19,9 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 3.00% | ~47 |
 | A Mythic Menagerie | 2.00% | ~31 |
 | Who's Counting? | 2.00% | ~31 |
+| Pyrrhic Victory | 2.00% | ~31 |
 | Let Me Get My Chisel | 1.00% | ~16 |
 | Thematic Divergence | 1.00% | ~16 |
-| Pyrrhic Victory | 1.00% | ~16 |
 | Echoes Die | 1.00% | ~16 |
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |

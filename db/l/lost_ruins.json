@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -1594,6 +1594,11 @@
       "Time": "2023-12-27T01:55:22.4593182+00:00",
       "NumProgressed": 615,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T03:11:17.3667997+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1637,7 +1642,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BugHunter",
@@ -1685,7 +1690,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Hardboiled",
@@ -1891,9 +1896,9 @@
       "ID": "TreasureHunter",
       "SetID": "82505mn",
       "Name": "Treasure Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "Troubleshooter",
@@ -1924,7 +1929,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 1
     }
   ],
@@ -1932,8 +1937,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:30:16.8114015+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:11:17.3667991+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:17:30.6416669+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:30:16.8114271+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:58:31.9209337+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:11:17.3668326+00:00"
 }

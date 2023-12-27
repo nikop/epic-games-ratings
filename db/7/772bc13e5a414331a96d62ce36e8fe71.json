@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 6.38,
+  "EOS_Completed_Percentage": 6.37,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1409,6 +1409,11 @@
       "Time": "2023-12-27T02:24:02.3850335+00:00",
       "NumProgressed": 470,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-27T03:05:04.5922199+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -1427,9 +1432,9 @@
       "ID": "10000_XP",
       "SetID": "8d0im30",
       "Name": "2 000 Score",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "1000_XP",
@@ -1437,7 +1442,7 @@
       "Name": "1000 Score",
       "Percentage": 36,
       "XP": 200,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "100_XP",
@@ -1445,7 +1450,7 @@
       "Name": "500 Score",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "10_XP",
@@ -1460,14 +1465,14 @@
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:24:02.3850327+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:05:04.5922193+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:12.9601407+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:20:33.3738008+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:24:02.385047+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:01:30.4081237+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:05:04.5922403+00:00"
 }

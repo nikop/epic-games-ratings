@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 255831,
+  "EOS_Progressed": 255834,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28587,6 +28587,11 @@
       "Time": "2023-12-27T02:23:30.1170344+00:00",
       "NumProgressed": 255831,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-27T03:04:33.2507475+00:00",
+      "NumProgressed": 255834,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28598,7 +28603,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69074
+      "UsersEstimate": 69075
     },
     {
       "ID": "ACH_AON",
@@ -28742,7 +28747,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74191
+      "UsersEstimate": 74192
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -28790,7 +28795,7 @@
       "Name": "Let\u0027s try another",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "ACH_LETSBEACH",
@@ -28902,7 +28907,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20466
+      "UsersEstimate": 20467
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -28910,7 +28915,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20466
+      "UsersEstimate": 20467
     },
     {
       "ID": "ACH_SCRATCH",
@@ -28990,7 +28995,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20466
+      "UsersEstimate": 20467
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -28998,7 +29003,7 @@
       "Name": "Well-deserved reunion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH_WHOTROLL",
@@ -29013,7 +29018,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 255831,
+      "Progressed": 255834,
       "Completed": 8
     }
   ],
@@ -29021,8 +29026,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-26T10:03:44.4340285+00:00",
-  "LastChanged_Achievements": "2023-12-27T02:23:30.1170338+00:00",
+  "LastChanged_Achievements": "2023-12-27T03:04:33.250747+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:22:43.6395869+00:00",
-  "LastUpdate_Achievements": "2023-12-27T02:23:30.1172077+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:03:48.6212953+00:00",
+  "LastUpdate_Achievements": "2023-12-27T03:04:33.2509258+00:00"
 }
