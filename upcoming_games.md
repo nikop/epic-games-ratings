@@ -1,8 +1,8 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Scaryy Bingo](games/7/7f359e1dcc134507aefd7780e1249c5c.md) | 2023-12-27 | - |  | - | - |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 52 | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles](games/a/af3dedaf653943779d7161fa3531229f.md) | 2023-12-27 | - |  | - | - |
+| [Garten of Banban 6](games/d/df8c7b6dd0fb4b6cb346fa48a0425aba.md) | 2023-12-28 | - |  | - | - |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 0 | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-12-29 | - |  | - | - |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 1 | - | - |
@@ -28,7 +28,6 @@
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2023-12-31 | - |  | - | - |
 | [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2023-12-31 | - |  | - | - |
 | [Flipper Mechanic Simulator](games/f/flipper_mechanic_simulator.md) | 2023-12-31 | - |  | - | - |
-| [Garten of Banban 6](games/d/df8c7b6dd0fb4b6cb346fa48a0425aba.md) | 2023-12-31 | - |  | - | - |
 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 2023-12-31 | 14 (1,000 XP) | 4 | - | - |
 | [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2023-12-31 | - |  | - | - |
 | [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2023-12-31 | - |  | - | - |
