@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252619,
+  "EOS_Progressed": 252620,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22377,6 +22377,11 @@
       "Time": "2023-12-27T01:55:07.8552855+00:00",
       "NumProgressed": 252619,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-27T05:09:33.338229+00:00",
+      "NumProgressed": 252620,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22484,7 +22489,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45471
+      "UsersEstimate": 45472
     },
     {
       "ID": "curator",
@@ -22564,7 +22569,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133888
+      "UsersEstimate": 133889
     },
     {
       "ID": "indegestible",
@@ -22692,7 +22697,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58102
+      "UsersEstimate": 58103
     },
     {
       "ID": "thunderstruck",
@@ -22708,7 +22713,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32840
+      "UsersEstimate": 32841
     },
     {
       "ID": "treeMedalist",
@@ -22755,7 +22760,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252619,
+      "Progressed": 252620,
       "Completed": 6
     }
   ],
@@ -22763,8 +22768,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:10:31.5815975+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:33.3382287+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.5552445+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:59:33.0723571+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:10:31.5817145+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:58:43.1154431+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:33.3383245+00:00"
 }

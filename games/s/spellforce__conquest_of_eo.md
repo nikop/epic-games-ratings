@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 87.00% | ~75 |
-| Enough rooms to swing a cat | 80.00% | ~69 |
-| First to the post | 80.00% | ~69 |
+| Home Sweet Home | 90.00% | ~77 |
+| Enough rooms to swing a cat | 81.00% | ~70 |
+| First to the post | 81.00% | ~70 |
 | A kind of Magic | 73.00% | ~63 |
 | Connected | 66.00% | ~57 |
 | Expansion | 62.00% | ~53 |
@@ -33,8 +33,8 @@
 | Stormwatch Faste | 12.00% | ~10 |
 | Friend of Silver Drift Hollow | 12.00% | ~10 |
 | Friend of Bastion | 12.00% | ~10 |
+| Magic Academy | 12.00% | ~10 |
 | Friend of Orgash | 10.00% | ~9 |
-| Magic Academy | 10.00% | ~9 |
 | Defeat Gor | 9.00% | ~8 |
 | Silver Drift Hollow Mine | 9.00% | ~8 |
 | Mage Teacher | 9.00% | ~8 |
@@ -46,9 +46,9 @@
 | Defeat Uram | 7.00% | ~6 |
 | Elynn's Tale | 7.00% | ~6 |
 | The Forge of Regan Gor | 7.00% | ~6 |
+| Tuscari Sea Portal | 7.00% | ~6 |
 | Defeat Raith | 6.00% | ~5 |
 | Lore's Tale | 6.00% | ~5 |
-| Tuscari Sea Portal | 6.00% | ~5 |
 | Balanced | 6.00% | ~5 |
 | Friend of Uram Gor | 6.00% | ~5 |
 | Get to the Airship! | 5.00% | ~4 |

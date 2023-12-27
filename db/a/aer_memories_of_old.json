@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27183,
+  "EOS_Progressed": 27185,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -27394,6 +27394,11 @@
       "Time": "2023-12-27T04:05:11.1715737+00:00",
       "NumProgressed": 27183,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-12-27T05:04:18.196292+00:00",
+      "NumProgressed": 27185,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 20,
@@ -27405,7 +27410,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -27429,7 +27434,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -27525,7 +27530,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20659
+      "UsersEstimate": 20661
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27533,7 +27538,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7339
+      "UsersEstimate": 7340
     },
     {
       "ID": "NORTH_FINISHED",
@@ -27564,15 +27569,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27183,
+      "Progressed": 27185,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:05:11.1715733+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:04:18.1962917+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:57:04.0838487+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:05:11.1717037+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:57:03.0857343+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:04:18.1964572+00:00"
 }

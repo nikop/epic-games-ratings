@@ -732,17 +732,17 @@
       "ID": "Ach_DiveDeath",
       "SetID": "4o5gjp0",
       "Name": "MayDay! MayDay!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -844,9 +844,9 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach_TalkToLostSoul",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:09:21.2896758+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:08:43.4492129+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.9683486+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:00:25.6237742+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:09:21.2896961+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:59:17.6162005+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:08:43.4492352+00:00"
 }

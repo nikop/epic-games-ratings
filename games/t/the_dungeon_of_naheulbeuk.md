@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,174 |
+| Sowwy! | 36.00% | ~88,175 |
 | Alt+F4 | 10.00% | ~24,493 |
-| Where's that freaking Dwarf? | 9.00% | ~22,043 |
+| Where's that freaking Dwarf? | 9.00% | ~22,044 |
 | Déjà vu | 7.00% | ~17,145 |
 | Sock! SOCK! | 6.00% | ~14,696 |
 | A beer, two curses, three companions | 5.00% | ~12,246 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,449 |
 | Lëgal Legend | 0.90% | ~2,204 |
 | We come in peace | 0.80% | ~1,959 |
-| Holistic Adventuring Party | 0.70% | ~1,714 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,714 |
+| Holistic Adventuring Party | 0.70% | ~1,715 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,715 |
 | Law and Order | 0.60% | ~1,470 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,225 |
 | It's been a hard day's night | 0.50% | ~1,225 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,927 (Ranked 68)  
+Progressed: 244,930 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-24 | 244,469 | 7 |
 | 2023-12-25 | 244,664 | 8 |
 | 2023-12-26 | 244,894 | 8 |
-| 2023-12-27 | 244,927 | 8 |
+| 2023-12-27 | 244,930 | 8 |
 ## Awards
 Max (Character Customization): 256  (Ranked 276)  
 Sum: 538 (Ranked 325)  

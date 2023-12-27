@@ -1593,9 +1593,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 244927,
+  "EOS_Progressed": 244930,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1292,
+  "EOS_NewPlayers": 1291,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23828,6 +23828,11 @@
       "Time": "2023-12-27T04:10:42.4473302+00:00",
       "NumProgressed": 244927,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-27T05:09:41.538498+00:00",
+      "NumProgressed": 244930,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -23855,7 +23860,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "BarbarianEpic",
@@ -24239,7 +24244,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22043
+      "UsersEstimate": 22044
     },
     {
       "ID": "DwarfElf15Support",
@@ -24287,7 +24292,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88174
+      "UsersEstimate": 88175
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24351,7 +24356,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "InsultLoose",
@@ -24542,21 +24547,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 244927,
+      "Progressed": 244930,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 244927,
+      "Progressed": 244930,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-26T17:01:38.5233809+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:10:42.4473297+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:41.5384978+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:01:27.5979958+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:10:42.4475959+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:59:57.9989329+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:41.5386928+00:00"
 }

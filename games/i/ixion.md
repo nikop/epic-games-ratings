@@ -1,21 +1,21 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 457)  
+Rating: 4.58 (Ranked 456)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,161 |
-| Sputnik 2049 | 27.00% | ~1,011 |
+| Wakey Wakey | 31.00% | ~1,162 |
+| Sputnik 2049 | 27.00% | ~1,012 |
 | Infinite Growth... | 26.00% | ~974 |
-| Without Breaking Some Eggs... | 25.00% | ~936 |
+| Without Breaking Some Eggs... | 25.00% | ~937 |
 | Space Society | 18.00% | ~674 |
 | A Thousand Strong | 18.00% | ~674 |
 | Ready for a New World | 18.00% | ~674 |
-| Permanent Redesigns | 16.00% | ~599 |
-| Fully Recycled | 14.00% | ~524 |
-| Ain't Nobody Got Time for That | 14.00% | ~524 |
-| The Ship of Theseus | 14.00% | ~524 |
+| Permanent Redesigns | 16.00% | ~600 |
+| Fully Recycled | 14.00% | ~525 |
+| Ain't Nobody Got Time for That | 14.00% | ~525 |
+| The Ship of Theseus | 14.00% | ~525 |
 | Guy de Borderlands | 13.00% | ~487 |
 | Hope Seeker | 13.00% | ~487 |
 | A Hunk of Junk | 12.00% | ~450 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 457)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,746 (Ranked 211)  
+Progressed: 3,747 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 3,700 | 0 |
 | 2023-12-25 | 3,722 | 0 |
 | 2023-12-26 | 3,743 | 0 |
-| 2023-12-27 | 3,746 | 0 |
+| 2023-12-27 | 3,747 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

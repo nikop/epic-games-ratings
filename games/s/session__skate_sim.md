@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,113 |
-| Keeping it classy | 27.00% | ~920 |
+| You're free now! | 62.00% | ~2,114 |
+| Keeping it classy | 27.00% | ~921 |
 | Welcome to the family | 22.00% | ~750 |
 | The finer things in life | 19.00% | ~648 |
 | Backpacker | 14.00% | ~477 |
@@ -23,13 +23,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~239 |
 | That pinch! | 7.00% | ~239 |
 | Tight lipslides | 7.00% | ~239 |
-| Fulfilled the dream | 6.00% | ~204 |
-| G'Day Mate! | 6.00% | ~204 |
-| Laid back | 6.00% | ~204 |
-| NAHELL! | 6.00% | ~204 |
-| Purple passion | 6.00% | ~204 |
-| Squad goals | 6.00% | ~204 |
-| Sup widdit big dog! | 6.00% | ~204 |
+| Fulfilled the dream | 6.00% | ~205 |
+| G'Day Mate! | 6.00% | ~205 |
+| Laid back | 6.00% | ~205 |
+| NAHELL! | 6.00% | ~205 |
+| Purple passion | 6.00% | ~205 |
+| Squad goals | 6.00% | ~205 |
+| Sup widdit big dog! | 6.00% | ~205 |
 | Commence the Hijinx! | 5.00% | ~170 |
 | Cops called! | 5.00% | ~170 |
 | DIY Boss | 5.00% | ~170 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,408 (Ranked 217)  
+Progressed: 3,410 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-24 | 3,361 | 2 |
 | 2023-12-25 | 3,377 | 2 |
 | 2023-12-26 | 3,401 | 2 |
-| 2023-12-27 | 3,408 | 2 |
+| 2023-12-27 | 3,410 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
 Sum: 576 (Ranked 323)  

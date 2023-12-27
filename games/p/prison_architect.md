@@ -6,8 +6,8 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~52,074 |
-| Get Busy Living | 16.00% | ~33,327 |
+| Stone Walls | 25.00% | ~52,076 |
+| Get Busy Living | 16.00% | ~33,329 |
 | Samuel Norton | 9.00% | ~18,747 |
 | Spare The Rod | 4.00% | ~8,332 |
 | Don't Put Me In The Dark | 3.00% | ~6,249 |
@@ -17,13 +17,13 @@ Number of Ratings: 4,491  (23.09.2022)
 | Iron Bars | 2.00% | ~4,166 |
 | D.B. Cooper | 1.00% | ~2,083 |
 | Reformation | 0.60% | ~1,250 |
-| Crowd Control | 0.50% | ~1,041 |
+| Crowd Control | 0.50% | ~1,042 |
 | Freedom | 0.40% | ~833 |
 | Confined | 0.30% | ~625 |
 | It's Not What You Know... | 0.10% | ~208 |
 | ... It's What You Can Prove | 0.10% | ~208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,296 (Ranked 77)  
+Progressed: 208,305 (Ranked 77)  
 Completed: 12 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,17 +274,17 @@ Completed: 12 (0.01%) (Ranked 367)
 | 2023-12-24 | 207,353 | 11 |
 | 2023-12-25 | 207,753 | 11 |
 | 2023-12-26 | 208,220 | 12 |
-| 2023-12-27 | 208,296 | 12 |
+| 2023-12-27 | 208,305 | 12 |
 ## Awards
 Max (Great for Beginners): 616  (Ranked 198)  
-Sum: 4,715 (Ranked 149)  
+Sum: 4,718 (Ranked 149)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 616 |
 | This game is Extremely Fun | 597 |
 | This game is Highly Recommended | 561 |
-| This game has Quickly Understood Controls | 553 |
+| This game has Quickly Understood Controls | 556 |
 | This game is Relaxing | 547 |
 | This game has Diverse Characters | 518 |
 | This game has Amazing Storytelling | 503 |
@@ -633,3 +633,4 @@ Diff (max vs sum): 49
 | 2023-12-24 | 4.61 | - | 612 | 4,696 |
 | 2023-12-25 | 4.61 | - | 614 | 4,704 |
 | 2023-12-26 | 4.61 | - | 616 | 4,715 |
+| 2023-12-27 | 4.61 | - | 616 | 4,718 |

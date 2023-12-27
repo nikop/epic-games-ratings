@@ -185,9 +185,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 7923,
+  "EOS_Progressed": 7932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2380,
+  "EOS_NewPlayers": 2385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2540,6 +2540,11 @@
       "Time": "2023-12-27T04:10:24.1269933+00:00",
       "NumProgressed": 7923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T05:09:28.0977942+00:00",
+      "NumProgressed": 7932,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2552,7 +2557,7 @@
       "Name": "Conspiracy",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2697
     },
     {
       "ID": "03_TheStolenStar",
@@ -2560,7 +2565,7 @@
       "Name": "Stolen Star",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1428
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2568,7 +2573,7 @@
       "Name": "Trade Empire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -2640,7 +2645,7 @@
       "Name": "Doom Trader",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -2656,7 +2661,7 @@
       "Name": "Pentakill",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "16_TheRise",
@@ -2664,7 +2669,7 @@
       "Name": "The Rise",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "17_TheExemplar",
@@ -2680,7 +2685,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1428
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2688,7 +2693,7 @@
       "Name": "Void Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -2696,7 +2701,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "21_PreciseDefense",
@@ -2712,7 +2717,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "23_DynastyRestored",
@@ -2720,7 +2725,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "24_TheHighrise",
@@ -2760,7 +2765,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -2768,7 +2773,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "30_The GreatestExploration",
@@ -2776,7 +2781,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "31_DontTouchThis",
@@ -2792,7 +2797,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -2800,7 +2805,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1190
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -2808,7 +2813,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -2832,7 +2837,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -2864,7 +2869,7 @@
       "Name": "Jungle Heat",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "42_TheIronJudgement",
@@ -2880,7 +2885,7 @@
       "Name": "No Place Like Home",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -2904,7 +2909,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1507
     },
     {
       "ID": "47_AFlame",
@@ -2968,7 +2973,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -2992,7 +2997,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3071,7 +3076,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 7923,
+      "Progressed": 7932,
       "Completed": 0
     }
   ],
@@ -3079,8 +3084,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-26T15:00:11.7318471+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:10:24.1269928+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:28.097794+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:04.5293385+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:02:33.1834697+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:10:24.1270566+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:02:30.1708967+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:28.0978774+00:00"
 }

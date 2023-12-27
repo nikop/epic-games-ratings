@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1677,
+  "EOS_Progressed": 1678,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4082,6 +4082,11 @@
       "Time": "2023-12-27T04:07:52.9009691+00:00",
       "NumProgressed": 1677,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T05:06:11.9485939+00:00",
+      "NumProgressed": 1678,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4116,9 +4121,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "5k00jcd",
       "Name": "Drifting teacher",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4396,9 +4401,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "5k00jcd",
       "Name": "Tools of the trade",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4461,20 +4466,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1677,
+      "Progressed": 1678,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:07:52.9009688+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:06:11.9485934+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:01:03.1154504+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:07:52.9010115+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:59:42.4594071+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:06:11.9486578+00:00"
 }

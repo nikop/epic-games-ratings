@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-12-27T04:08:23.348934+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T05:08:02.9776743+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1029,9 +1034,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "20TELEPORTS",
@@ -1045,9 +1050,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1071,7 +1076,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "30POTIONS",
@@ -1093,9 +1098,9 @@
       "ID": "35TELEPORTS",
       "SetID": "a1angca",
       "Name": "Globetrotter",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "50000ELEXIT",
@@ -1133,9 +1138,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1157,9 +1162,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "BRINGTOYS",
@@ -1382,15 +1387,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:08:23.3489335+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:08:02.9776742+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:01:33.8531377+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:08:23.3489758+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:00:02.1329883+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:08:02.9777093+00:00"
 }

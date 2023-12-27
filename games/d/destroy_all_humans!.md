@@ -15,7 +15,7 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 51.00% | ~90 |
 | Lobster Blisque | 49.00% | ~87 |
 | Pimp My Raid | 47.00% | ~83 |
-| Earthly Pleasures | 45.00% | ~80 |
+| Earthly Pleasures | 46.00% | ~81 |
 | Fly Me to the Moon Base | 42.00% | ~74 |
 | Ducks in a Row, Fish in a Barrel | 42.00% | ~74 |
 | Bodied Sattva | 33.00% | ~58 |

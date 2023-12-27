@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 85,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:09:08.1502675+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:08:34.1910494+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:12.2164584+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:59:56.1379189+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:09:08.1502896+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:58:58.5573541+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:08:34.1910754+00:00"
 }

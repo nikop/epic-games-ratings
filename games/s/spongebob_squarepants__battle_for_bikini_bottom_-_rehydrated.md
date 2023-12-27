@@ -28,9 +28,9 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 3.00% | ~12 |
 | Ship Shape | 3.00% | ~12 |
 | Kelp Forest of Fear | 3.00% | ~12 |
+| Ultra Spatula Seeker | 3.00% | ~12 |
 | Shanghaied | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
-| Ultra Spatula Seeker | 2.00% | ~8 |
 | The Small Does Not Rule | 1.00% | ~4 |
 | SpongeBob vs SpongeBob! | 1.00% | ~4 |
 | Sock Concert | 1.00% | ~4 |

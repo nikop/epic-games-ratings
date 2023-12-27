@@ -1925,10 +1925,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 793,
       "NumberOfAwardsMax": 519
+    },
+    {
+      "Time": "2023-12-27T04:57:35.5351342+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 794,
+      "NumberOfAwardsMax": 519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 793,
+  "NumberOfAwards": 794,
   "NumberOfAwardsMax": 519,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1990,10 +1996,10 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27
+      "Count": 28
     }
   ],
-  "EOS_Progressed": 17022,
+  "EOS_Progressed": 17024,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 1384,
   "EOS_NewCompleters": 3,
@@ -17778,6 +17784,11 @@
       "Time": "2023-12-27T04:10:32.8286968+00:00",
       "NumProgressed": 17022,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-27T05:09:34.3837026+00:00",
+      "NumProgressed": 17024,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -17789,7 +17800,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13788
+      "UsersEstimate": 13789
     },
     {
       "ID": "ACH02",
@@ -17845,7 +17856,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8511
+      "UsersEstimate": 8512
     },
     {
       "ID": "ACH09",
@@ -18013,7 +18024,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "ACH30",
@@ -18068,16 +18079,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17022,
+      "Progressed": 17024,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-26T13:00:04.6466604+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:10:32.8286963+00:00",
+  "LastChanged": "2023-12-27T04:57:35.5351341+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:34.3837024+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:57:53.0987011+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:10:32.8287941+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:57:35.5351346+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:34.3837978+00:00"
 }

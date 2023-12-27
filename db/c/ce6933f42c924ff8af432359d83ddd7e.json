@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1248,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
@@ -2889,6 +2889,11 @@
       "Time": "2023-12-27T01:54:54.4092461+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T05:09:23.59847+00:00",
+      "NumProgressed": 1248,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2917,7 +2922,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2973,21 +2978,21 @@
       "Name": "Exit",
       "Percentage": 56,
       "XP": 65,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1248,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:10:17.7537657+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:23.5984698+00:00",
   "LastUpdate_AppInfo": "2023-12-22T18:57:03.6270643+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:02:51.9268546+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:10:17.7537882+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:02:43.0422253+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:23.5984906+00:00"
 }

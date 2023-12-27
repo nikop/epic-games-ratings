@@ -5,27 +5,27 @@ Rating: 4.20 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 18.00% | ~3,511 |
-| The Outer Way | 18.00% | ~3,511 |
-| Desperate Times | 17.00% | ~3,316 |
-| Get a Grip | 16.00% | ~3,121 |
-| Paper Jams | 16.00% | ~3,121 |
+| Flesh Wound | 18.00% | ~3,512 |
+| The Outer Way | 18.00% | ~3,512 |
+| Desperate Times | 17.00% | ~3,317 |
+| Get a Grip | 16.00% | ~3,122 |
+| Paper Jams | 16.00% | ~3,122 |
 | Chew 'Em Up | 14.00% | ~2,731 |
 | Float Like A Butterfly | 13.00% | ~2,536 |
 | Reforged | 13.00% | ~2,536 |
-| Workplace Hazard | 11.00% | ~2,145 |
-| If the SHU Fits... | 11.00% | ~2,145 |
-| Without A Paddle | 10.00% | ~1,950 |
-| In the Pipe, Five by Five | 9.00% | ~1,755 |
-| Two Heads Are Better Than One | 8.00% | ~1,560 |
-| Crash Site | 8.00% | ~1,560 |
-| Power Up | 8.00% | ~1,560 |
-| Giving Back | 7.00% | ~1,365 |
-| You Need a Gun | 7.00% | ~1,365 |
-| Terminated | 7.00% | ~1,365 |
-| What Lies Beneath | 7.00% | ~1,365 |
-| Full Circle | 7.00% | ~1,365 |
-| I Do Belong Here | 6.00% | ~1,170 |
+| Workplace Hazard | 11.00% | ~2,146 |
+| If the SHU Fits... | 11.00% | ~2,146 |
+| Without A Paddle | 10.00% | ~1,951 |
+| In the Pipe, Five by Five | 9.00% | ~1,756 |
+| Two Heads Are Better Than One | 8.00% | ~1,561 |
+| Crash Site | 8.00% | ~1,561 |
+| Power Up | 8.00% | ~1,561 |
+| Giving Back | 7.00% | ~1,366 |
+| You Need a Gun | 7.00% | ~1,366 |
+| Terminated | 7.00% | ~1,366 |
+| What Lies Beneath | 7.00% | ~1,366 |
+| Full Circle | 7.00% | ~1,366 |
+| I Do Belong Here | 6.00% | ~1,171 |
 | Keep Fighting | 6.00% | ~446 |
 | It's Time | 5.00% | ~372 |
 | The Commonality | 4.00% | ~780 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 940)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,504 (Ranked 149)  
+Progressed: 19,510 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 82 (0.42%) (Ranked 230)
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
-| 2023-12-27 | 19,504 | 82 |
+| 2023-12-27 | 19,510 | 82 |
 ## Awards
 Max (Amazing Characters): 102  (Ranked 369)  
 Sum: 515 (Ranked 327)  

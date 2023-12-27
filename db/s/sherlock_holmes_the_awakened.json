@@ -4704,9 +4704,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 652
+      "UsersEstimate": 665
     },
     {
       "ID": "MQ03_2",
@@ -4889,8 +4889,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-25T11:02:59.9594634+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:07:09.0621802+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:05:41.1536147+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:03:26.5081715+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:07:09.0622199+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:03:03.9375878+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:05:41.1536414+00:00"
 }

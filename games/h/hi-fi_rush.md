@@ -5,34 +5,34 @@ Rating: 4.90 (Ranked 8)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 49.00% | ~6,123 |
-| Feeling the beat! | 49.00% | ~6,123 |
-| You can pet the cat! | 44.00% | ~5,498 |
-| Who put gears in there? | 35.00% | ~4,373 |
-| Cream of the Crop | 31.00% | ~3,873 |
-| Thanks for the free chip, Peppermint! | 30.00% | ~3,748 |
-| You got this, Peppermint? | 25.00% | ~3,124 |
-| Perfect Parry | 23.00% | ~2,874 |
-| Alright, that felt AWESOME! | 23.00% | ~2,874 |
-| I play my own way! | 20.00% | ~2,499 |
-| This will cost you big time | 18.00% | ~2,249 |
-| Uh, they were broken when I got here | 18.00% | ~2,249 |
-| Z-shielding's got nothing on us! | 16.00% | ~1,999 |
-| Kissing the sky! | 16.00% | ~1,999 |
-| Does that say weakpoint? | 15.00% | ~1,874 |
-| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,749 |
-| The Negotiator | 12.00% | ~1,499 |
-| You must like calling me in, Chai | 11.00% | ~1,374 |
-| I look cool. But I can look COOLER. | 11.00% | ~1,374 |
-| Headliner | 10.00% | ~1,250 |
-| Out in a puff of smoke | 10.00% | ~1,250 |
-| Time to pay up! | 9.00% | ~1,125 |
-| Perfecter Parry-er! | 9.00% | ~1,125 |
-| Who's the boss now? | 8.00% | ~1,000 |
-| I have to read these things? | 8.00% | ~1,000 |
-| NOW we got a kickass hideout! | 7.00% | ~771 |
+| Start with a bang! | 49.00% | ~6,128 |
+| Feeling the beat! | 49.00% | ~6,128 |
+| You can pet the cat! | 44.00% | ~5,503 |
+| Who put gears in there? | 35.00% | ~4,377 |
+| Cream of the Crop | 31.00% | ~3,877 |
+| Thanks for the free chip, Peppermint! | 30.00% | ~3,752 |
+| You got this, Peppermint? | 25.00% | ~3,127 |
+| Perfect Parry | 23.00% | ~2,877 |
+| Alright, that felt AWESOME! | 23.00% | ~2,877 |
+| I play my own way! | 20.00% | ~2,501 |
+| This will cost you big time | 18.00% | ~2,251 |
+| Uh, they were broken when I got here | 18.00% | ~2,251 |
+| Z-shielding's got nothing on us! | 16.00% | ~2,001 |
+| Kissing the sky! | 16.00% | ~2,001 |
+| Does that say weakpoint? | 15.00% | ~1,876 |
+| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,751 |
+| The Negotiator | 12.00% | ~1,501 |
+| You must like calling me in, Chai | 11.00% | ~1,376 |
+| I look cool. But I can look COOLER. | 11.00% | ~1,376 |
+| Headliner | 10.00% | ~1,251 |
+| Out in a puff of smoke | 10.00% | ~1,251 |
+| Time to pay up! | 9.00% | ~1,126 |
+| Perfecter Parry-er! | 9.00% | ~1,126 |
+| Who's the boss now? | 8.00% | ~1,001 |
+| I have to read these things? | 8.00% | ~1,001 |
+| NOW we got a kickass hideout! | 7.00% | ~772 |
+| Well that was a rush! | 6.00% | ~750 |
 | There's such a thing as TOO helpful | 6.00% | ~750 |
-| Well that was a rush! | 5.00% | ~625 |
 | Beat-hit mania | 5.00% | ~625 |
 | That's a lot of junk metal… | 5.00% | ~625 |
 | I told you I'd be fine, Peppermint! | 4.00% | ~500 |
@@ -51,8 +51,8 @@ Rating: 4.90 (Ranked 8)
 | Easy Listening | 0.80% | ~100 |
 | OK, well THEY came after ME! | 0.60% | ~75 |
 | New bad guys? No problem! | 0.60% | ~66 |
-| Problem solved... wait, what? | 0.30% | ~37 |
-| Now this is how you fight like a team! | 0.30% | ~37 |
+| Problem solved... wait, what? | 0.30% | ~38 |
+| Now this is how you fight like a team! | 0.30% | ~38 |
 | Choose your own adventure | 0.30% | ~33 |
 | And the crowd goes wild! | 0.20% | ~25 |
 | I can't see this ever being a problem again | 0.20% | ~25 |
@@ -60,24 +60,24 @@ Rating: 4.90 (Ranked 8)
 | I am a good person who likes to help | 0.20% | ~25 |
 | With our powers combined…and to the rhythm… | 0.20% | ~25 |
 | It'll do, CNMN | 0.20% | ~22 |
-| Didn't skip a beat! | 0.10% | ~12 |
-| I think that's enough health for now | 0.10% | ~12 |
-| I have to read ALL of these things? | 0.10% | ~12 |
-| My Ultimate Setlist | 0.10% | ~12 |
-| What a journey it was... | 0.10% | ~12 |
-| This was... not what I expected. | 0.10% | ~12 |
-| Have we met before? | 0.10% | ~12 |
-| I'm untouchable! | 0.10% | ~12 |
-| I'm trying to FOCUS HERE! | 0.10% | ~12 |
-| I saw all those hits coming a measure away! | 0.10% | ~12 |
-| OK, I THINK I know what I'm doing now | 0.10% | ~12 |
+| Didn't skip a beat! | 0.10% | ~13 |
+| I think that's enough health for now | 0.10% | ~13 |
+| I have to read ALL of these things? | 0.10% | ~13 |
+| My Ultimate Setlist | 0.10% | ~13 |
+| What a journey it was... | 0.10% | ~13 |
+| This was... not what I expected. | 0.10% | ~13 |
+| Have we met before? | 0.10% | ~13 |
+| I'm untouchable! | 0.10% | ~13 |
+| I'm trying to FOCUS HERE! | 0.10% | ~13 |
+| I saw all those hits coming a measure away! | 0.10% | ~13 |
+| OK, I THINK I know what I'm doing now | 0.10% | ~13 |
 | Please don't make this awkward | 0.10% | ~11 |
 | That was just EVIL | 0.10% | ~11 |
 | It was all for this | 0.10% | ~11 |
 | Voices from within | 0.10% | ~11 |
 | Low budget finish | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,495 (Ranked 172)  
+Progressed: 12,507 (Ranked 172)  
 Completed: 8 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 8 (0.06%) (Ranked 327)
 | 2023-12-24 | 11,697 | 8 |
 | 2023-12-25 | 12,076 | 8 |
 | 2023-12-26 | 12,450 | 8 |
-| 2023-12-27 | 12,495 | 8 |
+| 2023-12-27 | 12,507 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

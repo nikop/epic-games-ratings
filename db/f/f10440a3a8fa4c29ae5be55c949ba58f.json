@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3387,
+  "EOS_Progressed": 3394,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3379,
+  "EOS_NewPlayers": 3386,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-12-27T04:09:44.3867225+00:00",
       "NumProgressed": 3387,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T05:09:00.1383842+00:00",
+      "NumProgressed": 3394,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -721,7 +726,7 @@
       "Name": "Final Destination",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1765
     },
     {
       "ID": "Document1",
@@ -737,7 +742,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Document3",
@@ -761,7 +766,7 @@
       "Name": "Master of Secrets",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Perservant",
@@ -784,14 +789,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 3387,
+      "Progressed": 3394,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:09:44.3867222+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:00.1383839+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:01:39.5178717+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:09:44.3867326+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:00:05.8229269+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:00.1383936+00:00"
 }

@@ -23,9 +23,9 @@ Rating: 4.14 (Ranked 983)
 | Essence Blow | 10.00% | ~132 |
 | Alchemist | 10.00% | ~132 |
 | The Mentor | 7.00% | ~93 |
-| Calm before the Storm | 6.00% | ~79 |
-| Airborne | 6.00% | ~79 |
-| Miner | 6.00% | ~79 |
+| Calm before the Storm | 6.00% | ~80 |
+| Airborne | 6.00% | ~80 |
+| Miner | 6.00% | ~80 |
 | To Battle | 5.00% | ~66 |
 | Godslayer | 5.00% | ~66 |
 | Clear Sight | 3.00% | ~40 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 983)
 | All That Gold | 0.60% | ~8 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,324 (Ranked 264)  
+Progressed: 1,325 (Ranked 264)  
 Completed: 3 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 3 (0.23%) (Ranked 267)
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
-| 2023-12-27 | 1,324 | 3 |
+| 2023-12-27 | 1,325 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

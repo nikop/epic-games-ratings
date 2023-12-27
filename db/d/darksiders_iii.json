@@ -1008,9 +1008,9 @@
       "ID": "Collect_AdamantineSmall_30",
       "SetID": "7a5k76n",
       "Name": "Unshakable Fortitude",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1136,17 +1136,17 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1352,9 +1352,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -1368,9 +1368,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1448,9 +1448,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -1504,8 +1504,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:08:38.663208+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:08:13.5399542+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:58:28.1411031+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:08:38.6632587+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:58:00.7515822+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:08:13.5399991+00:00"
 }

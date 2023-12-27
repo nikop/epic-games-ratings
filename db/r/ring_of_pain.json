@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3766,7 +3766,7 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241796,
+  "EOS_Progressed": 241798,
   "EOS_Completed": 302,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 2,
@@ -29671,6 +29671,11 @@
       "Time": "2023-12-27T04:10:52.721527+00:00",
       "NumProgressed": 241796,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-27T05:09:49.6349842+00:00",
+      "NumProgressed": 241798,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29696,9 +29701,9 @@
       "ID": "ATTACKOWL",
       "SetID": "5l8oe0h",
       "Name": "Ambitious Intent",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1693
     },
     {
       "ID": "BOSSPIT",
@@ -30785,13 +30790,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241796,
+      "Progressed": 241798,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3276,
+      "Progressed": 3278,
       "Completed": 413
     }
   ],
@@ -30799,8 +30804,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-25T13:01:43.0016801+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:10:52.7215267+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:09:49.6349839+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:59:26.6808158+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:10:52.7217813+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:58:38.8359356+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:09:49.6352091+00:00"
 }

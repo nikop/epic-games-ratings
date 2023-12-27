@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -17300,9 +17300,9 @@
       "Count": 16929
     }
   ],
-  "EOS_Progressed": 981870,
+  "EOS_Progressed": 981881,
   "EOS_Completed": 2982,
-  "EOS_NewPlayers": 2926,
+  "EOS_NewPlayers": 2930,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -45915,6 +45915,11 @@
       "Time": "2023-12-27T04:06:42.736934+00:00",
       "NumProgressed": 981870,
       "NumCompleted": 2982
+    },
+    {
+      "Time": "2023-12-27T05:05:22.9986002+00:00",
+      "NumProgressed": 981881,
+      "NumCompleted": 2982
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -45943,7 +45948,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "Cyberjunkie",
@@ -45959,7 +45964,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58912
+      "UsersEstimate": 58913
     },
     {
       "ID": "FollowingTheRiver",
@@ -45967,7 +45972,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "Fortuneteller",
@@ -46023,7 +46028,7 @@
       "Name": "I Am The Law",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -46143,7 +46148,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68731
+      "UsersEstimate": 68732
     },
     {
       "ID": "TheHermit",
@@ -46167,7 +46172,7 @@
       "Name": "The Lovers",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58912
+      "UsersEstimate": 58913
     },
     {
       "ID": "TheStar",
@@ -46199,7 +46204,7 @@
       "Name": "The World",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "ThisIsPacifica",
@@ -46239,7 +46244,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "UnderPressure",
@@ -46247,7 +46252,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "VForVendetta",
@@ -46255,7 +46260,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117824
+      "UsersEstimate": 117826
     },
     {
       "ID": "YipMan",
@@ -46303,7 +46308,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Easycomeeasygo",
@@ -46391,7 +46396,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "IHateSpider",
@@ -46439,7 +46444,7 @@
       "Name": "The Tower",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "DirtyWork",
@@ -46462,21 +46467,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 981870,
+      "Progressed": 981881,
       "Completed": 2982
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110493,
-      "Completed": 10467
+      "Progressed": 110504,
+      "Completed": 10468
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-27T03:03:57.8265709+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:06:42.7369332+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:05:22.9985999+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:03:22.0745867+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:06:42.7370851+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:03:00.9509029+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:05:22.9987269+00:00"
 }

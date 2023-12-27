@@ -2,9 +2,9 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 615,
+  "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
     {
       "Time": "2023-12-27T04:07:39.2223771+00:00",
       "NumProgressed": 18,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T05:06:02.4409806+00:00",
+      "NumProgressed": 19,
       "NumCompleted": 0
     }
   ],
@@ -266,7 +271,7 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -314,7 +319,7 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -322,7 +327,7 @@
       "ID": "Tower1_RankA",
       "SetID": "df8cl74",
       "Name": "The First Tower: A Rank",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -330,7 +335,7 @@
       "ID": "Tower1_RankS",
       "SetID": "df8cl74",
       "Name": "The First Tower: S Rank",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -346,7 +351,7 @@
       "ID": "Tower2_RankA",
       "SetID": "df8cl74",
       "Name": "The Second Tower: A Rank",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -354,7 +359,7 @@
       "ID": "Tower2_RankS",
       "SetID": "df8cl74",
       "Name": "The Second Tower: S Rank",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -467,13 +472,13 @@
     {
       "ID": "df8cl74",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:07:39.2223768+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:06:02.4409804+00:00",
   "LastUpdate_AppInfo": "2023-12-20T07:56:51.3644976+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:02:44.4283645+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:07:39.2224001+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:02:37.776687+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:06:02.4410017+00:00"
 }

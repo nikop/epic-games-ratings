@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6295,
+  "EOS_Progressed": 6300,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9324,6 +9324,11 @@
       "Time": "2023-12-27T04:04:50.4118877+00:00",
       "NumProgressed": 6295,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T05:04:03.4679161+00:00",
+      "NumProgressed": 6300,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9671,7 +9676,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "9",
@@ -9814,13 +9819,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6295,
+      "Progressed": 6300,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6295,
+      "Progressed": 6300,
       "Completed": 7
     }
   ],
@@ -9828,8 +9833,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:04:50.4118874+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:04:03.4679159+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:01:17.3671515+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:04:50.4119612+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:59:51.2647149+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:04:03.4679801+00:00"
 }

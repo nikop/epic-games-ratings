@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 470,
+  "Ranking_Popularity": 395,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 232,
@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1151,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3112,6 +3112,11 @@
       "Time": "2023-12-27T03:05:26.557259+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T05:04:10.165744+00:00",
+      "NumProgressed": 1151,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3148,7 +3153,7 @@
       "Name": "Archaeologist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Balance",
@@ -3156,7 +3161,7 @@
       "Name": "Balance",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BecomingSmarter",
@@ -3316,7 +3321,7 @@
       "Name": "Lost Marshes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "MistressOfRiddles",
@@ -3332,7 +3337,7 @@
       "Name": "Mnemosyne",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MuseumExplorer",
@@ -3340,7 +3345,7 @@
       "Name": "Museum Explorer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "MuseumVisitor",
@@ -3380,7 +3385,7 @@
       "Name": "Overload",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Persistent",
@@ -3388,7 +3393,7 @@
       "Name": "Persistent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "PrometheusUnbound",
@@ -3404,7 +3409,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3412,7 +3417,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "RenaissanceRobot",
@@ -3468,7 +3473,7 @@
       "Name": "Team Spirit",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "TextAdventurer",
@@ -3492,7 +3497,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TheFuture",
@@ -3516,7 +3521,7 @@
       "Name": "The Spark",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "TheThiefOfFire",
@@ -3532,7 +3537,7 @@
       "Name": "The Word Endures",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "TouchGrass",
@@ -3564,7 +3569,7 @@
       "Name": "Wanderers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "WesternDelta",
@@ -3595,7 +3600,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1151,
       "Completed": 2
     }
   ],
@@ -3603,8 +3608,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T04:04:59.6754876+00:00",
+  "LastChanged_Achievements": "2023-12-27T05:04:10.1657438+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:00:04.6319821+00:00",
-  "LastUpdate_Achievements": "2023-12-27T04:04:59.675536+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:59:04.4607123+00:00",
+  "LastUpdate_Achievements": "2023-12-27T05:04:10.1658072+00:00"
 }
