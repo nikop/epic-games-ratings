@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 3786,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3616,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-12-26T19:09:06.2154505+00:00",
       "NumProgressed": 3615,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-12-27T18:09:31.3917636+00:00",
+      "NumProgressed": 3616,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -936,7 +941,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "26",
@@ -1008,7 +1013,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "34",
@@ -1079,7 +1084,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3616,
       "Completed": -28
     }
   ],
@@ -1087,8 +1092,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:08:47.7402933+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:09:31.391763+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.313726+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:13.2195564+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:08:47.7403222+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:27.3710194+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:09:31.3917905+00:00"
 }

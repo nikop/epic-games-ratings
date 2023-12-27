@@ -1530,9 +1530,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26924,
+  "EOS_Progressed": 26931,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12075,6 +12075,11 @@
       "Time": "2023-12-27T17:09:56.2629811+00:00",
       "NumProgressed": 26924,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-27T18:11:04.8519518+00:00",
+      "NumProgressed": 26931,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12094,7 +12099,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "AllEquipment",
@@ -12118,7 +12123,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "AllScarsBronze",
@@ -12134,7 +12139,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -12166,7 +12171,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12182,7 +12187,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -12230,7 +12235,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12246,7 +12251,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12262,7 +12267,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "BoxerBoss",
@@ -12397,21 +12402,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26924,
+      "Progressed": 26931,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5854,
+      "Progressed": 5861,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-27T14:58:28.1925208+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:56.2629806+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:11:04.8519512+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:38.8761568+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:56.2630583+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:59:09.6700579+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:11:04.852032+00:00"
 }

@@ -18,6 +18,7 @@ Rating: 4.56 (Ranked 498)
 | End of the Mozis | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |
+| Kitchen Ready To Cook | 0.70% | ~16 |
 | Smithy Ready to Craft | 0.70% | ~16 |
 | Throne Room Fit For A King | 0.70% | ~16 |
 | Rescue Redgi's Brothers | 0.70% | ~16 |
@@ -27,7 +28,6 @@ Rating: 4.56 (Ranked 498)
 | Complete Elder Faction | 0.60% | ~14 |
 | Defeat Ratnor Rodentson | 0.60% | ~14 |
 | Defeat 25 Mozis | 0.60% | ~14 |
-| Kitchen Ready To Cook | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.50% | ~5 |
 | Complete the Chefs Book | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |

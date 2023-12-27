@@ -14,7 +14,7 @@
 | Flower Thief | 44.00% | ~294 |
 | Apostle of Flame | 39.00% | ~261 |
 | Beginner Cook | 38.00% | ~254 |
-| Beginner Artificer | 37.00% | ~247 |
+| Beginner Artificer | 38.00% | ~254 |
 | Seal Breaker | 32.00% | ~214 |
 | Handyman | 28.00% | ~187 |
 | Giant Lizard Killer | 26.00% | ~174 |

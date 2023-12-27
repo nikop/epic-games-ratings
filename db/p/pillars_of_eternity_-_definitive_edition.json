@@ -2,11 +2,11 @@
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 3783,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
@@ -3471,11 +3471,11 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 1082,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -2,
+  "EOS_NewPlayers": -3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.752475+00:00",
@@ -3821,6 +3821,11 @@
       "Time": "2023-12-26T12:04:59.7994877+00:00",
       "NumProgressed": 1082,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T18:06:52.5759232+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3848,7 +3853,7 @@
       "Name": "Completed Act III",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_04",
@@ -4104,7 +4109,7 @@
       "Name": "Fish Guts and Murder",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_36",
@@ -4112,7 +4117,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 898
+      "UsersEstimate": 897
     },
     {
       "ID": "achievement_37",
@@ -4215,15 +4220,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1082,
+      "Progressed": 1081,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-12-26T16:59:57.7407829+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:05:40.9300838+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:06:52.5759226+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.660058+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:37.7499399+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:05:40.9301201+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:36.4631525+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:06:52.57596+00:00"
 }

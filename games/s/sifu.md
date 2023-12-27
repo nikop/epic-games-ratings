@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,851 |
-| Life is your teacher | 4.00% | ~29,851 |
-| The Assault | 3.00% | ~22,388 |
-| Lightning Hands | 3.00% | ~22,388 |
+| The Old Grandmaster | 4.00% | ~29,852 |
+| Life is your teacher | 4.00% | ~29,852 |
+| The Assault | 3.00% | ~22,389 |
+| Lightning Hands | 3.00% | ~22,389 |
 | The Hateful Pole Fighter | 2.00% | ~14,926 |
 | A Lady's Blood in the Snow | 2.00% | ~14,926 |
 | Stuntmaster | 2.00% | ~14,926 |
@@ -28,14 +28,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,463 |
 | Take damage to save time | 1.00% | ~7,463 |
 | Project Arena | 1.00% | ~556 |
-| Scareless | 0.90% | ~6,716 |
-| Kung-Fu Tussle | 0.90% | ~6,716 |
+| Scareless | 0.90% | ~6,717 |
+| Kung-Fu Tussle | 0.90% | ~6,717 |
 | Dance of the Praying Mantis | 0.80% | ~5,970 |
 | Fight the way you practice | 0.70% | ~389 |
-| Martial Hub | 0.60% | ~333 |
-| Muk Yan Master | 0.50% | ~3,731 |
-| Tiger on Fire | 0.50% | ~3,731 |
-| Detective Story | 0.50% | ~3,731 |
+| Martial Hub | 0.60% | ~334 |
+| Muk Yan Master | 0.50% | ~3,732 |
+| Tiger on Fire | 0.50% | ~3,732 |
+| Detective Story | 0.50% | ~3,732 |
 | Bloody Sport | 0.50% | ~278 |
 | Source of Flying Daggers | 0.40% | ~2,985 |
 | Iron Money | 0.40% | ~2,985 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,276 (Ranked 23)  
+Progressed: 746,300 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-24 | 743,227 | 12,963 |
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
-| 2023-12-27 | 746,276 | 12,967 |
+| 2023-12-27 | 746,300 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,018  (Ranked 55)  
 Sum: 11,878 (Ranked 87)  

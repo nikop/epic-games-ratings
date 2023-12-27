@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 396,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 37,
@@ -4558,9 +4558,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 512541,
+  "EOS_Progressed": 512602,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6547,
+  "EOS_NewPlayers": 6576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33403,6 +33403,11 @@
       "Time": "2023-12-27T17:08:32.5511781+00:00",
       "NumProgressed": 512541,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T18:09:10.6671241+00:00",
+      "NumProgressed": 512602,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -33414,7 +33419,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -33422,7 +33427,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_CARRYING",
@@ -33438,7 +33443,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -33470,7 +33475,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20504
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -33478,7 +33483,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -33486,7 +33491,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -33494,7 +33499,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "ACH_GROUNDED",
@@ -33502,7 +33507,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -33518,7 +33523,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15378
     },
     {
       "ID": "ACH_JR_50",
@@ -33542,7 +33547,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15378
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -33558,7 +33563,7 @@
       "Name": "#1",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "ACH_PERSONAL",
@@ -33574,7 +33579,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -33582,7 +33587,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20504
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -33590,7 +33595,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "ACH_REFLEXES",
@@ -33614,7 +33619,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -33622,7 +33627,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -33630,7 +33635,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -33646,7 +33651,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15378
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -33670,7 +33675,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15378
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -33678,7 +33683,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25627
+      "UsersEstimate": 25630
     },
     {
       "ID": "ACH_WET_FEET",
@@ -33686,22 +33691,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20502
+      "UsersEstimate": 20504
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 512541,
+      "Progressed": 512602,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-27T08:58:40.9872517+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:08:32.5511778+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:09:10.6671235+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.4464018+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:12.7317046+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:08:32.5512955+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:59:59.2837222+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:09:10.6672817+00:00"
 }

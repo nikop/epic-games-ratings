@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -249,7 +249,7 @@
   ],
   "EOS_Progressed": 1157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3232,9 +3232,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 116
     },
     {
       "ID": "DesolateIsland",
@@ -3600,9 +3600,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 116
     },
     {
       "ID": "WoodedPlateau",
@@ -3633,8 +3633,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:04:54.854763+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:05:48.6348672+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:50.1975679+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:04:54.8548241+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:53.103423+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:05:48.6349287+00:00"
 }

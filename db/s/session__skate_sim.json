@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1321,9 +1321,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3416,
+  "EOS_Progressed": 3417,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7041,6 +7041,11 @@
       "Time": "2023-12-27T16:07:52.666495+00:00",
       "NumProgressed": 3416,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T18:07:58.3866659+00:00",
+      "NumProgressed": 3417,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7180,7 +7185,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_HOARDER",
@@ -7196,7 +7201,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -7204,7 +7209,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7244,7 +7249,7 @@
       "Name": "Many plys later...",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_NAHELL",
@@ -7260,7 +7265,7 @@
       "Name": "Pew-Pew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -7404,7 +7409,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -7428,22 +7433,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3416,
+      "Progressed": 3417,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-27T02:59:08.6955068+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:06:29.390497+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:07:58.3866653+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:56.1856377+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:06:29.3905772+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:59:36.1183615+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:58.3867233+00:00"
 }

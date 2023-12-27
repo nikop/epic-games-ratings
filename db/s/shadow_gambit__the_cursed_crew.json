@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 266,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-09-02T15:58:27.8231569+00:00",
@@ -161,15 +161,21 @@
       "Rating": 4.82,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T17:58:31.5099672+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
@@ -4517,6 +4523,11 @@
       "Time": "2023-12-27T17:03:58.2600832+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-27T18:04:30.9622238+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4537,7 +4548,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "_03_FinishAct1",
@@ -4551,9 +4562,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 448
     },
     {
       "ID": "_05_FinishAct2",
@@ -4617,7 +4628,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "_13_Completion_60",
@@ -4641,7 +4652,7 @@
       "Name": "Marauder",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -4697,7 +4708,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -4705,7 +4716,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -4729,23 +4740,23 @@
       "Name": "Welcome Back Jester",
       "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1317,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged": "2023-12-26T17:57:26.5223037+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:03:58.2600828+00:00",
+  "LastChanged": "2023-12-27T17:58:31.509967+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:04:30.9622232+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:12.6125107+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:03:58.2601171+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:58:31.5099674+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:04:30.9622607+00:00"
 }

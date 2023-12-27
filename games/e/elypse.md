@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 98.00% | ~114 |
-| A bottomless pit | 81.00% | ~94 |
-| Pigeon | 78.00% | ~90 |
+| A path of no return | 97.00% | ~113 |
+| A bottomless pit | 80.00% | ~94 |
+| Pigeon | 78.00% | ~91 |
 | Baited | 66.00% | ~77 |
-| "Swoosh" | 59.00% | ~68 |
-| The light at the end of the tunnel | 59.00% | ~68 |
-| Masochistic | 53.00% | ~61 |
-| Soft skin | 51.00% | ~59 |
+| "Swoosh" | 59.00% | ~69 |
+| The light at the end of the tunnel | 58.00% | ~68 |
+| Masochistic | 53.00% | ~62 |
+| Soft skin | 50.00% | ~58 |
 | Splash! | 49.00% | ~57 |
 | Squid game | 42.00% | ~49 |
-| Rock Solid | 34.00% | ~39 |
-| The beast within | 33.00% | ~38 |
-| It's getting dark | 33.00% | ~38 |
-| Sensitive soul | 33.00% | ~38 |
+| Rock Solid | 33.00% | ~39 |
+| The beast within | 32.00% | ~37 |
+| It's getting dark | 32.00% | ~37 |
+| Sensitive soul | 32.00% | ~37 |
 | Hard Rock | 31.00% | ~36 |
 | Rooftop | 29.00% | ~34 |
-| Homeless | 28.00% | ~32 |
-| Big badaboom! | 28.00% | ~32 |
+| Homeless | 28.00% | ~33 |
+| Big badaboom! | 27.00% | ~32 |
 | Payback | 25.00% | ~29 |
 | Nokron tower | 24.00% | ~28 |
 | Magnitude 5 | 24.00% | ~28 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 468)  
+Progressed: 117 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,4 +106,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 113 | 0 |
 | 2023-12-25 | 114 | 0 |
 | 2023-12-26 | 115 | 0 |
-| 2023-12-27 | 116 | 0 |
+| 2023-12-27 | 117 | 0 |

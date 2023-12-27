@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 787,
+  "EOS_Progressed": 788,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -2928,6 +2928,11 @@
       "Time": "2023-12-27T16:09:42.9510641+00:00",
       "NumProgressed": 787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T18:09:48.9303871+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -2948,7 +2953,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3044,7 +3049,7 @@
       "Name": "Critical Hit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Deepstrike",
@@ -3252,7 +3257,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "UltraKill",
@@ -3268,7 +3273,7 @@
       "Name": "Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "WielderLevel2",
@@ -3276,7 +3281,7 @@
       "Name": "Veteran",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WielderLevel3",
@@ -3290,9 +3295,9 @@
       "ID": "WielderLevel4",
       "SetID": "71c0n9i",
       "Name": "Grand Master",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -3371,15 +3376,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 787,
+      "Progressed": 788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:00.5370714+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:09:48.9303863+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:15.7800138+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:00.5371345+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:58:36.5401213+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:09:48.930438+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 77.00% | ~166 |
-| Mash Machine | 70.00% | ~151 |
+| Rock of the Bay | 78.00% | ~168 |
+| Mash Machine | 71.00% | ~153 |
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~104 |
-| Furon Fashion | 45.00% | ~97 |
+| Furon Fashion | 46.00% | ~99 |
 | Shop Til They Drop | 38.00% | ~82 |
 | Bodied Sattva | 34.00% | ~73 |
 | Cult Following | 31.00% | ~67 |
@@ -18,8 +18,8 @@ Number of Ratings: 90  (23.09.2022)
 | Upgreatest | 24.00% | ~52 |
 | Pimp My Raid | 24.00% | ~52 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~41 |
+| Freshly Squeezed | 17.00% | ~37 |
 | Perfect Probulator | 16.00% | ~35 |
-| Freshly Squeezed | 16.00% | ~35 |
 | Die Nasty | 15.00% | ~32 |
 | Transmitting From Sol-3 | 13.00% | ~28 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~24 |

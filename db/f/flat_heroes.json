@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2023-12-26T23:10:41.5381713+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T18:11:08.7365892+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1296,7 +1301,7 @@
       "Name": "Fireball",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "DashDashDash",
@@ -1304,15 +1309,15 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "DashLevitationDashAttack",
       "SetID": "d9ekhim",
       "Name": "Black Belt",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "FloorIsLava",
@@ -1560,7 +1565,7 @@
       "Name": "Dash Crash",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "World2Boss",
@@ -1631,7 +1636,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 0
     }
   ],
@@ -1639,8 +1644,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:59.1465938+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:11:08.7365886+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.9283936+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:51.0739849+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:59.1466252+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:21.0159165+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:11:08.736619+00:00"
 }

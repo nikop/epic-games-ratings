@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1065,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2587,6 +2587,11 @@
       "Time": "2023-12-27T16:06:57.5540481+00:00",
       "NumProgressed": 1065,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T18:07:02.0463566+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2607,7 +2612,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2655,7 +2660,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "CompleteChapter10",
@@ -2783,7 +2788,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "CompleteChapter8",
@@ -2791,7 +2796,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "CompleteChapter9",
@@ -2894,14 +2899,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1065,
+      "Progressed": 1066,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:05:47.8772222+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:07:02.046356+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:01:02.0335711+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:05:47.8772593+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:03:07.4278451+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:02.0463885+00:00"
 }

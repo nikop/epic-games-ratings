@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 572,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -2061,9 +2061,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2222,8 +2222,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:20.665647+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:10:16.4332133+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:40.9266856+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:20.6656729+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:59:12.4201687+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:16.4332406+00:00"
 }

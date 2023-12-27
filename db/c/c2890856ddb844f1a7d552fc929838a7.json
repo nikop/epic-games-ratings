@@ -243,9 +243,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1848,
+  "EOS_Progressed": 1850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4368,6 +4368,11 @@
       "Time": "2023-12-27T17:05:13.9623709+00:00",
       "NumProgressed": 1848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T18:06:15.6846782+00:00",
+      "NumProgressed": 1850,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4388,7 +4393,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1665
     },
     {
       "ID": "AC02",
@@ -4396,15 +4401,15 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1073
     },
     {
       "ID": "AC04",
@@ -4412,7 +4417,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "AC05",
@@ -4420,7 +4425,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "AC06",
@@ -4436,7 +4441,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "AC08",
@@ -4444,7 +4449,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "AC09",
@@ -4452,7 +4457,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "AC10",
@@ -4468,7 +4473,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "AC12",
@@ -4484,7 +4489,7 @@
       "Name": "Second Psalm.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AC14",
@@ -4508,15 +4513,15 @@
       "Name": "Weight of Penance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 259
     },
     {
       "ID": "AC18",
@@ -4524,7 +4529,7 @@
       "Name": "Acquired Taste",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "AC19",
@@ -4532,7 +4537,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "AC20",
@@ -4548,7 +4553,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AC22",
@@ -4556,7 +4561,7 @@
       "Name": "Empty Handed",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "AC23",
@@ -4564,7 +4569,7 @@
       "Name": "Hide and Seek",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AC24",
@@ -4572,7 +4577,7 @@
       "Name": "The Work of a Master",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "AC25",
@@ -4588,7 +4593,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "AC27",
@@ -4596,15 +4601,15 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 722
     },
     {
       "ID": "AC29",
@@ -4636,7 +4641,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "AC33",
@@ -4644,7 +4649,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "AC34",
@@ -4684,7 +4689,7 @@
       "Name": "Edge of Orison",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "AC39",
@@ -4700,7 +4705,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "AC41",
@@ -4724,7 +4729,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "AC44",
@@ -4732,7 +4737,7 @@
       "Name": "This is Blasphemy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "AC45",
@@ -4747,7 +4752,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1848,
+      "Progressed": 1850,
       "Completed": 0
     }
   ],
@@ -4755,8 +4760,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-27T04:59:56.3971668+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:05:13.9623706+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:06:15.6846776+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:46.1554365+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:05:13.962419+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:13.9430168+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:06:15.6847299+00:00"
 }

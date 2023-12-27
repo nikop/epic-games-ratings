@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17571,
+  "EOS_Progressed": 17575,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15352,6 +15352,11 @@
       "Time": "2023-12-27T17:05:05.0668824+00:00",
       "NumProgressed": 17571,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T18:06:03.1872523+00:00",
+      "NumProgressed": 17575,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15380,7 +15385,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "12",
@@ -15412,7 +15417,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "16",
@@ -15428,7 +15433,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "18",
@@ -15444,7 +15449,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "2",
@@ -15468,7 +15473,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "22",
@@ -15476,7 +15481,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "23",
@@ -15548,7 +15553,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "4",
@@ -15556,7 +15561,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "5",
@@ -15596,7 +15601,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "31",
@@ -15620,7 +15625,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "34",
@@ -15643,13 +15648,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17571,
+      "Progressed": 17575,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3525,
+      "Progressed": 3529,
       "Completed": 1072
     }
   ],
@@ -15657,8 +15662,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:05:05.0668821+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:06:03.1872517+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:20.2610232+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:05:05.0669779+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:37.5287636+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:06:03.1873236+00:00"
 }

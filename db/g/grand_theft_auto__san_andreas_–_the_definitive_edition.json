@@ -1943,10 +1943,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 806,
       "NumberOfAwardsMax": 530
+    },
+    {
+      "Time": "2023-12-27T17:58:35.9277021+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 807,
+      "NumberOfAwardsMax": 530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 806,
+  "NumberOfAwards": 807,
   "NumberOfAwardsMax": 530,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1990,7 +1996,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2011,9 +2017,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 17095,
+  "EOS_Progressed": 17103,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1354,
+  "EOS_NewPlayers": 1349,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -17861,6 +17867,11 @@
       "Time": "2023-12-27T17:10:00.2731404+00:00",
       "NumProgressed": 17095,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-27T18:11:10.360214+00:00",
+      "NumProgressed": 17103,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -17872,7 +17883,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 13847
+      "UsersEstimate": 13853
     },
     {
       "ID": "ACH02",
@@ -17920,7 +17931,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH08",
@@ -17928,7 +17939,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8548
+      "UsersEstimate": 8552
     },
     {
       "ID": "ACH09",
@@ -17968,7 +17979,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH14",
@@ -17992,7 +18003,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2735
+      "UsersEstimate": 2736
     },
     {
       "ID": "ACH17",
@@ -18040,7 +18051,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ACH23",
@@ -18048,7 +18059,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4276
     },
     {
       "ID": "ACH24",
@@ -18096,7 +18107,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "ACH30",
@@ -18136,7 +18147,7 @@
       "Name": "...Here we go again",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH35",
@@ -18151,16 +18162,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17095,
+      "Progressed": 17103,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-27T11:57:42.0249498+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:10:00.27314+00:00",
+  "LastChanged": "2023-12-27T17:58:35.9277019+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:11:10.3602134+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:15.3599479+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:10:00.2732313+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:58:35.9277025+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:11:10.3603155+00:00"
 }

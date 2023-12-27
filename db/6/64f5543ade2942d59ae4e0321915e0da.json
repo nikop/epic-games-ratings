@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2023-12-27T07:06:50.0649413+00:00",
       "NumProgressed": 269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T18:07:51.0832431+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1091,7 +1096,7 @@
       "Name": "Sound",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -1131,7 +1136,7 @@
       "Name": "Arsenal",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -1139,7 +1144,7 @@
       "Name": "Armory",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -1147,7 +1152,7 @@
       "Name": "Gambler",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1203,7 +1208,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC_COMBO_2",
@@ -1291,7 +1296,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1305,9 +1310,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1315,7 +1320,7 @@
       "Name": "Creation",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1361,9 +1366,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1395,7 +1400,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1426,14 +1431,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:06:23.6555336+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:07:51.0832425+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:36.628694+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:06:23.6555598+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:59.811573+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:51.0832763+00:00"
 }

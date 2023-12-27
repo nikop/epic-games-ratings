@@ -1,33 +1,33 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.01 (Ranked 1,023)  
+Rating: 4.02 (Ranked 1,022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,603 |
+| Victor | 93.00% | ~3,604 |
 | World Map | 78.00% | ~3,022 |
-| Temple of Eternals | 56.00% | ~2,169 |
-| Prestigious | 53.00% | ~2,053 |
-| Fellowship Power | 42.00% | ~1,627 |
-| Full Party | 26.00% | ~1,007 |
+| Temple of Eternals | 56.00% | ~2,170 |
+| Prestigious | 53.00% | ~2,054 |
+| Fellowship Power | 42.00% | ~1,628 |
+| Full Party | 26.00% | ~1,008 |
 | Guild Power | 23.00% | ~891 |
 | Prestigious x10 | 20.00% | ~775 |
-| The game is on | 18.00% | ~697 |
+| The game is on | 18.00% | ~698 |
 | Exotic Merchant | 16.00% | ~620 |
 | Dragon Clicker | 15.00% | ~581 |
 | Miner Clicker | 15.00% | ~581 |
-| Hero inspection | 14.00% | ~542 |
 | Inspection | 14.00% | ~542 |
 | Dragon Master | 13.00% | ~504 |
 | Enlightenment | 13.00% | ~504 |
+| Hero inspection | 13.00% | ~504 |
 | Lieutenant | 12.00% | ~465 |
 | Milestone collector | 11.00% | ~426 |
 | Mysterious Rock | 11.00% | ~426 |
 | Natural Talent | 11.00% | ~426 |
 | Superior | 11.00% | ~426 |
 | The Unstoppable | 11.00% | ~426 |
-| Scientist | 10.00% | ~387 |
+| Scientist | 10.00% | ~388 |
 | Doing My Part | 9.00% | ~349 |
 | Hunter | 9.00% | ~349 |
 | The power of Awakening | 9.00% | ~349 |
@@ -63,11 +63,11 @@ Rating: 4.01 (Ranked 1,023)
 | Ebony Jungle Liberator | 3.00% | ~116 |
 | Gear Enchanting | 3.00% | ~116 |
 | Mythic Power | 3.00% | ~116 |
-| Cauldron Liberator | 2.00% | ~77 |
-| Enchanting skill x5 | 2.00% | ~77 |
-| Guardian Master | 2.00% | ~77 |
-| Pokerface | 2.00% | ~77 |
-| What lies behind the bush | 2.00% | ~77 |
+| Cauldron Liberator | 2.00% | ~78 |
+| Enchanting skill x5 | 2.00% | ~78 |
+| Guardian Master | 2.00% | ~78 |
+| Pokerface | 2.00% | ~78 |
+| What lies behind the bush | 2.00% | ~78 |
 | Conqueror | 1.00% | ~39 |
 | Enhanced War Machines | 1.00% | ~39 |
 | Titan Power | 1.00% | ~39 |
@@ -81,7 +81,7 @@ Rating: 4.01 (Ranked 1,023)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,874 (Ranked 208)  
+Progressed: 3,875 (Ranked 208)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,14 +327,14 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-24 | 3,773 | 2 |
 | 2023-12-25 | 3,807 | 2 |
 | 2023-12-26 | 3,857 | 2 |
-| 2023-12-27 | 3,874 | 2 |
+| 2023-12-27 | 3,875 | 2 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 479)  
-Sum: 127 (Ranked 446)  
+Max (Great for Beginners): 39  (Ranked 477)  
+Sum: 128 (Ranked 444)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 38 |
+| This game is Great for Beginners | 39 |
 | This game is Great for Quick Sessions | 33 |
 | This game has Diverse Characters | 29 |
 | This game has Playful Visuals | 27 |
@@ -423,3 +423,4 @@ Diff (max vs sum): 33
 | 2023-12-22 | 4.05 | 38 | 147 |
 | 2023-12-25 | 4.03 | 38 | 148 |
 | 2023-12-26 | 4.01 | 38 | 127 |
+| 2023-12-27 | 4.02 | 39 | 128 |

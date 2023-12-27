@@ -9,7 +9,7 @@
 | First to the post | 82.00% | ~71 |
 | A kind of Magic | 75.00% | ~65 |
 | Connected | 68.00% | ~59 |
-| Expansion | 62.00% | ~54 |
+| Expansion | 63.00% | ~55 |
 | Mine! | 57.00% | ~50 |
 | Harvest Time | 56.00% | ~49 |
 | Artificer's Apprentice | 48.00% | ~42 |
@@ -31,10 +31,10 @@
 | Friend of Connach | 14.00% | ~12 |
 | Philo's Tale | 11.00% | ~10 |
 | Stormwatch Faste | 11.00% | ~10 |
+| Friend of Orgash | 11.00% | ~10 |
 | Friend of Silver Drift Hollow | 11.00% | ~10 |
 | Friend of Bastion | 11.00% | ~10 |
 | Magic Academy | 11.00% | ~10 |
-| Friend of Orgash | 10.00% | ~9 |
 | Defeat Gor | 9.00% | ~8 |
 | Silver Drift Hollow Mine | 9.00% | ~8 |
 | Mage Teacher | 9.00% | ~8 |

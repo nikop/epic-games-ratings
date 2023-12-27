@@ -6,46 +6,46 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,358 |
-| Overkill | 33.00% | ~9,610 |
-| Vaccine Incoming | 32.00% | ~9,319 |
-| A normal day in Gloomhaven | 30.00% | ~8,737 |
-| Spread the plague | 28.00% | ~8,154 |
-| Get over here! | 24.00% | ~6,989 |
-| Just when I thought I was out... | 19.00% | ~5,533 |
-| Mine... All Mine... | 17.00% | ~4,951 |
-| Precious! | 16.00% | ~4,660 |
-| Grizzled veteran | 15.00% | ~4,368 |
-| Anatomy Lesson | 14.00% | ~4,077 |
-| Light of my life | 13.00% | ~3,786 |
-| You activated my trap card! | 12.00% | ~3,495 |
-| Obstacle race | 12.00% | ~3,495 |
-| Who's the Boss? | 11.00% | ~3,203 |
-| Augmented rat | 11.00% | ~3,203 |
-| Doom and gloom | 10.00% | ~2,912 |
-| Dungeon Veteran | 8.00% | ~2,330 |
-| Pain is your friend | 8.00% | ~2,330 |
-| Play it again, Sam | 8.00% | ~2,330 |
-| Pack leader | 7.00% | ~2,039 |
-| Black death | 7.00% | ~2,039 |
-| Quad damage | 6.00% | ~1,747 |
-| Power Up! | 5.00% | ~1,456 |
-| Merchant of doom | 5.00% | ~1,456 |
-| Caught off guard | 5.00% | ~1,456 |
-| Pretty lights! | 5.00% | ~1,456 |
-| Now you see me... | 5.00% | ~1,456 |
+| I'm not dead yet | 39.00% | ~11,363 |
+| Overkill | 33.00% | ~9,615 |
+| Vaccine Incoming | 32.00% | ~9,324 |
+| A normal day in Gloomhaven | 30.00% | ~8,741 |
+| Spread the plague | 28.00% | ~8,158 |
+| Get over here! | 24.00% | ~6,993 |
+| Just when I thought I was out... | 19.00% | ~5,536 |
+| Mine... All Mine... | 17.00% | ~4,953 |
+| Precious! | 16.00% | ~4,662 |
+| Grizzled veteran | 15.00% | ~4,371 |
+| Anatomy Lesson | 14.00% | ~4,079 |
+| Light of my life | 13.00% | ~3,788 |
+| You activated my trap card! | 12.00% | ~3,496 |
+| Obstacle race | 12.00% | ~3,496 |
+| Who's the Boss? | 11.00% | ~3,205 |
+| Augmented rat | 11.00% | ~3,205 |
+| Doom and gloom | 10.00% | ~2,914 |
+| Dungeon Veteran | 8.00% | ~2,331 |
+| Pain is your friend | 8.00% | ~2,331 |
+| Play it again, Sam | 8.00% | ~2,331 |
+| Pack leader | 7.00% | ~2,040 |
+| Black death | 7.00% | ~2,040 |
+| Quad damage | 6.00% | ~1,748 |
+| Power Up! | 5.00% | ~1,457 |
+| Merchant of doom | 5.00% | ~1,457 |
+| Caught off guard | 5.00% | ~1,457 |
+| Pretty lights! | 5.00% | ~1,457 |
+| Now you see me... | 5.00% | ~1,457 |
 | The Pro from Dover | 4.00% | ~1,165 |
 | I hate portals | 3.00% | ~874 |
 | Down the hatch | 3.00% | ~874 |
 | An eye for an eye | 3.00% | ~874 |
 | The Cephalophore | 3.00% | ~874 |
-| From Gloom, only greed and death emerges | 2.00% | ~582 |
-| The Rat King | 2.00% | ~582 |
-| How to train your Drake | 2.00% | ~582 |
-| Master Assassin | 2.00% | ~582 |
-| The Sniper | 2.00% | ~582 |
-| Grin and bear it | 2.00% | ~582 |
-| An axe to grind | 2.00% | ~582 |
+| From Gloom, only greed and death emerges | 2.00% | ~583 |
+| The Rat King | 2.00% | ~583 |
+| How to train your Drake | 2.00% | ~583 |
+| Master Assassin | 2.00% | ~583 |
+| The Sniper | 2.00% | ~583 |
+| Grin and bear it | 2.00% | ~583 |
+| An axe to grind | 2.00% | ~583 |
 | Betray this | 1.00% | ~291 |
 | Add a bit of colour | 1.00% | ~291 |
 | Captain hooked | 1.00% | ~291 |
@@ -53,8 +53,8 @@ Number of Ratings: 68  (23.09.2022)
 | New Blood | 1.00% | ~291 |
 | The Pacifist | 0.50% | ~146 |
 | Born Support | 0.50% | ~146 |
-| The evil that men do | 0.40% | ~116 |
-| MacReady Steady.. Go! | 0.40% | ~116 |
+| The evil that men do | 0.40% | ~117 |
+| MacReady Steady.. Go! | 0.40% | ~117 |
 | A tough job | 0.30% | ~87 |
 | The Jaws of victory! | 0.30% | ~87 |
 | Pull out the big guns | 0.30% | ~87 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~29 |
 | Murder Death Kill | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,122 (Ranked 136)  
+Progressed: 29,137 (Ranked 136)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,16 +173,16 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-24 | 28,539 | 1 |
 | 2023-12-25 | 28,745 | 1 |
 | 2023-12-26 | 28,980 | 1 |
-| 2023-12-27 | 29,122 | 1 |
+| 2023-12-27 | 29,137 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
-Sum: 8,436 (Ranked 105)  
+Sum: 8,437 (Ranked 105)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,604 |
 | This game has Diverse Characters | 607 |
-| This game has Challenging Combat | 556 |
+| This game has Challenging Combat | 557 |
 | This game is Highly Recommended | 551 |
 | This game is Extremely Fun | 547 |
 | This game has Amazing Characters | 494 |
@@ -444,4 +444,4 @@ Diff (max vs sum): -12
 | 2023-12-23 | 4.47 | - | 3,604 | 8,430 |
 | 2023-12-24 | 4.47 | - | 3,604 | 8,431 |
 | 2023-12-26 | 4.47 | - | 3,604 | 8,435 |
-| 2023-12-27 | 4.47 | - | 3,604 | 8,436 |
+| 2023-12-27 | 4.47 | - | 3,604 | 8,437 |

@@ -1,19 +1,19 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 442)  
+Rating: 4.59 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,208 |
-| Alt+F4 | 10.00% | ~24,502 |
-| Where's that freaking Dwarf? | 9.00% | ~22,052 |
+| Sowwy! | 36.00% | ~88,212 |
+| Alt+F4 | 10.00% | ~24,503 |
+| Where's that freaking Dwarf? | 9.00% | ~22,053 |
 | Déjà vu | 7.00% | ~17,152 |
-| Sock! SOCK! | 6.00% | ~14,701 |
-| A beer, two curses, three companions | 5.00% | ~12,251 |
-| GG EZ | 5.00% | ~12,251 |
-| Speedrun | 5.00% | ~12,251 |
+| Sock! SOCK! | 6.00% | ~14,702 |
+| A beer, two curses, three companions | 5.00% | ~12,252 |
+| GG EZ | 5.00% | ~12,252 |
+| Speedrun | 5.00% | ~12,252 |
 | DM intervention | 4.00% | ~9,801 |
 | Fireproof Wizardess | 4.00% | ~9,801 |
 | Livin' in a dwarven paradise | 3.00% | ~7,351 |
@@ -25,20 +25,20 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 3.00% | ~7,351 |
 | Team Building Exercise | 3.00% | ~7,351 |
 | Oh, when I'll be level 10... | 3.00% | ~7,351 |
-| Shiny and Crôm | 2.00% | ~4,900 |
-| Urik's Depths | 2.00% | ~4,900 |
-| The Dungeon Master | 2.00% | ~4,900 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,900 |
-| Res Judicata | 2.00% | ~4,900 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,900 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,900 |
-| Dwarf Fortress | 2.00% | ~4,900 |
-| Look but don't touch | 2.00% | ~4,900 |
-| The beards of change | 2.00% | ~4,900 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,900 |
-| The Ranger of Chaos | 2.00% | ~4,900 |
-| I am the night | 2.00% | ~4,900 |
-| Thieves' Guild Accreditation | 2.00% | ~4,900 |
+| Shiny and Crôm | 2.00% | ~4,901 |
+| Urik's Depths | 2.00% | ~4,901 |
+| The Dungeon Master | 2.00% | ~4,901 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,901 |
+| Res Judicata | 2.00% | ~4,901 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,901 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,901 |
+| Dwarf Fortress | 2.00% | ~4,901 |
+| Look but don't touch | 2.00% | ~4,901 |
+| The beards of change | 2.00% | ~4,901 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,901 |
+| The Ranger of Chaos | 2.00% | ~4,901 |
+| I am the night | 2.00% | ~4,901 |
+| Thieves' Guild Accreditation | 2.00% | ~4,901 |
 | %#*!$*! | 1.00% | ~2,450 |
 | Dead for good | 1.00% | ~2,450 |
 | Gargantua | 1.00% | ~2,450 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,023 (Ranked 68)  
+Progressed: 245,032 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-24 | 244,469 | 7 |
 | 2023-12-25 | 244,664 | 8 |
 | 2023-12-26 | 244,894 | 8 |
-| 2023-12-27 | 245,023 | 8 |
+| 2023-12-27 | 245,032 | 8 |
 ## Awards
 Max (Character Customization): 258  (Ranked 275)  
 Sum: 540 (Ranked 327)  

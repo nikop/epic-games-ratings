@@ -2,12 +2,12 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -3003,6 +3003,6 @@
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
   "LastChanged": "2023-12-26T15:00:28.4921051+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.1543291+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:57:39.5810203+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:14.3367176+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:57:43.4161527+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:06.9836881+00:00"
 }

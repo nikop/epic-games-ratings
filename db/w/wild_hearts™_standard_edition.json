@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 938,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -3300,9 +3300,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_28",
@@ -3538,8 +3538,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:22.5226947+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:10:19.174175+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:50.8262289+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:22.5227423+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:20.6261158+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:19.174225+00:00"
 }

@@ -790,9 +790,9 @@
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "job_one_done",
@@ -879,8 +879,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:47.8674689+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:10:53.3238558+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:09.2379523+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:56.943061+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:47.8674829+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:03.0829812+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:53.3238685+00:00"
 }

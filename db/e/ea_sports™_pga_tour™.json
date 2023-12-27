@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 741,
+  "EOS_Progressed": 742,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -2685,6 +2685,11 @@
       "Time": "2023-12-27T16:10:47.6034519+00:00",
       "NumProgressed": 741,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-27T18:10:52.8827163+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2729,7 +2734,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_14",
@@ -2753,7 +2758,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "achievement_17",
@@ -2817,7 +2822,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_8",
@@ -2825,7 +2830,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_9",
@@ -2840,13 +2845,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 741,
+      "Progressed": 742,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:47.5576891+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:10:52.8827157+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:16.3333951+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:47.5577122+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:04.5500109+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:52.8827403+00:00"
 }

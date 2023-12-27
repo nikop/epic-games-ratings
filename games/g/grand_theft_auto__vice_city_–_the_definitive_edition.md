@@ -5,29 +5,29 @@ Rating: 4.53 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,569 |
-| Greasy Palms | 42.00% | ~5,998 |
-| South American Connection | 26.00% | ~3,713 |
-| Life of the Party | 20.00% | ~2,856 |
-| Big Heat from Little Havana | 15.00% | ~2,142 |
-| Chauffeur | 15.00% | ~2,142 |
-| Tommy Two-Wheels | 15.00% | ~2,142 |
-| Salutations My Little Friend | 11.00% | ~1,571 |
-| Iron-y | 10.00% | ~1,428 |
-| Gun for Hire | 9.00% | ~1,285 |
-| Mischief Managed | 8.00% | ~1,142 |
+| Legal Counsel | 46.00% | ~6,572 |
+| Greasy Palms | 42.00% | ~6,001 |
+| South American Connection | 26.00% | ~3,715 |
+| Life of the Party | 20.00% | ~2,857 |
+| Big Heat from Little Havana | 15.00% | ~2,143 |
+| Chauffeur | 15.00% | ~2,143 |
+| Tommy Two-Wheels | 15.00% | ~2,143 |
+| Salutations My Little Friend | 11.00% | ~1,572 |
+| Iron-y | 10.00% | ~1,429 |
+| Gun for Hire | 9.00% | ~1,286 |
+| Mischief Managed | 8.00% | ~1,143 |
 | Vice City Mogul | 6.00% | ~857 |
 | Catch Me if You Can | 6.00% | ~857 |
 | Bloodstained Hands | 6.00% | ~857 |
 | Not my First Time | 5.00% | ~714 |
 | Grand Theft Auto | 5.00% | ~714 |
 | Pie Guy | 4.00% | ~571 |
-| Point A to Point B | 3.00% | ~428 |
-| High Quality H2O | 3.00% | ~428 |
-| Bull in a China Shop | 3.00% | ~428 |
-| Somebody Call the Wambulance? | 3.00% | ~428 |
-| Just Like the Real Thing | 3.00% | ~428 |
-| Don't Need Roads | 3.00% | ~428 |
+| Point A to Point B | 3.00% | ~429 |
+| High Quality H2O | 3.00% | ~429 |
+| Bull in a China Shop | 3.00% | ~429 |
+| Somebody Call the Wambulance? | 3.00% | ~429 |
+| Just Like the Real Thing | 3.00% | ~429 |
+| Don't Need Roads | 3.00% | ~429 |
 | Running Rampant | 2.00% | ~286 |
 | One is Better Than Two | 2.00% | ~286 |
 | Take the Cannoli | 2.00% | ~286 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 553)
 | Done it All | 0.90% | ~129 |
 | Kingpin | 0.60% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,281 (Ranked 167)  
+Progressed: 14,287 (Ranked 167)  
 Completed: 79 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 79 (0.55%) (Ranked 209)
 | 2023-12-24 | 13,863 | 75 |
 | 2023-12-25 | 14,030 | 76 |
 | 2023-12-26 | 14,192 | 76 |
-| 2023-12-27 | 14,281 | 79 |
+| 2023-12-27 | 14,287 | 79 |
 ## Awards
 Max (Great Boss Battles): 154  (Ranked 323)  
 Sum: 154 (Ranked 434)  

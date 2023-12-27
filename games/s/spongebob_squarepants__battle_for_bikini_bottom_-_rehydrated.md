@@ -1,21 +1,21 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 298)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 16.00% | ~68 |
-| Jellyfish Jam | 15.00% | ~64 |
 | Sponge Smasher | 15.00% | ~64 |
+| Jellyfish Jam | 14.00% | ~60 |
 | Jellyfishing | 10.00% | ~43 |
 | Time For Tutorial | 10.00% | ~43 |
-| Sweet Victory | 9.00% | ~38 |
-| Sock Getter | 9.00% | ~38 |
+| Sweet Victory | 9.00% | ~39 |
+| Sock Getter | 9.00% | ~39 |
+| Star Smasher | 8.00% | ~34 |
 | Uptown and Downtown | 7.00% | ~30 |
 | Super Spatula Seeker | 7.00% | ~30 |
-| Star Smasher | 7.00% | ~30 |
 | Surf's Up! | 7.00% | ~30 |
 | Life's as extreme as you wanna make it! | 6.00% | ~26 |
 | Toxic Terror | 6.00% | ~26 |
@@ -24,8 +24,8 @@ Number of Ratings: 76  (23.09.2022)
 | Shrimp Catcher | 5.00% | ~21 |
 | Hit Rock Bottom | 5.00% | ~21 |
 | Robot encyclopedia | 4.00% | ~17 |
+| Are you ready now? | 4.00% | ~17 |
 | Hello, Bikini Bottom | 4.00% | ~17 |
-| Are you ready now? | 3.00% | ~13 |
 | Ship Shape | 3.00% | ~13 |
 | Shanghaied | 3.00% | ~13 |
 | Kelp Forest of Fear | 3.00% | ~13 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 351)  
+Progressed: 428 (Ranked 351)  
 Completed: 3 (0.70%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 3 (0.70%) (Ranked 197)
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
-| 2023-12-27 | 427 | 3 |
+| 2023-12-27 | 428 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

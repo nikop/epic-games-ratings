@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 479,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
@@ -571,10 +571,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 138,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-27T18:02:05.6107795+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 138,
+  "NumberOfAwards": 139,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -594,7 +600,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Highly Recommended",
@@ -609,9 +615,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6335,
+  "EOS_Progressed": 6340,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9389,6 +9395,11 @@
       "Time": "2023-12-27T17:04:47.8447752+00:00",
       "NumProgressed": 6335,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T18:05:38.9698666+00:00",
+      "NumProgressed": 6340,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9400,7 +9411,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "10",
@@ -9512,7 +9523,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "23",
@@ -9520,7 +9531,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "24",
@@ -9560,7 +9571,7 @@
       "Name": "From Friends to Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "29",
@@ -9568,7 +9579,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "3",
@@ -9616,7 +9627,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "35",
@@ -9672,7 +9683,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "41",
@@ -9879,22 +9890,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6335,
+      "Progressed": 6340,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6335,
+      "Progressed": 6340,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:04:47.8447743+00:00",
+  "LastChanged": "2023-12-27T18:02:05.6107794+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:05:38.9698657+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:40.5157003+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:04:47.8448647+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:05.6107799+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:05:38.9699702+00:00"
 }

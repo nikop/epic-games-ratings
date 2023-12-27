@@ -2149,10 +2149,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2283,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2023-12-27T17:59:59.3107997+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2284,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2283,
+  "NumberOfAwards": 2284,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2184,7 +2190,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2223,9 +2229,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 21776,
+  "EOS_Progressed": 21781,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12178,6 +12184,11 @@
       "Time": "2023-12-27T17:06:11.2285616+00:00",
       "NumProgressed": 21776,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-27T18:07:33.8276478+00:00",
+      "NumProgressed": 21781,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12189,7 +12200,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "CarMechanic",
@@ -12237,7 +12248,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20687
+      "UsersEstimate": 20692
     },
     {
       "ID": "GameOver",
@@ -12277,7 +12288,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "KnockKnock",
@@ -12301,7 +12312,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "Negotiator",
@@ -12325,7 +12336,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "SeniorEstateAgent",
@@ -12341,7 +12352,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "Strongman",
@@ -12349,7 +12360,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6751
+      "UsersEstimate": 6752
     },
     {
       "ID": "VeronicaLiptson",
@@ -12372,15 +12383,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21776,
+      "Progressed": 21781,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-12-26T10:58:13.3097753+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:06:11.2285613+00:00",
+  "LastChanged": "2023-12-27T17:59:59.3107995+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:07:33.8276472+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:12.8483526+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:06:11.2286082+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:59:59.3108001+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:33.8277035+00:00"
 }

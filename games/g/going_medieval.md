@@ -1,21 +1,21 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 423)  
+Rating: 4.60 (Ranked 424)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,742 |
-| Having A Field Day | 76.00% | ~5,742 |
-| Reap What You Sow | 73.00% | ~5,515 |
-| The First Day | 70.00% | ~5,288 |
-| Novice Researcher | 68.00% | ~5,137 |
-| Green Thumb | 67.00% | ~5,062 |
-| Home Cooked Meal | 62.00% | ~4,684 |
+| Get A Room | 76.00% | ~5,743 |
+| Having A Field Day | 76.00% | ~5,743 |
+| Reap What You Sow | 73.00% | ~5,516 |
+| The First Day | 70.00% | ~5,289 |
+| Novice Researcher | 68.00% | ~5,138 |
+| Green Thumb | 67.00% | ~5,063 |
+| Home Cooked Meal | 62.00% | ~4,685 |
 | Onward | 58.00% | ~4,382 |
 | The First Week | 56.00% | ~4,231 |
-| Studious Researcher | 53.00% | ~4,004 |
+| Studious Researcher | 53.00% | ~4,005 |
 | Beam Me Up | 52.00% | ~3,929 |
 | Putting Food on the Table | 45.00% | ~3,400 |
 | Adept Researcher | 45.00% | ~3,400 |
@@ -23,10 +23,10 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 43.00% | ~3,249 |
 | Feast or Famine | 36.00% | ~2,720 |
 | Heating Up | 33.00% | ~2,493 |
-| Luminary Researcher | 30.00% | ~2,266 |
+| Luminary Researcher | 30.00% | ~2,267 |
 | Winter Is Coming | 29.00% | ~2,191 |
 | Fit For A King | 27.00% | ~2,040 |
-| Winter Is Here | 26.00% | ~1,964 |
+| Winter Is Here | 26.00% | ~1,965 |
 | Oh Deer! | 23.00% | ~1,738 |
 | Disassembled | 22.00% | ~1,662 |
 | A Party Now | 22.00% | ~1,662 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~151 |
 | Wabbit Season | 0.50% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,555 (Ranked 189)  
+Progressed: 7,556 (Ranked 189)  
 Completed: 14 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 14 (0.19%) (Ranked 276)
 | 2023-12-24 | 7,500 | 14 |
 | 2023-12-25 | 7,519 | 14 |
 | 2023-12-26 | 7,541 | 14 |
-| 2023-12-27 | 7,555 | 14 |
+| 2023-12-27 | 7,556 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 336)  
 Sum: 1,052 (Ranked 261)  

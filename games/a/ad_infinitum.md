@@ -9,9 +9,9 @@
 | Not alone | 58.00% | ~81 |
 | Hunger | 50.00% | ~70 |
 | Awaken | 41.00% | ~57 |
-| Path of Corruption | 33.00% | ~46 |
+| Path of Corruption | 34.00% | ~47 |
+| Hope | 29.00% | ~40 |
 | Rage | 29.00% | ~40 |
-| Hope | 28.00% | ~39 |
 | Path of Pain | 22.00% | ~31 |
 | Clarity | 17.00% | ~24 |
 | Mayhem | 17.00% | ~24 |
@@ -34,7 +34,7 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 446)  
+Progressed: 139 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9,10 +9,10 @@
 | Loving Commute | 64.00% | ~28 |
 | Friendzoned | 39.00% | ~17 |
 | Love is in Bloom | 36.00% | ~16 |
-| Royal Romance | 32.00% | ~14 |
-| Speed Dating | 23.00% | ~10 |
+| Royal Romance | 34.00% | ~15 |
+| Speed Dating | 25.00% | ~11 |
+| Love is in the Air | 23.00% | ~10 |
 | A Heated Affair | 20.00% | ~9 |
-| Love is in the Air | 20.00% | ~9 |
 | Spread the Love | 20.00% | ~9 |
 | Short Distance Relationship | 18.00% | ~8 |
 | Long Distance Relationship | 14.00% | ~6 |

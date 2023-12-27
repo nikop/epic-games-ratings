@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,127 |
-| Ready for Winter | 62.00% | ~2,655 |
-| Ready for Summer | 49.00% | ~2,099 |
-| Cordon Bleu | 41.00% | ~1,756 |
-| Tapped! | 35.00% | ~1,499 |
-| Eureka | 30.00% | ~1,285 |
+| Venture Outward | 73.00% | ~3,128 |
+| Ready for Winter | 62.00% | ~2,657 |
+| Ready for Summer | 49.00% | ~2,100 |
+| Cordon Bleu | 41.00% | ~1,757 |
+| Tapped! | 35.00% | ~1,500 |
+| Eureka | 30.00% | ~1,286 |
 | Scourge Slayer | 24.00% | ~1,028 |
-| Science, Troglodyte! | 22.00% | ~942 |
-| Exceptional Skill | 21.00% | ~899 |
-| Home Sweet Home | 21.00% | ~899 |
+| Science, Troglodyte! | 22.00% | ~943 |
+| Exceptional Skill | 21.00% | ~900 |
+| Home Sweet Home | 21.00% | ~900 |
 | Encyclopedic! | 18.00% | ~771 |
-| The Power of Family | 16.00% | ~685 |
-| A Fortress Toppled! | 15.00% | ~642 |
-| Apex Predator | 15.00% | ~642 |
+| The Power of Family | 16.00% | ~686 |
+| A Fortress Toppled! | 15.00% | ~643 |
+| Apex Predator | 15.00% | ~643 |
 | The Power of Faith | 12.00% | ~514 |
 | Strange amalgams | 11.00% | ~471 |
-| The Power of Freedom | 9.00% | ~385 |
+| The Power of Freedom | 9.00% | ~386 |
 | Ace Detective | 8.00% | ~343 |
 | Gift from the Ancestors | 8.00% | ~343 |
 | Magic is a science | 8.00% | ~343 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~171 |
 | For All Aurai | 4.00% | ~171 |
 | Memory of a legend | 4.00% | ~171 |
-| Light of Levant | 3.00% | ~128 |
-| This was a mistake... | 3.00% | ~128 |
+| Light of Levant | 3.00% | ~129 |
+| This was a mistake... | 3.00% | ~129 |
 | Crowd Pleaser. | 2.00% | ~86 |
 | Perfect Defense | 2.00% | ~86 |
 | Power! To! The People! | 2.00% | ~86 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~17 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,283 (Ranked 204)  
+Progressed: 4,285 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 5 (0.12%) (Ranked 301)
 | 2023-12-24 | 4,222 | 5 |
 | 2023-12-25 | 4,244 | 5 |
 | 2023-12-26 | 4,272 | 5 |
-| 2023-12-27 | 4,283 | 5 |
+| 2023-12-27 | 4,285 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 495)  
 Sum: 246 (Ranked 396)  

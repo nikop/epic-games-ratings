@@ -2,7 +2,7 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 147,
@@ -683,9 +683,9 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Bird_Fragile",
@@ -819,9 +819,9 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Mountain_Fragile",
@@ -898,8 +898,8 @@
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:06:13.9053442+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:07:37.4896113+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:03.5328641+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:45.7734008+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:06:13.9053596+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:13.3909991+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:37.4896329+00:00"
 }

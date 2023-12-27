@@ -2,9 +2,9 @@
   "ID": "e3c41cdcfdd044478dd6ed66556df982",
   "Name": "Battle Planet - Judgement Day",
   "ProductSlug": "battle-planet-judgement-day-1f3c51",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-14T16:03:34.2764174+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:06:18.666907+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:07:43.860554+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.6739066+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:13.5967866+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:06:18.6669147+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:27.956206+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:43.8605677+00:00"
 }

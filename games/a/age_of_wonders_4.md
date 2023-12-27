@@ -6,20 +6,20 @@ Rating: 4.63 (Ranked 353)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 10.00% | ~634 |
-| Realm Estate | 9.00% | ~570 |
-| A Wonderful Discovery | 9.00% | ~570 |
+| Realm Estate | 9.00% | ~571 |
+| A Wonderful Discovery | 9.00% | ~571 |
 | Walls Cannot Stop Us | 8.00% | ~507 |
-| From Friends to Family | 7.00% | ~443 |
+| From Friends to Family | 7.00% | ~444 |
 | Bone Peddler | 6.00% | ~380 |
 | There Can Only Be One! | 5.00% | ~317 |
 | Full Ascension | 5.00% | ~317 |
 | Magical Synergy | 5.00% | ~317 |
 | Seat of Power | 5.00% | ~317 |
 | But this one is mine | 5.00% | ~317 |
-| Valley of Wonders | 4.00% | ~253 |
-| Stronger Together | 4.00% | ~253 |
-| In a Liege of Your Own | 4.00% | ~253 |
-| Intimidation Tactics | 4.00% | ~253 |
+| Valley of Wonders | 4.00% | ~254 |
+| Stronger Together | 4.00% | ~254 |
+| In a Liege of Your Own | 4.00% | ~254 |
+| Intimidation Tactics | 4.00% | ~254 |
 | Return of the Wizard King | 3.00% | ~190 |
 | Digging for Treasure | 3.00% | ~190 |
 | My Final Form | 3.00% | ~190 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,335 (Ranked 194)  
+Progressed: 6,340 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,16 +285,16 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
-| 2023-12-27 | 6,335 | 7 |
+| 2023-12-27 | 6,340 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 479)  
-Sum: 138 (Ranked 439)  
-Diff (max vs sum): 40  
+Max (Great for Beginners): 38  (Ranked 480)  
+Sum: 139 (Ranked 439)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |
 | This game has Diverse Characters | 37 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 | This game is Highly Recommended | 20 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
@@ -376,3 +376,4 @@ Diff (max vs sum): 40
 | 2023-12-20 | 4.62 | 37 | 113 |
 | 2023-12-24 | 4.62 | 38 | 136 |
 | 2023-12-26 | 4.63 | 38 | 138 |
+| 2023-12-27 | 4.63 | 38 | 139 |

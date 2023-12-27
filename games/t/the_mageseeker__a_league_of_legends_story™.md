@@ -1,26 +1,26 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 89)  
+Rating: 4.80 (Ranked 88)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,937 |
-| No more cages! | 91.00% | ~2,814 |
-| Everfrost | 77.00% | ~2,381 |
-| Pentakill | 76.00% | ~2,350 |
-| Dark Forest | 76.00% | ~2,350 |
-| The use of petricite | 73.00% | ~2,257 |
-| You can pet the dog | 60.00% | ~1,855 |
+| For Demacia | 95.00% | ~2,938 |
+| No more cages! | 90.00% | ~2,784 |
+| Everfrost | 77.00% | ~2,382 |
+| Pentakill | 76.00% | ~2,351 |
+| Dark Forest | 76.00% | ~2,351 |
+| The use of petricite | 73.00% | ~2,258 |
+| You can pet the dog | 60.00% | ~1,856 |
 | Thornbarrow | 42.00% | ~1,299 |
 | Big Helmet Bro | 40.00% | ~1,237 |
 | Clarion Cove | 40.00% | ~1,237 |
 | Ternmoat Headquarters | 38.00% | ~1,175 |
 | Past trauma | 37.00% | ~1,144 |
 | Elemental master | 36.00% | ~1,113 |
-| Cypress Glen Headquarters | 34.00% | ~1,051 |
-| Petricite Burst | 33.00% | ~1,020 |
-| Old friend | 32.00% | ~989 |
+| Cypress Glen Headquarters | 34.00% | ~1,052 |
+| Petricite Burst | 33.00% | ~1,021 |
+| Old friend | 32.00% | ~990 |
 | Devineur | 31.00% | ~959 |
 | Hijack | 30.00% | ~928 |
 | Whispers in the Woods I | 27.00% | ~835 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 89)
 | Silverwing nest | 2.00% | ~62 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,092 (Ranked 221)  
+Progressed: 3,093 (Ranked 221)  
 Completed: 17 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 17 (0.55%) (Ranked 209)
 | 2023-12-24 | 3,025 | 16 |
 | 2023-12-25 | 3,050 | 17 |
 | 2023-12-26 | 3,075 | 17 |
-| 2023-12-27 | 3,092 | 17 |
+| 2023-12-27 | 3,093 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

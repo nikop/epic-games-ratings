@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -2280,6 +2280,11 @@
       "Time": "2023-12-27T16:10:30.0183237+00:00",
       "NumProgressed": 849,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-27T18:10:35.7957402+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -2291,7 +2296,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2307,7 +2312,7 @@
       "Name": "The Coward",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ENDING_2",
@@ -2363,7 +2368,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2379,7 +2384,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "GOOD_KARMA",
@@ -2395,7 +2400,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2403,7 +2408,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2411,7 +2416,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PROTECTOR",
@@ -2419,7 +2424,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "SABOTAGE",
@@ -2427,7 +2432,7 @@
       "Name": "Sabotage",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2450,7 +2455,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 9
     }
   ],
@@ -2458,8 +2463,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:34.8716519+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:10:35.7957397+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:33.5277238+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:34.8716737+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:59:01.2059785+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:35.7957611+00:00"
 }

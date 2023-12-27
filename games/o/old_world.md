@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,10 +9,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.70% | ~112 |
 | Play a Single Player Game | 0.70% | ~112 |
 | Explorer | 0.60% | ~96 |
+| Friendly Family | 0.60% | ~96 |
 | Architect | 0.50% | ~80 |
 | Intrepid | 0.50% | ~80 |
 | Mason | 0.50% | ~80 |
-| Friendly Family | 0.50% | ~80 |
 | Hanging Gardens | 0.50% | ~80 |
 | Able | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
+| Power to the People | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
 | Carthaginian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
@@ -201,7 +202,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.10% | ~16 |
 | Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
-| Power to the People | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,974 (Ranked 163)  
+Progressed: 15,975 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
-| 2023-12-27 | 15,974 | 5 |
+| 2023-12-27 | 15,975 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,911 (Ranked 220)  

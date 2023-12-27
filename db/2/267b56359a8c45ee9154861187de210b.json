@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "TOURN_PARTICIP_5",
       "SetID": "3448go",
       "Name": "Challenger",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -1125,9 +1125,9 @@
       "ID": "trophies_75",
       "SetID": "3448go",
       "Name": "The Archeologist",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "zombie_high",
@@ -1164,8 +1164,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:04:32.8406736+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:05:18.4000891+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:07.2439225+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:11.4640662+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:04:32.840741+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:24.8564183+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:05:18.4001567+00:00"
 }

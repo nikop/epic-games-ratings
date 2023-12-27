@@ -2,7 +2,7 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 961,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 190,
@@ -987,7 +987,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7475,
+  "EOS_Progressed": 7476,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -9447,6 +9447,11 @@
       "Time": "2023-12-27T14:09:58.1153076+00:00",
       "NumProgressed": 7475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T18:11:13.3150658+00:00",
+      "NumProgressed": 7476,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9498,7 +9503,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4485
+      "UsersEstimate": 4486
     },
     {
       "ID": "Control_All_Relics",
@@ -9522,7 +9527,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9538,7 +9543,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "First_Major_Ally",
@@ -9546,7 +9551,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -9562,7 +9567,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "First_Race_Met",
@@ -9570,7 +9575,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "First_Ship_Designed",
@@ -9578,7 +9583,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "First_Stream_Travel",
@@ -9594,7 +9599,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9778,7 +9783,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4485
+      "UsersEstimate": 4486
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9914,7 +9919,7 @@
       "Name": "Win as Terrans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Win_As_Torian",
@@ -9970,7 +9975,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Win_Diplomacy",
@@ -10033,15 +10038,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7475,
+      "Progressed": 7476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:10:02.5099969+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:11:13.3150653+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:46.5613411+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:10:02.5100939+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:14.5724533+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:11:13.3151517+00:00"
 }

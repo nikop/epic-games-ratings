@@ -5,7 +5,7 @@
   "Ranking_Rating": 867,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 147,
@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1070,9 +1070,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1134,9 +1134,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ALLCOMBAT",
@@ -1182,9 +1182,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "BRINGTOYS",
@@ -1326,9 +1326,9 @@
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HELPTHORHILD",
@@ -1414,8 +1414,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-27T16:08:53.100641+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:04:08.9948658+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:51.5764511+00:00",
-  "LastUpdate_Achievements": "2023-12-27T16:08:53.1006811+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:02:21.6189605+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:04:08.9948967+00:00"
 }

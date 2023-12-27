@@ -2,9 +2,9 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1023,
-  "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 446,
+  "Ranking_Rating": 1022,
+  "Ranking_Popularity": 477,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 176,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.01,
+  "Rating": 4.02,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -629,18 +629,24 @@
       "Rating": 4.01,
       "NumberOfAwards": 127,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-27T17:58:17.0243046+00:00",
+      "Rating": 4.02,
+      "NumberOfAwards": 128,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 127,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 128,
+  "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -673,7 +679,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3874,
+  "EOS_Progressed": 3875,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
@@ -11003,6 +11009,11 @@
       "Time": "2023-12-27T16:05:10.7068029+00:00",
       "NumProgressed": 3874,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T18:05:15.068417+00:00",
+      "NumProgressed": 3875,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11070,7 +11081,7 @@
       "Name": "Cauldron Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "challenger",
@@ -11158,7 +11169,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "engineermastery",
@@ -11198,7 +11209,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "fourleafclover",
@@ -11222,7 +11233,7 @@
       "Name": "Full Party",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "gearenchanting",
@@ -11238,7 +11249,7 @@
       "Name": "Guardian Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "guildpower",
@@ -11260,9 +11271,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 504
     },
     {
       "ID": "howdoyouturnthison",
@@ -11398,7 +11409,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "prestigious",
@@ -11406,7 +11417,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "prestigiousx10",
@@ -11438,7 +11449,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "scrollmaster",
@@ -11470,7 +11481,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "thealchemist",
@@ -11502,7 +11513,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "thepowerofawakening",
@@ -11574,7 +11585,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "warmachinesarmy",
@@ -11598,7 +11609,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "worldmap",
@@ -11613,16 +11624,16 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3874,
+      "Progressed": 3875,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-12-26T10:57:05.5454417+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:04:30.1100789+00:00",
+  "LastChanged": "2023-12-27T17:58:17.0243045+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:05:15.0684165+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:58:02.6400667+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:04:30.1101665+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:58:17.024305+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:05:15.0685093+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 98  (23.09.2022)
 | War Never Changes | 44.00% | ~839 |
 | Heroes Never Die | 41.00% | ~781 |
 | Mosquito bite | 37.00% | ~705 |
-| Spice It Up | 32.00% | ~610 |
+| Spice It Up | 33.00% | ~629 |
 | Agent 47 | 27.00% | ~515 |
 | Bomberman | 27.00% | ~515 |
 | You're Gonna Go Far, Kid | 26.00% | ~496 |
@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Your Answer | 15.00% | ~286 |
 | One by One | 14.00% | ~267 |
 | The Big Bertha | 13.00% | ~248 |
-| Game Over | 11.00% | ~210 |
+| Game Over | 12.00% | ~229 |
 | Lock, Stock | 8.00% | ~152 |
 | Payback Time | 7.00% | ~133 |
 | No Witness | 5.00% | ~95 |

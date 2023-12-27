@@ -2,9 +2,9 @@
   "ID": "3c59565688c94fa2807baaa19ed62478",
   "Name": "Thunder Ray",
   "ProductSlug": "thunder-ray-e9a2e3",
-  "Ranking_EOS_Progress": 598,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 516,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-09-19T14:03:53.5179014+00:00",
@@ -159,6 +159,11 @@
       "Time": "2023-12-18T03:10:10.6110459+00:00",
       "NumProgressed": 25,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T18:11:00.6786984+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-19T14:03:53.5179038+00:00",
@@ -169,15 +174,15 @@
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "b9ng4ag",
       "Name": "Fighting Steps",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 45,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_DEFEAT_BOWIE_SPECIAL",
       "SetID": "b9ng4ag",
       "Name": "Stardust",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -185,23 +190,23 @@
       "ID": "ACH_DEFEAT_BULLET",
       "SetID": "b9ng4ag",
       "Name": "Snake Eye",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_DEFEAT_EVIL_RICO",
       "SetID": "b9ng4ag",
       "Name": "Revival",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 95,
       "UsersEstimate": 4
     },
@@ -209,7 +214,7 @@
       "ID": "ACH_DEFEAT_GOBLIN",
       "SetID": "b9ng4ag",
       "Name": "Sting like a bee",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -225,7 +230,7 @@
       "ID": "ACH_DEFEAT_SHAPE",
       "SetID": "b9ng4ag",
       "Name": "Shadow Boxing",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
       "UsersEstimate": 6
     },
@@ -241,7 +246,7 @@
       "ID": "ACH_UNLOCK_ALL_SPECIALS",
       "SetID": "b9ng4ag",
       "Name": "Thunder Fist",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 75,
       "UsersEstimate": 11
     }
@@ -250,14 +255,14 @@
     {
       "ID": "b9ng4ag",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:53.0664366+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:11:00.6786978+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.6078687+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:39.0198487+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:53.0664442+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:38.4946799+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:11:00.678707+00:00"
 }

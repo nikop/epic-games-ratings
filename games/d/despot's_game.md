@@ -9,8 +9,8 @@ Rating: 4.50 (Ranked 606)
 | Vanquisher of Robots | 78.00% | ~367 |
 | Party | 50.00% | ~235 |
 | Impossible Cube | 46.00% | ~216 |
+| Knowledge is Power | 45.00% | ~212 |
 | Through the Darkness | 45.00% | ~212 |
-| Knowledge is Power | 44.00% | ~207 |
 | No Mercy | 43.00% | ~202 |
 | The Return of a Rat | 41.00% | ~193 |
 | Fat of the Earth | 36.00% | ~169 |

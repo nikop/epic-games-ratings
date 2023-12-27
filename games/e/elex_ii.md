@@ -8,12 +8,12 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 32.00% | ~37 |
 | Best Buddy | 25.00% | ~29 |
+| Role Model | 23.00% | ~27 |
 | Civilian | 23.00% | ~27 |
-| Role Model | 22.00% | ~26 |
+| Military Leader | 16.00% | ~19 |
 | Creator | 16.00% | ~19 |
 | Festival-goer | 16.00% | ~19 |
-| Military Leader | 15.00% | ~17 |
-| Peddler | 14.00% | ~16 |
+| Peddler | 15.00% | ~17 |
 | Commander | 14.00% | ~16 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 10.00% | ~12 |
@@ -31,9 +31,9 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 3.00% | ~3 |
 | Cleric | 3.00% | ~3 |
 | Perfectionist | 3.00% | ~3 |
+| Detective | 3.00% | ~3 |
 | Alchemist | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
-| Detective | 2.00% | ~2 |
 | Lover | 2.00% | ~2 |
 | Banker | 0.90% | ~1 |
 | Treasure Hunter | 0.90% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 468)  
+Progressed: 116 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

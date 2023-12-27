@@ -4,10 +4,10 @@
   "ProductSlug": "dragonheir-silent-gods-559a4c",
   "Ranking_Rating": 928,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 424,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-18T00:00:00+00:00",
@@ -755,10 +755,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-27T18:01:21.5677202+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 175,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 174,
+  "NumberOfAwards": 175,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -790,7 +796,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Highly Recommended",
@@ -817,8 +823,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2023-12-26T23:00:24.1267103+00:00",
+  "LastChanged": "2023-12-27T18:01:21.56772+00:00",
   "LastUpdate_AppInfo": "2023-12-25T11:56:51.8426334+00:00",
-  "LastUpdate_Ratings": "2023-12-27T17:00:09.2726024+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:05:32.073152+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:01:21.5677207+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:06:40.6237863+00:00"
 }

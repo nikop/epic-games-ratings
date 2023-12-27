@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3658,8 +3658,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:10:07.7750484+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:11:19.7324031+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:29.842574+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:10:07.7750922+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:24.7378932+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:11:19.732447+00:00"
 }

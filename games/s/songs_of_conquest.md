@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 44.00% | ~346 |
+| Adept | 44.00% | ~347 |
 | Double Kill | 38.00% | ~299 |
-| Critical Hit | 20.00% | ~157 |
-| Veteran | 20.00% | ~157 |
+| Critical Hit | 20.00% | ~158 |
+| Veteran | 20.00% | ~158 |
 | Dressed For Success | 14.00% | ~110 |
 | Multi Kill | 8.00% | ~63 |
 | Sorcerous Spree | 8.00% | ~63 |
@@ -19,8 +19,8 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~47 |
 | Landlord Extraordinaire | 6.00% | ~47 |
 | Don't Touch My Stuff | 5.00% | ~39 |
-| The Song of Stoutheart | 4.00% | ~31 |
-| Trojan Horse | 4.00% | ~31 |
+| The Song of Stoutheart | 4.00% | ~32 |
+| Trojan Horse | 4.00% | ~32 |
 | Expert Essence Employment | 3.00% | ~24 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~24 |
 | This Spot's Taken | 2.00% | ~16 |
@@ -31,8 +31,8 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 1.00% | ~8 |
 | From the Ashes | 1.00% | ~8 |
 | Such A Fungi | 1.00% | ~8 |
+| Grand Master | 1.00% | ~8 |
 | Together For Her | 0.90% | ~7 |
-| Grand Master | 0.90% | ~7 |
 | In The Thick of It | 0.60% | ~5 |
 | Death To Diplomacy | 0.50% | ~4 |
 | Unlimited Power! | 0.50% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 296)  
+Progressed: 788 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
 | 2023-12-26 | 773 | 0 |
-| 2023-12-27 | 787 | 0 |
+| 2023-12-27 | 788 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 530)  
 Sum: 194 (Ranked 414)  

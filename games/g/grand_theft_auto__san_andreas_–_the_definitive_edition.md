@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,847 |
-| Pay 'n' Spray | 50.00% | ~8,548 |
-| All Dressed Up for San Fierro | 25.00% | ~4,274 |
-| The American Dream | 18.00% | ~3,077 |
-| School's Out | 18.00% | ~3,077 |
-| Smooth Moves | 16.00% | ~2,735 |
-| Today Was a Good Day | 15.00% | ~2,564 |
-| What happens in Las Venturas... | 14.00% | ~2,393 |
+| Getting Started | 81.00% | ~13,853 |
+| Pay 'n' Spray | 50.00% | ~8,552 |
+| All Dressed Up for San Fierro | 25.00% | ~4,276 |
+| The American Dream | 18.00% | ~3,079 |
+| School's Out | 18.00% | ~3,079 |
+| Smooth Moves | 16.00% | ~2,736 |
+| Today Was a Good Day | 15.00% | ~2,565 |
+| What happens in Las Venturas... | 14.00% | ~2,394 |
 | Horror of the Santa Maria | 10.00% | ~1,710 |
 | Liberty City State of Mind | 9.00% | ~1,539 |
 | Original Gangster | 8.00% | ~1,368 |
@@ -38,10 +38,10 @@ Rating: 4.54 (Ranked 538)
 | Not a Player | 1.00% | ~171 |
 | Chick Magnet | 1.00% | ~171 |
 | Remastered | 0.70% | ~120 |
-| ...Here we go again | 0.50% | ~85 |
+| ...Here we go again | 0.50% | ~86 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,095 (Ranked 159)  
+Progressed: 17,103 (Ranked 159)  
 Completed: 64 (0.37%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 64 (0.37%) (Ranked 236)
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
 | 2023-12-26 | 17,001 | 64 |
-| 2023-12-27 | 17,095 | 64 |
+| 2023-12-27 | 17,103 | 64 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
-Sum: 806 (Ranked 285)  
+Sum: 807 (Ranked 285)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
@@ -306,7 +306,7 @@ Diff (max vs sum): -72
 | This game has Amazing Storytelling | 38 |
 | This game is Highly Recommended | 36 |
 | This game is Extremely Fun | 30 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 29 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Diverse Characters | 28 |
 ## Ratings History
@@ -524,4 +524,4 @@ Diff (max vs sum): -72
 | 2023-12-24 | 4.54 | 492 | 801 |
 | 2023-12-25 | 4.54 | 508 | 821 |
 | 2023-12-26 | 4.54 | 519 | 793 |
-| 2023-12-27 | 4.54 | 530 | 806 |
+| 2023-12-27 | 4.54 | 530 | 807 |

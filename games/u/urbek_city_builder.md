@@ -43,6 +43,7 @@
 | I don't feel well, I have to drink a coffe | 0.20% | ~1 |
 | Little Mayor | 0.20% | ~1 |
 | Town planner | 0.20% | ~1 |
+| Metropolurbek Plus | 0.20% | ~1 |
 | Restorer | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
 | Sport is the best thing | 0.20% | ~1 |
@@ -69,7 +70,6 @@
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
-| Metropolurbek Plus | 0.00% | ~0 |
 | City in flames | 0.00% | ~0 |
 | Full restorer | 0.00% | ~0 |
 | Restorer master | 0.00% | ~0 |

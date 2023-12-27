@@ -607,17 +607,17 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SOS_PYROMAN",
@@ -647,9 +647,9 @@
       "ID": "SOS_SECRET_PASSAGEWAY",
       "SetID": "6ci4lm2",
       "Name": "Secret passageway",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_SHAFT_INTO_DARKNESS",
@@ -727,9 +727,9 @@
       "ID": "SOS_WHERE_IS_PRISONER",
       "SetID": "6ci4lm2",
       "Name": "Where is the prisoner?",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -742,8 +742,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:04:50.8794449+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:05:42.9494161+00:00",
   "LastUpdate_AppInfo": "2023-12-25T18:57:02.8169973+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:24.9688339+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:04:50.8794842+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:17.5851206+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:05:42.9494647+00:00"
 }

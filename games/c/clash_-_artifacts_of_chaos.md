@@ -10,7 +10,7 @@
 | Your Training Continues | 29.00% | ~40 |
 | Over the Moon | 29.00% | ~40 |
 | Enemies of Fate | 29.00% | ~40 |
-| Armored | 25.00% | ~35 |
+| Armored | 26.00% | ~36 |
 | Amokuali Tower | 24.00% | ~33 |
 | Freedom | 23.00% | ~32 |
 | Winner | 21.00% | ~29 |
@@ -26,7 +26,7 @@
 | Vivid Dreams | 2.00% | ~3 |
 | Broken Reflection | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 446)  
+Progressed: 139 (Ranked 447)  
 Completed: 1 (0.72%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |

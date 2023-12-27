@@ -11,7 +11,7 @@
 | Sanctuary Guardian | 54.00% | ~137 |
 | Endless Tricks | 49.00% | ~124 |
 | Wild's Keeper | 46.00% | ~116 |
-| Mind Illuminator | 43.00% | ~109 |
+| Mind Illuminator | 44.00% | ~111 |
 | Stellar Dismantler | 35.00% | ~89 |
 | Noctuan Champion | 35.00% | ~89 |
 | Anomaly Destroyer | 30.00% | ~76 |

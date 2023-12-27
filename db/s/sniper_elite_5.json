@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4134,
+  "EOS_Progressed": 4136,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9064,6 +9064,11 @@
       "Time": "2023-12-27T16:10:12.5282314+00:00",
       "NumProgressed": 4134,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-27T18:10:18.5542338+00:00",
+      "NumProgressed": 4136,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9155,7 +9160,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9195,7 +9200,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9227,7 +9232,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9235,7 +9240,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -9243,7 +9248,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9267,7 +9272,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -9275,7 +9280,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9315,7 +9320,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9331,7 +9336,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9339,7 +9344,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9467,7 +9472,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9642,13 +9647,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4085,
+      "Progressed": 4087,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4134,
+      "Progressed": 4136,
       "Completed": 11
     }
   ],
@@ -9656,8 +9661,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-27T17:09:22.1636263+00:00",
+  "LastChanged_Achievements": "2023-12-27T18:10:18.5542335+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:59:37.5890381+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:09:22.1637216+00:00"
+  "LastUpdate_Ratings": "2023-12-27T18:00:36.2655019+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:10:18.554335+00:00"
 }

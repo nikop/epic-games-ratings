@@ -5,32 +5,32 @@ Rating: 4.41 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~48,024 |
-| IT MAKES BOOM! | 8.00% | ~29,553 |
-| EXTRA BOOST | 6.00% | ~22,165 |
-| PROTECTED | 5.00% | ~18,471 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,777 |
-| PRO | 4.00% | ~14,777 |
-| AGGRESSIVE RACER | 3.00% | ~11,083 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,388 |
-| TRAINING HARD | 2.00% | ~7,388 |
-| A TIGER'S FEAR | 2.00% | ~7,388 |
-| RELEASE THE KRAKEN | 1.00% | ~3,694 |
-| BE OUR GUEST | 1.00% | ~3,694 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,694 |
-| ACE SPEEDSTER | 1.00% | ~3,694 |
-| ACE DEFENDER | 1.00% | ~3,694 |
-| FRIENDLY | 1.00% | ~3,694 |
-| MASTER | 1.00% | ~3,694 |
-| LEGENDARY HERO | 1.00% | ~3,694 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,325 |
-| EXPERIENCED CREW | 0.80% | ~2,955 |
-| ACE BRAWLER | 0.80% | ~2,955 |
+| ROOKIE | 13.00% | ~48,044 |
+| IT MAKES BOOM! | 8.00% | ~29,566 |
+| EXTRA BOOST | 6.00% | ~22,174 |
+| PROTECTED | 5.00% | ~18,478 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~14,783 |
+| PRO | 4.00% | ~14,783 |
+| AGGRESSIVE RACER | 3.00% | ~11,087 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,391 |
+| TRAINING HARD | 2.00% | ~7,391 |
+| A TIGER'S FEAR | 2.00% | ~7,391 |
+| RELEASE THE KRAKEN | 1.00% | ~3,696 |
+| BE OUR GUEST | 1.00% | ~3,696 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,696 |
+| ACE SPEEDSTER | 1.00% | ~3,696 |
+| ACE DEFENDER | 1.00% | ~3,696 |
+| FRIENDLY | 1.00% | ~3,696 |
+| MASTER | 1.00% | ~3,696 |
+| LEGENDARY HERO | 1.00% | ~3,696 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,326 |
+| EXPERIENCED CREW | 0.80% | ~2,957 |
+| ACE BRAWLER | 0.80% | ~2,957 |
 | PERFECTLY POISED | 0.60% | ~2,217 |
 | FRAMED! | 0.60% | ~2,217 |
 | ACE TRICKSTER | 0.60% | ~2,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369,417 (Ranked 48)  
+Progressed: 369,569 (Ranked 48)  
 Completed: 1,247 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 1,247 (0.34%) (Ranked 245)
 | 2023-12-24 | 361,839 | 1,153 |
 | 2023-12-25 | 364,541 | 1,188 |
 | 2023-12-26 | 367,598 | 1,227 |
-| 2023-12-27 | 369,417 | 1,247 |
+| 2023-12-27 | 369,569 | 1,247 |
 ## Awards
 Max (Great for Beginners): 157  (Ranked 321)  
 Sum: 1,025 (Ranked 264)  

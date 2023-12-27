@@ -2,12 +2,12 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -6521,10 +6521,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 29399,
       "NumberOfAwardsMax": 14267
+    },
+    {
+      "Time": "2023-12-27T17:57:22.3128353+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 29405,
+      "NumberOfAwardsMax": 14267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29399,
+  "NumberOfAwards": 29405,
   "NumberOfAwardsMax": 14267,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6556,7 +6562,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1654
+      "Count": 1657
     },
     {
       "Text": "This game is Relaxing",
@@ -6568,13 +6574,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1555
+      "Count": 1556
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1589
+      "Count": 1591
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6613,8 +6619,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-12-27T16:57:23.9428156+00:00",
+  "LastChanged": "2023-12-27T17:57:22.3128352+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.7121186+00:00",
-  "LastUpdate_Ratings": "2023-12-27T16:57:23.9428163+00:00",
-  "LastUpdate_Achievements": "2023-12-27T17:06:20.6872917+00:00"
+  "LastUpdate_Ratings": "2023-12-27T17:57:22.3128358+00:00",
+  "LastUpdate_Achievements": "2023-12-27T18:07:46.7471292+00:00"
 }
