@@ -12,8 +12,8 @@ Rating: 4.52 (Ranked 565)
 | Archer | 46.00% | ~58 |
 | The brave little tailor | 43.00% | ~55 |
 | Field hand | 41.00% | ~52 |
+| Well-to-do | 37.00% | ~47 |
 | Samaritan | 36.00% | ~46 |
-| Well-to-do | 36.00% | ~46 |
 | The merciful one | 33.00% | ~42 |
 | Ladies' man | 32.00% | ~41 |
 | Ferocious wild boars | 27.00% | ~34 |
@@ -32,9 +32,9 @@ Rating: 4.52 (Ranked 565)
 | Ghost hunter | 16.00% | ~20 |
 | Master detective | 16.00% | ~20 |
 | Pandora's box | 15.00% | ~19 |
+| Peacekeeper | 14.00% | ~18 |
 | Defender | 13.00% | ~17 |
 | Workaholic | 13.00% | ~17 |
-| Peacekeeper | 13.00% | ~17 |
 | Showdown | 11.00% | ~14 |
 | Safecracker | 11.00% | ~14 |
 | Master thief | 11.00% | ~14 |

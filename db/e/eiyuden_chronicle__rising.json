@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.78,
+  "EOS_Completed_Percentage": 7.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -691,6 +691,11 @@
       "Time": "2023-12-27T02:28:32.8374616+00:00",
       "NumProgressed": 771,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-27T14:08:46.8951491+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -700,9 +705,9 @@
       "ID": "ACHIEVEMENT001",
       "SetID": "dejhjd5",
       "Name": "Plenty More to Go",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 656
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -718,15 +723,15 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT004",
       "SetID": "dejhjd5",
       "Name": "All Bark, No Bite",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 571
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -766,7 +771,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -782,7 +787,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -812,9 +817,9 @@
       "ID": "ACHIEVEMENT015",
       "SetID": "dejhjd5",
       "Name": "Scavenger\u0027s Honor",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -830,7 +835,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -878,7 +883,7 @@
       "Name": "Armor Master",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -886,7 +891,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -894,7 +899,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -958,7 +963,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -982,7 +987,7 @@
       "Name": "First Time Hunting",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -998,7 +1003,7 @@
       "Name": "Fishing Master",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -1038,7 +1043,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -1046,7 +1051,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -1101,15 +1106,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:35.9463466+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:08:46.8951487+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:00:46.1977243+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:35.9463824+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:58:03.6943596+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:08:46.8951891+00:00"
 }

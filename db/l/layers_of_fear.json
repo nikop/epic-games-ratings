@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -954,6 +954,11 @@
       "Time": "2023-12-27T12:08:34.4826336+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T14:08:27.1399139+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -980,7 +985,7 @@
       "ID": "assemble_puzzles",
       "SetID": "f2im8d",
       "Name": "The Big Picture",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1046,7 +1051,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "decrypt_one_myth",
@@ -1078,7 +1083,7 @@
       "Name": "Do what you have to",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "earn_all_trophies",
@@ -1116,9 +1121,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "find_one_photo",
@@ -1188,7 +1193,7 @@
       "ID": "in_one_take",
       "SetID": "f2im8d",
       "Name": "In One Take",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1238,7 +1243,7 @@
       "Name": "A piece of the story",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "playtime",
@@ -1260,7 +1265,7 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1286,7 +1291,7 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "sign_of_weakness",
@@ -1302,7 +1307,7 @@
       "Name": "Something important",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "spy_one_item",
@@ -1332,9 +1337,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "tough_conversation",
@@ -1364,9 +1369,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1381,14 +1386,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:15.3825402+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:08:27.1399135+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:01:15.3543767+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:15.3825766+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:58:31.2297622+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:08:27.1399693+00:00"
 }

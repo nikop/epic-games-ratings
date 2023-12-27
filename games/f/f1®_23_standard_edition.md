@@ -5,57 +5,57 @@ Rating: 4.66 (Ranked 296)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~11,590 |
-| On the Top Step | 82.00% | ~10,444 |
-| Setting up for Success | 68.00% | ~8,660 |
-| Team Orders | 68.00% | ~8,660 |
-| Engineer | 46.00% | ~5,859 |
-| Familiar Faces | 42.00% | ~5,349 |
-| Going the Extra Mile | 36.00% | ~4,585 |
-| Sharing the Love | 33.00% | ~4,203 |
-| Hitting a Season | 26.00% | ~3,311 |
-| Making History | 25.00% | ~3,184 |
-| A Dozen Pieces | 24.00% | ~3,057 |
-| Network Success | 23.00% | ~2,929 |
-| Challenge Yourself | 23.00% | ~2,929 |
-| Writing a new Chapter | 19.00% | ~2,420 |
-| Spring Cleaning | 18.00% | ~2,292 |
-| Reduce | 15.00% | ~1,910 |
-| Ups and Downs | 15.00% | ~1,910 |
-| Crucial Combo | 14.00% | ~1,783 |
-| Reuse | 12.00% | ~1,528 |
-| Proving Them Wrong | 12.00% | ~1,528 |
-| Gathering Dust | 11.00% | ~1,401 |
-| One for the Book | 11.00% | ~1,401 |
-| Oil and Water | 10.00% | ~1,274 |
-| Friendly Competition | 10.00% | ~1,274 |
-| Switcheroo | 10.00% | ~1,274 |
-| Eagle Eye | 9.00% | ~1,146 |
-| All in a Weekend's Work | 9.00% | ~1,146 |
-| Lightning Round the World | 9.00% | ~1,146 |
-| Hitting a Bullseye | 9.00% | ~1,146 |
-| Spinning Around | 9.00% | ~1,146 |
-| Recycle | 7.00% | ~892 |
-| Undisputed Winner | 6.00% | ~764 |
-| Tinkerer | 6.00% | ~764 |
-| For all Those Back at the Factory | 4.00% | ~509 |
-| Living up to Expectations | 4.00% | ~509 |
-| Smooth Operator | 4.00% | ~509 |
-| Peak Performance | 4.00% | ~509 |
-| Loyal Bond | 3.00% | ~382 |
+| Getting on the Step | 91.00% | ~11,607 |
+| On the Top Step | 82.00% | ~10,459 |
+| Setting up for Success | 68.00% | ~8,673 |
+| Team Orders | 68.00% | ~8,673 |
+| Engineer | 46.00% | ~5,867 |
+| Familiar Faces | 42.00% | ~5,357 |
+| Going the Extra Mile | 36.00% | ~4,592 |
+| Sharing the Love | 33.00% | ~4,209 |
+| Hitting a Season | 26.00% | ~3,316 |
+| Making History | 25.00% | ~3,189 |
+| A Dozen Pieces | 24.00% | ~3,061 |
+| Network Success | 23.00% | ~2,934 |
+| Challenge Yourself | 23.00% | ~2,934 |
+| Spring Cleaning | 19.00% | ~2,423 |
+| Writing a new Chapter | 19.00% | ~2,423 |
+| Reduce | 15.00% | ~1,913 |
+| Ups and Downs | 15.00% | ~1,913 |
+| Crucial Combo | 14.00% | ~1,786 |
+| Reuse | 12.00% | ~1,531 |
+| Proving Them Wrong | 12.00% | ~1,531 |
+| Gathering Dust | 11.00% | ~1,403 |
+| One for the Book | 11.00% | ~1,403 |
+| Oil and Water | 10.00% | ~1,276 |
+| Friendly Competition | 10.00% | ~1,276 |
+| Switcheroo | 10.00% | ~1,276 |
+| Eagle Eye | 9.00% | ~1,148 |
+| All in a Weekend's Work | 9.00% | ~1,148 |
+| Lightning Round the World | 9.00% | ~1,148 |
+| Hitting a Bullseye | 9.00% | ~1,148 |
+| Spinning Around | 9.00% | ~1,148 |
+| Recycle | 7.00% | ~893 |
+| Undisputed Winner | 6.00% | ~765 |
+| Tinkerer | 6.00% | ~765 |
+| For all Those Back at the Factory | 4.00% | ~510 |
+| Living up to Expectations | 4.00% | ~510 |
+| Smooth Operator | 4.00% | ~510 |
+| Peak Performance | 4.00% | ~510 |
+| Loyal Bond | 3.00% | ~383 |
 | Seasoned Rookie | 2.00% | ~255 |
 | Hitting a Century | 2.00% | ~255 |
 | Wait, I know you? | 2.00% | ~255 |
-| Filling in the Gaps | 1.00% | ~127 |
-| Media Darling | 1.00% | ~127 |
+| Filling in the Gaps | 1.00% | ~128 |
+| Media Darling | 1.00% | ~128 |
 | Saturday Night Drama | 0.90% | ~115 |
-| Under the Microscope | 0.60% | ~76 |
+| Under the Microscope | 0.60% | ~77 |
 | Ultimate Collector | 0.30% | ~38 |
-| Golden Touch | 0.20% | ~25 |
+| Golden Touch | 0.20% | ~26 |
 | Shot in the Dark | 0.10% | ~13 |
 | Elite Racer | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,736 (Ranked 170)  
+Progressed: 12,755 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 11,652 | 0 |
 | 2023-12-25 | 12,131 | 0 |
 | 2023-12-26 | 12,565 | 0 |
-| 2023-12-27 | 12,736 | 0 |
+| 2023-12-27 | 12,755 | 0 |
 ## Awards
 Max (Diverse Characters): 46  (Ranked 460)  
 Sum: 312 (Ranked 370)  

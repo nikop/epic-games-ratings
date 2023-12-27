@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 604)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~408 |
-| Vanquisher of Robots | 78.00% | ~366 |
-| Party | 51.00% | ~239 |
+| Good start! | 87.00% | ~409 |
+| Vanquisher of Robots | 78.00% | ~367 |
+| Party | 50.00% | ~235 |
 | Impossible Cube | 46.00% | ~216 |
-| Knowledge is Power | 45.00% | ~211 |
-| Through the Darkness | 45.00% | ~211 |
+| Through the Darkness | 45.00% | ~212 |
+| Knowledge is Power | 44.00% | ~207 |
 | No Mercy | 43.00% | ~202 |
-| The Return of a Rat | 42.00% | ~197 |
+| The Return of a Rat | 41.00% | ~193 |
 | Fat of the Earth | 36.00% | ~169 |
 | Last Man Standing | 32.00% | ~150 |
 | Great Hero | 29.00% | ~136 |
-| He's Seen It All | 28.00% | ~131 |
-| Rookie | 28.00% | ~131 |
+| He's Seen It All | 28.00% | ~132 |
 | Campaigning | 27.00% | ~127 |
+| Rookie | 27.00% | ~127 |
 | Catch Jonathan_tostar | 26.00% | ~122 |
-| Assemble a Meganewbie | 25.00% | ~117 |
+| Assemble a Meganewbie | 25.00% | ~118 |
 | Frugal | 22.00% | ~103 |
-| Feed a God | 21.00% | ~98 |
+| Feed a God | 21.00% | ~99 |
 | To the Moon and Back | 20.00% | ~94 |
 | Great Flight | 19.00% | ~89 |
-| Holy Vengeance | 18.00% | ~84 |
+| Holy Vengeance | 18.00% | ~85 |
 | Honorary Cultist | 13.00% | ~61 |
 | Brain and Brawn | 11.00% | ~52 |
 | Strength and Sorcery | 10.00% | ~47 |
@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 604)
 | Experimentalist | 7.00% | ~33 |
 | Soldier | 7.00% | ~33 |
 | Wide Selection | 6.00% | ~28 |
-| Android Power | 5.00% | ~23 |
+| Android Power | 5.00% | ~24 |
 | Shopaholic | 3.00% | ~14 |
 | Zombie Lover | 3.00% | ~14 |
 | Full House | 1.00% | ~5 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 604)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469 (Ranked 341)  
+Progressed: 470 (Ranked 340)  
 Completed: 1 (0.21%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.21%) (Ranked 272)
 | 2023-12-24 | 461 | 1 |
 | 2023-12-25 | 464 | 1 |
 | 2023-12-26 | 467 | 1 |
-| 2023-12-27 | 469 | 1 |
+| 2023-12-27 | 470 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

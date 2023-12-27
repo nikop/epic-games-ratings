@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1116,9 +1116,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1228,9 +1228,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1452,9 +1452,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1477,8 +1477,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:55.5199191+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:09:06.4082284+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:01:04.2145561+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:55.5199454+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:58:19.7540931+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:09:06.4082573+00:00"
 }

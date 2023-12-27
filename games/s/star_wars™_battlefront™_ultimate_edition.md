@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,966 |
-| Off to a good start | 63.00% | ~1,407 |
-| Do... or do not. There is no try | 52.00% | ~1,162 |
+| New Recruit | 88.00% | ~1,968 |
+| Off to a good start | 63.00% | ~1,409 |
+| Do... or do not. There is no try | 52.00% | ~1,163 |
 | A good blaster at your side | 26.00% | ~581 |
 | I suggest a new strategy | 18.00% | ~402 |
-| Scrap collector | 16.00% | ~357 |
-| All right, I'll give it a try | 16.00% | ~357 |
-| Great shot, kid! | 16.00% | ~357 |
-| The power of the Force | 13.00% | ~290 |
-| Shoot first | 13.00% | ~290 |
+| Scrap collector | 16.00% | ~358 |
+| All right, I'll give it a try | 16.00% | ~358 |
+| Great shot, kid! | 16.00% | ~358 |
+| The power of the Force | 13.00% | ~291 |
+| Shoot first | 13.00% | ~291 |
 | Collector | 12.00% | ~268 |
 | Together we can rule the galaxy | 12.00% | ~268 |
 | Tell Jabba that I've got his money | 9.00% | ~201 |
 | Best star-pilot in the galaxy | 8.00% | ~179 |
 | Survivor | 8.00% | ~179 |
-| Never tell me the odds! | 7.00% | ~156 |
-| A cunning warrior | 7.00% | ~156 |
+| Never tell me the odds! | 7.00% | ~157 |
+| A cunning warrior | 7.00% | ~157 |
 | What's the cargo? | 6.00% | ~134 |
 | "Gonk? Gonk!" | 5.00% | ~112 |
 | Impressive. Most impressive. | 5.00% | ~112 |
@@ -50,7 +50,7 @@
 | Alternative solution | 1.00% | ~22 |
 | Onwards! | 1.00% | ~22 |
 | The circle is now complete | 1.00% | ~22 |
-| You have your moments | 0.90% | ~20 |
+| You have your moments | 0.80% | ~18 |
 | When surrounded by war... | 0.80% | ~18 |
 | A New Hope | 0.70% | ~16 |
 | Walker defender | 0.70% | ~16 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,234 (Ranked 233)  
+Progressed: 2,236 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
-| 2023-12-27 | 2,234 | 1 |
+| 2023-12-27 | 2,236 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

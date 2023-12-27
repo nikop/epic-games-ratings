@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~553 |
+| Malpractice Assurance | 11.00% | ~554 |
 | Lost and Found | 7.00% | ~352 |
 | This Belongs in a Museum | 5.00% | ~6,508 |
 | Autodidact | 5.00% | ~6,508 |
-| This guy... again? | 5.00% | ~251 |
-| Bloody Graduation | 5.00% | ~251 |
-| Serenity Now! | 4.00% | ~5,206 |
-| Not Today! | 4.00% | ~5,206 |
-| Creep and Sleep | 4.00% | ~5,206 |
-| Meat and Greet | 4.00% | ~5,206 |
-| Catch and Decease | 4.00% | ~5,206 |
-| Overdue Notice | 4.00% | ~5,206 |
-| Escape from the Black Hole | 4.00% | ~5,206 |
-| To Grandmother's House | 4.00% | ~5,206 |
+| This guy... again? | 5.00% | ~252 |
+| Bloody Graduation | 5.00% | ~252 |
+| Serenity Now! | 4.00% | ~5,207 |
+| Not Today! | 4.00% | ~5,207 |
+| Creep and Sleep | 4.00% | ~5,207 |
+| Meat and Greet | 4.00% | ~5,207 |
+| Catch and Decease | 4.00% | ~5,207 |
+| Overdue Notice | 4.00% | ~5,207 |
+| Escape from the Black Hole | 4.00% | ~5,207 |
+| To Grandmother's House | 4.00% | ~5,207 |
 | Ploughshares to Swords | 4.00% | ~201 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,905 |
 | It Rings a Bell | 3.00% | ~3,905 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,158 (Ranked 87)  
+Progressed: 130,165 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,158 | 3 |
+| 2023-12-27 | 130,165 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,152 (Ranked 58)  

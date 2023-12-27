@@ -4,7 +4,7 @@
   "ProductSlug": "nirvana-noir-cea13a",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-20T16:57:12.5184147+00:00",
-  "LastUpdate_Ratings": "2023-12-27T12:59:55.893242+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:08:05.1668449+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:57:18.0119335+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:05:11.0419933+00:00"
 }

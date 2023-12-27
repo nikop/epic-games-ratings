@@ -49,7 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.50% | ~1,209 |
 | New Perspectives | 0.50% | ~1,209 |
 | Shapeshifting | 0.50% | ~1,209 |
-| Expensive Look | 0.50% | ~16 |
+| Expensive Look | 0.50% | ~17 |
 | Thank You, Friend | 0.40% | ~967 |
 | Shadow Spreads | 0.40% | ~967 |
 | Max Damage! | 0.40% | ~967 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,818 (Ranked 70)  
+Progressed: 241,822 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-24 | 241,627 | 301 |
 | 2023-12-25 | 241,696 | 302 |
 | 2023-12-26 | 241,782 | 302 |
-| 2023-12-27 | 241,818 | 302 |
+| 2023-12-27 | 241,822 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,763 (Ranked 88)  

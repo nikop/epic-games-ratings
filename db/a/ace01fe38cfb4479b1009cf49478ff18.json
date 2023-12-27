@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 547,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2023-12-27T13:09:10.5522266+00:00",
       "NumProgressed": 545,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T14:06:14.8735747+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1932,7 +1937,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -1946,7 +1951,7 @@
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -1971,14 +1976,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 547,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:09:10.5522263+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:06:14.8735742+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:05:30.2537699+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:09:10.552243+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:02:40.080163+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:06:14.8735946+00:00"
 }

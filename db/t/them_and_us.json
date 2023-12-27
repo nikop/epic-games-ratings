@@ -1676,9 +1676,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 241
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1909,8 +1909,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:09:06.832559+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:06:11.0695965+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:01:20.4802732+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:09:06.8325894+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:58:37.2369174+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:06:11.0696309+00:00"
 }

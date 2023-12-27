@@ -947,9 +947,9 @@
       "ID": "id_5",
       "SetID": "bk9jib6",
       "Name": "Peacekeeper",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "id_50",
@@ -1011,9 +1011,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "id_58",
@@ -1108,8 +1108,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-23T06:00:07.4487212+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:12:52.2161577+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:10:00.5645149+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:05:43.9796107+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:12:52.2161963+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:02:52.6811118+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:10:00.5645602+00:00"
 }

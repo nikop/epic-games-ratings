@@ -430,9 +430,9 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HauntingSpecter",
@@ -502,9 +502,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MortuaryMarkup",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:08:33.036382+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:05:38.3156687+00:00",
   "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:01:07.1410549+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:08:33.0363974+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:58:23.063667+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:05:38.3156853+00:00"
 }

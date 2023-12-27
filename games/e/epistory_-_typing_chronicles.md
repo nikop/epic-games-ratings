@@ -1,7 +1,7 @@
 # Epistory - Typing Chronicles
 [Store](https://store.epicgames.com/en-US/p/epistory-typing-chronicles-445794)  
 [View Rawdata](../../db/e/epistory_-_typing_chronicles.json)  
-Rating: 4.48 (Ranked 642)  
+Rating: 4.49 (Ranked 623)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -49,3 +49,4 @@ Rating: 4.48 (Ranked 642)
 | 2023-11-10 | 4.48 | 0 | 0 |
 | 2023-12-03 | 4.47 | 0 | 0 |
 | 2023-12-08 | 4.48 | 0 | 0 |
+| 2023-12-27 | 4.49 | 0 | 0 |

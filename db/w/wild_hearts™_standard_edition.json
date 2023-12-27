@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 931,
+  "EOS_Progressed": 932,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
@@ -3123,6 +3123,11 @@
       "Time": "2023-12-27T13:12:11.1383545+00:00",
       "NumProgressed": 931,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-27T14:09:21.4132417+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3135,7 +3140,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_10",
@@ -3167,7 +3172,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_14",
@@ -3199,7 +3204,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_18",
@@ -3223,7 +3228,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_20",
@@ -3231,7 +3236,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_21",
@@ -3263,7 +3268,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_25",
@@ -3295,7 +3300,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_29",
@@ -3311,7 +3316,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_30",
@@ -3383,7 +3388,7 @@
       "Name": "Superlative View",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_39",
@@ -3399,7 +3404,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_40",
@@ -3485,9 +3490,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_7",
@@ -3495,7 +3500,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_8",
@@ -3518,13 +3523,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 931,
+      "Progressed": 932,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:12:11.1383542+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:09:21.4132413+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:03:07.3571798+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:12:11.1383913+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:00:18.8766271+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:09:21.4132891+00:00"
 }

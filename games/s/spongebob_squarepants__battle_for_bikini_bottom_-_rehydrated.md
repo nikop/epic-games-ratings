@@ -20,11 +20,11 @@ Number of Ratings: 76  (23.09.2022)
 | Life's as extreme as you wanna make it! | 6.00% | ~26 |
 | Toxic Terror | 6.00% | ~26 |
 | Squirrel Smasher | 6.00% | ~26 |
+| Keep it Rolling | 5.00% | ~21 |
+| Shrimp Catcher | 5.00% | ~21 |
 | Hit Rock Bottom | 5.00% | ~21 |
 | Robot encyclopedia | 4.00% | ~17 |
 | Hello, Bikini Bottom | 4.00% | ~17 |
-| Keep it Rolling | 4.00% | ~17 |
-| Shrimp Catcher | 4.00% | ~17 |
 | Are you ready now? | 3.00% | ~13 |
 | Ship Shape | 3.00% | ~13 |
 | Shanghaied | 3.00% | ~13 |

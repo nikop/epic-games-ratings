@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2159,17 +2159,17 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 304
     },
     {
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 291
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2414,8 +2414,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:45.0691371+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:08:55.6487641+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:02:31.7179228+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:45.0691844+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:59:44.7661089+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:08:55.6488216+00:00"
 }

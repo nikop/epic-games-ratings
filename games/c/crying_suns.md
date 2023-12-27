@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,106 |
-| Jeef Skeejj | 44.00% | ~208,071 |
-| Careful planning | 39.00% | ~184,426 |
-| Second Coming | 34.00% | ~160,782 |
-| Jeef Skagg | 30.00% | ~141,866 |
-| Mother | 25.00% | ~118,222 |
-| In space, no one can hear you scream | 24.00% | ~113,493 |
-| Chapter I: Echoes | 22.00% | ~104,035 |
-| Excelsior Rule | 22.00% | ~104,035 |
+| The Shutdown | 66.00% | ~312,109 |
+| Jeef Skeejj | 44.00% | ~208,072 |
+| Careful planning | 39.00% | ~184,428 |
+| Second Coming | 34.00% | ~160,783 |
+| Jeef Skagg | 30.00% | ~141,868 |
+| Mother | 25.00% | ~118,223 |
+| In space, no one can hear you scream | 24.00% | ~113,494 |
+| Chapter I: Echoes | 22.00% | ~104,036 |
+| Excelsior Rule | 22.00% | ~104,036 |
 | Things persisted in not being what they seemed | 20.00% | ~94,578 |
-| Knightmare Frames | 15.00% | ~70,933 |
-| May His passing cleanse the world | 15.00% | ~70,933 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,933 |
-| Pope Zenon | 15.00% | ~70,933 |
+| Knightmare Frames | 15.00% | ~70,934 |
+| May His passing cleanse the world | 15.00% | ~70,934 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,934 |
+| Pope Zenon | 15.00% | ~70,934 |
 | Plan for the worst | 12.00% | ~56,747 |
 | Tetsuo | 11.00% | ~52,018 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,289 |
@@ -31,24 +31,24 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~33,102 |
 | The Survivalists | 7.00% | ~33,102 |
 | The Tech Specialist | 7.00% | ~33,102 |
-| Chapter V: Memories of None | 6.00% | ~28,373 |
-| Meet your maker | 6.00% | ~28,373 |
-| The Impersonator | 6.00% | ~28,373 |
-| The Kid | 6.00% | ~28,373 |
-| The Evangelist | 6.00% | ~28,373 |
-| The Inquisitor | 6.00% | ~28,373 |
-| The Ace Pilot | 6.00% | ~28,373 |
-| The Tech Med | 6.00% | ~28,373 |
-| The Mech Soldier | 6.00% | ~28,373 |
-| The lucky charm | 6.00% | ~28,373 |
-| The Anonymous | 6.00% | ~28,373 |
-| The Smuggler | 6.00% | ~28,373 |
-| The Crazy Repairman | 6.00% | ~28,373 |
-| The Weasel | 6.00% | ~28,373 |
-| Kill the Doctor | 5.00% | ~23,644 |
-| Forsaken | 5.00% | ~23,644 |
-| Mercy | 5.00% | ~23,644 |
-| Jericho Rule | 5.00% | ~23,644 |
+| Chapter V: Memories of None | 6.00% | ~28,374 |
+| Meet your maker | 6.00% | ~28,374 |
+| The Impersonator | 6.00% | ~28,374 |
+| The Kid | 6.00% | ~28,374 |
+| The Evangelist | 6.00% | ~28,374 |
+| The Inquisitor | 6.00% | ~28,374 |
+| The Ace Pilot | 6.00% | ~28,374 |
+| The Tech Med | 6.00% | ~28,374 |
+| The Mech Soldier | 6.00% | ~28,374 |
+| The lucky charm | 6.00% | ~28,374 |
+| The Anonymous | 6.00% | ~28,374 |
+| The Smuggler | 6.00% | ~28,374 |
+| The Crazy Repairman | 6.00% | ~28,374 |
+| The Weasel | 6.00% | ~28,374 |
+| Kill the Doctor | 5.00% | ~23,645 |
+| Forsaken | 5.00% | ~23,645 |
+| Mercy | 5.00% | ~23,645 |
+| Jericho Rule | 5.00% | ~23,645 |
 | Geno Rule | 3.00% | ~14,187 |
 | Hammer Rule | 3.00% | ~14,187 |
 | Survivor | 2.00% | ~9,458 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,888 (Ranked 43)  
+Progressed: 472,892 (Ranked 43)  
 Completed: 20 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,14 +337,14 @@ Completed: 20 (0.00%) (Ranked 389)
 | 2023-12-24 | 472,772 | 20 |
 | 2023-12-25 | 472,817 | 20 |
 | 2023-12-26 | 472,871 | 20 |
-| 2023-12-27 | 472,888 | 20 |
+| 2023-12-27 | 472,892 | 20 |
 ## Awards
-Max (Character Customization): 226  (Ranked 284)  
-Sum: 250 (Ranked 394)  
-Diff (max vs sum): -110  
+Max (Character Customization): 227  (Ranked 283)  
+Sum: 251 (Ranked 394)  
+Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 226 |
+| This game has Inclusive Character Customization | 227 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -439,3 +439,4 @@ Diff (max vs sum): -110
 | 2023-12-06 | 4.50 | - | 225 | 247 |
 | 2023-12-12 | 4.50 | - | 226 | 248 |
 | 2023-12-16 | 4.50 | - | 226 | 250 |
+| 2023-12-27 | 4.50 | - | 227 | 251 |

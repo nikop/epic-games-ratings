@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,913 |
-| Tutti Eroi! | 50.00% | ~4,816 |
-| Peak Performance | 46.00% | ~4,431 |
+| Tutti Eroi! | 50.00% | ~4,817 |
+| Peak Performance | 46.00% | ~4,432 |
 | Avanti Savoia! | 44.00% | ~4,239 |
 | Mamma Mia! | 35.00% | ~3,372 |
 | Conrad von Hotzensocks | 32.00% | ~3,083 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,633 (Ranked 179)  
+Progressed: 9,634 (Ranked 179)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-24 | 9,598 | 10 |
 | 2023-12-25 | 9,619 | 10 |
 | 2023-12-26 | 9,630 | 10 |
-| 2023-12-27 | 9,633 | 10 |
+| 2023-12-27 | 9,634 | 10 |
 ## Awards
-Max (Diverse Characters): 41  (Ranked 470)  
+Max (Diverse Characters): 41  (Ranked 471)  
 Sum: 333 (Ranked 364)  
-Diff (max vs sum): 106  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |

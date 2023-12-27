@@ -26,10 +26,10 @@
 | YOU SHALL NOT PASS! | 50.00% | ~324 |
 | “… like son” | 50.00% | ~324 |
 | The Cathedral of Light | 47.00% | ~304 |
-| Shame! Shame! Shame! | 46.00% | ~298 |
+| Shame! Shame! Shame! | 47.00% | ~304 |
 | Pure Dynamite! | 45.00% | ~291 |
 | Dungeonlord Gorgu | 45.00% | ~291 |
-| Tanos' Crusade Against Thalya | 44.00% | ~285 |
+| Tanos' Crusade Against Thalya | 45.00% | ~291 |
 | Mana Cannon | 41.00% | ~265 |
 | All’s Well That Ends Evil | 40.00% | ~259 |
 | The Duel | 37.00% | ~239 |

@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,342 |
-| Overkill | 33.00% | ~9,597 |
-| Vaccine Incoming | 32.00% | ~9,306 |
-| A normal day in Gloomhaven | 30.00% | ~8,725 |
-| Spread the plague | 28.00% | ~8,143 |
-| Get over here! | 24.00% | ~6,980 |
-| Just when I thought I was out... | 19.00% | ~5,526 |
-| Mine... All Mine... | 17.00% | ~4,944 |
-| Precious! | 16.00% | ~4,653 |
-| Grizzled veteran | 15.00% | ~4,362 |
-| Anatomy Lesson | 14.00% | ~4,071 |
-| Light of my life | 13.00% | ~3,781 |
-| You activated my trap card! | 12.00% | ~3,490 |
-| Obstacle race | 12.00% | ~3,490 |
-| Who's the Boss? | 11.00% | ~3,199 |
-| Augmented rat | 11.00% | ~3,199 |
-| Doom and gloom | 10.00% | ~2,908 |
+| I'm not dead yet | 39.00% | ~11,345 |
+| Overkill | 33.00% | ~9,600 |
+| Vaccine Incoming | 32.00% | ~9,309 |
+| A normal day in Gloomhaven | 30.00% | ~8,727 |
+| Spread the plague | 28.00% | ~8,145 |
+| Get over here! | 24.00% | ~6,982 |
+| Just when I thought I was out... | 19.00% | ~5,527 |
+| Mine... All Mine... | 17.00% | ~4,945 |
+| Precious! | 16.00% | ~4,654 |
+| Grizzled veteran | 15.00% | ~4,364 |
+| Anatomy Lesson | 14.00% | ~4,073 |
+| Light of my life | 13.00% | ~3,782 |
+| You activated my trap card! | 12.00% | ~3,491 |
+| Obstacle race | 12.00% | ~3,491 |
+| Who's the Boss? | 11.00% | ~3,200 |
+| Augmented rat | 11.00% | ~3,200 |
+| Doom and gloom | 10.00% | ~2,909 |
 | Dungeon Veteran | 8.00% | ~2,327 |
 | Pain is your friend | 8.00% | ~2,327 |
 | Play it again, Sam | 8.00% | ~2,327 |
@@ -34,11 +34,11 @@ Number of Ratings: 68  (23.09.2022)
 | Caught off guard | 5.00% | ~1,454 |
 | Pretty lights! | 5.00% | ~1,454 |
 | Now you see me... | 5.00% | ~1,454 |
-| The Pro from Dover | 4.00% | ~1,163 |
-| I hate portals | 3.00% | ~872 |
-| Down the hatch | 3.00% | ~872 |
-| An eye for an eye | 3.00% | ~872 |
-| The Cephalophore | 3.00% | ~872 |
+| The Pro from Dover | 4.00% | ~1,164 |
+| I hate portals | 3.00% | ~873 |
+| Down the hatch | 3.00% | ~873 |
+| An eye for an eye | 3.00% | ~873 |
+| The Cephalophore | 3.00% | ~873 |
 | From Gloom, only greed and death emerges | 2.00% | ~582 |
 | The Rat King | 2.00% | ~582 |
 | How to train your Drake | 2.00% | ~582 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~29 |
 | Murder Death Kill | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,082 (Ranked 136)  
+Progressed: 29,090 (Ranked 136)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-24 | 28,539 | 1 |
 | 2023-12-25 | 28,745 | 1 |
 | 2023-12-26 | 28,980 | 1 |
-| 2023-12-27 | 29,082 | 1 |
+| 2023-12-27 | 29,090 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
 Sum: 8,435 (Ranked 105)  

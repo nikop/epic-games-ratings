@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 73.00% | ~51 |
-| Little ideas | 69.00% | ~48 |
-| The Ship | 64.00% | ~45 |
+| Marc Allard | 72.00% | ~51 |
+| Little ideas | 68.00% | ~48 |
+| The Ship | 63.00% | ~45 |
 | Seeking the truth | 51.00% | ~36 |
-| An old friend | 49.00% | ~34 |
-| The Gala | 47.00% | ~33 |
-| A curious gathering | 47.00% | ~33 |
-| Little grey cells | 46.00% | ~32 |
-| Impossible is possible | 46.00% | ~32 |
-| The Missing Magdalene | 46.00% | ~32 |
-| Arthur Hastings | 46.00% | ~32 |
-| Everything matters | 43.00% | ~30 |
+| An old friend | 48.00% | ~34 |
+| The Gala | 46.00% | ~33 |
+| A curious gathering | 46.00% | ~33 |
+| Little grey cells | 45.00% | ~32 |
+| Impossible is possible | 45.00% | ~32 |
+| The Missing Magdalene | 45.00% | ~32 |
+| Arthur Hastings | 45.00% | ~32 |
+| Everything matters | 42.00% | ~30 |
 | An expert mediator | 41.00% | ~29 |
 | DI Hardwicke | 41.00% | ~29 |
 | Order and method | 37.00% | ~26 |
 | Betty Allen | 34.00% | ~24 |
 | The Investigation Begins | 31.00% | ~22 |
-| Ms. Camilla B. Culsham | 29.00% | ~20 |
-| Irene Court-Smyth | 29.00% | ~20 |
+| Ms. Camilla B. Culsham | 28.00% | ~20 |
+| Irene Court-Smyth | 28.00% | ~20 |
 | An odd series of events | 27.00% | ~19 |
 | The Apartment | 27.00% | ~19 |
-| Nathaniel Dryden | 26.00% | ~18 |
-| Bartholomew | 26.00% | ~18 |
+| Nathaniel Dryden | 25.00% | ~18 |
+| Bartholomew | 25.00% | ~18 |
 | Well-acquainted | 24.00% | ~17 |
 | A rude awakening | 24.00% | ~17 |
 | Anastasia Babanin | 24.00% | ~17 |
@@ -37,8 +37,8 @@
 | Evelyn Lakshmi Warbeck | 17.00% | ~12 |
 | Johan Kristiansen | 17.00% | ~12 |
 | The Suspects | 17.00% | ~12 |
-| Horace Mountjoy | 16.00% | ~11 |
-| The Secrets | 16.00% | ~11 |
+| Horace Mountjoy | 15.00% | ~11 |
+| The Secrets | 15.00% | ~11 |
 | Well-travelled | 13.00% | ~9 |
 | A peculiar fellow | 13.00% | ~9 |
 | Mortimer Ailsworth | 13.00% | ~9 |
@@ -51,8 +51,8 @@
 | A true performance | 10.00% | ~7 |
 | Perkins | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 510)  
-Completed: 2 (2.86%) (Ranked 114)  
+Progressed: 71 (Ranked 510)  
+Completed: 2 (2.82%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,4 +102,4 @@ Completed: 2 (2.86%) (Ranked 114)
 | 2023-12-24 | 63 | 2 |
 | 2023-12-25 | 67 | 2 |
 | 2023-12-26 | 69 | 2 |
-| 2023-12-27 | 70 | 2 |
+| 2023-12-27 | 71 | 2 |

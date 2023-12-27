@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45385,
+  "EOS_Progressed": 45388,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16635,6 +16635,11 @@
       "Time": "2023-12-27T13:08:49.1169735+00:00",
       "NumProgressed": 45385,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T14:05:54.2686066+00:00",
+      "NumProgressed": 45388,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16678,7 +16683,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16694,7 +16699,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16982,7 +16987,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "SPRING_ALL",
@@ -17069,22 +17074,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45385,
+      "Progressed": 45388,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10222,
-      "Completed": 10222
+      "Progressed": 10225,
+      "Completed": 10225
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-26T06:59:48.6579528+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:08:49.116973+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:05:54.2686061+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:02:51.2764986+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:08:49.1170757+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:00:04.3296617+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:05:54.2687484+00:00"
 }

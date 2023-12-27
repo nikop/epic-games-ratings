@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 9.28,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2064,6 +2064,11 @@
       "Time": "2023-12-26T21:09:00.5027934+00:00",
       "NumProgressed": 441,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-27T14:09:04.9215024+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 6,
@@ -2083,7 +2088,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2122,14 +2127,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:53.8245422+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:09:04.9215019+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.5196626+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:02:49.8921267+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:53.8245563+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:00:02.8019435+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:09:04.9215201+00:00"
 }

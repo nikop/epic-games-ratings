@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -2027,6 +2027,11 @@
       "Time": "2023-12-27T12:10:19.2928511+00:00",
       "NumProgressed": 569,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T14:10:00.3563193+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2038,7 +2043,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "completeact2",
@@ -2118,7 +2123,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "scoreminrankrp2",
@@ -2157,7 +2162,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 2
     }
   ],
@@ -2165,8 +2170,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:12:51.949305+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:10:00.3563184+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:02:23.4500054+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:12:51.9493207+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:59:36.8797894+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:10:00.3563432+00:00"
 }

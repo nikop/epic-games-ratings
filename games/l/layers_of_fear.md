@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 83.00% | ~174 |
-| A piece of the story | 60.00% | ~126 |
-| Wanderer | 57.00% | ~120 |
-| It's covered up for a reason | 51.00% | ~107 |
-| Scraps of love | 47.00% | ~99 |
+| Something important | 83.00% | ~175 |
+| A piece of the story | 60.00% | ~127 |
+| Wanderer | 56.00% | ~118 |
+| It's covered up for a reason | 51.00% | ~108 |
+| Scraps of love | 46.00% | ~97 |
 | The artist’s impression | 46.00% | ~97 |
-| Do what you have to | 45.00% | ~94 |
+| Do what you have to | 45.00% | ~95 |
 | Sign of weakness | 40.00% | ~84 |
 | Refuse to look | 35.00% | ~74 |
 | Face your fears | 27.00% | ~57 |
@@ -21,18 +21,18 @@
 | Sound Bite | 10.00% | ~21 |
 | Playtime | 10.00% | ~21 |
 | The art of movement | 10.00% | ~21 |
-| The tragedy unfolds | 10.00% | ~21 |
 | Tough conversation | 10.00% | ~21 |
 | A new way | 9.00% | ~19 |
 | Another perspective | 9.00% | ~19 |
 | First steps | 9.00% | ~19 |
 | Lights! Camera! Action! | 9.00% | ~19 |
+| The tragedy unfolds | 9.00% | ~19 |
 | Breaking free | 8.00% | ~17 |
 | True Reflection | 8.00% | ~17 |
 | Casting Finished | 6.00% | ~13 |
 | Heavy Burden | 6.00% | ~13 |
 | Fisherman | 6.00% | ~13 |
-| Instinct of self-preservation | 5.00% | ~10 |
+| Instinct of self-preservation | 5.00% | ~11 |
 | We Are Not Alone | 4.00% | ~8 |
 | The Perfect Storm | 4.00% | ~8 |
 | Immortalized in my heart | 3.00% | ~6 |
@@ -44,11 +44,11 @@
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |
-| The Big Picture | 1.00% | ~2 |
 | Dark correspondence | 1.00% | ~2 |
-| In One Take | 1.00% | ~2 |
-| Rocket Science | 1.00% | ~2 |
 | Sword of the Serpent | 1.00% | ~2 |
+| The Big Picture | 0.90% | ~2 |
+| In One Take | 0.90% | ~2 |
+| Rocket Science | 0.90% | ~2 |
 | You Can’t Handle the Truth | 0.50% | ~1 |
 | The Tree and the Apple | 0.50% | ~1 |
 | The whole story | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 413)  
+Progressed: 211 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,4 +122,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 197 | 0 |
 | 2023-12-25 | 205 | 0 |
 | 2023-12-26 | 208 | 0 |
-| 2023-12-27 | 210 | 0 |
+| 2023-12-27 | 211 | 0 |

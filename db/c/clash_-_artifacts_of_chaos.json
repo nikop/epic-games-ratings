@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -431,6 +431,11 @@
       "Time": "2023-12-25T22:09:45.1607428+00:00",
       "NumProgressed": 138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T14:10:03.4293698+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -490,7 +495,7 @@
       "Name": "Target Practice",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Achievement16",
@@ -498,13 +503,13 @@
       "Name": "The Bigger They Are",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 35,
       "UsersEstimate": 88
     },
@@ -578,7 +583,7 @@
       "Name": "Total Eclipse",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement7",
@@ -594,7 +599,7 @@
       "Name": "Armored",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement9",
@@ -602,14 +607,14 @@
       "Name": "Dreamwalker",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 1
     }
   ],
@@ -617,8 +622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:12:55.1610885+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:10:03.4293694+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.1109557+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:00:27.614502+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:12:55.1610992+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:57:48.4958622+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:10:03.4293822+00:00"
 }

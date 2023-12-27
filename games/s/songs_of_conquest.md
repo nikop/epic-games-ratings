@@ -6,11 +6,11 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 44.00% | ~344 |
-| Double Kill | 38.00% | ~297 |
-| Critical Hit | 20.00% | ~156 |
-| Veteran | 20.00% | ~156 |
-| Dressed For Success | 14.00% | ~109 |
+| Adept | 44.00% | ~345 |
+| Double Kill | 38.00% | ~298 |
+| Critical Hit | 20.00% | ~157 |
+| Veteran | 20.00% | ~157 |
+| Dressed For Success | 14.00% | ~110 |
 | Multi Kill | 8.00% | ~63 |
 | Sorcerous Spree | 8.00% | ~63 |
 | Humiliation | 8.00% | ~63 |
@@ -33,9 +33,9 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~8 |
 | Together For Her | 0.90% | ~7 |
 | Grand Master | 0.90% | ~7 |
+| In The Thick of It | 0.60% | ~5 |
 | Death To Diplomacy | 0.50% | ~4 |
 | Unlimited Power! | 0.50% | ~4 |
-| In The Thick of It | 0.50% | ~4 |
 | Killing Spree | 0.50% | ~4 |
 | Get Over Here! | 0.50% | ~4 |
 | Fully Charged | 0.40% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782 (Ranked 298)  
+Progressed: 783 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 734 | 0 |
 | 2023-12-25 | 749 | 0 |
 | 2023-12-26 | 773 | 0 |
-| 2023-12-27 | 782 | 0 |
+| 2023-12-27 | 783 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 530)  
 Sum: 194 (Ranked 414)  

@@ -319,7 +319,7 @@
   ],
   "EOS_Progressed": 425,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -1298,17 +1298,17 @@
       "ID": "ACH_MERMALAIR",
       "SetID": "biiejkc",
       "Name": "Keep it Rolling",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1466,8 +1466,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:07:49.1067697+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:04:55.5592345+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:02:12.0286895+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:07:49.1067905+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:59:25.6151527+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:04:55.5592812+00:00"
 }

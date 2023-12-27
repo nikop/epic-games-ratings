@@ -9,7 +9,7 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 65.00% | ~246 |
 | Cartographer | 58.00% | ~219 |
 | A Strange Artefact | 53.00% | ~200 |
-| Insomnia | 49.00% | ~185 |
+| Insomnia | 50.00% | ~189 |
 | Lost & Found & Lost Again | 44.00% | ~166 |
 | From Whence we Came | 43.00% | ~163 |
 | Fire and Flood | 41.00% | ~155 |

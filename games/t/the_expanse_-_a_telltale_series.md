@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 495)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 15.00% | ~2,633 |
+| Oyedang, Kopengs | 15.00% | ~2,634 |
 | Captain Drummer | 12.00% | ~2,107 |
 | Bosmang | 11.00% | ~1,931 |
 | Celebrations are in Order | 11.00% | ~1,931 |
@@ -16,7 +16,7 @@ Rating: 4.56 (Ranked 495)
 | Stogie for Fogey | 9.00% | ~1,580 |
 | Spore Taste | 9.00% | ~1,580 |
 | Zen Master | 9.00% | ~316 |
-| Call it Even | 8.00% | ~1,404 |
+| Call it Even | 8.00% | ~1,405 |
 | Safe Cracker | 8.00% | ~281 |
 | Madame Undersecretary | 8.00% | ~281 |
 | Heal Thy Medic | 7.00% | ~1,229 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 495)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,556 (Ranked 156)  
+Progressed: 17,558 (Ranked 156)  
 Completed: 53 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 53 (0.30%) (Ranked 253)
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
 | 2023-12-26 | 17,513 | 53 |
-| 2023-12-27 | 17,556 | 53 |
+| 2023-12-27 | 17,558 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

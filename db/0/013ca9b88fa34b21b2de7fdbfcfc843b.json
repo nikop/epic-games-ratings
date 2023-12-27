@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8701,
+  "EOS_Progressed": 8703,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9205,6 +9205,11 @@
       "Time": "2023-12-27T13:12:58.1871093+00:00",
       "NumProgressed": 8701,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T14:10:06.7351193+00:00",
+      "NumProgressed": 8703,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9271,9 +9276,9 @@
       "ID": "CHAPTER_8_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Fae Farmer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -9560,13 +9565,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8701,
+      "Progressed": 8703,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1318,
+      "Progressed": 1320,
       "Completed": 1050
     }
   ],
@@ -9574,8 +9579,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:12:58.187109+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:10:06.7351184+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:06:08.0107944+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:12:58.1871839+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:03:16.4386235+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:10:06.7352579+00:00"
 }

@@ -987,9 +987,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7474,
+  "EOS_Progressed": 7475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9442,6 +9442,11 @@
       "Time": "2023-12-27T13:12:49.5074605+00:00",
       "NumProgressed": 7474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T14:09:58.1153076+00:00",
+      "NumProgressed": 7475,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9485,7 +9490,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9493,7 +9498,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "Control_All_Relics",
@@ -9557,7 +9562,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "First_Race_Met",
@@ -9565,7 +9570,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5382
     },
     {
       "ID": "First_Ship_Designed",
@@ -9589,7 +9594,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9773,7 +9778,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9781,7 +9786,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "War_With_5_Factions",
@@ -9789,7 +9794,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "War_Without_Translator",
@@ -9805,7 +9810,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Win_As_Arcean",
@@ -9933,7 +9938,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Win_Battle",
@@ -9941,7 +9946,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4859
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9989,7 +9994,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Win_Multiplayer",
@@ -10028,15 +10033,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7474,
+      "Progressed": 7475,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-19T20:02:58.7273791+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:12:49.50746+00:00",
+  "LastChanged_Achievements": "2023-12-27T14:09:58.1153073+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:03:03.0324393+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:12:49.5075388+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:00:15.1022145+00:00",
+  "LastUpdate_Achievements": "2023-12-27T14:09:58.1154225+00:00"
 }
