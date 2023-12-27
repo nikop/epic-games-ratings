@@ -6,8 +6,8 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 32.00% | ~36 |
-| Best Buddy | 25.00% | ~28 |
+| Entrepreneur | 32.00% | ~37 |
+| Best Buddy | 25.00% | ~29 |
 | Civilian | 23.00% | ~26 |
 | Role Model | 22.00% | ~25 |
 | Creator | 16.00% | ~18 |
@@ -25,10 +25,10 @@ Number of Ratings: 124  (23.09.2022)
 | Hotshot | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |
 | Globetrotter | 4.00% | ~5 |
-| Self-Sufficient | 4.00% | ~5 |
 | Free as a Bird | 4.00% | ~5 |
-| Idealist | 4.00% | ~5 |
-| Unbreakable | 4.00% | ~5 |
+| Self-Sufficient | 3.00% | ~3 |
+| Idealist | 3.00% | ~3 |
+| Unbreakable | 3.00% | ~3 |
 | Cleric | 3.00% | ~3 |
 | Perfectionist | 3.00% | ~3 |
 | Alchemist | 2.00% | ~2 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 469)  
+Progressed: 115 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 88 | 0 |
 | 2023-12-25 | 100 | 0 |
 | 2023-12-26 | 109 | 0 |
-| 2023-12-27 | 114 | 0 |
+| 2023-12-27 | 115 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

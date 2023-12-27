@@ -19,18 +19,18 @@
 | Magic Accidents | 59.00% | ~382 |
 | The Ascent | 58.00% | ~375 |
 | It's Warm and Cozy at Home | 58.00% | ~375 |
+| Minions, Minions! | 56.00% | ~362 |
 | Trap Master | 55.00% | ~356 |
-| Minions, Minions! | 55.00% | ~356 |
 | Hard Work | 53.00% | ~343 |
 | The Big Eaty | 53.00% | ~343 |
+| YOU SHALL NOT PASS! | 50.00% | ~324 |
 | “… like son” | 50.00% | ~324 |
-| YOU SHALL NOT PASS! | 49.00% | ~317 |
 | The Cathedral of Light | 47.00% | ~304 |
 | Shame! Shame! Shame! | 46.00% | ~298 |
 | Pure Dynamite! | 45.00% | ~291 |
 | Dungeonlord Gorgu | 45.00% | ~291 |
 | Tanos' Crusade Against Thalya | 44.00% | ~285 |
-| Mana Cannon | 40.00% | ~259 |
+| Mana Cannon | 41.00% | ~265 |
 | All’s Well That Ends Evil | 40.00% | ~259 |
 | The Duel | 37.00% | ~239 |
 | If Looks Could Kill | 35.00% | ~226 |
@@ -45,9 +45,9 @@
 | Brimstone Shaken, Not Stirred | 27.00% | ~175 |
 | Stop Tanos! | 26.00% | ~168 |
 | Sabotage! | 26.00% | ~168 |
+| Raiders of the Lost Stone | 26.00% | ~168 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~168 |
 | Bonus Evilness | 25.00% | ~162 |
-| Raiders of the Lost Stone | 25.00% | ~162 |
 | The Rune Sockets of Finitude (Part 2) | 23.00% | ~149 |
 | The Last Stand - This Time For Real! | 21.00% | ~136 |
 | Rubble and Ashes | 20.00% | ~129 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 9.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 647 (Ranked 317)  
-Completed: 21 (3.25%) (Ranked 102)  
+Completed: 22 (3.40%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,4 +118,4 @@ Completed: 21 (3.25%) (Ranked 102)
 | 2023-12-24 | 631 | 21 |
 | 2023-12-25 | 638 | 21 |
 | 2023-12-26 | 644 | 21 |
-| 2023-12-27 | 647 | 21 |
+| 2023-12-27 | 647 | 22 |

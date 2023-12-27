@@ -6,9 +6,9 @@
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1524,9 +1524,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26899,
+  "EOS_Progressed": 26903,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12044,6 +12044,11 @@
       "Time": "2023-12-27T12:10:10.056117+00:00",
       "NumProgressed": 26899,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-27T13:12:43.2790303+00:00",
+      "NumProgressed": 26903,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12111,7 +12116,7 @@
       "Name": "For Justice",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "BossBridgeDefeated",
@@ -12366,21 +12371,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26899,
+      "Progressed": 26903,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5829,
+      "Progressed": 5833,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-25T17:57:06.1177901+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:10:10.0561167+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:12:43.27903+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:58:05.7666379+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:10:10.0561839+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:00:59.8333754+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:12:43.2790988+00:00"
 }

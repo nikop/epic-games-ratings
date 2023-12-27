@@ -1,7 +1,7 @@
 # Panzer Corps 2
 [Store](https://store.epicgames.com/en-US/p/panzer-corps-2)  
 [View Rawdata](../../db/p/panzer_corps_2.json)  
-Rating: 4.50 (Ranked 604)  
+Rating: 4.49 (Ranked 623)  
 Number of Ratings: 37  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 27  (Ranked 530)  
@@ -93,3 +93,4 @@ Diff (max vs sum): 95
 | 2023-12-21 | 4.49 | - | 27 | 145 |
 | 2023-12-25 | 4.49 | - | 27 | 147 |
 | 2023-12-26 | 4.50 | - | 27 | 147 |
+| 2023-12-27 | 4.49 | - | 27 | 147 |

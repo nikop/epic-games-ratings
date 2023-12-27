@@ -3,9 +3,9 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 647,
-  "EOS_Completed": 21,
+  "EOS_Completed": 22,
   "EOS_NewPlayers": 53,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -1904,6 +1904,11 @@
       "Time": "2023-12-27T10:09:38.638446+00:00",
       "NumProgressed": 647,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-27T13:11:45.0691376+00:00",
+      "NumProgressed": 647,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -1994,9 +1999,9 @@
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2042,17 +2047,17 @@
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 265
     },
     {
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2306,9 +2311,9 @@
       "ID": "ach_main17stone_completed",
       "SetID": "4hg22ll",
       "Name": "Raiders of the Lost Stone",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2404,13 +2409,13 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 647,
-      "Completed": 21
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:09:06.5006125+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:11:45.0691371+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:48.6727733+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:09:06.5006745+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:02:31.7179228+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:11:45.0691844+00:00"
 }

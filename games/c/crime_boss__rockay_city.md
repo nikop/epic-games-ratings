@@ -6,8 +6,8 @@ Rating: 3.95 (Ranked 1,037)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First One’s Free | 4.00% | ~3,704 |
+| Downed but Not Outed | 4.00% | ~3,704 |
 | Neophyte Ninja | 3.00% | ~2,778 |
-| Downed but Not Outed | 3.00% | ~2,778 |
 | Too Old for This | 3.00% | ~2,778 |
 | Fancy Pants | 3.00% | ~2,778 |
 | Underworld Initiate | 2.00% | ~1,852 |

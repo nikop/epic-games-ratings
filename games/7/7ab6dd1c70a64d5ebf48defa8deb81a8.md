@@ -5,25 +5,25 @@ Rating: 4.14 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~759 |
-| Trinity | 26.00% | ~346 |
-| A Taste of Wrath | 21.00% | ~280 |
-| Find Allies | 20.00% | ~266 |
-| I Found It | 20.00% | ~266 |
-| The Collector | 20.00% | ~266 |
-| Shatter Them All | 19.00% | ~253 |
-| Geared Up | 19.00% | ~253 |
+| Break Out | 57.00% | ~762 |
+| Trinity | 26.00% | ~347 |
+| A Taste of Wrath | 21.00% | ~281 |
+| Find Allies | 20.00% | ~267 |
+| The Collector | 20.00% | ~267 |
+| Shatter Them All | 19.00% | ~254 |
+| Geared Up | 19.00% | ~254 |
+| I Found It | 19.00% | ~254 |
 | Adventurer | 18.00% | ~240 |
 | Scholar | 18.00% | ~240 |
-| Fashion Victim | 17.00% | ~226 |
-| Stone Collection | 17.00% | ~226 |
-| Powerful Allies | 16.00% | ~213 |
-| Tributes of Caladrias | 16.00% | ~213 |
+| Fashion Victim | 17.00% | ~227 |
+| Stone Collection | 17.00% | ~227 |
+| Powerful Allies | 16.00% | ~214 |
+| Tributes of Caladrias | 16.00% | ~214 |
 | Big Bazar | 11.00% | ~147 |
-| Essence Blow | 10.00% | ~133 |
-| Alchemist | 10.00% | ~133 |
+| Essence Blow | 10.00% | ~134 |
+| Alchemist | 10.00% | ~134 |
 | The Mentor | 8.00% | ~107 |
-| Calm before the Storm | 7.00% | ~93 |
+| Calm before the Storm | 7.00% | ~94 |
 | Airborne | 6.00% | ~80 |
 | Miner | 6.00% | ~80 |
 | To Battle | 5.00% | ~67 |
@@ -33,17 +33,17 @@ Rating: 4.14 (Ranked 983)
 | Fine Feathers Make Fine Birds | 3.00% | ~40 |
 | Slayer | 2.00% | ~27 |
 | Flawless Victory | 2.00% | ~27 |
-| All There Is | 2.00% | ~27 |
 | A Queen's Tale | 2.00% | ~27 |
 | Shardbearer | 1.00% | ~13 |
+| All There Is | 1.00% | ~13 |
 | False God | 1.00% | ~13 |
 | Forgemaster | 0.90% | ~12 |
 | Summiter | 0.70% | ~9 |
 | All That Gold | 0.60% | ~8 |
-| Feeling Fancy | 0.20% | ~3 |
+| Feeling Fancy | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,332 (Ranked 263)  
-Completed: 3 (0.23%) (Ranked 267)  
+Progressed: 1,336 (Ranked 262)  
+Completed: 3 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 3 (0.23%) (Ranked 267)
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
-| 2023-12-27 | 1,332 | 3 |
+| 2023-12-27 | 1,336 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

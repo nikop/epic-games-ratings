@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -512,9 +512,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement19",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:10:22.7129183+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:12:55.1610885+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.1109557+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:57:34.6529143+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:10:22.712934+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:00:27.614502+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:12:55.1610992+00:00"
 }

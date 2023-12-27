@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3201,6 +3201,11 @@
       "Time": "2023-12-27T09:09:54.5751415+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-27T13:12:54.208686+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3284,7 +3289,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "CultivairChests1",
@@ -3316,7 +3321,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FairgroundsChests1",
@@ -3348,7 +3353,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "GadgetCompletion1",
@@ -3356,7 +3361,7 @@
       "Name": "Wunderkind",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GadgetProgress1",
@@ -3388,7 +3393,7 @@
       "Name": "Fitting In",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "JinxDefeated",
@@ -3458,9 +3463,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 270
     },
     {
       "ID": "ParryRepeated1",
@@ -3500,7 +3505,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "RewindParry",
@@ -3580,7 +3585,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3588,7 +3593,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "WarwickDefeated",
@@ -3620,7 +3625,7 @@
       "Name": "The Brass Boss",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3628,14 +3633,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 6
     }
   ],
@@ -3643,8 +3648,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:10:21.5717976+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:12:54.2086858+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:01.1622485+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:10:21.5718557+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:49.9698548+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:12:54.2087283+00:00"
 }

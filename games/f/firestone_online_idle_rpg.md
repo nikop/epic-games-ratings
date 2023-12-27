@@ -5,23 +5,23 @@ Rating: 4.01 (Ranked 1,019)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,598 |
-| World Map | 78.00% | ~3,018 |
-| Temple of Eternals | 56.00% | ~2,167 |
-| Prestigious | 53.00% | ~2,051 |
-| Fellowship Power | 42.00% | ~1,625 |
+| Victor | 93.00% | ~3,600 |
+| World Map | 78.00% | ~3,019 |
+| Temple of Eternals | 56.00% | ~2,168 |
+| Prestigious | 53.00% | ~2,052 |
+| Fellowship Power | 42.00% | ~1,626 |
 | Full Party | 26.00% | ~1,006 |
 | Guild Power | 23.00% | ~890 |
 | Prestigious x10 | 20.00% | ~774 |
-| The game is on | 18.00% | ~696 |
+| The game is on | 18.00% | ~697 |
 | Exotic Merchant | 16.00% | ~619 |
-| Dragon Clicker | 15.00% | ~580 |
-| Miner Clicker | 15.00% | ~580 |
+| Dragon Clicker | 15.00% | ~581 |
+| Miner Clicker | 15.00% | ~581 |
 | Inspection | 14.00% | ~542 |
 | Dragon Master | 13.00% | ~503 |
 | Enlightenment | 13.00% | ~503 |
 | Hero inspection | 13.00% | ~503 |
-| Lieutenant | 12.00% | ~464 |
+| Lieutenant | 12.00% | ~465 |
 | Milestone collector | 11.00% | ~426 |
 | Mysterious Rock | 11.00% | ~426 |
 | Natural Talent | 11.00% | ~426 |
@@ -45,15 +45,15 @@ Rating: 4.01 (Ranked 1,019)
 | Trader | 7.00% | ~271 |
 | The Expeditioner | 6.00% | ~232 |
 | Weekly Quest Completionist | 6.00% | ~232 |
-| Blueprint Upgrades | 5.00% | ~193 |
-| Crystal Mining | 5.00% | ~193 |
-| Dragon Slayer | 5.00% | ~193 |
-| Enchanting skill | 5.00% | ~193 |
-| Engineer Mastery | 5.00% | ~193 |
-| How Do You Turn This On? | 5.00% | ~193 |
-| Lock And Load | 5.00% | ~193 |
-| Missions Dedication | 5.00% | ~193 |
-| Sailor | 5.00% | ~193 |
+| Blueprint Upgrades | 5.00% | ~194 |
+| Crystal Mining | 5.00% | ~194 |
+| Dragon Slayer | 5.00% | ~194 |
+| Enchanting skill | 5.00% | ~194 |
+| Engineer Mastery | 5.00% | ~194 |
+| How Do You Turn This On? | 5.00% | ~194 |
+| Lock And Load | 5.00% | ~194 |
+| Missions Dedication | 5.00% | ~194 |
+| Sailor | 5.00% | ~194 |
 | Active Member | 4.00% | ~155 |
 | Ancient Knowledge | 4.00% | ~155 |
 | Arena Challenger | 4.00% | ~155 |
@@ -81,7 +81,7 @@ Rating: 4.01 (Ranked 1,019)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,869 (Ranked 208)  
+Progressed: 3,871 (Ranked 208)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-24 | 3,773 | 2 |
 | 2023-12-25 | 3,807 | 2 |
 | 2023-12-26 | 3,857 | 2 |
-| 2023-12-27 | 3,869 | 2 |
+| 2023-12-27 | 3,871 | 2 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 127 (Ranked 446)  

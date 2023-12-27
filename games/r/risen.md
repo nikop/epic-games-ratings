@@ -9,7 +9,7 @@ Rating: 4.52 (Ranked 565)
 | Map reader | 65.00% | ~83 |
 | Adventurer | 63.00% | ~80 |
 | Philanthropist | 61.00% | ~77 |
-| Archer | 45.00% | ~57 |
+| Archer | 46.00% | ~58 |
 | The brave little tailor | 43.00% | ~55 |
 | Field hand | 41.00% | ~52 |
 | Samaritan | 36.00% | ~46 |
@@ -28,7 +28,7 @@ Rating: 4.52 (Ranked 565)
 | Little hero | 18.00% | ~23 |
 | Hard worker | 18.00% | ~23 |
 | The fourth triplet | 18.00% | ~23 |
-| Fence | 17.00% | ~22 |
+| Fence | 18.00% | ~23 |
 | Ghost hunter | 16.00% | ~20 |
 | Master detective | 16.00% | ~20 |
 | Pandora's box | 15.00% | ~19 |

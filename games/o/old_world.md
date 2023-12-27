@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
 | Furious Family | 0.30% | ~48 |
+| Apadana | 0.30% | ~48 |
 | Great Ziggurat | 0.30% | ~48 |
 | Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
@@ -50,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.30% | ~48 |
 | Naming Landmarks | 0.30% | ~48 |
 | Trade Caravan | 0.30% | ~48 |
+| Hanging Gardens in Babylon | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
@@ -63,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
-| Apadana | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
 | Mausoleum | 0.20% | ~32 |
 | Musaeum | 0.20% | ~32 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.10% | ~16 |
 | Bad Heir Day | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
-| Hanging Gardens in Babylon | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
 | Barbarian Horde | 0.10% | ~16 |
 | United Against The Horde | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,968 (Ranked 163)  
+Progressed: 15,969 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
-| 2023-12-27 | 15,968 | 5 |
+| 2023-12-27 | 15,969 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,910 (Ranked 220)  

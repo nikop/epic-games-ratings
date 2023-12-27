@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8699,
+  "EOS_Progressed": 8701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9200,6 +9200,11 @@
       "Time": "2023-12-27T12:10:25.7987571+00:00",
       "NumProgressed": 8699,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T13:12:58.1871093+00:00",
+      "NumProgressed": 8701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9260,7 +9265,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -9555,13 +9560,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8699,
+      "Progressed": 8701,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1316,
+      "Progressed": 1318,
       "Completed": 1050
     }
   ],
@@ -9569,8 +9574,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:10:25.7987568+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:12:58.187109+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-27T12:03:26.3441025+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:10:25.7988413+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:06:08.0107944+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:12:58.1871839+00:00"
 }

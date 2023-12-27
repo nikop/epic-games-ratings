@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "14",
       "SetID": "6ljhbe4",
       "Name": "Festival Fever",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "15",
@@ -418,9 +418,9 @@
       "ID": "4",
       "SetID": "6ljhbe4",
       "Name": "Entering New Territory",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "5",
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:04:01.3322127+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:06:41.9722321+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:03.3490891+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:12.4466033+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:04:01.3322306+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:02:00.1409183+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:06:41.9722527+00:00"
 }

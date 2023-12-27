@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 514,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-11-20T21:59:05.9866436+00:00",
@@ -93,6 +93,12 @@
     {
       "Time": "2023-12-23T13:04:54.587479+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T13:01:41.0592421+00:00",
+      "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4079,9 +4085,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 620
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -4223,9 +4229,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 929
+      "UsersEstimate": 943
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -4567,9 +4573,9 @@
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged": "2023-12-23T13:04:54.5874789+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:06:45.8414092+00:00",
+  "LastChanged": "2023-12-27T13:01:41.0592419+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:09:10.8550026+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:58:50.5209677+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:06:45.8415218+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:41.0592425+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:09:10.8551106+00:00"
 }

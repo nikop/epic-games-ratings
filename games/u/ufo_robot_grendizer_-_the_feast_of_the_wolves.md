@@ -14,7 +14,7 @@
 | The Keeper of Fleed | 20.00% | ~8 |
 | The Exterminator | 18.00% | ~7 |
 | Earth's Savior | 15.00% | ~6 |
-| The Collector | 10.00% | ~4 |
+| The Collector | 13.00% | ~5 |
 | Gold Seeker | 8.00% | ~3 |
 | The Planner | 8.00% | ~3 |
 | Iron Fist | 8.00% | ~3 |

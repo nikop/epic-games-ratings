@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2286,
+  "EOS_Progressed": 2287,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -4191,6 +4191,11 @@
       "Time": "2023-12-27T01:52:25.971191+00:00",
       "NumProgressed": 2286,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-27T13:10:56.8419838+00:00",
+      "NumProgressed": 2287,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4384,9 +4389,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4432,9 +4437,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4489,13 +4494,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2286,
+      "Progressed": 2287,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 905
     }
   ],
@@ -4503,8 +4508,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:06:52.8531234+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:10:56.8419835+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-27T12:02:48.7327474+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:06:52.8531697+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:05:33.6348744+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:10:56.8420235+00:00"
 }

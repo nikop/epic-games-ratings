@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 392,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1689,9 +1689,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 357
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1705,9 +1705,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 251
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1856,8 +1856,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:04:54.7696814+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:07:31.0191878+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:00.8975638+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:04:54.7697062+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:49.7036671+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:07:31.01921+00:00"
 }

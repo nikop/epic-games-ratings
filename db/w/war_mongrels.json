@@ -5,10 +5,10 @@
   "Ranking_Rating": 787,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2545,6 +2545,11 @@
       "Time": "2023-12-27T03:11:20.7067433+00:00",
       "NumProgressed": 723,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T13:13:00.0097347+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2676,7 +2681,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2780,7 +2785,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2788,7 +2793,7 @@
       "Name": "The Breaking Point",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2828,7 +2833,7 @@
       "Name": "The Horror",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2860,7 +2865,7 @@
       "Name": "Sorrow",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2916,15 +2921,15 @@
       "Name": "Without a Second Thought",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2940,7 +2945,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2986,9 +2991,9 @@
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_NEST1",
@@ -3010,9 +3015,9 @@
       "ID": "ACH_NODETECT",
       "SetID": "1j25agn",
       "Name": "Tiptoe Around",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_NOMOON",
@@ -3027,15 +3032,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:10:27.7501166+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:13:00.0097343+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:56:53.9297292+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:10:27.7501765+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:59:49.3272998+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:13:00.0097879+00:00"
 }

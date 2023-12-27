@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,7 +438,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 782,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -2908,6 +2908,11 @@
       "Time": "2023-12-27T12:09:11.7655662+00:00",
       "NumProgressed": 779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T13:11:49.7757467+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3064,7 +3069,7 @@
       "Name": "Double Kill",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3128,7 +3133,7 @@
       "Name": "Multi Kill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "MultiplayerWins",
@@ -3158,9 +3163,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 39
     },
     {
       "ID": "RanaCampaign",
@@ -3200,7 +3205,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3246,9 +3251,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 344
     },
     {
       "ID": "WielderLevel2",
@@ -3280,7 +3285,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3304,7 +3309,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3351,15 +3356,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 782,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:09:11.7655659+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:11:49.7757464+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:57:42.5253629+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:09:11.7656081+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:00:34.6553103+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:11:49.7757967+00:00"
 }

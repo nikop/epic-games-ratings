@@ -5,27 +5,27 @@ Rating: 4.20 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,742 |
-| Battlefields Have Memories | 80.00% | ~1,602 |
-| Enlisted | 73.00% | ~1,461 |
-| Maybe Engage a Little | 68.00% | ~1,361 |
-| No More Names | 50.00% | ~1,001 |
-| Initiate | 35.00% | ~701 |
-| Thrada-Kul | 31.00% | ~621 |
-| Gravity-Challenged Rocks | 25.00% | ~500 |
-| Socialite | 23.00% | ~460 |
-| Soldier | 21.00% | ~420 |
-| All the Major Food Groups | 20.00% | ~400 |
-| Beggars Would Ride | 19.00% | ~380 |
-| Control is an Illusion | 17.00% | ~340 |
-| The Means to Save It | 14.00% | ~280 |
-| Resilience to Sin | 13.00% | ~260 |
-| A Familiar Nest | 12.00% | ~240 |
-| Geas Aristeya | 12.00% | ~240 |
-| Periapt Alizarin | 12.00% | ~240 |
-| A Perfect Cycle | 11.00% | ~220 |
-| Recruit | 11.00% | ~220 |
-| Armsman | 9.00% | ~180 |
+| Unforeseen | 87.00% | ~1,745 |
+| Battlefields Have Memories | 80.00% | ~1,605 |
+| Enlisted | 73.00% | ~1,464 |
+| Maybe Engage a Little | 68.00% | ~1,364 |
+| No More Names | 50.00% | ~1,003 |
+| Initiate | 35.00% | ~702 |
+| Thrada-Kul | 31.00% | ~622 |
+| Gravity-Challenged Rocks | 25.00% | ~502 |
+| Socialite | 23.00% | ~461 |
+| Soldier | 21.00% | ~421 |
+| All the Major Food Groups | 20.00% | ~401 |
+| Beggars Would Ride | 19.00% | ~381 |
+| Control is an Illusion | 17.00% | ~341 |
+| The Means to Save It | 14.00% | ~281 |
+| Resilience to Sin | 13.00% | ~261 |
+| A Familiar Nest | 12.00% | ~241 |
+| Geas Aristeya | 12.00% | ~241 |
+| Periapt Alizarin | 12.00% | ~241 |
+| A Perfect Cycle | 11.00% | ~221 |
+| Recruit | 11.00% | ~221 |
+| Armsman | 10.00% | ~201 |
 | Lights Army | 8.00% | ~160 |
 | Periapt Cerulean | 6.00% | ~120 |
 | Good Boy | 6.00% | ~120 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 940)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,002 (Ranked 239)  
+Progressed: 2,006 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
-| 2023-12-27 | 2,002 | 2 |
+| 2023-12-27 | 2,006 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

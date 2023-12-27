@@ -1,33 +1,33 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,837 |
-| Gun Fu | 8.00% | ~78,558 |
-| The Fool | 7.00% | ~68,738 |
-| Right Back At Ya | 6.00% | ~58,919 |
-| The Lovers | 6.00% | ~58,919 |
-| Full Body Conversion | 5.00% | ~49,099 |
-| True Soldier | 5.00% | ~49,099 |
-| All the President's Men | 5.00% | ~5,530 |
-| Christmas Tree Attack | 4.00% | ~39,279 |
-| Stanislavski's Method | 4.00% | ~39,279 |
-| The Hermit | 4.00% | ~39,279 |
-| The Wheel of Fortune | 4.00% | ~39,279 |
-| Arachnophobia | 4.00% | ~4,424 |
-| Bushido and Chill | 3.00% | ~29,459 |
-| Master Crafter | 3.00% | ~29,459 |
-| The Quick and the Dead | 3.00% | ~29,459 |
-| Life of the Road | 3.00% | ~29,459 |
-| The High Priestess | 3.00% | ~29,459 |
-| The World | 3.00% | ~29,459 |
-| True Warrior | 3.00% | ~29,459 |
-| Legend of The Afterlife | 3.00% | ~29,459 |
-| Relic Ruler | 3.00% | ~3,318 |
+| V for Vendetta | 12.00% | ~117,839 |
+| Gun Fu | 8.00% | ~78,560 |
+| The Fool | 7.00% | ~68,740 |
+| Right Back At Ya | 6.00% | ~58,920 |
+| The Lovers | 6.00% | ~58,920 |
+| Full Body Conversion | 5.00% | ~49,100 |
+| True Soldier | 5.00% | ~49,100 |
+| All the President's Men | 5.00% | ~5,531 |
+| Christmas Tree Attack | 4.00% | ~39,280 |
+| Stanislavski's Method | 4.00% | ~39,280 |
+| The Hermit | 4.00% | ~39,280 |
+| The Wheel of Fortune | 4.00% | ~39,280 |
+| Arachnophobia | 4.00% | ~4,425 |
+| Bushido and Chill | 3.00% | ~29,460 |
+| Master Crafter | 3.00% | ~29,460 |
+| The Quick and the Dead | 3.00% | ~29,460 |
+| Life of the Road | 3.00% | ~29,460 |
+| The High Priestess | 3.00% | ~29,460 |
+| The World | 3.00% | ~29,460 |
+| True Warrior | 3.00% | ~29,460 |
+| Legend of The Afterlife | 3.00% | ~29,460 |
+| Relic Ruler | 3.00% | ~3,319 |
 | To Protect and Serve | 2.00% | ~19,640 |
 | I Am The Law | 2.00% | ~19,640 |
 | Two Heads, One Bullet | 2.00% | ~19,640 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,976 (Ranked 16)  
+Progressed: 981,995 (Ranked 16)  
 Completed: 2,985 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2,985 (0.30%) (Ranked 253)
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
-| 2023-12-27 | 981,976 | 2,985 |
+| 2023-12-27 | 981,995 | 2,985 |
 ## Awards
 Max (Character Customization): 127,789  (Ranked 8)  
 Sum: 446,486 (Ranked 9)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3849,9 +3849,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32791,
+  "EOS_Progressed": 32795,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23654,6 +23654,11 @@
       "Time": "2023-12-27T12:08:54.3581778+00:00",
       "NumProgressed": 32791,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-27T13:11:33.987425+00:00",
+      "NumProgressed": 32795,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23665,7 +23670,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "Animated",
@@ -23753,7 +23758,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "Dont_Need_These",
@@ -23777,7 +23782,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "Escape_Artist",
@@ -23953,7 +23958,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "Stunner",
@@ -23969,7 +23974,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "Summoner",
@@ -23993,7 +23998,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "Teamwork",
@@ -24072,7 +24077,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32791,
+      "Progressed": 32795,
       "Completed": 70
     }
   ],
@@ -24080,8 +24085,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-27T08:59:05.6563436+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:08:54.3581776+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:11:33.9874246+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:07.8616603+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:08:54.3583011+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:55.9246005+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:11:33.9875362+00:00"
 }

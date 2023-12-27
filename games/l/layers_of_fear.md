@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 82.00% | ~172 |
+| Something important | 83.00% | ~174 |
 | A piece of the story | 60.00% | ~126 |
 | Wanderer | 57.00% | ~120 |
 | It's covered up for a reason | 51.00% | ~107 |
@@ -14,8 +14,8 @@
 | Sign of weakness | 40.00% | ~84 |
 | Refuse to look | 35.00% | ~74 |
 | Face your fears | 27.00% | ~57 |
-| Finished it | 25.00% | ~52 |
-| Whispers long forgotten | 14.00% | ~29 |
+| Finished it | 26.00% | ~55 |
+| Whispers long forgotten | 15.00% | ~32 |
 | A Slice of Life | 10.00% | ~21 |
 | Debut | 10.00% | ~21 |
 | Sound Bite | 10.00% | ~21 |

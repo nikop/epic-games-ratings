@@ -1,27 +1,27 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 537)  
+Rating: 4.54 (Ranked 536)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,817 |
-| Pay 'n' Spray | 50.00% | ~8,529 |
-| All Dressed Up for San Fierro | 25.00% | ~4,264 |
-| The American Dream | 18.00% | ~3,070 |
-| School's Out | 18.00% | ~3,070 |
-| Smooth Moves | 16.00% | ~2,729 |
-| Today Was a Good Day | 15.00% | ~2,559 |
-| What happens in Las Venturas... | 14.00% | ~2,388 |
+| Getting Started | 81.00% | ~13,822 |
+| Pay 'n' Spray | 50.00% | ~8,532 |
+| All Dressed Up for San Fierro | 25.00% | ~4,266 |
+| The American Dream | 18.00% | ~3,072 |
+| School's Out | 18.00% | ~3,072 |
+| Smooth Moves | 16.00% | ~2,730 |
+| Today Was a Good Day | 15.00% | ~2,560 |
+| What happens in Las Venturas... | 14.00% | ~2,389 |
 | Horror of the Santa Maria | 10.00% | ~1,706 |
-| Liberty City State of Mind | 9.00% | ~1,535 |
+| Liberty City State of Mind | 9.00% | ~1,536 |
 | Original Gangster | 8.00% | ~1,365 |
 | With Extra Dip | 7.00% | ~1,194 |
 | The End of the Line | 7.00% | ~1,194 |
-| Saviour | 6.00% | ~1,023 |
+| Saviour | 6.00% | ~1,024 |
 | Rescue a Kitten Too? | 5.00% | ~853 |
-| They Can’t Stop All of Us | 4.00% | ~682 |
-| What are the Odds | 4.00% | ~682 |
+| They Can’t Stop All of Us | 4.00% | ~683 |
+| What are the Odds | 4.00% | ~683 |
 | Bike or Biker | 3.00% | ~512 |
 | What the City Needs | 3.00% | ~512 |
 | A Legitimate Business | 2.00% | ~341 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 537)
 | ...Here we go again | 0.50% | ~85 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,058 (Ranked 159)  
+Progressed: 17,064 (Ranked 159)  
 Completed: 64 (0.38%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 64 (0.38%) (Ranked 236)
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
 | 2023-12-26 | 17,001 | 64 |
-| 2023-12-27 | 17,058 | 64 |
+| 2023-12-27 | 17,064 | 64 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
 Sum: 806 (Ranked 285)  

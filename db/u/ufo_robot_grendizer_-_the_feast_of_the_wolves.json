@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_RUINDIVISION",
@@ -486,8 +486,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:08:18.5284241+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:11:01.2166303+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:58:31.4144658+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:08:18.528448+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:21.3519885+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:11:01.2166497+00:00"
 }

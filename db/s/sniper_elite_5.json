@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4132,
+  "EOS_Progressed": 4133,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9054,6 +9054,11 @@
       "Time": "2023-12-27T06:09:42.3132959+00:00",
       "NumProgressed": 4132,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-27T13:12:10.7524606+00:00",
+      "NumProgressed": 4133,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9065,7 +9070,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -9073,7 +9078,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9089,7 +9094,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -9097,7 +9102,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9105,7 +9110,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9113,7 +9118,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -9121,7 +9126,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -9129,7 +9134,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9145,7 +9150,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9201,7 +9206,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9233,7 +9238,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9297,7 +9302,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -9433,7 +9438,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9585,7 +9590,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -9593,7 +9598,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -9601,7 +9606,7 @@
       "Name": "Stroll in the Woods",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -9609,7 +9614,7 @@
       "Name": "Shipbreaker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -9625,20 +9630,20 @@
       "Name": "Going Overboard",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4083,
+      "Progressed": 4084,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4132,
+      "Progressed": 4133,
       "Completed": 11
     }
   ],
@@ -9646,8 +9651,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:09:34.8858448+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:12:10.7524602+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:08.976406+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:09:34.8859625+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:56.9970624+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:12:10.7525499+00:00"
 }

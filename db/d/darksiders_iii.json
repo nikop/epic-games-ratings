@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 465,
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -444,9 +444,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-12-27T10:09:10.7267151+00:00",
       "NumProgressed": 226,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T13:11:23.9344818+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1004,9 +1009,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -1054,7 +1059,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1070,7 +1075,7 @@
       "Name": "Maximum Capacity",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -1084,17 +1089,17 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1116,9 +1121,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1158,7 +1163,7 @@
       "Name": "Salvation",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1260,9 +1265,9 @@
       "ID": "Game_CompleteNormal",
       "SetID": "7a5k76n",
       "Name": "Path of the Horseman",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -1358,7 +1363,7 @@
       "Name": "Green with Envy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1372,9 +1377,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -1388,9 +1393,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1430,7 +1435,7 @@
       "Name": "Community Outreach",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Save_Humans_20",
@@ -1444,9 +1449,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1462,7 +1467,7 @@
       "Name": "First of many\u2026",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1470,7 +1475,7 @@
       "Name": "25 to Life",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -1500,9 +1505,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1517,15 +1522,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:08:43.783189+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:11:23.9344814+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:58:08.2379044+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:08:43.7832455+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:01.9992374+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:11:23.9345333+00:00"
 }

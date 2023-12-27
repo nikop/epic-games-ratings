@@ -1,35 +1,35 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 552)  
+Rating: 4.53 (Ranked 551)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 77.00% | ~163 |
-| Mash Machine | 70.00% | ~148 |
-| Ducks in a Row, Fish in a Barrel | 48.00% | ~102 |
-| Furon Fashion | 45.00% | ~95 |
-| Shop Til They Drop | 38.00% | ~81 |
-| Bodied Sattva | 34.00% | ~72 |
-| Cult Following | 32.00% | ~68 |
-| Earthly Pleasures | 32.00% | ~68 |
-| Lie Back and Think of Albion | 25.00% | ~53 |
-| Upgreatest | 25.00% | ~53 |
-| Pimp My Raid | 24.00% | ~51 |
-| I Look Up As I Walk to Takoshima | 19.00% | ~40 |
-| Freshly Squeezed | 17.00% | ~36 |
+| Rock of the Bay | 78.00% | ~168 |
+| Mash Machine | 70.00% | ~150 |
+| Ducks in a Row, Fish in a Barrel | 47.00% | ~101 |
+| Furon Fashion | 45.00% | ~97 |
+| Shop Til They Drop | 37.00% | ~80 |
+| Bodied Sattva | 34.00% | ~73 |
+| Earthly Pleasures | 32.00% | ~69 |
+| Cult Following | 31.00% | ~67 |
+| Lie Back and Think of Albion | 25.00% | ~54 |
+| Upgreatest | 24.00% | ~52 |
+| Pimp My Raid | 24.00% | ~52 |
+| I Look Up As I Walk to Takoshima | 19.00% | ~41 |
 | Perfect Probulator | 16.00% | ~34 |
+| Freshly Squeezed | 16.00% | ~34 |
 | Die Nasty | 15.00% | ~32 |
 | Transmitting From Sol-3 | 13.00% | ~28 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~23 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~24 |
 | Kaijuiced | 9.00% | ~19 |
 | Dusted | 9.00% | ~19 |
 | Fly Me to the Moon Base | 8.00% | ~17 |
 | Scuttled | 6.00% | ~13 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~13 |
-| Lobster Blisque | 4.00% | ~8 |
-| Yettisoned | 4.00% | ~8 |
+| Lobster Blisque | 4.00% | ~9 |
+| Yettisoned | 4.00% | ~9 |
 | Ultimate Smoothie | 3.00% | ~6 |
 | Deincarnated | 3.00% | ~6 |
 | Arkvoodle Doodle | 3.00% | ~6 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~1 |
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 411)  
+Progressed: 215 (Ranked 411)  
 Completed: 1 (0.47%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.47%) (Ranked 221)
 | 2023-12-24 | 179 | 0 |
 | 2023-12-25 | 191 | 1 |
 | 2023-12-26 | 205 | 1 |
-| 2023-12-27 | 212 | 1 |
+| 2023-12-27 | 215 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 488)  
 Sum: 36 (Ranked 521)  

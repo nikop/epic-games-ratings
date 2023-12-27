@@ -10,8 +10,8 @@
 | Creature Evolution | 31.00% | ~14 |
 | Kingdom Party Time | 24.00% | ~11 |
 | Think Positive | 22.00% | ~10 |
-| Festival Fever | 18.00% | ~8 |
-| Entering New Territory | 16.00% | ~7 |
+| Festival Fever | 20.00% | ~9 |
+| Entering New Territory | 18.00% | ~8 |
 | Gotta Adopt Them All! | 11.00% | ~5 |
 | Just One More Go | 9.00% | ~4 |
 | Lecturer | 9.00% | ~4 |

@@ -4,8 +4,8 @@
   "ProductSlug": "team-disorder-987adf",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-23T14:56:57.8378512+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:58:15.8884443+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:05:05.1452474+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:01:08.2875153+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:07:40.5893816+00:00"
 }

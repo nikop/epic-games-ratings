@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 479,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
@@ -2011,9 +2011,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 359
     },
     {
       "ID": "buy_trainer",
@@ -2443,9 +2443,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 354
     },
     {
       "ID": "work_promotion_2",
@@ -2459,9 +2459,9 @@
       "ID": "work_promotion_3",
       "SetID": "69co12a",
       "Name": "Employee of the year",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 259
     }
   ],
   "AchievementSets": [
@@ -2474,8 +2474,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:09:52.4754543+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:12:27.3825744+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:57:02.112315+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:09:52.4755167+00:00"
+  "LastUpdate_Ratings": "2023-12-27T12:59:56.6778353+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:12:27.3826424+00:00"
 }

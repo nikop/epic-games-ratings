@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17554,
+  "EOS_Progressed": 17556,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15327,6 +15327,11 @@
       "Time": "2023-12-27T12:04:50.6008366+00:00",
       "NumProgressed": 17554,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T13:07:27.0823008+00:00",
+      "NumProgressed": 17556,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15355,7 +15360,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "12",
@@ -15419,7 +15424,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "2",
@@ -15443,7 +15448,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "22",
@@ -15481,9 +15486,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1404
     },
     {
       "ID": "27",
@@ -15515,7 +15520,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2106
+      "UsersEstimate": 2107
     },
     {
       "ID": "30",
@@ -15571,7 +15576,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "31",
@@ -15603,7 +15608,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "35",
@@ -15618,13 +15623,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17554,
+      "Progressed": 17556,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3508,
+      "Progressed": 3510,
       "Completed": 1071
     }
   ],
@@ -15632,8 +15637,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-27T12:04:50.6008363+00:00",
+  "LastChanged_Achievements": "2023-12-27T13:07:27.0823003+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T11:59:56.2648385+00:00",
-  "LastUpdate_Achievements": "2023-12-27T12:04:50.6009207+00:00"
+  "LastUpdate_Ratings": "2023-12-27T13:02:38.0578914+00:00",
+  "LastUpdate_Achievements": "2023-12-27T13:07:27.0823945+00:00"
 }
