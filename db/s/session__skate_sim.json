@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1321,9 +1321,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3412,
+  "EOS_Progressed": 3413,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7026,6 +7026,11 @@
       "Time": "2023-12-27T07:06:56.5092686+00:00",
       "NumProgressed": 3412,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T09:05:46.1905866+00:00",
+      "NumProgressed": 3413,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7149,7 +7154,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_GOLDEN",
@@ -7173,7 +7178,7 @@
       "Name": "Hoarder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -7189,7 +7194,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7261,7 +7266,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -7413,22 +7418,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3412,
+      "Progressed": 3413,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-27T02:59:08.6955068+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:06:05.5618201+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:05:46.1905864+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:58:22.5454315+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:06:05.5618987+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:58:25.1512236+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:05:46.1906335+00:00"
 }

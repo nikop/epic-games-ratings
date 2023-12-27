@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~219,366 |
-| 50 HEADSHOTS | 30.00% | ~199,423 |
-| SCIENCE AND INDUSTRY | 29.00% | ~192,776 |
-| FINISHED CHAPTER 1 | 28.00% | ~186,128 |
-| FINISHED CHAPTER 2 | 21.00% | ~139,596 |
-| 200 HEADSHOTS | 18.00% | ~119,654 |
-| FINISHED CHAPTER 3 | 17.00% | ~113,006 |
-| FINISHED CHAPTER 4 | 15.00% | ~99,712 |
-| FINISH CHAPTER 5 | 13.00% | ~86,417 |
-| FINISH CHAPTER 6 | 11.00% | ~73,122 |
-| CATHARTIC ESCAPISM | 11.00% | ~73,122 |
-| 1000 KILLS | 10.00% | ~66,474 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,590 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,295 |
-| FIRST BLOOD | 2.00% | ~13,295 |
+| 100 KILLS | 33.00% | ~219,356 |
+| 50 HEADSHOTS | 30.00% | ~199,414 |
+| SCIENCE AND INDUSTRY | 29.00% | ~192,767 |
+| FINISHED CHAPTER 1 | 28.00% | ~186,120 |
+| FINISHED CHAPTER 2 | 21.00% | ~139,590 |
+| 200 HEADSHOTS | 18.00% | ~119,649 |
+| FINISHED CHAPTER 3 | 17.00% | ~113,002 |
+| FINISHED CHAPTER 4 | 15.00% | ~99,707 |
+| FINISH CHAPTER 5 | 13.00% | ~86,413 |
+| FINISH CHAPTER 6 | 11.00% | ~73,119 |
+| CATHARTIC ESCAPISM | 11.00% | ~73,119 |
+| 1000 KILLS | 10.00% | ~66,472 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,589 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,294 |
+| FIRST BLOOD | 2.00% | ~13,294 |
 | OUT OF ORDER | 1.00% | ~6,647 |
 | PACEMAKER | 1.00% | ~6,647 |
 | TIME PARADOX | 1.00% | ~6,647 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~5,983 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~5,982 |
 | PARTYHARD | 0.80% | ~5,318 |
 | NEW GAME PLUS | 0.70% | ~4,653 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,324 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~665 |
 | WARRIOR IN A GARDEN | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,744 (Ranked 30)  
+Progressed: 664,715 (Ranked 30)  
 Completed: 61 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4275,
+  "EOS_Progressed": 4276,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -7086,6 +7086,11 @@
       "Time": "2023-12-27T06:03:58.1196226+00:00",
       "NumProgressed": 4275,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T09:03:27.3023132+00:00",
+      "NumProgressed": 4276,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7159,9 +7164,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1283
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7193,7 +7198,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "HomeSweetHome_25",
@@ -7289,7 +7294,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7297,7 +7302,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7321,7 +7326,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7345,7 +7350,7 @@
       "Name": "The power of ambition",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -7377,7 +7382,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -7432,15 +7437,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4275,
+      "Progressed": 4276,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:03:32.9844806+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:03:27.3023129+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:02:58.6268373+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:03:32.9845549+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:02:53.7182861+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:03:27.302357+00:00"
 }

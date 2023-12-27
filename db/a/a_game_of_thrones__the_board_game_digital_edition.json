@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1368,9 +1368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31549,
+  "EOS_Progressed": 31550,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28283,6 +28283,11 @@
       "Time": "2023-12-27T07:10:27.9843403+00:00",
       "NumProgressed": 31549,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-27T09:09:39.8600076+00:00",
+      "NumProgressed": 31550,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28294,7 +28299,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "1016",
@@ -28318,7 +28323,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "1019",
@@ -28334,7 +28339,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "1021",
@@ -28342,7 +28347,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "1022",
@@ -28390,7 +28395,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2839
+      "UsersEstimate": 2840
     },
     {
       "ID": "1028",
@@ -28422,7 +28427,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "1032",
@@ -28454,7 +28459,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "1036",
@@ -28469,15 +28474,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31549,
+      "Progressed": 31550,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-26T20:57:53.621354+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:09:54.3766857+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:09:39.8600074+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:57:58.4152248+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:09:54.3768623+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:58:04.4330961+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:09:39.8601479+00:00"
 }

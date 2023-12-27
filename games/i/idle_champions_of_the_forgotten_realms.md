@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.70% | ~1,716 |
 | Welcome to Sigil | 0.70% | ~1,480 |
 | Beast Intentions | 0.60% | ~1,471 |
-| Fast Food | 0.60% | ~1,268 |
+| Fast Food | 0.60% | ~1,269 |
 | The Mad Wizard | 0.50% | ~1,226 |
 | The Overgrown Grove | 0.40% | ~846 |
 | Flames of Avernus | 0.40% | ~846 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,139 (Ranked 67)  
+Progressed: 245,148 (Ranked 67)  
 Completed: 2,566 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -804,10 +804,10 @@ Completed: 2,566 (1.05%) (Ranked 169)
 | 2023-12-24 | 244,276 | 2,558 |
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
-| 2023-12-27 | 245,139 | 2,566 |
+| 2023-12-27 | 245,148 | 2,566 |
 ## Awards
 Max (Great for Beginners): 5,696  (Ranked 71)  
-Sum: 33,102 (Ranked 41)  
+Sum: 33,105 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -817,7 +817,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 4,745 |
 | This game has Amazing Characters | 4,283 |
 | This game is Highly Recommended | 4,269 |
-| This game has Playful Visuals | 3,599 |
+| This game has Playful Visuals | 3,602 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1156,4 +1156,4 @@ Diff (max vs sum): 30
 | 2023-12-24 | 4.06 | - | 5,691 | 33,068 |
 | 2023-12-25 | 4.06 | - | 5,691 | 33,079 |
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
-| 2023-12-27 | 4.06 | - | 5,696 | 33,102 |
+| 2023-12-27 | 4.06 | - | 5,696 | 33,105 |

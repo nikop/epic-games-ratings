@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.15 (Ranked 975)  
+Rating: 4.16 (Ranked 966)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 41.00% | ~31,499 |
-| As Far Away As Possible | 19.00% | ~14,597 |
-| A Most Unstable Organism | 13.00% | ~9,988 |
-| More Power to You | 13.00% | ~9,988 |
-| No Time to Follow Protocol | 10.00% | ~7,683 |
-| Float Like a Butterfly... | 8.00% | ~6,146 |
-| Nano Connoisseur | 7.00% | ~5,378 |
-| In Two Places At Once | 6.00% | ~4,610 |
-| Pulling Your Weight | 3.00% | ~2,305 |
-| Reaping Rivals | 3.00% | ~2,305 |
-| fifteenth Time's the Charm | 1.00% | ~768 |
+| Your Lucky Day | 41.00% | ~31,509 |
+| As Far Away As Possible | 19.00% | ~14,602 |
+| A Most Unstable Organism | 13.00% | ~9,991 |
+| More Power to You | 13.00% | ~9,991 |
+| No Time to Follow Protocol | 10.00% | ~7,685 |
+| Float Like a Butterfly... | 8.00% | ~6,148 |
+| Nano Connoisseur | 7.00% | ~5,380 |
+| In Two Places At Once | 6.00% | ~4,611 |
+| Pulling Your Weight | 3.00% | ~2,306 |
+| Reaping Rivals | 3.00% | ~2,306 |
+| fifteenth Time's the Charm | 1.00% | ~769 |
 | Gone Rogue | 0.70% | ~538 |
 | Memory Keeper | 0.40% | ~307 |
 | Completely Customizable | 0.40% | ~307 |
-| Runs for Your Money | 0.30% | ~230 |
-| Past Master | 0.30% | ~230 |
+| Runs for Your Money | 0.30% | ~231 |
+| Past Master | 0.30% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,827 (Ranked 107)  
+Progressed: 76,851 (Ranked 107)  
 Completed: 61 (0.08%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 61 (0.08%) (Ranked 321)
 | 2023-12-24 | 74,816 | 60 |
 | 2023-12-25 | 75,646 | 60 |
 | 2023-12-26 | 76,575 | 60 |
-| 2023-12-27 | 76,827 | 61 |
+| 2023-12-27 | 76,851 | 61 |
 ## Awards
 Max (Great for Beginners): 120  (Ranked 349)  
 Sum: 471 (Ranked 336)  
@@ -264,4 +264,4 @@ Diff (max vs sum): 13
 | 2023-12-24 | 4.15 | 118 | 462 |
 | 2023-12-25 | 4.15 | 120 | 469 |
 | 2023-12-26 | 4.15 | 120 | 470 |
-| 2023-12-27 | 4.15 | 120 | 471 |
+| 2023-12-27 | 4.16 | 120 | 471 |

@@ -2,13 +2,13 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 84,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "NumberOfRatings": 4392,
   "RatingHistory": [
     {
@@ -11889,6 +11889,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 15488,
       "NumberOfAwardsMax": 2004
+    },
+    {
+      "Time": "2023-12-27T09:00:31.9883242+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 15488,
+      "NumberOfAwardsMax": 2004
     }
   ],
   "ReviewsDisabled": false,
@@ -11974,8 +11980,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-12-26T22:00:13.7326142+00:00",
+  "LastChanged": "2023-12-27T09:00:31.988324+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:14.2190027+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:00:42.2425358+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:05:15.2664869+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:00:31.9883245+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:05:00.2905506+00:00"
 }

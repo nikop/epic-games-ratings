@@ -27,9 +27,9 @@ Number of Ratings: 76  (23.09.2022)
 | Hello, Bikini Bottom | 4.00% | ~17 |
 | Are you ready now? | 3.00% | ~13 |
 | Ship Shape | 3.00% | ~13 |
+| Shanghaied | 3.00% | ~13 |
 | Kelp Forest of Fear | 3.00% | ~13 |
 | Ultra Spatula Seeker | 3.00% | ~13 |
-| Shanghaied | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | The Small Does Not Rule | 1.00% | ~4 |
 | SpongeBob vs SpongeBob! | 1.00% | ~4 |

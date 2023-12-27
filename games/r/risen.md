@@ -22,7 +22,7 @@ Rating: 4.52 (Ranked 565)
 | Family man | 20.00% | ~25 |
 | Death of a legend | 20.00% | ~25 |
 | Archaeologist | 20.00% | ~25 |
-| Ogre friend | 19.00% | ~24 |
+| Ogre friend | 20.00% | ~25 |
 | Sidelined | 19.00% | ~24 |
 | Wise man | 18.00% | ~23 |
 | Little hero | 18.00% | ~23 |

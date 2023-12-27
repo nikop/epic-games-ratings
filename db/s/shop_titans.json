@@ -7789,9 +7789,9 @@
       "Count": 3803
     }
   ],
-  "EOS_Progressed": 147887,
+  "EOS_Progressed": 147890,
   "EOS_Completed": 336,
-  "EOS_NewPlayers": 1416,
+  "EOS_NewPlayers": 1415,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34134,6 +34134,11 @@
       "Time": "2023-12-27T08:08:21.4685226+00:00",
       "NumProgressed": 147887,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2023-12-27T09:06:35.8641808+00:00",
+      "NumProgressed": 147890,
+      "NumCompleted": 336
     }
   ],
   "TotalAchievements": 112,
@@ -34145,7 +34150,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "advlevel02",
@@ -34281,7 +34286,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "boss02",
@@ -34417,7 +34422,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "craft03",
@@ -34449,7 +34454,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "damage02",
@@ -34697,7 +34702,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "jackslot02",
@@ -34769,7 +34774,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "loot02",
@@ -34801,7 +34806,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "master02",
@@ -35040,15 +35045,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 147887,
+      "Progressed": 147890,
       "Completed": 336
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-27T08:03:15.5768509+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:08:21.468522+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:06:35.8641806+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:03:15.5768515+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:08:21.4688185+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:03:10.4716627+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:06:35.8643832+00:00"
 }

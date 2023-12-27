@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2885,
+  "EOS_Progressed": 2886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2979,6 +2979,11 @@
       "Time": "2023-12-27T08:05:41.1737892+00:00",
       "NumProgressed": 2885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T09:05:23.9365596+00:00",
+      "NumProgressed": 2886,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3175,7 +3180,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3191,7 +3196,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3366,14 +3371,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2885,
+      "Progressed": 2886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:05:41.1737888+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:05:23.9365594+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:56:59.4566493+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:05:41.1738454+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:57:13.2711678+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:05:23.9366068+00:00"
 }

@@ -1,22 +1,22 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 1,054)  
+Rating: 3.84 (Ranked 1,053)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,768 |
+| Welcome to Moonbury | 98.00% | ~1,769 |
 | The First Step | 88.00% | ~1,588 |
 | Moonbury Traveller | 63.00% | ~1,137 |
-| Rookie Chemist | 61.00% | ~1,100 |
+| Rookie Chemist | 61.00% | ~1,101 |
 | Great Doctor | 50.00% | ~902 |
 | Dog Whisperer | 48.00% | ~866 |
 | Friendly | 47.00% | ~848 |
 | The Capitalist | 44.00% | ~794 |
 | K.O.! | 43.00% | ~776 |
 | Intermediate Chemist | 39.00% | ~704 |
-| Decorative Mind | 33.00% | ~595 |
-| Lumber Specialist | 31.00% | ~559 |
+| Decorative Mind | 33.00% | ~596 |
+| Lumber Specialist | 31.00% | ~560 |
 | Kind-hearted | 25.00% | ~451 |
 | Catch of the Day | 25.00% | ~451 |
 | Amateur Chef | 22.00% | ~397 |
@@ -25,11 +25,11 @@ Rating: 3.83 (Ranked 1,054)
 | Community Helper | 17.00% | ~307 |
 | Expert Chemist | 14.00% | ~253 |
 | Stone Specialist | 14.00% | ~253 |
-| Line Cook | 12.00% | ~216 |
-| Sociable | 12.00% | ~216 |
-| Ablutomaniac | 12.00% | ~216 |
-| Good Samaritan | 11.00% | ~198 |
-| Production Sorter | 11.00% | ~198 |
+| Line Cook | 12.00% | ~217 |
+| Sociable | 12.00% | ~217 |
+| Ablutomaniac | 12.00% | ~217 |
+| Good Samaritan | 11.00% | ~199 |
+| Production Sorter | 11.00% | ~199 |
 | Acrobatic Adventurer | 10.00% | ~180 |
 | Animal Exterminator | 9.00% | ~162 |
 | Adolescent Love | 6.00% | ~108 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 1,054)
 | Moonbury Navigator | 1.00% | ~18 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,804 (Ranked 244)  
+Progressed: 1,805 (Ranked 244)  
 Completed: 11 (0.61%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 11 (0.61%) (Ranked 204)
 | 2023-12-24 | 1,780 | 11 |
 | 2023-12-25 | 1,788 | 11 |
 | 2023-12-26 | 1,800 | 11 |
-| 2023-12-27 | 1,804 | 11 |
+| 2023-12-27 | 1,805 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 414)  
 Sum: 70 (Ranked 485)  
@@ -297,3 +297,4 @@ Diff (max vs sum): -71
 | 2023-10-10 | 3.82 | 69 | 69 |
 | 2023-12-02 | 3.83 | 69 | 69 |
 | 2023-12-23 | 3.83 | 70 | 70 |
+| 2023-12-27 | 3.84 | 70 | 70 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4478,10 +4478,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3290,
       "NumberOfAwardsMax": 413
+    },
+    {
+      "Time": "2023-12-27T08:58:40.9872519+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3292,
+      "NumberOfAwardsMax": 413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3290,
+  "NumberOfAwards": 3292,
   "NumberOfAwardsMax": 413,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4525,7 +4531,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 352
+      "Count": 354
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4552,9 +4558,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 512241,
+  "EOS_Progressed": 512265,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6502,
+  "EOS_NewPlayers": 6507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33352,6 +33358,11 @@
       "Time": "2023-12-27T08:08:32.8967808+00:00",
       "NumProgressed": 512241,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T09:08:25.7676622+00:00",
+      "NumProgressed": 512265,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -33371,7 +33382,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5122
+      "UsersEstimate": 5123
     },
     {
       "ID": "ACH_CARRYING",
@@ -33419,7 +33430,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20490
+      "UsersEstimate": 20491
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -33427,7 +33438,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -33459,7 +33470,7 @@
       "Name": "Hit and Run",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH_HSLD",
@@ -33467,7 +33478,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15368
     },
     {
       "ID": "ACH_JR_50",
@@ -33491,7 +33502,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15368
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -33507,7 +33518,7 @@
       "Name": "#1",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "ACH_PERSONAL",
@@ -33531,7 +33542,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20490
+      "UsersEstimate": 20491
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -33563,7 +33574,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5122
+      "UsersEstimate": 5123
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -33579,7 +33590,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5122
+      "UsersEstimate": 5123
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -33595,7 +33606,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15368
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -33619,7 +33630,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15368
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -33627,7 +33638,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25612
+      "UsersEstimate": 25613
     },
     {
       "ID": "ACH_WET_FEET",
@@ -33635,22 +33646,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20490
+      "UsersEstimate": 20491
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 512241,
+      "Progressed": 512265,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-27T06:59:16.7019695+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:08:32.8967804+00:00",
+  "LastChanged": "2023-12-27T08:58:40.9872517+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:08:25.7676618+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.4464018+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:58:39.2627373+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:08:32.8970306+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:58:40.9872522+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:08:25.7678064+00:00"
 }

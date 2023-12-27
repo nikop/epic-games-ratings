@@ -15,7 +15,7 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 15.00% | ~17 |
 | Commander | 14.00% | ~16 |
 | Peddler | 13.00% | ~15 |
-| Long-Haul Flyer | 13.00% | ~15 |
+| Long-Haul Flyer | 12.00% | ~14 |
 | Family Reunion | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
 | Pass A38 | 8.00% | ~9 |
@@ -23,12 +23,12 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 7.00% | ~8 |
 | Hotshot | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |
-| Storyteller | 4.00% | ~4 |
-| Globetrotter | 4.00% | ~4 |
-| Self-Sufficient | 4.00% | ~4 |
-| Free as a Bird | 4.00% | ~4 |
-| Idealist | 4.00% | ~4 |
-| Unbreakable | 4.00% | ~4 |
+| Storyteller | 4.00% | ~5 |
+| Globetrotter | 4.00% | ~5 |
+| Self-Sufficient | 4.00% | ~5 |
+| Free as a Bird | 4.00% | ~5 |
+| Idealist | 4.00% | ~5 |
+| Unbreakable | 4.00% | ~5 |
 | Cleric | 3.00% | ~3 |
 | Perfectionist | 3.00% | ~3 |
 | Alchemist | 2.00% | ~2 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 470)  
+Progressed: 113 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 88 | 0 |
 | 2023-12-25 | 100 | 0 |
 | 2023-12-26 | 109 | 0 |
-| 2023-12-27 | 112 | 0 |
+| 2023-12-27 | 113 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

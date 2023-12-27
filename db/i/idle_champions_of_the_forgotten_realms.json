@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9041,10 +9041,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33102,
       "NumberOfAwardsMax": 5696
+    },
+    {
+      "Time": "2023-12-27T08:58:23.1873232+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33105,
+      "NumberOfAwardsMax": 5696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33102,
+  "NumberOfAwards": 33105,
   "NumberOfAwardsMax": 5696,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9088,12 +9094,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3599
+      "Count": 3602
     }
   ],
-  "EOS_Progressed": 245139,
+  "EOS_Progressed": 245148,
   "EOS_Completed": 2566,
-  "EOS_NewPlayers": 2931,
+  "EOS_NewPlayers": 2934,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37446,6 +37452,11 @@
       "Time": "2023-12-27T08:10:21.7809774+00:00",
       "NumProgressed": 245139,
       "NumCompleted": 2566
+    },
+    {
+      "Time": "2023-12-27T09:10:05.8131127+00:00",
+      "NumProgressed": 245148,
+      "NumCompleted": 2566
     }
   ],
   "TotalAchievements": 546,
@@ -41761,7 +41772,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "objective_completed_1563",
@@ -41824,21 +41835,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211413,
+      "Progressed": 211422,
       "Completed": 4067
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245139,
+      "Progressed": 245148,
       "Completed": 2566
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-27T01:42:49.4629854+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:10:21.780977+00:00",
+  "LastChanged": "2023-12-27T08:58:23.1873231+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:10:05.8131122+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:58:20.2995365+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:10:21.7838537+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:58:23.1873236+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:10:05.8153434+00:00"
 }

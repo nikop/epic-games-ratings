@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15341,10 +15341,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 352868,
       "NumberOfAwardsMax": 44465
+    },
+    {
+      "Time": "2023-12-27T08:58:12.7018556+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 352922,
+      "NumberOfAwardsMax": 44465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 352868,
+  "NumberOfAwards": 352922,
   "NumberOfAwardsMax": 44465,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -15382,7 +15388,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 36034
+      "Count": 36088
     },
     {
       "Text": "This game is Relaxing",
@@ -15426,8 +15432,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-12-27T07:58:07.7709433+00:00",
+  "LastChanged": "2023-12-27T08:58:12.7018554+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.5414818+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:58:07.7709439+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:03:51.6546656+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:58:12.701856+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:03:44.1685144+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 156,
@@ -75,7 +75,7 @@
   "Tags": [],
   "EOS_Progressed": 1865,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
@@ -5542,9 +5542,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 727
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5631,8 +5631,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-26T03:57:38.7311575+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:04:36.2961003+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:04:25.0579437+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:58:05.5653957+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:04:36.2961651+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:58:10.6806525+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:04:25.0579788+00:00"
 }

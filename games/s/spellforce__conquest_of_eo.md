@@ -13,7 +13,7 @@
 | Mine! | 58.00% | ~50 |
 | Harvest Time | 56.00% | ~48 |
 | Artificer's Apprentice | 49.00% | ~42 |
-| Fly the friendly Sky | 47.00% | ~40 |
+| Fly the friendly Sky | 48.00% | ~41 |
 | Get out of here! | 43.00% | ~37 |
 | Alchemist's Apprentice | 40.00% | ~34 |
 | Necromancer's Apprentice | 40.00% | ~34 |
@@ -52,6 +52,7 @@
 | Balanced | 6.00% | ~5 |
 | Friend of Uram Gor | 6.00% | ~5 |
 | Get to the Airship! | 5.00% | ~4 |
+| Defeat Ianna | 5.00% | ~4 |
 | Defeat Isgrimm | 5.00% | ~4 |
 | Defeat Undergast | 5.00% | ~4 |
 | Lytra's Tale | 5.00% | ~4 |
@@ -62,7 +63,6 @@
 | Heroes | 5.00% | ~4 |
 | Master Necromancer | 5.00% | ~4 |
 | Friend of Grey Dusk Vale | 5.00% | ~4 |
-| Defeat Ianna | 3.00% | ~3 |
 | Defeat Rohen | 3.00% | ~3 |
 | Defeat Yria | 3.00% | ~3 |
 | Master Alchemist | 3.00% | ~3 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -245,7 +245,7 @@
   ],
   "EOS_Progressed": 1833,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4505,9 +4505,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 733
     },
     {
       "ID": "AC20",
@@ -4577,9 +4577,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 733
     },
     {
       "ID": "AC29",
@@ -4730,8 +4730,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-27T04:59:56.3971668+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:04:48.3250154+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:04:36.1275319+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:00:19.0796175+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:04:48.3250824+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:00:11.1632523+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:04:36.1275789+00:00"
 }

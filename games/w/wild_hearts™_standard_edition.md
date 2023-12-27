@@ -9,9 +9,9 @@
 | Commencing of Quests | 61.00% | ~567 |
 | Budding Conjuror | 59.00% | ~548 |
 | Man-Machine Master | 47.00% | ~437 |
+| Charmed by the Hunt | 47.00% | ~437 |
 | Mountain Splitter | 46.00% | ~427 |
 | Subsistence Skills | 46.00% | ~427 |
-| Charmed by the Hunt | 46.00% | ~427 |
 | Fusion Conjuror | 44.00% | ~409 |
 | Memory Rouser | 44.00% | ~409 |
 | Kemono Hunter | 39.00% | ~362 |
@@ -37,8 +37,8 @@
 | Style Seeker | 15.00% | ~139 |
 | Human Believer | 15.00% | ~139 |
 | Unrivaled in Arms | 15.00% | ~139 |
+| Quintessence of Form | 15.00% | ~139 |
 | Threaded Harmony | 15.00% | ~139 |
-| Quintessence of Form | 14.00% | ~130 |
 | Karakuri Minato | 14.00% | ~130 |
 | Canyon of Karakuri | 13.00% | ~121 |
 | Jack of All Trades | 12.00% | ~111 |

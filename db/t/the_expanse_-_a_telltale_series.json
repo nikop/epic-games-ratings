@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 496,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 136,
@@ -307,7 +307,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17542,
+  "EOS_Progressed": 17544,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 8,
@@ -15307,6 +15307,11 @@
       "Time": "2023-12-27T08:04:38.8876665+00:00",
       "NumProgressed": 17542,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T09:04:27.5131463+00:00",
+      "NumProgressed": 17544,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15351,7 +15356,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "14",
@@ -15413,9 +15418,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 877
+      "UsersEstimate": 1053
     },
     {
       "ID": "21",
@@ -15445,9 +15450,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 702
+      "UsersEstimate": 526
     },
     {
       "ID": "25",
@@ -15598,13 +15603,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17542,
+      "Progressed": 17544,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3496,
+      "Progressed": 3498,
       "Completed": 1068
     }
   ],
@@ -15612,8 +15617,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:04:38.8876661+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:04:27.5131459+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:59:51.4146427+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:04:38.8877369+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:59:47.9824226+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:04:27.5132318+00:00"
 }

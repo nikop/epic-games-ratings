@@ -3,12 +3,12 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 983,
-  "Ranking_Popularity": 573,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1327,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2607,6 +2607,11 @@
       "Time": "2023-12-27T07:10:50.1863504+00:00",
       "NumProgressed": 1327,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T09:09:57.1634971+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2618,7 +2623,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_02",
@@ -2626,7 +2631,7 @@
       "Name": "Find Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_03",
@@ -2634,7 +2639,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_04",
@@ -2690,7 +2695,7 @@
       "Name": "Trinity",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_11",
@@ -2730,7 +2735,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_16",
@@ -2754,7 +2759,7 @@
       "Name": "Shatter Them All",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_19",
@@ -2794,7 +2799,7 @@
       "Name": "Geared Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_24",
@@ -2834,7 +2839,7 @@
       "Name": "I Found It",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_29",
@@ -2874,7 +2879,7 @@
       "Name": "The Collector",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_35",
@@ -2905,7 +2910,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1327,
+      "Progressed": 1329,
       "Completed": 3
     }
   ],
@@ -2913,8 +2918,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:10:13.1116189+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:09:57.163497+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:02:40.4389323+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:10:13.1116562+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:00:38.1369684+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:09:57.1635235+00:00"
 }

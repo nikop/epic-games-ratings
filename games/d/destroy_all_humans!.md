@@ -10,21 +10,21 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 67.00% | ~119 |
 | Lie Back and Think of Albion | 60.00% | ~106 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~103 |
-| Yettisoned | 55.00% | ~97 |
+| Yettisoned | 56.00% | ~99 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~96 |
-| Perfect Probulator | 51.00% | ~90 |
+| Perfect Probulator | 52.00% | ~92 |
 | Lobster Blisque | 49.00% | ~87 |
 | Pimp My Raid | 47.00% | ~83 |
 | Earthly Pleasures | 46.00% | ~81 |
+| Fly Me to the Moon Base | 43.00% | ~76 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~76 |
-| Fly Me to the Moon Base | 42.00% | ~74 |
 | Freshly Squeezed | 33.00% | ~58 |
 | Bodied Sattva | 33.00% | ~58 |
-| Upgreatest | 31.00% | ~55 |
+| Upgreatest | 32.00% | ~57 |
 | Forbidden Donut | 29.00% | ~51 |
 | Furon Fashion | 25.00% | ~44 |
+| Deincarnated | 24.00% | ~42 |
 | Trans-Siberian Express | 24.00% | ~42 |
-| Deincarnated | 23.00% | ~41 |
 | Rock of the Bay | 23.00% | ~41 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~35 |
 | Arkvoodle Doodle | 16.00% | ~28 |

@@ -25,11 +25,11 @@
 | Banking city | 0.60% | ~3 |
 | City crisis | 0.60% | ~3 |
 | I am very happy! | 0.60% | ~3 |
+| Oh, I love parks, listening to birds! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |
 | Read! Everyone should read! | 0.40% | ~2 |
 | Oh, life is too awesome! Thank you! | 0.40% | ~2 |
 | ¡Muy feliz! | 0.40% | ~2 |
-| Oh, I love parks, listening to birds! | 0.40% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
 | Anarchist paradise | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |

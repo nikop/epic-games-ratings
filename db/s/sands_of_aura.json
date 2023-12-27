@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -889,9 +889,9 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -1098,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-27T08:05:06.2997754+00:00",
+  "LastChanged_Achievements": "2023-12-27T09:04:52.2166443+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T08:02:57.2811013+00:00",
-  "LastUpdate_Achievements": "2023-12-27T08:05:06.299826+00:00"
+  "LastUpdate_Ratings": "2023-12-27T09:02:52.5494937+00:00",
+  "LastUpdate_Achievements": "2023-12-27T09:04:52.2166837+00:00"
 }
