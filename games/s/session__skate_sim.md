@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,114 |
+| You're free now! | 62.00% | ~2,115 |
 | Keeping it classy | 27.00% | ~921 |
 | Welcome to the family | 22.00% | ~750 |
 | The finer things in life | 19.00% | ~648 |
-| Backpacker | 14.00% | ~477 |
+| Backpacker | 14.00% | ~478 |
 | Go with the Flow | 13.00% | ~443 |
 | Plastic Surgeon | 10.00% | ~341 |
 | The flip trick crown jewel | 10.00% | ~341 |
@@ -30,16 +30,16 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~205 |
 | Squad goals | 6.00% | ~205 |
 | Sup widdit big dog! | 6.00% | ~205 |
-| Commence the Hijinx! | 5.00% | ~170 |
-| Cops called! | 5.00% | ~170 |
-| DIY Boss | 5.00% | ~170 |
-| Globetrotter | 5.00% | ~170 |
-| Lines for days | 5.00% | ~170 |
-| Manny Destroys All | 5.00% | ~170 |
-| Renaissance man | 5.00% | ~170 |
-| Tank commander | 5.00% | ~170 |
-| Trick shot marksman | 5.00% | ~170 |
-| We get it, you're good | 5.00% | ~170 |
+| Commence the Hijinx! | 5.00% | ~171 |
+| Cops called! | 5.00% | ~171 |
+| DIY Boss | 5.00% | ~171 |
+| Globetrotter | 5.00% | ~171 |
+| Lines for days | 5.00% | ~171 |
+| Manny Destroys All | 5.00% | ~171 |
+| Renaissance man | 5.00% | ~171 |
+| Tank commander | 5.00% | ~171 |
+| Trick shot marksman | 5.00% | ~171 |
+| We get it, you're good | 5.00% | ~171 |
 | G.O.A.T. status | 4.00% | ~136 |
 | Hoarder | 4.00% | ~136 |
 | Prince of Philly | 4.00% | ~136 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,410 (Ranked 217)  
+Progressed: 3,411 (Ranked 217)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-24 | 3,361 | 2 |
 | 2023-12-25 | 3,377 | 2 |
 | 2023-12-26 | 3,401 | 2 |
-| 2023-12-27 | 3,410 | 2 |
+| 2023-12-27 | 3,411 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
 Sum: 576 (Ranked 323)  

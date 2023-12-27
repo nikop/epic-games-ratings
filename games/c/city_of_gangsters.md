@@ -5,30 +5,30 @@ Rating: 4.28 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,020 |
-| Copacetic Coordination | 16.00% | ~57,398 |
-| Fronting the Money | 15.00% | ~53,811 |
+| Corner Clout | 46.00% | ~165,022 |
+| Copacetic Coordination | 16.00% | ~57,399 |
+| Fronting the Money | 15.00% | ~53,812 |
 | The Dawn of Automation | 14.00% | ~50,224 |
 | Extraordinary Logistics | 14.00% | ~50,224 |
-| Dirty Money | 13.00% | ~46,636 |
-| Family First | 13.00% | ~46,636 |
+| Dirty Money | 13.00% | ~46,637 |
+| Family First | 13.00% | ~46,637 |
 | Cleaning House | 12.00% | ~43,049 |
 | Room in the Back | 12.00% | ~43,049 |
-| Beating the Heat | 11.00% | ~39,461 |
-| Booze Baron | 11.00% | ~39,461 |
+| Beating the Heat | 11.00% | ~39,462 |
+| Booze Baron | 11.00% | ~39,462 |
 | Friends on the Force | 10.00% | ~35,874 |
 | Neighborhood Watch | 10.00% | ~35,874 |
-| Core Corps | 8.00% | ~28,699 |
-| Sizeable Stash | 8.00% | ~28,699 |
+| Core Corps | 8.00% | ~28,700 |
+| Sizeable Stash | 8.00% | ~28,700 |
 | Street Fighter | 7.00% | ~25,112 |
 | Friendly Gestures | 7.00% | ~25,112 |
 | People Person | 7.00% | ~25,112 |
-| Liquor Lord | 6.00% | ~21,524 |
-| Safety in Numbers | 6.00% | ~21,524 |
-| Moving Experiences | 6.00% | ~21,524 |
-| Wise Head | 6.00% | ~21,524 |
-| Show ‘em the Sugar | 6.00% | ~21,524 |
-| Killing Them Softly | 6.00% | ~21,524 |
+| Liquor Lord | 6.00% | ~21,525 |
+| Safety in Numbers | 6.00% | ~21,525 |
+| Moving Experiences | 6.00% | ~21,525 |
+| Wise Head | 6.00% | ~21,525 |
+| Show ‘em the Sugar | 6.00% | ~21,525 |
+| Killing Them Softly | 6.00% | ~21,525 |
 | Street Knowledge | 5.00% | ~17,937 |
 | Oh Captain | 5.00% | ~17,937 |
 | Branching Out | 5.00% | ~17,937 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 873)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,740 (Ranked 51)  
+Progressed: 358,744 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,11 +337,11 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-24 | 358,322 | 7 |
 | 2023-12-25 | 358,511 | 7 |
 | 2023-12-26 | 358,697 | 7 |
-| 2023-12-27 | 358,740 | 7 |
+| 2023-12-27 | 358,744 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
-Sum: 262 (Ranked 392)  
-Diff (max vs sum): 36  
+Sum: 263 (Ranked 389)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |
@@ -351,7 +351,7 @@ Diff (max vs sum): 36
 | This game has Diverse Characters | 31 |
 | This game has Quickly Understood Controls | 27 |
 | This game has Easy Combat | 25 |
-| This game has Amazing Storytelling | 21 |
+| This game has Amazing Storytelling | 22 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -481,4 +481,4 @@ Diff (max vs sum): 36
 | 2023-12-24 | 4.29 | 57 | 260 |
 | 2023-12-25 | 4.29 | 57 | 261 |
 | 2023-12-26 | 4.28 | 57 | 261 |
-| 2023-12-27 | 4.28 | 57 | 262 |
+| 2023-12-27 | 4.28 | 57 | 263 |

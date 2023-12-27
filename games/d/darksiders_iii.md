@@ -13,7 +13,7 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 59.00% | ~130 |
 | Increased Capacity | 56.00% | ~123 |
 | Just the start | 53.00% | ~117 |
-| Perfect Storm | 49.00% | ~108 |
+| Perfect Storm | 50.00% | ~110 |
 | All That Glitters | 48.00% | ~106 |
 | Enhance! | 45.00% | ~99 |
 | One Of the Chosen | 44.00% | ~97 |
@@ -21,20 +21,20 @@ Number of Ratings: 116  (23.09.2022)
 | Throne Potato | 40.00% | ~88 |
 | Five's a Crowd | 39.00% | ~86 |
 | 25 to Life | 39.00% | ~86 |
-| Soul Harvester | 37.00% | ~81 |
+| Soul Harvester | 38.00% | ~84 |
 | Unshakable Fortitude | 36.00% | ~79 |
 | Salvation | 36.00% | ~79 |
 | Delusions of Grandeur | 33.00% | ~73 |
 | I Wanna Rock | 32.00% | ~70 |
 | Maximum Vigor | 30.00% | ~66 |
 | Love Tap | 30.00% | ~66 |
+| For Whom the Bell Tolls | 29.00% | ~64 |
 | Freeze Frame | 28.00% | ~62 |
 | Eat Your Heart Out | 28.00% | ~62 |
-| For Whom the Bell Tolls | 28.00% | ~62 |
-| Unyielding Strength | 23.00% | ~51 |
+| Unyielding Strength | 24.00% | ~53 |
+| Crowd Source | 23.00% | ~51 |
 | Cleanup Crew | 22.00% | ~48 |
 | Can you restore the Balance? | 22.00% | ~48 |
-| Crowd Source | 22.00% | ~48 |
 | Big Spender | 22.00% | ~48 |
 | Maximum Capacity | 21.00% | ~46 |
 | Demon Meddler | 20.00% | ~44 |

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8952,
+  "EOS_Progressed": 8955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15119,6 +15119,11 @@
       "Time": "2023-12-27T05:06:08.785256+00:00",
       "NumProgressed": 8952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T06:07:52.5590404+00:00",
+      "NumProgressed": 8955,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15130,7 +15135,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "10",
@@ -15186,7 +15191,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "3",
@@ -15194,7 +15199,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "4",
@@ -15249,7 +15254,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 8952,
+      "Progressed": 8955,
       "Completed": 0
     }
   ],
@@ -15257,8 +15262,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:06:08.7852556+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:07:52.5590401+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:58:41.4760879+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:06:08.7853359+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:59:34.863936+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:07:52.5591555+00:00"
 }

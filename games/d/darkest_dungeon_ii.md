@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~548 |
+| Malpractice Assurance | 11.00% | ~549 |
 | Lost and Found | 7.00% | ~349 |
 | This Belongs in a Museum | 5.00% | ~6,506 |
 | Autodidact | 5.00% | ~6,506 |
 | This guy... again? | 5.00% | ~249 |
 | Bloody Graduation | 5.00% | ~249 |
-| Serenity Now! | 4.00% | ~5,204 |
-| Not Today! | 4.00% | ~5,204 |
-| Creep and Sleep | 4.00% | ~5,204 |
-| Meat and Greet | 4.00% | ~5,204 |
-| Catch and Decease | 4.00% | ~5,204 |
-| Overdue Notice | 4.00% | ~5,204 |
-| Escape from the Black Hole | 4.00% | ~5,204 |
-| Ploughshares to Swords | 4.00% | ~199 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,903 |
-| It Rings a Bell | 3.00% | ~3,903 |
-| It Happens | 3.00% | ~3,903 |
-| Rush Hour | 3.00% | ~3,903 |
-| Merry Time | 3.00% | ~3,903 |
-| Harvest Festival | 3.00% | ~3,903 |
-| To Grandmother's House | 3.00% | ~3,903 |
-| Whale | 3.00% | ~3,903 |
-| A Place to Lay Your Head | 3.00% | ~3,903 |
-| FNG | 3.00% | ~3,903 |
-| Nope | 3.00% | ~3,903 |
-| Friends 'Til the End | 3.00% | ~149 |
+| Serenity Now! | 4.00% | ~5,205 |
+| Not Today! | 4.00% | ~5,205 |
+| Creep and Sleep | 4.00% | ~5,205 |
+| Meat and Greet | 4.00% | ~5,205 |
+| Catch and Decease | 4.00% | ~5,205 |
+| Overdue Notice | 4.00% | ~5,205 |
+| Escape from the Black Hole | 4.00% | ~5,205 |
+| Ploughshares to Swords | 4.00% | ~200 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,904 |
+| It Rings a Bell | 3.00% | ~3,904 |
+| It Happens | 3.00% | ~3,904 |
+| Rush Hour | 3.00% | ~3,904 |
+| Merry Time | 3.00% | ~3,904 |
+| Harvest Festival | 3.00% | ~3,904 |
+| To Grandmother's House | 3.00% | ~3,904 |
+| Whale | 3.00% | ~3,904 |
+| A Place to Lay Your Head | 3.00% | ~3,904 |
+| FNG | 3.00% | ~3,904 |
+| Nope | 3.00% | ~3,904 |
+| Friends 'Til the End | 3.00% | ~150 |
 | Resurrection | 2.00% | ~2,602 |
 | Unleash Hell | 2.00% | ~2,602 |
 | Funny Guy | 2.00% | ~2,602 |
@@ -50,13 +50,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 2.00% | ~2,602 |
 | A Clear Conscience | 2.00% | ~2,602 |
 | When You Want Something Done Right | 2.00% | ~2,602 |
+| Worldly Traveller | 2.00% | ~2,602 |
 | Utopia | 2.00% | ~2,602 |
 | Unshackled | 2.00% | ~2,602 |
 | Road Trip | 2.00% | ~2,602 |
 | This Looks Familiar | 1.00% | ~1,301 |
 | Ichthyophobic | 1.00% | ~1,301 |
 | No More Mouths to Feed | 1.00% | ~1,301 |
-| Worldly Traveller | 1.00% | ~1,301 |
 | Hot Air | 1.00% | ~1,301 |
 | Eyes Up | 1.00% | ~1,301 |
 | Handled | 1.00% | ~1,301 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,110 (Ranked 87)  
+Progressed: 130,119 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,110 | 3 |
+| 2023-12-27 | 130,119 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,139 (Ranked 58)  

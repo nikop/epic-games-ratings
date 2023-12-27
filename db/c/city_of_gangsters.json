@@ -4,7 +4,7 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 873,
   "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 392,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 99,
@@ -914,10 +914,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-12-27T06:01:31.8663149+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 263,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 262,
+  "NumberOfAwards": 263,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -967,7 +973,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Unique Visuals",
@@ -976,9 +982,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 358740,
+  "EOS_Progressed": 358744,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29571,6 +29577,11 @@
       "Time": "2023-12-27T05:04:25.538751+00:00",
       "NumProgressed": 358740,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T06:05:29.4274706+00:00",
+      "NumProgressed": 358744,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29670,7 +29681,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28699
+      "UsersEstimate": 28700
     },
     {
       "ID": "ach013",
@@ -29686,7 +29697,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53811
+      "UsersEstimate": 53812
     },
     {
       "ID": "ach015",
@@ -29710,7 +29721,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46636
+      "UsersEstimate": 46637
     },
     {
       "ID": "ach018",
@@ -29718,7 +29729,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28699
+      "UsersEstimate": 28700
     },
     {
       "ID": "ach019",
@@ -29790,7 +29801,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165020
+      "UsersEstimate": 165022
     },
     {
       "ID": "ach028",
@@ -29806,7 +29817,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39461
+      "UsersEstimate": 39462
     },
     {
       "ID": "ach030",
@@ -29934,7 +29945,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46636
+      "UsersEstimate": 46637
     },
     {
       "ID": "ach046",
@@ -29982,7 +29993,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39461
+      "UsersEstimate": 39462
     },
     {
       "ID": "ach052",
@@ -29990,7 +30001,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ach053",
@@ -30054,7 +30065,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ach061",
@@ -30078,7 +30089,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ach065",
@@ -30110,7 +30121,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57398
+      "UsersEstimate": 57399
     },
     {
       "ID": "ach069",
@@ -30142,7 +30153,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ach073",
@@ -30150,7 +30161,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ach074",
@@ -30166,7 +30177,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21524
+      "UsersEstimate": 21525
     },
     {
       "ID": "ach076",
@@ -30221,16 +30232,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358740,
+      "Progressed": 358744,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-12-27T01:45:30.8251994+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:04:25.5387507+00:00",
+  "LastChanged": "2023-12-27T06:01:31.8663147+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:05:29.42747+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:59.7754741+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:04:25.5389479+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:01:31.8663153+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:05:29.4276959+00:00"
 }

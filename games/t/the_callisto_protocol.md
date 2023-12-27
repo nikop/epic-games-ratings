@@ -10,9 +10,9 @@ Rating: 4.20 (Ranked 940)
 | Desperate Times | 17.00% | ~3,317 |
 | Get a Grip | 16.00% | ~3,122 |
 | Paper Jams | 16.00% | ~3,122 |
-| Chew 'Em Up | 14.00% | ~2,731 |
-| Float Like A Butterfly | 13.00% | ~2,536 |
-| Reforged | 13.00% | ~2,536 |
+| Chew 'Em Up | 14.00% | ~2,732 |
+| Float Like A Butterfly | 13.00% | ~2,537 |
+| Reforged | 13.00% | ~2,537 |
 | Workplace Hazard | 11.00% | ~2,146 |
 | If the SHU Fits... | 11.00% | ~2,146 |
 | Without A Paddle | 10.00% | ~1,951 |
@@ -28,7 +28,7 @@ Rating: 4.20 (Ranked 940)
 | I Do Belong Here | 6.00% | ~1,171 |
 | Keep Fighting | 6.00% | ~446 |
 | It's Time | 5.00% | ~372 |
-| The Commonality | 4.00% | ~780 |
+| The Commonality | 4.00% | ~781 |
 | In Striking Distance | 3.00% | ~585 |
 | One Last Job | 2.00% | ~149 |
 | Armed to the Teeth | 1.00% | ~74 |
@@ -37,8 +37,8 @@ Rating: 4.20 (Ranked 940)
 | This Isn't About Escape | 1.00% | ~74 |
 | Instigator | 0.90% | ~67 |
 | Grim Reaper | 0.80% | ~156 |
-| Parole Denied | 0.80% | ~59 |
-| Information Overload | 0.80% | ~59 |
+| Parole Denied | 0.80% | ~60 |
+| Information Overload | 0.80% | ~60 |
 | Quick Pick | 0.70% | ~52 |
 | Subject Alpha | 0.50% | ~37 |
 | The Protocol is About Life | 0.30% | ~59 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 940)
 | Big Game Hunter | 0.10% | ~7 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,510 (Ranked 149)  
+Progressed: 19,513 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 82 (0.42%) (Ranked 230)
 | 2023-12-24 | 19,107 | 82 |
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
-| 2023-12-27 | 19,510 | 82 |
+| 2023-12-27 | 19,513 | 82 |
 ## Awards
 Max (Amazing Characters): 102  (Ranked 369)  
 Sum: 515 (Ranked 327)  

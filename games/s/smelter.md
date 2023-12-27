@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 91.00% | ~40 |
-| Welcome to the Rumbly Lands! | 89.00% | ~39 |
-| Time to Bash Some Heads! | 82.00% | ~36 |
-| Shiny! | 73.00% | ~32 |
-| Deep in the Mounds | 68.00% | ~30 |
-| Smeltastic! | 41.00% | ~18 |
+| What took you so long? | 89.00% | ~40 |
+| Welcome to the Rumbly Lands! | 87.00% | ~39 |
+| Time to Bash Some Heads! | 80.00% | ~36 |
+| Shiny! | 71.00% | ~32 |
+| Deep in the Mounds | 67.00% | ~30 |
+| Smeltastic! | 40.00% | ~18 |
 | Locked Away | 36.00% | ~16 |
-| A Little Renovating | 34.00% | ~15 |
-| It's a Sign! | 32.00% | ~14 |
+| A Little Renovating | 33.00% | ~15 |
+| It's a Sign! | 31.00% | ~14 |
 | Deflect This! | 27.00% | ~12 |
-| Just Some Improvements | 23.00% | ~10 |
+| Just Some Improvements | 22.00% | ~10 |
 | My Precious Gems! | 20.00% | ~9 |
 | A Little Extra Love | 20.00% | ~9 |
 | An Unexpected Visitor | 20.00% | ~9 |
@@ -23,10 +23,10 @@
 | A Terrible Way to Go | 20.00% | ~9 |
 | Isn't It Beautiful? | 18.00% | ~8 |
 | A Generous Leader | 18.00% | ~8 |
-| Dr. Dreinstein III | 14.00% | ~6 |
-| Orcharion Boost | 14.00% | ~6 |
-| Case Closed | 14.00% | ~6 |
-| How Do You Like Them Apples? | 14.00% | ~6 |
+| Dr. Dreinstein III | 13.00% | ~6 |
+| Orcharion Boost | 13.00% | ~6 |
+| Case Closed | 13.00% | ~6 |
+| How Do You Like Them Apples? | 13.00% | ~6 |
 | Fishing for Fissures | 11.00% | ~5 |
 | You did it? You did it! | 11.00% | ~5 |
 | All Beefed Up | 11.00% | ~5 |
@@ -56,8 +56,8 @@
 | In Her Prime | 9.00% | ~4 |
 | The More the Merrier | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 552)  
-Completed: 4 (9.09%) (Ranked 45)  
+Progressed: 45 (Ranked 548)  
+Completed: 4 (8.89%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 4 (9.09%) (Ranked 45)
 | 2023-11-28 | 42 | 4 |
 | 2023-12-17 | 43 | 4 |
 | 2023-12-24 | 44 | 4 |
+| 2023-12-27 | 45 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

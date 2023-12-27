@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 204,
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4274,
+  "EOS_Progressed": 4275,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7081,6 +7081,11 @@
       "Time": "2023-12-27T05:03:19.8315143+00:00",
       "NumProgressed": 4274,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T06:03:58.1196226+00:00",
+      "NumProgressed": 4275,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7132,7 +7137,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "CrowdPleaser",
@@ -7140,7 +7145,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Encyclopedic_30",
@@ -7148,7 +7153,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "Eureka_23",
@@ -7260,7 +7265,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PowerToThePeople",
@@ -7268,7 +7273,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ReadyforSummer_41",
@@ -7276,7 +7281,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7412,7 +7417,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7420,22 +7425,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4274,
+      "Progressed": 4275,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:03:19.831514+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:03:58.1196222+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:02:52.0967398+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:03:19.8315758+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:03:13.0878412+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:03:58.1196896+00:00"
 }

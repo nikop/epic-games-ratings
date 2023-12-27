@@ -13,14 +13,14 @@
 | Tutti Frutti | 57.00% | ~110 |
 | Gotta Go Fast | 45.00% | ~87 |
 | Slotting Machine | 44.00% | ~85 |
-| Systematic | 42.00% | ~81 |
-| Mine Sweeper | 38.00% | ~73 |
+| Systematic | 43.00% | ~83 |
+| Mine Sweeper | 39.00% | ~75 |
 | Roll Out | 36.00% | ~69 |
 | Dopa-Miner | 30.00% | ~58 |
 | Up, Up And Away! | 29.00% | ~56 |
 | Whoa! | 29.00% | ~56 |
 | Botropolis | 25.00% | ~48 |
-| Manic Mechanic | 18.00% | ~35 |
+| Manic Mechanic | 19.00% | ~37 |
 | Steam Powered | 18.00% | ~35 |
 | Steaming Rich | 17.00% | ~33 |
 | Room To Spare | 15.00% | ~29 |

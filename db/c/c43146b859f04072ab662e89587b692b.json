@@ -131,9 +131,9 @@
       "ID": "PURGATORY_ACH",
       "SetID": "cnj66m",
       "Name": "Purgatory",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOURCE_OF_TORMENT_ACH",
@@ -163,9 +163,9 @@
       "ID": "THE_CONDUCTOR_ACH",
       "SetID": "cnj66m",
       "Name": "The Conductor",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TOWER_OF_PAIN_ACH",
@@ -194,8 +194,8 @@
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:03:35.726458+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:04:20.1867466+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:07.83152+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:36.3682031+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:03:35.7264643+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:00:57.0488098+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:04:20.186754+00:00"
 }

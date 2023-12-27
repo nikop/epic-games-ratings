@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2881,
+  "EOS_Progressed": 2883,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
@@ -2969,6 +2969,11 @@
       "Time": "2023-12-27T05:05:17.6007715+00:00",
       "NumProgressed": 2881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T06:06:40.9267815+00:00",
+      "NumProgressed": 2883,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3165,7 +3170,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3181,7 +3186,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3356,14 +3361,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2881,
+      "Progressed": 2883,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:05:17.6007714+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:06:40.9267811+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:56:59.9125793+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:05:17.6008054+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:57:04.2452171+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:06:40.9268238+00:00"
 }

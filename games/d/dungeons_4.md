@@ -45,17 +45,17 @@
 | Brimstone Shaken, Not Stirred | 27.00% | ~174 |
 | Stop Tanos! | 26.00% | ~168 |
 | Sabotage! | 26.00% | ~168 |
+| The Rune Sockets of Finitude (Part 1) | 26.00% | ~168 |
 | Bonus Evilness | 25.00% | ~162 |
 | Raiders of the Lost Stone | 25.00% | ~162 |
-| The Rune Sockets of Finitude (Part 1) | 25.00% | ~162 |
 | The Rune Sockets of Finitude (Part 2) | 23.00% | ~149 |
 | The Last Stand - This Time For Real! | 21.00% | ~136 |
 | Rubble and Ashes | 20.00% | ~129 |
 | Lavalumps on Ice! | 19.00% | ~123 |
+| My Little Torture Chamber | 18.00% | ~116 |
 | To the Max! | 18.00% | ~116 |
 | To Infinity And Beyond! | 18.00% | ~116 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~110 |
-| My Little Torture Chamber | 17.00% | ~110 |
 | Evilification | 16.00% | ~103 |
 | Mirror, Mirror | 15.00% | ~97 |
 | Untouchable | 15.00% | ~97 |

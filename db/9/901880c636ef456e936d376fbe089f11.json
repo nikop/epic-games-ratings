@@ -814,9 +814,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -830,9 +830,9 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_GHOSTED",
@@ -878,9 +878,9 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_JUST_MARRIED",
@@ -902,9 +902,9 @@
       "ID": "ACH_LOCAL_FAVORITE",
       "SetID": "8h8m55b",
       "Name": "Local Favorite",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_MASTER_PURLOINER",
@@ -950,9 +950,9 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SAVED100",
@@ -982,9 +982,9 @@
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
       "SetID": "8h8m55b",
       "Name": "The Hibiscus \u0026 The Butterfly",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_TIME_SPENT_LATTEART",
@@ -1109,8 +1109,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:04:34.040894+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:05:40.7063728+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:20.8030349+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:04:34.0409221+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:00:33.2211718+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:05:40.7064081+00:00"
 }

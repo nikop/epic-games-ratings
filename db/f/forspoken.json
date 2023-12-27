@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45348,
+  "EOS_Progressed": 45351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16595,6 +16595,11 @@
       "Time": "2023-12-27T05:05:41.8106312+00:00",
       "NumProgressed": 45348,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T06:07:14.8608463+00:00",
+      "NumProgressed": 45351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16622,7 +16627,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -16654,7 +16659,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16662,7 +16667,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16670,7 +16675,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -16702,7 +16707,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -16710,7 +16715,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -16718,7 +16723,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -16726,7 +16731,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -16734,7 +16739,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -16766,7 +16771,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -16782,7 +16787,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "JUSTCOUNTER",
@@ -16798,7 +16803,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16822,7 +16827,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -16846,7 +16851,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16862,7 +16867,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "MAGIC_IVY",
@@ -16894,7 +16899,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16902,7 +16907,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -16910,7 +16915,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "PARKOUR_TIME",
@@ -16918,7 +16923,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17029,22 +17034,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45348,
+      "Progressed": 45351,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10185,
-      "Completed": 10185
+      "Progressed": 10188,
+      "Completed": 10188
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-26T06:59:48.6579528+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:05:41.8106309+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:07:14.8608458+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:46.169404+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:05:41.8107108+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:01:12.0093182+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:07:14.8610121+00:00"
 }

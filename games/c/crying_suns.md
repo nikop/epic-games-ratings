@@ -6,13 +6,13 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,101 |
+| The Shutdown | 66.00% | ~312,102 |
 | Jeef Skeejj | 44.00% | ~208,068 |
 | Careful planning | 39.00% | ~184,424 |
 | Second Coming | 34.00% | ~160,780 |
-| Jeef Skagg | 30.00% | ~141,864 |
+| Jeef Skagg | 30.00% | ~141,865 |
 | Mother | 25.00% | ~118,220 |
-| In space, no one can hear you scream | 24.00% | ~113,491 |
+| In space, no one can hear you scream | 24.00% | ~113,492 |
 | Chapter I: Echoes | 22.00% | ~104,034 |
 | Excelsior Rule | 22.00% | ~104,034 |
 | Things persisted in not being what they seemed | 20.00% | ~94,576 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Plan for the worst | 12.00% | ~56,746 |
 | Tetsuo | 11.00% | ~52,017 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,288 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,830 |
-| Through the mirror | 8.00% | ~37,830 |
-| General Vivar | 8.00% | ~37,830 |
-| Back to Ganyma | 8.00% | ~37,830 |
-| Kaos Rule | 8.00% | ~37,830 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,831 |
+| Through the mirror | 8.00% | ~37,831 |
+| General Vivar | 8.00% | ~37,831 |
+| Back to Ganyma | 8.00% | ~37,831 |
+| Kaos Rule | 8.00% | ~37,831 |
 | Admiral Okonkwo | 7.00% | ~33,102 |
 | The Survivalists | 7.00% | ~33,102 |
 | The Tech Specialist | 7.00% | ~33,102 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,881 (Ranked 43)  
+Progressed: 472,882 (Ranked 43)  
 Completed: 20 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 20 (0.00%) (Ranked 389)
 | 2023-12-24 | 472,772 | 20 |
 | 2023-12-25 | 472,817 | 20 |
 | 2023-12-26 | 472,871 | 20 |
-| 2023-12-27 | 472,881 | 20 |
+| 2023-12-27 | 472,882 | 20 |
 ## Awards
 Max (Character Customization): 226  (Ranked 284)  
 Sum: 250 (Ranked 394)  

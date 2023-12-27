@@ -4,7 +4,7 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 605,
   "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 560,
@@ -2489,18 +2489,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 3417,
       "NumberOfAwardsMax": 1253
+    },
+    {
+      "Time": "2023-12-27T05:57:00.0781857+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3442,
+      "NumberOfAwardsMax": 1275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3417,
-  "NumberOfAwardsMax": 1253,
+  "NumberOfAwards": 3442,
+  "NumberOfAwardsMax": 1275,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1253
+      "Count": 1275
     },
     {
       "Text": "This game is Relaxing",
@@ -2560,7 +2566,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 196
+      "Count": 199
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2581,8 +2587,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-12-26T23:01:38.6637007+00:00",
+  "LastChanged": "2023-12-27T05:57:00.0781855+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.6335921+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:01:50.6612559+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:05:27.7385435+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:57:00.078186+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:06:54.9525604+00:00"
 }

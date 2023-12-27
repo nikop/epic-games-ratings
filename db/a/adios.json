@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81786,
+  "EOS_Progressed": 81787,
   "EOS_Completed": 900,
   "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 12,
@@ -28080,6 +28080,11 @@
       "Time": "2023-12-27T05:05:00.9165194+00:00",
       "NumProgressed": 81786,
       "NumCompleted": 900
+    },
+    {
+      "Time": "2023-12-27T06:06:18.1758788+00:00",
+      "NumProgressed": 81787,
+      "NumCompleted": 900
     }
   ],
   "TotalAchievements": 25,
@@ -28107,7 +28112,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15539
+      "UsersEstimate": 15540
     },
     {
       "ID": "Audiophile",
@@ -28131,7 +28136,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14721
+      "UsersEstimate": 14722
     },
     {
       "ID": "Butcher",
@@ -28211,7 +28216,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15539
+      "UsersEstimate": 15540
     },
     {
       "ID": "Nice Try",
@@ -28235,7 +28240,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8996
+      "UsersEstimate": 8997
     },
     {
       "ID": "Right On Target",
@@ -28290,7 +28295,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81786,
+      "Progressed": 81787,
       "Completed": 900
     }
   ],
@@ -28298,8 +28303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:05:00.9165183+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:06:18.1758785+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:53.3755549+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:05:00.9166951+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:01:22.562241+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:06:18.1760903+00:00"
 }

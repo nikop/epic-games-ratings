@@ -251,11 +251,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.37,
+  "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -3081,6 +3081,11 @@
       "Time": "2023-12-27T03:09:24.1067602+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-27T06:08:46.9300881+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3108,7 +3113,7 @@
       "Name": "Soulmate?",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3132,7 +3137,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -3188,7 +3193,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3196,7 +3201,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3228,7 +3233,7 @@
       "Name": "Let there be light",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3252,7 +3257,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_STAR_3",
@@ -3260,7 +3265,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_STAR_4",
@@ -3292,7 +3297,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3307,7 +3312,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 18
     }
   ],
@@ -3315,8 +3320,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-26T01:43:52.6080902+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:08:18.9140416+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:08:46.9300877+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:57:13.122672+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:08:18.9140702+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:57:24.4308742+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:08:46.9301307+00:00"
 }

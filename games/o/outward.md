@@ -1,22 +1,22 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 513)  
+Rating: 4.55 (Ranked 514)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,120 |
+| Venture Outward | 73.00% | ~3,121 |
 | Ready for Winter | 62.00% | ~2,650 |
-| Ready for Summer | 49.00% | ~2,094 |
-| Cordon Bleu | 42.00% | ~1,795 |
+| Ready for Summer | 49.00% | ~2,095 |
+| Cordon Bleu | 42.00% | ~1,796 |
 | Tapped! | 35.00% | ~1,496 |
 | Eureka | 30.00% | ~1,282 |
 | Scourge Slayer | 24.00% | ~1,026 |
 | Science, Troglodyte! | 22.00% | ~940 |
 | Exceptional Skill | 21.00% | ~898 |
 | Home Sweet Home | 21.00% | ~898 |
-| Encyclopedic! | 18.00% | ~769 |
+| Encyclopedic! | 18.00% | ~770 |
 | The Power of Family | 16.00% | ~684 |
 | A Fortress Toppled! | 15.00% | ~641 |
 | Apex Predator | 15.00% | ~641 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~171 |
 | Light of Levant | 3.00% | ~128 |
 | This was a mistake... | 3.00% | ~128 |
-| Crowd Pleaser. | 2.00% | ~85 |
-| Perfect Defense | 2.00% | ~85 |
-| Power! To! The People! | 2.00% | ~85 |
-| Your actions define you | 2.00% | ~85 |
+| Crowd Pleaser. | 2.00% | ~86 |
+| Perfect Defense | 2.00% | ~86 |
+| Power! To! The People! | 2.00% | ~86 |
+| Your actions define you | 2.00% | ~86 |
 | The blood is life | 1.00% | ~43 |
 | Vanquisher of nightmares | 1.00% | ~43 |
 | They'll Tell Stories About This | 0.90% | ~38 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~17 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,274 (Ranked 204)  
+Progressed: 4,275 (Ranked 204)  
 Completed: 5 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 5 (0.12%) (Ranked 301)
 | 2023-12-24 | 4,222 | 5 |
 | 2023-12-25 | 4,244 | 5 |
 | 2023-12-26 | 4,272 | 5 |
-| 2023-12-27 | 4,274 | 5 |
+| 2023-12-27 | 4,275 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 495)  
 Sum: 246 (Ranked 396)  

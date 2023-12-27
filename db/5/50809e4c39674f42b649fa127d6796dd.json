@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1667,9 +1667,9 @@
       "ID": "SUB_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Expert",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
@@ -1714,8 +1714,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:05:57.3638557+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:07:36.7879006+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2023-12-27T05:03:01.8230516+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:05:57.3638886+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:03:28.9201096+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:07:36.7879385+00:00"
 }

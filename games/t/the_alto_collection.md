@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,071 |
-| Finding Your Footing | 25.00% | ~13,029 |
-| Nomad | 17.00% | ~8,860 |
-| Picking Up Speed | 15.00% | ~7,817 |
-| Welcome Maya | 14.00% | ~7,296 |
+| Rookie | 27.00% | ~14,073 |
+| Finding Your Footing | 25.00% | ~13,030 |
+| Nomad | 17.00% | ~8,861 |
+| Picking Up Speed | 15.00% | ~7,818 |
+| Welcome Maya | 14.00% | ~7,297 |
 | Scout | 11.00% | ~5,733 |
 | Sightseer | 11.00% | ~5,733 |
 | Amateur | 10.00% | ~5,212 |
-| Unlock Maya | 8.00% | ~4,169 |
-| Wanderer | 8.00% | ~4,169 |
+| Unlock Maya | 8.00% | ~4,170 |
+| Wanderer | 8.00% | ~4,170 |
 | Enter Paz | 7.00% | ~3,648 |
 | Aviator | 6.00% | ~3,127 |
 | My Little Friend | 5.00% | ~2,606 |
 | One With The Board | 5.00% | ~2,606 |
 | Voyager | 5.00% | ~2,606 |
-| Junkie | 3.00% | ~1,563 |
-| Traveler | 3.00% | ~1,563 |
-| Unlock Paz | 3.00% | ~1,563 |
-| Human Flight | 3.00% | ~1,563 |
-| Sandboarder | 3.00% | ~1,563 |
-| Izel Has Arrived | 3.00% | ~1,563 |
+| Junkie | 3.00% | ~1,564 |
+| Traveler | 3.00% | ~1,564 |
+| Unlock Paz | 3.00% | ~1,564 |
+| Human Flight | 3.00% | ~1,564 |
+| Sandboarder | 3.00% | ~1,564 |
+| Izel Has Arrived | 3.00% | ~1,564 |
 | Explorer | 2.00% | ~1,042 |
 | Pro | 2.00% | ~1,042 |
 | Journeyer | 2.00% | ~1,042 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~52 |
 | Windswept | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,115 (Ranked 119)  
+Progressed: 52,121 (Ranked 119)  
 Completed: 5 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 5 (0.01%) (Ranked 367)
 | 2023-12-24 | 51,693 | 5 |
 | 2023-12-25 | 51,882 | 5 |
 | 2023-12-26 | 52,064 | 5 |
-| 2023-12-27 | 52,115 | 5 |
+| 2023-12-27 | 52,121 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 49  (Ranked 449)  
+Max (Great for Quick Sessions): 49  (Ranked 450)  
 Sum: 389 (Ranked 351)  
-Diff (max vs sum): 98  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 49 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1719,6 +1719,11 @@
       "Time": "2023-12-26T22:04:39.7312094+00:00",
       "NumProgressed": 533,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T06:06:15.5774185+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1793,9 +1798,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 390
     },
     {
       "ID": "REMAKE_004",
@@ -1841,15 +1846,15 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 134
     },
     {
       "ID": "Remake_010",
       "SetID": "5pi96jj",
       "Name": "Played with balls",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -1873,9 +1878,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 85
     },
     {
       "ID": "Remake_14",
@@ -1954,14 +1959,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:04:59.0444827+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:06:15.5774182+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:58:16.0114853+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:04:59.0445068+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:58:56.0164192+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:06:15.5774407+00:00"
 }

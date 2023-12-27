@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1046,
+  "EOS_Progressed": 1047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2758,6 +2758,11 @@
       "Time": "2023-12-27T05:09:11.1233431+00:00",
       "NumProgressed": 1046,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T06:09:59.3256865+00:00",
+      "NumProgressed": 1047,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2938,7 +2943,7 @@
       "Name": "The field base",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "AchvReachCamp",
@@ -2946,7 +2951,7 @@
       "Name": "The Camp",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "AchvReachCity",
@@ -2986,7 +2991,7 @@
       "Name": "The End",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "AchvUnity",
@@ -3001,7 +3006,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1046,
+      "Progressed": 1047,
       "Completed": 0
     }
   ],
@@ -3009,8 +3014,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-26T16:59:14.4896995+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:09:11.1233429+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:09:59.3256861+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:58:26.3247354+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:09:11.123372+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:59:11.0662928+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:09:59.325722+00:00"
 }

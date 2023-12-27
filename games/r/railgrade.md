@@ -1,34 +1,34 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 513)  
+Rating: 4.55 (Ranked 514)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,130 |
-| Before the Downfall | 101.00% | ~18,227 |
-| Money like Water | 99.00% | ~17,867 |
-| Minimalist | 97.00% | ~17,506 |
-| Builder | 90.00% | ~16,242 |
-| Eraser | 76.00% | ~13,716 |
+| Trevithick's Legacy | 106.00% | ~19,129 |
+| Before the Downfall | 101.00% | ~18,226 |
+| Money like Water | 99.00% | ~17,866 |
+| Minimalist | 98.00% | ~17,685 |
+| Builder | 90.00% | ~16,241 |
+| Eraser | 76.00% | ~13,715 |
 | Pocket of Trains | 71.00% | ~12,813 |
-| Inspector | 64.00% | ~11,550 |
-| Going the Distance | 59.00% | ~10,648 |
-| Oil Baron | 46.00% | ~8,302 |
-| Loads-a-Money | 46.00% | ~8,302 |
+| Inspector | 64.00% | ~11,549 |
+| Going the Distance | 59.00% | ~10,647 |
+| Oil Baron | 46.00% | ~8,301 |
+| Loads-a-Money | 46.00% | ~8,301 |
 | Helper of the People | 43.00% | ~7,760 |
 | Simplification | 37.00% | ~6,677 |
 | Box of Trains | 36.00% | ~6,497 |
 | Let There be Light | 35.00% | ~6,316 |
-| Hot Water | 33.00% | ~5,956 |
+| Hot Water | 33.00% | ~5,955 |
 | Indecisive | 32.00% | ~5,775 |
 | The scenic route | 30.00% | ~5,414 |
-| Industrialist | 27.00% | ~4,873 |
+| Industrialist | 27.00% | ~4,872 |
 | Perfectionist | 26.00% | ~4,692 |
 | 8K is Enough for Everyone | 25.00% | ~4,512 |
 | Trains over Pipes | 25.00% | ~4,512 |
 | Man of Steel | 18.00% | ~3,248 |
-| Room Full of Trains | 14.00% | ~2,527 |
+| Room Full of Trains | 14.00% | ~2,526 |
 | Investor | 11.00% | ~1,985 |
 | Multiverse | 8.00% | ~1,444 |
 | The poor groundwater levels | 8.00% | ~1,444 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 513)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,047 (Ranked 153)  
+Progressed: 18,046 (Ranked 153)  
 Completed: 27 (0.15%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |

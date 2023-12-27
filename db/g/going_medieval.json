@@ -1643,9 +1643,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7544,
+  "EOS_Progressed": 7545,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -15523,6 +15523,11 @@
       "Time": "2023-12-27T04:09:01.3956454+00:00",
       "NumProgressed": 7544,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-27T06:09:01.6698564+00:00",
+      "NumProgressed": 7545,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15534,7 +15539,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15566,7 +15571,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -15574,7 +15579,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5734
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15582,7 +15587,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15654,7 +15659,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4678
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15694,7 +15699,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -15718,7 +15723,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -15742,7 +15747,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5130
+      "UsersEstimate": 5131
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -15758,7 +15763,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -15774,22 +15779,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7544,
+      "Progressed": 7545,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:08:29.4484913+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:09:01.669856+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.6112107+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:23.1632258+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:08:29.448629+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:00:36.7578545+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:09:01.6699793+00:00"
 }

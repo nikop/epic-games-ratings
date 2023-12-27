@@ -673,7 +673,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3864,
+  "EOS_Progressed": 3865,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
@@ -10963,6 +10963,11 @@
       "Time": "2023-12-27T05:03:47.0922693+00:00",
       "NumProgressed": 3864,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T06:04:35.6730642+00:00",
+      "NumProgressed": 3865,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11166,7 +11171,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "frostfireliberator",
@@ -11214,15 +11219,15 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 541
     },
     {
       "ID": "howdoyouturnthison",
@@ -11286,7 +11291,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "mastery",
@@ -11454,7 +11459,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "thegameison",
@@ -11494,7 +11499,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -11566,14 +11571,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3864,
+      "Progressed": 3865,
       "Completed": 2
     }
   ],
@@ -11581,8 +11586,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-26T10:57:05.5454417+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:03:47.0922691+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:04:35.6730638+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:57:22.8370685+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:03:47.0923584+00:00"
+  "LastUpdate_Ratings": "2023-12-27T05:57:39.6755183+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:04:35.6731839+00:00"
 }

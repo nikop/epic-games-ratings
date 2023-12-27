@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2012,6 +2012,11 @@
       "Time": "2023-12-27T04:10:39.1362087+00:00",
       "NumProgressed": 566,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T06:10:37.6986388+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2031,7 +2036,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "completeact3",
@@ -2039,7 +2044,7 @@
       "Name": "On the Road",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "findalltapes",
@@ -2142,7 +2147,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 2
     }
   ],
@@ -2150,8 +2155,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-27T05:09:39.022542+00:00",
+  "LastChanged_Achievements": "2023-12-27T06:10:37.6986385+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-27T04:59:18.7113623+00:00",
-  "LastUpdate_Achievements": "2023-12-27T05:09:39.02256+00:00"
+  "LastUpdate_Ratings": "2023-12-27T06:00:30.0598516+00:00",
+  "LastUpdate_Achievements": "2023-12-27T06:10:37.6986614+00:00"
 }
