@@ -9280,9 +9280,9 @@
       "ID": "COLLECT_FISH",
       "SetID": "9eia0f5",
       "Name": "Angling Authority",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "COLLECT_LOGS",
@@ -9472,9 +9472,9 @@
       "ID": "UPGRADE_ONESKILLMAX",
       "SetID": "9eia0f5",
       "Name": "Skilled",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -9559,8 +9559,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:10:52.2478515+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:10:14.8291475+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:03:33.1386462+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:10:52.2479046+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:03:18.9175211+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:10:14.8292327+00:00"
 }

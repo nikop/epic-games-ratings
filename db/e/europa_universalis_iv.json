@@ -13755,7 +13755,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 485117,
+  "EOS_Progressed": 485142,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5548,
   "EOS_NewCompleters": 0,
@@ -42640,6 +42640,11 @@
       "Time": "2023-12-27T07:09:10.1762173+00:00",
       "NumProgressed": 485117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T08:08:50.5129927+00:00",
+      "NumProgressed": 485142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43651,7 +43656,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_grand_coalition",
@@ -44931,7 +44936,7 @@
       "Name": "That is mine!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -45347,7 +45352,7 @@
       "Name": "Victorious!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -45554,21 +45559,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 485117,
+      "Progressed": 485142,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 485117,
+      "Progressed": 485142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-26T22:57:26.2890868+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:09:10.176217+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:08:50.5129923+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:57:32.2860951+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:09:10.1772988+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:57:17.0913169+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:08:50.5142355+00:00"
 }

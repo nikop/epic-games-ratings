@@ -1,7 +1,7 @@
 # Tandem: A Tale of Shadows
 [Store](https://store.epicgames.com/en-US/p/tandem-a-tale-of-shadows-c3f55e)  
 [View Rawdata](../../db/t/tandem__a_tale_of_shadows.json)  
-Rating: 4.24 (Ranked 906)  
+Rating: 4.25 (Ranked 899)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -40,3 +40,4 @@ Rating: 4.24 (Ranked 906)
 | 2023-12-22 | 4.22 | 0 | 0 |
 | 2023-12-24 | 4.23 | 0 | 0 |
 | 2023-12-25 | 4.24 | 0 | 0 |
+| 2023-12-27 | 4.25 | 0 | 0 |

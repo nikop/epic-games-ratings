@@ -8,16 +8,16 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 68.00% | ~120 |
 | Kaijuiced | 67.00% | ~119 |
-| Lie Back and Think of Albion | 59.00% | ~104 |
+| Lie Back and Think of Albion | 60.00% | ~106 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~103 |
 | Yettisoned | 55.00% | ~97 |
-| I Look Up As I Walk to Takoshima | 53.00% | ~94 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~96 |
 | Perfect Probulator | 51.00% | ~90 |
 | Lobster Blisque | 49.00% | ~87 |
 | Pimp My Raid | 47.00% | ~83 |
 | Earthly Pleasures | 46.00% | ~81 |
+| Ducks in a Row, Fish in a Barrel | 43.00% | ~76 |
 | Fly Me to the Moon Base | 42.00% | ~74 |
-| Ducks in a Row, Fish in a Barrel | 42.00% | ~74 |
 | Freshly Squeezed | 33.00% | ~58 |
 | Bodied Sattva | 33.00% | ~58 |
 | Upgreatest | 31.00% | ~55 |

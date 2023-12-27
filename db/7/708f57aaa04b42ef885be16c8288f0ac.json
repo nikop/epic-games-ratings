@@ -6,9 +6,9 @@
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -323,9 +323,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 11803,
+  "EOS_Progressed": 11808,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1272,
+  "EOS_NewPlayers": 1271,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8083,6 +8083,11 @@
       "Time": "2023-12-27T07:10:46.2099033+00:00",
       "NumProgressed": 11803,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-27T08:10:09.7088445+00:00",
+      "NumProgressed": 11808,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8103,7 +8108,7 @@
       "Name": "Baby Steps",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4133
     },
     {
       "ID": "BeLikeWater",
@@ -8135,7 +8140,7 @@
       "Name": "Connection Lost",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "Eavesdropper",
@@ -8151,7 +8156,7 @@
       "Name": "Explosive Personality",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "FasterThanLight",
@@ -8167,7 +8172,7 @@
       "Name": "First Time?",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5786
     },
     {
       "ID": "FuneralForTheDeath",
@@ -8175,7 +8180,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "GarbageMan",
@@ -8239,7 +8244,7 @@
       "Name": "Nasty!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "NoMoreTotems",
@@ -8247,7 +8252,7 @@
       "Name": "No More Totems",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "NotLikeTheOthers",
@@ -8287,7 +8292,7 @@
       "Name": "The Old-School Way",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "TheQuarterback",
@@ -8295,7 +8300,7 @@
       "Name": "The Quarterback",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4369
     },
     {
       "ID": "ThisIsDharma",
@@ -8303,7 +8308,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -8319,7 +8324,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -8335,7 +8340,7 @@
       "Name": "Digestive Issues",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -8351,7 +8356,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "k01101110",
@@ -8359,14 +8364,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 11803,
+      "Progressed": 11808,
       "Completed": 21
     }
   ],
@@ -8374,8 +8379,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-27T06:59:43.0995106+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:10:46.2099032+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:10:09.708844+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:59:43.0995112+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:10:46.2099707+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:58:59.5040982+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:10:09.7089215+00:00"
 }

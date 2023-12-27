@@ -2759,9 +2759,9 @@
       "Count": 220
     }
   ],
-  "EOS_Progressed": 29040,
+  "EOS_Progressed": 29042,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1510,
+  "EOS_NewPlayers": 1507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14594,6 +14594,11 @@
       "Time": "2023-12-27T07:09:59.1554813+00:00",
       "NumProgressed": 29040,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T08:09:30.3611068+00:00",
+      "NumProgressed": 29042,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14646,7 +14651,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "Achievement_Trophy07",
@@ -14774,7 +14779,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "Achievement_Trophy23",
@@ -14806,7 +14811,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 9583
+      "UsersEstimate": 9584
     },
     {
       "ID": "Achievement_Trophy27",
@@ -14838,7 +14843,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 8131
+      "UsersEstimate": 8132
     },
     {
       "ID": "Achievement_Trophy31",
@@ -14846,7 +14851,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8712
+      "UsersEstimate": 8713
     },
     {
       "ID": "Achievement_Trophy32",
@@ -14870,7 +14875,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "Achievement_Trophy35",
@@ -14950,7 +14955,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "Achievement_Trophy45",
@@ -15093,7 +15098,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 29040,
+      "Progressed": 29042,
       "Completed": 1
     }
   ],
@@ -15101,8 +15106,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-26T18:00:00.5052803+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:09:59.1554809+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:30.3611066+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:01:12.073522+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:09:59.1555647+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:00:08.4124368+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:30.3612291+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4877,9 +4877,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 79948,
+  "EOS_Progressed": 79950,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1152,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -27697,6 +27697,11 @@
       "Time": "2023-12-27T07:07:12.6635953+00:00",
       "NumProgressed": 79948,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-12-27T08:06:18.9431368+00:00",
+      "NumProgressed": 79950,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 61,
@@ -27818,9 +27823,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14391
+      "UsersEstimate": 13592
     },
     {
       "ID": "CLAYFACE_3",
@@ -27852,7 +27857,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5596
+      "UsersEstimate": 5597
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -27860,7 +27865,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -27876,7 +27881,7 @@
       "Name": "Talonted",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -27892,7 +27897,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7195
+      "UsersEstimate": 7196
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -27900,7 +27905,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -27916,7 +27921,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10393
+      "UsersEstimate": 10394
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -27932,7 +27937,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 22385
+      "UsersEstimate": 22386
     },
     {
       "ID": "FREEZE_1_5",
@@ -27980,7 +27985,7 @@
       "Name": "Batarang Collector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -28004,7 +28009,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "HARLEY_1",
@@ -28012,7 +28017,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 27182
+      "UsersEstimate": 27183
     },
     {
       "ID": "HARLEY_2",
@@ -28020,7 +28025,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19987
+      "UsersEstimate": 19988
     },
     {
       "ID": "HARLEY_3",
@@ -28052,7 +28057,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 39974
+      "UsersEstimate": 39975
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -28100,7 +28105,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26383
+      "UsersEstimate": 26384
     },
     {
       "ID": "MYSTERY_02",
@@ -28132,7 +28137,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13591
+      "UsersEstimate": 13592
     },
     {
       "ID": "MYSTERY_06",
@@ -28148,7 +28153,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10393
+      "UsersEstimate": 10394
     },
     {
       "ID": "MYSTERY_08",
@@ -28172,7 +28177,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7195
+      "UsersEstimate": 7196
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -28195,13 +28200,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 79948,
+      "Progressed": 79950,
       "Completed": 128
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 50228,
+      "Progressed": 50230,
       "Completed": 2678
     }
   ],
@@ -28209,8 +28214,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-12-27T05:59:19.8297882+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:07:12.6635948+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:06:18.9431365+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.8119681+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:59:21.3741306+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:07:12.6637128+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:58:42.893197+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:06:18.943347+00:00"
 }

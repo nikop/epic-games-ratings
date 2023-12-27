@@ -1865,9 +1865,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19514,
+  "EOS_Progressed": 19518,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1348,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11370,6 +11370,11 @@
       "Time": "2023-12-27T07:10:04.1929608+00:00",
       "NumProgressed": 19514,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-27T08:09:34.5231847+00:00",
+      "NumProgressed": 19518,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11485,7 +11490,7 @@
       "Name": "Get a Grip",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11493,7 +11498,7 @@
       "Name": "In Striking Distance",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "KILL_2HEAD",
@@ -11509,7 +11514,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "KILL_ROBOT",
@@ -11557,7 +11562,7 @@
       "Name": "Paper Jams",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11589,7 +11594,7 @@
       "Name": "Without A Paddle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "STORY_HANGAR",
@@ -11597,7 +11602,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11613,7 +11618,7 @@
       "Name": "Desperate Times",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -11733,7 +11738,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -11756,13 +11761,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19514,
+      "Progressed": 19518,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7440,
+      "Progressed": 7444,
       "Completed": 29
     }
   ],
@@ -11770,8 +11775,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-26T22:02:56.2350544+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:10:04.1929607+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:34.5231844+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:03:30.4144346+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:10:04.1930243+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:03:16.5752229+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:34.5232785+00:00"
 }

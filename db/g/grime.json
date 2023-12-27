@@ -1747,10 +1747,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164809,
+  "EOS_Progressed": 164820,
   "EOS_Completed": 414,
-  "EOS_NewPlayers": 1386,
-  "EOS_NewCompleters": 56,
+  "EOS_NewPlayers": 1392,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20777,6 +20777,11 @@
       "Time": "2023-12-27T07:06:12.8982744+00:00",
       "NumProgressed": 164809,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-12-27T08:05:30.0464179+00:00",
+      "NumProgressed": 164820,
+      "NumCompleted": 414
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20931,9 +20936,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 824
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -21051,9 +21056,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 989
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -21156,21 +21161,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164392,
+      "Progressed": 164403,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164809,
+      "Progressed": 164820,
       "Completed": 414
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:06:12.8982739+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:05:30.0464176+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:59:48.3624081+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:06:12.8983875+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:59:03.4838461+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:05:30.046567+00:00"
 }

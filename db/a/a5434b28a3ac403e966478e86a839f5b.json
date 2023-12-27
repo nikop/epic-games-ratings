@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.28,
+  "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2680,6 +2680,11 @@
       "Time": "2023-12-27T06:09:00.4127176+00:00",
       "NumProgressed": 784,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-27T08:08:50.3605152+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2700,7 +2705,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_eou2",
@@ -2716,7 +2721,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_eou4",
@@ -2724,7 +2729,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_eou5",
@@ -2756,7 +2761,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_mg2",
@@ -2770,9 +2775,9 @@
       "ID": "ACH_n64",
       "SetID": "51of0eo",
       "Name": "Shut Down the Core",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 55
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_rogue",
@@ -2795,14 +2800,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:09:10.3941861+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:08:50.3605148+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:00:55.1636672+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:09:10.3942067+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:59:55.2249785+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:08:50.3605406+00:00"
 }

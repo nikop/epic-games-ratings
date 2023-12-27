@@ -6,24 +6,24 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~730,289 |
-| The Blues | 85.00% | ~627,016 |
-| Fast | 66.00% | ~486,860 |
-| Healthbar | 55.00% | ~405,716 |
-| Force Cube | 53.00% | ~390,963 |
-| Double Jump | 48.00% | ~354,080 |
-| Regeneration | 47.00% | ~346,703 |
-| Triple Jump | 43.00% | ~317,196 |
-| Climb the hill | 42.00% | ~309,820 |
-| Through the fire pipe | 39.00% | ~287,690 |
-| MacGuffin | 38.00% | ~280,313 |
-| Just once | 37.00% | ~272,936 |
+| Out of bed | 99.00% | ~730,291 |
+| The Blues | 85.00% | ~627,018 |
+| Fast | 66.00% | ~486,861 |
+| Healthbar | 55.00% | ~405,717 |
+| Force Cube | 53.00% | ~390,964 |
+| Double Jump | 48.00% | ~354,081 |
+| Regeneration | 47.00% | ~346,704 |
+| Triple Jump | 43.00% | ~317,197 |
+| Climb the hill | 42.00% | ~309,821 |
+| Through the fire pipe | 39.00% | ~287,691 |
+| MacGuffin | 38.00% | ~280,314 |
+| Just once | 37.00% | ~272,937 |
 | Armor | 30.00% | ~221,300 |
-| True holy spirit | 28.00% | ~206,546 |
+| True holy spirit | 28.00% | ~206,547 |
 | That's how electronics work obviously | 27.00% | ~199,170 |
-| Force Cube Catapult | 25.00% | ~184,416 |
-| Holy Sword | 23.00% | ~169,663 |
-| Telefrag | 23.00% | ~169,663 |
+| Force Cube Catapult | 25.00% | ~184,417 |
+| Holy Sword | 23.00% | ~169,664 |
+| Telefrag | 23.00% | ~169,664 |
 | Freed from prison | 21.00% | ~154,910 |
 | Stomp | 21.00% | ~154,910 |
 | Double Health | 19.00% | ~140,157 |
@@ -31,8 +31,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Green Keycard | 18.00% | ~132,780 |
 | Rattle Hag | 16.00% | ~118,027 |
 | All Shells | 15.00% | ~110,650 |
-| Beam | 14.00% | ~103,273 |
-| 9 | 14.00% | ~103,273 |
+| Beam | 14.00% | ~103,274 |
+| 9 | 14.00% | ~103,274 |
 | Health Drink | 13.00% | ~95,897 |
 | Helped a star | 13.00% | ~95,897 |
 | Purple Cube | 13.00% | ~95,897 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~738 |
 | DLC: Top of the world | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,666 (Ranked 25)  
+Progressed: 737,668 (Ranked 25)  
 Completed: 772 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 772 (0.10%) (Ranked 306)
 | 2023-12-24 | 737,331 | 772 |
 | 2023-12-25 | 737,460 | 772 |
 | 2023-12-26 | 737,636 | 772 |
-| 2023-12-27 | 737,666 | 772 |
+| 2023-12-27 | 737,668 | 772 |
 ## Awards
 Max (Challenging Puzzles): 7,753  (Ranked 51)  
 Sum: 10,115 (Ranked 92)  

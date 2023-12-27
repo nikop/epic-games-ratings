@@ -23,9 +23,9 @@ Rating: 4.63 (Ranked 352)
 | Higher Tax Bracket | 0.70% | ~61 |
 | Botanical Breakthrough | 0.70% | ~61 |
 | Beach Comber | 0.60% | ~52 |
+| Skilled | 0.60% | ~52 |
 | Flaming Hot Completos | 0.50% | ~43 |
 | Azorian Anniversary | 0.50% | ~43 |
-| Skilled | 0.50% | ~43 |
 | Rumble in the Jumble | 0.40% | ~35 |
 | Fanatical Farmer | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
@@ -37,10 +37,10 @@ Rating: 4.63 (Ranked 352)
 | House Proud | 0.30% | ~26 |
 | Azorian Hat Dance | 0.30% | ~4 |
 | Going Down | 0.30% | ~4 |
+| Angling Authority | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
-| Angling Authority | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
 | Giving the People What They Want | 0.10% | ~9 |
 | Very Skilled | 0.10% | ~9 |

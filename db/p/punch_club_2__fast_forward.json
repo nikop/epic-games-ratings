@@ -3,7 +3,7 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
     {
       "Time": "2023-07-17T10:06:19.5006769+00:00",
@@ -1919,6 +1919,11 @@
       "Time": "2023-12-27T07:10:12.1072603+00:00",
       "NumProgressed": 477,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-27T08:09:41.5895052+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-17T10:06:19.5006804+00:00",
@@ -1945,9 +1950,9 @@
       "ID": "airpods",
       "SetID": "69co12a",
       "Name": "Now you are worthy",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 201
     },
     {
       "ID": "all_promotion_4",
@@ -1971,15 +1976,15 @@
       "Name": "Trap disarmed",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "another_world",
       "SetID": "69co12a",
       "Name": "Another world",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     },
     {
       "ID": "any_stat_15",
@@ -1987,7 +1992,7 @@
       "Name": "Workout professional",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "any_stat_30",
@@ -2003,7 +2008,7 @@
       "Name": "Fitness professional",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "buy_trainer",
@@ -2011,7 +2016,7 @@
       "Name": "Your own amateur gym",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "carla_journey",
@@ -2019,7 +2024,7 @@
       "Name": "The lonesome road",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "courier_win",
@@ -2035,7 +2040,7 @@
       "Name": "First defeat",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "fight_win_1",
@@ -2043,7 +2048,7 @@
       "Name": "First winning",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "fight_win_10",
@@ -2051,7 +2056,7 @@
       "Name": "Fighting is cool",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "fight_win_25",
@@ -2067,7 +2072,7 @@
       "Name": "Fight is life",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "first_job",
@@ -2075,7 +2080,7 @@
       "Name": "Your first job",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "flash_bobo",
@@ -2083,7 +2088,7 @@
       "Name": "Keep nature safe",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "flash_delivery",
@@ -2091,7 +2096,7 @@
       "Name": "Family comes first",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "flash_k",
@@ -2099,7 +2104,7 @@
       "Name": "Key memories",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "flash_silver",
@@ -2107,7 +2112,7 @@
       "Name": "Silver\u2019s past",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "flash_yakuza",
@@ -2129,9 +2134,9 @@
       "ID": "gpp_chip",
       "SetID": "69co12a",
       "Name": "Good Person Chip",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 397
     },
     {
       "ID": "hack_device",
@@ -2147,7 +2152,7 @@
       "Name": "Little hacker",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "handyman",
@@ -2155,7 +2160,7 @@
       "Name": "Handyman",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "huey_win",
@@ -2171,7 +2176,7 @@
       "Name": "Such a strange dream\u2026",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "law_student",
@@ -2187,7 +2192,7 @@
       "Name": "Champion \u2013 starter pack",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "league_2",
@@ -2195,7 +2200,7 @@
       "Name": "Champion \u2013 no way back",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "league_3",
@@ -2211,15 +2216,15 @@
       "Name": "Your first fight",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 301
     },
     {
       "ID": "met_k",
@@ -2235,7 +2240,7 @@
       "Name": "Spirit of the past",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "mike_resurect",
@@ -2267,7 +2272,7 @@
       "Name": "Extreme neuropower!",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "not_ok",
@@ -2275,7 +2280,7 @@
       "Name": "Run K, run!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "own_home",
@@ -2299,7 +2304,7 @@
       "Name": "Poisoned fighter",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "police_promotion_1",
@@ -2315,7 +2320,7 @@
       "Name": "Get out of my apartment!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "police_promotion_3",
@@ -2339,7 +2344,7 @@
       "Name": "Careerist",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "resistance_fake",
@@ -2347,7 +2352,7 @@
       "Name": "Underground dwellers",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "resistance_slime",
@@ -2355,7 +2360,7 @@
       "Name": "Anyone can resist",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "resistance_true",
@@ -2363,7 +2368,7 @@
       "Name": "The heart of the Resistance",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "seashell_hunter",
@@ -2393,9 +2398,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 220
     },
     {
       "ID": "trainer_promotion_2",
@@ -2409,9 +2414,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 177
     },
     {
       "ID": "undercover_robot",
@@ -2427,7 +2432,7 @@
       "Name": "Your own way",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "work_promotion_1",
@@ -2435,7 +2440,7 @@
       "Name": "Employee of the week",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "work_promotion_2",
@@ -2443,7 +2448,7 @@
       "Name": "Employee of the month",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "work_promotion_3",
@@ -2458,14 +2463,14 @@
     {
       "ID": "69co12a",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:10:12.1072599+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:41.589505+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:57:10.9261786+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:10:12.1073094+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:57:00.7741785+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:41.5895657+00:00"
 }

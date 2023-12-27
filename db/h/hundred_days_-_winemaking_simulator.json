@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1099,9 +1099,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17798,
+  "EOS_Progressed": 17801,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1134,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15084,6 +15084,11 @@
       "Time": "2023-12-27T07:10:17.455704+00:00",
       "NumProgressed": 17798,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-27T08:09:45.8093139+00:00",
+      "NumProgressed": 17801,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -15144,7 +15149,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "a_19",
@@ -15222,9 +15227,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 178
     },
     {
       "ID": "a_3",
@@ -15343,7 +15348,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17798,
+      "Progressed": 17801,
       "Completed": 13
     }
   ],
@@ -15351,8 +15356,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-26T03:58:11.2420844+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:10:17.4557036+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:45.8093136+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:09.648683+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:59:21.1798447+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:10:17.4557808+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:58:42.7479849+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:45.8094314+00:00"
 }

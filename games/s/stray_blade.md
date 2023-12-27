@@ -13,13 +13,16 @@
 | Craftsmen | 3.00% | ~4 |
 | Defeat Tezuth | 2.00% | ~3 |
 | Freezing Cold | 2.00% | ~3 |
+| Locked and Loaded | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
-| Locked and Loaded | 1.00% | ~1 |
 | Can't touch this | 1.00% | ~1 |
 | A Deceiving Gift | 1.00% | ~1 |
 | Expert | 1.00% | ~1 |
 | The Golden Flash | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
+| Defeat Uskol | 0.70% | ~1 |
+| Searing Heat | 0.70% | ~1 |
+| Witch | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
@@ -29,9 +32,7 @@
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Defeat Ingla | 0.00% | ~0 |
-| Defeat Uskol | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
-| Searing Heat | 0.00% | ~0 |
 | Through Dangers Untold | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |
@@ -40,7 +41,6 @@
 | Fashionista | 0.00% | ~0 |
 | Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
-| Witch | 0.00% | ~0 |
 | Wizard | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |

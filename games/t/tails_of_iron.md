@@ -14,18 +14,18 @@ Rating: 4.56 (Ranked 496)
 | Collect Gold | 0.70% | ~16 |
 | Collect Iron Ore | 0.70% | ~16 |
 | Collect Monster Parts | 0.70% | ~16 |
+| End of the Mozis | 0.70% | ~16 |
 | Two Handed Weapon | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Smithy Ready to Craft | 0.70% | ~16 |
+| Throne Room Fit For A King | 0.70% | ~16 |
 | Rescue Redgi's Brothers | 0.70% | ~16 |
 | Defeat Croakhis Khan | 0.70% | ~6 |
 | I Remember My First Beer | 0.70% | ~6 |
 | Complete Elder Faction | 0.60% | ~14 |
-| End of the Mozis | 0.60% | ~14 |
 | Defeat 25 Mozis | 0.60% | ~14 |
 | Meet the Creatures from the Deep | 0.60% | ~14 |
 | Kitchen Ready To Cook | 0.60% | ~14 |
-| Throne Room Fit For A King | 0.60% | ~14 |
 | Return Power To The Depths | 0.60% | ~14 |
 | Defeat Ratnor Rodentson | 0.50% | ~11 |
 | Defeat the Grub Buster | 0.50% | ~5 |

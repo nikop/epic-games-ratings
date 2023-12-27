@@ -630,9 +630,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "HeroStory_Elynn",
@@ -1023,8 +1023,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:09:57.9708241+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:29.3293018+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:01:17.345344+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:09:57.9708844+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:00:13.2639176+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:29.329367+00:00"
 }

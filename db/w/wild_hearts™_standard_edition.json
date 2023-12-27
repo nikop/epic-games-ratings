@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -3108,6 +3108,11 @@
       "Time": "2023-12-27T06:09:43.1067975+00:00",
       "NumProgressed": 928,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-27T08:09:24.2777739+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3120,7 +3125,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_10",
@@ -3160,7 +3165,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_15",
@@ -3168,7 +3173,7 @@
       "Name": "Memory Rouser",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_16",
@@ -3182,9 +3187,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_18",
@@ -3192,7 +3197,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "achievement_19",
@@ -3248,7 +3253,7 @@
       "Name": "Single Minded",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_25",
@@ -3272,7 +3277,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_28",
@@ -3288,7 +3293,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_3",
@@ -3472,7 +3477,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "achievement_7",
@@ -3488,7 +3493,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_9",
@@ -3503,13 +3508,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:09:51.7752822+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:24.2777737+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:01:32.3797197+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:09:51.7753188+00:00"
+  "LastUpdate_Ratings": "2023-12-27T08:00:25.4142707+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:24.2778333+00:00"
 }

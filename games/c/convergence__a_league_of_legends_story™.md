@@ -5,32 +5,32 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 41.00% | ~460 |
-| Rail Rat | 32.00% | ~359 |
+| Time Heals All Wounds | 41.00% | ~461 |
 | The Mysterious Stranger | 31.00% | ~348 |
+| Rail Rat | 31.00% | ~348 |
 | Immaculate Aim | 26.00% | ~292 |
-| The Brass Boss | 25.00% | ~280 |
-| Make Up For Lost Time | 24.00% | ~269 |
-| Time Flies | 24.00% | ~269 |
-| The Harder They Fall | 24.00% | ~269 |
-| No, Thanks! | 24.00% | ~269 |
-| The Prince in Heels | 24.00% | ~269 |
-| Honest Mistake | 24.00% | ~269 |
-| Immaculate Aim | 24.00% | ~269 |
-| The Steel Shadow | 23.00% | ~258 |
-| Fast Learner | 23.00% | ~258 |
+| The Brass Boss | 25.00% | ~281 |
+| Make Up For Lost Time | 24.00% | ~270 |
+| Time Flies | 24.00% | ~270 |
+| No, Thanks! | 24.00% | ~270 |
+| The Prince in Heels | 24.00% | ~270 |
+| Honest Mistake | 24.00% | ~270 |
+| Immaculate Aim | 24.00% | ~270 |
+| The Steel Shadow | 23.00% | ~259 |
+| The Harder They Fall | 23.00% | ~259 |
+| Fast Learner | 23.00% | ~259 |
 | Breaking Down Barriers | 22.00% | ~247 |
 | The Wicked Twins | 22.00% | ~247 |
 | Right On Time | 21.00% | ~236 |
 | Like Clockwork | 21.00% | ~236 |
 | The Betrayer | 21.00% | ~236 |
 | Golem Chaser | 21.00% | ~236 |
-| The Loose Cannon | 19.00% | ~213 |
-| Check Your Pulse | 19.00% | ~213 |
+| The Loose Cannon | 19.00% | ~214 |
+| Check Your Pulse | 19.00% | ~214 |
 | Street Style | 18.00% | ~202 |
 | The Man Who Shattered Time | 18.00% | ~202 |
 | The Family Fortune | 18.00% | ~202 |
-| Whiz Kid | 15.00% | ~168 |
+| Whiz Kid | 15.00% | ~169 |
 | Good Neighbor | 14.00% | ~157 |
 | Treasure Trove | 13.00% | ~146 |
 | Family Memories | 13.00% | ~146 |
@@ -38,7 +38,7 @@ Rating: 4.65 (Ranked 321)
 | Ask Questions Later | 13.00% | ~146 |
 | Chaincrawler Explorer | 12.00% | ~135 |
 | Syron for Hope | 12.00% | ~135 |
-| Sump Explorer | 11.00% | ~123 |
+| Sump Explorer | 11.00% | ~124 |
 | Factorywood Explorer | 10.00% | ~112 |
 | Theater Explorer | 10.00% | ~112 |
 | Cultivair Explorer | 9.00% | ~101 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,122 (Ranked 277)  
+Progressed: 1,124 (Ranked 277)  
 Completed: 6 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 6 (0.53%) (Ranked 214)
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
 | 2023-12-26 | 1,118 | 6 |
-| 2023-12-27 | 1,122 | 6 |
+| 2023-12-27 | 1,124 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

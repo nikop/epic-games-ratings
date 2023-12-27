@@ -1524,9 +1524,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26874,
+  "EOS_Progressed": 26878,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12019,6 +12019,11 @@
       "Time": "2023-12-27T07:10:33.3033023+00:00",
       "NumProgressed": 26874,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-27T08:09:58.8442293+00:00",
+      "NumProgressed": 26878,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12126,7 +12131,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -12150,7 +12155,7 @@
       "Name": "For Survival",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "BossForestDefeated",
@@ -12174,7 +12179,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12190,7 +12195,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12206,7 +12211,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "BoxerBoss",
@@ -12214,7 +12219,7 @@
       "Name": "K.O.",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EnableHouseRules",
@@ -12326,7 +12331,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "UnlockHighestUnity",
@@ -12341,21 +12346,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26874,
+      "Progressed": 26878,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5804,
+      "Progressed": 5808,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-25T17:57:06.1177901+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:10:33.3033021+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:09:58.8442289+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-27T06:58:32.3385017+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:10:33.3033559+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:58:03.707495+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:09:58.8443196+00:00"
 }

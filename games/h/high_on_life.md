@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 340)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 5.00% | ~1,245 |
-| First Bounty Down | 5.00% | ~1,245 |
-| Cold-Blooded Driller | 5.00% | ~1,245 |
+| Satisfied Gus-tomer | 5.00% | ~1,246 |
+| First Bounty Down | 5.00% | ~1,246 |
+| Cold-Blooded Driller | 5.00% | ~1,246 |
 | Are You Packin'? | 4.00% | ~996 |
 | Bring A Knife to a Gun Fight | 4.00% | ~996 |
 | Sweezy Like Sunday Morning | 4.00% | ~996 |
@@ -16,13 +16,13 @@ Rating: 4.64 (Ranked 340)
 | Who's The Boss? | 4.00% | ~996 |
 | Don't Knife The Hand That Feeds | 4.00% | ~996 |
 | Creature Feature | 3.00% | ~747 |
+| Lezduit! | 3.00% | ~747 |
 | RIP Davey Glutes | 3.00% | ~747 |
 | Hardest Battle In The Game | 3.00% | ~747 |
 | Self-Actualization | 3.00% | ~747 |
 | Fallout Doesn't Let You Do This | 3.00% | ~747 |
 | Spent 15 Hours At The Alien Strip Club | 3.00% | ~747 |
 | Eatin' Good in the Neighborhood | 2.00% | ~498 |
-| Lezduit! | 2.00% | ~498 |
 | Eye Scream, You Scream | 2.00% | ~498 |
 | Legendary Bounty Hunter | 2.00% | ~498 |
 | Series Wrap on Suit-O | 2.00% | ~498 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 340)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,909 (Ranked 144)  
+Progressed: 24,910 (Ranked 144)  
 Completed: 14 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 14 (0.06%) (Ranked 327)
 | 2023-12-24 | 24,852 | 14 |
 | 2023-12-25 | 24,879 | 14 |
 | 2023-12-26 | 24,903 | 14 |
-| 2023-12-27 | 24,909 | 14 |
+| 2023-12-27 | 24,910 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

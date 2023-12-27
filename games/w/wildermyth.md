@@ -22,10 +22,10 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~31 |
 | Let Me Get My Chisel | 1.00% | ~16 |
 | Thematic Divergence | 1.00% | ~16 |
+| Another Tale to Tell | 1.00% | ~16 |
 | Echoes Die | 1.00% | ~16 |
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
-| Another Tale to Tell | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~12 |
 | Chain Reaction | 0.80% | ~12 |
 | Everfading | 0.80% | ~12 |

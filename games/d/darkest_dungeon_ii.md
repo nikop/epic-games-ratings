@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 11.00% | ~549 |
-| Lost and Found | 7.00% | ~349 |
+| Lost and Found | 7.00% | ~350 |
 | This Belongs in a Museum | 5.00% | ~6,506 |
 | Autodidact | 5.00% | ~6,506 |
 | This guy... again? | 5.00% | ~250 |
@@ -32,28 +32,28 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 3.00% | ~3,904 |
 | Nope | 3.00% | ~3,904 |
 | Friends 'Til the End | 3.00% | ~150 |
-| Resurrection | 2.00% | ~2,602 |
-| Unleash Hell | 2.00% | ~2,602 |
-| Funny Guy | 2.00% | ~2,602 |
-| Long Live the King | 2.00% | ~2,602 |
-| Wyrdly Reconstructed | 2.00% | ~2,602 |
-| Boxcar Kid | 2.00% | ~2,602 |
-| Unfulfilled Desires | 2.00% | ~2,602 |
-| Hope Rekindled | 2.00% | ~2,602 |
-| Predator | 2.00% | ~2,602 |
-| Dissector | 2.00% | ~2,602 |
-| Banishment | 2.00% | ~2,602 |
-| Deprogramming | 2.00% | ~2,602 |
-| Now Stay Dead | 2.00% | ~2,602 |
-| Reverse Banditry | 2.00% | ~2,602 |
-| Spelunker | 2.00% | ~2,602 |
-| Ramble On | 2.00% | ~2,602 |
-| A Clear Conscience | 2.00% | ~2,602 |
-| When You Want Something Done Right | 2.00% | ~2,602 |
-| Worldly Traveller | 2.00% | ~2,602 |
-| Utopia | 2.00% | ~2,602 |
-| Unshackled | 2.00% | ~2,602 |
-| Road Trip | 2.00% | ~2,602 |
+| Resurrection | 2.00% | ~2,603 |
+| Unleash Hell | 2.00% | ~2,603 |
+| Funny Guy | 2.00% | ~2,603 |
+| Long Live the King | 2.00% | ~2,603 |
+| Wyrdly Reconstructed | 2.00% | ~2,603 |
+| Boxcar Kid | 2.00% | ~2,603 |
+| Unfulfilled Desires | 2.00% | ~2,603 |
+| Hope Rekindled | 2.00% | ~2,603 |
+| Predator | 2.00% | ~2,603 |
+| Dissector | 2.00% | ~2,603 |
+| Banishment | 2.00% | ~2,603 |
+| Deprogramming | 2.00% | ~2,603 |
+| Now Stay Dead | 2.00% | ~2,603 |
+| Reverse Banditry | 2.00% | ~2,603 |
+| Spelunker | 2.00% | ~2,603 |
+| Ramble On | 2.00% | ~2,603 |
+| A Clear Conscience | 2.00% | ~2,603 |
+| When You Want Something Done Right | 2.00% | ~2,603 |
+| Worldly Traveller | 2.00% | ~2,603 |
+| Utopia | 2.00% | ~2,603 |
+| Unshackled | 2.00% | ~2,603 |
+| Road Trip | 2.00% | ~2,603 |
 | This Looks Familiar | 1.00% | ~1,301 |
 | Ichthyophobic | 1.00% | ~1,301 |
 | No More Mouths to Feed | 1.00% | ~1,301 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.60% | ~781 |
 | No Mercy | 0.60% | ~30 |
 | The World As It Was | 0.50% | ~651 |
-| A Life Well Lived | 0.40% | ~520 |
-| Bacon Bits | 0.40% | ~520 |
+| A Life Well Lived | 0.40% | ~521 |
+| Bacon Bits | 0.40% | ~521 |
 | On This Long Road, We Found Redemption | 0.40% | ~20 |
 | Eidetic | 0.30% | ~390 |
 | Battle Hardened | 0.30% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,123 (Ranked 87)  
+Progressed: 130,126 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,123 | 3 |
+| 2023-12-27 | 130,126 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
 Sum: 21,139 (Ranked 58)  

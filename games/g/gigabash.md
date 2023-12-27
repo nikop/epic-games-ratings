@@ -5,18 +5,18 @@ Rating: 4.54 (Ranked 537)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 15.00% | ~16,140 |
-| I've Had Enough! | 12.00% | ~12,912 |
-| Fists, Fury & a lot of Rage | 9.00% | ~9,684 |
-| All For One and One For All | 7.00% | ~7,532 |
-| Seasoned Fighter | 7.00% | ~7,532 |
-| Home Sweet Home? | 5.00% | ~5,380 |
-| A New Age | 4.00% | ~4,304 |
-| Oh Baby, A Triple | 3.00% | ~3,228 |
-| Battle Hardened | 2.00% | ~2,152 |
-| Master of Disguise | 2.00% | ~2,152 |
-| It's Mayhem! | 2.00% | ~2,152 |
-| Symbiotic | 2.00% | ~2,152 |
+| All Grown Up! | 15.00% | ~16,147 |
+| I've Had Enough! | 12.00% | ~12,918 |
+| Fists, Fury & a lot of Rage | 9.00% | ~9,688 |
+| All For One and One For All | 7.00% | ~7,535 |
+| Seasoned Fighter | 7.00% | ~7,535 |
+| Home Sweet Home? | 5.00% | ~5,382 |
+| A New Age | 4.00% | ~4,306 |
+| Oh Baby, A Triple | 3.00% | ~3,229 |
+| Battle Hardened | 2.00% | ~2,153 |
+| Master of Disguise | 2.00% | ~2,153 |
+| It's Mayhem! | 2.00% | ~2,153 |
+| Symbiotic | 2.00% | ~2,153 |
 | Cautious Veteran | 1.00% | ~1,076 |
 | Double Punch! | 1.00% | ~1,076 |
 | Martyrdom | 1.00% | ~1,076 |
@@ -24,10 +24,10 @@ Rating: 4.54 (Ranked 537)
 | Spectacular Finisher | 1.00% | ~1,076 |
 | Katamari | 0.80% | ~861 |
 | Zero-sum Game | 0.80% | ~861 |
-| Ninja Reflex | 0.70% | ~753 |
+| Ninja Reflex | 0.70% | ~754 |
 | Taste Your Own Medicine | 0.60% | ~646 |
-| This is GigaBash! | 0.40% | ~430 |
-| Sidetracked... | 0.40% | ~430 |
+| This is GigaBash! | 0.40% | ~431 |
+| Sidetracked... | 0.40% | ~431 |
 | Eye of the Titan | 0.30% | ~323 |
 | Just Getting Warmed Up | 0.30% | ~323 |
 | Top of the Food Chain | 0.30% | ~323 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 537)
 | What's Mine is Yours | 0.10% | ~108 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,599 (Ranked 93)  
+Progressed: 107,646 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 104,255 | 0 |
 | 2023-12-25 | 105,837 | 0 |
 | 2023-12-26 | 107,258 | 0 |
-| 2023-12-27 | 107,599 | 0 |
+| 2023-12-27 | 107,646 | 0 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 479)  
 Sum: 38 (Ranked 518)  

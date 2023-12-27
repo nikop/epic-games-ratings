@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1152,
+  "EOS_Progressed": 1153,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3122,6 +3122,11 @@
       "Time": "2023-12-27T06:05:08.3034979+00:00",
       "NumProgressed": 1152,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T08:04:27.8635554+00:00",
+      "NumProgressed": 1153,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3230,7 +3235,7 @@
       "Name": "Discovery",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "EasternWetlands",
@@ -3252,9 +3257,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 92
     },
     {
       "ID": "FloodedValley",
@@ -3302,7 +3307,7 @@
       "Name": "Into the Machine",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "JustOneLap",
@@ -3358,7 +3363,7 @@
       "Name": "Museum Visitor",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "NewBeginning",
@@ -3380,9 +3385,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 92
     },
     {
       "ID": "Overload",
@@ -3534,7 +3539,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TheWordEndures",
@@ -3550,7 +3555,7 @@
       "Name": "Touch Grass",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TrevorsBiographer",
@@ -3574,7 +3579,7 @@
       "Name": "Wanderers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "WesternDelta",
@@ -3605,7 +3610,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1152,
+      "Progressed": 1153,
       "Completed": 2
     }
   ],
@@ -3613,8 +3618,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:04:57.6358288+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:04:27.8635547+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:00:08.2623776+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:04:57.6358778+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:59:18.4536962+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:04:27.8636412+00:00"
 }

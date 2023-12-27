@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Complete_Bestiary_50",
@@ -422,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:05:21.2084748+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:04:46.8309005+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.0426676+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:00:37.4874481+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:05:21.208494+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:59:41.2702935+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:04:46.8309244+00:00"
 }

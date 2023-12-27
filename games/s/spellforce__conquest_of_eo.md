@@ -11,7 +11,7 @@
 | Connected | 67.00% | ~58 |
 | Expansion | 63.00% | ~54 |
 | Mine! | 58.00% | ~50 |
-| Harvest Time | 55.00% | ~47 |
+| Harvest Time | 56.00% | ~48 |
 | Artificer's Apprentice | 49.00% | ~42 |
 | Fly the friendly Sky | 47.00% | ~40 |
 | Get out of here! | 43.00% | ~37 |

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.40% | ~64 |
 | Architect | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
+| Just | 0.40% | ~64 |
 | Keystone | 0.40% | ~64 |
 | Learned | 0.40% | ~64 |
 | Mason | 0.40% | ~64 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
 | Glorious | 0.30% | ~48 |
-| Just | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |

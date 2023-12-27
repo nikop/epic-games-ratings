@@ -8,19 +8,19 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 76.00% | ~5,736 |
 | Having A Field Day | 76.00% | ~5,736 |
-| Reap What You Sow | 73.00% | ~5,509 |
-| The First Day | 70.00% | ~5,283 |
-| Novice Researcher | 68.00% | ~5,132 |
-| Green Thumb | 67.00% | ~5,056 |
-| Home Cooked Meal | 62.00% | ~4,679 |
-| Onward | 58.00% | ~4,377 |
-| The First Week | 56.00% | ~4,226 |
+| Reap What You Sow | 73.00% | ~5,510 |
+| The First Day | 70.00% | ~5,284 |
+| Novice Researcher | 68.00% | ~5,133 |
+| Green Thumb | 67.00% | ~5,057 |
+| Home Cooked Meal | 62.00% | ~4,680 |
+| Onward | 58.00% | ~4,378 |
+| The First Week | 56.00% | ~4,227 |
 | Studious Researcher | 53.00% | ~4,000 |
-| Beam Me Up | 52.00% | ~3,924 |
-| Putting Food on the Table | 45.00% | ~3,396 |
-| Adept Researcher | 45.00% | ~3,396 |
-| Retribution | 43.00% | ~3,245 |
-| ...And Don’t Come Back! | 43.00% | ~3,245 |
+| Beam Me Up | 52.00% | ~3,925 |
+| Putting Food on the Table | 45.00% | ~3,397 |
+| Adept Researcher | 45.00% | ~3,397 |
+| Retribution | 43.00% | ~3,246 |
+| ...And Don’t Come Back! | 43.00% | ~3,246 |
 | Feast or Famine | 36.00% | ~2,717 |
 | Heating Up | 33.00% | ~2,491 |
 | Luminary Researcher | 30.00% | ~2,264 |
@@ -28,9 +28,9 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 27.00% | ~2,038 |
 | Winter Is Here | 26.00% | ~1,962 |
 | Oh Deer! | 23.00% | ~1,736 |
-| Disassembled | 22.00% | ~1,660 |
-| A Party Now | 22.00% | ~1,660 |
-| All Year Round | 22.00% | ~1,660 |
+| Disassembled | 22.00% | ~1,661 |
+| A Party Now | 22.00% | ~1,661 |
+| All Year Round | 22.00% | ~1,661 |
 | Nothing Wasted | 13.00% | ~981 |
 | Don't Cry Wolf | 13.00% | ~981 |
 | Deerly Departed | 8.00% | ~604 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~151 |
 | Wabbit Season | 0.50% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,547 (Ranked 189)  
+Progressed: 7,548 (Ranked 189)  
 Completed: 14 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 14 (0.19%) (Ranked 276)
 | 2023-12-24 | 7,500 | 14 |
 | 2023-12-25 | 7,519 | 14 |
 | 2023-12-26 | 7,541 | 14 |
-| 2023-12-27 | 7,547 | 14 |
+| 2023-12-27 | 7,548 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 336)  
 Sum: 1,052 (Ranked 261)  

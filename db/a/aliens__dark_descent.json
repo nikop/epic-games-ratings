@@ -489,9 +489,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 5245,
+  "EOS_Progressed": 5246,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7894,6 +7894,11 @@
       "Time": "2023-12-27T07:08:28.0405509+00:00",
       "NumProgressed": 5245,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T08:08:15.5325553+00:00",
+      "NumProgressed": 5246,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -7937,7 +7942,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -7945,7 +7950,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -7985,7 +7990,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -8105,7 +8110,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "ACH_MISSION_03",
@@ -8129,7 +8134,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACH_MISSION_06",
@@ -8145,7 +8150,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ACH_MISSION_08",
@@ -8161,7 +8166,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "ACH_MISSION_10",
@@ -8169,7 +8174,7 @@
       "Name": "The Spire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH_MISSION_11",
@@ -8201,7 +8206,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -8233,7 +8238,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -8257,14 +8262,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5245,
+      "Progressed": 5246,
       "Completed": 3
     }
   ],
@@ -8272,8 +8277,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-26T13:01:31.6015488+00:00",
-  "LastChanged_Achievements": "2023-12-27T07:08:28.0405506+00:00",
+  "LastChanged_Achievements": "2023-12-27T08:08:15.5325548+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-27T07:00:04.8360214+00:00",
-  "LastUpdate_Achievements": "2023-12-27T07:08:28.0406087+00:00"
+  "LastUpdate_Ratings": "2023-12-27T07:59:15.7644791+00:00",
+  "LastUpdate_Achievements": "2023-12-27T08:08:15.5327037+00:00"
 }
