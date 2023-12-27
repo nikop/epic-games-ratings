@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,818 |
-| Gun Fu | 8.00% | ~78,545 |
-| The Fool | 7.00% | ~68,727 |
+| V for Vendetta | 12.00% | ~117,819 |
+| Gun Fu | 8.00% | ~78,546 |
+| The Fool | 7.00% | ~68,728 |
 | Right Back At Ya | 6.00% | ~58,909 |
 | The Lovers | 6.00% | ~58,909 |
 | Full Body Conversion | 5.00% | ~49,091 |
@@ -19,12 +19,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 4.00% | ~39,273 |
 | The Wheel of Fortune | 4.00% | ~39,273 |
 | Arachnophobia | 4.00% | ~4,418 |
-| Master Crafter | 3.00% | ~29,454 |
-| The Quick and the Dead | 3.00% | ~29,454 |
-| Life of the Road | 3.00% | ~29,454 |
-| The High Priestess | 3.00% | ~29,454 |
-| True Warrior | 3.00% | ~29,454 |
-| Legend of The Afterlife | 3.00% | ~29,454 |
+| Master Crafter | 3.00% | ~29,455 |
+| The Quick and the Dead | 3.00% | ~29,455 |
+| Life of the Road | 3.00% | ~29,455 |
+| The High Priestess | 3.00% | ~29,455 |
+| True Warrior | 3.00% | ~29,455 |
+| Legend of The Afterlife | 3.00% | ~29,455 |
 | Relic Ruler | 3.00% | ~3,313 |
 | Bushido and Chill | 2.00% | ~19,636 |
 | To Protect and Serve | 2.00% | ~19,636 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,815 (Ranked 16)  
+Progressed: 981,823 (Ranked 16)  
 Completed: 2,981 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,6 +325,7 @@ Completed: 2,981 (0.30%) (Ranked 254)
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
+| 2023-12-27 | 981,823 | 2,981 |
 ## Awards
 Max (Character Customization): 127,789  (Ranked 8)  
 Sum: 445,740 (Ranked 9)  

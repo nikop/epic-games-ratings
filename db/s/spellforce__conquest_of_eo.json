@@ -524,9 +524,9 @@
       "ID": "Defeat_Gor",
       "SetID": "7b9f97e",
       "Name": "Defeat Gor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Defeat_Hokan",
@@ -1013,8 +1013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:02.2291921+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:14.1212684+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:01:07.4138942+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:02.2292379+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:59:49.6032718+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:14.1213226+00:00"
 }

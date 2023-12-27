@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3743,
+  "EOS_Progressed": 3744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7208,6 +7208,11 @@
       "Time": "2023-12-26T22:03:14.1214504+00:00",
       "NumProgressed": 3743,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T00:03:26.5635857+00:00",
+      "NumProgressed": 3744,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7307,7 +7312,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH_BASE_22",
@@ -7395,7 +7400,7 @@
       "Name": "Power Outage",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_BASE_32",
@@ -7547,7 +7552,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_BASE_52",
@@ -7571,7 +7576,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_BASE_57",
@@ -7674,13 +7679,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1927,
+      "Progressed": 1928,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3743,
+      "Progressed": 3744,
       "Completed": 0
     }
   ],
@@ -7688,8 +7693,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:04:04.9045789+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:03:26.5635852+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:00:59.3490995+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:04:04.9046584+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:59:43.8433108+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:03:26.5637082+00:00"
 }

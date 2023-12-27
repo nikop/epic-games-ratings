@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 10.00% | ~628 |
+| Secret Technique | 10.00% | ~629 |
 | Realm Estate | 9.00% | ~566 |
 | A Wonderful Discovery | 8.00% | ~503 |
 | Walls Cannot Stop Us | 8.00% | ~503 |
@@ -16,10 +16,10 @@ Rating: 4.63 (Ranked 352)
 | Magical Synergy | 5.00% | ~314 |
 | Seat of Power | 5.00% | ~314 |
 | But this one is mine | 5.00% | ~314 |
-| Valley of Wonders | 4.00% | ~251 |
-| Stronger Together | 4.00% | ~251 |
-| In a Liege of Your Own | 4.00% | ~251 |
-| Intimidation Tactics | 4.00% | ~251 |
+| Valley of Wonders | 4.00% | ~252 |
+| Stronger Together | 4.00% | ~252 |
+| In a Liege of Your Own | 4.00% | ~252 |
+| Intimidation Tactics | 4.00% | ~252 |
 | Return of the Wizard King | 3.00% | ~189 |
 | Digging for Treasure | 3.00% | ~189 |
 | My Final Form | 3.00% | ~189 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 352)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,285 (Ranked 194)  
+Progressed: 6,288 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,6 +285,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-24 | 6,152 | 7 |
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
+| 2023-12-27 | 6,288 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 479)  
 Sum: 138 (Ranked 439)  

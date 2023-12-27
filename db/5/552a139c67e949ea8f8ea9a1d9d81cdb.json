@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1671,
+  "EOS_Progressed": 1672,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -4067,6 +4067,11 @@
       "Time": "2023-12-26T23:07:35.0942124+00:00",
       "NumProgressed": 1671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T00:06:08.3919836+00:00",
+      "NumProgressed": 1672,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4125,9 +4130,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -4446,20 +4451,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1671,
+      "Progressed": 1672,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:07:35.0942119+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:06:08.3919833+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:00:52.5316132+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:07:35.0942672+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:59:40.3707575+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:06:08.392032+00:00"
 }

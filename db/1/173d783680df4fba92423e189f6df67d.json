@@ -4,7 +4,7 @@
   "ProductSlug": "kids-learn-e4a163",
   "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
@@ -103,8 +103,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-28T18:03:15.3892997+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:05:00.11962+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:04:08.7055808+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3332182+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:00.9980897+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:05:00.119626+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:02:38.9365251+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:04:08.705588+00:00"
 }

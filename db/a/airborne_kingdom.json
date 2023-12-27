@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7681,
+  "EOS_Progressed": 7682,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6528,6 +6528,11 @@
       "Time": "2023-12-26T20:06:40.5781686+00:00",
       "NumProgressed": 7681,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-27T00:05:19.8522544+00:00",
+      "NumProgressed": 7682,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6555,7 +6560,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6675,7 +6680,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -6683,7 +6688,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -6691,7 +6696,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6739,7 +6744,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6747,22 +6752,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7681,
+      "Progressed": 7682,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:06:32.1156709+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:05:19.8522542+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.5210526+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:43.3527752+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:06:32.1157059+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:03:08.6585586+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:05:19.8523067+00:00"
 }

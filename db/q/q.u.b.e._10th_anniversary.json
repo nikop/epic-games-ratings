@@ -2,7 +2,7 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 753,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 140,
@@ -312,9 +312,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 26998,
+  "EOS_Progressed": 27002,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 1189,
+  "EOS_NewPlayers": 1188,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -8317,6 +8317,11 @@
       "Time": "2023-12-26T23:10:45.7913053+00:00",
       "NumProgressed": 26998,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-27T00:09:47.8827255+00:00",
+      "NumProgressed": 27002,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 24,
@@ -8456,7 +8461,7 @@
       "Name": "Sector 1",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 8099
+      "UsersEstimate": 8101
     },
     {
       "ID": "ACH_Sector2",
@@ -8464,7 +8469,7 @@
       "Name": "Sector 2",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7021
     },
     {
       "ID": "ACH_Sector3",
@@ -8519,7 +8524,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 26998,
+      "Progressed": 27002,
       "Completed": 174
     }
   ],
@@ -8527,8 +8532,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-25T18:58:12.5329399+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:45.791305+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:47.882725+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.1123964+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:59:35.4792056+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:45.7913544+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:46.5256062+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:47.8827773+00:00"
 }

@@ -26,13 +26,13 @@ Rating: 4.87 (Ranked 24)
 | Feels like springtime | 18.00% | ~334 |
 | Alchemists Express | 17.00% | ~315 |
 | Free at last | 16.00% | ~297 |
-| A Link to the Past | 13.00% | ~241 |
+| A Link to the Past | 14.00% | ~260 |
 | A great audience | 12.00% | ~222 |
 | For its own good | 12.00% | ~222 |
 | Fashion victim | 7.00% | ~130 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,854 (Ranked 241)  
-Completed: 110 (5.93%) (Ranked 71)  
+Completed: 111 (5.99%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,6 +189,7 @@ Completed: 110 (5.93%) (Ranked 71)
 | 2023-12-24 | 1,732 | 99 |
 | 2023-12-25 | 1,793 | 105 |
 | 2023-12-26 | 1,854 | 110 |
+| 2023-12-27 | 1,854 | 111 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

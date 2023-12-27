@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 862)  
+Rating: 4.29 (Ranked 864)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 34.00% | ~37 |
 | Best Buddy | 27.00% | ~29 |
 | Civilian | 24.00% | ~26 |
-| Role Model | 21.00% | ~23 |
+| Role Model | 22.00% | ~24 |
 | Creator | 17.00% | ~19 |
 | Military Leader | 16.00% | ~17 |
 | Festival-goer | 15.00% | ~16 |

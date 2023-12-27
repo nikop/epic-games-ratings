@@ -1,48 +1,48 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.10 (Ranked 990)  
+Rating: 4.14 (Ranked 983)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~746 |
-| Trinity | 26.00% | ~340 |
-| A Taste of Wrath | 21.00% | ~275 |
-| Find Allies | 20.00% | ~262 |
-| I Found It | 20.00% | ~262 |
-| The Collector | 20.00% | ~262 |
-| Shatter Them All | 19.00% | ~249 |
-| Geared Up | 19.00% | ~249 |
-| Adventurer | 18.00% | ~235 |
-| Scholar | 18.00% | ~235 |
-| Fashion Victim | 17.00% | ~222 |
-| Stone Collection | 17.00% | ~222 |
-| Powerful Allies | 16.00% | ~209 |
-| Tributes of Caladrias | 16.00% | ~209 |
-| Big Bazar | 11.00% | ~144 |
+| Break Out | 57.00% | ~749 |
+| Trinity | 26.00% | ~342 |
+| A Taste of Wrath | 21.00% | ~276 |
+| Find Allies | 20.00% | ~263 |
+| The Collector | 20.00% | ~263 |
+| Shatter Them All | 19.00% | ~250 |
+| Geared Up | 19.00% | ~250 |
+| I Found It | 19.00% | ~250 |
+| Adventurer | 18.00% | ~237 |
+| Scholar | 18.00% | ~237 |
+| Fashion Victim | 17.00% | ~223 |
+| Stone Collection | 17.00% | ~223 |
+| Powerful Allies | 16.00% | ~210 |
+| Tributes of Caladrias | 16.00% | ~210 |
+| Big Bazar | 11.00% | ~145 |
 | Essence Blow | 10.00% | ~131 |
 | Alchemist | 10.00% | ~131 |
 | The Mentor | 7.00% | ~92 |
-| Calm before the Storm | 6.00% | ~78 |
-| Airborne | 6.00% | ~78 |
-| Miner | 6.00% | ~78 |
-| To Battle | 5.00% | ~65 |
-| Godslayer | 5.00% | ~65 |
+| Calm before the Storm | 6.00% | ~79 |
+| Airborne | 6.00% | ~79 |
+| Miner | 6.00% | ~79 |
+| To Battle | 5.00% | ~66 |
+| Godslayer | 5.00% | ~66 |
 | Clear Sight | 3.00% | ~39 |
 | Shatterer | 3.00% | ~39 |
 | Fine Feathers Make Fine Birds | 3.00% | ~39 |
 | Slayer | 2.00% | ~26 |
 | Flawless Victory | 2.00% | ~26 |
+| All There Is | 2.00% | ~26 |
 | A Queen's Tale | 2.00% | ~26 |
 | Shardbearer | 1.00% | ~13 |
-| All There Is | 1.00% | ~13 |
 | False God | 1.00% | ~13 |
 | Forgemaster | 0.90% | ~12 |
 | Summiter | 0.70% | ~9 |
 | All That Gold | 0.60% | ~8 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,308 (Ranked 265)  
+Progressed: 1,314 (Ranked 265)  
 Completed: 3 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,9 @@ Completed: 3 (0.23%) (Ranked 267)
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
+| 2023-12-27 | 1,314 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-25 | 4.10 | 0 | 0 |
+| 2023-12-27 | 4.14 | 0 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -492,9 +492,9 @@
       "ID": "13",
       "SetID": "41h3j82",
       "Name": "Barcelona Hidden Style",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "14",
@@ -548,9 +548,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "3",
@@ -604,9 +604,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
@@ -621,8 +621,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:03:57.0033079+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:03:20.3036281+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.2924165+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:57:40.2182397+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:03:57.0033254+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:23.5673915+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:03:20.3036584+00:00"
 }

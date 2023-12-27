@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 524,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-12-25T22:03:31.4887661+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T00:03:52.5369396+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -379,7 +384,7 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -459,7 +464,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -523,7 +528,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
       "UsersEstimate": 36
     },
@@ -539,7 +544,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -595,7 +600,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -612,14 +617,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:04:38.9451999+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:03:52.5369392+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.3523836+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:50.880114+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:04:38.9452286+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:14.1264468+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:03:52.5369613+00:00"
 }

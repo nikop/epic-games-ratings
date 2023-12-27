@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17513,
+  "EOS_Progressed": 17523,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15256,6 +15256,11 @@
       "Time": "2023-12-26T23:05:08.5374277+00:00",
       "NumProgressed": 17513,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T00:04:15.253446+00:00",
+      "NumProgressed": 17523,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15284,7 +15289,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "12",
@@ -15300,7 +15305,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "14",
@@ -15316,7 +15321,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "16",
@@ -15332,7 +15337,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "18",
@@ -15348,7 +15353,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "2",
@@ -15356,7 +15361,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "20",
@@ -15372,7 +15377,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "22",
@@ -15388,7 +15393,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "24",
@@ -15396,7 +15401,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "25",
@@ -15412,7 +15417,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "27",
@@ -15420,7 +15425,7 @@
       "Name": "Bosmang",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "28",
@@ -15444,7 +15449,7 @@
       "Name": "Captain Drummer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1928
     },
     {
       "ID": "30",
@@ -15468,7 +15473,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "6",
@@ -15476,7 +15481,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1928
     },
     {
       "ID": "7",
@@ -15500,7 +15505,7 @@
       "Name": "Impossible Objects",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "31",
@@ -15516,7 +15521,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "33",
@@ -15524,7 +15529,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "34",
@@ -15532,7 +15537,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "35",
@@ -15540,20 +15545,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17513,
+      "Progressed": 17523,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3467,
+      "Progressed": 3477,
       "Completed": 1065
     }
   ],
@@ -15561,8 +15566,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:05:08.5374274+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:04:15.2534456+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:00:39.0757077+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:05:08.537516+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:59:31.8076161+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:04:15.2535499+00:00"
 }

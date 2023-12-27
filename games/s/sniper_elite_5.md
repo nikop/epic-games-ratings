@@ -1,34 +1,34 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 676)  
+Rating: 4.45 (Ranked 677)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,940 |
-| Confirming Suspicions | 42.00% | ~1,734 |
-| The Kraken Wakes | 37.00% | ~1,527 |
+| Meeting Resistance | 47.00% | ~1,941 |
+| Confirming Suspicions | 42.00% | ~1,735 |
+| The Kraken Wakes | 37.00% | ~1,528 |
 | It's Starting to Crack | 34.00% | ~1,404 |
 | Lord of War | 31.00% | ~1,280 |
 | Change the Channel | 31.00% | ~1,280 |
-| Taking it back | 29.00% | ~1,197 |
+| Taking it back | 29.00% | ~1,198 |
 | Resourceful | 27.00% | ~1,115 |
 | Target America | 27.00% | ~1,115 |
 | The Kraken Sleeps | 25.00% | ~1,032 |
 | As Quiet as a Mouse | 24.00% | ~991 |
-| Liberté | 23.00% | ~949 |
-| Organ Grinder | 23.00% | ~949 |
-| Sharpshooter | 23.00% | ~949 |
-| Gunslinger | 19.00% | ~784 |
-| Explosive Efficiency | 19.00% | ~784 |
+| Liberté | 23.00% | ~950 |
+| Organ Grinder | 23.00% | ~950 |
+| Sharpshooter | 23.00% | ~950 |
+| Gunslinger | 19.00% | ~785 |
+| Explosive Efficiency | 19.00% | ~785 |
 | Climbing the Ladder | 17.00% | ~702 |
 | Just a Flesh Wound | 17.00% | ~702 |
 | Der Geist | 17.00% | ~702 |
-| Close Quarters | 16.00% | ~660 |
-| Snake in the Grass | 16.00% | ~660 |
-| Skirmisher | 15.00% | ~619 |
-| Die Nussknacker Sweet! | 15.00% | ~619 |
-| Brains of the Operation | 15.00% | ~619 |
+| Close Quarters | 16.00% | ~661 |
+| Snake in the Grass | 16.00% | ~661 |
+| Skirmisher | 15.00% | ~620 |
+| Die Nussknacker Sweet! | 15.00% | ~620 |
+| Brains of the Operation | 15.00% | ~620 |
 | No Stone Unturned | 14.00% | ~578 |
 | Opposing Force | 14.00% | ~578 |
 | Enemy at the Gates | 14.00% | ~578 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 676)
 | Stroll in the Woods | 0.60% | ~24 |
 | Going Overboard | 0.60% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,128 (Ranked 206)  
+Progressed: 4,130 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,6 +326,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-24 | 4,106 | 11 |
 | 2023-12-25 | 4,109 | 11 |
 | 2023-12-26 | 4,128 | 11 |
+| 2023-12-27 | 4,130 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 524)  
 Sum: 28 (Ranked 540)  

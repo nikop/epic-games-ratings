@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2860,
+  "EOS_Progressed": 2869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2939,6 +2939,11 @@
       "Time": "2023-12-26T23:06:22.9364207+00:00",
       "NumProgressed": 2860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T00:05:12.983344+00:00",
+      "NumProgressed": 2869,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -2959,7 +2964,7 @@
       "Name": "Done for Today",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -2975,7 +2980,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 803
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3015,7 +3020,7 @@
       "Name": "Terrible Journey",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -3055,7 +3060,7 @@
       "Name": "Worthy Badge",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3135,7 +3140,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 915
+      "UsersEstimate": 918
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3151,7 +3156,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3326,14 +3331,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2860,
+      "Progressed": 2869,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:06:22.9364204+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:05:12.9833437+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:02:45.7001835+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:06:22.9364592+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:00:27.053386+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:05:12.9833814+00:00"
 }

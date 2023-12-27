@@ -1231,9 +1231,9 @@
       "ID": "TheDeadCourt",
       "SetID": "329ak73",
       "Name": "The Dead Court",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheGardenofForkingPaths",
@@ -1263,9 +1263,9 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WickedKillington",
@@ -1287,8 +1287,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:30.539216+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:35.9376484+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.0736038+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:59:52.0521243+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:30.5392364+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:58.3335151+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:35.9376703+00:00"
 }

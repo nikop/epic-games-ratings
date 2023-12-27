@@ -2,12 +2,12 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
@@ -2932,6 +2932,6 @@
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
   "LastChanged": "2023-12-26T14:57:40.2979745+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.04104+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:27.83057+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:05:09.0916779+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:56.3665248+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:04:15.6672395+00:00"
 }

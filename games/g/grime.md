@@ -10,10 +10,10 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 2.00% | ~3,295 |
 | Imprint | 2.00% | ~3,295 |
 | Ravenous | 2.00% | ~3,295 |
-| Weeper | 1.00% | ~1,647 |
+| Weeper | 1.00% | ~1,648 |
 | Devourer | 0.70% | ~1,153 |
-| Harmless | 0.60% | ~988 |
-| Silenced Whispers | 0.60% | ~988 |
+| Harmless | 0.60% | ~989 |
+| Silenced Whispers | 0.60% | ~989 |
 | Feast | 0.50% | ~824 |
 | Yank | 0.50% | ~824 |
 | Sharpened Vessel | 0.50% | ~824 |
@@ -27,15 +27,15 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.30% | ~493 |
 | Celebration | 0.30% | ~494 |
 | Predator | 0.30% | ~494 |
-| Breath | 0.20% | ~329 |
-| Hunt Down | 0.20% | ~329 |
-| Artisan | 0.20% | ~329 |
-| Hush | 0.20% | ~329 |
-| Inevitable | 0.20% | ~329 |
-| All-Seeing | 0.20% | ~329 |
-| Breathsmith | 0.20% | ~329 |
-| Unwrap the Gift | 0.20% | ~329 |
-| Passage | 0.20% | ~329 |
+| Breath | 0.20% | ~330 |
+| Hunt Down | 0.20% | ~330 |
+| Artisan | 0.20% | ~330 |
+| Hush | 0.20% | ~330 |
+| Inevitable | 0.20% | ~330 |
+| All-Seeing | 0.20% | ~330 |
+| Breathsmith | 0.20% | ~330 |
+| Unwrap the Gift | 0.20% | ~330 |
+| Passage | 0.20% | ~330 |
 | Dream | 0.20% | ~329 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~165 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~164 |
 | Intensify | 0.10% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,741 (Ranked 81)  
+Progressed: 164,752 (Ranked 81)  
 Completed: 413 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 413 (0.25%) (Ranked 264)
 | 2023-12-24 | 164,303 | 399 |
 | 2023-12-25 | 164,530 | 406 |
 | 2023-12-26 | 164,741 | 413 |
+| 2023-12-27 | 164,752 | 413 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 426)  
 Sum: 426 (Ranked 344)  

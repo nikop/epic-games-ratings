@@ -1,39 +1,39 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 937)  
+Rating: 4.20 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,713 |
-| Battlefields Have Memories | 80.00% | ~1,575 |
-| Enlisted | 73.00% | ~1,437 |
-| Maybe Engage a Little | 68.00% | ~1,339 |
-| No More Names | 50.00% | ~984 |
-| Initiate | 35.00% | ~689 |
-| Thrada-Kul | 31.00% | ~610 |
-| Gravity-Challenged Rocks | 25.00% | ~492 |
-| Socialite | 23.00% | ~453 |
-| Soldier | 21.00% | ~413 |
-| All the Major Food Groups | 20.00% | ~394 |
-| Beggars Would Ride | 19.00% | ~374 |
+| Unforeseen | 87.00% | ~1,717 |
+| Battlefields Have Memories | 80.00% | ~1,578 |
+| Enlisted | 74.00% | ~1,460 |
+| Maybe Engage a Little | 68.00% | ~1,342 |
+| No More Names | 50.00% | ~986 |
+| Initiate | 35.00% | ~691 |
+| Thrada-Kul | 31.00% | ~612 |
+| Gravity-Challenged Rocks | 25.00% | ~493 |
+| Socialite | 23.00% | ~454 |
+| Soldier | 21.00% | ~414 |
+| All the Major Food Groups | 21.00% | ~414 |
+| Beggars Would Ride | 19.00% | ~375 |
 | Control is an Illusion | 17.00% | ~335 |
 | The Means to Save It | 14.00% | ~276 |
 | Resilience to Sin | 13.00% | ~256 |
-| A Familiar Nest | 12.00% | ~236 |
-| Geas Aristeya | 12.00% | ~236 |
-| Periapt Alizarin | 12.00% | ~236 |
+| A Familiar Nest | 12.00% | ~237 |
+| Geas Aristeya | 12.00% | ~237 |
+| Periapt Alizarin | 12.00% | ~237 |
 | A Perfect Cycle | 11.00% | ~217 |
 | Recruit | 10.00% | ~197 |
-| Armsman | 9.00% | ~177 |
+| Armsman | 9.00% | ~178 |
 | Lights Army | 7.00% | ~138 |
 | Periapt Cerulean | 6.00% | ~118 |
 | Good Boy | 6.00% | ~118 |
-| Best Dressed | 5.00% | ~98 |
-| Periapt Viridian | 5.00% | ~98 |
-| Shroudfane Explorer | 5.00% | ~98 |
+| Best Dressed | 5.00% | ~99 |
+| Periapt Viridian | 5.00% | ~99 |
+| Shroudfane Explorer | 5.00% | ~99 |
+| Kitted Out | 4.00% | ~79 |
 | Scholar | 3.00% | ~59 |
-| Kitted Out | 3.00% | ~59 |
 | Armaments Azure | 3.00% | ~59 |
 | Armaments Gules | 3.00% | ~59 |
 | Armaments Vert | 3.00% | ~59 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 937)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,969 (Ranked 239)  
+Progressed: 1,973 (Ranked 239)  
 Completed: 2 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 2 (0.10%) (Ranked 306)
 | 2023-12-24 | 1,789 | 2 |
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
+| 2023-12-27 | 1,973 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

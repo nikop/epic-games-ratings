@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,9 +276,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-12-26T23:09:35.9874255+00:00",
       "NumProgressed": 205,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T00:08:53.2189643+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1091,9 +1096,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1125,7 +1130,7 @@
       "Name": "Furon Fashion",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1205,7 +1210,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1219,9 +1224,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1229,7 +1234,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1237,7 +1242,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1259,9 +1264,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1269,7 +1274,7 @@
       "Name": "Kaijuiced",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1381,7 +1386,7 @@
       "Name": "Dusted",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1427,9 +1432,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1444,7 +1449,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 1
     }
   ],
@@ -1452,8 +1457,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:09:35.9874253+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:08:53.2189638+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:31.5230547+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:09:35.9874529+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:58.9410516+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:08:53.2189927+00:00"
 }

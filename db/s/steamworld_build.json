@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-12-26T17:04:42.5291958+00:00",
       "NumProgressed": 191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T00:03:40.8825569+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -784,7 +789,7 @@
       "Name": "Aristocratic",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Botropolis",
@@ -808,7 +813,7 @@
       "Name": "Conducted Trade",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "DiggingAHole",
@@ -816,7 +821,7 @@
       "Name": "Digging a Hole",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "DopaMiner",
@@ -824,7 +829,7 @@
       "Name": "Dopa-Miner",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GoingPlaces",
@@ -832,7 +837,7 @@
       "Name": "Going Places",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "GottaGoFast",
@@ -864,7 +869,7 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ManicMechanic",
@@ -872,15 +877,15 @@
       "Name": "Manic Mechanic",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "MineSweeper",
@@ -888,7 +893,7 @@
       "Name": "Mine Sweeper",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NothingButRoad",
@@ -910,9 +915,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "RoomToSpare",
@@ -928,7 +933,7 @@
       "Name": "Slotting Machine",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "StackOverflow",
@@ -944,7 +949,7 @@
       "Name": "Steam Powered",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SteamingRich",
@@ -960,7 +965,7 @@
       "Name": "Systematic",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TuttiFrutti",
@@ -976,15 +981,15 @@
       "Name": "Up, Up And Away!",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Whoa",
       "SetID": "4bd750m",
       "Name": "Whoa!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Yup",
@@ -999,14 +1004,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:04:23.7241898+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:03:40.8825565+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:37.7928974+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:04:23.7242112+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:03:04.2391229+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:03:40.8825774+00:00"
 }

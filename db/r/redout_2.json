@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1230,6 +1230,11 @@
       "Time": "2023-12-26T05:05:10.1964112+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T00:05:38.6467451+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1305,7 +1310,7 @@
       "Name": "Over the clouds",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ALLTRACKSFUJI",
@@ -1329,7 +1334,7 @@
       "Name": "Under the sea, under the sea",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ALLTRACKSMARS",
@@ -1385,7 +1390,7 @@
       "Name": "Even Faster!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CAREERCLASSB",
@@ -1481,7 +1486,7 @@
       "Name": "Longshot",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GOFAST",
@@ -1551,9 +1556,9 @@
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 334
     },
     {
       "ID": "ONEPAINT",
@@ -1561,7 +1566,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ONEPLATINUM",
@@ -1577,7 +1582,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1656,7 +1661,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 0
     }
   ],
@@ -1664,8 +1669,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:06:56.0413319+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:05:38.6467448+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.7211822+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:31.4177036+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:06:56.0413644+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:02:59.3870943+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:05:38.6467818+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3237,9 +3237,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 103
     },
     {
       "ID": "FloodedValley",
@@ -3598,8 +3598,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:04:55.0111888+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:04:04.7774093+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:59:57.4771992+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:04:55.0112337+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:59:02.3537895+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:04:04.777458+00:00"
 }

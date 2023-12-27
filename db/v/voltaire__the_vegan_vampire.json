@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 523,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -266,6 +266,11 @@
       "Time": "2023-12-22T19:07:19.6685547+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T00:04:41.9035891+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -299,15 +304,15 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 73
     },
@@ -317,7 +322,7 @@
       "Name": "C\u0027who?",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GET_PETS",
@@ -347,7 +352,7 @@
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 104
     },
@@ -403,9 +408,9 @@
       "ID": "KILL_GROVE",
       "SetID": "3c20ib3",
       "Name": "I am Root!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "KILL_HOGRIDER",
@@ -427,9 +432,9 @@
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "KILL_YEETUS",
@@ -453,7 +458,7 @@
       "Name": "It\u0027s about the journey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REACH_20",
@@ -469,7 +474,7 @@
       "Name": "There be sand in me shorts",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SNOWSCALE",
@@ -483,9 +488,9 @@
       "ID": "SOUTHERN",
       "SetID": "3c20ib3",
       "Name": "It gets everywhere",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "STRIKE",
@@ -499,7 +504,7 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -509,7 +514,7 @@
       "Name": "Irrigation not irritation",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "V_VEGAN",
@@ -524,7 +529,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
@@ -532,8 +537,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:05:42.6880583+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:04:41.9035885+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.7118084+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:57:11.5773696+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:05:42.6880739+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:03.4413077+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:04:41.9036098+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -609,9 +609,9 @@
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "dl3",
@@ -657,9 +657,9 @@
       "ID": "fw2",
       "SetID": "b1ggf28",
       "Name": "Administrator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "fw3",
@@ -913,9 +913,9 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "x3",
@@ -984,8 +984,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:06:53.5522687+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:05:36.6008785+00:00",
   "LastUpdate_AppInfo": "2023-12-20T04:56:56.1414311+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:17.2854639+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:06:53.5522979+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:02:48.8647705+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:05:36.6009079+00:00"
 }

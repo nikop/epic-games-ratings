@@ -39,9 +39,9 @@
 | Mage Teacher | 10.00% | ~8 |
 | A Master of Magic | 10.00% | ~8 |
 | Friend of Windholme | 10.00% | ~8 |
+| Defeat Gor | 8.00% | ~7 |
 | Yngrid's Tale | 8.00% | ~7 |
 | A Joke | 8.00% | ~7 |
-| Defeat Gor | 7.00% | ~6 |
 | Defeat Hokan | 7.00% | ~6 |
 | Defeat Uram | 7.00% | ~6 |
 | Elynn's Tale | 7.00% | ~6 |

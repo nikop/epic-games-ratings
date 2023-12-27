@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2556,6 +2556,11 @@
       "Time": "2023-12-26T01:53:34.1668757+00:00",
       "NumProgressed": 829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T00:09:53.8178193+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2639,7 +2644,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Goal",
@@ -2663,7 +2668,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -2711,7 +2716,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NoMoreWards",
@@ -2727,7 +2732,7 @@
       "Name": "Queen",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Rats",
@@ -2767,7 +2772,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ToadCharming",
@@ -2807,7 +2812,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "YagaProfessional",
@@ -2822,7 +2827,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 1
     }
   ],
@@ -2830,8 +2835,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:53.0572388+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:53.8178191+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.4651467+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:02:50.8856666+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:53.0572637+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:00:30.7362143+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:53.8178468+00:00"
 }

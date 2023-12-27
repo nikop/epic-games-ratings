@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -627,9 +627,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:06:47.3153428+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:05:31.4242479+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:13.0376587+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:01:28.1149584+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:06:47.3153609+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:00:04.4309146+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:05:31.4242745+00:00"
 }

@@ -413,9 +413,9 @@
       "ID": "ACH_012",
       "SetID": "7b646ck",
       "Name": "Well-acquainted",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_013",
@@ -445,9 +445,9 @@
       "ID": "ACH_016",
       "SetID": "7b646ck",
       "Name": "Truth from within",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_017",
@@ -525,9 +525,9 @@
       "ID": "ACH_025",
       "SetID": "7b646ck",
       "Name": "A curious phrase",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_026",
@@ -581,9 +581,9 @@
       "ID": "ACH_031",
       "SetID": "7b646ck",
       "Name": "Anastasia Babanin",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_032",
@@ -661,9 +661,9 @@
       "ID": "ACH_040",
       "SetID": "7b646ck",
       "Name": "Johan Kristiansen",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_041",
@@ -733,9 +733,9 @@
       "ID": "ACH_07",
       "SetID": "7b646ck",
       "Name": "The Suspects",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_08",
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:18.4533331+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:26.553811+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:48.4944464+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:18.4533593+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:12.4783958+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:26.5538395+00:00"
 }

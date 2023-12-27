@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -444,9 +444,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 214,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-12-26T23:08:55.5210612+00:00",
       "NumProgressed": 212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T00:08:22.1716266+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -966,7 +971,7 @@
       "Name": "Unbreakable Will",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -982,7 +987,7 @@
       "Name": "Purity of Power",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Collect_AdamantineSmall_30",
@@ -990,7 +995,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1014,7 +1019,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1022,7 +1027,7 @@
       "Name": "Increased Capacity",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1038,15 +1043,15 @@
       "Name": "Increased Vigor",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1054,15 +1059,15 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1070,7 +1075,7 @@
       "Name": "Freeze Frame",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -1078,7 +1083,7 @@
       "Name": "Perfect Storm",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1086,7 +1091,7 @@
       "Name": "Soul Harvester",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1110,7 +1115,7 @@
       "Name": "A Parting Gift",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Collect_Weapon_Crossblade",
@@ -1118,15 +1123,15 @@
       "Name": "Salvation",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1134,7 +1139,7 @@
       "Name": "Balance in all things",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Craft_Enhancement_First",
@@ -1142,7 +1147,7 @@
       "Name": "Enhance!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1174,7 +1179,7 @@
       "Name": "\u0022Impressive!\u0022",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Crucible_Wave_50",
@@ -1230,7 +1235,7 @@
       "Name": "Keeper of Colossal Automata",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Keeper_Kill_Flame",
@@ -1254,7 +1259,7 @@
       "Name": "Keeper of the Tempo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Keeper_Kill_Storm",
@@ -1270,15 +1275,15 @@
       "Name": "Demon Meddler",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1286,7 +1291,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1302,7 +1307,7 @@
       "Name": "All That Glitters",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1316,9 +1321,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1326,7 +1331,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1334,23 +1339,23 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1358,7 +1363,7 @@
       "Name": "Seeing Red",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Level_Up_100",
@@ -1374,7 +1379,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Save_Humans_10",
@@ -1414,15 +1419,15 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1446,7 +1451,7 @@
       "Name": "BFA",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Upgrade_Armor_First",
@@ -1462,7 +1467,7 @@
       "Name": "Just the start",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1477,15 +1482,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 214,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:08:55.5210609+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:08:22.1716262+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:28.659718+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:08:55.5211092+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:56.9298072+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:08:22.1716765+00:00"
 }

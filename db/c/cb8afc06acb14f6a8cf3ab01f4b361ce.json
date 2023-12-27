@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 929,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 55,
@@ -449,9 +449,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 335853,
+  "EOS_Progressed": 335872,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4276,
+  "EOS_NewPlayers": 4277,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11094,6 +11094,11 @@
       "Time": "2023-12-26T23:09:09.0000369+00:00",
       "NumProgressed": 335853,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T00:08:32.291593+00:00",
+      "NumProgressed": 335872,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11106,7 +11111,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13434
+      "UsersEstimate": 13435
     },
     {
       "ID": "S02_BRDA",
@@ -11242,7 +11247,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13434
+      "UsersEstimate": 13435
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11425,7 +11430,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 335853,
+      "Progressed": 335872,
       "Completed": 7
     }
   ],
@@ -11433,8 +11438,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-26T17:02:24.775583+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:09:09.0000366+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:08:32.2915927+00:00",
   "LastUpdate_AppInfo": "2023-12-21T21:57:06.8306267+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:57:11.2399092+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:09:09.0001165+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:03.191469+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:08:32.291687+00:00"
 }

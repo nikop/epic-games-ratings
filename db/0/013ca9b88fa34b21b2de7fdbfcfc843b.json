@@ -235,7 +235,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8692,
+  "EOS_Progressed": 8693,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -9170,6 +9170,11 @@
       "Time": "2023-12-26T23:10:56.5899454+00:00",
       "NumProgressed": 8692,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T00:09:56.795435+00:00",
+      "NumProgressed": 8693,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9212,9 +9217,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 78
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9228,9 +9233,9 @@
       "ID": "CHAPTER_7_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Flaming Hot Completos",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 43
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -9525,13 +9530,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8692,
+      "Progressed": 8693,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1309,
+      "Progressed": 1310,
       "Completed": 1050
     }
   ],
@@ -9539,8 +9544,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:56.5899451+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:56.7954347+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:40.8971254+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:56.5899995+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:03:06.5606225+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:56.795501+00:00"
 }

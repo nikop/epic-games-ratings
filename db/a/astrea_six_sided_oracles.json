@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1746,9 +1746,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "EridanianHero",
@@ -1825,8 +1825,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:08:57.0381189+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:08:23.4208694+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:01.1653156+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:08:57.0382002+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:02:39.0704478+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:08:23.4209899+00:00"
 }

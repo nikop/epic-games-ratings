@@ -60,7 +60,7 @@ Rating: 4.52 (Ranked 564)
 | Bughunter | 0.80% | ~48 |
 | Pro gamer | 0.70% | ~42 |
 | Naysayer | 0.60% | ~36 |
-| Manhattan Project | 0.50% | ~30 |
+| Manhattan Project | 0.60% | ~36 |
 | Fair Exchange | 0.50% | ~30 |
 | Miracle | 0.30% | ~18 |
 | Tora! Tora! Tora! | 0.20% | ~12 |

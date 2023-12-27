@@ -14,12 +14,12 @@ Number of Ratings: 67  (23.09.2022)
 | Hell's Forge | 0.80% | ~2 |
 | Master of Strife | 0.80% | ~2 |
 | Master of War | 0.80% | ~2 |
+| The Dead Court | 0.80% | ~2 |
+| Why'd It Have to Be Snakes? | 0.80% | ~2 |
 | Demolition Derby | 0.40% | ~1 |
 | Good Deeds | 0.40% | ~1 |
 | Infested | 0.40% | ~1 |
 | Mint II | 0.40% | ~1 |
-| The Dead Court | 0.40% | ~1 |
-| Why'd It Have to Be Snakes? | 0.40% | ~1 |
 | A Bullet for All Seasons | 0.00% | ~0 |
 | Are You Not Entertained? | 0.00% | ~0 |
 | Belial | 0.00% | ~0 |

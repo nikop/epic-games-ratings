@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -317,9 +317,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 11774,
+  "EOS_Progressed": 11775,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1296,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8037,6 +8037,11 @@
       "Time": "2023-12-26T23:10:50.7246543+00:00",
       "NumProgressed": 11774,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-27T00:09:51.8341366+00:00",
+      "NumProgressed": 11775,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8097,7 +8102,7 @@
       "Name": "Eavesdropper",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ExplosivePersonality",
@@ -8121,7 +8126,7 @@
       "Name": "First Time?",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 5769
+      "UsersEstimate": 5770
     },
     {
       "ID": "FuneralForTheDeath",
@@ -8201,7 +8206,7 @@
       "Name": "No More Totems",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "NotLikeTheOthers",
@@ -8217,7 +8222,7 @@
       "Name": "One-Star Man",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ScorchSquad",
@@ -8249,7 +8254,7 @@
       "Name": "The Quarterback",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "ThisIsDharma",
@@ -8265,7 +8270,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "UnResurrected",
@@ -8273,7 +8278,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -8297,7 +8302,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -8320,7 +8325,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 11774,
+      "Progressed": 11775,
       "Completed": 21
     }
   ],
@@ -8328,8 +8333,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-25T14:58:18.7859692+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:10:50.7246535+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:09:51.8341362+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.4547373+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:59:33.7028984+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:10:50.7246977+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:45.1531631+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:09:51.8341908+00:00"
 }

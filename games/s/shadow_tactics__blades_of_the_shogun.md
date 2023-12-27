@@ -1,12 +1,12 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 282)  
+Rating: 4.67 (Ranked 283)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,626 |
+| Genin | 12.00% | ~26,627 |
 | A thief's beginning | 11.00% | ~24,408 |
 | Thorough | 11.00% | ~24,408 |
 | Disguised | 9.00% | ~19,970 |
@@ -19,17 +19,17 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~15,532 |
 | Mugen Unchained | 7.00% | ~15,532 |
 | Yabu | 7.00% | ~15,532 |
-| Chunin | 6.00% | ~13,313 |
-| Flying Rocks | 6.00% | ~13,313 |
-| Warzone | 6.00% | ~13,313 |
-| Happy little accidents | 5.00% | ~11,094 |
-| Okkoto | 5.00% | ~11,094 |
-| Prisoners | 5.00% | ~11,094 |
-| Too Early | 5.00% | ~11,094 |
-| Gear up | 4.00% | ~8,875 |
-| Noboru | 4.00% | ~8,875 |
-| Still Rollin' | 4.00% | ~8,875 |
-| Stoned | 4.00% | ~8,875 |
+| Chunin | 6.00% | ~13,314 |
+| Flying Rocks | 6.00% | ~13,314 |
+| Warzone | 6.00% | ~13,314 |
+| Happy little accidents | 5.00% | ~11,095 |
+| Okkoto | 5.00% | ~11,095 |
+| Prisoners | 5.00% | ~11,095 |
+| Too Early | 5.00% | ~11,095 |
+| Gear up | 4.00% | ~8,876 |
+| Noboru | 4.00% | ~8,876 |
+| Still Rollin' | 4.00% | ~8,876 |
+| Stoned | 4.00% | ~8,876 |
 | It's raining men | 3.00% | ~6,657 |
 | The Old Way | 3.00% | ~6,657 |
 | Atheist Ox | 2.00% | ~4,438 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~222 |
 | Release the Kraken | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,887 (Ranked 76)  
+Progressed: 221,892 (Ranked 76)  
 Completed: 102 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 102 (0.05%) (Ranked 336)
 | 2023-12-24 | 221,429 | 102 |
 | 2023-12-25 | 221,660 | 102 |
 | 2023-12-26 | 221,887 | 102 |
+| 2023-12-27 | 221,892 | 102 |
 ## Awards
 Max (Great for Beginners): 589  (Ranked 203)  
 Sum: 4,927 (Ranked 146)  

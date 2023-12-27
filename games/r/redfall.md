@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.58 (Ranked 1,068)  
+Rating: 3.58 (Ranked 1,069)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,9 +19,9 @@ Rating: 3.58 (Ranked 1,068)
 | Sucks To Be You | 6.00% | ~125 |
 | Enter of Your Own Free Will | 5.00% | ~104 |
 | Heart Attack | 5.00% | ~104 |
-| Bad Wiring | 4.00% | ~83 |
-| Grounded | 4.00% | ~83 |
-| Skin of Their Teeth | 4.00% | ~83 |
+| Bad Wiring | 4.00% | ~84 |
+| Grounded | 4.00% | ~84 |
+| Skin of Their Teeth | 4.00% | ~84 |
 | Neighborhood Revitalization | 3.00% | ~63 |
 | Radio Silence | 3.00% | ~63 |
 | Sic Transit Umbra | 2.00% | ~42 |
@@ -41,12 +41,12 @@ Rating: 3.58 (Ranked 1,068)
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 1.00% | ~21 |
+| Right This Way | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
-| Right This Way | 0.60% | ~13 |
+| Neighborhood Watch | 0.50% | ~10 |
 | What Lies Below | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
-| Neighborhood Watch | 0.40% | ~8 |
 | Blood Brother | 0.40% | ~8 |
 | Sisterhood | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,068)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,087 (Ranked 237)  
+Progressed: 2,089 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
+| 2023-12-27 | 2,089 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

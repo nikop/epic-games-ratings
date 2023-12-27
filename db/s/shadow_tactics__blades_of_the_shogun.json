@@ -2,13 +2,13 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2386,9 +2386,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 221887,
+  "EOS_Progressed": 221892,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1545,
+  "EOS_NewPlayers": 1547,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31176,6 +31176,11 @@
       "Time": "2023-12-26T23:04:59.8984692+00:00",
       "NumProgressed": 221887,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-27T00:04:08.4501701+00:00",
+      "NumProgressed": 221892,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31211,7 +31216,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13313
+      "UsersEstimate": 13314
     },
     {
       "ID": "CompleteMastery",
@@ -31243,7 +31248,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13313
+      "UsersEstimate": 13314
     },
     {
       "ID": "GearUp",
@@ -31251,7 +31256,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "Genin",
@@ -31259,7 +31264,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26626
+      "UsersEstimate": 26627
     },
     {
       "ID": "HappyLittleAccidents",
@@ -31267,7 +31272,7 @@
       "Name": "Happy little accidents",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11094
+      "UsersEstimate": 11095
     },
     {
       "ID": "HappyPlanning",
@@ -31355,7 +31360,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "Okkoto",
@@ -31363,7 +31368,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11094
+      "UsersEstimate": 11095
     },
     {
       "ID": "OldMan",
@@ -31387,7 +31392,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11094
+      "UsersEstimate": 11095
     },
     {
       "ID": "ReleaseTheKraken",
@@ -31419,7 +31424,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "Stoned",
@@ -31427,7 +31432,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "StonedOx",
@@ -31499,7 +31504,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11094
+      "UsersEstimate": 11095
     },
     {
       "ID": "Warzone",
@@ -31507,7 +31512,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13313
+      "UsersEstimate": 13314
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -31538,15 +31543,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 221887,
+      "Progressed": 221892,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-23T16:58:01.6948832+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:04:59.8984687+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:04:08.4501697+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:00:26.7243569+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:04:59.8986014+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:59:23.1818377+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:04:08.450293+00:00"
 }

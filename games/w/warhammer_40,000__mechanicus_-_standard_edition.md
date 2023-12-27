@@ -1,22 +1,22 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 705)  
+Rating: 4.43 (Ranked 706)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No aid from the Omnissiah | 26.00% | ~59,946 |
-| This is only the beginning | 20.00% | ~46,112 |
+| This is only the beginning | 20.00% | ~46,113 |
 | Knowledge is power | 13.00% | ~29,973 |
 | Galvanic Rifle | 10.00% | ~23,056 |
 | Radium Ready | 10.00% | ~23,056 |
-| Power Ranger | 9.00% | ~20,750 |
-| Taser Goad | 9.00% | ~20,750 |
-| Half a cog | 9.00% | ~20,750 |
+| Power Ranger | 9.00% | ~20,751 |
+| Taser Goad | 9.00% | ~20,751 |
+| Half a cog | 9.00% | ~20,751 |
 | Watch them crumble | 6.00% | ~13,834 |
-| Competent Cohort | 4.00% | ~9,222 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,222 |
-| One with the Machine | 4.00% | ~9,222 |
+| Competent Cohort | 4.00% | ~9,223 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,223 |
+| One with the Machine | 4.00% | ~9,223 |
 | Legio Cybernetica | 3.00% | ~6,917 |
 | Fleshy Disposal | 3.00% | ~6,917 |
 | Battle Servitor | 2.00% | ~4,611 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 705)
 | Impatient destruction | 2.00% | ~4,611 |
 | Vivisected Vizier | 2.00% | ~4,611 |
 | Architect Abortion | 2.00% | ~4,611 |
-| Cohortus Maximus | 0.80% | ~1,844 |
+| Cohortus Maximus | 0.80% | ~1,845 |
 | Mother of Xenarites | 0.40% | ~922 |
 | False God | 0.30% | ~692 |
 | Hard | 0.20% | ~461 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 705)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,560 (Ranked 74)  
+Progressed: 230,563 (Ranked 74)  
 Completed: 5 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,9 +291,10 @@ Completed: 5 (0.00%) (Ranked 389)
 | 2023-12-24 | 230,358 | 5 |
 | 2023-12-25 | 230,456 | 5 |
 | 2023-12-26 | 230,560 | 5 |
+| 2023-12-27 | 230,563 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 261)  
-Sum: 2,216 (Ranked 209)  
+Sum: 2,217 (Ranked 209)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -305,7 +306,7 @@ Diff (max vs sum): 52
 | This game has Amazing Storytelling | 252 |
 | This game is Relaxing | 245 |
 | This game has Unique Visuals | 217 |
-| This game has a Creative Community | 101 |
+| This game has a Creative Community | 102 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -419,3 +420,4 @@ Diff (max vs sum): 52
 | 2023-12-16 | 4.43 | 291 | 2,213 |
 | 2023-12-18 | 4.43 | 291 | 2,214 |
 | 2023-12-25 | 4.43 | 291 | 2,216 |
+| 2023-12-26 | 4.43 | 291 | 2,217 |

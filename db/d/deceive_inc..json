@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19172,
+  "EOS_Progressed": 19173,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -14114,6 +14114,11 @@
       "Time": "2023-12-26T23:06:14.4399114+00:00",
       "NumProgressed": 19172,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-27T00:05:06.0506419+00:00",
+      "NumProgressed": 19173,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14261,7 +14266,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "0019",
@@ -14412,7 +14417,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19172,
+      "Progressed": 19173,
       "Completed": 4
     }
   ],
@@ -14420,8 +14425,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:06:14.4399111+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:05:06.0506415+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:57:31.0472354+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:06:14.4399755+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:57:17.137174+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:05:06.050723+00:00"
 }

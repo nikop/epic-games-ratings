@@ -23,17 +23,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 5.00% | ~640 |
 | The Legacy | 5.00% | ~640 |
 | Voice from Your Dreams | 5.00% | ~640 |
-| A Flame | 5.00% | ~640 |
 | Next-Door Play | 5.00% | ~640 |
 | Get the Toad | 5.00% | ~640 |
 | Heart of the Fallen Land | 4.00% | ~512 |
 | Divide and Rule | 4.00% | ~512 |
 | Mythic Reinforcements | 4.00% | ~512 |
+| A Flame | 4.00% | ~512 |
 | Hey, I Know You! | 4.00% | ~512 |
 | Path of the Trickster | 3.00% | ~384 |
 | Path of the Lich | 3.00% | ~384 |
 | Heroic Victory | 3.00% | ~384 |
-| Capitulation Is Now Moot | 3.00% | ~384 |
 | Core of the Riddle | 3.00% | ~384 |
 | Hanged Man's Notes | 3.00% | ~347 |
 | Sarkoris Will Be Green | 3.00% | ~347 |
@@ -41,6 +40,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Beware Still Water | 3.00% | ~347 |
 | Path of the Demon | 2.00% | ~256 |
 | Path of the Aeon | 2.00% | ~256 |
+| Capitulation Is Now Moot | 2.00% | ~256 |
 | Your First Big Enemy | 2.00% | ~256 |
 | Truly Important Deed | 2.00% | ~256 |
 | Stay Underground | 2.00% | ~232 |
@@ -375,9 +375,9 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 12,766 | 0 |
 | 2023-12-26 | 12,801 | 0 |
 ## Awards
-Max (Character Customization): 1,772  (Ranked 124)  
+Max (Character Customization): 1,772  (Ranked 125)  
 Sum: 7,169 (Ranked 123)  
-Diff (max vs sum): 1  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,772 |

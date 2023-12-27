@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,952 |
-| Off to a good start | 63.00% | ~1,397 |
-| Do... or do not. There is no try | 52.00% | ~1,153 |
+| New Recruit | 88.00% | ~1,954 |
+| Off to a good start | 63.00% | ~1,399 |
+| Do... or do not. There is no try | 52.00% | ~1,154 |
 | A good blaster at your side | 26.00% | ~577 |
-| I suggest a new strategy | 18.00% | ~399 |
+| I suggest a new strategy | 18.00% | ~400 |
 | Scrap collector | 16.00% | ~355 |
 | Great shot, kid! | 16.00% | ~355 |
 | All right, I'll give it a try | 15.00% | ~333 |
-| The power of the Force | 13.00% | ~288 |
-| Shoot first | 13.00% | ~288 |
+| The power of the Force | 13.00% | ~289 |
+| Shoot first | 13.00% | ~289 |
 | Collector | 12.00% | ~266 |
 | Together we can rule the galaxy | 12.00% | ~266 |
 | Tell Jabba that I've got his money | 9.00% | ~200 |
-| Best star-pilot in the galaxy | 8.00% | ~177 |
-| Survivor | 8.00% | ~177 |
+| Best star-pilot in the galaxy | 8.00% | ~178 |
+| Survivor | 8.00% | ~178 |
 | Never tell me the odds! | 7.00% | ~155 |
 | A cunning warrior | 7.00% | ~155 |
 | What's the cargo? | 6.00% | ~133 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,218 (Ranked 233)  
+Progressed: 2,220 (Ranked 233)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
+| 2023-12-27 | 2,220 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

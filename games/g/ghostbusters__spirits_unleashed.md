@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 605)
 | ---- | ---------- | ----- |
 | Stylish | 10.00% | ~3,276 |
 | Meticulously Efficient | 8.00% | ~2,621 |
-| Advancement | 7.00% | ~2,293 |
+| Advancement | 7.00% | ~2,294 |
 | Discovery | 6.00% | ~1,966 |
 | Solo Capture | 6.00% | ~1,966 |
 | Swift Rift Removers | 6.00% | ~1,966 |
@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 605)
 | Fully Upgraded | 5.00% | ~1,638 |
 | Teamwork | 5.00% | ~1,638 |
 | Vaporous Expansion | 5.00% | ~1,638 |
-| Clutch Capture | 4.00% | ~1,310 |
-| Cultured | 4.00% | ~1,310 |
-| Daily Dose | 4.00% | ~1,310 |
-| Ghostbuster In Training | 4.00% | ~1,310 |
-| There you are! | 4.00% | ~1,310 |
-| Whoopsie | 4.00% | ~1,310 |
+| Clutch Capture | 4.00% | ~1,311 |
+| Cultured | 4.00% | ~1,311 |
+| Daily Dose | 4.00% | ~1,311 |
+| Ghostbuster In Training | 4.00% | ~1,311 |
+| There you are! | 4.00% | ~1,311 |
+| Whoopsie | 4.00% | ~1,311 |
 | Animated | 3.00% | ~983 |
 | Back Off | 3.00% | ~983 |
 | We have the best insurance | 3.00% | ~983 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 605)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,761 (Ranked 133)  
+Progressed: 32,765 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-24 | 32,658 | 69 |
 | 2023-12-25 | 32,706 | 70 |
 | 2023-12-26 | 32,761 | 70 |
+| 2023-12-27 | 32,765 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 252)  
 Sum: 2,929 (Ranked 182)  

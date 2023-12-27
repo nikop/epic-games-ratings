@@ -681,9 +681,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 62786,
+  "EOS_Progressed": 62791,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1692,
+  "EOS_NewPlayers": 1694,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14681,6 +14681,11 @@
       "Time": "2023-12-26T23:08:41.9526913+00:00",
       "NumProgressed": 62786,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-27T00:06:32.4061027+00:00",
+      "NumProgressed": 62791,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14717,7 +14722,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8790
+      "UsersEstimate": 8791
     },
     {
       "ID": "BAD_END",
@@ -14765,7 +14770,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "DEAD_MAN",
@@ -14805,7 +14810,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13813
+      "UsersEstimate": 13814
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -14813,7 +14818,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -14845,7 +14850,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "GREAT_SORCERER",
@@ -14869,7 +14874,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 8790
+      "UsersEstimate": 8791
     },
     {
       "ID": "HERBS_2",
@@ -14893,7 +14898,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 18208
+      "UsersEstimate": 18209
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -14925,7 +14930,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "NEW_SPIRITS",
@@ -14941,7 +14946,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7534
+      "UsersEstimate": 7535
     },
     {
       "ID": "NORMAL_END",
@@ -14949,7 +14954,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "OLD_SPIRITS",
@@ -15005,7 +15010,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "TALES_1",
@@ -15013,7 +15018,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "TALES_2",
@@ -15037,7 +15042,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "WATER",
@@ -15069,7 +15074,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10046
+      "UsersEstimate": 10047
     },
     {
       "ID": "ZNATKOST_2",
@@ -15092,15 +15097,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 62786,
+      "Progressed": 62791,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-26T15:58:19.0277627+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:08:41.9526911+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:06:32.4061024+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.3063117+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:52.6757109+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:08:41.9528061+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:15.365434+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:06:32.4062122+00:00"
 }

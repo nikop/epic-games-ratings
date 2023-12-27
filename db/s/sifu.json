@@ -8517,9 +8517,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 745555,
+  "EOS_Progressed": 745565,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 9260,
+  "EOS_NewPlayers": 9253,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31062,6 +31062,11 @@
       "Time": "2023-12-26T23:09:35.4600101+00:00",
       "NumProgressed": 745555,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-27T00:08:52.7850523+00:00",
+      "NumProgressed": 745565,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31073,7 +31078,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29822
+      "UsersEstimate": 29823
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31233,7 +31238,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31552,21 +31557,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 54856,
+      "Progressed": 54866,
       "Completed": 10786
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 745555,
+      "Progressed": 745565,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-26T07:03:04.8368452+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:09:35.4600099+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:08:52.7850511+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-26T23:03:23.914594+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:09:35.4601264+00:00"
+  "LastUpdate_Ratings": "2023-12-27T00:02:53.770094+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:08:52.7851902+00:00"
 }

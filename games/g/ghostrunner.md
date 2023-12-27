@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~19,137 |
-| Sword Runner | 61.00% | ~15,360 |
-| Running out of breath | 53.00% | ~13,345 |
-| Wallrunner | 53.00% | ~13,345 |
-| Homerunner | 44.00% | ~11,079 |
-| Out of order | 44.00% | ~11,079 |
-| I call it luck | 43.00% | ~10,827 |
-| Where are my Keys? | 40.00% | ~10,072 |
-| Back to hell | 36.00% | ~9,065 |
+| Longrunner | 76.00% | ~19,138 |
+| Sword Runner | 61.00% | ~15,361 |
+| Running out of breath | 53.00% | ~13,346 |
+| Wallrunner | 53.00% | ~13,346 |
+| Homerunner | 44.00% | ~11,080 |
+| Out of order | 44.00% | ~11,080 |
+| I call it luck | 43.00% | ~10,828 |
+| Where are my Keys? | 40.00% | ~10,073 |
+| Back to hell | 36.00% | ~9,066 |
 | Perfection | 32.00% | ~8,058 |
-| Sword to a gunfight | 29.00% | ~7,302 |
-| Upgrades not mandatory | 29.00% | ~7,302 |
-| Why not both | 29.00% | ~7,302 |
+| Sword to a gunfight | 29.00% | ~7,303 |
+| Upgrades not mandatory | 29.00% | ~7,303 |
+| Why not both | 29.00% | ~7,303 |
 | Artificial selection | 27.00% | ~6,799 |
 | Control freak | 27.00% | ~6,799 |
 | Running Wild | 26.00% | ~6,547 |
-| Finish line | 25.00% | ~6,295 |
+| Finish line | 25.00% | ~6,296 |
 | Unstoppable force | 22.00% | ~5,540 |
 | Wave of mutilation | 21.00% | ~5,288 |
 | Can't Run Can't Hide | 16.00% | ~4,029 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | GR Project Complete | 0.40% | ~101 |
 | Up Close And Personal | 0.40% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,180 (Ranked 142)  
+Progressed: 25,182 (Ranked 142)  
 Completed: 98 (0.39%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 98 (0.39%) (Ranked 235)
 | 2023-12-24 | 25,020 | 95 |
 | 2023-12-25 | 25,095 | 95 |
 | 2023-12-26 | 25,180 | 98 |
+| 2023-12-27 | 25,182 | 98 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
 Sum: 716 (Ranked 302)  

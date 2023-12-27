@@ -1066,9 +1066,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "earn_all_trophies",
@@ -1377,8 +1377,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-26T23:08:40.0208336+00:00",
+  "LastChanged_Achievements": "2023-12-27T00:06:30.9625431+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-26T22:58:46.8944119+00:00",
-  "LastUpdate_Achievements": "2023-12-26T23:08:40.0208815+00:00"
+  "LastUpdate_Ratings": "2023-12-26T23:58:11.2788357+00:00",
+  "LastUpdate_Achievements": "2023-12-27T00:06:30.9625785+00:00"
 }
